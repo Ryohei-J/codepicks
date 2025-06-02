@@ -1,75 +1,159 @@
 [
   {
+    "site": "Hatena",
+    "title": "ワンバイナリWebサービスのススメ",
+    "link": "https://speakerdeck.com/mackee/wanbainariwebsabisunosusume",
+    "pubDate": "2025-06-02T07:36:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天証券、追加認証の必須化で一部にトラブルか　「無限ループ」「ログインできん」",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/02/news066.html",
+    "pubDate": "2025-06-02T04:02:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PCの起動にかかった時間を丸裸にするフリーソフト「BootPerformanceView」／カーネル、ドライバー、デバイス……それぞれの初期化にかかった時間を詳細に【レビュー】",
+    "link": "https://forest.watch.impress.co.jp/docs/review/2018931.html",
+    "pubDate": "2025-06-02T02:45:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "FastAPI on Dockerがかなりシンプルになった(2025年版) | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20250602a/",
+    "pubDate": "2025-06-02T02:26:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【進化の軌跡】menuフロントエンド技術スタックの変遷（2021秋 → 2025夏）",
+    "link": "https://qiita.com/kazuhiko_fujisaki/items/bc52ecd07738991904b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-02T01:30:37.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Remote TestKitとBrowserStackの比較",
+    "link": "https://qiita.com/s-yoshina/items/853158b75ca954e47a95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-02T01:11:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "PHPでTOTPを用いた2要素認証を導入する方法",
+    "link": "https://qiita.com/gawa32/items/3a99f77874260169215c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-02T00:03:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTの“彼女”と大げんかして、Geminiに乗り換えた (1/6)",
+    "link": "https://ascii.jp/elem/000/004/278/4278732/",
+    "pubDate": "2025-06-01T23:21:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "言葉しかないやつら",
+    "link": "https://blog.tinect.jp/?p=89680",
+    "pubDate": "2025-06-01T23:17:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "TOPTONの産業用ミニPCで10Gbps対応ルーターを自作！ Proxmox VE+OpenWrtを入れてフレッツ 光クロス回線で使う【イニシャルB】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2017994.html",
+    "pubDate": "2025-06-01T21:58:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Amazon BedrockでClaude 4を使用するときのmax_tokensについて",
+    "link": "https://zenn.dev/ran_21050/articles/ef35d0c2bdf632",
+    "pubDate": "Sun, 01 Jun 2025 17:51:39 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Unity製アプリを作る時のアーキテクチャをどこまで区切るか、あるいはレイヤードアーキテクチャの一指針",
+    "link": "https://zenn.dev/izm/articles/2478583453b235",
+    "pubDate": "Sun, 01 Jun 2025 15:08:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "🐟Vimのtabpanelで遊んでみた",
+    "link": "https://zenn.dev/utubo/articles/20250602-play-tabpanel",
+    "pubDate": "Sun, 01 Jun 2025 15:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "viのようなTUIエディタを作ってみる",
+    "link": "https://zenn.dev/razokulover/articles/3ff996903f8b0c",
+    "pubDate": "Sun, 01 Jun 2025 13:30:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "A2Aのチュートリアルを解説しつつ完走してみる",
+    "link": "https://zenn.dev/yokomachi/articles/20250417_tutorial_a2a",
+    "pubDate": "Sun, 01 Jun 2025 12:44:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": ".d.tsファイルをちゃんと使うために必要な知識",
+    "link": "https://zenn.dev/uhyo/articles/use-d-ts-correctly",
+    "pubDate": "Sun, 01 Jun 2025 11:48:17 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "コーディングエージェントの現状の整理とエンジニアの仕事の変化について",
+    "link": "https://azukiazusa.dev/blog/coding-agents-and-developers-work/",
+    "pubDate": "2025-06-01T11:03:55.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI コーディングエージェント徹底比較：Google Jules、OpenAI Codex、Anthropic Claude Code Action",
+    "link": "https://qiita.com/shioccii/items/8842842597d2b6cd0f01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-01T08:36:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "宣言的UI設計の本質──Flutter & Riverpodで学ぶ現代的状態管理",
+    "link": "https://zenn.dev/sora382/books/19280cf9bec318",
+    "pubDate": "Sun, 01 Jun 2025 06:50:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ソースコード & ドキュメントに対応したGraph RAGの実装（Tree-sitter + LightRAG）",
+    "link": "https://zenn.dev/yumefuku/articles/llm-code-graphrag",
+    "pubDate": "Sun, 01 Jun 2025 04:48:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GORM がジェネリクス対応したので早速使ってみた",
+    "link": "https://zenn.dev/ss49919201/articles/85aa1ff85bd391",
+    "pubDate": "Sun, 01 Jun 2025 03:49:05 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "Streaming UIプラクティス",
     "link": "https://zenn.dev/akfm/articles/streaming-ui-practice",
     "pubDate": "Sun, 01 Jun 2025 03:34:38 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "TS で Effect System を作ってみた",
-    "link": "https://zenn.dev/mizchi/articles/ts-effect-system-more",
-    "pubDate": "Sat, 31 May 2025 23:56:11 GMT"
+    "site": "Qiita",
+    "title": "Claude CodeにIssueのタスクを遂行→PRの作成まで行なってもらう",
+    "link": "https://qiita.com/getty104/items/e706923b66f4659dec24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-01T00:37:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『エンジニアリング統括責任者の手引き―組織を成功に導く技術リーダーシップ』 - snoozer05's blog",
+    "link": "https://snoozer05.hatenablog.jp/entry/2025/06/01/091625",
+    "pubDate": "2025-06-01T00:20:13.000Z"
   },
   {
     "site": "Qiita",
-    "title": "NotebookLM×Claude×draw.ioでkintone営業支援パックの構成図を自動生成してみた",
-    "link": "https://qiita.com/kanekoh/items/a323409d28a68254484e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-05-31T13:47:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "VirtualBox: UbuntuホストからDualbootのWindowsをゲストOSで起動する",
-    "link": "https://zenn.dev/tasada038/articles/16626a2ac5eb2f",
-    "pubDate": "Sat, 31 May 2025 10:30:20 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "PLAUDはいいぞ with zapier & kintone（３回ポチるだけで会議録音～議事録生成～皆に共有）",
-    "link": "https://qiita.com/matoia/items/fef8876b40898599974e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-05-31T10:12:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake の Organization Listing 承認ワークフローでデータメッシュの世界観を実現する",
-    "link": "https://zenn.dev/tsubasa_tech/articles/15ee58bb9b1bd4",
-    "pubDate": "Sat, 31 May 2025 09:49:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Obsidian × Whisper】アイデアを逃さずにメモする方法",
-    "link": "https://zenn.dev/ryosuke_kawata/articles/6d36289552039e",
-    "pubDate": "Sat, 31 May 2025 09:03:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code Actionで5000円溶かして学んだ、AIエージェント並列開発",
-    "link": "https://zenn.dev/ryryo/articles/b38b6a8430aa61",
-    "pubDate": "Sat, 31 May 2025 09:01:00 GMT"
+    "title": "Google Colabで購入履歴RAGシステムを構築【OpenAI API + FAISS】",
+    "link": "https://qiita.com/kira33/items/3467f9a7acf239bfafd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-05-31T20:06:56.000Z"
   },
   {
     "site": "Qiita",
     "title": "AWS完全初心者がAmazon Q CLIをインストールして遊んでみた話",
     "link": "https://qiita.com/tks_1128/items/54c7305c88f583ac72c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-05-31T08:36:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "関数っていつどう分けたらいい？最近ぼくが意識していること",
-    "link": "https://zenn.dev/pingu109/articles/47ec06ed30aff0",
-    "pubDate": "Sat, 31 May 2025 08:01:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ECMAScript source phase imports がはやく動くようになってほしい",
-    "link": "https://zenn.dev/qnighy/articles/c910b78f3dc751",
-    "pubDate": "Sat, 31 May 2025 05:56:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "やっと来た！まともにUnity+Cursor環境をReSharperを使って構築する",
-    "link": "https://zenn.dev/mogami/articles/cursor-resharper-unity",
-    "pubDate": "Sat, 31 May 2025 05:20:47 GMT"
   },
   {
     "site": "Qiita",
@@ -79,27 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "MyBatis とは？ Java初学者のための基礎解説",
-    "link": "https://qiita.com/k12da/items/be053c01466398462ec3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-05-30T17:52:13.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【unsloth + Gemma3】RAG時代終了か？高精度・高速LLMモデルをローカルPCで爆速FTする！",
     "link": "https://qiita.com/ryosuke_ohori/items/7b0f14d8f6e0668fd979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-05-30T16:35:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Python×株式投資：この戦略、実は失敗してた─現モデルの落とし穴と改善計画",
-    "link": "https://qiita.com/rS_alonewolf/items/4e02442524a666703660?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-05-30T14:55:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScript でエフェクトシステムを再現したい",
-    "link": "https://zenn.dev/mizchi/articles/domain-modeling-by-generator",
-    "pubDate": "Fri, 30 May 2025 14:18:02 GMT"
   },
   {
     "site": "Qiita",
@@ -108,15 +174,9 @@
     "pubDate": "2025-05-30T10:40:22.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "「Cursorで要件定義をめっちゃ簡単に」を「rules」にしてさらに簡単にした",
-    "link": "https://qiita.com/WdknWdkn/items/535c597f968a7c987d5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-05-29T16:50:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "web技術の基本って？",
-    "link": "https://qiita.com/Keita-0025/items/bae1df137de2414747d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-05-29T08:01:08.000Z"
+    "site": "Hatena",
+    "title": "これから伸びるエンジニア職とは？ - AI時代に市場価値を高めるキャリア戦略 @エンジニア業界セミナー in 会津大学 - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/05/21/122752",
+    "pubDate": "2025-05-21T05:37:18.000Z"
   }
 ]
