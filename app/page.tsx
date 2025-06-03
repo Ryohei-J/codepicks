@@ -16,9 +16,12 @@ type Pagination = {
 };
 
 async function getArticles(tag?: string, page: number = 1): Promise<{ articles: Article[]; pagination: Pagination }> {
+    const baseUrl = typeof window === "undefined"
+        ? process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"
+        : "";
     const url = tag
-        ? `http://localhost:3000/api/search?tag=${encodeURIComponent(tag)}&page=${page}`
-        : "http://localhost:3000/api/articles";
+        ? `${baseUrl}/api/search?tag=${encodeURIComponent(tag)}&page=${page}`
+        : `${baseUrl}/api/articles`;
     const res = await fetch(url, {
         cache: "no-store",
     });
