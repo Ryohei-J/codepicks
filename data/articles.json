@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「録音は禁止しているのに」　就活生向けの“面接音声投稿サービス”に懸念の声　規約には「一切の責任負わず」",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/04/news112.html",
+    "pubDate": "2025-06-04T07:35:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Zennの検索スピードを5倍に高速化した話",
+    "link": "https://zenn.dev/team_zenn/articles/zenn-search-tuning-story",
+    "pubDate": "2025-06-04T06:04:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MetaがロシアのYandexと同じ手口でユーザーの行動を追跡していたことが判明、何百万ものウェブサイトに「スマホのアプリと通信するコード」を埋め込んで追跡しておりブラウザの履歴を削除しても無駄",
+    "link": "https://gigazine.net/news/20250604-meta-yandex-tracking/",
+    "pubDate": "2025-06-04T04:54:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "やさしいClaude Code入門",
     "link": "https://speakerdeck.com/minorun365/yasasiiclaude-coderu-men",
     "pubDate": "2025-06-04T03:24:57.000Z"
@@ -12,16 +30,46 @@
     "pubDate": "2025-06-04T03:00:57.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AWSのBedrockでClaude 4とClaude Codeをセキュアに活用しよう！",
+    "link": "https://qiita.com/moritalous/items/9da3e2538c9507890e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-04T02:37:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Zennの検索スピードを5倍に高速化した話",
+    "link": "https://zenn.dev/team_zenn/articles/zenn-search-tuning-story",
+    "pubDate": "Wed, 04 Jun 2025 02:30:02 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "AI「できました！」人間「（…本当に大丈夫か？）」 Devinと探る、AIコードセキュリティ虎の巻 - GMO Flatt Security Blog",
     "link": "https://blog.flatt.tech/entry/ai_code_security",
     "pubDate": "2025-06-04T01:52:14.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "要件定義ってなに？ システム開発において「要件定義」が一番大事な理由",
+    "link": "https://qiita.com/ryoheiiwamoto/items/1f8acf7d28115a834c44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-04T01:48:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GitHub Actionsの基本まとめ",
+    "link": "https://qiita.com/fukuidaito/items/9263a1da9db4015c3a65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-04T01:37:17.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「自分で書いた」と証明するために論文を“最適化”する学生たち。AI検出ツールをめぐる混乱 | レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/column/detail_677/",
     "pubDate": "2025-06-04T01:07:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake Summit 2025 Day2 レポート:Keynote",
+    "link": "https://zenn.dev/primenumber/articles/cbe681c4c958c5",
+    "pubDate": "Tue, 03 Jun 2025 23:33:39 GMT"
   },
   {
     "site": "Hatena",
@@ -36,16 +84,22 @@
     "pubDate": "2025-06-03T22:11:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "まさかの｢人力｣AIだったAIスタートアップ、破産申請へ",
-    "link": "https://www.gizmodo.jp/2025/06/builder-ai.html",
-    "pubDate": "2025-06-03T12:58:51.000Z"
+    "site": "Zenn",
+    "title": "Snowflake Openflowが、AI-Ready Dataを支援する",
+    "link": "https://zenn.dev/nttdata_tech/articles/bab6de37b74942",
+    "pubDate": "Tue, 03 Jun 2025 16:39:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude 4を「コンテンツ制作チーム」に変える裏技が、想像以上にエグかった｜テツメモ｜tetumemo｜Newsletter",
-    "link": "https://note.com/tetumemo/n/n1c4c308b1065",
-    "pubDate": "2025-06-03T12:57:06.000Z"
+    "site": "Zenn",
+    "title": "Ryzen AI MAX+395（Windows）でWan2.1を動かす",
+    "link": "https://zenn.dev/robustonian/articles/wan2_1_ryzen_ai",
+    "pubDate": "Tue, 03 Jun 2025 14:32:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "MCPサーバーからmicroCMSにコンテンツを入稿する",
+    "link": "https://zenn.dev/himara2/articles/14eb2260c4f0e4",
+    "pubDate": "Tue, 03 Jun 2025 10:41:35 GMT"
   },
   {
     "site": "Zenn",
@@ -60,40 +114,16 @@
     "pubDate": "Tue, 03 Jun 2025 09:39:27 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「AI活用を第一想起に!」 日々の振り返りでPR作成数1.5倍を達成したチームの挑戦",
-    "link": "https://zenn.dev/ourly_tech_blog/articles/5f697607d47a9b",
-    "pubDate": "Tue, 03 Jun 2025 08:53:51 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【え？通勤中だけでアプリ完成？】時間ゼロの私が\"昼休み駆動開発\"でリリースした話 - Qiita",
-    "link": "https://qiita.com/i-icc/items/5eac0e75965181a4a7dd",
-    "pubDate": "2025-06-03T08:39:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake Summit 2025 Day1 レポート速報",
-    "link": "https://zenn.dev/primenumber/articles/5336d62f90d7f0",
-    "pubDate": "Tue, 03 Jun 2025 06:12:27 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "New Relic、『ニュースレター』はじめました。",
-    "link": "https://qiita.com/T_OMORI/items/7262d6d6dd31d8a4ac1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-03T02:33:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[wordpress] 固定ページ化したときにcssが崩れちゃう問題",
-    "link": "https://qiita.com/nami073/items/6916478fb2ac1ef85752?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-03T01:58:37.000Z"
+    "title": "プログラマー必携！2025年バイブコーディング(vibe coding)ツール完全ガイド",
+    "link": "https://qiita.com/Nakamura-Kaito/items/4e7afebd5db79a43862d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-03T06:34:47.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude Code Action & Amazon Bedrock で AI Coding & コードレビューしてもらう",
-    "link": "https://zenn.dev/yh1iroki/articles/03d93d78e93c62",
-    "pubDate": "Tue, 03 Jun 2025 00:35:27 GMT"
+    "title": "データ基盤再設計でレスポンス速度を 40倍高速化し、顧客体験を改善するまでの軌跡",
+    "link": "https://zenn.dev/dinii/articles/5ea9abd304e467",
+    "pubDate": "Tue, 03 Jun 2025 03:57:34 GMT"
   },
   {
     "site": "Zenn",
@@ -102,16 +132,16 @@
     "pubDate": "Tue, 03 Jun 2025 00:25:34 GMT"
   },
   {
-    "site": "Hatena",
+    "site": "Zenn",
     "title": "シンプルな MCP サーバを作って動作を理解する",
     "link": "https://zenn.dev/meson_tech_blog/articles/simple-mcp-server",
     "pubDate": "2025-06-03T00:07:01.000Z"
   },
   {
     "site": "Zenn",
-    "title": "ユーザー認証における脅威分析のための2つの軸",
-    "link": "https://zenn.dev/mixi/articles/200eeb64dfb148",
-    "pubDate": "Mon, 02 Jun 2025 22:00:01 GMT"
+    "title": "AIに「分からない」と言わせるための「RAG」の手法",
+    "link": "https://zenn.dev/knowledgesense/articles/468d7c853901f8",
+    "pubDate": "Mon, 02 Jun 2025 23:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -124,36 +154,6 @@
     "title": "【FrankenPHP】今後はPHP Foundationが公式でFrankenPHPをサポートするよ",
     "link": "https://qiita.com/rana_kualu/items/b381b593b899515df7ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-02T10:47:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Windows上のDevContainerで簡単にClaude Code 動かす方法",
-    "link": "https://zenn.dev/taichi/articles/a4ea249f7d0f6b",
-    "pubDate": "Mon, 02 Jun 2025 07:59:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Terraform 1.12.0 のリリースを読んでみた (1.12.1 もあるよ)",
-    "link": "https://zenn.dev/cloud_ace/articles/terraform-cli-1-12-0-update",
-    "pubDate": "Mon, 02 Jun 2025 07:31:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「なぜかズレるUI」文字数制限だけでは足りないこともある話",
-    "link": "https://zenn.dev/chot/articles/9401b6554015f0",
-    "pubDate": "Mon, 02 Jun 2025 03:55:54 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【進化の軌跡】menuフロントエンド技術スタックの変遷（2021秋 → 2025夏）",
-    "link": "https://qiita.com/kazuhiko_fujisaki/items/bc52ecd07738991904b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-02T01:30:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PHPでTOTPを用いた2要素認証を導入する方法",
-    "link": "https://qiita.com/gawa32/items/3a99f77874260169215c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-02T00:03:42.000Z"
   },
   {
     "site": "Qiita",
