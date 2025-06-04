@@ -1,5 +1,6 @@
 import React from "react";
 import { Metadata } from "next";
+import Link from "next/link";
 
 type Article = {
     site: "Qiita" | "Zenn" | "Hatena";
@@ -187,7 +188,7 @@ export default async function Home({
                 {pagination.totalPages > 1 && (
                     <div className="mt-8 flex justify-center gap-2">
                         {Array.from({ length: pagination.totalPages }, (_, i) => i + 1).map((pageNum) => (
-                            <a
+                            <Link
                                 key={pageNum}
                                 href={`/?tag=${tag}&page=${pageNum}`}
                                 className={`px-4 py-2 rounded-lg ${pageNum === pagination.page
@@ -196,7 +197,7 @@ export default async function Home({
                                     }`}
                             >
                                 {pageNum}
-                            </a>
+                            </Link>
                         ))}
                     </div>
                 )}
