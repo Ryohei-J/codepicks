@@ -24,12 +24,23 @@ const hatenaFeedUrl = "https://b.hatena.ne.jp/hotentry/it.rss";
 
 async function fetchFeed(url: string, site: Article["site"]): Promise<Article[]> {
     const feed = await parser.parseURL(url);
-    return feed.items.slice(0, 10).map((item) => ({
-        site,
-        title: item.title ?? "",
-        link: item.link ?? "",
-        pubDate: site === "Hatena" ? item.isoDate ?? "" : item.pubDate ?? "",
-    }));
+    return feed.items.slice(0, 10).map((item) => {
+        let determinedSite: Article["site"] = site;
+        const link = item.link ?? "";
+
+        if (link.includes("qiita.com")) {
+            determinedSite = "Qiita";
+        } else if (link.includes("zenn.dev")) {
+            determinedSite = "Zenn";
+        }
+
+        return {
+            site: determinedSite,
+            title: item.title ?? "",
+            link: link,
+            pubDate: site === "Hatena" ? item.isoDate ?? "" : item.pubDate ?? "",
+        };
+    });
 }
 
 async function main(): Promise<void> {
