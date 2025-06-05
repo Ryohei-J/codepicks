@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "毎日使うスマホに10万出せない奴って何なの？",
+    "link": "https://anond.hatelabo.jp/20250605181321",
+    "pubDate": "2025-06-05T09:13:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code の settings.json は設定した方がいい - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/06/05/134147",
+    "pubDate": "2025-06-05T05:23:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIと一緒に、初めて実装できた話",
+    "link": "https://qiita.com/metty0606/items/25843110820c3c974efd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-05T03:20:42.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "白杖を持った人のスマホが「今信号が赤です」「信号が青になりました」って読み上げてて驚いた→技術はこう使って欲しい",
     "link": "https://togetter.com/li/2559648",
     "pubDate": "2025-06-05T02:59:13.000Z"
@@ -10,6 +28,18 @@
     "title": "「CubePDF」の提供を続けたくて。倒産寸前のフリーソフト会社を、開発者自ら再建させるまで【フォーカス】 レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/focus/detail_680/",
     "pubDate": "2025-06-05T01:16:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "進化を続けるObsidianの最近の変化とは？ ——データベース型の情報管理やWeb閲覧、AIを利用したチャットや文章整形・関連ノートの検索が可能に | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/06/obsidian-07",
+    "pubDate": "2025-06-05T00:05:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアがやりがちなUIデザインの失敗15選とその回避法",
+    "link": "https://qiita.com/K3n_to_n17/items/17585fb03c819e0b9485?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-05T00:01:52.000Z"
   },
   {
     "site": "Hatena",
@@ -36,18 +66,6 @@
     "pubDate": "2025-06-04T17:02:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Visual Studio Code、Web標準の「Baseline」チェックに対応。コード内のHTMLやCSSにカーソルを合わせれば説明表示",
-    "link": "https://www.publickey1.jp/blog/25/visual_studio_codewebbaselinehtmlcss.html",
-    "pubDate": "2025-06-04T14:30:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "テキストをダダダッと打ち込むだけでリッチな見た目のスライドやウェブページを作れる「Quarkdown」、Markdownのゴリゴリ強化版でLaTeXより書きやすい",
-    "link": "https://gigazine.net/news/20250604-quarkdown-html-pdf-markdown-superpower/",
-    "pubDate": "2025-06-04T14:06:15.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "SnowとOpenAI、NYSEが語るAIとデータのこれから【Snowflake Summit 25｜Opening Keynote】",
     "link": "https://zenn.dev/nttdata_tech/articles/806de50cc71458",
@@ -72,16 +90,16 @@
     "pubDate": "2025-06-04T04:46:00.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【GAS+Vue.js】シンプルなWebページを作る",
+    "link": "https://qiita.com/Sou__zzz/items/bac2ab0366f378dd0a0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-04T04:40:59.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "ライブラリ製作者に知ってほしい、examplesの3箇条",
     "link": "https://zenn.dev/elm/articles/6a9771fcab7529",
     "pubDate": "Wed, 04 Jun 2025 03:49:17 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ITパスポートの次」に受ける試験新設、情報処理技術者試験見直しでデータ管理など",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10716/",
-    "pubDate": "2025-06-04T02:38:38.000Z"
   },
   {
     "site": "Qiita",
@@ -103,9 +121,9 @@
   },
   {
     "site": "Qiita",
-    "title": "GitHub Actionsの基本まとめ",
-    "link": "https://qiita.com/fukuidaito/items/9263a1da9db4015c3a65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-04T01:37:17.000Z"
+    "title": "【実践】Claude Code GitHub Actions on Self-hosted Runners環境構築ガイド - Xserver VPS編",
+    "link": "https://qiita.com/akira_funakoshi/items/c46577970b42166a6666?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-03T18:56:20.000Z"
   },
   {
     "site": "Zenn",
@@ -160,23 +178,5 @@
     "title": "【FrankenPHP】今後はPHP Foundationが公式でFrankenPHPをサポートするよ",
     "link": "https://qiita.com/rana_kualu/items/b381b593b899515df7ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-02T10:47:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【100円でできる！】NFCカード+S3+CloudFrontで始めるデジタル名刺生活",
-    "link": "https://qiita.com/ryu-ki/items/965d35a5b9abe86d0054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-01T23:51:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【え？通勤中だけでアプリ完成？】時間ゼロの私が\"昼休み駆動開発\"でリリースした話",
-    "link": "https://qiita.com/i-icc/items/5eac0e75965181a4a7dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-01T22:23:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【続】【Python】1つでも新しい発見があったらいいねください",
-    "link": "https://qiita.com/python_academia/items/aa493a47567dfe1aa783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-01T22:04:37.000Z"
   }
 ]
