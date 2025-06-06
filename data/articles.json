@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "iPhoneのマイナンバーカード搭載　6月24日開始",
+    "link": "https://www.watch.impress.co.jp/docs/news/2020398.html",
+    "pubDate": "2025-06-06T01:20:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeを試してみました",
+    "link": "https://zenn.dev/karaage0703/articles/6699045b3cec5c",
+    "pubDate": "Fri, 06 Jun 2025 01:02:55 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "通販で買ったポータブルHDDが重りの入った偽物であることが判明も返金を拒否されてしまう",
     "link": "https://gigazine.net/news/20250606-shopper-denied-hdd-weighted-plastic-box/",
     "pubDate": "2025-06-05T22:17:09.000Z"
@@ -13,15 +25,21 @@
   },
   {
     "site": "Hatena",
-    "title": "テスラ時価総額22兆円消失　1日で過去最大、マスク氏とトランプ氏決裂で - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN05E370V00C25A6000000/",
-    "pubDate": "2025-06-05T21:46:03.000Z"
+    "title": "はてブのコメントでどんだけ優しいコメント書けるのかチャレンジ 　 切り捨..",
+    "link": "https://anond.hatelabo.jp/20250531060430",
+    "pubDate": "2025-06-05T20:59:10.000Z"
   },
   {
     "site": "Hatena",
     "title": "トランプ氏、マスク氏との政府契約打ち切り示唆－蜜月の終わり鮮明に",
     "link": "https://www.bloomberg.co.jp/news/articles/2025-06-05/SXE5V8DWRGG000",
     "pubDate": "2025-06-05T18:11:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Pro（$20）プランでゼロから始めるClaude Code",
+    "link": "https://zenn.dev/asap/articles/700168965fdb7b",
+    "pubDate": "Thu, 05 Jun 2025 17:56:51 GMT"
   },
   {
     "site": "Hatena",
@@ -49,12 +67,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Generative Models 2025",
-    "link": "https://speakerdeck.com/takahashihiroshi/generative-models-2025",
-    "pubDate": "2025-06-05T11:09:57.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "毎日使うスマホに10万出せない奴って何なの？",
     "link": "https://anond.hatelabo.jp/20250605181321",
     "pubDate": "2025-06-05T09:13:54.000Z"
@@ -79,7 +91,13 @@
   },
   {
     "site": "Zenn",
-    "title": "ジョインして約1週間、CursorとMCPのタッグで実装を半自動化してます",
+    "title": "Unity個人開発で“絶対にハマる落とし穴”ベスト3",
+    "link": "https://zenn.dev/syunpp/articles/b0f0f423d8e662",
+    "pubDate": "Thu, 05 Jun 2025 04:19:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【How to 有】ジョインして約1週間、CursorとMCPで実装を半自動化してる",
     "link": "https://zenn.dev/fastdoctor/articles/a9da421058266b",
     "pubDate": "Thu, 05 Jun 2025 03:39:45 GMT"
   },
@@ -88,12 +106,6 @@
     "title": "AIと一緒に、初めて実装できた話",
     "link": "https://qiita.com/metty0606/items/25843110820c3c974efd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-05T03:20:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発者のためのRAGシステムとベクトルデータベース実装ガイド(後編)",
-    "link": "https://zenn.dev/acntechjp/articles/aa5f8e17e5af11",
-    "pubDate": "Thu, 05 Jun 2025 03:01:46 GMT"
   },
   {
     "site": "Zenn",
@@ -142,18 +154,6 @@
     "title": "「Cursor」で「素の議事録」を「要件定義書」に高速でまとめなおした話",
     "link": "https://qiita.com/WdknWdkn/items/79980f4201c8cf9145bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-04T14:10:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[2025年] フロントエンド環境構築（React, TypeScript, Vite, Biome, lefthook）",
-    "link": "https://zenn.dev/tenkei/articles/9b6e0db9b7800d",
-    "pubDate": "Wed, 04 Jun 2025 13:10:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "業務改善のためのWebアプリ開発(Next.js,Redux,Prisma,Supabase)",
-    "link": "https://zenn.dev/kiyo8jo/articles/8b02226287680c",
-    "pubDate": "Wed, 04 Jun 2025 09:30:10 GMT"
   },
   {
     "site": "Qiita",
