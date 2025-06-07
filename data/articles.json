@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
-    "title": "「ギリギリUMA」「ChatGPTはなんと判定するのかw」# ギリギリネコ判定選手権 ツイートまとめ",
-    "link": "https://togetter.com/li/2560265",
-    "pubDate": "2025-06-06T13:00:31.000Z"
+    "title": "大手企業のAIツール導入の壁を越えて：サイバーエージェントのCursor活用戦略",
+    "link": "https://speakerdeck.com/gunta/da-shou-qi-ye-noaiturudao-ru-nobi-woyue-ete-saibaezientonocursorhuo-yong-zhan-lue",
+    "pubDate": "2025-06-06T14:27:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cursor Meetup Tokyoを開催してきました！",
+    "link": "https://zenn.dev/gemcook/articles/crusor-meetup-tokyo-report_2025-0606",
+    "pubDate": "Fri, 06 Jun 2025 14:01:32 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "もうRAGを自作しなくていい！Vertex AI Search のススメ",
+    "link": "https://zenn.dev/progate/articles/benefit-of-vertex-ai",
+    "pubDate": "2025-06-06T12:20:07.000Z"
   },
   {
     "site": "Hatena",
@@ -54,10 +66,22 @@
     "pubDate": "2025-06-06T06:06:22.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "BiomeのGritQLプラグイン vs. ast-grep: JS開発者のためのAST変換ガイド",
+    "link": "https://zenn.dev/hd_nvim/articles/f536e4e87f5d55",
+    "pubDate": "Fri, 06 Jun 2025 05:29:20 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "JavaScriptジェネレータ関数とユーティリティで楽に配列を生成する",
+    "link": "https://qiita.com/honey32/items/5aef662b6a763373f1fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-06T04:26:06.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "「iPhoneのマイナンバーカード」6月24日開始",
-    "link": "https://www.watch.impress.co.jp/docs/news/2020398.html",
-    "pubDate": "2025-06-06T01:20:02.000Z"
+    "title": "Go開発に最適な構成：TypeSpec + ogen + sqlc + orval + MSW + Docker Compose + Taskfile で爆速プロトタイピング - tokuhirom's blog",
+    "link": "https://blog.64p.org/entry/2025/06/06/004900",
+    "pubDate": "2025-06-06T02:38:22.000Z"
   },
   {
     "site": "Zenn",
@@ -72,22 +96,28 @@
     "pubDate": "Thu, 05 Jun 2025 23:30:01 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【自己紹介のススメ】自分の名前を布教することによるメリット【爪痕を残せ】",
+    "link": "https://qiita.com/shiitake_443/items/feaa639e7cabbaebffb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-05T23:23:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Pro（$20）プランでゼロから始めるClaude Code",
+    "link": "https://zenn.dev/asap/articles/700168965fdb7b",
+    "pubDate": "2025-06-05T19:35:25.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Pro（$20）プランでゼロから始めるClaude Code",
     "link": "https://zenn.dev/asap/articles/700168965fdb7b",
     "pubDate": "Thu, 05 Jun 2025 17:56:51 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Gemini」と「Google Keep」の組み合わせで、買い忘れ防止＆料理上手に [てっぱんアプリ！]",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2019529.html",
-    "pubDate": "2025-06-05T15:35:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「Cursor」で「素の議事録」を「要件定義書」に高速でまとめなおした話 - Qiita",
-    "link": "https://qiita.com/WdknWdkn/items/79980f4201c8cf9145bf",
-    "pubDate": "2025-06-05T12:02:18.000Z"
+    "site": "Zenn",
+    "title": "DSLやめてSQLでいいんじゃない？",
+    "link": "https://zenn.dev/mkmonaka/articles/3c6799efb2be34",
+    "pubDate": "Thu, 05 Jun 2025 13:41:47 GMT"
   },
   {
     "site": "Qiita",
@@ -97,21 +127,15 @@
   },
   {
     "site": "Qiita",
-    "title": "FLOCSS設計やってみたら解像度上がった件",
-    "link": "https://qiita.com/sun_22/items/fdffcdae74e22852aa59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-05T08:26:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "初心者にはSassのコンパイルが紛らわしすぎる",
-    "link": "https://qiita.com/sun_22/items/8ed30ef18a225a42c905?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-05T06:58:17.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "「リポジトリ多すぎてとっ散らかる問題」をghqで解決！",
     "link": "https://qiita.com/suin/items/52fa8bfd6e56f024cb9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-05T06:53:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Unity個人開発で“絶対にハマる落とし穴”ベスト3",
+    "link": "https://zenn.dev/syunpp/articles/b0f0f423d8e662",
+    "pubDate": "Thu, 05 Jun 2025 04:19:34 GMT"
   },
   {
     "site": "Zenn",
@@ -120,34 +144,10 @@
     "pubDate": "Thu, 05 Jun 2025 03:39:45 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Luup Infra/SREチームの現在地",
-    "link": "https://zenn.dev/luup_developers/articles/sre-gr1m0h-20250605",
-    "pubDate": "Thu, 05 Jun 2025 02:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "技術負債って200種類あんねん",
-    "link": "https://zenn.dev/ficilcom/articles/technical-debt-ahnmika",
-    "pubDate": "Thu, 05 Jun 2025 01:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「ファイル復元トレーニング」というCursorルールのトレーニング方法",
-    "link": "https://zenn.dev/loglass/articles/10cb41eff3139d",
-    "pubDate": "Thu, 05 Jun 2025 00:27:23 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Gemini x Stitchを使って、デザインセンス皆無の男がイケてるUI生成の限界に挑戦してみる",
     "link": "https://qiita.com/zawatti/items/aa761adbb4829c0f89d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-05T00:20:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニアじゃない人向けのLLMとの付き合い方",
-    "link": "https://zenn.dev/ncdc/articles/non-engineer-llm-guide",
-    "pubDate": "Thu, 05 Jun 2025 00:09:40 GMT"
   },
   {
     "site": "Qiita",
