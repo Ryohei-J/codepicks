@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "ビル・アトキンソン氏が死去　AppleのUIを確立したビジョナリー",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/08/news022.html",
+    "pubDate": "2025-06-07T22:49:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "初代Macintoshの基礎を作り、HyperCardを生み出したビル・アトキンソンの功績を振り返る（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2025/06/08/4406.html",
+    "pubDate": "2025-06-07T22:19:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "クソリプしてきたやつの唇をキスで塞いだらめちゃくちゃ動揺してて可愛い。→「そりゃ動揺するよ」思ったよりかなり濃厚で草",
+    "link": "https://posfie.com/@mumimushunyu/p/pxlInP8",
+    "pubDate": "2025-06-07T12:21:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自治体システム標準化～コスト増の本質～｜標準化どうしましょう（自治体システム標準化にちょっと関わってる）",
+    "link": "https://note.com/local_devya/n/n518b887d3b0e",
+    "pubDate": "2025-06-07T11:15:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS Transfer Family で SFTP サーバーを構築して閉域のオンプレミスからエンドポイント経由で S3 にアクセスする",
+    "link": "https://qiita.com/takeda_h/items/69db7e5e9aeea21ae5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-07T09:29:21.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Java 30周年記念! Javaの30年をふりかえる",
     "link": "https://speakerdeck.com/skrb/java-30zhou-nian-ji-nian-javano30nian-wohurikaeru",
     "pubDate": "2025-06-07T08:57:58.000Z"
@@ -24,34 +54,10 @@
     "pubDate": "2025-06-07T04:52:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "このリストにあるGoogle Chrome拡張機能はすべて削除せよ 日本語名でも存在し危険 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/79673",
-    "pubDate": "2025-06-07T04:28:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Q developer君で見慣れないくにおくんライクゲームができたから見て",
-    "link": "https://qiita.com/enough-e-o-rice/items/7aa1e355696ce296a627?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T04:28:11.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "2025年6月にClaude Codeが突然話題になった理由をまとめる",
     "link": "https://zenn.dev/oikon/articles/adac12ea9e839b",
     "pubDate": "Sat, 07 Jun 2025 02:40:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ユニットテスト基礎講座 | ドクセル",
-    "link": "https://www.docswell.com/s/tyonekubo/ZP21V1-unit-testing-basic",
-    "pubDate": "2025-06-06T23:26:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIシステム」の時代の到来　AIはここからが面白い",
-    "link": "https://wirelesswire.jp/2025/06/88805/",
-    "pubDate": "2025-06-06T21:47:19.000Z"
   },
   {
     "site": "Qiita",
@@ -93,12 +99,6 @@
     "site": "Zenn",
     "title": "React Native + Next.jsはいいぞ！（ほぼ）1人でショートドラマのWeb/モバイルアプリを爆速開発した話",
     "link": "https://zenn.dev/tellernovel_inc/articles/5623475a2c6843",
-    "pubDate": "2025-06-06T09:32:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Native + Next.jsはいいぞ！（ほぼ）1人でショートドラマのWeb/モバイルアプリを爆速開発した話",
-    "link": "https://zenn.dev/tellernovel_inc/articles/5623475a2c6843",
     "pubDate": "Fri, 06 Jun 2025 09:20:24 GMT"
   },
   {
@@ -106,6 +106,12 @@
     "title": "Python×株式投資：都度DLはやめた─yfinanceで爆速テクニカル分析を回したい",
     "link": "https://qiita.com/rS_alonewolf/items/1d297dbe346b2876eee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-06T08:44:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code (MAX plan) + ghコマンド + 英語プロンプトが一旦完成系だと思った話",
+    "link": "https://zenn.dev/engine0606/articles/9201ff4c3e837d",
+    "pubDate": "2025-06-06T08:13:58.000Z"
   },
   {
     "site": "Zenn",
@@ -132,12 +138,6 @@
     "pubDate": "2025-06-06T04:26:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "fzf で高速に git worktree 間を移動する - お雑煮研究会",
-    "link": "https://sushichan044.hateblo.jp/entry/2025/06/06/003325",
-    "pubDate": "2025-06-06T01:35:24.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeを試してみました",
     "link": "https://zenn.dev/karaage0703/articles/6699045b3cec5c",
@@ -148,6 +148,12 @@
     "title": "もうRAGを自作しなくていい！Vertex AI Search のススメ",
     "link": "https://zenn.dev/progate/articles/benefit-of-vertex-ai",
     "pubDate": "Thu, 05 Jun 2025 23:30:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【25卒】新卒エンジニアの気持ち",
+    "link": "https://qiita.com/im_yoneda/items/9bf1baa4a213411f3941?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-05T09:14:27.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "教育現場で使える！無料の日本の街3DデータをUnityに表示するまで",
     "link": "https://qiita.com/kanetugu2018/items/1076c68747c20cfebe7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-04T23:58:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「Cursor」で「素の議事録」を「要件定義書」に高速でまとめなおした話",
-    "link": "https://qiita.com/WdknWdkn/items/79980f4201c8cf9145bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-04T14:10:03.000Z"
   }
 ]
