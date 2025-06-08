@@ -1,5 +1,11 @@
 [
   {
+    "site": "Zenn",
+    "title": "Snowflake Summit 25 印象的な新機能・ブース",
+    "link": "https://zenn.dev/yangyang/articles/ac52a36d3dd445",
+    "pubDate": "Sun, 08 Jun 2025 01:27:09 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "ビル・アトキンソン氏が死去　AppleのUIを確立したビジョナリー",
     "link": "https://www.itmedia.co.jp/news/articles/2506/08/news022.html",
@@ -10,6 +16,30 @@
     "title": "初代Macintoshの基礎を作り、HyperCardを生み出したビル・アトキンソンの功績を振り返る（CloseBox） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2025/06/08/4406.html",
     "pubDate": "2025-06-07T22:19:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "macOS設定ウインドウのガイドライン",
+    "link": "https://zenn.dev/usagimaru/articles/b2a328775124ef",
+    "pubDate": "Sat, 07 Jun 2025 19:23:07 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIの著作権問題に終止符か？ 8TBの巨大オープンデータセット「Common Pile」登場、Llama 2に匹敵するLLMもリリース | XenoSpectrum",
+    "link": "https://xenospectrum.com/8tb-massive-open-dataset-common-pile-now-available/",
+    "pubDate": "2025-06-07T14:39:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Flutter】riverpodで複数のAsyncValueを適切に扱う実装パターン集",
+    "link": "https://zenn.dev/harx/articles/d2136e787f7bb8",
+    "pubDate": "Sat, 07 Jun 2025 13:39:00 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "チュートリアル - Anthropic",
+    "link": "https://docs.anthropic.com/ja/docs/claude-code/tutorials",
+    "pubDate": "2025-06-07T13:17:05.000Z"
   },
   {
     "site": "Hatena",
@@ -24,22 +54,16 @@
     "pubDate": "2025-06-07T11:15:35.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeを使って自分用のプロトタイプ開発環境を整理した",
+    "link": "https://zenn.dev/razokulover/articles/7f4b4d21622bda",
+    "pubDate": "Sat, 07 Jun 2025 10:35:38 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AWS Transfer Family で SFTP サーバーを構築して閉域のオンプレミスからエンドポイント経由で S3 にアクセスする",
     "link": "https://qiita.com/takeda_h/items/69db7e5e9aeea21ae5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-07T09:29:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Java 30周年記念! Javaの30年をふりかえる",
-    "link": "https://speakerdeck.com/skrb/java-30zhou-nian-ji-nian-javano30nian-wohurikaeru",
-    "pubDate": "2025-06-07T08:57:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "シンプルは作れる！イミュータブルデータモデルの真髄 - kawasima",
-    "link": "https://scrapbox.io/kawasima/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AF%E4%BD%9C%E3%82%8C%E3%82%8B%EF%BC%81%E3%82%A4%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E7%9C%9F%E9%AB%84",
-    "pubDate": "2025-06-07T08:57:46.000Z"
   },
   {
     "site": "Hatena",
@@ -49,9 +73,21 @@
   },
   {
     "site": "Zenn",
-    "title": "2025年6月にClaude Codeが突然話題になった理由をまとめる",
-    "link": "https://zenn.dev/oikon/articles/adac12ea9e839b",
-    "pubDate": "2025-06-07T04:52:39.000Z"
+    "title": "Switch 2 (多言語対応版) が当選して届いた話",
+    "link": "https://zenn.dev/hidenori3/articles/75dae36d97f9ae",
+    "pubDate": "Sat, 07 Jun 2025 06:25:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "TypeScriptでマイクラやってみた",
+    "link": "https://zenn.dev/sumiso_c0db8c/articles/036946fd7812f0",
+    "pubDate": "Sat, 07 Jun 2025 06:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Apple Vision Pro のネイティブアプリを Claude Code で100%自動生成してみた",
+    "link": "https://zenn.dev/hololab/articles/avp-010-a1b2c3d4e5f678",
+    "pubDate": "Sat, 07 Jun 2025 04:52:27 GMT"
   },
   {
     "site": "Zenn",
@@ -84,24 +120,6 @@
     "pubDate": "Fri, 06 Jun 2025 14:01:32 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "『Snowflake Summit 2025』現地参戦レポート(日本語版)総まとめ",
-    "link": "https://zenn.dev/shinyaa31/articles/d50c0237e582bb",
-    "pubDate": "Fri, 06 Jun 2025 13:40:09 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "有名エンジニアの「AI課金事情」を大公開！ 最高額は月20万円！？【中島聡、松本勇気、牛尾剛、ちょくだい、ナル先生】 - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/28519/",
-    "pubDate": "2025-06-06T10:22:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Native + Next.jsはいいぞ！（ほぼ）1人でショートドラマのWeb/モバイルアプリを爆速開発した話",
-    "link": "https://zenn.dev/tellernovel_inc/articles/5623475a2c6843",
-    "pubDate": "Fri, 06 Jun 2025 09:20:24 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Python×株式投資：都度DLはやめた─yfinanceで爆速テクニカル分析を回したい",
     "link": "https://qiita.com/rS_alonewolf/items/1d297dbe346b2876eee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -114,40 +132,16 @@
     "pubDate": "2025-06-06T08:13:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "変更差分からユニットテスト/結合テスト/システムテストのテスト観点を出せるのか？【cursor】",
-    "link": "https://zenn.dev/jam0824/articles/877546e6d059fb",
-    "pubDate": "Fri, 06 Jun 2025 07:54:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI導入しても効果薄い？チーム全員AIフレンドリー！な環境の作り方、教えます(前編)",
-    "link": "https://zenn.dev/fastdoctor/articles/de25424a77cf77",
-    "pubDate": "Fri, 06 Jun 2025 07:23:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "BiomeのGritQLプラグイン vs. ast-grep: JS開発者のためのAST変換ガイド",
-    "link": "https://zenn.dev/hd_nvim/articles/f536e4e87f5d55",
-    "pubDate": "Fri, 06 Jun 2025 05:29:20 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "JavaScriptジェネレータ関数とユーティリティで楽に配列を生成する",
     "link": "https://qiita.com/honey32/items/5aef662b6a763373f1fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-06T04:26:06.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeを試してみました",
-    "link": "https://zenn.dev/karaage0703/articles/6699045b3cec5c",
-    "pubDate": "Fri, 06 Jun 2025 01:02:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "もうRAGを自作しなくていい！Vertex AI Search のススメ",
-    "link": "https://zenn.dev/progate/articles/benefit-of-vertex-ai",
-    "pubDate": "Thu, 05 Jun 2025 23:30:01 GMT"
+    "site": "Hatena",
+    "title": "個人事業主や副業用でGoogleに課金するときどれ選べばいいんだよ問題・AI対応 2025年版（Google One / Google AI / Google Workspace の比較）Google Workspace使うとGeminiが格安 - nomolkのブログ",
+    "link": "https://nomolk.hatenablog.com/entry/2025/06/05/113000",
+    "pubDate": "2025-06-06T04:11:24.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "教育現場で使える！無料の日本の街3DデータをUnityに表示するまで",
     "link": "https://qiita.com/kanetugu2018/items/1076c68747c20cfebe7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-04T23:58:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Tmux Cheat Sheet [Inc. Visuals]",
+    "link": "https://tmuxai.dev/tmux-cheat-sheet/",
+    "pubDate": "2025-06-03T01:16:36.000Z"
   }
 ]
