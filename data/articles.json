@@ -1,5 +1,41 @@
 [
   {
+    "site": "Hatena",
+    "title": "次期PostgreSQL 18では非同期I/Oの採用により性能が2～3倍向上する見通し",
+    "link": "https://www.publickey1.jp/blog/25/postgresql_18io23.html",
+    "pubDate": "2025-06-08T13:58:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "すべてのコーディングエージェントに独立した開発用コンテナ環境を与えられる「Container Use」、Docker創業者がオープンソースで公開",
+    "link": "https://www.publickey1.jp/blog/25/container_usedocker.html",
+    "pubDate": "2025-06-08T13:56:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google主催『AI エージェント 実践集中コース』に参加した",
+    "link": "https://zenn.dev/mizunny/articles/a8d66977d97daa",
+    "pubDate": "2025-06-08T11:38:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google主催『AI エージェント 実践集中コース』に参加した",
+    "link": "https://zenn.dev/mizunny/articles/a8d66977d97daa",
+    "pubDate": "Sun, 08 Jun 2025 08:12:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "DIVER OSINT CTF 2025 Writeup",
+    "link": "https://zenn.dev/cyber_tornato/articles/cacda8212ece49",
+    "pubDate": "Sun, 08 Jun 2025 03:04:34 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows Subsystem for Linux（WSL）のソースコードが公開された (1/2)",
+    "link": "https://ascii.jp/elem/000/004/280/4280224/",
+    "pubDate": "2025-06-08T01:37:57.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Snowflake Summit 25 印象的な新機能・ブース",
     "link": "https://zenn.dev/yangyang/articles/ac52a36d3dd445",
@@ -16,12 +52,6 @@
     "title": "ビル・アトキンソン氏が死去　AppleのUIを確立したビジョナリー",
     "link": "https://www.itmedia.co.jp/news/articles/2506/08/news022.html",
     "pubDate": "2025-06-07T22:49:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "初代Macintoshの基礎を作り、HyperCardを生み出したビル・アトキンソンの功績を振り返る（CloseBox） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2025/06/08/4406.html",
-    "pubDate": "2025-06-07T22:19:41.000Z"
   },
   {
     "site": "Qiita",
@@ -48,12 +78,6 @@
     "pubDate": "2025-06-07T14:42:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIの著作権問題に終止符か？ 8TBの巨大オープンデータセット「Common Pile」登場、Llama 2に匹敵するLLMもリリース | XenoSpectrum",
-    "link": "https://xenospectrum.com/8tb-massive-open-dataset-common-pile-now-available/",
-    "pubDate": "2025-06-07T14:39:11.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【Flutter】riverpodで複数のAsyncValueを適切に扱う実装パターン集",
     "link": "https://zenn.dev/harx/articles/d2136e787f7bb8",
@@ -66,10 +90,10 @@
     "pubDate": "2025-06-07T13:17:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "クソリプしてきたやつの唇をキスで塞いだらめちゃくちゃ動揺してて可愛い。→「そりゃ動揺するよ」思ったよりかなり濃厚で草",
-    "link": "https://posfie.com/@mumimushunyu/p/pxlInP8",
-    "pubDate": "2025-06-07T12:21:14.000Z"
+    "site": "Zenn",
+    "title": "Claude Code (Proプラン)セットアップ for Windows",
+    "link": "https://zenn.dev/goal_a/articles/claudecodedavsa0",
+    "pubDate": "Sat, 07 Jun 2025 12:29:39 GMT"
   },
   {
     "site": "Hatena",
@@ -78,22 +102,10 @@
     "pubDate": "2025-06-07T11:15:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "v0 APIのアーキテクチャ: Chat Completion API自作界隈",
-    "link": "https://blog.lai.so/v0-api/",
-    "pubDate": "2025-06-07T10:51:12.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeを使って自分用のプロトタイプ開発環境を整理した",
     "link": "https://zenn.dev/razokulover/articles/7f4b4d21622bda",
     "pubDate": "Sat, 07 Jun 2025 10:35:38 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "JavaScript PrimerのNotebookLMが利用可能になりました！",
-    "link": "https://efcl.info/2025/06/07/jsprimer-notebooklm/",
-    "pubDate": "2025-06-07T10:11:42.000Z"
   },
   {
     "site": "Qiita",
@@ -106,12 +118,6 @@
     "title": "AWS Transfer Family で SFTP サーバーを構築して閉域のオンプレミスからエンドポイント経由で S3 にアクセスする",
     "link": "https://qiita.com/takeda_h/items/69db7e5e9aeea21ae5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-07T09:29:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Switch 2 (多言語対応版) が当選して届いた話",
-    "link": "https://zenn.dev/hidenori3/articles/75dae36d97f9ae",
-    "pubDate": "Sat, 07 Jun 2025 06:25:57 GMT"
   },
   {
     "site": "Zenn",
@@ -138,22 +144,16 @@
     "pubDate": "Sat, 07 Jun 2025 02:40:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「暗号化してからMAC」がなぜ重要か？ セキュリティの基本原則を理解する",
-    "link": "https://zenn.dev/nihiru/articles/f931d4480bec28",
-    "pubDate": "Fri, 06 Jun 2025 14:11:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cursor Meetup Tokyoを開催してきました！",
-    "link": "https://zenn.dev/gemcook/articles/crusor-meetup-tokyo-report_2025-0606",
-    "pubDate": "Fri, 06 Jun 2025 14:01:32 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Python×株式投資：都度DLはやめた─yfinanceで爆速テクニカル分析を回したい",
     "link": "https://qiita.com/rS_alonewolf/items/1d297dbe346b2876eee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-06T08:44:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初心者向け】ほぼ無料でWebアプリをデプロイできるおすすめサービスまとめ - Qiita",
+    "link": "https://qiita.com/pam5596/items/feab853f3a62a3d3f0a0",
+    "pubDate": "2025-06-06T07:05:22.000Z"
   },
   {
     "site": "Qiita",
