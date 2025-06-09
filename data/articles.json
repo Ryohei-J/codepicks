@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "Immer はどのように実装されているか - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/06/09/how-is-the-immer-implemented",
+    "pubDate": "2025-06-08T23:58:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "特急に乗ってきた上品な感じのお婆さんが後ろの外国人に席を倒して良いか聞こうとして、翻訳アプリの発音機能を使ったら、響き渡った翻訳がこれで口角が上がりまくってしまった… たぶん駄目だよ",
+    "link": "https://togetter.com/li/2561307",
+    "pubDate": "2025-06-08T16:19:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソフトウェアエンジニアとしての将来が見えなくなってきた｜choo",
+    "link": "https://note.com/choo/n/n44ea8a77770f",
+    "pubDate": "2025-06-08T14:57:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "次期PostgreSQL 18では非同期I/Oの採用により性能が2～3倍向上する見通し",
     "link": "https://www.publickey1.jp/blog/25/postgresql_18io23.html",
     "pubDate": "2025-06-08T13:58:54.000Z"
@@ -12,10 +30,34 @@
     "pubDate": "2025-06-08T13:56:04.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "MastraエージェントをLambdaに載せて動かしたい！~MCPを添えて~",
+    "link": "https://qiita.com/har1101/items/ff154108043c94f2ceae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-08T11:43:05.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Google主催『AI エージェント 実践集中コース』に参加した",
     "link": "https://zenn.dev/mizunny/articles/a8d66977d97daa",
     "pubDate": "2025-06-08T11:38:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ソケット通信、本当に理解していますか？？",
+    "link": "https://qiita.com/fujifuji1414/items/6daa393a86582d81f0b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-08T09:33:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "claude code でローカルなMCPサーバーを叩けるようにする",
+    "link": "https://zenn.dev/mizchi/articles/claude-local-mcp-server",
+    "pubDate": "Sun, 08 Jun 2025 09:32:52 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vibe CodingでTLS 1.3を実装してみたら、思ったより人間が必要だった話",
+    "link": "https://zenn.dev/k16/articles/6b3c23af139b90",
+    "pubDate": "Sun, 08 Jun 2025 09:13:27 GMT"
   },
   {
     "site": "Zenn",
@@ -24,10 +66,10 @@
     "pubDate": "Sun, 08 Jun 2025 08:12:26 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "DIVER OSINT CTF 2025 Writeup",
-    "link": "https://zenn.dev/cyber_tornato/articles/cacda8212ece49",
-    "pubDate": "Sun, 08 Jun 2025 03:04:34 GMT"
+    "site": "Qiita",
+    "title": "【初心者完全版】0からReact開発して基礎をマスターできる最強チュートリアル【図解解説】",
+    "link": "https://qiita.com/Sicut_study/items/afd66cac978f4b0a6e61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-08T08:05:00.000Z"
   },
   {
     "site": "Hatena",
@@ -42,22 +84,16 @@
     "pubDate": "Sun, 08 Jun 2025 01:27:09 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "無人店舗のエアコンをIoT化して、月70万円節約した話",
+    "link": "https://zenn.dev/rsugi/articles/409793eed7255e",
+    "pubDate": "Sun, 08 Jun 2025 00:30:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "エンジニア界隈で有名な晒し垢が通報を受けて実際にアカウントをロックされるまで",
     "link": "https://qiita.com/front_to_dev/items/528f77d91e6e98f13401?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-07T23:33:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ビル・アトキンソン氏が死去　AppleのUIを確立したビジョナリー",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/08/news022.html",
-    "pubDate": "2025-06-07T22:49:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Symbol shoestring wizard でノード秘密鍵を維持して証明書更新",
-    "link": "https://qiita.com/TGVRock/items/15212e43da2dd349d88b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T20:25:11.000Z"
   },
   {
     "site": "Zenn",
@@ -67,9 +103,9 @@
   },
   {
     "site": "Qiita",
-    "title": "PowerShellでワンクリック！ZIP一括展開＆平坦化まとめ手順",
-    "link": "https://qiita.com/sawayamakouji/items/9b06e90bfa98faedecf3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T15:42:05.000Z"
+    "title": "Python×株式投資：都度DLはやめた─yfinanceで爆速テクニカル分析を回したい - Qiita",
+    "link": "https://qiita.com/rS_alonewolf/items/1d297dbe346b2876eee7",
+    "pubDate": "2025-06-07T17:02:58.000Z"
   },
   {
     "site": "Qiita",
@@ -78,28 +114,10 @@
     "pubDate": "2025-06-07T14:42:04.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【Flutter】riverpodで複数のAsyncValueを適切に扱う実装パターン集",
-    "link": "https://zenn.dev/harx/articles/d2136e787f7bb8",
-    "pubDate": "Sat, 07 Jun 2025 13:39:00 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "チュートリアル - Anthropic",
     "link": "https://docs.anthropic.com/ja/docs/claude-code/tutorials",
     "pubDate": "2025-06-07T13:17:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code (Proプラン)セットアップ for Windows",
-    "link": "https://zenn.dev/goal_a/articles/claudecodedavsa0",
-    "pubDate": "Sat, 07 Jun 2025 12:29:39 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "自治体システム標準化～コスト増の本質～｜標準化どうしましょう（自治体システム標準化にちょっと関わってる）",
-    "link": "https://note.com/local_devya/n/n518b887d3b0e",
-    "pubDate": "2025-06-07T11:15:35.000Z"
   },
   {
     "site": "Zenn",
@@ -133,9 +151,9 @@
   },
   {
     "site": "Qiita",
-    "title": "No-Codeで簡単にウェブサイトが作れる「YouWare」を試してみました",
-    "link": "https://qiita.com/xxyc/items/24dce58c759bdfbee806?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T04:23:04.000Z"
+    "title": "Q developer君で見慣れないくにおくんライクゲームができたから見て",
+    "link": "https://qiita.com/enough-e-o-rice/items/7aa1e355696ce296a627?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-07T04:28:11.000Z"
   },
   {
     "site": "Zenn",
@@ -151,32 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "【初心者向け】ほぼ無料でWebアプリをデプロイできるおすすめサービスまとめ - Qiita",
-    "link": "https://qiita.com/pam5596/items/feab853f3a62a3d3f0a0",
-    "pubDate": "2025-06-06T07:05:22.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【初心者向け】ほぼ無料でWebアプリをデプロイできるおすすめサービスまとめ",
     "link": "https://qiita.com/pam5596/items/feab853f3a62a3d3f0a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-06T06:46:33.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "JavaScriptジェネレータ関数とユーティリティで楽に配列を生成する",
-    "link": "https://qiita.com/honey32/items/5aef662b6a763373f1fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-06T04:26:06.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "個人事業主や副業用でGoogleに課金するときどれ選べばいいんだよ問題・AI対応 2025年版（Google One / Google AI / Google Workspace の比較）Google Workspace使うとGeminiが格安 - nomolkのブログ",
-    "link": "https://nomolk.hatenablog.com/entry/2025/06/05/113000",
-    "pubDate": "2025-06-06T04:11:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Tmux Cheat Sheet [Inc. Visuals]",
-    "link": "https://tmuxai.dev/tmux-cheat-sheet/",
-    "pubDate": "2025-06-03T01:16:36.000Z"
+    "title": "The 70% problem: Hard truths about AI-assisted coding",
+    "link": "https://addyo.substack.com/p/the-70-problem-hard-truths-about",
+    "pubDate": "2025-02-18T08:38:36.000Z"
   }
 ]
