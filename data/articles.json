@@ -1,5 +1,29 @@
 [
   {
+    "site": "Zenn",
+    "title": "twadaさん講演「質とスピード」@Accenture Innovation Hub Tokyo",
+    "link": "https://zenn.dev/acn_jp_sdet/articles/c2189c9fb65124",
+    "pubDate": "2025-06-09T09:21:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天証券が絵文字使う多要素認証を停止、サーバー過負荷でログインしづらく",
+    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/02589/",
+    "pubDate": "2025-06-09T09:14:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "文系出身の新卒エンジニア急増　女性比率は減少傾向",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/09/news091.html",
+    "pubDate": "2025-06-09T07:41:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「d Wi-Fi」のサービス改定に伴う一部お客さまへのサービス提供終了と継続利用いただくための新機能提供開始について | お知らせ | NTTドコモ",
+    "link": "https://www.docomo.ne.jp/info/news_release/2025/06/09_01.html",
+    "pubDate": "2025-06-09T06:37:36.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ニコニコ生放送がサービスを再開するまでの記録 - dwango on GitHub",
     "link": "https://dwango.github.io/articles/2025-06_docs_of_recovering_from_a_cyberattack/",
@@ -13,9 +37,39 @@
   },
   {
     "site": "Qiita",
+    "title": "CSS Grid入門：grid-template-columns と grid-template-rows を使った実践で活きるGridの基本レイアウト",
+    "link": "https://qiita.com/hayakariy/items/0a02567694da13f0adc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-09T00:42:37.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ゼロイチ開発を応援する新規事業のプロダクトエンジニアは何をしているのか？",
+    "link": "https://qiita.com/GIFCat/items/e49b7ba661bccccfcf63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-09T00:32:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Web 上で Cursor や Copilot のようなタブ入力補完を実装する",
+    "link": "https://zenn.dev/inaniwaudon/articles/2445ff6731afef",
+    "pubDate": "Sun, 08 Jun 2025 23:51:41 GMT"
+  },
+  {
+    "site": "Qiita",
     "title": "ソケット通信、本当に理解していますか？？ - Qiita",
     "link": "https://qiita.com/fujifuji1414/items/6daa393a86582d81f0b5",
     "pubDate": "2025-06-08T21:50:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIとどう付き合っていくか 2025春",
+    "link": "https://zenn.dev/nekoruri/articles/living-with-ai-2025-spring",
+    "pubDate": "Sun, 08 Jun 2025 17:37:19 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【TypeScript】「ホモモーフィック」なマップ型とは何か？",
+    "link": "https://qiita.com/rtkjm22/items/9e9a02f03ece08039e8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-08T16:36:40.000Z"
   },
   {
     "site": "Hatena",
@@ -37,15 +91,15 @@
   },
   {
     "site": "Qiita",
+    "title": "【超有料級】非同期処理がスッと理解できる魔法のレッスン。今日からあなたも非同期の魔法使い！",
+    "link": "https://qiita.com/Keita-0025/items/f24997fe0bbcb3a67a6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-08T13:27:41.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "MastraエージェントをLambdaに載せて動かしたい！~MCPを添えて~",
     "link": "https://qiita.com/har1101/items/ff154108043c94f2ceae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-08T11:43:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google主催『AI エージェント 実践集中コース』に参加した",
-    "link": "https://zenn.dev/mizunny/articles/a8d66977d97daa",
-    "pubDate": "2025-06-08T11:38:42.000Z"
   },
   {
     "site": "Qiita",
@@ -67,6 +121,12 @@
   },
   {
     "site": "Zenn",
+    "title": "どんなURLでも理論上8文字まで短縮するやり方",
+    "link": "https://zenn.dev/cwabara/articles/b54499b5cc78f9",
+    "pubDate": "Sun, 08 Jun 2025 08:30:56 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Google主催『AI エージェント 実践集中コース』に参加した",
     "link": "https://zenn.dev/mizunny/articles/a8d66977d97daa",
     "pubDate": "Sun, 08 Jun 2025 08:12:26 GMT"
@@ -79,21 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Snowflake Summit 25 印象的な新機能・ブース",
-    "link": "https://zenn.dev/yangyang/articles/ac52a36d3dd445",
-    "pubDate": "Sun, 08 Jun 2025 01:27:09 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "無人店舗のエアコンをIoT化して、月70万円節約した話",
     "link": "https://zenn.dev/rsugi/articles/409793eed7255e",
     "pubDate": "Sun, 08 Jun 2025 00:30:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニア界隈で有名な晒し垢が通報を受けて実際にアカウントをロックされるまで",
-    "link": "https://qiita.com/front_to_dev/items/528f77d91e6e98f13401?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T23:33:03.000Z"
   },
   {
     "site": "Zenn",
@@ -103,21 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Python×株式投資：都度DLはやめた─yfinanceで爆速テクニカル分析を回したい - Qiita",
-    "link": "https://qiita.com/rS_alonewolf/items/1d297dbe346b2876eee7",
-    "pubDate": "2025-06-07T17:02:58.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【ECS入門】ECSの専門用語をAWS初心者にもわかりやすく表現してみた",
     "link": "https://qiita.com/hosomatu/items/acdc7b873c7d1589436e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-07T14:42:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "チュートリアル - Anthropic",
-    "link": "https://docs.anthropic.com/ja/docs/claude-code/tutorials",
-    "pubDate": "2025-06-07T13:17:05.000Z"
+    "site": "Zenn",
+    "title": "【Flutter】riverpodで複数のAsyncValueを適切に扱う実装パターン集",
+    "link": "https://zenn.dev/harx/articles/d2136e787f7bb8",
+    "pubDate": "Sat, 07 Jun 2025 13:39:00 GMT"
   },
   {
     "site": "Zenn",
@@ -133,50 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "AWS Transfer Family で SFTP サーバーを構築して閉域のオンプレミスからエンドポイント経由で S3 にアクセスする",
-    "link": "https://qiita.com/takeda_h/items/69db7e5e9aeea21ae5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T09:29:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScriptでマイクラやってみた",
-    "link": "https://zenn.dev/sumiso_c0db8c/articles/036946fd7812f0",
-    "pubDate": "Sat, 07 Jun 2025 06:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Apple Vision Pro のネイティブアプリを Claude Code で100%自動生成してみた",
-    "link": "https://zenn.dev/hololab/articles/avp-010-a1b2c3d4e5f678",
-    "pubDate": "Sat, 07 Jun 2025 04:52:27 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Q developer君で見慣れないくにおくんライクゲームができたから見て",
-    "link": "https://qiita.com/enough-e-o-rice/items/7aa1e355696ce296a627?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T04:28:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025年6月にClaude Codeが突然話題になった理由をまとめる",
-    "link": "https://zenn.dev/oikon/articles/adac12ea9e839b",
-    "pubDate": "Sat, 07 Jun 2025 02:40:01 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "Python×株式投資：都度DLはやめた─yfinanceで爆速テクニカル分析を回したい",
     "link": "https://qiita.com/rS_alonewolf/items/1d297dbe346b2876eee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-06T08:44:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者向け】ほぼ無料でWebアプリをデプロイできるおすすめサービスまとめ",
-    "link": "https://qiita.com/pam5596/items/feab853f3a62a3d3f0a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-06T06:46:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "The 70% problem: Hard truths about AI-assisted coding",
-    "link": "https://addyo.substack.com/p/the-70-problem-hard-truths-about",
-    "pubDate": "2025-02-18T08:38:36.000Z"
   }
 ]
