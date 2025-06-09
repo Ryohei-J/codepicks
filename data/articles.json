@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ",
+    "link": "https://togetter.com/li/2561616",
+    "pubDate": "2025-06-09T10:15:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エンジニアリングマネージャーとして読んでよかった4冊 (+αの5冊) - log4ketancho",
+    "link": "https://www.ketancho.net/entry/2025/03/19/080000",
+    "pubDate": "2025-06-09T09:59:22.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "twadaさん講演「質とスピード」@Accenture Innovation Hub Tokyo",
     "link": "https://zenn.dev/acn_jp_sdet/articles/c2189c9fb65124",
@@ -18,10 +30,16 @@
     "pubDate": "2025-06-09T07:41:25.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Web 上で Cursor や Copilot のようなタブ入力補完を実装する",
+    "link": "https://zenn.dev/inaniwaudon/articles/2445ff6731afef",
+    "pubDate": "2025-06-09T06:04:19.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "「d Wi-Fi」のサービス改定に伴う一部お客さまへのサービス提供終了と継続利用いただくための新機能提供開始について | お知らせ | NTTドコモ",
-    "link": "https://www.docomo.ne.jp/info/news_release/2025/06/09_01.html",
-    "pubDate": "2025-06-09T06:37:36.000Z"
+    "title": "「LRM（大規模推論モデル）の推論能力に限界」──Appleが論文発表",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2506/09/news077.html",
+    "pubDate": "2025-06-09T05:52:41.000Z"
   },
   {
     "site": "Hatena",
@@ -49,9 +67,21 @@
   },
   {
     "site": "Zenn",
+    "title": "n8nを使って面倒くさいリリースノートのチェックを自動化してみた",
+    "link": "https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note",
+    "pubDate": "Sun, 08 Jun 2025 23:57:34 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Web 上で Cursor や Copilot のようなタブ入力補完を実装する",
     "link": "https://zenn.dev/inaniwaudon/articles/2445ff6731afef",
     "pubDate": "Sun, 08 Jun 2025 23:51:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【A2A でリモートエージェントを活用】Agent Engine と A2A サーバーを組み合わせたマルチエージェント連携入門",
+    "link": "https://zenn.dev/google_cloud_jp/articles/3dadca4ff50f1f",
+    "pubDate": "Sun, 08 Jun 2025 22:08:29 GMT"
   },
   {
     "site": "Qiita",
@@ -70,24 +100,6 @@
     "title": "【TypeScript】「ホモモーフィック」なマップ型とは何か？",
     "link": "https://qiita.com/rtkjm22/items/9e9a02f03ece08039e8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-08T16:36:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "特急に乗ってきた上品な感じのお婆さんが後ろの外国人に席を倒して良いか聞こうとして、翻訳アプリの発音機能を使ったら、響き渡った翻訳がこれで口角が上がりまくってしまった… たぶん駄目だよ",
-    "link": "https://togetter.com/li/2561307",
-    "pubDate": "2025-06-08T16:19:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソフトウェアエンジニアとしての将来が見えなくなってきた｜choo",
-    "link": "https://note.com/choo/n/n44ea8a77770f",
-    "pubDate": "2025-06-08T14:57:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "すべてのコーディングエージェントに独立した開発用コンテナ環境を与えられる「Container Use」、Docker創業者がオープンソースで公開",
-    "link": "https://www.publickey1.jp/blog/25/container_usedocker.html",
-    "pubDate": "2025-06-08T13:56:04.000Z"
   },
   {
     "site": "Qiita",
@@ -139,33 +151,21 @@
   },
   {
     "site": "Zenn",
-    "title": "無人店舗のエアコンをIoT化して、月70万円節約した話",
-    "link": "https://zenn.dev/rsugi/articles/409793eed7255e",
-    "pubDate": "Sun, 08 Jun 2025 00:30:05 GMT"
+    "title": "AWS で構築する Streamlit アプリケーション基盤",
+    "link": "https://zenn.dev/dataheroes/articles/20250608-streamlit-in-aws",
+    "pubDate": "Sun, 08 Jun 2025 07:25:53 GMT"
   },
   {
     "site": "Zenn",
-    "title": "macOS設定ウインドウのガイドライン",
-    "link": "https://zenn.dev/usagimaru/articles/b2a328775124ef",
-    "pubDate": "Sat, 07 Jun 2025 19:23:07 GMT"
+    "title": "無人店舗のエアコンをIoT化して、月70万円節約した話",
+    "link": "https://zenn.dev/rsugi/articles/409793eed7255e",
+    "pubDate": "Sun, 08 Jun 2025 00:30:05 GMT"
   },
   {
     "site": "Qiita",
     "title": "【ECS入門】ECSの専門用語をAWS初心者にもわかりやすく表現してみた",
     "link": "https://qiita.com/hosomatu/items/acdc7b873c7d1589436e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-07T14:42:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Flutter】riverpodで複数のAsyncValueを適切に扱う実装パターン集",
-    "link": "https://zenn.dev/harx/articles/d2136e787f7bb8",
-    "pubDate": "Sat, 07 Jun 2025 13:39:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを使って自分用のプロトタイプ開発環境を整理した",
-    "link": "https://zenn.dev/razokulover/articles/7f4b4d21622bda",
-    "pubDate": "Sat, 07 Jun 2025 10:35:38 GMT"
   },
   {
     "site": "Qiita",
