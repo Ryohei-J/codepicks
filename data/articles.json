@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される",
+    "link": "https://gigazine.net/news/20250610-google-phones/",
+    "pubDate": "2025-06-10T02:27:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/10/news076.html",
+    "pubDate": "2025-06-10T01:20:02.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Apple、楽しくて優雅な新しいソフトウェアデザインを発表",
     "link": "https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
     "pubDate": "2025-06-09T21:30:31.000Z"
@@ -13,15 +25,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに　",
+    "title": "「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに",
     "link": "https://www.itmedia.co.jp/news/articles/2506/10/news062.html",
     "pubDate": "2025-06-09T19:54:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Playwright MCPを使ってNotebookLMに自動でソースを流し込む",
-    "link": "https://zenn.dev/pepabo/articles/99042d27d6cf3b",
-    "pubDate": "2025-06-09T14:21:39.000Z"
   },
   {
     "site": "Zenn",
@@ -42,12 +48,6 @@
     "pubDate": "2025-06-09T09:59:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "楽天証券が絵文字使う多要素認証を停止、サーバー過負荷でログインしづらく",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/02589/",
-    "pubDate": "2025-06-09T09:14:25.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "#意識低いAICodingチュートリアル #01 インターネット老人会のサイトを作ろう [GitHub Copilot Agent mode 版]",
     "link": "https://qiita.com/chomado/items/acaf251a2f6bf984a3df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -58,6 +58,12 @@
     "title": "有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価",
     "link": "https://forest.watch.impress.co.jp/docs/news/2020947.html",
     "pubDate": "2025-06-09T07:22:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "n8nを使って面倒くさいリリースノートのチェックを自動化してみた",
+    "link": "https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note",
+    "pubDate": "2025-06-09T05:09:57.000Z"
   },
   {
     "site": "Qiita",
@@ -88,12 +94,6 @@
     "title": "【A2A でリモートエージェントを活用】Agent Engine と A2A サーバーを組み合わせたマルチエージェント連携入門",
     "link": "https://zenn.dev/google_cloud_jp/articles/3dadca4ff50f1f",
     "pubDate": "Sun, 08 Jun 2025 22:08:29 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ソケット通信、本当に理解していますか？？ - Qiita",
-    "link": "https://qiita.com/fujifuji1414/items/6daa393a86582d81f0b5",
-    "pubDate": "2025-06-08T21:50:51.000Z"
   },
   {
     "site": "Zenn",
