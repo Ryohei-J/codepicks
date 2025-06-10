@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "Appleの新OS「iOS26」がリリースされ半透明のガラスのようなデザインに「既視感あると思ったらWindowsじゃん、20年前にやってたのをドヤ顔で出されても...」",
+    "link": "https://togetter.com/li/2562013",
+    "pubDate": "2025-06-10T12:56:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTで障害発生--「仕事にならない」の声",
+    "link": "https://japan.cnet.com/article/35234083/",
+    "pubDate": "2025-06-10T11:24:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Announcing Oxlint 1.0",
+    "link": "https://voidzero.dev/posts/announcing-oxlint-1-stable",
+    "pubDate": "2025-06-10T10:21:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "JR東に“ブルートレイン”復活か　27年春に新型夜行特急",
     "link": "https://www.itmedia.co.jp/news/articles/2506/10/news119.html",
     "pubDate": "2025-06-10T07:21:12.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Googleアカウントに紐付けられた電話番号が「総当たり」で見つかる問題が発見される",
-    "link": "https://gigazine.net/news/20250610-google-phones/",
-    "pubDate": "2025-06-10T02:27:57.000Z"
+    "title": "360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2021444.html",
+    "pubDate": "2025-06-10T07:16:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20250610a/",
+    "pubDate": "2025-06-10T05:25:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/10/news099.html",
+    "pubDate": "2025-06-10T05:03:54.000Z"
   },
   {
     "site": "Hatena",
@@ -18,28 +48,10 @@
     "pubDate": "2025-06-10T01:22:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Switch 2は、ウルトラハイスピードHDMIで接続して」　Switch用は能力不足　ACアダプタも同様",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/10/news076.html",
-    "pubDate": "2025-06-10T01:20:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Apple、楽しくて優雅な新しいソフトウェアデザインを発表",
-    "link": "https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
-    "pubDate": "2025-06-09T21:30:31.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "WWDC25 で出てきた Containerization Framework を試す",
     "link": "https://zenn.dev/k2wanko/articles/7b12cc87fabc18",
     "pubDate": "Mon, 09 Jun 2025 21:29:29 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.",
-    "link": "https://github.com/apple/container",
-    "pubDate": "2025-06-09T20:42:06.000Z"
   },
   {
     "site": "Hatena",
@@ -57,13 +69,13 @@
     "site": "Zenn",
     "title": "Claude Codeを並列組織化してClaude Code \"Company\"にするtmuxコマンド集",
     "link": "https://zenn.dev/kazuph/articles/beb87d102bd4f5",
-    "pubDate": "2025-06-09T13:43:44.000Z"
+    "pubDate": "Mon, 09 Jun 2025 13:42:56 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeを並列組織化してClaude Code \"Company\"にするtmuxコマンド集",
-    "link": "https://zenn.dev/kazuph/articles/beb87d102bd4f5",
-    "pubDate": "Mon, 09 Jun 2025 13:42:56 GMT"
+    "title": "Next.js App RouterのコンポーネントをVS Codeでサーバー・クライアント別に可視化する",
+    "link": "https://zenn.dev/makotot/articles/ec6c631bc83e9e",
+    "pubDate": "Mon, 09 Jun 2025 13:33:47 GMT"
   },
   {
     "site": "Zenn",
@@ -97,15 +109,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Markdown→HTMLはこう進化したーパイプライン最前線",
+    "link": "https://zenn.dev/ignorant_kenji/articles/8c0236cfa7c726",
+    "pubDate": "Mon, 09 Jun 2025 07:36:21 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "twadaさん講演「質とスピード」@Accenture Innovation Hub Tokyo",
     "link": "https://zenn.dev/acn_jp_sdet/articles/c2189c9fb65124",
     "pubDate": "Mon, 09 Jun 2025 07:00:01 GMT"
   },
   {
     "site": "Zenn",
-    "title": "n8nを使って面倒くさいリリースノートのチェックを自動化してみた",
-    "link": "https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note",
-    "pubDate": "2025-06-09T05:09:57.000Z"
+    "title": "Unityのゲーム以外をいい感じに設計する",
+    "link": "https://zenn.dev/d_forest/articles/af7bbca511eb0e",
+    "pubDate": "Mon, 09 Jun 2025 05:29:34 GMT"
   },
   {
     "site": "Zenn",
@@ -118,24 +136,6 @@
     "title": "CSS Grid入門：grid-template-columns と grid-template-rows を使った実践で活きるGridの基本レイアウト",
     "link": "https://qiita.com/hayakariy/items/0a02567694da13f0adc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-09T00:42:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "n8nを使って面倒くさいリリースノートのチェックを自動化してみた",
-    "link": "https://zenn.dev/cloud_ace/articles/n8n-google-cloud-release-note",
-    "pubDate": "Sun, 08 Jun 2025 23:57:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 上で Cursor や Copilot のようなタブ入力補完を実装する",
-    "link": "https://zenn.dev/inaniwaudon/articles/2445ff6731afef",
-    "pubDate": "Sun, 08 Jun 2025 23:51:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【A2A でリモートエージェントを活用】Agent Engine と A2A サーバーを組み合わせたマルチエージェント連携入門",
-    "link": "https://zenn.dev/google_cloud_jp/articles/3dadca4ff50f1f",
-    "pubDate": "Sun, 08 Jun 2025 22:08:29 GMT"
   },
   {
     "site": "Qiita",
