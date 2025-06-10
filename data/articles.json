@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "Apple、楽しくて優雅な新しいソフトウェアデザインを発表",
+    "link": "https://www.apple.com/jp/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+    "pubDate": "2025-06-09T21:30:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.",
+    "link": "https://github.com/apple/container",
+    "pubDate": "2025-06-09T20:42:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに　",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/10/news062.html",
+    "pubDate": "2025-06-09T19:54:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Playwright MCPを使ってNotebookLMに自動でソースを流し込む",
+    "link": "https://zenn.dev/pepabo/articles/99042d27d6cf3b",
+    "pubDate": "2025-06-09T14:21:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeを並列組織化してClaude Code \"Company\"にするtmuxコマンド集",
+    "link": "https://zenn.dev/kazuph/articles/beb87d102bd4f5",
+    "pubDate": "2025-06-09T13:43:44.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ノイキャンできるおすすめのイヤホン教えてください→数多くあるイヤホンからおすすめされた有名メーカーの最新ワイヤレスイヤホンまとめ",
     "link": "https://togetter.com/li/2561616",
     "pubDate": "2025-06-09T10:15:24.000Z"
@@ -12,58 +42,34 @@
     "pubDate": "2025-06-09T09:59:22.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "twadaさん講演「質とスピード」@Accenture Innovation Hub Tokyo",
-    "link": "https://zenn.dev/acn_jp_sdet/articles/c2189c9fb65124",
-    "pubDate": "2025-06-09T09:21:30.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "楽天証券が絵文字使う多要素認証を停止、サーバー過負荷でログインしづらく",
     "link": "https://xtech.nikkei.com/atcl/nxt/news/24/02589/",
     "pubDate": "2025-06-09T09:14:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "文系出身の新卒エンジニア急増　女性比率は減少傾向",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/09/news091.html",
-    "pubDate": "2025-06-09T07:41:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 上で Cursor や Copilot のようなタブ入力補完を実装する",
-    "link": "https://zenn.dev/inaniwaudon/articles/2445ff6731afef",
-    "pubDate": "2025-06-09T06:04:19.000Z"
+    "site": "Qiita",
+    "title": "#意識低いAICodingチュートリアル #01 インターネット老人会のサイトを作ろう [GitHub Copilot Agent mode 版]",
+    "link": "https://qiita.com/chomado/items/acaf251a2f6bf984a3df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-09T07:37:00.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「LRM（大規模推論モデル）の推論能力に限界」──Appleが論文発表",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2506/09/news077.html",
-    "pubDate": "2025-06-09T05:52:41.000Z"
+    "title": "有価証券報告書を用いた日本語金融LLMベンチマーク「EDINET-Bench」、Sakana AIが公開／高度な金融タスクにてAIがどの程度対応できるかを評価",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2020947.html",
+    "pubDate": "2025-06-09T07:22:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ニコニコ生放送がサービスを再開するまでの記録 - dwango on GitHub",
-    "link": "https://dwango.github.io/articles/2025-06_docs_of_recovering_from_a_cyberattack/",
-    "pubDate": "2025-06-09T02:56:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "PowerAutomateとCopilotがSlackスレッドを無料で要約する方法を伝えたい",
-    "link": "https://coopel.ai/column/post/20250609/",
-    "pubDate": "2025-06-09T02:00:09.000Z"
+    "site": "Qiita",
+    "title": "Expoのネイティブコード管理をBare WorkflowからContinuous Native Generation (CNG)に移管した話",
+    "link": "https://qiita.com/shunnosuke_goan/items/980d47dc996916a5a648?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-09T01:02:16.000Z"
   },
   {
     "site": "Qiita",
     "title": "CSS Grid入門：grid-template-columns と grid-template-rows を使った実践で活きるGridの基本レイアウト",
     "link": "https://qiita.com/hayakariy/items/0a02567694da13f0adc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-09T00:42:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ゼロイチ開発を応援する新規事業のプロダクトエンジニアは何をしているのか？",
-    "link": "https://qiita.com/GIFCat/items/e49b7ba661bccccfcf63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-09T00:32:00.000Z"
   },
   {
     "site": "Zenn",
@@ -109,13 +115,7 @@
   },
   {
     "site": "Qiita",
-    "title": "MastraエージェントをLambdaに載せて動かしたい！~MCPを添えて~",
-    "link": "https://qiita.com/har1101/items/ff154108043c94f2ceae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-08T11:43:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ソケット通信、本当に理解していますか？？",
+    "title": "ソケット通信を一緒に理解しよう！！",
     "link": "https://qiita.com/fujifuji1414/items/6daa393a86582d81f0b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-08T09:33:32.000Z"
   },
@@ -163,6 +163,12 @@
   },
   {
     "site": "Qiita",
+    "title": "どんなインプットも読みやすい左サイドバー目次付きの議事録にするプロンプト文",
+    "link": "https://qiita.com/oichan00/items/004612d2f73dcc48c771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-07T15:03:29.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【ECS入門】ECSの専門用語をAWS初心者にもわかりやすく表現してみた",
     "link": "https://qiita.com/hosomatu/items/acdc7b873c7d1589436e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-07T14:42:04.000Z"
@@ -172,11 +178,5 @@
     "title": "GitHubのプロフィールがめちゃめちゃかっこよくする方法",
     "link": "https://qiita.com/tks_00/items/113940e80947451f69f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-07T10:06:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Python×株式投資：都度DLはやめた─yfinanceで爆速テクニカル分析を回したい",
-    "link": "https://qiita.com/rS_alonewolf/items/1d297dbe346b2876eee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-06T08:44:33.000Z"
   }
 ]
