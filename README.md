@@ -1,3 +1,22 @@
+# CodePicks
+
+これはAIエディタ・Cursorで開発したキュレーションアプリです。  
+Qiita, Zenn, はてなブログの人気記事を定期的に取得し、まとめて表示しています。  
+また、タグ検索機能では、QiitaとZennの記事ををまとめて検索することができます。
+
+https://codepicks.vercel.app/
+
+## 使用技術
+
+- Cursor  
+- Next.js
+- TypeScript
+- Tailwind.css
+- Github Actions
+- Vercel
+
+***
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
