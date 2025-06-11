@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "血圧を最も下げる運動とは。その効果「降圧薬並み」？【研究紹介】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/column/detail_681/",
+    "pubDate": "2025-06-11T00:10:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "たいして技術力ないのに、人当たりの良さとタスク捌きと面倒見の良さだけで仕事してすみません→「神かな」「一番必要なスキルじゃん」",
+    "link": "https://posfie.com/@petaritape/p/GRN5e36",
+    "pubDate": "2025-06-11T00:01:55.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "人はなぜ規則に従うのか？　“信号無視でお金がもらえる”状況で検証　米国チームが発表",
     "link": "https://www.itmedia.co.jp/news/articles/2506/11/news027.html",
     "pubDate": "2025-06-10T23:51:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【AI開発時代】Claude Code学び直しノート - 15分で時代に追いつけるか？ - uepon日々の備忘録",
+    "link": "https://uepon.hatenadiary.com/entry/2025/06/10/134022",
+    "pubDate": "2025-06-10T22:39:42.000Z"
   },
   {
     "site": "Hatena",
@@ -18,28 +36,22 @@
     "pubDate": "2025-06-10T14:42:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Appleの新OS「iOS26」がリリースされ半透明のガラスのようなデザインに「既視感あると思ったらWindowsじゃん、20年前にやってたのをドヤ顔で出されても...」",
-    "link": "https://togetter.com/li/2562013",
-    "pubDate": "2025-06-10T12:56:16.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeを20万円分使ってバイブコーディングの生産性を更に向上させるツールを作った",
     "link": "https://zenn.dev/aktriver/articles/2025-06-claude-code-200k-vibe-coding",
     "pubDate": "2025-06-10T12:43:55.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Markdown→HTMLはこう進化したーパイプライン最前線",
-    "link": "https://zenn.dev/ignorant_kenji/articles/8c0236cfa7c726",
-    "pubDate": "2025-06-10T11:28:11.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "ChatGPTで障害発生--「仕事にならない」の声",
     "link": "https://japan.cnet.com/article/35234083/",
     "pubDate": "2025-06-10T11:24:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "BotterのAI活用研究 1.",
+    "link": "https://zenn.dev/hibikiaikawa/articles/ba729c8661445a",
+    "pubDate": "Tue, 10 Jun 2025 08:47:42 GMT"
   },
   {
     "site": "Zenn",
@@ -55,7 +67,7 @@
   },
   {
     "site": "Zenn",
-    "title": "Mastra×構造化データのストリーミングで”家庭教師検索AIエージェント”を開発した話",
+    "title": "Mastra×RAG×構造化ストリーミングの開発事例 - 先生検索AIエージェントの詳細解説",
     "link": "https://zenn.dev/manalink_dev/articles/teacher-search-agent-by-mastra",
     "pubDate": "Tue, 10 Jun 2025 04:20:08 GMT"
   },
@@ -84,16 +96,16 @@
     "pubDate": "Mon, 09 Jun 2025 21:29:29 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ccmanager: Git Worktreeで並列に動くClaude Codeを一括管理する",
+    "link": "https://zenn.dev/kbwok/articles/33fad69555d005",
+    "pubDate": "Mon, 09 Jun 2025 20:00:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【朗報】macOS 15.4でsortコマンドのソート順がまともに修正されました！  〜 マーズとマーキュリーの間にジュピターが割り込んでいた理由",
     "link": "https://qiita.com/ko1nksm/items/ce20e643bd83a72850b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-09T14:31:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "もし今、先生がゼロから新しく証券会社や銀行のオンラインサイトを設計するとしたら、認証周りはどのように設計しますか？パスキー一択ですか？ | mond",
-    "link": "https://mond.how/ja/topics/oh29t739o02xojm/eyqo7ib32qlj3ra",
-    "pubDate": "2025-06-09T14:21:57.000Z"
   },
   {
     "site": "Zenn",
@@ -136,18 +148,6 @@
     "title": "#意識低いAICodingチュートリアル #01 インターネット老人会のサイトを作ろう [GitHub Copilot Agent mode 版]",
     "link": "https://qiita.com/chomado/items/acaf251a2f6bf984a3df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-09T07:37:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Markdown→HTMLはこう進化したーパイプライン最前線",
-    "link": "https://zenn.dev/ignorant_kenji/articles/8c0236cfa7c726",
-    "pubDate": "Mon, 09 Jun 2025 07:36:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "twadaさん講演「質とスピード」@Accenture Innovation Hub Tokyo",
-    "link": "https://zenn.dev/acn_jp_sdet/articles/c2189c9fb65124",
-    "pubDate": "Mon, 09 Jun 2025 07:00:01 GMT"
   },
   {
     "site": "Qiita",
