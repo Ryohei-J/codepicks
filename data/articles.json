@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "人はなぜ規則に従うのか？　“信号無視でお金がもらえる”状況で検証　米国チームが発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/11/news027.html",
+    "pubDate": "2025-06-10T23:51:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ついにApple全デバイスが同じ操作体系に　共通の“皮膚”と“神経”を取り入れて新たな時代へ踏み出したApple",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2506/11/news042.html",
+    "pubDate": "2025-06-10T16:35:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "全世界のソフトウェア開発者は4700万人。最も多いのがJavaScript開発者で2800万人、Java、Pythonが続く。スラッシュデータの調査",
+    "link": "https://www.publickey1.jp/blog/25/4700javascript2800javapython.html",
+    "pubDate": "2025-06-10T14:42:42.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Appleの新OS「iOS26」がリリースされ半透明のガラスのようなデザインに「既視感あると思ったらWindowsじゃん、20年前にやってたのをドヤ顔で出されても...」",
     "link": "https://togetter.com/li/2562013",
     "pubDate": "2025-06-10T12:56:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeを20万円分使ってバイブコーディングの生産性を更に向上させるツールを作った",
+    "link": "https://zenn.dev/aktriver/articles/2025-06-claude-code-200k-vibe-coding",
+    "pubDate": "2025-06-10T12:43:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Markdown→HTMLはこう進化したーパイプライン最前線",
+    "link": "https://zenn.dev/ignorant_kenji/articles/8c0236cfa7c726",
+    "pubDate": "2025-06-10T11:28:11.000Z"
   },
   {
     "site": "Hatena",
@@ -12,40 +42,40 @@
     "pubDate": "2025-06-10T11:24:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Announcing Oxlint 1.0",
-    "link": "https://voidzero.dev/posts/announcing-oxlint-1-stable",
-    "pubDate": "2025-06-10T10:21:51.000Z"
+    "site": "Zenn",
+    "title": "container-useでコーディングエージェントをローカルで並列実行 - Dockerコンテナ内で安全に環境管理",
+    "link": "https://zenn.dev/minedia/articles/container-use",
+    "pubDate": "2025-06-10T06:50:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "JR東に“ブルートレイン”復活か　27年春に新型夜行特急",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/10/news119.html",
-    "pubDate": "2025-06-10T07:21:12.000Z"
+    "site": "Zenn",
+    "title": "ccmanager: Git Worktreeで並列に動くClaude Codeを一括管理する",
+    "link": "https://zenn.dev/kbwok/articles/33fad69555d005",
+    "pubDate": "2025-06-10T06:39:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "360°ぬいぐるみを飾れるつっぱり収納「ぬいタワー」発売。ぬいぐるみの塔を愛でる",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2021444.html",
-    "pubDate": "2025-06-10T07:16:41.000Z"
+    "site": "Zenn",
+    "title": "Mastra×構造化データのストリーミングで”家庭教師検索AIエージェント”を開発した話",
+    "link": "https://zenn.dev/manalink_dev/articles/teacher-search-agent-by-mastra",
+    "pubDate": "Tue, 10 Jun 2025 04:20:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "macOS 26でLinuxコンテナのネイティブサポートが来る | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20250610a/",
-    "pubDate": "2025-06-10T05:25:29.000Z"
+    "site": "Qiita",
+    "title": "学ロボ2025で開発した基板たち",
+    "link": "https://qiita.com/Haruru_Clacks/items/601620e287fe01897b10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-10T04:01:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Luupが訪日中国人向け施策を強化　WeChatから一部サービス利用可能に",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/10/news099.html",
-    "pubDate": "2025-06-10T05:03:54.000Z"
+    "site": "Qiita",
+    "title": "マテリアルカラー、やめました。",
+    "link": "https://qiita.com/mk4f/items/778f0bb1290c705a2a5e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-10T01:13:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "技術的負債の変質について - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/06/10/091446",
-    "pubDate": "2025-06-10T01:22:35.000Z"
+    "site": "Qiita",
+    "title": "container-useやってみた",
+    "link": "https://qiita.com/moritalous/items/b0ec9548b8104f1bd375?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-09T23:15:10.000Z"
   },
   {
     "site": "Zenn",
@@ -54,10 +84,10 @@
     "pubDate": "Mon, 09 Jun 2025 21:29:29 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「iOS 26」正式発表　12年ぶりにデザイン刷新、“液体ガラス”のようなUIに",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/10/news062.html",
-    "pubDate": "2025-06-09T19:54:50.000Z"
+    "site": "Qiita",
+    "title": "【朗報】macOS 15.4でsortコマンドのソート順がまともに修正されました！  〜 マーズとマーキュリーの間にジュピターが割り込んでいた理由",
+    "link": "https://qiita.com/ko1nksm/items/ce20e643bd83a72850b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-09T14:31:50.000Z"
   },
   {
     "site": "Hatena",
@@ -96,10 +126,10 @@
     "pubDate": "Mon, 09 Jun 2025 09:53:58 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "CICDパイプラインとは？",
-    "link": "https://qiita.com/t-kataoka/items/b948989c8e8f686a2bea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-09T07:45:04.000Z"
+    "site": "Zenn",
+    "title": "コーディングエージェントごとに独立したコンテナを提供するcontainer-useを動かしてLLMを並列同時実行してみた",
+    "link": "https://zenn.dev/minedia/articles/container-use",
+    "pubDate": "Mon, 09 Jun 2025 09:07:39 GMT"
   },
   {
     "site": "Qiita",
@@ -120,22 +150,10 @@
     "pubDate": "Mon, 09 Jun 2025 07:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Unityのゲーム以外をいい感じに設計する",
-    "link": "https://zenn.dev/d_forest/articles/af7bbca511eb0e",
-    "pubDate": "Mon, 09 Jun 2025 05:29:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI新時代を乗り越えていくためのソフトウェアエンジニア航海術",
-    "link": "https://zenn.dev/tacoms/articles/4c2e64e5854651",
-    "pubDate": "Mon, 09 Jun 2025 04:32:24 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "CSS Grid入門：grid-template-columns と grid-template-rows を使った実践で活きるGridの基本レイアウト",
-    "link": "https://qiita.com/hayakariy/items/0a02567694da13f0adc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-09T00:42:37.000Z"
+    "title": "【CI/CD】GitHub Actions + AWS S3 + CloudFrontで静的サイトのCI/CD環境を構築してみた",
+    "link": "https://qiita.com/ryu-ki/items/4117fc08969d055358f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-08T23:10:17.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "【初心者完全版】0からReact開発して基礎をマスターできる最強チュートリアル【図解解説】",
     "link": "https://qiita.com/Sicut_study/items/afd66cac978f4b0a6e61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-08T08:05:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "どんなインプットも読みやすい左サイドバー目次付きの議事録にするプロンプト文",
-    "link": "https://qiita.com/oichan00/items/004612d2f73dcc48c771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T15:03:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ECS入門】ECSの専門用語をAWS初心者にもわかりやすく表現してみた",
-    "link": "https://qiita.com/hosomatu/items/acdc7b873c7d1589436e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T14:42:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHubのプロフィールがめちゃめちゃかっこよくする方法",
-    "link": "https://qiita.com/tks_00/items/113940e80947451f69f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-07T10:06:34.000Z"
   }
 ]
