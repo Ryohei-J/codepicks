@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "ソフトバンク・ワイモバイルのユーザー情報14万件漏えいか　業務委託先が持ち出しや管理不備",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/11/news107.html",
+    "pubDate": "2025-06-11T09:02:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "損害保険ジャパン 不正アクセスで最大約1750万件 情報漏えいか | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250611/k10014832171000.html",
+    "pubDate": "2025-06-11T07:40:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで効率的に開発するための知見管理",
+    "link": "https://zenn.dev/driller/articles/2a23ef94f1d603",
+    "pubDate": "2025-06-11T01:33:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで効率的に開発するための知見管理",
+    "link": "https://zenn.dev/driller/articles/2a23ef94f1d603",
+    "pubDate": "Wed, 11 Jun 2025 01:29:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI領域における組織の強みを活かすアーキテクチャ設計",
+    "link": "https://zenn.dev/aishift/articles/c897d0e095c3d8",
+    "pubDate": "Wed, 11 Jun 2025 00:16:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Unity / iOS】シェーダーのConstantBufferを自作する",
+    "link": "https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer",
+    "pubDate": "Wed, 11 Jun 2025 00:16:02 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "血圧を最も下げる運動とは。その効果「降圧薬並み」？【研究紹介】 レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/column/detail_681/",
     "pubDate": "2025-06-11T00:10:57.000Z"
@@ -12,8 +48,14 @@
     "pubDate": "2025-06-11T00:01:55.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "[アジャイルサムライ 1章]お客さんにとって価値のある成果を届けるために、 本当に大事なこと必要なことって何だっけ？",
+    "link": "https://qiita.com/fukuidaito/items/1fbb765b0f5c4fdc0130?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-10T23:56:47.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "人はなぜ規則に従うのか？　“信号無視でお金がもらえる”状況で検証　米国チームが発表",
+    "title": "人はなぜ規則に従うのか？　“信号無視でお金がもらえる”状況で検証　英国チームが発表",
     "link": "https://www.itmedia.co.jp/news/articles/2506/11/news027.html",
     "pubDate": "2025-06-10T23:51:09.000Z"
   },
@@ -25,15 +67,15 @@
   },
   {
     "site": "Hatena",
-    "title": "ついにApple全デバイスが同じ操作体系に　共通の“皮膚”と“神経”を取り入れて新たな時代へ踏み出したApple",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2506/11/news042.html",
-    "pubDate": "2025-06-10T16:35:58.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "全世界のソフトウェア開発者は4700万人。最も多いのがJavaScript開発者で2800万人、Java、Pythonが続く。スラッシュデータの調査",
     "link": "https://www.publickey1.jp/blog/25/4700javascript2800javapython.html",
     "pubDate": "2025-06-10T14:42:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake Copilot Inline で SQL 分析体験が進化",
+    "link": "https://zenn.dev/tsubasa_tech/articles/eafab909ce2386",
+    "pubDate": "Tue, 10 Jun 2025 13:06:49 GMT"
   },
   {
     "site": "Zenn",
@@ -42,22 +84,10 @@
     "pubDate": "2025-06-10T12:43:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTで障害発生--「仕事にならない」の声",
-    "link": "https://japan.cnet.com/article/35234083/",
-    "pubDate": "2025-06-10T11:24:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "BotterのAI活用研究 1.",
-    "link": "https://zenn.dev/hibikiaikawa/articles/ba729c8661445a",
-    "pubDate": "Tue, 10 Jun 2025 08:47:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "container-useでコーディングエージェントをローカルで並列実行 - Dockerコンテナ内で安全に環境管理",
-    "link": "https://zenn.dev/minedia/articles/container-use",
-    "pubDate": "2025-06-10T06:50:09.000Z"
+    "site": "Qiita",
+    "title": "GitHubを使わないチーム開発の難しさ",
+    "link": "https://qiita.com/MBNesy/items/dac777e34f2f3987b577?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-10T09:28:25.000Z"
   },
   {
     "site": "Zenn",
@@ -79,15 +109,15 @@
   },
   {
     "site": "Qiita",
-    "title": "マテリアルカラー、やめました。",
-    "link": "https://qiita.com/mk4f/items/778f0bb1290c705a2a5e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-10T01:13:26.000Z"
+    "title": "RaspberryPi AI Cameraで冷蔵庫の在庫管理してみた。",
+    "link": "https://qiita.com/SSS-ToshikiHirao/items/930a627b6a82e60a82ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-10T03:44:44.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "container-useやってみた",
-    "link": "https://qiita.com/moritalous/items/b0ec9548b8104f1bd375?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-09T23:15:10.000Z"
+    "site": "Zenn",
+    "title": "手軽にグラフ入りドキュメントでRAGを試す方法",
+    "link": "https://zenn.dev/knowledgesense/articles/fbc17acd9bea19",
+    "pubDate": "Tue, 10 Jun 2025 02:08:06 GMT"
   },
   {
     "site": "Zenn",
@@ -102,12 +132,6 @@
     "pubDate": "Mon, 09 Jun 2025 20:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【朗報】macOS 15.4でsortコマンドのソート順がまともに修正されました！  〜 マーズとマーキュリーの間にジュピターが割り込んでいた理由",
-    "link": "https://qiita.com/ko1nksm/items/ce20e643bd83a72850b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-09T14:31:50.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeを並列組織化してClaude Code \"Company\"にするtmuxコマンド集",
     "link": "https://zenn.dev/kazuph/articles/beb87d102bd4f5",
@@ -120,30 +144,6 @@
     "pubDate": "Mon, 09 Jun 2025 13:33:47 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "typescript-mcp で AI に LSP のリファクタリング機能を与える",
-    "link": "https://zenn.dev/mizchi/articles/introduce-typescript-mcp",
-    "pubDate": "Mon, 09 Jun 2025 13:32:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Playwright MCPを使ってNotebookLMに自動でソースを流し込む",
-    "link": "https://zenn.dev/pepabo/articles/99042d27d6cf3b",
-    "pubDate": "Mon, 09 Jun 2025 13:07:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【これはヤバい】Convexを試したらあらゆる管理が不要になる未来が見えた",
-    "link": "https://zenn.dev/taroosg/articles/20250609173737-3ea3f2062a8cbd",
-    "pubDate": "Mon, 09 Jun 2025 09:53:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コーディングエージェントごとに独立したコンテナを提供するcontainer-useを動かしてLLMを並列同時実行してみた",
-    "link": "https://zenn.dev/minedia/articles/container-use",
-    "pubDate": "Mon, 09 Jun 2025 09:07:39 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "#意識低いAICodingチュートリアル #01 インターネット老人会のサイトを作ろう [GitHub Copilot Agent mode 版]",
     "link": "https://qiita.com/chomado/items/acaf251a2f6bf984a3df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -151,9 +151,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【CI/CD】GitHub Actions + AWS S3 + CloudFrontで静的サイトのCI/CD環境を構築してみた",
-    "link": "https://qiita.com/ryu-ki/items/4117fc08969d055358f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-08T23:10:17.000Z"
+    "title": "「7日間でハッキングをはじめる本」をLinux初心者がやってみた",
+    "link": "https://qiita.com/ikema_sec/items/557d25bf05562adcd9a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-08T15:04:20.000Z"
   },
   {
     "site": "Qiita",
