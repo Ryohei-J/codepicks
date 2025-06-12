@@ -12,6 +12,12 @@
     "pubDate": "2025-06-11T21:03:54.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "誤解の多い「NFD問題とUTF-8-MAC問題」を解説する - macOSの濁点を含むファイル名の扱い - Qiita",
+    "link": "https://qiita.com/ko1nksm/items/3a66197efd1c096a801f",
+    "pubDate": "2025-06-11T16:55:26.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "p5.jsによるクリエイティブコーディング入門 - ICS MEDIA",
     "link": "https://ics.media/entry/250611/",
@@ -31,9 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "30分の学習で動かせる激安219ドルのAIロボットアーム「Navrim」が登場",
-    "link": "https://gigazine.net/news/20250611-navrim-robot/",
-    "pubDate": "2025-06-11T11:42:34.000Z"
+    "title": "史上最も広大な「宇宙地図」が一般公開、誰でもアクセス可能--約80万個の銀河を収録",
+    "link": "https://japan.cnet.com/article/35234111/",
+    "pubDate": "2025-06-11T12:11:34.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +48,22 @@
     "pubDate": "2025-06-11T10:00:40.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "なるべく楽する個人開発 (Claude,MCP Server,Next.js,Vercel,Obsidian)",
+    "link": "https://zenn.dev/b_tm/articles/69cdb64e9db4ca",
+    "pubDate": "Wed, 11 Jun 2025 08:58:34 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "大型書店に出没する男性…「何冊も本を確認」　理由は〝ルビ〟探し",
     "link": "https://withnews.jp/article/f0250611000qq000000000000000W07n10101qq000028062A",
     "pubDate": "2025-06-11T04:49:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeでトークン使用量を削減するアプローチ",
+    "link": "https://zenn.dev/driller/articles/ff6a50ae228b2b",
+    "pubDate": "Wed, 11 Jun 2025 03:48:07 GMT"
   },
   {
     "site": "Qiita",
@@ -72,12 +90,6 @@
     "pubDate": "Wed, 11 Jun 2025 00:16:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【Unity / iOS】シェーダーのConstantBufferを自作する",
-    "link": "https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer",
-    "pubDate": "Wed, 11 Jun 2025 00:16:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "[アジャイルサムライ 1章]お客さんにとって価値のある成果を届けるために、 本当に大事なこと必要なことって何だっけ？",
     "link": "https://qiita.com/fukuidaito/items/1fbb765b0f5c4fdc0130?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -90,16 +102,22 @@
     "pubDate": "2025-06-10T14:56:24.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Snowflake Copilot Inline で SQL 分析体験が進化",
-    "link": "https://zenn.dev/tsubasa_tech/articles/eafab909ce2386",
-    "pubDate": "Tue, 10 Jun 2025 13:06:49 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "MCP入門 〜面倒なことはAIエージェントにやらせよう〜　by からあげ　を聞きながら",
     "link": "https://qiita.com/kaizen_nagoya/items/54b648c838fae8d57e38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-10T11:34:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「何にでも .filter() を使う人」にならないために覚えておきたい JavaScript の便利な組み込みメソッド",
+    "link": "https://zenn.dev/somnicattus/articles/df5b7373d7b2dd",
+    "pubDate": "Tue, 10 Jun 2025 10:46:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIを使うと思考力は本当に低下する？思考停止を避けて、AIを「考えるための道具」にする方法",
+    "link": "https://zenn.dev/cloud_ace/articles/bd609aa6df5cc6",
+    "pubDate": "Tue, 10 Jun 2025 09:42:49 GMT"
   },
   {
     "site": "Zenn",
@@ -120,22 +138,10 @@
     "pubDate": "2025-06-10T03:44:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【簡単】NotebookLMでBacklogのRAG構築をするための方法 | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/backlog-notebooklm-rag-construction/",
-    "pubDate": "2025-06-10T03:07:53.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Apple Container ツール入門ガイド",
     "link": "https://qiita.com/1amageek/items/76a52fddbae6a89b5c5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-10T02:44:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "手軽にグラフ入りドキュメントでRAGを試す方法",
-    "link": "https://zenn.dev/knowledgesense/articles/fbc17acd9bea19",
-    "pubDate": "Tue, 10 Jun 2025 02:08:06 GMT"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "Claude Codeを並列組織化してClaude Code \"Company\"にするtmuxコマンド集",
     "link": "https://zenn.dev/kazuph/articles/beb87d102bd4f5",
     "pubDate": "Mon, 09 Jun 2025 13:42:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js App RouterのコンポーネントをVS Codeでサーバー・クライアント別に可視化する",
-    "link": "https://zenn.dev/makotot/articles/ec6c631bc83e9e",
-    "pubDate": "Mon, 09 Jun 2025 13:33:47 GMT"
   },
   {
     "site": "Qiita",
