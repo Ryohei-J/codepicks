@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "メールを送りつけてAIを操り機密情報を盗み出すゼロクリック攻撃手法「Echoleak」が発見される、メールを受信しただけでアウトでMicrosoft CopilotやMCP対応サービスなどあらゆるAIシステムにリスクあり",
+    "link": "https://gigazine.net/news/20250612-echoleak-microsoft-copilot-zero-click-attack/",
+    "pubDate": "2025-06-12T04:55:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Dify: OCI Generative AIでRAGチャットボットを10分で作成してみる",
+    "link": "https://qiita.com/yushibat/items/a661c29e8640224a7681?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-12T02:36:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeに保守しやすいコードを書いてもらうための事前準備やガードレール - くらげになりたい。",
+    "link": "https://www.memory-lovers.blog/entry/2025/06/12/074355",
+    "pubDate": "2025-06-12T02:29:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "DisneyとUniversal、AI画像生成のMidjourneyを提訴",
     "link": "https://www.itmedia.co.jp/news/articles/2506/12/news054.html",
     "pubDate": "2025-06-11T22:02:57.000Z"
@@ -24,10 +42,16 @@
     "pubDate": "2025-06-11T14:37:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「金融系システムに関わったITエンジニアの面構えは違う」この投稿に同意と辛かった業界を挙げる声「金融なんか全然まともで病院と学校は二度とやりたくない」",
-    "link": "https://togetter.com/li/2562457",
-    "pubDate": "2025-06-11T13:20:14.000Z"
+    "site": "Qiita",
+    "title": "誤解の多い「NFD問題とUTF-8-MAC問題」を解説する - macOSの濁点を含むファイル名の扱い",
+    "link": "https://qiita.com/ko1nksm/items/3a66197efd1c096a801f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-11T13:58:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Route 53 プライベートホストゾーンで Alias レコードを使わずに CNAME レコードを使ってしまうとハマることがある",
+    "link": "https://qiita.com/takeda_h/items/19461b557a4b5aadfb59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-11T13:25:58.000Z"
   },
   {
     "site": "Hatena",
@@ -43,9 +67,21 @@
   },
   {
     "site": "Hatena",
-    "title": "AIエージェント「Cursor」で変わる開発マネジメントの実践論 - DMM Developers Blog",
-    "link": "https://developersblog.dmm.com/entry/2025/06/09/110000",
-    "pubDate": "2025-06-11T10:00:40.000Z"
+    "title": "HOW TO READ Prompt Engineering for LLM (牛本)",
+    "link": "https://speakerdeck.com/yuhattor/how-to-read-prompt-engineering-for-llm-niu-ben",
+    "pubDate": "2025-06-11T12:11:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "OpenAI、最上位推論モデル「o3-pro」公開！ProユーザーとAPIから利用可能に！",
+    "link": "https://qiita.com/ryosuke_ohori/items/359750938f984a6ff5e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-11T09:39:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Cursor × kintoneMCP】AIエージェント丸投げで会話だけでアプリ開発",
+    "link": "https://qiita.com/sasajimay/items/9c89982ccd0754ef98c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-11T09:15:13.000Z"
   },
   {
     "site": "Zenn",
@@ -66,18 +102,6 @@
     "pubDate": "Wed, 11 Jun 2025 03:48:07 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【TCP通信】アプリ間のソケット通信をデバッグするためのSocketDebuggerを使ってみた",
-    "link": "https://qiita.com/umezawa_udom/items/9515884a187f06427364?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-11T01:39:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで効率的に開発するための知見管理",
-    "link": "https://zenn.dev/driller/articles/2a23ef94f1d603",
-    "pubDate": "2025-06-11T01:33:29.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeで効率的に開発するための知見管理",
     "link": "https://zenn.dev/driller/articles/2a23ef94f1d603",
@@ -91,9 +115,9 @@
   },
   {
     "site": "Qiita",
-    "title": "[アジャイルサムライ 1章]お客さんにとって価値のある成果を届けるために、 本当に大事なこと必要なことって何だっけ？",
-    "link": "https://qiita.com/fukuidaito/items/1fbb765b0f5c4fdc0130?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-10T23:56:47.000Z"
+    "title": "「Cursor」で新人向け「SQLトレーニング問題作成」するプロンプト作成",
+    "link": "https://qiita.com/WdknWdkn/items/c19bddb688efb8c40689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-10T16:05:46.000Z"
   },
   {
     "site": "Qiita",
@@ -127,21 +151,9 @@
   },
   {
     "site": "Qiita",
-    "title": "学ロボ2025で開発した基板たち",
-    "link": "https://qiita.com/Haruru_Clacks/items/601620e287fe01897b10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-10T04:01:08.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "RaspberryPi AI Cameraで冷蔵庫の在庫管理してみた。",
     "link": "https://qiita.com/SSS-ToshikiHirao/items/930a627b6a82e60a82ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-10T03:44:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Apple Container ツール入門ガイド",
-    "link": "https://qiita.com/1amageek/items/76a52fddbae6a89b5c5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-10T02:44:35.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "Mon, 09 Jun 2025 20:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【朗報】macOS 15.4でsortコマンドのソート順がまともに修正されました！  〜 マーズとマーキュリーの間にジュピターが割り込んでいた理由",
-    "link": "https://qiita.com/ko1nksm/items/ce20e643bd83a72850b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-09T14:31:50.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeを並列組織化してClaude Code \"Company\"にするtmuxコマンド集",
     "link": "https://zenn.dev/kazuph/articles/beb87d102bd4f5",
     "pubDate": "Mon, 09 Jun 2025 13:42:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "#意識低いAICodingチュートリアル #01 インターネット老人会のサイトを作ろう [GitHub Copilot Agent mode 版]",
-    "link": "https://qiita.com/chomado/items/acaf251a2f6bf984a3df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-09T07:37:00.000Z"
   }
 ]
