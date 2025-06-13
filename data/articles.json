@@ -1,9 +1,45 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Code による技術的特異点を見届けろ",
+    "link": "https://zenn.dev/mizchi/articles/claude-code-singularity-point",
+    "pubDate": "2025-06-13T08:04:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "政府、米の“転売”を規制へ　23日から　違反者は一年未満の拘禁か100万円以下の罰金",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/13/news107.html",
+    "pubDate": "2025-06-13T07:38:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "富士通製PCが起動しなくなる不具合多発。Windows Updateが原因か",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2022467.html",
+    "pubDate": "2025-06-13T05:16:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIで失われるもの",
+    "link": "https://qiita.com/maketahara_ise/items/9a79f89c33f46cecc0a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-13T01:20:56.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「リボ払い」は邪悪なのか “応援クレカ”騒動にみる誤解【鈴木淳也のPay Attention】",
     "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2022300.html",
     "pubDate": "2025-06-13T01:18:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コードを書けない自分がWebサービスを作りはじめた話 ― Claude Codeとの出会い｜Fugashi",
+    "link": "https://note.com/fugashi/n/n598cc460aa9a",
+    "pubDate": "2025-06-13T00:58:43.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "文系未経験からエンジニアを志すまで",
+    "link": "https://qiita.com/suzu-tree/items/b7f168b5294e29b19b8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-13T00:07:26.000Z"
   },
   {
     "site": "Hatena",
@@ -13,15 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "e-govで一時的にアクセス集中していたけど、誰かが作ったリーガルAIが質問受けるたびに参照した結果DoS攻撃になっていないか？という推測「岡崎市立中央図書館事件の比じゃない」",
-    "link": "https://togetter.com/li/2562953",
-    "pubDate": "2025-06-12T22:00:19.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Cursor で100日間アプリを作り続けた中で、全然うまくいかなかったこと - フラミナル",
     "link": "https://blog.framinal.life/entry/2025/06/12/143349",
     "pubDate": "2025-06-12T21:25:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【tmuxでClaude CodeのMaxプランでAI組織を動かし放題のローカル環境ができた〜〜〜！ので、やり方をシェア！！🔥🔥🔥🙌☺️】",
+    "link": "https://qiita.com/akira_funakoshi/items/9f6c6605e925a88b9ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-12T17:00:48.000Z"
   },
   {
     "site": "Hatena",
@@ -36,34 +72,16 @@
     "pubDate": "2025-06-12T14:08:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「この本が生き残り戦略を教えてくれた」トップエンジニアたちが推薦！ 三冊の“学びの羅針盤 ” - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/28524/",
-    "pubDate": "2025-06-12T11:08:25.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code 版 Orchestaror で複雑なタスクをステップ実行する",
     "link": "https://zenn.dev/mizchi/articles/claude-code-orchestrator",
     "pubDate": "Thu, 12 Jun 2025 10:33:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIコーディング新時代を生き残るための試行錯誤",
-    "link": "https://speakerdeck.com/tomohisa/ai-coding-survival-guide",
-    "pubDate": "2025-06-12T10:03:54.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "なぜ、アジャイル開発はカオス化してしまうのか？",
     "link": "https://qiita.com/t-furusato/items/3394937bc55b652404d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-12T07:57:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "How I Use Claude Code",
-    "link": "https://spiess.dev/blog/how-i-use-claude-code",
-    "pubDate": "2025-06-12T07:02:24.000Z"
   },
   {
     "site": "Qiita",
@@ -78,28 +96,22 @@
     "pubDate": "Thu, 12 Jun 2025 06:06:10 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "主要4クラウド（AWS/Azure/Google Cloud/OCI）コスト徹底比較（2025年5月版）",
+    "link": "https://qiita.com/kazunishi/items/168552327e3177b95698?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-12T06:01:08.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "音声ファースト思考術で人生が変わった話 - Obsidian × 音声入力で21日間330件のメモで見えたAI時代の新しい可能性｜けいすけ / AIマンガ家",
     "link": "https://note.com/konho/n/nf1756cc4a937",
     "pubDate": "2025-06-12T05:12:12.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Dify: OCI Generative AIでRAGチャットボットを10分で作成してみる",
-    "link": "https://qiita.com/yushibat/items/a661c29e8640224a7681?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T02:36:04.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "azooKeyの開発近況（2025年6月バージョン）",
     "link": "https://zenn.dev/azookey/articles/7a2c2d20a3cc4a",
     "pubDate": "Thu, 12 Jun 2025 02:30:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon Q CLIを使用して車ゲーを作ってみた",
-    "link": "https://qiita.com/yu_720/items/4514485d5588ae23d95f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T01:51:45.000Z"
   },
   {
     "site": "Zenn",
@@ -132,6 +144,12 @@
     "pubDate": "Wed, 11 Jun 2025 08:58:34 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "同期式回路で非同期信号を扱う際の注意点",
+    "link": "https://qiita.com/ikwzm/items/83e55d85e4e285aa4485?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-11T08:18:45.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeでトークン使用量を削減するアプローチ",
     "link": "https://zenn.dev/driller/articles/ff6a50ae228b2b",
@@ -160,23 +178,5 @@
     "title": "今更htmxに触れてみた",
     "link": "https://qiita.com/nanana08/items/8d641b4d3faa915bfdc5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-10T14:56:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MCP入門 〜面倒なことはAIエージェントにやらせよう〜　by からあげ　を聞きながら",
-    "link": "https://qiita.com/kaizen_nagoya/items/54b648c838fae8d57e38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-10T11:34:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHubを使わないチーム開発の難しさ",
-    "link": "https://qiita.com/MBNesy/items/dac777e34f2f3987b577?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-10T09:28:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "RaspberryPi AI Cameraで冷蔵庫の在庫管理してみた。",
-    "link": "https://qiita.com/SSS-ToshikiHirao/items/930a627b6a82e60a82ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-10T03:44:44.000Z"
   }
 ]
