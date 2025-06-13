@@ -1,9 +1,75 @@
 [
   {
     "site": "Hatena",
-    "title": "メールを送りつけてAIを操り機密情報を盗み出すゼロクリック攻撃手法「Echoleak」が発見される、メールを受信しただけでアウトでMicrosoft CopilotやMCP対応サービスなどあらゆるAIシステムにリスクあり",
-    "link": "https://gigazine.net/news/20250612-echoleak-microsoft-copilot-zero-click-attack/",
-    "pubDate": "2025-06-12T04:55:13.000Z"
+    "title": "e-govで一時的にアクセス集中していたけど、誰かが作ったリーガルAIが質問受けるたびに参照した結果DoS攻撃になっていないか？という推測「岡崎市立中央図書館事件の比じゃない」",
+    "link": "https://togetter.com/li/2562953",
+    "pubDate": "2025-06-12T22:00:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cursor で100日間アプリを作り続けた中で、全然うまくいかなかったこと - フラミナル",
+    "link": "https://blog.framinal.life/entry/2025/06/12/143349",
+    "pubDate": "2025-06-12T21:25:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米国でソフトウェアエンジニアの仕事が急減してる本当の理由はこれ。エンジニアの給与を経費にできなくなり、資産として5年償却しなければいけなくなったから",
+    "link": "https://posfie.com/@taimport/p/4yuqBNv",
+    "pubDate": "2025-06-12T15:39:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "やさしい認証認可",
+    "link": "https://speakerdeck.com/minorun365/yasasiiren-zheng-ren-ke",
+    "pubDate": "2025-06-12T14:08:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「この本が生き残り戦略を教えてくれた」トップエンジニアたちが推薦！ 三冊の“学びの羅針盤 ” - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/28524/",
+    "pubDate": "2025-06-12T11:08:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code活用において、メンタルモデルを変える必要がある / rethinking-claude-code-mental-models",
+    "link": "https://speakerdeck.com/erukiti/rethinking-claude-code-mental-models",
+    "pubDate": "2025-06-12T10:29:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIコーディング新時代を生き残るための試行錯誤",
+    "link": "https://speakerdeck.com/tomohisa/ai-coding-survival-guide",
+    "pubDate": "2025-06-12T10:03:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜ、アジャイル開発はカオス化してしまうのか？",
+    "link": "https://qiita.com/t-furusato/items/3394937bc55b652404d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-12T07:57:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "How I Use Claude Code",
+    "link": "https://spiess.dev/blog/how-i-use-claude-code",
+    "pubDate": "2025-06-12T07:02:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS DevOps系サービスを整理（SAM・CodePipeline・CodeBuildなど）",
+    "link": "https://qiita.com/kaga5863/items/52af4159d047f451aa3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-12T06:09:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "30代からプログラマー。3年でRubyKaigi登壇。塩井美咲の「驚くほど運が悪い」人生はなぜ急変したのか | LIFE DRAFT",
+    "link": "https://life.job-draft.jp/2025/06/12/887/",
+    "pubDate": "2025-06-12T05:56:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "音声ファースト思考術で人生が変わった話 - Obsidian × 音声入力で21日間330件のメモで見えたAI時代の新しい可能性｜けいすけ / AIマンガ家",
+    "link": "https://note.com/konho/n/nf1756cc4a937",
+    "pubDate": "2025-06-12T05:12:12.000Z"
   },
   {
     "site": "Qiita",
@@ -12,34 +78,10 @@
     "pubDate": "2025-06-12T02:36:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeに保守しやすいコードを書いてもらうための事前準備やガードレール - くらげになりたい。",
-    "link": "https://www.memory-lovers.blog/entry/2025/06/12/074355",
-    "pubDate": "2025-06-12T02:29:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "DisneyとUniversal、AI画像生成のMidjourneyを提訴",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/12/news054.html",
-    "pubDate": "2025-06-11T22:02:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "米の値上がり。グラフを見れば誰がどう見たって「先物取引解禁のせい」って一目でわかるのに、なんで誰もそれを口にしないんだろうね？｜にゃくそ",
-    "link": "https://note.com/nyakuso5601/n/n05c56f1487bd",
-    "pubDate": "2025-06-11T21:03:54.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "誤解の多い「NFD問題とUTF-8-MAC問題」を解説する - macOSの濁点を含むファイル名の扱い - Qiita",
-    "link": "https://qiita.com/ko1nksm/items/3a66197efd1c096a801f",
-    "pubDate": "2025-06-11T16:55:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "p5.jsによるクリエイティブコーディング入門 - ICS MEDIA",
-    "link": "https://ics.media/entry/250611/",
-    "pubDate": "2025-06-11T14:37:28.000Z"
+    "title": "Amazon Q CLIを使用して車ゲーを作ってみた",
+    "link": "https://qiita.com/yu_720/items/4514485d5588ae23d95f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-12T01:51:45.000Z"
   },
   {
     "site": "Qiita",
@@ -48,52 +90,16 @@
     "pubDate": "2025-06-11T13:58:49.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Route 53 プライベートホストゾーンで Alias レコードを使わずに CNAME レコードを使ってしまうとハマることがある",
-    "link": "https://qiita.com/takeda_h/items/19461b557a4b5aadfb59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-11T13:25:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "あなたのネット履歴が誰に追跡されてるか…このサイトでわかります",
-    "link": "https://www.gizmodo.jp/2025/06/search-engine-webxray-1.html",
-    "pubDate": "2025-06-11T12:54:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "史上最も広大な「宇宙地図」が一般公開、誰でもアクセス可能--約80万個の銀河を収録",
-    "link": "https://japan.cnet.com/article/35234111/",
-    "pubDate": "2025-06-11T12:11:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "HOW TO READ Prompt Engineering for LLM (牛本)",
-    "link": "https://speakerdeck.com/yuhattor/how-to-read-prompt-engineering-for-llm-niu-ben",
-    "pubDate": "2025-06-11T12:11:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "OpenAI、最上位推論モデル「o3-pro」公開！ProユーザーとAPIから利用可能に！",
-    "link": "https://qiita.com/ryosuke_ohori/items/359750938f984a6ff5e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-11T09:39:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Cursor × kintoneMCP】AIエージェント丸投げで会話だけでアプリ開発",
-    "link": "https://qiita.com/sasajimay/items/9c89982ccd0754ef98c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-11T09:15:13.000Z"
+    "site": "Zenn",
+    "title": "Copilot Chat を “コードレビューの達人” にする実践的プロンプト設計と運用のコツ",
+    "link": "https://zenn.dev/ashita_team/articles/copilot-chat-code-review",
+    "pubDate": "Wed, 11 Jun 2025 10:54:13 GMT"
   },
   {
     "site": "Zenn",
     "title": "なるべく楽する個人開発 (Claude,MCP Server,Next.js,Vercel,Obsidian)",
     "link": "https://zenn.dev/b_tm/articles/69cdb64e9db4ca",
     "pubDate": "Wed, 11 Jun 2025 08:58:34 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "大型書店に出没する男性…「何冊も本を確認」　理由は〝ルビ〟探し",
-    "link": "https://withnews.jp/article/f0250611000qq000000000000000W07n10101qq000028062A",
-    "pubDate": "2025-06-11T04:49:29.000Z"
   },
   {
     "site": "Zenn",
@@ -114,6 +120,12 @@
     "pubDate": "Wed, 11 Jun 2025 00:16:36 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ISMS取得備忘録　これから取得する方へ",
+    "link": "https://zenn.dev/dress_code/articles/8c958ea5464de4",
+    "pubDate": "Wed, 11 Jun 2025 00:10:48 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「Cursor」で新人向け「SQLトレーニング問題作成」するプロンプト作成",
     "link": "https://qiita.com/WdknWdkn/items/c19bddb688efb8c40689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -124,6 +136,12 @@
     "title": "今更htmxに触れてみた",
     "link": "https://qiita.com/nanana08/items/8d641b4d3faa915bfdc5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-10T14:56:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake Copilot Inline で SQL 分析体験が進化",
+    "link": "https://zenn.dev/tsubasa_tech/articles/eafab909ce2386",
+    "pubDate": "Tue, 10 Jun 2025 13:06:49 GMT"
   },
   {
     "site": "Qiita",
@@ -138,28 +156,16 @@
     "pubDate": "Tue, 10 Jun 2025 10:46:54 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIを使うと思考力は本当に低下する？思考停止を避けて、AIを「考えるための道具」にする方法",
-    "link": "https://zenn.dev/cloud_ace/articles/bd609aa6df5cc6",
-    "pubDate": "Tue, 10 Jun 2025 09:42:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Mastra×RAG×構造化ストリーミングの開発事例 - 先生検索AIエージェントの詳細解説",
-    "link": "https://zenn.dev/manalink_dev/articles/teacher-search-agent-by-mastra",
-    "pubDate": "Tue, 10 Jun 2025 04:20:08 GMT"
+    "site": "Qiita",
+    "title": "GitHubを使わないチーム開発の難しさ",
+    "link": "https://qiita.com/MBNesy/items/dac777e34f2f3987b577?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-10T09:28:25.000Z"
   },
   {
     "site": "Qiita",
     "title": "RaspberryPi AI Cameraで冷蔵庫の在庫管理してみた。",
     "link": "https://qiita.com/SSS-ToshikiHirao/items/930a627b6a82e60a82ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-10T03:44:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "リリース作業を限界まで自動化(ツール化)した話",
-    "link": "https://qiita.com/yuken/items/30dbd4c991ff6a323c02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-10T00:16:58.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "ccmanager: Git Worktreeで並列に動くClaude Codeを一括管理する",
     "link": "https://zenn.dev/kbwok/articles/33fad69555d005",
     "pubDate": "Mon, 09 Jun 2025 20:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを並列組織化してClaude Code \"Company\"にするtmuxコマンド集",
-    "link": "https://zenn.dev/kazuph/articles/beb87d102bd4f5",
-    "pubDate": "Mon, 09 Jun 2025 13:42:56 GMT"
   }
 ]
