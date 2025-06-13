@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "「リボ払い」は邪悪なのか “応援クレカ”騒動にみる誤解【鈴木淳也のPay Attention】",
+    "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2022300.html",
+    "pubDate": "2025-06-13T01:18:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "首と顔をマッサージ→脳の老廃物の排出を促進、認知症リスク低下　マウス実験で検証　韓国チームがNatureで発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/13/news034.html",
+    "pubDate": "2025-06-12T23:54:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "e-govで一時的にアクセス集中していたけど、誰かが作ったリーガルAIが質問受けるたびに参照した結果DoS攻撃になっていないか？という推測「岡崎市立中央図書館事件の比じゃない」",
     "link": "https://togetter.com/li/2562953",
     "pubDate": "2025-06-12T22:00:19.000Z"
@@ -30,10 +42,10 @@
     "pubDate": "2025-06-12T11:08:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code活用において、メンタルモデルを変える必要がある / rethinking-claude-code-mental-models",
-    "link": "https://speakerdeck.com/erukiti/rethinking-claude-code-mental-models",
-    "pubDate": "2025-06-12T10:29:20.000Z"
+    "site": "Zenn",
+    "title": "Claude Code 版 Orchestaror で複雑なタスクをステップ実行する",
+    "link": "https://zenn.dev/mizchi/articles/claude-code-orchestrator",
+    "pubDate": "Thu, 12 Jun 2025 10:33:00 GMT"
   },
   {
     "site": "Hatena",
@@ -60,10 +72,10 @@
     "pubDate": "2025-06-12T06:09:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "30代からプログラマー。3年でRubyKaigi登壇。塩井美咲の「驚くほど運が悪い」人生はなぜ急変したのか | LIFE DRAFT",
-    "link": "https://life.job-draft.jp/2025/06/12/887/",
-    "pubDate": "2025-06-12T05:56:47.000Z"
+    "site": "Zenn",
+    "title": "令和に爆誕したモダンなCSSフレームワーク、Lism CSS の概要",
+    "link": "https://zenn.dev/ddryo_loos/articles/20250612-lism-css",
+    "pubDate": "Thu, 12 Jun 2025 06:06:10 GMT"
   },
   {
     "site": "Hatena",
@@ -78,10 +90,28 @@
     "pubDate": "2025-06-12T02:36:04.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "azooKeyの開発近況（2025年6月バージョン）",
+    "link": "https://zenn.dev/azookey/articles/7a2c2d20a3cc4a",
+    "pubDate": "Thu, 12 Jun 2025 02:30:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Amazon Q CLIを使用して車ゲーを作ってみた",
     "link": "https://qiita.com/yu_720/items/4514485d5588ae23d95f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-12T01:51:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「これ？歴史的な経緯でこうなってます！」",
+    "link": "https://zenn.dev/aldagram_tech/articles/7196bc24f0713f",
+    "pubDate": "Wed, 11 Jun 2025 23:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMの制約を味方にする開発術",
+    "link": "https://zenn.dev/hidenorigoto/articles/38b22a2ccbeac6",
+    "pubDate": "Wed, 11 Jun 2025 15:46:09 GMT"
   },
   {
     "site": "Qiita",
@@ -120,12 +150,6 @@
     "pubDate": "Wed, 11 Jun 2025 00:16:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ISMS取得備忘録　これから取得する方へ",
-    "link": "https://zenn.dev/dress_code/articles/8c958ea5464de4",
-    "pubDate": "Wed, 11 Jun 2025 00:10:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「Cursor」で新人向け「SQLトレーニング問題作成」するプロンプト作成",
     "link": "https://qiita.com/WdknWdkn/items/c19bddb688efb8c40689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -138,22 +162,10 @@
     "pubDate": "2025-06-10T14:56:24.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Snowflake Copilot Inline で SQL 分析体験が進化",
-    "link": "https://zenn.dev/tsubasa_tech/articles/eafab909ce2386",
-    "pubDate": "Tue, 10 Jun 2025 13:06:49 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "MCP入門 〜面倒なことはAIエージェントにやらせよう〜　by からあげ　を聞きながら",
     "link": "https://qiita.com/kaizen_nagoya/items/54b648c838fae8d57e38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-10T11:34:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「何にでも .filter() を使う人」にならないために覚えておきたい JavaScript の便利な組み込みメソッド",
-    "link": "https://zenn.dev/somnicattus/articles/df5b7373d7b2dd",
-    "pubDate": "Tue, 10 Jun 2025 10:46:54 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "RaspberryPi AI Cameraで冷蔵庫の在庫管理してみた。",
     "link": "https://qiita.com/SSS-ToshikiHirao/items/930a627b6a82e60a82ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-10T03:44:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "WWDC25 で出てきた Containerization Framework を試す",
-    "link": "https://zenn.dev/k2wanko/articles/7b12cc87fabc18",
-    "pubDate": "Mon, 09 Jun 2025 21:29:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ccmanager: Git Worktreeで並列に動くClaude Codeを一括管理する",
-    "link": "https://zenn.dev/kbwok/articles/33fad69555d005",
-    "pubDate": "Mon, 09 Jun 2025 20:00:01 GMT"
   }
 ]
