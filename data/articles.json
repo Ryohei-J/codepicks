@@ -6,6 +6,12 @@
     "pubDate": "2025-06-13T08:04:49.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Code による技術的特異点を見届けろ",
+    "link": "https://zenn.dev/mizchi/articles/claude-code-singularity-point",
+    "pubDate": "Fri, 13 Jun 2025 07:57:42 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "政府、米の“転売”を規制へ　23日から　違反者は一年未満の拘禁か100万円以下の罰金",
     "link": "https://www.itmedia.co.jp/news/articles/2506/13/news107.html",
@@ -34,6 +40,12 @@
     "title": "コードを書けない自分がWebサービスを作りはじめた話 ― Claude Codeとの出会い｜Fugashi",
     "link": "https://note.com/fugashi/n/n598cc460aa9a",
     "pubDate": "2025-06-13T00:58:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ObsidianとAIを組み合わせて図表を手軽に作成する | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/06/obsidian-08",
+    "pubDate": "2025-06-13T00:55:20.000Z"
   },
   {
     "site": "Qiita",
@@ -66,16 +78,40 @@
     "pubDate": "2025-06-12T15:39:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "やさしい認証認可",
-    "link": "https://speakerdeck.com/minorun365/yasasiiren-zheng-ren-ke",
-    "pubDate": "2025-06-12T14:08:41.000Z"
+    "site": "Zenn",
+    "title": "【C#】Incremental Source Generator入門",
+    "link": "https://zenn.dev/nuskey/articles/introduction-to-incremental-source-generator",
+    "pubDate": "Thu, 12 Jun 2025 13:33:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "nuqs の Debounce 機能による URL パラメータ最適化",
+    "link": "https://zenn.dev/tsuboi/articles/ae1d907c72d6e3",
+    "pubDate": "Thu, 12 Jun 2025 12:07:15 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Docker Desktopのライセンス料金を払いたくない企業エンジニア向けに代替ツールを比較してみた",
+    "link": "https://zenn.dev/cloud_ace/articles/docker-desktop-alternatives",
+    "pubDate": "Thu, 12 Jun 2025 11:03:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Go】古いコードからの卒業を支えるMCPサーバー",
+    "link": "https://zenn.dev/foxtail88/articles/recent-go-mcp",
+    "pubDate": "Thu, 12 Jun 2025 11:01:26 GMT"
   },
   {
     "site": "Zenn",
     "title": "Claude Code 版 Orchestaror で複雑なタスクをステップ実行する",
     "link": "https://zenn.dev/mizchi/articles/claude-code-orchestrator",
     "pubDate": "Thu, 12 Jun 2025 10:33:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "最先端のオープンソースTTSモデル『Chatterbox』とは！？〜使い方から技術詳細まで〜",
+    "link": "https://zenn.dev/parakeet_tech/articles/aee87a4137398b",
+    "pubDate": "Thu, 12 Jun 2025 08:04:13 GMT"
   },
   {
     "site": "Qiita",
@@ -109,21 +145,15 @@
   },
   {
     "site": "Zenn",
+    "title": "AIにもまさる筋肉駆動開発のススメ 〜エンジニアが筋トレで爆速成長する理由〜",
+    "link": "https://zenn.dev/coconala/articles/af2e6cd9781adb",
+    "pubDate": "Thu, 12 Jun 2025 04:05:55 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "azooKeyの開発近況（2025年6月バージョン）",
     "link": "https://zenn.dev/azookey/articles/7a2c2d20a3cc4a",
     "pubDate": "Thu, 12 Jun 2025 02:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「これ？歴史的な経緯でこうなってます！」",
-    "link": "https://zenn.dev/aldagram_tech/articles/7196bc24f0713f",
-    "pubDate": "Wed, 11 Jun 2025 23:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMの制約を味方にする開発術",
-    "link": "https://zenn.dev/hidenorigoto/articles/38b22a2ccbeac6",
-    "pubDate": "Wed, 11 Jun 2025 15:46:09 GMT"
   },
   {
     "site": "Qiita",
@@ -132,40 +162,10 @@
     "pubDate": "2025-06-11T13:58:49.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Copilot Chat を “コードレビューの達人” にする実践的プロンプト設計と運用のコツ",
-    "link": "https://zenn.dev/ashita_team/articles/copilot-chat-code-review",
-    "pubDate": "Wed, 11 Jun 2025 10:54:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なるべく楽する個人開発 (Claude,MCP Server,Next.js,Vercel,Obsidian)",
-    "link": "https://zenn.dev/b_tm/articles/69cdb64e9db4ca",
-    "pubDate": "Wed, 11 Jun 2025 08:58:34 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "同期式回路で非同期信号を扱う際の注意点",
     "link": "https://qiita.com/ikwzm/items/83e55d85e4e285aa4485?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-11T08:18:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeでトークン使用量を削減するアプローチ",
-    "link": "https://zenn.dev/driller/articles/ff6a50ae228b2b",
-    "pubDate": "Wed, 11 Jun 2025 03:48:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで効率的に開発するための知見管理",
-    "link": "https://zenn.dev/driller/articles/2a23ef94f1d603",
-    "pubDate": "Wed, 11 Jun 2025 01:29:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI領域における組織の強みを活かすアーキテクチャ設計",
-    "link": "https://zenn.dev/aishift/articles/c897d0e095c3d8",
-    "pubDate": "Wed, 11 Jun 2025 00:16:36 GMT"
   },
   {
     "site": "Qiita",
