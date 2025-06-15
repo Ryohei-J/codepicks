@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "Google Cloud、世界中のリージョンが影響を受けた大規模障害、原因は管理システムがヌルポインタ参照でクラッシュしたこと",
+    "link": "https://www.publickey1.jp/blog/25/google_cloud_3.html",
+    "pubDate": "2025-06-15T14:32:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "\"緊急じゃないけど、重要なこと\" に取り組めるか - pospomeのプログラミング日記",
+    "link": "https://www.pospome.work/entry/2025/06/15/173638",
+    "pubDate": "2025-06-15T08:40:00.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Anthropic「How we built our multi-agent research system」の要点まとめ",
     "link": "https://zenn.dev/ml_bear/articles/a5dc93b9d03edd",
@@ -7,9 +19,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Google Cloudの大規模障害についてGoogleが原因と対策を説明",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/15/news026.html",
-    "pubDate": "2025-06-15T06:49:52.000Z"
+    "title": "Claude Codeの会話ログをDuckDBで分析して自分の仕事スタイルを改善する方法 - yasuhisa's blog",
+    "link": "https://www.yasuhisay.info/entry/2025/06/15/162704",
+    "pubDate": "2025-06-15T07:36:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「広告の質が良いからあんまりストレスねんだよな」Amazonプライムビデオ、広告が出るようになってからアニメの前後半の間にCMが挟まるようになって視聴体験が逆に良くなってる",
+    "link": "https://togetter.com/li/2563952",
+    "pubDate": "2025-06-15T06:21:48.000Z"
   },
   {
     "site": "Zenn",
@@ -31,15 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "スレッズでインフルエンサーによる「愛国」的なパクり投稿botが目立ってる - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2025/06/15/060000",
-    "pubDate": "2025-06-14T22:30:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【中華ロボット25年史】ツッコミどころ満載だった「先行者」から四半世紀、中国の技術はここまで進化した。今や世界最強のロボ大国！　 - IT・科学 - ニュース",
-    "link": "https://wpb.shueisha.co.jp/news/technology/2025/06/14/127245/",
-    "pubDate": "2025-06-14T18:51:37.000Z"
+    "title": "【コピペでOK】ChatGPTのVoice Modeでリアルな会話練習！もう英会話のフリートークは怖くない｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請",
+    "link": "https://note.com/genkaijokyo/n/n64efcfcd6cdd",
+    "pubDate": "2025-06-14T16:19:52.000Z"
   },
   {
     "site": "Zenn",
@@ -70,12 +82,6 @@
     "title": "関数型言語を採用し、維持し、継続する",
     "link": "https://zenn.dev/siiibo_tech/articles/adopting-fp-languages",
     "pubDate": "Sat, 14 Jun 2025 12:53:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「もうダメだ！ AIの小説が上手すぎる」作家3名が文芸と生成AIの未来を語る配信企画",
-    "link": "https://kai-you.net/article/92685",
-    "pubDate": "2025-06-14T10:33:46.000Z"
   },
   {
     "site": "Zenn",
@@ -166,12 +172,6 @@
     "title": "【tmuxでClaude CodeのMaxプランでAI組織を動かし放題のローカル環境ができた〜〜〜！ので、やり方をシェア！！🔥🔥🔥🙌☺️】",
     "link": "https://qiita.com/akira_papa_AI/items/9f6c6605e925a88b9ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-12T17:00:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「Claude Codeで効率的に開発するための知見管理」をコマンド1発で自分のプロジェクトに反映する方法",
-    "link": "https://zenn.dev/minedia/articles/claude-code-knowledge-management",
-    "pubDate": "2025-06-12T15:16:30.000Z"
   },
   {
     "site": "Hatena",
