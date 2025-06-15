@@ -1,9 +1,39 @@
 [
   {
+    "site": "Hatena",
+    "title": "スレッズでインフルエンサーによる「愛国」的なパクり投稿botが目立ってる - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2025/06/15/060000",
+    "pubDate": "2025-06-14T22:30:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【中華ロボット25年史】ツッコミどころ満載だった「先行者」から四半世紀、中国の技術はここまで進化した。今や世界最強のロボ大国！　 - IT・科学 - ニュース",
+    "link": "https://wpb.shueisha.co.jp/news/technology/2025/06/14/127245/",
+    "pubDate": "2025-06-14T18:51:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "関数型言語を採用し、維持し、継続する",
+    "link": "https://zenn.dev/siiibo_tech/articles/adopting-fp-languages",
+    "pubDate": "Sat, 14 Jun 2025 12:53:45 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "システム開発は「決めること」の連続 - Magnolia Tech",
+    "link": "https://blog.magnolia.tech/entry/2025/06/14/142324",
+    "pubDate": "2025-06-14T10:02:29.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "[2025年6月13日] やっぱりClaude Codeしか勝たんかもしれない (週刊AI)",
     "link": "https://zenn.dev/carenet/articles/59f62014092a1b",
     "pubDate": "2025-06-14T09:36:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自作のスキーマ言語: TYML",
+    "link": "https://zenn.dev/bea4dev/articles/49adc4be4638b0",
+    "pubDate": "Sat, 14 Jun 2025 08:27:41 GMT"
   },
   {
     "site": "Hatena",
@@ -18,16 +48,22 @@
     "pubDate": "2025-06-14T07:04:09.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "『ユニットテスト基礎講座』（@JJUG CCC 2025 Spring）の補足",
+    "link": "https://zenn.dev/yonekubo/articles/9fa0bb47309f04",
+    "pubDate": "Sat, 14 Jun 2025 06:32:26 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【tmuxでClaude CodeのMaxプランでAI組織を動かし放題のローカル環境ができた〜〜〜！ので、やり方をシェア！！🔥🔥🔥🙌☺️】 - Qiita",
     "link": "https://qiita.com/akira_papa_AI/items/9f6c6605e925a88b9ac5",
     "pubDate": "2025-06-14T06:16:03.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "uv, ruff, devcontainer, Claude Codeを使ったモダンなPython開発環境のテンプレート",
-    "link": "https://zenn.dev/mjun0812/articles/0ae2325d40ed20",
-    "pubDate": "2025-06-14T03:34:46.000Z"
+    "site": "Qiita",
+    "title": "説明図用の画像生成 各サービス精度比較",
+    "link": "https://qiita.com/hokutoh/items/046c21f04e3879fcd761?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-14T05:43:00.000Z"
   },
   {
     "site": "Hatena",
@@ -48,10 +84,22 @@
     "pubDate": "Sat, 14 Jun 2025 02:13:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "型システムを知りたい人のための型検査器作成入門",
-    "link": "https://speakerdeck.com/mame/fp-matsuri-2025-bootstrapping-type-checker",
-    "pubDate": "2025-06-14T00:17:05.000Z"
+    "site": "Zenn",
+    "title": "Cursor x Claude Code = Vibes Coding = 俺いる...?🤔になった話。",
+    "link": "https://zenn.dev/spacemarket/articles/73c24b04da41bb",
+    "pubDate": "Sat, 14 Jun 2025 00:41:55 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "[速習] 知能・認知・AI 第1回 認知科学から見る「知能」とは何か (認知プロセス/思考システム/注意力の壁)",
+    "link": "https://qiita.com/ShigemoriMasato/items/96ed0b1ce7cb102814ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-13T21:19:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": " Qiitaに記事を書いて得られたメリットについて整理する",
+    "link": "https://qiita.com/rS_alonewolf/items/712a36f09045758c1424?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-13T20:05:59.000Z"
   },
   {
     "site": "Zenn",
@@ -66,12 +114,6 @@
     "pubDate": "Fri, 13 Jun 2025 14:30:12 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AWS完全初心者がBuilderCardsで無双した話",
-    "link": "https://qiita.com/tks_1128/items/8e25874d6384e28c7c17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-13T13:53:21.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "GeminiとNotebookLMを使った最強の旅行準備方法｜けんすう",
     "link": "https://kensuu.com/n/na917a6c26bec",
@@ -84,12 +126,6 @@
     "pubDate": "Fri, 13 Jun 2025 09:13:28 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「知性がタダになる世界」で我々は何を価値とするのか？ — Sam AltmanのAI論から考える人間の価値の未来｜KAJI | 梶谷健人",
-    "link": "https://note.com/kajiken0630/n/n0bea37994358",
-    "pubDate": "2025-06-13T09:00:45.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code による技術的特異点を見届けろ",
     "link": "https://zenn.dev/mizchi/articles/claude-code-singularity-point",
@@ -97,21 +133,15 @@
   },
   {
     "site": "Qiita",
-    "title": "AIへの指示の出し方で実際どのくらい変わるのよ(Webページ編)",
-    "link": "https://qiita.com/yamat0-i/items/6da9d6a5682f63f52d05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-13T05:37:38.000Z"
+    "title": "文系未経験からエンジニアを志すまで",
+    "link": "https://qiita.com/suzu-tree/items/b7f168b5294e29b19b8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-13T00:07:26.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "カルマンフィルタを使ってマスターズ選手権2024決勝のA問題を解いてみた",
-    "link": "https://zenn.dev/algoartis/articles/kalmanfilter_masters_2024",
-    "pubDate": "Fri, 13 Jun 2025 05:27:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[Frontend Replace] アーキテクチャ設計篇",
-    "link": "https://zenn.dev/team_soda/articles/26fca8234d9bc5",
-    "pubDate": "Fri, 13 Jun 2025 00:30:01 GMT"
+    "site": "Qiita",
+    "title": "webサービスを成功させるために必要なClaude Code のAI組織形態を、フェーズ別/シチュエーション別で考えてみた🔥",
+    "link": "https://qiita.com/akira_papa_AI/items/a67be1f2acbb32e6ec36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-12T18:24:21.000Z"
   },
   {
     "site": "Qiita",
@@ -132,28 +162,10 @@
     "pubDate": "2025-06-12T17:00:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "DXブームがついに終了　生成AI活用に逃げ込む日本企業の末路",
-    "link": "https://business.nikkei.com/atcl/gen/19/00322/060200186/",
-    "pubDate": "2025-06-12T15:37:58.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "「Claude Codeで効率的に開発するための知見管理」をコマンド1発で自分のプロジェクトに反映する方法",
     "link": "https://zenn.dev/minedia/articles/claude-code-knowledge-management",
-    "pubDate": "Thu, 12 Jun 2025 13:25:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "nuqs の Debounce 機能による URL パラメータ最適化",
-    "link": "https://zenn.dev/tsuboi/articles/ae1d907c72d6e3",
-    "pubDate": "Thu, 12 Jun 2025 12:07:15 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "APEX：SQLclでアプリケーションをエクスポートしてみる",
-    "link": "https://qiita.com/yushibat/items/85a10098d5f70dfba41b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T08:14:48.000Z"
+    "pubDate": "2025-06-12T15:16:30.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Dify: OCI Generative AIでRAGチャットボットを10分で作成してみる",
-    "link": "https://qiita.com/yushibat/items/a661c29e8640224a7681?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T02:36:04.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "ZENRIN Maps APIの始め方",
     "link": "https://qiita.com/zdc_m-sato/items/68ec66b1153c2f7925c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-12T01:38:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "誤解の多い「NFD問題とUTF-8-MAC問題」を解説する - macOSの濁点を含むファイル名の扱い",
-    "link": "https://qiita.com/ko1nksm/items/3a66197efd1c096a801f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-11T13:58:49.000Z"
   }
 ]
