@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "ある大手企業と研究機関によるホワイトペーパーをLLMに読み込ませたところ、「内容とは無関係な不審な指示文」が目視で分からないところに埋め込まれててゾッとした話",
+    "link": "https://togetter.com/li/2563875",
+    "pubDate": "2025-06-15T01:47:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "スレッズでインフルエンサーによる「愛国」的なパクり投稿botが目立ってる - 電脳塵芥",
     "link": "https://nou-yunyun.hatenablog.com/entry/2025/06/15/060000",
     "pubDate": "2025-06-14T22:30:33.000Z"
@@ -16,6 +22,12 @@
     "title": "関数型言語を採用し、維持し、継続する",
     "link": "https://zenn.dev/siiibo_tech/articles/adopting-fp-languages",
     "pubDate": "Sat, 14 Jun 2025 12:53:45 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「もうダメだ！ AIの小説が上手すぎる」作家3名が文芸と生成AIの未来を語る配信企画",
+    "link": "https://kai-you.net/article/92685",
+    "pubDate": "2025-06-14T10:33:46.000Z"
   },
   {
     "site": "Hatena",
@@ -43,21 +55,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeの問題解決能力の底上げを試みる：MCPサーバー + subagents",
-    "link": "https://zenn.dev/oikon/articles/82c9a52dc45810",
-    "pubDate": "2025-06-14T07:04:09.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "『ユニットテスト基礎講座』（@JJUG CCC 2025 Spring）の補足",
     "link": "https://zenn.dev/yonekubo/articles/9fa0bb47309f04",
     "pubDate": "Sat, 14 Jun 2025 06:32:26 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【tmuxでClaude CodeのMaxプランでAI組織を動かし放題のローカル環境ができた〜〜〜！ので、やり方をシェア！！🔥🔥🔥🙌☺️】 - Qiita",
-    "link": "https://qiita.com/akira_papa_AI/items/9f6c6605e925a88b9ac5",
-    "pubDate": "2025-06-14T06:16:03.000Z"
   },
   {
     "site": "Qiita",
@@ -97,7 +97,7 @@
   },
   {
     "site": "Qiita",
-    "title": " Qiitaに記事を書いて得られたメリットについて整理する",
+    "title": "活躍したいが会社が嫌だ、そうだQiitaに記事を投稿しよう。",
     "link": "https://qiita.com/rS_alonewolf/items/712a36f09045758c1424?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-13T20:05:59.000Z"
   },
