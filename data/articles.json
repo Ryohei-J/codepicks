@@ -1,9 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "Anthropic「How we built our multi-agent research system」の要点まとめ",
+    "link": "https://zenn.dev/ml_bear/articles/a5dc93b9d03edd",
+    "pubDate": "Sun, 15 Jun 2025 08:14:35 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Cloudの大規模障害についてGoogleが原因と対策を説明",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/15/news026.html",
+    "pubDate": "2025-06-15T06:49:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMを用いた最近の学習について",
+    "link": "https://zenn.dev/razokulover/articles/b6efec15ea1823",
+    "pubDate": "2025-06-15T03:13:41.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ある大手企業と研究機関によるホワイトペーパーをLLMに読み込ませたところ、「内容とは無関係な不審な指示文」が目視で分からないところに埋め込まれててゾッとした話",
     "link": "https://togetter.com/li/2563875",
     "pubDate": "2025-06-15T01:47:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Excelがあればなんでもできる",
+    "link": "https://ascii.jp/elem/000/004/285/4285511/",
+    "pubDate": "2025-06-15T01:34:25.000Z"
   },
   {
     "site": "Hatena",
@@ -19,6 +43,30 @@
   },
   {
     "site": "Zenn",
+    "title": "Reactの内部の仕組み読み解きガイド (執筆中)",
+    "link": "https://zenn.dev/calloc134/articles/how-react-works-guide",
+    "pubDate": "Sat, 14 Jun 2025 16:19:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "新興 PostgreSQL サービス企業の買収劇の背景：Snowflake と Databricks が描く未来に思いを馳せてみた",
+    "link": "https://zenn.dev/yohei/articles/2025-06-14-postgres-snowflake-databricks",
+    "pubDate": "Sat, 14 Jun 2025 15:19:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMを用いた最近の学習について",
+    "link": "https://zenn.dev/razokulover/articles/b6efec15ea1823",
+    "pubDate": "Sat, 14 Jun 2025 14:22:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "React・Next.js・TypeScriptのキャッチアップのために、荒唐無稽なリモート理由を診断してくれるアプリを作成しました。",
+    "link": "https://zenn.dev/hiiragi/articles/create_remote-diagnosis-app",
+    "pubDate": "Sat, 14 Jun 2025 13:55:15 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "関数型言語を採用し、維持し、継続する",
     "link": "https://zenn.dev/siiibo_tech/articles/adopting-fp-languages",
     "pubDate": "Sat, 14 Jun 2025 12:53:45 GMT"
@@ -30,28 +78,16 @@
     "pubDate": "2025-06-14T10:33:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "システム開発は「決めること」の連続 - Magnolia Tech",
-    "link": "https://blog.magnolia.tech/entry/2025/06/14/142324",
-    "pubDate": "2025-06-14T10:02:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[2025年6月13日] やっぱりClaude Codeしか勝たんかもしれない (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/59f62014092a1b",
-    "pubDate": "2025-06-14T09:36:21.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "自作のスキーマ言語: TYML",
     "link": "https://zenn.dev/bea4dev/articles/49adc4be4638b0",
     "pubDate": "Sat, 14 Jun 2025 08:27:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "バイブコーディングチュートリアル：Claude Code でカンバンアプリケーションを作成しよう",
-    "link": "https://azukiazusa.dev/blog/vibe-coding-tutorial-create-app-with-claude-code/",
-    "pubDate": "2025-06-14T07:06:00.000Z"
+    "site": "Qiita",
+    "title": "brew 一発で任意のプロジェクトに対応する「Multi-Claude」マルチエージェントシステムを作ってみた",
+    "link": "https://qiita.com/sutaminajing40/items/bef8b822a1f58aac842a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-14T07:16:31.000Z"
   },
   {
     "site": "Zenn",
@@ -67,9 +103,9 @@
   },
   {
     "site": "Hatena",
-    "title": "外骨格ロボットで登山、中国観光地でブーム⋯“若返りツール”に高齢者もハマる | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
-    "link": "https://36kr.jp/350889/",
-    "pubDate": "2025-06-14T03:15:14.000Z"
+    "title": "Gitアレルギーが治っちゃう！キャラで覚えるGitローカル編（Cursor対応）【1】ローカル編 GPTs付き！｜コタ",
+    "link": "https://note.com/nyattoh/n/nd731d2e88804",
+    "pubDate": "2025-06-14T03:29:50.000Z"
   },
   {
     "site": "Zenn",
@@ -84,58 +120,28 @@
     "pubDate": "Sat, 14 Jun 2025 02:13:09 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Cursor x Claude Code = Vibes Coding = 俺いる...?🤔になった話。",
-    "link": "https://zenn.dev/spacemarket/articles/73c24b04da41bb",
-    "pubDate": "Sat, 14 Jun 2025 00:41:55 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "[速習] 知能・認知・AI 第1回 認知科学から見る「知能」とは何か (認知プロセス/思考システム/注意力の壁)",
-    "link": "https://qiita.com/ShigemoriMasato/items/96ed0b1ce7cb102814ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-13T21:19:08.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "活躍したいが会社が嫌だ、そうだQiitaに記事を投稿しよう。",
     "link": "https://qiita.com/rS_alonewolf/items/712a36f09045758c1424?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-13T20:05:59.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Astro新時代! 再ビルド不要のLive Content Collections",
-    "link": "https://zenn.dev/katsuyuki/articles/69081373cf9f0b",
-    "pubDate": "Fri, 13 Jun 2025 14:46:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "DatabricksのOLTPデータベース『Lakebase』を使ってみた！",
-    "link": "https://zenn.dev/nttdata_tech/articles/04789d6c573830",
-    "pubDate": "Fri, 13 Jun 2025 14:30:12 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GeminiとNotebookLMを使った最強の旅行準備方法｜けんすう",
-    "link": "https://kensuu.com/n/na917a6c26bec",
-    "pubDate": "2025-06-13T11:01:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[2025年6月13日] やっぱりClaude Codeしか勝たんかもしれない (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/59f62014092a1b",
-    "pubDate": "Fri, 13 Jun 2025 09:13:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code による技術的特異点を見届けろ",
-    "link": "https://zenn.dev/mizchi/articles/claude-code-singularity-point",
-    "pubDate": "Fri, 13 Jun 2025 07:57:42 GMT"
+    "site": "Qiita",
+    "title": "AWS完全初心者がBuilderCardsで無双した話",
+    "link": "https://qiita.com/tks_1128/items/8e25874d6384e28c7c17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-13T13:53:21.000Z"
   },
   {
     "site": "Qiita",
-    "title": "文系未経験からエンジニアを志すまで",
-    "link": "https://qiita.com/suzu-tree/items/b7f168b5294e29b19b8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-13T00:07:26.000Z"
+    "title": "ジュニアエンジニアが学んだ「認識のズレ」を防ぐ開発の進め方",
+    "link": "https://qiita.com/kazuki_o/items/a5b272e9dd038e184557?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-13T06:54:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code + Amazon Bedrockはアプリケーション推論プロファイルでも動く",
+    "link": "https://qiita.com/watany/items/dc4cf574b6bc66508a81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-13T06:24:17.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "2025-06-12T15:16:30.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "主要4クラウド（AWS/Azure/Google Cloud/OCI）コスト徹底比較（2025年5月版）",
-    "link": "https://qiita.com/kazunishi/items/168552327e3177b95698?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T06:01:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ZENRIN Maps APIの始め方",
-    "link": "https://qiita.com/zdc_m-sato/items/68ec66b1153c2f7925c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T01:38:18.000Z"
+    "site": "Hatena",
+    "title": "オススメのRust製無料プロキシツール「Caido」の紹介 - blog of morioka12",
+    "link": "https://scgajge12.hatenablog.com/entry/caido",
+    "pubDate": "2025-06-12T14:29:24.000Z"
   }
 ]
