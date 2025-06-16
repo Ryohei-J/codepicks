@@ -7,6 +7,24 @@
   },
   {
     "site": "Hatena",
+    "title": "イーサネットをさらに高速にする「Ultra Ethernet Consotium Specification v1.0」が正式公開。トランスポート層にRDMAを実装",
+    "link": "https://www.publickey1.jp/blog/25/ultra_ethernet_consotium_specification_v10rdma.html",
+    "pubDate": "2025-06-15T14:32:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ダメな上司はAIを使いこなせない",
+    "link": "https://anond.hatelabo.jp/20250615212208",
+    "pubDate": "2025-06-15T12:22:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude CodeとGitHub Issueを使った全自動開発について",
+    "link": "https://memotty-obsidian.pages.dev/202506151218-claude-code%E3%81%A8github-issue%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%85%A8%E8%87%AA%E5%8B%95%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pubDate": "2025-06-15T12:19:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "\"緊急じゃないけど、重要なこと\" に取り組めるか - pospomeのプログラミング日記",
     "link": "https://www.pospome.work/entry/2025/06/15/173638",
     "pubDate": "2025-06-15T08:40:00.000Z"
@@ -15,7 +33,19 @@
     "site": "Zenn",
     "title": "Anthropic「How we built our multi-agent research system」の要点まとめ",
     "link": "https://zenn.dev/ml_bear/articles/a5dc93b9d03edd",
+    "pubDate": "2025-06-15T08:39:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Anthropic「How we built our multi-agent research system」の要点まとめ",
+    "link": "https://zenn.dev/ml_bear/articles/a5dc93b9d03edd",
     "pubDate": "Sun, 15 Jun 2025 08:14:35 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】契約中のサブスクリプションを管理できるサービスをリリースしました【Next.js×Neon×Clerk×Netlify】",
+    "link": "https://qiita.com/q-1-p/items/1ef5b9e581d350f8d8c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-15T08:02:29.000Z"
   },
   {
     "site": "Hatena",
@@ -25,21 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "「広告の質が良いからあんまりストレスねんだよな」Amazonプライムビデオ、広告が出るようになってからアニメの前後半の間にCMが挟まるようになって視聴体験が逆に良くなってる",
-    "link": "https://togetter.com/li/2563952",
-    "pubDate": "2025-06-15T06:21:48.000Z"
+    "title": "事務員が面倒だと思った作業の話が一人情シスである私の元へ届かず、本人がAIで自動化するコードを書いていた。情シスとして仕事はなくなり、社内ニートへ一歩前に進めてる気がする",
+    "link": "https://posfie.com/@petaritape/p/TRXYkrw",
+    "pubDate": "2025-06-15T06:02:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "LLMを用いた最近の学習について",
-    "link": "https://zenn.dev/razokulover/articles/b6efec15ea1823",
-    "pubDate": "2025-06-15T03:13:41.000Z"
+    "site": "Qiita",
+    "title": "【令和最新版】ソリティアおじさんになろう！(Amazon Q developer CLIでゲーム作った)",
+    "link": "https://qiita.com/whitebird_sp/items/215a43d8c7f0adecf873?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-15T05:44:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ある大手企業と研究機関によるホワイトペーパーをLLMに読み込ませたところ、「内容とは無関係な不審な指示文」が目視で分からないところに埋め込まれててゾッとした話",
-    "link": "https://togetter.com/li/2563875",
-    "pubDate": "2025-06-15T01:47:01.000Z"
+    "site": "Qiita",
+    "title": "Amazon Q Developerでデータセンター運用ゲームを10分で作ってみた",
+    "link": "https://qiita.com/umeee/items/a0e36a39ae8f9dc14f39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-15T03:38:38.000Z"
   },
   {
     "site": "Hatena",
@@ -64,6 +94,12 @@
     "title": "新興 PostgreSQL サービス企業の買収劇の背景：Snowflake と Databricks が描く未来に思いを馳せてみた",
     "link": "https://zenn.dev/yohei/articles/2025-06-14-postgres-snowflake-databricks",
     "pubDate": "Sat, 14 Jun 2025 15:19:29 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "個人開発でガントチャートライブラリを作ってみた",
+    "link": "https://qiita.com/moppiiiii/items/3426a78020ce63ea9579?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-14T15:04:44.000Z"
   },
   {
     "site": "Zenn",
@@ -108,12 +144,6 @@
     "pubDate": "2025-06-14T05:43:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Gitアレルギーが治っちゃう！キャラで覚えるGitローカル編（Cursor対応）【1】ローカル編 GPTs付き！｜コタ",
-    "link": "https://note.com/nyattoh/n/nd731d2e88804",
-    "pubDate": "2025-06-14T03:29:50.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeの問題解決能力の底上げを試みる：MCPサーバー + subagents",
     "link": "https://zenn.dev/oikon/articles/82c9a52dc45810",
@@ -148,35 +178,5 @@
     "title": "Claude Code + Amazon Bedrockはアプリケーション推論プロファイルでも動く",
     "link": "https://qiita.com/watany/items/dc4cf574b6bc66508a81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-13T06:24:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "webサービスを成功させるために必要なClaude Code のAI組織形態を、フェーズ別/シチュエーション別で考えてみた🔥",
-    "link": "https://qiita.com/akira_papa_AI/items/a67be1f2acbb32e6ec36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T18:24:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AZ系資格 全冠した - Azure All Certification -",
-    "link": "https://qiita.com/aktsmm/items/16579d92dcb3845b7d69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T17:29:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeのAI組織が出来たので、歴史上の最強組織を参考に、AI組織フォーメーションを考えてみた👀",
-    "link": "https://qiita.com/akira_papa_AI/items/756202bff0688411c4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T17:16:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【tmuxでClaude CodeのMaxプランでAI組織を動かし放題のローカル環境ができた〜〜〜！ので、やり方をシェア！！🔥🔥🔥🙌☺️】",
-    "link": "https://qiita.com/akira_papa_AI/items/9f6c6605e925a88b9ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-12T17:00:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "オススメのRust製無料プロキシツール「Caido」の紹介 - blog of morioka12",
-    "link": "https://scgajge12.hatenablog.com/entry/caido",
-    "pubDate": "2025-06-12T14:29:24.000Z"
   }
 ]
