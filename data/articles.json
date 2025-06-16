@@ -1,39 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "プライドも、サンクコストも捨てろ「健康診断」しないエンジニアは死滅する - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/28625/",
+    "pubDate": "2025-06-16T03:29:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本のVR第一人者・GOROmanはなぜ「消滅」したのか - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/28605/",
+    "pubDate": "2025-06-16T03:24:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本語Webサイトを意識したモダンリセットCSS「kiso.css」をリリースしました – TAKLOG",
+    "link": "https://www.tak-dcxi.com/article/introduce-kiso-css/",
+    "pubDate": "2025-06-16T00:19:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【海外ニュース】ES2025対応の詳しすぎるJavaScript解説書が無料公開され全プログラマ大歓喜",
+    "link": "https://techfeed.io/entries/684f54b37fe5b72a1385a885",
+    "pubDate": "2025-06-15T23:21:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“理系に行けプレッシャー”を男は多く受けている？　性別による進路選択の違い　慶大研究者が検証",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/16/news034.html",
+    "pubDate": "2025-06-15T23:14:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code を Apple Container の中で動かす",
+    "link": "https://zenn.dev/schroneko/articles/claude-code-on-apple-container",
+    "pubDate": "Sun, 15 Jun 2025 22:55:53 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "複雑な SVG を描くための LLM｜kawamou",
+    "link": "https://note.com/kawamou/n/nbe502e014e2f",
+    "pubDate": "2025-06-15T15:54:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoft Docs 公式 MCP サーバーを使って Microsoft のドキュメントを読みやすくする",
+    "link": "https://zenn.dev/thdy/articles/microsoft-docs-mcp",
+    "pubDate": "Sun, 15 Jun 2025 15:12:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "関数型まつり2025まとめ＆感想",
+    "link": "https://zenn.dev/skytomo/articles/1c7bca051f9deb",
+    "pubDate": "Sun, 15 Jun 2025 14:32:40 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "Google Cloud、世界中のリージョンが影響を受けた大規模障害、原因は管理システムがヌルポインタ参照でクラッシュしたこと",
     "link": "https://www.publickey1.jp/blog/25/google_cloud_3.html",
     "pubDate": "2025-06-15T14:32:30.000Z"
   },
   {
     "site": "Hatena",
-    "title": "イーサネットをさらに高速にする「Ultra Ethernet Consotium Specification v1.0」が正式公開。トランスポート層にRDMAを実装",
-    "link": "https://www.publickey1.jp/blog/25/ultra_ethernet_consotium_specification_v10rdma.html",
-    "pubDate": "2025-06-15T14:32:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ダメな上司はAIを使いこなせない",
-    "link": "https://anond.hatelabo.jp/20250615212208",
-    "pubDate": "2025-06-15T12:22:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude CodeとGitHub Issueを使った全自動開発について",
-    "link": "https://memotty-obsidian.pages.dev/202506151218-claude-code%E3%81%A8github-issue%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E5%85%A8%E8%87%AA%E5%8B%95%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-    "pubDate": "2025-06-15T12:19:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "\"緊急じゃないけど、重要なこと\" に取り組めるか - pospomeのプログラミング日記",
-    "link": "https://www.pospome.work/entry/2025/06/15/173638",
-    "pubDate": "2025-06-15T08:40:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropic「How we built our multi-agent research system」の要点まとめ",
-    "link": "https://zenn.dev/ml_bear/articles/a5dc93b9d03edd",
-    "pubDate": "2025-06-15T08:39:23.000Z"
+    "title": "なぜプログラマはずっと夢中でいられるのか？ - megamouthの葬列",
+    "link": "https://www.megamouth.info/entry/2025/06/15/215019",
+    "pubDate": "2025-06-15T12:52:21.000Z"
   },
   {
     "site": "Zenn",
@@ -48,18 +78,6 @@
     "pubDate": "2025-06-15T08:02:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeの会話ログをDuckDBで分析して自分の仕事スタイルを改善する方法 - yasuhisa's blog",
-    "link": "https://www.yasuhisay.info/entry/2025/06/15/162704",
-    "pubDate": "2025-06-15T07:36:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "事務員が面倒だと思った作業の話が一人情シスである私の元へ届かず、本人がAIで自動化するコードを書いていた。情シスとして仕事はなくなり、社内ニートへ一歩前に進めてる気がする",
-    "link": "https://posfie.com/@petaritape/p/TRXYkrw",
-    "pubDate": "2025-06-15T06:02:45.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【令和最新版】ソリティアおじさんになろう！(Amazon Q developer CLIでゲーム作った)",
     "link": "https://qiita.com/whitebird_sp/items/215a43d8c7f0adecf873?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,12 +88,6 @@
     "title": "Amazon Q Developerでデータセンター運用ゲームを10分で作ってみた",
     "link": "https://qiita.com/umeee/items/a0e36a39ae8f9dc14f39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-15T03:38:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Excelがあればなんでもできる",
-    "link": "https://ascii.jp/elem/000/004/285/4285511/",
-    "pubDate": "2025-06-15T01:34:25.000Z"
   },
   {
     "site": "Hatena",
@@ -132,32 +144,14 @@
     "pubDate": "2025-06-14T07:16:31.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "『ユニットテスト基礎講座』（@JJUG CCC 2025 Spring）の補足",
-    "link": "https://zenn.dev/yonekubo/articles/9fa0bb47309f04",
-    "pubDate": "Sat, 14 Jun 2025 06:32:26 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "説明図用の画像生成 各サービス精度比較",
     "link": "https://qiita.com/hokutoh/items/046c21f04e3879fcd761?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-14T05:43:00.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeの問題解決能力の底上げを試みる：MCPサーバー + subagents",
-    "link": "https://zenn.dev/oikon/articles/82c9a52dc45810",
-    "pubDate": "Sat, 14 Jun 2025 02:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "uv, ruff, devcontainer, Claude Codeを使ったモダンなPython開発環境のテンプレート",
-    "link": "https://zenn.dev/mjun0812/articles/0ae2325d40ed20",
-    "pubDate": "Sat, 14 Jun 2025 02:13:09 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "活躍したいが会社が嫌だ、そうだQiitaに記事を投稿しよう。",
+    "title": "活躍したいが会社が嫌だ。そうだQiitaに記事を投稿しよう。",
     "link": "https://qiita.com/rS_alonewolf/items/712a36f09045758c1424?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-13T20:05:59.000Z"
   },
@@ -166,6 +160,12 @@
     "title": "AWS完全初心者がBuilderCardsで無双した話",
     "link": "https://qiita.com/tks_1128/items/8e25874d6384e28c7c17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-13T13:53:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Wake on LANで自宅や会社のPCをリモート起動「CG-SmartWoL」",
+    "link": "https://www.switch-science.com/products/10512",
+    "pubDate": "2025-06-13T10:58:44.000Z"
   },
   {
     "site": "Qiita",
