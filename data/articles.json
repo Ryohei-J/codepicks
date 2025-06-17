@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "TypeScript 環境構築ガイドラインを書いてLLMに再現させる",
+    "link": "https://zenn.dev/mizchi/articles/llm-aware-ts-project-starter",
+    "pubDate": "2025-06-17T12:54:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2025年6月のWindows UpdateでPCが起動しなくなるメーカー一覧。原因はBIOS破損でほぼ確定。復旧方法は ［Update 1］ | ニッチなPCゲーマーの環境構築Z",
+    "link": "https://www.nichepcgamer.com/archives/list-of-manufacturers-whose-windowsupdate-in-june-2025-will-cause-windows-to-not-booting.html",
+    "pubDate": "2025-06-17T11:37:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "TypeScriptの条件分岐をスマートに記述するためのTips - Nealle Developer's Blog",
+    "link": "https://nealle-dev.hatenablog.com/entry/2025/06/17/161915",
+    "pubDate": "2025-06-17T07:19:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "社内でAI駆動開発ツールの使用調査したら、たった1週間で『Claude Code』一択になっていた話",
+    "link": "https://zenn.dev/explaza/articles/f62e704e73d3ff",
+    "pubDate": "2025-06-17T07:02:48.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "AI で歴史修正主義について学んでいたら AI が歴史を捏造し出したので悪魔の証明をするはめになった - 山下泰平の趣味の方法",
     "link": "https://cocolog-nifty.hatenablog.com/entry/2025/06/17/154647",
     "pubDate": "2025-06-17T06:49:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cloud Native Technology Map",
+    "link": "https://www.cyberagent.co.jp/techinfo/info/detail/id=32029",
+    "pubDate": "2025-06-17T06:47:23.000Z"
   },
   {
     "site": "Zenn",
@@ -72,18 +102,6 @@
     "pubDate": "Mon, 16 Jun 2025 16:29:43 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「トランプ・モバイル」が米国でサービス開始へ、携帯端末は米国製",
-    "link": "https://www.bloomberg.co.jp/news/articles/2025-06-16/SXY8F2DWX2PS00",
-    "pubDate": "2025-06-16T15:23:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ChatGPT」の「プロジェクト」に6つの新機能が追加",
-    "link": "https://japan.zdnet.com/article/35234284/",
-    "pubDate": "2025-06-16T11:17:32.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Lispは関数型言語か？",
     "link": "https://zenn.dev/nobkz/articles/391d68f4db16de",
@@ -96,12 +114,6 @@
     "pubDate": "Mon, 16 Jun 2025 08:45:06 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【AI駆動開発】Cursorを使いこなして1ヶ月でプログラミング学習サイトを作ったのでノウハウを伝えたい - Qiita",
-    "link": "https://qiita.com/tomada/items/efce0e3b3dfb033663ef",
-    "pubDate": "2025-06-16T05:27:07.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "大規模 Node.js サーバーに潜むパフォーマンス上のリスクを Event Loop から理解する",
     "link": "https://zenn.dev/dinii/articles/f09d21542871ae",
@@ -112,18 +124,6 @@
     "title": "JavaScriptのforEach内でbreakができない理由【備忘録】",
     "link": "https://qiita.com/ssc-dninomiya/items/906a84155e1983767248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-16T04:45:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeを徹底解説してみた（後編） | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/get-started-claude-code-2nd/",
-    "pubDate": "2025-06-16T04:09:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeを徹底解説してみた（前編） | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/get-started-claude-code-1/",
-    "pubDate": "2025-06-16T04:09:00.000Z"
   },
   {
     "site": "Qiita",
