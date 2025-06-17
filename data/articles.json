@@ -1,21 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "日本もデータセンターを自分たちで作れる国へ――さくらインターネットの挑戦、田中邦裕社長が語る【Interop Tokyo 2025】",
+    "link": "https://internet.watch.impress.co.jp/docs/event/2022958.html",
+    "pubDate": "2025-06-16T22:14:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「自分が設計したマンハッタンの超高層ビルが今年中にも嵐で倒壊するかもしれない」と気付いたエンジニアはどうしたのか？",
+    "link": "https://gigazine.net/news/20250617-most-dangerous-building-manhattan/",
+    "pubDate": "2025-06-16T22:13:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "関数型まつり2025で出たトピックの前提知識とか",
+    "link": "https://zenn.dev/blackenedgold/articles/e06dadc4c3921f",
+    "pubDate": "Mon, 16 Jun 2025 16:29:43 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「トランプ・モバイル」が米国でサービス開始へ、携帯端末は米国製",
+    "link": "https://www.bloomberg.co.jp/news/articles/2025-06-16/SXY8F2DWX2PS00",
+    "pubDate": "2025-06-16T15:23:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ChatGPT」の「プロジェクト」に6つの新機能が追加",
+    "link": "https://japan.zdnet.com/article/35234284/",
+    "pubDate": "2025-06-16T11:17:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「バーミヤン」「夢庵」などのフリーWi-Fi終了へ　すかいらーくHDが発表　12のチェーン店が対象",
     "link": "https://www.itmedia.co.jp/news/articles/2506/16/news116.html",
     "pubDate": "2025-06-16T11:02:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIは94.9％の精度で病状を診断できるが人間がAIを使うことで34.5％まで精度が急低下する",
-    "link": "https://gigazine.net/news/20250616-ai-underscores-miss-link-test/",
-    "pubDate": "2025-06-16T08:52:13.000Z"
+    "site": "Zenn",
+    "title": "Lispは関数型言語か？",
+    "link": "https://zenn.dev/nobkz/articles/391d68f4db16de",
+    "pubDate": "Mon, 16 Jun 2025 10:16:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "1300万ユーザー規模の Web コンテンツ配信基盤リプレース ─ アジャイルアプローチと Go による実現",
+    "link": "https://zenn.dev/glassmonkey/articles/7f393a44ffb029",
+    "pubDate": "Mon, 16 Jun 2025 08:45:06 GMT"
   },
   {
     "site": "Hatena",
     "title": "「父のキゲンは、巨人が決めている」──読売ジャイアンツ公式Xの“父の日投稿”が不評　「いい思い出ない」",
     "link": "https://www.itmedia.co.jp/news/articles/2506/16/news088.html",
     "pubDate": "2025-06-16T06:00:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "大規模 Node.js サーバーに潜むパフォーマンス上のリスクを Event Loop から理解する",
+    "link": "https://zenn.dev/dinii/articles/f09d21542871ae",
+    "pubDate": "Mon, 16 Jun 2025 05:08:15 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "JavaScriptのforEach内でbreakができない理由【備忘録】",
+    "link": "https://qiita.com/ssc-dninomiya/items/906a84155e1983767248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-16T04:45:28.000Z"
   },
   {
     "site": "Hatena",
@@ -25,9 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "原因はヌルポ。Google Cloudの大規模障害、原因は管理システムのヌルポインタ参照 | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2025/06/16/4423.html",
-    "pubDate": "2025-06-16T03:59:50.000Z"
+    "title": "Claude Codeを徹底解説してみた（前編） | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/get-started-claude-code-1/",
+    "pubDate": "2025-06-16T04:09:00.000Z"
   },
   {
     "site": "Qiita",
@@ -37,39 +85,15 @@
   },
   {
     "site": "Hatena",
-    "title": "プライドも、サンクコストも捨てろ「健康診断」しないエンジニアは死滅する - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/28625/",
-    "pubDate": "2025-06-16T03:29:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本のVR第一人者・GOROmanはなぜ「消滅」したのか - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/28605/",
-    "pubDate": "2025-06-16T03:24:19.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "画像生成AI、日本の開発者コミュニティが熱い　世界最先端の “新手法”続々 (1/4)",
     "link": "https://ascii.jp/elem/000/004/289/4289615/",
     "pubDate": "2025-06-16T03:23:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソフトウェアアーキテクチャに基づいた自動テスト戦略と実装ガイドライン - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/testing-strategy-based-on-software-architecture",
-    "pubDate": "2025-06-16T02:11:20.000Z"
   },
   {
     "site": "Qiita",
     "title": "人生の選択肢を広げたデザイン。走馬灯に出るような体験を。",
     "link": "https://qiita.com/kimuchi_a/items/aea995b253214a5588ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-16T01:38:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本語Webサイトを意識したモダンリセットCSS「kiso.css」をリリースしました – TAKLOG",
-    "link": "https://www.tak-dcxi.com/article/introduce-kiso-css/",
-    "pubDate": "2025-06-16T00:19:59.000Z"
   },
   {
     "site": "Qiita",
@@ -108,12 +132,6 @@
     "pubDate": "Sun, 15 Jun 2025 13:21:54 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "技術書典18 初参加！出店レポート",
-    "link": "https://zenn.dev/olemi/articles/90fdbd8744e30e",
-    "pubDate": "Sun, 15 Jun 2025 12:04:21 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「Ajax通信できますか？」から考える伝えることの大切さ",
     "link": "https://qiita.com/ccc-chi/items/2633dca893bc3a97674a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -138,28 +156,16 @@
     "pubDate": "2025-06-15T08:02:29.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Reactの内部の仕組み読み解きガイド (執筆中)",
-    "link": "https://zenn.dev/calloc134/articles/how-react-works-guide",
-    "pubDate": "Sat, 14 Jun 2025 16:19:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "新興 PostgreSQL サービス企業の買収劇の背景：Snowflake と Databricks が描く未来に思いを馳せてみた",
-    "link": "https://zenn.dev/yohei/articles/2025-06-14-postgres-snowflake-databricks",
-    "pubDate": "Sat, 14 Jun 2025 15:19:29 GMT"
+    "site": "Hatena",
+    "title": "上長や社内ステークホルダーに対する解像度を上げて、より良い補完関係を築く方法 / How-to-increase-resolution-and-build-better-complementary-relationships-with-your-bosses-and-internal-stakeholders",
+    "link": "https://speakerdeck.com/madoxten/how-to-increase-resolution-and-build-better-complementary-relationships-with-your-bosses-and-internal-stakeholders",
+    "pubDate": "2025-06-14T18:10:54.000Z"
   },
   {
     "site": "Qiita",
     "title": "個人開発でガントチャートライブラリを作ってみた",
     "link": "https://qiita.com/moppiiiii/items/3426a78020ce63ea9579?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-14T15:04:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMを用いた最近の学習について",
-    "link": "https://zenn.dev/razokulover/articles/b6efec15ea1823",
-    "pubDate": "Sat, 14 Jun 2025 14:22:11 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "活躍したいが会社が嫌だ。そうだQiitaに記事を投稿しよう。",
     "link": "https://qiita.com/rS_alonewolf/items/712a36f09045758c1424?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-13T20:05:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS完全初心者がBuilderCardsで無双した話",
-    "link": "https://qiita.com/tks_1128/items/8e25874d6384e28c7c17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-13T13:53:21.000Z"
   }
 ]
