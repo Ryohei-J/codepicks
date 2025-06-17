@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "グーグルが20億ユーザーに警告―今すぐGmailをパスワードからパスキーに変更を | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/79909",
+    "pubDate": "2025-06-17T02:17:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "あきらパパの「対話で学ぼう！HTML/CSS入門」- Webページ作りの第一歩",
+    "link": "https://zenn.dev/akira_papa/books/html-css-book",
+    "pubDate": "Mon, 16 Jun 2025 23:33:28 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "日本もデータセンターを自分たちで作れる国へ――さくらインターネットの挑戦、田中邦裕社長が語る【Interop Tokyo 2025】",
     "link": "https://internet.watch.impress.co.jp/docs/event/2022958.html",
     "pubDate": "2025-06-16T22:14:57.000Z"
@@ -10,6 +22,12 @@
     "title": "「自分が設計したマンハッタンの超高層ビルが今年中にも嵐で倒壊するかもしれない」と気付いたエンジニアはどうしたのか？",
     "link": "https://gigazine.net/news/20250617-most-dangerous-building-manhattan/",
     "pubDate": "2025-06-16T22:13:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Wasm を使えば Go サーバーが無料でデプロイできるんです！",
+    "link": "https://zenn.dev/otakakot/articles/906fe4df725ac3",
+    "pubDate": "2025-06-16T18:52:41.000Z"
   },
   {
     "site": "Zenn",
@@ -30,12 +48,6 @@
     "pubDate": "2025-06-16T11:17:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「バーミヤン」「夢庵」などのフリーWi-Fi終了へ　すかいらーくHDが発表　12のチェーン店が対象",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/16/news116.html",
-    "pubDate": "2025-06-16T11:02:53.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Lispは関数型言語か？",
     "link": "https://zenn.dev/nobkz/articles/391d68f4db16de",
@@ -48,10 +60,10 @@
     "pubDate": "Mon, 16 Jun 2025 08:45:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「父のキゲンは、巨人が決めている」──読売ジャイアンツ公式Xの“父の日投稿”が不評　「いい思い出ない」",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/16/news088.html",
-    "pubDate": "2025-06-16T06:00:06.000Z"
+    "site": "Qiita",
+    "title": "【AI駆動開発】Cursorを使いこなして1ヶ月でプログラミング学習サイトを作ったのでノウハウを伝えたい - Qiita",
+    "link": "https://qiita.com/tomada/items/efce0e3b3dfb033663ef",
+    "pubDate": "2025-06-16T05:27:07.000Z"
   },
   {
     "site": "Zenn",
@@ -84,12 +96,6 @@
     "pubDate": "2025-06-16T03:56:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "画像生成AI、日本の開発者コミュニティが熱い　世界最先端の “新手法”続々 (1/4)",
-    "link": "https://ascii.jp/elem/000/004/289/4289615/",
-    "pubDate": "2025-06-16T03:23:04.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "人生の選択肢を広げたデザイン。走馬灯に出るような体験を。",
     "link": "https://qiita.com/kimuchi_a/items/aea995b253214a5588ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -106,6 +112,12 @@
     "title": "Claude Code を Apple Container の中で動かす",
     "link": "https://zenn.dev/schroneko/articles/claude-code-on-apple-container",
     "pubDate": "Sun, 15 Jun 2025 22:55:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.jsのApp Routerでライブラリに頼らない多言語対応",
+    "link": "https://zenn.dev/progate/articles/app-router-i18n-without-library",
+    "pubDate": "Sun, 15 Jun 2025 22:30:01 GMT"
   },
   {
     "site": "Qiita",
@@ -136,18 +148,6 @@
     "title": "「Ajax通信できますか？」から考える伝えることの大切さ",
     "link": "https://qiita.com/ccc-chi/items/2633dca893bc3a97674a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-15T10:51:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Wasm を使えば Go サーバーが無料でデプロイできるんです！",
-    "link": "https://zenn.dev/otakakot/articles/906fe4df725ac3",
-    "pubDate": "Sun, 15 Jun 2025 10:43:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropic「How we built our multi-agent research system」の要点まとめ",
-    "link": "https://zenn.dev/ml_bear/articles/a5dc93b9d03edd",
-    "pubDate": "Sun, 15 Jun 2025 08:14:35 GMT"
   },
   {
     "site": "Qiita",
