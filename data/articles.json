@@ -1,5 +1,23 @@
 [
   {
+    "site": "Zenn",
+    "title": "【Claude Code Tips】私のマイCLAUDE.mdを解説します",
+    "link": "https://zenn.dev/dirtyman/articles/ddbec05fd9fbb4",
+    "pubDate": "Wed, 18 Jun 2025 01:51:06 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ私はiPhoneを机に置くとき、いつも画面を伏せるのか",
+    "link": "https://japan.cnet.com/article/35234382/",
+    "pubDate": "2025-06-17T23:16:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "全人類に告ぐ！自分専用のDiscordサーバーを作れ｜けいすけ / AIマンガ家",
+    "link": "https://note.com/konho/n/n7598fd7adf4e",
+    "pubDate": "2025-06-17T23:03:15.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Linuxのソースコード内に「fuck」「クソ」「まぬけ」などの暴言がどれだけ含まれているかをグラフ化、2018年を境に「fuck」の出現頻度が激減",
     "link": "https://gigazine.net/news/20250618-linux-kernel-word-count/",
@@ -24,14 +42,20 @@
     "pubDate": "2025-06-17T12:56:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code と Claude Code Action の雑感",
-    "link": "https://voluntas.ghost.io/claude-code-and-action-thoughts/",
-    "pubDate": "2025-06-17T12:28:16.000Z"
+    "site": "Zenn",
+    "title": "TypeScript 環境構築ガイドラインを書いてLLMに再現させる",
+    "link": "https://zenn.dev/mizchi/articles/llm-aware-ts-project-starter",
+    "pubDate": "Tue, 17 Jun 2025 12:35:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Mac環境で手を動かしながらClaude Codeを学ぶ",
+    "link": "https://zenn.dev/fendo181/articles/1c859828fa2e17",
+    "pubDate": "Tue, 17 Jun 2025 11:56:30 GMT"
   },
   {
     "site": "Hatena",
-    "title": "2025年6月のWindows UpdateでPCが起動しなくなるメーカー一覧。原因はBIOS破損でほぼ確定。復旧方法は ［Update 1］ | ニッチなPCゲーマーの環境構築Z",
+    "title": "2025年6月のWindows UpdateでPCが起動しなくなるメーカー一覧。原因はBIOS破損でほぼ確定。復旧方法は ［Update 3］ | ニッチなPCゲーマーの環境構築Z",
     "link": "https://www.nichepcgamer.com/archives/list-of-manufacturers-whose-windowsupdate-in-june-2025-will-cause-windows-to-not-booting.html",
     "pubDate": "2025-06-17T11:37:43.000Z"
   },
@@ -48,16 +72,10 @@
     "pubDate": "2025-06-17T10:39:35.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【C#】同じ機能、違う書き方 - パフォーマンスで選ぶべきコードはどっち？ - Qiita",
-    "link": "https://qiita.com/Sakai_path/items/c51030f1291839025263",
-    "pubDate": "2025-06-17T09:39:22.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "社内でAI駆動開発ツールの使用調査したら、たった1週間で『Claude Code』一択になっていた話",
-    "link": "https://zenn.dev/explaza/articles/f62e704e73d3ff",
-    "pubDate": "2025-06-17T07:02:48.000Z"
+    "title": "Claude Code 中級者ガイド",
+    "link": "https://zenn.dev/medicalforce/articles/8bc0b6afbbb8a7",
+    "pubDate": "Tue, 17 Jun 2025 08:12:31 GMT"
   },
   {
     "site": "Zenn",
@@ -67,9 +85,27 @@
   },
   {
     "site": "Zenn",
+    "title": "Amazon EKS MCP Server を使ったら自分要らなかった話",
+    "link": "https://zenn.dev/ryoyoshii/articles/f165ae90a3e8b9",
+    "pubDate": "Tue, 17 Jun 2025 04:01:47 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "エンジニアの工夫で実現する、ビジネス組織のCursor活用環境の構築術",
     "link": "https://zenn.dev/layerx/articles/6559937b545372",
     "pubDate": "Tue, 17 Jun 2025 03:00:20 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "WITH句てんこもりのSQLをデバッグする - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/debug-ctes",
+    "pubDate": "2025-06-17T02:10:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Pythonでゼロから作るコーディングエージェント",
+    "link": "https://zenn.dev/finatext/articles/create-codingagent-from-scratch",
+    "pubDate": "Tue, 17 Jun 2025 01:46:26 GMT"
   },
   {
     "site": "Zenn",
@@ -102,30 +138,6 @@
     "pubDate": "2025-06-16T17:48:59.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "関数型まつり2025で出たトピックの前提知識とか",
-    "link": "https://zenn.dev/blackenedgold/articles/e06dadc4c3921f",
-    "pubDate": "Mon, 16 Jun 2025 16:29:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Lispは関数型言語か？",
-    "link": "https://zenn.dev/nobkz/articles/391d68f4db16de",
-    "pubDate": "Mon, 16 Jun 2025 10:16:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "1300万ユーザー規模の Web コンテンツ配信基盤リプレース ─ アジャイルアプローチと Go による実現",
-    "link": "https://zenn.dev/ubie_dev/articles/7f393a44ffb029",
-    "pubDate": "Mon, 16 Jun 2025 08:45:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "大規模 Node.js サーバーに潜むパフォーマンス上のリスクを Event Loop から理解する",
-    "link": "https://zenn.dev/dinii/articles/f09d21542871ae",
-    "pubDate": "Mon, 16 Jun 2025 05:08:15 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "JavaScriptのforEach内でbreakができない理由【備忘録】",
     "link": "https://qiita.com/ssc-dninomiya/items/906a84155e1983767248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -148,18 +160,6 @@
     "title": "Cookieだけじゃない！Webの裏側で“あなたの行動”はこう見られている",
     "link": "https://qiita.com/nucomiya/items/05e262b633ec5f8747f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-16T00:17:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code を Apple Container の中で動かす",
-    "link": "https://zenn.dev/schroneko/articles/claude-code-on-apple-container",
-    "pubDate": "Sun, 15 Jun 2025 22:55:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsのApp Routerでライブラリに頼らない多言語対応",
-    "link": "https://zenn.dev/progate/articles/app-router-i18n-without-library",
-    "pubDate": "Sun, 15 Jun 2025 22:30:01 GMT"
   },
   {
     "site": "Qiita",
