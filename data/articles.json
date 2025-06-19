@@ -1,19 +1,31 @@
 [
   {
     "site": "Hatena",
-    "title": "マルウェア感染でサイト改ざん→「対抗できない」ため仮設サイトオープン　日本体操協会",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/19/news065.html",
-    "pubDate": "2025-06-19T01:51:49.000Z"
+    "title": "2025年から Elasticsearch に入門して、同義語検索を理解する | Wantedly Engineer Blog",
+    "link": "https://www.wantedly.com/companies/wantedly/post_articles/984252",
+    "pubDate": "2025-06-19T07:59:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "similarity-ts でAIと人間が書き散らした重複コードを見つける",
+    "link": "https://zenn.dev/mizchi/articles/introduce-ts-similarity",
+    "pubDate": "Thu, 19 Jun 2025 05:47:56 GMT"
   },
   {
     "site": "Hatena",
-    "title": "メンテされないgemとどう向き合うか。“普通のOSS開発者” willnetさんの取り組み",
-    "link": "https://findy-code.io/media/articles/codesidechat-willnet",
-    "pubDate": "2025-06-19T00:45:23.000Z"
+    "title": "自動運転で「周回遅れ」の日本、原因は「国民性」と判明 | 自動運転ラボ",
+    "link": "https://jidounten-lab.com/u_55091",
+    "pubDate": "2025-06-19T05:11:21.000Z"
   },
   {
     "site": "Hatena",
-    "title": "映画「岸部露伴は動かない」劇伴制作元、AIの利用について声明　“1万6000文字超”で訴えた、AIを使う理由は？",
+    "title": "AIに少しの「誤った情報」を学習させるだけで全体的に非倫理的な「道を外れたAI」になることがOpenAIの研究で判明",
+    "link": "https://gigazine.net/news/20250619-emergent-misalignment/",
+    "pubDate": "2025-06-19T03:35:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "映画「岸辺露伴は動かない」劇伴制作元、AIの利用について声明　“1万6000文字超”で訴えた、AIを使う理由は？",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2506/17/news107.html",
     "pubDate": "2025-06-19T00:35:25.000Z"
   },
@@ -36,10 +48,22 @@
     "pubDate": "Wed, 18 Jun 2025 22:12:22 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "暑いから料理したくないけど夏バテするのもいやだという人のためのレシピ群がこちら「火使う料理もうやだ」",
-    "link": "https://togetter.com/li/2565324",
-    "pubDate": "2025-06-18T15:06:52.000Z"
+    "site": "Qiita",
+    "title": "[日常] 生成AIは『高級言語』の再来か？ - OHPとFORTRANの時代から探る、エンジニアの進化",
+    "link": "https://qiita.com/ShigemoriMasato/items/fab875f7b7e9f07a01fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-18T19:37:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Azure MCP Server で始めるインシデント対応の自動化",
+    "link": "https://zenn.dev/openjny/articles/07ef9e45e1cfea",
+    "pubDate": "Wed, 18 Jun 2025 17:22:52 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "[入門] Pythonを10倍高速化する実践テクニック集 - Qiita",
+    "link": "https://qiita.com/ShigemoriMasato/items/7081c88482e27b7f8535",
+    "pubDate": "2025-06-18T15:43:47.000Z"
   },
   {
     "site": "Hatena",
@@ -52,6 +76,12 @@
     "title": "エンジニアのキャリアパス　〜王道３パターンとその先〜",
     "link": "https://qiita.com/ryoheiiwamoto/items/9f506f6e728ac1353eb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-18T09:56:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜアウトプットし続けるべきなのか？エンジニアが発信すると、未来が変わる理由",
+    "link": "https://qiita.com/toyamaki/items/091d1fe966139d55480d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-18T09:33:28.000Z"
   },
   {
     "site": "Hatena",
@@ -73,6 +103,12 @@
   },
   {
     "site": "Qiita",
+    "title": "【実体験】Claude CodeとCursor、1週間使い倒して分かった本当のコスパ",
+    "link": "https://qiita.com/satokenichi/items/e2e2a837d92c88dd3025?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-18T07:32:12.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "[入門] Pythonを10倍高速化する実践テクニック集",
     "link": "https://qiita.com/ShigemoriMasato/items/7081c88482e27b7f8535?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-18T06:23:02.000Z"
@@ -82,12 +118,6 @@
     "title": "GeminiでSQLクエリを書くのを爆速にした話",
     "link": "https://zenn.dev/lovegraph/articles/8dfefaf74beffc",
     "pubDate": "Wed, 18 Jun 2025 05:16:39 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "OpenStreetMap の世界へようこそ！〜Pythonを使ってデータを活用してみる〜",
-    "link": "https://qiita.com/hayato_sakaida_rh/items/cb94d05b25f1f69317d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-18T03:51:01.000Z"
   },
   {
     "site": "Qiita",
@@ -114,12 +144,6 @@
     "pubDate": "2025-06-17T23:09:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "全人類に告ぐ！自分専用のDiscordサーバーを作れ｜けいすけ / AIマンガ家",
-    "link": "https://note.com/konho/n/n7598fd7adf4e",
-    "pubDate": "2025-06-17T23:03:15.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "学生が知人のサロン業務をNextjsでDX化してみた話",
     "link": "https://zenn.dev/satotakahumi/articles/9c5afd5e3253e8",
@@ -144,39 +168,15 @@
     "pubDate": "Tue, 17 Jun 2025 12:35:46 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Mac環境で手を動かしながらClaude Codeを学ぶ",
-    "link": "https://zenn.dev/fendo181/articles/1c859828fa2e17",
-    "pubDate": "Tue, 17 Jun 2025 11:56:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeにセキュリティ診断をさせてみた",
-    "link": "https://zenn.dev/mixi/articles/79831816f9fd22",
-    "pubDate": "Tue, 17 Jun 2025 11:00:46 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "#意識低いAICodingチュートリアル #02 ネット老人会サイトをバージョン管理してもらおう [GitHub Copilot Agent mode 版]",
-    "link": "https://qiita.com/chomado/items/ef5e645f90b55b803fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-17T04:57:58.000Z"
+    "title": "GitHub Copilot Coding Agent に issue 対応丸投げできるようにする初期設定",
+    "link": "https://qiita.com/chomado/items/d864c1dc5ef75f5bfd58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-17T06:04:27.000Z"
   },
   {
     "site": "Qiita",
     "title": "【C#】同じ機能、違う書き方 - パフォーマンスで選ぶべきコードはどっち？",
     "link": "https://qiita.com/Sakai_path/items/c51030f1291839025263?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-16T22:37:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "和製プログラミング英語の悲劇 - あなたの英語、実は通じてないかも!?",
-    "link": "https://qiita.com/tsuyoshi-otake/items/272fa08baf96c91d0a5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-16T03:02:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Cookieだけじゃない！Webの裏側で“あなたの行動”はこう見られている",
-    "link": "https://qiita.com/nucomiya/items/05e262b633ec5f8747f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-16T00:17:11.000Z"
   }
 ]
