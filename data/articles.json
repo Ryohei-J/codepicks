@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "マルウェア感染でサイト改ざん→「対抗できない」ため仮設サイトオープン　日本体操協会",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/19/news065.html",
+    "pubDate": "2025-06-19T01:51:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "メンテされないgemとどう向き合うか。“普通のOSS開発者” willnetさんの取り組み",
+    "link": "https://findy-code.io/media/articles/codesidechat-willnet",
+    "pubDate": "2025-06-19T00:45:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "映画「岸部露伴は動かない」劇伴制作元、AIの利用について声明　“1万6000文字超”で訴えた、AIを使う理由は？",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2506/17/news107.html",
+    "pubDate": "2025-06-19T00:35:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "MCP導入の現在地 〜プロダクト開発での活用のリアル〜 - Findy Tools",
     "link": "https://findy-tools.io/articles/mcp-202506/84",
     "pubDate": "2025-06-18T23:30:53.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【祝 1K Star 達成】ccusageの３週間を振り返る",
+    "link": "https://zenn.dev/ryoppippi/articles/aad087994f26a7",
+    "pubDate": "Wed, 18 Jun 2025 22:17:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "n8n + Claude Code Actionで開発を自動パイプライン化した",
+    "link": "https://zenn.dev/tesla/articles/3abc9e61da0b1e",
+    "pubDate": "Wed, 18 Jun 2025 22:12:22 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "「au携帯料金は値下げしない？」「株主優待なぜPontaポイントに変更？」　KDDI株主総会 質疑応答まとめ",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2506/18/news124.html",
-    "pubDate": "2025-06-18T11:02:55.000Z"
+    "title": "暑いから料理したくないけど夏バテするのもいやだという人のためのレシピ群がこちら「火使う料理もうやだ」",
+    "link": "https://togetter.com/li/2565324",
+    "pubDate": "2025-06-18T15:06:52.000Z"
   },
   {
     "site": "Hatena",
@@ -28,6 +58,12 @@
     "title": "2025年6月配信の Windows Update で起動不能になる不具合はSecureBoot DBXが原因。BIOSの書き換えが必須に",
     "link": "https://gazlog.jp/entry/windows-update-need-bios-rewrite/",
     "pubDate": "2025-06-18T09:19:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "できるだけ楽にGoogleアカウントを守る方法",
+    "link": "https://anond.hatelabo.jp/20250618175600",
+    "pubDate": "2025-06-18T08:56:25.000Z"
   },
   {
     "site": "Zenn",
@@ -66,34 +102,10 @@
     "pubDate": "2025-06-18T03:48:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "無線LANで数kmの長距離を接続できる機器が発売されている。いったい何に使うモノ？　TP-Linkに聞いた",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2019952.html",
-    "pubDate": "2025-06-18T03:36:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "持続可能なシステムを目指してプロダクトをリアーキテクトしました〜 実践編 〜 - DMM Developers Blog",
-    "link": "https://developersblog.dmm.com/entry/2025/06/18/110000",
-    "pubDate": "2025-06-18T03:25:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code Tips】私のマイCLAUDE.mdを解説します",
-    "link": "https://zenn.dev/dirtyman/articles/ddbec05fd9fbb4",
-    "pubDate": "2025-06-18T02:28:15.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【Claude Code Tips】私のマイCLAUDE.mdを解説します",
     "link": "https://zenn.dev/dirtyman/articles/ddbec05fd9fbb4",
     "pubDate": "Wed, 18 Jun 2025 01:51:06 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「生粋のプログラマー気質なので」とセルフレジで同商品を2度打ちしエラーハンドリングをしたと言う人への反応",
-    "link": "https://posfie.com/@cu6gane/p/Rs0nkHT",
-    "pubDate": "2025-06-18T00:07:05.000Z"
   },
   {
     "site": "Qiita",
@@ -139,27 +151,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code 中級者ガイド",
-    "link": "https://zenn.dev/medicalforce/articles/8bc0b6afbbb8a7",
-    "pubDate": "Tue, 17 Jun 2025 08:12:31 GMT"
+    "title": "Claude Codeにセキュリティ診断をさせてみた",
+    "link": "https://zenn.dev/mixi/articles/79831816f9fd22",
+    "pubDate": "Tue, 17 Jun 2025 11:00:46 GMT"
   },
   {
     "site": "Qiita",
     "title": "#意識低いAICodingチュートリアル #02 ネット老人会サイトをバージョン管理してもらおう [GitHub Copilot Agent mode 版]",
     "link": "https://qiita.com/chomado/items/ef5e645f90b55b803fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-17T04:57:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "WidgetsApp で実現する自由なデザインの Flutter アプリ開発",
-    "link": "https://zenn.dev/chooyan/articles/52c515ea03b224",
-    "pubDate": "Tue, 17 Jun 2025 04:52:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Amazon EKS MCP Server を使ったら自分要らなかった話",
-    "link": "https://zenn.dev/ryoyoshii/articles/f165ae90a3e8b9",
-    "pubDate": "Tue, 17 Jun 2025 04:01:47 GMT"
   },
   {
     "site": "Qiita",
