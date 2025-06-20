@@ -1,6 +1,60 @@
 [
   {
     "site": "Hatena",
+    "title": "Visual Studio Code、厳選したMCPサーバーの一覧ページを公開 ——一覧ページ上からのワンクリックインストールにも対応 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/06/mcp-server-lists-for-vscode",
+    "pubDate": "2025-06-20T09:45:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「Claude Code」導入をめっちゃスムーズにする「ドキュメントの下地」を作るプロンプト - Qiita",
+    "link": "https://qiita.com/WdknWdkn/items/2755301aebff878e0075",
+    "pubDate": "2025-06-20T04:21:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIチャットボットを使っている人間は脳活動が大幅に低下することが判明",
+    "link": "https://gigazine.net/news/20250620-ai-impact-brain-activity/",
+    "pubDate": "2025-06-20T03:04:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CSSDay 2025 Report",
+    "link": "https://zenn.dev/cybozu_frontend/articles/css-day-2025",
+    "pubDate": "Fri, 20 Jun 2025 03:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeを超えたかも！？OpenHands CLIで抽象的な指示から完動するコードを一発生成",
+    "link": "https://zenn.dev/minedia/articles/openhands-cli",
+    "pubDate": "Fri, 20 Jun 2025 02:08:02 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI×仕事、このVibes止まらない！",
+    "link": "https://qiita.com/masanari_doi/items/82d0533a2a294c181b08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-20T01:54:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cursorが急に使いづらくなった！Ultra Plan導入で起きた悲劇と解決方法",
+    "link": "https://zenn.dev/fastdoctor/articles/42d52a7ad13f26",
+    "pubDate": "Fri, 20 Jun 2025 01:49:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code を初めて使う人向けの実践ガイド",
+    "link": "https://zenn.dev/hokuto_tech/articles/86d1edb33da61a",
+    "pubDate": "2025-06-20T01:31:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code を初めて使う人向けの実践ガイド",
+    "link": "https://zenn.dev/hokuto_tech/articles/86d1edb33da61a",
+    "pubDate": "Fri, 20 Jun 2025 01:14:55 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "旧Twitter本社のシンボル「青い鳥」看板、爆破され木っ端微塵になったことが明らかに【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2024244.html",
     "pubDate": "2025-06-20T01:03:21.000Z"
@@ -19,7 +73,7 @@
   },
   {
     "site": "Hatena",
-    "title": "【特集】 Sandy Bridgeおじさん「やけにPCパーツを高くなってない？」。見ると分かるCPU/GPU/マザーの価格推移のエグさ",
+    "title": "【特集】 Sandy Bridgeおじさん「やけにPCパーツ高くなってない？」。見ると分かるCPU/GPU/マザーの価格推移のエグさ",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2022711.html",
     "pubDate": "2025-06-19T22:12:17.000Z"
   },
@@ -36,28 +90,22 @@
     "pubDate": "2025-06-19T16:11:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Reactの内部構造を知っておく (React Tokyo #6 - @calloc134)",
-    "link": "https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134",
-    "pubDate": "2025-06-19T11:23:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "CISSPとCCSPに合格した",
     "link": "https://zenn.dev/lea/articles/d9655b3efd9085",
     "pubDate": "Thu, 19 Jun 2025 11:05:30 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "口座開設時の本人確認 画像送信廃止へ 再来年4月1日から 政府 | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250619/k10014839251000.html",
-    "pubDate": "2025-06-19T09:15:44.000Z"
+    "site": "Zenn",
+    "title": "Effect.tsはストリームを扱う目的でも便利だよ、という話 with BigQuery Storage Write API",
+    "link": "https://zenn.dev/optimind/articles/bigquery-bucketed-insert-with-effec-ts",
+    "pubDate": "Thu, 19 Jun 2025 10:47:34 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "オープンソースのAI開発エージェント基盤にコマンドライン版「OpenHands CLI」が登場 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/06/openhands-cli",
-    "pubDate": "2025-06-19T05:58:04.000Z"
+    "site": "Qiita",
+    "title": "「Claude Code」導入をめっちゃスムーズにする「ドキュメントの下地」を作るプロンプト",
+    "link": "https://qiita.com/WdknWdkn/items/2755301aebff878e0075?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-19T09:17:47.000Z"
   },
   {
     "site": "Zenn",
@@ -73,36 +121,6 @@
   },
   {
     "site": "Zenn",
-    "title": "BDDを導入してみて実際どうだったか",
-    "link": "https://zenn.dev/loglass/articles/9feee3dbd2faa6",
-    "pubDate": "Thu, 19 Jun 2025 03:38:40 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon QにDevOpsマスター養成ゲームを作ってもらったら仕上げに苦労した",
-    "link": "https://qiita.com/melknzw/items/871f207b777df23ee4e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-19T02:44:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake Summit 2025で話題のSnowflake Openflowを試してみた",
-    "link": "https://zenn.dev/nttdata_tech/articles/7b338bf9f21f67",
-    "pubDate": "Thu, 19 Jun 2025 02:30:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「実装」から「設計」へのパラダイムシフト というより無限に体力が必要という話をした #KAGのLT会 - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/06/19/102529",
-    "pubDate": "2025-06-19T01:54:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "F# 入門：少しでも書けるようになるための記録",
-    "link": "https://qiita.com/fukuidaito/items/068a7da76cebb9c0770e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-19T00:20:15.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "【祝 1K Star 達成】ccusageの３週間を振り返る",
     "link": "https://zenn.dev/ryoppippi/articles/aad087994f26a7",
     "pubDate": "Wed, 18 Jun 2025 22:17:09 GMT"
@@ -114,10 +132,10 @@
     "pubDate": "Wed, 18 Jun 2025 22:12:22 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Azure MCP Server で始めるインシデント対応の自動化",
-    "link": "https://zenn.dev/openjny/articles/07ef9e45e1cfea",
-    "pubDate": "Wed, 18 Jun 2025 17:22:52 GMT"
+    "site": "Qiita",
+    "title": "[日常] 生成AIは『高級言語』の再来か？ - OHPとFORTRANの時代から探る、エンジニアの進化",
+    "link": "https://qiita.com/ShigemoriMasato/items/fab875f7b7e9f07a01fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-18T19:37:26.000Z"
   },
   {
     "site": "Qiita",
@@ -139,15 +157,15 @@
   },
   {
     "site": "Qiita",
+    "title": "Flutter で発表資料作ってみた",
+    "link": "https://qiita.com/chooyan_eng/items/7e65973385ce5194e56e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-18T07:15:30.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "[入門] Pythonを10倍高速化する実践テクニック集",
     "link": "https://qiita.com/ShigemoriMasato/items/7081c88482e27b7f8535?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-18T06:23:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GeminiでSQLクエリを書くのを爆速にした話",
-    "link": "https://zenn.dev/lovegraph/articles/8dfefaf74beffc",
-    "pubDate": "Wed, 18 Jun 2025 05:16:39 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "GitHub で自律的に動く Copilot Coding Agent を使い issue 対応(実装からPR作成まで)を丸投げしよう #意識低いAICodingチュートリアル #03",
     "link": "https://qiita.com/chomado/items/92650af47b55632f7ef9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-18T03:48:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code Tips】私のマイCLAUDE.mdを解説します",
-    "link": "https://zenn.dev/dirtyman/articles/ddbec05fd9fbb4",
-    "pubDate": "Wed, 18 Jun 2025 01:51:06 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Oracle Alloy: Fujitsu クラウドサービス powered by Oracle Alloy へログインしてみてみた",
-    "link": "https://qiita.com/shirok/items/a9b14c61fe8a1c02669a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-17T23:09:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【C#】同じ機能、違う書き方 - パフォーマンスで選ぶべきコードはどっち？",
-    "link": "https://qiita.com/Sakai_path/items/c51030f1291839025263?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-16T22:37:53.000Z"
   }
 ]
