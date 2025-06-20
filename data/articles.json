@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "LINEヤフーはなぜ“Switch 2転売禁止”を決めたのか？　担当者に聞いた　メルカリ・ラクマと対応が分かれたワケ",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/20/news048.html",
+    "pubDate": "2025-06-19T22:44:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】 Sandy Bridgeおじさん「やけにPCパーツを高くなってない？」。見ると分かるCPU/GPU/マザーの価格推移のエグさ",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2022711.html",
+    "pubDate": "2025-06-19T22:12:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Hothotレビュー】 次世代NASのあるべき姿？手のひらサイズにSSDを6基積める「Beelink ME Mini」",
+    "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2023782.html",
+    "pubDate": "2025-06-19T21:17:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Reactの内部構造を知っておく (React Tokyo #6 - @calloc134)",
+    "link": "https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134",
+    "pubDate": "2025-06-19T11:23:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CISSPとCCSPに合格した",
+    "link": "https://zenn.dev/lea/articles/d9655b3efd9085",
+    "pubDate": "Thu, 19 Jun 2025 11:05:30 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "口座開設時の本人確認 画像送信廃止へ 再来年4月1日から 政府 | NHK",
     "link": "https://www3.nhk.or.jp/news/html/20250619/k10014839251000.html",
     "pubDate": "2025-06-19T09:15:44.000Z"
@@ -10,6 +40,12 @@
     "title": "2025年から Elasticsearch に入門して、同義語検索を理解する | Wantedly Engineer Blog",
     "link": "https://www.wantedly.com/companies/wantedly/post_articles/984252",
     "pubDate": "2025-06-19T07:59:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "オープンソースのAI開発エージェント基盤にコマンドライン版「OpenHands CLI」が登場 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/06/openhands-cli",
+    "pubDate": "2025-06-19T05:58:04.000Z"
   },
   {
     "site": "Zenn",
@@ -24,16 +60,10 @@
     "pubDate": "2025-06-19T05:44:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "自動運転で「周回遅れ」の日本、原因は「国民性」と判明 | 自動運転ラボ",
-    "link": "https://jidounten-lab.com/u_55091",
-    "pubDate": "2025-06-19T05:11:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIに少しの「誤った情報」を学習させるだけで全体的に非倫理的な「道を外れたAI」になることがOpenAIの研究で判明",
-    "link": "https://gigazine.net/news/20250619-emergent-misalignment/",
-    "pubDate": "2025-06-19T03:35:32.000Z"
+    "site": "Zenn",
+    "title": "[Tips] PyTorch Lightning を利用した学習 Tips",
+    "link": "https://zenn.dev/turing_motors/articles/ab14252a4da9da",
+    "pubDate": "Thu, 19 Jun 2025 05:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -42,10 +72,28 @@
     "pubDate": "2025-06-19T03:04:40.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Amazon QにDevOpsマスター養成ゲームを作ってもらったら仕上げに苦労した",
+    "link": "https://qiita.com/melknzw/items/871f207b777df23ee4e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-19T02:44:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake Summit 2025で話題のSnowflake Openflowを試してみた",
+    "link": "https://zenn.dev/nttdata_tech/articles/7b338bf9f21f67",
+    "pubDate": "Thu, 19 Jun 2025 02:30:01 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "映画「岸辺露伴は動かない」劇伴制作元、AIの利用について声明　“1万6000文字超”で訴えた、AIを使う理由は？",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2506/17/news107.html",
-    "pubDate": "2025-06-19T00:35:25.000Z"
+    "title": "「実装」から「設計」へのパラダイムシフト というより無限に体力が必要という話をした #KAGのLT会 - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/06/19/102529",
+    "pubDate": "2025-06-19T01:54:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "F# 入門：少しでも書けるようになるための記録",
+    "link": "https://qiita.com/fukuidaito/items/068a7da76cebb9c0770e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-19T00:20:15.000Z"
   },
   {
     "site": "Zenn",
@@ -60,12 +108,6 @@
     "pubDate": "Wed, 18 Jun 2025 22:12:22 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "[日常] 生成AIは『高級言語』の再来か？ - OHPとFORTRANの時代から探る、エンジニアの進化",
-    "link": "https://qiita.com/ShigemoriMasato/items/fab875f7b7e9f07a01fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-18T19:37:26.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Azure MCP Server で始めるインシデント対応の自動化",
     "link": "https://zenn.dev/openjny/articles/07ef9e45e1cfea",
@@ -73,33 +115,15 @@
   },
   {
     "site": "Qiita",
-    "title": "[入門] Pythonを10倍高速化する実践テクニック集 - Qiita",
-    "link": "https://qiita.com/ShigemoriMasato/items/7081c88482e27b7f8535",
-    "pubDate": "2025-06-18T15:43:47.000Z"
+    "title": "【コピペOK】個人開発でApple風デザインルールを作ったら統一感のあるカッコいいUIにできた話",
+    "link": "https://qiita.com/tomada/items/decece613046a61b11a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-18T13:57:04.000Z"
   },
   {
     "site": "Qiita",
     "title": "エンジニアのキャリアパス　〜王道３パターンとその先〜",
     "link": "https://qiita.com/ryoheiiwamoto/items/9f506f6e728ac1353eb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-18T09:56:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜアウトプットし続けるべきなのか？エンジニアが発信すると、未来が変わる理由",
-    "link": "https://qiita.com/toyamaki/items/091d1fe966139d55480d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-18T09:33:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "できるだけ楽にGoogleアカウントを守る方法",
-    "link": "https://anond.hatelabo.jp/20250618175600",
-    "pubDate": "2025-06-18T08:56:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜGoogleはパスキーをゴリ押しするのか？その仕組みと本当の狙いを深掘りしてみた",
-    "link": "https://zenn.dev/nihiru/articles/93e3788c340ae6",
-    "pubDate": "2025-06-18T08:23:46.000Z"
   },
   {
     "site": "Qiita",
@@ -148,30 +172,6 @@
     "title": "学生が知人のサロン業務をNextjsでDX化してみた話",
     "link": "https://zenn.dev/satotakahumi/articles/9c5afd5e3253e8",
     "pubDate": "Tue, 17 Jun 2025 14:01:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜGoogleはパスキーをゴリ押しするのか？その仕組みと本当の狙いを深掘りしてみた",
-    "link": "https://zenn.dev/nihiru/articles/93e3788c340ae6",
-    "pubDate": "Tue, 17 Jun 2025 13:23:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Flutter】いつもText のオーバフロー対策を忘れるあなたへ",
-    "link": "https://zenn.dev/zudah228/articles/08e7d667dc4e87",
-    "pubDate": "Tue, 17 Jun 2025 12:57:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScript 環境構築ガイドラインを書いてLLMに再現させる",
-    "link": "https://zenn.dev/mizchi/articles/llm-aware-ts-project-starter",
-    "pubDate": "Tue, 17 Jun 2025 12:35:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub Copilot Coding Agent に issue 対応丸投げできるようにする初期設定",
-    "link": "https://qiita.com/chomado/items/d864c1dc5ef75f5bfd58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-17T06:04:27.000Z"
   },
   {
     "site": "Qiita",
