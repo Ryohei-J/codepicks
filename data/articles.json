@@ -30,6 +30,12 @@
     "pubDate": "2025-06-20T08:36:52.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "「AIが書く時代」に中島 聡が実践する開発スタイルとは？ - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/28667/",
+    "pubDate": "2025-06-20T06:52:36.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "「Claude Code」導入をめっちゃスムーズにする「ドキュメントの下地」を作るプロンプト - Qiita",
     "link": "https://qiita.com/WdknWdkn/items/2755301aebff878e0075",
@@ -37,9 +43,21 @@
   },
   {
     "site": "Zenn",
+    "title": "リプレイス1年の現場で見えた、やって良かった7つのこと",
+    "link": "https://zenn.dev/levtech/articles/replace-good",
+    "pubDate": "Fri, 20 Jun 2025 03:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "CSSDay 2025 Report",
     "link": "https://zenn.dev/cybozu_frontend/articles/css-day-2025",
     "pubDate": "Fri, 20 Jun 2025 03:00:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "もう手書きは不要！？React開発にStorybookとCopilotを導入して、爆速でUIを編集・確認する方法",
+    "link": "https://qiita.com/yu_720/items/62769dd4e5e12e022b63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-20T02:59:54.000Z"
   },
   {
     "site": "Zenn",
@@ -72,16 +90,16 @@
     "pubDate": "Fri, 20 Jun 2025 01:14:55 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "旧Twitter本社のシンボル「青い鳥」看板、爆破され木っ端微塵になったことが明らかに【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2024244.html",
-    "pubDate": "2025-06-20T01:03:21.000Z"
+    "site": "Zenn",
+    "title": "なぜ、成果を出す人ほど「締め切り」を設定するのか？",
+    "link": "https://zenn.dev/coconala/articles/5-layer-deadline-model",
+    "pubDate": "Thu, 19 Jun 2025 22:30:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "π（円周率）って「直径と円周の比」だったんだ",
-    "link": "https://anond.hatelabo.jp/20250620010738",
-    "pubDate": "2025-06-19T16:11:49.000Z"
+    "site": "Qiita",
+    "title": "【コピペOK】個人開発でApple風デザインルールを作ったら統一感のあるカッコいいUIにできた話 - Qiita",
+    "link": "https://qiita.com/tomada/items/decece613046a61b11a3",
+    "pubDate": "2025-06-19T12:00:57.000Z"
   },
   {
     "site": "Zenn",
@@ -103,27 +121,21 @@
   },
   {
     "site": "Zenn",
+    "title": "人間中身が重要なんていうけれど。Ts、君の中身を見せてくれ",
+    "link": "https://zenn.dev/5dai5/articles/c76dc641c71d5c",
+    "pubDate": "Thu, 19 Jun 2025 08:17:42 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "similarity-ts でAIと人間が書き散らした重複コードを見つける",
     "link": "https://zenn.dev/mizchi/articles/introduce-ts-similarity",
     "pubDate": "Thu, 19 Jun 2025 05:47:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "[Tips] PyTorch Lightning を利用した学習 Tips",
-    "link": "https://zenn.dev/turing_motors/articles/ab14252a4da9da",
-    "pubDate": "Thu, 19 Jun 2025 05:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【祝 1K Star 達成】ccusageの３週間を振り返る",
-    "link": "https://zenn.dev/ryoppippi/articles/aad087994f26a7",
-    "pubDate": "Wed, 18 Jun 2025 22:17:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "n8n + Claude Code Actionで開発を自動パイプライン化した",
-    "link": "https://zenn.dev/tesla/articles/3abc9e61da0b1e",
-    "pubDate": "Wed, 18 Jun 2025 22:12:22 GMT"
+    "site": "Qiita",
+    "title": "【新機能】Cursor v1.0で登場！コードレビュー機能BugBotを使ってみた",
+    "link": "https://qiita.com/haruki_sakurai/items/fddef45fa8f578437a76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-19T04:08:59.000Z"
   },
   {
     "site": "Qiita",
@@ -136,12 +148,6 @@
     "title": "【コピペOK】個人開発でApple風デザインルールを作ったら統一感のあるカッコいいUIにできた話",
     "link": "https://qiita.com/tomada/items/decece613046a61b11a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-18T13:57:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアのキャリアパス　〜王道３パターンとその先〜",
-    "link": "https://qiita.com/ryoheiiwamoto/items/9f506f6e728ac1353eb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-18T09:56:39.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "生のターミナルから卒業しませんか？【oh-my-zsh】",
     "link": "https://qiita.com/flowernotfound/items/480f1aea319762aaf842?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-18T03:49:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub で自律的に動く Copilot Coding Agent を使い issue 対応(実装からPR作成まで)を丸投げしよう #意識低いAICodingチュートリアル #03",
-    "link": "https://qiita.com/chomado/items/92650af47b55632f7ef9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-18T03:48:14.000Z"
   }
 ]
