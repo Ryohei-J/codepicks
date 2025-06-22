@@ -1,21 +1,51 @@
 [
   {
+    "site": "Zenn",
+    "title": "全人類、いますぐ Discord を使い倒そう",
+    "link": "https://zenn.dev/oliver/articles/discord-yatteiki-2025",
+    "pubDate": "Sun, 22 Jun 2025 08:33:19 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code時代のソフトウェアエンジニア生存戦略｜suthio",
+    "link": "https://note.com/suthio/n/n4f79fbe4efda",
+    "pubDate": "2025-06-22T06:32:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DMM系のFANZA、AI生成作品を隔離　今夏以降に表示制限を実施予定 | オタク総研",
+    "link": "https://0115765.com/archives/135897",
+    "pubDate": "2025-06-22T05:38:48.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "自作結婚式受付アプリが当日バグり散らかして現場運用の大切さを噛み締めた話 - エムスリーテックブログ",
     "link": "https://www.m3tech.blog/entry/wedding-reception-app-disaster",
     "pubDate": "2025-06-22T02:47:30.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Vercelのmcp-adapterはいいぞ!AWSでも使える!",
+    "link": "https://qiita.com/Syoitu/items/b735321d2ab6ad47b248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-22T02:31:50.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "「性的ディープフェイク」相談や通報相次ぐ 警察庁 対策検討へ | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250622/k10014840991000.html",
-    "pubDate": "2025-06-21T21:28:42.000Z"
+    "title": "iOS 26、「サードパーティ製AirDrop」が開発可能に。専用APIが解放",
+    "link": "https://gori.me/ios/ios26/159980",
+    "pubDate": "2025-06-22T00:03:14.000Z"
   },
   {
     "site": "Hatena",
     "title": "政策設計にITを導入すると「世の中には様々な人がいる」ことを見落としがち…チームみらいが政治家として足りない点、オードリー・タンが台湾で活躍した理由が分かる気がする",
     "link": "https://togetter.com/li/2566622",
     "pubDate": "2025-06-21T20:06:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Zod + Branded Typeで真の型安全へ",
+    "link": "https://zenn.dev/saitogo/articles/88e93fdf0b1dd5",
+    "pubDate": "Sat, 21 Jun 2025 17:07:00 GMT"
   },
   {
     "site": "Hatena",
@@ -25,9 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeの公式VSCode拡張が利用できるようになったので触ってみた | DevelopersIO",
+    "title": "Claude Codeの公式VSCode拡張が拡張機能ストアで検索可能な形で公開されたので改めて触ってみた | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/claude-code-vscode-extension-review/",
     "pubDate": "2025-06-21T13:47:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeのタスク完了を光で感じる",
+    "link": "https://zenn.dev/pepabo/articles/3113622c0be8d9",
+    "pubDate": "Sat, 21 Jun 2025 13:29:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code で GitHub スターの地理分布を可視化するオープンソースソフトウェアをつくった",
+    "link": "https://zenn.dev/yohamta/articles/d8886209002faa",
+    "pubDate": "Sat, 21 Jun 2025 13:22:35 GMT"
   },
   {
     "site": "Hatena",
@@ -36,22 +78,10 @@
     "pubDate": "2025-06-21T13:14:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "イーロン・マスクの考えに従わないGrok。執拗に思想矯正される",
-    "link": "https://www.gizmodo.jp/2025/06/groks-ideological-correction.html",
-    "pubDate": "2025-06-21T12:12:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeで異次元の仕事をする方法【非エンジニアにも全力推奨！】｜砂塚紀彦",
-    "link": "https://note.com/sunazuka/n/n258295d054ca",
-    "pubDate": "2025-06-21T11:54:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "youtubeに偽情報も含んだ高齢者向けの健康動画が生成AIを駆使して大量に作られているっぽい - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2025/06/21/200000",
-    "pubDate": "2025-06-21T11:22:02.000Z"
+    "site": "Zenn",
+    "title": "【C#】「プロパティ」再入門──ただのgetter/setterじゃない",
+    "link": "https://zenn.dev/inuinu/articles/csharp-property-re-entry",
+    "pubDate": "Sat, 21 Jun 2025 11:23:15 GMT"
   },
   {
     "site": "Qiita",
@@ -90,10 +120,16 @@
     "pubDate": "2025-06-21T02:44:02.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Terraform Associate を受験したら受験前が修羅場過ぎた件",
-    "link": "https://qiita.com/ec2_on_aws/items/51761c24f2c3e87e36c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-20T13:33:10.000Z"
+    "site": "Zenn",
+    "title": "【TypeScript】自社UIコンポーネントにMCPサーバーを作った話",
+    "link": "https://zenn.dev/uniformnext/articles/kurage-ui-mcp",
+    "pubDate": "Sat, 21 Jun 2025 00:52:20 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「スマートリポジトリ」という概念について",
+    "link": "https://zenn.dev/tesla/articles/57b9ebc3117d5f",
+    "pubDate": "Fri, 20 Jun 2025 11:54:29 GMT"
   },
   {
     "site": "Hatena",
@@ -103,57 +139,15 @@
   },
   {
     "site": "Qiita",
-    "title": "生成AIはAtCoderBeginnerContestのインフレを加速させたか",
-    "link": "https://qiita.com/sirsoldano/items/ad3d05e4a37759850445?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-20T07:54:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenCode 違い",
-    "link": "https://zenn.dev/tkithrta/articles/13b576270f4d18",
-    "pubDate": "Fri, 20 Jun 2025 07:42:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeがGitHubのIssue内の画像を読めるようにするgh-assetというOSSを公開しました",
-    "link": "https://zenn.dev/loglass/articles/c244b433b4d03c",
-    "pubDate": "Fri, 20 Jun 2025 04:12:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "リプレイス1年の現場で見えた、やって良かった7つのこと",
-    "link": "https://zenn.dev/levtech/articles/replace-good",
-    "pubDate": "Fri, 20 Jun 2025 03:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSSDay 2025 Report",
-    "link": "https://zenn.dev/cybozu_frontend/articles/css-day-2025",
-    "pubDate": "Fri, 20 Jun 2025 03:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "もう手書きは不要！？React開発にStorybookとCopilotを導入して、爆速でUIを編集・確認する方法",
     "link": "https://qiita.com/yu_720/items/62769dd4e5e12e022b63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-20T02:59:54.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeを超えたかも！？OpenHands CLIで抽象的な指示から完動するコードを一発生成",
-    "link": "https://zenn.dev/minedia/articles/openhands-cli",
-    "pubDate": "Fri, 20 Jun 2025 02:08:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cursorが急に使いづらくなった！Ultra Plan導入で起きた悲劇と解決方法",
-    "link": "https://zenn.dev/fastdoctor/articles/42d52a7ad13f26",
-    "pubDate": "Fri, 20 Jun 2025 01:49:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code を初めて使う人向けの実践ガイド",
-    "link": "https://zenn.dev/hokuto_tech/articles/86d1edb33da61a",
-    "pubDate": "Fri, 20 Jun 2025 01:14:55 GMT"
+    "site": "Qiita",
+    "title": "WinFormsデザイナー地獄、終焉。VS2022が解決した\"あるある問題\"まとめ",
+    "link": "https://qiita.com/Sakai_path/items/99f36526aa66b41dfea5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-20T01:58:55.000Z"
   },
   {
     "site": "Qiita",
@@ -172,6 +166,12 @@
     "title": "[速習] 知識獲得と学習の道 - パワポと箇条書きが思考を停止させる理由",
     "link": "https://qiita.com/ShigemoriMasato/items/456516c44b938f57f791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-19T22:14:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTをヤバい「コンテンツ制作チーム」に変える裏技が、想像以上にエグかった｜テツメモ｜tetumemo｜Newsletter",
+    "link": "https://note.com/tetumemo/n/ne997f47eb270",
+    "pubDate": "2025-06-19T17:30:05.000Z"
   },
   {
     "site": "Qiita",
