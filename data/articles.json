@@ -1,7 +1,19 @@
 [
   {
     "site": "Hatena",
-    "title": "政策設計にITを導入すると「世の中には様々な人がいる」ことを見落としがち…チームみらいが政治家として足りない点、オードリー・タンが台湾で機能した理由が分かる気がする",
+    "title": "自作結婚式受付アプリが当日バグり散らかして現場運用の大切さを噛み締めた話 - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/wedding-reception-app-disaster",
+    "pubDate": "2025-06-22T02:47:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「性的ディープフェイク」相談や通報相次ぐ 警察庁 対策検討へ | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250622/k10014840991000.html",
+    "pubDate": "2025-06-21T21:28:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "政策設計にITを導入すると「世の中には様々な人がいる」ことを見落としがち…チームみらいが政治家として足りない点、オードリー・タンが台湾で活躍した理由が分かる気がする",
     "link": "https://togetter.com/li/2566622",
     "pubDate": "2025-06-21T20:06:28.000Z"
   },
@@ -42,12 +54,6 @@
     "pubDate": "2025-06-21T11:22:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Software 3.0 時代を楽しく生きる - As a Futurist...",
-    "link": "https://blog.riywo.com/2025/06/enjoy-software-3_0-era/",
-    "pubDate": "2025-06-21T10:10:08.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWS完全初心者がプレーリーカードでデジタル名刺を作ってみた話",
     "link": "https://qiita.com/tks_1128/items/0d423d64391cb152bbfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -85,15 +91,15 @@
   },
   {
     "site": "Qiita",
-    "title": "「NotebookLM」は業務でどう活用できる？ 社内活用シナリオを考えてみた - Qiita",
-    "link": "https://qiita.com/hirokiii27/items/d6a6f1efdb6d6f8dff8c",
-    "pubDate": "2025-06-20T14:37:32.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Terraform Associate を受験したら受験前が修羅場過ぎた件",
     "link": "https://qiita.com/ec2_on_aws/items/51761c24f2c3e87e36c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-20T13:33:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "バッチ設計ガイドライン | フューチャー株式会社",
+    "link": "https://future-architect.github.io/arch-guidelines/documents/forBatch/batch_guidelines.html",
+    "pubDate": "2025-06-20T08:18:47.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "「Claude Code」導入をめっちゃスムーズにする「ドキュメントの下地」を作るプロンプト",
     "link": "https://qiita.com/WdknWdkn/items/2755301aebff878e0075?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-19T09:17:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "バッチ設計ガイドライン | Future Enterprise Arch Guidelines",
-    "link": "https://future-architect.github.io/arch-guidelines/documents/forBatch/",
-    "pubDate": "2025-05-14T00:03:33.000Z"
   }
 ]
