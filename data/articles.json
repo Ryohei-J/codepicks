@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "政策設計にITを導入すると「世の中には様々な人がいる」ことを見落としがち…チームみらいが政治家として足りない点、オードリー・タンが台湾で機能した理由が分かる気がする",
+    "link": "https://togetter.com/li/2566622",
+    "pubDate": "2025-06-21T20:06:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "インターネット文化遺産の危機〜2025年大規模サービス終了がもたらすデジタルアーカイブの喪失〜｜江崎びす子",
+    "link": "https://note.com/ezakibisuko/n/n2e75cfd12221",
+    "pubDate": "2025-06-21T16:52:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeの公式VSCode拡張が利用できるようになったので触ってみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claude-code-vscode-extension-review/",
+    "pubDate": "2025-06-21T13:47:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "芥川賞作家 九段理江さんのAIを利用した小説執筆手法について｜IT navi",
+    "link": "https://note.com/it_navi/n/n4fba840e67c7",
+    "pubDate": "2025-06-21T13:14:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "イーロン・マスクの考えに従わないGrok。執拗に思想矯正される",
     "link": "https://www.gizmodo.jp/2025/06/groks-ideological-correction.html",
     "pubDate": "2025-06-21T12:12:02.000Z"
@@ -24,22 +48,28 @@
     "pubDate": "2025-06-21T10:10:08.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AWS完全初心者がプレーリーカードでデジタル名刺を作ってみた話",
+    "link": "https://qiita.com/tks_1128/items/0d423d64391cb152bbfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-21T08:33:54.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Code中心の開発のためのPythonテンプレートの設計",
     "link": "https://zenn.dev/discus0434/articles/claude-code-python-template",
     "pubDate": "Sat, 21 Jun 2025 08:27:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「関数の副作用の有無」よりも大事なもの | 雑記帳",
-    "link": "https://blog.miz-ar.info/2025/06/side-effects/",
-    "pubDate": "2025-06-21T08:22:07.000Z"
+    "site": "Qiita",
+    "title": "【Claude Code】初心者向け備忘～要件定義を1人で抱え込まないで～",
+    "link": "https://qiita.com/ryu-ki/items/1216d00f893f7bdbf95b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-21T05:56:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code Chat - Visual Studio Marketplace",
-    "link": "https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat",
-    "pubDate": "2025-06-21T05:29:49.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeの知見をObsidianで横断管理する - CKCによる実践的なナレッジマネジメント",
+    "link": "https://zenn.dev/driller/articles/1551674785f7fd",
+    "pubDate": "Sat, 21 Jun 2025 05:47:35 GMT"
   },
   {
     "site": "Zenn",
@@ -48,16 +78,10 @@
     "pubDate": "Sat, 21 Jun 2025 03:01:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "将棋AIの大会をめちゃめちゃにできる定跡が発見された | やねうら王 公式サイト",
-    "link": "https://yaneuraou.yaneu.com/2025/06/21/a-game-breaking-opening-has-been-discovered/",
-    "pubDate": "2025-06-21T02:13:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "知らない間に、電子ペーパーがものすごく進化していた。屋外OK、しかもフルカラー。 (1/2)",
-    "link": "https://ascii.jp/elem/000/004/293/4293594/",
-    "pubDate": "2025-06-21T00:52:11.000Z"
+    "site": "Qiita",
+    "title": "なぜ私はRustを選んだのか 〜中学生低レイヤー開発者が語る言語の魅力〜",
+    "link": "https://qiita.com/Aqua-Studev/items/14cde3366a67d9bb7946?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-21T02:44:02.000Z"
   },
   {
     "site": "Qiita",
@@ -66,34 +90,22 @@
     "pubDate": "2025-06-20T14:37:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI による自然言語アサーション",
-    "link": "https://zenn.dev/mizchi/articles/ai-assertion-with-claude-code",
-    "pubDate": "Fri, 20 Jun 2025 12:00:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「スマートリポジトリ」という概念について",
-    "link": "https://zenn.dev/tesla/articles/57b9ebc3117d5f",
-    "pubDate": "Fri, 20 Jun 2025 11:54:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeに似ているOpenHands CLIが出たので触ってみた",
-    "link": "https://zenn.dev/mixi/articles/14babc733361bf",
-    "pubDate": "Fri, 20 Jun 2025 11:09:43 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "【備忘録】Curosor Rulesで開発の均一化について考える",
-    "link": "https://qiita.com/sora_akagami/items/e28adea1609b0e51a82b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-20T08:02:21.000Z"
+    "title": "Terraform Associate を受験したら受験前が修羅場過ぎた件",
+    "link": "https://qiita.com/ec2_on_aws/items/51761c24f2c3e87e36c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-20T13:33:10.000Z"
   },
   {
     "site": "Qiita",
     "title": "生成AIはAtCoderBeginnerContestのインフレを加速させたか",
     "link": "https://qiita.com/sirsoldano/items/ad3d05e4a37759850445?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-20T07:54:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenCode 違い",
+    "link": "https://zenn.dev/tkithrta/articles/13b576270f4d18",
+    "pubDate": "Fri, 20 Jun 2025 07:42:03 GMT"
   },
   {
     "site": "Zenn",
@@ -132,6 +144,12 @@
     "pubDate": "Fri, 20 Jun 2025 01:49:13 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Code を初めて使う人向けの実践ガイド",
+    "link": "https://zenn.dev/hokuto_tech/articles/86d1edb33da61a",
+    "pubDate": "Fri, 20 Jun 2025 01:14:55 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「NotebookLM」は業務でどう活用できる？ 社内活用シナリオを考えてみた",
     "link": "https://qiita.com/hirokiii27/items/d6a6f1efdb6d6f8dff8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -154,24 +172,6 @@
     "title": "「Claude Code」導入をめっちゃスムーズにする「ドキュメントの下地」を作るプロンプト",
     "link": "https://qiita.com/WdknWdkn/items/2755301aebff878e0075?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-19T09:17:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【新機能】Cursor v1.0で登場！コードレビュー機能BugBotを使ってみた",
-    "link": "https://qiita.com/haruki_sakurai/items/fddef45fa8f578437a76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-19T04:08:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[日常] 生成AIは『高級言語』の再来か？ - OHPとFORTRANの時代から探る、エンジニアの進化",
-    "link": "https://qiita.com/ShigemoriMasato/items/fab875f7b7e9f07a01fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-18T19:37:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【コピペOK】個人開発でApple風デザインルールを作ったら統一感のあるカッコいいUIにできた話",
-    "link": "https://qiita.com/tomada/items/decece613046a61b11a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-18T13:57:04.000Z"
   },
   {
     "site": "Hatena",
