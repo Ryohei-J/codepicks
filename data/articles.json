@@ -1,9 +1,45 @@
 [
   {
+    "site": "Zenn",
+    "title": "そろそろスマホから開発してみませんか？移動中も開発したくないですか？",
+    "link": "https://zenn.dev/r_kaga/articles/49369e1f5fb450",
+    "pubDate": "Mon, 23 Jun 2025 04:47:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoftがトランプ大統領の命令で国際刑事裁判所職員のメールアカウントを停止、EU各国でアメリカ企業離れが加速する",
+    "link": "https://gigazine.net/news/20250623-europeans-seek-digital-sovereignty-us-tech/",
+    "pubDate": "2025-06-23T03:41:02.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Windowsを生んだビル・ゲイツとLinuxを生んだリーナス・トーバルズが初めて顔を合わせた歴史的写真",
     "link": "https://gigazine.net/news/20250623-bill-gates-linus-tovalds-first-meeting/",
     "pubDate": "2025-06-23T03:07:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“手のりケルヒャー”爆売れ、30分で2500台を完売　再販や市販の予定は？",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/23/news062.html",
+    "pubDate": "2025-06-23T03:03:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIでプログラマ不要になるというのは、プログラミング言語構文わかればプログラム組めるという誤解に基づくのでは - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2025/06/23/113527",
+    "pubDate": "2025-06-23T02:52:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "日本語医療特化型LLMの現状と展望",
+    "link": "https://zenn.dev/mkj/articles/b04bdede9bc3d6",
+    "pubDate": "Mon, 23 Jun 2025 02:50:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Platform Engineering Jump Startに参加して学んだこと",
+    "link": "https://zenn.dev/geniee/articles/platform-engineering-jump-start",
+    "pubDate": "Mon, 23 Jun 2025 02:42:55 GMT"
   },
   {
     "site": "Hatena",
@@ -16,6 +52,12 @@
     "title": "Claude Code 逆引きコマンド事典",
     "link": "https://zenn.dev/ml_bear/articles/84e92429698177",
     "pubDate": "2025-06-22T23:53:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Framelink Figma MCPを使用したSwiftUIのコード生成を試行錯誤する",
+    "link": "https://zenn.dev/rockname/articles/f85e08f2a971dc",
+    "pubDate": "Sun, 22 Jun 2025 23:50:06 GMT"
   },
   {
     "site": "Zenn",
@@ -36,16 +78,28 @@
     "pubDate": "2025-06-22T22:49:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Synologyの社内見学会に参加して「他社ブランドのストレージを制限した件」について質問をぶつけた結果が公開される",
-    "link": "https://gigazine.net/news/20250623-synology-nas-storage/",
-    "pubDate": "2025-06-22T22:10:26.000Z"
+    "site": "Qiita",
+    "title": "AWS利用料を自然言語で簡単に知る方法はありますか？",
+    "link": "https://qiita.com/moritalous/items/a6fa7133204507ed0856?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-22T22:24:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI Agent Manager (AAM) として生きていく : 作業環境とワークフローの設計",
+    "link": "https://qiita.com/icoxfog417/items/f15e92f05b14411fd642?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-22T15:37:26.000Z"
   },
   {
     "site": "Hatena",
     "title": "AIの「裏切り」が始まったのか？ ClaudeやGemini等主要AIモデルが最高96％の確率で脅迫を行う事が判明 | XenoSpectrum",
     "link": "https://xenospectrum.com/it-has-been-discovered-that-major-ai-models-such-as-claude-and-gemini-can-make-threats-with-a-probability-of-up-to-96/",
     "pubDate": "2025-06-22T15:11:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ClaudeのMaxプランによって変わった個人開発のスタイル",
+    "link": "https://zenn.dev/ryosuke_horie/articles/24768b727ff27c",
+    "pubDate": "Sun, 22 Jun 2025 15:09:38 GMT"
   },
   {
     "site": "Zenn",
@@ -72,6 +126,12 @@
     "pubDate": "2025-06-22T09:57:33.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "“最短で作る” と “最速で届ける” の違いを考える",
+    "link": "https://qiita.com/pilot_fish/items/65c24c4742d24f507a89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-22T09:52:44.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "MCP 2025-06-18 で追加された structured tool output を試す",
     "link": "https://zenn.dev/sushichaaaan/articles/fd57bbaa25287c",
@@ -90,16 +150,10 @@
     "pubDate": "2025-06-22T08:21:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "コンポーネントテストの方法4種類比較してみる（2025年版）",
-    "link": "https://zenn.dev/kikagaku/articles/component-testing",
-    "pubDate": "Sun, 22 Jun 2025 07:08:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code時代のソフトウェアエンジニア生存戦略｜suthio",
-    "link": "https://note.com/suthio/n/n4f79fbe4efda",
-    "pubDate": "2025-06-22T06:32:14.000Z"
+    "site": "Qiita",
+    "title": "新卒3年間を振り返って - やって良かったこと編",
+    "link": "https://qiita.com/k_yamaki/items/5fa9d6b2534fa14b7c60?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-22T08:03:26.000Z"
   },
   {
     "site": "Qiita",
@@ -108,75 +162,21 @@
     "pubDate": "2025-06-22T05:52:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Next.js + Supabase タスク管理アプリ",
-    "link": "https://zenn.dev/amayann/books/18f5c79fb4778b",
-    "pubDate": "Sun, 22 Jun 2025 05:23:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "そのインフラ、次世代 IaC Pulumi を使って TypeScript で書いてみませんか？",
-    "link": "https://zenn.dev/utcarnivaldayo/articles/2025-06-22-pulumi-ts-svless",
-    "pubDate": "Sun, 22 Jun 2025 05:18:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【TypeScript】1%×100回=63%らしいので、コードを書いて検証してみた",
-    "link": "https://zenn.dev/nanasi_1/articles/5559a60b343076",
-    "pubDate": "Sun, 22 Jun 2025 03:55:09 GMT"
+    "site": "Qiita",
+    "title": "MySQLで🍣が保存できない？utf8とutf8mb4の違いを実験",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/6b35fb5fee4314039204?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-21T16:23:59.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Vercelのmcp-adapterはいいぞ!AWSでも使える!",
-    "link": "https://qiita.com/Syoitu/items/b735321d2ab6ad47b248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T02:31:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Zod + Branded Typeで真の型安全へ",
-    "link": "https://zenn.dev/saitogo/articles/88e93fdf0b1dd5",
-    "pubDate": "Sat, 21 Jun 2025 17:07:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code に壊されないための denyルール完全ガイド - izanami",
-    "link": "https://izanami.dev/post/d6f25eec-71aa-4746-8c0d-80c67a1459be",
-    "pubDate": "2025-06-21T09:06:22.000Z"
+    "title": "寄付金可視化を支える技術 — GitHub Actions で実現する政治の透明性",
+    "link": "https://qiita.com/nishio/items/ec3098f60ca3e71c8f9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-21T13:06:44.000Z"
   },
   {
     "site": "Qiita",
     "title": "【Claude Code】初心者向け備忘～要件定義を1人で抱え込まないで～",
     "link": "https://qiita.com/ryu-ki/items/1216d00f893f7bdbf95b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-21T05:56:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜ私はRustを選んだのか 〜中学生低レイヤー開発者が語る言語の魅力〜",
-    "link": "https://qiita.com/Aqua-Studev/items/14cde3366a67d9bb7946?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-21T02:44:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "もう手書きは不要！？React開発にStorybookとCopilotを導入して、爆速でUIを編集・確認する方法",
-    "link": "https://qiita.com/yu_720/items/62769dd4e5e12e022b63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-20T02:59:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「NotebookLM」は業務でどう活用できる？ 社内活用シナリオを考えてみた",
-    "link": "https://qiita.com/hirokiii27/items/d6a6f1efdb6d6f8dff8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-20T00:55:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[入門] C/C++の未定義動作を10倍安全に回避するテクニック集",
-    "link": "https://qiita.com/ShigemoriMasato/items/c3fb14fa995799595795?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-19T22:32:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[速習] 知識獲得と学習の道 パワポと箇条書きが思考を停止させる理由",
-    "link": "https://qiita.com/ShigemoriMasato/items/456516c44b938f57f791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-19T22:14:31.000Z"
   }
 ]
