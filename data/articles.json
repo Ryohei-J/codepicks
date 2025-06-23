@@ -1,9 +1,33 @@
 [
   {
+    "site": "Hatena",
+    "title": "Windowsを生んだビル・ゲイツとLinuxを生んだリーナス・トーバルズが初めて顔を合わせた歴史的写真",
+    "link": "https://gigazine.net/news/20250623-bill-gates-linus-tovalds-first-meeting/",
+    "pubDate": "2025-06-23T03:07:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIによる開発は楽しすぎるが、基礎学習が疎かになりそうで怖い - $shibayu36->blog;",
+    "link": "https://blog.shibayu36.org/entry/2025/06/23/090555",
+    "pubDate": "2025-06-23T01:06:11.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Code 逆引きコマンド事典",
     "link": "https://zenn.dev/ml_bear/articles/84e92429698177",
     "pubDate": "2025-06-22T23:53:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code 逆引きコマンド事典",
+    "link": "https://zenn.dev/ml_bear/articles/84e92429698177",
+    "pubDate": "Sun, 22 Jun 2025 23:01:48 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽曲生成AIの進化が凄い　鼻歌からプロ級の曲がポンポンできる (1/7)",
+    "link": "https://ascii.jp/elem/000/004/293/4293733/",
+    "pubDate": "2025-06-22T23:01:07.000Z"
   },
   {
     "site": "Hatena",
@@ -13,15 +37,21 @@
   },
   {
     "site": "Hatena",
+    "title": "Synologyの社内見学会に参加して「他社ブランドのストレージを制限した件」について質問をぶつけた結果が公開される",
+    "link": "https://gigazine.net/news/20250623-synology-nas-storage/",
+    "pubDate": "2025-06-22T22:10:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIの「裏切り」が始まったのか？ ClaudeやGemini等主要AIモデルが最高96％の確率で脅迫を行う事が判明 | XenoSpectrum",
     "link": "https://xenospectrum.com/it-has-been-discovered-that-major-ai-models-such-as-claude-and-gemini-can-make-threats-with-a-probability-of-up-to-96/",
     "pubDate": "2025-06-22T15:11:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マイクロソフト、PCの紛失や故障などのとき一時的に同構成のクラウドPCが使える「Windows 365 Reserve」プレビュー公開",
-    "link": "https://www.publickey1.jp/blog/25/pcpcwindows_365_reserve.html",
-    "pubDate": "2025-06-22T14:19:54.000Z"
+    "site": "Zenn",
+    "title": "Dart client for Genkit: Flutter/Dart から Genkit フローを呼び出す",
+    "link": "https://zenn.dev/nozomi_cobo/articles/dart-client-for-genkit",
+    "pubDate": "Sun, 22 Jun 2025 14:27:53 GMT"
   },
   {
     "site": "Qiita",
@@ -30,10 +60,22 @@
     "pubDate": "2025-06-22T13:06:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "普通のエンジニアが、 4 年かけて個人開発の OSS で GitHub Star 2.3k を獲得するまでに考えたこと",
+    "link": "https://zenn.dev/yohamta/articles/25581c19b45c5f",
+    "pubDate": "Sun, 22 Jun 2025 11:36:00 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【個人開発】爆速で英語ドキュメントを日本語に翻訳しました【JStack×Next.js×Vercel×Upstash】",
     "link": "https://qiita.com/guppy0356/items/90649387161f52585c71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-22T09:57:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MCP 2025-06-18 で追加された structured tool output を試す",
+    "link": "https://zenn.dev/sushichaaaan/articles/fd57bbaa25287c",
+    "pubDate": "Sun, 22 Jun 2025 09:00:09 GMT"
   },
   {
     "site": "Zenn",
@@ -48,6 +90,12 @@
     "pubDate": "2025-06-22T08:21:20.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "コンポーネントテストの方法4種類比較してみる（2025年版）",
+    "link": "https://zenn.dev/kikagaku/articles/component-testing",
+    "pubDate": "Sun, 22 Jun 2025 07:08:05 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Claude Code時代のソフトウェアエンジニア生存戦略｜suthio",
     "link": "https://note.com/suthio/n/n4f79fbe4efda",
@@ -60,22 +108,22 @@
     "pubDate": "2025-06-22T05:52:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "DMM系のFANZA、AI生成作品を隔離　今夏以降に表示制限を実施予定 | オタク総研",
-    "link": "https://0115765.com/archives/135897",
-    "pubDate": "2025-06-22T05:38:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Next.js + Supabase タスク管理アプリ",
     "link": "https://zenn.dev/amayann/books/18f5c79fb4778b",
     "pubDate": "Sun, 22 Jun 2025 05:23:24 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【画像生成AI】Stable Diffusion webUI と ComfyUI どちらを使う？　登場から比較してみよう！｜きまま / Easygoing",
-    "link": "https://note.com/ai_image_journey/n/n156ec1cca0d3",
-    "pubDate": "2025-06-22T04:25:32.000Z"
+    "site": "Zenn",
+    "title": "そのインフラ、次世代 IaC Pulumi を使って TypeScript で書いてみませんか？",
+    "link": "https://zenn.dev/utcarnivaldayo/articles/2025-06-22-pulumi-ts-svless",
+    "pubDate": "Sun, 22 Jun 2025 05:18:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【TypeScript】1%×100回=63%らしいので、コードを書いて検証してみた",
+    "link": "https://zenn.dev/nanasi_1/articles/5559a60b343076",
+    "pubDate": "Sun, 22 Jun 2025 03:55:09 GMT"
   },
   {
     "site": "Qiita",
@@ -90,40 +138,10 @@
     "pubDate": "Sat, 21 Jun 2025 17:07:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeのタスク完了を光で感じる",
-    "link": "https://zenn.dev/pepabo/articles/3113622c0be8d9",
-    "pubDate": "Sat, 21 Jun 2025 13:29:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code で GitHub スターの地理分布を可視化するオープンソースソフトウェアをつくった",
-    "link": "https://zenn.dev/yohamta/articles/d8886209002faa",
-    "pubDate": "Sat, 21 Jun 2025 13:22:35 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "芥川賞作家 九段理江さんのAIを利用した小説執筆手法について｜IT navi",
-    "link": "https://note.com/it_navi/n/n4fba840e67c7",
-    "pubDate": "2025-06-21T13:14:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【C#】「プロパティ」再入門──ただのgetter/setterじゃない",
-    "link": "https://zenn.dev/inuinu/articles/csharp-property-re-entry",
-    "pubDate": "Sat, 21 Jun 2025 11:23:15 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "Claude Code に壊されないための denyルール完全ガイド - izanami",
     "link": "https://izanami.dev/post/d6f25eec-71aa-4746-8c0d-80c67a1459be",
     "pubDate": "2025-06-21T09:06:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code中心の開発のためのPythonテンプレートの設計",
-    "link": "https://zenn.dev/discus0434/articles/claude-code-python-template",
-    "pubDate": "Sat, 21 Jun 2025 08:27:45 GMT"
   },
   {
     "site": "Qiita",
@@ -132,28 +150,10 @@
     "pubDate": "2025-06-21T05:56:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeの知見をObsidianで横断管理する - CKCによる実践的なナレッジマネジメント",
-    "link": "https://zenn.dev/driller/articles/1551674785f7fd",
-    "pubDate": "Sat, 21 Jun 2025 05:47:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code】カスタムSlash Commandの作り方とコマンド例を紹介する",
-    "link": "https://zenn.dev/oikon/articles/cb11b84f891228",
-    "pubDate": "Sat, 21 Jun 2025 03:01:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "なぜ私はRustを選んだのか 〜中学生低レイヤー開発者が語る言語の魅力〜",
     "link": "https://qiita.com/Aqua-Studev/items/14cde3366a67d9bb7946?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-21T02:44:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【TypeScript】自社UIコンポーネントにMCPサーバーを作った話",
-    "link": "https://zenn.dev/uniformnext/articles/kurage-ui-mcp",
-    "pubDate": "Sat, 21 Jun 2025 00:52:20 GMT"
   },
   {
     "site": "Qiita",
