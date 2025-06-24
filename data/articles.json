@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "Passkey認証の実装ミスに起因する脆弱性・セキュリティリスク - GMO Flatt Security Blog",
+    "link": "https://blog.flatt.tech/entry/passkey_security",
+    "pubDate": "2025-06-24T08:36:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "海外と日本の開発スタイルの違いとそれによって生じるスピード感の差について→ものづくり分野の人達「これは突っぱねないとダメなんだよ」",
+    "link": "https://togetter.com/li/2567692",
+    "pubDate": "2025-06-24T06:41:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【やじうまPC Watch】 空冷ユーザーに告ぐ。上部に2つのファンがあるなら1つを逆向きにしてみて",
     "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2025160.html",
     "pubDate": "2025-06-24T04:47:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeの前と後。やり始めたこととやめたこと",
+    "link": "https://zenn.dev/ks0318/articles/0779b38a023896",
+    "pubDate": "Tue, 24 Jun 2025 03:39:27 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "🧹.env にさよなら！全てのサービス開発者が実感するビルドプロセス改善🔐⏱️⚙️",
+    "link": "https://zenn.dev/dinii/articles/e615ae7d517795",
+    "pubDate": "Tue, 24 Jun 2025 02:43:17 GMT"
   },
   {
     "site": "Hatena",
@@ -24,6 +48,12 @@
     "pubDate": "2025-06-23T23:37:24.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "[入門] Linux 誕生の瞬間 1991/09/17 1万行を読み解く",
+    "link": "https://qiita.com/ShigemoriMasato/items/e4dfa70e4fa7ec7a8b2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-23T19:32:15.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Googleが抽出した10個のカテゴリで技術的負債を捉えなおす - mtx2s’s blog",
     "link": "https://mtx2s.hatenablog.com/entry/2025/06/23/195937",
@@ -34,12 +64,6 @@
     "title": "個人開発者のためのStripe超入門①",
     "link": "https://zenn.dev/ideagarage/articles/a2f5a4f04d7dcb",
     "pubDate": "2025-06-23T14:21:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "イランへの塩対応は予想の範疇だったらしい",
-    "link": "https://anond.hatelabo.jp/20250623230749",
-    "pubDate": "2025-06-23T14:10:17.000Z"
   },
   {
     "site": "Zenn",
@@ -78,16 +102,22 @@
     "pubDate": "Mon, 23 Jun 2025 11:27:39 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "MCPサーバーを使うなら Prompt Caching が大切だと思い知った話",
+    "link": "https://zenn.dev/ncdc/articles/26165a6fedd7e4",
+    "pubDate": "Mon, 23 Jun 2025 11:16:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "a11y MCP を作成して登壇までした話",
+    "link": "https://qiita.com/shiminori0612/items/dc9c162ed214a4a0fab2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-23T09:50:33.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【Java入門】EclipseでJava開発を始めよう！ ",
     "link": "https://qiita.com/hitomin_poke/items/e67742a2d2a7b8810c99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-23T08:54:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "人間を騙してサボるAIたち - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
-    "link": "https://joisino.hatenablog.com/entry/mislead",
-    "pubDate": "2025-06-23T08:34:56.000Z"
   },
   {
     "site": "Zenn",
@@ -103,15 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "日本語医療特化型LLMの現状と展望",
-    "link": "https://zenn.dev/mkj/articles/b04bdede9bc3d6",
-    "pubDate": "Mon, 23 Jun 2025 02:50:05 GMT"
+    "title": "Tanstack Query による 2 パターンのページネーション設計",
+    "link": "https://zenn.dev/chot/articles/4b484d45eae424",
+    "pubDate": "Mon, 23 Jun 2025 03:51:40 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Claude Code 逆引きコマンド事典",
-    "link": "https://zenn.dev/ml_bear/articles/84e92429698177",
-    "pubDate": "Sun, 22 Jun 2025 23:01:48 GMT"
+    "title": "日本語医療特化型LLMの現状と展望",
+    "link": "https://zenn.dev/mkj/articles/b04bdede9bc3d6",
+    "pubDate": "Mon, 23 Jun 2025 02:50:05 GMT"
   },
   {
     "site": "Qiita",
@@ -126,28 +156,10 @@
     "pubDate": "2025-06-22T15:37:26.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ClaudeのMaxプランによって変わった個人開発のスタイル",
-    "link": "https://zenn.dev/ryosuke_horie/articles/24768b727ff27c",
-    "pubDate": "Sun, 22 Jun 2025 15:09:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "普通のエンジニアが、 4 年かけて個人開発の OSS で GitHub Star 2.3k を獲得するまでに考えたこと",
-    "link": "https://zenn.dev/yohamta/articles/25581c19b45c5f",
-    "pubDate": "Sun, 22 Jun 2025 11:36:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Ctrl + Cでなぜプログラムが終了するのか？",
     "link": "https://qiita.com/flowernotfound/items/2cfe3ccc4ddf47ac9860?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-22T11:35:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "MCP 2025-06-18 で追加された structured tool output を試す",
-    "link": "https://zenn.dev/sushichaaaan/articles/fd57bbaa25287c",
-    "pubDate": "Sun, 22 Jun 2025 09:00:09 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "MySQLで🍣が保存できない？utf8とutf8mb4の違いを実験",
     "link": "https://qiita.com/Tadataka_Takahashi/items/6b35fb5fee4314039204?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-21T16:23:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS】無料枠、終わるってさ。。。急がば「問い合わせ」",
-    "link": "https://qiita.com/wa-chan222/items/37053aaf6a96fcc92d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-21T07:53:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Claude Code】初心者向け備忘～要件定義を1人で抱え込まないで～",
-    "link": "https://qiita.com/ryu-ki/items/1216d00f893f7bdbf95b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-21T05:56:25.000Z"
   }
 ]
