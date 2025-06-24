@@ -1,9 +1,75 @@
 [
   {
     "site": "Hatena",
+    "title": "頑張りすぎず、PlaywrightのCI実行時間を短縮した話 - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/06/24/playwright-ci-quick-wins",
+    "pubDate": "2025-06-23T23:37:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cloudflareが重大なサービス障害の原因を説明。実はWorkers KVがGoogle Cloudに依存しており、Google Cloudの障害が原因だったと",
+    "link": "https://www.publickey1.jp/blog/25/cloudflareworkers_kvgoogle_cloudgoogle_cloud.html",
+    "pubDate": "2025-06-23T15:26:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人開発者のためのStripe超入門①",
+    "link": "https://zenn.dev/ideagarage/articles/a2f5a4f04d7dcb",
+    "pubDate": "2025-06-23T14:21:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "イランへの塩対応は予想の範疇だったらしい",
+    "link": "https://anond.hatelabo.jp/20250623230749",
+    "pubDate": "2025-06-23T14:10:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人開発者のためのStripe超入門①",
+    "link": "https://zenn.dev/ideagarage/articles/a2f5a4f04d7dcb",
+    "pubDate": "Mon, 23 Jun 2025 13:49:47 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIエージェント規格「MCP」が3ヶ月ぶりにアプデ！ どこが変わったの？",
+    "link": "https://qiita.com/minorun365/items/cbf4e475e6dd9892ee11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-23T13:06:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Biome v2の型推論を試して限界を知る",
+    "link": "https://zenn.dev/uhyo/articles/biome-v2-type-inference",
+    "pubDate": "Mon, 23 Jun 2025 12:43:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "そろそろスマホから開発してみませんか？移動中も開発したくないですか？",
+    "link": "https://zenn.dev/r_kaga/articles/49369e1f5fb450",
+    "pubDate": "2025-06-23T12:38:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "日本語TTS用の学習データの精度を上げる「ふりがなWhisper」を作った話",
+    "link": "https://zenn.dev/parakeet_tech/articles/2591e71094ea58",
+    "pubDate": "Mon, 23 Jun 2025 11:27:39 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Java入門】EclipseでJava開発を始めよう！ ",
+    "link": "https://qiita.com/hitomin_poke/items/e67742a2d2a7b8810c99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-23T08:54:18.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "人間を騙してサボるAIたち - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
     "link": "https://joisino.hatenablog.com/entry/mislead",
     "pubDate": "2025-06-23T08:34:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "京都大学ら、リチウムイオン電池の倍の容量の全固体電池材料を開発。主成分は鉄、カルシウム、酸素",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2024969.html",
+    "pubDate": "2025-06-23T08:29:37.000Z"
   },
   {
     "site": "Hatena",
@@ -13,27 +79,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Code時代のアプリ開発手法",
+    "link": "https://zenn.dev/itome/articles/f8f1d6ff662a92",
+    "pubDate": "Mon, 23 Jun 2025 06:27:25 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "そろそろスマホから開発してみませんか？移動中も開発したくないですか？",
     "link": "https://zenn.dev/r_kaga/articles/49369e1f5fb450",
     "pubDate": "Mon, 23 Jun 2025 04:47:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Microsoftがトランプ大統領の命令で国際刑事裁判所職員のメールアカウントを停止、EU各国でアメリカ企業離れが加速する",
-    "link": "https://gigazine.net/news/20250623-europeans-seek-digital-sovereignty-us-tech/",
-    "pubDate": "2025-06-23T03:41:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "“手のりケルヒャー”爆売れ、30分で2500台を完売　再販や市販の予定は？",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/23/news062.html",
-    "pubDate": "2025-06-23T03:03:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIでプログラマ不要になるというのは、プログラミング言語構文わかればプログラム組めるという誤解に基づくのでは - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2025/06/23/113527",
-    "pubDate": "2025-06-23T02:52:29.000Z"
   },
   {
     "site": "Zenn",
@@ -43,33 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Platform Engineering Jump Startに参加して学んだこと",
-    "link": "https://zenn.dev/geniee/articles/platform-engineering-jump-start",
-    "pubDate": "Mon, 23 Jun 2025 02:42:55 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "全人類、いますぐ Discord を使い倒そう",
     "link": "https://zenn.dev/oliver/articles/discord-yatteiki-2025",
     "pubDate": "2025-06-23T01:07:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIによる開発は楽しすぎるが、基礎学習が疎かになりそうで怖い - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2025/06/23/090555",
-    "pubDate": "2025-06-23T01:06:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code 逆引きコマンド事典",
-    "link": "https://zenn.dev/ml_bear/articles/84e92429698177",
-    "pubDate": "2025-06-22T23:53:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Framelink Figma MCPを使用したSwiftUIのコード生成を試行錯誤する",
-    "link": "https://zenn.dev/rockname/articles/f85e08f2a971dc",
-    "pubDate": "Sun, 22 Jun 2025 23:50:06 GMT"
   },
   {
     "site": "Zenn",
@@ -84,16 +114,10 @@
     "pubDate": "2025-06-22T23:01:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "IPA、「情報セキュリティ 10大脅威 2025 個人編」解説冊子を公開、PDFで48ページ　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2024486.html",
-    "pubDate": "2025-06-22T22:49:42.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "AWS利用料を自然言語で簡単に知る方法はありますか？",
-    "link": "https://qiita.com/moritalous/items/a6fa7133204507ed0856?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T22:24:00.000Z"
+    "title": "[入門] Javaを10倍高速化する実践テクニック集",
+    "link": "https://qiita.com/ShigemoriMasato/items/21a5e791cde3bfcbb8d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-22T22:55:31.000Z"
   },
   {
     "site": "Qiita",
@@ -109,51 +133,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Dart client for Genkit: Flutter/Dart から Genkit フローを呼び出す",
-    "link": "https://zenn.dev/nozomi_cobo/articles/dart-client-for-genkit",
-    "pubDate": "Sun, 22 Jun 2025 14:27:53 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "普通のエンジニアが、 4 年かけて個人開発の OSS で GitHub Star 2.3k を獲得するまでに考えたこと",
     "link": "https://zenn.dev/yohamta/articles/25581c19b45c5f",
     "pubDate": "Sun, 22 Jun 2025 11:36:00 GMT"
   },
   {
     "site": "Qiita",
-    "title": "【個人開発】爆速で英語ドキュメントを日本語に翻訳しました【JStack×Next.js×Vercel×Upstash】",
-    "link": "https://qiita.com/guppy0356/items/90649387161f52585c71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T09:57:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "“最短で作る” と “最速で届ける” の違いを考える",
-    "link": "https://qiita.com/pilot_fish/items/65c24c4742d24f507a89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T09:52:44.000Z"
+    "title": "Ctrl + Cでなぜプログラムが終了するのか？",
+    "link": "https://qiita.com/flowernotfound/items/2cfe3ccc4ddf47ac9860?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-22T11:35:17.000Z"
   },
   {
     "site": "Zenn",
     "title": "MCP 2025-06-18 で追加された structured tool output を試す",
     "link": "https://zenn.dev/sushichaaaan/articles/fd57bbaa25287c",
     "pubDate": "Sun, 22 Jun 2025 09:00:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "全人類、いますぐ Discord を使い倒そう",
-    "link": "https://zenn.dev/oliver/articles/discord-yatteiki-2025",
-    "pubDate": "Sun, 22 Jun 2025 08:33:19 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】対義語・派生語まで\"ついで覚え\"ができるAI単語帳アプリを作成しました",
-    "link": "https://qiita.com/kikotkk/items/c2a0a9050d60413da850?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T08:21:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新卒3年間を振り返って - やって良かったこと編",
-    "link": "https://qiita.com/k_yamaki/items/5fa9d6b2534fa14b7c60?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T08:03:26.000Z"
   },
   {
     "site": "Qiita",
@@ -163,15 +157,21 @@
   },
   {
     "site": "Qiita",
+    "title": "Python×株式投資：従来の100倍！銘柄選抜のバックテストを高速化した話",
+    "link": "https://qiita.com/rS_alonewolf/items/73ba5ff09489389746e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-22T03:20:52.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "MySQLで🍣が保存できない？utf8とutf8mb4の違いを実験",
     "link": "https://qiita.com/Tadataka_Takahashi/items/6b35fb5fee4314039204?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-21T16:23:59.000Z"
   },
   {
     "site": "Qiita",
-    "title": "寄付金可視化を支える技術 — GitHub Actions で実現する政治の透明性",
-    "link": "https://qiita.com/nishio/items/ec3098f60ca3e71c8f9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-21T13:06:44.000Z"
+    "title": "【AWS】無料枠、終わるってさ。。。急がば「問い合わせ」",
+    "link": "https://qiita.com/wa-chan222/items/37053aaf6a96fcc92d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-21T07:53:57.000Z"
   },
   {
     "site": "Qiita",
