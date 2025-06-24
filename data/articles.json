@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "コードの90%をAIが書く世界で何が待っているのか / What awaits us in a world where 90% of the code is written by AI",
+    "link": "https://speakerdeck.com/rkaga/what-awaits-us-in-a-world-where-90-percent-of-the-code-is-written-by-ai",
+    "pubDate": "2025-06-24T14:07:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeとplaywright mcpを連携させると開発体験が向上するのでみんなやろう",
+    "link": "https://zenn.dev/sesere/articles/4c0b55102dcc84",
+    "pubDate": "2025-06-24T12:09:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Passkey認証の実装ミスに起因する脆弱性・セキュリティリスク - GMO Flatt Security Blog",
     "link": "https://blog.flatt.tech/entry/passkey_security",
     "pubDate": "2025-06-24T08:36:30.000Z"
   },
   {
     "site": "Hatena",
+    "title": "ディスクユニオン、本を片手で読みやすくする補助道具",
+    "link": "https://www.watch.impress.co.jp/docs/news/2025297.html",
+    "pubDate": "2025-06-24T07:53:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "海外と日本の開発スタイルの違いとそれによって生じるスピード感の差について→ものづくり分野の人達「これは突っぱねないとダメなんだよ」",
     "link": "https://togetter.com/li/2567692",
     "pubDate": "2025-06-24T06:41:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "🧹.env にさよなら！全てのサービス開発者が実感するビルドプロセス改善🔐⏱️⚙️",
+    "link": "https://zenn.dev/dinii/articles/e615ae7d517795",
+    "pubDate": "2025-06-24T06:16:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeの前と後。やり始めたこととやめたこと",
+    "link": "https://zenn.dev/ks0318/articles/0779b38a023896",
+    "pubDate": "2025-06-24T05:29:32.000Z"
   },
   {
     "site": "Hatena",
@@ -31,21 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "高齢の男性がアップした『5Gに怒ってます！』的なタイトルのYouTube、よくある陰謀論かと恐る恐る観たらしっかりした人だった→共感も集まる",
-    "link": "https://togetter.com/li/2567618",
-    "pubDate": "2025-06-24T02:30:06.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Apple、iPhoneのマイナンバーカードを提供開始",
     "link": "https://www.apple.com/jp/newsroom/2025/06/apple-introduces-my-number-card-on-iphone/",
     "pubDate": "2025-06-24T02:07:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "頑張りすぎず、PlaywrightのCI実行時間を短縮した話 - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/06/24/playwright-ci-quick-wins",
-    "pubDate": "2025-06-23T23:37:24.000Z"
   },
   {
     "site": "Qiita",
@@ -63,19 +81,7 @@
     "site": "Zenn",
     "title": "個人開発者のためのStripe超入門①",
     "link": "https://zenn.dev/ideagarage/articles/a2f5a4f04d7dcb",
-    "pubDate": "2025-06-23T14:21:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人開発者のためのStripe超入門①",
-    "link": "https://zenn.dev/ideagarage/articles/a2f5a4f04d7dcb",
     "pubDate": "Mon, 23 Jun 2025 13:49:47 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェント規格「MCP」が3ヶ月ぶりにアプデ！ どこが変わったの？ - Qiita",
-    "link": "https://qiita.com/minorun365/items/cbf4e475e6dd9892ee11",
-    "pubDate": "2025-06-23T13:36:24.000Z"
   },
   {
     "site": "Qiita",
@@ -88,12 +94,6 @@
     "title": "Biome v2の型推論を試して限界を知る",
     "link": "https://zenn.dev/uhyo/articles/biome-v2-type-inference",
     "pubDate": "Mon, 23 Jun 2025 12:43:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "そろそろスマホから開発してみませんか？移動中も開発したくないですか？",
-    "link": "https://zenn.dev/r_kaga/articles/49369e1f5fb450",
-    "pubDate": "2025-06-23T12:38:48.000Z"
   },
   {
     "site": "Zenn",
