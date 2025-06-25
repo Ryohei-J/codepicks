@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "「AI企業が合法的に取得した書籍でAIをトレーニングするのに著者の許可は必要ない」という判決が下される",
-    "link": "https://gigazine.net/news/20250625-authors-v-anthropic-fair-use/",
-    "pubDate": "2025-06-25T02:10:43.000Z"
+    "title": "個人向けWindows 10、2026年10月13日まで無料でサポート延長可能に（条件あり）",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/25/news108.html",
+    "pubDate": "2025-06-25T08:40:24.000Z"
   },
   {
     "site": "Hatena",
-    "title": "生成AIの業務導入に対する態度が年齢層ごとに傾向が分かれた→議題にかかわらず、職場での役割の違いが要因ではないか？",
-    "link": "https://togetter.com/li/2567972",
-    "pubDate": "2025-06-24T23:32:27.000Z"
+    "title": "Gemini CLI: your open-source AI agent",
+    "link": "https://web.archive.org/web/20250625051706/https://blog.google/technology/developers/introducing-gemini-cli/",
+    "pubDate": "2025-06-25T08:16:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米AI企業のAnthropic、東京に拠点開設へ　「Claude」日本語版もリリース予定",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2506/25/news076.html",
+    "pubDate": "2025-06-25T04:30:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "さらばJIRA、さらばConfluence。PMのリリース作業は、すべてcursorのチャット欄で完結する",
+    "link": "https://qiita.com/yuto_shinkawa/items/3f4c65710f0c56da3d36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T02:47:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AI企業が合法的に取得した書籍でAIをトレーニングするのに著者の許可は必要ない」という判決が下される",
+    "link": "https://gigazine.net/news/20250625-authors-v-anthropic-fair-use/",
+    "pubDate": "2025-06-25T02:10:43.000Z"
   },
   {
     "site": "Hatena",
@@ -43,12 +61,6 @@
   },
   {
     "site": "Hatena",
-    "title": "ついに「AIで管理職は減る」をアマゾンも認めた…これから本格化する「ホワイトカラー消滅」を覚悟すべき職業（プレジデントオンライン） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/468d8581dd506e587894ba7d7cbada285e235246",
-    "pubDate": "2025-06-24T14:35:59.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "コードの90%をAIが書く世界で何が待っているのか / What awaits us in a world where 90% of the code is written by AI",
     "link": "https://speakerdeck.com/rkaga/what-awaits-us-in-a-world-where-90-percent-of-the-code-is-written-by-ai",
     "pubDate": "2025-06-24T14:07:49.000Z"
@@ -57,13 +69,13 @@
     "site": "Zenn",
     "title": "Claude Codeとplaywright mcpを連携させると開発体験が向上するのでみんなやろう",
     "link": "https://zenn.dev/sesere/articles/4c0b55102dcc84",
-    "pubDate": "2025-06-24T12:09:29.000Z"
+    "pubDate": "Tue, 24 Jun 2025 10:55:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeとplaywright mcpを連携させると開発体験が向上するのでみんなやろう",
-    "link": "https://zenn.dev/sesere/articles/4c0b55102dcc84",
-    "pubDate": "Tue, 24 Jun 2025 10:55:17 GMT"
+    "site": "Qiita",
+    "title": "脱・AWS迷子！サーバレスAWSアーキテクチャの設計と実践的詰まりポイント",
+    "link": "https://qiita.com/yu_720/items/d9125b2f9d3706af4caf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-24T08:06:29.000Z"
   },
   {
     "site": "Zenn",
@@ -84,10 +96,10 @@
     "pubDate": "Tue, 24 Jun 2025 02:43:17 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【2025年版】事業会社が本当に欲しがるエンジニアの3つの条件 〜生成AIで変わった市場価値〜",
-    "link": "https://qiita.com/t_koga22/items/38a56693fdab7bb2f3a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-24T00:45:49.000Z"
+    "site": "Zenn",
+    "title": "【3分でできる】Claude CodeをCursorで使う方法【簡単】",
+    "link": "https://zenn.dev/ichigoooo/articles/claude-code-cursor-integration",
+    "pubDate": "Tue, 24 Jun 2025 02:18:17 GMT"
   },
   {
     "site": "Zenn",
@@ -97,9 +109,15 @@
   },
   {
     "site": "Qiita",
-    "title": "新卒3年間を振り返って - もっとやっておけば良かった編",
-    "link": "https://qiita.com/k_yamaki/items/d06da23239434d1ddfc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-23T22:57:31.000Z"
+    "title": "【GitHub Copilot】最大限活用するためのTips紹介",
+    "link": "https://qiita.com/hirokiii27/items/3d0696333df3af3ac8e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-24T00:15:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "CSRF攻撃をちゃんと理解したい人のための入門：CSRFトークンは銀の弾丸ではない！",
+    "link": "https://qiita.com/omochi_0604/items/6a42aba01949583bacc0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-23T22:49:59.000Z"
   },
   {
     "site": "Qiita",
@@ -144,12 +162,6 @@
     "pubDate": "Mon, 23 Jun 2025 11:16:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code時代のアプリ開発手法",
-    "link": "https://zenn.dev/itome/articles/f8f1d6ff662a92",
-    "pubDate": "Mon, 23 Jun 2025 06:27:25 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "[入門] Javaを10倍高速化する実践テクニック集",
     "link": "https://qiita.com/ShigemoriMasato/items/21a5e791cde3bfcbb8d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,17 +178,5 @@
     "title": "Ctrl + Cでなぜプログラムが終了するのか？",
     "link": "https://qiita.com/flowernotfound/items/2cfe3ccc4ddf47ac9860?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-22T11:35:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "DDoS攻撃をちゃんと理解したい人のための入門と設計整理メモ",
-    "link": "https://qiita.com/omochi_0604/items/4c763e704073103d0550?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T05:52:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Python×株式投資：従来の100倍！銘柄選抜のバックテストを高速化した話",
-    "link": "https://qiita.com/rS_alonewolf/items/73ba5ff09489389746e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T03:20:52.000Z"
   }
 ]
