@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "「AI企業が合法的に取得した書籍でAIをトレーニングするのに著者の許可は必要ない」という判決が下される",
+    "link": "https://gigazine.net/news/20250625-authors-v-anthropic-fair-use/",
+    "pubDate": "2025-06-25T02:10:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "生成AIの業務導入に対する態度が年齢層ごとに傾向が分かれた→議題にかかわらず、職場での役割の違いが要因ではないか？",
     "link": "https://togetter.com/li/2567972",
     "pubDate": "2025-06-24T23:32:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "API Key 無しで Gemini をセキュアに Google Apps Script から利用する - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/gemini-gas",
+    "pubDate": "2025-06-24T23:28:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code の .claude/commands/**.md は設定した方がいい - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/06/25/062736",
+    "pubDate": "2025-06-24T23:09:16.000Z"
   },
   {
     "site": "Hatena",
@@ -48,24 +66,6 @@
     "pubDate": "Tue, 24 Jun 2025 10:55:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Passkey認証の実装ミスに起因する脆弱性・セキュリティリスク - GMO Flatt Security Blog",
-    "link": "https://blog.flatt.tech/entry/passkey_security",
-    "pubDate": "2025-06-24T08:36:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "🧹.env にさよなら！全てのサービス開発者が実感するビルドプロセス改善🔐⏱️⚙️",
-    "link": "https://zenn.dev/dinii/articles/e615ae7d517795",
-    "pubDate": "2025-06-24T06:16:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの前と後。やり始めたこととやめたこと",
-    "link": "https://zenn.dev/ks0318/articles/0779b38a023896",
-    "pubDate": "2025-06-24T05:29:32.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeの前と後。やり始めたこととやめたこと",
     "link": "https://zenn.dev/ks0318/articles/0779b38a023896",
@@ -88,6 +88,12 @@
     "title": "【2025年版】事業会社が本当に欲しがるエンジニアの3つの条件 〜生成AIで変わった市場価値〜",
     "link": "https://qiita.com/t_koga22/items/38a56693fdab7bb2f3a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-24T00:45:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "それって本当に「好みの問題」？",
+    "link": "https://zenn.dev/hacobell_dev/articles/a-choice-of-preference",
+    "pubDate": "Tue, 24 Jun 2025 00:30:01 GMT"
   },
   {
     "site": "Qiita",
@@ -142,12 +148,6 @@
     "title": "Claude Code時代のアプリ開発手法",
     "link": "https://zenn.dev/itome/articles/f8f1d6ff662a92",
     "pubDate": "Mon, 23 Jun 2025 06:27:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "そろそろスマホから開発してみませんか？移動中も開発したくないですか？",
-    "link": "https://zenn.dev/r_kaga/articles/49369e1f5fb450",
-    "pubDate": "Mon, 23 Jun 2025 04:47:47 GMT"
   },
   {
     "site": "Qiita",
