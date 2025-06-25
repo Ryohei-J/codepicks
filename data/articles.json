@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "生成AIの業務導入に対する態度が年齢層ごとに傾向が分かれた→議題にかかわらず、職場での役割の違いが要因ではないか？",
+    "link": "https://togetter.com/li/2567972",
+    "pubDate": "2025-06-24T23:32:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "えっ! 住民税ってそういうことだったの!? 住民税の通知書に書かれた数字のナゾ、まるっと解決します【2025年(令和7年)版】　",
+    "link": "https://internet.watch.impress.co.jp/docs/special/2024640.html",
+    "pubDate": "2025-06-24T22:52:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "妻がケーキを5等分どう切るか悩んでいたので「正五角形は定規とコンパスで作図できるよ」と伝えたらうるさい黙ってろと言われた",
+    "link": "https://togetter.com/li/2567985",
+    "pubDate": "2025-06-24T22:51:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS、Google、マイクロソフトらがAIエージェント連携のため「Agent2Agentプロジェクト」設立。Linux Foundation傘下で",
+    "link": "https://www.publickey1.jp/blog/25/awsgoogleaiagent2agentlinux_foundation.html",
+    "pubDate": "2025-06-24T15:54:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ついに「AIで管理職は減る」をアマゾンも認めた…これから本格化する「ホワイトカラー消滅」を覚悟すべき職業（プレジデントオンライン） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/468d8581dd506e587894ba7d7cbada285e235246",
+    "pubDate": "2025-06-24T14:35:59.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "コードの90%をAIが書く世界で何が待っているのか / What awaits us in a world where 90% of the code is written by AI",
     "link": "https://speakerdeck.com/rkaga/what-awaits-us-in-a-world-where-90-percent-of-the-code-is-written-by-ai",
     "pubDate": "2025-06-24T14:07:49.000Z"
@@ -12,22 +42,16 @@
     "pubDate": "2025-06-24T12:09:29.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeとplaywright mcpを連携させると開発体験が向上するのでみんなやろう",
+    "link": "https://zenn.dev/sesere/articles/4c0b55102dcc84",
+    "pubDate": "Tue, 24 Jun 2025 10:55:17 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Passkey認証の実装ミスに起因する脆弱性・セキュリティリスク - GMO Flatt Security Blog",
     "link": "https://blog.flatt.tech/entry/passkey_security",
     "pubDate": "2025-06-24T08:36:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ディスクユニオン、本を片手で読みやすくする補助道具",
-    "link": "https://www.watch.impress.co.jp/docs/news/2025297.html",
-    "pubDate": "2025-06-24T07:53:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "海外と日本の開発スタイルの違いとそれによって生じるスピード感の差について→ものづくり分野の人達「これは突っぱねないとダメなんだよ」",
-    "link": "https://togetter.com/li/2567692",
-    "pubDate": "2025-06-24T06:41:45.000Z"
   },
   {
     "site": "Zenn",
@@ -42,16 +66,16 @@
     "pubDate": "2025-06-24T05:29:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【やじうまPC Watch】 空冷ユーザーに告ぐ。上部に2つのファンがあるなら1つを逆向きにしてみて",
-    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2025160.html",
-    "pubDate": "2025-06-24T04:47:09.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeの前と後。やり始めたこととやめたこと",
     "link": "https://zenn.dev/ks0318/articles/0779b38a023896",
     "pubDate": "Tue, 24 Jun 2025 03:39:27 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "NULLポインタでクラッシュする理由をちゃんと理解する",
+    "link": "https://qiita.com/flowernotfound/items/de6f9a0f68e2231d9457?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-24T02:50:04.000Z"
   },
   {
     "site": "Zenn",
@@ -60,10 +84,16 @@
     "pubDate": "Tue, 24 Jun 2025 02:43:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Apple、iPhoneのマイナンバーカードを提供開始",
-    "link": "https://www.apple.com/jp/newsroom/2025/06/apple-introduces-my-number-card-on-iphone/",
-    "pubDate": "2025-06-24T02:07:34.000Z"
+    "site": "Qiita",
+    "title": "【2025年版】事業会社が本当に欲しがるエンジニアの3つの条件 〜生成AIで変わった市場価値〜",
+    "link": "https://qiita.com/t_koga22/items/38a56693fdab7bb2f3a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-24T00:45:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新卒3年間を振り返って - もっとやっておけば良かった編",
+    "link": "https://qiita.com/k_yamaki/items/d06da23239434d1ddfc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-23T22:57:31.000Z"
   },
   {
     "site": "Qiita",
@@ -72,10 +102,10 @@
     "pubDate": "2025-06-23T19:32:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Googleが抽出した10個のカテゴリで技術的負債を捉えなおす - mtx2s’s blog",
-    "link": "https://mtx2s.hatenablog.com/entry/2025/06/23/195937",
-    "pubDate": "2025-06-23T15:21:22.000Z"
+    "site": "Zenn",
+    "title": "【Claude Code】ccusageの料金情報をVSCodeステータスバーに表示するプラグインを1時間で作ってみた",
+    "link": "https://zenn.dev/nakakiiro/articles/make_ccusage_vscode_plugin",
+    "pubDate": "Mon, 23 Jun 2025 14:23:00 GMT"
   },
   {
     "site": "Zenn",
@@ -108,18 +138,6 @@
     "pubDate": "Mon, 23 Jun 2025 11:16:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "a11y MCP を作成して登壇までした話",
-    "link": "https://qiita.com/shiminori0612/items/dc9c162ed214a4a0fab2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-23T09:50:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Java入門】EclipseでJava開発を始めよう！ ",
-    "link": "https://qiita.com/hitomin_poke/items/e67742a2d2a7b8810c99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-23T08:54:18.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code時代のアプリ開発手法",
     "link": "https://zenn.dev/itome/articles/f8f1d6ff662a92",
@@ -130,18 +148,6 @@
     "title": "そろそろスマホから開発してみませんか？移動中も開発したくないですか？",
     "link": "https://zenn.dev/r_kaga/articles/49369e1f5fb450",
     "pubDate": "Mon, 23 Jun 2025 04:47:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Tanstack Query による 2 パターンのページネーション設計",
-    "link": "https://zenn.dev/chot/articles/4b484d45eae424",
-    "pubDate": "Mon, 23 Jun 2025 03:51:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "日本語医療特化型LLMの現状と展望",
-    "link": "https://zenn.dev/mkj/articles/b04bdede9bc3d6",
-    "pubDate": "Mon, 23 Jun 2025 02:50:05 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Python×株式投資：従来の100倍！銘柄選抜のバックテストを高速化した話",
     "link": "https://qiita.com/rS_alonewolf/items/73ba5ff09489389746e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-22T03:20:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MySQLで🍣が保存できない？utf8とutf8mb4の違いを実験",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/6b35fb5fee4314039204?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-21T16:23:59.000Z"
   }
 ]
