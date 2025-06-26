@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "「ときメモ」、親友の彼女が告白してくる不具合を修正",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/26/news104.html",
+    "pubDate": "2025-06-26T06:36:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "芥川賞作家が「95％AIで書いた」小説、全プロンプトをWeb公開",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2506/26/news100.html",
+    "pubDate": "2025-06-26T05:58:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anker、モバイルバッテリ4製品を自主回収。内部ショートの恐れ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2025968.html",
+    "pubDate": "2025-06-26T04:48:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "すまん、AIって全然使えなくね？",
+    "link": "https://anond.hatelabo.jp/20250626125317",
+    "pubDate": "2025-06-26T04:31:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "京都で私が好きな場所 - id:onk のはてなブログ",
+    "link": "https://onk.hatenablog.jp/entry/2025/06/26/113733",
+    "pubDate": "2025-06-26T03:09:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI時代に差がつく、低レイヤの基礎を学ぶ。「Linux標準教科書」著者・宮原徹氏が選ぶ「最初の6冊」 | レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/column/detail_686/",
     "pubDate": "2025-06-26T01:01:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini CLI が切り拓く！待望のエージェントモード(Agent Mode)が Gemini Code Assist に！ 【紹介編】",
+    "link": "https://zenn.dev/google_cloud_jp/articles/8911c960113904",
+    "pubDate": "Thu, 26 Jun 2025 00:27:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【CSS】まだ width: 100% つかってるやついる⁉︎ いねぇよな⁉︎",
+    "link": "https://qiita.com/degudegu2510/items/7079d76beeaa40c206d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T23:09:34.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +54,28 @@
     "pubDate": "2025-06-25T23:03:38.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "デトロイト派とロンドン派：対立ではない、プロダクトを強くするテスト戦略の「使い分け」",
+    "link": "https://qiita.com/kurifumi/items/dc7bd7db85ee2d1c0613?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T22:18:46.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "相次ぐ処理施設での“リチウムイオン電池火災”、総務省が実態調査　現場職員からは嘆きの声も",
     "link": "https://www.itmedia.co.jp/news/articles/2506/26/news051.html",
     "pubDate": "2025-06-25T21:59:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "言語モデルの起源、シャノン論文を読んでみる - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/shannon_language_model",
-    "pubDate": "2025-06-25T17:03:44.000Z"
+    "site": "Qiita",
+    "title": "Gemini CLIの\"強み\"を知る！ Gemini CLIとClaude Codeを比較してみた",
+    "link": "https://qiita.com/kyuko/items/b7f7336057859f5c9b4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T18:59:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Gemini-CLIを使ってDevin MCP Server for Azure Functionsを作った",
+    "link": "https://qiita.com/zawatti/items/bdf0fca0a9d6a59552e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T18:27:03.000Z"
   },
   {
     "site": "Zenn",
@@ -36,16 +90,10 @@
     "pubDate": "Wed, 25 Jun 2025 15:20:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Gemini CLI の概要｜npaka",
-    "link": "https://note.com/npaka/n/nd5231d296687",
-    "pubDate": "2025-06-25T14:55:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "gemini-cli の google_web_search が最高",
-    "link": "https://zenn.dev/mizchi/articles/gemini-cli-for-google-search",
-    "pubDate": "2025-06-25T14:34:32.000Z"
+    "site": "Qiita",
+    "title": "Gemini CLI をさっそく試してみた！",
+    "link": "https://qiita.com/youtoy/items/fa5b696b055ed4a992ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T14:26:10.000Z"
   },
   {
     "site": "Zenn",
@@ -60,28 +108,10 @@
     "pubDate": "2025-06-25T14:14:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Gemini CLI: your open-source AI agent",
-    "link": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
-    "pubDate": "2025-06-25T13:08:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "依存が浮かび上がる！？Effect.tsで依存グラフをレイヤで設計しよう、そしてDIコンテナについて考える",
-    "link": "https://zenn.dev/optimind/articles/effect-ts-layer-as-di-container",
-    "pubDate": "Wed, 25 Jun 2025 11:08:49 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AI時代にエンジニアは不要になるのか？",
     "link": "https://qiita.com/ryoheiiwamoto/items/24969131200a8c0429a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-25T08:21:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "25分で解説する「最小権限の原則」を実現するための AWS「ポリシー」大全",
-    "link": "https://speakerdeck.com/opelab/25fen-dejie-shuo-suru-zui-xiao-quan-xian-noyuan-ze-woshi-xian-surutameno-aws-porisi-da-quan",
-    "pubDate": "2025-06-25T06:43:27.000Z"
   },
   {
     "site": "Zenn",
@@ -90,16 +120,10 @@
     "pubDate": "Wed, 25 Jun 2025 05:44:18 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "自社のorganizationに紐づくQiitaの記事を自動取得できるようにしてみた",
-    "link": "https://qiita.com/k_yamaki/items/dd3871c693cae885d629?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-25T03:02:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "さらばJIRA、さらばConfluence。PMのリリース作業は、すべてcursorのチャット欄で完結する",
-    "link": "https://qiita.com/yuto_shinkawa/items/3f4c65710f0c56da3d36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-25T02:47:12.000Z"
+    "site": "Zenn",
+    "title": "スマホからClaude Codeを操作して、いつでもどこでもコーディング可能にする方法",
+    "link": "https://zenn.dev/dirtyman/articles/cc724b87681593",
+    "pubDate": "Wed, 25 Jun 2025 00:59:47 GMT"
   },
   {
     "site": "Zenn",
@@ -139,12 +163,6 @@
   },
   {
     "site": "Qiita",
-    "title": "Copilot Studio で MCP がサポートされるようになったので試してみた",
-    "link": "https://qiita.com/Takashi_Masumori/items/4b62275e93f4a8440f31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-23T23:37:30.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【GPTのしくみ入門】AIはどのように言葉を「理解」し、「生み出している」のか",
     "link": "https://qiita.com/KYoshiyama/items/d86ae5afc29650f0b924?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-23T23:22:40.000Z"
@@ -156,27 +174,9 @@
     "pubDate": "2025-06-23T19:32:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "個人開発者のためのStripe超入門①",
-    "link": "https://zenn.dev/ideagarage/articles/a2f5a4f04d7dcb",
-    "pubDate": "Mon, 23 Jun 2025 13:49:47 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIエージェント規格「MCP」が3ヶ月ぶりにアプデ！ どこが変わったの？",
     "link": "https://qiita.com/minorun365/items/cbf4e475e6dd9892ee11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-23T13:06:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【51歳転生】AWS未経験/パート勤務/SI復帰15年ぶりおじさん──マイクロサービスのPLをやりながら10ヶ月でAWS全冠を取得。そしてAWSからスカウトされるまで",
-    "link": "https://qiita.com/ossacloud_aws/items/a98987db5ba28d6b8920?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-23T06:44:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[入門] Javaを10倍高速化する実践テクニック集",
-    "link": "https://qiita.com/ShigemoriMasato/items/21a5e791cde3bfcbb8d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T22:55:31.000Z"
   }
 ]
