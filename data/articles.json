@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "【特集】 世界のコンセントは3つ穴なのに、なぜ日本は2つ穴！？",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2025345.html",
+    "pubDate": "2025-06-25T23:03:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "言語モデルの起源、シャノン論文を読んでみる - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/shannon_language_model",
+    "pubDate": "2025-06-25T17:03:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini CLI の簡単チュートリアル",
+    "link": "https://zenn.dev/schroneko/articles/gemini-cli-tutorial",
+    "pubDate": "2025-06-25T15:39:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gemini CLI の概要｜npaka",
+    "link": "https://note.com/npaka/n/nd5231d296687",
+    "pubDate": "2025-06-25T14:55:28.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "gemini-cli の google_web_search が最高",
     "link": "https://zenn.dev/mizchi/articles/gemini-cli-for-google-search",
@@ -19,21 +43,33 @@
   },
   {
     "site": "Hatena",
-    "title": "監視のこれまでとこれから/sakura monitoring seminar 2025",
-    "link": "https://speakerdeck.com/fujiwara3/sakura-monitoring-seminar-2025",
-    "pubDate": "2025-06-25T08:17:18.000Z"
+    "title": "GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "link": "https://github.com/google-gemini/gemini-cli",
+    "pubDate": "2025-06-25T09:20:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI時代にエンジニアは不要になるのか？",
+    "link": "https://qiita.com/ryoheiiwamoto/items/24969131200a8c0429a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T08:21:32.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Gemini CLI: your open-source AI agent",
-    "link": "https://web.archive.org/web/20250625051706/https://blog.google/technology/developers/introducing-gemini-cli/",
-    "pubDate": "2025-06-25T08:16:24.000Z"
+    "title": "気象庁、さくらインターネットのGPUクラウド採用　25億円規模の契約　台風予測の技術開発基盤に",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/25/news099.html",
+    "pubDate": "2025-06-25T08:03:10.000Z"
   },
   {
     "site": "Hatena",
-    "title": "米AI企業のAnthropic、東京に拠点開設へ　「Claude」日本語版もリリース予定",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2506/25/news076.html",
-    "pubDate": "2025-06-25T04:30:19.000Z"
+    "title": "25分で解説する「最小権限の原則」を実現するための AWS「ポリシー」大全",
+    "link": "https://speakerdeck.com/opelab/25fen-dejie-shuo-suru-zui-xiao-quan-xian-noyuan-ze-woshi-xian-surutameno-aws-porisi-da-quan",
+    "pubDate": "2025-06-25T06:43:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "自社のorganizationに紐づくQiitaの記事を自動取得できるようにしてみた",
+    "link": "https://qiita.com/k_yamaki/items/dd3871c693cae885d629?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T03:02:12.000Z"
   },
   {
     "site": "Qiita",
@@ -42,40 +78,10 @@
     "pubDate": "2025-06-25T02:47:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「AI企業が合法的に取得した書籍でAIをトレーニングするのに著者の許可は必要ない」という判決が下される",
-    "link": "https://gigazine.net/news/20250625-authors-v-anthropic-fair-use/",
-    "pubDate": "2025-06-25T02:10:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "API Key 無しで Gemini をセキュアに Google Apps Script から利用する - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/gemini-gas",
-    "pubDate": "2025-06-24T23:28:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code の .claude/commands/**.md は設定した方がいい - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/06/25/062736",
-    "pubDate": "2025-06-24T23:09:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "えっ! 住民税ってそういうことだったの!? 住民税の通知書に書かれた数字のナゾ、まるっと解決します【2025年(令和7年)版】　",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2024640.html",
-    "pubDate": "2025-06-24T22:52:58.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeとplaywright mcpを連携させると開発体験が向上するのでみんなやろう",
     "link": "https://zenn.dev/sesere/articles/4c0b55102dcc84",
     "pubDate": "Tue, 24 Jun 2025 10:55:17 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "脱・AWS迷子！サーバレスAWSアーキテクチャの設計と実践的詰まりポイント",
-    "link": "https://qiita.com/yu_720/items/d9125b2f9d3706af4caf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-24T08:06:29.000Z"
   },
   {
     "site": "Zenn",
@@ -115,9 +121,9 @@
   },
   {
     "site": "Qiita",
-    "title": "CSRF攻撃をちゃんと理解したい人のための入門：CSRFトークンは銀の弾丸ではない！",
-    "link": "https://qiita.com/omochi_0604/items/6a42aba01949583bacc0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-23T22:49:59.000Z"
+    "title": "【GPTのしくみ入門】AIはどのように言葉を「理解」し、「生み出している」のか",
+    "link": "https://qiita.com/KYoshiyama/items/d86ae5afc29650f0b924?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-23T23:22:40.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "【51歳転生】AWS未経験/パート勤務/SI復帰15年ぶりおじさん──マイクロサービスのPLをやりながら10ヶ月でAWS全冠を取得。そしてAWSからスカウトされるまで",
+    "link": "https://qiita.com/ossacloud_aws/items/a98987db5ba28d6b8920?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-23T06:44:25.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "[入門] Javaを10倍高速化する実践テクニック集",
     "link": "https://qiita.com/ShigemoriMasato/items/21a5e791cde3bfcbb8d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-22T22:55:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI Agent Manager (AAM) として生きていく : 作業環境とワークフローの設計",
-    "link": "https://qiita.com/icoxfog417/items/f15e92f05b14411fd642?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T15:37:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Ctrl + Cでなぜプログラムが終了するのか？",
-    "link": "https://qiita.com/flowernotfound/items/2cfe3ccc4ddf47ac9860?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-22T11:35:17.000Z"
   }
 ]
