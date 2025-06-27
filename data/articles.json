@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "PNGが約20年ぶりの仕様改訂。HDRやアニメーションのサポートなど",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2026517.html",
+    "pubDate": "2025-06-27T09:17:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【無料】グーグル神AIツール5選　「Google AI Studio」はこれがやばい (1/7)",
+    "link": "https://ascii.jp/elem/000/004/286/4286792/",
+    "pubDate": "2025-06-27T08:51:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "iOS開発の教科書(β版)",
     "link": "https://zenn.dev/st43/books/bb5ea67aa3de15",
@@ -12,10 +24,22 @@
     "pubDate": "2025-06-27T04:25:09.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Goで作られたシステムをRuby on Railsに移植しています - STORES Product Blog",
+    "link": "https://product.st.inc/entry/2025/06/27/124100",
+    "pubDate": "2025-06-27T04:11:02.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【ポケモン×Java】第0章：『冒険の始まり』～Java～",
     "link": "https://qiita.com/hitomin_poke/items/9d544d77dd4dca0e7d0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-27T03:22:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドン・キホーテ、4万円台のIntel N100搭載ノート",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2026262.html",
+    "pubDate": "2025-06-27T02:04:39.000Z"
   },
   {
     "site": "Zenn",
@@ -28,6 +52,18 @@
     "title": "すまん、やっぱりAIって全然使えなくね？～チャットGPT編～",
     "link": "https://anond.hatelabo.jp/20250627100609",
     "pubDate": "2025-06-27T01:41:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini CLIを会社で使う場合のプラン選択方針",
+    "link": "https://zenn.dev/hololab/articles/geminicli-001-75046b80817049",
+    "pubDate": "Fri, 27 Jun 2025 01:39:30 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "夏野氏「もう1年早く移行しておけば」　サイバー攻撃を受けたドワンゴがAWSで進めるセキュリティ改革 (1/4)",
+    "link": "https://ascii.jp/elem/000/004/295/4295045/",
+    "pubDate": "2025-06-26T23:55:53.000Z"
   },
   {
     "site": "Hatena",
@@ -45,18 +81,6 @@
     "site": "Zenn",
     "title": "AnthropicのDesktop Extensions (DXT)完全ガイド： ローカルAIアプリケーションの新時代",
     "link": "https://zenn.dev/cadp/articles/6d9dd374fd3d32",
-    "pubDate": "2025-06-26T22:44:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windowsのブルースクリーン、今夏からブラックスクリーンに",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/27/news055.html",
-    "pubDate": "2025-06-26T20:56:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AnthropicのDesktop Extensions (DXT)完全ガイド： ローカルAIアプリケーションの新時代",
-    "link": "https://zenn.dev/cadp/articles/6d9dd374fd3d32",
     "pubDate": "Thu, 26 Jun 2025 19:10:49 GMT"
   },
   {
@@ -64,12 +88,6 @@
     "title": "Gemini CLIやClaude Codeみたいなロゴを出力するoh-my-logoというツールを作りました",
     "link": "https://zenn.dev/shinshin86/articles/e02fac5d3ae75a",
     "pubDate": "Thu, 26 Jun 2025 14:58:12 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "トランプスマホの公式サイトから「米国製」表記が消えた--代わりに登場した文言は",
-    "link": "https://japan.cnet.com/article/35234792/",
-    "pubDate": "2025-06-26T14:17:26.000Z"
   },
   {
     "site": "Qiita",
@@ -82,12 +100,6 @@
     "title": "React Ink によるリッチ CLI (ClaudeCodeの裏側のアレ)",
     "link": "https://zenn.dev/mizchi/articles/react-ink-renderer-for-ai-age",
     "pubDate": "Thu, 26 Jun 2025 12:01:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "MinisforumやBeelinkといった中華ミニPCはどこが作っているのか｜Tak",
-    "link": "https://note.com/zilo/n/n6ea88bd14b9e",
-    "pubDate": "2025-06-26T12:00:21.000Z"
   },
   {
     "site": "Qiita",
@@ -109,6 +121,12 @@
   },
   {
     "site": "Zenn",
+    "title": "InkdropでClaude Codeに自動で作業レポートを作成させる方法",
+    "link": "https://zenn.dev/takuya/articles/a32ef0dfa9c392",
+    "pubDate": "Thu, 26 Jun 2025 05:36:42 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Gemini CLI利用時の認証方法別プライバシーポリシー",
     "link": "https://zenn.dev/nuits_jp/articles/2025-06-26-gemini-cli-privacy-policy",
     "pubDate": "Thu, 26 Jun 2025 04:22:07 GMT"
@@ -120,12 +138,6 @@
     "pubDate": "2025-06-26T03:14:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Pythonで理解するMCP（Model Context Protocol） | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/06/monthly-python-2506",
-    "pubDate": "2025-06-26T01:12:11.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Gemini CLI が切り拓く！待望のエージェントモード(Agent Mode)が Gemini Code Assist に！ 【紹介編】",
     "link": "https://zenn.dev/google_cloud_jp/articles/8911c960113904",
@@ -133,9 +145,9 @@
   },
   {
     "site": "Zenn",
-    "title": "英語が苦手なエンジニアが1年間本気で英語学習をした結果と学んだこと",
-    "link": "https://zenn.dev/moneyforward/articles/fa986d49e8d99a",
-    "pubDate": "Wed, 25 Jun 2025 23:29:32 GMT"
+    "title": "働けなかった私と、プログラマを続ける日々",
+    "link": "https://zenn.dev/rotelstift/articles/programmer-in-progress",
+    "pubDate": "Wed, 25 Jun 2025 23:51:59 GMT"
   },
   {
     "site": "Qiita",
@@ -154,18 +166,6 @@
     "title": "令和の新しい生活習慣病\"AI依存症\"にならないためには",
     "link": "https://qiita.com/pilot_fish/items/214f5db00e0bd5d877a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-25T16:58:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini CLI の使い方",
-    "link": "https://zenn.dev/mafukuda/articles/gemini-cli-usage",
-    "pubDate": "Wed, 25 Jun 2025 15:49:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini CLI の簡単チュートリアル",
-    "link": "https://zenn.dev/schroneko/articles/gemini-cli-tutorial",
-    "pubDate": "Wed, 25 Jun 2025 15:20:08 GMT"
   },
   {
     "site": "Qiita",
