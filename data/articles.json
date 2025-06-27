@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Windowsのブルースクリーン、今夏からブラックスクリーンに",
+    "link": "https://www.itmedia.co.jp/news/articles/2506/27/news055.html",
+    "pubDate": "2025-06-26T20:56:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini CLIやClaude Codeみたいなロゴを出力するoh-my-logoというツールを作りました",
+    "link": "https://zenn.dev/shinshin86/articles/e02fac5d3ae75a",
+    "pubDate": "2025-06-26T19:00:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今ならAmazon ECSのサービス間通信をどう選ぶか / Selection of ECS Interservice Communication 2025",
+    "link": "https://speakerdeck.com/tkikuc/selection-of-ecs-interservice-communication-2025",
+    "pubDate": "2025-06-26T12:25:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "React Ink によるリッチ CLI (ClaudeCodeの裏側のアレ)",
+    "link": "https://zenn.dev/mizchi/articles/react-ink-renderer-for-ai-age",
+    "pubDate": "Thu, 26 Jun 2025 12:01:45 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "MinisforumやBeelinkといった中華ミニPCはどこが作っているのか｜Tak",
     "link": "https://note.com/zilo/n/n6ea88bd14b9e",
     "pubDate": "2025-06-26T12:00:21.000Z"
@@ -13,21 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「ときメモ」、親友の彼女が告白してくる不具合を修正",
-    "link": "https://www.itmedia.co.jp/news/articles/2506/26/news104.html",
-    "pubDate": "2025-06-26T06:36:54.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "芥川賞作家が「95％AIで書いた」小説、全プロンプトをWeb公開",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2506/26/news100.html",
     "pubDate": "2025-06-26T05:58:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Anker、モバイルバッテリ4製品を自主回収。内部ショートの恐れ",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2025968.html",
-    "pubDate": "2025-06-26T04:48:53.000Z"
   },
   {
     "site": "Hatena",
@@ -36,22 +48,34 @@
     "pubDate": "2025-06-26T04:31:03.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Gemini CLI利用時の認証方法別プライバシーポリシー",
+    "link": "https://zenn.dev/nuits_jp/articles/2025-06-26-gemini-cli-privacy-policy",
+    "pubDate": "Thu, 26 Jun 2025 04:22:07 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Claude Codeを使い倒す方法｜suthio",
     "link": "https://note.com/suthio/n/n71c111ddd183",
     "pubDate": "2025-06-26T03:29:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "京都で私が好きな場所 - id:onk のはてなブログ",
-    "link": "https://onk.hatenablog.jp/entry/2025/06/26/113733",
-    "pubDate": "2025-06-26T03:09:25.000Z"
+    "site": "Qiita",
+    "title": "ワイ「AI時代に、綺麗な設計とか要らんやろ！」",
+    "link": "https://qiita.com/Yametaro/items/f642704a2c11bf36a463?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-26T03:14:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AI時代に差がつく、低レイヤの基礎を学ぶ。「Linux標準教科書」著者・宮原徹氏が選ぶ「最初の6冊」 | レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/column/detail_686/",
-    "pubDate": "2025-06-26T01:01:14.000Z"
+    "title": "Pythonで理解するMCP（Model Context Protocol） | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/06/monthly-python-2506",
+    "pubDate": "2025-06-26T01:12:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gemini CLI : オープンソース AI エージェント | Google Cloud 公式ブログ",
+    "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli/",
+    "pubDate": "2025-06-26T00:57:49.000Z"
   },
   {
     "site": "Zenn",
@@ -60,16 +84,16 @@
     "pubDate": "Thu, 26 Jun 2025 00:27:01 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "英語が苦手なエンジニアが1年間本気で英語学習をした結果と学んだこと",
+    "link": "https://zenn.dev/moneyforward/articles/fa986d49e8d99a",
+    "pubDate": "Wed, 25 Jun 2025 23:29:32 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【CSS】まだ width: 100% つかってるやついる⁉︎ いねぇよな⁉︎",
     "link": "https://qiita.com/degudegu2510/items/7079d76beeaa40c206d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-25T23:09:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】世界のコンセントは3つ穴なのに、なぜ日本は2つ穴！？ - PC Watch",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2025345.html",
-    "pubDate": "2025-06-25T23:03:38.000Z"
   },
   {
     "site": "Qiita",
@@ -88,6 +112,18 @@
     "title": "Gemini-CLIを使ってDevin MCP Server for Azure Functionsを作った",
     "link": "https://qiita.com/zawatti/items/bdf0fca0a9d6a59552e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-25T18:27:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "令和の新しい生活習慣病\"AI依存症\"にならないためには",
+    "link": "https://qiita.com/pilot_fish/items/214f5db00e0bd5d877a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-25T16:58:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini CLI の使い方",
+    "link": "https://zenn.dev/mafukuda/articles/gemini-cli-usage",
+    "pubDate": "Wed, 25 Jun 2025 15:49:55 GMT"
   },
   {
     "site": "Zenn",
@@ -121,39 +157,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeで新しいMacの面倒な初期環境構築をほぼ自動化する！",
+    "link": "https://zenn.dev/gotalab/articles/6c3b414788c3ec",
+    "pubDate": "Wed, 25 Jun 2025 03:10:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "スマホからClaude Codeを操作して、いつでもどこでもコーディング可能にする方法",
     "link": "https://zenn.dev/dirtyman/articles/cc724b87681593",
     "pubDate": "Wed, 25 Jun 2025 00:59:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeとplaywright mcpを連携させると開発体験が向上するのでみんなやろう",
-    "link": "https://zenn.dev/sesere/articles/4c0b55102dcc84",
-    "pubDate": "Tue, 24 Jun 2025 10:55:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの前と後。やり始めたこととやめたこと",
-    "link": "https://zenn.dev/ks0318/articles/0779b38a023896",
-    "pubDate": "Tue, 24 Jun 2025 03:39:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "🧹.env にさよなら！全てのサービス開発者が実感するビルドプロセス改善🔐⏱️⚙️",
-    "link": "https://zenn.dev/dinii/articles/e615ae7d517795",
-    "pubDate": "Tue, 24 Jun 2025 02:43:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【3分でできる】Claude CodeをCursorで使う方法【簡単】",
-    "link": "https://zenn.dev/ichigoooo/articles/claude-code-cursor-integration",
-    "pubDate": "Tue, 24 Jun 2025 02:18:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "それって本当に「好みの問題」？",
-    "link": "https://zenn.dev/hacobell_dev/articles/a-choice-of-preference",
-    "pubDate": "Tue, 24 Jun 2025 00:30:01 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【GPTのしくみ入門】AIはどのように言葉を「理解」し、「生み出している」のか",
     "link": "https://qiita.com/KYoshiyama/items/d86ae5afc29650f0b924?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-23T23:22:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[入門] Linux 誕生の瞬間 1991/09/17 1万行を読み解く",
-    "link": "https://qiita.com/ShigemoriMasato/items/e4dfa70e4fa7ec7a8b2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-23T19:32:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェント規格「MCP」が3ヶ月ぶりにアプデ！ どこが変わったの？",
-    "link": "https://qiita.com/minorun365/items/cbf4e475e6dd9892ee11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-23T13:06:55.000Z"
   }
 ]
