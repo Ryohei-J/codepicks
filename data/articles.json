@@ -1,9 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "o3 MCPでClaude Codeが最強の検索力を手に入れた",
+    "link": "https://zenn.dev/yoshiko/articles/claude-code-with-o3",
+    "pubDate": "2025-06-27T15:08:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Obsidianの使い方が変わる】Gemini CLIは、あなたの思考に寄り添う「無料の執事」｜少し明るい高橋くん",
+    "link": "https://note.com/chankostin/n/nb33ca6e289fa",
+    "pubDate": "2025-06-27T14:00:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTに悩みを相談し続けて4カ月、「あ、ヤバいかも」と思った話 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2506-tinyhack-after-correcting-thinking-habits-with-ai/?page=2",
+    "pubDate": "2025-06-27T10:26:03.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "PNGが約20年ぶりの仕様改訂。HDRやアニメーションのサポートなど",
     "link": "https://pc.watch.impress.co.jp/docs/news/2026517.html",
     "pubDate": "2025-06-27T09:17:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "pg_duckdbとDuckLakeがもたらすOLAP統合の未来",
+    "link": "https://zenn.dev/nttdata_tech/articles/tzkoba-pgduckdb-ducklake-202506",
+    "pubDate": "2025-06-27T09:09:47.000Z"
   },
   {
     "site": "Hatena",
@@ -16,18 +40,6 @@
     "title": "iOS開発の教科書(β版)",
     "link": "https://zenn.dev/st43/books/bb5ea67aa3de15",
     "pubDate": "Fri, 27 Jun 2025 04:59:15 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "グーグル「Pixel 7」日本で販売差し止め　特許権侵害で",
-    "link": "https://ascii.jp/elem/000/004/295/4295166/",
-    "pubDate": "2025-06-27T04:25:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Goで作られたシステムをRuby on Railsに移植しています - STORES Product Blog",
-    "link": "https://product.st.inc/entry/2025/06/27/124100",
-    "pubDate": "2025-06-27T04:11:02.000Z"
   },
   {
     "site": "Qiita",
@@ -60,10 +72,10 @@
     "pubDate": "Fri, 27 Jun 2025 01:39:30 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "夏野氏「もう1年早く移行しておけば」　サイバー攻撃を受けたドワンゴがAWSで進めるセキュリティ改革 (1/4)",
-    "link": "https://ascii.jp/elem/000/004/295/4295045/",
-    "pubDate": "2025-06-26T23:55:53.000Z"
+    "site": "Qiita",
+    "title": "“感情”を排したマネジメント──再現性のあるリーダーシップの構築法",
+    "link": "https://qiita.com/Nao52/items/9478d8a6a3f61b15dde8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-26T23:59:27.000Z"
   },
   {
     "site": "Hatena",
@@ -78,6 +90,12 @@
     "pubDate": "2025-06-26T23:03:17.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【完全版】Gemini CLI チートシート - この記事で今日攻略！🚀",
+    "link": "https://qiita.com/akira_papa_AI/items/15314a5bf1dd109053c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-26T19:58:23.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AnthropicのDesktop Extensions (DXT)完全ガイド： ローカルAIアプリケーションの新時代",
     "link": "https://zenn.dev/cadp/articles/6d9dd374fd3d32",
@@ -90,34 +108,16 @@
     "pubDate": "Thu, 26 Jun 2025 14:58:12 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "1人開発をしていて感じたこと",
-    "link": "https://qiita.com/KawamotoShuji/items/b185b0df4cc45f6d019f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-26T12:31:44.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "React Ink によるリッチ CLI (ClaudeCodeの裏側のアレ)",
     "link": "https://zenn.dev/mizchi/articles/react-ink-renderer-for-ai-age",
     "pubDate": "Thu, 26 Jun 2025 12:01:45 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【入門】Vimを覚えたくない人のための最低限だけ学ぶVim",
-    "link": "https://qiita.com/flowernotfound/items/cb8d51602bad909dae2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-26T10:35:39.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Gemini CLI と Claude Code に同じ Discord bot を書かせて比較したぞ！✨",
     "link": "https://zenn.dev/yokoe24/articles/98b830e76c64f4",
     "pubDate": "Thu, 26 Jun 2025 08:13:22 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "SmartHR「給与計算開発」の裏話 〜スクラムとか色々やめました〜 ｜Real SmartHR リアスマ",
-    "link": "https://real.smarthr.co.jp/articles/voices_0002",
-    "pubDate": "2025-06-26T06:25:15.000Z"
   },
   {
     "site": "Zenn",
