@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "VueエンジニアがReactを触ってみた感想｜Yutori Otsu",
+    "link": "https://note.com/yutori_otsu827/n/nf502e45cf14d",
+    "pubDate": "2025-06-28T00:44:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、ワンクリックでローカルMCPサーバーをインストールできる「Desktop Extensions」をリリース | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/06/claude-desktop-extensions",
+    "pubDate": "2025-06-27T19:09:25.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "o3 MCPでClaude Codeが最強の検索力を手に入れた",
     "link": "https://zenn.dev/yoshiko/articles/claude-code-with-o3",
@@ -12,22 +24,22 @@
     "pubDate": "2025-06-27T14:00:26.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "o3 MCPでClaude Codeが最強の検索力を手に入れた",
+    "link": "https://zenn.dev/yoshiko/articles/claude-code-with-o3",
+    "pubDate": "Fri, 27 Jun 2025 13:23:10 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "わずか2GBのメモリ使用量でスマホでの実行もOKな軽量オープンウェイトモデル「Gemma 3n」をGoogleが正式リリース、音声や動画の入力にも対応し日本語ももちろんOK",
+    "link": "https://gigazine.net/news/20250627-google-gemma-3n-full-release/",
+    "pubDate": "2025-06-27T11:29:25.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ChatGPTに悩みを相談し続けて4カ月、「あ、ヤバいかも」と思った話 | ライフハッカー・ジャパン",
     "link": "https://www.lifehacker.jp/article/2506-tinyhack-after-correcting-thinking-habits-with-ai/?page=2",
     "pubDate": "2025-06-27T10:26:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "PNGが約20年ぶりの仕様改訂。HDRやアニメーションのサポートなど",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2026517.html",
-    "pubDate": "2025-06-27T09:17:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "pg_duckdbとDuckLakeがもたらすOLAP統合の未来",
-    "link": "https://zenn.dev/nttdata_tech/articles/tzkoba-pgduckdb-ducklake-202506",
-    "pubDate": "2025-06-27T09:09:47.000Z"
   },
   {
     "site": "Hatena",
@@ -37,9 +49,39 @@
   },
   {
     "site": "Zenn",
+    "title": "lsmcp - 汎用的な LSP の MCP サーバーを作った",
+    "link": "https://zenn.dev/mizchi/articles/introduce-lsmcp",
+    "pubDate": "Fri, 27 Jun 2025 08:05:08 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【コーディング無し】既存 API サーバーを MCP サーバーに一瞬で変える方法",
+    "link": "https://zenn.dev/microsoft/articles/expose-mcp-server-in-apim",
+    "pubDate": "Fri, 27 Jun 2025 07:37:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "pg_duckdbとDuckLakeがもたらすOLAP統合の未来",
+    "link": "https://zenn.dev/nttdata_tech/articles/tzkoba-pgduckdb-ducklake-202506",
+    "pubDate": "Fri, 27 Jun 2025 06:10:22 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhone用13本とAndroid用11本のVPNアプリを削除せよ 日本語名でも存在し危険 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/80179",
+    "pubDate": "2025-06-27T05:50:34.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "iOS開発の教科書(β版)",
     "link": "https://zenn.dev/st43/books/bb5ea67aa3de15",
     "pubDate": "Fri, 27 Jun 2025 04:59:15 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIの世界も「フリーランチは終わった」になってきてるのでは - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2025/06/26/224437",
+    "pubDate": "2025-06-27T04:12:29.000Z"
   },
   {
     "site": "Qiita",
@@ -48,22 +90,10 @@
     "pubDate": "2025-06-27T03:22:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ドン・キホーテ、4万円台のIntel N100搭載ノート",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2026262.html",
-    "pubDate": "2025-06-27T02:04:39.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Gemini CLIを会社で使う場合のプラン選択方針",
-    "link": "https://zenn.dev/hololab/articles/geminicli-001-75046b80817049",
-    "pubDate": "2025-06-27T01:48:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "すまん、やっぱりAIって全然使えなくね？～チャットGPT編～",
-    "link": "https://anond.hatelabo.jp/20250627100609",
-    "pubDate": "2025-06-27T01:41:10.000Z"
+    "title": "Mastra + Ollama + MCPでローカルAIエージェントを作る",
+    "link": "https://zenn.dev/robustonian/articles/mastra_ollama_mcp",
+    "pubDate": "2025-06-27T03:09:40.000Z"
   },
   {
     "site": "Zenn",
@@ -78,10 +108,10 @@
     "pubDate": "2025-06-26T23:59:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "技術選定の審美眼 2025年版",
-    "link": "https://findy-code.io/media/articles/event-twada-250514",
-    "pubDate": "2025-06-26T23:39:18.000Z"
+    "site": "Zenn",
+    "title": "【神アプデ🎉】Clineが無料枠/サブスク対応！Gemini CLIとClaude Maxを利用すればコストを気にせず使い倒せるぞ！！",
+    "link": "https://zenn.dev/minedia/articles/a7c99536b04e84",
+    "pubDate": "Thu, 26 Jun 2025 23:26:42 GMT"
   },
   {
     "site": "Qiita",
@@ -103,51 +133,21 @@
   },
   {
     "site": "Zenn",
+    "title": "ターミナルを使う人は、とりあえず「mise」を入れておく時代。　　・・・を夢見て。",
+    "link": "https://zenn.dev/dress_code/articles/a99ff13634bbe6",
+    "pubDate": "Thu, 26 Jun 2025 15:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Gemini CLIやClaude Codeみたいなロゴを出力するoh-my-logoというツールを作りました",
     "link": "https://zenn.dev/shinshin86/articles/e02fac5d3ae75a",
     "pubDate": "Thu, 26 Jun 2025 14:58:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Ink によるリッチ CLI (ClaudeCodeの裏側のアレ)",
-    "link": "https://zenn.dev/mizchi/articles/react-ink-renderer-for-ai-age",
-    "pubDate": "Thu, 26 Jun 2025 12:01:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini CLI と Claude Code に同じ Discord bot を書かせて比較したぞ！✨",
-    "link": "https://zenn.dev/yokoe24/articles/98b830e76c64f4",
-    "pubDate": "Thu, 26 Jun 2025 08:13:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "InkdropでClaude Codeに自動で作業レポートを作成させる方法",
-    "link": "https://zenn.dev/takuya/articles/a32ef0dfa9c392",
-    "pubDate": "Thu, 26 Jun 2025 05:36:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini CLI利用時の認証方法別プライバシーポリシー",
-    "link": "https://zenn.dev/nuits_jp/articles/2025-06-26-gemini-cli-privacy-policy",
-    "pubDate": "Thu, 26 Jun 2025 04:22:07 GMT"
   },
   {
     "site": "Qiita",
     "title": "ワイ「AI時代に、綺麗な設計とか要らんやろ！」",
     "link": "https://qiita.com/Yametaro/items/f642704a2c11bf36a463?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-26T03:14:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini CLI が切り拓く！待望のエージェントモード(Agent Mode)が Gemini Code Assist に！ 【紹介編】",
-    "link": "https://zenn.dev/google_cloud_jp/articles/8911c960113904",
-    "pubDate": "Thu, 26 Jun 2025 00:27:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "働けなかった私と、プログラマを続ける日々",
-    "link": "https://zenn.dev/rotelstift/articles/programmer-in-progress",
-    "pubDate": "Wed, 25 Jun 2025 23:51:59 GMT"
   },
   {
     "site": "Qiita",
