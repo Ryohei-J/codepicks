@@ -1,5 +1,11 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Codeの「すぐルール忘れる問題」を解決する超効果的な方法を見つけた気がする",
+    "link": "https://zenn.dev/sesere/articles/0420ecec9526dc",
+    "pubDate": "2025-06-29T11:22:17.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「アホのファイル転送(PC2台をLANケーブルで直結)」→実はデータ移行ではワイヤレート近くが出るので便利「仕事でoutlookのファイルサイズが異常に大きい客が居た時に有用」",
     "link": "https://togetter.com/li/2569663",
@@ -13,21 +19,15 @@
   },
   {
     "site": "Hatena",
-    "title": "結局お前らはITエンジニアでなく、ITカルトではなかろうか？",
-    "link": "https://anond.hatelabo.jp/20250628113111",
-    "pubDate": "2025-06-28T23:37:24.000Z"
+    "title": "授業参観に行ったらネットリテラシー講座がセキュリティソフトの営業会場になっていた話",
+    "link": "https://togetter.com/li/2569535",
+    "pubDate": "2025-06-29T03:34:35.000Z"
   },
   {
     "site": "Zenn",
     "title": "【初心者向け】各種ツールで学ぶin silicoタンパク質デザイン 〜新規デザインから物性評価まで~",
     "link": "https://zenn.dev/labcode/books/71b01f2557419e",
     "pubDate": "Sat, 28 Jun 2025 23:36:33 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Route 53 プライベートホストゾーンへオンプレミスの DNS サーバーからサブドメインを委任できるようになったので試してみた - Qiita",
-    "link": "https://qiita.com/takeda_h/items/b56718ee53fcbbf5740b",
-    "pubDate": "2025-06-28T18:04:08.000Z"
   },
   {
     "site": "Qiita",
@@ -42,16 +42,10 @@
     "pubDate": "2025-06-28T16:31:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "孫正義「4.8兆円で超知能（ASI）の胴元になる」株主総会書き起こし - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/28743/",
-    "pubDate": "2025-06-28T12:53:08.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Markdownで書いた社内ドキュメント、どう共有してる？ AWSで構築するセキュアな自動公開パイプライン",
-    "link": "https://zenn.dev/nttdata_tech/articles/1c945dd56b374e",
-    "pubDate": "2025-06-28T12:49:46.000Z"
+    "title": "プレゼン動画自動生成ツール Mulmocast を使う",
+    "link": "https://zenn.dev/open_developers/articles/87928c78f98210",
+    "pubDate": "2025-06-28T13:57:53.000Z"
   },
   {
     "site": "Qiita",
@@ -142,6 +136,12 @@
     "title": "「公共Wi-Fiは危険」ってよく聞くけど… どこがどう危ないの？物理から紐解くセキュリティ入門",
     "link": "https://qiita.com/omochi_0604/items/676bc3f123bc24d3602b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-27T04:38:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "フルスタックエンジニアの終焉？生成AI後の未来を産業史から考える - arclamp",
+    "link": "https://arclamp.hatenablog.com/entry/2025/06/26/213143",
+    "pubDate": "2025-06-27T04:12:21.000Z"
   },
   {
     "site": "Zenn",
