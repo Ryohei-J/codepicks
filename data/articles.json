@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2025/06/29/110000",
+    "pubDate": "2025-06-29T04:01:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【初心者向け】各種ツールで学ぶin silicoタンパク質デザイン 〜新規デザインから物性評価まで~",
+    "link": "https://zenn.dev/labcode/books/71b01f2557419e",
+    "pubDate": "Sat, 28 Jun 2025 23:36:33 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "プログラミング1ミリも分からない人がGemini CLI始めるまでの全手順（Win篇）｜ミヤマ｜営業部にいるデザイナー",
     "link": "https://note.com/mmmiyama/n/n9fa6839beb06",
     "pubDate": "2025-06-28T16:31:11.000Z"
@@ -22,6 +34,12 @@
     "title": "[入門] PythonでuvとPEP 723を使うと開発体験が10倍向上する理由",
     "link": "https://qiita.com/ShigemoriMasato/items/b254709391d2cbb1bbe6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-28T12:17:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Web Bluetooth API】Joy-Con 2 をプレゼンリモコンにする",
+    "link": "https://zenn.dev/mascii/articles/joy-con-2-web-bluetooth-api",
+    "pubDate": "Sat, 28 Jun 2025 11:14:54 GMT"
   },
   {
     "site": "Qiita",
@@ -48,16 +66,16 @@
     "pubDate": "2025-06-28T06:40:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeにコマンド一発でMCPサーバを簡単設定",
-    "link": "https://zenn.dev/karaage0703/articles/3bd2957807f311",
-    "pubDate": "2025-06-28T05:28:53.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "AIネイティブ世代が実践してる。スマホでバイブコーディングする方法【Gemini-CLI】｜Holy_fox",
     "link": "https://note.com/holy_fox/n/nfe53492ac5dd",
     "pubDate": "2025-06-28T04:18:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini CLIをソース解析して発見したコーギーの出現方法",
+    "link": "https://zenn.dev/oikon/articles/c8a887f00dd219",
+    "pubDate": "Sat, 28 Jun 2025 04:01:02 GMT"
   },
   {
     "site": "Zenn",
@@ -84,12 +102,6 @@
     "pubDate": "Fri, 27 Jun 2025 13:23:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "退屈な分析はAIにやらせよう - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2025/06/27/110000",
-    "pubDate": "2025-06-27T08:53:10.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "[2025年6月27日] Gemini CLIは現状ちょっとダメかもしれない (週刊AI)",
     "link": "https://zenn.dev/carenet/articles/7f4d0bf85cc0e2",
@@ -114,28 +126,10 @@
     "pubDate": "Fri, 27 Jun 2025 06:10:22 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Markdownで書いた社内ドキュメント、どう共有してる？ AWSで構築するセキュアな自動公開パイプライン",
-    "link": "https://zenn.dev/nttdata_tech/articles/1c945dd56b374e",
-    "pubDate": "Fri, 27 Jun 2025 06:05:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "iOS開発の教科書(β版)",
-    "link": "https://zenn.dev/st43/books/bb5ea67aa3de15",
-    "pubDate": "Fri, 27 Jun 2025 04:59:15 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「公共Wi-Fiは危険」ってよく聞くけど… どこがどう危ないの？物理から紐解くセキュリティ入門",
     "link": "https://qiita.com/omochi_0604/items/676bc3f123bc24d3602b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-27T04:38:55.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "仮想端末ソフト「byobu」で快適なCLI開発環境構築",
-    "link": "https://zenn.dev/mkj/articles/82c4e53a505f95",
-    "pubDate": "Fri, 27 Jun 2025 02:50:02 GMT"
   },
   {
     "site": "Zenn",
@@ -160,6 +154,12 @@
     "title": "Gemini CLI を Google Workspace アカウントで使う",
     "link": "https://qiita.com/revsystem/items/34e65c59f05f97357d71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-26T16:48:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeを実際のプロジェクトにうまく適用させていくTips10選 - Qiita",
+    "link": "https://qiita.com/nokonoko_1203/items/67f8692a0a3ca7e621f3",
+    "pubDate": "2025-06-26T13:56:15.000Z"
   },
   {
     "site": "Qiita",
