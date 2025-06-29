@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "「アホのファイル転送(PC2台をLANケーブルで直結)」→実はデータ移行ではワイヤレート近くが出るので便利「仕事でoutlookのファイルサイズが異常に大きい客が居た時に有用」",
+    "link": "https://togetter.com/li/2569663",
+    "pubDate": "2025-06-29T09:34:23.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ",
     "link": "https://www.m3tech.blog/entry/2025/06/29/110000",
     "pubDate": "2025-06-29T04:01:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "結局お前らはITエンジニアでなく、ITカルトではなかろうか？",
+    "link": "https://anond.hatelabo.jp/20250628113111",
+    "pubDate": "2025-06-28T23:37:24.000Z"
   },
   {
     "site": "Zenn",
     "title": "【初心者向け】各種ツールで学ぶin silicoタンパク質デザイン 〜新規デザインから物性評価まで~",
     "link": "https://zenn.dev/labcode/books/71b01f2557419e",
     "pubDate": "Sat, 28 Jun 2025 23:36:33 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Route 53 プライベートホストゾーンへオンプレミスの DNS サーバーからサブドメインを委任できるようになったので試してみた - Qiita",
+    "link": "https://qiita.com/takeda_h/items/b56718ee53fcbbf5740b",
+    "pubDate": "2025-06-28T18:04:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Route 53 プライベートホストゾーンへオンプレミスの DNS サーバーからサブドメインを委任できるようになったので試してみた",
+    "link": "https://qiita.com/takeda_h/items/b56718ee53fcbbf5740b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-28T17:49:11.000Z"
   },
   {
     "site": "Hatena",
@@ -49,27 +73,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【2025年】zip圧縮･展開(解凍) おすすめソフト12選まとめ＋解説【Win･Mac対応、文字化けよさらば！】 - Qiita",
-    "link": "https://qiita.com/ko1nksm/items/b1e320f418614372c43e",
-    "pubDate": "2025-06-28T08:21:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "面接をして「この人優秀だな」と感じる人はどんな人か? - pospomeのプログラミング日記",
-    "link": "https://www.pospome.work/entry/2025/06/28/151253",
-    "pubDate": "2025-06-28T07:43:10.000Z"
+    "title": "【2025年】zip圧縮･展開(解凍) おすすめソフト12選まとめ＋解説、文字化けよさらば！【Win･Mac】",
+    "link": "https://qiita.com/ko1nksm/items/b1e320f418614372c43e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-28T08:00:53.000Z"
   },
   {
     "site": "Hatena",
     "title": "現状のAIが全然使い物にならないのは、非常に正しくて、そして間違っている。",
     "link": "https://anond.hatelabo.jp/20250628122821",
     "pubDate": "2025-06-28T06:40:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIネイティブ世代が実践してる。スマホでバイブコーディングする方法【Gemini-CLI】｜Holy_fox",
-    "link": "https://note.com/holy_fox/n/nfe53492ac5dd",
-    "pubDate": "2025-06-28T04:18:04.000Z"
   },
   {
     "site": "Zenn",
@@ -84,10 +96,16 @@
     "pubDate": "Sat, 28 Jun 2025 03:35:39 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "初めてのTTSモデルをずんだもんのデータで作ってみた with LLaSA",
+    "link": "https://zenn.dev/aratako_lm/articles/7e0b0b6e51baa6",
+    "pubDate": "Sat, 28 Jun 2025 03:00:02 GMT"
+  },
+  {
     "site": "Qiita",
-    "title": "[入門] C/C++ malloc(0)の謎 メモリ確保の実装と挙動",
-    "link": "https://qiita.com/ShigemoriMasato/items/cdb91a441f4f8ceb1466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-28T02:43:04.000Z"
+    "title": "AWS Summit 2025 Community Stage全セッション＆資料まとめ",
+    "link": "https://qiita.com/issy929/items/e02154bea72c4cff3106?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-28T02:55:07.000Z"
   },
   {
     "site": "Zenn",
@@ -118,12 +136,6 @@
     "title": "【コーディング無し】既存 API サーバーを MCP サーバーに一瞬で変える方法",
     "link": "https://zenn.dev/microsoft/articles/expose-mcp-server-in-apim",
     "pubDate": "Fri, 27 Jun 2025 07:37:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "pg_duckdbとDuckLakeがもたらすOLAP統合の未来",
-    "link": "https://zenn.dev/nttdata_tech/articles/tzkoba-pgduckdb-ducklake-202506",
-    "pubDate": "Fri, 27 Jun 2025 06:10:22 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【入門】Vimを覚えたくない人のための最低限だけ学ぶVim",
     "link": "https://qiita.com/flowernotfound/items/cb8d51602bad909dae2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-26T10:35:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ワイ「AI時代に、綺麗な設計とか要らんやろ！」",
-    "link": "https://qiita.com/Yametaro/items/f642704a2c11bf36a463?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-26T03:14:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【CSS】まだ width: 100% つかってるやついる⁉︎ いねぇよな⁉︎",
-    "link": "https://qiita.com/degudegu2510/items/7079d76beeaa40c206d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-25T23:09:34.000Z"
   }
 ]
