@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "プログラミング1ミリも分からない人がGemini CLI始めるまでの全手順（Win篇）｜ミヤマ｜営業部にいるデザイナー",
+    "link": "https://note.com/mmmiyama/n/n9fa6839beb06",
+    "pubDate": "2025-06-28T16:31:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "孫正義「4.8兆円で超知能（ASI）の胴元になる」株主総会書き起こし - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/28743/",
+    "pubDate": "2025-06-28T12:53:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Markdownで書いた社内ドキュメント、どう共有してる？ AWSで構築するセキュアな自動公開パイプライン",
+    "link": "https://zenn.dev/nttdata_tech/articles/1c945dd56b374e",
+    "pubDate": "2025-06-28T12:49:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "[入門] PythonでuvとPEP 723を使うと開発体験が10倍向上する理由",
+    "link": "https://qiita.com/ShigemoriMasato/items/b254709391d2cbb1bbe6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-28T12:17:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ご報告】遠距離恋愛にアジャイルを応用して結婚しました",
+    "link": "https://qiita.com/mkt_hanada/items/04c9e040c8b4131a3948?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-28T09:43:51.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【2025年】zip圧縮･展開(解凍) おすすめソフト12選まとめ＋解説【Win･Mac対応、文字化けよさらば！】 - Qiita",
     "link": "https://qiita.com/ko1nksm/items/b1e320f418614372c43e",
@@ -10,6 +40,12 @@
     "title": "面接をして「この人優秀だな」と感じる人はどんな人か? - pospomeのプログラミング日記",
     "link": "https://www.pospome.work/entry/2025/06/28/151253",
     "pubDate": "2025-06-28T07:43:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "現状のAIが全然使い物にならないのは、非常に正しくて、そして間違っている。",
+    "link": "https://anond.hatelabo.jp/20250628122821",
+    "pubDate": "2025-06-28T06:40:45.000Z"
   },
   {
     "site": "Zenn",
@@ -24,28 +60,22 @@
     "pubDate": "2025-06-28T04:18:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "VueエンジニアがReactを触ってみた感想｜Yutori Otsu",
-    "link": "https://note.com/yutori_otsu827/n/nf502e45cf14d",
-    "pubDate": "2025-06-28T00:44:26.000Z"
+    "site": "Zenn",
+    "title": "AIエージェントでバグバウンティ！ Cline × Claude Code × GPT-o3 で $2,000 を獲得した話",
+    "link": "https://zenn.dev/grandchildrice/articles/499e22b0e9e4c8",
+    "pubDate": "Sat, 28 Jun 2025 03:35:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Anthropic、ワンクリックでローカルMCPサーバーをインストールできる「Desktop Extensions」をリリース | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/06/claude-desktop-extensions",
-    "pubDate": "2025-06-27T19:09:25.000Z"
+    "site": "Qiita",
+    "title": "[入門] C/C++ malloc(0)の謎 メモリ確保の実装と挙動",
+    "link": "https://qiita.com/ShigemoriMasato/items/cdb91a441f4f8ceb1466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-28T02:43:04.000Z"
   },
   {
     "site": "Zenn",
-    "title": "o3 MCPでClaude Codeが最強の検索力を手に入れた",
-    "link": "https://zenn.dev/yoshiko/articles/claude-code-with-o3",
-    "pubDate": "2025-06-27T15:08:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【Obsidianの使い方が変わる】Gemini CLIは、あなたの思考に寄り添う「無料の執事」｜少し明るい高橋くん",
-    "link": "https://note.com/chankostin/n/nb33ca6e289fa",
-    "pubDate": "2025-06-27T14:00:26.000Z"
+    "title": "Claude Codeにコマンド一発でMCPサーバを簡単設定",
+    "link": "https://zenn.dev/karaage0703/articles/3bd2957807f311",
+    "pubDate": "Fri, 27 Jun 2025 15:35:18 GMT"
   },
   {
     "site": "Zenn",
@@ -55,15 +85,15 @@
   },
   {
     "site": "Hatena",
-    "title": "【無料】グーグル神AIツール5選　「Google AI Studio」はこれがやばい (1/7)",
-    "link": "https://ascii.jp/elem/000/004/286/4286792/",
-    "pubDate": "2025-06-27T08:51:13.000Z"
+    "title": "退屈な分析はAIにやらせよう - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2025/06/27/110000",
+    "pubDate": "2025-06-27T08:53:10.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "[2025]AWS Summit Japan参加レポート",
-    "link": "https://qiita.com/Kanahiro/items/09d37a994425baf03913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-27T08:19:42.000Z"
+    "site": "Zenn",
+    "title": "[2025年6月27日] Gemini CLIは現状ちょっとダメかもしれない (週刊AI)",
+    "link": "https://zenn.dev/carenet/articles/7f4d0bf85cc0e2",
+    "pubDate": "Fri, 27 Jun 2025 08:42:50 GMT"
   },
   {
     "site": "Zenn",
@@ -85,6 +115,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Markdownで書いた社内ドキュメント、どう共有してる？ AWSで構築するセキュアな自動公開パイプライン",
+    "link": "https://zenn.dev/nttdata_tech/articles/1c945dd56b374e",
+    "pubDate": "Fri, 27 Jun 2025 06:05:59 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "iOS開発の教科書(β版)",
     "link": "https://zenn.dev/st43/books/bb5ea67aa3de15",
     "pubDate": "Fri, 27 Jun 2025 04:59:15 GMT"
@@ -96,22 +132,16 @@
     "pubDate": "2025-06-27T04:38:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIの世界も「フリーランチは終わった」になってきてるのでは - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2025/06/26/224437",
-    "pubDate": "2025-06-27T04:12:29.000Z"
+    "site": "Zenn",
+    "title": "仮想端末ソフト「byobu」で快適なCLI開発環境構築",
+    "link": "https://zenn.dev/mkj/articles/82c4e53a505f95",
+    "pubDate": "Fri, 27 Jun 2025 02:50:02 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Gemini CLIを会社で使う場合のプラン選択方針",
-    "link": "https://zenn.dev/hololab/articles/geminicli-001-75046b80817049",
-    "pubDate": "Fri, 27 Jun 2025 01:39:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【神アプデ🎉】Clineが無料枠/サブスク対応！Gemini CLIとClaude Maxを利用すればコストを気にせず使い倒せるぞ！！",
-    "link": "https://zenn.dev/minedia/articles/a7c99536b04e84",
-    "pubDate": "Thu, 26 Jun 2025 23:26:42 GMT"
+    "title": "ターミナルを使う人は、とりあえず「mise」を入れておく時代。　　・・・を夢見て。",
+    "link": "https://zenn.dev/dress_code/articles/a99ff13634bbe6",
+    "pubDate": "2025-06-27T02:26:46.000Z"
   },
   {
     "site": "Qiita",
@@ -126,22 +156,10 @@
     "pubDate": "2025-06-26T19:58:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AnthropicのDesktop Extensions (DXT)完全ガイド： ローカルAIアプリケーションの新時代",
-    "link": "https://zenn.dev/cadp/articles/6d9dd374fd3d32",
-    "pubDate": "Thu, 26 Jun 2025 19:10:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ターミナルを使う人は、とりあえず「mise」を入れておく時代。　　・・・を夢見て。",
-    "link": "https://zenn.dev/dress_code/articles/a99ff13634bbe6",
-    "pubDate": "Thu, 26 Jun 2025 15:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini CLIやClaude Codeみたいなロゴを出力するoh-my-logoというツールを作りました",
-    "link": "https://zenn.dev/shinshin86/articles/e02fac5d3ae75a",
-    "pubDate": "Thu, 26 Jun 2025 14:58:12 GMT"
+    "site": "Qiita",
+    "title": "Gemini CLI を Google Workspace アカウントで使う",
+    "link": "https://qiita.com/revsystem/items/34e65c59f05f97357d71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-26T16:48:38.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "【CSS】まだ width: 100% つかってるやついる⁉︎ いねぇよな⁉︎",
     "link": "https://qiita.com/degudegu2510/items/7079d76beeaa40c206d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-25T23:09:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Gemini CLIの\"強み\"を知る！ Gemini CLIとClaude Codeを比較してみた",
-    "link": "https://qiita.com/kyuko/items/b7f7336057859f5c9b4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-25T18:59:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Gemini CLI をさっそく試してみた！",
-    "link": "https://qiita.com/youtoy/items/fa5b696b055ed4a992ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-25T14:26:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代にエンジニアは不要になるのか？",
-    "link": "https://qiita.com/ryoheiiwamoto/items/24969131200a8c0429a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-25T08:21:32.000Z"
   }
 ]
