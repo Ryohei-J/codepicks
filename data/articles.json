@@ -13,9 +13,15 @@
   },
   {
     "site": "Hatena",
-    "title": "何が我々の頭上を“宇宙ゴミ”まみれにしたのか。スペースデブリ問題の解決が難しい根本的な理由【フォーカス】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/focus/detail_688/",
-    "pubDate": "2025-06-30T00:51:43.000Z"
+    "title": "ついにテック業界にこの現実が…AIが人の仕事を奪い始めている",
+    "link": "https://www.gizmodo.jp/2025/06/ai-will-take-away-peoples-jobs.html",
+    "pubDate": "2025-06-30T06:56:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - textlint-ja/textlint-rule-preset-ai-writing: textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集",
+    "link": "https://github.com/textlint-ja/textlint-rule-preset-ai-writing",
+    "pubDate": "2025-06-30T02:53:03.000Z"
   },
   {
     "site": "Zenn",
@@ -28,12 +34,6 @@
     "title": "AIが書いたコードをローカルでレビューできる「ReviewIt」を作った",
     "link": "https://zenn.dev/yoshiko/articles/reviewit-for-local-code-review",
     "pubDate": "Mon, 30 Jun 2025 00:40:46 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "10時間かかっていた遺伝的アルゴリズムをAWS Lambdaで高速化 - Insight Edge Tech Blog",
-    "link": "https://techblog.insightedge.jp/entry/deap-with-lambda",
-    "pubDate": "2025-06-30T00:35:19.000Z"
   },
   {
     "site": "Hatena",
@@ -66,10 +66,10 @@
     "pubDate": "2025-06-29T21:28:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "論文内に秘密の命令文、AIに「高評価せよ」　日韓米など有力14大学で - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC13BCW0T10C25A6000000/",
-    "pubDate": "2025-06-29T20:36:18.000Z"
+    "site": "Qiita",
+    "title": "[入門] PythonでuvとPEP 723を使うと開発体験が10倍向上する理由 - Qiita",
+    "link": "https://qiita.com/ShigemoriMasato/items/b254709391d2cbb1bbe6",
+    "pubDate": "2025-06-29T15:44:09.000Z"
   },
   {
     "site": "Zenn",
@@ -93,12 +93,6 @@
     "site": "Zenn",
     "title": "Claude Codeの「すぐルール忘れる問題」を解決する超効果的な方法を見つけた気がする",
     "link": "https://zenn.dev/sesere/articles/0420ecec9526dc",
-    "pubDate": "2025-06-29T11:22:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの「すぐルール忘れる問題」を解決する超効果的な方法を見つけた気がする",
-    "link": "https://zenn.dev/sesere/articles/0420ecec9526dc",
     "pubDate": "Sun, 29 Jun 2025 10:33:39 GMT"
   },
   {
@@ -112,6 +106,12 @@
     "title": "ITエンジニア面接でよく聞かれる質問と回答例まとめ",
     "link": "https://qiita.com/SunSunTech/items/e467c0f7e35f04330341?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-29T09:42:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "全人類、いますぐ Discord Webhook を使いこなそう",
+    "link": "https://zenn.dev/oliver/articles/discord-webhook-guide",
+    "pubDate": "2025-06-29T07:42:10.000Z"
   },
   {
     "site": "Zenn",
