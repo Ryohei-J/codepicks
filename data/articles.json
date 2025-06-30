@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "何が我々の頭上を“宇宙ゴミ”まみれにしたのか。スペースデブリ問題の解決が難しい根本的な理由【フォーカス】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/focus/detail_688/",
+    "pubDate": "2025-06-30T00:51:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMにコンテキストを効率よく渡すには？【前編】 〜大量のファイル群から欲しい部分だけ〜 - Nealle Developer's Blog",
+    "link": "https://nealle-dev.hatenablog.com/entry/2025/06/30/094631",
+    "pubDate": "2025-06-30T00:47:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIが書いたコードをローカルでレビューできる「ReviewIt」を作った",
+    "link": "https://zenn.dev/yoshiko/articles/reviewit-for-local-code-review",
+    "pubDate": "Mon, 30 Jun 2025 00:40:46 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "10時間かかっていた遺伝的アルゴリズムをAWS Lambdaで高速化 - Insight Edge Tech Blog",
+    "link": "https://techblog.insightedge.jp/entry/deap-with-lambda",
+    "pubDate": "2025-06-30T00:35:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "20年選手のエンジニアが「良いコード」を改めて学ぶために、最近の本を4冊買って読んでみた - give IT a try",
+    "link": "https://blog.jnito.com/entry/2025/06/30/074913",
+    "pubDate": "2025-06-30T00:26:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Win 11対応PCを家族や友人に譲るなら、「Sysprep」で“不要なアプリを削除した初期化環境”を作るべし！【イニシャルB】",
     "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2024741.html",
     "pubDate": "2025-06-29T21:28:21.000Z"
@@ -10,6 +40,12 @@
     "title": "論文内に秘密の命令文、AIに「高評価せよ」　日韓米など有力14大学で - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC13BCW0T10C25A6000000/",
     "pubDate": "2025-06-29T20:36:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "あなたの論文調査ライフに彩りを！【KnowledgePaper】",
+    "link": "https://zenn.dev/asap/articles/65740c3b110cc8",
+    "pubDate": "Sun, 29 Jun 2025 14:29:24 GMT"
   },
   {
     "site": "Zenn",
@@ -31,12 +67,6 @@
   },
   {
     "site": "Hatena",
-    "title": "「アホのファイル転送(PC2台をLANケーブルで直結)」→実はデータ移行ではワイヤレート近くが出るので便利「仕事でoutlookのファイルサイズが異常に大きい客が居た時に有用」",
-    "link": "https://togetter.com/li/2569663",
-    "pubDate": "2025-06-29T09:34:23.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "オープンＡＩ、グーグル半導体を使用　初の非エヌビディア製か",
     "link": "https://jp.reuters.com/economy/industry/LQW3LAQ5WJMGDPMOEABXN2E3MM-2025-06-29/",
     "pubDate": "2025-06-29T08:21:41.000Z"
@@ -52,18 +82,6 @@
     "title": "なぜ今、研究者はGeminiを選ぶべきか？他のAIとの比較で見る10のメリット｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請",
     "link": "https://note.com/genkaijokyo/n/nfb96a13e084f",
     "pubDate": "2025-06-29T06:52:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2025/06/29/110000",
-    "pubDate": "2025-06-29T04:01:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "授業参観に行ったらネットリテラシー講座がセキュリティソフトの営業会場になっていた話",
-    "link": "https://togetter.com/li/2569535",
-    "pubDate": "2025-06-29T03:34:35.000Z"
   },
   {
     "site": "Qiita",
@@ -108,6 +126,12 @@
     "pubDate": "Sat, 28 Jun 2025 11:14:54 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "iPhone\"だけ\"でClaude Codeを実行する",
+    "link": "https://zenn.dev/fbbp/articles/2713be9b82db88",
+    "pubDate": "Sat, 28 Jun 2025 11:06:53 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【ご報告】遠距離恋愛にアジャイルを応用して結婚しました",
     "link": "https://qiita.com/mkt_hanada/items/04c9e040c8b4131a3948?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -121,7 +145,7 @@
   },
   {
     "site": "Zenn",
-    "title": "Gemini CLIをソース解析して発見したコーギーの出現方法",
+    "title": "Gemini CLIをソース解析して発見したコーギーの隠しコマンド",
     "link": "https://zenn.dev/oikon/articles/c8a887f00dd219",
     "pubDate": "Sat, 28 Jun 2025 04:01:02 GMT"
   },
@@ -130,12 +154,6 @@
     "title": "AIエージェントでバグバウンティ！ Cline × Claude Code × GPT-o3 で $2,000 を獲得した話",
     "link": "https://zenn.dev/grandchildrice/articles/499e22b0e9e4c8",
     "pubDate": "Sat, 28 Jun 2025 03:35:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "初めてのTTSモデルをずんだもんのデータで作ってみた with LLaSA",
-    "link": "https://zenn.dev/aratako_lm/articles/7e0b0b6e51baa6",
-    "pubDate": "Sat, 28 Jun 2025 03:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -154,24 +172,6 @@
     "title": "【完全版】Gemini CLI チートシート - この記事で今日攻略！🚀 - Qiita",
     "link": "https://qiita.com/akira_papa_AI/items/15314a5bf1dd109053c2",
     "pubDate": "2025-06-28T01:31:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeにコマンド一発でMCPサーバを簡単設定",
-    "link": "https://zenn.dev/karaage0703/articles/3bd2957807f311",
-    "pubDate": "Fri, 27 Jun 2025 15:35:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "o3 MCPでClaude Codeが最強の検索力を手に入れた",
-    "link": "https://zenn.dev/yoshiko/articles/claude-code-with-o3",
-    "pubDate": "Fri, 27 Jun 2025 13:23:10 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "フルスタックエンジニアの終焉？生成AI後の未来を産業史から考える - arclamp",
-    "link": "https://arclamp.hatenablog.com/entry/2025/06/26/213143",
-    "pubDate": "2025-06-27T04:12:21.000Z"
   },
   {
     "site": "Qiita",
