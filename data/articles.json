@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "秀和システム　債務超過で出版事業継続困難に　他社に譲渡へ - The Bunka News デジタル",
+    "link": "https://www.bunkanews.jp/article/427968/",
+    "pubDate": "2025-07-01T09:58:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "最強のCSVエディタ「SmoothCSV」を支える技術",
+    "link": "https://zenn.dev/kohii/articles/23fee770d7dbe8",
+    "pubDate": "2025-07-01T09:16:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Amazon倉庫の見学ツアー、日本でも開始",
     "link": "https://pc.watch.impress.co.jp/docs/news/2027250.html",
     "pubDate": "2025-07-01T03:18:35.000Z"
@@ -12,10 +24,10 @@
     "pubDate": "2025-06-30T23:38:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "JavaScript で Wasm 使ってるなら要注意！ そのメモリ、本当に解放されてますか？ - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/07/01/pitfalls-of-cpp-based-wasm",
-    "pubDate": "2025-06-30T23:21:16.000Z"
+    "site": "Zenn",
+    "title": "【RAG】大企業の「暗黙知」を、AIで自動で「形式知」に",
+    "link": "https://zenn.dev/knowledgesense/articles/33a8aabff4d35c",
+    "pubDate": "Mon, 30 Jun 2025 23:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -30,10 +42,16 @@
     "pubDate": "2025-06-30T22:24:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【悲報】Pixel 7が販売禁止に、特許侵害したGoogleの態度が悪いため。さらにPixel 8/9も販売禁止にするよう訴えられる - すまほん!!",
-    "link": "https://smhn.info/202506-google-pixel-7-ban",
-    "pubDate": "2025-06-30T15:42:22.000Z"
+    "site": "Zenn",
+    "title": "Claude Code に全部賭けて個人開発(モバイル、ウェブ、拡張機能)を自動化した話 - 5万円吹っ飛んだ実録",
+    "link": "https://zenn.dev/ekusiadadus/articles/claude_code_mobile_web_extension",
+    "pubDate": "Mon, 30 Jun 2025 16:23:48 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Proプランでも使えるようになった「GitHub Copilot coding agent」を試してみた",
+    "link": "https://qiita.com/youtoy/items/519ce094e794248673a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-30T15:44:46.000Z"
   },
   {
     "site": "Hatena",
@@ -43,15 +61,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Apple、iPhoneチップを搭載した廉価版MacBookの発売へ　早ければ年内にも量産：著名アナリスト - こぼねみ",
-    "link": "https://www.kobonemi.com/entry/2025/06/30/More-Affordable-MacBook-with-A18-Pro-Chip",
-    "pubDate": "2025-06-30T12:38:19.000Z"
+    "title": "【50歳からのAI学習】50歳からのAI開発スキル習得｜Gemini CLIのWindows導入記 - uepon日々の備忘録",
+    "link": "https://uepon.hatenadiary.com/entry/2025/06/28/234130",
+    "pubDate": "2025-06-30T14:04:24.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【登壇レポート】 \"そのAWSコスト、もっと下げられるかも？ 150社超のコスト分析で見えた「鉄板」削減Tips\"というタイトルでミニセッションをしました #AWSSummit | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/aws-summit-tokyo-2025-minisession-cost-tips/",
-    "pubDate": "2025-06-30T12:13:28.000Z"
+    "title": "Apple、iPhoneチップを搭載した廉価版MacBookの発売へ　早ければ年内にも量産：著名アナリスト - こぼねみ",
+    "link": "https://www.kobonemi.com/entry/2025/06/30/More-Affordable-MacBook-with-A18-Pro-Chip",
+    "pubDate": "2025-06-30T12:38:19.000Z"
   },
   {
     "site": "Zenn",
@@ -64,6 +82,18 @@
     "title": "積読おさらば。AIがあなたの「後で読む」をPodcastにする『Summaryme.ai』で、情報収集を劇的に効率化する",
     "link": "https://zenn.dev/hue/articles/zenn_ai_hackathon_202506",
     "pubDate": "Mon, 30 Jun 2025 10:40:03 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "RailsのERBとJavaのthymeleafにおけるオブジェクト反復処理の違い",
+    "link": "https://qiita.com/k12da/items/20bd5bf97f23ed5fc4a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-30T10:28:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【非エンジニア向け】営業こそGeminiを使おう！明日から試せる業務効率化シナリオ",
+    "link": "https://qiita.com/hirokiii27/items/97866f584cfdddf23407?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-30T09:51:53.000Z"
   },
   {
     "site": "Zenn",
@@ -96,12 +126,6 @@
     "pubDate": "Mon, 30 Jun 2025 00:40:46 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AWS Summit Tokyo 2025 現地レポート：EXPOで開発の裏側を聞きまくりました",
-    "link": "https://qiita.com/GIFCat/items/bcfdabdf2da1a012d52c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-30T00:14:59.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "MCPはAPIではない - 単純変換してはいけない理由 - 吉田の備忘録",
     "link": "https://memo.tyoshida.me/power-platform/copilot-studio/mcp-is-not-api/",
@@ -114,6 +138,12 @@
     "pubDate": "2025-06-29T22:01:00.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "[連載] ネットワーク基礎 第1回  基本設計の重要性とネットワーク構築の全体像",
+    "link": "https://qiita.com/ShigemoriMasato/items/a7155e982941e8ad84fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-29T21:18:09.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "会話から「それ補助金貰えるかも」を通知するLINE Bot、ホジョキンTV エブリデイを制作しました【AI Agent Hackathon】",
     "link": "https://zenn.dev/hitotori/articles/2116074aeadc71",
@@ -124,18 +154,6 @@
     "title": "開発プロセスをエミュレートする！Claude Codeの実践ガイド",
     "link": "https://zenn.dev/loglass/articles/771ebf5dd7cc86",
     "pubDate": "Sun, 29 Jun 2025 15:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "あなたの論文調査ライフに彩りを！【KnowledgePaper】",
-    "link": "https://zenn.dev/asap/articles/65740c3b110cc8",
-    "pubDate": "Sun, 29 Jun 2025 14:29:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "どっちを使う？Rustの&strとStringの違いを図解で学ぼう",
-    "link": "https://zenn.dev/collabostyle/articles/cfaf3316c8b32f",
-    "pubDate": "Sun, 29 Jun 2025 14:29:23 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "【ご報告】遠距離恋愛にアジャイルを応用して結婚しました",
     "link": "https://qiita.com/mkt_hanada/items/04c9e040c8b4131a3948?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-28T09:43:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2025年】zip圧縮･展開(解凍) おすすめソフト12選まとめ＋解説、文字化けよさらば！【Win･Mac】",
-    "link": "https://qiita.com/ko1nksm/items/b1e320f418614372c43e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-28T08:00:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS Summit 2025 Community Stage全セッション＆資料まとめ",
-    "link": "https://qiita.com/issy929/items/e02154bea72c4cff3106?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-28T02:55:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[入門] C/C++ malloc(0)の謎 メモリ確保の実装と挙動",
-    "link": "https://qiita.com/ShigemoriMasato/items/cdb91a441f4f8ceb1466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-28T02:43:04.000Z"
   }
 ]
