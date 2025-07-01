@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Amazon倉庫の見学ツアー、日本でも開始",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2027250.html",
+    "pubDate": "2025-07-01T03:18:35.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "極度の睡眠不足で死ぬのはなぜ？　米国チームが2020年にハエで実験　“寝なくても死なない方法”も検証",
     "link": "https://www.itmedia.co.jp/news/articles/2507/01/news024.html",
     "pubDate": "2025-06-30T23:38:02.000Z"
@@ -10,6 +16,12 @@
     "title": "JavaScript で Wasm 使ってるなら要注意！ そのメモリ、本当に解放されてますか？ - カミナシ エンジニアブログ",
     "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/07/01/pitfalls-of-cpp-based-wasm",
     "pubDate": "2025-06-30T23:21:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "最強のCSVエディタ「SmoothCSV」を支える技術",
+    "link": "https://zenn.dev/kohii/articles/23fee770d7dbe8",
+    "pubDate": "Mon, 30 Jun 2025 22:58:46 GMT"
   },
   {
     "site": "Hatena",
@@ -36,16 +48,22 @@
     "pubDate": "2025-06-30T12:38:19.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "【登壇レポート】 \"そのAWSコスト、もっと下げられるかも？ 150社超のコスト分析で見えた「鉄板」削減Tips\"というタイトルでミニセッションをしました #AWSSummit | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/aws-summit-tokyo-2025-minisession-cost-tips/",
+    "pubDate": "2025-06-30T12:13:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「学んだつもり」を「体験」に変える。学びのためのシミュレーションゲーム生成AIサービス -Noveroo-",
+    "link": "https://zenn.dev/yana22/articles/fc81742dc17193",
+    "pubDate": "Mon, 30 Jun 2025 11:08:10 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "積読おさらば。AIがあなたの「後で読む」をPodcastにする『Summaryme.ai』で、情報収集を劇的に効率化する",
     "link": "https://zenn.dev/hue/articles/zenn_ai_hackathon_202506",
     "pubDate": "Mon, 30 Jun 2025 10:40:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プロダクトに合わせたアーキテクチャの作り方と原則【読書ログ】",
-    "link": "https://zenn.dev/pandanoir/articles/13042e7a39557a",
-    "pubDate": "2025-06-30T09:51:09.000Z"
   },
   {
     "site": "Zenn",
@@ -58,12 +76,6 @@
     "title": "猫と開発する次世代のコーディングエージェント「Cat Code」の紹介",
     "link": "https://zenn.dev/kou_pg_0131/articles/cat-code-introduction",
     "pubDate": "Mon, 30 Jun 2025 09:00:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ドコモ、dアカウントの仕組みを2026年度末までに全面改修へ　複数回線で1アカウントを利用できるように",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2506/30/news116.html",
-    "pubDate": "2025-06-30T08:44:17.000Z"
   },
   {
     "site": "Qiita",
@@ -90,6 +102,12 @@
     "pubDate": "2025-06-30T00:14:59.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "MCPはAPIではない - 単純変換してはいけない理由 - 吉田の備忘録",
+    "link": "https://memo.tyoshida.me/power-platform/copilot-studio/mcp-is-not-api/",
+    "pubDate": "2025-06-29T23:05:28.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "MermaidでAWS構成図を作成するテクニック",
     "link": "https://qiita.com/b-mente/items/0172289e5b62645e550c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -102,10 +120,10 @@
     "pubDate": "Sun, 29 Jun 2025 16:34:03 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "[入門] PythonでuvとPEP 723を使うと開発体験が10倍向上する理由 - Qiita",
-    "link": "https://qiita.com/ShigemoriMasato/items/b254709391d2cbb1bbe6",
-    "pubDate": "2025-06-29T15:44:09.000Z"
+    "site": "Zenn",
+    "title": "開発プロセスをエミュレートする！Claude Codeの実践ガイド",
+    "link": "https://zenn.dev/loglass/articles/771ebf5dd7cc86",
+    "pubDate": "Sun, 29 Jun 2025 15:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -120,12 +138,6 @@
     "pubDate": "Sun, 29 Jun 2025 14:29:23 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Prismaの型処理を100倍ほど改善できるかもしれない知識",
-    "link": "https://zenn.dev/toyb0x/articles/b43251f6ce65fb",
-    "pubDate": "Sun, 29 Jun 2025 13:56:40 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "[連載] ネットワーク基礎 第0回 インフラエンジニアとネットワークエンジニアの本当の違い - Qiita",
     "link": "https://qiita.com/ShigemoriMasato/items/e661bb1740b384099142",
@@ -136,18 +148,6 @@
     "title": "[連載] ネットワーク基礎 第0回 インフラエンジニアとネットワークエンジニアの本当の違い",
     "link": "https://qiita.com/ShigemoriMasato/items/e661bb1740b384099142?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-29T12:55:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの「すぐルール忘れる問題」を解決する超効果的な方法を見つけた気がする",
-    "link": "https://zenn.dev/sesere/articles/0420ecec9526dc",
-    "pubDate": "Sun, 29 Jun 2025 10:33:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "“学び方から自分流” - AIで講義を創る勉強アプリを作ったよ[第2回 AI Agent Hackathon]",
-    "link": "https://zenn.dev/neka_nat/articles/4930d5d90c7d38",
-    "pubDate": "Sun, 29 Jun 2025 09:56:20 GMT"
   },
   {
     "site": "Qiita",
