@@ -1,9 +1,75 @@
 [
   {
     "site": "Hatena",
+    "title": "極度の睡眠不足で死ぬのはなぜ？　米国チームが2020年にハエで実験　“寝なくても死なない方法”も検証",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/01/news024.html",
+    "pubDate": "2025-06-30T23:38:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "JavaScript で Wasm 使ってるなら要注意！ そのメモリ、本当に解放されてますか？ - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/07/01/pitfalls-of-cpp-based-wasm",
+    "pubDate": "2025-06-30T23:21:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「人と話すのが嫌」「黙々とプログラミングしたい」という理由でプログラマーを目指してる人に小一時間くらい説教したくなる",
+    "link": "https://togetter.com/li/2570284",
+    "pubDate": "2025-06-30T22:24:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【悲報】Pixel 7が販売禁止に、特許侵害したGoogleの態度が悪いため。さらにPixel 8/9も販売禁止にするよう訴えられる - すまほん!!",
+    "link": "https://smhn.info/202506-google-pixel-7-ban",
+    "pubDate": "2025-06-30T15:42:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "HashiCorp創業者のミッチェル・ハシモト氏が打ち明ける、一緒に仕事をして最高だったクラウドベンダーはMS、Google、Amazonのどれだったか？",
+    "link": "https://www.publickey1.jp/blog/25/hashicorpmsgoogleamazon.html",
+    "pubDate": "2025-06-30T15:32:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple、iPhoneチップを搭載した廉価版MacBookの発売へ　早ければ年内にも量産：著名アナリスト - こぼねみ",
+    "link": "https://www.kobonemi.com/entry/2025/06/30/More-Affordable-MacBook-with-A18-Pro-Chip",
+    "pubDate": "2025-06-30T12:38:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "積読おさらば。AIがあなたの「後で読む」をPodcastにする『Summaryme.ai』で、情報収集を劇的に効率化する",
+    "link": "https://zenn.dev/hue/articles/zenn_ai_hackathon_202506",
+    "pubDate": "Mon, 30 Jun 2025 10:40:03 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "プロダクトに合わせたアーキテクチャの作り方と原則【読書ログ】",
+    "link": "https://zenn.dev/pandanoir/articles/13042e7a39557a",
+    "pubDate": "2025-06-30T09:51:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "プロダクトに合わせたアーキテクチャの作り方と原則【読書ログ】",
+    "link": "https://zenn.dev/pandanoir/articles/13042e7a39557a",
+    "pubDate": "Mon, 30 Jun 2025 09:34:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "猫と開発する次世代のコーディングエージェント「Cat Code」の紹介",
+    "link": "https://zenn.dev/kou_pg_0131/articles/cat-code-introduction",
+    "pubDate": "Mon, 30 Jun 2025 09:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "ドコモ、dアカウントの仕組みを2026年度末までに全面改修へ　複数回線で1アカウントを利用できるように",
     "link": "https://www.itmedia.co.jp/mobile/articles/2506/30/news116.html",
     "pubDate": "2025-06-30T08:44:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【TypeScript】結局、never型っていつ使うん？を考えてみた。",
+    "link": "https://qiita.com/rtkjm22/items/780e6832acb70f1efeb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-30T08:26:07.000Z"
   },
   {
     "site": "Qiita",
@@ -12,34 +78,10 @@
     "pubDate": "2025-06-30T07:30:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ついにテック業界にこの現実が…AIが人の仕事を奪い始めている",
-    "link": "https://www.gizmodo.jp/2025/06/ai-will-take-away-peoples-jobs.html",
-    "pubDate": "2025-06-30T06:56:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - textlint-ja/textlint-rule-preset-ai-writing: textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集",
-    "link": "https://github.com/textlint-ja/textlint-rule-preset-ai-writing",
-    "pubDate": "2025-06-30T02:53:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIが書いたコードをローカルでレビューできる「ReviewIt」を作った",
-    "link": "https://zenn.dev/yoshiko/articles/reviewit-for-local-code-review",
-    "pubDate": "2025-06-30T00:51:32.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIが書いたコードをローカルでレビューできる「ReviewIt」を作った",
     "link": "https://zenn.dev/yoshiko/articles/reviewit-for-local-code-review",
     "pubDate": "Mon, 30 Jun 2025 00:40:46 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "20年選手のエンジニアが「良いコード」を改めて学ぶために、最近の本を4冊買って読んでみた - give IT a try",
-    "link": "https://blog.jnito.com/entry/2025/06/30/074913",
-    "pubDate": "2025-06-30T00:26:05.000Z"
   },
   {
     "site": "Qiita",
@@ -48,22 +90,16 @@
     "pubDate": "2025-06-30T00:14:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI丸投げのゲーム開発が超楽しい　誰もがプログラムを作る時代は確実に来る (1/6)",
-    "link": "https://ascii.jp/elem/000/004/295/4295433/",
-    "pubDate": "2025-06-30T00:14:35.000Z"
+    "site": "Qiita",
+    "title": "MermaidでAWS構成図を作成するテクニック",
+    "link": "https://qiita.com/b-mente/items/0172289e5b62645e550c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-29T22:01:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "同人作家、作品をシリーズごとパクられて勝手に続きも出されてしまう「AI生成作品で作品コメント欄もほとんど丸パクリされてて驚愕」",
-    "link": "https://posfie.com/@Gingakei3334/p/O7oSmGc",
-    "pubDate": "2025-06-29T23:02:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Win 11対応PCを家族や友人に譲るなら、「Sysprep」で“不要なアプリを削除した初期化環境”を作るべし！【イニシャルB】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2024741.html",
-    "pubDate": "2025-06-29T21:28:21.000Z"
+    "site": "Zenn",
+    "title": "会話から「それ補助金貰えるかも」を通知するLINE Bot、ホジョキンTV エブリデイを制作しました【AI Agent Hackathon】",
+    "link": "https://zenn.dev/hitotori/articles/2116074aeadc71",
+    "pubDate": "Sun, 29 Jun 2025 16:34:03 GMT"
   },
   {
     "site": "Qiita",
@@ -79,9 +115,21 @@
   },
   {
     "site": "Zenn",
+    "title": "どっちを使う？Rustの&strとStringの違いを図解で学ぼう",
+    "link": "https://zenn.dev/collabostyle/articles/cfaf3316c8b32f",
+    "pubDate": "Sun, 29 Jun 2025 14:29:23 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Prismaの型処理を100倍ほど改善できるかもしれない知識",
     "link": "https://zenn.dev/toyb0x/articles/b43251f6ce65fb",
     "pubDate": "Sun, 29 Jun 2025 13:56:40 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "[連載] ネットワーク基礎 第0回 インフラエンジニアとネットワークエンジニアの本当の違い - Qiita",
+    "link": "https://qiita.com/ShigemoriMasato/items/e661bb1740b384099142",
+    "pubDate": "2025-06-29T13:06:39.000Z"
   },
   {
     "site": "Qiita",
@@ -103,57 +151,9 @@
   },
   {
     "site": "Qiita",
-    "title": "ITエンジニア面接でよく聞かれる質問と回答例まとめ",
-    "link": "https://qiita.com/SunSunTech/items/e467c0f7e35f04330341?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-29T09:42:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "全人類、いますぐ Discord Webhook を使いこなそう",
-    "link": "https://zenn.dev/oliver/articles/discord-webhook-guide",
-    "pubDate": "2025-06-29T07:42:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "全人類、いますぐ Discord Webhook を使いこなそう",
-    "link": "https://zenn.dev/oliver/articles/discord-webhook-guide",
-    "pubDate": "Sun, 29 Jun 2025 07:34:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【初心者向け】各種ツールで学ぶin silicoタンパク質デザイン 〜新規デザインから物性評価まで~",
-    "link": "https://zenn.dev/labcode/books/71b01f2557419e",
-    "pubDate": "Sat, 28 Jun 2025 23:36:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI駆動開発を支えるテスト重視の戦略を考える",
-    "link": "https://zenn.dev/t_kuni_0/articles/a540645553747a",
-    "pubDate": "Sat, 28 Jun 2025 23:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Route 53 プライベートホストゾーンへオンプレミスの DNS サーバーからサブドメインを委任できるようになったので試してみた",
-    "link": "https://qiita.com/takeda_h/items/b56718ee53fcbbf5740b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-28T17:49:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code x Gemini CLI x OpenAI o3 x 人間による、四位一体開発術",
-    "link": "https://zenn.dev/tksfjt1024/articles/ec2b985fc32c93",
-    "pubDate": "Sat, 28 Jun 2025 17:12:33 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "[入門] PythonでuvとPEP 723を使うと開発体験が10倍向上する理由",
     "link": "https://qiita.com/ShigemoriMasato/items/b254709391d2cbb1bbe6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-28T12:17:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Web Bluetooth API】Joy-Con 2 をプレゼンリモコンにする",
-    "link": "https://zenn.dev/mascii/articles/joy-con-2-web-bluetooth-api",
-    "pubDate": "Sat, 28 Jun 2025 11:14:54 GMT"
   },
   {
     "site": "Qiita",
