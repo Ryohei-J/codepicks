@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "トランプ大統領がイーロン・マスクの国外追放を示唆、DOGEにマスク氏の調査を求める",
-    "link": "https://gigazine.net/news/20250702-donald-trump-elon-musk/",
-    "pubDate": "2025-07-02T03:23:31.000Z"
+    "title": "テスト用に適当なドメインを注入したいときは .invalid を使うとよさそう - Lambdaカクテル",
+    "link": "https://blog.3qe.us/entry/2025/07/02/170320",
+    "pubDate": "2025-07-02T08:05:04.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Clineを200人で試してみた - モノタロウのAI駆動開発実践記 - MonotaRO Tech Blog",
-    "link": "https://tech-blog.monotaro.com/entry/2025/07/02/090000",
-    "pubDate": "2025-07-02T00:07:17.000Z"
+    "title": "一休の伊藤直也氏に聞く、フルベットしない技術ポートフォリオ戦略　〜実践から学ぶ、医療変革プラットフォーマーの次なる一手〜 - KAKEHASHI Tech Blog",
+    "link": "https://kakehashi-dev.hatenablog.com/entry/2025/07/02/150912",
+    "pubDate": "2025-07-02T06:38:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "再起動をかけてもダメだったPCを情シスが再起動したら直った話→同じ再起動でも指しているものが微妙に違う説「今は再起動とシャットダウンが別モノ」",
+    "link": "https://togetter.com/li/2570990",
+    "pubDate": "2025-07-02T05:12:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "X、検索結果からユーザー名を除外",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/02/news066.html",
+    "pubDate": "2025-07-02T04:45:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トランプ大統領がイーロン・マスクの国外追放を示唆、DOGEにマスク氏の調査を求める",
+    "link": "https://gigazine.net/news/20250702-donald-trump-elon-musk/",
+    "pubDate": "2025-07-02T03:23:31.000Z"
   },
   {
     "site": "Hatena",
@@ -36,22 +54,22 @@
     "pubDate": "2025-07-01T21:12:43.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code に全部賭けて個人開発(モバイル、ウェブ、拡張機能)を自動化した話 - 5万円吹っ飛んだ実録",
-    "link": "https://zenn.dev/ekusiadadus/articles/claude_code_mobile_web_extension",
-    "pubDate": "2025-07-01T14:26:18.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "BedrockのPDFサポートについて検証しましたが、、",
-    "link": "https://qiita.com/moritalous/items/54a3eb9a410a41d04b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-01T11:39:08.000Z"
+    "title": "（怒られたら消します）AWS Summit期間限定アーカイブ動画の直リンク",
+    "link": "https://qiita.com/moritalous/items/3dfd08834a67535d3012?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-01T15:00:19.000Z"
   },
   {
     "site": "Zenn",
-    "title": "最強のCSVエディタ「SmoothCSV」を支える技術",
-    "link": "https://zenn.dev/kohii/articles/23fee770d7dbe8",
-    "pubDate": "2025-07-01T09:16:07.000Z"
+    "title": "bfloat16 (brain float16) のCPUによる対応とC言語からの利用",
+    "link": "https://zenn.dev/mod_poppo/articles/brain-float16",
+    "pubDate": "Tue, 01 Jul 2025 11:05:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI駆動開発で受託案件のデリバリー・保守をして感じたこと",
+    "link": "https://zenn.dev/keisukee/articles/20250613_ccf53a0f90e3d6",
+    "pubDate": "Tue, 01 Jul 2025 10:56:16 GMT"
   },
   {
     "site": "Qiita",
@@ -60,16 +78,10 @@
     "pubDate": "2025-07-01T08:37:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "商用も無償、とにかくインパクト重視のヘヴィ級ゴシック体「源暎きわみゴ」がリリース／収録文字数は漢字約7,800文字を含む全9,470文字",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2026726.html",
-    "pubDate": "2025-07-01T07:33:56.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "え、プロジェクトチャーターがないって？消火器をもってくるんだ！",
-    "link": "https://qiita.com/hokutohagi/items/7319c5693efb3f940edf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-01T06:32:01.000Z"
+    "title": "AmazonBedrockとPlayWrightMCPで始める日本語E2Eテスト",
+    "link": "https://qiita.com/na7na/items/8fcb99a681145c34d4c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-01T07:42:39.000Z"
   },
   {
     "site": "Zenn",
@@ -82,12 +94,6 @@
     "title": "Claude Code Hooksでterminal-notifierを使った完了通知を設定する方法",
     "link": "https://zenn.dev/yuru_log/articles/claude-code-hooks-terminal-notifier-guide",
     "pubDate": "Tue, 01 Jul 2025 03:55:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "複数の dbt プロジェクトに対応！ dbt-docs を Snowflake で効率的にホスティングする方法（SiS vs SPCS）",
-    "link": "https://zenn.dev/finatext/articles/47ecbc303d2b0e",
-    "pubDate": "Tue, 01 Jul 2025 02:40:59 GMT"
   },
   {
     "site": "Zenn",
@@ -112,6 +118,12 @@
     "title": "最強のCSVエディタ「SmoothCSV」を支える技術",
     "link": "https://zenn.dev/kohii/articles/23fee770d7dbe8",
     "pubDate": "Mon, 30 Jun 2025 22:58:46 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "あなたのモダン技術、5年後にはあなたは理解できなくなります",
+    "link": "https://qiita.com/quantumshiro/items/8cccd2a77fdf70a9ed95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-30T22:24:37.000Z"
   },
   {
     "site": "Zenn",
@@ -144,22 +156,10 @@
     "pubDate": "Mon, 30 Jun 2025 10:40:03 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "プロダクトに合わせたアーキテクチャの作り方と原則【読書ログ】",
-    "link": "https://zenn.dev/pandanoir/articles/13042e7a39557a",
-    "pubDate": "Mon, 30 Jun 2025 09:34:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【TypeScript】結局、never型っていつ使うん？を考えてみた。",
     "link": "https://qiita.com/rtkjm22/items/780e6832acb70f1efeb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-30T08:26:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIでUIはどこまで作れる？UI自動生成ツール4つ実際に使って比較してみた",
-    "link": "https://qiita.com/tanay/items/d9d5815e066f11f3f652?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-30T07:30:31.000Z"
   },
   {
     "site": "Qiita",
