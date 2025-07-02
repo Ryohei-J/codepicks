@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "メタバースは終わってしまったのか？　“コロナ禍後の仮想空間”の現在地　日常として定着しないワケ",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/02/news034.html",
+    "pubDate": "2025-07-01T23:11:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ドメインを捨ててしまうとこうなる」とある企業がドメインを維持せずに放棄したところ、何者かにドメインを取得され、QRコードを読み取ったら不審なWEBサイトに繋がる事態に",
+    "link": "https://togetter.com/li/2570858",
+    "pubDate": "2025-07-01T22:49:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "老舗コンピュータ書籍出版社の秀和システムが事業終了、8月末に新刊を予定していた著者はどうしたらいいんでしょうか？（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2025/07/02/4457.html",
+    "pubDate": "2025-07-01T22:36:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code に全部賭けて個人開発(モバイル、ウェブ、拡張機能)を自動化した話 - 5万円吹っ飛んだ実録",
+    "link": "https://zenn.dev/ekusiadadus/articles/claude_code_mobile_web_extension",
+    "pubDate": "2025-07-01T14:26:18.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "SmoothCSV - macOS & Windows 向けの最強のCSVエディター",
     "link": "https://smoothcsv.com/ja/",
     "pubDate": "2025-07-01T12:03:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "BedrockのPDFサポートについて検証しましたが、、",
+    "link": "https://qiita.com/moritalous/items/54a3eb9a410a41d04b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-01T11:39:08.000Z"
   },
   {
     "site": "Hatena",
@@ -18,6 +48,12 @@
     "pubDate": "2025-07-01T09:16:07.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】第1章：『ピカチュウ、君に決めた！』～クラス～",
+    "link": "https://qiita.com/hitomin_poke/items/8997a916452dd069742c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-01T08:37:40.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "商用も無償、とにかくインパクト重視のヘヴィ級ゴシック体「源暎きわみゴ」がリリース／収録文字数は漢字約7,800文字を含む全9,470文字",
     "link": "https://forest.watch.impress.co.jp/docs/news/2026726.html",
@@ -25,21 +61,39 @@
   },
   {
     "site": "Zenn",
-    "title": "【RAG】大企業の「暗黙知」を、AIで自動で「形式知」に",
-    "link": "https://zenn.dev/knowledgesense/articles/33a8aabff4d35c",
-    "pubDate": "2025-07-01T04:13:46.000Z"
+    "title": "Claude Code の /hooks コマンドを使って、承認依頼とタスク完了時にスマホへ通知を飛ばす",
+    "link": "https://zenn.dev/keit0728/articles/bfb68f669755a7",
+    "pubDate": "Tue, 01 Jul 2025 06:18:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Amazon倉庫の見学ツアー、日本でも開始",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2027250.html",
-    "pubDate": "2025-07-01T03:18:35.000Z"
+    "site": "Zenn",
+    "title": "Claude Code Hooksでterminal-notifierを使った完了通知を設定する方法",
+    "link": "https://zenn.dev/yuru_log/articles/claude-code-hooks-terminal-notifier-guide",
+    "pubDate": "Tue, 01 Jul 2025 03:55:59 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "極度の睡眠不足で死ぬのはなぜ？　米国チームが2020年にハエで実験　“寝なくても死なない方法”も検証",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/01/news024.html",
-    "pubDate": "2025-06-30T23:38:02.000Z"
+    "site": "Zenn",
+    "title": "複数の dbt プロジェクトに対応！ dbt-docs を Snowflake で効率的にホスティングする方法（SiS vs SPCS）",
+    "link": "https://zenn.dev/finatext/articles/47ecbc303d2b0e",
+    "pubDate": "Tue, 01 Jul 2025 02:40:59 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "システムエンジニア（SE）の平均年収を徹底解説！年代・職種・地域・経験別の目安",
+    "link": "https://qiita.com/SunSunTech/items/29c001a8f7ec0f2c6220?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-01T02:35:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "97.5%の精度を実現！Gmailで動く反社チェックAIを1日で作ってみた",
+    "link": "https://zenn.dev/finatext/articles/4d8a03e8807c44",
+    "pubDate": "Tue, 01 Jul 2025 01:11:52 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ObsidianとGemini CLIで知識を育てる：第二の脳を構築する実践ガイド",
+    "link": "https://zenn.dev/yydevelop/articles/ad64af8c1a6ae5",
+    "pubDate": "2025-06-30T23:38:46.000Z"
   },
   {
     "site": "Zenn",
@@ -66,16 +120,16 @@
     "pubDate": "2025-06-30T15:44:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【50歳からのAI学習】50歳からのAI開発スキル習得｜Gemini CLIのWindows導入記 - uepon日々の備忘録",
-    "link": "https://uepon.hatenadiary.com/entry/2025/06/28/234130",
-    "pubDate": "2025-06-30T14:04:24.000Z"
+    "site": "Zenn",
+    "title": "ObsidianとGemini CLIで知識を育てる：第二の脳を構築する実践ガイド",
+    "link": "https://zenn.dev/yydevelop/articles/ad64af8c1a6ae5",
+    "pubDate": "Mon, 30 Jun 2025 13:18:18 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「学んだつもり」を「体験」に変える。学びのためのシミュレーションゲーム生成AIサービス -Noveroo-",
-    "link": "https://zenn.dev/yana22/articles/fc81742dc17193",
-    "pubDate": "Mon, 30 Jun 2025 11:08:10 GMT"
+    "site": "Qiita",
+    "title": "【小ネタ】GitとVSCodeがあればWindowsでもClaude Codeを使えるぅ！（WSLもいらない）",
+    "link": "https://qiita.com/moritalous/items/cc0dbe71b36f6b108614?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-30T12:01:21.000Z"
   },
   {
     "site": "Zenn",
@@ -84,28 +138,10 @@
     "pubDate": "Mon, 30 Jun 2025 10:40:03 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "RailsのERBとJavaのthymeleafにおけるオブジェクト反復処理の違い",
-    "link": "https://qiita.com/k12da/items/20bd5bf97f23ed5fc4a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-30T10:28:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【非エンジニア向け】営業こそGeminiを使おう！明日から試せる業務効率化シナリオ",
-    "link": "https://qiita.com/hirokiii27/items/97866f584cfdddf23407?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-30T09:51:53.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "プロダクトに合わせたアーキテクチャの作り方と原則【読書ログ】",
     "link": "https://zenn.dev/pandanoir/articles/13042e7a39557a",
     "pubDate": "Mon, 30 Jun 2025 09:34:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "猫と開発する次世代のコーディングエージェント「Cat Code」の紹介",
-    "link": "https://zenn.dev/kou_pg_0131/articles/cat-code-introduction",
-    "pubDate": "Mon, 30 Jun 2025 09:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -118,12 +154,6 @@
     "title": "AIでUIはどこまで作れる？UI自動生成ツール4つ実際に使って比較してみた",
     "link": "https://qiita.com/tanay/items/d9d5815e066f11f3f652?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-30T07:30:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIが書いたコードをローカルでレビューできる「ReviewIt」を作った",
-    "link": "https://zenn.dev/yoshiko/articles/reviewit-for-local-code-review",
-    "pubDate": "Mon, 30 Jun 2025 00:40:46 GMT"
   },
   {
     "site": "Qiita",
@@ -144,39 +174,9 @@
     "pubDate": "2025-06-29T21:18:09.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "会話から「それ補助金貰えるかも」を通知するLINE Bot、ホジョキンTV エブリデイを制作しました【AI Agent Hackathon】",
-    "link": "https://zenn.dev/hitotori/articles/2116074aeadc71",
-    "pubDate": "Sun, 29 Jun 2025 16:34:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発プロセスをエミュレートする！Claude Codeの実践ガイド",
-    "link": "https://zenn.dev/loglass/articles/771ebf5dd7cc86",
-    "pubDate": "Sun, 29 Jun 2025 15:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "[連載] ネットワーク基礎 第0回 インフラエンジニアとネットワークエンジニアの本当の違い - Qiita",
-    "link": "https://qiita.com/ShigemoriMasato/items/e661bb1740b384099142",
-    "pubDate": "2025-06-29T13:06:39.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "[連載] ネットワーク基礎 第0回 インフラエンジニアとネットワークエンジニアの本当の違い",
     "link": "https://qiita.com/ShigemoriMasato/items/e661bb1740b384099142?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-29T12:55:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[入門] PythonでuvとPEP 723を使うと開発体験が10倍向上する理由",
-    "link": "https://qiita.com/ShigemoriMasato/items/b254709391d2cbb1bbe6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-28T12:17:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ご報告】遠距離恋愛にアジャイルを応用して結婚しました",
-    "link": "https://qiita.com/mkt_hanada/items/04c9e040c8b4131a3948?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-28T09:43:51.000Z"
   }
 ]
