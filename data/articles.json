@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "瞳の裏のスクリーンセーバー",
+    "link": "https://anond.hatelabo.jp/20250703222636",
+    "pubDate": "2025-07-03T13:28:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude CodeではじめるAgentic Coding入門 - Sansan Tech Blog",
+    "link": "https://buildersbox.corp-sansan.com/entry/2025/07/03/142500",
+    "pubDate": "2025-07-03T11:21:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソフトウェアエンジニアリングの人類史 〜AIエージェント時代の知識創造企業〜",
+    "link": "https://hirokidaichi.github.io/presentation/prod.html",
+    "pubDate": "2025-07-03T11:06:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグルが「Pixel 6a」でバッテリー無料交換プログラム",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2028006.html",
+    "pubDate": "2025-07-03T08:35:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "開発にも運用にも使える「Gemini CLI」が便利すぎてやばい【生成AIストリーム】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2028156.html",
+    "pubDate": "2025-07-03T07:51:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「AI社外取締役」爆誕へ　孫氏の知識体系をプリセットした永遠の42歳、三谷産業のアドバイザーに",
     "link": "https://www.itmedia.co.jp/news/articles/2507/03/news097.html",
     "pubDate": "2025-07-03T07:26:14.000Z"
@@ -13,21 +43,15 @@
   },
   {
     "site": "Hatena",
+    "title": "最強の国産CSVエディター「SmoothCSV 3」、「Tauri」ベースでWindows/Mac/Linux対応／SQLコンソール、ビジュアルクエリビルダー、コマンドパレットなどの魅力的な機能も",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2028024.html",
+    "pubDate": "2025-07-03T06:31:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「ぷよぷよプログラミング」セガ公式のガイドブック発売へ　最新版のソースコード全文掲載",
     "link": "https://www.itmedia.co.jp/news/articles/2507/03/news072.html",
     "pubDate": "2025-07-03T04:03:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "それやったら爆発するよ？機械科の人が提案した電池が海水に金属ナトリウムを漬けると言い始め、怖い先生が苦笑してた話「電池じゃなくて爆弾作ってる」",
-    "link": "https://togetter.com/li/2571432",
-    "pubDate": "2025-07-03T03:58:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マイクロソフト さらに9000人規模の従業員 削減の方針 | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250703/k10014852511000.html",
-    "pubDate": "2025-07-03T02:37:28.000Z"
   },
   {
     "site": "Hatena",
@@ -37,27 +61,9 @@
   },
   {
     "site": "Zenn",
-    "title": "登壇スライド作成もClaude Codeに任せたい 〜家でも外でも移動中も〜",
-    "link": "https://zenn.dev/loglass/articles/a8b4b069c09002",
-    "pubDate": "2025-07-02T16:23:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIに仕様書を読ませるとテストケースを自動生成、テストコードも書いてくれる「Autify Nexus」、Autifyが発表",
-    "link": "https://www.publickey1.jp/blog/25/aiautify_nexusautify.html",
-    "pubDate": "2025-07-02T15:42:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI作曲支援アプリ「Amadeus Topline(アマデウス・トップライン)」が大幅に進化",
-    "link": "https://prtimes.jp/main/html/rd/p/000000004.000096805.html",
-    "pubDate": "2025-07-02T14:56:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "t-wada vs テスト大好郎",
-    "link": "https://blog.lai.so/t-wada-vs-tesuto-daisuki-rou/",
-    "pubDate": "2025-07-02T14:31:32.000Z"
+    "title": "TypeGPU入門",
+    "link": "https://zenn.dev/emadurandal/books/e5a5db5066ec17",
+    "pubDate": "Wed, 02 Jul 2025 15:27:35 GMT"
   },
   {
     "site": "Qiita",
@@ -160,12 +166,6 @@
     "title": "Claude Code の /hooks コマンドを使って、承認依頼とタスク完了時にスマホへ通知を飛ばす",
     "link": "https://zenn.dev/keit0728/articles/bfb68f669755a7",
     "pubDate": "Tue, 01 Jul 2025 06:18:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "97.5%の精度を実現！Gmailで動く反社チェックAIを1日で作ってみた",
-    "link": "https://zenn.dev/finatext/articles/4d8a03e8807c44",
-    "pubDate": "Tue, 01 Jul 2025 01:11:52 GMT"
   },
   {
     "site": "Qiita",
