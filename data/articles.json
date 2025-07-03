@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "Still X.S.S. - なぜいまだにXSSは生まれてしまうのか？ - GMO Flatt Security Blog",
-    "link": "https://blog.flatt.tech/entry/still_xss",
-    "pubDate": "2025-07-02T09:50:44.000Z"
+    "title": "AIは励まされると頑張れるらしいので、いろんな方法で奨励してみた。 - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/07/03/090000",
+    "pubDate": "2025-07-03T00:06:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "登壇スライド作成もClaude Codeに任せたい 〜家でも外でも移動中も〜",
+    "link": "https://zenn.dev/loglass/articles/a8b4b069c09002",
+    "pubDate": "2025-07-02T16:23:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI作曲支援アプリ「Amadeus Topline(アマデウス・トップライン)」が大幅に進化",
+    "link": "https://prtimes.jp/main/html/rd/p/000000004.000096805.html",
+    "pubDate": "2025-07-02T14:56:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "t-wada vs テスト大好郎",
+    "link": "https://blog.lai.so/t-wada-vs-tesuto-daisuki-rou/",
+    "pubDate": "2025-07-02T14:31:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "農協はなぜ当面は必要か",
+    "link": "https://anond.hatelabo.jp/20250702201042",
+    "pubDate": "2025-07-02T11:11:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeとGemini CLIで対話させると雑プロンプトでもかなりいい感じの出力が出る気がする",
+    "link": "https://zenn.dev/suthio/articles/9a44061200b733",
+    "pubDate": "2025-07-02T09:43:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 変数と代入？～プログラミングの壁～",
+    "link": "https://qiita.com/hitomin_poke/items/ac5883cc72d610b518d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-02T08:55:16.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +48,10 @@
     "pubDate": "2025-07-02T08:05:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「ファイル共有ソフトで知らぬ間に著作権侵害」数十万円の示談金請求された例も　国民生活センターが注意喚起",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/02/news082.html",
-    "pubDate": "2025-07-02T07:32:11.000Z"
+    "site": "Zenn",
+    "title": "AIの暴走を防ぐ！Claude Codeで危険なコマンド rm -rf を禁止する安全設定 🛡️",
+    "link": "https://zenn.dev/taiyogakuse/articles/claude-safe-command",
+    "pubDate": "Wed, 02 Jul 2025 07:01:26 GMT"
   },
   {
     "site": "Hatena",
@@ -24,10 +60,16 @@
     "pubDate": "2025-07-02T06:38:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "競技プログラミングと生成AIの今 2025/07/02版 - chokudaiのブログ",
-    "link": "https://chokudai.hatenablog.com/entry/2025/07/02/151841",
-    "pubDate": "2025-07-02T06:32:46.000Z"
+    "site": "Zenn",
+    "title": "登壇スライド作成もClaude Codeに任せたい 〜家でも外でも移動中も〜",
+    "link": "https://zenn.dev/loglass/articles/a8b4b069c09002",
+    "pubDate": "Wed, 02 Jul 2025 06:06:33 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2025年最新】Postman代替APIテストツール最新ランキング",
+    "link": "https://qiita.com/naoki_2020/items/452a928d4e3675b8eb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-02T06:04:20.000Z"
   },
   {
     "site": "Hatena",
@@ -36,28 +78,46 @@
     "pubDate": "2025-07-02T05:12:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "X、検索結果からユーザー名を除外",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/02/news066.html",
-    "pubDate": "2025-07-02T04:45:25.000Z"
+    "site": "Zenn",
+    "title": "claude --resumeをもっと使いやすくするCLIツール、「ccresume」を作った",
+    "link": "https://zenn.dev/sasazame/articles/3634040f7fb4da",
+    "pubDate": "2025-07-02T04:40:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "トランプ大統領がイーロン・マスクの国外追放を示唆、DOGEにマスク氏の調査を求める",
-    "link": "https://gigazine.net/news/20250702-donald-trump-elon-musk/",
-    "pubDate": "2025-07-02T03:23:31.000Z"
+    "site": "Zenn",
+    "title": "claude --resumeをもっと使いやすくするCLIツール、「ccresume」を作った",
+    "link": "https://zenn.dev/sasazame/articles/3634040f7fb4da",
+    "pubDate": "Wed, 02 Jul 2025 03:13:53 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "メタバースは終わってしまったのか？　“コロナ禍後の仮想空間”の現在地　日常として定着しないワケ",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/02/news034.html",
-    "pubDate": "2025-07-01T23:11:02.000Z"
+    "site": "Zenn",
+    "title": "Firestore → Cloud SpannerでDBコスト93%削減！無停止でやり切った 1 年間の全記録",
+    "link": "https://zenn.dev/kauche/articles/1e733da3748ee1",
+    "pubDate": "Wed, 02 Jul 2025 03:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 でかいデスクトップPCはもう不要か？ミニPCで解決できるか検証した結果……",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2027515.html",
-    "pubDate": "2025-07-01T21:12:43.000Z"
+    "site": "Qiita",
+    "title": "「継続のコツ」はポケモンスリープが教えてくれた",
+    "link": "https://qiita.com/nagasawamasami/items/0a0344e18e1db16cd195?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-02T01:08:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "人間をプロンプトインジェクション攻撃する Gemini",
+    "link": "https://zenn.dev/carenet/articles/e7780fc0253d89",
+    "pubDate": "Wed, 02 Jul 2025 01:00:27 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": " [速習] 米国が騒ぐ「AI週4日勤務」を、日本人は既に実現していた件",
+    "link": "https://qiita.com/ShigemoriMasato/items/a2b81b00ed2d027a8720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-01T21:47:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Ruby で大規模 CSV を高速に処理するためのパーサー比較",
+    "link": "https://qiita.com/naomichi-y/items/285213f235fa55fa8c24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-01T18:45:29.000Z"
   },
   {
     "site": "Qiita",
@@ -67,27 +127,9 @@
   },
   {
     "site": "Zenn",
-    "title": "bfloat16 (brain float16) のCPUによる対応とC言語からの利用",
-    "link": "https://zenn.dev/mod_poppo/articles/brain-float16",
-    "pubDate": "Tue, 01 Jul 2025 11:05:29 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "AI駆動開発で受託案件のデリバリー・保守をして感じたこと",
     "link": "https://zenn.dev/keisukee/articles/20250613_ccf53a0f90e3d6",
     "pubDate": "Tue, 01 Jul 2025 10:56:16 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】第1章：『ピカチュウ、君に決めた！』～クラス～",
-    "link": "https://qiita.com/hitomin_poke/items/8997a916452dd069742c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-01T08:37:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AmazonBedrockとPlayWrightMCPで始める日本語E2Eテスト",
-    "link": "https://qiita.com/na7na/items/8fcb99a681145c34d4c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-01T07:42:39.000Z"
   },
   {
     "site": "Zenn",
@@ -114,52 +156,16 @@
     "pubDate": "Mon, 30 Jun 2025 23:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "最強のCSVエディタ「SmoothCSV」を支える技術",
-    "link": "https://zenn.dev/kohii/articles/23fee770d7dbe8",
-    "pubDate": "Mon, 30 Jun 2025 22:58:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "あなたのモダン技術、5年後にはあなたは理解できなくなります",
-    "link": "https://qiita.com/quantumshiro/items/8cccd2a77fdf70a9ed95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-30T22:24:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code に全部賭けて個人開発(モバイル、ウェブ、拡張機能)を自動化した話 - 5万円吹っ飛んだ実録",
-    "link": "https://zenn.dev/ekusiadadus/articles/claude_code_mobile_web_extension",
-    "pubDate": "Mon, 30 Jun 2025 16:23:48 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Proプランでも使えるようになった「GitHub Copilot coding agent」を試してみた",
-    "link": "https://qiita.com/youtoy/items/519ce094e794248673a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-30T15:44:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ObsidianとGemini CLIで知識を育てる：第二の脳を構築する実践ガイド",
-    "link": "https://zenn.dev/yydevelop/articles/ad64af8c1a6ae5",
-    "pubDate": "Mon, 30 Jun 2025 13:18:18 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【小ネタ】GitとVSCodeがあればWindowsでもClaude Codeを使えるぅ！（WSLもいらない）",
     "link": "https://qiita.com/moritalous/items/cc0dbe71b36f6b108614?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-30T12:01:21.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "積読おさらば。AIがあなたの「後で読む」をPodcastにする『Summaryme.ai』で、情報収集を劇的に効率化する",
-    "link": "https://zenn.dev/hue/articles/zenn_ai_hackathon_202506",
-    "pubDate": "Mon, 30 Jun 2025 10:40:03 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "【TypeScript】結局、never型っていつ使うん？を考えてみた。",
-    "link": "https://qiita.com/rtkjm22/items/780e6832acb70f1efeb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-30T08:26:07.000Z"
+    "title": "【AI slop】AI生成によるゴミをプルリクするのをやめろ",
+    "link": "https://qiita.com/rana_kualu/items/6b1f09786038e894970e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-30T11:44:12.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "[連載] ネットワーク基礎 第1回  基本設計の重要性とネットワーク構築の全体像",
     "link": "https://qiita.com/ShigemoriMasato/items/a7155e982941e8ad84fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-29T21:18:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[連載] ネットワーク基礎 第0回 インフラエンジニアとネットワークエンジニアの本当の違い",
-    "link": "https://qiita.com/ShigemoriMasato/items/e661bb1740b384099142?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-06-29T12:55:02.000Z"
   }
 ]
