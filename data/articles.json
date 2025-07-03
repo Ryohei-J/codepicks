@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "それやったら爆発するよ？機械科の人が提案した電池が海水に金属ナトリウムを漬けると言い始め、怖い先生が苦笑してた話「電池じゃなくて爆弾作ってる」",
+    "link": "https://togetter.com/li/2571432",
+    "pubDate": "2025-07-03T03:58:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マイクロソフト さらに9000人規模の従業員 削減の方針 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250703/k10014852511000.html",
+    "pubDate": "2025-07-03T02:37:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIは励まされると頑張れるらしいので、いろんな方法で奨励してみた。 - カミナシ エンジニアブログ",
     "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/07/03/090000",
     "pubDate": "2025-07-03T00:06:44.000Z"
@@ -10,6 +22,12 @@
     "title": "登壇スライド作成もClaude Codeに任せたい 〜家でも外でも移動中も〜",
     "link": "https://zenn.dev/loglass/articles/a8b4b069c09002",
     "pubDate": "2025-07-02T16:23:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIに仕様書を読ませるとテストケースを自動生成、テストコードも書いてくれる「Autify Nexus」、Autifyが発表",
+    "link": "https://www.publickey1.jp/blog/25/aiautify_nexusautify.html",
+    "pubDate": "2025-07-02T15:42:58.000Z"
   },
   {
     "site": "Hatena",
@@ -30,12 +48,6 @@
     "pubDate": "2025-07-02T11:11:38.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude CodeとGemini CLIで対話させると雑プロンプトでもかなりいい感じの出力が出る気がする",
-    "link": "https://zenn.dev/suthio/articles/9a44061200b733",
-    "pubDate": "2025-07-02T09:43:45.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【ポケモン×Java】知識編 変数と代入？～プログラミングの壁～",
     "link": "https://qiita.com/hitomin_poke/items/ac5883cc72d610b518d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -54,12 +66,6 @@
     "pubDate": "Wed, 02 Jul 2025 07:01:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "一休の伊藤直也氏に聞く、フルベットしない技術ポートフォリオ戦略　〜実践から学ぶ、医療変革プラットフォーマーの次なる一手〜 - KAKEHASHI Tech Blog",
-    "link": "https://kakehashi-dev.hatenablog.com/entry/2025/07/02/150912",
-    "pubDate": "2025-07-02T06:38:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "登壇スライド作成もClaude Codeに任せたい 〜家でも外でも移動中も〜",
     "link": "https://zenn.dev/loglass/articles/a8b4b069c09002",
@@ -70,12 +76,6 @@
     "title": "【2025年最新】Postman代替APIテストツール最新ランキング",
     "link": "https://qiita.com/naoki_2020/items/452a928d4e3675b8eb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-02T06:04:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "再起動をかけてもダメだったPCを情シスが再起動したら直った話→同じ再起動でも指しているものが微妙に違う説「今は再起動とシャットダウンが別モノ」",
-    "link": "https://togetter.com/li/2570990",
-    "pubDate": "2025-07-02T05:12:53.000Z"
   },
   {
     "site": "Zenn",
@@ -120,10 +120,10 @@
     "pubDate": "2025-07-01T18:45:29.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "（怒られたら消します）AWS Summit期間限定アーカイブ動画の直リンク",
-    "link": "https://qiita.com/moritalous/items/3dfd08834a67535d3012?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-01T15:00:19.000Z"
+    "site": "Zenn",
+    "title": "bfloat16 (brain float16) のCPUによる対応とC言語からの利用",
+    "link": "https://zenn.dev/mod_poppo/articles/brain-float16",
+    "pubDate": "Tue, 01 Jul 2025 11:05:29 GMT"
   },
   {
     "site": "Zenn",
@@ -145,12 +145,6 @@
   },
   {
     "site": "Zenn",
-    "title": "97.5%の精度を実現！Gmailで動く反社チェックAIを1日で作ってみた",
-    "link": "https://zenn.dev/finatext/articles/4d8a03e8807c44",
-    "pubDate": "Tue, 01 Jul 2025 01:11:52 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "【RAG】大企業の「暗黙知」を、AIで自動で「形式知」に",
     "link": "https://zenn.dev/knowledgesense/articles/33a8aabff4d35c",
     "pubDate": "Mon, 30 Jun 2025 23:00:01 GMT"
@@ -166,6 +160,12 @@
     "title": "【AI slop】AI生成によるゴミをプルリクするのをやめろ",
     "link": "https://qiita.com/rana_kualu/items/6b1f09786038e894970e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-06-30T11:44:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【TypeScript】結局、never型っていつ使うん？を考えてみた。",
+    "link": "https://qiita.com/rtkjm22/items/780e6832acb70f1efeb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-06-30T08:26:07.000Z"
   },
   {
     "site": "Qiita",
