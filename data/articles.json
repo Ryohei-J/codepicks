@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "ソフトウェアエンジニアが実践する情報収集術 | Wantedly Engineer Blog",
+    "link": "https://www.wantedly.com/companies/wantedly/post_articles/985502",
+    "pubDate": "2025-07-04T08:26:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "初心者でも分かる！VSCodeでGemini CLIを使いこなす方法 - インストールから応用まで徹底解説",
+    "link": "https://qiita.com/Nakamura-Kaito/items/122963855d7b1deb8a9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-04T06:59:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【朗報？】“おじさんエンジニアが反応しそうな漢字”が発見されて「X」でちょい話題に／ただし、音義・用法いずれも不明【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2028152.html",
+    "pubDate": "2025-07-04T06:43:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "企画を通すなら「生成AIで作ったプロトタイプ」付きで――DeNAが一部部署で　“書類だけ”はNGに",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2507/04/news070.html",
     "pubDate": "2025-07-04T03:07:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "BI as Code実践: AI + StreamlitでBIダッシュボードを構築する - 概論編",
+    "link": "https://zenn.dev/shibatanaoto/books/4c6f379a873737",
+    "pubDate": "Fri, 04 Jul 2025 01:19:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cursor 1.2 まとめ",
+    "link": "https://zenn.dev/horisan/articles/c14a981e8f4bc6",
+    "pubDate": "Fri, 04 Jul 2025 00:43:58 GMT"
   },
   {
     "site": "Zenn",
@@ -18,10 +48,28 @@
     "pubDate": "2025-07-03T22:07:11.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeの指示忘れ問題を解決！HooksでPython環境をpip禁止＆uv統一にする",
+    "link": "https://zenn.dev/gotalab/articles/2fe8d7a15409c8",
+    "pubDate": "Thu, 03 Jul 2025 20:40:01 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "iOS26、ビデオ通話中の裸体検出で通話を停止。子ども保護機能のはずが大人でも動作 - iPhone Mania",
     "link": "https://iphone-mania.jp/ios-596220/",
     "pubDate": "2025-07-03T15:56:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「チームみらい」公認候補予定者一覧 ｜#安野たかひろ スタッフ＠ #チームみらい 【公式】",
+    "link": "https://note.com/annotakahiro24/n/ncf0e8aa9d253",
+    "pubDate": "2025-07-03T15:53:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code がインストールしていないツールを使いこなしている！？",
+    "link": "https://zenn.dev/kosuke_naito/articles/claude-code-ripgrep",
+    "pubDate": "Thu, 03 Jul 2025 14:27:22 GMT"
   },
   {
     "site": "Zenn",
@@ -30,10 +78,10 @@
     "pubDate": "Thu, 03 Jul 2025 13:27:18 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude CodeではじめるAgentic Coding入門 - Sansan Tech Blog",
-    "link": "https://buildersbox.corp-sansan.com/entry/2025/07/03/142500",
-    "pubDate": "2025-07-03T11:21:22.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeの「すぐルール忘れる問題」をHooksで解決する",
+    "link": "https://zenn.dev/kazuph/articles/483d6cf5f3798c",
+    "pubDate": "Thu, 03 Jul 2025 13:15:48 GMT"
   },
   {
     "site": "Hatena",
@@ -46,24 +94,6 @@
     "title": "Cursor × Claude で、ローカルファイルを操作する E2E テストを実装した話",
     "link": "https://zenn.dev/medley/articles/2227e5dda798b8",
     "pubDate": "Thu, 03 Jul 2025 09:47:25 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "開発にも運用にも使える「Gemini CLI」が便利すぎてやばい【生成AIストリーム】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2028156.html",
-    "pubDate": "2025-07-03T07:51:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Oracle Cloud Analytics：AIアシスタントを使って自然言語でダッシュボード作成してみた",
-    "link": "https://qiita.com/yushibat/items/ee243b6cd7cb5c387b98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-03T07:14:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ケント・ベック氏講演録：『グッドハートの法則は楽観的すぎた〜開発生産性の罠と未来〜』 - jgeem",
-    "link": "https://scrapbox.io/jgeem/%E3%82%B1%E3%83%B3%E3%83%88%E3%83%BB%E3%83%99%E3%83%83%E3%82%AF%E6%B0%8F%E8%AC%9B%E6%BC%94%E9%8C%B2%EF%BC%9A%E3%80%8E%E3%82%B0%E3%83%83%E3%83%89%E3%83%8F%E3%83%BC%E3%83%88%E3%81%AE%E6%B3%95%E5%89%87%E3%81%AF%E6%A5%BD%E8%A6%B3%E7%9A%84%E3%81%99%E3%81%8E%E3%81%9F%E3%80%9C%E9%96%8B%E7%99%BA%E7%94%9F%E7%94%A3%E6%80%A7%E3%81%AE%E7%BD%A0%E3%81%A8%E6%9C%AA%E6%9D%A5%E3%80%9C%E3%80%8F",
-    "pubDate": "2025-07-03T06:38:27.000Z"
   },
   {
     "site": "Zenn",
@@ -85,15 +115,27 @@
   },
   {
     "site": "Qiita",
+    "title": "MacとiPhoneで実現するスマホバイブコーディング",
+    "link": "https://qiita.com/hoshi7_n/items/58dcbd88b6ffc57c6dcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-03T04:58:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【入門】自然言語処理と検索技術の構造を理解する",
+    "link": "https://qiita.com/hirokiii27/items/05f83890caaa74ad32ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-03T04:07:15.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "応用情報を逆に2年かけて合格する学習方法。コンピュータサイエンスの体系的学習と、長期記憶への定着",
     "link": "https://qiita.com/kumackey/items/869983f05178e277281a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-03T03:43:31.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "一年前の新卒エンジニアの自分に伝えたい3つのこと",
-    "link": "https://qiita.com/kohei_ezure_reazon/items/6fffd055861bae60bd43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-03T01:16:39.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeのタスク完了時にその内容を音声で説明してもらう",
+    "link": "https://zenn.dev/yatabis/articles/claude-code-hooks-voice-notification",
+    "pubDate": "Thu, 03 Jul 2025 03:11:46 GMT"
   },
   {
     "site": "Qiita",
@@ -103,57 +145,15 @@
   },
   {
     "site": "Zenn",
-    "title": "TypeGPU入門",
-    "link": "https://zenn.dev/emadurandal/books/e5a5db5066ec17",
-    "pubDate": "Wed, 02 Jul 2025 15:27:35 GMT"
+    "title": "同僚に広めたい基礎教養",
+    "link": "https://zenn.dev/raki/articles/2025-07-03_fundamentals",
+    "pubDate": "Wed, 02 Jul 2025 18:48:45 GMT"
   },
   {
     "site": "Qiita",
     "title": "セキュリティ未経験から3年でCISSP合格まで──資格補助とキャリアアップを目指した独学記録",
     "link": "https://qiita.com/Shcb8Qyoj021/items/1018434a2ad941802b29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-02T08:35:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIの暴走を防ぐ！Claude Codeで危険なコマンド rm -rf を禁止する安全設定 🛡️",
-    "link": "https://zenn.dev/taiyogakuse/articles/claude-safe-command",
-    "pubDate": "Wed, 02 Jul 2025 07:01:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "登壇スライド作成もClaude Codeに任せたい 〜家でも外でも移動中も〜",
-    "link": "https://zenn.dev/loglass/articles/a8b4b069c09002",
-    "pubDate": "Wed, 02 Jul 2025 06:06:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ClaudeCodeの日本語入力問題、完全に理解した",
-    "link": "https://zenn.dev/atu4403/articles/claudecode-japanese-input-solution",
-    "pubDate": "Wed, 02 Jul 2025 05:44:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TechBlogの自動レビューのためのLLM選定",
-    "link": "https://zenn.dev/exwzd/articles/20250502_llm_selection_for_tech_blog",
-    "pubDate": "Wed, 02 Jul 2025 04:25:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "claude --resumeをもっと使いやすくするCLIツール、「ccresume」を作った",
-    "link": "https://zenn.dev/sasazame/articles/3634040f7fb4da",
-    "pubDate": "Wed, 02 Jul 2025 03:13:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Firestore → Cloud SpannerでDBコスト93%削減！無停止でやり切った 1 年間の全記録",
-    "link": "https://zenn.dev/kauche/articles/1e733da3748ee1",
-    "pubDate": "Wed, 02 Jul 2025 03:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「継続のコツ」はポケモンスリープが教えてくれた",
-    "link": "https://qiita.com/nagasawamasami/items/0a0344e18e1db16cd195?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-02T01:08:23.000Z"
   },
   {
     "site": "Qiita",
