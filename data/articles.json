@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "潰れたほうがいいようなマイナーなサービスと世界の守護者 - megamouthの葬列",
+    "link": "https://www.megamouth.info/entry/2025/07/05/161647",
+    "pubDate": "2025-07-05T07:33:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "正義のエンジニアという幻想 - 媚びないことと無礼の境界線 - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/07/05/132411",
+    "pubDate": "2025-07-05T05:55:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "IAMのマニアックな話 2025を執筆して、​ 見えてきたAWSアカウント管理の現在",
+    "link": "https://speakerdeck.com/nrinetcom/iamnomaniatukunahua-2025wozhi-bi-site-jian-etekitaawsakauntoguan-li-noxian-zai",
+    "pubDate": "2025-07-05T04:28:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeを常にultrathinkさせる方法とMAX_THINKING_TOKENSの仕様",
+    "link": "https://zenn.dev/oikon/articles/0281640eae5aed",
+    "pubDate": "Sat, 05 Jul 2025 03:02:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "野生のモデルを飼い慣らす",
+    "link": "https://zenn.dev/bilzard/articles/tame-the-wild-models",
+    "pubDate": "Sat, 05 Jul 2025 00:18:28 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Code の --dangerously-skip-permissions を安全に使う Hooks 設定",
     "link": "https://wasabeef.jp/blog/claude-code-secure-bash",
     "pubDate": "2025-07-04T23:47:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "カスタムスラッシュコマンドでClaude Code+Gitフローの自走力を爆上げする",
+    "link": "https://zenn.dev/fujihide/articles/d096f376e2479e",
+    "pubDate": "Fri, 04 Jul 2025 14:31:13 GMT"
   },
   {
     "site": "Zenn",
@@ -24,22 +60,16 @@
     "pubDate": "Fri, 04 Jul 2025 13:38:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Windows に WSL 環境を用意して Claude Code を導入する方法 | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/windows-wsl-claude-code/",
-    "pubDate": "2025-07-04T11:53:41.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeによるコミットメッセージ生成",
+    "link": "https://zenn.dev/7shi/articles/20250704-auto-commit",
+    "pubDate": "Fri, 04 Jul 2025 12:31:41 GMT"
   },
   {
     "site": "Hatena",
     "title": "AIは「賢いフリ」をしていた──ハーバード大などが暴いたLLMの決定的弱点「ポチョムキン理解」とは？ | XenoSpectrum",
     "link": "https://xenospectrum.com/what-is-pochomkin-understanding-the-decisive-weakness-of-llm-exposed-by-harvard-university-and-others/",
     "pubDate": "2025-07-04T10:51:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI専用のリンターを作る #yumemi_patch",
-    "link": "https://speakerdeck.com/bengo4com/20250704-cloudsign-aitool",
-    "pubDate": "2025-07-04T10:03:32.000Z"
   },
   {
     "site": "Qiita",
@@ -54,10 +84,10 @@
     "pubDate": "2025-07-04T08:13:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTの略称「チャッピー」は定着するのか",
-    "link": "https://japan.cnet.com/article/35235132/",
-    "pubDate": "2025-07-04T07:51:34.000Z"
+    "site": "Qiita",
+    "title": "Beginning Databases - Reazon Holdings 2025 New Graduate Engineer DB Training",
+    "link": "https://qiita.com/jpuffrh/items/9dd2cc2bd977855716d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-04T07:57:58.000Z"
   },
   {
     "site": "Qiita",
@@ -72,22 +102,10 @@
     "pubDate": "Fri, 04 Jul 2025 06:03:53 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【会社紹介】Qiitaを見て入社した私が、おでん屋で得たもの",
-    "link": "https://qiita.com/mihooo24/items/5e7b24201eaef0929029?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-04T05:56:44.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "ディープコードリーディングのすすめ｜牛尾　剛",
     "link": "https://note.com/simplearchitect/n/n312c0e0e1a37",
     "pubDate": "2025-07-04T05:32:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "あなたのコンテンツはAI-Ready? 生成AIにスルーされない自治体ウェブサイトのつくりかた",
-    "link": "https://zenn.dev/govtechtokyo/articles/be81294e64ff95",
-    "pubDate": "Fri, 04 Jul 2025 05:00:05 GMT"
   },
   {
     "site": "Hatena",
@@ -115,33 +133,27 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code がインストールしていないツールを使いこなしている！？",
-    "link": "https://zenn.dev/kosuke_naito/articles/claude-code-ripgrep",
-    "pubDate": "Thu, 03 Jul 2025 14:27:22 GMT"
+    "title": "LLMの構造化出力における比較実験",
+    "link": "https://zenn.dev/7shi/articles/20250704-structured-output",
+    "pubDate": "Thu, 03 Jul 2025 20:25:54 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "数時間のVibe Codingで作ったオープンソースプロダクトが600スターを達成するまでの記録",
-    "link": "https://zenn.dev/shinshin86/articles/5abe789dc2f4f3",
-    "pubDate": "Thu, 03 Jul 2025 13:27:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの「すぐルール忘れる問題」をHooksで解決する",
-    "link": "https://zenn.dev/kazuph/articles/483d6cf5f3798c",
-    "pubDate": "Thu, 03 Jul 2025 13:15:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cursor × Claude で、ローカルファイルを操作する E2E テストを実装した話",
-    "link": "https://zenn.dev/medley/articles/2227e5dda798b8",
-    "pubDate": "Thu, 03 Jul 2025 09:47:25 GMT"
+    "site": "Qiita",
+    "title": "AIが生成したコードのリスク(CSETレポートまとめ)",
+    "link": "https://qiita.com/hokutoh/items/5119872f45845dee78bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-03T09:37:21.000Z"
   },
   {
     "site": "Qiita",
     "title": "Kent Beck氏の講演グッドハートの法則はもっと悲観的に捉えるべきだったを聞いての感想まとめ #開発生産性con_findy",
     "link": "https://qiita.com/sigma_devsecops/items/d203c5d8b895f4d38218?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-03T05:16:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Pythonの2つの最小二乗フィッティング手法(scipy.optimize.least_squaresとiminuit)の詳細解説と実例",
+    "link": "https://qiita.com/yamadasuzaku/items/8ac760d3607d950000ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-03T05:12:45.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "できるリーダーが一人の時間にやっていることを読んでみた",
     "link": "https://qiita.com/k_yamaki/items/3ef3ce13a18e7ff491f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-03T00:23:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "セキュリティ未経験から3年でCISSP合格まで──資格補助とキャリアアップを目指した独学記録",
-    "link": "https://qiita.com/Shcb8Qyoj021/items/1018434a2ad941802b29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-02T08:35:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " [速習] 米国が騒ぐ「AI週4日勤務」を、日本人は既に実現していた件",
-    "link": "https://qiita.com/ShigemoriMasato/items/a2b81b00ed2d027a8720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-01T21:47:35.000Z"
   }
 ]
