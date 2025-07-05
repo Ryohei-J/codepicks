@@ -1,5 +1,11 @@
 [
   {
+    "site": "Hatena",
+    "title": "Claude Code の --dangerously-skip-permissions を安全に使う Hooks 設定",
+    "link": "https://wasabeef.jp/blog/claude-code-secure-bash",
+    "pubDate": "2025-07-04T23:47:38.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeをサンドボックス上で実行する(Mac編)",
     "link": "https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec",
@@ -31,21 +37,15 @@
   },
   {
     "site": "Hatena",
-    "title": "ポータブルSSDの容量偽装、「1TB買ったのに15GBしか使えない」――国民生活センターが注意喚起",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2028553.html",
-    "pubDate": "2025-07-04T10:33:55.000Z"
+    "title": "AI専用のリンターを作る #yumemi_patch",
+    "link": "https://speakerdeck.com/bengo4com/20250704-cloudsign-aitool",
+    "pubDate": "2025-07-04T10:03:32.000Z"
   },
   {
     "site": "Qiita",
     "title": "【ポケモン×Java】知識編 クラス#1～ピカチュウを大解剖～",
     "link": "https://qiita.com/hitomin_poke/items/07d8109f828ab9e51854?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-04T08:44:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソフトウェアエンジニアが実践する情報収集術 | Wantedly Engineer Blog",
-    "link": "https://www.wantedly.com/companies/wantedly/post_articles/985502",
-    "pubDate": "2025-07-04T08:26:33.000Z"
   },
   {
     "site": "Hatena",
@@ -64,12 +64,6 @@
     "title": "初心者でも分かる！VSCodeでGemini CLIを使いこなす方法 - インストールから応用まで徹底解説",
     "link": "https://qiita.com/Nakamura-Kaito/items/122963855d7b1deb8a9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-04T06:59:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【朗報？】“おじさんエンジニアが反応しそうな漢字”が発見されて「X」でちょい話題に／ただし、音義・用法いずれも不明【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2028152.html",
-    "pubDate": "2025-07-04T06:43:40.000Z"
   },
   {
     "site": "Zenn",
@@ -94,6 +88,12 @@
     "title": "あなたのコンテンツはAI-Ready? 生成AIにスルーされない自治体ウェブサイトのつくりかた",
     "link": "https://zenn.dev/govtechtokyo/articles/be81294e64ff95",
     "pubDate": "Fri, 04 Jul 2025 05:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Figma × Cursor】AI連携でデザインレビューを自動化する全手順【動画連動解説】｜梅本 周作 / ajike",
+    "link": "https://note.com/dubhunter/n/n33cc295b0bfc",
+    "pubDate": "2025-07-04T03:59:12.000Z"
   },
   {
     "site": "Zenn",
