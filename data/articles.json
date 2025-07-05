@@ -1,5 +1,29 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Codeをサンドボックス上で実行する(Mac編)",
+    "link": "https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec",
+    "pubDate": "2025-07-04T13:56:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Obsidian x Gemini CLIで最強執筆環境を作ろう｜Naoki |電電猫猫",
+    "link": "https://note.com/electrical_cat/n/n5db5f038a391",
+    "pubDate": "2025-07-04T13:56:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeをサンドボックス上で実行する(Mac編)",
+    "link": "https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec",
+    "pubDate": "Fri, 04 Jul 2025 13:38:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows に WSL 環境を用意して Claude Code を導入する方法 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/windows-wsl-claude-code/",
+    "pubDate": "2025-07-04T11:53:41.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "AIは「賢いフリ」をしていた──ハーバード大などが暴いたLLMの決定的弱点「ポチョムキン理解」とは？ | XenoSpectrum",
     "link": "https://xenospectrum.com/what-is-pochomkin-understanding-the-decisive-weakness-of-llm-exposed-by-harvard-university-and-others/",
@@ -12,16 +36,22 @@
     "pubDate": "2025-07-04T10:33:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "新規のRailsアプリケーションにPitchforkを導入しました - STORES Product Blog",
-    "link": "https://product.st.inc/entry/introduce-pitchfork",
-    "pubDate": "2025-07-04T09:14:24.000Z"
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 クラス#1～ピカチュウを大解剖～",
+    "link": "https://qiita.com/hitomin_poke/items/07d8109f828ab9e51854?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-04T08:44:16.000Z"
   },
   {
     "site": "Hatena",
     "title": "ソフトウェアエンジニアが実践する情報収集術 | Wantedly Engineer Blog",
     "link": "https://www.wantedly.com/companies/wantedly/post_articles/985502",
     "pubDate": "2025-07-04T08:26:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Obsidian、ここから始めないと97％挫折します。｜少し明るい高橋くん",
+    "link": "https://note.com/chankostin/n/n41004bfbda6e",
+    "pubDate": "2025-07-04T08:13:56.000Z"
   },
   {
     "site": "Hatena",
@@ -42,16 +72,28 @@
     "pubDate": "2025-07-04T06:43:40.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【デザイナーの視点が変わる】Cursor と Devin で爆速化した UI 改善",
+    "link": "https://zenn.dev/kikagaku/articles/79368e7981a00f",
+    "pubDate": "Fri, 04 Jul 2025 06:03:53 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【会社紹介】Qiitaを見て入社した私が、おでん屋で得たもの",
+    "link": "https://qiita.com/mihooo24/items/5e7b24201eaef0929029?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-04T05:56:44.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ディープコードリーディングのすすめ｜牛尾　剛",
     "link": "https://note.com/simplearchitect/n/n312c0e0e1a37",
     "pubDate": "2025-07-04T05:32:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "企画を通すなら「生成AIで作ったプロトタイプ」付きで――DeNAが一部部署で　“書類だけ”はNGに",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2507/04/news070.html",
-    "pubDate": "2025-07-04T03:07:00.000Z"
+    "site": "Zenn",
+    "title": "あなたのコンテンツはAI-Ready? 生成AIにスルーされない自治体ウェブサイトのつくりかた",
+    "link": "https://zenn.dev/govtechtokyo/articles/be81294e64ff95",
+    "pubDate": "Fri, 04 Jul 2025 05:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -64,12 +106,6 @@
     "title": "Cursor 1.2 まとめ",
     "link": "https://zenn.dev/horisan/articles/c14a981e8f4bc6",
     "pubDate": "Fri, 04 Jul 2025 00:43:58 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 「なんだよこの.DS_Storeってゴミは」。WindowsユーザーにウザがられるMacの隠しファイル、まとめて楽に消す方法",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2028197.html",
-    "pubDate": "2025-07-03T22:07:11.000Z"
   },
   {
     "site": "Zenn",
@@ -102,12 +138,6 @@
     "pubDate": "Thu, 03 Jul 2025 09:47:25 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Vibe Coding は準備が 9割",
-    "link": "https://zenn.dev/beijaflor/articles/8643c86e1d4833",
-    "pubDate": "Thu, 03 Jul 2025 05:40:39 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Kent Beck氏の講演グッドハートの法則はもっと悲観的に捉えるべきだったを聞いての感想まとめ #開発生産性con_findy",
     "link": "https://qiita.com/sigma_devsecops/items/d203c5d8b895f4d38218?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -127,33 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【入門】自然言語処理と検索技術の構造を理解する",
-    "link": "https://qiita.com/hirokiii27/items/05f83890caaa74ad32ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-03T04:07:15.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "応用情報を逆に2年かけて合格する学習方法。コンピュータサイエンスの体系的学習と、長期記憶への定着",
     "link": "https://qiita.com/kumackey/items/869983f05178e277281a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-03T03:43:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeのタスク完了時にその内容を音声で説明してもらう",
-    "link": "https://zenn.dev/yatabis/articles/claude-code-hooks-voice-notification",
-    "pubDate": "Thu, 03 Jul 2025 03:11:46 GMT"
   },
   {
     "site": "Qiita",
     "title": "できるリーダーが一人の時間にやっていることを読んでみた",
     "link": "https://qiita.com/k_yamaki/items/3ef3ce13a18e7ff491f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-03T00:23:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "同僚に広めたい基礎教養",
-    "link": "https://zenn.dev/raki/articles/2025-07-03_fundamentals",
-    "pubDate": "Wed, 02 Jul 2025 18:48:45 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "[速習] 米国が騒ぐ「AI週4日勤務」を、日本人は既に実現していた件 - Qiita",
-    "link": "https://qiita.com/ShigemoriMasato/items/a2b81b00ed2d027a8720",
-    "pubDate": "2025-07-01T23:14:41.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": " [速習] 米国が騒ぐ「AI週4日勤務」を、日本人は既に実現していた件",
     "link": "https://qiita.com/ShigemoriMasato/items/a2b81b00ed2d027a8720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-01T21:47:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "TypeScript + Reactで特定の要素だけを受け付けるコンポーネントを型安全に実装する",
-    "link": "https://qiita.com/kskwtnk/items/05bd3ad4168a3b673107?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-01T12:16:20.000Z"
   }
 ]
