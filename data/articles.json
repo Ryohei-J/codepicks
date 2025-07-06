@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "マスク氏、「アメリカ党」結成と投稿　自由取り戻すと表明",
+    "link": "https://jp.reuters.com/markets/japan/funds/BSAYBNS76ZKVBB6Y25LS65FNU4-2025-07-05/",
+    "pubDate": "2025-07-05T21:43:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeに要件をヒアリングしてもらった体験がかなり良かった",
+    "link": "https://speakerdeck.com/ryuki0947/the-experience-of-having-claude-code-gather-requirements-was-quite-good",
+    "pubDate": "2025-07-05T14:12:24.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "初学者でも今すぐできる、Claude Codeの生産性を10倍上げるTips",
     "link": "https://speakerdeck.com/s4yuba/chu-xue-zhe-demojin-sugudekiru-claude-codenosheng-chan-xing-wo10bei-shang-gerutips",
     "pubDate": "2025-07-05T13:26:08.000Z"
@@ -24,10 +36,10 @@
     "pubDate": "2025-07-05T05:55:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "IAMのマニアックな話 2025を執筆して、​ 見えてきたAWSアカウント管理の現在",
-    "link": "https://speakerdeck.com/nrinetcom/iamnomaniatukunahua-2025wozhi-bi-site-jian-etekitaawsakauntoguan-li-noxian-zai",
-    "pubDate": "2025-07-05T04:28:01.000Z"
+    "site": "Qiita",
+    "title": "EC2でAmazon Q Developer CLIを触ってみよう！",
+    "link": "https://qiita.com/natsumi_a/items/906b8d48494ca0948fd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-05T03:29:28.000Z"
   },
   {
     "site": "Hatena",
@@ -40,6 +52,24 @@
     "title": "Claude Codeを常にultrathinkさせる方法とMAX_THINKING_TOKENSの仕様",
     "link": "https://zenn.dev/oikon/articles/0281640eae5aed",
     "pubDate": "Sat, 05 Jul 2025 03:02:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ICPC2025国内予選参加記",
+    "link": "https://zenn.dev/mnonamer/articles/icpc-2025-jp-qualifier",
+    "pubDate": "Sat, 05 Jul 2025 01:35:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "[速習] 配列から欠けている数字を見つける「XORトリック」の深い理論と実践",
+    "link": "https://qiita.com/ShigemoriMasato/items/ba1b6d9149e16867c0cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-05T00:51:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【小ネタ】AWS Route53で購入できるドメインコストをまとめました（2025.07.05時点）",
+    "link": "https://qiita.com/mob_engineer/items/3e6804d86b88a401a8cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-05T00:35:02.000Z"
   },
   {
     "site": "Zenn",
@@ -85,24 +115,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 クラス#1～ピカチュウを大解剖～",
-    "link": "https://qiita.com/hitomin_poke/items/07d8109f828ab9e51854?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-04T08:44:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Obsidian、ここから始めないと97％挫折します。｜少し明るい高橋くん",
-    "link": "https://note.com/chankostin/n/n41004bfbda6e",
-    "pubDate": "2025-07-04T08:13:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Beginning Databases - Reazon Holdings 2025 New Graduate Engineer DB Training",
-    "link": "https://qiita.com/jpuffrh/items/9dd2cc2bd977855716d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-04T07:57:58.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "初心者でも分かる！VSCodeでGemini CLIを使いこなす方法 - インストールから応用まで徹底解説",
     "link": "https://qiita.com/Nakamura-Kaito/items/122963855d7b1deb8a9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-04T06:59:44.000Z"
@@ -127,21 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeの指示忘れ問題を解決！HooksでPython環境をpip禁止＆uv統一にする",
-    "link": "https://zenn.dev/gotalab/articles/2fe8d7a15409c8",
-    "pubDate": "Thu, 03 Jul 2025 20:40:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMの構造化出力における比較実験",
-    "link": "https://zenn.dev/7shi/articles/20250704-structured-output",
-    "pubDate": "Thu, 03 Jul 2025 20:25:54 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIが生成したコードのリスク(CSETレポートまとめ)",
-    "link": "https://qiita.com/hokutoh/items/5119872f45845dee78bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-03T09:37:21.000Z"
+    "title": "「情報処理安全確保支援士」合格体験記(三度目の正直)",
+    "link": "https://zenn.dev/yourstand_blog/articles/5ce2caea9f2104",
+    "pubDate": "Fri, 04 Jul 2025 00:00:05 GMT"
   },
   {
     "site": "Qiita",
