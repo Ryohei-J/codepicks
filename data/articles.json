@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "AI時代のソフトウェア開発を考える（2025/07版） / Agentic Software Engineering Findy 2025-07 Edition",
+    "link": "https://speakerdeck.com/twada/agentic-software-engineering-findy-2025-07-edition",
+    "pubDate": "2025-07-06T03:22:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "マスク氏、「アメリカ党」結成と投稿　自由取り戻すと表明",
     "link": "https://jp.reuters.com/markets/japan/funds/BSAYBNS76ZKVBB6Y25LS65FNU4-2025-07-05/",
     "pubDate": "2025-07-05T21:43:31.000Z"
@@ -16,6 +22,12 @@
     "title": "初学者でも今すぐできる、Claude Codeの生産性を10倍上げるTips",
     "link": "https://speakerdeck.com/s4yuba/chu-xue-zhe-demojin-sugudekiru-claude-codenosheng-chan-xing-wo10bei-shang-gerutips",
     "pubDate": "2025-07-05T13:26:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI Agentのコマンド実行にTouch IDを使った「人間の確認」を挟むCLIツール confirm-pam を作った",
+    "link": "https://efcl.info/2025/07/05/confirm-pam/",
+    "pubDate": "2025-07-05T09:50:07.000Z"
   },
   {
     "site": "Hatena",
@@ -40,12 +52,6 @@
     "title": "EC2でAmazon Q Developer CLIを触ってみよう！",
     "link": "https://qiita.com/natsumi_a/items/906b8d48494ca0948fd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-05T03:29:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "YouTubeやニコニコ動画の動画を簡単にダウンロードできるアプリ「Tartube」レビュー、高機能ダウンローダー「yt-dlp」の機能をマウス操作で使える",
-    "link": "https://gigazine.net/news/20250705-tartube-yt-dlp-youtube-download/",
-    "pubDate": "2025-07-05T03:12:44.000Z"
   },
   {
     "site": "Zenn",
@@ -78,12 +84,6 @@
     "pubDate": "Sat, 05 Jul 2025 00:18:28 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code くんのホームディレクトリ破壊を AppArmor で阻止する - Lambdaカクテル",
-    "link": "https://blog.3qe.us/entry/2025/07/05/001037",
-    "pubDate": "2025-07-04T15:36:19.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "カスタムスラッシュコマンドでClaude Code+Gitフローの自走力を爆上げする",
     "link": "https://zenn.dev/fujihide/articles/d096f376e2479e",
@@ -100,12 +100,6 @@
     "title": "Claude Codeによるコミットメッセージ生成",
     "link": "https://zenn.dev/7shi/articles/20250704-auto-commit",
     "pubDate": "Fri, 04 Jul 2025 12:31:41 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "初心者でも分かる！VSCodeでGemini CLIを使いこなす方法 - インストールから応用まで徹底解説 - Qiita",
-    "link": "https://qiita.com/Nakamura-Kaito/items/122963855d7b1deb8a9d",
-    "pubDate": "2025-07-04T11:32:37.000Z"
   },
   {
     "site": "Hatena",
@@ -142,6 +136,12 @@
     "title": "「情報処理安全確保支援士」合格体験記(三度目の正直)",
     "link": "https://zenn.dev/yourstand_blog/articles/5ce2caea9f2104",
     "pubDate": "Fri, 04 Jul 2025 00:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI搭載イヤホンをハックしてDOOMを実行しOpenAI APIキーとチャット履歴を盗むことに成功したとの報告",
+    "link": "https://gigazine.net/news/20250703-ikko-activebuds-vulnerability/",
+    "pubDate": "2025-07-03T18:11:59.000Z"
   },
   {
     "site": "Qiita",
