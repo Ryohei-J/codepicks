@@ -1,21 +1,63 @@
 [
   {
     "site": "Hatena",
-    "title": "JSONata式でJSONデータを抽出加工できるCLIツールjfqを試してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/jsonata-on-the-command-line-tool-jfq/",
-    "pubDate": "2025-07-06T09:59:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Agentic coding革命が \"成った\" 世界で…… - Islands in the byte stream",
-    "link": "https://gfx.hatenablog.com/entry/2025/07/06/182751",
-    "pubDate": "2025-07-06T09:28:33.000Z"
+    "title": "ほぼリアルタイムで会話を文字起こししてレンズに映す聴覚障害者向けのスマートグラス「TranscribeGlass」、翻訳機能も付いて誰でも便利に使える",
+    "link": "https://gigazine.net/news/20250707-transcribeglass/",
+    "pubDate": "2025-07-06T23:28:12.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Gemini CLIのコードを読んで内部処理を理解する",
-    "link": "https://zenn.dev/danimal141/articles/ea29bb42d75d43",
-    "pubDate": "2025-07-06T07:41:28.000Z"
+    "title": "速習 Claude Code",
+    "link": "https://zenn.dev/mizchi/articles/claude-code-cheatsheet",
+    "pubDate": "2025-07-06T16:34:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "速習 Claude Code",
+    "link": "https://zenn.dev/mizchi/articles/claude-code-cheatsheet",
+    "pubDate": "Sun, 06 Jul 2025 16:21:59 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "値の補間計算を簡潔に記述できる CSS の `progress` 関数",
+    "link": "https://azukiazusa.dev/blog/css-progress-function/",
+    "pubDate": "2025-07-06T15:07:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "無職がメガベンチャーに内定するまで",
+    "link": "https://zenn.dev/shinonome81/articles/3e3f975e88f8cb",
+    "pubDate": "Sun, 06 Jul 2025 13:15:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカル開発環境のDockerコンテナ内で Storybook on Chromatic を利用して VRT の差分検知を実施する",
+    "link": "https://zenn.dev/comm_vue_nuxt/articles/b989e600645325",
+    "pubDate": "Sun, 06 Jul 2025 10:13:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoftが公開しているDeep Researchのサンプルコードを理解してみる（ついでにC＃ライブラリ化も）",
+    "link": "https://zenn.dev/microsoft/articles/ms-oss-deepresearch",
+    "pubDate": "Sun, 06 Jul 2025 09:26:48 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "リンク機構の軌跡を可視化するメカニカルアートをp5.jsで作ってみた",
+    "link": "https://qiita.com/ishi720/items/7d9defe5301e8089b9ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-06T08:45:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google ChromeのMCPサーバに面倒なことをやらせてみたかったけど難しかった",
+    "link": "https://zenn.dev/karaage0703/articles/a2019f9ee283b8",
+    "pubDate": "Sun, 06 Jul 2025 07:55:10 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "12 Factor Agents まとめ",
+    "link": "https://iwashi.co/2025/07/06/12-factor-agents",
+    "pubDate": "2025-07-06T06:46:42.000Z"
   },
   {
     "site": "Hatena",
@@ -24,28 +66,22 @@
     "pubDate": "2025-07-06T06:36:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "不確実性の高い仮説を 迅速に検証するための開発プロセス",
-    "link": "https://speakerdeck.com/mkitahara01985/bu-que-shi-xing-nogao-ijia-shuo-wo-xun-su-nijian-zheng-surutamenokai-fa-purosesu",
-    "pubDate": "2025-07-06T05:12:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "半沢直樹にも登場した「Kubernetes」ってなに？",
     "link": "https://zenn.dev/kymx1983/articles/01c58a20af5035",
     "pubDate": "2025-07-06T05:10:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代のソフトウェア開発を考える（2025/07版） / Agentic Software Engineering Findy 2025-07 Edition",
-    "link": "https://speakerdeck.com/twada/agentic-software-engineering-findy-2025-07-edition",
-    "pubDate": "2025-07-06T03:22:16.000Z"
+    "site": "Zenn",
+    "title": "時間依存性治療のtime-to-eventデータにおける{gfoRmula}のスクラッチ実装",
+    "link": "https://zenn.dev/ironman/articles/9507daf3ab01e7",
+    "pubDate": "Sun, 06 Jul 2025 01:26:52 GMT"
   },
   {
     "site": "Hatena",
-    "title": "マスク氏、「アメリカ党」結成と投稿　中間選挙にらみ揺さぶり",
-    "link": "https://jp.reuters.com/markets/japan/funds/BSAYBNS76ZKVBB6Y25LS65FNU4-2025-07-05/",
-    "pubDate": "2025-07-05T21:43:31.000Z"
+    "title": "「“ググる”は崩壊する」時価総額4兆円・マーケ企業HubSpot CEOが警告 「SEOは通用しない」AI時代のマーケティング激変に備えよ（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/9678a0e370d8d5b332cac2f73dac0c73112b620b",
+    "pubDate": "2025-07-06T00:29:10.000Z"
   },
   {
     "site": "Qiita",
@@ -55,9 +91,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeに要件をヒアリングしてもらった体験がかなり良かった",
-    "link": "https://speakerdeck.com/ryuki0947/the-experience-of-having-claude-code-gather-requirements-was-quite-good",
-    "pubDate": "2025-07-05T14:12:24.000Z"
+    "title": "ClaudeCodeでChromeの拡張やDiscordのbotを作るのがオススメ | ドクセル",
+    "link": "https://www.docswell.com/s/currypurin/Z67Y97-2025-07-05-232024",
+    "pubDate": "2025-07-05T17:34:03.000Z"
   },
   {
     "site": "Zenn",
@@ -84,10 +120,10 @@
     "pubDate": "2025-07-05T07:54:54.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "EC2でAmazon Q Developer CLIを触ってみよう！",
-    "link": "https://qiita.com/natsumi_a/items/906b8d48494ca0948fd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-05T03:29:28.000Z"
+    "site": "Zenn",
+    "title": "CLAUDE .md を人間にも優しくするテクニック",
+    "link": "https://zenn.dev/smasato/articles/f72b77bead086a",
+    "pubDate": "Sat, 05 Jul 2025 07:32:15 GMT"
   },
   {
     "site": "Zenn",
@@ -114,28 +150,10 @@
     "pubDate": "Sat, 05 Jul 2025 00:18:28 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "カスタムスラッシュコマンドでClaude Code+Gitフローの自走力を爆上げする",
-    "link": "https://zenn.dev/fujihide/articles/d096f376e2479e",
-    "pubDate": "Fri, 04 Jul 2025 14:31:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeをサンドボックス上で実行する(Mac編)",
-    "link": "https://zenn.dev/todesking/articles/claude-code-with-sandbox-exec",
-    "pubDate": "Fri, 04 Jul 2025 13:38:47 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Google AI Studio】手動テストのマニュアル作成が爆速になった話",
     "link": "https://qiita.com/akitomonam/items/b715695f3bc8efe0f7a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-04T13:17:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeによるコミットメッセージ生成",
-    "link": "https://zenn.dev/7shi/articles/20250704-auto-commit",
-    "pubDate": "Fri, 04 Jul 2025 12:31:41 GMT"
   },
   {
     "site": "Qiita",
@@ -144,28 +162,10 @@
     "pubDate": "2025-07-04T08:44:16.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "[2025年7月4日] コーディングエージェントの協働が多分次のブレイクスルー (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/75be26456ca96b",
-    "pubDate": "Fri, 04 Jul 2025 08:32:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini CLIとClaude Codeを簡単に比較してみた",
-    "link": "https://zenn.dev/mixi/articles/5a13fa0f749cd2",
-    "pubDate": "Fri, 04 Jul 2025 08:11:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "初心者でも分かる！VSCodeでGemini CLIを使いこなす方法 - インストールから応用まで徹底解説",
     "link": "https://qiita.com/Nakamura-Kaito/items/122963855d7b1deb8a9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-04T06:59:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【デザイナーの視点が変わる】Cursor と Devin で爆速化した UI 改善",
-    "link": "https://zenn.dev/kikagaku/articles/79368e7981a00f",
-    "pubDate": "Fri, 04 Jul 2025 06:03:53 GMT"
   },
   {
     "site": "Qiita",
@@ -174,9 +174,9 @@
     "pubDate": "2025-07-04T05:49:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "BI as Code実践: AI + StreamlitでBIダッシュボードを構築する - 概論編",
-    "link": "https://zenn.dev/shibatanaoto/books/4c6f379a873737",
-    "pubDate": "Fri, 04 Jul 2025 01:19:00 GMT"
+    "site": "Hatena",
+    "title": "レベルアップ！つよつよエンジニアを目指すには？ | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/07/aws-learning-guide-03",
+    "pubDate": "2025-07-03T23:43:20.000Z"
   }
 ]
