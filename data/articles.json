@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "「自分用に巧妙にカスタマイズされた詐欺に遭ったので、被害を増やさないために共有する」→生成AIで手間の壁が突破され悪用されてる",
+    "link": "https://togetter.com/li/2573070",
+    "pubDate": "2025-07-07T03:47:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMを本番品質に育てる PromptOps：”100回の試行錯誤”を支えた仕組みと文化",
+    "link": "https://zenn.dev/elyza/articles/3b25b8e44fc280",
+    "pubDate": "Mon, 07 Jul 2025 03:06:16 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "自分の10年越えTwitterログが超記憶として対話可能に！Twilog専用MCPサーバーが使えるようになりました。｜Togetter（トゥギャッター ）",
     "link": "https://note.com/togetter/n/n084819ff6502",
     "pubDate": "2025-07-07T01:23:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "QAは何でも屋？：QA業務の本質を考える",
+    "link": "https://qiita.com/s-yoshina/items/9251a1bfc23cc8f4553a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-07T01:10:51.000Z"
   },
   {
     "site": "Hatena",
     "title": "AIによる開発高速化で作り出した時間は新機能開発でなくユーザー理解に使おう - $shibayu36->blog;",
     "link": "https://blog.shibayu36.org/entry/2025/07/07/100000",
     "pubDate": "2025-07-07T01:04:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初心者向け】VSCode + AWS Toolkitで始める！GUIで簡単 AWS SAM Lambda 開発入門",
+    "link": "https://qiita.com/shohei_yamamoto/items/f133cbd5e42e1ae7a697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-07T01:02:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "全人類にお勧めしたい「エクスプローラー」のカスタマイズ！ フォルダーサイズも確認可能に／最強の検索アプリ「Everything」とカスタマイズツール「Windhawk」を組み合わせ【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2028180.html",
+    "pubDate": "2025-07-07T00:02:17.000Z"
   },
   {
     "site": "Hatena",
@@ -34,6 +64,18 @@
     "title": "進化する日本の統一QR　「JPQR Global」は成功できるのか",
     "link": "https://www.watch.impress.co.jp/docs/news/2028677.html",
     "pubDate": "2025-07-06T23:10:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Tokyo dbt Meetup #15 に参加してきた(テーマ：「dbt × LLM」)  #dbt_tokyo",
+    "link": "https://zenn.dev/shinyaa31/articles/6c3ebfebc4831a",
+    "pubDate": "Sun, 06 Jul 2025 21:31:58 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Claude Code】まだ定型プロンプト打ってません？？カスタムコマンド活用して作業効率爆上げ",
+    "link": "https://zenn.dev/solvio/articles/cefce25e803b50",
+    "pubDate": "Sun, 06 Jul 2025 21:19:45 GMT"
   },
   {
     "site": "Zenn",
@@ -84,34 +126,22 @@
     "pubDate": "Sun, 06 Jul 2025 07:55:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "開発生産性カンファレンス2025 - 登壇資料まとめ｜610",
-    "link": "https://note.com/610_mto/n/n5fe57e207f7b",
-    "pubDate": "2025-07-06T06:36:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "時間依存性治療のtime-to-eventデータにおける{gfoRmula}のスクラッチ実装",
-    "link": "https://zenn.dev/ironman/articles/9507daf3ab01e7",
-    "pubDate": "Sun, 06 Jul 2025 01:26:52 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「“ググる”は崩壊する」時価総額4兆円・マーケ企業HubSpot CEOが警告 「SEOは通用しない」AI時代のマーケティング激変に備えよ（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/9678a0e370d8d5b332cac2f73dac0c73112b620b",
-    "pubDate": "2025-07-06T00:29:10.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "GCI優秀生・SIGNATE MASTERが考えるコンペのスコア向上Tips",
-    "link": "https://qiita.com/masayuki-sera/items/8c330887f957642a3915?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-05T17:51:31.000Z"
+    "title": "究極のポジティブ思考のすゝめ",
+    "link": "https://qiita.com/pilot_fish/items/f9117620c2144a451a9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-06T05:48:19.000Z"
   },
   {
     "site": "Zenn",
-    "title": "半沢直樹にも登場した「Kubernetes」ってなに？",
-    "link": "https://zenn.dev/kymx1983/articles/01c58a20af5035",
-    "pubDate": "Sat, 05 Jul 2025 14:01:56 GMT"
+    "title": "構造を理解した AI ファーストな差分ツール「diffx」を、Claude Code と Rust で作ってリリースしました",
+    "link": "https://zenn.dev/kako_jun/articles/1d518f47225f42",
+    "pubDate": "Sun, 06 Jul 2025 04:39:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "非エンジニアがAIと実践するTDD✖️vibe coding",
+    "link": "https://zenn.dev/0k9p1/articles/513b6fe7973e01",
+    "pubDate": "Sun, 06 Jul 2025 03:59:09 GMT"
   },
   {
     "site": "Qiita",
@@ -121,21 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【合格体験記】実務未経験者が110時間で情報処理安全確保支援士試験に合格した勉強法",
-    "link": "https://qiita.com/Elie1729/items/4deabd95e125597e97aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-05T11:42:55.000Z"
+    "title": "Denoで始めるモダンWeb開発入門",
+    "link": "https://qiita.com/automation2025/items/d10eab05e1fddc184df5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-05T10:26:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "CLAUDE .md を人間にも優しくするテクニック",
-    "link": "https://zenn.dev/smasato/articles/f72b77bead086a",
-    "pubDate": "Sat, 05 Jul 2025 07:32:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを常にultrathinkさせる方法とMAX_THINKING_TOKENSの仕様",
-    "link": "https://zenn.dev/oikon/articles/0281640eae5aed",
-    "pubDate": "Sat, 05 Jul 2025 03:02:01 GMT"
+    "site": "Qiita",
+    "title": " Python×株式投資｜仕事終わりでも投資を諦めない。スクリーニング結果を自動通知するBotを作る（中編）",
+    "link": "https://qiita.com/rS_alonewolf/items/97f6364486657c71e7f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-05T01:55:06.000Z"
   },
   {
     "site": "Qiita",
@@ -150,33 +174,9 @@
     "pubDate": "2025-07-05T00:51:30.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "野生のモデルを飼い慣らす",
-    "link": "https://zenn.dev/bilzard/articles/tame-the-wild-models",
-    "pubDate": "Sat, 05 Jul 2025 00:18:28 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Google AI Studio】手動テストのマニュアル作成が爆速になった話",
-    "link": "https://qiita.com/akitomonam/items/b715695f3bc8efe0f7a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-04T13:17:40.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【ポケモン×Java】知識編 クラス#1～ピカチュウを大解剖～",
     "link": "https://qiita.com/hitomin_poke/items/07d8109f828ab9e51854?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-04T08:44:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "初心者でも分かる！VSCodeでGemini CLIを使いこなす方法 - インストールから応用まで徹底解説",
-    "link": "https://qiita.com/Nakamura-Kaito/items/122963855d7b1deb8a9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-04T06:59:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【生成AI】AIによるWebブラウザの自動操作を実現するには",
-    "link": "https://qiita.com/ymd65536/items/1497a60c11ebe1d8dda5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-04T05:49:15.000Z"
   }
 ]
