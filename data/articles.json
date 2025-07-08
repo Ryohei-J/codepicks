@@ -1,5 +1,11 @@
 [
   {
+    "site": "Zenn",
+    "title": "最新論文調査：大規模モデル時代における鉄スクラップ CVの現在地",
+    "link": "https://zenn.dev/eversteel_tech/articles/5fbeefd7ffc064",
+    "pubDate": "Tue, 08 Jul 2025 06:00:45 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "マウスもイヤホンも充電が面倒で有線に戻しました→「わかる」「場所が決まってるものは有線で良い」「無線は落として無くすし…」",
     "link": "https://posfie.com/@mumimushunyu/p/HpRTd79",
@@ -12,10 +18,22 @@
     "pubDate": "2025-07-08T04:13:19.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "社内AI推進者はつらいよ｜Kakko🌸🌈",
+    "link": "https://note.com/kakowara/n/n46ca355a6aa6",
+    "pubDate": "2025-07-08T04:01:25.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "プロンプトエンジニアリング超入門 – プロンプトエンジニアリングは本当に死んだのか？",
     "link": "https://qiita.com/tamura__246/items/bd5d62b1213610618f20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-08T02:19:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ふりかえり・会議でアイスブレイクを取り入れてみよう！ チームの関係性を築くシーン別22選 - Agile Journey",
+    "link": "https://agilejourney.uzabase.com/entry/2025/07/08/103000",
+    "pubDate": "2025-07-08T02:00:10.000Z"
   },
   {
     "site": "Hatena",
@@ -54,16 +72,22 @@
     "pubDate": "2025-07-07T22:28:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code でモックアップを HTML と Tailwind CSS (CDN 版) で作る",
-    "link": "https://voluntas.ghost.io/mockup-with-html-tailwind-via-claude-code/",
-    "pubDate": "2025-07-07T14:40:58.000Z"
+    "site": "Zenn",
+    "title": "ファジーにテキストをマッチングする処理について",
+    "link": "https://zenn.dev/hrsh7th/articles/ecb9664a9316c0",
+    "pubDate": "Mon, 07 Jul 2025 17:15:42 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「リベラル」という言葉を使いたいなら、もっとしっかりと定義と歴史的経緯を理解しろというご指摘があったので確認してみることにした - 頭の上にミカンをのせる",
-    "link": "https://www.tyoshiki.com/entry/2025/07/07/221800",
-    "pubDate": "2025-07-07T13:49:24.000Z"
+    "site": "Zenn",
+    "title": "🚀 Claude Code × Cursor で超高速アプリ開発！たった1つの指示でWebアプリ完成",
+    "link": "https://zenn.dev/helloworld/articles/d2a102316f23fd",
+    "pubDate": "Mon, 07 Jul 2025 16:07:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "textlint-rule-preset-ai-writingをMCPサーバとして設定する方法",
+    "link": "https://zenn.dev/karaage0703/articles/e68ee90ca00b0d",
+    "pubDate": "Mon, 07 Jul 2025 13:24:08 GMT"
   },
   {
     "site": "Zenn",
@@ -82,6 +106,12 @@
     "title": "シェルで途中まで入力したコマンドを一時保存して後から実行する小技",
     "link": "https://zenn.dev/satoru_takeuchi/articles/dd0e68740282d6",
     "pubDate": "Mon, 07 Jul 2025 09:41:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "1時間でGemini CLIとLINE Bot",
+    "link": "https://zenn.dev/n0bisuke/books/geminicli-linebot",
+    "pubDate": "Mon, 07 Jul 2025 09:39:45 GMT"
   },
   {
     "site": "Zenn",
@@ -115,12 +145,6 @@
   },
   {
     "site": "Zenn",
-    "title": "SPM活用でモジュール分割したときのディレクトリ構成を考える",
-    "link": "https://zenn.dev/st43/articles/c758b22130aefe",
-    "pubDate": "Mon, 07 Jul 2025 03:22:59 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "LLMを本番品質に育てる PromptOps：”100回の試行錯誤”を支えた仕組みと文化",
     "link": "https://zenn.dev/elyza/articles/3b25b8e44fc280",
     "pubDate": "Mon, 07 Jul 2025 03:06:16 GMT"
@@ -138,36 +162,6 @@
     "pubDate": "2025-07-06T23:59:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【絶対無理ゲー】Amazonで本物そっくりの模造品をつかまされた話（クリンスイ浄水カートリッジ） - give IT a try",
-    "link": "https://blog.jnito.com/entry/2025/07/07/075133",
-    "pubDate": "2025-07-06T23:17:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code】まだ定型プロンプト打ってません？？カスタムコマンド活用して作業効率爆上げ",
-    "link": "https://zenn.dev/solvio/articles/cefce25e803b50",
-    "pubDate": "Sun, 06 Jul 2025 21:19:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Makie.jl入門",
-    "link": "https://zenn.dev/ohno/articles/1d4dacd086b579",
-    "pubDate": "Sun, 06 Jul 2025 19:36:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "速習 Claude Code",
-    "link": "https://zenn.dev/mizchi/articles/claude-code-cheatsheet",
-    "pubDate": "Sun, 06 Jul 2025 16:21:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "無職がメガベンチャーに内定するまで",
-    "link": "https://zenn.dev/shinonome81/articles/3e3f975e88f8cb",
-    "pubDate": "Sun, 06 Jul 2025 13:15:17 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "リンク機構の軌跡を可視化するメカニカルアートをp5.jsで作ってみた",
     "link": "https://qiita.com/ishi720/items/7d9defe5301e8089b9ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "[入門] ネットワーク基礎 データセンター選定の実践ガイド",
     "link": "https://qiita.com/ShigemoriMasato/items/a3ef3d5b2549540e5f1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-05T12:06:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ガザ：「援助に見せかけた虐殺」──イスラエルと米国による食料配給システムの解体と封鎖の解除を | プレスリリース | 国境なき医師団",
+    "link": "https://www.msf.or.jp/news/press/detail/pse20250630nt.html",
+    "pubDate": "2025-07-01T02:05:52.000Z"
   }
 ]
