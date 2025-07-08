@@ -1,6 +1,54 @@
 [
   {
     "site": "Hatena",
+    "title": "参政党・神谷宗幣代表の「プロゲーマー集めてドローン部隊を作る」という発言に批判の声が集まる→「ゲーマーは別に現実で人を殺すためにゲーム技術高めてるわけじゃないんだよね」",
+    "link": "https://togetter.com/li/2573441",
+    "pubDate": "2025-07-08T01:01:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "太陽系にあるかもしれない“不思議な物質3選”　「ヘリウム化合物」「ほとんど金属な氷」「天然の準結晶」",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/08/news019.html",
+    "pubDate": "2025-07-07T23:09:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "実務で使っているClaude Codeの開発環境の紹介",
+    "link": "https://zenn.dev/gatechnologies/articles/5780de81709e97",
+    "pubDate": "2025-07-07T22:28:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Notionがチームの脳になる。Cursorで実現する「集合知AI」｜Hiroki Sato / LayerX",
+    "link": "https://note.com/rocky3333sh/n/n951eeaf094bc",
+    "pubDate": "2025-07-07T15:23:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code でモックアップを HTML と Tailwind CSS (CDN 版) で作る",
+    "link": "https://voluntas.ghost.io/mockup-with-html-tailwind-via-claude-code/",
+    "pubDate": "2025-07-07T14:40:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Python×株式投資｜仕事終わりでも投資を諦めない。スクリーニング結果を自動通知するBotを作る（中編） - Qiita",
+    "link": "https://qiita.com/rS_alonewolf/items/97f6364486657c71e7f3",
+    "pubDate": "2025-07-07T13:25:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "実務で使っているClaude Codeの開発環境の紹介",
+    "link": "https://zenn.dev/gatechnologies/articles/5780de81709e97",
+    "pubDate": "Mon, 07 Jul 2025 13:12:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【教育目的】ゲームで学ぶアセンブリ｜『Squally』で始めるゲームセキュリティ入門",
+    "link": "https://zenn.dev/the_art_of_nerd/articles/a3791540dfa025",
+    "pubDate": "Mon, 07 Jul 2025 13:04:05 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "ダラダラ長いYouTube動画をGoogleの無料AIノート「NotebookLM」でサクッと要約して短時間で理解可能にする方法＆「ながら聞き」できる音声ポッドキャストの生成方法",
     "link": "https://gigazine.net/news/20250707-youtube-google-notebooklm/",
     "pubDate": "2025-07-07T11:24:32.000Z"
@@ -12,10 +60,40 @@
     "pubDate": "2025-07-07T10:16:00.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "シェルで途中まで入力したコマンドを一時保存して後から実行する小技",
+    "link": "https://zenn.dev/satoru_takeuchi/articles/dd0e68740282d6",
+    "pubDate": "Mon, 07 Jul 2025 09:41:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "職場のプロジェクトに必ず配置しちゃうMakefileの話",
+    "link": "https://zenn.dev/loglass/articles/0016-make-makefile",
+    "pubDate": "Mon, 07 Jul 2025 09:00:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】第2章🔥：『ゆけ、ピカチュウ！』～コンストラクタとインスタンス～",
+    "link": "https://qiita.com/hitomin_poke/items/6a9f1a23ec0b3c946118?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-07T08:50:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "TypeScriptだけで「なんちゃってOS」を作ってみた【コードあり】",
+    "link": "https://qiita.com/rtkjm22/items/f53473c73dd0c937c9b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-07T08:13:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "SPM活用でモジュール分割したときのディレクトリ構成を考える",
+    "link": "https://zenn.dev/st43/articles/c758b22130aefe",
+    "pubDate": "Mon, 07 Jul 2025 03:22:59 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "「自分用に巧妙にカスタマイズされた詐欺に遭ったので、被害を増やさないために共有する」→生成AIで手間の壁が突破され悪用されてる",
-    "link": "https://togetter.com/li/2573070",
-    "pubDate": "2025-07-07T03:47:10.000Z"
+    "title": "これからのAIスキルは「プロンプト」ではなく「コンテキスト・エンジニアリング」──Google DeepMind フィリップ・シュミット氏が提起 | Ledge.ai",
+    "link": "https://ledge.ai/articles/context_engineering_deepmind",
+    "pubDate": "2025-07-07T03:13:14.000Z"
   },
   {
     "site": "Zenn",
@@ -24,22 +102,10 @@
     "pubDate": "Mon, 07 Jul 2025 03:06:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "自分の10年越えTwitterログが超記憶として対話可能に！Twilog専用MCPサーバーが使えるようになりました。｜Togetter（トゥギャッター ）",
-    "link": "https://note.com/togetter/n/n084819ff6502",
-    "pubDate": "2025-07-07T01:23:30.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "QAは何でも屋？：QA業務の本質を考える",
     "link": "https://qiita.com/s-yoshina/items/9251a1bfc23cc8f4553a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-07T01:10:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIによる開発高速化で作り出した時間は新機能開発でなくユーザー理解に使おう - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2025/07/07/100000",
-    "pubDate": "2025-07-07T01:04:33.000Z"
   },
   {
     "site": "Qiita",
@@ -48,34 +114,16 @@
     "pubDate": "2025-07-07T01:02:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "全人類にお勧めしたい「エクスプローラー」のカスタマイズ！ フォルダーサイズも確認可能に／最強の検索アプリ「Everything」とカスタマイズツール「Windhawk」を組み合わせ【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2028180.html",
-    "pubDate": "2025-07-07T00:02:17.000Z"
+    "site": "Qiita",
+    "title": "10歳娘「わたし空気が読めないからプログラマーに向いてるよね」",
+    "link": "https://qiita.com/Yametaro/items/9724cbc03559fc39500f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-06T23:59:40.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「寝ないと痩せない」は本当か？　4時間しか寝れない睡眠不足環境と体重の関係を調査　22年発表の研究",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/07/news025.html",
-    "pubDate": "2025-07-06T23:35:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ほぼリアルタイムで会話を文字起こししてレンズに映す聴覚障害者向けのスマートグラス「TranscribeGlass」、翻訳機能も付いて誰でも便利に使える",
-    "link": "https://gigazine.net/news/20250707-transcribeglass/",
-    "pubDate": "2025-07-06T23:28:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "やり方が汚い。Pixel 6aへの死のアップデート。逃げ道完全に封鎖 - Gadget Leaker",
-    "link": "https://gadgetleaker64.com/2025/07/04/its-a-dirty-trick-a-deadly-update-to-the-pixel-6a-no-way-out/",
-    "pubDate": "2025-07-06T23:15:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Tokyo dbt Meetup #15 に参加してきた(テーマ：「dbt × LLM」)  #dbt_tokyo",
-    "link": "https://zenn.dev/shinyaa31/articles/6c3ebfebc4831a",
-    "pubDate": "Sun, 06 Jul 2025 21:31:58 GMT"
+    "title": "【絶対無理ゲー】Amazonで本物そっくりの模造品をつかまされた話（クリンスイ浄水カートリッジ） - give IT a try",
+    "link": "https://blog.jnito.com/entry/2025/07/07/075133",
+    "pubDate": "2025-07-06T23:17:24.000Z"
   },
   {
     "site": "Zenn",
@@ -85,9 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "速習 Claude Code",
-    "link": "https://zenn.dev/mizchi/articles/claude-code-cheatsheet",
-    "pubDate": "2025-07-06T16:34:29.000Z"
+    "title": "Makie.jl入門",
+    "link": "https://zenn.dev/ohno/articles/1d4dacd086b579",
+    "pubDate": "Sun, 06 Jul 2025 19:36:01 GMT"
   },
   {
     "site": "Zenn",
@@ -100,48 +148,6 @@
     "title": "無職がメガベンチャーに内定するまで",
     "link": "https://zenn.dev/shinonome81/articles/3e3f975e88f8cb",
     "pubDate": "Sun, 06 Jul 2025 13:15:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカル開発環境のDockerコンテナ内で Storybook on Chromatic を利用して VRT の差分検知を実施する",
-    "link": "https://zenn.dev/comm_vue_nuxt/articles/b989e600645325",
-    "pubDate": "Sun, 06 Jul 2025 10:13:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Microsoftが公開しているDeep Researchのサンプルコードを理解してみる（ついでにC＃ライブラリ化も）",
-    "link": "https://zenn.dev/microsoft/articles/ms-oss-deepresearch",
-    "pubDate": "Sun, 06 Jul 2025 09:26:48 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "リンク機構の軌跡を可視化するメカニカルアートをp5.jsで作ってみた",
-    "link": "https://qiita.com/ishi720/items/7d9defe5301e8089b9ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-06T08:45:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google ChromeのMCPサーバに面倒なことをやらせてみたかったけど難しかった",
-    "link": "https://zenn.dev/karaage0703/articles/a2019f9ee283b8",
-    "pubDate": "Sun, 06 Jul 2025 07:55:10 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "究極のポジティブ思考のすゝめ",
-    "link": "https://qiita.com/pilot_fish/items/f9117620c2144a451a9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-06T05:48:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "構造を理解した AI ファーストな差分ツール「diffx」を、Claude Code と Rust で作ってリリースしました",
-    "link": "https://zenn.dev/kako_jun/articles/1d518f47225f42",
-    "pubDate": "Sun, 06 Jul 2025 04:39:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "非エンジニアがAIと実践するTDD✖️vibe coding",
-    "link": "https://zenn.dev/0k9p1/articles/513b6fe7973e01",
-    "pubDate": "Sun, 06 Jul 2025 03:59:09 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "[速習] 配列から欠けている数字を見つける「XORトリック」の深い理論と実践",
     "link": "https://qiita.com/ShigemoriMasato/items/ba1b6d9149e16867c0cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-05T00:51:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 クラス#1～ピカチュウを大解剖～",
-    "link": "https://qiita.com/hitomin_poke/items/07d8109f828ab9e51854?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-04T08:44:16.000Z"
   }
 ]
