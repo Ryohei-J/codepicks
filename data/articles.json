@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "画像生成AI「Stable Diffusion」、性的コンテンツでの利用を禁止に　開発会社が規約改定へ",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/09/news076.html",
-    "pubDate": "2025-07-09T02:51:25.000Z"
+    "title": "LLMは新しい抽象化をもたらす - Martin Fowler's Bliki (ja)",
+    "link": "https://bliki-ja.github.io/LLMsBringNewNatureOfAbstraction",
+    "pubDate": "2025-07-09T05:49:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "高校のワイ「作者の気持ちなんて考えて何になるんだよ」就職後、ITシステム設計に従事したワイ「うわあぁぁぁぁーーーーーーーーー!! 前任者の設計意図ーーーーーーーーー!!」",
-    "link": "https://togetter.com/li/2573810",
-    "pubDate": "2025-07-09T01:36:02.000Z"
+    "title": "アップデートした「Grok」がイーロン・マスクになりすまし自らを「メカ・ヒトラー」と呼び反ユダヤ主義を主張してくると批判が集まる",
+    "link": "https://gigazine.net/news/20250709-grok-update-conspiracy-jewish/",
+    "pubDate": "2025-07-09T05:30:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Git diff閲覧ツール「ReviewIt」が「difit」に変わります",
+    "link": "https://zenn.dev/yoshiko/articles/difit-from-reviewit",
+    "pubDate": "Wed, 09 Jul 2025 04:31:37 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ローカルLLM実行環境LM Studio、企業・組織での商用利用を無料に | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/07/lm-studio-is-free-for-work",
+    "pubDate": "2025-07-09T04:27:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "PythonユーザーのためのGo入門",
+    "link": "https://zenn.dev/np_ur/books/907c3e4c4f4486",
+    "pubDate": "Wed, 09 Jul 2025 03:15:10 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "サイボウズ、新卒エンジニア向け研修資料を無料公開　AIツール「Dify」や「GitHub Copilot」など全19種",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/09/news074.html",
+    "pubDate": "2025-07-09T03:03:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "画像生成AI「Stable Diffusion」、性的コンテンツでの利用を禁止に　開発会社が規約改定へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/09/news076.html",
+    "pubDate": "2025-07-09T02:51:25.000Z"
   },
   {
     "site": "Hatena",
@@ -18,16 +48,28 @@
     "pubDate": "2025-07-09T01:00:36.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Spanner は本当に高い？思ったよりも低い Firestore との損益分岐点",
+    "link": "https://zenn.dev/apstndb/articles/spanner-cost-comparison-firestore",
+    "pubDate": "Wed, 09 Jul 2025 00:36:07 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「オレオ」を分離すると、なぜ片方にクリームが残る？　米MITが本気で研究「オレオロジー」　22年に発表",
     "link": "https://www.itmedia.co.jp/news/articles/2507/09/news008.html",
     "pubDate": "2025-07-08T23:37:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code + Container Use と Cursor で作る ローカル並列開発環境のススメ / ccc local dev",
-    "link": "https://speakerdeck.com/kaelaela/ccc-local-dev",
-    "pubDate": "2025-07-08T16:14:08.000Z"
+    "site": "Zenn",
+    "title": "人間が休んでる時こそClaude Code  Actionの出番ですね",
+    "link": "https://zenn.dev/r_kaga/articles/731fe4636289dc",
+    "pubDate": "Tue, 08 Jul 2025 21:30:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Claude MAX】GitHub Actionsを利用して、Claude CodeにPRレビューしてもらう手順",
+    "link": "https://zenn.dev/mohy_nyapan/articles/133279a79c7dcd",
+    "pubDate": "Tue, 08 Jul 2025 14:36:57 GMT"
   },
   {
     "site": "Hatena",
@@ -43,9 +85,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編：public static void main()　のホントの意味",
-    "link": "https://qiita.com/hitomin_poke/items/fcb2425245754055e163?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-08T08:46:14.000Z"
+    "title": "JavaScriptのforEachでawaitが効かない理由",
+    "link": "https://qiita.com/ssc-dninomiya/items/d5f5e8eac0ddc915ba46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-08T08:07:21.000Z"
   },
   {
     "site": "Hatena",
@@ -61,33 +103,21 @@
   },
   {
     "site": "Zenn",
-    "title": "最新論文調査：大規模モデル時代における鉄スクラップ CVの現在地",
-    "link": "https://zenn.dev/eversteel_tech/articles/5fbeefd7ffc064",
-    "pubDate": "Tue, 08 Jul 2025 06:00:45 GMT"
+    "title": "簡易なバックグラウンドプロセス管理ツールを実装してみた",
+    "link": "https://zenn.dev/techlead/articles/2025-07-07-rust-ghost",
+    "pubDate": "Tue, 08 Jul 2025 06:29:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "社内AI推進者はつらいよ｜Kakko🌸🌈",
-    "link": "https://note.com/kakowara/n/n46ca355a6aa6",
-    "pubDate": "2025-07-08T04:01:25.000Z"
+    "site": "Zenn",
+    "title": "実務未経験が約１週間で情報処理安全確保支援士試験に合格しました #情報処理安全確保支援士",
+    "link": "https://zenn.dev/tatesoto/articles/7671b6226daffa",
+    "pubDate": "Tue, 08 Jul 2025 03:33:09 GMT"
   },
   {
     "site": "Qiita",
     "title": "プロンプトエンジニアリング超入門 – プロンプトエンジニアリングは本当に死んだのか？",
     "link": "https://qiita.com/tamura__246/items/bd5d62b1213610618f20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-08T02:19:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【不合格体験記】IPAの試験に「あと1点」で落ちる方法【情報処理安全確保支援士・応用情報技術者試験】",
-    "link": "https://qiita.com/ponzujure/items/4d72d05429f9d7961af9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-08T01:53:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "論文紹介:Difference-in-Differences Designs: A Practitioner's Guide　Part1",
-    "link": "https://zenn.dev/dmmdata/articles/d8373cb7625c19",
-    "pubDate": "Tue, 08 Jul 2025 01:39:50 GMT"
   },
   {
     "site": "Qiita",
@@ -100,12 +130,6 @@
     "title": "いま「未経験からエンジニア」を目指す方へ伝えたいこと",
     "link": "https://qiita.com/hirokiii27/items/5fa7bb3c6dd5739d987f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-08T00:40:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Cursorの価格設定変更の騒動について",
-    "link": "https://blog.lai.so/cursor-pricing/",
-    "pubDate": "2025-07-07T22:04:57.000Z"
   },
   {
     "site": "Zenn",
@@ -126,36 +150,6 @@
     "pubDate": "Mon, 07 Jul 2025 13:24:08 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "実務で使っているClaude Codeの開発環境の紹介",
-    "link": "https://zenn.dev/gatechnologies/articles/5780de81709e97",
-    "pubDate": "Mon, 07 Jul 2025 13:12:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【教育目的】ゲームで学ぶアセンブリ｜『Squally』で始めるゲームセキュリティ入門",
-    "link": "https://zenn.dev/the_art_of_nerd/articles/a3791540dfa025",
-    "pubDate": "Mon, 07 Jul 2025 13:04:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Codeで個人開発】GitHub 活動をドラゴンボール風「戦闘力」で可視化！Next.js 製GitHubスカウター開発記",
-    "link": "https://zenn.dev/dirtyman/articles/5e6445036ac4f6",
-    "pubDate": "Mon, 07 Jul 2025 12:44:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "シェルで途中まで入力したコマンドを一時保存して後から実行する小技",
-    "link": "https://zenn.dev/satoru_takeuchi/articles/dd0e68740282d6",
-    "pubDate": "Mon, 07 Jul 2025 09:41:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "1時間でGemini CLIとLINE Bot",
-    "link": "https://zenn.dev/n0bisuke/books/geminicli-linebot",
-    "pubDate": "Mon, 07 Jul 2025 09:39:45 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIに勝てないとわかっている時代に、今からエンジニアを志す君たちへ",
     "link": "https://qiita.com/tamtamatsushi0717/items/5959ed2ddfdc7f776653?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,6 +166,12 @@
     "title": "【UI】ドロップダウンはいつ、どのように使うべきなのか",
     "link": "https://qiita.com/kobayashimakoto/items/926b9f1b4ffff1a1a296?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-07T01:35:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初心者向け】VSCode + AWS Toolkitで始める！GUIで簡単 AWS SAM Lambda 開発入門",
+    "link": "https://qiita.com/shohei_yamamoto/items/f133cbd5e42e1ae7a697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-07T01:02:47.000Z"
   },
   {
     "site": "Qiita",
