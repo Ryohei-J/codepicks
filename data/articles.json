@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "Microsoft「助けて」　Windowsコマンド解説ページで突然のSOS　翻訳ミスか",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/10/news090.html",
+    "pubDate": "2025-07-10T04:10:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、Webブラウザ発表へ　Chromeに対抗",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/10/news070.html",
+    "pubDate": "2025-07-10T02:03:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "［Python］これなら分かる「uv」入門：pip＋venvやcondaから最速で乗り換えよう",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/10/news013.html",
+    "pubDate": "2025-07-09T23:12:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "コレクション機能を利用したKindleの整理方法（大量の漫画に埋もれている人向け） - c_shiikaのブログ",
     "link": "https://c-underline-shiika.hatenablog.jp/entry/2025/07/09/195512",
     "pubDate": "2025-07-09T22:49:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「CD2WAV32」が令和に復活。寿命間近かもしれないCDをリッピングしてみた／CDDBの生存を確認。「午後のこ～だ」との連携機能も【レビュー】",
+    "link": "https://forest.watch.impress.co.jp/docs/review/2029526.html",
+    "pubDate": "2025-07-09T22:20:08.000Z"
   },
   {
     "site": "Hatena",
@@ -18,16 +42,16 @@
     "pubDate": "2025-07-09T21:51:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NVIDIA時価総額、世界初の4兆ドル突破　AI成長期待で - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN098R70Z00C25A7000000/",
-    "pubDate": "2025-07-09T14:17:40.000Z"
+    "site": "Zenn",
+    "title": "claude codeにNG Word集を設定すればキレなくてすむのでそのやり方",
+    "link": "https://zenn.dev/sesere/articles/e3d5695e0a7d14",
+    "pubDate": "2025-07-09T21:23:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIのプロトコル「MCP」経由でSQLデータベース全体を漏洩させる可能性がある手法が発見される",
-    "link": "https://gigazine.net/news/20250709-mcp-sql-leak/",
-    "pubDate": "2025-07-09T12:20:59.000Z"
+    "site": "Zenn",
+    "title": "claude codeにNG Word集を設定すればキレなくてすむのでそのやり方",
+    "link": "https://zenn.dev/sesere/articles/e3d5695e0a7d14",
+    "pubDate": "Wed, 09 Jul 2025 20:55:08 GMT"
   },
   {
     "site": "Qiita",
@@ -42,28 +66,10 @@
     "pubDate": "2025-07-09T09:40:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "破産した秀和システムの出版事業を引き継いだ会社からの連絡を読んで、思わず笑ってしまった（CloseBox） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2025/07/09/4471.html",
-    "pubDate": "2025-07-09T09:25:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "LLMは新しい抽象化をもたらす - Martin Fowler's Bliki (ja)",
-    "link": "https://bliki-ja.github.io/LLMsBringNewNatureOfAbstraction",
-    "pubDate": "2025-07-09T05:49:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Git diff閲覧ツール「ReviewIt」が「difit」に変わります",
     "link": "https://zenn.dev/yoshiko/articles/difit-from-reviewit",
     "pubDate": "Wed, 09 Jul 2025 04:31:37 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ローカルLLM実行環境LM Studio、企業・組織での商用利用を無料に | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/07/lm-studio-is-free-for-work",
-    "pubDate": "2025-07-09T04:27:49.000Z"
   },
   {
     "site": "Zenn",
@@ -85,15 +91,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Anthropicが提案するClaude Codeのベストプラクティス",
+    "link": "https://zenn.dev/ueshiii/articles/6b7561f1a1daae",
+    "pubDate": "Wed, 09 Jul 2025 00:06:04 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "人間が休んでる時こそClaude Code  Actionの出番ですね",
     "link": "https://zenn.dev/r_kaga/articles/731fe4636289dc",
     "pubDate": "Tue, 08 Jul 2025 21:30:01 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Tailscale + Vibe Tunnelでリモートから手軽にAIコーディング",
-    "link": "https://zenn.dev/karaage0703/articles/1c84cd87f55ed5",
-    "pubDate": "Tue, 08 Jul 2025 16:16:13 GMT"
+    "title": "AIアプリを陰で支える通信プロトコル「SSE」を学びましょう",
+    "link": "https://zenn.dev/team_soda/articles/c6f6e14e796da5",
+    "pubDate": "Tue, 08 Jul 2025 21:00:02 GMT"
   },
   {
     "site": "Zenn",
@@ -124,18 +136,6 @@
     "title": "簡易なバックグラウンドプロセス管理ツールを実装してみた",
     "link": "https://zenn.dev/techlead/articles/2025-07-07-rust-ghost",
     "pubDate": "Tue, 08 Jul 2025 06:29:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "最新論文調査：大規模モデル時代における鉄スクラップ CVの現在地",
-    "link": "https://zenn.dev/eversteel_tech/articles/5fbeefd7ffc064",
-    "pubDate": "Tue, 08 Jul 2025 06:00:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "実務未経験が約１週間で情報処理安全確保支援士試験に合格しました #情報処理安全確保支援士",
-    "link": "https://zenn.dev/tatesoto/articles/7671b6226daffa",
-    "pubDate": "Tue, 08 Jul 2025 03:33:09 GMT"
   },
   {
     "site": "Qiita",
