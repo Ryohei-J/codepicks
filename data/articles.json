@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "AIコーディングツールは生産性を19％も低下させているという調査結果、AI出力の評価・手直し・再出力などで無駄な時間が大量発生か",
+    "link": "https://gigazine.net/news/20250711-ai-coding-tools-reduce-productivity/",
+    "pubDate": "2025-07-11T13:20:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DELLのサポートがひどすぎる件",
+    "link": "https://anond.hatelabo.jp/20250711214843",
+    "pubDate": "2025-07-11T12:57:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI エージェントと考え直すデータ基盤",
+    "link": "https://speakerdeck.com/na0/ai-ezientotokao-ezhi-sudetaji-pan",
+    "pubDate": "2025-07-11T08:44:17.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【ポケモン×Java】第3章：『博士からのふしぎなおくりもの』～インスタンス②～",
     "link": "https://qiita.com/hitomin_poke/items/2b5a727f46c2f7c94292?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -24,6 +42,12 @@
     "pubDate": "Fri, 11 Jul 2025 01:54:26 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Dockerを使うことになった際に役立ちそうな知識",
+    "link": "https://zenn.dev/bita/articles/2ac26a638d1e7f",
+    "pubDate": "Fri, 11 Jul 2025 01:39:55 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Dify：新しいOCI Gen AIモデル(Grok, Llama, Cohere Embed)をPluginに追加してみた",
     "link": "https://qiita.com/yushibats/items/660246390861f76fce37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -42,16 +66,10 @@
     "pubDate": "Fri, 11 Jul 2025 00:00:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "死亡者続出「ファラオの呪い」、その原因はカビの仲間？→白血病の治療薬になる可能性、米国チームが発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/11/news033.html",
-    "pubDate": "2025-07-10T23:39:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「探したら256MBのUSBメモリと512MBのSDカードを発掘しました」富士フィルムから500TBの磁気テープが出たが、かつては1GBのHDDが30万円だった時代もあった想い出",
-    "link": "https://togetter.com/li/2574520",
-    "pubDate": "2025-07-10T23:36:45.000Z"
+    "site": "Zenn",
+    "title": "生成 AI で国会議事録を要約して提供する Web サイトをリリースした",
+    "link": "https://zenn.dev/uedakoki/articles/3e035c4e6f78a7",
+    "pubDate": "Thu, 10 Jul 2025 23:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -64,6 +82,12 @@
     "title": "降霊術で t_wada を AI に降ろして PR レビューして貰うテクニックが伸びたのでその裏側記事を書きました！｜Ryo@VibeCoder",
     "link": "https://note.com/biwakonbu/n/n0f1c75418030",
     "pubDate": "2025-07-10T15:05:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Goで作る自作コーディングエージェント nebula 開発入門",
+    "link": "https://zenn.dev/cube/books/460bb068d9613a",
+    "pubDate": "Thu, 10 Jul 2025 14:29:38 GMT"
   },
   {
     "site": "Hatena",
@@ -103,9 +127,15 @@
   },
   {
     "site": "Zenn",
-    "title": "キャリアアップしたい若手エンジニアが意識すべきこと5選",
-    "link": "https://zenn.dev/kazuma_h/articles/1ab56404917d87",
-    "pubDate": "Thu, 10 Jul 2025 07:03:22 GMT"
+    "title": "ClaudeCodeでContext Engineeringに沿った開発フローを探索する",
+    "link": "https://zenn.dev/tacoms/articles/6a717fe95d5199",
+    "pubDate": "Thu, 10 Jul 2025 03:42:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "勉強会やめます。",
+    "link": "https://zenn.dev/flinters_blog/articles/20f737552acf43",
+    "pubDate": "Thu, 10 Jul 2025 03:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -120,12 +150,6 @@
     "pubDate": "2025-07-10T00:48:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「脂肪」も脳のエネルギー源だった。“主燃料はブドウ糖だけ説”覆す研究、Nature系列誌で発表【研究紹介】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/column/detail_693/",
-    "pubDate": "2025-07-10T00:01:19.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Power Apps キャンバスアプリで 2000 件以上のデータを扱いたい",
     "link": "https://qiita.com/Takashi_Masumori/items/3d2bda5570d9ee2c0750?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -138,34 +162,10 @@
     "pubDate": "2025-07-09T23:24:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "claude codeにNG Word集を設定すればキレなくてすむのでそのやり方",
-    "link": "https://zenn.dev/sesere/articles/e3d5695e0a7d14",
-    "pubDate": "Wed, 09 Jul 2025 20:55:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLM プログラミングのコツ (2025年07月版)",
-    "link": "https://zenn.dev/tommy109/articles/08e42e1a30b494",
-    "pubDate": "Wed, 09 Jul 2025 14:59:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "C#でもaviutl2のプラグインが作れる！Native AOTを添えて",
-    "link": "https://zenn.dev/yamachu/articles/f3912ea418f530",
-    "pubDate": "Wed, 09 Jul 2025 13:43:22 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AWS構成図作成の悩みを一掃！Diagram as Codeで始める“コードで描く”インフラ設計",
     "link": "https://qiita.com/k_adachi_01/items/ccfbf6952d7ee252bfb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-09T09:53:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Git diff閲覧ツール「ReviewIt」が「difit」に変わります",
-    "link": "https://zenn.dev/yoshiko/articles/difit-from-reviewit",
-    "pubDate": "Wed, 09 Jul 2025 04:31:37 GMT"
   },
   {
     "site": "Qiita",
