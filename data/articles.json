@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "LINEヤフー・ソフトバンク、AI利用を義務化　普及に備えノウハウ蓄積 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC025OB0S5A700C2000000/",
+    "pubDate": "2025-07-12T08:56:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "SF作家のアイザック・アシモフは「人類のほとんどは2+2は4かもしれないと言われるより2+2は間違いなく5だと言われる方を好む」と言っていたらしい",
+    "link": "https://togetter.com/li/2575100",
+    "pubDate": "2025-07-12T08:41:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Amazon S3 へデータ転送速度が早いと噂の s5cmd を使って aws s3 cp と比べてみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/s5cmd-vs-aws-s3-cp-speed-comparison/",
+    "pubDate": "2025-07-12T06:04:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "真説 Windowsでディレクトリ区切りのスラッシュ / がバックスラッシュ ⧵ で円マーク ¥ な理由 - Qiita",
+    "link": "https://qiita.com/ko1nksm/items/4ae0a784a612f23aa412",
+    "pubDate": "2025-07-12T04:57:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「データセンターASMR」GMOが公開中　サーバの音が約12時間、ほぼホワイトノイズ？",
     "link": "https://www.itmedia.co.jp/news/articles/2507/11/news112.html",
     "pubDate": "2025-07-12T04:08:32.000Z"
   },
   {
     "site": "Hatena",
-    "title": "大阪万博、パビリオン予約での不正行為に警告　ID無効化の対応も――“裏ワザ”対策か",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/12/news023.html",
-    "pubDate": "2025-07-11T22:51:26.000Z"
+    "title": "「もはや運転手はただの見張り」最近の自動運転車は空いてる高速道路くらいなら座ってるだけで走れる、車というよりロボットの操縦席みたくなっている",
+    "link": "https://togetter.com/li/2575035",
+    "pubDate": "2025-07-12T02:32:33.000Z"
   },
   {
     "site": "Hatena",
@@ -18,46 +42,40 @@
     "pubDate": "2025-07-11T22:39:52.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【朗報】ついにMicrosoft 365 Copilotが最強の同僚になる日が来ました 〜Copilot メモリについての調査記録〜",
+    "link": "https://qiita.com/Oyu3m/items/608ff69ae4131988a511?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-11T15:48:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "JavaScript の using と DisposableStack#defer で Go の defer 風",
+    "link": "https://zenn.dev/sosukesuzuki/articles/697b059563a782",
+    "pubDate": "Fri, 11 Jul 2025 13:57:02 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "DELLのサポートがひどすぎる件",
     "link": "https://anond.hatelabo.jp/20250711214843",
     "pubDate": "2025-07-11T12:57:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "vitestではbeforeEachを使わない",
-    "link": "https://blog.koh.dev/2025-07-11-vitest-beforeeach/",
-    "pubDate": "2025-07-11T11:50:41.000Z"
+    "site": "Qiita",
+    "title": "[入門] オープンソースライセンス違反を防ぐための実践ガイド",
+    "link": "https://qiita.com/ShigemoriMasato/items/7346eee65f1a47934a26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-11T12:34:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Makefileを便利コマンドメモとして使うことに対する違和感 | takeokunn's blog",
-    "link": "https://www.takeokunn.org/posts/permanent/20250711132607-why_not_command_memo_makefile/",
-    "pubDate": "2025-07-11T11:30:04.000Z"
+    "title": "きっとあなたの知らないGitHubで使えるGitHub Copilotの機能 | ドクセル",
+    "link": "https://www.docswell.com/s/Kesin11/5GGJYL-2025-07-11-github-copilot-on-github",
+    "pubDate": "2025-07-11T12:00:11.000Z"
   },
   {
     "site": "Hatena",
     "title": "「何か騙されてないか？」　大阪・泉大津市長の“夢の燃料”X投稿に疑問を呈する声が相次ぐ　市の見解は？",
     "link": "https://www.itmedia.co.jp/news/articles/2507/11/news101.html",
     "pubDate": "2025-07-11T08:29:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "インフラ寄りSREの生存戦略",
-    "link": "https://speakerdeck.com/sansantech/20250711",
-    "pubDate": "2025-07-11T07:52:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "開発チームの空気を変える、たった3つの習慣",
-    "link": "https://qiita.com/yuto_shinkawa/items/c6fb08deef213392cd0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-11T06:55:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】第3章：『博士からのふしぎなおくりもの』～インスタンス②～",
-    "link": "https://qiita.com/hitomin_poke/items/2b5a727f46c2f7c94292?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-11T04:41:13.000Z"
   },
   {
     "site": "Zenn",
@@ -67,9 +85,21 @@
   },
   {
     "site": "Qiita",
+    "title": "「AWS Systems Manager Patch Manager： RHEL 8.8.0でパッチベースラインが見つからないエラーの解決法",
+    "link": "https://qiita.com/konippi_524/items/495a5db799519a5fe4cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-11T04:36:46.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【2025年最新】無料で使える！Cursor代替オープンソースツール10選",
     "link": "https://qiita.com/Nakamura-Kaito/items/d32b873d39fab94e2c2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-11T04:32:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "非エンジニアでもセキュリティの仕事を続けられる",
+    "link": "https://qiita.com/secat/items/75a6fbaef07e63fb7a81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-11T03:17:14.000Z"
   },
   {
     "site": "Zenn",
@@ -85,21 +115,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Dockerを使うことになった際に役立ちそうな知識",
-    "link": "https://zenn.dev/bita/articles/2ac26a638d1e7f",
-    "pubDate": "Fri, 11 Jul 2025 01:39:55 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Dify：新しいOCI Gen AIモデル(Grok, Llama, Cohere Embed)をPluginに追加してみた",
-    "link": "https://qiita.com/yushibats/items/660246390861f76fce37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-11T01:38:38.000Z"
+    "title": "MySQLユーザーによるSpannerキャッチアップへの道",
+    "link": "https://zenn.dev/canary_techblog/articles/7a8cbf4fe0534f",
+    "pubDate": "Fri, 11 Jul 2025 01:40:14 GMT"
   },
   {
     "site": "Zenn",
-    "title": "LogitsProcessorZoo で LLM の出力をコントロールする",
-    "link": "https://zenn.dev/prgckwb/articles/logits-processor-zoo-explain",
-    "pubDate": "Fri, 11 Jul 2025 01:30:02 GMT"
+    "title": "Dockerを使うことになった際に役立ちそうな知識",
+    "link": "https://zenn.dev/bita/articles/2ac26a638d1e7f",
+    "pubDate": "Fri, 11 Jul 2025 01:39:55 GMT"
   },
   {
     "site": "Zenn",
@@ -109,27 +133,27 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Code Maxで実現する完全自動並列開発システム - 人間不在でissueを解決し続けるAIエージェント群の構築",
+    "link": "https://zenn.dev/studio_prairie/articles/90f5fc48a6dea7",
+    "pubDate": "Thu, 10 Jul 2025 23:18:35 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "生成 AI で国会議事録を要約して提供する Web サイトをリリースした",
     "link": "https://zenn.dev/uedakoki/articles/3e035c4e6f78a7",
     "pubDate": "Thu, 10 Jul 2025 23:00:06 GMT"
   },
   {
     "site": "Zenn",
-    "title": "【Claude MAX】GitHubActionsで動作するClaude CodeからPRレビュー結果をMCPでSlackに",
-    "link": "https://zenn.dev/mohy_nyapan/articles/3d20c9979c9b2f",
-    "pubDate": "Thu, 10 Jul 2025 17:05:00 GMT"
+    "title": "プラグインの引っ越し地獄から脱却！令和のVimファイラーはこれで決まり！",
+    "link": "https://zenn.dev/1227yukimura/articles/introduce-vim-yazi",
+    "pubDate": "Thu, 10 Jul 2025 17:13:50 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Goで作る自作コーディングエージェント nebula 開発入門",
-    "link": "https://zenn.dev/cube/books/460bb068d9613a",
-    "pubDate": "Thu, 10 Jul 2025 14:29:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeのセットアップとモバイルアプリの環境構築",
-    "link": "https://zenn.dev/solar/articles/6a2c9ffaf9fe16",
-    "pubDate": "Thu, 10 Jul 2025 10:41:41 GMT"
+    "site": "Qiita",
+    "title": "パスを通すとは結局なんなのか",
+    "link": "https://qiita.com/flowernotfound/items/ba330ddc77f1aa8af09c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-10T09:46:08.000Z"
   },
   {
     "site": "Qiita",
@@ -150,33 +174,9 @@
     "pubDate": "2025-07-10T00:48:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code hooksについて解説してみる | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/claude-code-hooks-basic-usage/",
-    "pubDate": "2025-07-09T23:37:25.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWS構成図作成の悩みを一掃！Diagram as Codeで始める“コードで描く”インフラ設計",
     "link": "https://qiita.com/k_adachi_01/items/ccfbf6952d7ee252bfb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-09T09:53:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【悪用ダメ】攻撃者ツールから学ぶCISSP対策",
-    "link": "https://qiita.com/sick_sec_sox/items/412d17b745e63a946fd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-09T07:34:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「使えるReact」はこうして身につけた - レアゾン・ホールディングス 2025新卒エンジニアReact研修",
-    "link": "https://qiita.com/ren_matsubara/items/c93d32a5999febd76309?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-09T02:15:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIコーディングツールは生産性を19％も低下させているという調査結果、AI出力の評価・手直し・再出力などで無駄な時間が大量発生か",
-    "link": "https://gigazine.net/news/20250711-ai-coding-tools-reduce-productivity/",
-    "pubDate": "2010-10-14T04:16:42.000Z"
   }
 ]
