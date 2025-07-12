@@ -1,9 +1,15 @@
 [
   {
     "site": "Hatena",
-    "title": "AIコーディングツールは生産性を19％も低下させているという調査結果、AI出力の評価・手直し・再出力などで無駄な時間が大量発生か",
-    "link": "https://gigazine.net/news/20250711-ai-coding-tools-reduce-productivity/",
-    "pubDate": "2025-07-11T13:20:27.000Z"
+    "title": "Apple経営陣の「新陳代謝」働かず、4割が10年超在任　AI劣勢が鮮明 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN1103S0R10C25A7000000/",
+    "pubDate": "2025-07-11T22:39:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【お知らせ】株式会社秀和システムの出版事業譲受について - 秀和システム あなたの学びをサポート！",
+    "link": "https://www.shuwasystem.co.jp/news/n61570.html",
+    "pubDate": "2025-07-11T13:48:32.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +19,39 @@
   },
   {
     "site": "Hatena",
+    "title": "vitestではbeforeEachを使わない",
+    "link": "https://blog.koh.dev/2025-07-11-vitest-beforeeach/",
+    "pubDate": "2025-07-11T11:50:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Makefileを便利コマンドメモとして使うことに対する違和感 | takeokunn's blog",
+    "link": "https://www.takeokunn.org/posts/permanent/20250711132607-why_not_command_memo_makefile/",
+    "pubDate": "2025-07-11T11:30:04.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI エージェントと考え直すデータ基盤",
     "link": "https://speakerdeck.com/na0/ai-ezientotokao-ezhi-sudetaji-pan",
     "pubDate": "2025-07-11T08:44:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「何か騙されてないか？」　大阪・泉大津市長の“夢の燃料”X投稿に疑問を呈する声が相次ぐ　市の見解は？",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/11/news101.html",
+    "pubDate": "2025-07-11T08:29:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "インフラ寄りSREの生存戦略",
+    "link": "https://speakerdeck.com/sansantech/20250711",
+    "pubDate": "2025-07-11T07:52:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "開発チームの空気を変える、たった3つの習慣",
+    "link": "https://qiita.com/yuto_shinkawa/items/c6fb08deef213392cd0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-11T06:55:51.000Z"
   },
   {
     "site": "Qiita",
@@ -24,16 +60,22 @@
     "pubDate": "2025-07-11T04:41:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Amazonでガジェットを注文したら、日本で使えない“技適なし製品”が届いた　泣き寝入りしかない？",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2507/11/news076.html",
-    "pubDate": "2025-07-11T04:36:40.000Z"
+    "site": "Zenn",
+    "title": "積極的キャッシュ生成による応答高速化",
+    "link": "https://zenn.dev/lapras_inc/articles/af5f8a87514d02",
+    "pubDate": "Fri, 11 Jul 2025 04:39:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "生成AI時代に問われる「指示力」とは。プロンプト・エンジニアリングの極意を専門家に学ぶ - ミーツキャリアbyマイナビ転職",
-    "link": "https://meetscareer.tenshoku.mynavi.jp/entry/20250711-hashimoto",
-    "pubDate": "2025-07-11T02:00:12.000Z"
+    "site": "Qiita",
+    "title": "【2025年最新】無料で使える！Cursor代替オープンソースツール10選",
+    "link": "https://qiita.com/Nakamura-Kaito/items/d32b873d39fab94e2c2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-11T04:32:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントによる社会シミュレーション - Generative Agents, AgentSociety, CitySimの紹介",
+    "link": "https://zenn.dev/mkj/articles/efb017f7a440ca",
+    "pubDate": "Fri, 11 Jul 2025 02:50:01 GMT"
   },
   {
     "site": "Zenn",
@@ -54,10 +96,10 @@
     "pubDate": "2025-07-11T01:38:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "動きはじめた米国AI著作権判決と、 控えめにいって大騒動な米国AI著作権法論議の記録帳　福井健策｜コラム | 骨董通り法律事務所 For the Arts",
-    "link": "https://www.kottolaw.com/column/250707.html",
-    "pubDate": "2025-07-11T00:36:37.000Z"
+    "site": "Zenn",
+    "title": "LogitsProcessorZoo で LLM の出力をコントロールする",
+    "link": "https://zenn.dev/prgckwb/articles/logits-processor-zoo-explain",
+    "pubDate": "Fri, 11 Jul 2025 01:30:02 GMT"
   },
   {
     "site": "Zenn",
@@ -79,27 +121,15 @@
   },
   {
     "site": "Hatena",
-    "title": "降霊術で t_wada を AI に降ろして PR レビューして貰うテクニックが伸びたのでその裏側記事を書きました！｜Ryo@VibeCoder",
-    "link": "https://note.com/biwakonbu/n/n0f1c75418030",
-    "pubDate": "2025-07-10T15:05:59.000Z"
+    "title": "Docker入門【サイボウズ新人研修2025】",
+    "link": "https://speakerdeck.com/cybozuinsideout/introduction-to-docker",
+    "pubDate": "2025-07-10T15:06:25.000Z"
   },
   {
     "site": "Zenn",
     "title": "Goで作る自作コーディングエージェント nebula 開発入門",
     "link": "https://zenn.dev/cube/books/460bb068d9613a",
     "pubDate": "Thu, 10 Jul 2025 14:29:38 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI時代の『ドメイン駆動設計をはじめよう』",
-    "link": "https://speakerdeck.com/masuda220/forkwell_library_fl_100",
-    "pubDate": "2025-07-10T12:42:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI時代の『改訂新版 良いコード／悪いコードで学ぶ設計入門』 / ai-good-code-bad-code",
-    "link": "https://speakerdeck.com/minodriven/ai-good-code-bad-code",
-    "pubDate": "2025-07-10T11:06:10.000Z"
   },
   {
     "site": "Zenn",
@@ -109,33 +139,9 @@
   },
   {
     "site": "Qiita",
-    "title": "パスを通すとは結局なんなのか",
-    "link": "https://qiita.com/flowernotfound/items/ba330ddc77f1aa8af09c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-10T09:46:08.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "国産の無料VPSを試す",
     "link": "https://qiita.com/bienhoa/items/e51aa1ce8b2665b3c0fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-10T07:14:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Grok 4 の発表まとめ＆試してみた",
-    "link": "https://zenn.dev/schroneko/articles/grok-4-overview-and-review",
-    "pubDate": "Thu, 10 Jul 2025 07:06:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ClaudeCodeでContext Engineeringに沿った開発フローを探索する",
-    "link": "https://zenn.dev/tacoms/articles/6a717fe95d5199",
-    "pubDate": "Thu, 10 Jul 2025 03:42:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "勉強会やめます。",
-    "link": "https://zenn.dev/flinters_blog/articles/20f737552acf43",
-    "pubDate": "Thu, 10 Jul 2025 03:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -151,21 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Power Apps キャンバスアプリで 2000 件以上のデータを扱いたい",
-    "link": "https://qiita.com/Takashi_Masumori/items/3d2bda5570d9ee2c0750?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-09T23:38:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[速習] スティーブ・ジョブズの「引き算の美学」",
-    "link": "https://qiita.com/ShigemoriMasato/items/2125a3bad1357a742ebe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-09T23:24:10.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AWS構成図作成の悩みを一掃！Diagram as Codeで始める“コードで描く”インフラ設計",
     "link": "https://qiita.com/k_adachi_01/items/ccfbf6952d7ee252bfb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-09T09:53:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【悪用ダメ】攻撃者ツールから学ぶCISSP対策",
+    "link": "https://qiita.com/sick_sec_sox/items/412d17b745e63a946fd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-09T07:34:56.000Z"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Hatena",
-    "title": "開発コンテナ - Anthropic",
-    "link": "https://docs.anthropic.com/ja/docs/claude-code/devcontainer",
-    "pubDate": "2025-06-22T03:11:11.000Z"
+    "title": "AIコーディングツールは生産性を19％も低下させているという調査結果、AI出力の評価・手直し・再出力などで無駄な時間が大量発生か",
+    "link": "https://gigazine.net/news/20250711-ai-coding-tools-reduce-productivity/",
+    "pubDate": "2010-10-14T04:16:42.000Z"
   }
 ]
