@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "モバイルSuicaでやってはいけないこと　トラブルを防ぐ7つの心得",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2507/13/news003.html",
+    "pubDate": "2025-07-13T02:02:14.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "スマートウォッチに内蔵される睡眠トラッカーはどうやって機能するのかを睡眠科学者が解説",
     "link": "https://gigazine.net/news/20250712-sleep-trackers-works/",
     "pubDate": "2025-07-12T15:24:47.000Z"
@@ -25,6 +31,18 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude CodeにLTスライドをHTMLで作ってもらった話",
+    "link": "https://zenn.dev/oikon/articles/953921403e9cf2",
+    "pubDate": "Sat, 12 Jul 2025 09:01:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ゲーム開発におけるAIコーディングの活用の壁と今後やるべきこと",
+    "link": "https://zenn.dev/siguma_sig/articles/b4bda13e49d246",
+    "pubDate": "Sat, 12 Jul 2025 08:59:50 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude CodeがついにWindowsサポート！",
     "link": "https://zenn.dev/acntechjp/articles/34bfa025051867",
     "pubDate": "2025-07-12T08:50:15.000Z"
@@ -36,22 +54,40 @@
     "pubDate": "2025-07-12T08:41:12.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "neoAI 日本語 Reasoning Model を開発 - Part 1 継続事前学習",
+    "link": "https://zenn.dev/neoai/articles/1670bd029093b0",
+    "pubDate": "Sat, 12 Jul 2025 08:13:40 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、AIアプリ開発向けPythonライブラリ「GenAI Processors」をOSSで発表",
+    "link": "https://codezine.jp/article/detail/21890",
+    "pubDate": "2025-07-12T07:47:18.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【2025年最新】無料で使える！Cursor代替オープンソースツール10選 - Qiita",
     "link": "https://qiita.com/Nakamura-Kaito/items/d32b873d39fab94e2c2d",
     "pubDate": "2025-07-12T06:52:06.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "真説 Windowsでディレクトリ区切りのスラッシュ / がバックスラッシュ ⧵ で円マーク ¥ な理由 - Qiita",
-    "link": "https://qiita.com/ko1nksm/items/4ae0a784a612f23aa412",
-    "pubDate": "2025-07-12T04:57:12.000Z"
+    "site": "Zenn",
+    "title": "最高のAIコーディング環境を目指してあれこれ試した結果と教訓（2025/07）",
+    "link": "https://zenn.dev/aun_phonogram/articles/2f84cbf705eeb7",
+    "pubDate": "Sat, 12 Jul 2025 06:12:20 GMT"
   },
   {
     "site": "Hatena",
-    "title": "「もはや運転手はただの見張り」最近の自動運転車は空いてる高速道路くらいなら座ってるだけで走れる、車というよりロボットの操縦席みたくなっている",
-    "link": "https://togetter.com/li/2575035",
-    "pubDate": "2025-07-12T02:32:33.000Z"
+    "title": "LLM時代だからこその検索の重要性と応用",
+    "link": "https://speakerdeck.com/mzntaka0/llmshi-dai-dakarakosonojian-suo-nozhong-yao-xing-toying-yong",
+    "pubDate": "2025-07-12T03:03:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【速報！】Claude CodeがWindowsをサポート開始！",
+    "link": "https://zenn.dev/nuits_jp/articles/2025-07-12-claude-code-supported-for-windows",
+    "pubDate": "Sat, 12 Jul 2025 02:20:40 GMT"
   },
   {
     "site": "Qiita",
@@ -60,10 +96,22 @@
     "pubDate": "2025-07-12T02:18:08.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【朗報】ついにMicrosoft 365 Copilotが最強の同僚になる日が来ました 〜Copilot メモリについての調査記録〜 - Qiita",
-    "link": "https://qiita.com/Oyu3m/items/608ff69ae4131988a511",
-    "pubDate": "2025-07-11T23:54:56.000Z"
+    "site": "Hatena",
+    "title": "jank is C++",
+    "link": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
+    "pubDate": "2025-07-12T01:03:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "SRE NEXT 2025 資料一覧",
+    "link": "https://zenn.dev/r4ynode/articles/srenext2025-documents",
+    "pubDate": "Fri, 11 Jul 2025 18:00:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "インフラエンジニアが作った『hawk』- なぜawkを再発明したのか？",
+    "link": "https://zenn.dev/kyonaka/articles/1905716e1514f0",
+    "pubDate": "Fri, 11 Jul 2025 17:28:46 GMT"
   },
   {
     "site": "Qiita",
@@ -84,16 +132,16 @@
     "pubDate": "2025-07-11T12:34:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "きっとあなたの知らないGitHubで使えるGitHub Copilotの機能 | ドクセル",
-    "link": "https://www.docswell.com/s/Kesin11/5GGJYL-2025-07-11-github-copilot-on-github",
-    "pubDate": "2025-07-11T12:00:11.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeの公式DevContainerについて",
+    "link": "https://zenn.dev/mixi/articles/c2a11b1765b149",
+    "pubDate": "Fri, 11 Jul 2025 07:43:35 GMT"
   },
   {
     "site": "Zenn",
-    "title": "積極的キャッシュ生成による応答高速化",
-    "link": "https://zenn.dev/lapras_inc/articles/af5f8a87514d02",
-    "pubDate": "Fri, 11 Jul 2025 04:39:58 GMT"
+    "title": "Snowflakeだけで完結するMLOps",
+    "link": "https://zenn.dev/takikomi/articles/091914b9b60b23",
+    "pubDate": "Fri, 11 Jul 2025 06:17:01 GMT"
   },
   {
     "site": "Qiita",
@@ -106,54 +154,6 @@
     "title": "非エンジニアでもセキュリティの仕事を続けられる",
     "link": "https://qiita.com/secat/items/75a6fbaef07e63fb7a81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-11T03:17:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントによる社会シミュレーション - Generative Agents, AgentSociety, CitySimの紹介",
-    "link": "https://zenn.dev/mkj/articles/efb017f7a440ca",
-    "pubDate": "Fri, 11 Jul 2025 02:50:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI Agentのアウトプットに『Next.jsの考え方』を反映するプラクティス",
-    "link": "https://zenn.dev/akfm/articles/agent-read-the-nextjs-way",
-    "pubDate": "Fri, 11 Jul 2025 01:54:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MySQLユーザーによるSpannerキャッチアップへの道",
-    "link": "https://zenn.dev/canary_techblog/articles/7a8cbf4fe0534f",
-    "pubDate": "Fri, 11 Jul 2025 01:40:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Dockerを使うことになった際に役立ちそうな知識",
-    "link": "https://zenn.dev/bita/articles/2ac26a638d1e7f",
-    "pubDate": "Fri, 11 Jul 2025 01:39:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "KARAKURI VL - 日本語コンピュータユースに特化した視覚言語モデル",
-    "link": "https://zenn.dev/karakuri_blog/articles/28c73f2ada797a",
-    "pubDate": "Fri, 11 Jul 2025 00:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code Maxで実現する完全自動並列開発システム - 人間不在でissueを解決し続けるAIエージェント群の構築",
-    "link": "https://zenn.dev/studio_prairie/articles/90f5fc48a6dea7",
-    "pubDate": "Thu, 10 Jul 2025 23:18:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "生成 AI で国会議事録を要約して提供する Web サイトをリリースした",
-    "link": "https://zenn.dev/uedakoki/articles/3e035c4e6f78a7",
-    "pubDate": "Thu, 10 Jul 2025 23:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プラグインの引っ越し地獄から脱却！令和のVimファイラーはこれで決まり！",
-    "link": "https://zenn.dev/1227yukimura/articles/introduce-vim-yazi",
-    "pubDate": "Thu, 10 Jul 2025 17:13:50 GMT"
   },
   {
     "site": "Qiita",
