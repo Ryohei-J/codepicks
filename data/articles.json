@@ -1,5 +1,11 @@
 [
   {
+    "site": "Hatena",
+    "title": "Dockerイメージの選び方ガイド | SIOS Tech. Lab",
+    "link": "https://tech-lab.sios.jp/archives/48204",
+    "pubDate": "2025-07-13T10:04:34.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "LLMのAPIを活用したバックエンドアーキテクチャの事例を紹介します",
     "link": "https://zenn.dev/pharmax/articles/fed20b52182c58",
@@ -7,9 +13,21 @@
   },
   {
     "site": "Hatena",
+    "title": "『開発者とアーキテクトのためのコミュニケーションガイド』 - Don't Repeat Yourself",
+    "link": "https://blog-dry.com/entry/2025/07/13/083540",
+    "pubDate": "2025-07-13T02:53:36.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "モバイルSuicaでやってはいけないこと　トラブルを防ぐ7つの心得",
     "link": "https://www.itmedia.co.jp/mobile/articles/2507/13/news003.html",
     "pubDate": "2025-07-13T02:02:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大きく分けて3種類あるWindowsのライセンス形態 (1/2)",
+    "link": "https://ascii.jp/elem/000/004/299/4299165/",
+    "pubDate": "2025-07-13T01:09:56.000Z"
   },
   {
     "site": "Qiita",
@@ -48,12 +66,6 @@
     "pubDate": "2025-07-12T11:39:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "オブジェクト指向のサンプルプログラムがだいたいヒドい理由 - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2025/07/12/191038",
-    "pubDate": "2025-07-12T11:39:09.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "B200でNVFP4量子化モデルの推論を試す（llm-compressorによるLLMの量子化）",
     "link": "https://zenn.dev/aratako_lm/articles/af45a8b8ea8a00",
@@ -82,12 +94,6 @@
     "title": "ゲーム開発におけるAIコーディングの活用の壁と今後やるべきこと",
     "link": "https://zenn.dev/siguma_sig/articles/b4bda13e49d246",
     "pubDate": "Sat, 12 Jul 2025 08:59:50 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "SF作家のアイザック・アシモフは「人類のほとんどは2+2は4かもしれないと言われるより2+2は間違いなく5だと言われる方を好む」と言っていたらしい",
-    "link": "https://togetter.com/li/2575100",
-    "pubDate": "2025-07-12T08:41:12.000Z"
   },
   {
     "site": "Zenn",
@@ -124,12 +130,6 @@
     "title": "真説 Windowsでディレクトリ区切りのスラッシュ / がバックスラッシュ ⧵ で円マーク ¥ な理由",
     "link": "https://qiita.com/ko1nksm/items/4ae0a784a612f23aa412?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-12T02:18:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "jank is C++",
-    "link": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
-    "pubDate": "2025-07-12T01:03:27.000Z"
   },
   {
     "site": "Zenn",
