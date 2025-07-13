@@ -1,15 +1,45 @@
 [
   {
+    "site": "Zenn",
+    "title": "LLMのAPIを活用したバックエンドアーキテクチャの事例を紹介します",
+    "link": "https://zenn.dev/pharmax/articles/fed20b52182c58",
+    "pubDate": "2025-07-13T05:23:49.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "モバイルSuicaでやってはいけないこと　トラブルを防ぐ7つの心得",
     "link": "https://www.itmedia.co.jp/mobile/articles/2507/13/news003.html",
     "pubDate": "2025-07-13T02:02:14.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Transit Gateway ルートテーブルを分離して VPC 間の通信を制御する",
+    "link": "https://qiita.com/takeda_h/items/c4c93bb50416a493a95d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-13T00:21:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "君も自動運転AIチャレンジでAIを使ったvibe coding しようぜっっ！！",
+    "link": "https://zenn.dev/ttanaka3/articles/14e7daccfabc2c",
+    "pubDate": "Sat, 12 Jul 2025 15:30:52 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "スマートウォッチに内蔵される睡眠トラッカーはどうやって機能するのかを睡眠科学者が解説",
     "link": "https://gigazine.net/news/20250712-sleep-trackers-works/",
     "pubDate": "2025-07-12T15:24:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Mastra + OllamaローカルAIエージェント用のnpmパッケージを公開した話",
+    "link": "https://zenn.dev/robustonian/articles/mastra_ollama_mcp2",
+    "pubDate": "Sat, 12 Jul 2025 15:03:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "インフラエンジニアが作った『hawk』- なぜawkを再発明したのか？",
+    "link": "https://zenn.dev/kyonaka/articles/1905716e1514f0",
+    "pubDate": "2025-07-12T13:48:15.000Z"
   },
   {
     "site": "Hatena",
@@ -22,6 +52,18 @@
     "title": "オブジェクト指向のサンプルプログラムがだいたいヒドい理由 - きしだのHatena",
     "link": "https://nowokay.hatenablog.com/entry/2025/07/12/191038",
     "pubDate": "2025-07-12T11:39:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "B200でNVFP4量子化モデルの推論を試す（llm-compressorによるLLMの量子化）",
+    "link": "https://zenn.dev/aratako_lm/articles/af45a8b8ea8a00",
+    "pubDate": "Sat, 12 Jul 2025 10:00:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Windows での Claude Code利用が WSL不要になったので試してみた（ローカルインストールで試す）",
+    "link": "https://qiita.com/youtoy/items/cee5b3cb3e8b438eec41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-12T09:33:58.000Z"
   },
   {
     "site": "Qiita",
@@ -42,12 +84,6 @@
     "pubDate": "Sat, 12 Jul 2025 08:59:50 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude CodeがついにWindowsサポート！",
-    "link": "https://zenn.dev/acntechjp/articles/34bfa025051867",
-    "pubDate": "2025-07-12T08:50:15.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "SF作家のアイザック・アシモフは「人類のほとんどは2+2は4かもしれないと言われるより2+2は間違いなく5だと言われる方を好む」と言っていたらしい",
     "link": "https://togetter.com/li/2575100",
@@ -64,12 +100,6 @@
     "title": "Google、AIアプリ開発向けPythonライブラリ「GenAI Processors」をOSSで発表",
     "link": "https://codezine.jp/article/detail/21890",
     "pubDate": "2025-07-12T07:47:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2025年最新】無料で使える！Cursor代替オープンソースツール10選 - Qiita",
-    "link": "https://qiita.com/Nakamura-Kaito/items/d32b873d39fab94e2c2d",
-    "pubDate": "2025-07-12T06:52:06.000Z"
   },
   {
     "site": "Zenn",
@@ -120,28 +150,10 @@
     "pubDate": "2025-07-11T15:48:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "JavaScript の using と DisposableStack#defer で Go の defer 風",
-    "link": "https://zenn.dev/sosukesuzuki/articles/697b059563a782",
-    "pubDate": "Fri, 11 Jul 2025 13:57:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "[入門] オープンソースライセンス違反を防ぐための実践ガイド",
     "link": "https://qiita.com/ShigemoriMasato/items/7346eee65f1a47934a26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-11T12:34:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの公式DevContainerについて",
-    "link": "https://zenn.dev/mixi/articles/c2a11b1765b149",
-    "pubDate": "Fri, 11 Jul 2025 07:43:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflakeだけで完結するMLOps",
-    "link": "https://zenn.dev/takikomi/articles/091914b9b60b23",
-    "pubDate": "Fri, 11 Jul 2025 06:17:01 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "パスを通すとは結局なんなのか",
     "link": "https://qiita.com/flowernotfound/items/ba330ddc77f1aa8af09c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-10T09:46:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "国産の無料VPSを試す",
-    "link": "https://qiita.com/bienhoa/items/e51aa1ce8b2665b3c0fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-10T07:14:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "作って学ぶAIエージェント＆MCP  ついでにStrands Agents",
-    "link": "https://qiita.com/kanjiro_shima/items/06c1f20eb264a818d938?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-10T01:58:54.000Z"
   }
 ]
