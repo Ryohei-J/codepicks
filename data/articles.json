@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "非エンジニアの私が、プログラミングなしでWebスクレイピングした方法を伝えたい",
+    "link": "https://coopel.ai/column/post/a-non-engineer-web-scraping-wihtout-writing-a-single-line-of-code/",
+    "pubDate": "2025-07-14T02:00:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "SPF・DKIM・DMARCの図解、設定の確認方法――GmailもOutlook.comも、なりすましメールを防ぐべく「DMARC必須」",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/11/news009.html",
     "pubDate": "2025-07-13T23:52:03.000Z"
@@ -25,9 +31,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「JScript」に代わり「JScript9Legacy」が既定のスクリプトエンジンに ～Windows 11 24H2以降で／Web標準への準拠、パフォーマンス、セキュリティを改善",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2030817.html",
-    "pubDate": "2025-07-13T17:25:25.000Z"
+    "title": "Gemini CLI入門 | ドクセル",
+    "link": "https://www.docswell.com/s/currypurin/533QR1-2025-07-13-225715",
+    "pubDate": "2025-07-13T14:49:28.000Z"
   },
   {
     "site": "Qiita",
@@ -48,18 +54,6 @@
     "pubDate": "2025-07-13T09:51:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "『開発者とアーキテクトのためのコミュニケーションガイド』 - Don't Repeat Yourself",
-    "link": "https://blog-dry.com/entry/2025/07/13/083540",
-    "pubDate": "2025-07-13T02:53:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "モバイルSuicaでやってはいけないこと　トラブルを防ぐ7つの心得",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2507/13/news003.html",
-    "pubDate": "2025-07-13T02:02:14.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Transit Gateway ルートテーブルを分離して VPC 間の通信を制御する",
     "link": "https://qiita.com/takeda_h/items/c4c93bb50416a493a95d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -76,6 +70,12 @@
     "title": "なぜ「目標」を立てるのか",
     "link": "https://qiita.com/yuji0809/items/dc5d6160c3f5cb65abf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-12T18:44:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "How I use Claude Code (+ my best tips)",
+    "link": "https://www.builder.io/blog/claude-code",
+    "pubDate": "2025-07-12T16:08:27.000Z"
   },
   {
     "site": "Zenn",
