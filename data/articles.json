@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "SPF・DKIM・DMARCの図解、設定の確認方法――GmailもOutlook.comも、なりすましメールを防ぐべく「DMARC必須」",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/11/news009.html",
+    "pubDate": "2025-07-13T23:52:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】 家のWi-Fiが遅い原因ってこれ？ちょっと本気のアクセスポイントで解決してみた",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2030825.html",
+    "pubDate": "2025-07-13T21:28:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AI 国内の個人利用26％にとどまる 米中などと比べ低水準 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250714/k10014862251000.html",
+    "pubDate": "2025-07-13T20:33:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントのサービス構築を検討しているあなたへ",
+    "link": "https://zenn.dev/microsoft/articles/azure_nextjs_multi_agent",
+    "pubDate": "2025-07-13T20:33:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「JScript」に代わり「JScript9Legacy」が既定のスクリプトエンジンに ～Windows 11 24H2以降で／Web標準への準拠、パフォーマンス、セキュリティを改善",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2030817.html",
+    "pubDate": "2025-07-13T17:25:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "脱 SDK!? Mountpoint for Amazon S3 ではじめるオブジェクトストレージ活用",
+    "link": "https://qiita.com/suamoto-mikiya/items/d1d3ee01d0c331c0fa9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-13T12:42:57.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Dockerイメージの選び方ガイド | SIOS Tech. Lab",
     "link": "https://tech-lab.sios.jp/archives/48204",
     "pubDate": "2025-07-13T10:04:34.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "LLMのAPIを活用したバックエンドアーキテクチャの事例を紹介します",
-    "link": "https://zenn.dev/pharmax/articles/fed20b52182c58",
-    "pubDate": "2025-07-13T05:23:49.000Z"
+    "site": "Hatena",
+    "title": "サンドボックス環境を MCP サーバーで提供する Container Use",
+    "link": "https://azukiazusa.dev/blog/mcp-server-container-use/",
+    "pubDate": "2025-07-13T09:51:24.000Z"
   },
   {
     "site": "Hatena",
@@ -24,16 +60,22 @@
     "pubDate": "2025-07-13T02:02:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "大きく分けて3種類あるWindowsのライセンス形態 (1/2)",
-    "link": "https://ascii.jp/elem/000/004/299/4299165/",
-    "pubDate": "2025-07-13T01:09:56.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Transit Gateway ルートテーブルを分離して VPC 間の通信を制御する",
     "link": "https://qiita.com/takeda_h/items/c4c93bb50416a493a95d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-13T00:21:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude CodeがネイティブWindowsをサポートしました🎉🎉🎉Bedrock APIキーにも対応！！！",
+    "link": "https://qiita.com/moritalous/items/fd017758b2ccf842dc1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-12T23:57:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜ「目標」を立てるのか",
+    "link": "https://qiita.com/yuji0809/items/dc5d6160c3f5cb65abf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-12T18:44:45.000Z"
   },
   {
     "site": "Zenn",
@@ -42,28 +84,10 @@
     "pubDate": "Sat, 12 Jul 2025 15:30:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "スマートウォッチに内蔵される睡眠トラッカーはどうやって機能するのかを睡眠科学者が解説",
-    "link": "https://gigazine.net/news/20250712-sleep-trackers-works/",
-    "pubDate": "2025-07-12T15:24:47.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Mastra + OllamaローカルAIエージェント用のnpmパッケージを公開した話",
     "link": "https://zenn.dev/robustonian/articles/mastra_ollama_mcp2",
     "pubDate": "Sat, 12 Jul 2025 15:03:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "インフラエンジニアが作った『hawk』- なぜawkを再発明したのか？",
-    "link": "https://zenn.dev/kyonaka/articles/1905716e1514f0",
-    "pubDate": "2025-07-12T13:48:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "フルリモートで社内にどうやって自分の居場所を作るのか？",
-    "link": "https://speakerdeck.com/satoshi256kbyte/hururimototeshe-nei-nitouyatutezi-fen-noju-chang-suo-wozuo-runoka",
-    "pubDate": "2025-07-12T11:39:34.000Z"
   },
   {
     "site": "Zenn",
@@ -76,12 +100,6 @@
     "title": "Windows での Claude Code利用が WSL不要になったので試してみた（ローカルインストールで試す）",
     "link": "https://qiita.com/youtoy/items/cee5b3cb3e8b438eec41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-12T09:33:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【宇宙最速】この記事で大体わかる！（エイミ視点の）AWS CDK Conference Japan 2025",
-    "link": "https://qiita.com/amixedcolor/items/edfca472ed975e89ac09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-12T09:28:16.000Z"
   },
   {
     "site": "Zenn",
@@ -102,22 +120,10 @@
     "pubDate": "Sat, 12 Jul 2025 08:13:40 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Google、AIアプリ開発向けPythonライブラリ「GenAI Processors」をOSSで発表",
-    "link": "https://codezine.jp/article/detail/21890",
-    "pubDate": "2025-07-12T07:47:18.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "最高のAIコーディング環境を目指してあれこれ試した結果と教訓（2025/07）",
     "link": "https://zenn.dev/aun_phonogram/articles/2f84cbf705eeb7",
     "pubDate": "Sat, 12 Jul 2025 06:12:20 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "LLM時代だからこその検索の重要性と応用",
-    "link": "https://speakerdeck.com/mzntaka0/llmshi-dai-dakarakosonojian-suo-nozhong-yao-xing-toying-yong",
-    "pubDate": "2025-07-12T03:03:45.000Z"
   },
   {
     "site": "Zenn",
@@ -151,32 +157,26 @@
   },
   {
     "site": "Qiita",
+    "title": "[入門] オープンソースライセンス違反を防ぐための実践ガイド - Qiita",
+    "link": "https://qiita.com/ShigemoriMasato/items/7346eee65f1a47934a26",
+    "pubDate": "2025-07-11T13:03:29.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "[入門] オープンソースライセンス違反を防ぐための実践ガイド",
     "link": "https://qiita.com/ShigemoriMasato/items/7346eee65f1a47934a26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-11T12:34:59.000Z"
   },
   {
     "site": "Qiita",
+    "title": "開発チームの空気を変える、たった3つの習慣",
+    "link": "https://qiita.com/yuto_shinkawa/items/c6fb08deef213392cd0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-11T06:55:51.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【2025年最新】無料で使える！Cursor代替オープンソースツール10選",
     "link": "https://qiita.com/Nakamura-Kaito/items/d32b873d39fab94e2c2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-11T04:32:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "非エンジニアでもセキュリティの仕事を続けられる",
-    "link": "https://qiita.com/secat/items/75a6fbaef07e63fb7a81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-11T03:17:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Geminiの「Gem」機能を使ってみた。",
-    "link": "https://qiita.com/inukai-masanori/items/657b53a232575ee8c44f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-10T13:35:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "パスを通すとは結局なんなのか",
-    "link": "https://qiita.com/flowernotfound/items/ba330ddc77f1aa8af09c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-10T09:46:08.000Z"
   }
 ]
