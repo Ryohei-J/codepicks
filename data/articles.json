@@ -1,15 +1,45 @@
 [
   {
+    "site": "Hatena",
+    "title": "古いiPhoneでタイミーのアプリが開けなくなり「仕事ができずホームレスになるしかない」という人がいる→OSの足切りは仕方ないが難しい問題が多い",
+    "link": "https://togetter.com/li/2576859",
+    "pubDate": "2025-07-16T09:23:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「人間がプログラミングする時代、もう終わる」　孫正義氏の将来像　SBG社員も「最終的にはやらない」",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2507/16/news099.html",
+    "pubDate": "2025-07-16T07:19:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ロシア製botによる世論操作に関与？　「Japan News Navi」など複数のXアカウントが相次ぎ“凍結”",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/16/news087.html",
+    "pubDate": "2025-07-16T04:48:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "xAIの美少女「Ani」月額30ドルで“衣装変更”可能に",
+    "link": "https://ascii.jp/elem/000/004/299/4299968/",
+    "pubDate": "2025-07-16T04:24:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "最新のテーブルデータ向けNNモデルをまとめてみた",
+    "link": "https://zenn.dev/mkj/articles/f7939cb221da14",
+    "pubDate": "Wed, 16 Jul 2025 02:50:01 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "amazonの出したIDE「kiro」がめちゃくちゃ未来だったのでClaude Codeユーザーの人はみんな一度試してみてほしい",
     "link": "https://zenn.dev/sesere/articles/31d4b460c949e5",
     "pubDate": "2025-07-16T01:05:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale (preview) | Amazon Web Services",
-    "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/",
-    "pubDate": "2025-07-16T00:04:15.000Z"
+    "site": "Zenn",
+    "title": "新規プロダクト開発チームが Claude Code を活用するために取り組んでいること",
+    "link": "https://zenn.dev/canary_techblog/articles/8c8c1a20b9c4f9",
+    "pubDate": "Wed, 16 Jul 2025 01:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -22,6 +52,12 @@
     "title": "証券口座の不正アクセス対策、パスキーなどの多要素認証を必須化へ",
     "link": "https://www.watch.impress.co.jp/docs/news/2031496.html",
     "pubDate": "2025-07-15T23:45:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "amazonの出したIDE「kiro」がめちゃくちゃ未来だったのでClaude Codeユーザーの人はみんな一度試してみてほしい",
+    "link": "https://zenn.dev/sesere/articles/31d4b460c949e5",
+    "pubDate": "Tue, 15 Jul 2025 23:05:24 GMT"
   },
   {
     "site": "Hatena",
@@ -42,28 +78,34 @@
     "pubDate": "2025-07-15T19:06:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "フルサイズセンサー&ZEISSレンズのソニー「RX1R III」　最新装備で復活したハイエンドレンズ一体型デジカメ",
-    "link": "https://dc.watch.impress.co.jp/docs/news/2031504.html",
-    "pubDate": "2025-07-15T15:48:27.000Z"
+    "site": "Qiita",
+    "title": "Flexboxを学んで分かったことまとめ",
+    "link": "https://qiita.com/maedaHARUYA/items/317c7efc186289b09e1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-15T14:50:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "SREから経営者になって4年が経ちました - 実はhokkai7go",
-    "link": "https://blog.hokkai7go.jp/entry/2025/07/15/230051",
-    "pubDate": "2025-07-15T14:26:41.000Z"
+    "site": "Zenn",
+    "title": "useEffectでデータフェッチは欠点だらけ？じゃあどうしたらいいの？",
+    "link": "https://zenn.dev/sugachan/articles/19c0b1ff267f21",
+    "pubDate": "Tue, 15 Jul 2025 13:29:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "消費者欺く「ダークパターン」撲滅へ　“誠実なWebサイト”認定制度",
-    "link": "https://www.watch.impress.co.jp/docs/news/2031477.html",
-    "pubDate": "2025-07-15T10:05:01.000Z"
+    "site": "Qiita",
+    "title": "【AWS】話題のKiroのルールファイル適用やアーキ図から実装など注目機能を試してみた【KIRO】",
+    "link": "https://qiita.com/Nana_777/items/37a11c9a2f0065158528?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-15T13:07:57.000Z"
   },
   {
     "site": "Qiita",
     "title": "【ポケモン×Java】知識編「プリミティブ型」と「参照型」とか結局なんなん？",
     "link": "https://qiita.com/hitomin_poke/items/5d709c4705911a9726d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-15T08:39:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MCP サーバーに Entra ID 認証を実装してセキュアな AI 連携を実現しよう",
+    "link": "https://zenn.dev/microsoft/articles/mcp-entra-auth-using-apim",
+    "pubDate": "Tue, 15 Jul 2025 04:53:38 GMT"
   },
   {
     "site": "Zenn",
@@ -76,6 +118,12 @@
     "title": "Claude Codeでセッションを探すためにccsearchを作った",
     "link": "https://zenn.dev/suthio/articles/126bc21f0741a6",
     "pubDate": "Tue, 15 Jul 2025 01:35:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Unity × AWSでつくるリアルタイムマルチプレイ通信【AppSync Events・チュートリアル＆コード例】",
+    "link": "https://zenn.dev/zenzoe/articles/7078fba062c033",
+    "pubDate": "Mon, 14 Jul 2025 23:45:01 GMT"
   },
   {
     "site": "Zenn",
@@ -102,28 +150,10 @@
     "pubDate": "2025-07-14T18:09:28.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "初めてハッカソン参加して感じた話 in '25 07",
-    "link": "https://zenn.dev/krz_tech/articles/2f77dcda840a58",
-    "pubDate": "Mon, 14 Jul 2025 17:25:03 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Kiroが来た！純AWSのAIコーディングエージェント搭載IDEをちょっとだけ試してみた",
     "link": "https://qiita.com/shimagaji/items/a8f2049e7f178f33abd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-14T17:14:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS発のエージェント型IDE”Kiro”の速報レベルのメモ",
-    "link": "https://zenn.dev/watany/articles/d6b948e05a4db1",
-    "pubDate": "Mon, 14 Jul 2025 17:03:40 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【触ってみた】AWS製 IDE Kiroを触ってみた #KiroDotDev",
-    "link": "https://qiita.com/mob_engineer/items/2e7889671788a9d69f42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-14T16:22:30.000Z"
   },
   {
     "site": "Qiita",
@@ -132,34 +162,10 @@
     "pubDate": "2025-07-14T11:39:16.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub Self-hostedに移行しました。CIが最大55%速くになり、月額が300万円節約できた！",
-    "link": "https://zenn.dev/team_soda/articles/270f4cce08b737",
-    "pubDate": "Mon, 14 Jul 2025 09:10:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeのカスタムスラッシュコマンドでのOSSリリースが便利",
-    "link": "https://zenn.dev/yoshiko/articles/cc-release-command",
-    "pubDate": "Mon, 14 Jul 2025 08:14:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "🚀分間数十万リクエストに耐える！チケット販売サービス：チケットペイのAWSスケーリング戦略と設計の裏側",
     "link": "https://qiita.com/mamushi/items/561b07e61dd57996ccad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-14T04:34:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニアの成長を止めないAI活用ガイドライン",
-    "link": "https://zenn.dev/hiro/articles/c6c77a1fa5a777",
-    "pubDate": "Mon, 14 Jul 2025 03:15:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[Part1] 日本医療 x LLM: ユースケース応用の基盤となる日本語版汎用医療LLMの開発",
-    "link": "https://zenn.dev/elyza/articles/5fce268a7ecd20",
-    "pubDate": "Mon, 14 Jul 2025 03:03:15 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "「美しい角丸のTips」の先へ、ミクロではなくマクロで考える",
     "link": "https://qiita.com/kskwtnk/items/ca5beff9593d1a9ceba2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-13T17:55:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIの精度を上げる「プロンプトとしてのクラス設計」",
-    "link": "https://qiita.com/y_o_28/items/6428630cf72397b352cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-13T10:42:23.000Z"
   }
 ]
