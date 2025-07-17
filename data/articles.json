@@ -1,9 +1,27 @@
 [
   {
+    "site": "Hatena",
+    "title": "【海外記事紹介】OpenAIエンジニアが退職後に社内の様子を詳細に公開 — ほぼPythonのモノレポ環境、Azureベースのインフラ、Codexはたった7週間で立ち上げ",
+    "link": "https://techfeed.io/entries/68781ba43f9e8207f0a85da7",
+    "pubDate": "2025-07-16T21:38:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Amazon S3 Vectorsで激安RAGシステムを構築する",
+    "link": "https://zenn.dev/tosuri13/articles/c7ac9477d28c19",
+    "pubDate": "2025-07-16T15:43:46.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "KiroとClaude Codeの組み合わせで開発の質と速度を両取りできた",
     "link": "https://zenn.dev/ubie_dev/articles/kiro-claude-code",
     "pubDate": "2025-07-16T13:40:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code と Gemini CLI で登壇資料を作ってみた",
+    "link": "https://speakerdeck.com/schroneko/vibe-sliding",
+    "pubDate": "2025-07-16T12:51:11.000Z"
   },
   {
     "site": "Zenn",
@@ -25,21 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「人間がプログラミングする時代、もう終わる」　孫正義氏の将来像　SBG社員も「最終的にはやらない」",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2507/16/news099.html",
-    "pubDate": "2025-07-16T07:19:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "xAIの美少女「Ani」月額30ドルで“衣装変更”可能に",
-    "link": "https://ascii.jp/elem/000/004/299/4299968/",
-    "pubDate": "2025-07-16T04:24:59.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "AI時代の新たな疲労：なぜ私(たち)は『説明のつかないしんどさ』を抱えているのか - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/07/16/115510",
     "pubDate": "2025-07-16T03:34:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "孫正義氏「人間がプログラミングする時代は目の前で終わろうとしている」",
+    "link": "https://japan.cnet.com/article/35235568/",
+    "pubDate": "2025-07-16T03:14:59.000Z"
   },
   {
     "site": "Zenn",
@@ -60,12 +72,6 @@
     "pubDate": "Wed, 16 Jul 2025 01:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "紅茶が大流行→死亡率が大幅に減少　18世紀イギリスで何が起きた？　米国チームが23年に研究",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/16/news032.html",
-    "pubDate": "2025-07-15T23:57:07.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "amazonの出したIDE「kiro」がめちゃくちゃ未来だったのでClaude Codeユーザーの人はみんな一度試してみてほしい",
     "link": "https://zenn.dev/sesere/articles/31d4b460c949e5",
@@ -73,15 +79,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【AWS発のAIエディタ🔥】Kiro 完全チートシート - 公式Doc全網羅！🚀 - Qiita",
-    "link": "https://qiita.com/akira_papa_AI/items/1f862d95a945af46a32f",
-    "pubDate": "2025-07-15T21:03:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "FC2 WEBがサービス終了して個人サイトがまた大量に消えてしまって欲しい情報が検索できなくなった「ジオシティーズの悲劇再び」",
-    "link": "https://togetter.com/li/2576614",
-    "pubDate": "2025-07-15T19:06:11.000Z"
+    "title": "【AWS発のAIエディタ🔥】Kiro 完全チートシート - 公式Doc全網羅！🚀",
+    "link": "https://qiita.com/akira_papa_AI/items/1f862d95a945af46a32f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-15T20:01:46.000Z"
   },
   {
     "site": "Qiita",
@@ -103,9 +103,21 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編「プリミティブ型」と「参照型」とか結局なんなん？",
-    "link": "https://qiita.com/hitomin_poke/items/5d709c4705911a9726d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-15T08:39:26.000Z"
+    "title": "そのGitHubのリンク、消えるよ",
+    "link": "https://qiita.com/185shingeki/items/6e7748b6d67fabe649f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-15T12:27:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "yarn installをするとnode_modulesはなぜ爆誕するのか",
+    "link": "https://qiita.com/moke_web/items/a705bdc1a6ba42ee6adf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-15T10:22:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2025年7月版個人的開発スタイル with Claude Code - yaakai.to",
+    "link": "https://yaakai.to/blog/2025/dev-with-claude-code-2025-07/",
+    "pubDate": "2025-07-15T07:29:48.000Z"
   },
   {
     "site": "Zenn",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "🚀分間数十万リクエストに耐える！チケット販売サービス：チケットペイのAWSスケーリング戦略と設計の裏側",
-    "link": "https://qiita.com/mamushi/items/561b07e61dd57996ccad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-14T04:34:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Notionでナレッジマネジメント基盤を構築した話",
-    "link": "https://qiita.com/moke_web/items/e30836d9ad22402ba22c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-14T00:42:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「美しい角丸のTips」の先へ、ミクロではなくマクロで考える",
-    "link": "https://qiita.com/kskwtnk/items/ca5beff9593d1a9ceba2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-13T17:55:49.000Z"
+    "title": "【JavaScript】正確な足し算ができるようになるよ",
+    "link": "https://qiita.com/rana_kualu/items/b195b492ea0766481e1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-14T10:51:52.000Z"
   }
 ]
