@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "Goroutine はなぜ軽量スレッドと称されるのか",
+    "link": "https://www.ren510.dev/blog/goroutine-concurrency",
+    "pubDate": "2025-07-17T11:26:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "実務で使っているClaude Codeの活用事例集 - Claude Code Meetup",
+    "link": "https://tonkotsuboy.github.io/20250717-findy-claudecode/",
+    "pubDate": "2025-07-17T10:49:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "re-introduction-to-claude-code",
+    "link": "https://speakerdeck.com/schroneko/re-introduction-to-claude-code",
+    "pubDate": "2025-07-17T10:28:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ついにLinuxデスクトップのシェアが5％に到達、アメリカの複数の指標で5％超え",
     "link": "https://gigazine.net/news/20250717-linux-share/",
     "pubDate": "2025-07-17T04:22:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS 無料利用枠の概念が大きく変わりました - サーバーワークスエンジニアブログ",
+    "link": "https://blog.serverworks.co.jp/aws-free-tier",
+    "pubDate": "2025-07-17T04:19:29.000Z"
   },
   {
     "site": "Hatena",
@@ -19,27 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "\"開発者体験が良い\" とはどういうことか、あるいは例のランキングの使いかた - たごもりすメモ",
-    "link": "https://tagomoris.hatenablog.com/entry/2025/07/17/111610",
-    "pubDate": "2025-07-17T02:16:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "RubyのPathnameライブラリが本体組み込みになったらGC周りのテスト失敗がおきた - STORES Product Blog",
-    "link": "https://product.st.inc/entry/2025/07/17/104509",
-    "pubDate": "2025-07-17T01:57:55.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "AIによる手動QAの自動化：食べログQAチームの挑戦、その第一歩 - Tabelog Tech Blog",
     "link": "https://tech-blog.tabelog.com/entry/ai-manual-qa-automation-first-step",
     "pubDate": "2025-07-17T01:11:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【海外記事紹介】OpenAIエンジニアが退職後に社内の様子を詳細に公開 — ほぼPythonのモノレポ環境、Azureベースのインフラ、Codexはたった7週間で立ち上げ",
-    "link": "https://techfeed.io/entries/68781ba43f9e8207f0a85da7",
-    "pubDate": "2025-07-16T21:38:17.000Z"
   },
   {
     "site": "Qiita",
@@ -64,12 +70,6 @@
     "title": "ずっと欲しかったRustのWebAPIテストフレームワークを個人開発している話",
     "link": "https://zenn.dev/yukinarit/articles/597dfc7ee56bb0",
     "pubDate": "Wed, 16 Jul 2025 14:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "KiroとClaude Codeの組み合わせで開発の質と速度を両取りできた",
-    "link": "https://zenn.dev/ubie_dev/articles/kiro-claude-code",
-    "pubDate": "2025-07-16T13:40:07.000Z"
   },
   {
     "site": "Zenn",
