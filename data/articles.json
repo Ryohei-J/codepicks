@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "相談相手は「AIコンパニオン」、アプリに若者課金　依存リスクも - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC165D40W5A710C2000000/",
+    "pubDate": "2025-07-17T20:51:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ChatGPT agent の発表まとめ",
+    "link": "https://zenn.dev/schroneko/articles/introducing-chatgpt-agent",
+    "pubDate": "2025-07-17T19:44:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ChatGPT agent の発表まとめ",
+    "link": "https://zenn.dev/schroneko/articles/introducing-chatgpt-agent",
+    "pubDate": "Thu, 17 Jul 2025 19:23:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "App Service から始める Azure入門",
+    "link": "https://zenn.dev/relims7165/books/b95196348d4f1e",
+    "pubDate": "Thu, 17 Jul 2025 15:40:25 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "Goroutine はなぜ軽量スレッドと称されるのか",
     "link": "https://www.ren510.dev/blog/goroutine-concurrency",
     "pubDate": "2025-07-17T11:26:45.000Z"
@@ -19,9 +43,21 @@
   },
   {
     "site": "Hatena",
-    "title": "ついにLinuxデスクトップのシェアが5％に到達、アメリカの複数の指標で5％超え",
-    "link": "https://gigazine.net/news/20250717-linux-share/",
-    "pubDate": "2025-07-17T04:22:55.000Z"
+    "title": "エンジニアのための事業貢献入門/A business introduction for engineers",
+    "link": "https://speakerdeck.com/dskst/a-business-introduction-for-engineers",
+    "pubDate": "2025-07-17T07:38:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ランサムウェアPhobos/8Baseにより暗号化されたファイルの復号ツールの開発について｜警察庁Webサイト",
+    "link": "https://www.npa.go.jp/news/release/2025/20250717001.html",
+    "pubDate": "2025-07-17T06:53:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "若手エンジニア育成の手段としても障害対応訓練はオススメです",
+    "link": "https://qiita.com/schoo_hiroki_takizawa/items/9e6d48107620d1137694?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-17T04:50:46.000Z"
   },
   {
     "site": "Hatena",
@@ -31,9 +67,9 @@
   },
   {
     "site": "Hatena",
-    "title": "松屋が稲作　水を張らない田での水稲栽培実証",
-    "link": "https://www.watch.impress.co.jp/docs/news/2032007.html",
-    "pubDate": "2025-07-17T03:56:11.000Z"
+    "title": "Amazon発の新たなAI IDE『Kiro』を徹底レビュー｜次世代のAI駆動開発を体験｜まさお@未経験からプロまでAI活用",
+    "link": "https://note.com/masa_wunder/n/nf1183852a1df",
+    "pubDate": "2025-07-17T03:37:05.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +78,10 @@
     "pubDate": "2025-07-17T03:18:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIによる手動QAの自動化：食べログQAチームの挑戦、その第一歩 - Tabelog Tech Blog",
-    "link": "https://tech-blog.tabelog.com/entry/ai-manual-qa-automation-first-step",
-    "pubDate": "2025-07-17T01:11:50.000Z"
+    "site": "Zenn",
+    "title": "最新のAI駆動開発ツール「Kiro」を徹底解説!!",
+    "link": "https://zenn.dev/galirage/articles/aws-ai-native-kiro",
+    "pubDate": "Thu, 17 Jul 2025 02:12:26 GMT"
   },
   {
     "site": "Qiita",
@@ -96,12 +132,6 @@
     "pubDate": "Wed, 16 Jul 2025 10:32:32 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【2025年実体験】VSCode CopilotでKimi K2を使いこなす私のワークフロー",
-    "link": "https://qiita.com/takuya77088/items/fc9b19941bee29069b75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-16T10:16:43.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Goの次世代バリデーションツールgovalid",
     "link": "https://zenn.dev/sivchari/articles/483c9ecc234e72",
@@ -109,39 +139,21 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 intとInteger、どっちを使えばいいの？",
-    "link": "https://qiita.com/hitomin_poke/items/043801a01a9b04cbe699?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-16T08:39:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Reactアプリを構築しながら学ぶGitHub Copilot",
-    "link": "https://zenn.dev/7nohe/books/vscode-github-copilot-tutorial",
-    "pubDate": "Wed, 16 Jul 2025 05:24:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiroを使う前にオプトアウト設定を確認しよう",
-    "link": "https://zenn.dev/shirochan/articles/331d0ecac815ce",
-    "pubDate": "Wed, 16 Jul 2025 05:09:43 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "孫正義氏「人間がプログラミングする時代は目の前で終わろうとしている」",
-    "link": "https://japan.cnet.com/article/35235568/",
-    "pubDate": "2025-07-16T03:14:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OAuthとOIDCの前にJWTから勉強しよう",
-    "link": "https://zenn.dev/nttdata_tech/articles/cdf46cbf625147",
-    "pubDate": "Wed, 16 Jul 2025 03:11:45 GMT"
+    "title": "Gemini CLI + Blender MCPでビオレママ作ってみたら衝撃の結末だった",
+    "link": "https://qiita.com/nobu34/items/fda4b0af81e88e401687?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-16T00:17:47.000Z"
   },
   {
     "site": "Qiita",
     "title": "【AWS発のAIエディタ🔥】Kiro 完全チートシート - 公式Doc全網羅！🚀",
     "link": "https://qiita.com/akira_papa_AI/items/1f862d95a945af46a32f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-15T20:01:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "未経験からエンジニア歴1年半で3社内定し、年収が1.7倍になった話",
+    "link": "https://qiita.com/odendayoko/items/712025e451a45572a0b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-15T13:49:09.000Z"
   },
   {
     "site": "Qiita",
@@ -157,26 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "【Kiro】Kiro(要件定義) × Claude Code(実装) で役割分担させてみる",
+    "link": "https://qiita.com/ryu-ki/items/b7d3ea320a872a1631bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-15T11:39:29.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Claude Code x MVP開発に最適なNext.jsディレクトリ構成",
     "link": "https://qiita.com/nft/items/107fb79615e3468b1e47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-15T09:22:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "2025年7月版個人的開発スタイル with Claude Code - yaakai.to",
-    "link": "https://yaakai.to/blog/2025/dev-with-claude-code-2025-07/",
-    "pubDate": "2025-07-15T07:29:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS製AI統合開発環境\"KIRO\"の仕様駆動開発でWebアプリを爆速実装！",
-    "link": "https://qiita.com/kyuko/items/60abec146f5058b74d61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-14T18:09:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Docker MCP Gatewayがすんばらしい👌",
-    "link": "https://qiita.com/moritalous/items/8789a37b7db451cc1dba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-14T11:39:16.000Z"
   }
 ]
