@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "プログラミング自動化の果てに",
+    "link": "https://aoai-ai-coding.mizchi.workers.dev/",
+    "pubDate": "2025-07-18T11:06:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "3点見積もりで実現する、遅延しないプロジェクト計画術 | Wantedly Engineer Blog",
+    "link": "https://www.wantedly.com/companies/wantedly/post_articles/992341",
+    "pubDate": "2025-07-18T08:15:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "またがる扇風機「またせん」サンコーから　風呂上がりなどに",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/18/news082.html",
+    "pubDate": "2025-07-18T04:48:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソフトウェア設計とAI技術の活用",
+    "link": "https://speakerdeck.com/masuda220/devsumi-summer-2025-software-design-and-ai-technology",
+    "pubDate": "2025-07-18T04:29:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIロボット協会テックブログをはじめます",
+    "link": "https://zenn.dev/airoa/articles/99184bcc68eadc",
+    "pubDate": "Fri, 18 Jul 2025 02:00:01 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "OneDrive「30年分のデータ」消失の悲劇、理由なき突然のアカウント凍結にご用心：838thLap",
     "link": "https://kn.itmedia.co.jp/kn/articles/2507/18/news032.html",
     "pubDate": "2025-07-18T01:39:12.000Z"
@@ -18,12 +48,6 @@
     "pubDate": "2025-07-17T23:45:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "相談相手は「AIコンパニオン」、アプリに若者課金　依存リスクも - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC165D40W5A710C2000000/",
-    "pubDate": "2025-07-17T20:51:42.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ChatGPT agent の発表まとめ",
     "link": "https://zenn.dev/schroneko/articles/introducing-chatgpt-agent",
@@ -37,9 +61,33 @@
   },
   {
     "site": "Zenn",
+    "title": "プロダクトマネージャーのためのAIドキュメンテーションどれがいいの？を徹底調査",
+    "link": "https://zenn.dev/kazukih/articles/44ea3377696d52",
+    "pubDate": "Thu, 17 Jul 2025 16:16:11 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "App Service から始める Azure入門",
     "link": "https://zenn.dev/relims7165/books/b95196348d4f1e",
     "pubDate": "Thu, 17 Jul 2025 15:40:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "[視聴レポート] Claude Code Meetup #claudecode_findy",
+    "link": "https://zenn.dev/shinyaa31/articles/d42a7edda1140e",
+    "pubDate": "Thu, 17 Jul 2025 14:43:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "自力で時差計算をしろと言われたら。あるいはDSTによる変換の曖昧性について。",
+    "link": "https://zenn.dev/cybozu_frontend/articles/calc-time-diff-on-your-own",
+    "pubDate": "Thu, 17 Jul 2025 13:19:26 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "JavaScriptのプリミティブ型と変数の基本まとめ",
+    "link": "https://qiita.com/maedaHARUYA/items/37d26c15b5a9ec99e0d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-17T12:45:07.000Z"
   },
   {
     "site": "Zenn",
@@ -49,33 +97,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Goroutine はなぜ軽量スレッドと称されるのか",
-    "link": "https://www.ren510.dev/blog/goroutine-concurrency",
-    "pubDate": "2025-07-17T11:26:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "実務で使っているClaude Codeの活用事例集 - Claude Code Meetup",
-    "link": "https://tonkotsuboy.github.io/20250717-findy-claudecode/",
-    "pubDate": "2025-07-17T10:49:51.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "エンジニアのための事業貢献入門/A business introduction for engineers",
     "link": "https://speakerdeck.com/dskst/a-business-introduction-for-engineers",
     "pubDate": "2025-07-17T07:38:22.000Z"
   },
   {
     "site": "Qiita",
+    "title": "Copilot Studio のナレッジに SharePoint リストを追加した際の動作検証",
+    "link": "https://qiita.com/Takashi_Masumori/items/e601311e9428ead0b892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-17T05:26:27.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "若手エンジニア育成の手段としても障害対応訓練はオススメです",
     "link": "https://qiita.com/schoo_hiroki_takizawa/items/9e6d48107620d1137694?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-17T04:50:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS 無料利用枠の概念が大きく変わりました - サーバーワークスエンジニアブログ",
-    "link": "https://blog.serverworks.co.jp/aws-free-tier",
-    "pubDate": "2025-07-17T04:19:29.000Z"
   },
   {
     "site": "Hatena",
@@ -90,16 +126,16 @@
     "pubDate": "Thu, 17 Jul 2025 02:12:26 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Strands Agents SDK×Bedrock AgentCore Runtimeで最先端のAIエージェント開発を楽しもう！",
-    "link": "https://qiita.com/har1101/items/73fa749e05c4cb38bb6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-16T21:19:31.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AI技術(cursor pro, claude3.5/3.7)によってコーディング開発が19%遅くなっている？！",
     "link": "https://zenn.dev/boku_yaji/articles/2eba9ff05fc3e2",
     "pubDate": "Wed, 16 Jul 2025 20:48:58 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初心者向け】既存のwebアプリをdocker化して雰囲気掴もうぜ",
+    "link": "https://qiita.com/arunbababa/items/8957058eb4b6f5ab14fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-16T20:48:24.000Z"
   },
   {
     "site": "Qiita",
@@ -114,28 +150,10 @@
     "pubDate": "Wed, 16 Jul 2025 14:00:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Amazon S3 Vectorsで激安RAGシステムを構築する",
-    "link": "https://zenn.dev/tosuri13/articles/c7ac9477d28c19",
-    "pubDate": "Wed, 16 Jul 2025 13:30:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "KiroとClaude Codeの組み合わせで開発の質と速度を両取りできた",
-    "link": "https://zenn.dev/ubie_dev/articles/kiro-claude-code",
-    "pubDate": "Wed, 16 Jul 2025 13:09:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Unison 言語から、「次」の言語を考察したい",
-    "link": "https://zenn.dev/mizchi/articles/think-next-language-with-unison",
-    "pubDate": "Wed, 16 Jul 2025 11:40:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsユーザーに送るoRPC実践入門",
-    "link": "https://zenn.dev/y_ta/books/4d8c6b9eb3a99d",
-    "pubDate": "Wed, 16 Jul 2025 10:32:32 GMT"
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 intとInteger、どっちを使えばいいの？",
+    "link": "https://qiita.com/hitomin_poke/items/043801a01a9b04cbe699?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-16T08:39:18.000Z"
   },
   {
     "site": "Qiita",
@@ -151,18 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "未経験からエンジニア歴1年半で3社内定し、年収が1.7倍になった話",
-    "link": "https://qiita.com/odendayoko/items/712025e451a45572a0b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-15T13:49:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS】話題のKiroのルールファイル適用やアーキ図から実装など注目機能を試してみた【KIRO】",
-    "link": "https://qiita.com/Nana_777/items/37a11c9a2f0065158528?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-15T13:07:57.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "そのGitHubのリンク、消えるよ",
     "link": "https://qiita.com/185shingeki/items/6e7748b6d67fabe649f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-15T12:27:53.000Z"
@@ -172,11 +178,5 @@
     "title": "【Kiro】Kiro(要件定義) × Claude Code(実装) で役割分担させてみる",
     "link": "https://qiita.com/ryu-ki/items/b7d3ea320a872a1631bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-15T11:39:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code x MVP開発に最適なNext.jsディレクトリ構成",
-    "link": "https://qiita.com/nft/items/107fb79615e3468b1e47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-15T09:22:21.000Z"
   }
 ]
