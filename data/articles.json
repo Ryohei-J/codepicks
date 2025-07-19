@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "ワンタイムパスワードは原則禁止へ、日本証券業協会が証券口座乗っ取り対策の新指針",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10906/",
+    "pubDate": "2025-07-18T15:48:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "React は次の10年を生き残れるか：3つのトレンドから考える",
+    "link": "https://speakerdeck.com/oukayuka/react-haci-no10nian-wosheng-kican-reruka-3tunotorendokarakao-eru",
+    "pubDate": "2025-07-18T11:14:24.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "プログラミング自動化の果てに",
     "link": "https://aoai-ai-coding.mizchi.workers.dev/",
     "pubDate": "2025-07-18T11:06:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Bedrock AgentCoreって何？StrandsAgentでLine Bot作ってデプロイしてみよう！",
+    "link": "https://qiita.com/Syoitu/items/e85c9d9bd389c987d7bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-18T10:14:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "9,573個ものRFCドキュメントをDifyで全部取り込んでみた話 | IIJ Engineers Blog",
+    "link": "https://eng-blog.iij.ad.jp/archives/31802",
+    "pubDate": "2025-07-18T09:08:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「チームみらい」は何を目指しているのか",
+    "link": "https://anond.hatelabo.jp/20250718165749",
+    "pubDate": "2025-07-18T08:53:48.000Z"
   },
   {
     "site": "Hatena",
@@ -13,15 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "3点見積もりで実現する、遅延しないプロジェクト計画術 | Wantedly Engineer Blog",
-    "link": "https://www.wantedly.com/companies/wantedly/post_articles/992341",
-    "pubDate": "2025-07-18T08:15:27.000Z"
+    "title": "SQLアンチパターン第2版 データベースプログラミングで陥りがちな失敗とその対策 / Intro to SQL Antipatterns 2nd",
+    "link": "https://speakerdeck.com/twada/intro-to-sql-antipatterns-2nd",
+    "pubDate": "2025-07-18T08:13:34.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【やじうまPC Watch】 KDDIの公開FTPサーバーに幕。ファイルを高速に届け続けた30年超の軌跡",
-    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2032475.html",
-    "pubDate": "2025-07-18T07:46:21.000Z"
+    "title": "AI Ready API ─ AI時代に求められるAPI設計とは？/ AI-Ready API - Designing MCP and APIs in the AI Era",
+    "link": "https://speakerdeck.com/yokawasa/ai-ready-api-designing-mcp-and-apis-in-the-ai-era",
+    "pubDate": "2025-07-18T07:05:42.000Z"
   },
   {
     "site": "Zenn",
@@ -30,40 +60,34 @@
     "pubDate": "2025-07-18T06:21:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "またがる扇風機「またせん」サンコーから　風呂上がりなどに",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/18/news082.html",
-    "pubDate": "2025-07-18T04:48:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソフトウェア設計とAI技術の活用",
-    "link": "https://speakerdeck.com/masuda220/devsumi-summer-2025-software-design-and-ai-technology",
-    "pubDate": "2025-07-18T04:29:44.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIロボット協会テックブログをはじめます",
     "link": "https://zenn.dev/airoa/articles/99184bcc68eadc",
     "pubDate": "Fri, 18 Jul 2025 02:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "OneDrive「30年分のデータ」消失の悲劇、理由なき突然のアカウント凍結にご用心：838thLap",
-    "link": "https://kn.itmedia.co.jp/kn/articles/2507/18/news032.html",
-    "pubDate": "2025-07-18T01:39:12.000Z"
+    "site": "Qiita",
+    "title": "Web API: The Good Parts (エンドポイントの設計)",
+    "link": "https://qiita.com/hoborei/items/98808c7992be83a10e88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-18T00:41:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "突然取引していた銀行で「取引できません」という通知が来たから電話で聞いてみると、取引の是非はAIが判断して通知してるらしい",
-    "link": "https://togetter.com/li/2577484",
-    "pubDate": "2025-07-18T01:33:43.000Z"
+    "site": "Qiita",
+    "title": "商品カテゴリで学ぶBFS(幅優先探索)",
+    "link": "https://qiita.com/hoborei/items/ef83a309ff6023f02982?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-18T00:34:09.000Z"
   },
   {
     "site": "Hatena",
     "title": "無料で「Gemini 2.5 Pro」が使える！グーグル「Gemini CLI」の使い方を簡単解説 (1/9)",
     "link": "https://ascii.jp/elem/000/004/297/4297141/",
     "pubDate": "2025-07-17T23:45:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "SnowflakeにADBから自然言語で問い合わせしてみた (SELECT AIを使ったADB Sidecar)",
+    "link": "https://qiita.com/ssfujita/items/580a0b351f63f0278289?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-17T23:36:29.000Z"
   },
   {
     "site": "Zenn",
@@ -97,27 +121,15 @@
   },
   {
     "site": "Qiita",
-    "title": "JavaScriptのプリミティブ型と変数の基本まとめ",
-    "link": "https://qiita.com/maedaHARUYA/items/37d26c15b5a9ec99e0d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-17T12:45:07.000Z"
+    "title": "Kiroみたいな「仕様書駆動開発」をClaude Code・Opus 4でやるまでの手順を整理した！！！",
+    "link": "https://qiita.com/nokonoko_1203/items/8bafb6033409aadccd9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-17T12:45:30.000Z"
   },
   {
     "site": "Zenn",
     "title": "Amazon Bedrock AgentCoreのCode InterpreterをMastraで手軽に試してみよう！",
     "link": "https://zenn.dev/tosuri13/articles/17cc72001caa55",
     "pubDate": "Thu, 17 Jul 2025 12:32:04 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilot Studio のナレッジに SharePoint リストを追加した際の動作検証",
-    "link": "https://qiita.com/Takashi_Masumori/items/e601311e9428ead0b892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-17T05:26:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "若手エンジニア育成の手段としても障害対応訓練はオススメです",
-    "link": "https://qiita.com/schoo_hiroki_takizawa/items/9e6d48107620d1137694?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-17T04:50:46.000Z"
   },
   {
     "site": "Zenn",
@@ -166,17 +178,5 @@
     "title": "【AWS発のAIエディタ🔥】Kiro 完全チートシート - 公式Doc全網羅！🚀",
     "link": "https://qiita.com/akira_papa_AI/items/1f862d95a945af46a32f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-15T20:01:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "そのGitHubのリンク、消えるよ",
-    "link": "https://qiita.com/185shingeki/items/6e7748b6d67fabe649f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-15T12:27:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Kiro】Kiro(要件定義) × Claude Code(実装) で役割分担させてみる",
-    "link": "https://qiita.com/ryu-ki/items/b7d3ea320a872a1631bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-15T11:39:29.000Z"
   }
 ]
