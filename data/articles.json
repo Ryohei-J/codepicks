@@ -1,15 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "素人が参院議員の議案賛否検索サイトを作ってみた",
+    "link": "https://zenn.dev/midorisawa07/articles/7b6b24a46925fd",
+    "pubDate": "2025-07-19T08:25:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "どの議員がどの法案に賛成したのか分かるサイトをつくりました。",
+    "link": "https://anond.hatelabo.jp/20250719162849",
+    "pubDate": "2025-07-19T07:29:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kiroの仕様書駆動開発プロセスをClaude Codeで徹底的に再現した",
+    "link": "https://zenn.dev/gotalab/articles/3db0621ce3d6d2",
+    "pubDate": "2025-07-19T05:50:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "チームみらい関係者が反対意見に対して「コントリビューションできますよ！」と反応を送っていることに失礼だとの声 OSSの思想は政治で通用するのか？",
+    "link": "https://togetter.com/li/2577958",
+    "pubDate": "2025-07-19T03:35:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ドキュメント・スライド・スプレッドシートを一括生成するAIツールが凄い",
+    "link": "https://qiita.com/KNR109/items/3594803a40b7350053d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-19T02:30:58.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "『AI小説執筆』と聞いて多くの人が想像するものとその現実「本当にコレ」「結局人間が全部書く」",
     "link": "https://togetter.com/li/2577810",
     "pubDate": "2025-07-19T00:54:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【山田祥平のRe:config.sys】 次の舟は誰が編むのか",
-    "link": "https://pc.watch.impress.co.jp/docs/column/config/2032632.html",
-    "pubDate": "2025-07-19T00:28:59.000Z"
   },
   {
     "site": "Hatena",
@@ -18,22 +42,34 @@
     "pubDate": "2025-07-18T15:48:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AnthropicがClaude Codeの使用制限をユーザーに通知なしで勝手に厳しくしたと騒ぎに",
-    "link": "https://gigazine.net/news/20250718-anthropic-claude-code-limits/",
-    "pubDate": "2025-07-18T14:36:49.000Z"
+    "site": "Qiita",
+    "title": "AWS Knowledge MCPサーバーを使って最新アプデを爆速理解！ ~Documentation MCPサーバーとも比較してみた~",
+    "link": "https://qiita.com/har1101/items/b1ce189c80ae44b9c505?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-18T15:38:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "JWT認証を仕組みから実装まで理解する",
+    "link": "https://zenn.dev/ippe/articles/jwt-auth-ippei",
+    "pubDate": "Fri, 18 Jul 2025 15:26:32 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Bedrock AgentCoreにリモートMCPサーバーをDeploy！（期待大）",
+    "link": "https://qiita.com/moritalous/items/13adf7417a2d9dcebaaa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-18T14:34:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "これ読めばOK。私が使ってるものだけの、Claude Code チュートリアル",
+    "link": "https://zenn.dev/pepabo/articles/898cdc4839acb8",
+    "pubDate": "2025-07-18T13:06:38.000Z"
   },
   {
     "site": "Hatena",
     "title": "React は次の10年を生き残れるか：3つのトレンドから考える",
     "link": "https://speakerdeck.com/oukayuka/react-haci-no10nian-wosheng-kican-reruka-3tunotorendokarakao-eru",
     "pubDate": "2025-07-18T11:14:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "プログラミング自動化の果てに",
-    "link": "https://aoai-ai-coding.mizchi.workers.dev/",
-    "pubDate": "2025-07-18T11:06:15.000Z"
   },
   {
     "site": "Qiita",
@@ -43,15 +79,21 @@
   },
   {
     "site": "Hatena",
-    "title": "9,573個ものRFCドキュメントをDifyで全部取り込んでみた話 | IIJ Engineers Blog",
-    "link": "https://eng-blog.iij.ad.jp/archives/31802",
-    "pubDate": "2025-07-18T09:08:04.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「チームみらい」は何を目指しているのか",
     "link": "https://anond.hatelabo.jp/20250718165749",
     "pubDate": "2025-07-18T08:53:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ECSの組み込み機能でB/Gデプロイが可能になったので、試したみた",
+    "link": "https://zenn.dev/falcon_tech/articles/0262e84c35e848",
+    "pubDate": "Fri, 18 Jul 2025 08:33:49 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】Integerクラスで使える便利メソッド10選！",
+    "link": "https://qiita.com/hitomin_poke/items/79a762be23754765ff9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-18T08:33:07.000Z"
   },
   {
     "site": "Hatena",
@@ -60,10 +102,10 @@
     "pubDate": "2025-07-18T08:13:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI Ready API ─ AI時代に求められるAPI設計とは？/ AI-Ready API - Designing MCP and APIs in the AI Era",
-    "link": "https://speakerdeck.com/yokawasa/ai-ready-api-designing-mcp-and-apis-in-the-ai-era",
-    "pubDate": "2025-07-18T07:05:42.000Z"
+    "site": "Zenn",
+    "title": "Claude CodeだけでKiro風をやる",
+    "link": "https://zenn.dev/sosukesuzuki/articles/593903287631e9",
+    "pubDate": "Fri, 18 Jul 2025 06:07:16 GMT"
   },
   {
     "site": "Zenn",
@@ -72,34 +114,10 @@
     "pubDate": "Fri, 18 Jul 2025 02:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Web API: The Good Parts (エンドポイントの設計)",
-    "link": "https://qiita.com/hoborei/items/98808c7992be83a10e88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-18T00:41:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "商品カテゴリで学ぶBFS(幅優先探索)",
-    "link": "https://qiita.com/hoborei/items/ef83a309ff6023f02982?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-18T00:34:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SnowflakeにADBから自然言語で問い合わせしてみた (SELECT AIを使ったADB Sidecar)",
-    "link": "https://qiita.com/ssfujita/items/580a0b351f63f0278289?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-17T23:36:29.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ChatGPT agent の発表まとめ",
     "link": "https://zenn.dev/schroneko/articles/introducing-chatgpt-agent",
     "pubDate": "Thu, 17 Jul 2025 19:23:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プロダクトマネージャーのためのAIドキュメンテーションどれがいいの？を徹底調査",
-    "link": "https://zenn.dev/kazukih/articles/44ea3377696d52",
-    "pubDate": "Thu, 17 Jul 2025 16:16:11 GMT"
   },
   {
     "site": "Zenn",
@@ -126,10 +144,16 @@
     "pubDate": "2025-07-17T12:45:30.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Amazon Bedrock AgentCoreのCode InterpreterをMastraで手軽に試してみよう！",
-    "link": "https://zenn.dev/tosuri13/articles/17cc72001caa55",
-    "pubDate": "Thu, 17 Jul 2025 12:32:04 GMT"
+    "site": "Qiita",
+    "title": "【Kiroだけじゃなかった！AWSがAIインフラ続々リリースして凄すぎたので緊急整理🔥】AWSがAIエージェント開発の「実験→本番」への難題を解決！AgentCoreで誰でも本格的なAIエージェントを動かせる時代に突入",
+    "link": "https://qiita.com/akira_papa_AI/items/92fa19cbac0d2918ec8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-17T09:53:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【決定版】AWS発 Agentic AI IDE Kiro 徹底解説 & 導入完全ガイド",
+    "link": "https://qiita.com/Earthfreedom/items/72eba6528f2d6d7f21fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-17T03:59:23.000Z"
   },
   {
     "site": "Zenn",
@@ -151,32 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "AIエージェントの大型アプデ多数！ AWSサミットNYC速報まとめ",
-    "link": "https://qiita.com/minorun365/items/5215240d8a0c50ff91f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-16T16:41:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ずっと欲しかったRustのWebAPIテストフレームワークを個人開発している話",
-    "link": "https://zenn.dev/yukinarit/articles/597dfc7ee56bb0",
-    "pubDate": "Wed, 16 Jul 2025 14:00:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 intとInteger、どっちを使えばいいの？",
-    "link": "https://qiita.com/hitomin_poke/items/043801a01a9b04cbe699?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-16T08:39:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Gemini CLI + Blender MCPでビオレママ作ってみたら衝撃の結末だった",
-    "link": "https://qiita.com/nobu34/items/fda4b0af81e88e401687?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-16T00:17:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS発のAIエディタ🔥】Kiro 完全チートシート - 公式Doc全網羅！🚀",
-    "link": "https://qiita.com/akira_papa_AI/items/1f862d95a945af46a32f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-15T20:01:46.000Z"
+    "title": "[Amazon Bedrock]Amazon S3 Vectors実際どうですか?精度評価もしてみよう",
+    "link": "https://qiita.com/Syoitu/items/4ef4f2f0b1fe71ace919?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-16T08:03:14.000Z"
   }
 ]
