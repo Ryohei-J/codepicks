@@ -1,6 +1,18 @@
 [
   {
     "site": "Zenn",
+    "title": "OAuthとOIDCの前にJWTから勉強しよう",
+    "link": "https://zenn.dev/nttdata_tech/articles/cdf46cbf625147",
+    "pubDate": "2025-07-19T11:02:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ECSのネイティブBlue/Greenが登場したので検証！フック・Dark Canary・コントローラ更新も強力",
+    "link": "https://zenn.dev/cadp/articles/ecs-builtin-blue-green",
+    "pubDate": "2025-07-19T10:05:31.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "素人が参院議員の議案賛否検索サイトを作ってみた",
     "link": "https://zenn.dev/midorisawa07/articles/7b6b24a46925fd",
     "pubDate": "2025-07-19T08:25:41.000Z"
@@ -22,6 +34,12 @@
     "title": "チームみらい関係者が反対意見に対して「コントリビューションできますよ！」と反応を送っていることに失礼だとの声 OSSの思想は政治で通用するのか？",
     "link": "https://togetter.com/li/2577958",
     "pubDate": "2025-07-19T03:35:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoft Print to PDFで出力したファイルからテキストをコピペしたら文字化けしてた…→実はPDFの仕様に潜む本質的な欠陥が原因なのでは？",
+    "link": "https://togetter.com/li/2577928",
+    "pubDate": "2025-07-19T02:34:02.000Z"
   },
   {
     "site": "Qiita",
@@ -66,22 +84,10 @@
     "pubDate": "2025-07-18T13:06:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "React は次の10年を生き残れるか：3つのトレンドから考える",
-    "link": "https://speakerdeck.com/oukayuka/react-haci-no10nian-wosheng-kican-reruka-3tunotorendokarakao-eru",
-    "pubDate": "2025-07-18T11:14:24.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Amazon Bedrock AgentCoreって何？StrandsAgentでLine Bot作ってデプロイしてみよう！",
     "link": "https://qiita.com/Syoitu/items/e85c9d9bd389c987d7bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-18T10:14:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「チームみらい」は何を目指しているのか",
-    "link": "https://anond.hatelabo.jp/20250718165749",
-    "pubDate": "2025-07-18T08:53:48.000Z"
   },
   {
     "site": "Zenn",
@@ -94,12 +100,6 @@
     "title": "【ポケモン×Java】Integerクラスで使える便利メソッド10選！",
     "link": "https://qiita.com/hitomin_poke/items/79a762be23754765ff9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-18T08:33:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "SQLアンチパターン第2版 データベースプログラミングで陥りがちな失敗とその対策 / Intro to SQL Antipatterns 2nd",
-    "link": "https://speakerdeck.com/twada/intro-to-sql-antipatterns-2nd",
-    "pubDate": "2025-07-18T08:13:34.000Z"
   },
   {
     "site": "Zenn",
