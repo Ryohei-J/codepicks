@@ -1,15 +1,51 @@
 [
   {
+    "site": "Hatena",
+    "title": "kiroを参考にして作成したCLAUDE.md - izanami",
+    "link": "https://izanami.dev/post/11c5067c-d2f9-4945-8944-0d1c20c1263d",
+    "pubDate": "2025-07-19T15:50:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "自治体職員がガバメントクラウドの AWS 環境を理解するのに助けになった知識 n 選（閉域マルチアカウントのネットワーク関連多め）",
+    "link": "https://qiita.com/takeda_h/items/9f264464ea3cc3c55f11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-19T14:16:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Kiroとコンテキストエンジニアリングの時流",
+    "link": "https://blog.lai.so/kiro-in-context-engineering/",
+    "pubDate": "2025-07-19T13:21:26.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "OAuthとOIDCの前にJWTから勉強しよう",
     "link": "https://zenn.dev/nttdata_tech/articles/cdf46cbf625147",
     "pubDate": "2025-07-19T11:02:48.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AWS完全初心者がCloudFrontとS3を用いて高速ウェブホスティングを実現した話",
+    "link": "https://qiita.com/tks_1128/items/5eae72a9ba4fd6e649f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-19T11:00:16.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "ECSのネイティブBlue/Greenが登場したので検証！フック・Dark Canary・コントローラ更新も強力",
     "link": "https://zenn.dev/cadp/articles/ecs-builtin-blue-green",
-    "pubDate": "2025-07-19T10:05:31.000Z"
+    "pubDate": "Sat, 19 Jul 2025 09:55:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "あなたのネット履歴が誰に追跡されてるか…このサイトでわかります",
+    "link": "https://www.gizmodo.jp/2025/07/search-engine-webxray-2.html",
+    "pubDate": "2025-07-19T09:39:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "KiroのAgent Steeringの仕組みが良いと思った話",
+    "link": "https://zenn.dev/oikon/articles/kiro-steering",
+    "pubDate": "Sat, 19 Jul 2025 09:03:00 GMT"
   },
   {
     "site": "Zenn",
@@ -25,9 +61,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Kiroの仕様書駆動開発プロセスをClaude Codeで徹底的に再現した",
-    "link": "https://zenn.dev/gotalab/articles/3db0621ce3d6d2",
-    "pubDate": "2025-07-19T05:50:02.000Z"
+    "title": "素人が参院議員の議案賛否検索サイトを作ってみた",
+    "link": "https://zenn.dev/midorisawa07/articles/7b6b24a46925fd",
+    "pubDate": "Sat, 19 Jul 2025 06:39:50 GMT"
   },
   {
     "site": "Hatena",
@@ -48,16 +84,16 @@
     "pubDate": "2025-07-19T02:30:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "『AI小説執筆』と聞いて多くの人が想像するものとその現実「本当にコレ」「結局人間が全部書く」",
-    "link": "https://togetter.com/li/2577810",
-    "pubDate": "2025-07-19T00:54:25.000Z"
+    "site": "Zenn",
+    "title": "Go で CLI を配布する際にライブラリのライセンス文書も含める",
+    "link": "https://zenn.dev/shunsuke_suzuki/articles/go-oss-licenses",
+    "pubDate": "Sat, 19 Jul 2025 02:16:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ワンタイムパスワードは原則禁止へ、日本証券業協会が証券口座乗っ取り対策の新指針",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10906/",
-    "pubDate": "2025-07-18T15:48:15.000Z"
+    "site": "Zenn",
+    "title": "Kiroの仕様書駆動開発プロセスをClaude Codeで徹底的に再現した",
+    "link": "https://zenn.dev/gotalab/articles/3db0621ce3d6d2",
+    "pubDate": "Fri, 18 Jul 2025 21:05:00 GMT"
   },
   {
     "site": "Qiita",
@@ -78,10 +114,22 @@
     "pubDate": "2025-07-18T14:34:11.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "1秒でわかる｢ChatGPTエージェント｣：ChatGPTがこれになり、パワポを作ってくれる",
+    "link": "https://www.gizmodo.jp/2025/07/chatgpt_agent.html",
+    "pubDate": "2025-07-18T13:35:32.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "これ読めばOK。私が使ってるものだけの、Claude Code チュートリアル",
     "link": "https://zenn.dev/pepabo/articles/898cdc4839acb8",
     "pubDate": "2025-07-18T13:06:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "これ読めばOK。私が使ってるものだけの、Claude Code チュートリアル",
+    "link": "https://zenn.dev/pepabo/articles/898cdc4839acb8",
+    "pubDate": "Fri, 18 Jul 2025 10:45:02 GMT"
   },
   {
     "site": "Qiita",
@@ -96,12 +144,6 @@
     "pubDate": "Fri, 18 Jul 2025 08:33:49 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】Integerクラスで使える便利メソッド10選！",
-    "link": "https://qiita.com/hitomin_poke/items/79a762be23754765ff9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-18T08:33:07.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude CodeだけでKiro風をやる",
     "link": "https://zenn.dev/sosukesuzuki/articles/593903287631e9",
@@ -109,33 +151,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AIロボット協会テックブログをはじめます",
-    "link": "https://zenn.dev/airoa/articles/99184bcc68eadc",
-    "pubDate": "Fri, 18 Jul 2025 02:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ChatGPT agent の発表まとめ",
-    "link": "https://zenn.dev/schroneko/articles/introducing-chatgpt-agent",
-    "pubDate": "Thu, 17 Jul 2025 19:23:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "App Service から始める Azure入門",
-    "link": "https://zenn.dev/relims7165/books/b95196348d4f1e",
-    "pubDate": "Thu, 17 Jul 2025 15:40:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[視聴レポート] Claude Code Meetup #claudecode_findy",
-    "link": "https://zenn.dev/shinyaa31/articles/d42a7edda1140e",
-    "pubDate": "Thu, 17 Jul 2025 14:43:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自力で時差計算をしろと言われたら。あるいはDSTによる変換の曖昧性について。",
-    "link": "https://zenn.dev/cybozu_frontend/articles/calc-time-diff-on-your-own",
-    "pubDate": "Thu, 17 Jul 2025 13:19:26 GMT"
+    "title": "E2E自動テストの実行時間を半分にして開発者体験をアゲた話",
+    "link": "https://zenn.dev/mybest_dev/articles/eb538cd0ea9227",
+    "pubDate": "Fri, 18 Jul 2025 02:42:07 GMT"
   },
   {
     "site": "Qiita",
@@ -156,27 +174,9 @@
     "pubDate": "2025-07-17T03:59:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "最新のAI駆動開発ツール「Kiro」を徹底解説!!",
-    "link": "https://zenn.dev/galirage/articles/aws-ai-native-kiro",
-    "pubDate": "Thu, 17 Jul 2025 02:12:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI技術(cursor pro, claude3.5/3.7)によってコーディング開発が19%遅くなっている？！",
-    "link": "https://zenn.dev/boku_yaji/articles/2eba9ff05fc3e2",
-    "pubDate": "Wed, 16 Jul 2025 20:48:58 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【初心者向け】既存のwebアプリをdocker化して雰囲気掴もうぜ",
     "link": "https://qiita.com/arunbababa/items/8957058eb4b6f5ab14fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-16T20:48:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[Amazon Bedrock]Amazon S3 Vectors実際どうですか?精度評価もしてみよう",
-    "link": "https://qiita.com/Syoitu/items/4ef4f2f0b1fe71ace919?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-16T08:03:14.000Z"
   }
 ]
