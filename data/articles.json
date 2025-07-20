@@ -1,9 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "IT界隈の動物たち",
+    "link": "https://zenn.dev/niharu/articles/cf7207d65e7ebf",
+    "pubDate": "2025-07-20T03:39:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "静的S3サイトにAPIで取得したデータを表示ハンズオン",
+    "link": "https://qiita.com/tetutetu214/items/b6ec161141e813cd5553?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T02:57:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "プロダクションのコードで Vibe Coding を使う方法｜牛尾　剛",
+    "link": "https://note.com/simplearchitect/n/nf9bf709c660f",
+    "pubDate": "2025-07-20T02:44:00.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "kiroを参考にして作成したCLAUDE.md - izanami",
     "link": "https://izanami.dev/post/11c5067c-d2f9-4945-8944-0d1c20c1263d",
     "pubDate": "2025-07-19T15:50:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": " Pydantic AIで作る「曖昧レシピ明確化の仕組み」- 実装してみた",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/d681c52c5c6e835ce33c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-19T14:24:19.000Z"
   },
   {
     "site": "Qiita",
@@ -13,15 +37,21 @@
   },
   {
     "site": "Hatena",
+    "title": "生成AI時代に中間管理職、いる？｜ハヤカワ五味",
+    "link": "https://note.com/hayakawagomi/n/ncd59b6a0eeb9",
+    "pubDate": "2025-07-19T13:44:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Kiroとコンテキストエンジニアリングの時流",
     "link": "https://blog.lai.so/kiro-in-context-engineering/",
     "pubDate": "2025-07-19T13:21:26.000Z"
   },
   {
     "site": "Zenn",
-    "title": "OAuthとOIDCの前にJWTから勉強しよう",
-    "link": "https://zenn.dev/nttdata_tech/articles/cdf46cbf625147",
-    "pubDate": "2025-07-19T11:02:48.000Z"
+    "title": "JWT認証を仕組みから実装まで理解する",
+    "link": "https://zenn.dev/ippe/articles/jwt-auth-ippei",
+    "pubDate": "2025-07-19T12:18:54.000Z"
   },
   {
     "site": "Qiita",
@@ -48,16 +78,16 @@
     "pubDate": "Sat, 19 Jul 2025 09:03:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "素人が参院議員の議案賛否検索サイトを作ってみた",
-    "link": "https://zenn.dev/midorisawa07/articles/7b6b24a46925fd",
-    "pubDate": "2025-07-19T08:25:41.000Z"
+    "site": "Qiita",
+    "title": "最小二乗法によるモータのパラメータ同定",
+    "link": "https://qiita.com/Gomachan_2021/items/89d566ac7a3dd3b098cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-19T07:52:17.000Z"
   },
   {
     "site": "Hatena",
-    "title": "どの議員がどの法案に賛成したのか分かるサイトをつくりました。",
-    "link": "https://anond.hatelabo.jp/20250719162849",
-    "pubDate": "2025-07-19T07:29:50.000Z"
+    "title": "カスタム Gem 応用編：アプリ連携とファイル活用で「あなただけの Gemini」がさらに進化｜Gemini - Google の AI",
+    "link": "https://note.com/google_gemini/n/n032af364f7ef",
+    "pubDate": "2025-07-19T06:43:55.000Z"
   },
   {
     "site": "Zenn",
@@ -66,22 +96,16 @@
     "pubDate": "Sat, 19 Jul 2025 06:39:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoft Print to PDFで出力したファイルからテキストをコピペしたら文字化けしてた…→実はPDFの仕様に潜む本質的な欠陥が原因なのでは？",
-    "link": "https://togetter.com/li/2577928",
-    "pubDate": "2025-07-19T02:34:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ドキュメント・スライド・スプレッドシートを一括生成するAIツールが凄い",
-    "link": "https://qiita.com/KNR109/items/3594803a40b7350053d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-19T02:30:58.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Go で CLI を配布する際にライブラリのライセンス文書も含める",
     "link": "https://zenn.dev/shunsuke_suzuki/articles/go-oss-licenses",
     "pubDate": "Sat, 19 Jul 2025 02:16:56 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "個人開発「心のトイレ」つくってみた",
+    "link": "https://qiita.com/keitaMax/items/fc4db63c598aaf61c196?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-19T01:52:33.000Z"
   },
   {
     "site": "Zenn",
@@ -90,34 +114,16 @@
     "pubDate": "Fri, 18 Jul 2025 21:05:00 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AWS Knowledge MCPサーバーを使って最新アプデを爆速理解！ ~Documentation MCPサーバーとも比較してみた~",
-    "link": "https://qiita.com/har1101/items/b1ce189c80ae44b9c505?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-18T15:38:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "JWT認証を仕組みから実装まで理解する",
     "link": "https://zenn.dev/ippe/articles/jwt-auth-ippei",
     "pubDate": "Fri, 18 Jul 2025 15:26:32 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Amazon Bedrock AgentCoreにリモートMCPサーバーをDeploy！（期待大）",
-    "link": "https://qiita.com/moritalous/items/13adf7417a2d9dcebaaa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-18T14:34:11.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "1秒でわかる｢ChatGPTエージェント｣：ChatGPTがこれになり、パワポを作ってくれる",
     "link": "https://www.gizmodo.jp/2025/07/chatgpt_agent.html",
     "pubDate": "2025-07-18T13:35:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "これ読めばOK。私が使ってるものだけの、Claude Code チュートリアル",
-    "link": "https://zenn.dev/pepabo/articles/898cdc4839acb8",
-    "pubDate": "2025-07-18T13:06:38.000Z"
   },
   {
     "site": "Zenn",
@@ -144,6 +150,12 @@
     "pubDate": "Fri, 18 Jul 2025 06:07:16 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "AppSync Event API を使用したリアルタイム文字起こしをブラウザに表示させてみた！",
+    "link": "https://qiita.com/hirota_kodai/items/9b2c846d8c7b4bc7bc95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-18T03:18:05.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "E2E自動テストの実行時間を半分にして開発者体験をアゲた話",
     "link": "https://zenn.dev/mybest_dev/articles/eb538cd0ea9227",
@@ -166,17 +178,5 @@
     "title": "かつては「IT部門の位置付けが低かった」日清食品グループが社員のセキュリティ意識を大きく高められた納得の理由 | Japan Innovation Review powered by JBpress",
     "link": "https://jbpress.ismedia.jp/articles/-/89455",
     "pubDate": "2025-07-17T09:15:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【決定版】AWS発 Agentic AI IDE Kiro 徹底解説 & 導入完全ガイド",
-    "link": "https://qiita.com/Earthfreedom/items/72eba6528f2d6d7f21fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-17T03:59:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者向け】既存のwebアプリをdocker化して雰囲気掴もうぜ",
-    "link": "https://qiita.com/arunbababa/items/8957058eb4b6f5ab14fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-16T20:48:24.000Z"
   }
 ]
