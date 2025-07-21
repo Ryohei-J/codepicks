@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "障害者だから、チームみらいのマニフェストの就労移行支援とかにどうしても目が行くんだけど、",
+    "link": "https://anond.hatelabo.jp/20250721034324",
+    "pubDate": "2025-07-20T18:53:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ObsidianxClaude Code情報管理術 | ドクセル",
+    "link": "https://www.docswell.com/s/karaage0703/KV463J-2025-07-20-220731?utm_source=twitter&utm_medium=social&utm_campaign=singlepage",
+    "pubDate": "2025-07-20T15:01:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "1画面運用にホーム画面を整理したら、iPhoneが超快適になった件 - iPhone Mania",
+    "link": "https://iphone-mania.jp/funny-596448/",
+    "pubDate": "2025-07-20T11:04:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "科学技術論文に用いる図表のための matplotlib 設定",
+    "link": "https://qiita.com/n-taishi/items/042039847601f264236d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T10:24:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "メールアドレス認証2FAはパスワードだけで突破できるからやめておけ",
+    "link": "https://zenn.dev/grandchildrice/articles/a007075c0ec99c",
+    "pubDate": "2025-07-20T09:53:04.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "私のキャリアに影響を与えたコンピューター・IT の定番書籍",
     "link": "https://azukiazusa.dev/blog/computer-it-books/",
     "pubDate": "2025-07-20T09:23:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】「添加物のないお酒が見つからない！」を解決する検索アプリを作りました【React/TypeScript/Supabase】",
+    "link": "https://qiita.com/asa129/items/056a601746b49029c768?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T09:17:35.000Z"
   },
   {
     "site": "Hatena",
@@ -24,16 +60,10 @@
     "pubDate": "2025-07-20T02:57:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "プロダクションのコードで Vibe Coding を使う方法｜牛尾　剛",
-    "link": "https://note.com/simplearchitect/n/nf9bf709c660f",
-    "pubDate": "2025-07-20T02:44:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "kiroを参考にして作成したCLAUDE.md - izanami",
-    "link": "https://izanami.dev/post/11c5067c-d2f9-4945-8944-0d1c20c1263d",
-    "pubDate": "2025-07-19T15:50:53.000Z"
+    "site": "Qiita",
+    "title": "【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開",
+    "link": "https://qiita.com/tomada/items/e27292b65f723c4633d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T00:09:30.000Z"
   },
   {
     "site": "Qiita",
@@ -60,10 +90,10 @@
     "pubDate": "2025-07-19T13:44:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Kiroとコンテキストエンジニアリングの時流",
-    "link": "https://blog.lai.so/kiro-in-context-engineering/",
-    "pubDate": "2025-07-19T13:21:26.000Z"
+    "site": "Qiita",
+    "title": "Qiita内のC#erのための有用な記事リスト(年代別)",
+    "link": "https://qiita.com/EndOfData/items/394ac55f982acda82080?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-19T12:28:45.000Z"
   },
   {
     "site": "Zenn",
@@ -96,18 +126,6 @@
     "pubDate": "Sat, 19 Jul 2025 09:03:00 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "最小二乗法によるモータのパラメータ同定",
-    "link": "https://qiita.com/Gomachan_2021/items/89d566ac7a3dd3b098cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-19T07:52:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "カスタム Gem 応用編：アプリ連携とファイル活用で「あなただけの Gemini」がさらに進化｜Gemini - Google の AI",
-    "link": "https://note.com/google_gemini/n/n032af364f7ef",
-    "pubDate": "2025-07-19T06:43:55.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "素人が参院議員の議案賛否検索サイトを作ってみた",
     "link": "https://zenn.dev/midorisawa07/articles/7b6b24a46925fd",
@@ -132,6 +150,12 @@
     "pubDate": "2025-07-19T01:52:33.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "AIの長期記憶用OS「MemOS」、あらゆる画像を4KにするAI「4KAgent」、オープンソースなウェブ探索AI「WebSailor」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2025/07/19/4492.html",
+    "pubDate": "2025-07-19T01:46:18.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Kiroの仕様書駆動開発プロセスをClaude Codeで徹底的に再現した",
     "link": "https://zenn.dev/gotalab/articles/3db0621ce3d6d2",
@@ -144,12 +168,6 @@
     "pubDate": "Fri, 18 Jul 2025 15:26:32 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "1秒でわかる｢ChatGPTエージェント｣：ChatGPTがこれになり、パワポを作ってくれる",
-    "link": "https://www.gizmodo.jp/2025/07/chatgpt_agent.html",
-    "pubDate": "2025-07-18T13:35:32.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "これ読めばOK。私が使ってるものだけの、Claude Code チュートリアル",
     "link": "https://zenn.dev/pepabo/articles/898cdc4839acb8",
@@ -160,23 +178,5 @@
     "title": "Amazon Bedrock AgentCoreって何？StrandsAgentでLine Bot作ってデプロイしてみよう！",
     "link": "https://qiita.com/Syoitu/items/e85c9d9bd389c987d7bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-18T10:14:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AppSync Event API を使用したリアルタイム文字起こしをブラウザに表示させてみた！",
-    "link": "https://qiita.com/hirota_kodai/items/9b2c846d8c7b4bc7bc95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-18T03:18:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Kiroみたいな「仕様書駆動開発」をClaude Code・Opus 4でやるまでの手順を整理した！！！",
-    "link": "https://qiita.com/nokonoko_1203/items/8bafb6033409aadccd9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-17T12:45:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Kiroだけじゃなかった！AWSがAIインフラ続々リリースして凄すぎたので緊急整理🔥】AWSがAIエージェント開発の「実験→本番」への難題を解決！AgentCoreで誰でも本格的なAIエージェントを動かせる時代に突入",
-    "link": "https://qiita.com/akira_papa_AI/items/92fa19cbac0d2918ec8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-17T09:53:56.000Z"
   }
 ]
