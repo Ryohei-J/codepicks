@@ -1,15 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "ユーザ「システムのことがわかる情シス側がビジネス理解をして要求定義し要件定義もやれば良いではないか」→この発言に反論してください",
+    "link": "https://togetter.com/li/2578795",
+    "pubDate": "2025-07-21T01:34:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLM推論に関する技術メモ",
+    "link": "https://iwashi.co/2025/07/20/llm-inference",
+    "pubDate": "2025-07-21T01:02:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エンジニアで開発界隈から実社会・ビジネス界隈に打って出たい人は『世の中の普通の人たちと話して深く関わり合う』経験をある程度積んだ方がいい「違う正しさで駆動してる人達と上手くやっていけないとなぁ」",
+    "link": "https://togetter.com/li/2578782",
+    "pubDate": "2025-07-21T01:01:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "技術イベントのメモはOpenAI WhisperとGemini CLIに任せる",
+    "link": "https://zenn.dev/r4ynode/articles/audio-transcription-using-openai-whisper",
+    "pubDate": "Mon, 21 Jul 2025 00:00:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "MacBookで無料AI。｢ローカルLLM｣がいい感じに進化してます",
+    "link": "https://www.gizmodo.jp/2025/07/overview_local_llm_for_laptops.html",
+    "pubDate": "2025-07-20T23:36:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIが書いた怪談小説が面白い　2分に1本のペースで出力されるのは驚異的 (1/4)",
+    "link": "https://ascii.jp/elem/000/004/306/4306133/",
+    "pubDate": "2025-07-20T23:06:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "障害者だから、チームみらいのマニフェストの就労移行支援とかにどうしても目が行くんだけど、",
     "link": "https://anond.hatelabo.jp/20250721034324",
     "pubDate": "2025-07-20T18:53:48.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ObsidianxClaude Code情報管理術 | ドクセル",
-    "link": "https://www.docswell.com/s/karaage0703/KV463J-2025-07-20-220731?utm_source=twitter&utm_medium=social&utm_campaign=singlepage",
-    "pubDate": "2025-07-20T15:01:06.000Z"
+    "title": "ObsidianをLLM時代のナレッジベースに！ クリッピング→Markdown→CLI連携の実践",
+    "link": "https://speakerdeck.com/srvhat09/obsidianwollmshi-dai-nonaretuzibesuni-kuritupingu-markdown-clilian-xi-noshi-jian",
+    "pubDate": "2025-07-20T18:39:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ubuntuをインストールしたときにしている環境構築メモ",
+    "link": "https://zenn.dev/ame_b/articles/da0f86077fddad",
+    "pubDate": "Sun, 20 Jul 2025 14:23:20 GMT"
   },
   {
     "site": "Hatena",
@@ -18,16 +60,16 @@
     "pubDate": "2025-07-20T11:04:10.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "cocot38miniのビルドログ - 好奇心はハードルを超えていく",
+    "link": "https://zenn.dev/namikaze_40p/articles/buildlog_cocot38mini",
+    "pubDate": "Sun, 20 Jul 2025 10:40:41 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "科学技術論文に用いる図表のための matplotlib 設定",
     "link": "https://qiita.com/n-taishi/items/042039847601f264236d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-20T10:24:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "メールアドレス認証2FAはパスワードだけで突破できるからやめておけ",
-    "link": "https://zenn.dev/grandchildrice/articles/a007075c0ec99c",
-    "pubDate": "2025-07-20T09:53:04.000Z"
   },
   {
     "site": "Hatena",
@@ -42,16 +84,16 @@
     "pubDate": "2025-07-20T09:17:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグルがGmailをさらに進化──新機能「シールドメール」の正式版が待ち遠しい | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/80698",
-    "pubDate": "2025-07-20T03:53:33.000Z"
+    "site": "Zenn",
+    "title": "Microsoft MVPを再受賞しました(2025)&活動のLook back",
+    "link": "https://zenn.dev/yuriemori/articles/220af63bf7afc4",
+    "pubDate": "Sun, 20 Jul 2025 08:12:42 GMT"
   },
   {
     "site": "Zenn",
-    "title": "IT界隈の動物たち",
-    "link": "https://zenn.dev/niharu/articles/cf7207d65e7ebf",
-    "pubDate": "2025-07-20T03:39:07.000Z"
+    "title": "Microsoft Learn Docs の MCP Server で GitHub Copilot が Azure 超詳しいマンになる",
+    "link": "https://zenn.dev/microsoft/articles/mslearn-mcp-server-copilot",
+    "pubDate": "Sun, 20 Jul 2025 07:41:50 GMT"
   },
   {
     "site": "Qiita",
@@ -84,22 +126,16 @@
     "pubDate": "Sat, 19 Jul 2025 13:56:51 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "生成AI時代に中間管理職、いる？｜ハヤカワ五味",
-    "link": "https://note.com/hayakawagomi/n/ncd59b6a0eeb9",
-    "pubDate": "2025-07-19T13:44:30.000Z"
+    "site": "Zenn",
+    "title": "メールアドレス認証2FAはパスワードだけで突破できるからやめておけ",
+    "link": "https://zenn.dev/grandchildrice/articles/a007075c0ec99c",
+    "pubDate": "Sat, 19 Jul 2025 12:33:30 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Qiita内のC#erのための有用な記事リスト(年代別)",
+    "title": "Qiita内のC#erのための有用な記事リファレンス(年代別)",
     "link": "https://qiita.com/EndOfData/items/394ac55f982acda82080?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-19T12:28:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "JWT認証を仕組みから実装まで理解する",
-    "link": "https://zenn.dev/ippe/articles/jwt-auth-ippei",
-    "pubDate": "2025-07-19T12:18:54.000Z"
   },
   {
     "site": "Qiita",
@@ -126,24 +162,6 @@
     "pubDate": "Sat, 19 Jul 2025 09:03:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "素人が参院議員の議案賛否検索サイトを作ってみた",
-    "link": "https://zenn.dev/midorisawa07/articles/7b6b24a46925fd",
-    "pubDate": "Sat, 19 Jul 2025 06:39:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "脆弱性を探しに行って見つけた話",
-    "link": "https://zenn.dev/hatoo/articles/66f9a9e4d65bc4",
-    "pubDate": "Sat, 19 Jul 2025 06:23:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go で CLI を配布する際にライブラリのライセンス文書も含める",
-    "link": "https://zenn.dev/shunsuke_suzuki/articles/go-oss-licenses",
-    "pubDate": "Sat, 19 Jul 2025 02:16:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "個人開発「心のトイレ」つくってみた",
     "link": "https://qiita.com/keitaMax/items/fc4db63c598aaf61c196?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -154,24 +172,6 @@
     "title": "AIの長期記憶用OS「MemOS」、あらゆる画像を4KにするAI「4KAgent」、オープンソースなウェブ探索AI「WebSailor」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2025/07/19/4492.html",
     "pubDate": "2025-07-19T01:46:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiroの仕様書駆動開発プロセスをClaude Codeで徹底的に再現した",
-    "link": "https://zenn.dev/gotalab/articles/3db0621ce3d6d2",
-    "pubDate": "Fri, 18 Jul 2025 21:05:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "JWTを使った認証・認可の仕組みから実装まで理解する",
-    "link": "https://zenn.dev/ippe/articles/jwt-auth-ippei",
-    "pubDate": "Fri, 18 Jul 2025 15:26:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "これ読めばOK。私が使ってるものだけの、Claude Code チュートリアル",
-    "link": "https://zenn.dev/pepabo/articles/898cdc4839acb8",
-    "pubDate": "Fri, 18 Jul 2025 10:45:02 GMT"
   },
   {
     "site": "Qiita",
