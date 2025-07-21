@@ -1,5 +1,11 @@
 [
   {
+    "site": "Qiita",
+    "title": "StreamlitとStrands Agentsでチャットを作りながらBedrock AgentCoreに入門（Runtime、Observability、Memory）",
+    "link": "https://qiita.com/moritalous/items/621c3506e1734922b66e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-21T02:55:10.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ユーザ「システムのことがわかる情シス側がビジネス理解をして要求定義し要件定義もやれば良いではないか」→この発言に反論してください",
     "link": "https://togetter.com/li/2578795",
@@ -18,6 +24,12 @@
     "pubDate": "2025-07-21T01:01:22.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "18年間妊活がうまくいかなかった夫婦がAIの力で妊娠",
+    "link": "https://gigazine.net/news/20250721-infertility-couple-get-pregnant-ai/",
+    "pubDate": "2025-07-21T00:38:19.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "技術イベントのメモはOpenAI WhisperとGemini CLIに任せる",
     "link": "https://zenn.dev/r4ynode/articles/audio-transcription-using-openai-whisper",
@@ -30,10 +42,28 @@
     "pubDate": "2025-07-20T23:36:53.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ベータ版 Unity 6.2 で UI Toolkit + World Space による VR 入力システムを構築する",
+    "link": "https://zenn.dev/kaibutsu/articles/90db438df5b6a5",
+    "pubDate": "Sun, 20 Jul 2025 23:16:01 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "AIが書いた怪談小説が面白い　2分に1本のペースで出力されるのは驚異的 (1/4)",
     "link": "https://ascii.jp/elem/000/004/306/4306133/",
     "pubDate": "2025-07-20T23:06:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開 - Qiita",
+    "link": "https://qiita.com/tomada/items/e27292b65f723c4633d9",
+    "pubDate": "2025-07-20T21:30:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Bedrock AgentCore Runtime を Windows 環境でビルドする際のポイント",
+    "link": "https://qiita.com/hayao_k/items/aed1b7062ba403d70a12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T19:36:31.000Z"
   },
   {
     "site": "Hatena",
@@ -49,9 +79,33 @@
   },
   {
     "site": "Zenn",
+    "title": "AIの書いた文章がつまらないのを何とかしたい",
+    "link": "https://zenn.dev/takada_at/articles/b2973bd5fef26d",
+    "pubDate": "Sun, 20 Jul 2025 15:15:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SwiftUIでメニューバーアプリを作成する",
+    "link": "https://zenn.dev/slowhand/articles/c421f42e8b019d",
+    "pubDate": "Sun, 20 Jul 2025 14:28:24 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ubuntuをインストールしたときにしている環境構築メモ",
     "link": "https://zenn.dev/ame_b/articles/da0f86077fddad",
     "pubDate": "Sun, 20 Jul 2025 14:23:20 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Nelson（ネルソン）の確率力学を解説してみる",
+    "link": "https://qiita.com/dc1394/items/851c810f90eb5578b3f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T13:18:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TypeScriptの判別可能ユニオンで状態管理が楽になった話【初級者編】",
+    "link": "https://zenn.dev/codeciao/articles/discriminated-union-basics",
+    "pubDate": "Sun, 20 Jul 2025 12:40:44 GMT"
   },
   {
     "site": "Hatena",
@@ -60,22 +114,16 @@
     "pubDate": "2025-07-20T11:04:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "cocot38miniのビルドログ - 好奇心はハードルを超えていく",
-    "link": "https://zenn.dev/namikaze_40p/articles/buildlog_cocot38mini",
-    "pubDate": "Sun, 20 Jul 2025 10:40:41 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "科学技術論文に用いる図表のための matplotlib 設定",
     "link": "https://qiita.com/n-taishi/items/042039847601f264236d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-20T10:24:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "私のキャリアに影響を与えたコンピューター・IT の定番書籍",
-    "link": "https://azukiazusa.dev/blog/computer-it-books/",
-    "pubDate": "2025-07-20T09:23:24.000Z"
+    "site": "Qiita",
+    "title": "お腹の症状で大学を2度中退した私が、ITとリモートワークに救われた話",
+    "link": "https://qiita.com/asa129/items/fad180b79a9bc68e978a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T09:18:39.000Z"
   },
   {
     "site": "Qiita",
@@ -85,21 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Microsoft MVPを再受賞しました(2025)&活動のLook back",
-    "link": "https://zenn.dev/yuriemori/articles/220af63bf7afc4",
-    "pubDate": "Sun, 20 Jul 2025 08:12:42 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Microsoft Learn Docs の MCP Server で GitHub Copilot が Azure 超詳しいマンになる",
     "link": "https://zenn.dev/microsoft/articles/mslearn-mcp-server-copilot",
     "pubDate": "Sun, 20 Jul 2025 07:41:50 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "静的S3サイトにAPIで取得したデータを表示ハンズオン",
-    "link": "https://qiita.com/tetutetu214/items/b6ec161141e813cd5553?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-20T02:57:14.000Z"
   },
   {
     "site": "Qiita",
@@ -108,10 +144,10 @@
     "pubDate": "2025-07-20T00:09:30.000Z"
   },
   {
-    "site": "Qiita",
-    "title": " Pydantic AIで作る「曖昧レシピ明確化の仕組み」- 実装してみた",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/d681c52c5c6e835ce33c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-19T14:24:19.000Z"
+    "site": "Zenn",
+    "title": "SREの仕事をAI Agentに任せてみてお手なみ拝見",
+    "link": "https://zenn.dev/microsoft/articles/azure_sre_agent_intro",
+    "pubDate": "Sat, 19 Jul 2025 22:11:50 GMT"
   },
   {
     "site": "Qiita",
@@ -139,44 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "AWS完全初心者がCloudFrontとS3を用いて高速ウェブホスティングを実現した話",
-    "link": "https://qiita.com/tks_1128/items/5eae72a9ba4fd6e649f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-19T11:00:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "クラウドの日本語TTSをいろいろ試す",
-    "link": "https://zenn.dev/megyo9/articles/04a636782912ce",
-    "pubDate": "Sat, 19 Jul 2025 10:14:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ECSのネイティブBlue/Greenが登場したので検証！フック・Dark Canary・コントローラ更新も強力",
-    "link": "https://zenn.dev/cadp/articles/ecs-builtin-blue-green",
-    "pubDate": "Sat, 19 Jul 2025 09:55:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "KiroのAgent Steeringの仕組みが良いと思った話",
-    "link": "https://zenn.dev/oikon/articles/kiro-steering",
-    "pubDate": "Sat, 19 Jul 2025 09:03:00 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "個人開発「心のトイレ」つくってみた",
     "link": "https://qiita.com/keitaMax/items/fc4db63c598aaf61c196?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-19T01:52:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIの長期記憶用OS「MemOS」、あらゆる画像を4KにするAI「4KAgent」、オープンソースなウェブ探索AI「WebSailor」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2025/07/19/4492.html",
-    "pubDate": "2025-07-19T01:46:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon Bedrock AgentCoreって何？StrandsAgentでLine Bot作ってデプロイしてみよう！",
-    "link": "https://qiita.com/Syoitu/items/e85c9d9bd389c987d7bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-18T10:14:10.000Z"
   }
 ]
