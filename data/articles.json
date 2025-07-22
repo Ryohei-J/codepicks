@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "AIコーディングハンズオンの講師をやりました(株式会社DeNA様の事例)",
+    "link": "https://zenn.dev/mizchi/articles/dena-ai-live-coding",
+    "pubDate": "2025-07-22T07:39:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIコーディングハンズオンの講師をやりました(株式会社DeNA様の事例)",
+    "link": "https://zenn.dev/mizchi/articles/dena-ai-live-coding",
+    "pubDate": "Tue, 22 Jul 2025 07:23:15 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「生成AIは期待外れ」と言ってしまう日本企業が生まれるワケ　5カ国調査で分かった、効果を実感する企業との違い",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2507/18/news023.html",
+    "pubDate": "2025-07-22T07:21:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "携帯4社、共通ショートコード照会サイトを公開　迷惑SMS対策として",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2032907.html",
+    "pubDate": "2025-07-22T04:35:18.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ゲーム起動時によく見る「CRIWARE」って何？ “ハード戦争”や“和ゲー vs 洋ゲー”の裏で暗躍したミドルウェア商人の歴史 | レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/interview/detail_697/",
     "pubDate": "2025-07-22T01:05:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スタートアップにおいて「積極的に機能削除をする」ことの重要性｜suthio",
+    "link": "https://note.com/suthio/n/n6e39ebcad611",
+    "pubDate": "2025-07-22T00:44:35.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +42,28 @@
     "pubDate": "2025-07-22T00:07:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜ現代人は虫が嫌いなのか？　全国1万人以上を対象に実験　東大が2021年に研究報告",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/22/news035.html",
-    "pubDate": "2025-07-22T00:03:11.000Z"
+    "site": "Zenn",
+    "title": "プロダクトの成長フェーズに入りオブザーバビリティを改善した話",
+    "link": "https://zenn.dev/eversteel_tech/articles/e8e55e3674c84d",
+    "pubDate": "Mon, 21 Jul 2025 23:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LIFFからミニアプリへ移行するときの準備",
+    "link": "https://zenn.dev/tam_tam/articles/line-miniapp-approval-process",
+    "pubDate": "Mon, 21 Jul 2025 17:13:08 GMT"
   },
   {
     "site": "Hatena",
     "title": "解凍・圧縮ソフト「7-Zip」にヒープバッファーオーバーフローの脆弱性、GitHubが報告／修正版への更新を",
     "link": "https://forest.watch.impress.co.jp/docs/news/2032783.html",
     "pubDate": "2025-07-21T15:26:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LeRobot SO-101 テレオペから学習データ取得まで",
+    "link": "https://zenn.dev/karaage0703/articles/8042463b476fbf",
+    "pubDate": "Mon, 21 Jul 2025 13:59:39 GMT"
   },
   {
     "site": "Zenn",
@@ -42,16 +84,16 @@
     "pubDate": "2025-07-21T10:40:14.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "JavaScriptの文字列・NULL/Undefined・Mathオブジェクトまとめ",
+    "link": "https://qiita.com/maedaHARUYA/items/c15dcf15a3bd8c984574?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-21T08:29:28.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeに自身の開発思想を憑依させる",
     "link": "https://zenn.dev/loglass/articles/impl-my-ccmd",
     "pubDate": "2025-07-21T08:24:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare の AI なんとかの今 ‐ 2025/07",
-    "link": "https://zenn.dev/oymk/articles/9ae693e084c70e",
-    "pubDate": "Mon, 21 Jul 2025 08:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -84,40 +126,10 @@
     "pubDate": "Mon, 21 Jul 2025 00:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Amazon Bedrock AgentCore Runtime を Windows 環境でビルドする際のポイント",
-    "link": "https://qiita.com/hayao_k/items/aed1b7062ba403d70a12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-20T19:36:31.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIの書いた文章がつまらないのを何とかしたい",
     "link": "https://zenn.dev/takada_at/articles/b2973bd5fef26d",
     "pubDate": "Sun, 20 Jul 2025 15:15:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ubuntuをインストールしたときにしている環境構築メモ",
-    "link": "https://zenn.dev/ame_b/articles/da0f86077fddad",
-    "pubDate": "Sun, 20 Jul 2025 14:23:20 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Obsidian 初学者 勉強会に参加・登壇しました - karaage. [からあげ]",
-    "link": "https://karaage.hatenadiary.jp/entry/2025/07/20/230727",
-    "pubDate": "2025-07-20T14:17:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Nelson（ネルソン）の確率力学を解説してみる",
-    "link": "https://qiita.com/dc1394/items/851c810f90eb5578b3f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-20T13:18:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScriptの判別可能ユニオンで状態管理が楽になった話【初級者編】",
-    "link": "https://zenn.dev/codeciao/articles/discriminated-union-basics",
-    "pubDate": "Sun, 20 Jul 2025 12:40:44 GMT"
   },
   {
     "site": "Qiita",
@@ -138,10 +150,16 @@
     "pubDate": "2025-07-20T09:30:40.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Microsoft Learn Docs の MCP Server で GitHub Copilot が Azure 超詳しいマンになる",
-    "link": "https://zenn.dev/microsoft/articles/mslearn-mcp-server-copilot",
-    "pubDate": "Sun, 20 Jul 2025 07:41:50 GMT"
+    "site": "Qiita",
+    "title": "お腹の症状で大学を2度中退した私が、ITとリモートワークに救われた話",
+    "link": "https://qiita.com/asa129/items/fad180b79a9bc68e978a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T09:18:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】「添加物のないお酒が見つからない！」を解決する検索アプリを作りました【React/TypeScript/Supabase】",
+    "link": "https://qiita.com/asa129/items/056a601746b49029c768?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-20T09:17:35.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "Qiita内のC#erのための有用な記事リファレンス(年代別)",
     "link": "https://qiita.com/EndOfData/items/394ac55f982acda82080?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-19T12:28:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発「心のトイレ」つくってみた",
-    "link": "https://qiita.com/keitaMax/items/fc4db63c598aaf61c196?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-19T01:52:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Web API開発実践ガイド | 技術評論社",
-    "link": "https://gihyo.jp/book/2025/978-4-297-15062-4",
-    "pubDate": "2025-07-16T23:44:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Amazon DynamoDB におけるシングルテーブル vs マルチテーブル設計 | Amazon Web Services",
-    "link": "https://aws.amazon.com/jp/blogs/news/single-table-vs-multi-table-design-in-amazon-dynamodb/",
-    "pubDate": "2023-05-09T02:08:05.000Z"
   }
 ]
