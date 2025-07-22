@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "ゲーム起動時によく見る「CRIWARE」って何？ “ハード戦争”や“和ゲー vs 洋ゲー”の裏で暗躍したミドルウェア商人の歴史 | レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/interview/detail_697/",
+    "pubDate": "2025-07-22T01:05:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "11歳児が書いた作文をAIが分析したら、22年後の最終学歴を高い精度で予測できた（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2025/07/22/4496.html",
+    "pubDate": "2025-07-22T00:07:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ現代人は虫が嫌いなのか？　全国1万人以上を対象に実験　東大が2021年に研究報告",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/22/news035.html",
+    "pubDate": "2025-07-22T00:03:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "解凍・圧縮ソフト「7-Zip」にヒープバッファーオーバーフローの脆弱性、GitHubが報告／修正版への更新を",
     "link": "https://forest.watch.impress.co.jp/docs/news/2032783.html",
     "pubDate": "2025-07-21T15:26:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLM Servingを支える技術",
+    "link": "https://zenn.dev/kotoba_tech/articles/98feb05f24c082",
+    "pubDate": "Mon, 21 Jul 2025 13:39:14 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "新感覚のVR触覚コントローラー事前登録受付中",
+    "link": "https://hapticcontroller.regacy-innovation.com/",
+    "pubDate": "2025-07-21T11:18:02.000Z"
   },
   {
     "site": "Qiita",
@@ -18,6 +48,30 @@
     "pubDate": "2025-07-21T08:24:29.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Cloudflare の AI なんとかの今 ‐ 2025/07",
+    "link": "https://zenn.dev/oymk/articles/9ae693e084c70e",
+    "pubDate": "Mon, 21 Jul 2025 08:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Hooksを使って編集したGoファイルだけ必ず自動フォーマットする",
+    "link": "https://zenn.dev/budougumi617/articles/claudecode-hooks-format-for-go",
+    "pubDate": "Mon, 21 Jul 2025 07:30:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "その脱Notion、ちょっと待って！",
+    "link": "https://zenn.dev/nana/articles/24d1a7e810d85f",
+    "pubDate": "Mon, 21 Jul 2025 05:16:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Clojureを仕事で使うにあたって早めに押さえたい知識/技術",
+    "link": "https://zenn.dev/lagenorhynque/articles/35394d4e0f3772",
+    "pubDate": "Mon, 21 Jul 2025 05:06:38 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "StreamlitとStrands Agentsでチャットを作りながらBedrock AgentCoreに入門（Runtime、Observability、Memory）",
     "link": "https://qiita.com/moritalous/items/621c3506e1734922b66e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -30,30 +84,6 @@
     "pubDate": "Mon, 21 Jul 2025 00:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "MacBookで無料AI。｢ローカルLLM｣がいい感じに進化してます",
-    "link": "https://www.gizmodo.jp/2025/07/overview_local_llm_for_laptops.html",
-    "pubDate": "2025-07-20T23:36:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ベータ版 Unity 6.2 で UI Toolkit + World Space による VR 入力システムを構築する",
-    "link": "https://zenn.dev/kaibutsu/articles/90db438df5b6a5",
-    "pubDate": "Sun, 20 Jul 2025 23:16:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Claude Code】マネできる！個人開発するときに最初に用意したドキュメント24種と機能要件書を全公開 - Qiita",
-    "link": "https://qiita.com/tomada/items/e27292b65f723c4633d9",
-    "pubDate": "2025-07-20T21:30:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "開発経験ゼロの私が、ハッカソンで150人中3位入賞できたワケ｜松原 彩耶（まつばら さや）",
-    "link": "https://note.com/saya_matsubara/n/n47a083f8c479",
-    "pubDate": "2025-07-20T21:05:45.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Amazon Bedrock AgentCore Runtime を Windows 環境でビルドする際のポイント",
     "link": "https://qiita.com/hayao_k/items/aed1b7062ba403d70a12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -64,12 +94,6 @@
     "title": "AIの書いた文章がつまらないのを何とかしたい",
     "link": "https://zenn.dev/takada_at/articles/b2973bd5fef26d",
     "pubDate": "Sun, 20 Jul 2025 15:15:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SwiftUIでメニューバーアプリを作成する",
-    "link": "https://zenn.dev/slowhand/articles/c421f42e8b019d",
-    "pubDate": "Sun, 20 Jul 2025 14:28:24 GMT"
   },
   {
     "site": "Zenn",
@@ -126,28 +150,10 @@
     "pubDate": "2025-07-20T00:09:30.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "SREの仕事をAI Agentに任せてみてお手なみ拝見",
-    "link": "https://zenn.dev/microsoft/articles/azure_sre_agent_intro",
-    "pubDate": "Sat, 19 Jul 2025 22:11:50 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "自治体職員がガバメントクラウドの AWS 環境を理解するのに助けになった知識 n 選（閉域マルチアカウントのネットワーク関連多め）",
     "link": "https://qiita.com/takeda_h/items/9f264464ea3cc3c55f11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-19T14:16:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "人とくるまのテクノロジー展2025名古屋 参加記録",
-    "link": "https://zenn.dev/shi78ge/articles/c5b16e61725ca9",
-    "pubDate": "Sat, 19 Jul 2025 13:56:51 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "メールアドレス認証2FAはパスワードだけで突破できるからやめておけ",
-    "link": "https://zenn.dev/grandchildrice/articles/a007075c0ec99c",
-    "pubDate": "Sat, 19 Jul 2025 12:33:30 GMT"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "Web API開発実践ガイド | 技術評論社",
     "link": "https://gihyo.jp/book/2025/978-4-297-15062-4",
     "pubDate": "2025-07-16T23:44:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "本番環境でシーケンス図の答え合わせ: オブザーバビリティしませんか？ - 株式会社X-Tech5",
-    "link": "https://x-tech5.co.jp/2025/07/07/2112/",
-    "pubDate": "2025-07-07T06:40:13.000Z"
   },
   {
     "site": "Hatena",
