@@ -1,15 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "3ヶ月使ったAIペンダントの比較レビュー：8万円使って結局Plaud AI Note PinからLimitless Pendantに乗り換えた｜高木俊輔 Shunsuke Takagi",
+    "link": "https://note.com/tkgshn/n/nb7f0acaa9198",
+    "pubDate": "2025-07-24T07:37:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Speculative Decoding：Faster Inference Without Paying for More GPU",
+    "link": "https://zenn.dev/elyza/articles/4e0b45a8c11220",
+    "pubDate": "Thu, 24 Jul 2025 06:33:09 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "富岳の「ケーブルが麺に見えた」だけなのに。コラボそうめん登場",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2033656.html",
+    "pubDate": "2025-07-24T04:40:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "こういう見た目に俺は弱い。トラックボール一体化可能なキーボード",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2033569.html",
+    "pubDate": "2025-07-24T03:40:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "a11y 上の理由で Deprecated になった HTML と ARIA まとめ",
+    "link": "https://zenn.dev/cybozu_frontend/articles/deprecated-html-and-aria",
+    "pubDate": "Thu, 24 Jul 2025 03:07:22 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "思わずやりがちなGit add .の危険性とインタラクティブモードの使い方",
+    "link": "https://qiita.com/w_riku/items/6ca9c1b26b3b9e0186d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-24T02:51:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Dify】Grok-4がOCI GenAIでサポート。Pluginに追加してみた！",
+    "link": "https://qiita.com/yushibats/items/0f4908e3ea4d875e50ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-24T02:22:24.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIに「突拍子もないことを言ってください」と頼んだら、面白すぎる答えが返ってきた→「こういうセンス欲しいわ」「AI君のこういう所が嫌いになれない」",
     "link": "https://togetter.com/li/2580090",
     "pubDate": "2025-07-24T01:19:23.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【第1回】AWSクラウド設計パターン入門〜腐敗防止層（Anti-Corruption Layer）〜",
+    "link": "https://qiita.com/d-hosso/items/d37004d6bf8e2fcfc9c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-24T01:06:10.000Z"
   },
   {
     "site": "Hatena",
     "title": "夜ぐっすり眠るための監視分類 - NRIネットコムBlog",
     "link": "https://tech.nri-net.com/entry/Monitoring_classification_for_a_good_nights_sleep",
     "pubDate": "2025-07-24T00:58:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Appleの新UIに採用されるガラスのような、液体のような美しいUI「Liquid Glass」を簡単に実装できるツール -Liquid Glassifier",
+    "link": "https://coliss.com/articles/build-websites/operation/work/liquid-glassifier.html",
+    "pubDate": "2025-07-24T00:41:39.000Z"
   },
   {
     "site": "Zenn",
@@ -25,21 +79,33 @@
   },
   {
     "site": "Zenn",
+    "title": "初めてカンファレンスの実行委員長をやって得た学び ～AOAI Dev Day 2025 裏話～",
+    "link": "https://zenn.dev/yuma_prog/articles/aoaidevday2025-report",
+    "pubDate": "Wed, 23 Jul 2025 15:14:08 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "コンテキストエンジニアリングがなぜ重要なのか",
     "link": "https://zenn.dev/knowledgesense/articles/47afd29ecfc3bb",
     "pubDate": "2025-07-23T15:12:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "アウトプットの重要性とハイブリット開催の楽しさを感じた #DataEngineeringStudy #30 イベント企画/運営の振り返り",
+    "link": "https://zenn.dev/knuna_t/articles/9fdfa33f167a54",
+    "pubDate": "Wed, 23 Jul 2025 15:08:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "discord から claude-code を操作する(一時的な)サーバーを建てる",
+    "link": "https://zenn.dev/mizchi/articles/discord-claude-code-interface",
+    "pubDate": "Wed, 23 Jul 2025 14:49:25 GMT"
   },
   {
     "site": "Qiita",
     "title": "JavaScriptの条件文・比較演算子・論理演算子まとめ",
     "link": "https://qiita.com/maedaHARUYA/items/c58082ac581bb2bb7377?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-23T14:30:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ガンホーを“一発屋”にした責任ある──森下CEOに取締役の解任請求　投資ファンドらが提案",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/23/news109.html",
-    "pubDate": "2025-07-23T12:03:21.000Z"
   },
   {
     "site": "Zenn",
@@ -54,16 +120,10 @@
     "pubDate": "Wed, 23 Jul 2025 11:56:46 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIコーディングエージェント全社導入とセキュリティ対策",
-    "link": "https://speakerdeck.com/hikaruegashira/freeeniokeruaikodeinguezientoquan-she-dao-ru-tosekiyuriteidui-ce",
-    "pubDate": "2025-07-23T11:49:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「推論する生成AI」は実際には思考しているわけではなく、丸暗記した結果を返しているに過ぎない - 渋谷駅前で働くデータサイエンティストのブログ",
-    "link": "https://tjo.hatenablog.com/entry/2025/07/23/173000",
-    "pubDate": "2025-07-23T09:12:14.000Z"
+    "site": "Qiita",
+    "title": "ドメイン駆動設計入門を読んだので、ハンズオンで理解を深めてみた",
+    "link": "https://qiita.com/Naughty1029/items/8749a0e6c06db27aa8ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-23T10:41:29.000Z"
   },
   {
     "site": "Qiita",
@@ -73,15 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Unipos の Elm から React (Next.js) へのリアーキテクチャプロジェクトを振り返る",
-    "link": "https://zenn.dev/unipos/articles/unipos-rearchitecture",
-    "pubDate": "Wed, 23 Jul 2025 07:56:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "無料＆オンラインで学べる東京大学松尾研の「AI講座」の受講者が7万5000人突破／「LLM（大規模言語モデル）」や「AI経営」などの講座を展開",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2033395.html",
-    "pubDate": "2025-07-23T07:21:20.000Z"
+    "title": "【React】フォルダ構成の考え方",
+    "link": "https://zenn.dev/bln/articles/986b709f4df0c1",
+    "pubDate": "Wed, 23 Jul 2025 08:26:19 GMT"
   },
   {
     "site": "Zenn",
@@ -94,12 +148,6 @@
     "title": "Neovim のキーマップ設定をより便利にする DSL",
     "link": "https://zenn.dev/monaqa/articles/2025-07-23-vim-keymap-set-dsl",
     "pubDate": "Wed, 23 Jul 2025 03:38:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "デモ実装で考えるStrands Agentsのいいところ",
-    "link": "https://zenn.dev/yokomachi/articles/20250624_strands_agents_and_mcp_on_lambda",
-    "pubDate": "Wed, 23 Jul 2025 03:21:23 GMT"
   },
   {
     "site": "Qiita",
@@ -115,63 +163,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Microsoft 365 Copilot 関連Update情報ピックアップ（7月3週目公開情報）",
-    "link": "https://qiita.com/Oyu3m/items/1fc901e9503c2521efa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-22T14:36:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OSSを公開するとメールアドレスがバレる",
-    "link": "https://zenn.dev/st43/articles/deaf291f860ca8",
-    "pubDate": "Tue, 22 Jul 2025 13:42:08 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "【Kiroだけじゃなかった！AWSがAIインフラ続々リリースして凄すぎたので緊急整理🔥】AWSがAIエージェント開発の「実験→本番」への難題を解決！AgentCoreで誰でも本格的なAIエージェントを動かせる時代に突入 - Qiita",
     "link": "https://qiita.com/akira_papa_AI/items/92fa19cbac0d2918ec8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-22T13:19:45.000Z"
   },
   {
     "site": "Qiita",
-    "title": "MastraをBedrock AgentCore Runtimeにデプロイ！",
-    "link": "https://qiita.com/moritalous/items/d24751e60cef12ec0b64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-22T12:42:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "実践ソフトウェアエンジニアリングを読んだ",
-    "link": "https://zenn.dev/gatechnologies/articles/6bd0b193f6c617",
-    "pubDate": "Tue, 22 Jul 2025 12:32:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "結婚式で使うQR受付システムをCloudflareフルスタックで自作してみた話",
-    "link": "https://zenn.dev/z4ck_key/articles/wedding-system-by-cloudflare",
-    "pubDate": "Tue, 22 Jul 2025 11:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI面接を支える技術",
-    "link": "https://zenn.dev/peoplex_blog/articles/2507-technology-supporting-ai-interview",
-    "pubDate": "Tue, 22 Jul 2025 09:31:45 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】Lv4🔥：『ピカチュウ、10万ボルト！』～メソッド～",
-    "link": "https://qiita.com/hitomin_poke/items/062672c7dd736107fb6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-22T08:37:23.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Ryzen AI Max+ 395のLLMの動作速度を他の環境と比較してみました",
     "link": "https://qiita.com/mocketech/items/1c69ccf277aa7d4d818f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-22T06:15:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【開発効率化】MSWで全APIエラーを一括再現するTip",
-    "link": "https://qiita.com/h-tanabe/items/e8800a11ef470d7b3cad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-21T23:29:36.000Z"
   },
   {
     "site": "Qiita",
