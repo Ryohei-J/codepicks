@@ -1,21 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "2025-05-02 Stanford CS336 Language Modeling from Scratch: GPUの謎を解く - Flash Attentionまでの最適化技術完全ガイド",
-    "link": "https://automation.jp/research-report/2025-05-02-2025-05-02-stanford-cs336-language-modeling-from-scratch-gpu-mysteries-to-flash-attention-complete-optimization-guide",
-    "pubDate": "2025-07-25T14:55:07.000Z"
+    "title": "ずっとAIに自慢話してる",
+    "link": "https://anond.hatelabo.jp/20250726104408",
+    "pubDate": "2025-07-26T03:09:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「手を動かした者だけが世界を変える」ソフトウェア開発だけではない開発者人生",
+    "link": "https://speakerdeck.com/onishi/shou-wodong-kasitazhe-dakegashi-jie-wobian-eru-sohutoueakai-fa-dakedehanaikai-fa-zhe-ren-sheng",
+    "pubDate": "2025-07-26T02:50:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIの利用「子育て」にも広がる ただし注意も必要 専門家は | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250726/k10014874621000.html",
+    "pubDate": "2025-07-26T00:27:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "〜AI駆動開発で個人開発するなら、設計をしろ〜 バイブコーディングでのレビュー負荷を低減する方法",
+    "link": "https://zenn.dev/sunagaku/articles/02248660f4e33e",
+    "pubDate": "Sat, 26 Jul 2025 00:08:33 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ペットボトルが“振るだけ”で瞬時に凍る　シャープの「アイススラリー冷蔵庫」、猛暑の現場で引き合い続々",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/26/news025.html",
+    "pubDate": "2025-07-26T00:05:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LUCA: SwiftUI に適したモダンアーキテクチャ",
+    "link": "https://zenn.dev/kyome/articles/ccc2e91b87ada3",
+    "pubDate": "Fri, 25 Jul 2025 17:19:47 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Canva CLIってなに！？ カスタムアプリ作ってCanvaの左ナビに追加して利用できた！",
+    "link": "https://zenn.dev/mohy_nyapan/articles/fac1d7d3f30d7d",
+    "pubDate": "Fri, 25 Jul 2025 14:17:51 GMT"
   },
   {
     "site": "Qiita",
     "title": "孫正義はTRON（トロン）を潰すことで日本を救っていたという話 - Qiita",
     "link": "https://qiita.com/ko1nksm/items/c4e25a489e19698a4809",
     "pubDate": "2025-07-25T13:33:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI新興オルツ、売上高の最大9割過大計上　不正会計で調査結果 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC249YD0U5A720C2000000/",
-    "pubDate": "2025-07-25T13:23:47.000Z"
   },
   {
     "site": "Hatena",
@@ -28,6 +58,12 @@
     "title": "Professional Cloud Network Engineer 試験 完全攻略ガイド2025",
     "link": "https://zenn.dev/cloud_ace/articles/howtoget-certified-pcne-2025",
     "pubDate": "Fri, 25 Jul 2025 10:02:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeのSub agentsでコンテキスト枯渇問題をサクッと解決できたはなし",
+    "link": "https://zenn.dev/tacoms/articles/552140c84aaefa",
+    "pubDate": "2025-07-25T08:58:46.000Z"
   },
   {
     "site": "Qiita",
@@ -54,10 +90,10 @@
     "pubDate": "2025-07-25T07:50:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ゲオHD、社名を「セカンドリテイリング」に変更へ　レンタルビデオ→リユースへのビジネス変革踏まえ",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/25/news110.html",
-    "pubDate": "2025-07-25T07:17:02.000Z"
+    "site": "Zenn",
+    "title": "レシピ動画サービス「クラシル」におけるAWS Bedrock活用事例",
+    "link": "https://zenn.dev/dely_jp/articles/c2d45810222fb9",
+    "pubDate": "Fri, 25 Jul 2025 07:30:01 GMT"
   },
   {
     "site": "Zenn",
@@ -70,18 +106,6 @@
     "title": "90秒かかるDELETE文の原因を探る【PostgreSQL】 - エムスリーテックブログ",
     "link": "https://www.m3tech.blog/entry/2025/07/25/120000",
     "pubDate": "2025-07-25T05:29:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Figma MCP Serverで変わるWeb開発 | CyberAgent Developers Blog",
-    "link": "https://developers.cyberagent.co.jp/blog/archives/58115/",
-    "pubDate": "2025-07-25T04:36:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI に codemod を書かせて大規模リファクタリングに立ち向かう",
-    "link": "https://zenn.dev/socialplus/articles/ai-powered-codemod-refactoring",
-    "pubDate": "Fri, 25 Jul 2025 01:56:51 GMT"
   },
   {
     "site": "Hatena",
@@ -108,12 +132,6 @@
     "pubDate": "2025-07-24T23:18:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "1Password と遺言保管制度を用いたデジタル終活 | blog.jxck.io",
-    "link": "https://blog.jxck.io/entries/2025-07-25/digital-regacy.html",
-    "pubDate": "2025-07-24T22:41:35.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "基幹システム移行で“偶然”得た、DDDの本質体験 ― 業務ロジックだけを新規開発した話",
     "link": "https://qiita.com/panda728z/items/d69667d3b847240974ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -132,28 +150,10 @@
     "pubDate": "Thu, 24 Jul 2025 08:24:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Speculative Decoding：Faster Inference Without Paying for More GPU",
-    "link": "https://zenn.dev/elyza/articles/4e0b45a8c11220",
-    "pubDate": "Thu, 24 Jul 2025 06:33:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "テックブログ始めました",
-    "link": "https://zenn.dev/weathernews/articles/b47082b365c8ca",
-    "pubDate": "Thu, 24 Jul 2025 05:45:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Django公式チュートリアルをやってみて感じた、これからこのチュートリアルをやる初心者の人に伝えたいこと",
     "link": "https://qiita.com/arunbababa/items/f23265f7a63861055136?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-24T03:52:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "a11y 上の理由で Deprecated になった HTML と ARIA まとめ",
-    "link": "https://zenn.dev/cybozu_frontend/articles/deprecated-html-and-aria",
-    "pubDate": "Thu, 24 Jul 2025 03:07:22 GMT"
   },
   {
     "site": "Qiita",
