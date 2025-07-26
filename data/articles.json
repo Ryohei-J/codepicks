@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "金融サービス、サイバー対策不備なら停止を　金融庁・警察庁が要請へ - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUD088RV0Y5A700C2000000/",
+    "pubDate": "2025-07-26T08:02:13.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ずっとAIに自慢話してる",
     "link": "https://anond.hatelabo.jp/20250726104408",
     "pubDate": "2025-07-26T03:09:38.000Z"
@@ -12,10 +18,16 @@
     "pubDate": "2025-07-26T02:50:18.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Code Sub Agents 実践ガイド：自動委任機能の効果的な活用法！",
+    "link": "https://zenn.dev/asuene/articles/d05c8b70da8365",
+    "pubDate": "2025-07-26T02:46:03.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "AIの利用「子育て」にも広がる ただし注意も必要 専門家は | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250726/k10014874621000.html",
-    "pubDate": "2025-07-26T00:27:49.000Z"
+    "title": "【初級バイブコーダー向け】なぜフロントエンドからデータベースを使ってはいけないのか｜けいすけ",
+    "link": "https://note.com/konho/n/n296c82586c4c",
+    "pubDate": "2025-07-26T01:32:36.000Z"
   },
   {
     "site": "Zenn",
@@ -48,10 +60,10 @@
     "pubDate": "2025-07-25T13:33:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "誰のための設計(design)？ | ドクセル",
-    "link": "https://www.docswell.com/s/tyonekubo/58MQP2-2025-07-25-sekkeinight",
-    "pubDate": "2025-07-25T13:19:55.000Z"
+    "site": "Qiita",
+    "title": "孫正義はTRON（トロン）を潰すことで日本を救っていたという話",
+    "link": "https://qiita.com/ko1nksm/items/c4e25a489e19698a4809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-25T13:18:59.000Z"
   },
   {
     "site": "Zenn",
@@ -90,6 +102,12 @@
     "pubDate": "2025-07-25T07:50:18.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【炎上教訓】初日で批判殺到しサービス停止 データ倫理とSNSの闇 | FFXIVTrends【新規サービス開発者へ】",
+    "link": "https://qiita.com/Yukapero/items/b326aa28612b8bfef853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-25T07:39:44.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "レシピ動画サービス「クラシル」におけるAWS Bedrock活用事例",
     "link": "https://zenn.dev/dely_jp/articles/c2d45810222fb9",
@@ -103,21 +121,9 @@
   },
   {
     "site": "Hatena",
-    "title": "90秒かかるDELETE文の原因を探る【PostgreSQL】 - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2025/07/25/120000",
-    "pubDate": "2025-07-25T05:29:18.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "AIで『架空のYouTuber』を作る方法と、これからくるAI副業について。｜AI FREAK - 最新のAIツールをご紹介",
     "link": "https://note.com/ai_freak/n/n7c29fe4001c2",
     "pubDate": "2025-07-25T01:31:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ファームウェアテストのおはなし",
-    "link": "https://qiita.com/komaba/items/faeeea57430dc0578604?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-25T00:41:10.000Z"
   },
   {
     "site": "Zenn",
@@ -127,15 +133,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Playwright MCP触ってみた",
-    "link": "https://qiita.com/resound/items/7bd263f2da57297c34c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-24T23:18:44.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "基幹システム移行で“偶然”得た、DDDの本質体験 ― 業務ロジックだけを新規開発した話",
     "link": "https://qiita.com/panda728z/items/d69667d3b847240974ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-24T22:02:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【無料体験】AIアシスタント「Skywork」で作業時間を90%削減してみた",
+    "link": "https://qiita.com/tomada/items/1b0e2a231322ea33f9fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-24T14:13:39.000Z"
   },
   {
     "site": "Zenn",
@@ -170,13 +176,7 @@
   {
     "site": "Qiita",
     "title": "ドメイン駆動設計入門を読んだので、ハンズオンで理解を深めてみた",
-    "link": "https://qiita.com/Naughty1029/items/8749a0e6c06db27aa8ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "link": "https://qiita.com/TyNaugh/items/8749a0e6c06db27aa8ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-23T10:41:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PMデビューしたら最初にやるべきこと、変えるべきこと",
-    "link": "https://qiita.com/toshiaki_miyake/items/8dd13f129f5c911e94eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-23T02:51:27.000Z"
   }
 ]
