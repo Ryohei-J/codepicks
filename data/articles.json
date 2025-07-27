@@ -1,12 +1,6 @@
 [
   {
     "site": "Hatena",
-    "title": "マッチングアプリで出会った男を晒すアプリが登場→4chan民がアプリのガバガバセキュリティに気づく→男を晒すアプリを使っていた女の個人情報が晒されて祭り",
-    "link": "https://posfie.com/@kaitakusya39/p/3Jonmwh",
-    "pubDate": "2025-07-27T10:34:39.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Grokに聞いてる人が自分の満足のいかない返答に『○○ではないのか？』と繰り返して自分の望む返答を引き出しているのを見て、AI使って馬鹿になる見本だなと思った",
     "link": "https://togetter.com/li/2581453",
     "pubDate": "2025-07-27T10:27:23.000Z"
@@ -28,6 +22,12 @@
     "title": "集中できず思考がさまよってしまう「マインドワンダリング」に陥りやすい人はスマートフォンの使用頻度が高いという研究結果",
     "link": "https://gigazine.net/news/20250727-mind-wandering/",
     "pubDate": "2025-07-27T08:15:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Obsidianで使っているプラグイン紹介",
+    "link": "https://zenn.dev/karaage0703/articles/fed57bd97487a6",
+    "pubDate": "2025-07-27T07:43:15.000Z"
   },
   {
     "site": "Zenn",
@@ -60,6 +60,12 @@
     "pubDate": "2025-07-27T01:31:39.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "高速なC#を書くために知っておくべきもの",
+    "link": "https://zenn.dev/aakei/articles/b858aee98b602e",
+    "pubDate": "2025-07-27T00:54:40.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "WebRTCを利用した学校運営アプリをつくってみた。",
     "link": "https://qiita.com/nifty1130/items/d3fb6ca05031bb707e83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -76,12 +82,6 @@
     "title": "tenki.jpのDDoS被害事例に学ぶ事業判断と対策フロー AWS Summit Japan 2025レポート",
     "link": "https://unitis.jp/articles/17531/",
     "pubDate": "2025-07-26T15:28:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "長年の未解決問題を解いた世界初の暗号理論",
-    "link": "https://www.aist.go.jp/aist_j/magazine/20250725.html",
-    "pubDate": "2025-07-26T14:01:44.000Z"
   },
   {
     "site": "Zenn",
@@ -144,12 +144,6 @@
     "pubDate": "Sat, 26 Jul 2025 00:08:33 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Google Analytics MCP Serverを利用し、AIで無料分析を開始する方法をわかりやすく解説（画像手順書付き）",
-    "link": "https://www.ga4.guide/gamcp/",
-    "pubDate": "2025-07-25T15:12:54.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "孫正義はTRON（トロン）を潰すことで日本を救っていたという話",
     "link": "https://qiita.com/ko1nksm/items/c4e25a489e19698a4809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "リーダーばかりやってきた私が気づいたこと - Qiita",
     "link": "https://qiita.com/tatsuya_1995/items/95599016e55f6e666d4e",
     "pubDate": "2025-07-24T05:49:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コンピュータシステム概論",
+    "link": "https://ocw.u-tokyo.ac.jp/course_11482/",
+    "pubDate": "2025-03-17T03:02:32.000Z"
   }
 ]
