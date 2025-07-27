@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "tenki.jpのDDoS被害事例に学ぶ事業判断と対策フロー AWS Summit Japan 2025レポート",
+    "link": "https://unitis.jp/articles/17531/",
+    "pubDate": "2025-07-26T15:28:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "長年の未解決問題を解いた世界初の暗号理論",
+    "link": "https://www.aist.go.jp/aist_j/magazine/20250725.html",
+    "pubDate": "2025-07-26T14:01:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub Actionsでテストカバレッジの増減を可視化することによりホーソン効果を狙う - 理系学生日記",
+    "link": "https://kiririmode.hatenablog.jp/entry/20250125/1737761299",
+    "pubDate": "2025-07-26T10:43:59.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "運用して初めてわかったDevinのセキュリティ課題 - Devin Meetup Tokyo 2025",
     "link": "https://speakerdeck.com/hi120ki/devin-ai-security",
     "pubDate": "2025-07-26T10:24:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【動画】＃石破辞めるなデモに1200人「極右が組めば最悪」「改憲拍車」…反高市氏デモの側面も",
+    "link": "https://www.sankei.com/article/20250726-BR742SAEQBGRZMOA257H3GJJ4M/",
+    "pubDate": "2025-07-26T09:26:30.000Z"
   },
   {
     "site": "Hatena",
@@ -12,28 +36,52 @@
     "pubDate": "2025-07-26T08:56:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "証券口座乗っ取り、対策不備ならサービス停止を　金融庁が要請へ - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUD088RV0Y5A700C2000000/",
-    "pubDate": "2025-07-26T08:02:13.000Z"
+    "site": "Zenn",
+    "title": "neoAI 日本語Reasoning Model の開発 Part 2 言語混同の低減",
+    "link": "https://zenn.dev/neoai/articles/89202a5248f154",
+    "pubDate": "Sat, 26 Jul 2025 08:55:25 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ロボコンでモデル予測制御を使ってみる話",
+    "link": "https://qiita.com/Gomachan_2021/items/42dac3e994c1c69aa480?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-26T06:38:53.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ずっとAIに自慢話してる",
-    "link": "https://anond.hatelabo.jp/20250726104408",
-    "pubDate": "2025-07-26T03:09:38.000Z"
+    "title": "Claude Codeのhookを書きやすくするcchookを作った - yasuhisa's blog",
+    "link": "https://www.yasuhisay.info/entry/2025/07/26/142358",
+    "pubDate": "2025-07-26T05:30:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「手を動かした者だけが世界を変える」ソフトウェア開発だけではない開発者人生",
-    "link": "https://speakerdeck.com/onishi/shou-wodong-kasitazhe-dakegashi-jie-wobian-eru-sohutoueakai-fa-dakedehanaikai-fa-zhe-ren-sheng",
-    "pubDate": "2025-07-26T02:50:18.000Z"
+    "site": "Qiita",
+    "title": "Amazon Bedrock AgentCoreのIdentityを深堀り！",
+    "link": "https://qiita.com/moritalous/items/6c822e68404e93d326a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-26T05:20:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini Gemsでスタンドジェネレータを作って、YAML構造化プロンプトについてすごくゆるーく考察してみた",
+    "link": "https://zenn.dev/tcf775/articles/8d528b4466626b",
+    "pubDate": "Sat, 26 Jul 2025 04:42:47 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ローカルの Markdown をツリー表示でブラウズできる CLI「mdts」を作りました",
+    "link": "https://qiita.com/unhappychoice/items/5ccea22c2a6c9dd015b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-26T04:19:25.000Z"
   },
   {
     "site": "Zenn",
     "title": "Claude Code Sub Agents 実践ガイド：自動委任機能の効果的な活用法！",
     "link": "https://zenn.dev/asuene/articles/d05c8b70da8365",
-    "pubDate": "2025-07-26T02:46:03.000Z"
+    "pubDate": "Sat, 26 Jul 2025 02:31:21 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Opal の概要｜npaka",
+    "link": "https://note.com/npaka/n/n6baefe7dd1d5",
+    "pubDate": "2025-07-26T01:15:13.000Z"
   },
   {
     "site": "Zenn",
@@ -61,33 +109,21 @@
   },
   {
     "site": "Qiita",
-    "title": "孫正義はTRON（トロン）を潰すことで日本を救っていたという話 - Qiita",
-    "link": "https://qiita.com/ko1nksm/items/c4e25a489e19698a4809",
-    "pubDate": "2025-07-25T13:33:11.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "孫正義はTRON（トロン）を潰すことで日本を救っていたという話",
     "link": "https://qiita.com/ko1nksm/items/c4e25a489e19698a4809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-25T13:18:59.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Professional Cloud Network Engineer 試験 完全攻略ガイド2025",
-    "link": "https://zenn.dev/cloud_ace/articles/howtoget-certified-pcne-2025",
-    "pubDate": "Fri, 25 Jul 2025 10:02:00 GMT"
+    "title": "Kiroにspecを作らせてClaude Codeに実装させる",
+    "link": "https://zenn.dev/mixi/articles/5310ae6203511e",
+    "pubDate": "Fri, 25 Jul 2025 11:33:25 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Claude CodeのSub agentsでコンテキスト枯渇問題をサクッと解決できたはなし",
-    "link": "https://zenn.dev/tacoms/articles/552140c84aaefa",
-    "pubDate": "2025-07-25T08:58:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】番外編 Java初心者が最初にハマる「初歩中の初歩5選」",
-    "link": "https://qiita.com/hitomin_poke/items/3a5aa9c5d25c8452000c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-25T08:42:44.000Z"
+    "title": "リトライ管理はEffect.tsを推奨したい (Effect.ts Schedule)",
+    "link": "https://zenn.dev/optimind/articles/effect-schedule-is-the-best-for-retry",
+    "pubDate": "Fri, 25 Jul 2025 10:04:35 GMT"
   },
   {
     "site": "Zenn",
@@ -103,12 +139,6 @@
   },
   {
     "site": "Qiita",
-    "title": "DRY(Don't Repeat Yourself)、実践してみました。",
-    "link": "https://qiita.com/syuei_124/items/71d5961d5a544483443c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-25T07:50:18.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【炎上教訓】初日で批判殺到しサービス停止 データ倫理とSNSの闇 | FFXIVTrends【新規サービス開発者へ】",
     "link": "https://qiita.com/Yukapero/items/b326aa28612b8bfef853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-25T07:39:44.000Z"
@@ -118,18 +148,6 @@
     "title": "レシピ動画サービス「クラシル」におけるAWS Bedrock活用事例",
     "link": "https://zenn.dev/dely_jp/articles/c2d45810222fb9",
     "pubDate": "Fri, 25 Jul 2025 07:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ここがつらいよReact Native",
-    "link": "https://zenn.dev/tellernovel_inc/articles/cfd14c9acab294",
-    "pubDate": "Fri, 25 Jul 2025 06:37:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "IPAの情報処理技術者試験は使えるのか",
-    "link": "https://zenn.dev/headwaters/articles/20250704ouyou",
-    "pubDate": "Fri, 25 Jul 2025 00:11:07 GMT"
   },
   {
     "site": "Qiita",
@@ -142,18 +160,6 @@
     "title": "【無料体験】AIアシスタント「Skywork」で作業時間を90%削減してみた",
     "link": "https://qiita.com/tomada/items/1b0e2a231322ea33f9fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-24T14:13:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js ＆ Cloudflareざんまいは、simpleだけどeasyじゃない。けど、まぁ、いいわ。",
-    "link": "https://zenn.dev/botofune/articles/9aa53080bd2cd4",
-    "pubDate": "Thu, 24 Jul 2025 09:15:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「あのやり取りどこでやったっけ？」を AI で解決！ Slack 擬似 Deep Research を作ってみる",
-    "link": "https://zenn.dev/ubie_dev/articles/173954712858ce",
-    "pubDate": "Thu, 24 Jul 2025 08:24:36 GMT"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "なぜ国産OS「TRON」はWindowsよりも先に開発できなかったのか？ ･･･ 慢心、環境の違い",
-    "link": "https://qiita.com/ko1nksm/items/41bb020711ea92b99aae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-23T11:17:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ドメイン駆動設計入門を読んだので、ハンズオンで理解を深めてみた",
-    "link": "https://qiita.com/TyNaugh/items/8749a0e6c06db27aa8ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-23T10:41:29.000Z"
+    "title": "AIエンジニアへの道 - 24日目：AIエンジニア必須！DockerとKubernetesで開発環境を構築",
+    "link": "https://qiita.com/555hamano/items/a5025a9e07db2d7524f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-23T20:00:41.000Z"
   }
 ]
