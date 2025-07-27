@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Introducing Opal: describe, create, and share your AI mini-apps- Google Developers Blog",
+    "link": "https://developers.googleblog.com/en/introducing-opal/",
+    "pubDate": "2025-07-26T18:14:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "tenki.jpのDDoS被害事例に学ぶ事業判断と対策フロー AWS Summit Japan 2025レポート",
     "link": "https://unitis.jp/articles/17531/",
     "pubDate": "2025-07-26T15:28:42.000Z"
@@ -18,28 +24,28 @@
     "pubDate": "2025-07-26T10:43:59.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "DuckDBでR2 Data Catalog & DuckLakeを試す(with Neon)",
+    "link": "https://zenn.dev/king/scraps/1adb8dc9ee41cb",
+    "pubDate": "2025-07-26T10:43:38.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "運用して初めてわかったDevinのセキュリティ課題 - Devin Meetup Tokyo 2025",
     "link": "https://speakerdeck.com/hi120ki/devin-ai-security",
     "pubDate": "2025-07-26T10:24:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【動画】＃石破辞めるなデモに1200人「極右が組めば最悪」「改憲拍車」…反高市氏デモの側面も",
-    "link": "https://www.sankei.com/article/20250726-BR742SAEQBGRZMOA257H3GJJ4M/",
-    "pubDate": "2025-07-26T09:26:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code でカスタムサブエージェントを作成する",
-    "link": "https://azukiazusa.dev/blog/create-custom-sub-agent-in-claude-code/",
-    "pubDate": "2025-07-26T08:56:57.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "neoAI 日本語Reasoning Model の開発 Part 2 言語混同の低減",
     "link": "https://zenn.dev/neoai/articles/89202a5248f154",
     "pubDate": "Sat, 26 Jul 2025 08:55:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.js初心者向けガイドライン",
+    "link": "https://zenn.dev/hutonman/books/aeb2a5fd6e91ae",
+    "pubDate": "Sat, 26 Jul 2025 06:51:49 GMT"
   },
   {
     "site": "Qiita",
@@ -78,28 +84,22 @@
     "pubDate": "Sat, 26 Jul 2025 02:31:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Google Opal の概要｜npaka",
-    "link": "https://note.com/npaka/n/n6baefe7dd1d5",
-    "pubDate": "2025-07-26T01:15:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "〜AI駆動開発で個人開発するなら、設計をしろ〜 バイブコーディングでのレビュー負荷を低減する方法",
     "link": "https://zenn.dev/sunagaku/articles/02248660f4e33e",
     "pubDate": "Sat, 26 Jul 2025 00:08:33 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ペットボトルが“振るだけ”で瞬時に凍る　シャープの「アイススラリー冷蔵庫」、猛暑の現場で引き合い続々",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/26/news025.html",
-    "pubDate": "2025-07-26T00:05:16.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "LUCA: SwiftUI に適したモダンアーキテクチャ",
     "link": "https://zenn.dev/kyome/articles/ccc2e91b87ada3",
     "pubDate": "Fri, 25 Jul 2025 17:19:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Analytics MCP Serverを利用し、AIで無料分析を開始する方法をわかりやすく解説（画像手順書付き）",
+    "link": "https://www.ga4.guide/gamcp/",
+    "pubDate": "2025-07-25T15:12:54.000Z"
   },
   {
     "site": "Zenn",
@@ -132,22 +132,10 @@
     "pubDate": "Fri, 25 Jul 2025 08:40:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Google マップ 20 周年: 47 都道府県の人気の場所ランキングを発表",
-    "link": "https://blog.google/intl/ja-jp/products/explore-get-answers/google-maps-20th-localplaces-top5/",
-    "pubDate": "2025-07-25T08:28:09.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【炎上教訓】初日で批判殺到しサービス停止 データ倫理とSNSの闇 | FFXIVTrends【新規サービス開発者へ】",
     "link": "https://qiita.com/Yukapero/items/b326aa28612b8bfef853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-25T07:39:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "レシピ動画サービス「クラシル」におけるAWS Bedrock活用事例",
-    "link": "https://zenn.dev/dely_jp/articles/c2d45810222fb9",
-    "pubDate": "Fri, 25 Jul 2025 07:30:01 GMT"
   },
   {
     "site": "Qiita",
@@ -160,6 +148,12 @@
     "title": "【無料体験】AIアシスタント「Skywork」で作業時間を90%削減してみた",
     "link": "https://qiita.com/tomada/items/1b0e2a231322ea33f9fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-24T14:13:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "リーダーばかりやってきた私が気づいたこと - Qiita",
+    "link": "https://qiita.com/tatsuya_1995/items/95599016e55f6e666d4e",
+    "pubDate": "2025-07-24T05:49:45.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "AIエンジニアへの道 - 24日目：AIエンジニア必須！DockerとKubernetesで開発環境を構築",
     "link": "https://qiita.com/555hamano/items/a5025a9e07db2d7524f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-23T20:00:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Morphic — A new era of storytelling",
+    "link": "https://www.morphic.com/",
+    "pubDate": "2024-09-05T16:59:37.000Z"
   }
 ]
