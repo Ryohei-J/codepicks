@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "情報コンテンツはもう作る意味ない？ クリックされないAI時代にSEOでやるべきこと（前編） | Moz - SEOとインバウンドマーケティングの実践情報",
+    "link": "https://webtan.impress.co.jp/e/2025/07/28/49729",
+    "pubDate": "2025-07-27T23:02:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Linuxカーネルプログラミング」という本を翻訳しました - 覚書",
+    "link": "https://satoru-takeuchi.hatenablog.com/entry/2025/07/27/195748",
+    "pubDate": "2025-07-27T11:42:42.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Grokに聞いてる人が自分の満足のいかない返答に『○○ではないのか？』と繰り返して自分の望む返答を引き出しているのを見て、AI使って馬鹿になる見本だなと思った",
     "link": "https://togetter.com/li/2581453",
     "pubDate": "2025-07-27T10:27:23.000Z"
@@ -36,6 +48,12 @@
     "pubDate": "Sun, 27 Jul 2025 07:38:02 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "Qiitaって日記系に使っちゃダメなんだ…と気付いた話",
+    "link": "https://qiita.com/Ayumu1995/items/f9846fda91938064441e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-27T05:28:07.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AI時代にこそ設計を学ぶため A Philosophy of Software Design を読んでみました",
     "link": "https://zenn.dev/moneyforward/articles/85ab923cbdaea9",
@@ -55,12 +73,6 @@
   },
   {
     "site": "Zenn",
-    "title": "Kiroの登場と最近のAIコーディングツールについて思うこと",
-    "link": "https://zenn.dev/oikon/articles/kiro-and-aitools",
-    "pubDate": "2025-07-27T01:31:39.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "高速なC#を書くために知っておくべきもの",
     "link": "https://zenn.dev/aakei/articles/b858aee98b602e",
     "pubDate": "2025-07-27T00:54:40.000Z"
@@ -72,16 +84,22 @@
     "pubDate": "2025-07-27T00:26:03.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "なぜ複雑な業務ロジックの実装をスムーズに開発できたのか：基幹システム移行でTDD/DDDを実践した理由",
+    "link": "https://qiita.com/panda728z/items/191080b59e03a45d75b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-26T22:50:07.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Kiroの登場と最近のAIコーディングツールについて思うこと",
     "link": "https://zenn.dev/oikon/articles/kiro-and-aitools",
     "pubDate": "Sat, 26 Jul 2025 22:07:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "tenki.jpのDDoS被害事例に学ぶ事業判断と対策フロー AWS Summit Japan 2025レポート",
-    "link": "https://unitis.jp/articles/17531/",
-    "pubDate": "2025-07-26T15:28:42.000Z"
+    "site": "Qiita",
+    "title": "PowerShellでLINQを活用して、定番のデータ処理をスマートに！",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/3f953bc858bd904f2bf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-26T19:18:03.000Z"
   },
   {
     "site": "Zenn",
@@ -102,22 +120,10 @@
     "pubDate": "2025-07-26T09:50:44.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "EntraログをSIEM(Sentinel)で監視してみる Part2: Sentinelによるログからのインシデント検知まで",
-    "link": "https://qiita.com/kaiinaba/items/a931b7f6890e0f0336cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-26T09:17:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Next.js初心者向けガイドライン",
     "link": "https://zenn.dev/hutonman/books/aeb2a5fd6e91ae",
     "pubDate": "Sat, 26 Jul 2025 06:51:49 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ロボコンでモデル予測制御を使ってみる話",
-    "link": "https://qiita.com/Gomachan_2021/items/42dac3e994c1c69aa480?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-26T06:38:53.000Z"
   },
   {
     "site": "Qiita",
@@ -144,6 +150,12 @@
     "pubDate": "Sat, 26 Jul 2025 00:08:33 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "静かに進行するAIコーディング運ゲー化の恐怖",
+    "link": "https://zenn.dev/aun_phonogram/articles/8132677fc3bb69",
+    "pubDate": "2025-07-25T16:27:46.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "孫正義はTRON（トロン）を潰すことで日本を救っていたという話",
     "link": "https://qiita.com/ko1nksm/items/c4e25a489e19698a4809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,18 +172,6 @@
     "title": "基幹システム移行で“偶然”得た、DDDの本質体験 ― 業務ロジックだけを新規開発した話",
     "link": "https://qiita.com/panda728z/items/d69667d3b847240974ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-24T22:02:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【無料体験】AIアシスタント「Skywork」で作業時間を90%削減してみた",
-    "link": "https://qiita.com/tomada/items/1b0e2a231322ea33f9fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-24T14:13:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "リーダーばかりやってきた私が気づいたこと - Qiita",
-    "link": "https://qiita.com/tatsuya_1995/items/95599016e55f6e666d4e",
-    "pubDate": "2025-07-24T05:49:45.000Z"
   },
   {
     "site": "Hatena",
