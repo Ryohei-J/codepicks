@@ -1,5 +1,41 @@
 [
   {
+    "site": "Zenn",
+    "title": "開発組織のAI活用を推進した3ヶ月間を振り返る",
+    "link": "https://zenn.dev/yoshiko/articles/ai-dev-enablement",
+    "pubDate": "2025-07-28T22:47:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで常にコンテクスト残量を表示する方法",
+    "link": "https://zenn.dev/ml0_1337/articles/012da05fa06b9e",
+    "pubDate": "2025-07-28T15:04:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スクラムガイドの「確約」",
+    "link": "https://kdmsnr.com/2025/07/19/",
+    "pubDate": "2025-07-28T13:11:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "計画と曖昧さ",
+    "link": "https://speakerdeck.com/mosa_siru/ji-hua-toai-mei-sa",
+    "pubDate": "2025-07-28T12:07:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "それ CLI フレームワークがなくてもできるよ / Building CLI Tools Without Frameworks",
+    "link": "https://speakerdeck.com/orgachem/building-cli-tools-without-frameworks",
+    "pubDate": "2025-07-28T11:16:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで常にコンテクスト残量を表示する方法",
+    "link": "https://zenn.dev/ml0_1337/articles/012da05fa06b9e",
+    "pubDate": "Mon, 28 Jul 2025 10:58:18 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "さくらインターネット、通期業績予想の営業利益が“9割減”　「生成AI向け大型案件終了の影響」",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2507/28/news101.html",
@@ -7,9 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "現代の錬金術、水銀から金を生成する論文。エネルギー問題の救世主になるかも",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2034699.html",
-    "pubDate": "2025-07-28T09:13:29.000Z"
+    "title": "インターネットが無料の時代は終わり？ Cloudflareがスクレイピングの有料化へ",
+    "link": "https://www.gizmodo.jp/2025/07/free-lunch-is-over-for-the-ai-that-broke-the-web.html",
+    "pubDate": "2025-07-28T09:14:28.000Z"
   },
   {
     "site": "Hatena",
@@ -18,16 +54,28 @@
     "pubDate": "2025-07-28T09:01:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTにあなたの秘密をペラペラ明かさない方が良い--サム・アルトマン氏も危惧",
-    "link": "https://japan.cnet.com/article/35235976/",
-    "pubDate": "2025-07-28T02:55:53.000Z"
+    "site": "Zenn",
+    "title": "時間周波数領域で処理するNeural Vocoder、Wavehax解説",
+    "link": "https://zenn.dev/parakeet_tech/articles/f933ad10feed69",
+    "pubDate": "Mon, 28 Jul 2025 09:00:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "猛暑に日傘5本を差し比べ! 心地よい日陰を作れるのはどれ!?",
-    "link": "https://kaden.watch.impress.co.jp/docs/topic/topic/2033666.html",
-    "pubDate": "2025-07-28T01:18:02.000Z"
+    "site": "Qiita",
+    "title": "【ポケモン×Java】これだけは覚えたい！`String`の便利メソッドまとめ",
+    "link": "https://qiita.com/hitomin_poke/items/314b8112444ef97f04c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-28T08:33:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【CTF】SECCON Beginners 2025 Writeup🚩",
+    "link": "https://zenn.dev/pochix1103/articles/53626eebc78d0f",
+    "pubDate": "Mon, 28 Jul 2025 07:25:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "マルチエージェント活用術：Google ADKで変わるキャッチコピー生成",
+    "link": "https://zenn.dev/mkj/articles/ad09e127e72b6d",
+    "pubDate": "Mon, 28 Jul 2025 02:50:06 GMT"
   },
   {
     "site": "Qiita",
@@ -48,16 +96,10 @@
     "pubDate": "2025-07-28T00:37:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「C:ドライブがいっぱい」を回避、Windows 11の「隠れごみ」を根こそぎ削除する究極テク",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2507/28/news015.html",
-    "pubDate": "2025-07-27T23:32:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "自転車型入力デバイスのシステム構築",
-    "link": "https://qiita.com/NSS_FS_ENG/items/046b7b2d77c76b9c3297?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-27T23:00:15.000Z"
+    "site": "Zenn",
+    "title": "Claude Code Sub agentsで常に最新の技術選定を行わせる",
+    "link": "https://zenn.dev/studio/articles/00c3002e93adb1",
+    "pubDate": "Sun, 27 Jul 2025 23:58:23 GMT"
   },
   {
     "site": "Qiita",
@@ -66,22 +108,28 @@
     "pubDate": "2025-07-27T22:50:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "IPA、「情報セキュリティ10大脅威 2025」の個人編ハンドブックなど、実践や勉強に役立つ資料を公開　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2034194.html",
-    "pubDate": "2025-07-27T22:07:32.000Z"
+    "site": "Zenn",
+    "title": "社内で「え、そんなことできるの？」と話題になった Claude Code Custom slash commands の実践活用",
+    "link": "https://zenn.dev/hacobu/articles/d4a194b95aacd5",
+    "pubDate": "Sun, 27 Jul 2025 22:00:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【海外記事紹介】「モダンCSSがあればSPAは不要」と主張するブログが話題に",
-    "link": "https://techfeed.io/entries/68869b548c33c063088c081e",
-    "pubDate": "2025-07-27T21:35:45.000Z"
+    "site": "Zenn",
+    "title": "せっかくClaude Codeがサジェストしてるし、最も簡単で・最も素朴で・一瞬で済む、git-worktreeへの移行方法を教える",
+    "link": "https://zenn.dev/aiya000/articles/cb55bcdc12b137",
+    "pubDate": "Sun, 27 Jul 2025 13:19:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vanilla JavaScriptでHeadless UI的なことを実現するTailwind Elementsがかなり面白い",
+    "link": "https://zenn.dev/naofumik/articles/7fd96c7a02584a",
+    "pubDate": "Sun, 27 Jul 2025 12:48:34 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Strands Agents を使って AWS Pricing MCP サーバーを触ってみた話",
-    "link": "https://qiita.com/Yu_NO/items/fe5a1036e31bf8c38ab2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-27T12:50:43.000Z"
+    "title": "Cursorでセキュリティ情報を漏洩しかけた件",
+    "link": "https://qiita.com/kashiwazaki_kimio/items/cff2ded83a0952442b26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-27T12:18:25.000Z"
   },
   {
     "site": "Zenn",
@@ -96,34 +144,10 @@
     "pubDate": "Sun, 27 Jul 2025 07:38:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Desktopに記憶を与えるLocal Memory MCPを自作してみて感動した話",
-    "link": "https://zenn.dev/zhizhiarv/articles/local-memory-mcp-for-claude-desktop",
-    "pubDate": "Sun, 27 Jul 2025 06:30:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SECCON Beginners CTF 2025作問者Writeup(Reversing)",
-    "link": "https://zenn.dev/juck28/articles/64c6bdca67376e",
-    "pubDate": "Sun, 27 Jul 2025 06:16:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代にこそ設計を学ぶため A Philosophy of Software Design を読んでみました",
-    "link": "https://zenn.dev/moneyforward/articles/85ab923cbdaea9",
-    "pubDate": "Sun, 27 Jul 2025 05:21:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SECCON Beginners 2025 Writeup",
-    "link": "https://zenn.dev/claustra01/articles/873cac6a6ad323",
-    "pubDate": "Sun, 27 Jul 2025 05:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "頼む。。。Enumを使うときは区分値は外から使わないでくれ。。。区分値はEnum内部だけで使うようにしてくれ。。本当に頼む。。",
-    "link": "https://zenn.dev/tyamahori/articles/40b193ebdb8e05",
-    "pubDate": "Sun, 27 Jul 2025 02:22:00 GMT"
+    "site": "Qiita",
+    "title": "WebRTCを利用した学校運営アプリをつくってみた。",
+    "link": "https://qiita.com/nifty1130/items/d3fb6ca05031bb707e83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-27T00:26:03.000Z"
   },
   {
     "site": "Qiita",
@@ -132,28 +156,10 @@
     "pubDate": "2025-07-26T22:50:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Kiroの登場と最近のAIコーディングツールについて思うこと",
-    "link": "https://zenn.dev/oikon/articles/kiro-and-aitools",
-    "pubDate": "Sat, 26 Jul 2025 22:07:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "PowerShellでLINQを活用して、定番のデータ処理をスマートに！",
     "link": "https://qiita.com/Tadataka_Takahashi/items/3f953bc858bd904f2bf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-26T19:18:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiroみたいな開発をGemini-CLIでやってみた",
-    "link": "https://zenn.dev/snaga/articles/2025-07-26-kiro-gemini",
-    "pubDate": "Sat, 26 Jul 2025 13:14:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "高速なC#を書くために知っておくべきもの",
-    "link": "https://zenn.dev/aakei/articles/b858aee98b602e",
-    "pubDate": "Sat, 26 Jul 2025 10:17:07 GMT"
   },
   {
     "site": "Qiita",
@@ -162,21 +168,15 @@
     "pubDate": "2025-07-26T09:50:44.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Go並行プログラミング実務ガイド",
+    "link": "https://zenn.dev/okamyuji/books/a_practical_guide_to_concurrent_programming_in_go",
+    "pubDate": "2025-07-26T09:37:18.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "ローカルの Markdown をツリー表示でブラウズできる CLI「mdts」を作りました",
     "link": "https://qiita.com/unhappychoice/items/5ccea22c2a6c9dd015b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-26T04:19:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "孫正義はTRON（トロン）を潰すことで日本を救っていたという話",
-    "link": "https://qiita.com/ko1nksm/items/c4e25a489e19698a4809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-25T13:18:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "コンピュータシステム概論",
-    "link": "https://ocw.u-tokyo.ac.jp/course_11482/",
-    "pubDate": "2025-03-17T03:02:32.000Z"
   }
 ]
