@@ -6,6 +6,36 @@
     "pubDate": "2025-07-29T04:50:38.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "基礎から学ぶAIエージェント入門　仕組みが分かれば活用方法が見えてくる",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2507/25/news007.html",
+    "pubDate": "2025-07-29T04:16:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「みんなこれChatGPTに聞いてほしい！世界変わるから」自分が視覚優位・聴覚優位か調べて、オススメの勉強法を知る方法「やってみたけど納得しかない」",
+    "link": "https://togetter.com/li/2582232",
+    "pubDate": "2025-07-29T03:49:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "英国、ネットの成人向けコンテンツ閲覧に年齢確認を必須に→VPN契約数が爆発的な伸びを記録【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2034791.html",
+    "pubDate": "2025-07-29T02:51:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeによる生産性向上の限界｜suthio",
+    "link": "https://note.com/suthio/n/n45a179642d7d",
+    "pubDate": "2025-07-29T02:07:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「PHPでお金を扱う時、終わりのない謎の1円調査の旅にでなくて済む方法 」〜PHPカンファレンス関西2025参加レポ〜",
+    "link": "https://qiita.com/t_morimoto/items/94672a8938248b367061?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-29T00:59:30.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Googleによる Deep Research の新手法、OpenAI超え",
     "link": "https://zenn.dev/knowledgesense/articles/5a341158c2c9ab",
@@ -16,6 +46,12 @@
     "title": "生成AI連携型セキュリティアラート管理システム: Warren",
     "link": "https://zenn.dev/mizutani/articles/secmon-warren",
     "pubDate": "Tue, 29 Jul 2025 00:12:45 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ニシン集団記憶喪失のナゾ」　高齢ニシンが激減→若いニシンが“産卵場所を教えてもらえず”回遊パターン崩壊",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/29/news018.html",
+    "pubDate": "2025-07-28T23:33:51.000Z"
   },
   {
     "site": "Zenn",
@@ -32,38 +68,20 @@
   {
     "site": "Zenn",
     "title": "開発組織のAI活用を推進した3ヶ月間を振り返る",
-    "link": "https://zenn.dev/yoshiko/articles/ai-dev-enablement",
+    "link": "https://zenn.dev/knowledgework/articles/ai-dev-enablement",
     "pubDate": "Mon, 28 Jul 2025 22:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Microsoft Edge」に「Copilot Mode」が搭載 ～複数タブを参照したAIチャットなどが可能に／音声によるWebブラウザー操作も実現",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2034760.html",
-    "pubDate": "2025-07-28T21:40:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで常にコンテクスト残量を表示する方法",
-    "link": "https://zenn.dev/ml0_1337/articles/012da05fa06b9e",
-    "pubDate": "2025-07-28T15:04:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "スクラムガイドの「確約」",
-    "link": "https://kdmsnr.com/2025/07/19/",
-    "pubDate": "2025-07-28T13:11:27.000Z"
+    "site": "Qiita",
+    "title": "【PHP8.5】OPcacheが常に使用可能になる",
+    "link": "https://qiita.com/rana_kualu/items/93532e7ac221cf99b958?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-28T11:53:57.000Z"
   },
   {
     "site": "Zenn",
     "title": "Claude Codeで常にコンテクスト残量を表示する方法",
     "link": "https://zenn.dev/ml0_1337/articles/012da05fa06b9e",
     "pubDate": "Mon, 28 Jul 2025 10:58:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "さくらインターネット、通期業績予想の営業利益が“9割減”　「生成AI向け大型案件終了の影響」",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2507/28/news101.html",
-    "pubDate": "2025-07-28T09:22:22.000Z"
   },
   {
     "site": "Hatena",
@@ -102,12 +120,6 @@
     "pubDate": "2025-07-28T00:59:08.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "社内で「え、そんなことできるの？」と話題になった Claude Code Custom slash commands の実践活用",
-    "link": "https://zenn.dev/hacobu/articles/d4a194b95aacd5",
-    "pubDate": "2025-07-28T00:56:45.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "このレビュー、なにがダメ？実例で学ぶコードレビューの良し悪し",
     "link": "https://qiita.com/K3n_to_n17/items/f4653c09723c5db44ffb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -121,9 +133,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Power Apps の衝撃的新機能 Generative pages を試してみた",
-    "link": "https://qiita.com/Takashi_Masumori/items/7d5ec357b2f35e57a21a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-27T22:50:14.000Z"
+    "title": "Vue, Nuxt, React, Next.js の特徴・役割・使いどころを整理する",
+    "link": "https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-27T22:27:30.000Z"
   },
   {
     "site": "Zenn",
@@ -145,21 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "WebRTCを利用した学校運営アプリをつくってみた。",
-    "link": "https://qiita.com/nifty1130/items/d3fb6ca05031bb707e83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-27T00:26:03.000Z"
+    "title": "GeminiCLIをmarkdownで制御してDeep Researchを再現してみようぜ",
+    "link": "https://qiita.com/zazen_inu/items/cf5f4b42fafd190257e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-27T11:28:05.000Z"
   },
   {
     "site": "Qiita",
     "title": "なぜ複雑な業務ロジックの実装をスムーズに開発できたのか：基幹システム移行でTDD/DDDを実践した理由",
     "link": "https://qiita.com/panda728z/items/191080b59e03a45d75b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-26T22:50:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PowerShellでLINQを活用して、定番のデータ処理をスマートに！",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/3f953bc858bd904f2bf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-26T19:18:03.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Go並行プログラミング実務ガイド",
     "link": "https://zenn.dev/okamyuji/books/a_practical_guide_to_concurrent_programming_in_go",
     "pubDate": "2025-07-26T09:37:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ローカルの Markdown をツリー表示でブラウズできる CLI「mdts」を作りました",
-    "link": "https://qiita.com/unhappychoice/items/5ccea22c2a6c9dd015b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-26T04:19:25.000Z"
   }
 ]
