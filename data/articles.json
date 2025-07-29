@@ -1,9 +1,45 @@
 [
   {
+    "site": "Hatena",
+    "title": "論理削除 - kawasima",
+    "link": "https://scrapbox.io/kawasima/%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4",
+    "pubDate": "2025-07-29T04:50:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Googleによる Deep Research の新手法、OpenAI超え",
+    "link": "https://zenn.dev/knowledgesense/articles/5a341158c2c9ab",
+    "pubDate": "2025-07-29T00:47:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "生成AI連携型セキュリティアラート管理システム: Warren",
+    "link": "https://zenn.dev/mizutani/articles/secmon-warren",
+    "pubDate": "Tue, 29 Jul 2025 00:12:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Googleによる Deep Research の新手法、OpenAI超え",
+    "link": "https://zenn.dev/knowledgesense/articles/5a341158c2c9ab",
+    "pubDate": "Mon, 28 Jul 2025 23:03:05 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "開発組織のAI活用を推進した3ヶ月間を振り返る",
     "link": "https://zenn.dev/yoshiko/articles/ai-dev-enablement",
     "pubDate": "2025-07-28T22:47:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "開発組織のAI活用を推進した3ヶ月間を振り返る",
+    "link": "https://zenn.dev/yoshiko/articles/ai-dev-enablement",
+    "pubDate": "Mon, 28 Jul 2025 22:30:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Microsoft Edge」に「Copilot Mode」が搭載 ～複数タブを参照したAIチャットなどが可能に／音声によるWebブラウザー操作も実現",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2034760.html",
+    "pubDate": "2025-07-28T21:40:24.000Z"
   },
   {
     "site": "Zenn",
@@ -18,18 +54,6 @@
     "pubDate": "2025-07-28T13:11:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "計画と曖昧さ",
-    "link": "https://speakerdeck.com/mosa_siru/ji-hua-toai-mei-sa",
-    "pubDate": "2025-07-28T12:07:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "それ CLI フレームワークがなくてもできるよ / Building CLI Tools Without Frameworks",
-    "link": "https://speakerdeck.com/orgachem/building-cli-tools-without-frameworks",
-    "pubDate": "2025-07-28T11:16:46.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeで常にコンテクスト残量を表示する方法",
     "link": "https://zenn.dev/ml0_1337/articles/012da05fa06b9e",
@@ -40,12 +64,6 @@
     "title": "さくらインターネット、通期業績予想の営業利益が“9割減”　「生成AI向け大型案件終了の影響」",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2507/28/news101.html",
     "pubDate": "2025-07-28T09:22:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "インターネットが無料の時代は終わり？ Cloudflareがスクレイピングの有料化へ",
-    "link": "https://www.gizmodo.jp/2025/07/free-lunch-is-over-for-the-ai-that-broke-the-web.html",
-    "pubDate": "2025-07-28T09:14:28.000Z"
   },
   {
     "site": "Hatena",
@@ -67,9 +85,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【CTF】SECCON Beginners 2025 Writeup🚩",
-    "link": "https://zenn.dev/pochix1103/articles/53626eebc78d0f",
-    "pubDate": "Mon, 28 Jul 2025 07:25:04 GMT"
+    "title": "大学で数学ゼロだった僕が、アクチュアリー数学に合格した話",
+    "link": "https://zenn.dev/dalab/articles/39cbf80698ad8a",
+    "pubDate": "Mon, 28 Jul 2025 05:40:01 GMT"
   },
   {
     "site": "Zenn",
@@ -120,28 +138,10 @@
     "pubDate": "Sun, 27 Jul 2025 13:19:24 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Vanilla JavaScriptでHeadless UI的なことを実現するTailwind Elementsがかなり面白い",
-    "link": "https://zenn.dev/naofumik/articles/7fd96c7a02584a",
-    "pubDate": "Sun, 27 Jul 2025 12:48:34 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Cursorでセキュリティ情報を漏洩しかけた件",
     "link": "https://qiita.com/kashiwazaki_kimio/items/cff2ded83a0952442b26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-27T12:18:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Unreal Engine 5で設計する C++ & Blueprint",
-    "link": "https://zenn.dev/posita33/books/ue5_starter_cpp_and_bp_003",
-    "pubDate": "Sun, 27 Jul 2025 11:59:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Obsidianで使っているプラグイン紹介",
-    "link": "https://zenn.dev/karaage0703/articles/fed57bd97487a6",
-    "pubDate": "Sun, 27 Jul 2025 07:38:02 GMT"
   },
   {
     "site": "Qiita",
