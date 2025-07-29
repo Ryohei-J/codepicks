@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "ほぼすべてのデバイスをファイルサーバーに変える「copyparty」、転送が中断してもレジュームで続きから可能＆HTTP・WebDAV・FTP・TFTP・SMB/CIFSをサポート",
+    "link": "https://gigazine.net/news/20250729-copyparty/",
+    "pubDate": "2025-07-29T11:52:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vibe Codingとかいうチートスキルで、5年ぶりにEMからICに転生した件",
+    "link": "https://zenn.dev/dress_code/articles/be0aaf9be396a4",
+    "pubDate": "2025-07-29T09:07:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows 10が10周年を迎えるもののサ終は間近 ～ありがとう！そしてさようなら……／未だに機能が更新される名OSも、あと3カ月弱でお別れ【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2034764.html",
+    "pubDate": "2025-07-29T07:18:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "数千トークンを節約 WebページをMarkdownに変換する「Web2MD」β版を無償公開",
+    "link": "https://codezine.jp/article/detail/21987",
+    "pubDate": "2025-07-29T06:18:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "論理削除 - kawasima",
     "link": "https://scrapbox.io/kawasima/%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4",
     "pubDate": "2025-07-29T04:50:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "クラスメソッド、AI支援型テスト駆動開発フレームワーク「Tsumiki」を公開〜AIを活用しながら品質を確保する開発手法をオープンソースで提供〜 | クラスメソッド株式会社",
+    "link": "https://classmethod.jp/news/20250729-tsumiki/",
+    "pubDate": "2025-07-29T04:42:10.000Z"
   },
   {
     "site": "Hatena",
@@ -16,12 +46,6 @@
     "title": "「みんなこれChatGPTに聞いてほしい！世界変わるから」自分が視覚優位・聴覚優位か調べて、オススメの勉強法を知る方法「やってみたけど納得しかない」",
     "link": "https://togetter.com/li/2582232",
     "pubDate": "2025-07-29T03:49:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "英国、ネットの成人向けコンテンツ閲覧に年齢確認を必須に→VPN契約数が爆発的な伸びを記録【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2034791.html",
-    "pubDate": "2025-07-29T02:51:53.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +72,10 @@
     "pubDate": "Tue, 29 Jul 2025 00:12:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「ニシン集団記憶喪失のナゾ」　高齢ニシンが激減→若いニシンが“産卵場所を教えてもらえず”回遊パターン崩壊",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/29/news018.html",
-    "pubDate": "2025-07-28T23:33:51.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Googleによる Deep Research の新手法、OpenAI超え",
     "link": "https://zenn.dev/knowledgesense/articles/5a341158c2c9ab",
     "pubDate": "Mon, 28 Jul 2025 23:03:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発組織のAI活用を推進した3ヶ月間を振り返る",
-    "link": "https://zenn.dev/yoshiko/articles/ai-dev-enablement",
-    "pubDate": "2025-07-28T22:47:59.000Z"
   },
   {
     "site": "Zenn",
@@ -82,12 +94,6 @@
     "title": "Claude Codeで常にコンテクスト残量を表示する方法",
     "link": "https://zenn.dev/ml0_1337/articles/012da05fa06b9e",
     "pubDate": "Mon, 28 Jul 2025 10:58:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "要件定義をするときに意識していることをまとめてみた ~要件定義を例を添えて~ | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/requirements-definition-tips-with-examples/",
-    "pubDate": "2025-07-28T09:01:03.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "【失敗談】事業について責任放置していたら、やりがいを失った話",
     "link": "https://qiita.com/TyNaugh/items/905cd3744ead28b8fa97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-26T09:50:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go並行プログラミング実務ガイド",
-    "link": "https://zenn.dev/okamyuji/books/a_practical_guide_to_concurrent_programming_in_go",
-    "pubDate": "2025-07-26T09:37:18.000Z"
   }
 ]
