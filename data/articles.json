@@ -1,21 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "日本のいわゆる外国人との共生問題で決まって出てくるのが「ゴミ捨て問題」… 見方を変えればいかに日本のゴミ捨て制度のUIが酷くて、ユーザー個人の努力に依存しているかってことかもしれない",
+    "link": "https://togetter.com/li/2582805",
+    "pubDate": "2025-07-30T11:12:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "不正取引発覚のオルツ、民事再生手続きへ　負債総額は約24億円",
     "link": "https://www.itmedia.co.jp/news/articles/2507/30/news120.html",
     "pubDate": "2025-07-30T10:04:58.000Z"
   },
   {
     "site": "Hatena",
-    "title": "iGPUのVRAM割り当てをめちゃくちゃ増やせば、128BのLLMも動く。AMD公式がデモ",
+    "title": "Ryzen AI Max+ 395×メモリ128GBで、ノートPCでも128BのLLMが動くように",
     "link": "https://pc.watch.impress.co.jp/docs/news/2035339.html",
     "pubDate": "2025-07-30T09:22:12.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AI新興のオルツ、民事再生法を申請　循環取引で架空売り上げ - 日本経済新聞",
+    "title": "AI新興のオルツ、民事再生法を申請　東証「IPO監査の信頼揺るがす」 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC308370Q5A730C2000000/",
     "pubDate": "2025-07-30T08:58:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIコーディングの常識が変わる！Claudeを\"覚醒\"させる知性、「Serena」徹底解説｜Kyutaro",
+    "link": "https://note.com/kyutaro15/n/n61a8825fe303",
+    "pubDate": "2025-07-30T08:38:37.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +60,28 @@
     "pubDate": "2025-07-29T22:18:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「『インターネットは自由だ』と言う人がいるけど、どこが自由なの？」掘り下げると長くなるネットの疑問～IIJに聞きました【掘り下げると長くなるネットの疑問】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/horisage_qa/2031174.html",
-    "pubDate": "2025-07-29T22:17:56.000Z"
+    "site": "Zenn",
+    "title": "試験に受かっただけの未登録セキスペが【7日間でハッキングを始める本】を読む(環境構築〜Day2編)",
+    "link": "https://zenn.dev/tactical_k/articles/try_tryhackme_1",
+    "pubDate": "Tue, 29 Jul 2025 15:53:33 GMT"
   },
   {
     "site": "Hatena",
-    "title": "ChatGPT新機能「学習モード」　回答ではなく問題を解く過程を提示",
-    "link": "https://www.watch.impress.co.jp/docs/news/2035026.html",
-    "pubDate": "2025-07-29T17:13:32.000Z"
+    "title": "React 使いじゃなくても知っておきたい教養としての React",
+    "link": "https://speakerdeck.com/oukayuka/react-shi-iziyanakutemozhi-tuteokitaijiao-yang-tositeno-react",
+    "pubDate": "2025-07-29T14:51:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "MCPの認証と認可の現在と未来 | hi120ki",
-    "link": "https://hi120ki.github.io/ja/blog/posts/20250728/",
-    "pubDate": "2025-07-29T15:36:12.000Z"
+    "site": "Zenn",
+    "title": "モジュールを外から見た振る舞いだけAIレビューさせる smoke-review",
+    "link": "https://zenn.dev/mizchi/articles/smoke-review-for-filtering-context",
+    "pubDate": "Tue, 29 Jul 2025 11:30:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Mastraを参考にドキュメントMCPサーバーを作ってみた",
+    "link": "https://zenn.dev/himara2/articles/c2835dd77bd743",
+    "pubDate": "Tue, 29 Jul 2025 10:56:00 GMT"
   },
   {
     "site": "Zenn",
@@ -94,12 +112,6 @@
     "title": "JavaScriptの「関数まわり」応用まとめ",
     "link": "https://qiita.com/maedaHARUYA/items/bcf1c296c209ac0f3b96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-29T04:59:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "さくらのクラウド やってみたシリーズ ～アカウント開設から仮想サーバ構築まで～",
-    "link": "https://zenn.dev/kameoncloud/articles/f271a20fda3ba1",
-    "pubDate": "Tue, 29 Jul 2025 02:28:00 GMT"
   },
   {
     "site": "Zenn",
@@ -136,18 +148,6 @@
     "title": "Claude Codeで常にコンテクスト残量を表示する方法",
     "link": "https://zenn.dev/ml0_1337/articles/012da05fa06b9e",
     "pubDate": "Mon, 28 Jul 2025 10:58:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Notion AI / MCP を活用した仕様書ベース開発の取り組み",
-    "link": "https://zenn.dev/dely_jp/articles/1481d627c624dd",
-    "pubDate": "Mon, 28 Jul 2025 08:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "大学で数学ゼロだった僕が、アクチュアリー数学に合格した話",
-    "link": "https://zenn.dev/dalab/articles/39cbf80698ad8a",
-    "pubDate": "Mon, 28 Jul 2025 05:40:01 GMT"
   },
   {
     "site": "Qiita",
