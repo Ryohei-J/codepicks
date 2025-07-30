@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "不正取引発覚のオルツ、民事再生手続きへ　負債総額は約24億円",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/30/news120.html",
+    "pubDate": "2025-07-30T10:04:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iGPUのVRAM割り当てをめちゃくちゃ増やせば、128BのLLMも動く。AMD公式がデモ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2035339.html",
+    "pubDate": "2025-07-30T09:22:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI新興のオルツ、民事再生法を申請　循環取引で架空売り上げ - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC308370Q5A730C2000000/",
+    "pubDate": "2025-07-30T08:58:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Rakuten AI",
+    "link": "https://ai.rakuten.com/ja/",
+    "pubDate": "2025-07-30T07:35:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "合法的に開発された成人向けゲームが曖昧なポリシーによって配信停止される事態に，国際ゲーム開発者協会（IGDA）が警鐘を鳴らす",
+    "link": "https://www.4gamer.net/games/038/G003821/20250730023/",
+    "pubDate": "2025-07-30T05:41:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "数学の問題文に猫の豆知識を混ぜるとAIのエラーが300％増加する",
     "link": "https://gigazine.net/news/20250730-cat-confuse-reasoning-llm/",
     "pubDate": "2025-07-30T03:39:50.000Z"
   },
   {
     "site": "Qiita",
-    "title": "進捗管理は「方向性」「期日」「ネクストアクション」がポイント - Qiita",
-    "link": "https://qiita.com/toshiaki_miyake/items/c0f36b21364302c6bba1",
-    "pubDate": "2025-07-29T23:36:19.000Z"
+    "title": "PostgreSQLで実行計画を確認してみる",
+    "link": "https://qiita.com/Kiita0430/items/f38936949ab777218f45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-30T00:14:22.000Z"
   },
   {
     "site": "Hatena",
@@ -25,12 +55,6 @@
   },
   {
     "site": "Hatena",
-    "title": "【海外記事紹介】オープンなローカルLLM「GLM-4.5」に「インベーダーゲーム作って」と頼んだら、古いラップトップでも完璧なHTML5ゲームが出力される",
-    "link": "https://techfeed.io/entries/68893e01e8972320a2067c4d",
-    "pubDate": "2025-07-29T21:33:13.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ChatGPT新機能「学習モード」　回答ではなく問題を解く過程を提示",
     "link": "https://www.watch.impress.co.jp/docs/news/2035026.html",
     "pubDate": "2025-07-29T17:13:32.000Z"
@@ -40,18 +64,6 @@
     "title": "MCPの認証と認可の現在と未来 | hi120ki",
     "link": "https://hi120ki.github.io/ja/blog/posts/20250728/",
     "pubDate": "2025-07-29T15:36:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GeForce GTX 1080 Tiさん、GeForce RTX 5050に負ける。オーバークロックしても勝てない | ニッチなPCゲーマーの環境構築Z",
-    "link": "https://www.nichepcgamer.com/archives/geforce-gtx-1080-ti-lost-to-the-ge-force-rtx-5050-in-benchmark-tests.html",
-    "pubDate": "2025-07-29T14:09:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "統計ツール・HADを20年作り続けて。自作マクロが、700回“引用”されたフリーソフトになるまで【フォーカス】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/focus/detail_700/",
-    "pubDate": "2025-07-29T10:03:29.000Z"
   },
   {
     "site": "Zenn",
@@ -90,22 +102,16 @@
     "pubDate": "Tue, 29 Jul 2025 02:28:00 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「PHPでお金を扱う時、終わりのない謎の1円調査の旅にでなくて済む方法 」〜PHPカンファレンス関西2025参加レポ〜",
-    "link": "https://qiita.com/t_morimoto/items/94672a8938248b367061?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-29T00:59:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "技術資格に「合格する」ための勉強法 ——IPA&amp;AWS試験で成果を出した“実践ノウハウ”を公開 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/07/how-to-study-to-pass-technical-qualifications",
-    "pubDate": "2025-07-29T00:39:33.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "生成AI連携型セキュリティアラート管理システム: Warren",
     "link": "https://zenn.dev/mizutani/articles/secmon-warren",
     "pubDate": "Tue, 29 Jul 2025 00:12:45 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS初心者を即戦力へ！NTT東日本の内製開発チームで実施したAWS研修の全貌と得られた学び",
+    "link": "https://qiita.com/_tatsutaka_/items/605c1b589a6d1a2cf6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-29T00:11:50.000Z"
   },
   {
     "site": "Zenn",
@@ -145,6 +151,12 @@
   },
   {
     "site": "Qiita",
+    "title": "進捗管理は「方向性」「期日」「ネクストアクション」がポイント",
+    "link": "https://qiita.com/toshiaki_miyake/items/c0f36b21364302c6bba1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-28T01:07:59.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "AI駆動開発で爆速リリース！Cloudflareスタックで個人開発デモアプリを完全無料で作ってみた",
     "link": "https://qiita.com/t0hara/items/949b9dd2940d455aa938?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-28T00:59:08.000Z"
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Cursorでセキュリティ情報を漏洩しかけた件",
-    "link": "https://qiita.com/kashiwazaki_kimio/items/cff2ded83a0952442b26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-27T12:18:25.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "GeminiCLIをmarkdownで制御してDeep Researchを再現してみようぜ",
     "link": "https://qiita.com/zazen_inu/items/cf5f4b42fafd190257e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-27T11:28:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜ複雑な業務ロジックの実装をスムーズに開発できたのか：基幹システム移行でTDD/DDDを実践した理由",
-    "link": "https://qiita.com/panda728z/items/191080b59e03a45d75b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-26T22:50:07.000Z"
   }
 ]
