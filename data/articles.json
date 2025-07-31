@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "X、誹謗中傷などの削除申請窓口を設置　情プラ法への対応で",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/31/news120.html",
+    "pubDate": "2025-07-31T08:37:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2025年最新版】開発コストを抑えて効率UP！15の人気ツールに代わるオープンソース代替ガイド",
+    "link": "https://qiita.com/takuya77088/items/fae3dace2b72f9fbdd64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-31T06:43:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "お気持ち反AIも、ポン出しAI絵師も、なーんも本質が見えてなくて笑う",
+    "link": "https://anond.hatelabo.jp/20250731144238",
+    "pubDate": "2025-07-31T05:47:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "徳丸さんは好きな脆弱性はありますか？ 私はクリックジャッキングです。 初めて脆弱性を学習したとき、透明化したページを重ねてユーザーに意図しない処理を実行するメカニズムに感動した覚えがあります。 （こういうやり方があるのか、みたいな感じでした。） | mond",
+    "link": "https://mond.how/ja/topics/78mnb7vcpjcqxlo/f8ebkjoi01fy8sv",
+    "pubDate": "2025-07-31T04:20:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Twilog、1年分の投稿ログ消失　DB復旧作業中にミス　「スタッフ一同、かなり意気消沈」",
     "link": "https://www.itmedia.co.jp/news/articles/2507/31/news089.html",
     "pubDate": "2025-07-31T04:13:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "🚀 Claude Code × Serena MCP：もうバージョンダウンしなくても良いのか...?",
+    "link": "https://zenn.dev/studio/articles/431afa748fbed1",
+    "pubDate": "Thu, 31 Jul 2025 02:13:54 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "MCP Server for Oracle DatabaseをVisual Studio Codeから使ってみた",
+    "link": "https://qiita.com/maato/items/f9590ad29bd96f8459bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-31T01:33:28.000Z"
   },
   {
     "site": "Hatena",
@@ -16,6 +52,12 @@
     "title": "Android同士や、Android⇔PC間でファイルを高速転送できるクイックシェア機能が便利なのにあんまり知られてないので紹介します（Android版エアドロップ的なやつ） - nomolkのブログ",
     "link": "https://nomolk.hatenablog.com/entry/2025/07/30/230622",
     "pubDate": "2025-07-31T00:35:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "FastMCPとOpen API Specification を使った天気予報Remote MCP Serverの実装",
+    "link": "https://zenn.dev/weathernews/articles/06215040bacbe1",
+    "pubDate": "Wed, 30 Jul 2025 23:54:57 GMT"
   },
   {
     "site": "Hatena",
@@ -42,28 +84,64 @@
     "pubDate": "2025-07-30T22:24:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code Action によるレビュー体制を導入して約 1 ヶ月が過ぎた",
-    "link": "https://voluntas.ghost.io/review-system-with-claude-code-action-after-one-month/",
-    "pubDate": "2025-07-30T16:10:32.000Z"
+    "site": "Zenn",
+    "title": "opencode + kimi-k2 を動かす",
+    "link": "https://zenn.dev/mizchi/articles/opencode-with-kimi-k2",
+    "pubDate": "Wed, 30 Jul 2025 12:53:11 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "安価なタブレットなど数百万台に感染、今すぐAndroid機器の接続を切断せよ FBI警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/80911",
-    "pubDate": "2025-07-30T09:37:24.000Z"
+    "site": "Zenn",
+    "title": "もうLoadの前処理は不要？ BigQueryのデータロードを劇的に改善する4つの新機能",
+    "link": "https://zenn.dev/google_cloud_jp/articles/35505d66531765",
+    "pubDate": "Wed, 30 Jul 2025 12:38:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIコーディングの常識が変わる！Claudeを\"覚醒\"させる知性、「Serena」徹底解説｜Kyutaro",
-    "link": "https://note.com/kyutaro15/n/n61a8825fe303",
-    "pubDate": "2025-07-30T08:38:37.000Z"
+    "site": "Qiita",
+    "title": "AWS完全初心者がネットワークの基礎を学んだ話",
+    "link": "https://qiita.com/tks_1128/items/978861fd3e92ef633753?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-30T12:07:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【入青】入青できたので色々振り返る",
+    "link": "https://qiita.com/atcoder6/items/47b022b0924bad61bd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-30T10:58:55.000Z"
   },
   {
     "site": "Qiita",
     "title": "【ポケモン×Java】知識編 演算子#1 ～演算子を完全攻略！-算術演算子編-～",
     "link": "https://qiita.com/hitomin_poke/items/b8ab55e58f4d36b32fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-30T08:34:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで効果的なAIコーディングを実現するボイラープレートを公開しました",
+    "link": "https://zenn.dev/tacoms/articles/f79f7aeeeecc68",
+    "pubDate": "Wed, 30 Jul 2025 05:54:04 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Agentic RAG - MCPサーバー、LangGraph とベクトル埋め込みで実現するインテリジェント RAG",
+    "link": "https://qiita.com/yuji-arakawa/items/f1de9dd466f8982bcc76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-30T05:17:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【備忘録】Claude Codeの強制自動更新を止める方法 - autoUpdates falseが効かない時の対処法",
+    "link": "https://zenn.dev/satoshissss/articles/0f720bfa4ac82d",
+    "pubDate": "Wed, 30 Jul 2025 04:53:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "自分が使っているサービスに不正ログインされたかも？と思った時に最初にやるべきこととは",
+    "link": "https://zenn.dev/mixi/articles/e7127c1a91b856",
+    "pubDate": "Wed, 30 Jul 2025 04:26:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「いい感じに作って」→ 大炎上。AIへの丸投げで痛い目を見た話",
+    "link": "https://zenn.dev/naizo01/articles/7b4bdf4b700dfe",
+    "pubDate": "Wed, 30 Jul 2025 02:30:02 GMT"
   },
   {
     "site": "Qiita",
@@ -73,33 +151,21 @@
   },
   {
     "site": "Zenn",
-    "title": "試験に受かっただけの未登録セキスペが【7日間でハッキングを始める本】を読む(環境構築〜Day2編)",
-    "link": "https://zenn.dev/tactical_k/articles/try_tryhackme_1",
-    "pubDate": "Tue, 29 Jul 2025 15:53:33 GMT"
+    "title": "Claude Code (Actions) 精度低下仮説と検証方法まとめ【2025‑07-31 最新版】",
+    "link": "https://zenn.dev/furunag/articles/claude-code-quality-regression-analysis",
+    "pubDate": "Tue, 29 Jul 2025 23:00:36 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Network FirewallとTransit Gatewayのネイティブ統合で変わった最新のデプロイモデル",
-    "link": "https://qiita.com/Gravitas/items/5202f308d1ef8c2592e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-29T14:01:59.000Z"
+    "title": "埋蔵文化財業務のデジタル化を進めるための5ステップ",
+    "link": "https://qiita.com/ishiijunpei/items/b81ea9a9755752f33cf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-29T20:26:37.000Z"
   },
   {
     "site": "Zenn",
-    "title": "モジュールを外から見た振る舞いだけAIレビューさせる smoke-review",
-    "link": "https://zenn.dev/mizchi/articles/smoke-review-for-filtering-context",
-    "pubDate": "Tue, 29 Jul 2025 11:30:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Mastraを参考にドキュメントMCPサーバーを作ってみた",
-    "link": "https://zenn.dev/himara2/articles/c2835dd77bd743",
-    "pubDate": "Tue, 29 Jul 2025 10:56:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vibe Codingとかいうチートスキルで、5年ぶりにEMからICに転生した件",
-    "link": "https://zenn.dev/dress_code/articles/be0aaf9be396a4",
-    "pubDate": "Tue, 29 Jul 2025 08:38:56 GMT"
+    "title": "試験に受かっただけの未登録セキスペが【7日間でハッキングを始める本】を読む(環境構築〜Day2編)",
+    "link": "https://zenn.dev/tactical_k/articles/try_tryhackme_1",
+    "pubDate": "Tue, 29 Jul 2025 15:53:33 GMT"
   },
   {
     "site": "Qiita",
@@ -108,75 +174,9 @@
     "pubDate": "2025-07-29T05:50:56.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Zennのダークモードを実装しました",
-    "link": "https://zenn.dev/team_zenn/articles/zenn-darkmode-system",
-    "pubDate": "Tue, 29 Jul 2025 05:44:43 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "JavaScriptの「関数まわり」応用まとめ",
-    "link": "https://qiita.com/maedaHARUYA/items/bcf1c296c209ac0f3b96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-29T04:59:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "生成AI連携型セキュリティアラート管理システム: Warren",
-    "link": "https://zenn.dev/mizutani/articles/secmon-warren",
-    "pubDate": "Tue, 29 Jul 2025 00:12:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Googleによる Deep Research の新手法、OpenAI超え",
-    "link": "https://zenn.dev/knowledgesense/articles/5a341158c2c9ab",
-    "pubDate": "Mon, 28 Jul 2025 23:03:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発組織のAI活用を推進した3ヶ月間を振り返る",
-    "link": "https://zenn.dev/knowledgework/articles/ai-dev-enablement",
-    "pubDate": "Mon, 28 Jul 2025 22:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "git worktreeをもっと便利に使うCLIツール `wtp` を作った",
-    "link": "https://zenn.dev/satococoa/articles/f93f34f0e13696",
-    "pubDate": "Mon, 28 Jul 2025 13:08:44 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【PHP8.5】OPcacheが常に使用可能になる",
-    "link": "https://qiita.com/rana_kualu/items/93532e7ac221cf99b958?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-28T11:53:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで常にコンテクスト残量を表示する方法",
-    "link": "https://zenn.dev/ml0_1337/articles/012da05fa06b9e",
-    "pubDate": "Mon, 28 Jul 2025 10:58:18 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "進捗管理は「方向性」「期日」「ネクストアクション」がポイント",
-    "link": "https://qiita.com/toshiaki_miyake/items/c0f36b21364302c6bba1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-28T01:07:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI駆動開発で爆速リリース！Cloudflareスタックで個人開発デモアプリを完全無料で作ってみた",
-    "link": "https://qiita.com/t0hara/items/949b9dd2940d455aa938?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-28T00:59:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "このレビュー、なにがダメ？実例で学ぶコードレビューの良し悪し",
-    "link": "https://qiita.com/K3n_to_n17/items/f4653c09723c5db44ffb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-28T00:37:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Vue, Nuxt, React, Next.js の特徴・役割・使いどころを整理する",
-    "link": "https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-27T22:27:30.000Z"
+    "title": "【個人開発】会議を邪魔しない、ピン留めできる軽量カレンダー「Feather Calendar」をRustで作りました",
+    "link": "https://qiita.com/FlatBone/items/b12751766d0496b4d9de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-28T12:34:58.000Z"
   }
 ]
