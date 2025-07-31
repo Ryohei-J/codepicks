@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "CSSの単位がたくさんあり何を使えばよいか迷った時に、フォント、スペース、ポジション、要素の幅・高さに最適な単位は",
+    "link": "https://coliss.com/articles/build-websites/operation/css/css-length-unit-should-you-use.html",
+    "pubDate": "2025-07-31T01:00:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“1日1万歩”は多すぎた？　歩数と死亡率の関係、豪州チームが調査",
+    "link": "https://www.itmedia.co.jp/news/articles/2507/30/news031.html",
+    "pubDate": "2025-07-30T23:35:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本人向け最高峰のコーディングフォント「Moralerspace」がメジャーバージョンアップ／「IBM Plex」更新で日本語文字が1万以上拡充、開発者に人気の「Nerd Fonts」も標準統合",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2034780.html",
+    "pubDate": "2025-07-30T22:24:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code Action によるレビュー体制を導入して約 1 ヶ月が過ぎた",
+    "link": "https://voluntas.ghost.io/review-system-with-claude-code-action-after-one-month/",
+    "pubDate": "2025-07-30T16:10:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "日本のいわゆる外国人との共生問題で決まって出てくるのが「ゴミ捨て問題」… 見方を変えればいかに日本のゴミ捨て制度のUIが酷くて、ユーザー個人の努力に依存しているかってことかもしれない",
     "link": "https://togetter.com/li/2582805",
     "pubDate": "2025-07-30T11:12:01.000Z"
   },
   {
     "site": "Hatena",
-    "title": "不正取引発覚のオルツ、民事再生手続きへ　負債総額は約24億円",
-    "link": "https://www.itmedia.co.jp/news/articles/2507/30/news120.html",
-    "pubDate": "2025-07-30T10:04:58.000Z"
+    "title": "安価なタブレットなど数百万台に感染、今すぐAndroid機器の接続を切断せよ FBI警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/80911",
+    "pubDate": "2025-07-30T09:37:24.000Z"
   },
   {
     "site": "Hatena",
@@ -19,15 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "AI新興のオルツ、民事再生法を申請　東証「IPO監査の信頼揺るがす」 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC308370Q5A730C2000000/",
-    "pubDate": "2025-07-30T08:58:59.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "AIコーディングの常識が変わる！Claudeを\"覚醒\"させる知性、「Serena」徹底解説｜Kyutaro",
     "link": "https://note.com/kyutaro15/n/n61a8825fe303",
     "pubDate": "2025-07-30T08:38:37.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 演算子#1 ～演算子を完全攻略！-算術演算子編-～",
+    "link": "https://qiita.com/hitomin_poke/items/b8ab55e58f4d36b32fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-30T08:34:13.000Z"
   },
   {
     "site": "Hatena",
@@ -36,28 +60,10 @@
     "pubDate": "2025-07-30T07:35:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "合法的に開発された成人向けゲームが曖昧なポリシーによって配信停止される事態に，国際ゲーム開発者協会（IGDA）が警鐘を鳴らす",
-    "link": "https://www.4gamer.net/games/038/G003821/20250730023/",
-    "pubDate": "2025-07-30T05:41:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "数学の問題文に猫の豆知識を混ぜるとAIのエラーが300％増加する",
-    "link": "https://gigazine.net/news/20250730-cat-confuse-reasoning-llm/",
-    "pubDate": "2025-07-30T03:39:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "PostgreSQLで実行計画を確認してみる",
     "link": "https://qiita.com/Kiita0430/items/f38936949ab777218f45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-30T00:14:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "電子レンジで「思ったより冷たい」防ぐには? メーカーに聞く原因と上手な使い方",
-    "link": "https://kaden.watch.impress.co.jp/docs/topic/topic/2033561.html",
-    "pubDate": "2025-07-29T22:18:04.000Z"
   },
   {
     "site": "Zenn",
@@ -70,6 +76,12 @@
     "title": "React 使いじゃなくても知っておきたい教養としての React",
     "link": "https://speakerdeck.com/oukayuka/react-shi-iziyanakutemozhi-tuteokitaijiao-yang-tositeno-react",
     "pubDate": "2025-07-29T14:51:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Network FirewallとTransit Gatewayのネイティブ統合で変わった最新のデプロイモデル",
+    "link": "https://qiita.com/Gravitas/items/5202f308d1ef8c2592e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-29T14:01:59.000Z"
   },
   {
     "site": "Zenn",
@@ -88,12 +100,6 @@
     "title": "Vibe Codingとかいうチートスキルで、5年ぶりにEMからICに転生した件",
     "link": "https://zenn.dev/dress_code/articles/be0aaf9be396a4",
     "pubDate": "Tue, 29 Jul 2025 08:38:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】Lv5：『ピカチュウに20のダメージ！？』～演算子～",
-    "link": "https://qiita.com/hitomin_poke/items/d68f465d8e83675a97a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-29T08:35:27.000Z"
   },
   {
     "site": "Qiita",
@@ -120,12 +126,6 @@
     "pubDate": "Tue, 29 Jul 2025 00:12:45 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AWS初心者を即戦力へ！NTT東日本の内製開発チームで実施したAWS研修の全貌と得られた学び",
-    "link": "https://qiita.com/_tatsutaka_/items/605c1b589a6d1a2cf6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-29T00:11:50.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Googleによる Deep Research の新手法、OpenAI超え",
     "link": "https://zenn.dev/knowledgesense/articles/5a341158c2c9ab",
@@ -142,6 +142,12 @@
     "title": "git worktreeをもっと便利に使うCLIツール `wtp` を作った",
     "link": "https://zenn.dev/satococoa/articles/f93f34f0e13696",
     "pubDate": "Mon, 28 Jul 2025 13:08:44 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【PHP8.5】OPcacheが常に使用可能になる",
+    "link": "https://qiita.com/rana_kualu/items/93532e7ac221cf99b958?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-28T11:53:57.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "Vue, Nuxt, React, Next.js の特徴・役割・使いどころを整理する",
     "link": "https://qiita.com/Yasushi-Mo/items/6d08422936bbc9d5c5b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-27T22:27:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GeminiCLIをmarkdownで制御してDeep Researchを再現してみようぜ",
-    "link": "https://qiita.com/zazen_inu/items/cf5f4b42fafd190257e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-27T11:28:05.000Z"
   }
 ]
