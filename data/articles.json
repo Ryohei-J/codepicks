@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「中学生だけのカラオケ会」開催失敗から長女と学んだ「事前調整」の大切さ | レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/column/detail_702/",
+    "pubDate": "2025-08-01T01:54:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "岐阜市、校務パソコンにMacBook Airを1,849台導入　刷新の理由を聞く（こどもとIT） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/99d51a26a28b0dc641f0cae641c7feeecdc30f7a",
+    "pubDate": "2025-08-01T01:42:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTで共有した会話がGoogleにインデックスされている!? 共有解除の方法あり",
+    "link": "https://www.suzukikenichi.com/blog/google-is-indexing-shared-chatgpt-conversations/",
+    "pubDate": "2025-08-01T00:00:36.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“なんかイマイチ”を抜け出したい人へ。プロも参考にする最新Webデザイン50選",
     "link": "https://photoshopvip.net/166734",
     "pubDate": "2025-07-31T20:01:46.000Z"
@@ -10,24 +28,6 @@
     "title": "みんな最近Yahoo!天気がすごいって話してるけど、俺はYahoo!マップも相当ヤバ..",
     "link": "https://anond.hatelabo.jp/20250801003848",
     "pubDate": "2025-07-31T15:39:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Microsoft、時価総額4兆ドル到達　NVIDIAに次ぐ2社目 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN31A3Z0R30C25A7000000/",
-    "pubDate": "2025-07-31T14:58:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "国内ITサービス市場、昨年（2024年）の売上1位は富士通、2位は日立製作所、3位はNEC。IDC Japan",
-    "link": "https://www.publickey1.jp/blog/25/it2024123necidc_japan.html",
-    "pubDate": "2025-07-31T14:28:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Python用GUIライブラリーを活用、ローカルLLMを利用するAIアプリをつくろう",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03243/062600004/",
-    "pubDate": "2025-07-31T14:12:10.000Z"
   },
   {
     "site": "Hatena",
@@ -55,6 +55,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Google MCP Security で Google Cloud のセキュリティ運用を楽にしたい",
+    "link": "https://zenn.dev/cloud_ace/articles/google-mcp-security",
+    "pubDate": "Thu, 31 Jul 2025 10:41:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "React.js UI/Container分離 × Hooks × Composition で責務を整理してみた話",
     "link": "https://zenn.dev/globis/articles/c16eaadf3d233b",
     "pubDate": "Thu, 31 Jul 2025 10:36:16 GMT"
@@ -72,6 +78,12 @@
     "pubDate": "Thu, 31 Jul 2025 09:30:02 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Playwright × 生成AI でVRTのバグ報告を自然言語化してみたら実用的だった話",
+    "link": "https://zenn.dev/ivry/articles/41d81e1d7448cc",
+    "pubDate": "Thu, 31 Jul 2025 08:01:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "ASTERIA Warp 2506の進化を体感！実践で役立つJSON & Git管理機能紹介",
     "link": "https://qiita.com/SCSK_EAI_Solution/items/d37d2af74ced2e4cd601?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -82,6 +94,18 @@
     "title": "【2025年最新版】開発コストを抑えて効率UP！15の人気ツールに代わるオープンソース代替ガイド",
     "link": "https://qiita.com/takuya77088/items/fae3dace2b72f9fbdd64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-31T06:43:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "State of HTML 2025 の開始など: Cybozu Frontend Weekly (2025-07-29号)",
+    "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250729",
+    "pubDate": "Thu, 31 Jul 2025 04:20:32 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI便利すぎ!問題：初心者が失う『考える・書く・読む・調べる』能力",
+    "link": "https://zenn.dev/eisaku/articles/c64f6faa763a2",
+    "pubDate": "Thu, 31 Jul 2025 02:20:56 GMT"
   },
   {
     "site": "Zenn",
@@ -102,12 +126,6 @@
     "pubDate": "2025-07-31T00:10:00.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "FastMCPとOpen API Specification を使った天気予報Remote MCP Serverの実装",
-    "link": "https://zenn.dev/weathernews/articles/06215040bacbe1",
-    "pubDate": "Wed, 30 Jul 2025 23:54:57 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "「浅い話をするひと」は何が問題なのか",
     "link": "https://blog.tinect.jp/?p=89930",
@@ -121,9 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "もうLoadの前処理は不要？ BigQueryのデータロードを劇的に改善する4つの新機能",
-    "link": "https://zenn.dev/google_cloud_jp/articles/35505d66531765",
-    "pubDate": "Wed, 30 Jul 2025 12:38:21 GMT"
+    "title": "フロントエンドエンジニアのための技術マップ【2025】",
+    "link": "https://zenn.dev/tmkst/articles/d9834d14332099",
+    "pubDate": "Wed, 30 Jul 2025 16:08:34 GMT"
   },
   {
     "site": "Qiita",
@@ -138,28 +156,10 @@
     "pubDate": "Wed, 30 Jul 2025 09:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeで効果的なAIコーディングを実現するボイラープレートを公開しました",
-    "link": "https://zenn.dev/tacoms/articles/f79f7aeeeecc68",
-    "pubDate": "Wed, 30 Jul 2025 05:54:04 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Agentic RAG - MCPサーバー、LangGraph とベクトル埋め込みで実現するインテリジェント RAG",
     "link": "https://qiita.com/yuji-arakawa/items/f1de9dd466f8982bcc76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-30T05:17:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【備忘録】Claude Codeの強制自動更新を止める方法 - autoUpdates falseが効かない時の対処法",
-    "link": "https://zenn.dev/satoshissss/articles/0f720bfa4ac82d",
-    "pubDate": "Wed, 30 Jul 2025 04:53:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自分が使っているサービスに不正ログインされたかも？と思った時に最初にやるべきこととは",
-    "link": "https://zenn.dev/mixi/articles/e7127c1a91b856",
-    "pubDate": "Wed, 30 Jul 2025 04:26:37 GMT"
   },
   {
     "site": "Qiita",
