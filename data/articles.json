@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "脆弱性診断内製化ガイド | デジタル人材の育成 | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2025/Vulnerability-assessment.html",
+    "pubDate": "2025-08-01T09:16:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ドキュメント整備をDevinに任せたら、4週間分の作業が6時間のレビューで完了した話",
+    "link": "https://zenn.dev/smartshopping/articles/b3d6804e932565",
+    "pubDate": "2025-08-01T06:29:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ドキュメント整備をDevinに任せたら、4週間分の作業が6時間のレビューで完了した話",
+    "link": "https://zenn.dev/smartshopping/articles/b3d6804e932565",
+    "pubDate": "Fri, 01 Aug 2025 06:11:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「AITuberぶつぶつシステム」詩から一人語りする技術解説と公開",
+    "link": "https://zenn.dev/yasuna/articles/0a77b7c3edb82f",
+    "pubDate": "Fri, 01 Aug 2025 06:01:03 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 演算子#2 〜演算子を完全攻略！-代入演算子編-〜",
+    "link": "https://qiita.com/hitomin_poke/items/4a601f46a5e60a55419d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T03:10:44.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「中学生だけのカラオケ会」開催失敗から長女と学んだ「事前調整」の大切さ | レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/column/detail_702/",
     "pubDate": "2025-08-01T01:54:32.000Z"
@@ -12,10 +42,22 @@
     "pubDate": "2025-08-01T01:42:47.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "新しい IBM i データベース クライアント Mapepire",
+    "link": "https://qiita.com/tom_m_m/items/010eeda418be3bfd79d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T01:34:58.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ChatGPTで共有した会話がGoogleにインデックスされている!? 共有解除の方法あり",
     "link": "https://www.suzukikenichi.com/blog/google-is-indexing-shared-chatgpt-conversations/",
     "pubDate": "2025-08-01T00:00:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Bedrock AgentCore Runtime で Remote MCP サーバー (OpenAI o3 Web search) をデプロイし，Strands Agents から利用する",
+    "link": "https://qiita.com/ren8k/items/1ef730d343c870b71e50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-31T23:47:24.000Z"
   },
   {
     "site": "Hatena",
@@ -31,21 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeがアホになる問題",
-    "link": "https://blog.lai.so/cc-dumber/",
-    "pubDate": "2025-07-31T12:55:45.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "インフラ屋さんはAIコーディングエージェントとどう生きるか ~ Kiroを使ったWebシステムなアーキテクチャ構築をしてハマった話 ~ - NRIネットコムBlog",
     "link": "https://tech.nri-net.com/entry/building_a_web_system_architecture_using_kiro",
     "pubDate": "2025-07-31T12:47:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeを実務開発で使い倒して得られた知見",
-    "link": "https://tonkotsuboy.github.io/20250731-forkwell-claude-code/",
-    "pubDate": "2025-07-31T10:58:30.000Z"
   },
   {
     "site": "Zenn",
@@ -84,28 +114,16 @@
     "pubDate": "Thu, 31 Jul 2025 08:01:05 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "ASTERIA Warp 2506の進化を体感！実践で役立つJSON & Git管理機能紹介",
-    "link": "https://qiita.com/SCSK_EAI_Solution/items/d37d2af74ced2e4cd601?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-31T06:59:52.000Z"
+    "site": "Zenn",
+    "title": "この夏押さえておきたいJavaScriptの文字列操作コレクション",
+    "link": "https://zenn.dev/cybozu_frontend/articles/js_basic_string",
+    "pubDate": "Thu, 31 Jul 2025 07:59:39 GMT"
   },
   {
     "site": "Qiita",
     "title": "【2025年最新版】開発コストを抑えて効率UP！15の人気ツールに代わるオープンソース代替ガイド",
     "link": "https://qiita.com/takuya77088/items/fae3dace2b72f9fbdd64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-31T06:43:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "State of HTML 2025 の開始など: Cybozu Frontend Weekly (2025-07-29号)",
-    "link": "https://zenn.dev/cybozu_frontend/articles/frontend_weekly_20250729",
-    "pubDate": "Thu, 31 Jul 2025 04:20:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI便利すぎ!問題：初心者が失う『考える・書く・読む・調べる』能力",
-    "link": "https://zenn.dev/eisaku/articles/c64f6faa763a2",
-    "pubDate": "Thu, 31 Jul 2025 02:20:56 GMT"
   },
   {
     "site": "Zenn",
@@ -120,10 +138,10 @@
     "pubDate": "2025-07-31T01:33:28.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【レポート】KubeCon + CloudNativeCon Japan 2025に行ってきました！",
-    "link": "https://qiita.com/melknzw/items/25a35471e14ab9b51fd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-31T00:10:00.000Z"
+    "site": "Zenn",
+    "title": "生成AIでのテスト設計はこの「勘所3つ」を押さえれば大丈夫",
+    "link": "https://zenn.dev/aldagram_tech/articles/3099d55dabd6ac",
+    "pubDate": "Thu, 31 Jul 2025 01:00:05 GMT"
   },
   {
     "site": "Hatena",
@@ -133,33 +151,21 @@
   },
   {
     "site": "Qiita",
+    "title": "リーダブルコードの実践 - TypeScriptエンジニアのためのコーディング指針",
+    "link": "https://qiita.com/engineer_desu/items/994683f9e5ed0318de2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-30T22:36:34.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【テンプレ配布】Kiroの仕様駆動開発をClaude Codeで再現する方法！ドキュメント3点セットで実現",
     "link": "https://qiita.com/tomada/items/a67aa0739b95273bf487?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-30T17:10:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドエンジニアのための技術マップ【2025】",
-    "link": "https://zenn.dev/tmkst/articles/d9834d14332099",
-    "pubDate": "Wed, 30 Jul 2025 16:08:34 GMT"
   },
   {
     "site": "Qiita",
     "title": "AWS完全初心者がネットワークの基礎を学んだ話",
     "link": "https://qiita.com/tks_1128/items/978861fd3e92ef633753?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-30T12:07:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiroがまだ使えない😭ので自作した！ #1",
-    "link": "https://zenn.dev/rakushaking/articles/0abc3127206049",
-    "pubDate": "Wed, 30 Jul 2025 09:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Agentic RAG - MCPサーバー、LangGraph とベクトル埋め込みで実現するインテリジェント RAG",
-    "link": "https://qiita.com/yuji-arakawa/items/f1de9dd466f8982bcc76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-30T05:17:36.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "埋蔵文化財業務のデジタル化を進めるための5ステップ",
     "link": "https://qiita.com/ishiijunpei/items/b81ea9a9755752f33cf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-29T20:26:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI エージェント開発の技術的負債を予防する : Amazon Bedrock AgentCore をゼロからまるっと体験",
-    "link": "https://qiita.com/icoxfog417/items/f21bb92352277d2ddc66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-29T05:50:56.000Z"
   }
 ]
