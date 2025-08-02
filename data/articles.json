@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "Serena MCPはClaude Codeを救うのか？",
+    "link": "https://blog.lai.so/serena/",
+    "pubDate": "2025-08-02T04:54:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "風が吹けばWHOISが使えなくなる～なぜWHOIS・RDAPはサーバー証明書のメール認証に使えなくなったのか～",
+    "link": "https://speakerdeck.com/orangemorishita/feng-gachui-kebawhoisgashi-enakunaru-nazewhoisrdaphasabazheng-ming-shu-nomeruren-zheng-nishi-enakunatutanoka",
+    "pubDate": "2025-08-02T00:35:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIネイティブの子どもたちは、どのように育っていくのだろうか？──『AIは私たちの学び方をどう変えるのか―BRAVE NEW WORDS―』 - 基本読書",
     "link": "https://huyukiitoichi.hatenadiary.jp/entry/2025/08/02/080000",
     "pubDate": "2025-08-01T23:01:38.000Z"
@@ -19,9 +31,21 @@
   },
   {
     "site": "Hatena",
+    "title": "Cursorで業務フローをつくる｜すぅ | AI駆動PM",
+    "link": "https://note.com/suh_sunaneko/n/nd6941d9da3f9",
+    "pubDate": "2025-08-01T14:27:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Google、AIを使って非構造化テキストから構造化データを抽出するオープンソースPythonライブラリ「LangExtract」をリリース | gihyo.jp",
     "link": "https://gihyo.jp/article/2025/08/langextract",
     "pubDate": "2025-08-01T13:52:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "苦手だったDockerとついに向き合った",
+    "link": "https://zenn.dev/okotokoto/articles/ddf4df49bb0575",
+    "pubDate": "Fri, 01 Aug 2025 11:01:43 GMT"
   },
   {
     "site": "Qiita",
@@ -37,6 +61,12 @@
   },
   {
     "site": "Zenn",
+    "title": "2025年7月現在の Cursor と VS Code + Github Copilot の比較",
+    "link": "https://zenn.dev/irsc/articles/2d33584ac7978a",
+    "pubDate": "Fri, 01 Aug 2025 07:32:49 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "日本CTO協会  新卒エンジニア合同研修 参加レポート（磯崎）",
     "link": "https://zenn.dev/genda_jp/articles/eb496707b90b91",
     "pubDate": "Fri, 01 Aug 2025 06:37:29 GMT"
@@ -45,31 +75,25 @@
     "site": "Zenn",
     "title": "ドキュメント整備をDevinに任せたら、4週間分の作業が6時間のレビューで完了した話",
     "link": "https://zenn.dev/smartshopping/articles/b3d6804e932565",
-    "pubDate": "2025-08-01T06:29:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ドキュメント整備をDevinに任せたら、4週間分の作業が6時間のレビューで完了した話",
-    "link": "https://zenn.dev/smartshopping/articles/b3d6804e932565",
     "pubDate": "Fri, 01 Aug 2025 06:11:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "リコー、マルチモーダルLLMの基本モデルと評価環境を無償公開",
-    "link": "https://prtimes.jp/main/html/rd/p/000000167.000043114.html",
-    "pubDate": "2025-08-01T03:42:11.000Z"
+    "site": "Zenn",
+    "title": "Agent Development Kit 1.9.0 で追加された 新たなPluginのCallback",
+    "link": "https://zenn.dev/soundtricker/articles/8805ca2e9e7370",
+    "pubDate": "Fri, 01 Aug 2025 05:02:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ジオコーディングAPI比較",
+    "link": "https://zenn.dev/rescuenow/articles/7386e8b17a16c5",
+    "pubDate": "Fri, 01 Aug 2025 04:24:02 GMT"
   },
   {
     "site": "Qiita",
     "title": "【ポケモン×Java】知識編 演算子#2 〜演算子を完全攻略！-代入演算子編-〜",
     "link": "https://qiita.com/hitomin_poke/items/4a601f46a5e60a55419d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-01T03:10:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemini CLIの全社利用を支える技術 - ZOZO TECH BLOG",
-    "link": "https://techblog.zozo.com/entry/technologies-supporting-company-wide-use-of-gemini-cli",
-    "pubDate": "2025-08-01T02:21:41.000Z"
   },
   {
     "site": "Zenn",
@@ -90,28 +114,16 @@
     "pubDate": "2025-08-01T00:53:51.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "[2025年8月1日] GPT-5を待ちながら (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/7d49e6aba75de6",
-    "pubDate": "Fri, 01 Aug 2025 00:43:24 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Vimの標準機能で自動補完 - Totto66’s Blog",
-    "link": "https://totto66.hatenablog.com/entry/vim-ekiden-20250801",
-    "pubDate": "2025-08-01T00:12:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "フォーカスインジケーターの実装ってどんなのが良いのだろうと悩み、眠れない夜を過ごした。",
-    "link": "https://zenn.dev/lancers/articles/1b6bbf1046a303",
-    "pubDate": "Fri, 01 Aug 2025 00:00:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Bedrock AgentCore Runtime で Remote MCP サーバー (OpenAI o3 Web search) をデプロイし，Strands Agents から利用する",
     "link": "https://qiita.com/ren8k/items/1ef730d343c870b71e50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-31T23:47:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「記事大量アップ」はもうSEOに逆効果？ なぜ？ コンテンツ品質管理のポイントは？【SEO情報まとめ】 | 海外&国内SEO情報ウォッチ",
+    "link": "https://webtan.impress.co.jp/e/2025/08/01/49823",
+    "pubDate": "2025-07-31T22:34:50.000Z"
   },
   {
     "site": "Qiita",
@@ -136,18 +148,6 @@
     "title": "Google MCP Security で Google Cloud のセキュリティ運用を楽にしたい",
     "link": "https://zenn.dev/cloud_ace/articles/google-mcp-security",
     "pubDate": "Thu, 31 Jul 2025 10:41:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "React.js UI/Container分離 × Hooks × Composition で責務を整理してみた話",
-    "link": "https://zenn.dev/globis/articles/c16eaadf3d233b",
-    "pubDate": "Thu, 31 Jul 2025 10:36:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIプロダクトの立ち上げで学んだ「評価は Day 1 から」",
-    "link": "https://zenn.dev/loglass/articles/44800f230874f4",
-    "pubDate": "Thu, 31 Jul 2025 09:30:02 GMT"
   },
   {
     "site": "Qiita",
