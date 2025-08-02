@@ -1,9 +1,27 @@
 [
   {
+    "site": "Zenn",
+    "title": "エコシステム全体でのソースコード漏洩への対処の振り返り",
+    "link": "https://zenn.dev/sapphi_red/articles/49d6493e593200",
+    "pubDate": "Sat, 02 Aug 2025 07:57:16 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Serena MCPはClaude Codeを救うのか？",
     "link": "https://blog.lai.so/serena/",
     "pubDate": "2025-08-02T04:54:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今年４月からソフトウェアエンジニアとして働き始めたものです。 くまぎさんの会社ではソフトウェア開発でコード以外にはどういったものをアウトプットしていますか？ 配属された部署では設計/テスト関連では基本設計書、詳細設計書、単体試験項目書、結合試験項目書などなどをエクセル等でガチガチに作成しており非常に驚きました。 学生時代はそこまでしっかりとしたドキュメントを作成して開発したことはなく、どういったものが普通なのか、効率的なのか気になった次第です。 | mond",
+    "link": "https://mond.how/ja/topics/zailyaezc11hof0/ct6q4dlsdc53wwq",
+    "pubDate": "2025-08-02T03:43:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake Intelligenceをはじめから丁寧に",
+    "link": "https://zenn.dev/finatext/articles/snowflake-intelligence-zero-to-hero",
+    "pubDate": "Sat, 02 Aug 2025 02:23:05 GMT"
   },
   {
     "site": "Hatena",
@@ -18,22 +36,28 @@
     "pubDate": "2025-08-01T23:01:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "分解したガラケーみて顔色を変えた　ガラパゴスじゃない生産の舞台裏：朝日新聞",
-    "link": "https://www.asahi.com/articles/AST7Z4JVDT7ZULFA001M.html",
-    "pubDate": "2025-08-01T22:20:23.000Z"
+    "site": "Zenn",
+    "title": "ネットワークの観察 - 第6回 NagleアルゴリズムとWindow Scalingに触れてみる",
+    "link": "https://zenn.dev/ka_kan/articles/5998bad2044a1a",
+    "pubDate": "Fri, 01 Aug 2025 21:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Announcing TypeScript 5.9 - TypeScript",
-    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-9/",
-    "pubDate": "2025-08-01T17:21:02.000Z"
+    "site": "Zenn",
+    "title": "子育てしながら2ヶ月でリリース！AIフル活用の個人開発記録😅",
+    "link": "https://zenn.dev/nakir323/articles/2dc37608c03675",
+    "pubDate": "Fri, 01 Aug 2025 15:33:24 GMT"
   },
   {
     "site": "Hatena",
     "title": "Cursorで業務フローをつくる｜すぅ | AI駆動PM",
     "link": "https://note.com/suh_sunaneko/n/nd6941d9da3f9",
     "pubDate": "2025-08-01T14:27:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "純正HDDしかサポートしない？SynologyのNAS「DS225+」を買って大失敗したの巻",
+    "link": "https://oshanavi.com/synology-ds225/28888/",
+    "pubDate": "2025-08-01T13:58:41.000Z"
   },
   {
     "site": "Hatena",
@@ -54,10 +78,40 @@
     "pubDate": "2025-08-01T10:30:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【Github Copilot】設計書があるなら、全部Copilotに実装させよう",
+    "link": "https://zenn.dev/aya/articles/3b8ea962b61bd8",
+    "pubDate": "Fri, 01 Aug 2025 10:08:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "CameraXフォークを基にTHINKLETで5ch音声録音をしてみる",
+    "link": "https://zenn.dev/fairydevices/articles/fa193d1a4d6596",
+    "pubDate": "Fri, 01 Aug 2025 09:55:49 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "SageMaker Unified Studio で Titanic のデータを分析する",
+    "link": "https://qiita.com/chiaoi/items/6472a8d1c436f1a5dc74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T09:21:50.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "脆弱性診断内製化ガイド | デジタル人材の育成 | IPA 独立行政法人 情報処理推進機構",
     "link": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2025/Vulnerability-assessment.html",
     "pubDate": "2025-08-01T09:16:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "パソコンのドライブがC:からはじまる理由",
+    "link": "https://qiita.com/phiyoco-_-b/items/50d8eeb1ca9638c7201f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T08:41:23.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "プロジェクトはなぜ失敗してしまうのか？",
+    "link": "https://qiita.com/yuuuni1211/items/8266f64e4f64ef693b41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T07:59:31.000Z"
   },
   {
     "site": "Zenn",
@@ -67,45 +121,21 @@
   },
   {
     "site": "Zenn",
-    "title": "日本CTO協会  新卒エンジニア合同研修 参加レポート（磯崎）",
-    "link": "https://zenn.dev/genda_jp/articles/eb496707b90b91",
-    "pubDate": "Fri, 01 Aug 2025 06:37:29 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "ドキュメント整備をDevinに任せたら、4週間分の作業が6時間のレビューで完了した話",
     "link": "https://zenn.dev/smartshopping/articles/b3d6804e932565",
     "pubDate": "Fri, 01 Aug 2025 06:11:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Agent Development Kit 1.9.0 で追加された 新たなPluginのCallback",
-    "link": "https://zenn.dev/soundtricker/articles/8805ca2e9e7370",
-    "pubDate": "Fri, 01 Aug 2025 05:02:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ジオコーディングAPI比較",
-    "link": "https://zenn.dev/rescuenow/articles/7386e8b17a16c5",
-    "pubDate": "Fri, 01 Aug 2025 04:24:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 演算子#2 〜演算子を完全攻略！-代入演算子編-〜",
-    "link": "https://qiita.com/hitomin_poke/items/4a601f46a5e60a55419d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-01T03:10:44.000Z"
+    "site": "Hatena",
+    "title": "脆弱性診断 with AIエージェント、ついに開発チームにひろがりました。 - freee Developers Hub",
+    "link": "https://developers.freee.co.jp/entry/AI-agent-securitytest-used-by-devteam",
+    "pubDate": "2025-08-01T04:06:01.000Z"
   },
   {
     "site": "Zenn",
     "title": "[Claude Code]AITDDフレームワークTsumikiを使ってみた",
     "link": "https://zenn.dev/uniformnext/articles/tsumiki-claude-code",
     "pubDate": "Fri, 01 Aug 2025 02:06:10 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "新しい IBM i データベース クライアント Mapepire",
-    "link": "https://qiita.com/tom_m_m/items/010eeda418be3bfd79d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-01T01:34:58.000Z"
   },
   {
     "site": "Hatena",
@@ -120,34 +150,10 @@
     "pubDate": "2025-07-31T23:47:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「記事大量アップ」はもうSEOに逆効果？ なぜ？ コンテンツ品質管理のポイントは？【SEO情報まとめ】 | 海外&国内SEO情報ウォッチ",
-    "link": "https://webtan.impress.co.jp/e/2025/08/01/49823",
-    "pubDate": "2025-07-31T22:34:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【完全保存版】SuperClaudeコマンドチート集 - ゼロから始めるつよつよAI開発エージェント環境構築",
     "link": "https://qiita.com/akira_papa_AI/items/b350c2a6911408b45e59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-31T18:05:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Rust】docs.rs MCP - docs.rsの検索に特化したMCPサーバー",
-    "link": "https://zenn.dev/nuskey/articles/library-docs-rs-mcp",
-    "pubDate": "Thu, 31 Jul 2025 12:45:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを10倍賢くする無料ツール「Serena」の威力とトークン効率化術",
-    "link": "https://zenn.dev/sc30gsw/articles/ff81891959aaef",
-    "pubDate": "Thu, 31 Jul 2025 10:48:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google MCP Security で Google Cloud のセキュリティ運用を楽にしたい",
-    "link": "https://zenn.dev/cloud_ace/articles/google-mcp-security",
-    "pubDate": "Thu, 31 Jul 2025 10:41:01 GMT"
   },
   {
     "site": "Qiita",
@@ -157,26 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "危険な「抽象語」を紐解くテクニック",
-    "link": "https://qiita.com/toshiaki_miyake/items/e80e767a1704d89bf19d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-31T00:16:48.000Z"
+    "title": "Entra ID 資格情報で AWS にシングルサインオン！(①動作例)",
+    "link": "https://qiita.com/shokolate/items/863b2093320d641e7e03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-31T04:01:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "リーダブルコードの実践 - TypeScriptエンジニアのためのコーディング指針",
+    "link": "https://qiita.com/engineer_desu/items/994683f9e5ed0318de2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-07-30T22:36:34.000Z"
   },
   {
     "site": "Qiita",
     "title": "AWS完全初心者がネットワークの基礎を学んだ話",
     "link": "https://qiita.com/tks_1128/items/978861fd3e92ef633753?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-30T12:07:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PostgreSQLで実行計画を確認してみる",
-    "link": "https://qiita.com/Kiita0430/items/f38936949ab777218f45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-30T00:14:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "埋蔵文化財業務のデジタル化を進めるための5ステップ",
-    "link": "https://qiita.com/ishiijunpei/items/b81ea9a9755752f33cf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-29T20:26:37.000Z"
   }
 ]
