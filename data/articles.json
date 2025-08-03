@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "一人で没頭したいか、何でも一緒にやりたいか - hitode909の日記",
+    "link": "https://blog.sushi.money/entry/2025/08/01/235900",
+    "pubDate": "2025-08-02T23:59:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、「GPT-5」準備中のOpenAIによるClaude Codeへのアクセスを遮断──Wired報道",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/03/news020.html",
+    "pubDate": "2025-08-02T23:03:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自作コーディングエージェントのコンテキストエンジニアリング",
+    "link": "https://zenn.dev/tkithrta/articles/6f7160584c3124",
+    "pubDate": "Sat, 02 Aug 2025 19:52:07 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "crates.ioにトークンレスでpublish可能になったTrusted Publish",
     "link": "https://zenn.dev/kesin11/articles/20250802_crates_trusted_publish",
@@ -10,6 +28,12 @@
     "title": "埼大アプリをリリースして、4日間で1000ユーザを達成した方法🐱",
     "link": "https://qiita.com/00121kuri/items/4b8402a0bc199dd1b5e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-02T14:20:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Terraform やるなら公式スタイルガイドを読もう 〜重要項目 10選〜",
+    "link": "https://speakerdeck.com/hiyanger/terraform-yarunarasutairugaidowodu-mou-zhong-yao-xiang-mu-10xuan",
+    "pubDate": "2025-08-02T14:05:04.000Z"
   },
   {
     "site": "Zenn",
@@ -42,6 +66,12 @@
     "pubDate": "Sat, 02 Aug 2025 10:02:02 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "TechRAMEN 2025 Conference参加＆登壇レポート",
+    "link": "https://zenn.dev/katzumi/articles/techramen-25-conf-talk-impression",
+    "pubDate": "Sat, 02 Aug 2025 08:51:09 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "コーディングエージェントの能力を拡張する Serena を試してみた",
     "link": "https://azukiazusa.dev/blog/serena-coding-agent/",
@@ -72,10 +102,10 @@
     "pubDate": "Sat, 02 Aug 2025 06:40:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "今年４月からソフトウェアエンジニアとして働き始めたものです。 くまぎさんの会社ではソフトウェア開発でコード以外にはどういったものをアウトプットしていますか？ 配属された部署では設計/テスト関連では基本設計書、詳細設計書、単体試験項目書、結合試験項目書などなどをエクセル等でガチガチに作成しており非常に驚きました。 学生時代はそこまでしっかりとしたドキュメントを作成して開発したことはなく、どういったものが普通なのか、効率的なのか気になった次第です。 | mond",
-    "link": "https://mond.how/ja/topics/zailyaezc11hof0/ct6q4dlsdc53wwq",
-    "pubDate": "2025-08-02T03:43:20.000Z"
+    "site": "Zenn",
+    "title": "Durable Functions で Deep Research を実装する",
+    "link": "https://zenn.dev/microsoft/articles/durable-functions-workflow",
+    "pubDate": "Sat, 02 Aug 2025 04:19:46 GMT"
   },
   {
     "site": "Zenn",
@@ -84,28 +114,10 @@
     "pubDate": "Sat, 02 Aug 2025 03:18:31 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Snowflake Intelligenceをはじめから丁寧に",
-    "link": "https://zenn.dev/finatext/articles/snowflake-intelligence-zero-to-hero",
-    "pubDate": "Sat, 02 Aug 2025 02:23:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【図解】GAS基礎38選",
     "link": "https://qiita.com/python_academia/items/9fc973eb22c598762710?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-01T23:17:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Cursorで業務フローをつくる｜すぅ | AI駆動PM",
-    "link": "https://note.com/suh_sunaneko/n/nd6941d9da3f9",
-    "pubDate": "2025-08-01T14:27:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "純正HDDしかサポートしない？SynologyのNAS「DS225+」を買って大失敗したの巻",
-    "link": "https://oshanavi.com/synology-ds225/28888/",
-    "pubDate": "2025-08-01T13:58:41.000Z"
   },
   {
     "site": "Zenn",
@@ -124,18 +136,6 @@
     "title": "パソコンのドライブがC:からはじまる理由",
     "link": "https://qiita.com/phiyoco-_-b/items/50d8eeb1ca9638c7201f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-01T08:41:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025年7月現在の Cursor と VS Code + Github Copilot の比較",
-    "link": "https://zenn.dev/irsc/articles/2d33584ac7978a",
-    "pubDate": "Fri, 01 Aug 2025 07:32:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ドキュメント整備をDevinに任せたら、4週間分の作業が6時間のレビューで完了した話",
-    "link": "https://zenn.dev/smartshopping/articles/b3d6804e932565",
-    "pubDate": "Fri, 01 Aug 2025 06:11:05 GMT"
   },
   {
     "site": "Qiita",
