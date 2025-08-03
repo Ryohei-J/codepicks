@@ -1,9 +1,27 @@
 [
   {
     "site": "Zenn",
+    "title": "crates.ioにトークンレスでpublish可能になったTrusted Publish",
+    "link": "https://zenn.dev/kesin11/articles/20250802_crates_trusted_publish",
+    "pubDate": "Sat, 02 Aug 2025 14:30:00 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "埼大アプリをリリースして、4日間で1000ユーザを達成した方法🐱",
+    "link": "https://qiita.com/00121kuri/items/4b8402a0bc199dd1b5e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-02T14:20:13.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Codeでn8nワークフロー作るのが楽すぎて、もう手動で作る気が起きない件",
     "link": "https://zenn.dev/ryorn/articles/a6dc96dc425669",
     "pubDate": "2025-08-02T13:41:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLM時代の仕事 - Software Transactional Memo",
+    "link": "https://kumagi.hatenablog.com/entry/work-with-llm",
+    "pubDate": "2025-08-02T12:44:46.000Z"
   },
   {
     "site": "Hatena",
@@ -19,15 +37,39 @@
   },
   {
     "site": "Zenn",
+    "title": "Figma to CodeのAIツール「Kombai」を使ってみた",
+    "link": "https://zenn.dev/oikon/articles/kombai-frontend",
+    "pubDate": "Sat, 02 Aug 2025 10:02:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "コーディングエージェントの能力を拡張する Serena を試してみた",
+    "link": "https://azukiazusa.dev/blog/serena-coding-agent/",
+    "pubDate": "2025-08-02T08:50:12.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "エコシステム全体でのソースコード漏洩への対処の振り返り",
     "link": "https://zenn.dev/sapphi_red/articles/49d6493e593200",
     "pubDate": "Sat, 02 Aug 2025 07:57:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Serena MCPはClaude Codeを救うのか？",
-    "link": "https://blog.lai.so/serena/",
-    "pubDate": "2025-08-02T04:54:05.000Z"
+    "site": "Qiita",
+    "title": "【2025年8月】KiroのPricingがようやく公開されたので覗いてみよう",
+    "link": "https://qiita.com/ec2_on_aws/items/15ae64cb3984fdb631ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-02T07:36:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenNext + Drizzle で Cloudflare D1 環境を最も楽に構築する",
+    "link": "https://zenn.dev/nikaera/articles/cloudflare-opennext-drizzle",
+    "pubDate": "Sat, 02 Aug 2025 06:55:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GraphQLの「Resolver並行性・I/O並列性」の言語別実装比較(JS, Go, Ruby, PHP)",
+    "link": "https://zenn.dev/shunjuio/articles/39accac452a5f5",
+    "pubDate": "Sat, 02 Aug 2025 06:40:50 GMT"
   },
   {
     "site": "Hatena",
@@ -37,27 +79,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeでn8nワークフロー作るのが楽すぎて、もう手動で作る気が起きない件",
+    "link": "https://zenn.dev/ryorn/articles/a6dc96dc425669",
+    "pubDate": "Sat, 02 Aug 2025 03:18:31 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Snowflake Intelligenceをはじめから丁寧に",
     "link": "https://zenn.dev/finatext/articles/snowflake-intelligence-zero-to-hero",
     "pubDate": "Sat, 02 Aug 2025 02:23:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "風が吹けばWHOISが使えなくなる～なぜWHOIS・RDAPはサーバー証明書のメール認証に使えなくなったのか～",
-    "link": "https://speakerdeck.com/orangemorishita/feng-gachui-kebawhoisgashi-enakunaru-nazewhoisrdaphasabazheng-ming-shu-nomeruren-zheng-nishi-enakunatutanoka",
-    "pubDate": "2025-08-02T00:35:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ネットワークの観察 - 第6回 NagleアルゴリズムとWindow Scalingに触れてみる",
-    "link": "https://zenn.dev/ka_kan/articles/5998bad2044a1a",
-    "pubDate": "Fri, 01 Aug 2025 21:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "子育てしながら2ヶ月でリリース！AIフル活用の個人開発記録😅",
-    "link": "https://zenn.dev/nakir323/articles/2dc37608c03675",
-    "pubDate": "Fri, 01 Aug 2025 15:33:24 GMT"
+    "site": "Qiita",
+    "title": "【図解】GAS基礎38選",
+    "link": "https://qiita.com/python_academia/items/9fc973eb22c598762710?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T23:17:56.000Z"
   },
   {
     "site": "Hatena",
@@ -72,12 +108,6 @@
     "pubDate": "2025-08-01T13:58:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Google、AIを使って非構造化テキストから構造化データを抽出するオープンソースPythonライブラリ「LangExtract」をリリース | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/08/langextract",
-    "pubDate": "2025-08-01T13:52:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "苦手だったDockerとついに向き合った",
     "link": "https://zenn.dev/okotokoto/articles/ddf4df49bb0575",
@@ -90,34 +120,10 @@
     "pubDate": "2025-08-01T10:30:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【Github Copilot】設計書があるなら、全部Copilotに実装させよう",
-    "link": "https://zenn.dev/aya/articles/3b8ea962b61bd8",
-    "pubDate": "Fri, 01 Aug 2025 10:08:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CameraXフォークを基にTHINKLETで5ch音声録音をしてみる",
-    "link": "https://zenn.dev/fairydevices/articles/fa193d1a4d6596",
-    "pubDate": "Fri, 01 Aug 2025 09:55:49 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "SageMaker Unified Studio で Titanic のデータを分析する",
-    "link": "https://qiita.com/chiaoi/items/6472a8d1c436f1a5dc74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-01T09:21:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "パソコンのドライブがC:からはじまる理由",
     "link": "https://qiita.com/phiyoco-_-b/items/50d8eeb1ca9638c7201f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-01T08:41:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "プロジェクトはなぜ失敗してしまうのか？",
-    "link": "https://qiita.com/yuuuni1211/items/8266f64e4f64ef693b41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-01T07:59:31.000Z"
   },
   {
     "site": "Zenn",
@@ -132,16 +138,10 @@
     "pubDate": "Fri, 01 Aug 2025 06:11:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "脆弱性診断 with AIエージェント、ついに開発チームにひろがりました。 - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/AI-agent-securitytest-used-by-devteam",
-    "pubDate": "2025-08-01T04:06:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[Claude Code]AITDDフレームワークTsumikiを使ってみた",
-    "link": "https://zenn.dev/uniformnext/articles/tsumiki-claude-code",
-    "pubDate": "Fri, 01 Aug 2025 02:06:10 GMT"
+    "site": "Qiita",
+    "title": "このMCPはプロジェクト全体を把握 VSCode GitHub Copilotで 「Serena MCP」を使う方法",
+    "link": "https://qiita.com/masakinihirota/items/a2c0ef5e6f9a0aa868d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T04:02:03.000Z"
   },
   {
     "site": "Qiita",
@@ -162,10 +162,10 @@
     "pubDate": "2025-07-31T06:43:11.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Entra ID 資格情報で AWS にシングルサインオン！(①動作例)",
-    "link": "https://qiita.com/shokolate/items/863b2093320d641e7e03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-31T04:01:35.000Z"
+    "site": "Zenn",
+    "title": "Qwen3 Coderがかなり使える件について",
+    "link": "https://zenn.dev/yareyare/articles/7ef2d2ec952356",
+    "pubDate": "2025-07-30T23:14:36.000Z"
   },
   {
     "site": "Qiita",
@@ -174,9 +174,9 @@
     "pubDate": "2025-07-30T22:36:34.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AWS完全初心者がネットワークの基礎を学んだ話",
-    "link": "https://qiita.com/tks_1128/items/978861fd3e92ef633753?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-30T12:07:56.000Z"
+    "site": "Hatena",
+    "title": "超上流から攻めるIT化の事例集：要件定義 | アーカイブ | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/archive/digital/tools/ep/ep2.html",
+    "pubDate": "2013-08-09T09:35:24.000Z"
   }
 ]
