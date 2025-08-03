@@ -1,21 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "HTTP/1.1 Must Die",
+    "link": "https://http1mustdie.com/",
+    "pubDate": "2025-08-03T09:42:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "英語プレゼンターのトークをリアルタイムに日本語翻訳しプレゼンターのPC画面と並べて字幕表示するアプリを自作してしまった話",
+    "link": "https://zenn.dev/j_sakamoto/articles/a774e70143cf12",
+    "pubDate": "Sun, 03 Aug 2025 07:03:30 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Qwen3-235BやQwen3-30B、Qwen3 Coder Flashは長コンテキストでの性能劣化が激しいのでは - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2025/08/02/161039",
+    "pubDate": "2025-08-03T02:03:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "一家に一台Anneliちゃん！LM Studio × AivisSpeechで簡易AIコンパニオンを作ろう",
+    "link": "https://zenn.dev/r4ynode/articles/local-llm-and-aivis-speech-anneli",
+    "pubDate": "Sun, 03 Aug 2025 00:00:00 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "一人で没頭したいか、何でも一緒にやりたいか - hitode909の日記",
     "link": "https://blog.sushi.money/entry/2025/08/01/235900",
     "pubDate": "2025-08-02T23:59:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Anthropic、「GPT-5」準備中のOpenAIによるClaude Codeへのアクセスを遮断──Wired報道",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/03/news020.html",
-    "pubDate": "2025-08-02T23:03:10.000Z"
+    "site": "Qiita",
+    "title": "このMCPはプロジェクト全体を把握 VSCode GitHub Copilotで 「Serena MCP」を使う方法 - Qiita",
+    "link": "https://qiita.com/masakinihirota/items/a2c0ef5e6f9a0aa868d1",
+    "pubDate": "2025-08-02T23:48:05.000Z"
   },
   {
     "site": "Zenn",
     "title": "自作コーディングエージェントのコンテキストエンジニアリング",
     "link": "https://zenn.dev/tkithrta/articles/6f7160584c3124",
     "pubDate": "Sat, 02 Aug 2025 19:52:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Raspberry Pi✖️wake on lan✖️Discord✖️Parsecを利用したリモートデスクトップ環境の構築(総集)",
+    "link": "https://zenn.dev/kento_1938/articles/8e8cebb0538150",
+    "pubDate": "Sat, 02 Aug 2025 16:44:46 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Strands & AgentCoreハンズオン！ MCPマルチエージェントをAWSに簡単デプロイ",
+    "link": "https://qiita.com/minorun365/items/6d4fae4f7dacbc1e1971?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-02T15:34:49.000Z"
   },
   {
     "site": "Zenn",
@@ -67,18 +103,6 @@
   },
   {
     "site": "Zenn",
-    "title": "TechRAMEN 2025 Conference参加＆登壇レポート",
-    "link": "https://zenn.dev/katzumi/articles/techramen-25-conf-talk-impression",
-    "pubDate": "Sat, 02 Aug 2025 08:51:09 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "コーディングエージェントの能力を拡張する Serena を試してみた",
-    "link": "https://azukiazusa.dev/blog/serena-coding-agent/",
-    "pubDate": "2025-08-02T08:50:12.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "エコシステム全体でのソースコード漏洩への対処の振り返り",
     "link": "https://zenn.dev/sapphi_red/articles/49d6493e593200",
     "pubDate": "Sat, 02 Aug 2025 07:57:16 GMT"
@@ -91,21 +115,9 @@
   },
   {
     "site": "Zenn",
-    "title": "OpenNext + Drizzle で Cloudflare D1 環境を最も楽に構築する",
-    "link": "https://zenn.dev/nikaera/articles/cloudflare-opennext-drizzle",
-    "pubDate": "Sat, 02 Aug 2025 06:55:17 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "GraphQLの「Resolver並行性・I/O並列性」の言語別実装比較(JS, Go, Ruby, PHP)",
     "link": "https://zenn.dev/shunjuio/articles/39accac452a5f5",
     "pubDate": "Sat, 02 Aug 2025 06:40:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Durable Functions で Deep Research を実装する",
-    "link": "https://zenn.dev/microsoft/articles/durable-functions-workflow",
-    "pubDate": "Sat, 02 Aug 2025 04:19:46 GMT"
   },
   {
     "site": "Zenn",
@@ -120,10 +132,16 @@
     "pubDate": "2025-08-01T23:17:56.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Amazon SageMaker Unified Studioの新機能検証",
+    "link": "https://qiita.com/p-ryuhei/items/566ccfcdc95372475afe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T17:21:49.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "苦手だったDockerとついに向き合った",
-    "link": "https://zenn.dev/okotokoto/articles/ddf4df49bb0575",
-    "pubDate": "Fri, 01 Aug 2025 11:01:43 GMT"
+    "title": "リモートセンシング領域の基盤モデルと論文まとめ",
+    "link": "https://zenn.dev/syu_tan/articles/f147824b219ecc",
+    "pubDate": "Fri, 01 Aug 2025 15:38:32 GMT"
   },
   {
     "site": "Qiita",
@@ -139,39 +157,21 @@
   },
   {
     "site": "Qiita",
+    "title": "プロジェクトはなぜ失敗してしまうのか？",
+    "link": "https://qiita.com/yuuuni1211/items/8266f64e4f64ef693b41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-01T07:59:31.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "このMCPはプロジェクト全体を把握 VSCode GitHub Copilotで 「Serena MCP」を使う方法",
     "link": "https://qiita.com/masakinihirota/items/a2c0ef5e6f9a0aa868d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-01T04:02:03.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Bedrock AgentCore Runtime で Remote MCP サーバー (OpenAI o3 Web search) をデプロイし，Strands Agents から利用する",
-    "link": "https://qiita.com/ren8k/items/1ef730d343c870b71e50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-31T23:47:24.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【完全保存版】SuperClaudeコマンドチート集 - ゼロから始めるつよつよAI開発エージェント環境構築",
     "link": "https://qiita.com/akira_papa_AI/items/b350c2a6911408b45e59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-07-31T18:05:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2025年最新版】開発コストを抑えて効率UP！15の人気ツールに代わるオープンソース代替ガイド",
-    "link": "https://qiita.com/takuya77088/items/fae3dace2b72f9fbdd64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-31T06:43:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Qwen3 Coderがかなり使える件について",
-    "link": "https://zenn.dev/yareyare/articles/7ef2d2ec952356",
-    "pubDate": "2025-07-30T23:14:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "リーダブルコードの実践 - TypeScriptエンジニアのためのコーディング指針",
-    "link": "https://qiita.com/engineer__desu/items/994683f9e5ed0318de2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-30T22:36:34.000Z"
   },
   {
     "site": "Hatena",
