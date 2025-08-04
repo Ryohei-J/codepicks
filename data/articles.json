@@ -1,9 +1,21 @@
 [
   {
+    "site": "Hatena",
+    "title": "AWS Lambdaをローカルで実行する - コンテナイメージ作成不要のシンプルな方法 - Techtouch Developers Blog",
+    "link": "https://tech.techtouch.jp/entry/lambda-local-invocation",
+    "pubDate": "2025-08-04T00:03:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「10日間で学ぶ サーバーレス on AWS」講座を公開しました！ #awsserverless10days - log4ketancho",
+    "link": "https://www.ketancho.net/entry/aws-serverless-10days",
+    "pubDate": "2025-08-03T23:29:28.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "conreq - curlライクに使える同時リクエスト確認ツールを作った",
-    "link": "https://zenn.dev/shiroemons/articles/1f5370b3bd1f9d",
-    "pubDate": "2025-08-03T12:26:54.000Z"
+    "title": "OSSは“使う前に”Claude Codeで脆弱性診断しよう",
+    "link": "https://zenn.dev/wisteria30/articles/f715ce47d68c6c",
+    "pubDate": "2025-08-03T13:13:17.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +25,45 @@
   },
   {
     "site": "Zenn",
+    "title": "OSSは“使う前に”Claude Codeで脆弱性診断しよう",
+    "link": "https://zenn.dev/wisteria30/articles/f715ce47d68c6c",
+    "pubDate": "Sun, 03 Aug 2025 08:35:31 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "意外とイラストレーターも見えてないところでイラスト生成AI活用してるらしい",
+    "link": "https://anond.hatelabo.jp/20250803170529",
+    "pubDate": "2025-08-03T08:25:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "HooksとSubagentsを使ってClaude Codeで恥ずかしいコードを書かないようにする",
+    "link": "https://qiita.com/takahirom/items/16fd60f611e52410e928?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-03T07:57:37.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "英語プレゼンターのトークをリアルタイムに日本語翻訳しプレゼンターのPC画面と並べて字幕表示するアプリを自作してしまった話",
     "link": "https://zenn.dev/j_sakamoto/articles/a774e70143cf12",
     "pubDate": "Sun, 03 Aug 2025 07:03:30 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【色変記事】AtCoder で緑になりました",
+    "link": "https://qiita.com/satomshr/items/35b5024c7aab2ce9f820?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-03T07:03:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Vibe Codingの頼れるお供 “Sorena MCP Server”の紹介",
+    "link": "https://qiita.com/uhyo/items/e827ab02f2e808078958?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-03T06:46:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "図書館の司書とAI司書に同じ相談したら…回答から見えた両者の違い：朝日新聞",
+    "link": "https://www.asahi.com/articles/AST812RH3T81ULFA00HM.html",
+    "pubDate": "2025-08-03T06:13:28.000Z"
   },
   {
     "site": "Hatena",
@@ -30,46 +78,22 @@
     "pubDate": "2025-08-03T03:42:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Qwen3-235BやQwen3-30B、Qwen3 Coder Flashは長コンテキストでの性能劣化が激しいのでは - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2025/08/02/161039",
-    "pubDate": "2025-08-03T02:03:30.000Z"
+    "site": "Zenn",
+    "title": "無職が Claude Code を使って 3 週間かけて OSS ライブラリを開発したけど誰も使ってくれなかった話",
+    "link": "https://zenn.dev/ikuraikura/articles/2025-08-02-oss",
+    "pubDate": "Sun, 03 Aug 2025 03:16:20 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Power Apps で縦長のページを印刷する",
+    "link": "https://qiita.com/Takashi_Masumori/items/fee475403e71e4f1fba5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-03T01:53:48.000Z"
   },
   {
     "site": "Zenn",
     "title": "一家に一台Anneliちゃん！LM Studio × AivisSpeechで簡易AIコンパニオンを作ろう",
     "link": "https://zenn.dev/r4ynode/articles/local-llm-and-aivis-speech-anneli",
     "pubDate": "Sun, 03 Aug 2025 00:00:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "一人で没頭したいか、何でも一緒にやりたいか - hitode909の日記",
-    "link": "https://blog.sushi.money/entry/2025/08/01/235900",
-    "pubDate": "2025-08-02T23:59:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "このMCPはプロジェクト全体を把握 VSCode GitHub Copilotで 「Serena MCP」を使う方法 - Qiita",
-    "link": "https://qiita.com/masakinihirota/items/a2c0ef5e6f9a0aa868d1",
-    "pubDate": "2025-08-02T23:48:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS deleted my 10-year account and all data without warning",
-    "link": "https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/",
-    "pubDate": "2025-08-02T23:20:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "自作コーディングエージェントのコンテキストエンジニアリング",
-    "link": "https://zenn.dev/tkithrta/articles/6f7160584c3124",
-    "pubDate": "Sat, 02 Aug 2025 19:52:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Raspberry Pi✖️wake on lan✖️Discord✖️Parsecを利用したリモートデスクトップ環境の構築(総集)",
-    "link": "https://zenn.dev/kento_1938/articles/8e8cebb0538150",
-    "pubDate": "Sat, 02 Aug 2025 16:44:46 GMT"
   },
   {
     "site": "Qiita",
@@ -90,12 +114,6 @@
     "pubDate": "2025-08-02T14:20:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Terraform やるなら公式スタイルガイドを読もう 〜重要項目 10選〜",
-    "link": "https://speakerdeck.com/hiyanger/terraform-yarunarasutairugaidowodu-mou-zhong-yao-xiang-mu-10xuan",
-    "pubDate": "2025-08-02T14:05:04.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Figma to CodeのAIツール「Kombai」を使ってみた",
     "link": "https://zenn.dev/oikon/articles/kombai-frontend",
@@ -108,10 +126,16 @@
     "pubDate": "Sat, 02 Aug 2025 07:57:16 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【2025年8月】KiroのPricingがようやく公開されたので覗いてみよう",
-    "link": "https://qiita.com/ec2_on_aws/items/15ae64cb3984fdb631ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-02T07:36:07.000Z"
+    "site": "Hatena",
+    "title": "新刊『実践Apache Iceberg』の紹介と執筆の思い出 - Bering Note – formerly 流沙河鎮",
+    "link": "https://bering.hatenadiary.com/entry/2025/08/01/152529",
+    "pubDate": "2025-08-02T07:51:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenNext + Drizzle で Cloudflare D1 環境を最も楽に構築する",
+    "link": "https://zenn.dev/nikaera/articles/cloudflare-opennext-drizzle",
+    "pubDate": "Sat, 02 Aug 2025 06:55:17 GMT"
   },
   {
     "site": "Zenn",
@@ -133,27 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Amazon SageMaker Unified Studioの新機能検証",
-    "link": "https://qiita.com/p-ryuhei/items/566ccfcdc95372475afe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-01T17:21:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "リモートセンシング領域の基盤モデルと論文まとめ",
-    "link": "https://zenn.dev/syu_tan/articles/f147824b219ecc",
-    "pubDate": "Fri, 01 Aug 2025 15:38:32 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "え？まだ普通のQGIS使ってるの？",
     "link": "https://qiita.com/nkmr_RL/items/32d706e8cb4001f05f84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-01T10:30:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "パソコンのドライブがC:からはじまる理由",
-    "link": "https://qiita.com/phiyoco-_-b/items/50d8eeb1ca9638c7201f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-01T08:41:23.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "2025-08-01T04:02:03.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【完全保存版】SuperClaudeコマンドチート集 - ゼロから始めるつよつよAI開発エージェント環境構築",
-    "link": "https://qiita.com/akira_papa_AI/items/b350c2a6911408b45e59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-07-31T18:05:25.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "超上流から攻めるIT化の事例集：要件定義 | アーカイブ | IPA 独立行政法人 情報処理推進機構",
-    "link": "https://www.ipa.go.jp/archive/digital/tools/ep/ep2.html",
-    "pubDate": "2013-08-09T09:35:24.000Z"
+    "title": "The Death of Agile: Why Tech Giants Are Abandoning Scrum and What They Use Instead",
+    "link": "https://medium.com/@sohail_saifi/the-death-of-agile-why-tech-giants-are-abandoning-scrum-and-what-they-use-instead-f92f6e1efcb2",
+    "pubDate": "2025-07-23T23:24:37.000Z"
   }
 ]
