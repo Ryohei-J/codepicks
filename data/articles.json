@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "フリーソフト開発26年目の挑戦。IP Messenger & FastCopy作者が個人開発を本業にするまで【フォーカス】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/focus/detail_706/",
+    "pubDate": "2025-08-04T01:11:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "開いているブラウザの内容を読める MCP サーバー - ぽ靴な缶",
+    "link": "https://blog.pokutuna.com/entry/pokutuna-mcp-chrome-tabs",
+    "pubDate": "2025-08-04T01:09:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Instagramライブ、フォロワー1000人未満は配信不可に",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/04/news054.html",
+    "pubDate": "2025-08-04T00:45:24.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AWS Lambdaをローカルで実行する - コンテナイメージ作成不要のシンプルな方法 - Techtouch Developers Blog",
     "link": "https://tech.techtouch.jp/entry/lambda-local-invocation",
     "pubDate": "2025-08-04T00:03:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Computer-useとBrowser-useとPlaywright-MCPを比較",
+    "link": "https://zenn.dev/headwaters/articles/7f0717b61848c3",
+    "pubDate": "Sun, 03 Aug 2025 23:30:01 GMT"
   },
   {
     "site": "Hatena",
@@ -13,15 +37,27 @@
   },
   {
     "site": "Zenn",
-    "title": "OSSは“使う前に”Claude Codeで脆弱性診断しよう",
-    "link": "https://zenn.dev/wisteria30/articles/f715ce47d68c6c",
-    "pubDate": "2025-08-03T13:13:17.000Z"
+    "title": "Claude Code × serenaでKiro風仕様書駆動開発をやるためのカスタムコンテキスト",
+    "link": "https://zenn.dev/sasakir/articles/ecca27ffe5e2ee",
+    "pubDate": "Sun, 03 Aug 2025 23:25:37 GMT"
   },
   {
     "site": "Hatena",
-    "title": "HTTP/1.1 Must Die",
-    "link": "https://http1mustdie.com/",
-    "pubDate": "2025-08-03T09:42:58.000Z"
+    "title": "しかし警部、長いことLinuxを使ってるのに、未だにfindのオプションを覚えてないなんてことありますか？",
+    "link": "https://togetter.com/li/2584821",
+    "pubDate": "2025-08-03T22:14:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code GitHub ActionsをMac × TarteletでCIコスト無料でぶん回す",
+    "link": "https://zenn.dev/ruwatana/articles/2a3850f014a512",
+    "pubDate": "Sun, 03 Aug 2025 17:50:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "OSSは“使う前に”Claude Codeで脆弱性診断しよう",
+    "link": "https://zenn.dev/wisteria30/articles/f715ce47d68c6c",
+    "pubDate": "2025-08-03T13:13:17.000Z"
   },
   {
     "site": "Zenn",
@@ -40,6 +76,12 @@
     "title": "HooksとSubagentsを使ってClaude Codeで恥ずかしいコードを書かないようにする",
     "link": "https://qiita.com/takahirom/items/16fd60f611e52410e928?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-03T07:57:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "動物系の生成AIはマジで怖いんだよ...例えば「美味しそうにブドウを食べて飛び跳ねて喜ぶ犬」の生成AI動画がバズった時、こんな悲劇が起きかねない",
+    "link": "https://togetter.com/li/2584541",
+    "pubDate": "2025-08-03T07:35:01.000Z"
   },
   {
     "site": "Zenn",
@@ -64,18 +106,6 @@
     "title": "図書館の司書とAI司書に同じ相談したら…回答から見えた両者の違い：朝日新聞",
     "link": "https://www.asahi.com/articles/AST812RH3T81ULFA00HM.html",
     "pubDate": "2025-08-03T06:13:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "［ニッポンの米］９０００トン随契米キャンセル続々　出荷遅延で売り切れず / 日本農業新聞公式ウェブサイト",
-    "link": "https://www.agrinews.co.jp/news/index/323427",
-    "pubDate": "2025-08-03T05:41:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Github Copilot】設計書があるなら、全部Copilotに実装させよう",
-    "link": "https://zenn.dev/aya/articles/3b8ea962b61bd8",
-    "pubDate": "2025-08-03T03:42:31.000Z"
   },
   {
     "site": "Zenn",
@@ -126,30 +156,6 @@
     "pubDate": "Sat, 02 Aug 2025 07:57:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "新刊『実践Apache Iceberg』の紹介と執筆の思い出 - Bering Note – formerly 流沙河鎮",
-    "link": "https://bering.hatenadiary.com/entry/2025/08/01/152529",
-    "pubDate": "2025-08-02T07:51:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenNext + Drizzle で Cloudflare D1 環境を最も楽に構築する",
-    "link": "https://zenn.dev/nikaera/articles/cloudflare-opennext-drizzle",
-    "pubDate": "Sat, 02 Aug 2025 06:55:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GraphQLの「Resolver並行性・I/O並列性」の言語別実装比較(JS, Go, Ruby, PHP)",
-    "link": "https://zenn.dev/shunjuio/articles/39accac452a5f5",
-    "pubDate": "Sat, 02 Aug 2025 06:40:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeでn8nワークフロー作るのが楽すぎて、もう手動で作る気が起きない件",
-    "link": "https://zenn.dev/ryorn/articles/a6dc96dc425669",
-    "pubDate": "Sat, 02 Aug 2025 03:18:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【図解】GAS基礎38選",
     "link": "https://qiita.com/python_academia/items/9fc973eb22c598762710?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "このMCPはプロジェクト全体を把握 VSCode GitHub Copilotで 「Serena MCP」を使う方法",
     "link": "https://qiita.com/masakinihirota/items/a2c0ef5e6f9a0aa868d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-01T04:02:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "The Death of Agile: Why Tech Giants Are Abandoning Scrum and What They Use Instead",
-    "link": "https://medium.com/@sohail_saifi/the-death-of-agile-why-tech-giants-are-abandoning-scrum-and-what-they-use-instead-f92f6e1efcb2",
-    "pubDate": "2025-07-23T23:24:37.000Z"
   }
 ]
