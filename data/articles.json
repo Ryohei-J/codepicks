@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Code 使おうぜって話",
+    "link": "https://www.mechanica-inc.com/slides/20250731-getting-started-with-claude-code/",
+    "pubDate": "2025-08-05T03:07:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コードから離れる不安、評価への戸惑い。「マネジメントの本質を掴むまで」の日々を支えた10冊 | レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/interview/detail_703/",
+    "pubDate": "2025-08-05T01:37:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "なぜWhyを書くだけで生産性が上がるのか？｜suthio",
     "link": "https://note.com/suthio/n/nfe677919f3c9",
     "pubDate": "2025-08-05T00:35:28.000Z"
   },
   {
     "site": "Hatena",
+    "title": "謎の超小型AI「HRM」、たった2700万パラメータで巨大なOpenAI o3やClaude 3.7を蹴散らす（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2025/08/05/4515.html",
+    "pubDate": "2025-08-04T23:27:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Perplexityはブロックされたサイトを「ステルスクローリング」している──Cloudflareが告発",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/05/news055.html",
+    "pubDate": "2025-08-04T23:03:50.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "キリン、経営会議に「AI役員」同席--過去10年の議事録学習　「想像より凄い」とネットで話題",
     "link": "https://japan.cnet.com/article/35236312/",
     "pubDate": "2025-08-04T22:25:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「おはよう」でClaude Codeを1.5倍働かせるライフハック",
+    "link": "https://zenn.dev/aun_phonogram/articles/27d0ea76ce91ac",
+    "pubDate": "Mon, 04 Aug 2025 21:00:06 GMT"
   },
   {
     "site": "Hatena",
@@ -30,22 +60,22 @@
     "pubDate": "2025-08-04T13:45:21.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ちょっとしたコードで端末エミュレータのコピー機能を使う",
+    "link": "https://zenn.dev/vim_jp/articles/20250804_ekiden_oscyank",
+    "pubDate": "Mon, 04 Aug 2025 11:15:58 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "4桁の数字をBluetoothでiPadに総当たり入力する - Qiita",
     "link": "https://qiita.com/wsn0672/items/3ce76722070fef2c5174",
     "pubDate": "2025-08-04T10:38:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Uber Eatsの広告、猛暑であらゆるものが溶けていく世界で「暑いからUber Eatsでいーんじゃない？」と言ってのけちゃう内容で、ギグワーカーが不可視化されたグロテスクさがある",
-    "link": "https://togetter.com/li/2585069",
-    "pubDate": "2025-08-04T10:24:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "[PDF] AWS-Summit-JP-2025-AWS-42-アーキテクチャ道場 2025 - 実践編！",
-    "link": "https://pages.awscloud.com/rs/112-TZM-766/images/AWS-42_Architecture_AWS-Summit-JP-2025.pdf",
-    "pubDate": "2025-08-04T09:05:50.000Z"
+    "site": "Zenn",
+    "title": "Telepresenceをやめてmirrordに乗り換えた話",
+    "link": "https://zenn.dev/smartshopping/articles/1246ac1be1abcb",
+    "pubDate": "Mon, 04 Aug 2025 09:39:32 GMT"
   },
   {
     "site": "Qiita",
@@ -64,18 +94,6 @@
     "title": "MCPにおけるエンタープライズ向け認可に関する議論の今",
     "link": "https://zenn.dev/layerx/articles/7e69eccac4ae51",
     "pubDate": "Mon, 04 Aug 2025 07:40:50 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアを成長させる要素を言語化する - pospomeのプログラミング日記",
-    "link": "https://www.pospome.work/entry/2025/08/04/130959",
-    "pubDate": "2025-08-04T06:07:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アップル全社員にＡＩ「掌握」迫る－クックＣＥＯが異例の会議",
-    "link": "https://www.bloomberg.co.jp/news/articles/2025-08-04/T0FVHCGPL3X200",
-    "pubDate": "2025-08-04T05:53:22.000Z"
   },
   {
     "site": "Zenn",
@@ -126,28 +144,10 @@
     "pubDate": "Sun, 03 Aug 2025 21:55:07 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "🚀 新卒エンジニアがフルスタック開発に挑戦した話（FastAPI×Vue3×PostgreSQL）",
-    "link": "https://zenn.dev/secondselection/articles/app_create_test",
-    "pubDate": "Sun, 03 Aug 2025 20:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OSSは“使う前に”Claude Codeで脆弱性診断しよう",
-    "link": "https://zenn.dev/wisteria30/articles/f715ce47d68c6c",
-    "pubDate": "Sun, 03 Aug 2025 08:35:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "HooksとSubagentsを使ってClaude Codeで恥ずかしいコードを書かないようにする",
     "link": "https://qiita.com/takahirom/items/16fd60f611e52410e928?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-03T07:57:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "英語プレゼンターのトークをリアルタイムに日本語翻訳しプレゼンターのPC画面と並べて字幕表示するアプリを自作してしまった話",
-    "link": "https://zenn.dev/j_sakamoto/articles/a774e70143cf12",
-    "pubDate": "Sun, 03 Aug 2025 07:03:30 GMT"
   },
   {
     "site": "Qiita",
