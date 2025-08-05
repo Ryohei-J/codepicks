@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "関西でAWSといえば",
+    "link": "https://anond.hatelabo.jp/20250805101629",
+    "pubDate": "2025-08-05T09:38:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AI社長」、気軽に相談を　トップ目線で助言　三井住友FG（時事通信） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/baaee10adf61bb5fc48a3c0ec98d0d5740eac9de",
+    "pubDate": "2025-08-05T08:24:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "シンプルな作画ミスでミクちゃんの指が6本になっててTikTokでAIの使用を疑われてしまった...→ミスしたらAI生成だと疑ってしまう世の中になったのか",
+    "link": "https://togetter.com/li/2585438",
+    "pubDate": "2025-08-05T07:12:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Code 使おうぜって話",
     "link": "https://www.mechanica-inc.com/slides/20250731-getting-started-with-claude-code/",
     "pubDate": "2025-08-05T03:07:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kiroについて、Spec駆動開発について、今一度簡単に振り返る",
+    "link": "https://zenn.dev/beagle/articles/1dea6ff60b1143",
+    "pubDate": "Tue, 05 Aug 2025 01:53:04 GMT"
   },
   {
     "site": "Hatena",
@@ -18,6 +42,18 @@
     "pubDate": "2025-08-05T00:35:28.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Tailwind CSS で未定義のクラスを指定したら絶対エラーにしたい",
+    "link": "https://zenn.dev/chot/articles/ddea76b29e60f2",
+    "pubDate": "Tue, 05 Aug 2025 00:12:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMの本質的価値とプロダクト適用における技術的考察",
+    "link": "https://zenn.dev/peoplex_blog/articles/b759b36cf5da5f",
+    "pubDate": "Tue, 05 Aug 2025 00:10:18 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "謎の超小型AI「HRM」、たった2700万パラメータで巨大なOpenAI o3やClaude 3.7を蹴散らす（生成AIクローズアップ） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2025/08/05/4515.html",
@@ -25,15 +61,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Perplexityはブロックされたサイトを「ステルスクローリング」している──Cloudflareが告発",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/05/news055.html",
-    "pubDate": "2025-08-04T23:03:50.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "キリン、経営会議に「AI役員」同席--過去10年の議事録学習　「想像より凄い」とネットで話題",
     "link": "https://japan.cnet.com/article/35236312/",
     "pubDate": "2025-08-04T22:25:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ISTQB Testing with Generative AI 試験に合格しました",
+    "link": "https://zenn.dev/moneyforward/articles/388a59dfd68c67",
+    "pubDate": "Mon, 04 Aug 2025 21:08:19 GMT"
   },
   {
     "site": "Zenn",
@@ -48,16 +84,16 @@
     "pubDate": "2025-08-04T16:07:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives",
-    "link": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
-    "pubDate": "2025-08-04T14:55:50.000Z"
+    "site": "Zenn",
+    "title": "【個人開発】AIで手相を読み解く！3000年の叡智と最新技術で作ったWebアプリ「Palma」",
+    "link": "https://zenn.dev/k_abechan/articles/ed891cab43e9ac",
+    "pubDate": "Mon, 04 Aug 2025 13:33:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "VLCの開発者が手がける超低遅延動画ストリーミングを可能にするオープンソースキット「Kyber」とは？",
-    "link": "https://gigazine.net/news/20250804-vlc-kyber/",
-    "pubDate": "2025-08-04T13:45:21.000Z"
+    "site": "Qiita",
+    "title": "JavaScriptのループ構文まとめ",
+    "link": "https://qiita.com/maedaHARUYA/items/6e9eb896603c0bfb9f11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-04T12:13:50.000Z"
   },
   {
     "site": "Zenn",
@@ -67,15 +103,21 @@
   },
   {
     "site": "Qiita",
+    "title": "危険なURLを安全に共有する提案",
+    "link": "https://qiita.com/rana_kualu/items/485b9bc20963267bbd8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-04T10:53:45.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "4桁の数字をBluetoothでiPadに総当たり入力する - Qiita",
     "link": "https://qiita.com/wsn0672/items/3ce76722070fef2c5174",
     "pubDate": "2025-08-04T10:38:17.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Telepresenceをやめてmirrordに乗り換えた話",
-    "link": "https://zenn.dev/smartshopping/articles/1246ac1be1abcb",
-    "pubDate": "Mon, 04 Aug 2025 09:39:32 GMT"
+    "site": "Qiita",
+    "title": "「Claude × Draw.io × スイムレーン」で業務フロー図のたたきを瞬時に作るプロンプト",
+    "link": "https://qiita.com/WdknWdkn/items/de2aeced1faf948ac125?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-04T09:33:22.000Z"
   },
   {
     "site": "Qiita",
@@ -97,51 +139,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Generative AI Leader 認定試験範囲の解説",
-    "link": "https://zenn.dev/cloud_ace/articles/cert-generative-ai-leader",
-    "pubDate": "Mon, 04 Aug 2025 04:49:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS Summit 2025 参加レポート",
-    "link": "https://qiita.com/aktamashiro/items/762b8003fef741fa0842?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-04T04:27:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "プロダクト開発におけるAI Native推進のこれまで",
-    "link": "https://zenn.dev/primenumber/articles/9c7ad860101f5d",
-    "pubDate": "Mon, 04 Aug 2025 04:10:26 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 演算子#3 〜演算子を完全攻略！-比較演算子編-〜",
-    "link": "https://qiita.com/hitomin_poke/items/473f60d7a67b8fe0b2e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-04T03:07:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "QAが開発初期から関わる「シフトレフト」で目指す品質と効率",
-    "link": "https://qiita.com/s-yoshina/items/140103b6c5d814cf7277?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-04T01:22:59.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "Rust製ログイン機能付きWebフレームワーク「ares」の背景と思想",
     "link": "https://zenn.dev/knbzyh/articles/6dfd17f5849e89",
     "pubDate": "Mon, 04 Aug 2025 01:04:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code × serenaでKiro風仕様書駆動開発をやる",
-    "link": "https://zenn.dev/sasakir/articles/ecca27ffe5e2ee",
-    "pubDate": "Sun, 03 Aug 2025 23:25:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Microsoft Teams の絵文字リアクションでワークフローをトリガーできるようになったよ！",
-    "link": "https://zenn.dev/hirotomotaguchi/articles/202508_teams-emoji-reactions-workflow",
-    "pubDate": "Sun, 03 Aug 2025 21:55:07 GMT"
+    "site": "Qiita",
+    "title": "AI採点が出来る最強の応用情報過去問演習サイトを作った",
+    "link": "https://qiita.com/nagasunari/items/6934369c178bb8c15474?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-03T20:00:41.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "埼大アプリをリリースして、4日間で1000ユーザを達成した方法🐱",
     "link": "https://qiita.com/00121kuri/items/4b8402a0bc199dd1b5e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-02T14:20:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【図解】GAS基礎38選",
-    "link": "https://qiita.com/python_academia/items/9fc973eb22c598762710?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-01T23:17:56.000Z"
   }
 ]
