@@ -12,10 +12,28 @@
     "pubDate": "2025-08-06T15:58:39.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "gpt-oss:20bをローカル環境で動かしてみた",
+    "link": "https://zenn.dev/mixi/articles/6e28bf96b6b982",
+    "pubDate": "Wed, 06 Aug 2025 15:44:49 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「アマゾンやりやがった、置き配指定を無視、違う住所に届ける、アマゾン信用出来ない」→Amazon公式が謝罪、さらにAmazonは酷くなったとの声が多数あつまる",
     "link": "https://posfie.com/@Gingakei3334/p/n4Xb17i",
     "pubDate": "2025-08-06T13:41:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "古いWinowsPCで動く!? LLMStudioでGPT-OSSを使ってはじめてのローカルLLM!! （GPT-OSS20B編）",
+    "link": "https://zenn.dev/mohy_nyapan/articles/585c336f08f174",
+    "pubDate": "Wed, 06 Aug 2025 12:41:44 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【新卒研修資料】数理最適化 / Mathematical Optimization",
+    "link": "https://speakerdeck.com/brainpadpr/mathematical-optimization",
+    "pubDate": "2025-08-06T11:29:07.000Z"
   },
   {
     "site": "Hatena",
@@ -25,7 +43,7 @@
   },
   {
     "site": "Hatena",
-    "title": "俺の128GB MacBook Proが真価を発揮する時がきた。ChatGPT 4-mini並みのgpt-oss-120bがローカルで動いてるよ（CloseBox） | テクノエッジ TechnoEdge",
+    "title": "俺の128GB MacBook Proが真価を発揮する時がきた。ChatGPT o4-mini並みのgpt-oss-120bがローカルで動いてるよ（CloseBox） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2025/08/06/4518.html",
     "pubDate": "2025-08-06T09:57:33.000Z"
   },
@@ -36,10 +54,10 @@
     "pubDate": "Wed, 06 Aug 2025 09:34:55 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ニフティが「個人ホームぺージ」サービス継続の姿勢を表明。このSNS時代になぜ？　蓄積された情報資産を未来に残す――熱い思いの新プロジェクト立ち上げの背景には30年の歴史が",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2037262.html",
-    "pubDate": "2025-08-06T09:08:39.000Z"
+    "site": "Zenn",
+    "title": "静的なFigmaデザインから動的なUIを生成 〜AIに\"動き\"を伝える「アノテーション駆動開発」〜",
+    "link": "https://zenn.dev/x_point_1/articles/d9c51ede3c31ef",
+    "pubDate": "Wed, 06 Aug 2025 07:51:44 GMT"
   },
   {
     "site": "Hatena",
@@ -52,6 +70,12 @@
     "title": "Claude Codeを開発の全フェーズで活用したら開発生産性が1.5倍に向上した",
     "link": "https://zenn.dev/drsprime/articles/3eeb7d95e954ea",
     "pubDate": "2025-08-06T06:46:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Model Context Protocolの仕組み",
+    "link": "https://zenn.dev/nuskey/books/model-context-protocol",
+    "pubDate": "Wed, 06 Aug 2025 06:32:03 GMT"
   },
   {
     "site": "Qiita",
@@ -67,15 +91,21 @@
   },
   {
     "site": "Zenn",
-    "title": "【最新】GitHub ActionsでGemini CLIを活用してみよう",
-    "link": "https://zenn.dev/makumaaku/articles/15f56ac617a3af",
-    "pubDate": "Wed, 06 Aug 2025 03:01:38 GMT"
+    "title": "gpt-ossがすごい！！ローカルで動かしてみた（Mac、メモリ128GB）",
+    "link": "https://zenn.dev/acntechjp/articles/e8206aaa1bef3e",
+    "pubDate": "Wed, 06 Aug 2025 04:02:21 GMT"
   },
   {
     "site": "Hatena",
-    "title": "JAL最高峰クレカ“違和感画像”、なぜ事前に見抜けず掲載？　広報が経緯明かし陳謝",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2508/06/news057.html",
-    "pubDate": "2025-08-06T01:33:21.000Z"
+    "title": "Gemini の Storybook を試す｜npaka",
+    "link": "https://note.com/npaka/n/nc3093d963b4a",
+    "pubDate": "2025-08-06T03:56:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.js App Router x TanStack Query の SSR を解説する",
+    "link": "https://zenn.dev/canary_techblog/articles/75d46f6e42429c",
+    "pubDate": "Wed, 06 Aug 2025 01:30:01 GMT"
   },
   {
     "site": "Hatena",
@@ -106,36 +136,6 @@
     "title": "今日から始める Vibe Data Science - Preview となった Data Science Agent でデータ分析してみる",
     "link": "https://zenn.dev/google_cloud_jp/articles/dsa_2025_preview-1b1524",
     "pubDate": "Tue, 05 Aug 2025 13:07:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsの超高性価比技術スタック完全ガイド",
-    "link": "https://zenn.dev/gozen/articles/5fd9d7ba7fb5e8",
-    "pubDate": "Tue, 05 Aug 2025 09:58:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ボックスモデルの要約による簡易 VRT を作ってみた - @mizchi/visc",
-    "link": "https://zenn.dev/mizchi/articles/introduce-visc-easy-e2e",
-    "pubDate": "Tue, 05 Aug 2025 09:45:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Flutter で値オブジェクトに extension types を導入して 31% パフォーマンスが改善した話",
-    "link": "https://zenn.dev/uzu_tech/articles/flutter-extension-types-performance",
-    "pubDate": "Tue, 05 Aug 2025 08:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "期待の新星 Expo UI を触ってみる",
-    "link": "https://zenn.dev/gemcook/articles/fa0a5831bccf90",
-    "pubDate": "Tue, 05 Aug 2025 06:26:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MAGIシステムをAzure OpenAIで作る",
-    "link": "https://zenn.dev/microsoft/articles/llm-magi-system",
-    "pubDate": "Tue, 05 Aug 2025 04:58:37 GMT"
   },
   {
     "site": "Qiita",
