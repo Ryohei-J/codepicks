@@ -6,6 +6,18 @@
     "pubDate": "2025-08-08T09:50:50.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "GPT-5がMicrosoft Copilotに統合　無料で利用可能",
+    "link": "https://www.watch.impress.co.jp/docs/news/2037994.html",
+    "pubDate": "2025-08-08T05:11:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "10GbEのスイッチやUSBアダプターが熱すぎるので強制冷却する棚をDIYで作ってみた 【テレワークグッズ・ミニレビュー 第138回】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2037666.html",
+    "pubDate": "2025-08-08T04:53:38.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【ポケモン×Java】Lv6：『バトル開幕！』～For文～",
     "link": "https://qiita.com/hitomin_poke/items/3acbf1277eea144af35c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -18,16 +30,16 @@
     "pubDate": "2025-08-08T03:59:59.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "爆音GPUサーバ持ち航空宇宙系オーバードクターが松尾研究所に来ました",
+    "link": "https://zenn.dev/mkj/articles/8d9d4ce6bdd8c8",
+    "pubDate": "Fri, 08 Aug 2025 02:50:05 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "アウトプットができない若者 - | ＾ω＾ |",
     "link": "https://lunastera.hatenablog.com/entry/2025/08/07/203716",
     "pubDate": "2025-08-08T01:26:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アジャイルな見積もりと計画づくりをしないチームのはなし - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/no-agile-estimation-planning",
-    "pubDate": "2025-08-08T00:28:02.000Z"
   },
   {
     "site": "Zenn",
@@ -40,6 +52,12 @@
     "title": "書籍『ぷよぷよプログラミング』を出版しました",
     "link": "https://nmi.jp/2025-08-08-Publishing-Puyo-Puyo-Programming",
     "pubDate": "2025-08-07T23:31:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【プロンプト一挙公開】初心者でも「GPTs」マスターに！ 最強すぎる“自作AI”量産術",
+    "link": "https://www.sbbit.jp/article/cont1/169649",
+    "pubDate": "2025-08-07T22:58:17.000Z"
   },
   {
     "site": "Qiita",
@@ -58,18 +76,6 @@
     "title": "ついに登場！GPT-5の性能差をCursorで感じてみる",
     "link": "https://qiita.com/kyuko/items/47113b442b136787ed2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-07T21:20:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Cursor CLI | Cursor - The AI Code Editor",
-    "link": "https://cursor.com/cli",
-    "pubDate": "2025-08-07T20:58:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "次世代AIモデル「GPT-5」登場　ChatGPT全ユーザーに提供開始　“博士並みの知能持つ友人”に進化",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2508/08/news053.html",
-    "pubDate": "2025-08-07T18:41:39.000Z"
   },
   {
     "site": "Zenn",
@@ -102,10 +108,22 @@
     "pubDate": "2025-08-07T13:57:20.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "OpenAIの「gpt-oss-20b」をM2 Pro Mac minで動かしてみた",
+    "link": "https://zenn.dev/shakshi3104/articles/53e7f35ae376df",
+    "pubDate": "Thu, 07 Aug 2025 12:00:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "MCPで様々なデータモデルを分析してみる　～AI Ready Data時代に最適なデータストアを検証～",
     "link": "https://qiita.com/ksonoda/items/058e4868635c2c76b86e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-07T09:31:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CursorとNotion MCPを活用した「AI伴走型テスト設計」の実践プロセスと、その学び",
+    "link": "https://zenn.dev/globis/articles/24cc3f0ded2987",
+    "pubDate": "Thu, 07 Aug 2025 03:36:38 GMT"
   },
   {
     "site": "Zenn",
@@ -144,28 +162,10 @@
     "pubDate": "2025-08-06T16:48:09.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "gpt-oss:20bをローカル環境で動かしてみた",
-    "link": "https://zenn.dev/mixi/articles/6e28bf96b6b982",
-    "pubDate": "Wed, 06 Aug 2025 15:44:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "古いWinowsPCで動く!? LMStudioでGPT-OSSを使ってはじめてのローカルLLM!! （GPT-OSS20B編）",
-    "link": "https://zenn.dev/mohy_nyapan/articles/585c336f08f174",
-    "pubDate": "Wed, 06 Aug 2025 12:41:44 GMT"
-  },
-  {
     "site": "Qiita",
     "title": " TkinterとCustomTkinterで電卓つくって比較してみた",
     "link": "https://qiita.com/Tadataka_Takahashi/items/fa65246ea9f48301c71c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-06T11:58:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Geminiで要件・設計のセキュリティレビューを自動化し、工数を90%削減した話",
-    "link": "https://zenn.dev/gatechnologies/articles/4327115bdc0358",
-    "pubDate": "Wed, 06 Aug 2025 09:50:01 GMT"
   },
   {
     "site": "Hatena",
