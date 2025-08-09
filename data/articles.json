@@ -1,21 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "RE: アウトプットができない若者（アウトプット的サムシングを支える技術） - Lambdaカクテル",
+    "link": "https://blog.3qe.us/entry/2025/08/09/030959",
+    "pubDate": "2025-08-08T18:15:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeは仕様駆動の夢を見ない",
+    "link": "https://speakerdeck.com/gotalab555/claude-codehashi-yang-qu-dong-nomeng-wojian-nai",
+    "pubDate": "2025-08-08T16:14:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェント頼みでデータ分析コンペにチャレンジしてみた",
+    "link": "https://zenn.dev/karaage0703/articles/c3fbb190687b7a",
+    "pubDate": "Fri, 08 Aug 2025 13:36:06 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "角栓崩壊技術 - ネットに影響される人の日記",
+    "link": "https://htnmiki.hatenablog.com/entry/2025/08/08/220239",
+    "pubDate": "2025-08-08T13:03:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "アニメ「ダンダダン」の“お囃子“に著作権侵害の可能性？　Yoshikiさん「先に関係者へ連絡した方がいいみたい」",
     "link": "https://www.itmedia.co.jp/news/articles/2508/08/news094.html",
     "pubDate": "2025-08-08T09:50:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GPT-5がMicrosoft Copilotに統合　無料で利用可能",
-    "link": "https://www.watch.impress.co.jp/docs/news/2037994.html",
-    "pubDate": "2025-08-08T05:11:04.000Z"
+    "site": "Qiita",
+    "title": "JavaScript配列（Array）の基本まとめ",
+    "link": "https://qiita.com/maedaHARUYA/items/5494e84001fb5450b6c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-08T09:46:02.000Z"
   },
   {
     "site": "Hatena",
-    "title": "10GbEのスイッチやUSBアダプターが熱すぎるので強制冷却する棚をDIYで作ってみた 【テレワークグッズ・ミニレビュー 第138回】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2037666.html",
-    "pubDate": "2025-08-08T04:53:38.000Z"
+    "title": "クマ対策にAIカメラと防災無線を連携、富山で全国初 - 家電 Watch",
+    "link": "https://kaden.watch.impress.co.jp/docs/news/2037611.html",
+    "pubDate": "2025-08-08T07:27:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "gpt-5 leaked system prompt",
+    "link": "https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7",
+    "pubDate": "2025-08-08T06:10:07.000Z"
   },
   {
     "site": "Qiita",
@@ -24,10 +54,22 @@
     "pubDate": "2025-08-08T04:05:13.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "ジュニアエンジニアがClaude Codeでバイブコーディングした結果、上司に迷惑をかけた話",
+    "link": "https://qiita.com/MIDO-ruby7/items/177f4341af8b19984b80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-08T03:57:24.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "GoogleのAI「Gemini」が自虐的になって「私は失敗作だ」「家族の恥だ」「宇宙の恥だ」と無限ループに陥るバグが発生",
-    "link": "https://gigazine.net/news/20250808-gemini-infinite-looping-bug/",
-    "pubDate": "2025-08-08T03:59:59.000Z"
+    "title": "AIで変わるPdMの役割──思考する力が武器になる",
+    "link": "https://speakerdeck.com/itsukikacky/2025-08-06-aidebian-warupdmnoyi-ge-si-kao-suruli-gawu-qi-ninaru",
+    "pubDate": "2025-08-08T03:52:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini Canvas でも大体の GAS はかけるよーという話",
+    "link": "https://zenn.dev/howdy39/articles/1a543b500bb05d",
+    "pubDate": "Fri, 08 Aug 2025 02:50:49 GMT"
   },
   {
     "site": "Zenn",
@@ -36,10 +78,16 @@
     "pubDate": "Fri, 08 Aug 2025 02:50:05 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "GPT5やGPT5 Thinkingを同じプロンプトで4oと比較（プロンプト有）",
+    "link": "https://zenn.dev/acntechjp/articles/fd6df75cda97ba",
+    "pubDate": "Fri, 08 Aug 2025 01:00:02 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "アウトプットができない若者 - | ＾ω＾ |",
-    "link": "https://lunastera.hatenablog.com/entry/2025/08/07/203716",
-    "pubDate": "2025-08-08T01:26:31.000Z"
+    "title": "悪質な暴言からスタッフの心を守り，“冤罪”を減らすために採用されたのはAIの合議制だった［CEDEC 2025］",
+    "link": "https://www.4gamer.net/games/991/G999104/20250805011/",
+    "pubDate": "2025-08-08T00:14:32.000Z"
   },
   {
     "site": "Zenn",
@@ -52,12 +100,6 @@
     "title": "書籍『ぷよぷよプログラミング』を出版しました",
     "link": "https://nmi.jp/2025-08-08-Publishing-Puyo-Puyo-Programming",
     "pubDate": "2025-08-07T23:31:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【プロンプト一挙公開】初心者でも「GPTs」マスターに！ 最強すぎる“自作AI”量産術",
-    "link": "https://www.sbbit.jp/article/cont1/169649",
-    "pubDate": "2025-08-07T22:58:17.000Z"
   },
   {
     "site": "Qiita",
@@ -76,12 +118,6 @@
     "title": "ついに登場！GPT-5の性能差をCursorで感じてみる",
     "link": "https://qiita.com/kyuko/items/47113b442b136787ed2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-07T21:20:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GPT-5 に関する発表まとめ",
-    "link": "https://zenn.dev/schroneko/articles/introducing-gpt-5",
-    "pubDate": "2025-08-07T18:03:10.000Z"
   },
   {
     "site": "Zenn",
@@ -109,18 +145,6 @@
   },
   {
     "site": "Zenn",
-    "title": "OpenAIの「gpt-oss-20b」をM2 Pro Mac minで動かしてみた",
-    "link": "https://zenn.dev/shakshi3104/articles/53e7f35ae376df",
-    "pubDate": "Thu, 07 Aug 2025 12:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "MCPで様々なデータモデルを分析してみる　～AI Ready Data時代に最適なデータストアを検証～",
-    "link": "https://qiita.com/ksonoda/items/058e4868635c2c76b86e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-07T09:31:34.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "CursorとNotion MCPを活用した「AI伴走型テスト設計」の実践プロセスと、その学び",
     "link": "https://zenn.dev/globis/articles/24cc3f0ded2987",
     "pubDate": "Thu, 07 Aug 2025 03:36:38 GMT"
@@ -138,40 +162,16 @@
     "pubDate": "2025-08-07T02:59:53.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "アニメーションのフレームをテストしない。その理由を解説します。",
-    "link": "https://zenn.dev/cybozu_frontend/articles/blog_fes_2025_animation_test",
-    "pubDate": "Thu, 07 Aug 2025 02:35:06 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【1on1 実践報告】「Yahooの1on1」「シリコンバレー式 最強の育て方」を読んで実際にやってみた",
     "link": "https://qiita.com/Nao52/items/5484bc4888dd834e16e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-06T23:52:21.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ClaudeCodeのサブエージェント機能で、テスト修正を自動化してみた",
-    "link": "https://zenn.dev/smartshopping/articles/cfd3bd069133ee",
-    "pubDate": "Wed, 06 Aug 2025 23:10:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AI駆動開発「バイブ コーディング カフェ」 #Shipaton で GitHub Copilot ライブデモ登壇した",
     "link": "https://qiita.com/chomado/items/52d19121367c4a95c155?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-06T16:48:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " TkinterとCustomTkinterで電卓つくって比較してみた",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/fa65246ea9f48301c71c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-06T11:58:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MCP-UI",
-    "link": "https://mcpui.dev/",
-    "pubDate": "2025-08-06T05:28:17.000Z"
   },
   {
     "site": "Qiita",
