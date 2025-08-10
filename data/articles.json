@@ -1,5 +1,23 @@
 [
   {
+    "site": "Zenn",
+    "title": "Rails作者のDHHが語るRubyの美しさ",
+    "link": "https://zenn.dev/gmomedia/articles/dhh-ruby-beauty-podcast",
+    "pubDate": "2025-08-10T08:26:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "新Codex CLIの使い方",
+    "link": "https://blog.lai.so/codex-rs-intro/",
+    "pubDate": "2025-08-10T07:58:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ある日のコードレビュー",
+    "link": "https://anond.hatelabo.jp/20250810162429",
+    "pubDate": "2025-08-10T07:44:46.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "4o騒動（詳細版）",
     "link": "https://anond.hatelabo.jp/20250810142211",
@@ -48,6 +66,12 @@
     "pubDate": "Sat, 09 Aug 2025 14:52:56 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "泥酔 Vibe Coding の反省点（何の成果も得られませんでした）",
+    "link": "https://zenn.dev/okazuki/articles/drink-vive-coding-try-and-error",
+    "pubDate": "Sat, 09 Aug 2025 14:28:33 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Bedrock AgentCore GatewayとIdentityを使ってSlackへアクセスしてみる",
     "link": "https://qiita.com/har1101/items/aae967fa157b01e414a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -60,22 +84,10 @@
     "pubDate": "Sat, 09 Aug 2025 12:32:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI エージェントがインタラクティブな UI を返すことを可能にする MCP UI",
-    "link": "https://azukiazusa.dev/blog/mcp-ui/",
-    "pubDate": "2025-08-09T11:53:36.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Nixとuvで磨くPython開発環境の再現性",
     "link": "https://zenn.dev/shundeveloper/articles/36307d821d40f7",
     "pubDate": "Sat, 09 Aug 2025 11:47:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS LambdaでRemote MCPをほぼ無料でホスティングする",
-    "link": "https://zenn.dev/zhizhiarv/articles/host-remote-mcp-on-lambda",
-    "pubDate": "2025-08-09T11:32:19.000Z"
   },
   {
     "site": "Qiita",
@@ -91,12 +103,6 @@
   },
   {
     "site": "Hatena",
-    "title": "「Microsoft Lens」アプリ廃止へ　代替は「Microsoft 365 Copilot」推奨",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2508/09/news039.html",
-    "pubDate": "2025-08-09T09:39:34.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "3Dプリンター、あるいは試行錯誤を買う行為｜柞刈湯葉",
     "link": "https://note.com/yubais/n/n05bfc176edb7",
     "pubDate": "2025-08-09T07:35:52.000Z"
@@ -108,22 +114,10 @@
     "pubDate": "Sat, 09 Aug 2025 07:20:12 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeで2週間→3日に短縮！AI駆動開発でWebサイトを爆速リプレイス",
-    "link": "https://zenn.dev/sakupanda/articles/bfc84e54f97504",
-    "pubDate": "2025-08-09T07:18:56.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Amazon Bedrock AgentCoreのランタイムをAWS CodePipelineで安全に更新するためのパイプラインをTerraformで構築する",
     "link": "https://qiita.com/neruneruo/items/572e3007e5376cc08613?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-09T07:10:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GMOサマーインターンに参加してきました！",
-    "link": "https://zenn.dev/takapom/articles/f08c123f5cd996",
-    "pubDate": "Sat, 09 Aug 2025 06:09:07 GMT"
   },
   {
     "site": "Qiita",
@@ -154,6 +148,12 @@
     "title": "新卒こそメモはMarkdownで取れ！",
     "link": "https://qiita.com/im_yoneda/items/d706a050b823595f0959?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-08T09:12:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "データサイエンスのための数学入門",
+    "link": "https://www.oreilly.co.jp//books/9784814401260/",
+    "pubDate": "2025-08-08T08:55:13.000Z"
   },
   {
     "site": "Qiita",
