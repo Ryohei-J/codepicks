@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "4o騒動（詳細版）",
+    "link": "https://anond.hatelabo.jp/20250810142211",
+    "pubDate": "2025-08-10T05:31:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「4oを返せ！」世界で大炎上、GPT-5のアプデがヤバすぎる - すまほん!!",
+    "link": "https://smhn.info/202508-4o-gpt5-openai",
+    "pubDate": "2025-08-10T00:46:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "グーグルのAI検索、米報道機関に衝撃　サイト訪問不要に　トラフィック激減で事業モデル転換模索（小久保重信） - エキスパート - Yahoo!ニュース",
     "link": "https://news.yahoo.co.jp/expert/articles/c3ac742bdfa3696eb30c44556bee3c52e80fc0ec",
     "pubDate": "2025-08-09T23:18:23.000Z"
@@ -42,12 +54,6 @@
     "pubDate": "2025-08-09T13:34:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "他人のブログの感想をもっと気軽に書きたい。 - 世界のねじを巻くブログ",
-    "link": "https://www.nejimakiblog.com/entry/blog-mention-comments-kansou-blogosphere",
-    "pubDate": "2025-08-09T13:18:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "gpt-oss × opencode × vibe kanbanで作る完全無料のAI開発環境",
     "link": "https://zenn.dev/y_ta/articles/gpt-oss-opencode-vibe-kanban-tutorial",
@@ -73,6 +79,12 @@
   },
   {
     "site": "Qiita",
+    "title": "Strecs3D入門：インストールから応力解析ベースの3Dプリントデータ作成まで",
+    "link": "https://qiita.com/tomohiron907/items/d3285c855dc7a7e7ea62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T11:17:02.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "「Bedrock AgentCore」CodeInterpreter MCPサーバーをデプロイしてみよう!",
     "link": "https://qiita.com/Syoitu/items/e841fd50d54b772ed405?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-09T09:57:41.000Z"
@@ -82,6 +94,12 @@
     "title": "「Microsoft Lens」アプリ廃止へ　代替は「Microsoft 365 Copilot」推奨",
     "link": "https://www.itmedia.co.jp/mobile/articles/2508/09/news039.html",
     "pubDate": "2025-08-09T09:39:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "3Dプリンター、あるいは試行錯誤を買う行為｜柞刈湯葉",
+    "link": "https://note.com/yubais/n/n05bfc176edb7",
+    "pubDate": "2025-08-09T07:35:52.000Z"
   },
   {
     "site": "Zenn",
@@ -120,10 +138,10 @@
     "pubDate": "Sat, 09 Aug 2025 02:31:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPT 5 はGPUだけで一般家庭約42万世帯分の電力を消費 | GAZLOG",
-    "link": "https://gazlog.jp/entry/chatgpt-5-200k-gpu-power-consumption/",
-    "pubDate": "2025-08-09T01:38:19.000Z"
+    "site": "Qiita",
+    "title": "生成AIのせいでプログラミングを学ぶモチベない人いる？",
+    "link": "https://qiita.com/python_academia/items/d10a55ef42ba6a436978?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T00:01:35.000Z"
   },
   {
     "site": "Zenn",
@@ -144,22 +162,10 @@
     "pubDate": "2025-08-08T03:57:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIエージェント技術「MCP」に脆弱性報告が相次ぐ、 外部接続に情報窃取のリスク",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00989/080300184/",
-    "pubDate": "2025-08-08T01:52:34.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【宣戦布告】全AIに告ぐ GPT-5が通るから道をあけろ",
     "link": "https://qiita.com/Nicola_GenAI/items/52ea7941e5b1e25457b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-07T22:51:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ついに登場！GPT-5の性能差をCursorで感じてみる",
-    "link": "https://qiita.com/kyuko/items/47113b442b136787ed2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-07T21:20:26.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "30日以内に「月収150万円」を達成するためのChatGPTプロンプト10選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "link": "https://forbesjapan.com/articles/detail/81094",
     "pubDate": "2025-08-07T07:17:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHubで最もスターを獲得したオープンソースAIプロジェクト20選",
-    "link": "https://qiita.com/zhanglucy/items/ed7a76e9e80af6a82276?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-07T02:59:53.000Z"
   }
 ]
