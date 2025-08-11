@@ -1,9 +1,21 @@
 [
   {
+    "site": "Hatena",
+    "title": "finalvent氏の記事をまともに受け取ってはいけない",
+    "link": "https://anond.hatelabo.jp/20250811195437",
+    "pubDate": "2025-08-11T10:55:52.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "新人エンジニア向け：今すぐ導入OKな無料AI APIまとめ（テキスト/画像/音声）",
     "link": "https://qiita.com/takuya77088/items/34f1f61a28f065c531e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-11T07:34:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GPT-5とClaude Sonnet 4でコーディング比較。ChatGPTはツールとして使い物にならない - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2025/08/11/152751",
+    "pubDate": "2025-08-11T06:59:18.000Z"
   },
   {
     "site": "Zenn",
@@ -12,10 +24,22 @@
     "pubDate": "2025-08-11T06:16:29.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeの全てを可視化！リアルタイムモニタリングダッシュボードで開発効率を最大化",
+    "link": "https://zenn.dev/sexygo/articles/claude-code-monitoring-dashboard",
+    "pubDate": "2025-08-11T06:15:53.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "【keep4o】ChatGPTを理想的なカウンセラーのように使っている人もいるが、実は臨床心理やカウンセリングの倫理では「際限なく寄り添う」ことはむしろ避けるべきとされているらしい",
     "link": "https://togetter.com/li/2587892",
     "pubDate": "2025-08-11T06:02:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "テストをするときネストをするな - Avoid Nesting when you're Testing",
+    "link": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
+    "pubDate": "Mon, 11 Aug 2025 05:54:06 GMT"
   },
   {
     "site": "Hatena",
@@ -30,28 +54,22 @@
     "pubDate": "2025-08-11T04:35:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Vitest Browser ModeにVisual Regression Testが来るぞ",
-    "link": "https://zenn.dev/apple_yagi/articles/3424f2cdad1bc6",
-    "pubDate": "2025-08-11T04:17:05.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "AI のお陰で、今エンジニアの人はめちゃくちゃおいしい時代かもしれない。｜牛尾　剛",
     "link": "https://note.com/simplearchitect/n/na43d5b84fdf1",
     "pubDate": "2025-08-11T04:08:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "musubi-tunerによるFramePack学習の私的ベストプラクティス集",
+    "link": "https://zenn.dev/hiroga/articles/framepack-lora",
+    "pubDate": "Mon, 11 Aug 2025 00:07:38 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "無料の動画生成AI「Wan2.2」が凄すぎる　PCローカルでこの品質が出せるとは (1/5)",
     "link": "https://ascii.jp/elem/000/004/312/4312173/",
     "pubDate": "2025-08-10T23:45:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "遊んでたら仕事でAI使えるようになってた。暇潰しからはじめるAI入門 | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2508-matome-ai-tips-play-and-learn/",
-    "pubDate": "2025-08-10T14:52:36.000Z"
   },
   {
     "site": "Zenn",
@@ -66,12 +84,6 @@
     "pubDate": "Sun, 10 Aug 2025 13:32:11 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code のコンテキスト残量を常に表示する",
-    "link": "https://zenn.dev/pnd/articles/claude-code-statusline",
-    "pubDate": "2025-08-10T12:14:23.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【図解解説】0からAIエージェントを実装してポートフォリオ自動生成サイトを開発する超初心者チュートリアル【VoltAgent/React/TypeScript】",
     "link": "https://qiita.com/Sicut_study/items/f0e7503e18c76e2441d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -84,28 +96,22 @@
     "pubDate": "Sun, 10 Aug 2025 06:59:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "5G SA品質、auが1位でNTTドコモはまさかの「比較対象外」――「なんちゃって5G」が今になって差が出たか",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2508/10/news020.html",
-    "pubDate": "2025-08-10T06:58:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake AI_TRANSCRIBE 関数で音声データ分析の新時代へ",
-    "link": "https://zenn.dev/tsubasa_tech/articles/65e96e2bd257ec",
-    "pubDate": "Sun, 10 Aug 2025 06:43:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Unsloth で始める gpt-oss のファインチューニング",
-    "link": "https://zenn.dev/prgckwb/articles/gpt-oss-finetuning-unsloth",
-    "pubDate": "2025-08-10T06:27:12.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "具体で学ぶBedrockのAIモデル比較・選定手順",
     "link": "https://qiita.com/hoshi7_n/items/25d5419eb92255cb52be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-10T06:25:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude CodeでMCPツール（Context7、Serena、Cipher）を活用してAIコーディングを次のレベルへ - Qiita",
+    "link": "https://qiita.com/sukimaengineer/items/845ad14a3ec2d3c39930",
+    "pubDate": "2025-08-10T06:08:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vue.js 公式 VS Code 拡張機能の Premium Features のご紹介【※有料】",
+    "link": "https://zenn.dev/comm_vue_nuxt/articles/vue_vscode_premium",
+    "pubDate": "Sat, 09 Aug 2025 19:14:23 GMT"
   },
   {
     "site": "Zenn",
@@ -132,18 +138,6 @@
     "pubDate": "Sat, 09 Aug 2025 14:52:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "泥酔 Vibe Coding の反省点（何の成果も得られませんでした）",
-    "link": "https://zenn.dev/okazuki/articles/drink-vive-coding-try-and-error",
-    "pubDate": "Sat, 09 Aug 2025 14:28:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "gpt-oss × opencode × vibe kanbanで作る完全無料のAI開発環境",
-    "link": "https://zenn.dev/y_ta/articles/gpt-oss-opencode-vibe-kanban-tutorial",
-    "pubDate": "Sat, 09 Aug 2025 12:32:41 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Strecs3D入門：インストールから応力解析ベースの3Dプリントデータ作成まで",
     "link": "https://qiita.com/tomohiron907/items/d3285c855dc7a7e7ea62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,6 +160,12 @@
     "title": "GPT-5のポンコツっぷり",
     "link": "https://qiita.com/Yh_Taguchi/items/0306097b98c500db02d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-09T06:50:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIの民主化に向けた管理画面のMCP Server化 | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/58574/",
+    "pubDate": "2025-08-09T05:44:18.000Z"
   },
   {
     "site": "Qiita",
