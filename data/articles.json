@@ -1,21 +1,63 @@
 [
   {
+    "site": "Hatena",
+    "title": "無料の動画生成AI「Wan2.2」が凄すぎる　PCローカルでこの品質が出せるとは (1/5)",
+    "link": "https://ascii.jp/elem/000/004/312/4312173/",
+    "pubDate": "2025-08-10T23:45:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "NIST SP 800-63 の Digital Identity Model について読んでみる",
+    "link": "https://zenn.dev/nbifrye/articles/0e4637d8-2a6b-404f-9237-fd78c1467417",
+    "pubDate": "Sun, 10 Aug 2025 16:44:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code のコンテキスト残量を常に表示する",
+    "link": "https://zenn.dev/pnd/articles/claude-code-statusline",
+    "pubDate": "2025-08-10T12:14:23.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GPT-5のポンコツっぷり - Qiita",
+    "link": "https://qiita.com/Yh_Taguchi/items/0306097b98c500db02d8",
+    "pubDate": "2025-08-10T09:54:37.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Rails作者のDHHが語るRubyの美しさ",
     "link": "https://zenn.dev/gmomedia/articles/dhh-ruby-beauty-podcast",
     "pubDate": "2025-08-10T08:26:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "新Codex CLIの使い方",
-    "link": "https://blog.lai.so/codex-rs-intro/",
-    "pubDate": "2025-08-10T07:58:14.000Z"
+    "site": "Qiita",
+    "title": "【図解解説】0からAIエージェントを実装してポートフォリオ自動生成サイトを開発する超初心者チュートリアル【VoltAgent/React/TypeScript】",
+    "link": "https://qiita.com/Sicut_study/items/f0e7503e18c76e2441d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-10T08:01:18.000Z"
   },
   {
     "site": "Hatena",
     "title": "ある日のコードレビュー",
     "link": "https://anond.hatelabo.jp/20250810162429",
     "pubDate": "2025-08-10T07:44:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rails作者のDHHが語るRubyの美しさ",
+    "link": "https://zenn.dev/gmomedia/articles/dhh-ruby-beauty-podcast",
+    "pubDate": "Sun, 10 Aug 2025 06:59:39 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "5G SA品質、auが1位でNTTドコモはまさかの「比較対象外」――「なんちゃって5G」が今になって差が出たか",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2508/10/news020.html",
+    "pubDate": "2025-08-10T06:58:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake AI_TRANSCRIBE 関数で音声データ分析の新時代へ",
+    "link": "https://zenn.dev/tsubasa_tech/articles/65e96e2bd257ec",
+    "pubDate": "Sun, 10 Aug 2025 06:43:58 GMT"
   },
   {
     "site": "Hatena",
@@ -30,10 +72,10 @@
     "pubDate": "2025-08-10T00:46:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグルのAI検索、米報道機関に衝撃　サイト訪問不要に　トラフィック激減で事業モデル転換模索（小久保重信） - エキスパート - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/expert/articles/c3ac742bdfa3696eb30c44556bee3c52e80fc0ec",
-    "pubDate": "2025-08-09T23:18:23.000Z"
+    "site": "Qiita",
+    "title": "AIを使ったTeXの数学資料作成術〜VsCode/GitHub Copilot/Claude4/GPT5",
+    "link": "https://qiita.com/kenjihiranabe/items/4c517037a86d5ae0983c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T23:10:36.000Z"
   },
   {
     "site": "Zenn",
@@ -72,12 +114,6 @@
     "pubDate": "Sat, 09 Aug 2025 14:28:33 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Bedrock AgentCore GatewayとIdentityを使ってSlackへアクセスしてみる",
-    "link": "https://qiita.com/har1101/items/aae967fa157b01e414a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T13:34:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "gpt-oss × opencode × vibe kanbanで作る完全無料のAI開発環境",
     "link": "https://zenn.dev/y_ta/articles/gpt-oss-opencode-vibe-kanban-tutorial",
@@ -97,27 +133,15 @@
   },
   {
     "site": "Qiita",
-    "title": "「Bedrock AgentCore」CodeInterpreter MCPサーバーをデプロイしてみよう!",
-    "link": "https://qiita.com/Syoitu/items/e841fd50d54b772ed405?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T09:57:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "3Dプリンター、あるいは試行錯誤を買う行為｜柞刈湯葉",
-    "link": "https://note.com/yubais/n/n05bfc176edb7",
-    "pubDate": "2025-08-09T07:35:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code のコンテキスト残量を常に表示する",
-    "link": "https://zenn.dev/pnd/articles/claude-code-statusline",
-    "pubDate": "Sat, 09 Aug 2025 07:20:12 GMT"
+    "title": "アクセスキーが漏洩した時、我々はどう動くべきか？",
+    "link": "https://qiita.com/takuyayone/items/09d6e3efc0c720f620c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T10:09:56.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Amazon Bedrock AgentCoreのランタイムをAWS CodePipelineで安全に更新するためのパイプラインをTerraformで構築する",
-    "link": "https://qiita.com/neruneruo/items/572e3007e5376cc08613?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T07:10:43.000Z"
+    "title": "GPT-5のポンコツっぷり",
+    "link": "https://qiita.com/Yh_Taguchi/items/0306097b98c500db02d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T06:50:11.000Z"
   },
   {
     "site": "Qiita",
@@ -126,22 +150,10 @@
     "pubDate": "2025-08-09T04:08:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AWS LambdaでRemote MCPをほぼ無料でホスティングする",
-    "link": "https://zenn.dev/zhizhiarv/articles/host-remote-mcp-on-lambda",
-    "pubDate": "Sat, 09 Aug 2025 02:31:47 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "生成AIのせいでプログラミングを学ぶモチベない人いる？",
     "link": "https://qiita.com/python_academia/items/d10a55ef42ba6a436978?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-09T00:01:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Serena有効化でClaude Code起動時にWebに飛ばされるのをやめる",
-    "link": "https://zenn.dev/soramarjr/articles/c0210f128a4d2a",
-    "pubDate": "Fri, 08 Aug 2025 16:39:41 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【宣戦布告】全AIに告ぐ GPT-5が通るから道をあけろ",
     "link": "https://qiita.com/Nicola_GenAI/items/52ea7941e5b1e25457b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-07T22:51:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ローカルPCで動くAI「gpt-oss-20b」とは？インストールから実行まで完全ガイド",
-    "link": "https://qiita.com/shota0616/items/06ba1bc00df1fc04944e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-07T16:49:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "30日以内に「月収150万円」を達成するためのChatGPTプロンプト10選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/81094",
-    "pubDate": "2025-08-07T07:17:41.000Z"
   }
 ]
