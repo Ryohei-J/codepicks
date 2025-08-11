@@ -1,9 +1,45 @@
 [
   {
+    "site": "Qiita",
+    "title": "新人エンジニア向け：今すぐ導入OKな無料AI APIまとめ（テキスト/画像/音声）",
+    "link": "https://qiita.com/takuya77088/items/34f1f61a28f065c531e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-11T07:34:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "テストをするときネストをするな - Avoid Nesting when you're Testing",
+    "link": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
+    "pubDate": "2025-08-11T06:16:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【keep4o】ChatGPTを理想的なカウンセラーのように使っている人もいるが、実は臨床心理やカウンセリングの倫理では「際限なく寄り添う」ことはむしろ避けるべきとされているらしい",
+    "link": "https://togetter.com/li/2587892",
+    "pubDate": "2025-08-11T06:02:46.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "前澤友作氏「一緒に国産SNS作りませんか？」とXで呼びかけ　掲げた「理想」は5つ、動機は詐欺広告か",
     "link": "https://www.itmedia.co.jp/mobile/articles/2508/11/news021.html",
     "pubDate": "2025-08-11T05:39:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【令和最新版】AWS Cloud9の代替となるハンズオン用ブラウザIDE紹介",
+    "link": "https://qiita.com/minorun365/items/a4a0f995f2421e649551?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-11T04:35:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vitest Browser ModeにVisual Regression Testが来るぞ",
+    "link": "https://zenn.dev/apple_yagi/articles/3424f2cdad1bc6",
+    "pubDate": "2025-08-11T04:17:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI のお陰で、今エンジニアの人はめちゃくちゃおいしい時代かもしれない。｜牛尾　剛",
+    "link": "https://note.com/simplearchitect/n/na43d5b84fdf1",
+    "pubDate": "2025-08-11T04:08:19.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AI論争：道具派 vs パートナー派 - elm200 の日記",
-    "link": "https://elm200.hatenablog.com/entry/2025/08/11/044429",
-    "pubDate": "2025-08-10T19:54:30.000Z"
+    "title": "遊んでたら仕事でAI使えるようになってた。暇潰しからはじめるAI入門 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2508-matome-ai-tips-play-and-learn/",
+    "pubDate": "2025-08-10T14:52:36.000Z"
   },
   {
     "site": "Zenn",
@@ -30,28 +66,10 @@
     "pubDate": "Sun, 10 Aug 2025 13:32:11 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "ローカルPCで動くAI「gpt-oss-20b」とは？インストールから実行まで完全ガイド - Qiita",
-    "link": "https://qiita.com/shota0616/items/06ba1bc00df1fc04944e",
-    "pubDate": "2025-08-10T12:49:21.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code のコンテキスト残量を常に表示する",
     "link": "https://zenn.dev/pnd/articles/claude-code-statusline",
     "pubDate": "2025-08-10T12:14:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GPT-5のポンコツっぷり - Qiita",
-    "link": "https://qiita.com/Yh_Taguchi/items/0306097b98c500db02d8",
-    "pubDate": "2025-08-10T09:54:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rails作者のDHHが語るRubyの美しさ",
-    "link": "https://zenn.dev/gmomedia/articles/dhh-ruby-beauty-podcast",
-    "pubDate": "2025-08-10T08:26:35.000Z"
   },
   {
     "site": "Qiita",
@@ -85,9 +103,9 @@
   },
   {
     "site": "Qiita",
-    "title": "AIを使ったTeXの数学資料作成術〜VsCode/GitHub Copilot/Claude4/GPT5",
-    "link": "https://qiita.com/kenjihiranabe/items/4c517037a86d5ae0983c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T23:10:36.000Z"
+    "title": "具体で学ぶBedrockのAIモデル比較・選定手順",
+    "link": "https://qiita.com/hoshi7_n/items/25d5419eb92255cb52be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-10T06:25:50.000Z"
   },
   {
     "site": "Zenn",
@@ -139,15 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "GPT-5のポンコツっぷり",
-    "link": "https://qiita.com/Yh_Taguchi/items/0306097b98c500db02d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T06:50:11.000Z"
+    "title": "AIを使ってAWSのSAAに合格した話",
+    "link": "https://qiita.com/tenko1729/items/2f583af6dc0d1d9f9a62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T09:47:50.000Z"
   },
   {
     "site": "Qiita",
-    "title": "手元のKiroを世界と繋げる　Tavily Remote MCP Server設定",
-    "link": "https://qiita.com/sh_fk2/items/cff66119c3f2145282c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T04:08:23.000Z"
+    "title": "GPT-5のポンコツっぷり",
+    "link": "https://qiita.com/Yh_Taguchi/items/0306097b98c500db02d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T06:50:11.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "新卒こそメモはMarkdownで取れ！",
     "link": "https://qiita.com/im_yoneda/items/d706a050b823595f0959?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-08T09:12:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "データサイエンスのための数学入門",
-    "link": "https://www.oreilly.co.jp//books/9784814401260/",
-    "pubDate": "2025-08-08T08:55:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ジュニアエンジニアがClaude Codeでバイブコーディングした結果、上司に迷惑をかけた話",
-    "link": "https://qiita.com/MIDO-ruby7/items/177f4341af8b19984b80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-08T03:57:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【宣戦布告】全AIに告ぐ GPT-5が通るから道をあけろ",
-    "link": "https://qiita.com/Nicola_GenAI/items/52ea7941e5b1e25457b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-07T22:51:49.000Z"
   }
 ]
