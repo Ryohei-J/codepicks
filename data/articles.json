@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "【サクッと実装】CloudFront Functionsでつくる軽量メンテナンスページ - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/create-maintenance-page-with-cloudfront-functions",
+    "pubDate": "2025-08-11T23:17:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トランプ大統領「NVIDIAはH20の中国売り上げの15％を米国に」でファンCEOと合意",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/12/news049.html",
+    "pubDate": "2025-08-11T22:04:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "laminate - 文字列からの画像生成を一元管理するコマンドラインツール | おそらくはそれさえも平凡な日々",
+    "link": "https://songmu.jp/riji/entry/2025-08-12-laminate.html",
+    "pubDate": "2025-08-11T15:45:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "インプレス、上場廃止後の新体制に。新社長には塚本慶一郎氏の子である塚本由紀氏が就任",
+    "link": "https://www.publickey1.jp/blog/25/post_307.html",
+    "pubDate": "2025-08-11T15:01:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPT4oを思い出して「コミュニケーションするAI」について考える - シロクマの屑籠",
+    "link": "https://p-shirokuma.hatenadiary.com/entry/20250811/1754914431",
+    "pubDate": "2025-08-11T12:47:48.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "finalvent氏の記事をまともに受け取ってはいけない",
     "link": "https://anond.hatelabo.jp/20250811195437",
     "pubDate": "2025-08-11T10:55:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【作業ログ+解説】Spring Boot 公式チュートリアル",
+    "link": "https://zenn.dev/hiroto_ohira/articles/2eb00443ff9a4d",
+    "pubDate": "Mon, 11 Aug 2025 08:16:12 GMT"
   },
   {
     "site": "Qiita",
@@ -21,24 +57,6 @@
     "site": "Zenn",
     "title": "テストをするときネストをするな - Avoid Nesting when you're Testing",
     "link": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
-    "pubDate": "2025-08-11T06:16:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの全てを可視化！リアルタイムモニタリングダッシュボードで開発効率を最大化",
-    "link": "https://zenn.dev/sexygo/articles/claude-code-monitoring-dashboard",
-    "pubDate": "2025-08-11T06:15:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【keep4o】ChatGPTを理想的なカウンセラーのように使っている人もいるが、実は臨床心理やカウンセリングの倫理では「際限なく寄り添う」ことはむしろ避けるべきとされているらしい",
-    "link": "https://togetter.com/li/2587892",
-    "pubDate": "2025-08-11T06:02:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "テストをするときネストをするな - Avoid Nesting when you're Testing",
-    "link": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
     "pubDate": "Mon, 11 Aug 2025 05:54:06 GMT"
   },
   {
@@ -46,6 +64,12 @@
     "title": "前澤友作氏「一緒に国産SNS作りませんか？」とXで呼びかけ　掲げた「理想」は5つ、動機は詐欺広告か",
     "link": "https://www.itmedia.co.jp/mobile/articles/2508/11/news021.html",
     "pubDate": "2025-08-11T05:39:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Setup手順はREADMEに書かない！Claude Codeカスタムコマンドで進めるViable Codingの開発フロー",
+    "link": "https://zenn.dev/rgbkids/articles/6773cb8f146f15",
+    "pubDate": "Mon, 11 Aug 2025 04:46:01 GMT"
   },
   {
     "site": "Qiita",
@@ -61,15 +85,33 @@
   },
   {
     "site": "Zenn",
+    "title": "クリーンアーキテクチャ × DDD を実例で理解する",
+    "link": "https://zenn.dev/keitashimura/articles/a28728a9dcbf9e",
+    "pubDate": "Mon, 11 Aug 2025 02:54:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ADoc設計文書からDraw.io XML自動生成ガイド ～AI活用による高品質フローチャート作成の実践手法～",
+    "link": "https://zenn.dev/tetsu_san/articles/6694be7e6db016",
+    "pubDate": "Mon, 11 Aug 2025 02:25:18 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【PHP8.5】PHP8.5の新機能",
+    "link": "https://qiita.com/rana_kualu/items/76e4ff0ec6b277a38594?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-11T02:08:34.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "musubi-tunerによるFramePack学習の私的ベストプラクティス集",
     "link": "https://zenn.dev/hiroga/articles/framepack-lora",
     "pubDate": "Mon, 11 Aug 2025 00:07:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "無料の動画生成AI「Wan2.2」が凄すぎる　PCローカルでこの品質が出せるとは (1/5)",
-    "link": "https://ascii.jp/elem/000/004/312/4312173/",
-    "pubDate": "2025-08-10T23:45:35.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeで開発効率85%UP！AIとの往復を20回→3回に減らす実践テクニック",
+    "link": "https://zenn.dev/sakupanda/articles/ecb4ae7e9a240e",
+    "pubDate": "Sun, 10 Aug 2025 22:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -85,6 +127,12 @@
   },
   {
     "site": "Qiita",
+    "title": "「なんかアプリが遅い…」その原因、コードじゃないかも？",
+    "link": "https://qiita.com/sawachan114/items/1613f80174206d3d6644?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-10T13:02:16.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【図解解説】0からAIエージェントを実装してポートフォリオ自動生成サイトを開発する超初心者チュートリアル【VoltAgent/React/TypeScript】",
     "link": "https://qiita.com/Sicut_study/items/f0e7503e18c76e2441d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-10T08:01:18.000Z"
@@ -97,57 +145,21 @@
   },
   {
     "site": "Qiita",
-    "title": "具体で学ぶBedrockのAIモデル比較・選定手順",
-    "link": "https://qiita.com/hoshi7_n/items/25d5419eb92255cb52be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-10T06:25:50.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude CodeでMCPツール（Context7、Serena、Cipher）を活用してAIコーディングを次のレベルへ - Qiita",
     "link": "https://qiita.com/sukimaengineer/items/845ad14a3ec2d3c39930",
     "pubDate": "2025-08-10T06:08:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Vue.js 公式 VS Code 拡張機能の Premium Features のご紹介【※有料】",
-    "link": "https://zenn.dev/comm_vue_nuxt/articles/vue_vscode_premium",
-    "pubDate": "Sat, 09 Aug 2025 19:14:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Unsloth で始める gpt-oss のファインチューニング",
-    "link": "https://zenn.dev/prgckwb/articles/gpt-oss-finetuning-unsloth",
-    "pubDate": "Sat, 09 Aug 2025 16:33:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "All you need is booze for vibe coding",
-    "link": "https://zenn.dev/yuhei_fujita/articles/all-you-need-is-booze-for-vibe-coding",
-    "pubDate": "Sat, 09 Aug 2025 15:47:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "真面目に泥酔するな！安全な「泥酔バイブコーディング」ガイド",
-    "link": "https://zenn.dev/yuma_prog/articles/deisui-vibecoding",
-    "pubDate": "Sat, 09 Aug 2025 15:03:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codex CLI で GPT-5 をChatGPTプランで使ってみた[使い方と感想]",
-    "link": "https://zenn.dev/service/articles/2464a141c2ddaa",
-    "pubDate": "Sat, 09 Aug 2025 14:52:56 GMT"
+    "site": "Qiita",
+    "title": "地方学生の僕が、東京でのインターン期間に人生を変えた話",
+    "link": "https://qiita.com/saitojo1106/items/dbde5acff19a0a88f45d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T15:34:41.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Strecs3D入門：インストールから応力解析ベースの3Dプリントデータ作成まで",
-    "link": "https://qiita.com/tomohiron907/items/d3285c855dc7a7e7ea62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T11:17:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "アクセスキーが漏洩した時、我々はどう動くべきか？",
-    "link": "https://qiita.com/takuyayone/items/09d6e3efc0c720f620c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T10:09:56.000Z"
+    "title": "GPT-5がなぜ不評なのかわかった",
+    "link": "https://qiita.com/peka2/items/2114875985d6b8cd1908?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-09T10:57:23.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "2025-08-09T06:50:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIの民主化に向けた管理画面のMCP Server化 | CyberAgent Developers Blog",
-    "link": "https://developers.cyberagent.co.jp/blog/archives/58574/",
-    "pubDate": "2025-08-09T05:44:18.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "生成AIのせいでプログラミングを学ぶモチベない人いる？",
     "link": "https://qiita.com/python_academia/items/d10a55ef42ba6a436978?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-09T00:01:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新卒こそメモはMarkdownで取れ！",
-    "link": "https://qiita.com/im_yoneda/items/d706a050b823595f0959?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-08T09:12:56.000Z"
   }
 ]
