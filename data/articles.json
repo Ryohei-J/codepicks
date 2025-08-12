@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Code完全ガイド｜AI開発者が全自動コーディングを実現する方法｜たつはら",
+    "link": "https://note.com/tacyan/n/n97dfaddf952a",
+    "pubDate": "2025-08-12T08:27:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「音のない重低音」を鳴らすスピーカー、筑波大が開発　腹筋に電気刺激、重低音を再現",
     "link": "https://www.itmedia.co.jp/news/articles/2508/12/news097.html",
     "pubDate": "2025-08-12T07:19:29.000Z"
@@ -24,22 +30,16 @@
     "pubDate": "2025-08-12T03:59:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GPT-5が4oよりナーフされてることを証明してみた｜まはー",
-    "link": "https://note.com/maha0525/n/nce310530ce40",
-    "pubDate": "2025-08-12T02:43:08.000Z"
+    "site": "Zenn",
+    "title": "「RAG」の将来について。「GPT-5」開発者の発言から",
+    "link": "https://zenn.dev/knowledgesense/articles/06daa8f19a6805",
+    "pubDate": "2025-08-12T02:29:54.000Z"
   },
   {
     "site": "Hatena",
     "title": "応用情報技術者試験、高度試験及び情報処理安全確保支援士試験におけるCBT方式での実施について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
     "link": "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc-cbt.html",
     "pubDate": "2025-08-12T02:26:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code時代に求められる「快適な開発環境」という土台｜すてぃお",
-    "link": "https://note.com/suthio/n/n38efcbd10147",
-    "pubDate": "2025-08-12T00:58:01.000Z"
   },
   {
     "site": "Hatena",
@@ -72,6 +72,12 @@
     "pubDate": "2025-08-11T18:20:41.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "高度演算処理を必要とするPCを10万以内で自作する方法",
+    "link": "https://zenn.dev/nonnoise/articles/fc1ce150ac3ac6",
+    "pubDate": "Mon, 11 Aug 2025 17:16:35 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Linux創設者、Google製コードを「ゴミ」と一蹴 | XenoSpectrum",
     "link": "https://xenospectrum.com/linus-torvalds-rejects-google-risc-v-code-garbage/",
@@ -91,21 +97,21 @@
   },
   {
     "site": "Zenn",
-    "title": "【AI駆動開発で学びを最大化する方法 】あれ、僕は何も成長してない…からの脱却",
-    "link": "https://zenn.dev/sunagaku/articles/e4c2ef701a11c2",
-    "pubDate": "Mon, 11 Aug 2025 07:11:05 GMT"
+    "title": "MasterMemoryから学ぶDictionaryより効率的なゲームのマスターデータ管理方法",
+    "link": "https://zenn.dev/clay_andromeda/articles/mini-master-memory",
+    "pubDate": "Mon, 11 Aug 2025 12:12:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "TypeScript では T[] ではなく ReadonlyArray<T> を使おう",
+    "link": "https://zenn.dev/narumincho/articles/typescript-readonly-array",
+    "pubDate": "Mon, 11 Aug 2025 09:00:05 GMT"
   },
   {
     "site": "Zenn",
     "title": "テストをするときネストをするな - Avoid Nesting when you're Testing",
     "link": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
     "pubDate": "Mon, 11 Aug 2025 05:54:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code ユーザーが、Codex CLI を使うためにした工夫と運用Tips",
-    "link": "https://zenn.dev/yourstand_blog/articles/codex-cli-by-claude-code-user",
-    "pubDate": "Mon, 11 Aug 2025 05:13:20 GMT"
   },
   {
     "site": "Zenn",
@@ -130,12 +136,6 @@
     "title": "【PHP8.5】PHP8.5の新機能",
     "link": "https://qiita.com/rana_kualu/items/76e4ff0ec6b277a38594?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-11T02:08:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "musubi-tunerによるFramePack学習の私的ベストプラクティス集",
-    "link": "https://zenn.dev/hiroga/articles/framepack-lora",
-    "pubDate": "Mon, 11 Aug 2025 00:07:38 GMT"
   },
   {
     "site": "Zenn",
