@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "「音のない重低音」を鳴らすスピーカー、筑波大が開発　腹筋に電気刺激、重低音を再現",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/12/news097.html",
+    "pubDate": "2025-08-12T07:19:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "こっそり買ったアレが白日の下に？ Amazonの「非表示にした注文」が8月19日から注文履歴ページで開示へ【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2038472.html",
+    "pubDate": "2025-08-12T05:49:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "約半数の人が「パートナーに週3以上出社してほしい」　「気が休まらない」などの声",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/12/news075.html",
+    "pubDate": "2025-08-12T04:36:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 for文#1 〜for文を完全攻略！-基本構文編-～",
+    "link": "https://qiita.com/hitomin_poke/items/5a2c9bfe8ab27db83278?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-12T03:59:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GPT-5が4oよりナーフされてることを証明してみた｜まはー",
     "link": "https://note.com/maha0525/n/nce310530ce40",
     "pubDate": "2025-08-12T02:43:08.000Z"
@@ -10,6 +34,12 @@
     "title": "応用情報技術者試験、高度試験及び情報処理安全確保支援士試験におけるCBT方式での実施について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
     "link": "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc-cbt.html",
     "pubDate": "2025-08-12T02:26:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code時代に求められる「快適な開発環境」という土台｜すてぃお",
+    "link": "https://note.com/suthio/n/n38efcbd10147",
+    "pubDate": "2025-08-12T00:58:01.000Z"
   },
   {
     "site": "Hatena",
@@ -24,46 +54,58 @@
     "pubDate": "2025-08-11T23:44:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【Hothotレビュー】 PCマニアの魂をくすぐるUMPCが6年ぶりの進化！「GPD MicroPC 2」性能も操作性も“本物”だった",
-    "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2038191.html",
-    "pubDate": "2025-08-11T22:09:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPT4oを思い出して「コミュニケーションするAI」について考える - シロクマの屑籠",
-    "link": "https://p-shirokuma.hatenadiary.com/entry/20250811/1754914431",
-    "pubDate": "2025-08-11T12:47:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "finalvent氏の記事をまともに受け取ってはいけない",
-    "link": "https://anond.hatelabo.jp/20250811195437",
-    "pubDate": "2025-08-11T10:55:52.000Z"
+    "site": "Zenn",
+    "title": "Denoのフロントエンド開発の動向【2025年夏】",
+    "link": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer",
+    "pubDate": "Mon, 11 Aug 2025 23:34:33 GMT"
   },
   {
     "site": "Zenn",
-    "title": "【作業ログ+解説】Spring Boot 公式チュートリアル",
-    "link": "https://zenn.dev/hiroto_ohira/articles/2eb00443ff9a4d",
-    "pubDate": "Mon, 11 Aug 2025 08:16:12 GMT"
+    "title": "「RAG」の将来について。「GPT-5」開発者の発言から",
+    "link": "https://zenn.dev/knowledgesense/articles/06daa8f19a6805",
+    "pubDate": "Mon, 11 Aug 2025 23:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "新人エンジニア向け：今すぐ導入OKな無料AI APIまとめ（テキスト/画像/音声）",
-    "link": "https://qiita.com/takuya77088/items/34f1f61a28f065c531e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-11T07:34:14.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeで開発効率85%UP！AIとの往復を20回→3回に減らす実践テクニック",
+    "link": "https://zenn.dev/sakupanda/articles/ecb4ae7e9a240e",
+    "pubDate": "2025-08-11T18:20:41.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GPT-5とClaude Sonnet 4でコーディング比較。ChatGPTはツールとして使い物にならない - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2025/08/11/152751",
-    "pubDate": "2025-08-11T06:59:18.000Z"
+    "title": "Linux創設者、Google製コードを「ゴミ」と一蹴 | XenoSpectrum",
+    "link": "https://xenospectrum.com/linus-torvalds-rejects-google-risc-v-code-garbage/",
+    "pubDate": "2025-08-11T15:16:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "アプリケーション デザイン",
+    "link": "https://zenn.dev/megyo9/articles/0b021629b5113f",
+    "pubDate": "Mon, 11 Aug 2025 13:43:51 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "高火力VRT さくらのクラウド型GPU付仮想サーバでgpt-ossを起動する",
+    "link": "https://zenn.dev/kameoncloud/articles/6144b8d0fcc38d",
+    "pubDate": "Mon, 11 Aug 2025 12:43:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【AI駆動開発で学びを最大化する方法 】あれ、僕は何も成長してない…からの脱却",
+    "link": "https://zenn.dev/sunagaku/articles/e4c2ef701a11c2",
+    "pubDate": "Mon, 11 Aug 2025 07:11:05 GMT"
   },
   {
     "site": "Zenn",
     "title": "テストをするときネストをするな - Avoid Nesting when you're Testing",
     "link": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
     "pubDate": "Mon, 11 Aug 2025 05:54:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code ユーザーが、Codex CLI を使うためにした工夫と運用Tips",
+    "link": "https://zenn.dev/yourstand_blog/articles/codex-cli-by-claude-code-user",
+    "pubDate": "Mon, 11 Aug 2025 05:13:20 GMT"
   },
   {
     "site": "Zenn",
@@ -78,22 +120,10 @@
     "pubDate": "2025-08-11T04:35:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI のお陰で、今エンジニアの人はめちゃくちゃおいしい時代かもしれない。｜牛尾　剛",
-    "link": "https://note.com/simplearchitect/n/na43d5b84fdf1",
-    "pubDate": "2025-08-11T04:08:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "クリーンアーキテクチャ × DDD を実例で理解する",
-    "link": "https://zenn.dev/keitashimura/articles/a28728a9dcbf9e",
-    "pubDate": "Mon, 11 Aug 2025 02:54:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ADoc設計文書からDraw.io XML自動生成ガイド ～AI活用による高品質フローチャート作成の実践手法～",
-    "link": "https://zenn.dev/tetsu_san/articles/6694be7e6db016",
-    "pubDate": "Mon, 11 Aug 2025 02:25:18 GMT"
+    "site": "Qiita",
+    "title": "Obsidian + Gemini CLIでほぼ30分でQiita記事作成",
+    "link": "https://qiita.com/mare13137/items/7ed5e7d9fabe5c24695e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-11T03:37:41.000Z"
   },
   {
     "site": "Qiita",
@@ -114,16 +144,10 @@
     "pubDate": "Sun, 10 Aug 2025 22:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "rustwasm の各プロジェクトがどうなったか調べる（2025-08-10 時点）",
-    "link": "https://zenn.dev/lemonadern/articles/bb8fd4715dd33f",
-    "pubDate": "Sun, 10 Aug 2025 13:55:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vitest Browser ModeにVisual Regression Testが来るぞ",
-    "link": "https://zenn.dev/apple_yagi/articles/3424f2cdad1bc6",
-    "pubDate": "Sun, 10 Aug 2025 13:32:11 GMT"
+    "site": "Qiita",
+    "title": "Vimでコピぺする時に置き換え元の文字でクリップボードを上書きしないいくつかの方法",
+    "link": "https://qiita.com/mitsu-yuki/items/566cd8634abe10a3341e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-10T15:10:45.000Z"
   },
   {
     "site": "Qiita",
@@ -136,18 +160,6 @@
     "title": "【図解解説】0からAIエージェントを実装してポートフォリオ自動生成サイトを開発する超初心者チュートリアル【VoltAgent/React/TypeScript】",
     "link": "https://qiita.com/Sicut_study/items/f0e7503e18c76e2441d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-10T08:01:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rails作者のDHHが語るRubyの美しさ",
-    "link": "https://zenn.dev/gmomedia/articles/dhh-ruby-beauty-podcast",
-    "pubDate": "Sun, 10 Aug 2025 06:59:39 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeでMCPツール（Context7、Serena、Cipher）を活用してAIコーディングを次のレベルへ - Qiita",
-    "link": "https://qiita.com/sukimaengineer/items/845ad14a3ec2d3c39930",
-    "pubDate": "2025-08-10T06:08:52.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "AIを使ってAWSのSAAに合格した話",
     "link": "https://qiita.com/tenko1729/items/2f583af6dc0d1d9f9a62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-09T09:47:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GPT-5のポンコツっぷり",
-    "link": "https://qiita.com/Yh_Taguchi/items/0306097b98c500db02d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T06:50:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成AIのせいでプログラミングを学ぶモチベない人いる？",
-    "link": "https://qiita.com/python_academia/items/d10a55ef42ba6a436978?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T00:01:35.000Z"
   }
 ]
