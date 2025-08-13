@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "ヤバすぎ…AIでWebの「調べもの」が激変、フリーランサーの仕事がマジで消えた",
+    "link": "https://www.sbbit.jp/article/cont1/169763",
+    "pubDate": "2025-08-12T22:51:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TypeScript では T[] ではなく ReadonlyArray<T> を使おう",
+    "link": "https://zenn.dev/narumincho/articles/typescript-readonly-array",
+    "pubDate": "2025-08-12T15:30:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GPT出力劣化の完全メカニズム解明-日本語の書いての3文字が全てを崩してた-｜Viorazu. – Foundational Persona of Resonant LLMs",
+    "link": "https://note.com/viorazu/n/nbd8f44c83488",
+    "pubDate": "2025-08-12T11:19:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Code完全ガイド｜AI開発者が全自動コーディングを実現する方法｜たつはら",
     "link": "https://note.com/tacyan/n/n97dfaddf952a",
     "pubDate": "2025-08-12T08:27:39.000Z"
@@ -13,15 +31,9 @@
   },
   {
     "site": "Hatena",
-    "title": "こっそり買ったアレが白日の下に？ Amazonの「非表示にした注文」が8月19日から注文履歴ページで開示へ【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2038472.html",
-    "pubDate": "2025-08-12T05:49:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "約半数の人が「パートナーに週3以上出社してほしい」　「気が休まらない」などの声",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/12/news075.html",
-    "pubDate": "2025-08-12T04:36:40.000Z"
+    "title": "10万円を切るMacBook、年内登場か",
+    "link": "https://japan.cnet.com/article/35236603/",
+    "pubDate": "2025-08-12T04:10:02.000Z"
   },
   {
     "site": "Qiita",
@@ -30,28 +42,46 @@
     "pubDate": "2025-08-12T03:59:40.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【2025年最新版】初心者エンジニアが選ぶAIプログラミングアシスタントTop10",
+    "link": "https://qiita.com/Nakamura-Kaito/items/11da91612a0fbe673f7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-12T03:51:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OSSにコミットしようとしたが、不要になった話",
+    "link": "https://zenn.dev/tan_t/articles/9df39b6592ba85",
+    "pubDate": "Tue, 12 Aug 2025 02:52:14 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "「RAG」の将来について。「GPT-5」開発者の発言から",
     "link": "https://zenn.dev/knowledgesense/articles/06daa8f19a6805",
     "pubDate": "2025-08-12T02:29:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "応用情報技術者試験、高度試験及び情報処理安全確保支援士試験におけるCBT方式での実施について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
-    "link": "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc-cbt.html",
-    "pubDate": "2025-08-12T02:26:41.000Z"
+    "site": "Zenn",
+    "title": "Dev Containers上でClaude Codeの認証が安定しない問題",
+    "link": "https://zenn.dev/nstock/articles/2c1ea72861f87c",
+    "pubDate": "Tue, 12 Aug 2025 02:26:26 GMT"
   },
   {
     "site": "Hatena",
-    "title": "メールアドレスか電話番号を入力し6桁のコードが送信されてログインする仕組みは「最悪のパスワードシステム」なので今すぐ改修が必要という指摘",
-    "link": "https://gigazine.net/news/20250812-login-code/",
-    "pubDate": "2025-08-11T23:47:11.000Z"
+    "title": "昔匿名チャットで話した二人との会話",
+    "link": "https://anond.hatelabo.jp/20250812110832",
+    "pubDate": "2025-08-12T02:08:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「運動不足」と「食べ過ぎ」、より肥満の原因になるのは？　都市住民や狩猟採集民など4000人以上で検証",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/08/news029.html",
-    "pubDate": "2025-08-11T23:44:46.000Z"
+    "site": "Zenn",
+    "title": "新卒エンジニアが Claude Code にコントリビュートした話 - Docker DNS問題を解決できた🎊",
+    "link": "https://zenn.dev/gmomedia/articles/e428a8e951a581",
+    "pubDate": "Tue, 12 Aug 2025 01:07:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "「翻訳すれば終わり」じゃなかった！海外向けサイトを作るならCookieBot必須！",
+    "link": "https://qiita.com/GIFCat/items/f674287b53023d7cf495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-12T00:00:02.000Z"
   },
   {
     "site": "Zenn",
@@ -103,27 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "TypeScript では T[] ではなく ReadonlyArray<T> を使おう",
-    "link": "https://zenn.dev/narumincho/articles/typescript-readonly-array",
-    "pubDate": "Mon, 11 Aug 2025 09:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "テストをするときネストをするな - Avoid Nesting when you're Testing",
-    "link": "https://zenn.dev/jay_es/articles/2025-08-11-avoid-nesting-when-youre-testing",
-    "pubDate": "Mon, 11 Aug 2025 05:54:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Setup手順はREADMEに書かない！Claude Codeカスタムコマンドで進めるViable Codingの開発フロー",
-    "link": "https://zenn.dev/rgbkids/articles/6773cb8f146f15",
-    "pubDate": "Mon, 11 Aug 2025 04:46:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【令和最新版】AWS Cloud9の代替となるハンズオン用ブラウザIDE紹介",
-    "link": "https://qiita.com/minorun365/items/a4a0f995f2421e649551?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-11T04:35:50.000Z"
+    "title": "半年で5つの個人開発プロダクトを作ってわかったこと",
+    "link": "https://zenn.dev/dononbe/articles/541621725f9252",
+    "pubDate": "Mon, 11 Aug 2025 10:36:03 GMT"
   },
   {
     "site": "Qiita",
@@ -136,12 +148,6 @@
     "title": "【PHP8.5】PHP8.5の新機能",
     "link": "https://qiita.com/rana_kualu/items/76e4ff0ec6b277a38594?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-11T02:08:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで開発効率85%UP！AIとの往復を20回→3回に減らす実践テクニック",
-    "link": "https://zenn.dev/sakupanda/articles/ecb4ae7e9a240e",
-    "pubDate": "Sun, 10 Aug 2025 22:00:01 GMT"
   },
   {
     "site": "Qiita",
@@ -157,26 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "【図解解説】0からAIエージェントを実装してポートフォリオ自動生成サイトを開発する超初心者チュートリアル【VoltAgent/React/TypeScript】",
+    "title": "【図解解説】AIエージェントを0から開発！基礎からできる初心者チュートリアル【VoltAgent/React/TypeScript】",
     "link": "https://qiita.com/Sicut_study/items/f0e7503e18c76e2441d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-10T08:01:18.000Z"
   },
   {
     "site": "Qiita",
-    "title": "地方学生の僕が、東京でのインターン期間に人生を変えた話",
-    "link": "https://qiita.com/saitojo1106/items/dbde5acff19a0a88f45d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T15:34:41.000Z"
+    "title": "そのコメント、本当に必要？コードの価値を高めるコメント、下げるコメント",
+    "link": "https://qiita.com/Ryuta-prog/items/014c3545b8c26bfa82a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-10T03:37:55.000Z"
   },
   {
     "site": "Qiita",
-    "title": "GPT-5がなぜ不評なのかわかった",
-    "link": "https://qiita.com/peka2/items/2114875985d6b8cd1908?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T10:57:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIを使ってAWSのSAAに合格した話",
-    "link": "https://qiita.com/tenko1729/items/2f583af6dc0d1d9f9a62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-09T09:47:50.000Z"
+    "title": "エクスプローラーの右クリックメニューからVSCodeで開くが消えた！",
+    "link": "https://qiita.com/nori-dev-akg/items/52fee1b368e46acbc0ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-10T03:15:35.000Z"
   }
 ]
