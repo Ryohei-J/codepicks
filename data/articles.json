@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "令和 3 年秋期応用情報技術者試験のコンテナ型仮想化に関する問題からコンテナを考える - TenForward",
+    "link": "https://tenforward.hatenablog.com/entry/2025/08/14/022826",
+    "pubDate": "2025-08-13T23:23:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIによるソフトウェア開発の収束地点 - Hack Fes 2025",
+    "link": "https://speakerdeck.com/vaaaaanquish/sheng-cheng-ainiyorusohutoueakai-fa-noshou-shu-di-dian-hack-fes-2025",
+    "pubDate": "2025-08-13T23:09:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog",
+    "link": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
+    "pubDate": "2025-08-13T22:39:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "出向先の社外秘資料を撮影して持ち出していた事案についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2025/08/14/000155",
+    "pubDate": "2025-08-13T15:33:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GPT-5の凄い能力～論文を読ませて応用課題が解けるようになった……と思ったけど、Gemini 2.5 Proも解けるようになっていた件",
+    "link": "https://zenn.dev/kmizu/articles/8c12550ad3e1d3",
+    "pubDate": "2025-08-13T13:51:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code で git-grep を使うと幸せになれる、かもしれない",
+    "link": "https://zenn.dev/socialdog/articles/claude-code-with-git-grep",
+    "pubDate": "Wed, 13 Aug 2025 09:35:42 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "わずか2.5GBの衝撃!ご家庭でPerplexityみたいなものが動くヨ!みんなもうコレにしようぜ｜shi3z",
     "link": "https://note.com/shi3zblog/n/ne192f302c651",
     "pubDate": "2025-08-13T09:13:05.000Z"
@@ -13,9 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "”優しく残酷”なAI時代を勝ち抜くために、僕は「意思決定ができるエンジニア」を育てたい｜naro143",
-    "link": "https://note.com/naro143/n/n567573af6335",
-    "pubDate": "2025-08-13T08:54:39.000Z"
+    "title": "PRごとのテスト生成を支援するJust in Time Testという仕組み - freee Developers Hub",
+    "link": "https://developers.freee.co.jp/entry/jittest_intro",
+    "pubDate": "2025-08-13T08:34:53.000Z"
   },
   {
     "site": "Hatena",
@@ -24,16 +60,22 @@
     "pubDate": "2025-08-13T07:16:55.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "MCP 基礎知識 & MCP 公式の MCP サーバ自作チュートリアル (C#) やってみた",
+    "link": "https://qiita.com/chomado/items/968eca2a96873ccad938?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-13T06:03:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "[トラブルシューティング] 自作 MCP サーバが Claude Desktop と繋がらない",
+    "link": "https://qiita.com/chomado/items/3008e4c17ead41be1501?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-13T05:39:42.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "東大・松尾研、2024年度「大規模言語モデル講座」の講義スライド資料を無料公開／LLMの活用法からモデル構造、応用まで幅広く学べる",
     "link": "https://forest.watch.impress.co.jp/docs/news/2038528.html",
     "pubDate": "2025-08-13T05:24:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "グロック、「イスラエルと米国がガザでジェノサイド」発言後Xアカ一時停止 「マスク氏が検閲」",
-    "link": "https://www.afpbb.com/articles/-/3593290",
-    "pubDate": "2025-08-13T05:04:32.000Z"
   },
   {
     "site": "Qiita",
@@ -43,15 +85,21 @@
   },
   {
     "site": "Zenn",
-    "title": "「LLMはコンテキストがすべて」かもしれない",
-    "link": "https://zenn.dev/karaage0703/articles/76f2a1b20cd6c1",
-    "pubDate": "2025-08-13T00:51:50.000Z"
+    "title": "Claude Codeでできることを一通りまとめてみた",
+    "link": "https://zenn.dev/kg_motors_mibot/articles/f46c6927c409fc",
+    "pubDate": "Wed, 13 Aug 2025 01:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ヤバすぎ…AIでWebの「調べもの」が激変、フリーランサーの仕事がマジで消えた",
-    "link": "https://www.sbbit.jp/article/cont1/169763",
-    "pubDate": "2025-08-12T22:51:19.000Z"
+    "site": "Zenn",
+    "title": "【TypeScript】enumを使ったっていいじゃないか",
+    "link": "https://zenn.dev/rikson/articles/2025-08-13_rikson_let-me-use-enums-in-typescript",
+    "pubDate": "Tue, 12 Aug 2025 23:47:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWSのAPI GatewayとCognitoを使ってOAuth認可付きリモートMCPサーバーをつくる",
+    "link": "https://zenn.dev/manaty226/articles/20250614_aws-mcp-managed-architecture",
+    "pubDate": "Tue, 12 Aug 2025 22:56:28 GMT"
   },
   {
     "site": "Zenn",
@@ -60,10 +108,10 @@
     "pubDate": "Tue, 12 Aug 2025 22:30:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Lumina Image 2.0 アーキテクチャとちょっと Neta Lumina",
-    "link": "https://zenn.dev/platina/articles/lumina2-architecture",
-    "pubDate": "Tue, 12 Aug 2025 16:52:13 GMT"
+    "site": "Qiita",
+    "title": "【完全版】Cursor CLI チートシート - ターミナルでAIと仲良くコーディングする方法",
+    "link": "https://qiita.com/akira_papa_AI/items/bd63f381d3e5827a3c1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-12T17:01:59.000Z"
   },
   {
     "site": "Zenn",
@@ -72,22 +120,16 @@
     "pubDate": "Tue, 12 Aug 2025 16:04:56 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "なぜUUIDはほとんど重複しないのか：Pythonで解説",
+    "link": "https://qiita.com/isaac_leapcell/items/c3ab2754e9a77e03de46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-12T14:15:28.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Gitはどのようにファイルを管理しているのか？",
     "link": "https://zenn.dev/gatechnologies/articles/1651efa774e24e",
     "pubDate": "Tue, 12 Aug 2025 12:35:30 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアのための「中身のある話」の作り方 - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/08/12/210021",
-    "pubDate": "2025-08-12T12:18:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JSONとRDBのいいとこ取り！JSONリレーショナル二面性ビューの基本と実践",
-    "link": "https://qiita.com/take-yoda/items/d7b0a66aab6e91c02882?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-12T08:07:10.000Z"
   },
   {
     "site": "Qiita",
@@ -121,62 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "「翻訳すれば終わり」じゃなかった！海外向けサイトを作るならCookieBot必須！",
-    "link": "https://qiita.com/GIFCat/items/f674287b53023d7cf495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-12T00:00:02.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "音楽も映像も知識ゼロ。それでも生成AIを使えば無料でMVは作れるのか？",
     "link": "https://qiita.com/Takahito_Omiya/items/8cb0834602c13ad49d3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-11T23:50:14.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Denoのフロントエンド開発の動向【2025年夏】",
-    "link": "https://zenn.dev/uki00a/articles/frontend-development-in-deno-2025-summer",
-    "pubDate": "Mon, 11 Aug 2025 23:34:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「RAG」の将来について。「GPT-5」開発者の発言から",
-    "link": "https://zenn.dev/knowledgesense/articles/06daa8f19a6805",
-    "pubDate": "Mon, 11 Aug 2025 23:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "高度演算処理を必要とするPCを10万以内で自作する方法",
-    "link": "https://zenn.dev/nonnoise/articles/fc1ce150ac3ac6",
-    "pubDate": "Mon, 11 Aug 2025 17:16:35 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": " Qiitaで記事投稿して学んだこと・良かったこと",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/b40eae562f42d7183219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-11T06:44:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ジュニアエンジニアがClaude Codeでバイブコーディングした結果、上司に迷惑をかけた話 - Qiita",
-    "link": "https://qiita.com/MIDO-ruby7/items/177f4341af8b19984b80",
-    "pubDate": "2025-08-11T02:15:03.000Z"
+    "title": "新人エンジニア向け：今すぐ導入OKな無料AI APIまとめ（テキスト/画像/音声）",
+    "link": "https://qiita.com/takuya77088/items/34f1f61a28f065c531e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-11T07:34:14.000Z"
   },
   {
     "site": "Qiita",
     "title": "【PHP8.5】PHP8.5の新機能",
     "link": "https://qiita.com/rana_kualu/items/76e4ff0ec6b277a38594?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-11T02:08:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Vimでコピぺする時に置き換え元の文字でクリップボードを上書きしないいくつかの方法",
-    "link": "https://qiita.com/mitsu-yuki/items/566cd8634abe10a3341e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-10T15:10:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【図解解説】AIエージェントを0から開発！基礎からできる初心者チュートリアル【VoltAgent/React/TypeScript】",
-    "link": "https://qiita.com/Sicut_study/items/f0e7503e18c76e2441d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-10T08:01:18.000Z"
   }
 ]
