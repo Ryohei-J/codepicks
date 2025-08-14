@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "テックブログで「の話」をやめた話 —— 命名のコツもご紹介 - SmartHR Tech Blog",
+    "link": "https://tech.smarthr.jp/entry/2025/08/14/120525",
+    "pubDate": "2025-08-14T03:14:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "令和 3 年秋期応用情報技術者試験のコンテナ型仮想化に関する問題からコンテナを考える - TenForward",
     "link": "https://tenforward.hatenablog.com/entry/2025/08/14/022826",
     "pubDate": "2025-08-13T23:23:22.000Z"
@@ -13,12 +19,6 @@
   },
   {
     "site": "Hatena",
-    "title": "NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog",
-    "link": "https://blog.nginx.org/blog/native-support-for-acme-protocol",
-    "pubDate": "2025-08-13T22:39:41.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "出向先の社外秘資料を撮影して持ち出していた事案についてまとめてみた - piyolog",
     "link": "https://piyolog.hatenadiary.jp/entry/2025/08/14/000155",
     "pubDate": "2025-08-13T15:33:09.000Z"
@@ -28,6 +28,12 @@
     "title": "GPT-5の凄い能力～論文を読ませて応用課題が解けるようになった……と思ったけど、Gemini 2.5 Proも解けるようになっていた件",
     "link": "https://zenn.dev/kmizu/articles/8c12550ad3e1d3",
     "pubDate": "2025-08-13T13:51:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GPT-5で「年収1500万円」の受動的収入を得る、たった2つのChatGPTプロンプト | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/81251",
+    "pubDate": "2025-08-13T11:38:57.000Z"
   },
   {
     "site": "Zenn",
@@ -54,10 +60,16 @@
     "pubDate": "2025-08-13T08:34:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "コードレビューが激変している - RAKUS Developers Blog | ラクス エンジニアブログ",
-    "link": "https://tech-blog.rakus.co.jp/entry/20250813/codereview",
-    "pubDate": "2025-08-13T07:16:55.000Z"
+    "site": "Zenn",
+    "title": "MIRU2025で3DGSドライビングシミュレータを展示しました",
+    "link": "https://zenn.dev/turing_motors/articles/8e7da3c9c3b0ff",
+    "pubDate": "Wed, 13 Aug 2025 08:00:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカルサーバのセキュリティベストプラクティス",
+    "link": "https://zenn.dev/sapphi_red/articles/81f2aa7efbc5c7",
+    "pubDate": "Wed, 13 Aug 2025 07:37:21 GMT"
   },
   {
     "site": "Qiita",
@@ -82,6 +94,12 @@
     "title": "【ポケモン×Java】知識編 for文#2 〜for文を完全攻略！-配列編-～",
     "link": "https://qiita.com/hitomin_poke/items/e2ce27dde3faad4170ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-13T04:03:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Q Developer CLIをWindows向けにビルドする方法",
+    "link": "https://qiita.com/moritalous/items/1711aac528e136d43907?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-13T03:14:46.000Z"
   },
   {
     "site": "Zenn",
@@ -120,12 +138,6 @@
     "pubDate": "Tue, 12 Aug 2025 16:04:56 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "なぜUUIDはほとんど重複しないのか：Pythonで解説",
-    "link": "https://qiita.com/isaac_leapcell/items/c3ab2754e9a77e03de46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-12T14:15:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Gitはどのようにファイルを管理しているのか？",
     "link": "https://zenn.dev/gatechnologies/articles/1651efa774e24e",
@@ -136,18 +148,6 @@
     "title": "【2025年最新版】初心者エンジニアが選ぶAIプログラミングアシスタントTop10",
     "link": "https://qiita.com/Nakamura-Kaito/items/11da91612a0fbe673f7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-12T03:51:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OSSにコミットしようとしたが、不要になった話",
-    "link": "https://zenn.dev/tan_t/articles/9df39b6592ba85",
-    "pubDate": "Tue, 12 Aug 2025 02:52:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Dev Containers上でClaude Codeの認証が安定しない問題",
-    "link": "https://zenn.dev/nstock/articles/2c1ea72861f87c",
-    "pubDate": "Tue, 12 Aug 2025 02:26:26 GMT"
   },
   {
     "site": "Zenn",
