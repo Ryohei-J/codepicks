@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "アフリカでAI人材3万人育成　政府と東大の松尾豊研究室、製造業・農業DX支援 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUA041X30U5A800C2000000/",
+    "pubDate": "2025-08-15T09:01:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "技術書をスポンジのように吸収する方法 - Qiita",
+    "link": "https://qiita.com/hoborei/items/a0aedd392a7ce54b6015",
+    "pubDate": "2025-08-15T08:51:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "アニメ制作は「利益なき繁忙」か　2024年の市場、過去最高を更新　だが元請の6割が「業績悪化」",
     "link": "https://www.itmedia.co.jp/news/articles/2508/15/news072.html",
     "pubDate": "2025-08-15T05:24:42.000Z"
@@ -10,12 +22,6 @@
     "title": "【ポケモン×Java】知識編 for文#3 〜for文を完全攻略！-ネストfor編-～",
     "link": "https://qiita.com/hitomin_poke/items/e7cec29a045eb2661a22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-15T04:04:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なんと“0ドル”のプラ製Mini-ITXケース「computer-2」。音響機器メーカーが開発",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2039171.html",
-    "pubDate": "2025-08-15T04:03:31.000Z"
   },
   {
     "site": "Hatena",
@@ -31,9 +37,21 @@
   },
   {
     "site": "Hatena",
+    "title": "はじめての転職講座/The Guide of First Career Change",
+    "link": "https://speakerdeck.com/kwappa/the-guide-of-first-career-change",
+    "pubDate": "2025-08-15T01:20:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "とあるプログラミングを教えてくれるサイトがひっそりと終焉を迎えていた→「これが新時代の教科書」「尖り過ぎてて草」",
     "link": "https://posfie.com/@petaritape/p/GGnpgAK",
     "pubDate": "2025-08-15T01:00:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS EC2接続：SSH踏み台 vs SSM性能比較 - AI活用で効率的に検証してみた",
+    "link": "https://zenn.dev/primenumber/articles/8b39511fbade43",
+    "pubDate": "Fri, 15 Aug 2025 00:44:50 GMT"
   },
   {
     "site": "Zenn",
@@ -60,10 +78,10 @@
     "pubDate": "2025-08-14T19:55:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「コピペしたら感染」新手サイバー攻撃「ClickFix」の大増加に日経が警鐘を鳴らす…専門家による注意喚起も",
-    "link": "https://togetter.com/li/2589572",
-    "pubDate": "2025-08-14T14:08:25.000Z"
+    "site": "Zenn",
+    "title": "AI Foundry で Browser Automation Tool を使ってみた",
+    "link": "https://zenn.dev/microsoft/articles/493e35659c59d6",
+    "pubDate": "Thu, 14 Aug 2025 12:29:30 GMT"
   },
   {
     "site": "Qiita",
@@ -82,12 +100,6 @@
     "title": "LLM向けデータ合成手法\"Magpie\"を応用して音声データセットを合成してみた",
     "link": "https://zenn.dev/aratako_lm/articles/87d8988d44ba4d",
     "pubDate": "Thu, 14 Aug 2025 10:00:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "コードはもう書かない――急速に浸透する「バイブコーディング」の現実",
-    "link": "https://techtarget.itmedia.co.jp/tt/news/2508/14/news05.html",
-    "pubDate": "2025-08-14T07:35:56.000Z"
   },
   {
     "site": "Zenn",
@@ -144,12 +156,6 @@
     "pubDate": "Wed, 13 Aug 2025 23:30:55 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "なぜSerenaを使うとAIのコード編集が正確になるのか？",
-    "link": "https://zenn.dev/aki_think/articles/c4f5b2a75ff4d4",
-    "pubDate": "Wed, 13 Aug 2025 15:02:26 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ハッカソンで医療カルテの類似検索推薦システムを開発した話",
     "link": "https://qiita.com/16MBytes/items/1835bbc495a9ade6ab3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,12 +166,6 @@
     "title": "Claude Codeを使ったら2時間でFigmaのプラグインが作れました",
     "link": "https://qiita.com/kabechiyo13/items/9f65c2c5976923e3fea0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-13T10:20:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code で git-grep を使うと幸せになれる、かもしれない",
-    "link": "https://zenn.dev/socialdog/articles/claude-code-with-git-grep",
-    "pubDate": "Wed, 13 Aug 2025 09:35:42 GMT"
   },
   {
     "site": "Qiita",
