@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "娘「ねぇどうして空は青いの？」父「それはね、大気中の気体分子が…」母「ちょっとあなたそんな説明でわかるわけ…」→「ゆっくり父よ」「ゆっくり母だぜ」",
+    "link": "https://posfie.com/@mumimushunyu/p/cLLCC9y",
+    "pubDate": "2025-08-16T09:31:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【神回】Googleスライドが一瞬で完成する\"奇跡\"のプロンプト教えます｜まじん",
+    "link": "https://note.com/majin_108/n/n39235bcacbfc",
+    "pubDate": "2025-08-16T03:45:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "気温43度を超えるとエアコンはどうなる？　ダイキンに聞いた",
     "link": "https://www.itmedia.co.jp/news/articles/2508/16/news004.html",
     "pubDate": "2025-08-16T01:02:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アマゾンの先住民保護区に現地語で聖書の一節を唱えるデバイスがこっそり配布されていることが判明",
+    "link": "https://gigazine.net/news/20250816-brazil-isolated-people-missionaries/",
+    "pubDate": "2025-08-16T00:49:09.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +30,10 @@
     "pubDate": "2025-08-15T23:59:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub Actions policy now supports blocking and SHA pinning actions - GitHub Changelog",
-    "link": "https://github.blog/changelog/2025-08-15-github-actions-policy-now-supports-blocking-and-sha-pinning-actions/",
-    "pubDate": "2025-08-15T16:16:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "クリップボードにコピーできてない！……を解決する便利ツールが「PowerToys」に？／シンプルな通知アプリ「ClipPing」の追加が提案中【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2038581.html",
-    "pubDate": "2025-08-15T14:19:18.000Z"
+    "site": "Zenn",
+    "title": "A2A リモートエージェント対応のマルチエージェントシステム",
+    "link": "https://zenn.dev/google_cloud_jp/articles/d24a22a87a84f8",
+    "pubDate": "Fri, 15 Aug 2025 19:30:18 GMT"
   },
   {
     "site": "Zenn",
@@ -42,6 +54,12 @@
     "pubDate": "2025-08-15T14:02:05.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "JavaScriptオブジェクトの基本まとめ",
+    "link": "https://qiita.com/maedaHARUYA/items/499a191ce9f987470688?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-15T10:47:30.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Cursorでdraw.ioの業務フロー図とn8nワークフローを自動作成する方法｜Dify Base",
     "link": "https://note.com/dify_base/n/n5482b8ef9a32",
@@ -52,12 +70,6 @@
     "title": "技術書をスポンジのように吸収する方法 - Qiita",
     "link": "https://qiita.com/hoborei/items/a0aedd392a7ce54b6015",
     "pubDate": "2025-08-15T08:51:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "32,000拠点*を支えるトラック予約受付サービスのフロントエンドリアーキテクチャ戦略 〜 AIフレンドリーなコードベースを目指して 〜",
-    "link": "https://zenn.dev/hacobu/articles/567d67c70ec15c",
-    "pubDate": "Fri, 15 Aug 2025 08:00:23 GMT"
   },
   {
     "site": "Zenn",
@@ -73,27 +85,15 @@
   },
   {
     "site": "Qiita",
-    "title": "TROCCOを使ってkintoneにデータを転送してみた",
-    "link": "https://qiita.com/suzu_suzu/items/d23e1f1d52204f519a19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-15T06:31:13.000Z"
+    "title": "AI時代に型システムがもっと大切になるって話 - Rust開発者の視点から学ぶ",
+    "link": "https://qiita.com/wooooo/items/d7b9c108769e9342e62f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-15T06:31:58.000Z"
   },
   {
     "site": "Zenn",
     "title": "実務英語は「環境」で身につく—怠惰なエンジニアのペラペラへの旅",
     "link": "https://zenn.dev/moneyforward/articles/1year-english-learning",
     "pubDate": "Fri, 15 Aug 2025 06:13:27 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Bedrock AgentCore Runtime w/Strands Agents でスロットリングと戦って改善中",
-    "link": "https://qiita.com/kazuneet/items/2b8559ba0d0328875de6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-15T05:34:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 for文#3 〜for文を完全攻略！-ネストfor編-～",
-    "link": "https://qiita.com/hitomin_poke/items/e7cec29a045eb2661a22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-15T04:04:33.000Z"
   },
   {
     "site": "Zenn",
@@ -108,16 +108,16 @@
     "pubDate": "2025-08-15T03:52:22.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Git Worktree を使いやすくする gw コマンドを作った",
+    "link": "https://zenn.dev/sotarok/articles/0ee334cfd9f9c4",
+    "pubDate": "Fri, 15 Aug 2025 02:48:00 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Google、超軽量、低消費電力モデル「Gemma 3 270M」をリリース | gihyo.jp",
     "link": "https://gihyo.jp/article/2025/08/gemma-3-270m",
     "pubDate": "2025-08-15T02:20:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "はじめての転職講座/The Guide of First Career Change",
-    "link": "https://speakerdeck.com/kwappa/the-guide-of-first-career-change",
-    "pubDate": "2025-08-15T01:20:53.000Z"
   },
   {
     "site": "Zenn",
@@ -138,10 +138,22 @@
     "pubDate": "Thu, 14 Aug 2025 22:01:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIに仕事を奪われる前に、レビュー地獄で死にそうになった話",
-    "link": "https://zenn.dev/naizo01/articles/15cbe0b1145ef9",
-    "pubDate": "Thu, 14 Aug 2025 11:00:05 GMT"
+    "site": "Qiita",
+    "title": "Microsoft 365 Copilot 関連Update情報ピックアップ（8月1~2週目公開情報）",
+    "link": "https://qiita.com/Oyu3m/items/c39c30e779d6b391c6a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-14T16:41:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「Dockerはわかるけど…」から卒業！AWSでコンテナを動かすための30日集中講座",
+    "link": "https://qiita.com/555hamano/items/bf47c8adc1eddcfb3841?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-14T16:38:43.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GNSSドップラ・IMU・車輪速に基づく停止判定・出力制限付き姿勢推定",
+    "link": "https://qiita.com/KariControl/items/ca7072a0e57d128d940a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-14T05:22:56.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "🐍【初心者向け】VSCodeでPythonデバッグを始めよう！完全ガイド",
     "link": "https://qiita.com/mnoguchi/items/9ee6f9914bfd89541b02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-13T16:10:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeを使ったら2時間でFigmaのプラグインが作れました",
-    "link": "https://qiita.com/kabechiyo13/items/9f65c2c5976923e3fea0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-13T10:20:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MCP 基礎知識 & MCP 公式の MCP サーバ自作チュートリアル (C#) やってみた",
-    "link": "https://qiita.com/chomado/items/968eca2a96873ccad938?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-13T06:03:54.000Z"
   }
 ]
