@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "自治体に「最高AI責任者」設置を　専門人材が補佐、総務省が指南書 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUA083F60Y5A800C2000000/",
+    "pubDate": "2025-08-17T01:25:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ClaudeCodeで挑むコンテキストエンジニアリング実践",
+    "link": "https://zenn.dev/aki_think/articles/66f6fc7530467a",
+    "pubDate": "Sat, 16 Aug 2025 15:04:04 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "一度に大量のファイルを書き込むとSSDに障害が発生するとの不具合報告。最悪アクセスできなくなる。Windows11 24H2にて。KB5063878 / KB5062660に起因か | ニッチなPCゲーマーの環境構築Z",
     "link": "https://www.nichepcgamer.com/archives/windows11-24h2-issue-with-writing-to-the-ssd-is-this-caused-by-kb5063878-kb5062660.html",
     "pubDate": "2025-08-16T14:00:26.000Z"
@@ -13,21 +25,15 @@
   },
   {
     "site": "Zenn",
-    "title": "2025年にRxSwiftと向き合った設計",
-    "link": "https://zenn.dev/sakiyamak/articles/1a936ff161424ad40aaa",
-    "pubDate": "Sat, 16 Aug 2025 13:05:37 GMT"
+    "title": "C#：P/Invoke 越しに非同期関数を呼ぶ",
+    "link": "https://zenn.dev/ruccho/articles/dc7bc7bb9c0e74",
+    "pubDate": "Sat, 16 Aug 2025 13:28:39 GMT"
   },
   {
     "site": "Zenn",
-    "title": "AWS EC2接続：SSH踏み台 vs SSM性能比較 - AI活用で効率的に検証してみた",
-    "link": "https://zenn.dev/primenumber/articles/8b39511fbade43",
-    "pubDate": "2025-08-16T12:11:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "個人開発で得た知見と今後の方針｜ばさ",
-    "link": "https://sizu.me/basaapp/posts/ac86bn74km59",
-    "pubDate": "2025-08-16T11:49:12.000Z"
+    "title": "2025年にRxSwiftと向き合った設計",
+    "link": "https://zenn.dev/sakiyamak/articles/1a936ff161424ad40aaa",
+    "pubDate": "Sat, 16 Aug 2025 13:05:37 GMT"
   },
   {
     "site": "Qiita",
@@ -49,9 +55,9 @@
   },
   {
     "site": "Hatena",
-    "title": "娘「ねぇどうして空は青いの？」父「それはね、大気中の気体分子が…」母「ちょっとあなたそんな説明でわかるわけ…」→「ゆっくり父よ」「ゆっくり母だぜ」",
-    "link": "https://posfie.com/@mumimushunyu/p/cLLCC9y",
-    "pubDate": "2025-08-16T09:31:08.000Z"
+    "title": "PowerShell 2.0提供終了　OSから削除へ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2508/16/news026.html",
+    "pubDate": "2025-08-16T08:43:43.000Z"
   },
   {
     "site": "Qiita",
@@ -60,16 +66,16 @@
     "pubDate": "2025-08-16T08:29:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "エンジニア向けAI情報収集アプリResearchlyをリリースしました",
+    "link": "https://zenn.dev/adsholoko/articles/researchly-release",
+    "pubDate": "Sat, 16 Aug 2025 05:15:12 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【神回】Googleスライドが一瞬で完成する\"奇跡\"のプロンプト教えます｜まじん",
     "link": "https://note.com/majin_108/n/n39235bcacbfc",
     "pubDate": "2025-08-16T03:45:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "猫につけているBluetoothデバイスの信号強度と機械学習で、いまどの部屋にいるかをトラッキングする! - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2025/08/16/110000",
-    "pubDate": "2025-08-16T03:42:34.000Z"
   },
   {
     "site": "Zenn",
@@ -108,28 +114,22 @@
     "pubDate": "Fri, 15 Aug 2025 14:02:23 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "p5.jsの表現力を活かしたクリエイティブなWebサイト事例集 - ICS MEDIA",
+    "link": "https://ics.media/entry/250815/",
+    "pubDate": "2025-08-15T12:53:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "モジュラーモノリス導入がもたらした功罪 - hacomono TECH BLOG",
+    "link": "https://techblog.hacomono.jp/entry/2025/08/15/110000",
+    "pubDate": "2025-08-15T10:52:59.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Effect.tsのpipe()関数は、なにか",
     "link": "https://zenn.dev/optimind/articles/pipe-in-typescript-effect-fpts",
     "pubDate": "Fri, 15 Aug 2025 09:08:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "32,000拠点*を支えるトラック予約受付サービスのフロントエンドリアーキテクチャ戦略 〜 AIフレンドリーなコードベースを目指して 〜",
-    "link": "https://zenn.dev/hacobu/articles/567d67c70ec15c",
-    "pubDate": "Fri, 15 Aug 2025 08:00:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自動運転基盤モデルの最前線：VLAモデルの今とこれから【2025年版】",
-    "link": "https://zenn.dev/turing_motors/articles/bfbc91eeb94d64",
-    "pubDate": "Fri, 15 Aug 2025 08:00:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Discord MCPを使って一撃でバイブコーディングするBot開発術",
-    "link": "https://zenn.dev/discorders/articles/discord-mcp-technique",
-    "pubDate": "Fri, 15 Aug 2025 07:44:22 GMT"
   },
   {
     "site": "Qiita",
