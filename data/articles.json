@@ -1,5 +1,11 @@
 [
   {
+    "site": "Hatena",
+    "title": "生成AIの成果物に責任を持ってくれ｜qsona",
+    "link": "https://note.com/qsona/n/na422e3a68e72",
+    "pubDate": "2025-08-17T10:59:42.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "MagicOnion + WPF を使用して異なるPC間でアプリの操作内容をリアルタイム共有",
     "link": "https://zenn.dev/knishis/articles/16b8645a9e7366",
@@ -12,6 +18,12 @@
     "pubDate": "Sun, 17 Aug 2025 06:21:31 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "なんで Power BI を正しく使用できるユーザーが増えないのだろう？ - Qiita",
+    "link": "https://qiita.com/yugoes1021/items/4df0aecacbf7263bed14",
+    "pubDate": "2025-08-17T04:02:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "セキュリティ・キャンプBクラスのすゝめ",
     "link": "https://zenn.dev/kaito_bq/articles/6ff59ece5e7b07",
@@ -19,9 +31,21 @@
   },
   {
     "site": "Hatena",
+    "title": "「GPT-5」で仕事をさらに効率化、必須のChatGPTプロンプト技法7選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/81290",
+    "pubDate": "2025-08-17T02:34:49.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "自治体に「最高AI責任者」設置を　専門人材が補佐、総務省が指南書 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUA083F60Y5A800C2000000/",
     "pubDate": "2025-08-17T01:25:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Firebaseを1から100まで全て理解する",
+    "link": "https://zenn.dev/nnishi425/books/firebase-complete-guide",
+    "pubDate": "2025-08-17T00:13:21.000Z"
   },
   {
     "site": "Hatena",
@@ -46,12 +70,6 @@
     "title": "一度に大量のファイルを書き込むとSSDに障害が発生するとの不具合報告。最悪アクセスできなくなる。Windows11 24H2にて。KB5063878 / KB5062660に起因か ［Update 3: 単体の大きなファイルも対象］ | ニッチなPCゲーマーの環境構築Z",
     "link": "https://www.nichepcgamer.com/archives/windows11-24h2-issue-with-writing-to-the-ssd-is-this-caused-by-kb5063878-kb5062660.html",
     "pubDate": "2025-08-16T14:00:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI導入の副作用。医師の｢がん発見能力｣が低下、研究で判明",
-    "link": "https://www.gizmodo.jp/2025/08/doctors-were-worse-at-spotting-cancer-after-leaning-on-ai-study-finds.html",
-    "pubDate": "2025-08-16T13:57:06.000Z"
   },
   {
     "site": "Zenn",
@@ -84,12 +102,6 @@
     "pubDate": "Sat, 16 Aug 2025 09:49:48 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "PowerShell 2.0提供終了　OSから削除へ",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2508/16/news026.html",
-    "pubDate": "2025-08-16T08:43:43.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Kiro Pricing開始！Request種別の課金ルールとProプラン移行を実際に試してみた",
     "link": "https://qiita.com/ec2_on_aws/items/fff8393b64db5157ee79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -106,12 +118,6 @@
     "title": "【悪用ダメ】セキュリティ試験でよく見る 「OR 1=1」 で侵害する攻撃をやってみた（SQL インジェクション）",
     "link": "https://qiita.com/sick_sec_sox/items/f9d30d35815cad8ff15d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-16T04:40:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【神回】Googleスライドが一瞬で完成する\"奇跡\"のプロンプト教えます｜まじん",
-    "link": "https://note.com/majin_108/n/n39235bcacbfc",
-    "pubDate": "2025-08-16T03:45:00.000Z"
   },
   {
     "site": "Zenn",
@@ -134,7 +140,7 @@
   {
     "site": "Qiita",
     "title": "【セキュリティ】デジタルフォレンジックス — 不正調査から証拠保全まで",
-    "link": "https://qiita.com/wangjun198808/items/7b51246ea3c9356d5497?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "link": "https://qiita.com/nozomi2025/items/7b51246ea3c9356d5497?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-15T14:27:13.000Z"
   },
   {
@@ -154,12 +160,6 @@
     "title": "【エヴァンゲリオン】ヤシマ作戦みたいな臨場感と緊張感があるタイマーアプリを作りたい",
     "link": "https://qiita.com/Necoze/items/1b3ec72415dec3039304?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-14T23:36:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「Dockerはわかるけど…」から卒業！AWSでコンテナを動かすための30日集中講座 - Qiita",
-    "link": "https://qiita.com/555hamano/items/bf47c8adc1eddcfb3841",
-    "pubDate": "2025-08-14T17:06:58.000Z"
   },
   {
     "site": "Qiita",
