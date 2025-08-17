@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "MagicOnion + WPF を使用して異なるPC間でアプリの操作内容をリアルタイム共有",
+    "link": "https://zenn.dev/knishis/articles/16b8645a9e7366",
+    "pubDate": "Sun, 17 Aug 2025 08:44:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Position Based Dynamics で作るソフトボディ&流体シミュレーション",
+    "link": "https://zenn.dev/sparkle/articles/c9cd3bd4ec80be",
+    "pubDate": "Sun, 17 Aug 2025 06:21:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "セキュリティ・キャンプBクラスのすゝめ",
+    "link": "https://zenn.dev/kaito_bq/articles/6ff59ece5e7b07",
+    "pubDate": "Sun, 17 Aug 2025 03:47:00 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "自治体に「最高AI責任者」設置を　専門人材が補佐、総務省が指南書 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUA083F60Y5A800C2000000/",
     "pubDate": "2025-08-17T01:25:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "人間の知、そう高度ではない？　AIが突きつける厳しい現実 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOCD066C00W5A800C2000000/",
+    "pubDate": "2025-08-16T22:23:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【永久保存版】おんJ民が厳選した有能サイト大全 : 哲学ニュースnwk",
+    "link": "https://nwknews.jp/archives/6210759.html",
+    "pubDate": "2025-08-16T15:27:51.000Z"
   },
   {
     "site": "Zenn",
@@ -13,7 +43,7 @@
   },
   {
     "site": "Hatena",
-    "title": "一度に大量のファイルを書き込むとSSDに障害が発生するとの不具合報告。最悪アクセスできなくなる。Windows11 24H2にて。KB5063878 / KB5062660に起因か | ニッチなPCゲーマーの環境構築Z",
+    "title": "一度に大量のファイルを書き込むとSSDに障害が発生するとの不具合報告。最悪アクセスできなくなる。Windows11 24H2にて。KB5063878 / KB5062660に起因か ［Update 3: 単体の大きなファイルも対象］ | ニッチなPCゲーマーの環境構築Z",
     "link": "https://www.nichepcgamer.com/archives/windows11-24h2-issue-with-writing-to-the-ssd-is-this-caused-by-kb5063878-kb5062660.html",
     "pubDate": "2025-08-16T14:00:26.000Z"
   },
@@ -30,6 +60,12 @@
     "pubDate": "Sat, 16 Aug 2025 13:28:39 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "『【神回】Googleスライドが一瞬で完成する\"奇跡\"のプロンプト教えます｜まじん』へのコメント",
+    "link": "https://b.hatena.ne.jp/entry/4774738814939967713/comment/yoiIT",
+    "pubDate": "2025-08-16T13:18:23.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "2025年にRxSwiftと向き合った設計",
     "link": "https://zenn.dev/sakiyamak/articles/1a936ff161424ad40aaa",
@@ -40,12 +76,6 @@
     "title": "なんで Power BI を正しく使用できるユーザーが増えないのだろう？",
     "link": "https://qiita.com/yugoes1021/items/4df0aecacbf7263bed14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-16T10:51:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "LLM へのプロンプトを構造化された文書で管理する POML",
-    "link": "https://azukiazusa.dev/blog/poml-prompt-structured-document/",
-    "pubDate": "2025-08-16T10:13:44.000Z"
   },
   {
     "site": "Zenn",
@@ -72,6 +102,12 @@
     "pubDate": "Sat, 16 Aug 2025 05:15:12 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【悪用ダメ】セキュリティ試験でよく見る 「OR 1=1」 で侵害する攻撃をやってみた（SQL インジェクション）",
+    "link": "https://qiita.com/sick_sec_sox/items/f9d30d35815cad8ff15d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-16T04:40:32.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "【神回】Googleスライドが一瞬で完成する\"奇跡\"のプロンプト教えます｜まじん",
     "link": "https://note.com/majin_108/n/n39235bcacbfc",
@@ -91,45 +127,27 @@
   },
   {
     "site": "Zenn",
-    "title": "実務英語は「環境」で身につく—怠惰なエンジニアのペラペラへの旅",
-    "link": "https://zenn.dev/moneyforward/articles/1year-english-learning",
-    "pubDate": "2025-08-15T17:07:48.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "ZennのWYSIWYGエディタを作ってみた",
     "link": "https://zenn.dev/karintou/articles/1ba996a5ca7df8",
     "pubDate": "Fri, 15 Aug 2025 14:30:10 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Flutterアプリ収益化の教科書",
-    "link": "https://zenn.dev/flutteruniv/books/flutter-monetization",
-    "pubDate": "Fri, 15 Aug 2025 14:08:06 GMT"
+    "site": "Qiita",
+    "title": "【セキュリティ】デジタルフォレンジックス — 不正調査から証拠保全まで",
+    "link": "https://qiita.com/wangjun198808/items/7b51246ea3c9356d5497?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-15T14:27:13.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "技術書知識を即戦力化！Sub Agent化から設計支援・レビューまでの最短フロー",
-    "link": "https://zenn.dev/furedea/articles/53b5117b389454",
-    "pubDate": "Fri, 15 Aug 2025 14:02:23 GMT"
+    "site": "Qiita",
+    "title": "JavaScriptオブジェクトの基本まとめ",
+    "link": "https://qiita.com/maedaHARUYA/items/499a191ce9f987470688?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-15T10:47:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "p5.jsの表現力を活かしたクリエイティブなWebサイト事例集 - ICS MEDIA",
-    "link": "https://ics.media/entry/250815/",
-    "pubDate": "2025-08-15T12:53:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "モジュラーモノリス導入がもたらした功罪 - hacomono TECH BLOG",
-    "link": "https://techblog.hacomono.jp/entry/2025/08/15/110000",
-    "pubDate": "2025-08-15T10:52:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Effect.tsのpipe()関数は、なにか",
-    "link": "https://zenn.dev/optimind/articles/pipe-in-typescript-effect-fpts",
-    "pubDate": "Fri, 15 Aug 2025 09:08:01 GMT"
+    "site": "Qiita",
+    "title": "私がバイブコーディングにあまり興味がない理由 - Qiita",
+    "link": "https://qiita.com/magicant/items/7095f78f6897808597ab",
+    "pubDate": "2025-08-15T01:08:21.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "PowerShell で 簡易 AI チャットをつくる",
     "link": "https://qiita.com/aktsmm/items/5f9c332a14228a3a244d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-14T14:21:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GNSSドップラ・IMU・車輪速に基づく停止判定・出力制限付き姿勢推定",
-    "link": "https://qiita.com/KariControl/items/ca7072a0e57d128d940a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-14T05:22:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "私がバイブコーディングにあまり興味がない理由",
-    "link": "https://qiita.com/magicant/items/7095f78f6897808597ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-14T04:53:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "技術書をスポンジのように吸収する方法",
-    "link": "https://qiita.com/hoborei/items/a0aedd392a7ce54b6015?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-14T04:01:10.000Z"
   }
 ]
