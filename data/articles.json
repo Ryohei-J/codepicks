@@ -1,9 +1,39 @@
 [
   {
+    "site": "Hatena",
+    "title": "一度に大量のファイルを書き込むとSSDに障害が発生するとの不具合報告。最悪アクセスできなくなる。Windows11 24H2にて。KB5063878 / KB5062660に起因か | ニッチなPCゲーマーの環境構築Z",
+    "link": "https://www.nichepcgamer.com/archives/windows11-24h2-issue-with-writing-to-the-ssd-is-this-caused-by-kb5063878-kb5062660.html",
+    "pubDate": "2025-08-16T14:00:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI導入の副作用。医師の｢がん発見能力｣が低下、研究で判明",
+    "link": "https://www.gizmodo.jp/2025/08/doctors-were-worse-at-spotting-cancer-after-leaning-on-ai-study-finds.html",
+    "pubDate": "2025-08-16T13:57:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2025年にRxSwiftと向き合った設計",
+    "link": "https://zenn.dev/sakiyamak/articles/1a936ff161424ad40aaa",
+    "pubDate": "Sat, 16 Aug 2025 13:05:37 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "AWS EC2接続：SSH踏み台 vs SSM性能比較 - AI活用で効率的に検証してみた",
     "link": "https://zenn.dev/primenumber/articles/8b39511fbade43",
     "pubDate": "2025-08-16T12:11:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "個人開発で得た知見と今後の方針｜ばさ",
+    "link": "https://sizu.me/basaapp/posts/ac86bn74km59",
+    "pubDate": "2025-08-16T11:49:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "なんで Power BI を正しく使用できるユーザーが増えないのだろう？",
+    "link": "https://qiita.com/yugoes1021/items/4df0aecacbf7263bed14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-16T10:51:25.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +54,10 @@
     "pubDate": "2025-08-16T09:31:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "The future of large files in Git is Git - Tyler Cipriani",
-    "link": "https://tylercipriani.com/blog/2025/08/15/git-lfs/",
-    "pubDate": "2025-08-16T04:22:45.000Z"
+    "site": "Qiita",
+    "title": "Kiro Pricing開始！Request種別の課金ルールとProプラン移行を実際に試してみた",
+    "link": "https://qiita.com/ec2_on_aws/items/fff8393b64db5157ee79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-16T08:29:19.000Z"
   },
   {
     "site": "Hatena",
@@ -37,27 +67,33 @@
   },
   {
     "site": "Hatena",
-    "title": "気温43度を超えるとエアコンはどうなる？　ダイキンに聞いた",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/16/news004.html",
-    "pubDate": "2025-08-16T01:02:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アマゾンの先住民保護区に現地語で聖書の一節を唱えるデバイスがこっそり配布されていることが判明",
-    "link": "https://gigazine.net/news/20250816-brazil-isolated-people-missionaries/",
-    "pubDate": "2025-08-16T00:49:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "裁判所が満を持して投入する民事裁判書面オンラインシステムのUIがこれだっ！→「CSS完全に理解してて草」「スマホ表示は対象外だから…」「どこに頼んだらこうなるんだ」",
-    "link": "https://posfie.com/@petaritape/p/kdLD4Ow",
-    "pubDate": "2025-08-15T23:59:13.000Z"
+    "title": "猫につけているBluetoothデバイスの信号強度と機械学習で、いまどの部屋にいるかをトラッキングする! - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2025/08/16/110000",
+    "pubDate": "2025-08-16T03:42:34.000Z"
   },
   {
     "site": "Zenn",
     "title": "A2A リモートエージェント対応のマルチエージェントシステム",
     "link": "https://zenn.dev/google_cloud_jp/articles/d24a22a87a84f8",
     "pubDate": "Fri, 15 Aug 2025 19:30:18 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "「Dockerはわかるけど…」から卒業！AWSでコンテナを動かすための30日集中講座 - Day 1: 講座スタート！なぜ今、コンテナとDockerを学ぶべきなのか？",
+    "link": "https://qiita.com/555hamano/items/03088263bff26553339b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-15T17:12:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "実務英語は「環境」で身につく—怠惰なエンジニアのペラペラへの旅",
+    "link": "https://zenn.dev/moneyforward/articles/1year-english-learning",
+    "pubDate": "2025-08-15T17:07:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ZennのWYSIWYGエディタを作ってみた",
+    "link": "https://zenn.dev/karintou/articles/1ba996a5ca7df8",
+    "pubDate": "Fri, 15 Aug 2025 14:30:10 GMT"
   },
   {
     "site": "Zenn",
@@ -72,16 +108,16 @@
     "pubDate": "Fri, 15 Aug 2025 14:02:23 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "どうしてこうなった？ Google Homeシステムの劣化が止まらない",
-    "link": "https://www.gizmodo.jp/2025/08/googles-smart-home-ecosystem-is-crumbling.html",
-    "pubDate": "2025-08-15T14:02:05.000Z"
+    "site": "Zenn",
+    "title": "Effect.tsのpipe()関数は、なにか",
+    "link": "https://zenn.dev/optimind/articles/pipe-in-typescript-effect-fpts",
+    "pubDate": "Fri, 15 Aug 2025 09:08:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "JavaScriptオブジェクトの基本まとめ",
-    "link": "https://qiita.com/maedaHARUYA/items/499a191ce9f987470688?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-15T10:47:30.000Z"
+    "site": "Zenn",
+    "title": "32,000拠点*を支えるトラック予約受付サービスのフロントエンドリアーキテクチャ戦略 〜 AIフレンドリーなコードベースを目指して 〜",
+    "link": "https://zenn.dev/hacobu/articles/567d67c70ec15c",
+    "pubDate": "Fri, 15 Aug 2025 08:00:23 GMT"
   },
   {
     "site": "Zenn",
@@ -97,57 +133,33 @@
   },
   {
     "site": "Qiita",
-    "title": "AI時代に型システムがもっと大切になるって話 - Rust開発者の視点から学ぶ",
-    "link": "https://qiita.com/wooooo/items/d7b9c108769e9342e62f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-15T06:31:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "実務英語は「環境」で身につく—怠惰なエンジニアのペラペラへの旅",
-    "link": "https://zenn.dev/moneyforward/articles/1year-english-learning",
-    "pubDate": "Fri, 15 Aug 2025 06:13:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeにVerylのコードを書かせてみた",
-    "link": "https://zenn.dev/dalance/articles/6463b2fcae7130",
-    "pubDate": "Fri, 15 Aug 2025 03:58:21 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI「先輩、この仕様よく分からないっす」 - ABAの日誌",
-    "link": "https://aba.hatenablog.com/entry/2025/08/15/124732",
-    "pubDate": "2025-08-15T03:52:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Git Worktree を使いやすくする gw コマンドを作った",
-    "link": "https://zenn.dev/sotarok/articles/0ee334cfd9f9c4",
-    "pubDate": "Fri, 15 Aug 2025 02:48:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS EC2接続：SSH踏み台 vs SSM性能比較 - AI活用で効率的に検証してみた",
-    "link": "https://zenn.dev/primenumber/articles/8b39511fbade43",
-    "pubDate": "Fri, 15 Aug 2025 00:44:50 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "【エヴァンゲリオン】ヤシマ作戦みたいな臨場感と緊張感があるタイマーアプリを作りたい",
     "link": "https://qiita.com/Necoze/items/1b3ec72415dec3039304?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-14T23:36:49.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Microsoft 365 Copilot 関連Update情報ピックアップ（8月1~2週目公開情報）",
-    "link": "https://qiita.com/Oyu3m/items/c39c30e779d6b391c6a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-14T16:41:35.000Z"
+    "title": "「Dockerはわかるけど…」から卒業！AWSでコンテナを動かすための30日集中講座 - Qiita",
+    "link": "https://qiita.com/555hamano/items/bf47c8adc1eddcfb3841",
+    "pubDate": "2025-08-14T17:06:58.000Z"
   },
   {
     "site": "Qiita",
     "title": "「Dockerはわかるけど…」から卒業！AWSでコンテナを動かすための30日集中講座",
     "link": "https://qiita.com/555hamano/items/bf47c8adc1eddcfb3841?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-14T16:38:43.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS Lambdaをデプロイするパターン4選",
+    "link": "https://qiita.com/Kanahiro/items/6394918fa87b0aeb47c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-14T15:28:26.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "PowerShell で 簡易 AI チャットをつくる",
+    "link": "https://qiita.com/aktsmm/items/5f9c332a14228a3a244d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-14T14:21:41.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "VScodeの拡張機能 Amazon Q Developerでワンちゃん育成ゲームを作成してみる",
-    "link": "https://qiita.com/yuri-0123/items/5f876a41c7a0e3eaaf83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-14T04:40:42.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "技術書をスポンジのように吸収する方法",
     "link": "https://qiita.com/hoborei/items/a0aedd392a7ce54b6015?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-14T04:01:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "🐍【初心者向け】VSCodeでPythonデバッグを始めよう！完全ガイド",
-    "link": "https://qiita.com/mnoguchi/items/9ee6f9914bfd89541b02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-13T16:10:42.000Z"
   }
 ]
