@@ -1,5 +1,17 @@
 [
   {
+    "site": "Zenn",
+    "title": "サブスクリプションが始まったKiroに関する最近の事情",
+    "link": "https://zenn.dev/beagle/articles/5360946ada5607",
+    "pubDate": "Mon, 18 Aug 2025 02:34:51 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "次女に「この曲いいでしょ！」とゲームの曲をお勧めされて、自分も同じことをしていたと思い出した話",
+    "link": "https://blog.tinect.jp/?p=90042",
+    "pubDate": "2025-08-17T23:15:24.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "あなたの家のNASも載ってるかも!? ネット上の“公開資産”を勝手に調査する「Censys」から情報を削除する【イニシャルB】",
     "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2037089.html",
@@ -18,16 +30,34 @@
     "pubDate": "2025-08-17T15:59:03.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "イケてるGo版JSX,templを知っているか!?(feat. neovimでの設定)",
+    "link": "https://zenn.dev/sirasagi62/articles/0f873debabf232",
+    "pubDate": "Sun, 17 Aug 2025 15:21:30 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "ghコマンドでよく使ってるヤツ - oinume journal",
     "link": "https://journal.lampetty.net/entry/gh-command-use-cases",
     "pubDate": "2025-08-17T14:52:56.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "できるだけ無料でAIコーディング",
+    "link": "https://zenn.dev/marcosan/articles/54b3a01a7e74ca",
+    "pubDate": "Sun, 17 Aug 2025 14:24:04 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "まだルーター床においてるの？ 浮かせたら良いことしかないよ",
     "link": "https://www.gizmodo.jp/2025/08/amazon-short-yamazaki-wallmountedrouterrack.html",
     "pubDate": "2025-08-17T13:40:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Actions の Enforce SHA Pinning の検証",
+    "link": "https://zenn.dev/shunsuke_suzuki/articles/github-actions-enforce-sha-pinning",
+    "pubDate": "Sun, 17 Aug 2025 11:50:32 GMT"
   },
   {
     "site": "Qiita",
@@ -43,9 +73,21 @@
   },
   {
     "site": "Zenn",
+    "title": "光学衛星画像解析の１歩目を踏み出してみよう！― QGIS編 ―",
+    "link": "https://zenn.dev/ra0kley/books/4688c64971b61a",
+    "pubDate": "Sun, 17 Aug 2025 07:56:18 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "MCP Go SDK 入門",
     "link": "https://zenn.dev/demouth/articles/c0db2e8c0b2612",
     "pubDate": "Sun, 17 Aug 2025 07:00:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "CursorのV1.3とV1.4+周辺情報が出たんじゃ",
+    "link": "https://zenn.dev/omegamaster/articles/cursor-update-v-1_4",
+    "pubDate": "Sun, 17 Aug 2025 07:00:02 GMT"
   },
   {
     "site": "Zenn",
@@ -54,10 +96,10 @@
     "pubDate": "Sun, 17 Aug 2025 06:21:31 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "なんで Power BI を正しく使用できるユーザーが増えないのだろう？ - Qiita",
-    "link": "https://qiita.com/yugoes1021/items/4df0aecacbf7263bed14",
-    "pubDate": "2025-08-17T04:02:13.000Z"
+    "site": "Hatena",
+    "title": "「盗まれた瞬間に全乗っ取り」を防ぐ！iPhoneの“神設定”「盗難デバイスの保護」とは | イチオシ | ichioshi",
+    "link": "https://ichioshi.smt.docomo.ne.jp/articles/news/47652",
+    "pubDate": "2025-08-17T04:04:12.000Z"
   },
   {
     "site": "Zenn",
@@ -90,52 +132,16 @@
     "pubDate": "Sat, 16 Aug 2025 15:04:04 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "C#：P/Invoke 越しに非同期関数を呼ぶ",
-    "link": "https://zenn.dev/ruccho/articles/dc7bc7bb9c0e74",
-    "pubDate": "Sat, 16 Aug 2025 13:28:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025年にRxSwiftと向き合った設計",
-    "link": "https://zenn.dev/sakiyamak/articles/1a936ff161424ad40aaa",
-    "pubDate": "Sat, 16 Aug 2025 13:05:37 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "なんで Power BI を正しく使用できるユーザーが増えないのだろう？",
     "link": "https://qiita.com/yugoes1021/items/4df0aecacbf7263bed14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-16T10:51:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Firebaseを1から100まで全て理解する",
-    "link": "https://zenn.dev/nnishi425/books/firebase-complete-guide",
-    "pubDate": "Sat, 16 Aug 2025 09:49:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Windows標準だけでGUIを作成 ― PowerShell＋.NET Framework",
-    "link": "https://zenn.dev/y_a_y/articles/ps_gui_b9685efa3cc1ea",
-    "pubDate": "Sat, 16 Aug 2025 09:22:50 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Kiro Pricing開始！Request種別の課金ルールとProプラン移行を実際に試してみた",
     "link": "https://qiita.com/ec2_on_aws/items/fff8393b64db5157ee79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-16T08:29:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニア向けAI情報収集アプリResearchlyをリリースしました",
-    "link": "https://zenn.dev/adsholoko/articles/researchly-release",
-    "pubDate": "Sat, 16 Aug 2025 05:15:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWKを超えて：HaskellをUnixパイプラインに持ち込む",
-    "link": "https://zenn.dev/koheiwada/articles/d10e206d9e66f0",
-    "pubDate": "Sat, 16 Aug 2025 04:41:11 GMT"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "JavaScriptオブジェクトの基本まとめ",
     "link": "https://qiita.com/maedaHARUYA/items/499a191ce9f987470688?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-15T10:47:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "私がバイブコーディングにあまり興味がない理由 - Qiita",
-    "link": "https://qiita.com/magicant/items/7095f78f6897808597ab",
-    "pubDate": "2025-08-15T01:08:21.000Z"
   },
   {
     "site": "Qiita",
