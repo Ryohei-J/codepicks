@@ -1,5 +1,47 @@
 [
   {
+    "site": "Hatena",
+    "title": "ラフさえ描けばイラスト作品ほぼ完成　画像生成AI「FLUX.1 Kontext」LoRAが示す制作の未来 (1/5)",
+    "link": "https://ascii.jp/elem/000/004/312/4312934/",
+    "pubDate": "2025-08-18T07:23:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "話が通じないことが増えてきた80代後半の親にAirPodsをプレゼントしてみたら、懐かしい母が戻ってきた「補聴器は使ってくれない…いいかも」",
+    "link": "https://togetter.com/li/2591075",
+    "pubDate": "2025-08-18T06:04:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "デスクトップマスコット「伺か」もAI連携が当たり前の時代？ 「SSP」がMCPへ実験対応／画像生成の進捗を「まゆら」と「黒うにゅう」に伝えさせるデモも【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2039405.html",
+    "pubDate": "2025-08-18T05:24:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「責任ある環境で成長したい」私が AppBrew に入社を決めた理由",
+    "link": "https://zenn.dev/appbrew/articles/1097a89db692e6",
+    "pubDate": "Mon, 18 Aug 2025 04:22:28 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 for文#4 〜for文を完全攻略！-breakとcontinue編-～",
+    "link": "https://qiita.com/hitomin_poke/items/5087ae93ac56f4b163b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-18T04:04:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI絵本アプリを未経験から1人で作ってストア公開した話",
+    "link": "https://qiita.com/h-uchiba/items/1c14e60e911b95caaa38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-18T03:48:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ゼロ知識から挑んだ DMARC「none」から「reject」 へ、そしてBIMI導入までの取り組み",
+    "link": "https://zenn.dev/wn_engineering/articles/9ffbdd02cb624e",
+    "pubDate": "Mon, 18 Aug 2025 03:00:01 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "サブスクリプションが始まったKiroに関する最近の事情",
     "link": "https://zenn.dev/beagle/articles/5360946ada5607",
@@ -10,6 +52,24 @@
     "title": "次女に「この曲いいでしょ！」とゲームの曲をお勧めされて、自分も同じことをしていたと思い出した話",
     "link": "https://blog.tinect.jp/?p=90042",
     "pubDate": "2025-08-17T23:15:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "TDDでClaudeCodeのビックバン変更と向き合おう",
+    "link": "https://qiita.com/katamotokosuke/items/b254a793e2d5a6633841?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-17T23:04:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マッチングアプリで見つけた生成AIの「妻」　魅力は「人間らしさ」：朝日新聞",
+    "link": "https://www.asahi.com/articles/AST873K4HT87UTIL043M.html",
+    "pubDate": "2025-08-17T22:06:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "バックエンドのテスト理論を学び、戦略を考える",
+    "link": "https://zenn.dev/sumasate_tec/articles/5ea4363aac1c3a",
+    "pubDate": "Sun, 17 Aug 2025 22:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -24,22 +84,22 @@
     "pubDate": "2025-08-17T20:40:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub、マイクロソフトCoreAI部門の一部になることが明らかに。CEOのトーマス・ドムケ氏は退任",
-    "link": "https://www.publickey1.jp/blog/25/githubcoreaiceo.html",
-    "pubDate": "2025-08-17T15:59:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "イケてるGo版JSX,templを知っているか!?(feat. neovimでの設定)",
     "link": "https://zenn.dev/sirasagi62/articles/0f873debabf232",
     "pubDate": "Sun, 17 Aug 2025 15:21:30 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ghコマンドでよく使ってるヤツ - oinume journal",
-    "link": "https://journal.lampetty.net/entry/gh-command-use-cases",
-    "pubDate": "2025-08-17T14:52:56.000Z"
+    "site": "Zenn",
+    "title": "Gemma3 270M がでたらしいのでスペックを見てみる",
+    "link": "https://zenn.dev/satohjohn/articles/0866bbd4b2cefa",
+    "pubDate": "Sun, 17 Aug 2025 15:17:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Second Me をローカル LLM で動かすーmacOS で Docker は使わない方法",
+    "link": "https://zenn.dev/hirokita117/articles/7ff5bb257c41e4",
+    "pubDate": "Sun, 17 Aug 2025 14:49:32 GMT"
   },
   {
     "site": "Zenn",
@@ -60,12 +120,6 @@
     "pubDate": "Sun, 17 Aug 2025 11:50:32 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "セキュリティ・キャンプ2025　ジュニア応募課題晒し",
-    "link": "https://qiita.com/econanringo/items/6ad854a88af34fd42d48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-17T11:48:26.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "生成AIの成果物に責任を持ってくれ｜qsona",
     "link": "https://note.com/qsona/n/na422e3a68e72",
@@ -78,58 +132,16 @@
     "pubDate": "Sun, 17 Aug 2025 07:56:18 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "MCP Go SDK 入門",
-    "link": "https://zenn.dev/demouth/articles/c0db2e8c0b2612",
-    "pubDate": "Sun, 17 Aug 2025 07:00:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CursorのV1.3とV1.4+周辺情報が出たんじゃ",
-    "link": "https://zenn.dev/omegamaster/articles/cursor-update-v-1_4",
-    "pubDate": "Sun, 17 Aug 2025 07:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Position Based Dynamics で作るソフトボディ&流体シミュレーション",
-    "link": "https://zenn.dev/sparkle/articles/c9cd3bd4ec80be",
-    "pubDate": "Sun, 17 Aug 2025 06:21:31 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "「盗まれた瞬間に全乗っ取り」を防ぐ！iPhoneの“神設定”「盗難デバイスの保護」とは | イチオシ | ichioshi",
     "link": "https://ichioshi.smt.docomo.ne.jp/articles/news/47652",
     "pubDate": "2025-08-17T04:04:12.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "セキュリティ・キャンプBクラスのすゝめ",
-    "link": "https://zenn.dev/kaito_bq/articles/6ff59ece5e7b07",
-    "pubDate": "Sun, 17 Aug 2025 03:47:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "JavaScriptの関数と配列操作の基礎まとめ",
     "link": "https://qiita.com/maedaHARUYA/items/d65a74d63b2eaaf2cbfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-17T00:22:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Firebaseを1から100まで全て理解する",
-    "link": "https://zenn.dev/nnishi425/books/firebase-complete-guide",
-    "pubDate": "2025-08-17T00:13:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【永久保存版】おんJ民が厳選した有能サイト大全 : 哲学ニュースnwk",
-    "link": "https://nwknews.jp/archives/6210759.html",
-    "pubDate": "2025-08-16T15:27:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ClaudeCodeで挑むコンテキストエンジニアリング実践",
-    "link": "https://zenn.dev/aki_think/articles/66f6fc7530467a",
-    "pubDate": "Sat, 16 Aug 2025 15:04:04 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【セキュリティ】デジタルフォレンジックス — 不正調査から証拠保全まで",
     "link": "https://qiita.com/nozomi2025/items/7b51246ea3c9356d5497?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-15T14:27:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JavaScriptオブジェクトの基本まとめ",
-    "link": "https://qiita.com/maedaHARUYA/items/499a191ce9f987470688?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-15T10:47:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【エヴァンゲリオン】ヤシマ作戦みたいな臨場感と緊張感があるタイマーアプリを作りたい",
-    "link": "https://qiita.com/Necoze/items/1b3ec72415dec3039304?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-14T23:36:49.000Z"
   }
 ]
