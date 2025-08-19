@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "総務省｜報道資料｜楽天モバイル株式会社に対する通信の秘密の保護、漏えい報告書の提出及びコンプライアンス・リスク管理体制構築の徹底に係る措置（指導）",
+    "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000261.html",
+    "pubDate": "2025-08-19T06:20:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『シャンプーと石鹸を30代・40代用にしたワイ、娘からニオイが消えたと言われ嬉し泣き』あまりの快挙に商品名を知りたい人が殺到",
+    "link": "https://togetter.com/li/2591531",
+    "pubDate": "2025-08-19T06:16:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「貸したバッテリーを売らないで」　ChargeSPOTが注意喚起",
+    "link": "https://www.watch.impress.co.jp/docs/news/2039869.html",
+    "pubDate": "2025-08-19T05:38:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 for文#5 〜for文を完全攻略！-複数変数・更新式カスタマイズ編-～",
+    "link": "https://qiita.com/hitomin_poke/items/a46b74efb4c0b847e8cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-19T03:27:02.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "はてなブックマーク20周年",
     "link": "https://b.hatena.ne.jp/20th",
     "pubDate": "2025-08-19T03:08:00.000Z"
@@ -10,6 +34,12 @@
     "title": "はてなブックマークは20周年を迎えました - はてなブックマーク開発ブログ",
     "link": "https://bookmark.hatenastaff.com/entry/bookmark20th",
     "pubDate": "2025-08-19T03:06:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code で GitHub Projects管理効率化",
+    "link": "https://qiita.com/hgkcho/items/50eb441e1ea88df33387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-19T02:25:59.000Z"
   },
   {
     "site": "Hatena",
@@ -25,21 +55,33 @@
   },
   {
     "site": "Hatena",
+    "title": "I/F設計ガイドラインを公開しました | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20250818a/",
+    "pubDate": "2025-08-18T23:27:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【実案件使用】Cursorプロンプト × コード公開！ ②バグ修正編",
+    "link": "https://qiita.com/ShotaFukuyama/items/1d2f3dae7e1598a3a532?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-18T22:09:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeをなるべく安全に動かすためのDev Containerを構築した",
+    "link": "https://zenn.dev/backpaper0/articles/038838c4cec2a8",
+    "pubDate": "Mon, 18 Aug 2025 21:48:37 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "【海外動向】Googleが昨年出したプロンプトエンジニアリングに関する論文が、その質の高さから再度脚光を集める",
     "link": "https://techfeed.io/entries/68a3998e359794350ac51efe",
     "pubDate": "2025-08-18T21:22:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIに半径50ｍ以内に絶対いてほしくない家を描いてもらった「かなり解像度が高い」「こんな家の方が健全そうだが…」",
-    "link": "https://togetter.com/li/2591363",
-    "pubDate": "2025-08-18T19:21:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Googleのコーディングエージェント「Jules」正式版が誰でも利用可能に。コードを自己レビューする新機能「Jules Critic」追加",
-    "link": "https://www.publickey1.jp/blog/25/googlejulesjules_critic.html",
-    "pubDate": "2025-08-18T14:26:25.000Z"
+    "site": "Zenn",
+    "title": "セキュリティ・キャンプ2025 全国大会 Bクラス チューター参加記",
+    "link": "https://zenn.dev/alphe/articles/b28bc4e6983d41",
+    "pubDate": "Mon, 18 Aug 2025 20:43:32 GMT"
   },
   {
     "site": "Hatena",
@@ -48,40 +90,40 @@
     "pubDate": "2025-08-18T13:09:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「3Dプリンターのオープンソース設計」が中国企業によって勝手に特許申請されて業界全体が危機に陥っているという指摘",
-    "link": "https://gigazine.net/news/20250818-open-hardware-desktop-3d-printing/",
-    "pubDate": "2025-08-18T12:38:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ニューラルネットワークの蒸留で、教師モデルの明示されない隠れた特性が生徒モデルに伝播するのか？",
     "link": "https://zenn.dev/horiyuki42/articles/aa18f3c9448494",
     "pubDate": "Mon, 18 Aug 2025 12:36:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ラフさえ描けばイラスト作品ほぼ完成　画像生成AI「FLUX.1 Kontext」LoRAが示す制作の未来 (1/5)",
-    "link": "https://ascii.jp/elem/000/004/312/4312934/",
-    "pubDate": "2025-08-18T07:23:21.000Z"
+    "site": "Qiita",
+    "title": "【検索が速くなる】Chromeの検索バーでGoogle DriveやQiitaを一発検索！",
+    "link": "https://qiita.com/ponzujure/items/cb7d35318c1000aded34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-18T10:27:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】AIと会話しながら身につける英単語学習アプリを作ってみた【React + Supabase + Gemini API】",
+    "link": "https://qiita.com/like-mountain/items/7a10011d8a1693d5c60a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-18T09:00:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】自分のためのコード販売サイトを作ってみた【Next.js×TypeScript×Stripe×supabase】",
+    "link": "https://qiita.com/ichi_react/items/1b49c6071187aedd8793?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-18T08:17:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MastraのMemory機能を深掘る 〜AIエージェントの記憶システム実践ガイド〜",
+    "link": "https://zenn.dev/nextbeat/articles/mastra-memory-storage",
+    "pubDate": "Mon, 18 Aug 2025 04:28:54 GMT"
   },
   {
     "site": "Zenn",
     "title": "「責任ある環境で成長したい」私が AppBrew に入社を決めた理由",
     "link": "https://zenn.dev/appbrew/articles/1097a89db692e6",
     "pubDate": "Mon, 18 Aug 2025 04:22:28 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 for文#4 〜for文を完全攻略！-breakとcontinue編-～",
-    "link": "https://qiita.com/hitomin_poke/items/5087ae93ac56f4b163b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-18T04:04:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI絵本アプリを未経験から1人で作ってストア公開した話",
-    "link": "https://qiita.com/h-uchiba/items/1c14e60e911b95caaa38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-18T03:48:19.000Z"
   },
   {
     "site": "Zenn",
@@ -103,21 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "ラズパイ5でサーバー構築に挑戦！セットアップからWordPressでWebサイト公開まで",
-    "link": "https://qiita.com/takumi_ishiguro/items/efbd7f37db77774d56a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-18T01:08:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "非機能要求グレードの歩き方 Vol.14 バッチ編-C1通常運用",
-    "link": "https://zenn.dev/nttdata_tech/articles/465b231ca214db",
-    "pubDate": "Mon, 18 Aug 2025 01:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを24時間動かす技術",
-    "link": "https://zenn.dev/studio_prairie/articles/0c0cc762996079",
-    "pubDate": "Mon, 18 Aug 2025 00:35:39 GMT"
+    "title": "VMwareの代替に 高評価の６製品",
+    "link": "https://qiita.com/matthew_edmond/items/939fc99da89705e5d518?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-18T01:56:12.000Z"
   },
   {
     "site": "Zenn",
@@ -126,28 +156,10 @@
     "pubDate": "Mon, 18 Aug 2025 00:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "TDDでClaudeCodeのビックバン変更と向き合おう",
-    "link": "https://qiita.com/katamotokosuke/items/b254a793e2d5a6633841?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-17T23:04:50.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "バックエンドのテスト理論を学び、戦略を考える",
     "link": "https://zenn.dev/sumasate_tec/articles/5ea4363aac1c3a",
     "pubDate": "Sun, 17 Aug 2025 22:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【大雨災害】QGISで道路に水がたまりやすい（かもしれない）箇所を推定する",
-    "link": "https://qiita.com/koukita/items/956c2b94a66f8209c657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-17T15:37:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "イケてるGo版JSX,templを知っているか!?(feat. neovimでの設定)",
-    "link": "https://zenn.dev/sirasagi62/articles/0f873debabf232",
-    "pubDate": "Sun, 17 Aug 2025 15:21:30 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "JavaScriptの関数と配列操作の基礎まとめ",
-    "link": "https://qiita.com/maedaHARUYA/items/d65a74d63b2eaaf2cbfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-17T00:22:12.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "なんで Power BI を正しく使用できるユーザーが増えないのだろう？",
     "link": "https://qiita.com/yugoes1021/items/4df0aecacbf7263bed14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-16T10:51:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【悪用ダメ】セキュリティ試験でよく見る 「OR 1=1」 で侵害する攻撃をやってみた（SQL インジェクション）",
-    "link": "https://qiita.com/sick_sec_sox/items/f9d30d35815cad8ff15d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-16T04:40:32.000Z"
   }
 ]
