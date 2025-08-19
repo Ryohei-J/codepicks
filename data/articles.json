@@ -1,5 +1,11 @@
 [
   {
+    "site": "Zenn",
+    "title": "Hono Conference 2025を開催します！",
+    "link": "https://zenn.dev/yusukebe/articles/4d431463b61c6a",
+    "pubDate": "Tue, 19 Aug 2025 07:12:14 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "総務省｜報道資料｜楽天モバイル株式会社に対する通信の秘密の保護、漏えい報告書の提出及びコンプライアンス・リスク管理体制構築の徹底に係る措置（指導）",
     "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000261.html",
@@ -16,6 +22,12 @@
     "title": "「貸したバッテリーを売らないで」　ChargeSPOTが注意喚起",
     "link": "https://www.watch.impress.co.jp/docs/news/2039869.html",
     "pubDate": "2025-08-19T05:38:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【2025年版】MIXI 新卒向け技術研修の資料・動画を公開しました。",
+    "link": "https://zenn.dev/mixi/articles/95e0d0477c1ed7",
+    "pubDate": "Tue, 19 Aug 2025 04:33:33 GMT"
   },
   {
     "site": "Qiita",
@@ -40,6 +52,18 @@
     "title": "Claude Code で GitHub Projects管理効率化",
     "link": "https://qiita.com/hgkcho/items/50eb441e1ea88df33387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-19T02:25:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GraphQLスキーマ設計：Global Object ID、エラーハンドリング、Non-null、Cursorの考え方",
+    "link": "https://zenn.dev/peoplex_blog/articles/b567c0322bfd8a",
+    "pubDate": "Tue, 19 Aug 2025 01:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "JetBrains公式のKotlin製AIエージェントフレームワーク\"Koog\"やるぞ",
+    "link": "https://zenn.dev/smartround_dev/articles/9faa2d870b15b2",
+    "pubDate": "Tue, 19 Aug 2025 00:39:47 GMT"
   },
   {
     "site": "Hatena",
@@ -84,10 +108,16 @@
     "pubDate": "Mon, 18 Aug 2025 20:43:32 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【PC-98】Windows95で仕事ができるか実験してみた",
-    "link": "https://time-space.kddi.com/digicul-column/suguyaru/20151221.html",
-    "pubDate": "2025-08-18T13:09:27.000Z"
+    "site": "Zenn",
+    "title": "Next.js on Cloudflare Workersでフルスタックアプリケーションを開発した",
+    "link": "https://zenn.dev/shinaps/articles/5806c6579c5aeb",
+    "pubDate": "Mon, 18 Aug 2025 20:28:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code を Serena MCP で強化しよう！Cursorとも連携するよ。",
+    "link": "https://zenn.dev/ficilcom/articles/da858df304b588",
+    "pubDate": "Mon, 18 Aug 2025 16:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -114,10 +144,10 @@
     "pubDate": "2025-08-18T08:17:18.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "MastraのMemory機能を深掘る 〜AIエージェントの記憶システム実践ガイド〜",
-    "link": "https://zenn.dev/nextbeat/articles/mastra-memory-storage",
-    "pubDate": "Mon, 18 Aug 2025 04:28:54 GMT"
+    "site": "Hatena",
+    "title": "Obsidian × LM Studioで実現する、完全プライベートなAI執筆環境の作り方 - たねやつの木",
+    "link": "https://www.taneyats.com/entry/obsidian-lmstudio-private-ai",
+    "pubDate": "2025-08-18T07:24:02.000Z"
   },
   {
     "site": "Zenn",
@@ -126,40 +156,10 @@
     "pubDate": "Mon, 18 Aug 2025 04:22:28 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "生成 AI のアプリ構築を基礎から学べる書籍を出します",
-    "link": "https://zenn.dev/ivry/articles/492e8e19de3906",
-    "pubDate": "Mon, 18 Aug 2025 03:32:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ゼロ知識から挑んだ DMARC「none」から「reject」 へ、そしてBIMI導入までの取り組み",
-    "link": "https://zenn.dev/wn_engineering/articles/9ffbdd02cb624e",
-    "pubDate": "Mon, 18 Aug 2025 03:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "サブスクリプションが始まったKiroに関する最近の事情",
-    "link": "https://zenn.dev/beagle/articles/5360946ada5607",
-    "pubDate": "Mon, 18 Aug 2025 02:34:51 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "VMwareの代替に 高評価の６製品",
     "link": "https://qiita.com/matthew_edmond/items/939fc99da89705e5d518?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-18T01:56:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ビルド不要！ Google Apps Script のウェブアプリを Vue.js と Tailwind CSS で実装しよう",
-    "link": "https://zenn.dev/lollipop_onl/articles/nulaber-blog-relay-2025-summer",
-    "pubDate": "Mon, 18 Aug 2025 00:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バックエンドのテスト理論を学び、戦略を考える",
-    "link": "https://zenn.dev/sumasate_tec/articles/5ea4363aac1c3a",
-    "pubDate": "Sun, 17 Aug 2025 22:00:01 GMT"
   },
   {
     "site": "Qiita",
