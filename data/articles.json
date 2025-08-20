@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "JPYCなんなのか、自分がJPYCに何を期待しているか / 決済業者に検閲されない自由なプラットフォームの誕生へ - Lambdaカクテル",
+    "link": "https://blog.3qe.us/entry/2025/08/20/130454",
+    "pubDate": "2025-08-20T04:43:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 for文#6 ～for文の限界とJava Stream入門～",
+    "link": "https://qiita.com/hitomin_poke/items/79db9af5113991483e2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-20T03:29:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "太陽光だけで浮遊する飛行体、米国チームが技術開発　高度50～100kmの未開拓層でも浮く　通信中継などに活用",
     "link": "https://www.itmedia.co.jp/news/articles/2508/20/news039.html",
     "pubDate": "2025-08-20T00:23:25.000Z"
@@ -36,6 +48,18 @@
     "pubDate": "2025-08-19T22:11:41.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "MacBook で AIデータベース体験: MCPサーバーをインストールして Oracle Database に自然言語で質問してみてみた",
+    "link": "https://qiita.com/shirok/items/9fe46cd707a3fb43a796?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-19T22:08:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート",
+    "link": "https://qiita.com/akira_papa_AI/items/255ad4ed86ef0924e801?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-19T18:55:21.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "LLM は二次資料？情報源としての LLM との向き合い方",
     "link": "https://zenn.dev/toga/articles/llm-as-a-source",
@@ -49,9 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AI時代のドメイン駆動設計-DDD実践におけるAI活用のあり方 / ddd-in-ai-era",
-    "link": "https://speakerdeck.com/minodriven/ddd-in-ai-era",
-    "pubDate": "2025-08-19T13:15:14.000Z"
+    "title": "Obsidian Bases 入門｜松濤Vimmer",
+    "link": "https://note.com/shotovim/n/n20d31913131b",
+    "pubDate": "2025-08-19T13:52:31.000Z"
   },
   {
     "site": "Zenn",
@@ -64,6 +88,24 @@
     "title": "無料であらゆる動画の字幕を自動で文字起こし・修正・編集・翻訳ができるオープンソースの字幕エディター「Subtitle Edit」を使ってみた",
     "link": "https://gigazine.net/news/20250819-subtitle-edit/",
     "pubDate": "2025-08-19T10:06:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JavaScriptの便利な関数機能と構文まとめ",
+    "link": "https://qiita.com/maedaHARUYA/items/67dcfae63f6506225836?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-19T09:15:26.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "From Early Adopter to AI Skeptic... and Back",
+    "link": "https://qiita.com/qngdt/items/2171a9b4bcba762bdc8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-19T08:30:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GitHub Copilotと仲良くなろう！",
+    "link": "https://qiita.com/im_yoneda/items/fae79d30df9ed900efa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-19T08:10:15.000Z"
   },
   {
     "site": "Zenn",
@@ -90,24 +132,6 @@
     "pubDate": "Tue, 19 Aug 2025 04:08:02 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 for文#5 〜for文を完全攻略！-複数変数・更新式カスタマイズ編-～",
-    "link": "https://qiita.com/hitomin_poke/items/a46b74efb4c0b847e8cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-19T03:27:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "はてなブックマーク20周年",
-    "link": "https://b.hatena.ne.jp/20th",
-    "pubDate": "2025-08-19T03:08:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code で GitHub Projects管理効率化",
-    "link": "https://qiita.com/hgkcho/items/50eb441e1ea88df33387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-19T02:25:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "FigmaMCP＋Cursorで直感的にUIを作成してみる🎨",
     "link": "https://zenn.dev/jambo_dev/articles/f383623d5cafd1",
@@ -121,6 +145,12 @@
   },
   {
     "site": "Zenn",
+    "title": "GraphQLスキーマ設計：Global Object ID、エラーハンドリング、Non-null、Cursorの考え方",
+    "link": "https://zenn.dev/peoplex_blog/articles/b567c0322bfd8a",
+    "pubDate": "Tue, 19 Aug 2025 01:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "RAGでLLMの内部パラメータを活用する方法",
     "link": "https://zenn.dev/knowledgesense/articles/0712abdd04a4f6",
     "pubDate": "Tue, 19 Aug 2025 00:58:52 GMT"
@@ -130,24 +160,6 @@
     "title": "JetBrains公式のKotlin製AIエージェントフレームワーク\"Koog\"やるぞ",
     "link": "https://zenn.dev/smartround_dev/articles/9faa2d870b15b2",
     "pubDate": "Tue, 19 Aug 2025 00:39:47 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【実案件使用】Cursorプロンプト × コード公開！ ②バグ修正編",
-    "link": "https://qiita.com/ShotaFukuyama/items/1d2f3dae7e1598a3a532?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-18T22:09:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeをなるべく安全に動かすためのDev Containerを構築した",
-    "link": "https://zenn.dev/backpaper0/articles/038838c4cec2a8",
-    "pubDate": "Mon, 18 Aug 2025 21:48:37 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "簡単！M365 Copilot で MS Docs MCP を使う ",
-    "link": "https://qiita.com/aktsmm/items/928cbcbd61d1c54091e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-18T21:27:50.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "VMwareの代替に 高評価の６製品",
     "link": "https://qiita.com/matthew_edmond/items/939fc99da89705e5d518?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-18T01:56:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "お盆休みに「AIで議事録ツールをつくって。簡単なのでいいから」と言われたときのレシピ",
-    "link": "https://qiita.com/R_28/items/dbcce690a69bf7964423?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-17T07:33:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SSL/TLS の変遷と代表的な脆弱性",
-    "link": "https://qiita.com/whoami_priv/items/748169d79e532fc8793a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-17T01:34:44.000Z"
   }
 ]
