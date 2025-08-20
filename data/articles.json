@@ -1,15 +1,57 @@
 [
   {
+    "site": "Hatena",
+    "title": "「守る」から「攻める」へ。セキュリティエンジニアがビジネスに貢献するために - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/08/20/080000",
+    "pubDate": "2025-08-19T23:22:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIの被害の深刻さは絵の著作権問題よりも架空のネイチャーフォトによる情報汚染ではないか「このままだと取り返しがつかなくなりそう」「AIで判別できないか」",
+    "link": "https://togetter.com/li/2591797",
+    "pubDate": "2025-08-19T23:03:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "技術書かはわからんけど、エンジニアにオススメしたい本の1位はこれかな→「30年前にこの視座の高さは感服」「ワインバーグの本は仕事のコミュ力の全てが詰まってる」",
+    "link": "https://posfie.com/@petaritape/p/pK9MM5f",
+    "pubDate": "2025-08-19T15:42:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代のドメイン駆動設計-DDD実践におけるAI活用のあり方 / ddd-in-ai-era",
+    "link": "https://speakerdeck.com/minodriven/ddd-in-ai-era",
+    "pubDate": "2025-08-19T13:15:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemma3:270Mをファインチューニングして使ってみた",
+    "link": "https://zenn.dev/mixi/articles/1a6a7c1856c206",
+    "pubDate": "Tue, 19 Aug 2025 12:00:59 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIもメタクソ化の道を辿るのか、あるいは「普通の技術」に落ち着くか",
+    "link": "https://wirelesswire.jp/2025/08/89012/",
+    "pubDate": "2025-08-19T11:38:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料であらゆる動画の字幕を自動で文字起こし・修正・編集・翻訳ができるオープンソースの字幕エディター「Subtitle Edit」を使ってみた",
+    "link": "https://gigazine.net/news/20250819-subtitle-edit/",
+    "pubDate": "2025-08-19T10:06:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ゲーム中にSSDが認識されなくなる不具合報告。Windows11 24H2にて発生。これもKB5063878に起因か | ニッチなPCゲーマーの環境構築Z",
+    "link": "https://www.nichepcgamer.com/archives/windows11-24h2-ssd-detection-failure-during-gameplay.html",
+    "pubDate": "2025-08-19T07:36:01.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Hono Conference 2025を開催します！",
     "link": "https://zenn.dev/yusukebe/articles/4d431463b61c6a",
     "pubDate": "Tue, 19 Aug 2025 07:12:14 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "総務省｜報道資料｜楽天モバイル株式会社に対する通信の秘密の保護、漏えい報告書の提出及びコンプライアンス・リスク管理体制構築の徹底に係る措置（指導）",
-    "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000261.html",
-    "pubDate": "2025-08-19T06:20:23.000Z"
   },
   {
     "site": "Hatena",
@@ -19,15 +61,21 @@
   },
   {
     "site": "Hatena",
-    "title": "「貸したバッテリーを売らないで」　ChargeSPOTが注意喚起",
-    "link": "https://www.watch.impress.co.jp/docs/news/2039869.html",
-    "pubDate": "2025-08-19T05:38:42.000Z"
+    "title": "ZOZOTOWNカート・決済システムの大規模リプレイス 〜 モジュラモノリス設計で進めた現実的リプレイス戦略 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/zozotown-cart-and-payment-system-modular-monolith-system-replacement",
+    "pubDate": "2025-08-19T06:13:38.000Z"
   },
   {
     "site": "Zenn",
     "title": "【2025年版】MIXI 新卒向け技術研修の資料・動画を公開しました。",
     "link": "https://zenn.dev/mixi/articles/95e0d0477c1ed7",
     "pubDate": "Tue, 19 Aug 2025 04:33:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Oxlintがv1になっていたので触ってみた",
+    "link": "https://zenn.dev/chot/articles/01febe09f4a07a",
+    "pubDate": "Tue, 19 Aug 2025 04:08:02 GMT"
   },
   {
     "site": "Qiita",
@@ -42,16 +90,22 @@
     "pubDate": "2025-08-19T03:08:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "はてなブックマークは20周年を迎えました - はてなブックマーク開発ブログ",
-    "link": "https://bookmark.hatenastaff.com/entry/bookmark20th",
-    "pubDate": "2025-08-19T03:06:18.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code で GitHub Projects管理効率化",
     "link": "https://qiita.com/hgkcho/items/50eb441e1ea88df33387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-19T02:25:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "FigmaMCP＋Cursorで直感的にUIを作成してみる🎨",
+    "link": "https://zenn.dev/jambo_dev/articles/f383623d5cafd1",
+    "pubDate": "Tue, 19 Aug 2025 02:13:51 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "「仕様駆動開発」へのアンサーとしてのCline v3.25.0",
+    "link": "https://qiita.com/watany/items/8b08958427c9e48a20fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-19T01:27:25.000Z"
   },
   {
     "site": "Zenn",
@@ -61,27 +115,15 @@
   },
   {
     "site": "Zenn",
+    "title": "RAGでLLMの内部パラメータを活用する方法",
+    "link": "https://zenn.dev/knowledgesense/articles/0712abdd04a4f6",
+    "pubDate": "Tue, 19 Aug 2025 00:58:52 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "JetBrains公式のKotlin製AIエージェントフレームワーク\"Koog\"やるぞ",
     "link": "https://zenn.dev/smartround_dev/articles/9faa2d870b15b2",
     "pubDate": "Tue, 19 Aug 2025 00:39:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "スピードと品質を両立する、AI時代の開発ドキュメント戦略 - Techtouch Developers Blog",
-    "link": "https://tech.techtouch.jp/entry/aic-document-strategy",
-    "pubDate": "2025-08-19T00:18:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Mozilla、ドイツがまもなく広告ブロッカーを違法と宣言する可能性を警告 - TokyoBlackHatNews",
-    "link": "https://blackhatnews.tokyo/archives/5335",
-    "pubDate": "2025-08-19T00:09:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "I/F設計ガイドラインを公開しました | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20250818a/",
-    "pubDate": "2025-08-18T23:27:29.000Z"
   },
   {
     "site": "Qiita",
@@ -96,34 +138,16 @@
     "pubDate": "Mon, 18 Aug 2025 21:48:37 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【海外動向】Googleが昨年出したプロンプトエンジニアリングに関する論文が、その質の高さから再度脚光を集める",
-    "link": "https://techfeed.io/entries/68a3998e359794350ac51efe",
-    "pubDate": "2025-08-18T21:22:57.000Z"
+    "site": "Qiita",
+    "title": "簡単！M365 Copilot で MS Docs MCP を使う ",
+    "link": "https://qiita.com/aktsmm/items/928cbcbd61d1c54091e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-18T21:27:50.000Z"
   },
   {
     "site": "Zenn",
     "title": "セキュリティ・キャンプ2025 全国大会 Bクラス チューター参加記",
     "link": "https://zenn.dev/alphe/articles/b28bc4e6983d41",
     "pubDate": "Mon, 18 Aug 2025 20:43:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js on Cloudflare Workersでフルスタックアプリケーションを開発した",
-    "link": "https://zenn.dev/shinaps/articles/5806c6579c5aeb",
-    "pubDate": "Mon, 18 Aug 2025 20:28:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code を Serena MCP で強化しよう！Cursorとも連携するよ。",
-    "link": "https://zenn.dev/ficilcom/articles/da858df304b588",
-    "pubDate": "Mon, 18 Aug 2025 16:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ニューラルネットワークの蒸留で、教師モデルの明示されない隠れた特性が生徒モデルに伝播するのか？",
-    "link": "https://zenn.dev/horiyuki42/articles/aa18f3c9448494",
-    "pubDate": "Mon, 18 Aug 2025 12:36:50 GMT"
   },
   {
     "site": "Qiita",
@@ -133,27 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【個人開発】AIと会話しながら身につける英単語学習アプリを作ってみた【React + Supabase + Gemini API】",
-    "link": "https://qiita.com/like-mountain/items/7a10011d8a1693d5c60a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-18T09:00:19.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【個人開発】自分のためのコード販売サイトを作ってみた【Next.js×TypeScript×Stripe×supabase】",
     "link": "https://qiita.com/ichi_react/items/1b49c6071187aedd8793?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-18T08:17:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Obsidian × LM Studioで実現する、完全プライベートなAI執筆環境の作り方 - たねやつの木",
-    "link": "https://www.taneyats.com/entry/obsidian-lmstudio-private-ai",
-    "pubDate": "2025-08-18T07:24:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「責任ある環境で成長したい」私が AppBrew に入社を決めた理由",
-    "link": "https://zenn.dev/appbrew/articles/1097a89db692e6",
-    "pubDate": "Mon, 18 Aug 2025 04:22:28 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "SSL/TLS の変遷と代表的な脆弱性",
     "link": "https://qiita.com/whoami_priv/items/748169d79e532fc8793a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-17T01:34:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "なんで Power BI を正しく使用できるユーザーが増えないのだろう？",
-    "link": "https://qiita.com/yugoes1021/items/4df0aecacbf7263bed14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-16T10:51:25.000Z"
   }
 ]
