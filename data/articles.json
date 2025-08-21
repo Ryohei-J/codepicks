@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "膨張や変形した危険なバッテリも回収するサービス",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2040508.html",
+    "pubDate": "2025-08-21T02:17:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「生成AIには意図がない」とはどういう主張なのか - netenete.",
+    "link": "https://nete-nete.hatenablog.com/entry/2025/08/20/192950",
+    "pubDate": "2025-08-21T01:39:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグル、「Pixel 10」発表　5倍望遠レンズを搭載",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2039822.html",
+    "pubDate": "2025-08-20T23:14:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ワット数ディスプレイ搭載のUSBケーブルが便利そして快感 - nomolkのブログ",
     "link": "https://nomolk.hatenablog.com/entry/2025/08/17/210000",
     "pubDate": "2025-08-20T21:29:26.000Z"
@@ -12,10 +30,10 @@
     "pubDate": "2025-08-20T15:19:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Pythonに関する年次調査、仕事としてのPython経験は半数が2年以内、WebフレームワークはFastAPIが急伸で1位に。The State of Python 2025",
-    "link": "https://www.publickey1.jp/blog/25/pythonpython2webfastapi1the_state_of_python_2025.html",
-    "pubDate": "2025-08-20T14:07:05.000Z"
+    "site": "Zenn",
+    "title": "【.NET】ジェネリック共有について【Unity】",
+    "link": "https://zenn.dev/aakei/articles/sharing-generics",
+    "pubDate": "Wed, 20 Aug 2025 14:45:22 GMT"
   },
   {
     "site": "Hatena",
@@ -37,21 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Cookieを許可したらアカウント情報が流出!? パスワード自動入力を悪用した攻撃に注意",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2040344.html",
-    "pubDate": "2025-08-20T08:40:22.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "OpenAI、AIコーディングエージェントをガイドするための「AGENTS.md」サイトを公開 | gihyo.jp",
     "link": "https://gihyo.jp/article/2025/08/agents-md-site",
     "pubDate": "2025-08-20T08:31:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スターリンク、月額730円の「スタンバイモード」 低速・無制限",
-    "link": "https://www.watch.impress.co.jp/docs/news/2040342.html",
-    "pubDate": "2025-08-20T08:26:09.000Z"
+    "site": "Zenn",
+    "title": "Codex CLI をプロジェクトに詳しい相棒にする",
+    "link": "https://zenn.dev/innovation/articles/bc05ab1116adb7",
+    "pubDate": "Wed, 20 Aug 2025 07:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「カテゴリカル変数の相関係数」をご存知ですか？",
+    "link": "https://zenn.dev/gatechnologies/articles/2025-07-31-ordinalcorr",
+    "pubDate": "Wed, 20 Aug 2025 04:23:00 GMT"
   },
   {
     "site": "Zenn",
@@ -64,12 +82,6 @@
     "title": "【ポケモン×Java】知識編 for文#6 ～for文の限界とJava Stream入門～",
     "link": "https://qiita.com/hitomin_poke/items/79db9af5113991483e2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-20T03:29:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【2025年版】MIXI 新卒向け技術研修の資料・動画を公開しました。",
-    "link": "https://zenn.dev/mixi/articles/95e0d0477c1ed7",
-    "pubDate": "2025-08-20T01:26:22.000Z"
   },
   {
     "site": "Zenn",
@@ -94,6 +106,12 @@
     "title": "【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート",
     "link": "https://qiita.com/akira_papa_AI/items/255ad4ed86ef0924e801?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-19T18:55:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vibe codingでStreamDeck互換機を自作した",
+    "link": "https://zenn.dev/hiiraginil/articles/396fb53521d8d8",
+    "pubDate": "Tue, 19 Aug 2025 16:22:27 GMT"
   },
   {
     "site": "Zenn",
@@ -138,34 +156,10 @@
     "pubDate": "Tue, 19 Aug 2025 07:12:14 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【2025年版】MIXI 新卒向け技術研修の資料・動画を公開しました。",
-    "link": "https://zenn.dev/mixi/articles/95e0d0477c1ed7",
-    "pubDate": "Tue, 19 Aug 2025 04:33:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Oxlintがv1になっていたので触ってみた",
-    "link": "https://zenn.dev/chot/articles/01febe09f4a07a",
-    "pubDate": "Tue, 19 Aug 2025 04:08:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "FigmaMCP＋Cursorで直感的にUIを作成してみる🎨",
-    "link": "https://zenn.dev/jambo_dev/articles/f383623d5cafd1",
-    "pubDate": "Tue, 19 Aug 2025 02:13:51 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「仕様駆動開発」へのアンサーとしてのCline v3.25.0",
     "link": "https://qiita.com/watany/items/8b08958427c9e48a20fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-19T01:27:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GraphQLスキーマ設計：Global Object ID、エラーハンドリング、Non-null、Cursorの考え方",
-    "link": "https://zenn.dev/peoplex_blog/articles/b567c0322bfd8a",
-    "pubDate": "Tue, 19 Aug 2025 01:00:06 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "VMwareの代替に 高評価の６製品",
     "link": "https://qiita.com/matthew_edmond/items/939fc99da89705e5d518?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-18T01:56:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "プログラマの抱いている名前についての誤謬",
+    "link": "https://emptypage.jp/translations/kalzumeus/falsehoods-programmers-believe-about-names.html?s=09",
+    "pubDate": "2021-05-19T03:28:13.000Z"
   }
 ]
