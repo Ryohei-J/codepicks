@@ -1,21 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "「電源タップに革命」縦、横、間も差せる新タップ発売　開発に3年……「ありそうでなかった」と話題",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/22/news075.html",
+    "pubDate": "2025-08-22T02:21:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ほとんどのパスワード管理アプリから機密情報を盗み出せる ～拡張機能を狙う攻撃手法が明らかに／未対策のパスワードマネージャーも多数",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2040917.html",
+    "pubDate": "2025-08-22T02:12:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "any-script-mcp で任意のコマンドを MCP Tool にする",
+    "link": "https://zenn.dev/layerx/articles/fdc7174d9a9386",
+    "pubDate": "Fri, 22 Aug 2025 00:45:36 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "“退職”は健康に良い影響――慶大と早大が研究報告　50歳以上約10万人を対象に調査",
     "link": "https://www.itmedia.co.jp/news/articles/2508/22/news036.html",
     "pubDate": "2025-08-21T23:11:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "同じ5行のコードが全く違って見える12の瞬間、なぜ私たちは学ぶのか？",
+    "link": "https://zenn.dev/coconala/articles/reasons-for-continuing-to-learn",
+    "pubDate": "Thu, 21 Aug 2025 22:04:52 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【海外記事紹介】Pythonのf文字列チートシートが公開、これはブクマ推奨",
+    "link": "https://techfeed.io/entries/68a78e7f38c71f053cbb5b0b",
+    "pubDate": "2025-08-21T21:26:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust で型推論を高速かつ安全に実装",
+    "link": "https://zenn.dev/toga/articles/rust-type-inference",
+    "pubDate": "Thu, 21 Aug 2025 15:25:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "パスワードマネージャへのクリックジャッキング攻撃に対して、いま私たちが出来ること",
+    "link": "https://zenn.dev/trustdock/articles/ff2c5282b00fe3",
+    "pubDate": "Thu, 21 Aug 2025 11:37:52 GMT"
   },
   {
     "site": "Hatena",
     "title": "アマゾンのFireタブレットからFire OSが消える？「普通のAndroid端末」になるとの噂 - すまほん!!",
     "link": "https://smhn.info/202508-fire-os-rumors",
     "pubDate": "2025-08-21T08:31:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【悲報】AIに関してズレた認識の漫画を投稿した絵師、無事荒れる【木星在住】",
-    "link": "https://posfie.com/@pyasineban97350/p/6Tx02T1",
-    "pubDate": "2025-08-21T08:26:53.000Z"
   },
   {
     "site": "Qiita",
@@ -28,18 +64,6 @@
     "title": "生成AIに月8万課金、23歳で月収100万。始まりはChatGPT“宿題代行”。",
     "link": "https://studio.persol-group.co.jp/nama/250821-1",
     "pubDate": "2025-08-21T05:38:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "特別リポート：帰らなかった高齢男性、ニューヨークに誘った「魅力的な女性」はメタのＡＩチャットボット",
-    "link": "https://www.reuters.com/graphics/SPECIAL-REPORT/AI-CHATBOT/myvmxxaaepr/",
-    "pubDate": "2025-08-21T05:14:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "品質リーダーシップを発揮するエンジニアに対して、QAとしてできること",
-    "link": "https://zenn.dev/loglass/articles/9924012b335cd0",
-    "pubDate": "2025-08-21T04:23:38.000Z"
   },
   {
     "site": "Zenn",
@@ -115,27 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "オフィス移転備忘録　これから移転する方へ",
-    "link": "https://zenn.dev/dress_code/articles/0450a7678633be",
-    "pubDate": "Wed, 20 Aug 2025 03:53:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Amplify gen2 移行のすゝめ",
-    "link": "https://zenn.dev/daikitchen/books/d788d1e2a552d4",
-    "pubDate": "Wed, 20 Aug 2025 02:10:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LocalStackでAWSをローカル再現してみた",
-    "link": "https://zenn.dev/weel_techblog/articles/39e3e205d91427",
-    "pubDate": "Wed, 20 Aug 2025 01:04:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）",
-    "link": "https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action",
-    "pubDate": "Tue, 19 Aug 2025 23:00:06 GMT"
+    "title": "「カテゴリカル変数の相関係数」をご存知ですか？",
+    "link": "https://zenn.dev/gatechnologies/articles/2025-07-31-ordinalcorr",
+    "pubDate": "Wed, 20 Aug 2025 04:23:00 GMT"
   },
   {
     "site": "Qiita",
@@ -148,12 +154,6 @@
     "title": "【現時点のCursor全まとめ｜v1.4対応】2025年08月時点でのCursor 総復習するための完全チートシート",
     "link": "https://qiita.com/akira_papa_AI/items/255ad4ed86ef0924e801?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-19T18:55:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vibe codingでStreamDeck互換機を自作した",
-    "link": "https://zenn.dev/hiiraginil/articles/396fb53521d8d8",
-    "pubDate": "Tue, 19 Aug 2025 16:22:27 GMT"
   },
   {
     "site": "Qiita",
