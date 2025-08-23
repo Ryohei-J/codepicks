@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Code の学習モードで自分の手でコードを書く練習をしよう",
+    "link": "https://azukiazusa.dev/blog/claude-code-learning-mode/",
+    "pubDate": "2025-08-23T06:13:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "国産LLM開発着手について - GPUで戦うな",
     "link": "https://www.chickensblog.com/new-japan-llm/",
     "pubDate": "2025-08-23T03:52:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI エージェント実践ガイドブック",
+    "link": "https://cloud.google.com/resources/content/intl/ja-jp/aiagentgb?hl=ja",
+    "pubDate": "2025-08-23T02:44:04.000Z"
   },
   {
     "site": "Hatena",
@@ -18,10 +30,10 @@
     "pubDate": "Fri, 22 Aug 2025 22:03:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "MS、Windows11 24H2でSSDが認識しなくなる不具合を再現できず。フィードバックを求める | ニッチなPCゲーマーの環境構築Z",
-    "link": "https://www.nichepcgamer.com/archives/microsoft-unable-to-reproduce-ssd-detection-issue-in-windows11-24h2.html",
-    "pubDate": "2025-08-22T15:57:47.000Z"
+    "site": "Qiita",
+    "title": "TouchDesigner Vol.063 Intro to POPs ─ 映えるビジュアルづくり with TsumikiRoom　のメモ書き",
+    "link": "https://qiita.com/takashi_kawamura/items/def90c882d489d4d56bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-22T14:35:57.000Z"
   },
   {
     "site": "Hatena",
@@ -30,22 +42,10 @@
     "pubDate": "2025-08-22T14:00:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Apple、児童ポルノ取引アプリ対策に本腰入れず 取材には「オフレコ」提案 日本の警察は10年前に措置要請(42) | Tansa",
-    "link": "https://tansajp.org/investigativejournal/12451/",
-    "pubDate": "2025-08-22T11:47:14.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【TCP/IP】重要な技術すぎる - Qiita",
     "link": "https://qiita.com/im_yoneda/items/10f0dc871c28639631d8",
     "pubDate": "2025-08-22T10:22:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "タクシーアプリ「GO」、47都道府県で利用可能に　9月下旬に島根県で提供開始",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/22/news120.html",
-    "pubDate": "2025-08-22T10:02:56.000Z"
   },
   {
     "site": "Zenn",
@@ -55,15 +55,21 @@
   },
   {
     "site": "Qiita",
-    "title": "【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選",
-    "link": "https://qiita.com/satokenichi/items/afa59c3605825bdf76f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-22T06:30:36.000Z"
+    "title": "1ユーザーとしてCOMETAを使ってみた",
+    "link": "https://qiita.com/khpkymgc/items/1441a684fdd27b84006a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-22T08:34:41.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 for文 番外編 ～for文あるあるエラー集～",
-    "link": "https://qiita.com/hitomin_poke/items/69d71b208cc073e608bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-22T06:27:02.000Z"
+    "title": "Symbol ネットワーク設定項目一覧",
+    "link": "https://qiita.com/bootarouapp/items/e4d526cb1dfbb28fc9ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-22T06:53:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選",
+    "link": "https://qiita.com/satokenichi/items/afa59c3605825bdf76f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-22T06:30:36.000Z"
   },
   {
     "site": "Zenn",
@@ -76,6 +82,12 @@
     "title": "MCP でアクセシビリティ（ WCAG 2.2 準拠）レビューを爆速自動化： Figmaアノテーション生成",
     "link": "https://zenn.dev/kikagaku/articles/b01cc77624cf3d",
     "pubDate": "Fri, 22 Aug 2025 03:34:07 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "エンジニア考案「視力2.0を保つ秘訣」は間違いだった！ 医師が解説「メガネを掛ければいい」では済まない近視の恐ろしさ - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/27203/",
+    "pubDate": "2025-08-22T02:33:16.000Z"
   },
   {
     "site": "Zenn",
@@ -139,27 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Autonomous Database 19cから23aiへのアップグレードをスケジュールする",
-    "link": "https://qiita.com/sy10/items/da025e7d08aadcfc421b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-21T10:48:03.000Z"
+    "title": "【TCP/IP】重要な技術すぎる",
+    "link": "https://qiita.com/im_yoneda/items/10f0dc871c28639631d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-21T09:05:12.000Z"
   },
   {
     "site": "Qiita",
     "title": "君たちは本当のマウスホイールを知らない",
     "link": "https://qiita.com/KineYue/items/84b17b3a5429999dc403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-21T08:50:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【リーダブルコード】コードを読みやすくするチェックリスト📝",
-    "link": "https://qiita.com/kimuchi_a/items/af44fc4e6916bf9f47ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-21T06:17:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新卒エンジニアがGoogle Prompting Essentials1週間攻略！新卒研修がプロンプト力に直結した話",
-    "link": "https://qiita.com/kaichan_dot/items/62514c1a087d80be5b67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-21T03:08:58.000Z"
   },
   {
     "site": "Qiita",
