@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "国産LLM開発着手について - GPUで戦うな",
+    "link": "https://www.chickensblog.com/new-japan-llm/",
+    "pubDate": "2025-08-23T03:52:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "アップル、新ＳｉｒｉにグーグルＡＩ「ジェミニ」起用を検討＝報道",
     "link": "https://jp.reuters.com/markets/japan/funds/HGTW7JL6JFNXDBTF5XUJT46TDE-2025-08-22/",
     "pubDate": "2025-08-22T22:46:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【初心者向け】Claude Codeの脱初心者の考察",
+    "link": "https://zenn.dev/oikon/articles/claude-code-bigineer",
+    "pubDate": "Fri, 22 Aug 2025 22:03:02 GMT"
   },
   {
     "site": "Hatena",
@@ -24,16 +36,22 @@
     "pubDate": "2025-08-22T11:47:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "愛知県豊明市、「スマホは2時間まで」条例案を釈明--「あくまで目安、強制ではない」",
-    "link": "https://japan.cnet.com/article/35237053/",
-    "pubDate": "2025-08-22T07:49:18.000Z"
+    "site": "Qiita",
+    "title": "【TCP/IP】重要な技術すぎる - Qiita",
+    "link": "https://qiita.com/im_yoneda/items/10f0dc871c28639631d8",
+    "pubDate": "2025-08-22T10:22:01.000Z"
   },
   {
     "site": "Hatena",
-    "title": "『Microsoft Officeに望む唯一のこと』は［F12］キーでかなえられるという話／「Word」や「Excel」、「PowerPoint」でファイル保存ダイアログを一発で開く方法【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2041135.html",
-    "pubDate": "2025-08-22T07:41:58.000Z"
+    "title": "タクシーアプリ「GO」、47都道府県で利用可能に　9月下旬に島根県で提供開始",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/22/news120.html",
+    "pubDate": "2025-08-22T10:02:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "セキュリティ・キャンプ 2025 全国大会専門Bに参加しました (プロダクトセキュリティクラス)",
+    "link": "https://zenn.dev/calloc134/articles/seccamp_sanka_blog",
+    "pubDate": "Fri, 22 Aug 2025 09:22:18 GMT"
   },
   {
     "site": "Qiita",
@@ -54,12 +72,6 @@
     "pubDate": "2025-08-22T06:15:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "共同編集アプリが作れる新しいJSライブラリ「Loro」を紹介 - ICS MEDIA",
-    "link": "https://ics.media/entry/250821/",
-    "pubDate": "2025-08-22T03:40:05.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "MCP でアクセシビリティ（ WCAG 2.2 準拠）レビューを爆速自動化： Figmaアノテーション生成",
     "link": "https://zenn.dev/kikagaku/articles/b01cc77624cf3d",
@@ -70,12 +82,6 @@
     "title": "GoogleのVirtual Try-On API登場までのバーチャル試着を解説する",
     "link": "https://zenn.dev/tsuruo/articles/21783916dd0283",
     "pubDate": "Fri, 22 Aug 2025 02:23:10 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ほとんどのパスワード管理アプリから機密情報を盗み出せる ～拡張機能を狙う攻撃手法が明らかに／未対策のパスワードマネージャーも多数",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2040917.html",
-    "pubDate": "2025-08-22T02:12:12.000Z"
   },
   {
     "site": "Zenn",
@@ -96,16 +102,16 @@
     "pubDate": "2025-08-22T00:42:01.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "エンジニア「ファシリって苦手…」←3つの心得授けたる - Qiita",
+    "link": "https://qiita.com/TyNaugh/items/dc530e4a5bcb0a1bf595",
+    "pubDate": "2025-08-22T00:26:45.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "rails consoleのようにgolangを扱えるCLIを作った",
     "link": "https://zenn.dev/yuta_kakiki/articles/5468fe79be932c",
     "pubDate": "Fri, 22 Aug 2025 00:20:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "２０２５年夏のAppleの税制・価格改定について",
-    "link": "https://zenn.dev/hsylife/articles/d376a5d15a2fe0",
-    "pubDate": "Thu, 21 Aug 2025 23:16:16 GMT"
   },
   {
     "site": "Zenn",
@@ -130,12 +136,6 @@
     "title": "エンジニア「ファシリって苦手…」←3つの心得授けたる",
     "link": "https://qiita.com/TyNaugh/items/dc530e4a5bcb0a1bf595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-21T12:46:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "パスワードマネージャへのクリックジャッキング攻撃に対して、いま私たちが出来ること",
-    "link": "https://zenn.dev/trustdock/articles/ff2c5282b00fe3",
-    "pubDate": "Thu, 21 Aug 2025 11:37:52 GMT"
   },
   {
     "site": "Qiita",
