@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "メルカリ、「胎児のエコー写真」の出品を禁止　「不適切なものに該当すると判断」",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/25/news103.html",
+    "pubDate": "2025-08-25T08:03:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】Lv7：『勝つのはどっちだ！？』〜while〜",
+    "link": "https://qiita.com/hitomin_poke/items/4730375fa58727ec1656?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-25T04:12:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "趣味で研究が進められた「AIを使った絵画修復」に関する論文が美術界を震撼させる",
+    "link": "https://gigazine.net/news/20250825-art-restoration-ai/",
+    "pubDate": "2025-08-25T04:05:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "失敗の質を上げる『「正しく」失敗できるチームを作る』",
+    "link": "https://dain.cocolog-nifty.com/myblog/2025/08/post-7ec8a7.html",
+    "pubDate": "2025-08-25T02:50:36.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "いったい何が？ Bluesky、米ミシシッピ州からのアクセスを年齢を問わず完全ブロック【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2041383.html",
     "pubDate": "2025-08-25T02:43:42.000Z"
@@ -10,6 +34,12 @@
     "title": "親会社から「パクれ」と指示された会社が、開発者の僕に「回路図とソースをくれ」と直接連絡してきた→「え…どう言う事？」「稀によくある」",
     "link": "https://posfie.com/@petaritape/p/WNOzhps",
     "pubDate": "2025-08-25T01:18:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AI駆動開発】Cursor@ファイル指定で3段階コードレビュー",
+    "link": "https://qiita.com/ShotaFukuyama/items/496f3021f122621591a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-25T01:01:29.000Z"
   },
   {
     "site": "Zenn",
@@ -30,10 +60,16 @@
     "pubDate": "Mon, 25 Aug 2025 00:33:14 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "電気の基本単位（ボルト、オーム、アンペア）の基準を一度に作り出す「次世代標準器」　米国チームが発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/25/news031.html",
-    "pubDate": "2025-08-24T23:25:37.000Z"
+    "site": "Qiita",
+    "title": "RAG構築はもう怖くない！AI Applicationsで実装〜GoogleCloudNextTokyo25で得たTipsを実践しました〜",
+    "link": "https://qiita.com/GIFCat/items/cdfa2f161f7595d45175?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-25T00:01:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "生成AIをもっと使いこなすための便利API108選",
+    "link": "https://qiita.com/nucomiya/items/de9245194ec829c0f0c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-24T23:45:32.000Z"
   },
   {
     "site": "Hatena",
@@ -43,9 +79,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Azure FunctionsでNode.js 22が遂にGA！",
-    "link": "https://qiita.com/abachan/items/12f9250d95f2239da9d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-24T13:55:50.000Z"
+    "title": "AWS LambdaをAmazon Bedrock AgentCore GatewayでMCP互換ツールに変換して、Strands Agentsから呼び出してみた",
+    "link": "https://qiita.com/okayu777/items/a700580cc816114d8fc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-24T13:45:13.000Z"
   },
   {
     "site": "Hatena",
@@ -84,24 +120,6 @@
     "pubDate": "2025-08-24T07:18:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "広告イラストがすごい勢いで生成AIに置き換わって「お前ら、偉そうなこと言ってたくせにその程度のイラストで満足だったのか」という広告主や代理店への怒りがわく",
-    "link": "https://posfie.com/@kalofollow/p/WWZQDqm",
-    "pubDate": "2025-08-24T06:54:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "変わりゆく AI 時代のハッカソンのプロトタイプ開発（Claude編）",
-    "link": "https://qiita.com/t-kurasawa/items/cf52e8246a35aed8729c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-24T03:59:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SuperClaude とは？Claude Codeのコード品質を30%改善できた神ツールの完全ガイド！ - Qiita",
-    "link": "https://qiita.com/tomada/items/2eb1b0623c9f59424235",
-    "pubDate": "2025-08-24T01:37:20.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "nuqs 2.5.0 アップデート内容のまとめ",
     "link": "https://zenn.dev/tsuboi/articles/894347fbee6236",
@@ -112,12 +130,6 @@
     "title": "もうコードレビューに悩まない！「Looks Good To Me」から学ぶコードレビューの本質とは",
     "link": "https://qiita.com/mokio/items/38eb850d9c22a01ab913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-23T23:59:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWSネイティブセキュリティに限界を感じたら　→　CNAPPという解決策",
-    "link": "https://qiita.com/yama0531/items/1dd9665b8331d99b551f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-23T23:00:05.000Z"
   },
   {
     "site": "Zenn",
@@ -156,27 +168,15 @@
     "pubDate": "2025-08-22T17:51:21.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "第一原理計算・量子化学計算の相対論的補正（相対論的密度汎関数理論）を説明してみる",
-    "link": "https://qiita.com/dc1394/items/c60550b771145cf1853d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-22T13:08:08.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "作るのが簡単になった時代にこそ大事にしたい 小さく作る、あるいは作らない技術｜よしおかし・おり🍞",
     "link": "https://note.com/shiori440/n/ne4ee54b7d44a",
     "pubDate": "2025-08-22T07:05:10.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【2025年最新】開発者必携！Claude CodeとCursorを強化するMCPサーバー15選",
-    "link": "https://qiita.com/satokenichi/items/afa59c3605825bdf76f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-22T06:30:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIを「物知り博士」から「知的パートナー」へ。「背理系」プロンプトエンジニアリング - Qiita",
-    "link": "https://qiita.com/makotosaekit/items/ca9f707f8718d7c2471d",
-    "pubDate": "2025-08-22T05:55:21.000Z"
+    "site": "Zenn",
+    "title": "仕組みから理解するGit",
+    "link": "https://zenn.dev/adsholoko/books/deep-into-git-internals",
+    "pubDate": "2024-02-02T02:12:53.000Z"
   }
 ]
