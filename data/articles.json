@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "いったい何が？ Bluesky、米ミシシッピ州からのアクセスを年齢を問わず完全ブロック【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2041383.html",
+    "pubDate": "2025-08-25T02:43:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "親会社から「パクれ」と指示された会社が、開発者の僕に「回路図とソースをくれ」と直接連絡してきた→「え…どう言う事？」「稀によくある」",
+    "link": "https://posfie.com/@petaritape/p/WNOzhps",
+    "pubDate": "2025-08-25T01:18:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ルールファイルはプロジェクトの暗黙知を減らすから今すぐ書け",
+    "link": "https://zenn.dev/ficilcom/articles/7212c8e120b2d6",
+    "pubDate": "Mon, 25 Aug 2025 01:00:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "舞鶴市の技術好き職員がGoogle WorkspaceとChromebookへの全庁移行を実現するまで【フォーカス】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/focus/detail_713/",
+    "pubDate": "2025-08-25T00:51:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "保守を1年半をサボったExpo製のアプリを最新化してリリースまで半年かかった話",
+    "link": "https://zenn.dev/wheatandcat/articles/20250816-expo",
+    "pubDate": "Mon, 25 Aug 2025 00:33:14 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "電気の基本単位（ボルト、オーム、アンペア）の基準を一度に作り出す「次世代標準器」　米国チームが発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2508/25/news031.html",
+    "pubDate": "2025-08-24T23:25:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "生成AIの広告が流れるたび思うこと→「まともに広告費も使えないサービスなんだな」",
     "link": "https://posfie.com/@pyasineban97350/p/Wpel7ZI",
     "pubDate": "2025-08-24T22:50:05.000Z"
@@ -18,16 +54,16 @@
     "pubDate": "2025-08-24T13:31:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub - panphora/overtype: The markdown editor that's just a textarea https://overtype.dev",
-    "link": "https://github.com/panphora/overtype",
-    "pubDate": "2025-08-24T12:12:23.000Z"
+    "site": "Zenn",
+    "title": "C# × WASM化を使用してVS Code の拡張機能を作りたい(VS Code for Web)",
+    "link": "https://zenn.dev/srtia2318/articles/organize-info10-vscode-ex-wasm-f408da65b14e2f",
+    "pubDate": "Sun, 24 Aug 2025 09:33:34 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "広告イラストが生成AIに置き換わっていくのを見ると代理店などへの「偉そうなこと言ってたくせにその程度のイラストで満足だったのか」という怒りが沸いてくる",
-    "link": "https://togetter.com/li/2593777",
-    "pubDate": "2025-08-24T11:12:50.000Z"
+    "site": "Zenn",
+    "title": "Git/GitHub 複数アカウントを手軽に切り替えるための設定方法",
+    "link": "https://zenn.dev/karaage0703/articles/55f39f761321dc",
+    "pubDate": "Sun, 24 Aug 2025 08:39:47 GMT"
   },
   {
     "site": "Qiita",
@@ -36,10 +72,10 @@
     "pubDate": "2025-08-24T08:35:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "チームの問題の原因は外側にあることが多いよなぁ。「チームの力で組織を動かす」を読んだ。 - Mitsuyuki.Shiiba",
-    "link": "https://bufferings.hatenablog.com/entry/2025/08/24/170220",
-    "pubDate": "2025-08-24T08:05:49.000Z"
+    "site": "Zenn",
+    "title": "現状の業務とシステムを棚卸しする９大フォーマット",
+    "link": "https://zenn.dev/gachigachi/articles/d332245a42b8c1",
+    "pubDate": "Sun, 24 Aug 2025 08:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -52,12 +88,6 @@
     "title": "広告イラストがすごい勢いで生成AIに置き換わって「お前ら、偉そうなこと言ってたくせにその程度のイラストで満足だったのか」という広告主や代理店への怒りがわく",
     "link": "https://posfie.com/@kalofollow/p/WWZQDqm",
     "pubDate": "2025-08-24T06:54:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Goの野暮ったさとどう付き合うか | ドクセル",
-    "link": "https://www.docswell.com/s/Songmu/K6E6GM-How-to-get-along-well-with-Go",
-    "pubDate": "2025-08-24T06:26:46.000Z"
   },
   {
     "site": "Qiita",
@@ -76,12 +106,6 @@
     "title": "nuqs 2.5.0 アップデート内容のまとめ",
     "link": "https://zenn.dev/tsuboi/articles/894347fbee6236",
     "pubDate": "Sun, 24 Aug 2025 01:23:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "上昇するITエンジニア採用ハードルの正体——就活や転職活動にも直結する「社会人基礎力」｜久松剛",
-    "link": "https://comemo.nikkei.com/n/n192e676bd20a",
-    "pubDate": "2025-08-24T00:55:29.000Z"
   },
   {
     "site": "Qiita",
@@ -120,40 +144,10 @@
     "pubDate": "Sat, 23 Aug 2025 14:43:26 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「キャリア」という概念",
-    "link": "https://zenn.dev/hariby/articles/71b25bdd0ff32f",
-    "pubDate": "Sat, 23 Aug 2025 10:45:30 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "初心者がDockerfileを書くときに身につけたい5つの習慣",
     "link": "https://qiita.com/shota0616/items/8adad18c983f4e8301c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-23T05:13:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "スマホのアプリがネイティブ・Flutter・React Native製かをざっくり見分ける方法",
-    "link": "https://zenn.dev/igz0/articles/how-to-identify-native-vs-flutter-vs-react-native",
-    "pubDate": "Sat, 23 Aug 2025 05:10:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルファイルやGist,GitHub Repoをベクトル検索する",
-    "link": "https://zenn.dev/ushironoko/articles/7001411d4dca41",
-    "pubDate": "Sat, 23 Aug 2025 00:56:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "お前もCerebras推しにならないか？",
-    "link": "https://zenn.dev/jnst/articles/cerebras-is-my-fave",
-    "pubDate": "Fri, 22 Aug 2025 22:57:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【初心者向け】Claude Codeの脱初心者の考察",
-    "link": "https://zenn.dev/oikon/articles/claude-code-bigineer",
-    "pubDate": "Fri, 22 Aug 2025 22:03:02 GMT"
   },
   {
     "site": "Qiita",
@@ -166,6 +160,12 @@
     "title": "第一原理計算・量子化学計算の相対論的補正（相対論的密度汎関数理論）を説明してみる",
     "link": "https://qiita.com/dc1394/items/c60550b771145cf1853d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-22T13:08:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "作るのが簡単になった時代にこそ大事にしたい 小さく作る、あるいは作らない技術｜よしおかし・おり🍞",
+    "link": "https://note.com/shiori440/n/ne4ee54b7d44a",
+    "pubDate": "2025-08-22T07:05:10.000Z"
   },
   {
     "site": "Qiita",
