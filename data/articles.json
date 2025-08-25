@@ -1,9 +1,27 @@
 [
   {
+    "site": "Zenn",
+    "title": "Rails アプリケーション型付けハンドブック(rbs/steep)",
+    "link": "https://zenn.dev/sanfrecce_osaka/books/steep-rails-typing-handbook",
+    "pubDate": "Mon, 25 Aug 2025 12:47:31 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "メルカリ、「胎児のエコー写真」の出品を禁止　「不適切なものに該当すると判断」",
     "link": "https://www.itmedia.co.jp/news/articles/2508/25/news103.html",
     "pubDate": "2025-08-25T08:03:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CommonJS アプリケーションを ESM に移行する。ついでに Vitest にも移行する",
+    "link": "https://zenn.dev/chot/articles/migrate-from-cjs-jest-to-esm-vitest",
+    "pubDate": "Mon, 25 Aug 2025 04:51:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "13,600スターのOSSでバーンアウトした俺が、AIでOSSの経済を根本から変えようとしている話",
+    "link": "https://zenn.dev/gunta/articles/a4da171cd06b5a",
+    "pubDate": "Mon, 25 Aug 2025 04:33:53 GMT"
   },
   {
     "site": "Qiita",
@@ -19,6 +37,18 @@
   },
   {
     "site": "Hatena",
+    "title": "問い合わせ履歴をExcelの一覧表で管理のをよく見かけるけど、履歴管理において、Excelしか発想が浮かばない時点で「詰んでいる」→Excelを使ってるが故に解決しない問題",
+    "link": "https://posfie.com/@petaritape/p/uiAJsDN",
+    "pubDate": "2025-08-25T03:35:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Alibaba製AI IDEのQoderを試してみる",
+    "link": "https://zenn.dev/beagle/articles/52fb87f10d537f",
+    "pubDate": "Mon, 25 Aug 2025 03:00:37 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "失敗の質を上げる『「正しく」失敗できるチームを作る』",
     "link": "https://dain.cocolog-nifty.com/myblog/2025/08/post-7ec8a7.html",
     "pubDate": "2025-08-25T02:50:36.000Z"
@@ -31,13 +61,13 @@
   },
   {
     "site": "Hatena",
-    "title": "親会社から「パクれ」と指示された会社が、開発者の僕に「回路図とソースをくれ」と直接連絡してきた→「え…どう言う事？」「稀によくある」",
-    "link": "https://posfie.com/@petaritape/p/WNOzhps",
-    "pubDate": "2025-08-25T01:18:20.000Z"
+    "title": "週末、70代の父親のLINEアプリの設定で質問されて技術知識の偏り方について..",
+    "link": "https://anond.hatelabo.jp/20250825110520",
+    "pubDate": "2025-08-25T02:05:50.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【AI駆動開発】Cursor@ファイル指定で3段階コードレビュー",
+    "title": "【AI駆動開発】Cursor@ファイル指定でコードレビュー工数50%減",
     "link": "https://qiita.com/ShotaFukuyama/items/496f3021f122621591a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-25T01:01:29.000Z"
   },
@@ -55,7 +85,7 @@
   },
   {
     "site": "Zenn",
-    "title": "保守を1年半をサボったExpo製のアプリを最新化してリリースまで半年かかった話",
+    "title": "保守を1年半サボったExpo製のアプリを、最新化してリリースするのに半年かかった話",
     "link": "https://zenn.dev/wheatandcat/articles/20250816-expo",
     "pubDate": "Mon, 25 Aug 2025 00:33:14 GMT"
   },
@@ -78,6 +108,12 @@
     "pubDate": "2025-08-24T22:50:05.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "なぜCSS @layerが生まれたのか Cascade Layersの背景と仕組みを理解する",
+    "link": "https://zenn.dev/ryohiy/articles/css-cascade-layers",
+    "pubDate": "Sun, 24 Aug 2025 22:43:33 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AWS LambdaをAmazon Bedrock AgentCore GatewayでMCP互換ツールに変換して、Strands Agentsから呼び出してみた",
     "link": "https://qiita.com/okayu777/items/a700580cc816114d8fc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -91,9 +127,9 @@
   },
   {
     "site": "Zenn",
-    "title": "C# × WASM化を使用してVS Code の拡張機能を作りたい(VS Code for Web)",
-    "link": "https://zenn.dev/srtia2318/articles/organize-info10-vscode-ex-wasm-f408da65b14e2f",
-    "pubDate": "Sun, 24 Aug 2025 09:33:34 GMT"
+    "title": "React Router×TypeScriptで内部リンクを型で制限する",
+    "link": "https://zenn.dev/rinrin_yuuki/articles/3c91a43b50fc87",
+    "pubDate": "Sun, 24 Aug 2025 13:13:29 GMT"
   },
   {
     "site": "Zenn",
@@ -106,12 +142,6 @@
     "title": "【図解解説】仮想DOM完全理解！君だけのオリジナルReactで仕組みを学ぶチュートリアル【初心者OK】",
     "link": "https://qiita.com/Sicut_study/items/710ea707d4426011710f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-24T08:35:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "現状の業務とシステムを棚卸しする９大フォーマット",
-    "link": "https://zenn.dev/gachigachi/articles/d332245a42b8c1",
-    "pubDate": "Sun, 24 Aug 2025 08:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -132,30 +162,6 @@
     "pubDate": "2025-08-23T23:59:48.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "TCGAデータを用いた生存時間解析",
-    "link": "https://zenn.dev/labcode/books/9d0b4746f5983d",
-    "pubDate": "Sat, 23 Aug 2025 22:32:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TempestはPHP界に「嵐」を巻き起こすか？ 新星フレームワークで遊んでみた！",
-    "link": "https://zenn.dev/sonicmoov/articles/5be8bac275d377",
-    "pubDate": "Sat, 23 Aug 2025 16:35:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go1.25 New Features",
-    "link": "https://zenn.dev/koya_iwamura/articles/ea2cf191cdcb2a",
-    "pubDate": "Sat, 23 Aug 2025 14:53:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Object.entriesにasをつける人は黙って？",
-    "link": "https://zenn.dev/hotari/articles/70314cbe72f4d8",
-    "pubDate": "Sat, 23 Aug 2025 14:43:26 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "初心者がDockerfileを書くときに身につけたい5つの習慣",
     "link": "https://qiita.com/shota0616/items/8adad18c983f4e8301c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,12 +172,6 @@
     "title": "SuperClaude とは？Claude Codeのコード品質を30%改善できた神ツールの完全ガイド！",
     "link": "https://qiita.com/tomada/items/2eb1b0623c9f59424235?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-22T17:51:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "作るのが簡単になった時代にこそ大事にしたい 小さく作る、あるいは作らない技術｜よしおかし・おり🍞",
-    "link": "https://note.com/shiori440/n/ne4ee54b7d44a",
-    "pubDate": "2025-08-22T07:05:10.000Z"
   },
   {
     "site": "Zenn",
