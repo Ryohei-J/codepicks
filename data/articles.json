@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "「Obsidian」で書き溜めたノートがDBに、～新しいコアプラグイン「Bases」が追加／商用でも無償で始められる強力なMarkdownアイデアノート",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2041619.html",
+    "pubDate": "2025-08-25T23:19:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【西川和久の不定期コラム】 これは事件だ。“賢い家庭内LLMの夢”を叶える「gpt-oss-120b」、動かし方を教えます",
+    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2041470.html",
+    "pubDate": "2025-08-25T21:24:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "そのコードはなぜそうなっているのか、AIとの対話記録によりコードのコンテキストを保存する。オープンソースのコードエディタ「Zed」が新記録機能「DeltaDB」の開発表明",
+    "link": "https://www.publickey1.jp/blog/25/aizeddeltadb.html",
+    "pubDate": "2025-08-25T14:25:09.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Rails アプリケーション型付けハンドブック(rbs/steep)",
     "link": "https://zenn.dev/sanfrecce_osaka/books/steep-rails-typing-handbook",
@@ -7,9 +25,33 @@
   },
   {
     "site": "Hatena",
+    "title": "ITエンジニアが思考力を磨くべき理由｜yonekubo",
+    "link": "https://note.com/yonekubo/n/nad4dceb826f1",
+    "pubDate": "2025-08-25T11:51:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Actions の依存関係を再帰的に出力する「ghatree」の紹介",
+    "link": "https://zenn.dev/kou_pg_0131/articles/ghatree-introduction",
+    "pubDate": "Mon, 25 Aug 2025 09:00:01 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "メルカリ、「胎児のエコー写真」の出品を禁止　「不適切なものに該当すると判断」",
     "link": "https://www.itmedia.co.jp/news/articles/2508/25/news103.html",
     "pubDate": "2025-08-25T08:03:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "リモートデスクトップPCが1日5000回も攻撃されていた！実体験で学ぶセキュリティ対策",
+    "link": "https://zenn.dev/zenzoe/articles/fd75e5cf80ba74",
+    "pubDate": "2025-08-25T07:31:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "モノタロウでCursorを導入してみた理想と現実、それと未来",
+    "link": "https://speakerdeck.com/monotaro/monotaroudecursorwodao-ru-sitemitali-xiang-toxian-shi-soretowei-lai",
+    "pubDate": "2025-08-25T07:24:44.000Z"
   },
   {
     "site": "Zenn",
@@ -30,10 +72,22 @@
     "pubDate": "2025-08-25T04:12:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "趣味で研究が進められた「AIを使った絵画修復」に関する論文が美術界を震撼させる",
-    "link": "https://gigazine.net/news/20250825-art-restoration-ai/",
-    "pubDate": "2025-08-25T04:05:30.000Z"
+    "site": "Zenn",
+    "title": "明日へ前進するための（独断と偏見で選んだ）7つの習慣",
+    "link": "https://zenn.dev/coconala/articles/dce82e5590ddfe",
+    "pubDate": "Mon, 25 Aug 2025 04:03:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "リモートデスクトップPCが1日5000回も攻撃されていた！実体験で学ぶセキュリティ対策",
+    "link": "https://zenn.dev/zenzoe/articles/fd75e5cf80ba74",
+    "pubDate": "Mon, 25 Aug 2025 03:50:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SnowflakeでGET_LINEAGEを拡張して深いリネージュ分析を可能にするアプリを作ってみた",
+    "link": "https://zenn.dev/nttdata_tech/articles/20bd9742815995",
+    "pubDate": "Mon, 25 Aug 2025 03:41:45 GMT"
   },
   {
     "site": "Hatena",
@@ -48,24 +102,6 @@
     "pubDate": "Mon, 25 Aug 2025 03:00:37 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "失敗の質を上げる『「正しく」失敗できるチームを作る』",
-    "link": "https://dain.cocolog-nifty.com/myblog/2025/08/post-7ec8a7.html",
-    "pubDate": "2025-08-25T02:50:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "いったい何が？ Bluesky、米ミシシッピ州からのアクセスを年齢を問わず完全ブロック【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2041383.html",
-    "pubDate": "2025-08-25T02:43:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "週末、70代の父親のLINEアプリの設定で質問されて技術知識の偏り方について..",
-    "link": "https://anond.hatelabo.jp/20250825110520",
-    "pubDate": "2025-08-25T02:05:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【AI駆動開発】Cursor@ファイル指定でコードレビュー工数50%減",
     "link": "https://qiita.com/ShotaFukuyama/items/496f3021f122621591a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -78,16 +114,16 @@
     "pubDate": "Mon, 25 Aug 2025 01:00:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "舞鶴市の技術好き職員がGoogle WorkspaceとChromebookへの全庁移行を実現するまで【フォーカス】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/focus/detail_713/",
-    "pubDate": "2025-08-25T00:51:56.000Z"
+    "site": "Zenn",
+    "title": "非機能要求グレードの歩き方 Vol.15 A2耐障害性",
+    "link": "https://zenn.dev/nttdata_tech/articles/9ae768740d575a",
+    "pubDate": "Mon, 25 Aug 2025 01:00:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "保守を1年半サボったExpo製のアプリを、最新化してリリースするのに半年かかった話",
-    "link": "https://zenn.dev/wheatandcat/articles/20250816-expo",
-    "pubDate": "Mon, 25 Aug 2025 00:33:14 GMT"
+    "site": "Hatena",
+    "title": "データベーススペシャリスト試験を受けて業務に役立っていること - NRIネットコムBlog",
+    "link": "https://tech.nri-net.com/entry/taking_the_database_specialist_exam",
+    "pubDate": "2025-08-25T00:51:39.000Z"
   },
   {
     "site": "Qiita",
@@ -102,40 +138,10 @@
     "pubDate": "2025-08-24T23:45:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIの広告が流れるたび思うこと→「まともに広告費も使えないサービスなんだな」",
-    "link": "https://posfie.com/@pyasineban97350/p/Wpel7ZI",
-    "pubDate": "2025-08-24T22:50:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜCSS @layerが生まれたのか Cascade Layersの背景と仕組みを理解する",
-    "link": "https://zenn.dev/ryohiy/articles/css-cascade-layers",
-    "pubDate": "Sun, 24 Aug 2025 22:43:33 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "AWS LambdaをAmazon Bedrock AgentCore GatewayでMCP互換ツールに変換して、Strands Agentsから呼び出してみた",
-    "link": "https://qiita.com/okayu777/items/a700580cc816114d8fc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-24T13:45:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "はてなブックマークに人生を狂わされて9万ブクマ - 本しゃぶり",
-    "link": "https://honeshabri.hatenablog.com/entry/bookmark20th",
-    "pubDate": "2025-08-24T13:31:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Router×TypeScriptで内部リンクを型で制限する",
-    "link": "https://zenn.dev/rinrin_yuuki/articles/3c91a43b50fc87",
-    "pubDate": "Sun, 24 Aug 2025 13:13:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Git/GitHub 複数アカウントを手軽に切り替えるための設定方法",
-    "link": "https://zenn.dev/karaage0703/articles/55f39f761321dc",
-    "pubDate": "Sun, 24 Aug 2025 08:39:47 GMT"
+    "title": "【プログラミングの基本のキ】変数の寿命はできるだけ短くせよ",
+    "link": "https://qiita.com/jnchito/items/785e325debaca7185a2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-24T23:04:06.000Z"
   },
   {
     "site": "Qiita",
@@ -150,12 +156,6 @@
     "pubDate": "2025-08-24T07:18:28.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "nuqs 2.5.0 アップデート内容のまとめ",
-    "link": "https://zenn.dev/tsuboi/articles/894347fbee6236",
-    "pubDate": "Sun, 24 Aug 2025 01:23:45 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "もうコードレビューに悩まない！「Looks Good To Me」から学ぶコードレビューの本質とは",
     "link": "https://qiita.com/mokio/items/38eb850d9c22a01ab913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -163,15 +163,15 @@
   },
   {
     "site": "Qiita",
-    "title": "初心者がDockerfileを書くときに身につけたい5つの習慣",
-    "link": "https://qiita.com/shota0616/items/8adad18c983f4e8301c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-23T05:13:34.000Z"
+    "title": "ローカル LLM 環境を構築する",
+    "link": "https://qiita.com/kkawaharanet/items/b80d7cde49364aa94963?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-23T22:00:26.000Z"
   },
   {
     "site": "Qiita",
-    "title": "SuperClaude とは？Claude Codeのコード品質を30%改善できた神ツールの完全ガイド！",
-    "link": "https://qiita.com/tomada/items/2eb1b0623c9f59424235?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-22T17:51:21.000Z"
+    "title": "初心者がDockerfileを書くときに身につけたい5つの習慣",
+    "link": "https://qiita.com/shota0616/items/8adad18c983f4e8301c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-23T05:13:34.000Z"
   },
   {
     "site": "Zenn",
