@@ -1,5 +1,17 @@
 [
   {
+    "site": "Zenn",
+    "title": "組織で育てるAI活用テスト設計の仕組み",
+    "link": "https://zenn.dev/medley/articles/26a8a5d2c8175f",
+    "pubDate": "Tue, 26 Aug 2025 02:13:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIファーストで全てを書き直す：エンジニアが知るべき新パラダイム",
+    "link": "https://zenn.dev/gunta/articles/5b7a081fef8c71",
+    "pubDate": "Mon, 25 Aug 2025 23:44:47 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「Obsidian」で書き溜めたノートがDBに、～新しいコアプラグイン「Bases」が追加／商用でも無償で始められる強力なMarkdownアイデアノート",
     "link": "https://forest.watch.impress.co.jp/docs/news/2041619.html",
@@ -13,9 +25,21 @@
   },
   {
     "site": "Hatena",
+    "title": "投資家が警戒「ソフトウエアの死」　高収益モデル、AIで揺らぐ恐れ - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUB215ER0R20C25A8000000/",
+    "pubDate": "2025-08-25T18:11:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "そのコードはなぜそうなっているのか、AIとの対話記録によりコードのコンテキストを保存する。オープンソースのコードエディタ「Zed」が新記録機能「DeltaDB」の開発表明",
     "link": "https://www.publickey1.jp/blog/25/aizeddeltadb.html",
     "pubDate": "2025-08-25T14:25:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google GenAI SDK の非公式ドキュメント | Gemini / Imagen / Veo を使う",
+    "link": "https://zenn.dev/prgckwb/articles/google-genai-sdk",
+    "pubDate": "Mon, 25 Aug 2025 14:12:57 GMT"
   },
   {
     "site": "Zenn",
@@ -31,15 +55,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Amazon S3 Vectorsを試してみた",
+    "link": "https://zenn.dev/fusic/articles/14a98be48d9266",
+    "pubDate": "Mon, 25 Aug 2025 09:53:26 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "GitHub Actions の依存関係を再帰的に出力する「ghatree」の紹介",
     "link": "https://zenn.dev/kou_pg_0131/articles/ghatree-introduction",
     "pubDate": "Mon, 25 Aug 2025 09:00:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "メルカリ、「胎児のエコー写真」の出品を禁止　「不適切なものに該当すると判断」",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/25/news103.html",
-    "pubDate": "2025-08-25T08:03:45.000Z"
   },
   {
     "site": "Zenn",
@@ -84,40 +108,16 @@
     "pubDate": "Mon, 25 Aug 2025 03:50:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "SnowflakeでGET_LINEAGEを拡張して深いリネージュ分析を可能にするアプリを作ってみた",
-    "link": "https://zenn.dev/nttdata_tech/articles/20bd9742815995",
-    "pubDate": "Mon, 25 Aug 2025 03:41:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "問い合わせ履歴をExcelの一覧表で管理のをよく見かけるけど、履歴管理において、Excelしか発想が浮かばない時点で「詰んでいる」→Excelを使ってるが故に解決しない問題",
-    "link": "https://posfie.com/@petaritape/p/uiAJsDN",
-    "pubDate": "2025-08-25T03:35:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Alibaba製AI IDEのQoderを試してみる",
-    "link": "https://zenn.dev/beagle/articles/52fb87f10d537f",
-    "pubDate": "Mon, 25 Aug 2025 03:00:37 GMT"
+    "site": "Qiita",
+    "title": "生成AIをもっと使いこなすための便利API108選 - Qiita",
+    "link": "https://qiita.com/nucomiya/items/de9245194ec829c0f0c6",
+    "pubDate": "2025-08-25T01:53:28.000Z"
   },
   {
     "site": "Qiita",
     "title": "【AI駆動開発】Cursor@ファイル指定でコードレビュー工数50%減",
     "link": "https://qiita.com/ShotaFukuyama/items/496f3021f122621591a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-25T01:01:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ルールファイルはプロジェクトの暗黙知を減らすから今すぐ書け",
-    "link": "https://zenn.dev/ficilcom/articles/7212c8e120b2d6",
-    "pubDate": "Mon, 25 Aug 2025 01:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "非機能要求グレードの歩き方 Vol.15 A2耐障害性",
-    "link": "https://zenn.dev/nttdata_tech/articles/9ae768740d575a",
-    "pubDate": "Mon, 25 Aug 2025 01:00:02 GMT"
   },
   {
     "site": "Hatena",
