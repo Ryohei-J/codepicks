@@ -1,9 +1,57 @@
 [
   {
+    "site": "Hatena",
+    "title": "シンプルに疑問だけど、リモートワークで運用保守のエンジニアが「仕事疲れて勉強時間が取れない」って何なんだろうか←これに対する怨嗟のDMに共感が集まるのはなぜ？",
+    "link": "https://togetter.com/li/2594592",
+    "pubDate": "2025-08-26T12:56:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Playストア外のAndroidアプリ、今後は開発者認証が必須に",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2041884.html",
+    "pubDate": "2025-08-26T08:46:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ホテルの朝食混雑予想が最新技術すぎる「電源もシステムも要らない」「部屋から確認できる仕組みならいうことない」",
+    "link": "https://togetter.com/li/2594515",
+    "pubDate": "2025-08-26T06:42:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "\"あの頃\"の強かったClaude Codeを少しでも取り戻す方法",
+    "link": "https://zenn.dev/discus0434/scraps/e0b1a0aa5406eb",
+    "pubDate": "2025-08-26T05:53:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "発火リスクが低いリン酸鉄採用モバイルバッテリ。20,000mAhで2,380円",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2041781.html",
+    "pubDate": "2025-08-26T05:25:31.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 while文#1 〜while文を完全攻略！-基本構文編-～",
+    "link": "https://qiita.com/hitomin_poke/items/7fd616b874c8cc6dd5a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-26T05:04:51.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "組織で育てるAI活用テスト設計の仕組み",
     "link": "https://zenn.dev/medley/articles/26a8a5d2c8175f",
     "pubDate": "Tue, 26 Aug 2025 02:13:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI搭載エディタから開放されたので、軽量なZedに再挑戦したら快適でした",
+    "link": "https://zenn.dev/globis/articles/03bb90c9aec4a4",
+    "pubDate": "Tue, 26 Aug 2025 01:26:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ひょっとして国産サービスでコミュニティを維持できてるのってはてなブックマークだけ？",
+    "link": "https://anond.hatelabo.jp/20250826064940",
+    "pubDate": "2025-08-26T00:50:10.000Z"
   },
   {
     "site": "Zenn",
@@ -18,6 +66,24 @@
     "pubDate": "2025-08-25T23:19:26.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIエージェントに「過去の失敗」を教えて、精度を上げる",
+    "link": "https://zenn.dev/knowledgesense/articles/9f55a757e6af15",
+    "pubDate": "Mon, 25 Aug 2025 23:00:06 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIさん、そうじゃないんだけど、、を回避したい① マインド篇",
+    "link": "https://qiita.com/ikeyaH/items/f6aa4dbbcba3f1a8cc3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-25T22:54:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "🤖  AI UX｜AIチャットを“スルスル”動かすSmooth Text Streaming",
+    "link": "https://zenn.dev/n0aaa_eth/articles/8a876265b5e20b",
+    "pubDate": "Mon, 25 Aug 2025 22:00:06 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【西川和久の不定期コラム】 これは事件だ。“賢い家庭内LLMの夢”を叶える「gpt-oss-120b」、動かし方を教えます",
     "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2041470.html",
@@ -25,15 +91,9 @@
   },
   {
     "site": "Hatena",
-    "title": "投資家が警戒「ソフトウエアの死」　高収益モデル、AIで揺らぐ恐れ - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUB215ER0R20C25A8000000/",
-    "pubDate": "2025-08-25T18:11:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "そのコードはなぜそうなっているのか、AIとの対話記録によりコードのコンテキストを保存する。オープンソースのコードエディタ「Zed」が新記録機能「DeltaDB」の開発表明",
-    "link": "https://www.publickey1.jp/blog/25/aizeddeltadb.html",
-    "pubDate": "2025-08-25T14:25:09.000Z"
+    "title": "もともと思考力が高い人は生成AIを使い倒すことができるが、批判的思考に慣れていない人は、AIを使えば使うほど、思考力が弱くなるという研究結果が出てしまう→残酷過ぎて笑う",
+    "link": "https://posfie.com/@kalofollow/p/o7zk54Y",
+    "pubDate": "2025-08-25T20:55:32.000Z"
   },
   {
     "site": "Zenn",
@@ -48,34 +108,10 @@
     "pubDate": "Mon, 25 Aug 2025 12:47:31 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ITエンジニアが思考力を磨くべき理由｜yonekubo",
-    "link": "https://note.com/yonekubo/n/nad4dceb826f1",
-    "pubDate": "2025-08-25T11:51:44.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Amazon S3 Vectorsを試してみた",
     "link": "https://zenn.dev/fusic/articles/14a98be48d9266",
     "pubDate": "Mon, 25 Aug 2025 09:53:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Actions の依存関係を再帰的に出力する「ghatree」の紹介",
-    "link": "https://zenn.dev/kou_pg_0131/articles/ghatree-introduction",
-    "pubDate": "Mon, 25 Aug 2025 09:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "リモートデスクトップPCが1日5000回も攻撃されていた！実体験で学ぶセキュリティ対策",
-    "link": "https://zenn.dev/zenzoe/articles/fd75e5cf80ba74",
-    "pubDate": "2025-08-25T07:31:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "モノタロウでCursorを導入してみた理想と現実、それと未来",
-    "link": "https://speakerdeck.com/monotaro/monotaroudecursorwodao-ru-sitemitali-xiang-toxian-shi-soretowei-lai",
-    "pubDate": "2025-08-25T07:24:44.000Z"
   },
   {
     "site": "Zenn",
@@ -91,24 +127,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】Lv7：『勝つのはどっちだ！？』〜while〜",
-    "link": "https://qiita.com/hitomin_poke/items/4730375fa58727ec1656?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-25T04:12:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "明日へ前進するための（独断と偏見で選んだ）7つの習慣",
-    "link": "https://zenn.dev/coconala/articles/dce82e5590ddfe",
-    "pubDate": "Mon, 25 Aug 2025 04:03:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "リモートデスクトップPCが1日5000回も攻撃されていた！実体験で学ぶセキュリティ対策",
-    "link": "https://zenn.dev/zenzoe/articles/fd75e5cf80ba74",
-    "pubDate": "Mon, 25 Aug 2025 03:50:00 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "生成AIをもっと使いこなすための便利API108選 - Qiita",
     "link": "https://qiita.com/nucomiya/items/de9245194ec829c0f0c6",
     "pubDate": "2025-08-25T01:53:28.000Z"
@@ -118,18 +136,6 @@
     "title": "【AI駆動開発】Cursor@ファイル指定でコードレビュー工数50%減",
     "link": "https://qiita.com/ShotaFukuyama/items/496f3021f122621591a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-25T01:01:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "データベーススペシャリスト試験を受けて業務に役立っていること - NRIネットコムBlog",
-    "link": "https://tech.nri-net.com/entry/taking_the_database_specialist_exam",
-    "pubDate": "2025-08-25T00:51:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "RAG構築はもう怖くない！AI Applicationsで実装〜GoogleCloudNextTokyo25で得たTipsを実践しました〜",
-    "link": "https://qiita.com/GIFCat/items/cdfa2f161f7595d45175?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-25T00:01:48.000Z"
   },
   {
     "site": "Qiita",
@@ -142,6 +148,12 @@
     "title": "【プログラミングの基本のキ】変数の寿命はできるだけ短くせよ",
     "link": "https://qiita.com/jnchito/items/785e325debaca7185a2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-24T23:04:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "SRE屋のひとりごと",
+    "link": "https://qiita.com/yujittttttt/items/ab1df699da03044eab2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-24T15:44:29.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "ローカル LLM 環境を構築する",
     "link": "https://qiita.com/kkawaharanet/items/b80d7cde49364aa94963?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-23T22:00:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "初心者がDockerfileを書くときに身につけたい5つの習慣",
-    "link": "https://qiita.com/shota0616/items/8adad18c983f4e8301c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-23T05:13:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕組みから理解するGit",
-    "link": "https://zenn.dev/adsholoko/books/deep-into-git-internals",
-    "pubDate": "2024-02-02T02:12:53.000Z"
   }
 ]
