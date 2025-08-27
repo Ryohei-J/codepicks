@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "めっちゃ下痢した後でおしりの穴が痛くなるのは「アルカリ性のうんこ」のせいなので「弱酸性のボディーソープ」とかで洗ったら痛みがスーッととれるよ",
+    "link": "https://togetter.com/li/2594962",
+    "pubDate": "2025-08-27T12:21:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米空軍のＦ３５操縦士、機体墜落前にエンジニアと５０分の空中電話会議行う　事故報告書",
+    "link": "https://www.cnn.co.jp/usa/35237240.html",
+    "pubDate": "2025-08-27T11:55:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「推論する生成AI」は事前学習されていない課題を正しく推論することができない（共変量シフトに弱い） - 渋谷駅前で働くデータサイエンティストのブログ",
+    "link": "https://tjo.hatenablog.com/entry/2025/08/27/173000",
+    "pubDate": "2025-08-27T09:53:14.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "MySQLのロック継承が引き起こしたsupremumロックによるDB障害事例 - freee Developers Hub",
     "link": "https://developers.freee.co.jp/entry/db-failure-caused-by-supremum-lock",
     "pubDate": "2025-08-27T06:56:18.000Z"
@@ -30,10 +48,10 @@
     "pubDate": "2025-08-27T03:31:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ターミナルエミュレータを自作してみた - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/advent-calendar-2025-summer-8",
-    "pubDate": "2025-08-27T00:57:47.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeの新しいプラグイン機能を先行体験する",
+    "link": "https://zenn.dev/yuku/articles/f968b3822d5982",
+    "pubDate": "Wed, 27 Aug 2025 03:13:25 GMT"
   },
   {
     "site": "Hatena",
@@ -49,6 +67,12 @@
   },
   {
     "site": "Hatena",
+    "title": "AIコーディングエージェントは100倍速くなる - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2025/08/27/041755",
+    "pubDate": "2025-08-26T21:10:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "有線）キーボードのしっくりしたものを買うのは難しいね。 最初のキーボー..",
     "link": "https://anond.hatelabo.jp/20250827055342",
     "pubDate": "2025-08-26T20:56:11.000Z"
@@ -60,22 +84,22 @@
     "pubDate": "2025-08-26T17:04:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ZOZOTOWNフロントエンドにおけるディレクトリの分割戦略",
-    "link": "https://speakerdeck.com/zozotech/zozotown-frontend-directory-design",
-    "pubDate": "2025-08-26T15:17:05.000Z"
+    "site": "Zenn",
+    "title": "左手デバイスからVimを操作する",
+    "link": "https://zenn.dev/nil2/articles/a88c03e37aa4c3",
+    "pubDate": "Tue, 26 Aug 2025 15:36:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "iOSアプリの課金実装",
+    "link": "https://zenn.dev/solar/books/9b1726f0e1aca4",
+    "pubDate": "Tue, 26 Aug 2025 15:14:59 GMT"
   },
   {
     "site": "Qiita",
     "title": "DOMイベントメモ",
     "link": "https://qiita.com/maedaHARUYA/items/50e906e81c34dae8c064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-26T13:00:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "DXやAI導入は基本成功しません、だって仕事が楽にならないから！｜抹茶もなか",
-    "link": "https://note.com/mattyamonaca/n/n10c8154a8824",
-    "pubDate": "2025-08-26T12:09:32.000Z"
   },
   {
     "site": "Qiita",
@@ -103,12 +127,6 @@
   },
   {
     "site": "Zenn",
-    "title": "【Next Tokyo 25 レポート】Expo で最新技術を体験してきた",
-    "link": "https://zenn.dev/cloud_ace/articles/google-cloud-next-tokyo-2025-expo",
-    "pubDate": "Tue, 26 Aug 2025 06:02:50 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "画像1枚からアノテーションレスで物体検出AIモデル開発",
     "link": "https://zenn.dev/mkj/articles/2a0b7f9788578d",
     "pubDate": "Tue, 26 Aug 2025 02:50:05 GMT"
@@ -118,12 +136,6 @@
     "title": "組織で育てるAI活用テスト設計の仕組み",
     "link": "https://zenn.dev/medley/articles/26a8a5d2c8175f",
     "pubDate": "Tue, 26 Aug 2025 02:13:36 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "コーディングAIをもっと使いやすく、新標準「AGENTS.md」公開：いわばコーディングエージェント用の「README」",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/26/news011.html",
-    "pubDate": "2025-08-26T01:50:56.000Z"
   },
   {
     "site": "Zenn",
@@ -148,18 +160,6 @@
     "title": "AIエージェントに「過去の失敗」を教えて、精度を上げる",
     "link": "https://zenn.dev/knowledgesense/articles/9f55a757e6af15",
     "pubDate": "Mon, 25 Aug 2025 23:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "🤖  AI UX｜AIチャットを“スルスル”動かすSmooth Text Streaming",
-    "link": "https://zenn.dev/n0aaa_eth/articles/8a876265b5e20b",
-    "pubDate": "Mon, 25 Aug 2025 22:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rails アプリケーション型付けハンドブック(rbs/steep)",
-    "link": "https://zenn.dev/sanfrecce_osaka/books/steep-rails-typing-handbook",
-    "pubDate": "Mon, 25 Aug 2025 12:47:31 GMT"
   },
   {
     "site": "Qiita",
