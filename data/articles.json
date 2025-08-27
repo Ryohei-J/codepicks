@@ -1,33 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "AI開発ツールカオスマップ　2025年度上期版 - Findy Tools",
+    "link": "https://findy-tools.io/articles/ai-development-chaosmap/101",
+    "pubDate": "2025-08-26T23:47:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ZOZOTOWNフロントエンドにおけるディレクトリの分割戦略",
+    "link": "https://speakerdeck.com/zozotech/zozotown-frontend-directory-design",
+    "pubDate": "2025-08-26T15:17:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "シンプルに疑問だけど、リモートワークで運用保守のエンジニアが「仕事疲れて勉強時間が取れない」って何なんだろうか←これに対する怨嗟のDMに共感が集まるのはなぜ？",
     "link": "https://togetter.com/li/2594592",
     "pubDate": "2025-08-26T12:56:02.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Playストア外のAndroidアプリ、今後は開発者認証が必須に",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2041884.html",
-    "pubDate": "2025-08-26T08:46:40.000Z"
+    "title": "DXやAI導入は基本成功しません、だって仕事が楽にならないから！｜抹茶もなか",
+    "link": "https://note.com/mattyamonaca/n/n10c8154a8824",
+    "pubDate": "2025-08-26T12:09:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ホテルの朝食混雑予想が最新技術すぎる「電源もシステムも要らない」「部屋から確認できる仕組みならいうことない」",
-    "link": "https://togetter.com/li/2594515",
-    "pubDate": "2025-08-26T06:42:13.000Z"
+    "site": "Qiita",
+    "title": "Accessibility Visualizerを活用したアクセシビリティチェック",
+    "link": "https://qiita.com/ymrl/items/06069c9876ba113f9c20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-26T07:42:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code UIレビュー：スマホからでもAIコーディングが可能に！開発効率が劇的向上",
+    "link": "https://qiita.com/takuya77088/items/518b213b1e6d3264afbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-26T07:34:33.000Z"
   },
   {
     "site": "Zenn",
     "title": "\"あの頃\"の強かったClaude Codeを少しでも取り戻す方法",
     "link": "https://zenn.dev/discus0434/scraps/e0b1a0aa5406eb",
     "pubDate": "2025-08-26T05:53:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "発火リスクが低いリン酸鉄採用モバイルバッテリ。20,000mAhで2,380円",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2041781.html",
-    "pubDate": "2025-08-26T05:25:31.000Z"
   },
   {
     "site": "Qiita",
@@ -37,9 +49,27 @@
   },
   {
     "site": "Zenn",
+    "title": "画像1枚からアノテーションレスで物体検出AIモデル開発",
+    "link": "https://zenn.dev/mkj/articles/2a0b7f9788578d",
+    "pubDate": "Tue, 26 Aug 2025 02:50:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIファーストで全てを書き直す：エンジニアが知るべき新パラダイム",
+    "link": "https://zenn.dev/gunta/articles/5b7a081fef8c71",
+    "pubDate": "2025-08-26T02:44:37.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "組織で育てるAI活用テスト設計の仕組み",
     "link": "https://zenn.dev/medley/articles/26a8a5d2c8175f",
     "pubDate": "Tue, 26 Aug 2025 02:13:36 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "コーディングAIをもっと使いやすく、新標準「AGENTS.md」公開：いわばコーディングエージェント用の「README」",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2508/26/news011.html",
+    "pubDate": "2025-08-26T01:50:56.000Z"
   },
   {
     "site": "Zenn",
@@ -55,15 +85,21 @@
   },
   {
     "site": "Zenn",
+    "title": "角をとっただけでは勝てないリバーシの亜種を作った",
+    "link": "https://zenn.dev/pepabo/articles/087530fa5ac5ef",
+    "pubDate": "Tue, 26 Aug 2025 00:30:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIファーストで全てを書き直す：エンジニアが知るべき新パラダイム",
     "link": "https://zenn.dev/gunta/articles/5b7a081fef8c71",
     "pubDate": "Mon, 25 Aug 2025 23:44:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Obsidian」で書き溜めたノートがDBに、～新しいコアプラグイン「Bases」が追加／商用でも無償で始められる強力なMarkdownアイデアノート",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2041619.html",
-    "pubDate": "2025-08-25T23:19:26.000Z"
+    "site": "Qiita",
+    "title": "【Dify入門】\"パラメータ抽出\"を試してみる",
+    "link": "https://qiita.com/yushibats/items/0d07c43f2580b8bc5dca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-25T23:00:17.000Z"
   },
   {
     "site": "Zenn",
@@ -72,10 +108,10 @@
     "pubDate": "Mon, 25 Aug 2025 23:00:06 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AIさん、そうじゃないんだけど、、を回避したい① マインド篇",
-    "link": "https://qiita.com/ikeyaH/items/f6aa4dbbcba3f1a8cc3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-25T22:54:54.000Z"
+    "site": "Zenn",
+    "title": "AI時代のコードレビューはビジネスロジックに集中する - プロンプトレビューという新概念",
+    "link": "https://zenn.dev/assa012/articles/af62b7f2537ebc",
+    "pubDate": "Mon, 25 Aug 2025 22:30:01 GMT"
   },
   {
     "site": "Zenn",
@@ -85,21 +121,9 @@
   },
   {
     "site": "Hatena",
-    "title": "【西川和久の不定期コラム】 これは事件だ。“賢い家庭内LLMの夢”を叶える「gpt-oss-120b」、動かし方を教えます",
-    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2041470.html",
-    "pubDate": "2025-08-25T21:24:30.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "もともと思考力が高い人は生成AIを使い倒すことができるが、批判的思考に慣れていない人は、AIを使えば使うほど、思考力が弱くなるという研究結果が出てしまう→残酷過ぎて笑う",
     "link": "https://posfie.com/@kalofollow/p/o7zk54Y",
     "pubDate": "2025-08-25T20:55:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google GenAI SDK の非公式ドキュメント | Gemini / Imagen / Veo を使う",
-    "link": "https://zenn.dev/prgckwb/articles/google-genai-sdk",
-    "pubDate": "Mon, 25 Aug 2025 14:12:57 GMT"
   },
   {
     "site": "Zenn",
@@ -112,18 +136,6 @@
     "title": "Amazon S3 Vectorsを試してみた",
     "link": "https://zenn.dev/fusic/articles/14a98be48d9266",
     "pubDate": "Mon, 25 Aug 2025 09:53:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CommonJS アプリケーションを ESM に移行する。ついでに Vitest にも移行する",
-    "link": "https://zenn.dev/chot/articles/migrate-from-cjs-jest-to-esm-vitest",
-    "pubDate": "Mon, 25 Aug 2025 04:51:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "13,600スターのOSSでバーンアウトした俺が、AIでOSSの経済を根本から変えようとしている話",
-    "link": "https://zenn.dev/gunta/articles/a4da171cd06b5a",
-    "pubDate": "Mon, 25 Aug 2025 04:33:53 GMT"
   },
   {
     "site": "Qiita",
@@ -151,12 +163,6 @@
   },
   {
     "site": "Qiita",
-    "title": "SRE屋のひとりごと",
-    "link": "https://qiita.com/yujittttttt/items/ab1df699da03044eab2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-24T15:44:29.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【図解解説】仮想DOM完全理解！君だけのオリジナルReactで仕組みを学ぶチュートリアル【初心者OK】",
     "link": "https://qiita.com/Sicut_study/items/710ea707d4426011710f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-24T08:35:10.000Z"
@@ -166,12 +172,6 @@
     "title": "生成 AI があれば、BI はいらない？",
     "link": "https://qiita.com/yugoes1021/items/009e96ab31bf3dbb8943?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-24T07:18:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "もうコードレビューに悩まない！「Looks Good To Me」から学ぶコードレビューの本質とは",
-    "link": "https://qiita.com/mokio/items/38eb850d9c22a01ab913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-23T23:59:48.000Z"
   },
   {
     "site": "Qiita",
