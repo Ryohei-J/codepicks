@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "禁断のハッキング端末｢Flipper Zero｣、車両盗難に使われまくる",
+    "link": "https://www.gizmodo.jp/2025/08/flipper-zero-cars-hacking.html",
+    "pubDate": "2025-08-28T12:53:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Suica」などに採用の「FeliCa」に脆弱性見つかる　それでもソニーが「引き続き安心」とアピールする理由",
     "link": "https://www.itmedia.co.jp/news/articles/2508/28/news124.html",
     "pubDate": "2025-08-28T11:21:56.000Z"
@@ -18,16 +24,16 @@
     "pubDate": "2025-08-28T10:50:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ドコモからのお知らせ : FeliCa脆弱性に関する一部報道について | お知らせ | NTTドコモ",
-    "link": "https://www.docomo.ne.jp/info/notice/page/250828_00_m.html",
-    "pubDate": "2025-08-28T10:03:20.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeで、サブエージェントをまとめるサブエージェントを作って、コンテキストを汚染させないようにしてみた",
+    "link": "https://zenn.dev/sunagaku/articles/6022860045ab8e",
+    "pubDate": "Thu, 28 Aug 2025 10:43:30 GMT"
   },
   {
     "site": "Hatena",
-    "title": "希少生物発見の記事なのに“AIイメージ画像”──科学メディア「ナゾロジー」が物議　運営企業に見解を聞いた",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2508/28/news113.html",
-    "pubDate": "2025-08-28T09:27:22.000Z"
+    "title": "2025年のReactとコミュニティの現状 | POSTD",
+    "link": "https://postd.cc/react-community-2025/",
+    "pubDate": "2025-08-28T10:31:36.000Z"
   },
   {
     "site": "Hatena",
@@ -36,16 +42,22 @@
     "pubDate": "2025-08-28T08:49:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "LINE 著名人なりすましアカウントに「認証済み」表示 | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250828/k10014905791000.html",
-    "pubDate": "2025-08-28T08:21:42.000Z"
+    "site": "Zenn",
+    "title": "夏休みの終わりこそ復習しておきたい、ES2016以降のモダンJavaScript再入門",
+    "link": "https://zenn.dev/cybozu_frontend/articles/js_after_es7",
+    "pubDate": "Thu, 28 Aug 2025 08:18:15 GMT"
   },
   {
     "site": "Hatena",
-    "title": "ナカバヤシ、完全キャッシュレスのロッカー型自販機　電源不要",
-    "link": "https://www.watch.impress.co.jp/docs/news/2042623.html",
-    "pubDate": "2025-08-28T06:24:42.000Z"
+    "title": "レンタル怖い人｜「怖い人」貸し出します。",
+    "link": "https://rental-kowaihito.com/",
+    "pubDate": "2025-08-28T08:16:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "生成AIマスターになるための便利サービス50選",
+    "link": "https://qiita.com/keiichileograph/items/3f40dac476718828e826?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-28T03:48:14.000Z"
   },
   {
     "site": "Hatena",
@@ -54,22 +66,28 @@
     "pubDate": "2025-08-28T03:43:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "妻「友人からの質問だけどiCloudとGoogleに課金しているんだけど解約するとどうなる？」私「使い方次第で回答がかわる。情報がなさすぎて回答が絞れない」妻「なんでわからないの？（キレる）」どうしろと？",
-    "link": "https://posfie.com/@petaritape/p/nk9qxYL",
-    "pubDate": "2025-08-28T02:04:02.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "型で守るRustのバリデーション：シンプルなNewTypeから正規化、高度な合成パターンまで #ヌーラボブログリレー2025夏",
     "link": "https://zenn.dev/yu256/articles/2046ec0bd9555d",
     "pubDate": "Thu, 28 Aug 2025 01:26:09 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【開発効率化】型安全なURLをroutopiaで管理する",
-    "link": "https://qiita.com/h-tanabe/items/096240e410e6a336bbe3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-28T00:02:18.000Z"
+    "site": "Zenn",
+    "title": "AIで要件精度を高めてチーム生産性を向上させる具体的な実践方法 ─ Cursor × MCP活用の実践録",
+    "link": "https://zenn.dev/fastdoctor/articles/b8bee72dec1147",
+    "pubDate": "Thu, 28 Aug 2025 01:20:27 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "弱小OSSがGitHub Starを集める方法",
+    "link": "https://zenn.dev/kirohi/articles/227345b7ed54d5",
+    "pubDate": "Thu, 28 Aug 2025 01:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Figma MCPを攻略して最高のコード生成を実現する",
+    "link": "https://zenn.dev/reiwatravel/articles/13828b9659798a",
+    "pubDate": "2025-08-27T16:53:40.000Z"
   },
   {
     "site": "Zenn",
@@ -82,12 +100,6 @@
     "title": "2025年版機械学習・データ分析の必須10冊+ガチ89冊+Next5冊=104冊",
     "link": "https://qiita.com/aokikenichi/items/6934fb578686513fd496?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-27T14:53:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "筋トレのお手本動画をLLMで生成したい -Sora, Veo, Kling, Seedance, Wan を比べてみた-",
-    "link": "https://zenn.dev/tomo25/articles/167fec10e30d6c",
-    "pubDate": "Wed, 27 Aug 2025 11:48:45 GMT"
   },
   {
     "site": "Zenn",
@@ -126,28 +138,22 @@
     "pubDate": "2025-08-26T23:38:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【React 19】useImperativeHandleが格段に使いやすくなった！子コンポーネントの機能を「公開」する方法",
-    "link": "https://zenn.dev/uguisu_blog/articles/react-imperativehandle",
-    "pubDate": "Tue, 26 Aug 2025 21:59:22 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Cloud Logging で楽にデバッグがしたい",
     "link": "https://qiita.com/yuji0809/items/15a9c84b1dbd720b4fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-26T17:04:59.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "左手デバイスからVimを操作する",
-    "link": "https://zenn.dev/nil2/articles/a88c03e37aa4c3",
-    "pubDate": "Tue, 26 Aug 2025 15:36:30 GMT"
+    "site": "Qiita",
+    "title": "Claude Codeを「第二の自分」にする、Obsidianを脳として。 - Qiita",
+    "link": "https://qiita.com/zazen_inu/items/be6accceb5f808d52bc8",
+    "pubDate": "2025-08-26T14:41:46.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "iOSアプリの課金実装",
-    "link": "https://zenn.dev/solar/books/9b1726f0e1aca4",
-    "pubDate": "Tue, 26 Aug 2025 15:14:59 GMT"
+    "site": "Qiita",
+    "title": "Claude Codeを「第二の自分」にする、Obsidianを脳として。",
+    "link": "https://qiita.com/zazen_inu/items/be6accceb5f808d52bc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-26T14:02:42.000Z"
   },
   {
     "site": "Qiita",
@@ -160,12 +166,6 @@
     "title": "「やり方」だけでは通用しない！PMが身につけるべき思考スタイル",
     "link": "https://qiita.com/toshiaki_miyake/items/192b840d0bb3aea90909?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-26T00:14:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI活用のROI改善を考える",
-    "link": "https://qiita.com/obx_y_ueno/items/7ff42d995c7766eb9266?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-25T23:31:45.000Z"
   },
   {
     "site": "Qiita",
