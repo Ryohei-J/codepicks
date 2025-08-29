@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "パナソニック、\"苦い\"コイン形リチウム電池　誤飲を防止",
+    "link": "https://www.watch.impress.co.jp/docs/news/2043192.html",
+    "pubDate": "2025-08-29T10:30:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS WAF実運用で学んだルール設計・運用・改善のコツ | Wantedly Engineer Blog",
+    "link": "https://www.wantedly.com/companies/wantedly/post_articles/1002982",
+    "pubDate": "2025-08-29T09:20:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグル、オンプレミス版「Gemini」を提供開始--法人向けに管理機能を強化",
+    "link": "https://japan.zdnet.com/article/35237342/",
+    "pubDate": "2025-08-29T08:58:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "パナソニック、誤飲対策で苦味成分を塗布したコイン型リチウム電池",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2043117.html",
+    "pubDate": "2025-08-29T07:52:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "このポスターを一目見て生成AIだな、と思うのはなぜ？→指の本数など細かい話を除いても違和感がある理由",
     "link": "https://togetter.com/li/2595668",
     "pubDate": "2025-08-29T05:51:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "`uv pip install torch --torch-backend=auto`で互換性の高いPyTorchをインストールする流れ",
+    "link": "https://zenn.dev/turing_motors/articles/ab155fe6653660",
+    "pubDate": "Fri, 29 Aug 2025 02:30:39 GMT"
   },
   {
     "site": "Hatena",
@@ -19,21 +49,21 @@
   },
   {
     "site": "Hatena",
-    "title": "「リレーショナルデータベースの面白さは『自己矛盾』にある」。大塚知亮が語る、さくらインターネットのDBのこれから - さくマガ",
-    "link": "https://sakumaga.sakura.ad.jp/entry/otsukatomoaki/",
-    "pubDate": "2025-08-29T01:03:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Findyの爆速インフラ構築を支えるTerraform活用術 〜Terraform Test導入編〜 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2025/08/29/070000",
-    "pubDate": "2025-08-29T00:53:58.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Vibe Kanban + Codex が、Claude Codeよりも遙かに快適すぎる｜erukiti",
     "link": "https://note.com/erukiti/n/nbeb0c2b521b9",
     "pubDate": "2025-08-29T00:51:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Excel関数の数式エンジンをTypeScriptで実装したらプログラミング言語の実装みたいで面白かったので解説してみる",
+    "link": "https://zenn.dev/aldagram_tech/articles/6cabc80ccd3e56",
+    "pubDate": "Thu, 28 Aug 2025 23:10:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "人とAIのタスク管理サービス「tone」の技術スタックとAI活用を紹介",
+    "link": "https://zenn.dev/tomoyaonishi/articles/8eaa42856968f7",
+    "pubDate": "Thu, 28 Aug 2025 13:04:55 GMT"
   },
   {
     "site": "Hatena",
@@ -42,10 +72,10 @@
     "pubDate": "2025-08-28T12:22:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "寝る時にタオルケット一枚で快適な温度設定だと、「脳にとっては暑すぎて疲れが取れない」と言う話「脳の理想温度は22度〜24度」→「CPUと同じか」「頭寒足熱じゃん」",
-    "link": "https://posfie.com/@petaritape/p/ALk7kAu",
-    "pubDate": "2025-08-28T11:19:01.000Z"
+    "site": "Zenn",
+    "title": "AI駆動ランサムウェア「PromptLock」について調べてみた",
+    "link": "https://zenn.dev/the_art_of_nerd/articles/0edc663e68fce1",
+    "pubDate": "Thu, 28 Aug 2025 12:18:21 GMT"
   },
   {
     "site": "Zenn",
@@ -90,12 +120,6 @@
     "pubDate": "Thu, 28 Aug 2025 08:18:15 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "レガシープロジェクトで最大限AIの恩恵を受けられるようClaude Codeを利用する",
-    "link": "https://zenn.dev/dely_jp/articles/894ae25280f90e",
-    "pubDate": "Thu, 28 Aug 2025 06:06:18 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "生成AIマスターになるための便利サービス50選",
     "link": "https://qiita.com/keiichileograph/items/3f40dac476718828e826?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -120,18 +144,6 @@
     "pubDate": "Thu, 28 Aug 2025 01:00:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Figma MCPを攻略して最高のコード生成を実現する",
-    "link": "https://zenn.dev/reiwatravel/articles/13828b9659798a",
-    "pubDate": "2025-08-27T16:53:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "SuperClaudeでMCPサーバとスラッシュコマンドを一発セットアップ",
-    "link": "https://zenn.dev/karaage0703/articles/877f522cece23c",
-    "pubDate": "Wed, 27 Aug 2025 16:40:46 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "2025年版機械学習・データ分析の必須10冊+ガチ89冊+Next5冊=104冊",
     "link": "https://qiita.com/aokikenichi/items/6934fb578686513fd496?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -142,18 +154,6 @@
     "title": "2025年版 生成AI・大規模言語モデルを学ぶための30冊（必須5冊+定番15冊+差をつける10冊）",
     "link": "https://qiita.com/aokikenichi/items/bc3646f6481532cbed90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-27T14:45:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「自己流」QAだった私が、「即戦力」より大切なことを教わったオンボーディング",
-    "link": "https://zenn.dev/enjapan/articles/4666f0a322abe4",
-    "pubDate": "Wed, 27 Aug 2025 10:55:51 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Figma MCPって本当にすごいの？",
-    "link": "https://zenn.dev/sre_holdings/articles/2dc5eb4bf06630",
-    "pubDate": "Wed, 27 Aug 2025 10:06:28 GMT"
   },
   {
     "site": "Qiita",
