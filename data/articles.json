@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "20年使ってきたdocomoをいよいよ見限ってauに鞍替えしたのだけどどこでも繋がってびっくり…docomoのいい話や悪い話、auの悪い話といろんな情報続々",
+    "link": "https://togetter.com/li/2596271",
+    "pubDate": "2025-08-30T18:40:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows11のバグで重要なデータごとPCがダメになってしまった「アップデートでSSDが破壊される、自衛するしかない」",
+    "link": "https://togetter.com/li/2596266",
+    "pubDate": "2025-08-30T18:39:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "WSL2でpingは通るのにcurlやwget, aptが通らないときに `netsh winsock reset` で復旧した記録 - Qiita",
+    "link": "https://qiita.com/mugimuginekoko/items/ea60f4c6e208e9645a61",
+    "pubDate": "2025-08-30T14:15:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「何が当たるか分からない」から科学技術研究に政府は介入するなという議論が最近とても駄目である話｜山本一郎（やまもといちろう）",
     "link": "https://note.com/kirik/n/n3e42e1f97e22",
     "pubDate": "2025-08-30T13:45:11.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "自分のPCでExcelファイルを開いていないのに自分が開いたことにされている不具合の対処法と原因の解説 - いおりのパソコン技術メモ",
+    "link": "https://iori016.hatenablog.com/entry/2025/05/02/190212",
+    "pubDate": "2025-08-30T11:30:28.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "リソース効率で考えるアーキテクチャ設計：機能要件を超えた技術選定の本質",
     "link": "https://zenn.dev/hsaki/articles/architecture",
-    "pubDate": "2025-08-30T11:41:25.000Z"
+    "pubDate": "Sat, 30 Aug 2025 11:00:13 GMT"
   },
   {
     "site": "Hatena",
@@ -24,6 +48,12 @@
     "pubDate": "2025-08-30T08:31:15.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "ペントミノ・ソルバーのアルゴリズム(簡素編)",
+    "link": "https://qiita.com/sense_n_react/items/2bfc9ffdb4695b383233?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-30T08:04:28.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "あふれる特攻隊YouTube動画 AIで写真が…“創作遺書”の疑いも | NHK",
     "link": "https://www3.nhk.or.jp/news/html/20250830/k10014906751000.html",
@@ -31,33 +61,39 @@
   },
   {
     "site": "Hatena",
-    "title": "SC-88Proやカモンミュージック・レコンポーザを今の時代に再現!?元Roland技術者が個人でリリースしたiOSアプリ、UK-868がスゴイ!",
-    "link": "https://www.dtmstation.com/archives/73147.html",
-    "pubDate": "2025-08-30T04:38:55.000Z"
+    "title": "年30万人が受験するITパスポート試験への誤解とは？ IPAが明かす「令和の大改革」全容 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/29173/",
+    "pubDate": "2025-08-30T07:50:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ゆるふわ解説】Azureとネットワーク_part5",
+    "link": "https://qiita.com/yuyanz/items/faa601d9989959fb9ecc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-30T06:39:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Azure OpenAIでgpt-5をデプロイした時に少し混乱した話",
+    "link": "https://qiita.com/abachan/items/6b295fdda1e6798ba77c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-30T02:39:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JavaScriptの非同期処理とイベントループ",
+    "link": "https://qiita.com/maedaHARUYA/items/e3f5ef8be943a591b906?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-30T00:22:29.000Z"
   },
   {
     "site": "Hatena",
-    "title": "彼氏と突然別れてモヤモヤが止まらない女の子が、ChatGPTに元彼とのLINEの履歴読み込ませて『AI元彼』を作り出し納得いくまで話し合ってスッキリした話",
-    "link": "https://togetter.com/li/2595931",
-    "pubDate": "2025-08-30T01:10:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マイクロソフト、音声合成モデル「VibeVoice」をオープンソースで公開、最大4名・90分までの自然な会話を生成",
-    "link": "https://codezine.jp/news/detail/22175",
-    "pubDate": "2025-08-30T00:18:55.000Z"
+    "title": "Gemini 2.5 Flash Image（旧 nano-banana）の使い方｜IT navi",
+    "link": "https://note.com/it_navi/n/n9a76ccb959c2",
+    "pubDate": "2025-08-29T23:58:37.000Z"
   },
   {
     "site": "Zenn",
     "title": "ObsidianとSupermemory MCPをつなぐ知識管理ワークフロー",
     "link": "https://zenn.dev/minewo/articles/obsidian-supermemory-mcp",
     "pubDate": "Fri, 29 Aug 2025 18:49:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "TypeScript入門",
-    "link": "https://speakerdeck.com/recruitengineers/typescript-2025",
-    "pubDate": "2025-08-29T16:45:58.000Z"
   },
   {
     "site": "Qiita",
@@ -67,15 +103,9 @@
   },
   {
     "site": "Qiita",
-    "title": "2025年版 生成AI・大規模言語モデルを学ぶための30冊（必須5冊+定番15冊+差をつける10冊） - Qiita",
-    "link": "https://qiita.com/aokikenichi/items/bc3646f6481532cbed90",
-    "pubDate": "2025-08-29T15:17:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenAPI 定義の管理方法を zod-to-openapi に変えた",
-    "link": "https://zenn.dev/kei_acarroll/articles/a2d18868638f0c",
-    "pubDate": "Fri, 29 Aug 2025 11:06:03 GMT"
+    "title": "【Dify】社内マニュアルを探す手間をなくす！ページのリンクを返すチャットボットを作ってみた！",
+    "link": "https://qiita.com/yuuuna04/items/7f80b3191ff1928aad49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-29T16:03:34.000Z"
   },
   {
     "site": "Qiita",
@@ -102,16 +132,22 @@
     "pubDate": "Fri, 29 Aug 2025 07:38:59 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AWS運用×生成AI！Amazon Bedrock を使ってインシデント要約Botを作ってみた（応用編）",
-    "link": "https://qiita.com/Na_Ki_1869/items/2747895773aec17a5a8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-29T05:23:47.000Z"
+    "site": "Zenn",
+    "title": "Gemini 2.5 Flash Image（nano-banana）で画像生成MCPサーバーを作った",
+    "link": "https://zenn.dev/shinpr_p/articles/2afc87be0eaed7",
+    "pubDate": "Fri, 29 Aug 2025 07:25:59 GMT"
   },
   {
     "site": "Zenn",
     "title": "無料公開の DEM 一覧",
     "link": "https://zenn.dev/syu_tan/articles/f6f94328894c6d",
     "pubDate": "Fri, 29 Aug 2025 04:24:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Mastra × MCPでドキュメント作成を自動化してみる",
+    "link": "https://zenn.dev/forcia_tech/articles/20250815_mastra_agent_creation_tutorial_kontani",
+    "pubDate": "Fri, 29 Aug 2025 04:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -133,24 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "Oracle DB公式のMCPサーバ (SQLcl) をチャットアプリ (Chainlit) 経由で使ってみた",
-    "link": "https://qiita.com/ssfujita/items/5ddf76c64a265061a7c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-29T01:49:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Excel関数の数式エンジンをTypeScriptで実装したらプログラミング言語の実装みたいで面白かったので解説してみる",
-    "link": "https://zenn.dev/aldagram_tech/articles/6cabc80ccd3e56",
-    "pubDate": "Thu, 28 Aug 2025 23:10:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "npmダウンロード数で見るAIエージェントCLIツール動向",
-    "link": "https://zenn.dev/oikon/articles/ai-cli-tools",
-    "pubDate": "Thu, 28 Aug 2025 22:02:01 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "知られざる OCI 容量予約 の落とし穴",
     "link": "https://qiita.com/araidon/items/190bde5accd72da5abc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-28T08:40:08.000Z"
@@ -160,23 +178,5 @@
     "title": "生成AIマスターになるための便利サービス50選",
     "link": "https://qiita.com/keiichileograph/items/3f40dac476718828e826?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-28T03:48:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2025年版機械学習・データ分析の必須10冊+ガチ89冊+Next5冊=104冊",
-    "link": "https://qiita.com/aokikenichi/items/6934fb578686513fd496?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-27T14:53:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2025年版 生成AI・大規模言語モデルを学ぶための30冊（必須5冊+定番15冊+差をつける10冊）",
-    "link": "https://qiita.com/aokikenichi/items/bc3646f6481532cbed90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-27T14:45:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Office Scripts と Power Automateで申込書を自動でPDF化する方法",
-    "link": "https://qiita.com/Hidemitsu2429/items/51d5f999b536f8af46fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-27T08:22:39.000Z"
   }
 ]
