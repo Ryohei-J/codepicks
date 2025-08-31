@@ -1,5 +1,11 @@
 [
   {
+    "site": "Hatena",
+    "title": "typeof x > 'u' は typeof x === 'undefined' より小さいけど遅い",
+    "link": "https://sosukesuzuki.dev/posts/minified-typeof-is-undefined/",
+    "pubDate": "2025-08-31T08:20:50.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "少人数で3つのWebアプリを支える技術 - Hono × Cloudflare で実現する最高のDeveloper Experience",
     "link": "https://zenn.dev/miravy/articles/d5c59c27f01b4e",
@@ -25,6 +31,12 @@
   },
   {
     "site": "Hatena",
+    "title": "Diagram-as-code 使ってみた - サーバーワークスエンジニアブログ",
+    "link": "https://blog.serverworks.co.jp/2025/08/29/205319",
+    "pubDate": "2025-08-30T23:15:13.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GPT-5 プロンプトエンジニアリングガイドを読み解き、より良いコーディング支援を受ける - tomoima525's blog",
     "link": "https://tomoima525.hatenablog.com/entry/2025/08/31/065459",
     "pubDate": "2025-08-30T22:06:29.000Z"
@@ -34,12 +46,6 @@
     "title": "20年使ってきたdocomoをいよいよ見限ってauに鞍替えしたのだけどどこでも繋がってびっくり…docomoのいい話や悪い話、auの悪い話といろんな情報続々",
     "link": "https://togetter.com/li/2596271",
     "pubDate": "2025-08-30T18:40:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows11のバグで重要なデータごとPCがダメになってしまった「アップデートでSSDが破壊される、自衛するしかない」",
-    "link": "https://togetter.com/li/2596266",
-    "pubDate": "2025-08-30T18:39:52.000Z"
   },
   {
     "site": "Zenn",
@@ -58,12 +64,6 @@
     "title": "ポン出しで良い感じのPVが作れるか（Suno x Runway）",
     "link": "https://zenn.dev/xtm_blog/articles/4917236407b026",
     "pubDate": "Sat, 30 Aug 2025 13:22:33 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "意思決定は点ではなく線である｜柳川慶太",
-    "link": "https://note.com/gimupop/n/na4809c234769",
-    "pubDate": "2025-08-30T13:04:55.000Z"
   },
   {
     "site": "Zenn",
@@ -121,9 +121,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AIプログラムの開発演習に使う低消費リソースローカルLLMはQwen3 1.7B Q4がベスト - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2025/08/30/104903",
-    "pubDate": "2025-08-30T03:22:58.000Z"
+    "title": "事業価値と Engineering",
+    "link": "https://speakerdeck.com/recruitengineers/shi-ye-jia-zhi-to-engineering-deb2ed04-e776-464d-b36d-0a6c6a1685d5",
+    "pubDate": "2025-08-30T04:38:35.000Z"
   },
   {
     "site": "Qiita",
