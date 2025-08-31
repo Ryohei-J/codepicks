@@ -12,6 +12,12 @@
     "pubDate": "2025-08-30T18:39:52.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ZonePane の CMP による iOS 版開発について",
+    "link": "https://zenn.dev/takke/articles/58ca19d42c8000",
+    "pubDate": "Sat, 30 Aug 2025 16:49:07 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "WSL2でpingは通るのにcurlやwget, aptが通らないときに `netsh winsock reset` で復旧した記録 - Qiita",
     "link": "https://qiita.com/mugimuginekoko/items/ea60f4c6e208e9645a61",
@@ -22,6 +28,30 @@
     "title": "「何が当たるか分からない」から科学技術研究に政府は介入するなという議論が最近とても駄目である話｜山本一郎（やまもといちろう）",
     "link": "https://note.com/kirik/n/n3e42e1f97e22",
     "pubDate": "2025-08-30T13:45:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LisperはASTを直に書くのが楽しいという通好みな嘘",
+    "link": "https://zenn.dev/g000001/articles/lisp-syntax-ast",
+    "pubDate": "Sat, 30 Aug 2025 13:30:00 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "意思決定は点ではなく線である｜柳川慶太",
+    "link": "https://note.com/gimupop/n/na4809c234769",
+    "pubDate": "2025-08-30T13:04:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GHC 9.14の新機能",
+    "link": "https://zenn.dev/mod_poppo/articles/whats-new-in-ghc-9-14",
+    "pubDate": "Sat, 30 Aug 2025 12:33:12 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【徹底解説】Claude Code UI と Cloudflare Tunnelでスマホから快適にAIコーディング",
+    "link": "https://zenn.dev/nogu66/articles/claudecodeui",
+    "pubDate": "Sat, 30 Aug 2025 11:50:12 GMT"
   },
   {
     "site": "Hatena",
@@ -42,10 +72,10 @@
     "pubDate": "2025-08-30T09:59:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "突如話題沸騰の『モンゴル犬』あっという間に人々の心を掴み #モンゴル犬のFA タグで大いに盛り上がる皆さん",
-    "link": "https://togetter.com/li/2596080",
-    "pubDate": "2025-08-30T08:31:15.000Z"
+    "site": "Zenn",
+    "title": "リッチテキストエディターはライブラリを活用した方が良い訳",
+    "link": "https://zenn.dev/karintou/articles/960c923a854cd9",
+    "pubDate": "2025-08-30T08:39:30.000Z"
   },
   {
     "site": "Qiita",
@@ -54,22 +84,16 @@
     "pubDate": "2025-08-30T08:04:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "あふれる特攻隊YouTube動画 AIで写真が…“創作遺書”の疑いも | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250830/k10014906751000.html",
-    "pubDate": "2025-08-30T07:59:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "年30万人が受験するITパスポート試験への誤解とは？ IPAが明かす「令和の大改革」全容 - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/29173/",
-    "pubDate": "2025-08-30T07:50:06.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【ゆるふわ解説】Azureとネットワーク_part5",
     "link": "https://qiita.com/yuyanz/items/faa601d9989959fb9ecc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-30T06:39:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIプログラムの開発演習に使う低消費リソースローカルLLMはQwen3 1.7B Q4がベスト - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2025/08/30/104903",
+    "pubDate": "2025-08-30T03:22:58.000Z"
   },
   {
     "site": "Qiita",
@@ -108,6 +132,18 @@
     "pubDate": "2025-08-29T16:03:34.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "rmは危険だから代替を使うように矯正したいけど明らかに消して良いファイルに対してはrmを使いたい",
+    "link": "https://zenn.dev/kawarimidoll/articles/70e473a198badf",
+    "pubDate": "Fri, 29 Aug 2025 12:09:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "巨人に学ぶテストコードアンチパターン",
+    "link": "https://zenn.dev/rakuten_tech/articles/test_review_best_practices_ja",
+    "pubDate": "Fri, 29 Aug 2025 12:00:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "n8nを敬遠している老害エンジニアにさらに追い打ちをかける...！",
     "link": "https://qiita.com/hikarun_videoai/items/de239584d7e672a31f9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -126,46 +162,10 @@
     "pubDate": "Fri, 29 Aug 2025 08:30:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "最近のClaude Codeの使い方",
-    "link": "https://zenn.dev/sun_asterisk/articles/7dafd83f1d0454",
-    "pubDate": "Fri, 29 Aug 2025 07:38:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini 2.5 Flash Image（nano-banana）で画像生成MCPサーバーを作った",
-    "link": "https://zenn.dev/shinpr_p/articles/2afc87be0eaed7",
-    "pubDate": "Fri, 29 Aug 2025 07:25:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "無料公開の DEM 一覧",
-    "link": "https://zenn.dev/syu_tan/articles/f6f94328894c6d",
-    "pubDate": "Fri, 29 Aug 2025 04:24:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Mastra × MCPでドキュメント作成を自動化してみる",
-    "link": "https://zenn.dev/forcia_tech/articles/20250815_mastra_agent_creation_tutorial_kontani",
-    "pubDate": "Fri, 29 Aug 2025 04:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発メンバーからEMが誕生するまで",
-    "link": "https://zenn.dev/loglass/articles/0ea7027ee634db",
-    "pubDate": "Fri, 29 Aug 2025 03:45:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "WAFでブロックしたはずなのに200 OKが返ってくる謎を解く",
     "link": "https://qiita.com/kana_1166/items/fdcdc75883445669d293?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-29T03:07:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "`uv pip install torch --torch-backend=auto`で互換性の高いPyTorchをインストールする流れ",
-    "link": "https://zenn.dev/turing_motors/articles/ab155fe6653660",
-    "pubDate": "Fri, 29 Aug 2025 02:30:39 GMT"
   },
   {
     "site": "Qiita",
