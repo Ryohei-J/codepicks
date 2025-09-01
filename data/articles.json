@@ -1,9 +1,69 @@
 [
   {
     "site": "Hatena",
-    "title": "typeof x > 'u' は typeof x === 'undefined' より小さいけど遅い",
-    "link": "https://sosukesuzuki.dev/posts/minified-typeof-is-undefined/",
-    "pubDate": "2025-08-31T08:20:50.000Z"
+    "title": "日米韓、「北朝鮮IT労働者に関する共同声明」を公表。身分を偽って業務を受注しようとする人物に注意を　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2043089.html",
+    "pubDate": "2025-08-31T21:50:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI駆動開発ツール：コーディングアシスタントツールまとめ（2025年9月版）",
+    "link": "https://www.publickey1.jp/blog/25/ai20259.html",
+    "pubDate": "2025-08-31T21:41:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI駆動開発ツール：コーディングエージェントとTextToAppまとめ（2025年9月版）",
+    "link": "https://www.publickey1.jp/blog/25/aitexttoapp20259.html",
+    "pubDate": "2025-08-31T16:28:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "異世界JavaScript",
+    "link": "https://zenn.dev/mod_poppo/articles/isekai-javascript",
+    "pubDate": "Sun, 31 Aug 2025 14:23:22 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "エアコンのドレン水で鉢植えに自動水やりするシステム、一見衛生的にアウトな気がするが実際にドレン水栽培をやっている先輩たちの成果が続々と集まる",
+    "link": "https://togetter.com/li/2596650",
+    "pubDate": "2025-08-31T14:09:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Bedrock AgentCore Memoryで継続的な会話をするエージェントアプリをTerraformで構築する",
+    "link": "https://qiita.com/neruneruo/items/cfb90e6b7aa654af9682?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-31T12:05:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "fetch() では Host ヘッダーを設定できないし話はそこまで単純じゃない - Object.create(null)",
+    "link": "https://susisu.hatenablog.com/entry/2025/08/31/190757",
+    "pubDate": "2025-08-31T11:52:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "MCPに入門し、文字数カウントToolを自作したので完全に理解したと言えると思います（夏の思い出）",
+    "link": "https://qiita.com/torifukukaiou/items/6cc271ee4a2c77e54111?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-31T11:42:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Full Weak Engineer CTF 2025 作問者Writeup",
+    "link": "https://zenn.dev/koufu193/articles/b0aa6291d5655c",
+    "pubDate": "Sun, 31 Aug 2025 10:02:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Full Weak Engineer CTF 2025 Writeup (webのみ)",
+    "link": "https://zenn.dev/claustra01/articles/7b116f8d542cc4",
+    "pubDate": "Sun, 31 Aug 2025 10:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "人生で初めてCI作ったので記事にしてみる",
+    "link": "https://zenn.dev/sa_m/articles/28c32a5f24264b",
+    "pubDate": "Sun, 31 Aug 2025 09:29:16 GMT"
   },
   {
     "site": "Zenn",
@@ -12,10 +72,16 @@
     "pubDate": "Sun, 31 Aug 2025 07:46:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【真偽不明】高知のとある場所にはいくつもの野犬グループがあり、その中で一番統制が取れていて全く捕まらない群れのリーダーが『ポメラニアン』らしいという噂",
-    "link": "https://togetter.com/li/2596409",
-    "pubDate": "2025-08-31T04:53:39.000Z"
+    "site": "Zenn",
+    "title": "【フロントエンド向け】JWTの安全な保管場所とCSRF・XSS対策の技術解説",
+    "link": "https://zenn.dev/wyuma/articles/4c9ca1eedca8e9",
+    "pubDate": "2025-08-31T07:19:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoftから登場したVibeVoice凄すぎ",
+    "link": "https://zenn.dev/headwaters/articles/98f63259349ba7",
+    "pubDate": "2025-08-31T04:31:12.000Z"
   },
   {
     "site": "Qiita",
@@ -24,34 +90,22 @@
     "pubDate": "2025-08-31T03:39:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "リクルート、新卒エンジニア研修資料17種類を公開　「モダンフロントエンド開発研修」「大規模言語モデルことはじめ」など",
-    "link": "https://www.itmedia.co.jp/news/articles/2508/31/news020.html",
-    "pubDate": "2025-08-31T01:03:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Diagram-as-code 使ってみた - サーバーワークスエンジニアブログ",
-    "link": "https://blog.serverworks.co.jp/2025/08/29/205319",
-    "pubDate": "2025-08-30T23:15:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GPT-5 プロンプトエンジニアリングガイドを読み解き、より良いコーディング支援を受ける - tomoima525's blog",
-    "link": "https://tomoima525.hatenablog.com/entry/2025/08/31/065459",
-    "pubDate": "2025-08-30T22:06:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "20年使ってきたdocomoをいよいよ見限ってauに鞍替えしたのだけどどこでも繋がってびっくり…docomoのいい話や悪い話、auの悪い話といろんな情報続々",
-    "link": "https://togetter.com/li/2596271",
-    "pubDate": "2025-08-30T18:40:42.000Z"
+    "site": "Qiita",
+    "title": "Claude Code × Dify Plugin開発でAWS作業をワークフロー化しよう",
+    "link": "https://qiita.com/502_/items/507ec2191c0a42461b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-31T02:01:48.000Z"
   },
   {
     "site": "Zenn",
-    "title": "ZonePane の CMP による iOS 版開発について",
-    "link": "https://zenn.dev/takke/articles/58ca19d42c8000",
-    "pubDate": "Sat, 30 Aug 2025 16:49:07 GMT"
+    "title": "【フロントエンド向け】JWTの安全な保管場所とCSRF・XSS対策の技術解説",
+    "link": "https://zenn.dev/wyuma/articles/4c9ca1eedca8e9",
+    "pubDate": "Sat, 30 Aug 2025 17:03:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ObsidianとSupermemory MCPをつなぐ知識管理ワークフロー",
+    "link": "https://zenn.dev/minewo/articles/obsidian-supermemory-mcp",
+    "pubDate": "2025-08-30T14:18:49.000Z"
   },
   {
     "site": "Zenn",
@@ -61,21 +115,9 @@
   },
   {
     "site": "Zenn",
-    "title": "ポン出しで良い感じのPVが作れるか（Suno x Runway）",
-    "link": "https://zenn.dev/xtm_blog/articles/4917236407b026",
-    "pubDate": "Sat, 30 Aug 2025 13:22:33 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "GHC 9.14の新機能",
     "link": "https://zenn.dev/mod_poppo/articles/whats-new-in-ghc-9-14",
     "pubDate": "Sat, 30 Aug 2025 12:33:12 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Gemini/Claudeから箱庭ドローンを操作！MCPクライアント連携の仕組みを作った",
-    "link": "https://qiita.com/kanetugu2018/items/d944b0c589a0647aded3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-30T12:08:53.000Z"
   },
   {
     "site": "Zenn",
@@ -85,39 +127,9 @@
   },
   {
     "site": "Zenn",
-    "title": "tree-sitterを使ってコードをインデックスする際のチャンクを自動で最適化する",
-    "link": "https://zenn.dev/ushironoko/articles/dc0e3cf6775951",
-    "pubDate": "Sat, 30 Aug 2025 11:45:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "自分のPCでExcelファイルを開いていないのに自分が開いたことにされている不具合の対処法と原因の解説 - いおりのパソコン技術メモ",
-    "link": "https://iori016.hatenablog.com/entry/2025/05/02/190212",
-    "pubDate": "2025-08-30T11:30:28.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "リソース効率で考えるアーキテクチャ設計：機能要件を超えた技術選定の本質",
     "link": "https://zenn.dev/hsaki/articles/architecture",
     "pubDate": "Sat, 30 Aug 2025 11:00:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Microsoftから登場したVibeVoice凄すぎ",
-    "link": "https://zenn.dev/headwaters/articles/98f63259349ba7",
-    "pubDate": "Sat, 30 Aug 2025 10:08:40 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ペントミノ・ソルバーのアルゴリズム(簡素編)",
-    "link": "https://qiita.com/sense_n_react/items/2bfc9ffdb4695b383233?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-30T08:04:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "日本語プログラミング言語Mindの小技 「起動引数をモニタ」～コンソールアプリの起動パラメータをモニタ～",
-    "link": "https://qiita.com/mylifewithviolin/items/b37e52e6c8c177191a83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-30T08:01:52.000Z"
   },
   {
     "site": "Hatena",
@@ -130,18 +142,6 @@
     "title": "【WPF】DataGridでコンスセルなUndoRedo",
     "link": "https://qiita.com/EndOfData/items/6966012efc2c8a11b953?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-30T01:52:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemini 2.5 Flash Image（旧 nano-banana）の使い方｜IT navi",
-    "link": "https://note.com/it_navi/n/n9a76ccb959c2",
-    "pubDate": "2025-08-29T23:58:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ObsidianとSupermemory MCPをつなぐ知識管理ワークフロー",
-    "link": "https://zenn.dev/minewo/articles/obsidian-supermemory-mcp",
-    "pubDate": "Fri, 29 Aug 2025 18:49:18 GMT"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "NTPパケットを用いた攻撃について",
-    "link": "https://qiita.com/jouse_sakamoto/items/1edcd70d2302cd0f9d56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-29T02:50:18.000Z"
+    "title": "WPF/MVVM の実践的「グローバル例外ハンドリング」設計と実装",
+    "link": "https://qiita.com/cozyupk/items/a1c4072f629af5799080?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-29T00:34:38.000Z"
   }
 ]
