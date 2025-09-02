@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "「Video & TV SideView」アプリ サービス終了（2027年3月30日）のお知らせ | Video & TV SideView（ビデオ＆テレビサイドビュー） | サポート・お問い合わせ | ソニー",
+    "link": "https://www.sony.jp/support/software/videotvsideview/2025/09/20250902.html",
+    "pubDate": "2025-09-02T02:47:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "世界最大の「砂電池」がフィンランドで稼働開始",
+    "link": "https://gigazine.net/news/20250901-finland-sand-battery/",
+    "pubDate": "2025-09-02T00:26:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「レガシーコードを任されるのは、エンジニアにとって光栄なこと」30年以上も依頼が途切れない、uzullaの仕事術 - Findy Engineer Lab",
+    "link": "https://findy-code.io/engineer-lab/uzulla",
+    "pubDate": "2025-09-02T00:22:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "シングルエージェント vs マルチエージェントを整理してみる",
+    "link": "https://zenn.dev/r_kaga/articles/ea7119d22d4d3c",
+    "pubDate": "Mon, 01 Sep 2025 23:10:21 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "【海外記事紹介】Unixの共同開発者ブライアン・カーニハン、RustやLinux、LLMについて大いに語る",
     "link": "https://techfeed.io/entries/68b60f6cd0e17253abf4298c",
     "pubDate": "2025-09-01T21:31:25.000Z"
@@ -10,6 +34,18 @@
     "title": "Googleの無料動画編集ツール「Google Vids」がついに一般公開。AI機能も使えるぞ！ | ライフハッカー・ジャパン",
     "link": "https://www.lifehacker.jp/article/2509-google-vids-free/",
     "pubDate": "2025-09-01T15:39:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Hatago MCP Hub で始めるマルチMCP運用 - ひとつの設定で全部つながる",
+    "link": "https://zenn.dev/himorishige/articles/introduce-hatago-mcp-hub",
+    "pubDate": "Mon, 01 Sep 2025 13:10:55 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Terraform で AWS Lambda をデプロイしようとする際にぶつかる現実",
+    "link": "https://zenn.dev/tkg216/articles/54e8ef75f3fdcc",
+    "pubDate": "Mon, 01 Sep 2025 12:13:37 GMT"
   },
   {
     "site": "Hatena",
@@ -24,28 +60,10 @@
     "pubDate": "2025-09-01T09:27:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "操作より状態・性質に着目する",
-    "link": "https://zenn.dev/knowledgework/articles/c48539d2f35ecc",
-    "pubDate": "2025-09-01T08:19:30.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "『禅とオートバイ修理技術』を読んだ。 - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/09/01/145700",
     "pubDate": "2025-09-01T07:55:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「FeliCa」の脆弱性で共同通信の報道が波紋　ソニーが公表していなかった“真っ当”な理由とは？",
-    "link": "https://www.itmedia.co.jp/news/articles/2509/01/news090.html",
-    "pubDate": "2025-09-01T06:07:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Linux」の習得に役立つゲーム5選--コマンドラインなどを無料で楽しく学ぼう",
-    "link": "https://japan.zdnet.com/article/35237348/",
-    "pubDate": "2025-09-01T05:51:12.000Z"
   },
   {
     "site": "Zenn",
@@ -108,12 +126,6 @@
     "pubDate": "Sun, 31 Aug 2025 14:23:22 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "docker上でSQLを使う方法まとめ",
-    "link": "https://zenn.dev/appleshinja/articles/7abb64829c4f24",
-    "pubDate": "Sun, 31 Aug 2025 13:15:18 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「考え方」を変えたら、悩む時間が減ってプロダクトへの向き合い方が変わった話",
     "link": "https://qiita.com/Takashi5816/items/eb87bc661127ed3e9474?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -124,18 +136,6 @@
     "title": "JavaScriptで要素を複製・追加する主なメソッド",
     "link": "https://qiita.com/k12da/items/c47effa3487a8e10b1bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-31T09:40:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "人生で初めてCI作ったので記事にしてみる",
-    "link": "https://zenn.dev/sa_m/articles/28c32a5f24264b",
-    "pubDate": "Sun, 31 Aug 2025 09:29:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "私の好きなClaude Codeの使い方",
-    "link": "https://zenn.dev/frontendflat/articles/acc1095edc0d6d",
-    "pubDate": "Sun, 31 Aug 2025 09:19:33 GMT"
   },
   {
     "site": "Qiita",
