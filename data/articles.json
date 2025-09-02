@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "【海外記事紹介】Unixの共同開発者ブライアン・カーニハン、RustやLinux、LLMについて大いに語る",
+    "link": "https://techfeed.io/entries/68b60f6cd0e17253abf4298c",
+    "pubDate": "2025-09-01T21:31:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleの無料動画編集ツール「Google Vids」がついに一般公開。AI機能も使えるぞ！ | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2509-google-vids-free/",
+    "pubDate": "2025-09-01T15:39:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "組織設計の“ひずみ”によって生じた問題は開発現場だけで解決することはできない - mtx2s’s blog",
+    "link": "https://mtx2s.hatenablog.com/entry/2025/09/01/194620",
+    "pubDate": "2025-09-01T11:48:26.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "私の好きなClaude Codeの使い方",
     "link": "https://zenn.dev/frontendflat/articles/acc1095edc0d6d",
@@ -10,6 +28,12 @@
     "title": "操作より状態・性質に着目する",
     "link": "https://zenn.dev/knowledgework/articles/c48539d2f35ecc",
     "pubDate": "2025-09-01T08:19:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『禅とオートバイ修理技術』を読んだ。 - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/09/01/145700",
+    "pubDate": "2025-09-01T07:55:50.000Z"
   },
   {
     "site": "Hatena",
@@ -30,18 +54,6 @@
     "pubDate": "Mon, 01 Sep 2025 05:00:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Intel、現行デスクトップCPUの失敗を認める",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2043555.html",
-    "pubDate": "2025-09-01T04:53:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エアコン白くまくんは日立からボッシュへ、社名変更 - 家電 Watch",
-    "link": "https://kaden.watch.impress.co.jp/docs/news/2043478.html",
-    "pubDate": "2025-09-01T04:52:35.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Snowflake MCP Server で Cursor から高度なデータ分析を実現する",
     "link": "https://zenn.dev/tsubasa_tech/articles/70ab5fb2b5ed99",
@@ -54,10 +66,10 @@
     "pubDate": "Mon, 01 Sep 2025 04:23:51 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "岡山理科大、物体の衝突回数で円周率を求める理論の実証に成功",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2043492.html",
-    "pubDate": "2025-09-01T03:52:09.000Z"
+    "site": "Zenn",
+    "title": "Amazon S3 の月額コストを約30%削減したアプローチ",
+    "link": "https://zenn.dev/finatext/articles/aws-cost-savings-s3-phase1",
+    "pubDate": "Mon, 01 Sep 2025 03:48:56 GMT"
   },
   {
     "site": "Qiita",
@@ -78,34 +90,16 @@
     "pubDate": "Mon, 01 Sep 2025 01:51:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "家業「テキストエディタ」。EmEditor開発者は、息子の決意を初めて聞く【フォーカス】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/focus/detail_715/",
-    "pubDate": "2025-09-01T01:30:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "そこそこエンジニアでもいいんじゃない？ | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/09/aws-learning-guide-04",
-    "pubDate": "2025-09-01T01:21:58.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【CFnテンプレ付】FISでAZ/Region障害を“安全に”擬似再現して可用性検証してみた",
     "link": "https://qiita.com/ntaka329/items/77ee2d6ddd948009830e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-01T01:20:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "動画生成AI「Wan2.2」の進化が凄い　アリババが無料AIモデルの牽引者に (1/4)",
-    "link": "https://ascii.jp/elem/000/004/316/4316418/",
-    "pubDate": "2025-08-31T23:42:34.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Neovim 0.12（開発版）でcopilot-language-serverを設定してみたぞ（脱copilot.lua）",
-    "link": "https://zenn.dev/vim_jp/articles/a6839f7204a611",
-    "pubDate": "Sun, 31 Aug 2025 15:02:01 GMT"
+    "title": "一行もコード書かずにOSSに貢献する話",
+    "link": "https://zenn.dev/pppp303/articles/c69bb54df98201",
+    "pubDate": "Sun, 31 Aug 2025 16:02:30 GMT"
   },
   {
     "site": "Zenn",
@@ -126,12 +120,6 @@
     "pubDate": "2025-08-31T11:49:29.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Full Weak Engineer CTF 2025 作問者Writeup",
-    "link": "https://zenn.dev/koufu193/articles/b0aa6291d5655c",
-    "pubDate": "Sun, 31 Aug 2025 10:02:14 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "JavaScriptで要素を複製・追加する主なメソッド",
     "link": "https://qiita.com/k12da/items/c47effa3487a8e10b1bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -144,16 +132,16 @@
     "pubDate": "Sun, 31 Aug 2025 09:29:16 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "私の好きなClaude Codeの使い方",
+    "link": "https://zenn.dev/frontendflat/articles/acc1095edc0d6d",
+    "pubDate": "Sun, 31 Aug 2025 09:19:33 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "PostgreSQLで同じ結果が得られるクエリの実行計画を確認してみる",
     "link": "https://qiita.com/Kiita0430/items/f359f2888168ce648b54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-31T09:05:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeをネイティブインストールしたらめっちゃ面倒くさかったのでnpmに戻す方法",
-    "link": "https://zenn.dev/minato86/articles/8493ffc8d3975c",
-    "pubDate": "Sun, 31 Aug 2025 09:05:13 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +151,32 @@
   },
   {
     "site": "Qiita",
+    "title": "【C#】チェックサム／ハッシュアルゴリズム実践ガイド",
+    "link": "https://qiita.com/Sakai_path/items/4f40005e4321d1c76f6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-31T08:18:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "生成AIを完全ハックするプロンプトエンジニアリング30選【XML】",
+    "link": "https://qiita.com/keiichileograph/items/4fcadeebd27410078828?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-08-30T10:01:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソフトウェア エンジニアとしての 姿勢と心構え",
+    "link": "https://speakerdeck.com/recruitengineers/sohutouea-enziniatositeno-zi-shi-toxin-gou-e-6f04dc20-276c-4b18-8ebe-9ad9be625993",
+    "pubDate": "2025-08-30T04:38:18.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "JavaScriptの非同期処理とイベントループ",
     "link": "https://qiita.com/maedaHARUYA/items/e3f5ef8be943a591b906?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-30T00:22:29.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "プロンプトは「お願い」ではなく「コード」。論理式を応用した「公理系」プロンプトエンジニアリング",
-    "link": "https://qiita.com/makotosaekit/items/031bf2a5b62050e3ca99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-29T16:32:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "n8nを敬遠している老害エンジニアにさらに追い打ちをかける...！",
-    "link": "https://qiita.com/hikarun_videoai/items/de239584d7e672a31f9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-29T10:22:31.000Z"
+    "site": "Hatena",
+    "title": "エンジニアならtmuxくらい使いこなしたらどうだ | sititou70",
+    "link": "https://sititou70.github.io/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AA%E3%82%89tmux%E3%81%8F%E3%82%89%E3%81%84%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%97%E3%81%9F%E3%82%89%E3%81%A9%E3%81%86%E3%81%A0/",
+    "pubDate": "2020-09-21T08:57:27.000Z"
   }
 ]
