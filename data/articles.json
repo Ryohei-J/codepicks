@@ -1,21 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "5インチ光学ドライブは今後入手困難に？すでに在庫限りのモデルも",
+    "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2044049.html",
+    "pubDate": "2025-09-03T01:36:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gmailに危機　最大25億人の情報漏えい",
+    "link": "https://kn.itmedia.co.jp/kn/articles/2509/03/news051.html",
+    "pubDate": "2025-09-03T01:05:21.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“ブラウザを自律操作するAI”が暴走　「要約して」と入力しただけなのにパスワードが盗まれた　その手口とは？",
     "link": "https://www.itmedia.co.jp/news/articles/2509/03/news027.html",
     "pubDate": "2025-09-02T23:32:42.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Googleの最新動画生成AIに感動してコスト考えずにカス動画生成しまくってたら請求額見たらこれ。たすけて。7万円使って2秒のわかり哲也しか保存してないアホ",
-    "link": "https://posfie.com/@kalofollow/p/35010Eo",
-    "pubDate": "2025-09-02T14:06:09.000Z"
+    "title": "CSSで最も使われているフレームワークはTailwind、2位はBootstrap。レイアウトで苦労しているのはCSS Gridなど。State of CSS 2025",
+    "link": "https://www.publickey1.jp/blog/25/csstailwind2bootstrapcss_gridstate_of_css_2025.html",
+    "pubDate": "2025-09-02T15:23:48.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ブルーレイ私的録画補償金、12月1日から徴収へ　レコーダーやメディアの価格に上乗せ",
-    "link": "https://www.itmedia.co.jp/news/articles/2509/02/news118.html",
-    "pubDate": "2025-09-02T10:37:41.000Z"
+    "title": "Meta、広告詐欺を6割減　AIで著名人詐欺100%ブロック",
+    "link": "https://www.watch.impress.co.jp/docs/news/2043730.html",
+    "pubDate": "2025-09-02T11:27:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Supabase x フロントエンド - Next.js 編 -",
+    "link": "https://zenn.dev/4geru/books/fukuoka-supabase-liff",
+    "pubDate": "Tue, 02 Sep 2025 09:40:07 GMT"
   },
   {
     "site": "Zenn",
@@ -30,18 +48,6 @@
     "pubDate": "Tue, 02 Sep 2025 08:15:42 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "この文字詰め、どっちが正解？文字間調整（カーニング）のセンスを磨いておこう",
-    "link": "https://www.adobe.com/jp/creativecloud/roc/blog/design/quiz-challenge/kerning.html",
-    "pubDate": "2025-09-02T07:51:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "技術書を効果的に内面化する実践技法",
-    "link": "https://speakerdeck.com/masuda220/ji-shu-shu-woxiao-guo-de-ninei-mian-hua-surushi-jian-ji-fa",
-    "pubDate": "2025-09-02T07:34:04.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "サイバーセキュリティタスクフォース（第47回）の局所を掘り下げる（PQC編）",
     "link": "https://qiita.com/satokan3/items/d158dfc168246bf89ddc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -52,12 +58,6 @@
     "title": "古のNLPエンジニア、ChatGPTが出てからの約2年半を振り返る｜べいえりあ",
     "link": "https://note.com/csstudyabroad/n/nee32dd6a909e",
     "pubDate": "2025-09-02T05:17:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIで音楽を作り二か月で150万円収益が出ました！」の内訳が最悪オブ最悪だった→「まだ作曲で消耗してるの？」「令和のゴールドラッシュ」",
-    "link": "https://posfie.com/@petaritape/p/eygn0gm",
-    "pubDate": "2025-09-02T04:54:04.000Z"
   },
   {
     "site": "Zenn",
@@ -144,12 +144,6 @@
     "pubDate": "Mon, 01 Sep 2025 05:00:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Snowflake MCP Server で Cursor から高度なデータ分析を実現する",
-    "link": "https://zenn.dev/tsubasa_tech/articles/70ab5fb2b5ed99",
-    "pubDate": "Mon, 01 Sep 2025 04:33:17 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【ポケモン×Java】知識編 while文#3 〜while文を完全攻略 -無限ループと制御-〜",
     "link": "https://qiita.com/hitomin_poke/items/ad954cb433f21d425a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "自作キーボードキットをUSB-C化したら1mmに泣いた話 -  Quick17",
     "link": "https://qiita.com/fumigoro/items/5e1c2273a638e350f530?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-31T01:45:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "リスクアセスメント　ーリスクの可視化から意思決定までー | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20250827a/",
+    "pubDate": "2025-08-28T03:48:37.000Z"
   }
 ]
