@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "イヤホンの長時間着用で「耳カビ」が繁殖するという記事に、実際にカビが生えた人の治療体験や耳穴を塞がないイヤホンの情報などが寄せられる",
+    "link": "https://togetter.com/li/2597984",
+    "pubDate": "2025-09-03T09:46:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Nx の攻撃から学べること #s1ngularity | blog.jxck.io",
+    "link": "https://blog.jxck.io/entries/2025-09-03/nx-incidents.html",
+    "pubDate": "2025-09-03T07:48:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "40代インフラエンジニアがようやくKubernetesを勉強した話 - RAKUS Developers Blog | ラクス エンジニアブログ",
+    "link": "https://tech-blog.rakus.co.jp/entry/20250903/infra",
+    "pubDate": "2025-09-03T07:41:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AI時代の価値のつくりかた",
+    "link": "https://www.oreilly.co.jp//books/9784814401291/",
+    "pubDate": "2025-09-03T06:49:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "再生可能エネルギーがついに｢いちばん安いエネルギー｣に",
+    "link": "https://www.gizmodo.jp/2025/09/cost-reduction-of-renewable-energy.html",
+    "pubDate": "2025-09-03T03:37:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 while文#5 〜while文を完全攻略！-while文あるあるエラー集-〜",
+    "link": "https://qiita.com/hitomin_poke/items/651737b45d9a7496032a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-03T03:13:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "5インチ光学ドライブは今後入手困難に？すでに在庫限りのモデルも",
     "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2044049.html",
     "pubDate": "2025-09-03T01:36:27.000Z"
@@ -12,10 +48,40 @@
     "pubDate": "2025-09-03T01:05:21.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AWS EventBridgeからPagerDutyのOnCallイベントを送信する",
+    "link": "https://qiita.com/naoaki-yzrh/items/cbb33cdc07319b31f8e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-03T00:48:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Geminiの「Nano Banana」でいい感じに「お部屋の家具ステージング画像」を作成するプロンプト",
+    "link": "https://qiita.com/WdknWdkn/items/8a01cc7282ed8603c81d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-03T00:33:12.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "“ブラウザを自律操作するAI”が暴走　「要約して」と入力しただけなのにパスワードが盗まれた　その手口とは？",
     "link": "https://www.itmedia.co.jp/news/articles/2509/03/news027.html",
     "pubDate": "2025-09-02T23:32:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Webアプリのベンチマークについて",
+    "link": "https://zenn.dev/yusukebe/articles/adc3afc1fd0684",
+    "pubDate": "Tue, 02 Sep 2025 20:26:52 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Honoでインタラクティブなコンポーネントを作る時、React Server Componentsが良いと思った【ボイラープレートを追加】",
+    "link": "https://zenn.dev/kfly8/articles/hono-meets-vite-rsc",
+    "pubDate": "Tue, 02 Sep 2025 17:08:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Nano Banana (gemini-2.5-flash-image-preview)APIを無料で使う方法",
+    "link": "https://zenn.dev/asap/articles/a4217c8ba120dd",
+    "pubDate": "Tue, 02 Sep 2025 15:55:53 GMT"
   },
   {
     "site": "Hatena",
@@ -24,10 +90,10 @@
     "pubDate": "2025-09-02T15:23:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Meta、広告詐欺を6割減　AIで著名人詐欺100%ブロック",
-    "link": "https://www.watch.impress.co.jp/docs/news/2043730.html",
-    "pubDate": "2025-09-02T11:27:36.000Z"
+    "site": "Qiita",
+    "title": "【v1.5.0対応】Cursorの基礎・活用術を徹底解説",
+    "link": "https://qiita.com/sakamoto-ryosuke/items/b440986e53ddb5429ac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-02T10:13:10.000Z"
   },
   {
     "site": "Zenn",
@@ -48,30 +114,6 @@
     "pubDate": "Tue, 02 Sep 2025 08:15:42 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "サイバーセキュリティタスクフォース（第47回）の局所を掘り下げる（PQC編）",
-    "link": "https://qiita.com/satokan3/items/d158dfc168246bf89ddc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-02T06:35:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "古のNLPエンジニア、ChatGPTが出てからの約2年半を振り返る｜べいえりあ",
-    "link": "https://note.com/csstudyabroad/n/nee32dd6a909e",
-    "pubDate": "2025-09-02T05:17:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGで「無関係な」文書をいれると性能が向上する理由を解明",
-    "link": "https://zenn.dev/knowledgesense/articles/5cd465176ae45a",
-    "pubDate": "2025-09-02T03:50:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 while文#4 〜while文を完全攻略 -入力チェック／DBストリーム／状態待ち-〜",
-    "link": "https://qiita.com/hitomin_poke/items/a12451ddf9159389a231?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-02T03:43:39.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "データ共有サービス比較：Snowflake Secure Data Sharing と  Databricks Delta Sharing",
     "link": "https://zenn.dev/taro_cccmkhd/articles/a428ee1b48e1c8",
@@ -79,9 +121,9 @@
   },
   {
     "site": "Qiita",
-    "title": "[25卒] キャッチアップをするために新人エンジニアが生成AIとレスバしてみた話",
-    "link": "https://qiita.com/fukuba_y/items/c4038df472c89516037f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-02T01:10:10.000Z"
+    "title": "GitHub 使い方基本",
+    "link": "https://qiita.com/sai8951/items/309b52e6cd03f17d6167?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-02T00:56:30.000Z"
   },
   {
     "site": "Zenn",
@@ -102,12 +144,6 @@
     "pubDate": "Mon, 01 Sep 2025 22:43:46 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【Nano Banana】イラストフィギュア化専用アプリ【プロンプト入力不要】｜てんねん｜AIイラストクリエイター",
-    "link": "https://note.com/munou_ac/n/n88c01d6dd5b8",
-    "pubDate": "2025-09-01T21:49:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "「あなたはプロの〇〇です」をもうやめたい、 「メタプロンプト」から「コグニティブデザイン」へ",
     "link": "https://qiita.com/makotosaekit/items/0eccb562bf7d3f66fbfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -120,34 +156,10 @@
     "pubDate": "Mon, 01 Sep 2025 16:39:23 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Hatago MCP Hub で始めるマルチMCP運用 - ひとつの設定で全部つながる",
-    "link": "https://zenn.dev/himorishige/articles/introduce-hatago-mcp-hub",
-    "pubDate": "Mon, 01 Sep 2025 13:10:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Terraform で AWS Lambda をデプロイしようとする際にぶつかる現実",
-    "link": "https://zenn.dev/tkg216/articles/54e8ef75f3fdcc",
-    "pubDate": "Mon, 01 Sep 2025 12:13:37 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【2025年最新】Anthropic公式が明かすClaude 4プロンプト最適化12のテクニック",
     "link": "https://qiita.com/Nakamura-Kaito/items/22303be7122e5e8abe2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-01T08:10:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "操作より状態・性質に着目する",
-    "link": "https://zenn.dev/knowledgework/articles/c48539d2f35ecc",
-    "pubDate": "Mon, 01 Sep 2025 05:00:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 while文#3 〜while文を完全攻略 -無限ループと制御-〜",
-    "link": "https://qiita.com/hitomin_poke/items/ad954cb433f21d425a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-01T03:27:05.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "PostgreSQLで同じ結果が得られるクエリの実行計画を確認してみる",
     "link": "https://qiita.com/Kiita0430/items/f359f2888168ce648b54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-08-31T09:05:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "自作キーボードキットをUSB-C化したら1mmに泣いた話 -  Quick17",
-    "link": "https://qiita.com/fumigoro/items/5e1c2273a638e350f530?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-08-31T01:45:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "リスクアセスメント　ーリスクの可視化から意思決定までー | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20250827a/",
-    "pubDate": "2025-08-28T03:48:37.000Z"
   }
 ]
