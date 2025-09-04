@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "エディオンに携帯電話の機種変更に行ったら、ソフトバンクとの契約期間を見た店員さんに驚かれた「びっくりされるでしょうね」「東海デジタルホンからの継続は凄い」",
+    "link": "https://togetter.com/li/2598446",
+    "pubDate": "2025-09-04T13:30:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「全自動卵割り機」を本当に自作した猛者が登場、いったい何が難しいのか？",
     "link": "https://gigazine.net/news/20250904-over-engineering-egg-cracking-machine/",
     "pubDate": "2025-09-04T08:26:11.000Z"
@@ -18,6 +24,18 @@
     "pubDate": "2025-09-04T07:46:07.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeを用いて仕様書の自動更新の仕組みを構築した話",
+    "link": "https://zenn.dev/dely_jp/articles/f6a6ce32406851",
+    "pubDate": "2025-09-04T06:39:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google公式の Nano Banana プロンプトテンプレートが参考になったので試してみた",
+    "link": "https://zenn.dev/ml_bear/articles/b58004bf5a3e6c",
+    "pubDate": "2025-09-04T05:36:38.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "スイス独自の完全オープンソースLLM「Apertus」がリリースされる、1000言語以上にわたる15兆トークンで学習＆透明性とデジタル主権を重視",
     "link": "https://gigazine.net/news/20250904-switzerland-apertus/",
@@ -28,6 +46,12 @@
     "title": "“SSD不具合”とWindows 11最新パッチは関連性なし、MicrosoftとPhisonが検証",
     "link": "https://pc.watch.impress.co.jp/docs/news/2044581.html",
     "pubDate": "2025-09-04T03:49:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "セキュリティ・キャンプで Rust 製 RISC-V ターゲットの C コンパイラを開発した",
+    "link": "https://zenn.dev/s7/articles/37071b1a83956a",
+    "pubDate": "Thu, 04 Sep 2025 02:35:36 GMT"
   },
   {
     "site": "Qiita",
@@ -42,6 +66,12 @@
     "pubDate": "2025-09-04T01:53:40.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "信頼できるLLM-as-a-Judgeの構築に向けた研究動向",
+    "link": "https://zenn.dev/tsurubee/articles/1383f86eee4825",
+    "pubDate": "Thu, 04 Sep 2025 00:41:20 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "モノタロウでCursorを導入してみた理想と現実、それと未来 - MonotaRO Tech Blog",
     "link": "https://tech-blog.monotaro.com/entry/2025/09/04/090000",
@@ -49,15 +79,15 @@
   },
   {
     "site": "Zenn",
+    "title": "フロントエンドのモジュールを共有する手法を考える",
+    "link": "https://zenn.dev/cybozu_frontend/articles/module-share-pattern",
+    "pubDate": "Thu, 04 Sep 2025 00:18:07 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Spec Kit で仕様書駆動開発を体験する",
     "link": "https://zenn.dev/rakuten_tech/articles/try-github-spec-kit",
     "pubDate": "Thu, 04 Sep 2025 00:04:12 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「1日、合計1分の激しい運動」で死亡リスクが約40%低下？ 3千人以上を対象に調査【研究紹介】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/column/detail_717/",
-    "pubDate": "2025-09-04T00:01:21.000Z"
   },
   {
     "site": "Zenn",
@@ -67,21 +97,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Difyで実現するAIヘルプデスク：顧客体験を向上させた構築の裏側 - kickflow Tech Blog",
-    "link": "https://tech.kickflow.co.jp/entry/2025/09/03/123008",
-    "pubDate": "2025-09-03T21:12:39.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "圧縮←わかる　　解凍←？？？",
     "link": "https://anond.hatelabo.jp/20250904054611",
     "pubDate": "2025-09-03T20:46:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Kiroは設計が七割 | ドクセル",
-    "link": "https://www.docswell.com/s/fumiya-kume/K37YYV-2025-09-03-193742",
-    "pubDate": "2025-09-03T18:49:17.000Z"
   },
   {
     "site": "Qiita",
@@ -130,24 +148,6 @@
     "title": "トレンド入りする記事をスマホで10分でAIに書かせる方法",
     "link": "https://qiita.com/makotosaekit/items/e38a4fafd1c4f3c8b214?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-02T21:08:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Webアプリのベンチマークについて",
-    "link": "https://zenn.dev/yusukebe/articles/adc3afc1fd0684",
-    "pubDate": "Tue, 02 Sep 2025 20:26:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Honoでインタラクティブなコンポーネントを作る時、React Server Componentsが良いと思った【ボイラープレートを追加】",
-    "link": "https://zenn.dev/kfly8/articles/hono-meets-vite-rsc",
-    "pubDate": "Tue, 02 Sep 2025 17:08:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Nano Banana (gemini-2.5-flash-image-preview)APIを無料で使う方法",
-    "link": "https://zenn.dev/asap/articles/a4217c8ba120dd",
-    "pubDate": "Tue, 02 Sep 2025 15:55:53 GMT"
   },
   {
     "site": "Qiita",
