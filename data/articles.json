@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "「全自動卵割り機」を本当に自作した猛者が登場、いったい何が難しいのか？",
+    "link": "https://gigazine.net/news/20250904-over-engineering-egg-cracking-machine/",
+    "pubDate": "2025-09-04T08:26:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows UpdateでSSDが本当に壊れるか検証【KB5063878再現実験】 | ちもろぐ",
+    "link": "https://chimolog.co/ssd-vs-kb5063878/",
+    "pubDate": "2025-09-04T07:50:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "3Dプリンターの住宅について「遮音性が完璧、コスパが良い」などが挙げられるが気になることも「短期ならいいけど長期所有するようなものではない」",
+    "link": "https://togetter.com/li/2598345",
+    "pubDate": "2025-09-04T07:46:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スイス独自の完全オープンソースLLM「Apertus」がリリースされる、1000言語以上にわたる15兆トークンで学習＆透明性とデジタル主権を重視",
+    "link": "https://gigazine.net/news/20250904-switzerland-apertus/",
+    "pubDate": "2025-09-04T05:22:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“SSD不具合”とWindows 11最新パッチは関連性なし、MicrosoftとPhisonが検証",
     "link": "https://pc.watch.impress.co.jp/docs/news/2044581.html",
     "pubDate": "2025-09-04T03:49:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【書評】『融けるデザイン』を読んで感じた、今の時代のデザイン設計思想",
+    "link": "https://qiita.com/y-kamiya629/items/aa076b9fa041c522181a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-04T02:29:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "DQNで株価のテクニカル分析を行うAIモデルの試作 〜アンサンブル編〜",
+    "link": "https://qiita.com/ssc-yshikeda/items/10f975ff85b39dc50bb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-04T01:53:40.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +48,22 @@
     "pubDate": "2025-09-04T00:35:41.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Spec Kit で仕様書駆動開発を体験する",
+    "link": "https://zenn.dev/rakuten_tech/articles/try-github-spec-kit",
+    "pubDate": "Thu, 04 Sep 2025 00:04:12 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「1日、合計1分の激しい運動」で死亡リスクが約40%低下？ 3千人以上を対象に調査【研究紹介】 レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/column/detail_717/",
     "pubDate": "2025-09-04T00:01:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google公式の Nano Banana プロンプトテンプレートが参考になったので試してみた",
+    "link": "https://zenn.dev/ml_bear/articles/b58004bf5a3e6c",
+    "pubDate": "Wed, 03 Sep 2025 23:54:43 GMT"
   },
   {
     "site": "Hatena",
@@ -36,28 +84,16 @@
     "pubDate": "2025-09-03T18:49:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "光回路AI。消費電力ほぼゼロ、なのに画像生成できる「物体」が登場!いずれ電力ゼロのLLMも?",
-    "link": "https://wirelesswire.jp/2025/09/91184/",
-    "pubDate": "2025-09-03T12:05:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub、仕様駆動開発ツールキット「Spec Kit」を紹介 ——コーディングエージェントを利用して仕様を解釈し、開発計画・タスク分解・実装をおこなう | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/09/github-spec-kit",
-    "pubDate": "2025-09-03T07:11:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "生成AI時代の価値のつくりかた",
-    "link": "https://www.oreilly.co.jp//books/9784814401291/",
-    "pubDate": "2025-09-03T06:49:55.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 while文#5 〜while文を完全攻略！-while文あるあるエラー集-〜",
-    "link": "https://qiita.com/hitomin_poke/items/651737b45d9a7496032a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-03T03:13:11.000Z"
+    "title": "n8n + OCI Generative AI で楽々AIエージェント",
+    "link": "https://qiita.com/yuji-arakawa/items/bf9f0908be527af1598a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-03T14:27:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code をブラウザから操作できるクライアントを自作したらめちゃくちゃ捗った",
+    "link": "https://zenn.dev/bm_sms/articles/claude_code_viewer",
+    "pubDate": "Wed, 03 Sep 2025 12:23:11 GMT"
   },
   {
     "site": "Zenn",
@@ -79,27 +115,9 @@
   },
   {
     "site": "Qiita",
-    "title": "AWS EventBridgeからPagerDutyのOnCallイベントを送信する",
-    "link": "https://qiita.com/naoaki-yzrh/items/cbb33cdc07319b31f8e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-03T00:48:11.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Geminiの「Nano Banana」でいい感じに「お部屋の家具ステージング画像」を作成するプロンプト",
     "link": "https://qiita.com/WdknWdkn/items/8a01cc7282ed8603c81d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-03T00:33:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "claude-code-spec-workflowで始める仕様書駆動開発 - 弁護士ドットコム株式会社 Creators’ blog",
-    "link": "https://creators.bengo4.com/entry/2025/09/03/080000",
-    "pubDate": "2025-09-03T00:30:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Imagen 4とGemini 2.5 Flash Image (Nano Banana)の違い【Imagen 4 vs Nano Banana】",
-    "link": "https://qiita.com/relu/items/b70a49e42f4d3a81f166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-02T23:50:31.000Z"
   },
   {
     "site": "Zenn",
@@ -133,27 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【v1.5.0対応】Cursorの基礎・活用術を徹底解説",
-    "link": "https://qiita.com/sakamoto-ryosuke/items/b440986e53ddb5429ac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-02T10:13:10.000Z"
+    "title": "3日で作ったサービスが、公開1日で1000人の阪大生に届いた話",
+    "link": "https://qiita.com/takasan1234/items/071d60e2a31dbb68602f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-02T12:15:53.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Supabase x フロントエンド - Next.js 編 -",
-    "link": "https://zenn.dev/4geru/books/fukuoka-supabase-liff",
-    "pubDate": "Tue, 02 Sep 2025 09:40:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codex CLIを使いこなすための機能・設定まとめ",
-    "link": "https://zenn.dev/dely_jp/articles/codex-cli-matome",
-    "pubDate": "Tue, 02 Sep 2025 08:15:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "データ共有サービス比較：Snowflake Secure Data Sharing と  Databricks Delta Sharing",
-    "link": "https://zenn.dev/taro_cccmkhd/articles/a428ee1b48e1c8",
-    "pubDate": "Tue, 02 Sep 2025 02:02:19 GMT"
+    "site": "Qiita",
+    "title": "プログラミングの学習方法を聞かれたら、こう答える",
+    "link": "https://qiita.com/ma2mori/items/84454db9127d34fb1cfb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-02T09:36:28.000Z"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "「あなたはプロの〇〇です」をもうやめたい、 「メタプロンプト」から「コグニティブデザイン」へ",
     "link": "https://qiita.com/makotosaekit/items/0eccb562bf7d3f66fbfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-01T21:44:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Fauna】夢の次世代データベースFaunaDBのソースコードが公開されていた",
-    "link": "https://qiita.com/rana_kualu/items/30cb30e75d325c5251e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-01T10:58:00.000Z"
   },
   {
     "site": "Qiita",
