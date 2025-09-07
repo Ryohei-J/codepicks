@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "テスラの「完全自動運転」はなぜ他のメーカーと違って危険なのか？",
+    "link": "https://gigazine.net/news/20250906-tesla-autopilot-computer-vision/",
+    "pubDate": "2025-09-06T20:37:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2025 年のコーディングエージェントの現在地とエンジニアの仕事の変化について",
+    "link": "https://speakerdeck.com/azukiazusa1/2025-nian-nokodeinguezientonoxian-zai-di-toenzinianoshi-shi-nobian-hua-nituite",
+    "pubDate": "2025-09-06T09:58:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "大「個人開発サービス」時代に僕たちはどう生きるか",
     "link": "https://speakerdeck.com/sotarok/da-ge-ren-kai-fa-sabisu-shi-dai-nipu-tatihadousheng-kiruka",
     "pubDate": "2025-09-06T09:57:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIAgentにAI最新情報まとめ資料を作ってもらう会【LangGraph&LangSmith】",
+    "link": "https://zenn.dev/microsoft/articles/create_doc_by_aiagent",
+    "pubDate": "Sat, 06 Sep 2025 09:20:08 GMT"
   },
   {
     "site": "Hatena",
@@ -19,21 +37,21 @@
   },
   {
     "site": "Hatena",
-    "title": "2025年になってもまだMySQLが好き",
-    "link": "https://speakerdeck.com/yoku0825/2025nian-ninatutemomadamysqlgahao-ki",
-    "pubDate": "2025-09-06T03:39:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "今の若い人達は何言ってるかわからないと思いますが、25年くらい前まではインターネットの利用料金を節約するために、『ページを表示したら即ネット切断してオフラインでページを閲覧、次のページを見に行くタイミングで再接続』が普通に行われてました",
-    "link": "https://togetter.com/li/2599092",
-    "pubDate": "2025-09-06T03:33:19.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "提案レベルを上げてみたら、私の『提案』が『進捗』になっていた件",
     "link": "https://speakerdeck.com/natty_natty254/ti-an-reberuwoshang-getemitara-si-no-ti-an-ga-jin-bu-ninatuteitajian",
     "pubDate": "2025-09-06T03:09:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIが“思った通りに動かない”理由とコンテキストエンジニアリング",
+    "link": "https://zenn.dev/knowledgework/articles/learning-context-engineering",
+    "pubDate": "Sat, 06 Sep 2025 03:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "フロントエンドのテストアーキテクチャ",
+    "link": "https://zenn.dev/toms74209200/articles/frontend-test-architecture",
+    "pubDate": "Sat, 06 Sep 2025 00:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -55,15 +73,15 @@
   },
   {
     "site": "Qiita",
+    "title": "Docker + Ollama でローカルLLMを使ったAI機能実装",
+    "link": "https://qiita.com/TaiyoYamada/items/461be39481fd133b26e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-05T17:49:14.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Claude Codeをより便利・強力に使うためのツールまとめ",
     "link": "https://qiita.com/flowernotfound/items/649711de6fe8caf1eac2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-05T16:35:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【初心者向け】ローカルLLMの色々な動かし方まとめ",
-    "link": "https://speakerdeck.com/aratako/chu-xin-zhe-xiang-ke-rokarullmnose-nadong-kasifang-matome",
-    "pubDate": "2025-09-05T16:06:22.000Z"
   },
   {
     "site": "Qiita",
@@ -76,6 +94,12 @@
     "title": "手を動かして覚える Prisma 実践入門",
     "link": "https://zenn.dev/cocomina/books/hands-on-prisma-guide",
     "pubDate": "Fri, 05 Sep 2025 13:55:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【実例付き】オレオレ！ MCP Server デザインパターン【汎用Agentへの熟練知のプラグイン】",
+    "link": "https://zenn.dev/loglass/articles/b140077acdecab",
+    "pubDate": "2025-09-05T13:15:45.000Z"
   },
   {
     "site": "Hatena",
@@ -96,18 +120,6 @@
     "pubDate": "Fri, 05 Sep 2025 08:30:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【Android】チーム開発を始める前に決めておくと良いこと",
-    "link": "https://qiita.com/ko1-ino/items/fcd96ac42d609bc77431?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-05T08:14:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Azure Functionsの専用（App Service）プランでEvent Hubsのトリガーが動作しなかった話と解決策",
-    "link": "https://qiita.com/abachan/items/6cca3525e9e9d4a06445?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-05T07:45:16.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "セキュリティ技術者の道　〜CEH（認定ホワイトハッカー）編〜",
     "link": "https://zenn.dev/nttdata_tech/articles/5c50e4850959e1",
@@ -120,22 +132,28 @@
     "pubDate": "2025-09-05T05:00:53.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Cursor Tab Suggestionの確定キーを変更する",
+    "link": "https://zenn.dev/knowledgework/articles/95533c09099e56",
+    "pubDate": "Fri, 05 Sep 2025 03:00:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「今日夜ご飯いる？」をDXした",
     "link": "https://qiita.com/yoshiddddd/items/d8b7cc72f77eefdbd993?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-05T02:24:48.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【実例付き】オレオレ！ MCP Server デザインパターン【汎用Agentへの熟練知のプラグイン】",
-    "link": "https://zenn.dev/loglass/articles/b140077acdecab",
-    "pubDate": "Thu, 04 Sep 2025 22:53:30 GMT"
+    "site": "Qiita",
+    "title": "GitHub ActionsでAWS Lambdaを簡単かつ爆速でデプロイしよう！【Python編】",
+    "link": "https://qiita.com/TooMe/items/b54219fdafecd2dd0f93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-05T02:06:41.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "高2がレッドオーシャンに一石を投じるつもりで変なSNSを8ヶ月以上運営してかなり病んだ話",
-    "link": "https://zenn.dev/arusyukuhai/articles/e2203fef687e98",
-    "pubDate": "Thu, 04 Sep 2025 18:23:32 GMT"
+    "site": "Qiita",
+    "title": "MCPにおけるセキュリティリスク",
+    "link": "https://qiita.com/KawakamiSyota/items/9a81cdcb8e94a38748d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-05T00:15:50.000Z"
   },
   {
     "site": "Qiita",
@@ -144,34 +162,16 @@
     "pubDate": "2025-09-04T12:40:29.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub の Immutable Releases を有効にしてセキュリティインシデントを防ごう",
-    "link": "https://zenn.dev/shunsuke_suzuki/articles/github-immutable-release",
-    "pubDate": "Thu, 04 Sep 2025 12:00:25 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "進化する生成AIと退化する人間",
     "link": "https://qiita.com/Sakaguchi_0725/items/af492b4c1024dede1f80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-04T09:39:26.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "🎨Figma MCPの構造化問題を改善！「Layermate」でデザイン再現率を向上させた話",
-    "link": "https://zenn.dev/canly/articles/a40805a70ad59f",
-    "pubDate": "Thu, 04 Sep 2025 03:01:21 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "PMの本質は「やらないことを決めること」",
     "link": "https://qiita.com/yuto_shinkawa/items/b508face947876cf166e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-04T01:22:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Python】青空文庫からテキストを取得する ～夏休みの自由研究①～",
-    "link": "https://qiita.com/ryu-ki/items/ad4131dadc617817926e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-03T23:48:52.000Z"
   },
   {
     "site": "Qiita",
