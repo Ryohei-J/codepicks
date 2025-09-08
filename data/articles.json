@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "「そのぐらい書いておけよ」──“作り方はQRコードから”のインスタント焼きそばに賛否　製造元の意図は",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/08/news095.html",
+    "pubDate": "2025-09-08T06:57:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "SESで150万件のメールを送るまで",
+    "link": "https://ses150-luv1p38.gamma.site/",
+    "pubDate": "2025-09-08T06:11:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2人のエンジニアがほぼ同時期に似た動機で同じ技術を発明した件について",
+    "link": "https://zenn.dev/yasuo_ozu/articles/two-engineers",
+    "pubDate": "Mon, 08 Sep 2025 03:33:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAIがAI認定資格を発表、「ChatGPT」内で勉強から取得まで完結",
+    "link": "https://japan.cnet.com/article/35237683/",
+    "pubDate": "2025-09-08T03:12:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】Lv8：『先にHP0になるのはどっちだ？』〜if文〜",
+    "link": "https://qiita.com/hitomin_poke/items/0014759b730d432bc906?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-08T03:08:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+    "link": "https://zenn.dev/chot/articles/997bb34bab0062",
+    "pubDate": "Mon, 08 Sep 2025 03:07:31 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "継承より良い方法を選ぼう - Mori Atsushi",
     "link": "https://at-sushi.work/blog/2025-anti-inheritance/",
     "pubDate": "2025-09-08T00:32:59.000Z"
@@ -19,7 +55,7 @@
   },
   {
     "site": "Hatena",
-    "title": "ヤバすぎ…ChatGPTが実現してしまった「悪魔の証明」、社会構造を揺るがす驚愕の事態",
+    "title": "ヤバすぎ…ChatGPTが「悪魔の証明」に近づきつつある？ 社会構造を揺るがす驚愕の事態",
     "link": "https://www.sbbit.jp/article/fj/170827",
     "pubDate": "2025-09-07T22:28:37.000Z"
   },
@@ -34,18 +70,6 @@
     "title": "昨年iPhoneを買い替えた時にバッテリーの最高使用量を「95％」に設定した結果バッテリー劣化度はゼロで100％のままになっている",
     "link": "https://togetter.com/li/2599870",
     "pubDate": "2025-09-07T20:45:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "LeRobot SO-101で模倣学習してワニワニパニック",
-    "link": "https://zenn.dev/karaage0703/articles/df8a01214f9f5f",
-    "pubDate": "Sun, 07 Sep 2025 16:34:26 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub、自然言語でGitHub Actionsワークフローを記述可能にする試み。生成AIで自然言語をYaml形式にコンパイル",
-    "link": "https://www.publickey1.jp/blog/25/githubgithub_actionsaiyaml.html",
-    "pubDate": "2025-09-07T15:25:41.000Z"
   },
   {
     "site": "Zenn",
@@ -72,6 +96,12 @@
     "pubDate": "Sun, 07 Sep 2025 13:38:48 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "JavaScriptのプロトタイプとクラス",
+    "link": "https://qiita.com/maedaHARUYA/items/5b41bdf0897061483d2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-07T13:16:05.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "スタニスワフ・レム『技術大全』訳者解説 - 山形浩生の「経済のトリセツ」",
     "link": "https://cruel.hatenablog.com/entry/2025/09/07/201703",
@@ -84,28 +114,10 @@
     "pubDate": "2025-09-07T09:47:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "DMMを退会しました。",
-    "link": "https://anond.hatelabo.jp/20250907180422",
-    "pubDate": "2025-09-07T09:31:41.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
     "link": "https://zenn.dev/xina/articles/47ef06d049c815",
     "pubDate": "Sun, 07 Sep 2025 08:48:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "自分がずっと欲しかったバーチャル本棚アプリ作ったら大満足でした - karaage. [からあげ]",
-    "link": "https://karaage.hatenadiary.jp/entry/2025/09/07/073000",
-    "pubDate": "2025-09-06T22:48:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeでE2Eテストを自動化！Playwright MCPで実現する対話型ブラウザテスト",
-    "link": "https://qiita.com/tomada/items/c386d6d173f4af32d0de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-06T22:42:44.000Z"
   },
   {
     "site": "Zenn",
@@ -120,10 +132,16 @@
     "pubDate": "Sat, 06 Sep 2025 14:16:43 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "JavaScript三十六景Tips集",
-    "link": "https://zenn.dev/kenjimorita/articles/3e18a07dda529b",
-    "pubDate": "Sat, 06 Sep 2025 13:47:31 GMT"
+    "site": "Qiita",
+    "title": "WPF × MVVM設計の役割分担について個人的まとめ",
+    "link": "https://qiita.com/sebayashi-tomoya/items/2daab90c890c2e30eb78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-06T10:23:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "確率の世界 — LLMが次の単語を選ぶ仕組み",
+    "link": "https://qiita.com/Sakai_path/items/f509ad565f960cb50d69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-06T08:36:34.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "React における children は非推奨ではない（非推奨なのは Children）",
     "link": "https://qiita.com/honey32/items/55fa056d4d331c86bf51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-05T14:21:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「今日夜ご飯いる？」をDXした",
-    "link": "https://qiita.com/yoshiddddd/items/d8b7cc72f77eefdbd993?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-05T02:24:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub ActionsでAWS Lambdaを簡単かつ爆速でデプロイしよう！【Python編】",
-    "link": "https://qiita.com/TooMe/items/b54219fdafecd2dd0f93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-05T02:06:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MCPにおけるセキュリティリスク",
-    "link": "https://qiita.com/KawakamiSyota/items/9a81cdcb8e94a38748d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-05T00:15:50.000Z"
   }
 ]
