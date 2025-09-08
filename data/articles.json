@@ -1,15 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "FeliCaの“脆弱性”報道はなにが問題なのか",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2045264.html",
+    "pubDate": "2025-09-08T00:32:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "オライリー・ジャパンにおける翻訳書の制作体制の変化と「もうすぐ消滅するという人間の翻訳について」 - YAMDAS現更新履歴",
+    "link": "https://yamdas.hatenablog.com/entry/20250908/oreilly_japan_translation",
+    "pubDate": "2025-09-07T22:55:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "昨年iPhoneを買い替えた時にバッテリーの最高使用量を「95％」に設定した結果バッテリー劣化度はゼロで100％のままになっている",
+    "link": "https://togetter.com/li/2599870",
+    "pubDate": "2025-09-07T20:45:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+    "link": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+    "pubDate": "Sun, 07 Sep 2025 14:34:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
+    "link": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
+    "pubDate": "Sun, 07 Sep 2025 13:39:52 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "スタニスワフ・レム『技術大全』訳者解説 - 山形浩生の「経済のトリセツ」",
+    "link": "https://cruel.hatenablog.com/entry/2025/09/07/201703",
+    "pubDate": "2025-09-07T12:00:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "仕様駆動開発を支える Spec Kit を試してみた",
     "link": "https://azukiazusa.dev/blog/spec-driven-development-with-spec-kit/",
     "pubDate": "2025-09-07T10:08:55.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIも不確実だけど、人間はもっと不確実だ",
-    "link": "https://zenn.dev/globis/articles/claude_code_is_all_you_need",
-    "pubDate": "2025-09-07T08:20:25.000Z"
+    "site": "Qiita",
+    "title": "Claude Codeをより便利・強力に使うためのツールまとめ - Qiita",
+    "link": "https://qiita.com/flowernotfound/items/649711de6fe8caf1eac2",
+    "pubDate": "2025-09-07T09:47:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DMMを退会しました。",
+    "link": "https://anond.hatelabo.jp/20250907180422",
+    "pubDate": "2025-09-07T09:31:41.000Z"
   },
   {
     "site": "Zenn",
@@ -18,40 +60,28 @@
     "pubDate": "2025-09-07T08:19:44.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "<img> タグについて画像表示を最適化",
-    "link": "https://qiita.com/17021084/items/982a1116186ca558b004?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-07T06:41:09.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "OpenAI、LLMの「幻覚」についての論文公開　「評価方法の抜本的見直し」を提言",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2509/07/news026.html",
     "pubDate": "2025-09-07T06:04:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "IT企業経営者の兄が首を吊って自殺した",
-    "link": "https://anond.hatelabo.jp/20250907140118",
-    "pubDate": "2025-09-07T05:07:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "｢LM Studio｣ではじめるローカルLLM。“ガチ無料AI”を徹底解説",
-    "link": "https://www.gizmodo.jp/2025/09/how_to_use_lm_studio.html",
-    "pubDate": "2025-09-06T23:49:16.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
-    "link": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
-    "pubDate": "2025-09-06T23:09:28.000Z"
+    "title": "Next.jsでのURL状態管理を楽にするnuqsの使い方",
+    "link": "https://zenn.dev/shintaro/articles/0a3d0f7aabfe85",
+    "pubDate": "Sun, 07 Sep 2025 01:40:59 GMT"
   },
   {
     "site": "Hatena",
     "title": "自分がずっと欲しかったバーチャル本棚アプリ作ったら大満足でした - karaage. [からあげ]",
     "link": "https://karaage.hatenadiary.jp/entry/2025/09/07/073000",
     "pubDate": "2025-09-06T22:48:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude CodeでE2Eテストを自動化！Playwright MCPで実現する対話型ブラウザテスト",
+    "link": "https://qiita.com/tomada/items/c386d6d173f4af32d0de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-06T22:42:44.000Z"
   },
   {
     "site": "Zenn",
@@ -78,10 +108,10 @@
     "pubDate": "Sat, 06 Sep 2025 12:41:26 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AWSサービスを組み合わせてLINEチャットボットを作ってみる",
-    "link": "https://qiita.com/yakumo_09/items/1b4f562e4037de80b3ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-06T10:19:44.000Z"
+    "site": "Zenn",
+    "title": "Google Calendarの色毎に時間を集計するMCPサーバーを作った話",
+    "link": "https://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp",
+    "pubDate": "Sat, 06 Sep 2025 09:40:53 GMT"
   },
   {
     "site": "Zenn",
@@ -90,52 +120,34 @@
     "pubDate": "Sat, 06 Sep 2025 09:20:08 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "うごけ！モータ！(副題：MCPサーバを使ってモータを雑に回す）",
-    "link": "https://qiita.com/WandererEng/items/8121636a713ba7eeaa39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-06T06:49:41.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
     "link": "https://zenn.dev/beagle/articles/7976e6ac40c762",
     "pubDate": "Sat, 06 Sep 2025 05:07:20 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIが“思った通りに動かない”理由とコンテキストエンジニアリング",
-    "link": "https://zenn.dev/knowledgework/articles/learning-context-engineering",
-    "pubDate": "Sat, 06 Sep 2025 03:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドのテストアーキテクチャ",
-    "link": "https://zenn.dev/toms74209200/articles/frontend-test-architecture",
-    "pubDate": "Sat, 06 Sep 2025 00:00:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPad mini 5を手書きノートとして使う｜Bigme B7を通過して｜神宮カミト",
-    "link": "https://note.com/dorexxxx/n/n3b563812b5f7",
-    "pubDate": "2025-09-05T23:41:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Background Tasksフレームワーク入門",
-    "link": "https://zenn.dev/shu223/articles/background-tasks",
-    "pubDate": "Fri, 05 Sep 2025 22:27:08 GMT"
+    "site": "Qiita",
+    "title": "【雑記】フロントエンド/Web制作の実務・学習で参考にしているサイト4選",
+    "link": "https://qiita.com/nagi-0106/items/21cab7eb7e0c3b5d6ee4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-06T01:55:28.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Context Is All You Need",
+    "title": "メンバ－全員が主体的に提案しまくってくれるように成功体験と一緒に「失敗体験」も繰り返そう",
+    "link": "https://qiita.com/kojimadev/items/ce9ec36704b58961be5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-06T00:13:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜあなたの指示はAIに「響かない」のか？ Context Is All You Need",
     "link": "https://qiita.com/makotosaekit/items/2a08d945dd4cbf1b14ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-05T20:54:00.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "TanStack DB ~状態管理の新しい考え方~",
-    "link": "https://zenn.dev/bmth/articles/tanstack-db-csq",
-    "pubDate": "Fri, 05 Sep 2025 18:06:46 GMT"
+    "site": "Qiita",
+    "title": "かんたんにDocker超高速化＠Windows！開発前にやるべきたった１つの工夫",
+    "link": "https://qiita.com/hitotch/items/1a2505496619c71c70ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-05T20:27:27.000Z"
   },
   {
     "site": "Qiita",
@@ -148,12 +160,6 @@
     "title": "React における children は非推奨ではない（非推奨なのは Children）",
     "link": "https://qiita.com/honey32/items/55fa056d4d331c86bf51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-05T14:21:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜ一度失敗したAIとの会話は打ち切るほうがいいのか - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2025/09/05/083257",
-    "pubDate": "2025-09-05T02:35:55.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "MCPにおけるセキュリティリスク",
     "link": "https://qiita.com/KawakamiSyota/items/9a81cdcb8e94a38748d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-05T00:15:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「哲学」から見るAIのハルシネーション",
-    "link": "https://qiita.com/makotosaekit/items/472a74da335df64a2f09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-04T12:40:29.000Z"
   }
 ]
