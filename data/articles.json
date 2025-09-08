@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "継承より良い方法を選ぼう - Mori Atsushi",
+    "link": "https://at-sushi.work/blog/2025-anti-inheritance/",
+    "pubDate": "2025-09-08T00:32:59.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "FeliCaの“脆弱性”報道はなにが問題なのか",
     "link": "https://www.watch.impress.co.jp/docs/topic/2045264.html",
     "pubDate": "2025-09-08T00:32:13.000Z"
@@ -13,9 +19,39 @@
   },
   {
     "site": "Hatena",
+    "title": "ヤバすぎ…ChatGPTが実現してしまった「悪魔の証明」、社会構造を揺るがす驚愕の事態",
+    "link": "https://www.sbbit.jp/article/fj/170827",
+    "pubDate": "2025-09-07T22:28:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール\"",
+    "link": "https://zenn.dev/gunta/articles/6382859d69cb30",
+    "pubDate": "Sun, 07 Sep 2025 20:58:04 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "昨年iPhoneを買い替えた時にバッテリーの最高使用量を「95％」に設定した結果バッテリー劣化度はゼロで100％のままになっている",
     "link": "https://togetter.com/li/2599870",
     "pubDate": "2025-09-07T20:45:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LeRobot SO-101で模倣学習してワニワニパニック",
+    "link": "https://zenn.dev/karaage0703/articles/df8a01214f9f5f",
+    "pubDate": "Sun, 07 Sep 2025 16:34:26 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub、自然言語でGitHub Actionsワークフローを記述可能にする試み。生成AIで自然言語をYaml形式にコンパイル",
+    "link": "https://www.publickey1.jp/blog/25/githubgithub_actionsaiyaml.html",
+    "pubDate": "2025-09-07T15:25:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "中学生がBGPで経路交換して遊んでみた",
+    "link": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
+    "pubDate": "Sun, 07 Sep 2025 15:11:04 GMT"
   },
   {
     "site": "Zenn",
@@ -30,16 +66,16 @@
     "pubDate": "Sun, 07 Sep 2025 13:39:52 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "STM32をUbuntuから書き込みたい",
+    "link": "https://zenn.dev/nonnoise/articles/4034cf78955d05",
+    "pubDate": "Sun, 07 Sep 2025 13:38:48 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "スタニスワフ・レム『技術大全』訳者解説 - 山形浩生の「経済のトリセツ」",
     "link": "https://cruel.hatenablog.com/entry/2025/09/07/201703",
     "pubDate": "2025-09-07T12:00:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "仕様駆動開発を支える Spec Kit を試してみた",
-    "link": "https://azukiazusa.dev/blog/spec-driven-development-with-spec-kit/",
-    "pubDate": "2025-09-07T10:08:55.000Z"
   },
   {
     "site": "Qiita",
@@ -55,21 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
-    "link": "https://zenn.dev/beagle/articles/7976e6ac40c762",
-    "pubDate": "2025-09-07T08:19:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAI、LLMの「幻覚」についての論文公開　「評価方法の抜本的見直し」を提言",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2509/07/news026.html",
-    "pubDate": "2025-09-07T06:04:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsでのURL状態管理を楽にするnuqsの使い方",
-    "link": "https://zenn.dev/shintaro/articles/0a3d0f7aabfe85",
-    "pubDate": "Sun, 07 Sep 2025 01:40:59 GMT"
+    "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+    "link": "https://zenn.dev/xina/articles/47ef06d049c815",
+    "pubDate": "Sun, 07 Sep 2025 08:48:00 GMT"
   },
   {
     "site": "Hatena",
@@ -100,30 +124,6 @@
     "title": "JavaScript三十六景Tips集",
     "link": "https://zenn.dev/kenjimorita/articles/3e18a07dda529b",
     "pubDate": "Sat, 06 Sep 2025 13:47:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
-    "link": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
-    "pubDate": "Sat, 06 Sep 2025 12:41:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google Calendarの色毎に時間を集計するMCPサーバーを作った話",
-    "link": "https://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp",
-    "pubDate": "Sat, 06 Sep 2025 09:40:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIAgentにAI最新情報まとめ資料を作ってもらう会【LangGraph&LangSmith】",
-    "link": "https://zenn.dev/microsoft/articles/create_doc_by_aiagent",
-    "pubDate": "Sat, 06 Sep 2025 09:20:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
-    "link": "https://zenn.dev/beagle/articles/7976e6ac40c762",
-    "pubDate": "Sat, 06 Sep 2025 05:07:20 GMT"
   },
   {
     "site": "Qiita",
