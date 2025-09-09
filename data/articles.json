@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "マイクロソフトがオープンソース化したDocumentDB、Linux Foundationに参加。NoSQLの標準化を目指す",
+    "link": "https://www.publickey1.jp/blog/25/documentdblinux_foundationnosql.html",
+    "pubDate": "2025-09-08T22:17:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "npm debug and chalk packages compromised",
+    "link": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
+    "pubDate": "2025-09-08T18:38:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google検索の「AIモード」、いよいよ日本でも開始",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2045505.html",
+    "pubDate": "2025-09-08T17:52:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "モンベルから、約2,500L浄水できる携帯用フィルター。ペットボトルにも接続可",
+    "link": "https://www.gizmodo.jp/2025/09/mont-bell-water-filter.html",
+    "pubDate": "2025-09-08T13:46:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "イーロン・マスクがTwitter買収直後、「三カ所サーバーがあるなら一つ無くせ」と決めて、反対したエンジニアはクビに、サーバーは自分でケーブルを切断して捨てた話→エンジニアにとって初見殺し経営者過ぎる…",
     "link": "https://posfie.com/@petaritape/p/X1spD1R",
     "pubDate": "2025-09-08T12:21:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+    "link": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+    "pubDate": "Mon, 08 Sep 2025 08:44:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rustのproc-macroを書き続けて3年が経った",
+    "link": "https://zenn.dev/yasuo_ozu/articles/my-3yrs-of-proc-macro",
+    "pubDate": "Mon, 08 Sep 2025 07:53:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "いまさら聞けない？ Function calling を Agent Development Kit (ADK) で理解する",
+    "link": "https://zenn.dev/cloud_ace/articles/59452ca3e1dfc8",
+    "pubDate": "Mon, 08 Sep 2025 07:41:45 GMT"
   },
   {
     "site": "Hatena",
@@ -13,21 +55,15 @@
   },
   {
     "site": "Hatena",
-    "title": "SESで150万件のメールを送るまで",
-    "link": "https://ses150-luv1p38.gamma.site/",
-    "pubDate": "2025-09-08T06:11:44.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "声優・山村響さんの声、無許可でAIモデル化　AivisSpeech「Anneli」問題が波紋",
     "link": "https://ascii.jp/elem/000/004/318/4318182/",
     "pubDate": "2025-09-08T04:24:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「LINE」、アプリのリニューアル発表",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2045462.html",
-    "pubDate": "2025-09-08T03:48:22.000Z"
+    "site": "Qiita",
+    "title": "Flutterで大量の画像付きリストを快適にスクロールできるようにする",
+    "link": "https://qiita.com/hayato_sakaida_rh/items/56ea08589435cf279628?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-08T03:42:36.000Z"
   },
   {
     "site": "Zenn",
@@ -60,22 +96,16 @@
     "pubDate": "Mon, 08 Sep 2025 03:07:31 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "継承より良い方法を選ぼう - Mori Atsushi",
-    "link": "https://at-sushi.work/blog/2025-anti-inheritance/",
-    "pubDate": "2025-09-08T00:32:59.000Z"
+    "site": "Zenn",
+    "title": "【Prisma】findFirst をユニーク検索に使うと危ない",
+    "link": "https://zenn.dev/chot/articles/prisma-dangerous-find-first",
+    "pubDate": "Mon, 08 Sep 2025 01:37:37 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "FeliCaの“脆弱性”報道はなにが問題なのか",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2045264.html",
-    "pubDate": "2025-09-08T00:32:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "オライリー・ジャパンにおける翻訳書の制作体制の変化と「もうすぐ消滅するという人間の翻訳について」 - YAMDAS現更新履歴",
-    "link": "https://yamdas.hatenablog.com/entry/20250908/oreilly_japan_translation",
-    "pubDate": "2025-09-07T22:55:32.000Z"
+    "site": "Zenn",
+    "title": "Tailscale on Azureでオンプレミスとの閉域接続を月1,000円で実現する",
+    "link": "https://zenn.dev/yotan/articles/43abdc5e48c0f6",
+    "pubDate": "Mon, 08 Sep 2025 01:29:43 GMT"
   },
   {
     "site": "Zenn",
@@ -96,40 +126,16 @@
     "pubDate": "Sun, 07 Sep 2025 14:34:13 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
-    "link": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
-    "pubDate": "Sun, 07 Sep 2025 13:39:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "STM32をUbuntuから書き込みたい",
-    "link": "https://zenn.dev/nonnoise/articles/4034cf78955d05",
-    "pubDate": "Sun, 07 Sep 2025 13:38:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "JavaScriptのプロトタイプとクラス",
     "link": "https://qiita.com/maedaHARUYA/items/5b41bdf0897061483d2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-07T13:16:05.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
-    "link": "https://zenn.dev/xina/articles/47ef06d049c815",
-    "pubDate": "Sun, 07 Sep 2025 08:48:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare Agentsコトハジメ",
-    "link": "https://zenn.dev/tkithrta/articles/d5ab8579a527e9",
-    "pubDate": "Sat, 06 Sep 2025 22:06:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
-    "link": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
-    "pubDate": "Sat, 06 Sep 2025 14:16:43 GMT"
+    "site": "Qiita",
+    "title": "Claude CodeでE2Eテストを自動化！Playwright MCPで実現する対話型ブラウザテスト",
+    "link": "https://qiita.com/tomada/items/c386d6d173f4af32d0de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-06T22:42:44.000Z"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Codeをより便利・強力に使うためのツールまとめ",
-    "link": "https://qiita.com/flowernotfound/items/649711de6fe8caf1eac2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-05T16:35:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "React における children は非推奨ではない（非推奨なのは Children）",
-    "link": "https://qiita.com/honey32/items/55fa056d4d331c86bf51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-05T14:21:33.000Z"
+    "title": "クラスタに3ノード必要な理由 - Qiita",
+    "link": "https://qiita.com/ntoreg/items/ec6f1eca87ba5c5c0399",
+    "pubDate": "2016-11-30T17:36:23.000Z"
   }
 ]
