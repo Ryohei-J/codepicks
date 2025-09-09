@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "次世代JS標準時刻API Temporal を3年先行利用して得た知見を共有します！ - Mirrativ Tech Blog",
+    "link": "https://tech.mirrativ.stream/entry/2025/09/09/105000",
+    "pubDate": "2025-09-09T01:55:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "マイクロソフトがオープンソース化したDocumentDB、Linux Foundationに参加。NoSQLの標準化を目指す",
     "link": "https://www.publickey1.jp/blog/25/documentdblinux_foundationnosql.html",
     "pubDate": "2025-09-08T22:17:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "プライベートIPアドレスに「192.168.x.x」が使われるようになった理由とは？",
+    "link": "https://gigazine.net/news/20250909-private-ip-address-192-168/",
+    "pubDate": "2025-09-08T22:12:54.000Z"
   },
   {
     "site": "Hatena",
@@ -19,6 +31,12 @@
   },
   {
     "site": "Hatena",
+    "title": "Google 検索における「AI モード」を日本語で提供開始",
+    "link": "https://blog.google/intl/ja-jp/products/explore-get-answers/ai-mode-search/",
+    "pubDate": "2025-09-08T16:25:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "モンベルから、約2,500L浄水できる携帯用フィルター。ペットボトルにも接続可",
     "link": "https://www.gizmodo.jp/2025/09/mont-bell-water-filter.html",
     "pubDate": "2025-09-08T13:46:53.000Z"
@@ -28,6 +46,12 @@
     "title": "イーロン・マスクがTwitter買収直後、「三カ所サーバーがあるなら一つ無くせ」と決めて、反対したエンジニアはクビに、サーバーは自分でケーブルを切断して捨てた話→エンジニアにとって初見殺し経営者過ぎる…",
     "link": "https://posfie.com/@petaritape/p/X1spD1R",
     "pubDate": "2025-09-08T12:21:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
+    "link": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
+    "pubDate": "Mon, 08 Sep 2025 09:00:02 GMT"
   },
   {
     "site": "Zenn",
@@ -49,15 +73,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「そのぐらい書いておけよ」──“作り方はQRコードから”のインスタント焼きそばに賛否　製造元の意図は",
-    "link": "https://www.itmedia.co.jp/news/articles/2509/08/news095.html",
-    "pubDate": "2025-09-08T06:57:14.000Z"
+    "title": "初めて質問させていただきます。 パスキーの仕組みについてわからないことがあります。 巷で解説されているパスキー認証の仕組みサイトを読むと、 ①サーバーからデバイスにチャレンジが送られる ②デバイスが秘密鍵でチャレンジに署名をして送り返す ③サーバーが署名を公開鍵で復号してチャレンジと同じか検証する というような事が書かれています。 そしてその仕組みは「公開鍵暗号方式」が使われていると書かれています。 けれども、基本情報技術者の教科書を読むと、公開鍵暗号方式は ①受信者の公開鍵で暗号化し ②受信者の秘密鍵で",
+    "link": "https://mond.how/ja/topics/8t9i33a9lt6rh87/t9tua01k8j5m39h",
+    "pubDate": "2025-09-08T04:47:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "声優・山村響さんの声、無許可でAIモデル化　AivisSpeech「Anneli」問題が波紋",
-    "link": "https://ascii.jp/elem/000/004/318/4318182/",
-    "pubDate": "2025-09-08T04:24:48.000Z"
+    "site": "Zenn",
+    "title": "React Nativeで実現できないことはあるのか？",
+    "link": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+    "pubDate": "Mon, 08 Sep 2025 04:28:07 GMT"
   },
   {
     "site": "Qiita",
@@ -72,18 +96,6 @@
     "pubDate": "Mon, 08 Sep 2025 03:33:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AGENTS.md の概要｜npaka",
-    "link": "https://note.com/npaka/n/nd1258df2853c",
-    "pubDate": "2025-09-08T03:19:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAIがAI認定資格を発表、「ChatGPT」内で勉強から取得まで完結",
-    "link": "https://japan.cnet.com/article/35237683/",
-    "pubDate": "2025-09-08T03:12:27.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【ポケモン×Java】Lv8：『先にHP0になるのはどっちだ？』〜if文〜",
     "link": "https://qiita.com/hitomin_poke/items/0014759b730d432bc906?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,12 +106,6 @@
     "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
     "link": "https://zenn.dev/chot/articles/997bb34bab0062",
     "pubDate": "Mon, 08 Sep 2025 03:07:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Prisma】findFirst をユニーク検索に使うと危ない",
-    "link": "https://zenn.dev/chot/articles/prisma-dangerous-find-first",
-    "pubDate": "Mon, 08 Sep 2025 01:37:37 GMT"
   },
   {
     "site": "Zenn",
@@ -118,12 +124,6 @@
     "title": "中学生がBGPで経路交換して遊んでみた",
     "link": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
     "pubDate": "Sun, 07 Sep 2025 15:11:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TinyGo Keeb に参加してキーボードを作ってきた",
-    "link": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
-    "pubDate": "Sun, 07 Sep 2025 14:34:13 GMT"
   },
   {
     "site": "Qiita",
