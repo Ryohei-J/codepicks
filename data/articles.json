@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "150万通のメールを送るのに5万円の専用サービスを使わずにAWS SESを使ったら総務省から怒られた上に工数的に高くかかった話→やはり餅は餅屋…",
+    "link": "https://posfie.com/@kalofollow/p/pitX5KT",
+    "pubDate": "2025-09-09T23:45:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "iPhone 17、日本版はSIMカードがささりません　eSIMオンリーにSNSは「移行が不安」とざわつきも",
     "link": "https://www.itmedia.co.jp/news/articles/2509/10/news088.html",
     "pubDate": "2025-09-09T21:23:31.000Z"
@@ -25,9 +31,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AirPods Pro 3発表！音質、バッテリー持ちが改善！翻訳は日本語に年内対応 - iPhone Mania",
-    "link": "https://iphone-mania.jp/airpods-597492/",
-    "pubDate": "2025-09-09T17:41:38.000Z"
+    "title": "アップル、“世界最高峰ノイキャン”「AirPods Pro 3」。ライブ翻訳も可能に",
+    "link": "https://av.watch.impress.co.jp/docs/news/2046054.html",
+    "pubDate": "2025-09-09T17:43:26.000Z"
   },
   {
     "site": "Zenn",
@@ -42,10 +48,28 @@
     "pubDate": "2025-09-09T13:57:32.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【注意喚起】フリーランス・業務委託の泣き寝入り続出中！あなたの会社が加害者側になっているかも？",
+    "link": "https://zenn.dev/vteacher/articles/article-tanaka-20250909",
+    "pubDate": "Tue, 09 Sep 2025 11:40:50 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "反AIやっていたら心が壊れて人生終わった",
     "link": "https://anond.hatelabo.jp/20250909201045",
     "pubDate": "2025-09-09T11:18:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「ドメイン駆動設計をはじめよう」を3回読んで学んだ事をまとめる",
+    "link": "https://zenn.dev/fendo181/articles/6ed5dfc71898da",
+    "pubDate": "Tue, 09 Sep 2025 10:23:54 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Chromeの拡張機能ってAI使えば簡単に作れる説 - Qiita",
+    "link": "https://qiita.com/nolanlover0527/items/32d8f4c1b3064eff5ecd",
+    "pubDate": "2025-09-09T09:51:05.000Z"
   },
   {
     "site": "Qiita",
@@ -58,12 +82,6 @@
     "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
     "link": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
     "pubDate": "Tue, 09 Sep 2025 09:39:36 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhoneと「APN構成プロファイル」の迷宮 | IIJ Engineers Blog",
-    "link": "https://eng-blog.iij.ad.jp/archives/32616",
-    "pubDate": "2025-09-09T08:40:23.000Z"
   },
   {
     "site": "Zenn",
@@ -142,24 +160,6 @@
     "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
     "link": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
     "pubDate": "Mon, 08 Sep 2025 09:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
-    "link": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
-    "pubDate": "Mon, 08 Sep 2025 08:44:49 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "初めて質問させていただきます。 パスキーの仕組みについてわからないことがあります。 巷で解説されているパスキー認証の仕組みサイトを読むと、 ①サーバーからデバイスにチャレンジが送られる ②デバイスが秘密鍵でチャレンジに署名をして送り返す ③サーバーが署名を公開鍵で復号してチャレンジと同じか検証する というような事が書かれています。 そしてその仕組みは「公開鍵暗号方式」が使われていると書かれています。 けれども、基本情報技術者の教科書を読むと、公開鍵暗号方式は ①受信者の公開鍵で暗号化し ②受信者の秘密鍵で",
-    "link": "https://mond.how/ja/topics/8t9i33a9lt6rh87/t9tua01k8j5m39h",
-    "pubDate": "2025-09-08T04:47:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Nativeで実現できないことはあるのか？",
-    "link": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
-    "pubDate": "Mon, 08 Sep 2025 04:28:07 GMT"
   },
   {
     "site": "Qiita",
