@@ -1,6 +1,48 @@
 [
   {
     "site": "Hatena",
+    "title": "「落書き？」「デザインの失敗？」――大井町線車両の“謎のスプレー跡”が話題　東急に理由を聞いた",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/10/news138.html",
+    "pubDate": "2025-09-10T09:04:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
+    "link": "https://bookmark.hatenastaff.com/entry/2025/09/10/173854",
+    "pubDate": "2025-09-10T08:52:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "URL safeなそこそこ短くて衝突しないIDを生成したい",
+    "link": "https://qiita.com/yoshimi-yzrh/items/ab20a06a6be9e9ac9bbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-10T04:03:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Android向けの老舗ランチャー「Nova Launcher」の創設者が退社、事実上の終了へ【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2046159.html",
+    "pubDate": "2025-09-10T03:48:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "副業OKな企業のSlackで無邪気に「会社の貸与PCを副業にも使いたいのですがよいですか？」と聞いた人がいた→会社の対応がストロングスタイルだった",
+    "link": "https://togetter.com/li/2600782",
+    "pubDate": "2025-09-10T03:06:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+    "link": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+    "pubDate": "Wed, 10 Sep 2025 03:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "生成AI時代にあるべき開発/データ組織を考える",
+    "link": "https://zenn.dev/fez_tech/articles/e57ab59ef2b323",
+    "pubDate": "Wed, 10 Sep 2025 00:45:01 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "150万通のメールを送るのに5万円の専用サービスを使わずにAWS SESを使ったら総務省から怒られた上に工数的に高くかかった話→やはり餅は餅屋…",
     "link": "https://posfie.com/@kalofollow/p/pitX5KT",
     "pubDate": "2025-09-09T23:45:38.000Z"
@@ -24,28 +66,10 @@
     "pubDate": "2025-09-09T18:07:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「iPhone 17 Pro」シリーズ発表　アルミユニボディでデザイン大幅刷新　望遠は最大8倍に　若干値上げ",
-    "link": "https://www.itmedia.co.jp/news/articles/2509/10/news068.html",
-    "pubDate": "2025-09-09T18:07:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アップル、“世界最高峰ノイキャン”「AirPods Pro 3」。ライブ翻訳も可能に",
-    "link": "https://av.watch.impress.co.jp/docs/news/2046054.html",
-    "pubDate": "2025-09-09T17:43:26.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
     "link": "https://zenn.dev/azu/articles/ad168118524135",
     "pubDate": "Tue, 09 Sep 2025 14:25:31 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Rails作者のDHH氏、独自開発したLinux OS「Omarchy」 をデモ。5分で最高の開発環境を導入。ターミナルUIとタイリングウィンドウが特徴",
-    "link": "https://www.publickey1.jp/blog/25/railsdhhlinux_osomarchy_5ui.html",
-    "pubDate": "2025-09-09T13:57:32.000Z"
   },
   {
     "site": "Zenn",
@@ -54,10 +78,10 @@
     "pubDate": "Tue, 09 Sep 2025 11:40:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "反AIやっていたら心が壊れて人生終わった",
-    "link": "https://anond.hatelabo.jp/20250909201045",
-    "pubDate": "2025-09-09T11:18:13.000Z"
+    "site": "Zenn",
+    "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+    "link": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+    "pubDate": "Tue, 09 Sep 2025 10:28:06 GMT"
   },
   {
     "site": "Zenn",
@@ -91,15 +115,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【初心者向け】Render.comとNeonで作ったRailsアプリを無料デプロイした手順",
-    "link": "https://qiita.com/koxrtx/items/92c014a692a00a91096f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T03:31:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " 【ポケモン×Java】知識編 if文#1 〜if文を完全攻略！-基本構文編-～",
-    "link": "https://qiita.com/hitomin_poke/items/2a6b9cd85609c788e2c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T03:15:59.000Z"
+    "title": "セキュリティエンジニア必携！OSSセキュリティツール厳選10選",
+    "link": "https://qiita.com/itodaisuke99/items/2490f4756e4ee20540e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-09T06:31:24.000Z"
   },
   {
     "site": "Hatena",
@@ -126,18 +144,6 @@
     "pubDate": "2025-09-09T00:41:12.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "楽しく開発するための私のターミナル設定",
-    "link": "https://zenn.dev/chot/articles/1d10f3a40332ab",
-    "pubDate": "Tue, 09 Sep 2025 00:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
-    "link": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
-    "pubDate": "Mon, 08 Sep 2025 23:00:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "おっしゃれなチャットアプリを作る（AI SDK + AI Elements + Next.js + Bedrock）",
     "link": "https://qiita.com/moritalous/items/744b935a765f0621c881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -156,10 +162,10 @@
     "pubDate": "2025-09-08T10:22:53.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
-    "link": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
-    "pubDate": "Mon, 08 Sep 2025 09:00:02 GMT"
+    "site": "Qiita",
+    "title": "Chromeの拡張機能ってAI使えば簡単に作れる説",
+    "link": "https://qiita.com/nolanlover0527/items/32d8f4c1b3064eff5ecd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-08T06:46:41.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "なるべく安全に自宅サーバを公開したい（ゼロトラスト入門）",
     "link": "https://qiita.com/keke21/items/efaa2b2c35dfb646a43e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-07T09:02:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeでE2Eテストを自動化！Playwright MCPで実現する対話型ブラウザテスト",
-    "link": "https://qiita.com/tomada/items/c386d6d173f4af32d0de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-06T22:42:44.000Z"
   }
 ]
