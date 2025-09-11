@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "2秒以内に商業レベルの高品質音楽を生成できる音楽生成AI「Stable Audio 2.5」",
+    "link": "https://gigazine.net/news/20250911-stable-audio/",
+    "pubDate": "2025-09-11T03:28:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自分のWebサイトをスケルトン仕様にする - Lambdaカクテル",
+    "link": "https://blog.3qe.us/entry/2025/09/11/114156",
+    "pubDate": "2025-09-11T03:18:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "バイトでサーバーの設置とかやってるんだが、 「私技術のことわからないん..",
     "link": "https://anond.hatelabo.jp/20250911095747",
     "pubDate": "2025-09-11T00:58:07.000Z"
@@ -24,10 +36,34 @@
     "pubDate": "2025-09-10T17:56:50.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIによる大量コードのマイグレーションスクリプト作成の試行錯誤と知見",
+    "link": "https://zenn.dev/cybozu_frontend/articles/ai-migration-script-muzui",
+    "pubDate": "Wed, 10 Sep 2025 15:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ある日起きたら、片耳の聴力を失った話",
+    "link": "https://anond.hatelabo.jp/20250910233513",
+    "pubDate": "2025-09-10T14:37:59.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "iPhone17に機種変更するなら、物理SIM→eSIM変更が必要。でも難しくありません！ | ライフハッカー・ジャパン",
     "link": "https://www.lifehacker.jp/article/2509-apple-iphone17-esim/",
     "pubDate": "2025-09-10T13:31:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "React学習ログ No.1",
+    "link": "https://qiita.com/maedaHARUYA/items/70245dcdf0bdaa6a422d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-10T13:25:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
+    "link": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
+    "pubDate": "Wed, 10 Sep 2025 11:05:03 GMT"
   },
   {
     "site": "Zenn",
@@ -36,16 +72,10 @@
     "pubDate": "Wed, 10 Sep 2025 10:31:31 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "30年使い込んでも、まだまだ楽しい名ソフト　なぜ人々は「FileMaker」を愛する？ (1/3)",
-    "link": "https://ascii.jp/elem/000/004/318/4318784/",
-    "pubDate": "2025-09-10T08:21:43.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 if文#2  〜if文を完全攻略！-特殊記法-〜",
-    "link": "https://qiita.com/hitomin_poke/items/4b022abcf42c4c9c50c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-10T07:08:28.000Z"
+    "title": "なぜもっと早く使わなかったのか...データベース系MCPでデータ分析が楽しい！",
+    "link": "https://qiita.com/ssc-yshikeda/items/67113394e8deffcf4531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-10T08:16:55.000Z"
   },
   {
     "site": "Qiita",
@@ -54,28 +84,10 @@
     "pubDate": "2025-09-10T04:41:31.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Playwright MCPを使ってE2Eテストを楽に書く",
-    "link": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
-    "pubDate": "2025-09-10T04:17:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "URL safeなそこそこ短くて衝突しないIDを生成したい",
-    "link": "https://qiita.com/yoshimi-yzrh/items/ab20a06a6be9e9ac9bbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-10T04:03:30.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "情報セキュリティ白書2025 | 書籍・刊行物 | IPA 独立行政法人 情報処理推進機構",
     "link": "https://www.ipa.go.jp/publish/wp-security/2025.html",
     "pubDate": "2025-09-10T03:32:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "この1ページでわかる｜AIエージェント超入門｜ベイジの図書館",
-    "link": "https://baigie.me/officialblog/2025/09/10/ai_argent/",
-    "pubDate": "2025-09-10T03:12:40.000Z"
   },
   {
     "site": "Zenn",
@@ -100,6 +112,12 @@
     "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
     "link": "https://zenn.dev/azu/articles/ad168118524135",
     "pubDate": "Tue, 09 Sep 2025 14:25:31 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Excel、Excel VBA をGitで管理する",
+    "link": "https://qiita.com/Kodak_tmo/items/04de2f6cfee17bb1119e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-09T14:02:56.000Z"
   },
   {
     "site": "Zenn",
@@ -132,18 +150,6 @@
     "pubDate": "Tue, 09 Sep 2025 09:39:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "″仕様駆動開発″というプロンプトを外付けするSpec Kit",
-    "link": "https://zenn.dev/watany/articles/46f7a8006eb054",
-    "pubDate": "Tue, 09 Sep 2025 08:22:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
-    "link": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
-    "pubDate": "Tue, 09 Sep 2025 07:25:47 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "現代的なLinuxコマンドを活用して、WSL環境をもっと快適にしてみよう",
     "link": "https://thinkit.co.jp/article/38481",
@@ -172,11 +178,5 @@
     "title": "【JavaScript】おおよその位置情報を取得できるようにしようという提案",
     "link": "https://qiita.com/rana_kualu/items/9e6304b90f9532e9bf9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-08T10:22:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Chromeの拡張機能ってAI使えば簡単に作れる説",
-    "link": "https://qiita.com/nolanlover0527/items/32d8f4c1b3064eff5ecd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-08T06:46:41.000Z"
   }
 ]
