@@ -1,5 +1,23 @@
 [
   {
+    "site": "Qiita",
+    "title": "なぜLambdaから直接他のLambdaを呼び出すのはアンチパターンなのか - Qiita",
+    "link": "https://qiita.com/ry-harada/items/fc1587f3f52ee6e87ef7",
+    "pubDate": "2025-09-11T08:55:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple 2025年秋の新製品発表会で見えた“デザイン会社”としての復活",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2509/11/news070.html",
+    "pubDate": "2025-09-11T04:48:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "10代は「ChatGPTで検索」が4割、Yahoo! JAPAN上回る――検索の生成AI利用、実態は？　CA調査",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2509/11/news077.html",
+    "pubDate": "2025-09-11T04:47:51.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "2秒以内に商業レベルの高品質音楽を生成できる音楽生成AI「Stable Audio 2.5」",
     "link": "https://gigazine.net/news/20250911-stable-audio/",
@@ -12,16 +30,16 @@
     "pubDate": "2025-09-11T03:18:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "バイトでサーバーの設置とかやってるんだが、 「私技術のことわからないん..",
-    "link": "https://anond.hatelabo.jp/20250911095747",
-    "pubDate": "2025-09-11T00:58:07.000Z"
+    "site": "Zenn",
+    "title": "マテリアルズインフォマティクス（MI）入門：Pythonによる物性予測から逆問題設計まで",
+    "link": "https://zenn.dev/labcode/books/fda58a9b4ee9ef",
+    "pubDate": "Thu, 11 Sep 2025 02:46:32 GMT"
   },
   {
     "site": "Hatena",
-    "title": "キヤノン、コンデジ「IXY650」マイナーチェンジは中高生のため!? コンデジの意外な需要",
-    "link": "https://av.watch.impress.co.jp/docs/topic/2046002.html",
-    "pubDate": "2025-09-11T00:18:51.000Z"
+    "title": "バイトでサーバーの設置とかやってるんだが（現地OAサービス）、 「私技術..",
+    "link": "https://anond.hatelabo.jp/20250911095747",
+    "pubDate": "2025-09-11T00:58:07.000Z"
   },
   {
     "site": "Hatena",
@@ -30,10 +48,28 @@
     "pubDate": "2025-09-10T23:29:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "テスラのドアに危険性、手動の開け方わからず死亡例も－米当局も認識",
-    "link": "https://www.bloomberg.co.jp/news/articles/2025-09-10/T2D8WCGP493O00",
-    "pubDate": "2025-09-10T17:56:50.000Z"
+    "site": "Zenn",
+    "title": "レッドオーシャンに一石を投じるつもりで変なSNSを10ヶ月以上運営してかなり病んだ話",
+    "link": "https://zenn.dev/arusyukuhai/articles/35e19da2741524",
+    "pubDate": "Wed, 10 Sep 2025 22:59:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Triton を使って CUDA を書かずに高速な GPU カーネルを実装する",
+    "link": "https://zenn.dev/zaburo_ch/articles/252522d9e4aa3d",
+    "pubDate": "Wed, 10 Sep 2025 22:30:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+    "link": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+    "pubDate": "Wed, 10 Sep 2025 16:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Bluesky をもっと楽しくする新アプリ \"SkyBeMoreBlue\" を公開しました",
+    "link": "https://zenn.dev/so_asano/articles/cd26a3fde5cfe3",
+    "pubDate": "Wed, 10 Sep 2025 15:49:19 GMT"
   },
   {
     "site": "Zenn",
@@ -46,12 +82,6 @@
     "title": "ある日起きたら、片耳の聴力を失った話",
     "link": "https://anond.hatelabo.jp/20250910233513",
     "pubDate": "2025-09-10T14:37:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone17に機種変更するなら、物理SIM→eSIM変更が必要。でも難しくありません！ | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2509-apple-iphone17-esim/",
-    "pubDate": "2025-09-10T13:31:50.000Z"
   },
   {
     "site": "Qiita",
@@ -84,10 +114,16 @@
     "pubDate": "2025-09-10T04:41:31.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "GitHub ActionsのSHA Pinning Enforcementを有効にするまでの道のり",
+    "link": "https://zenn.dev/finatext/articles/gha-sha-pinning-enforcement",
+    "pubDate": "Wed, 10 Sep 2025 03:42:39 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "情報セキュリティ白書2025 | 書籍・刊行物 | IPA 独立行政法人 情報処理推進機構",
-    "link": "https://www.ipa.go.jp/publish/wp-security/2025.html",
-    "pubDate": "2025-09-10T03:32:09.000Z"
+    "title": "この1ページでわかる｜AIエージェント超入門｜ベイジの図書館",
+    "link": "https://baigie.me/officialblog/2025/09/10/ai_argent/",
+    "pubDate": "2025-09-10T03:12:40.000Z"
   },
   {
     "site": "Zenn",
@@ -96,22 +132,10 @@
     "pubDate": "Wed, 10 Sep 2025 03:00:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "生成AI時代にあるべき開発/データ組織を考える",
-    "link": "https://zenn.dev/fez_tech/articles/e57ab59ef2b323",
-    "pubDate": "Wed, 10 Sep 2025 00:45:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Terraformでdotfilesを管理する",
     "link": "https://qiita.com/inamuu/items/0aa90d4b58d43f15227e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-09T18:01:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
-    "link": "https://zenn.dev/azu/articles/ad168118524135",
-    "pubDate": "Tue, 09 Sep 2025 14:25:31 GMT"
   },
   {
     "site": "Qiita",
@@ -120,34 +144,10 @@
     "pubDate": "2025-09-09T14:02:56.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【注意喚起】フリーランス・業務委託の泣き寝入り続出中！あなたの会社が加害者側になっているかも？",
-    "link": "https://zenn.dev/vteacher/articles/article-tanaka-20250909",
-    "pubDate": "Tue, 09 Sep 2025 11:40:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
-    "link": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
-    "pubDate": "Tue, 09 Sep 2025 10:28:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「ドメイン駆動設計をはじめよう」を3回読んで学んだ事をまとめる",
-    "link": "https://zenn.dev/fendo181/articles/6ed5dfc71898da",
-    "pubDate": "Tue, 09 Sep 2025 10:23:54 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Vibe Coding から、Drive Coding (欲動のコーディング)へ",
     "link": "https://qiita.com/makotosaekit/items/eba767a0a95bbc7b25b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-09T09:39:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
-    "link": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
-    "pubDate": "Tue, 09 Sep 2025 09:39:36 GMT"
   },
   {
     "site": "Hatena",
