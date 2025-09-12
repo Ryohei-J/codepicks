@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "世界初の「AI大臣」が登場、汚職対策のため",
-    "link": "https://gigazine.net/news/20250912-ai-minister/",
-    "pubDate": "2025-09-12T03:34:30.000Z"
+    "title": "「更新してシャットダウン」→起きたら付いてるパソコン画面の流れにわかりみがありすぎる 「うちの子供くらい言うこと聞かない」",
+    "link": "https://togetter.com/li/2601726",
+    "pubDate": "2025-09-12T07:38:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "国内証券口座のっとりによる不正取引についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2025/09/12/160227",
+    "pubDate": "2025-09-12T07:26:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleの画像生成AI「Nano-banana」をめちゃくちゃ活用できるプロンプトとサンプル画像実例まとめ",
+    "link": "https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/",
+    "pubDate": "2025-09-12T06:37:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ベクトル検索だけじゃ足りない？Qdrantで精度を高めるハイブリッド検索 - RAKUS Developers Blog | ラクス エンジニアブログ",
+    "link": "https://tech-blog.rakus.co.jp/entry/20250912/hybrid-search-qdrant",
+    "pubDate": "2025-09-12T06:07:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhone miniを求める人の謎",
+    "link": "https://anond.hatelabo.jp/20250912141742",
+    "pubDate": "2025-09-12T05:18:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "高尾山に登ったら次は？行列分解で「登山レコメンド」を作る",
+    "link": "https://qiita.com/y-tsukasa/items/d324056cf648d685de5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-12T02:59:17.000Z"
   },
   {
     "site": "Hatena",
@@ -18,16 +48,22 @@
     "pubDate": "2025-09-11T21:22:11.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Haskeller のための AtCoder 言語アップデート 2025",
+    "link": "https://zenn.dev/toyboot4e/articles/haskell-on-atcoder-2025",
+    "pubDate": "Thu, 11 Sep 2025 16:45:50 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "音楽好きな人のための音楽生成AIサービス最強決定戦～Suno、Udio、Tunee、Stable Audioいちばん狙った音が出るのはどれ！？（インスト曲）",
     "link": "https://nomolk.hatenablog.com/entry/2025/09/12/002827",
     "pubDate": "2025-09-11T16:09:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIと私たちの学習の変化を考える - Claude Codeの学習モードを例に",
-    "link": "https://speakerdeck.com/azukiazusa1/aitosi-tatinoxue-xi-nobian-hua-wokao-eru-claude-codenoxue-xi-modowoli-ni",
-    "pubDate": "2025-09-11T13:05:48.000Z"
+    "site": "Zenn",
+    "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
+    "link": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
+    "pubDate": "Thu, 11 Sep 2025 12:51:02 GMT"
   },
   {
     "site": "Hatena",
@@ -36,16 +72,22 @@
     "pubDate": "2025-09-11T11:24:16.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "フロントエンドカンファレンス北海道2025 に参加してきました！ & ほぼ全資料まとめ",
+    "link": "https://zenn.dev/teamlab_fe/articles/270cf15431490b",
+    "pubDate": "Thu, 11 Sep 2025 11:09:37 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "iPhone Airじゃなくて“mini”出して──ネット上に「本音」　小型スマホはなぜ激減？",
     "link": "https://www.itmedia.co.jp/mobile/articles/2509/11/news107.html",
     "pubDate": "2025-09-11T10:35:23.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "なぜLambdaから直接他のLambdaを呼び出すのはアンチパターンなのか - Qiita",
-    "link": "https://qiita.com/ry-harada/items/fc1587f3f52ee6e87ef7",
-    "pubDate": "2025-09-11T08:55:17.000Z"
+    "site": "Zenn",
+    "title": "VS Code と Docker で始める！シンプルな Java 開発入門",
+    "link": "https://zenn.dev/hiro345/articles/20250910_vscode_java",
+    "pubDate": "Thu, 11 Sep 2025 10:27:28 GMT"
   },
   {
     "site": "Qiita",
@@ -55,15 +97,21 @@
   },
   {
     "site": "Zenn",
-    "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
-    "link": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
-    "pubDate": "2025-09-11T06:20:15.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
     "link": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
     "pubDate": "Thu, 11 Sep 2025 05:27:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Awesome GitHub Copilot MCP Server で GitHub Copilot を強くする",
+    "link": "https://zenn.dev/microsoft/articles/awesome-github-copilot-mcp-server",
+    "pubDate": "Thu, 11 Sep 2025 04:01:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+    "link": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+    "pubDate": "Thu, 11 Sep 2025 03:00:02 GMT"
   },
   {
     "site": "Zenn",
@@ -78,24 +126,6 @@
     "pubDate": "Thu, 11 Sep 2025 02:46:32 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
-    "link": "https://zenn.dev/watany/articles/78a06904f681dd",
-    "pubDate": "Thu, 11 Sep 2025 02:32:35 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【MQTT通信】SocketDebuggerでTCPペイロードを完全解説 ─ CONNECT／PUB／SUBを手作業で体験してみた⚡",
-    "link": "https://qiita.com/umezawa_udom/items/41e843127560ca64777f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-11T01:55:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Campfireのソースコードに学ぶRails Way🚀",
-    "link": "https://zenn.dev/lvflwr/articles/edc586252355fb",
-    "pubDate": "Wed, 10 Sep 2025 23:17:12 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "なぜLambdaから直接他のLambdaを呼び出すのはアンチパターンなのか",
     "link": "https://qiita.com/ry-harada/items/fc1587f3f52ee6e87ef7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,28 +138,10 @@
     "pubDate": "Wed, 10 Sep 2025 22:30:38 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
-    "link": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
-    "pubDate": "Wed, 10 Sep 2025 16:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIによる大量コードのマイグレーションスクリプト作成の試行錯誤と知見",
-    "link": "https://zenn.dev/cybozu_frontend/articles/ai-migration-script-muzui",
-    "pubDate": "Wed, 10 Sep 2025 15:00:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ある日起きたら、片耳の聴力を失った話",
-    "link": "https://anond.hatelabo.jp/20250910233513",
-    "pubDate": "2025-09-10T14:37:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
-    "link": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
-    "pubDate": "Wed, 10 Sep 2025 11:05:03 GMT"
+    "site": "Qiita",
+    "title": "VSCode で HTMLのテンプレートを使用する",
+    "link": "https://qiita.com/hiiragi0o/items/9639911dfc3083ef02af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-10T13:21:59.000Z"
   },
   {
     "site": "Qiita",
@@ -144,10 +156,10 @@
     "pubDate": "2025-09-10T04:41:31.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub ActionsのSHA Pinning Enforcementを有効にするまでの道のり",
-    "link": "https://zenn.dev/finatext/articles/gha-sha-pinning-enforcement",
-    "pubDate": "Wed, 10 Sep 2025 03:42:39 GMT"
+    "site": "Qiita",
+    "title": "Terraformでdotfilesを管理する",
+    "link": "https://qiita.com/inamuu/items/0aa90d4b58d43f15227e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-09T18:01:21.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "Google ADK × MCPで作る！天気も考慮するレジャー提案AIエージェント",
     "link": "https://qiita.com/take-yoda/items/96802daf69a85f92bb8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-09T08:09:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "セキュリティエンジニア必携！OSSセキュリティツール厳選10選",
-    "link": "https://qiita.com/itodaisuke99/items/2490f4756e4ee20540e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T06:31:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIに「React使って」と言う前に　2025年Web標準技術Vanilla HTML CSS JavaScriptでここまでできる",
-    "link": "https://qiita.com/Doc-Tanukichi/items/c757569c687f181008cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-08T21:23:12.000Z"
   }
 ]
