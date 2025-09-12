@@ -1,21 +1,57 @@
 [
   {
+    "site": "Hatena",
+    "title": "【特集】 まるで成長していない。「USB4」になっても呼び名が混乱している件。Gen 2とか相変わらず分かりにくいまま",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2046814.html",
+    "pubDate": "2025-09-11T21:22:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIと私たちの学習の変化を考える - Claude Codeの学習モードを例に",
+    "link": "https://speakerdeck.com/azukiazusa1/aitosi-tatinoxue-xi-nobian-hua-wokao-eru-claude-codenoxue-xi-modowoli-ni",
+    "pubDate": "2025-09-11T13:05:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、スマホ単体でAIモデルを動かせるアプリを「Playストア」で配信　新たに音声機能もサポート",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/11/news116.html",
+    "pubDate": "2025-09-11T12:21:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "転職の有休消化中に何していいかわからない",
+    "link": "https://anond.hatelabo.jp/20250911172154",
+    "pubDate": "2025-09-11T11:24:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhone Airじゃなくて“mini”出して──ネット上に「本音」　小型スマホはなぜ激減？",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2509/11/news107.html",
+    "pubDate": "2025-09-11T10:35:23.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "なぜLambdaから直接他のLambdaを呼び出すのはアンチパターンなのか - Qiita",
     "link": "https://qiita.com/ry-harada/items/fc1587f3f52ee6e87ef7",
     "pubDate": "2025-09-11T08:55:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Apple 2025年秋の新製品発表会で見えた“デザイン会社”としての復活",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2509/11/news070.html",
-    "pubDate": "2025-09-11T04:48:35.000Z"
+    "site": "Qiita",
+    "title": "Trae × Claude-3.7-Sonnetで通用UIプロトタイプを自動作成（プロンプト付き）",
+    "link": "https://qiita.com/Nakamura-Kaito/items/b47bf5c3e1162ff54a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-11T07:58:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "10代は「ChatGPTで検索」が4割、Yahoo! JAPAN上回る――検索の生成AI利用、実態は？　CA調査",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2509/11/news077.html",
-    "pubDate": "2025-09-11T04:47:51.000Z"
+    "site": "Zenn",
+    "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+    "link": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+    "pubDate": "2025-09-11T06:20:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+    "link": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+    "pubDate": "Thu, 11 Sep 2025 05:27:21 GMT"
   },
   {
     "site": "Hatena",
@@ -24,10 +60,10 @@
     "pubDate": "2025-09-11T03:28:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "自分のWebサイトをスケルトン仕様にする - Lambdaカクテル",
-    "link": "https://blog.3qe.us/entry/2025/09/11/114156",
-    "pubDate": "2025-09-11T03:18:30.000Z"
+    "site": "Zenn",
+    "title": "Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い",
+    "link": "https://zenn.dev/readyfor_blog/articles/11d4e6b6129428",
+    "pubDate": "Thu, 11 Sep 2025 02:57:48 GMT"
   },
   {
     "site": "Zenn",
@@ -36,22 +72,28 @@
     "pubDate": "Thu, 11 Sep 2025 02:46:32 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "バイトでサーバーの設置とかやってるんだが（現地OAサービス）、 「私技術..",
-    "link": "https://anond.hatelabo.jp/20250911095747",
-    "pubDate": "2025-09-11T00:58:07.000Z"
+    "site": "Zenn",
+    "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+    "link": "https://zenn.dev/watany/articles/78a06904f681dd",
+    "pubDate": "Thu, 11 Sep 2025 02:32:35 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "じいちゃんの使ってた『iPhone5S』ちゅう電話機はそれはそれは美しくてな…「ジョブズが最後に関わったモデル」「このサイズで出して欲しい」",
-    "link": "https://togetter.com/li/2601123",
-    "pubDate": "2025-09-10T23:29:20.000Z"
+    "site": "Qiita",
+    "title": "【MQTT通信】SocketDebuggerでTCPペイロードを完全解説 ─ CONNECT／PUB／SUBを手作業で体験してみた⚡",
+    "link": "https://qiita.com/umezawa_udom/items/41e843127560ca64777f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-11T01:55:54.000Z"
   },
   {
     "site": "Zenn",
     "title": "レッドオーシャンに一石を投じるつもりで変なSNSを10ヶ月以上運営してかなり病んだ話",
     "link": "https://zenn.dev/arusyukuhai/articles/35e19da2741524",
     "pubDate": "Wed, 10 Sep 2025 22:59:35 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜLambdaから直接他のLambdaを呼び出すのはアンチパターンなのか",
+    "link": "https://qiita.com/ry-harada/items/fc1587f3f52ee6e87ef7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-10T22:56:25.000Z"
   },
   {
     "site": "Zenn",
@@ -67,12 +109,6 @@
   },
   {
     "site": "Zenn",
-    "title": "Bluesky をもっと楽しくする新アプリ \"SkyBeMoreBlue\" を公開しました",
-    "link": "https://zenn.dev/so_asano/articles/cd26a3fde5cfe3",
-    "pubDate": "Wed, 10 Sep 2025 15:49:19 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "AIによる大量コードのマイグレーションスクリプト作成の試行錯誤と知見",
     "link": "https://zenn.dev/cybozu_frontend/articles/ai-migration-script-muzui",
     "pubDate": "Wed, 10 Sep 2025 15:00:05 GMT"
@@ -84,28 +120,22 @@
     "pubDate": "2025-09-10T14:37:59.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "React学習ログ No.1",
-    "link": "https://qiita.com/maedaHARUYA/items/70245dcdf0bdaa6a422d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-10T13:25:43.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
     "link": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
     "pubDate": "Wed, 10 Sep 2025 11:05:03 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Full Weak Engineer CTF 2025 インフラ覚書",
-    "link": "https://zenn.dev/tchen/articles/16c36a3c842e84",
-    "pubDate": "Wed, 10 Sep 2025 10:31:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "なぜもっと早く使わなかったのか...データベース系MCPでデータ分析が楽しい！",
     "link": "https://qiita.com/ssc-yshikeda/items/67113394e8deffcf4531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-10T08:16:55.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIに「React使って」と言う前に　2025年Web標準技術Vanilla HTML CSS JavaScriptでここまでできる - Qiita",
+    "link": "https://qiita.com/Doc-Tanukichi/items/c757569c687f181008cd",
+    "pubDate": "2025-09-10T05:49:03.000Z"
   },
   {
     "site": "Qiita",
@@ -120,24 +150,6 @@
     "pubDate": "Wed, 10 Sep 2025 03:42:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "この1ページでわかる｜AIエージェント超入門｜ベイジの図書館",
-    "link": "https://baigie.me/officialblog/2025/09/10/ai_argent/",
-    "pubDate": "2025-09-10T03:12:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Playwright MCPを使ってE2Eテストを楽に書く",
-    "link": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
-    "pubDate": "Wed, 10 Sep 2025 03:00:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Terraformでdotfilesを管理する",
-    "link": "https://qiita.com/inamuu/items/0aa90d4b58d43f15227e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T18:01:21.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Excel、Excel VBA をGitで管理する",
     "link": "https://qiita.com/Kodak_tmo/items/04de2f6cfee17bb1119e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -150,10 +162,10 @@
     "pubDate": "2025-09-09T09:39:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "現代的なLinuxコマンドを活用して、WSL環境をもっと快適にしてみよう",
-    "link": "https://thinkit.co.jp/article/38481",
-    "pubDate": "2025-09-09T06:51:31.000Z"
+    "site": "Qiita",
+    "title": "Google ADK × MCPで作る！天気も考慮するレジャー提案AIエージェント",
+    "link": "https://qiita.com/take-yoda/items/96802daf69a85f92bb8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-09T08:09:02.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Goに入門して、ついでにクリーンアーキテクチャに入門した　ーその3",
-    "link": "https://qiita.com/shimamoooon/items/cc2f34943eef9b3a33cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T00:41:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "おっしゃれなチャットアプリを作る（AI SDK + AI Elements + Next.js + Bedrock）",
-    "link": "https://qiita.com/moritalous/items/744b935a765f0621c881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-08T12:14:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【JavaScript】おおよその位置情報を取得できるようにしようという提案",
-    "link": "https://qiita.com/rana_kualu/items/9e6304b90f9532e9bf9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-08T10:22:53.000Z"
+    "title": "AIに「React使って」と言う前に　2025年Web標準技術Vanilla HTML CSS JavaScriptでここまでできる",
+    "link": "https://qiita.com/Doc-Tanukichi/items/c757569c687f181008cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-08T21:23:12.000Z"
   }
 ]
