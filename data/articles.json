@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "ヨドバシAkibaがオープン20周年、イベントやセールを開催",
+    "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2047107.html",
+    "pubDate": "2025-09-13T00:33:04.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "新しいiPhoneを買った客が「データ移行に金がかかるなら自分でやる」って言うのでガイドブックを渡したら「元のiPhoneのデータ全部消えた！」と怒鳴り込んできた",
     "link": "https://togetter.com/li/2601971",
     "pubDate": "2025-09-12T21:07:00.000Z"
@@ -22,6 +28,24 @@
     "title": "遊舎工房が「TOKYO KEYBOARD EXPO」をやる理由",
     "link": "https://shop.yushakobo.jp/blogs/staff-blog/tkx25",
     "pubDate": "2025-09-12T16:18:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "SSH通信の仕組みと設定",
+    "link": "https://qiita.com/whoami_priv/items/9f165f8dfd95edb169b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-12T15:51:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー",
+    "link": "https://www.gizmodo.jp/2025/09/iphoneair-battery.html",
+    "pubDate": "2025-09-12T14:49:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIコードアシスタント徹底比較！Replit・Cursor・GitHub Copilotの違いと選び方【初心者〜実務で使える】",
+    "link": "https://qiita.com/SunSunTech/items/91d06597a0bc4af72a5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-12T12:43:10.000Z"
   },
   {
     "site": "Zenn",
@@ -60,28 +84,16 @@
     "pubDate": "Fri, 12 Sep 2025 10:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "マイクロソフトも週3出社に--なぜフルリモートでは駄目なのか　「データは明確」と同社",
-    "link": "https://japan.cnet.com/article/35237947/",
-    "pubDate": "2025-09-12T08:25:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone 17の「メモリシールド」がスパイウェア戦争を終結させる？Appleの最強防壁「MIE」とは何か？ | XenoSpectrum",
-    "link": "https://xenospectrum.com/iphone-17-memory-integrity-enforcement-mie-spyware/",
-    "pubDate": "2025-09-12T07:09:00.000Z"
+    "site": "Qiita",
+    "title": "プロキシ環境下におけるAzure DevOps ReposへのGit接続エラー「fatal: unable to access」の原因と対処法",
+    "link": "https://qiita.com/abachan/items/2c7be86fb4e132598192?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-12T09:02:57.000Z"
   },
   {
     "site": "Hatena",
     "title": "Googleの画像生成AI「Nano-banana」をめちゃくちゃ活用できるプロンプトとサンプル画像実例まとめ",
     "link": "https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/",
     "pubDate": "2025-09-12T06:37:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone miniを求める人の謎",
-    "link": "https://anond.hatelabo.jp/20250912141742",
-    "pubDate": "2025-09-12T05:18:51.000Z"
   },
   {
     "site": "Zenn",
@@ -103,9 +115,9 @@
   },
   {
     "site": "Qiita",
-    "title": "クラウドの浪費に終止符を。New Relicで見つけるアプリケーションの無駄とコスト改善",
-    "link": "https://qiita.com/ktst79/items/5ee0209b0133d19cc5a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-11T23:34:07.000Z"
+    "title": "【第1回】Apache Guacamoleで始めるブラウザベースのリモートワーク環境構築",
+    "link": "https://qiita.com/keiichik_exe/items/061662cbab0514baa348?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-12T00:55:30.000Z"
   },
   {
     "site": "Zenn",
@@ -118,6 +130,12 @@
     "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
     "link": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
     "pubDate": "Thu, 11 Sep 2025 12:51:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Webフロントエンド設計ガイドラインを公開しました | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20250911a/",
+    "pubDate": "2025-09-11T11:46:20.000Z"
   },
   {
     "site": "Zenn",
@@ -136,12 +154,6 @@
     "title": "レガシーC#開発者がDevinと向き合った現実",
     "link": "https://zenn.dev/nexta_/articles/c17665d97e28a0",
     "pubDate": "Thu, 11 Sep 2025 06:06:49 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "たった『5セント』を盗んだ史上最大級のNPMサプライチェーン攻撃と我々が今すぐできる対策とは？",
-    "link": "https://qiita.com/RepKuririn/items/2d9b1b4f69afa4374e6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-10T23:12:21.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "なぜもっと早く使わなかったのか...データベース系MCPでデータ分析が楽しい！",
     "link": "https://qiita.com/ssc-yshikeda/items/67113394e8deffcf4531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-10T08:16:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Geminiの「Nano Banana」で不動産写真の家具を消してみた話",
-    "link": "https://qiita.com/WdknWdkn/items/b6ffff6a531bbb9165db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-10T04:41:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "社内システム開発で「デザイン思考」を実践してみた",
-    "link": "https://qiita.com/nobu34/items/83eb8056d89c521e9368?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-10T00:06:25.000Z"
   }
 ]
