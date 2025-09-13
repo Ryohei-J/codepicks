@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "「更新してシャットダウン」→起きたら付いてるパソコン画面の流れにわかりみがありすぎる 「うちの子供くらい言うこと聞かない」",
-    "link": "https://togetter.com/li/2601726",
-    "pubDate": "2025-09-12T07:38:44.000Z"
+    "title": "新しいiPhoneを買った客が「データ移行に金がかかるなら自分でやる」って言うのでガイドブックを渡したら「元のiPhoneのデータ全部消えた！」と怒鳴り込んできた",
+    "link": "https://togetter.com/li/2601971",
+    "pubDate": "2025-09-12T21:07:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Aurora DSQLはサーバーレスアーキテクチャの常識を変えるのか」というタイトルでDevelopersIO 2025 Osakaに登壇しました #devio2025 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/devio2025-osaka-aurora-dsql/",
+    "pubDate": "2025-09-12T17:32:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+    "link": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+    "pubDate": "Fri, 12 Sep 2025 12:08:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "マイクロソフトも週3出社に--なぜフルリモートでは駄目なのか　「データは明確」と同社",
+    "link": "https://japan.cnet.com/article/35237947/",
+    "pubDate": "2025-09-12T08:25:24.000Z"
   },
   {
     "site": "Hatena",
@@ -25,9 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "ベクトル検索だけじゃ足りない？Qdrantで精度を高めるハイブリッド検索 - RAKUS Developers Blog | ラクス エンジニアブログ",
-    "link": "https://tech-blog.rakus.co.jp/entry/20250912/hybrid-search-qdrant",
-    "pubDate": "2025-09-12T06:07:53.000Z"
+    "title": "「NotebookLM」が強力な学習ツールに ～暗記教材、理解度テストの生成にも対応／無償で始められるGoogleのAIノートサービス",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2046881.html",
+    "pubDate": "2025-09-12T05:59:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Python独走の影で「Perl」がちょっとずつランクを上げる理由　2025年9月版プログラミング言語人気ランキング",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news023.html",
+    "pubDate": "2025-09-12T05:49:20.000Z"
   },
   {
     "site": "Hatena",
@@ -36,22 +60,22 @@
     "pubDate": "2025-09-12T05:18:51.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "コスパの高いAIモデル「Qwen3-Next」登場、従来より10倍高速で同等以上の性能を実現",
+    "link": "https://gigazine.net/news/20250912-qwen3-next/",
+    "pubDate": "2025-09-12T03:40:44.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "高尾山に登ったら次は？行列分解で「登山レコメンド」を作る",
     "link": "https://qiita.com/y-tsukasa/items/d324056cf648d685de5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-12T02:59:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Intelが開発したフォント「Intel One Mono」、目が悪くても読みやすいコーディング向けフォント／見分けにくい「I・i」などはやや誇張ぎみ、商用利用や改変、組み込みなども可能【レビュー】",
-    "link": "https://forest.watch.impress.co.jp/docs/review/2046577.html",
-    "pubDate": "2025-09-12T00:59:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 まるで成長していない。「USB4」になっても呼び名が混乱している件。Gen 2とか相変わらず分かりにくいまま",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2046814.html",
-    "pubDate": "2025-09-11T21:22:11.000Z"
+    "site": "Qiita",
+    "title": "クラウドの浪費に終止符を。New Relicで見つけるアプリケーションの無駄とコスト改善",
+    "link": "https://qiita.com/ktst79/items/5ee0209b0133d19cc5a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-11T23:34:07.000Z"
   },
   {
     "site": "Zenn",
@@ -60,40 +84,22 @@
     "pubDate": "Thu, 11 Sep 2025 16:45:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "音楽好きな人のための音楽生成AIサービス最強決定戦～Suno、Udio、Tunee、Stable Audioいちばん狙った音が出るのはどれ！？（インスト曲）",
-    "link": "https://nomolk.hatenablog.com/entry/2025/09/12/002827",
-    "pubDate": "2025-09-11T16:09:45.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
     "link": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
     "pubDate": "Thu, 11 Sep 2025 12:51:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "フロントエンドカンファレンス北海道2025 に参加してきました！ & ほぼ全資料まとめ",
-    "link": "https://zenn.dev/teamlab_fe/articles/270cf15431490b",
-    "pubDate": "Thu, 11 Sep 2025 11:09:37 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone Airじゃなくて“mini”出して──ネット上に「本音」　小型スマホはなぜ激減？",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2509/11/news107.html",
-    "pubDate": "2025-09-11T10:35:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "VS Code と Docker で始める！シンプルな Java 開発入門",
-    "link": "https://zenn.dev/hiro345/articles/20250910_vscode_java",
-    "pubDate": "Thu, 11 Sep 2025 10:27:28 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Trae × Claude-3.7-Sonnetで通用UIプロトタイプを自動作成（プロンプト付き）",
-    "link": "https://qiita.com/Nakamura-Kaito/items/b47bf5c3e1162ff54a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-11T07:58:20.000Z"
+    "title": "Nano bananaのすべて",
+    "link": "https://qiita.com/7mpy/items/ee70e3a2930a3bbf4532?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-11T08:39:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "レガシーC#開発者がDevinと向き合った現実",
+    "link": "https://zenn.dev/nexta_/articles/c17665d97e28a0",
+    "pubDate": "Thu, 11 Sep 2025 06:06:49 GMT"
   },
   {
     "site": "Zenn",
@@ -126,16 +132,28 @@
     "pubDate": "Thu, 11 Sep 2025 02:46:32 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+    "link": "https://zenn.dev/watany/articles/78a06904f681dd",
+    "pubDate": "Thu, 11 Sep 2025 02:32:35 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "たった『5セント』を盗んだ史上最大級のNPMサプライチェーン攻撃と我々が今すぐできる対策とは？",
+    "link": "https://qiita.com/RepKuririn/items/2d9b1b4f69afa4374e6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-10T23:12:21.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "なぜLambdaから直接他のLambdaを呼び出すのはアンチパターンなのか",
     "link": "https://qiita.com/ry-harada/items/fc1587f3f52ee6e87ef7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-10T22:56:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Triton を使って CUDA を書かずに高速な GPU カーネルを実装する",
-    "link": "https://zenn.dev/zaburo_ch/articles/252522d9e4aa3d",
-    "pubDate": "Wed, 10 Sep 2025 22:30:38 GMT"
+    "site": "Qiita",
+    "title": "ExcelのCopilot関数は無限の可能性を秘めている",
+    "link": "https://qiita.com/Oyu3m/items/1ce2d67f283bfd857fc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-10T16:50:46.000Z"
   },
   {
     "site": "Qiita",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Terraformでdotfilesを管理する",
-    "link": "https://qiita.com/inamuu/items/0aa90d4b58d43f15227e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T18:01:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Excel、Excel VBA をGitで管理する",
-    "link": "https://qiita.com/Kodak_tmo/items/04de2f6cfee17bb1119e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T14:02:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Vibe Coding から、Drive Coding (欲動のコーディング)へ",
-    "link": "https://qiita.com/makotosaekit/items/eba767a0a95bbc7b25b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T09:39:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Google ADK × MCPで作る！天気も考慮するレジャー提案AIエージェント",
-    "link": "https://qiita.com/take-yoda/items/96802daf69a85f92bb8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-09T08:09:02.000Z"
+    "title": "社内システム開発で「デザイン思考」を実践してみた",
+    "link": "https://qiita.com/nobu34/items/83eb8056d89c521e9368?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-10T00:06:25.000Z"
   }
 ]
