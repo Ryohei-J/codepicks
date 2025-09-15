@@ -1,9 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "「Rolling Stone」発行元のPMC、Googleを提訴　「AIによる概要」でトラフィックが激減と主張",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/15/news020.html",
+    "pubDate": "2025-09-14T22:50:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "韓国人技術者がアメリカで一斉拘束された件、ビザ制度の歪みと無関心",
+    "link": "https://anond.hatelabo.jp/20250915001427",
+    "pubDate": "2025-09-14T22:20:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Excelマクロあるある「上司からの『Excelの自動化機能、お前抜けたら面倒どうするんだ？』」 不条理と思いきや、属人化すべきでない側面もあって難しい",
+    "link": "https://togetter.com/li/2602724",
+    "pubDate": "2025-09-14T16:00:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake World Tour Tokyo 2025 完全燃焼記〜楽しみつくすための僕なりの方程式〜",
+    "link": "https://zenn.dev/dataheroes/articles/ec38d005ceedab",
+    "pubDate": "Sun, 14 Sep 2025 13:20:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【作業ログ】Kubernetes チュートリアル【基本編】",
+    "link": "https://zenn.dev/hiroto_ohira/articles/3b1f84553437a9",
+    "pubDate": "Sun, 14 Sep 2025 11:28:12 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで始めるナレッジ管理CLIツールによるMCPサーバー接続",
+    "link": "https://zenn.dev/boykush/articles/1aa8848b23f09a",
+    "pubDate": "Sun, 14 Sep 2025 11:06:45 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "メインブラウザをEdgeに切り替えた理由とAIブラウザの可能性",
     "link": "https://blog.lai.so/ai-browser/",
     "pubDate": "2025-09-14T11:04:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Enterpriseプランにするメリットって何？",
+    "link": "https://zenn.dev/microsoft/articles/github_enterprise_merit",
+    "pubDate": "Sun, 14 Sep 2025 10:36:06 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "閉域 VPC で ECR と ECS on Fargate を使えるようにする",
+    "link": "https://qiita.com/takeda_h/items/256d99f988e762d9976b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-14T09:54:41.000Z"
   },
   {
     "site": "Hatena",
@@ -25,15 +73,21 @@
   },
   {
     "site": "Zenn",
-    "title": "演算子の優先順位の設計比較",
-    "link": "https://zenn.dev/qnighy/articles/204a522baea7f0",
-    "pubDate": "Sun, 14 Sep 2025 07:00:28 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "【Python】yieldでなんちゃって非同期処理",
     "link": "https://zenn.dev/amenaruya/articles/662cd7009d5400",
     "pubDate": "Sun, 14 Sep 2025 06:45:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "UE5:Unreal EngineのInterfaceについてまとめた",
+    "link": "https://zenn.dev/allways/articles/ue5-interface-research",
+    "pubDate": "Sun, 14 Sep 2025 06:28:30 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Strands Agents で「クエリ分解」と「クエリ拡張」を行うツールを定義し、生成 AI の回答精度向上を図る",
+    "link": "https://qiita.com/revsystem/items/e76b18fa44dcc3a280df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-14T04:09:42.000Z"
   },
   {
     "site": "Hatena",
@@ -43,15 +97,21 @@
   },
   {
     "site": "Zenn",
+    "title": "ナレッジワークにおけるデータ基盤の構成 - 2025/09",
+    "link": "https://zenn.dev/knowledgework/articles/knowledgework-data-platform-20250905",
+    "pubDate": "Sun, 14 Sep 2025 03:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "TUIタイピングゲームを作ったので仕組みをまとめる（Rust × Tree-sitter × Ratatui）",
+    "link": "https://zenn.dev/unhappychoice/articles/a111994fd7e4bd",
+    "pubDate": "Sun, 14 Sep 2025 01:30:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "にじボイスのキャラと声優さんの対応表を作ろう！【技術編】",
     "link": "https://zenn.dev/litagin/articles/325154e1bf1f03",
     "pubDate": "Sun, 14 Sep 2025 01:16:04 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「友達がいない？」飲み会に誘われなくなった僕　58歳記者の苦悩：朝日新聞",
-    "link": "https://digital.asahi.com/sp/articles/AST993DFQT99UCVL001M.html?ptoken=01K51NBGK0BV1S8DKY0137EQN8",
-    "pubDate": "2025-09-14T00:56:01.000Z"
   },
   {
     "site": "Qiita",
@@ -61,27 +121,9 @@
   },
   {
     "site": "Zenn",
-    "title": "[レポート] 『AI時代を見据えたANAグループのデータ戦略：Iceberg導入のリアルと今後の展望』 #SWTTokyo2025",
-    "link": "https://zenn.dev/truestar/articles/4a0be37b394695",
-    "pubDate": "Sat, 13 Sep 2025 14:42:21 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
     "link": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
     "pubDate": "Sat, 13 Sep 2025 11:47:59 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "SSH通信の仕組みと設定 - Qiita",
-    "link": "https://qiita.com/whoami_priv/items/9f165f8dfd95edb169b7",
-    "pubDate": "2025-09-13T11:27:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コサイン類似度について改めて整理する",
-    "link": "https://qiita.com/ryu-ki/items/d83545d022e1a273ae5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-13T11:04:22.000Z"
   },
   {
     "site": "Hatena",
@@ -91,51 +133,21 @@
   },
   {
     "site": "Qiita",
-    "title": "【検証】Claude Code vs Codex：同じアプリを作ってコード品質を比較してみた - Qiita",
-    "link": "https://qiita.com/tomada/items/6983d2456083f8a3fc48",
-    "pubDate": "2025-09-13T09:53:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI＞＞＞＞＞＞越えられない壁＞＞＞＞＞＞はてぶ",
-    "link": "https://anond.hatelabo.jp/20250913181857",
-    "pubDate": "2025-09-13T09:21:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
-    "link": "https://zenn.dev/driller/articles/e02c2c244b3759",
-    "pubDate": "Sat, 13 Sep 2025 08:02:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScript のコンパイルを理解する",
-    "link": "https://zenn.dev/luvmini511/articles/4ba982523ee265",
-    "pubDate": "Sat, 13 Sep 2025 07:36:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "nano-bananaでモバイルアプリUIモックアップを作る",
-    "link": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
-    "pubDate": "Sat, 13 Sep 2025 03:02:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
-    "link": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
-    "pubDate": "Sat, 13 Sep 2025 03:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "SSH通信の仕組みと設定",
     "link": "https://qiita.com/whoami_priv/items/9f165f8dfd95edb169b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-12T15:51:49.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
-    "link": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
-    "pubDate": "Fri, 12 Sep 2025 12:08:47 GMT"
+    "site": "Qiita",
+    "title": "【保存版】C#基礎100本ノック — GitHub Codespacesで学ぶC#",
+    "link": "https://qiita.com/Sakai_path/items/2138c9cf6b0d4b9d124e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-12T13:28:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "非エンジニアが、エンジニアから影響を受けた「活動負債」という概念",
+    "link": "https://qiita.com/yatabekei/items/55d86e3da0ae2c66810c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-12T12:49:07.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "2025-09-12T02:59:17.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【検証】Claude Code vs Codex：同じアプリを作ってコード品質を比較してみた",
-    "link": "https://qiita.com/tomada/items/6983d2456083f8a3fc48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-11T14:28:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "XREALグラスでどこでも簡易SteamVR",
-    "link": "https://qiita.com/wetty_serial/items/005e4a16a440cba84681?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-11T09:38:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Nano bananaのすべて",
-    "link": "https://qiita.com/7mpy/items/ee70e3a2930a3bbf4532?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-11T08:39:34.000Z"
+    "site": "Hatena",
+    "title": "The AI workspace that works for you. | Notion",
+    "link": "https://guga2023.notion.site/AI-25d568a8e68780889f86fa9cd8977eb8",
+    "pubDate": "2025-09-09T23:56:40.000Z"
   }
 ]
