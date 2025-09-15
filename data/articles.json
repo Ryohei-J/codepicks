@@ -1,5 +1,47 @@
 [
   {
+    "site": "Zenn",
+    "title": "TanStack Form v1以降のアップデート内容まとめ",
+    "link": "https://zenn.dev/tsuboi/books/cc224465ab144a",
+    "pubDate": "Mon, 15 Sep 2025 10:55:34 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "先輩「この前の会議の議事録はどこ？」新人「録音してAIでまとめました」先輩「そか。ちゃんと内容はわかってる？」新人「全然わかんないです」みたいなこと、仕事の現場で起きてそう",
+    "link": "https://togetter.com/li/2603058",
+    "pubDate": "2025-09-15T09:37:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "1つの設定を複数モデルに分散させるRailsパターン",
+    "link": "https://zenn.dev/draobfrus/articles/5b364d106703e0",
+    "pubDate": "Mon, 15 Sep 2025 08:49:44 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "家族持ちのエンジニアが副業や勉強に精を出しすぎて家庭が壊れてしまう現象を僕の観測範囲内でも片手に収まらないぐらい観測してる→「家族との対話大事」「365日働きたい」",
+    "link": "https://posfie.com/@kalofollow/p/UFMTkRl",
+    "pubDate": "2025-09-15T08:34:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "FFRI × NFLabs. Cybersecurity Challenge 2025 Writeup",
+    "link": "https://zenn.dev/claustra01/articles/95311b7181a74e",
+    "pubDate": "Mon, 15 Sep 2025 06:11:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Alibaba cloud と Qwen LLM で LINE Chatbot を作成する",
+    "link": "https://zenn.dev/unkosan/articles/create-line-chatbot-with-alicloud-and-qwen",
+    "pubDate": "Mon, 15 Sep 2025 04:08:16 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "『都市伝説解体センター』と『グノーシア』、びっくりするぐらい作り方が“真逆”だった。ヒットアドベンチャーゲーム開発者に訊く、心を動かす体験の作り方 - AUTOMATON",
+    "link": "https://automaton-media.com/articles/interviewsjp/toshidensetsu-gnosia-20250912357423/",
+    "pubDate": "2025-09-15T03:17:41.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "某レンタルDVD店でバイトしてたとき、定期的に「（AV女優）出演作品借りたいからタイトル読み上げて」おじさんが来るので、対策でおっさん社員が出てきて代わりに読み上げるシステムができた話",
     "link": "https://togetter.com/li/2602881",
@@ -16,12 +58,6 @@
     "title": "「もしもの人生」を可視化するWebアプリをリリースしました！",
     "link": "https://zenn.dev/hayua/articles/f7da9b432c653d",
     "pubDate": "Sun, 14 Sep 2025 22:59:43 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Rolling Stone」発行元のPMC、Googleを提訴　「AIによる概要」でトラフィックが激減と主張",
-    "link": "https://www.itmedia.co.jp/news/articles/2509/15/news020.html",
-    "pubDate": "2025-09-14T22:50:41.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +78,22 @@
     "pubDate": "2025-09-14T21:39:30.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "はじめてのReact入門 - コンポーネント開発からTodoアプリ制作まで",
+    "link": "https://zenn.dev/tmasuyama1114/books/react_basic_tutorial",
+    "pubDate": "Sun, 14 Sep 2025 19:41:30 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Excelマクロあるある「上司からの『Excelの自動化機能、お前抜けたら面倒どうするんだ？』」 不条理と思いきや、属人化すべきでない側面もあって難しい",
     "link": "https://togetter.com/li/2602724",
     "pubDate": "2025-09-14T16:00:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Mago: PHP開発が爆速になる？次世代の静的解析ツールを試してみた",
+    "link": "https://zenn.dev/sonicmoov/articles/466c13fcfd2384",
+    "pubDate": "Sun, 14 Sep 2025 15:15:31 GMT"
   },
   {
     "site": "Zenn",
@@ -61,27 +109,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeで始めるナレッジ管理CLIツールによるMCPサーバー接続",
+    "title": "Claude Codeと自身の脳を繋ぐ、ナレッジ管理CLIツールによるMCPサーバー接続",
     "link": "https://zenn.dev/boykush/articles/1aa8848b23f09a",
     "pubDate": "Sun, 14 Sep 2025 11:06:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "メインブラウザをEdgeに切り替えた理由とAIブラウザの可能性",
-    "link": "https://blog.lai.so/ai-browser/",
-    "pubDate": "2025-09-14T11:04:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【SWTTokyo25レポ】 クエリパフォーマンスチューニングの傾向と対策",
-    "link": "https://zenn.dev/churadata/articles/8ca0bb5809ecf2",
-    "pubDate": "Sun, 14 Sep 2025 10:41:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Enterpriseプランにするメリットって何？",
-    "link": "https://zenn.dev/microsoft/articles/github_enterprise_merit",
-    "pubDate": "Sun, 14 Sep 2025 10:36:06 GMT"
   },
   {
     "site": "Qiita",
@@ -90,52 +120,28 @@
     "pubDate": "2025-09-14T09:54:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "国内1000件の事例や製品を収録した「生成AI活用事例データベース」を公開─生成AI活用普及協会 | IT Leaders",
-    "link": "https://it.impress.co.jp/articles/-/28358",
-    "pubDate": "2025-09-14T09:07:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "タクシー配車サービスはどれが良いのか運転手目線での意見が興味深い「基本的にGOは相当暇でUberが鳴らない時にしかとりません」",
-    "link": "https://togetter.com/li/2602562",
-    "pubDate": "2025-09-14T07:02:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "UE5:Unreal EngineのInterfaceについてまとめた",
-    "link": "https://zenn.dev/allways/articles/ue5-interface-research",
-    "pubDate": "Sun, 14 Sep 2025 06:28:30 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Strands Agents で「クエリ分解」と「クエリ拡張」を行うツールを定義し、生成 AI の回答精度向上を図る",
-    "link": "https://qiita.com/revsystem/items/e76b18fa44dcc3a280df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-14T04:09:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ナレッジワークにおけるデータ基盤の構成 - 2025/09",
-    "link": "https://zenn.dev/knowledgework/articles/knowledgework-data-platform-20250905",
-    "pubDate": "Sun, 14 Sep 2025 03:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TUIタイピングゲームを作ったので仕組みをまとめる（Rust × Tree-sitter × Ratatui）",
-    "link": "https://zenn.dev/unhappychoice/articles/a111994fd7e4bd",
-    "pubDate": "Sun, 14 Sep 2025 01:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "にじボイスのキャラと声優さんの対応表を作ろう！【技術編】",
-    "link": "https://zenn.dev/litagin/articles/325154e1bf1f03",
-    "pubDate": "Sun, 14 Sep 2025 01:16:04 GMT"
+    "title": "AtCoder Heuristic Contest 053 参加記【最終5位】",
+    "link": "https://qiita.com/binap/items/5ee61c1b87b78f9cb96c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-14T08:47:31.000Z"
   },
   {
     "site": "Qiita",
     "title": "コンテキストエンジニアリングの源流へ、AIと心理学",
     "link": "https://qiita.com/makotosaekit/items/c4d37b91258ec44c0cbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-13T18:03:31.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "コサイン類似度について改めて整理する",
+    "link": "https://qiita.com/ryu-ki/items/d83545d022e1a273ae5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-13T11:04:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【C#】エクスプローラ操作の自動化例：リフレクションとShellでファイルを選択して起動",
+    "link": "https://qiita.com/EndOfData/items/004872bd858f85465288?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-13T07:03:46.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "2025-09-12T10:32:50.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Anthropic: 従来のソフトウェア開発手法ではAIエージェントの未来が「終わる」。非確定的システムに対応する、協調型開発へのパラダイムシフト",
-    "link": "https://qiita.com/RepKuririn/items/0716d679538de000956b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-12T06:09:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "高尾山に登ったら次は？行列分解で「登山レコメンド」を作る",
-    "link": "https://qiita.com/y-tsukasa/items/d324056cf648d685de5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-12T02:59:17.000Z"
+    "site": "Hatena",
+    "title": "「やりたいこと」はないが「課題解決」自体を楽しめる人　Googleの「優秀なエンジニア」の定義 [1/2] | ログミーBusiness",
+    "link": "https://logmi.jp/main/management/332295",
+    "pubDate": "2025-09-10T13:58:48.000Z"
   }
 ]
