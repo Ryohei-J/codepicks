@@ -1,9 +1,69 @@
 [
   {
+    "site": "Zenn",
+    "title": "Goで作る静的解析ツール開発入門",
+    "link": "https://zenn.dev/hsaki/books/golang-static-analysis",
+    "pubDate": "Tue, 16 Sep 2025 11:03:49 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "新たに生まれた専門職。AIが作ったコードのバグをお直しするプログラマー",
+    "link": "https://www.gizmodo.jp/2025/09/programmer-modifies-the-ai-generated-code.html",
+    "pubDate": "2025-09-16T08:20:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "バンダイ・BANDAI SPIRITSの登録商標を使用した生成画像について｜株式会社バンダイ・株式会社BANDAI SPIRITS 公式企業サイト",
+    "link": "https://www.bandai.co.jp/press/2025/250916.php",
+    "pubDate": "2025-09-16T07:54:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ティファールの電気ケトルで発火のおそれ　418万台が無償交換対象",
+    "link": "https://ascii.jp/elem/000/004/320/4320023/",
+    "pubDate": "2025-09-16T05:56:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "VSCodeからBacklogのMCPに接続するまでのステップまとめ",
+    "link": "https://qiita.com/skoda007/items/47b90d91d3172695cf41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-16T03:35:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "キーボードが一枚も売れなかった",
+    "link": "https://zenn.dev/cheena_gb/articles/e051f46c30d498",
+    "pubDate": "Tue, 16 Sep 2025 02:52:49 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "契約としてのオープンソース・ライセンスの歴史と現実に迫る違反リスク ：契約×著作権の二層執行の時代へ",
+    "link": "https://shujisado.com/2025/09/16/opensource_license_as_contract/",
+    "pubDate": "2025-09-16T02:26:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Active Job Continuationsがリリースされたので調査してみた",
+    "link": "https://zenn.dev/medley/articles/d1cdc872796eb1",
+    "pubDate": "Tue, 16 Sep 2025 02:00:27 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "技術ブログはなぜ止まるのか？—テックブログから始めるDevRel入門",
+    "link": "https://zenn.dev/peoplex_blog/articles/9295cb67fdd14c",
+    "pubDate": "Tue, 16 Sep 2025 01:15:06 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "気づけばFirefoxのコア開発者になっていた。「修正されないバグの報告」から始まった25年間【フォーカス】 レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/focus/detail_725/",
     "pubDate": "2025-09-16T01:00:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【GIFTech×TECH WORLD】優秀なのに「仕事がつまらない」のはなぜ？AI時代の越境経験で市場価値を高める方法【vol.1 ゲスト：市川達大】",
+    "link": "https://qiita.com/GIFCat/items/a57a14c34522acb6a6d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-16T00:10:52.000Z"
   },
   {
     "site": "Hatena",
@@ -13,27 +73,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Apple、「iOS 26」「iPadOS 26」の一般提供を開始 ～新UI「Liquid Glass」を採用／AI機能「Apple Intelligence」はより身近に、同梱アプリの改善も多数",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2047423.html",
-    "pubDate": "2025-09-15T23:25:26.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "人の「面白い」を否定することで精神的マウントを取る人について考えたこと",
     "link": "https://blog.tinect.jp/?p=90167",
     "pubDate": "2025-09-15T22:47:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "VS CodeがAIエージェントの新標準「AGENTS.md」に対応、最適なAIモデルの自動選択も。2025年8月版で",
+    "link": "https://www.publickey1.jp/blog/25/vs_codeaiagentsmdai20258.html",
+    "pubDate": "2025-09-15T21:02:30.000Z"
   },
   {
     "site": "Zenn",
     "title": "Codex CLIにClaude Codeから手軽に設定を移行する方法",
     "link": "https://zenn.dev/karaage0703/articles/aabaa01cb71647",
     "pubDate": "Mon, 15 Sep 2025 16:24:27 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Azure AI Document Intelligenceの前処理：Word/Excelのルビ（ふりがな）を除去する",
-    "link": "https://qiita.com/abachan/items/27e870fbb2675050ae97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-15T15:37:31.000Z"
   },
   {
     "site": "Hatena",
@@ -48,10 +102,10 @@
     "pubDate": "2025-09-15T15:00:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「AirPods Pro 3」最速レビュー。音質も使い勝手も進化。「ライブ翻訳」の仕組みとは【西田宗千佳のRandomTracking】",
-    "link": "https://av.watch.impress.co.jp/docs/series/rt/2047359.html",
-    "pubDate": "2025-09-15T12:18:39.000Z"
+    "site": "Zenn",
+    "title": "大してアクセスないサイトにECSはオーバースペック",
+    "link": "https://zenn.dev/gyana/articles/92f0d062b1255f",
+    "pubDate": "Mon, 15 Sep 2025 13:13:52 GMT"
   },
   {
     "site": "Zenn",
@@ -78,16 +132,10 @@
     "pubDate": "Mon, 15 Sep 2025 10:14:37 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "1つの設定を複数モデルに分散させるRailsパターン",
-    "link": "https://zenn.dev/draobfrus/articles/5b364d106703e0",
-    "pubDate": "Mon, 15 Sep 2025 08:49:44 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "家族持ちのエンジニアが副業や勉強に精を出しすぎて家庭が壊れてしまう現象を僕の観測範囲内でも片手に収まらないぐらい観測してる→「家族との対話大事」「365日働きたい」",
-    "link": "https://posfie.com/@kalofollow/p/UFMTkRl",
-    "pubDate": "2025-09-15T08:34:16.000Z"
+    "site": "Qiita",
+    "title": "「文字」というオカルト",
+    "link": "https://qiita.com/makotosaekit/items/9c53cf233f5a835b498f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-15T09:18:50.000Z"
   },
   {
     "site": "Zenn",
@@ -102,52 +150,10 @@
     "pubDate": "2025-09-15T08:03:40.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【非公式】Snowflakeリリースノートまとめサイト",
-    "link": "https://zenn.dev/miyamankyushu/articles/782f3e85165fe4",
-    "pubDate": "Mon, 15 Sep 2025 07:30:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "FFRI × NFLabs. Cybersecurity Challenge 2025 Writeup",
-    "link": "https://zenn.dev/claustra01/articles/95311b7181a74e",
-    "pubDate": "Mon, 15 Sep 2025 06:11:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【SWTTokyo25 レポ】ラーメン山岡家 データ活用の現在地",
-    "link": "https://zenn.dev/churadata/articles/0575c6837002bc",
-    "pubDate": "Mon, 15 Sep 2025 03:50:41 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "第1回｜Obsidianで「YouTube読書」ルーチンを自動化した話｜こじか🦌@教育×AI",
-    "link": "https://note.com/n_t7627/n/n96ed8fa1b8fa",
-    "pubDate": "2025-09-15T03:11:41.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "ようやく出てきた生成AIの電力消費、残された3つの疑問",
     "link": "https://www.technologyreview.jp/s/368848/three-big-things-we-still-dont-know-about-ais-energy-burden/",
     "pubDate": "2025-09-15T01:57:55.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Mago: PHP開発が爆速になる？次世代の静的解析ツールを試してみた",
-    "link": "https://zenn.dev/sonicmoov/articles/466c13fcfd2384",
-    "pubDate": "2025-09-15T01:49:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "今日のQiitaトレンド記事をポッドキャストで聴こう！ 2025/09/15",
-    "link": "https://qiita.com/ennagara128/items/401789b62efbb470caf8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-15T01:24:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「もしもの人生」を可視化するWebアプリをリリースしました！",
-    "link": "https://zenn.dev/hayua/articles/f7da9b432c653d",
-    "pubDate": "Sun, 14 Sep 2025 22:59:43 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "コサイン類似度について改めて整理する",
     "link": "https://qiita.com/ryu-ki/items/d83545d022e1a273ae5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-13T11:04:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【C#】エクスプローラ操作の自動化例：リフレクションとShellでファイルを選択して起動",
-    "link": "https://qiita.com/EndOfData/items/004872bd858f85465288?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-13T07:03:46.000Z"
   }
 ]
