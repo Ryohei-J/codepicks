@@ -1,5 +1,41 @@
 [
   {
+    "site": "Hatena",
+    "title": "「ほとんどがWi-Fiでつながる時代に、有線LANはどういう目的で使われているんですか？」～ネットの疑問をIIJに聞きました【掘り下げると長くなるネットの疑問】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/horisage_qa/2041682.html",
+    "pubDate": "2025-09-16T21:40:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ctrl/tinycolor and 40+ NPM Packages Compromised - StepSecurity",
+    "link": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+    "pubDate": "2025-09-16T16:18:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Java 25」正式リリース、2年振りのLTS版。事前キャッシュによる高速起動、JITの即時ネイティブコード生成など新機能",
+    "link": "https://www.publickey1.jp/blog/25/java_252ltsjit.html",
+    "pubDate": "2025-09-16T15:01:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "openai/codex でのプロジェクト固有MCPを設定する",
+    "link": "https://zenn.dev/mizchi/articles/codex-mcp-config-settings",
+    "pubDate": "Tue, 16 Sep 2025 12:51:19 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ビッグウェーブさん「iPhone 17 Pro」購入へ (1/5)",
+    "link": "https://ascii.jp/elem/000/004/319/4319929/",
+    "pubDate": "2025-09-16T11:57:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Goで作る静的解析ツール開発入門",
+    "link": "https://zenn.dev/hsaki/books/golang-static-analysis",
+    "pubDate": "2025-09-16T11:07:30.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Goで作る静的解析ツール開発入門",
     "link": "https://zenn.dev/hsaki/books/golang-static-analysis",
@@ -16,6 +52,12 @@
     "title": "バンダイ・BANDAI SPIRITSの登録商標を使用した生成画像について｜株式会社バンダイ・株式会社BANDAI SPIRITS 公式企業サイト",
     "link": "https://www.bandai.co.jp/press/2025/250916.php",
     "pubDate": "2025-09-16T07:54:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LPI-Japan、無償のLinux学習用教材「Linuxシステム管理標準教科書」最新版を公開",
+    "link": "https://japan.zdnet.com/article/35238032/",
+    "pubDate": "2025-09-16T06:36:44.000Z"
   },
   {
     "site": "Hatena",
@@ -37,21 +79,21 @@
   },
   {
     "site": "Zenn",
+    "title": "6か月で ISMS 認証取得！少人数企業でもできた実践ノウハウ",
+    "link": "https://zenn.dev/team_delta/articles/db8af4bcf3a8d6",
+    "pubDate": "Tue, 16 Sep 2025 03:20:55 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "汎用的QAをやめた日",
+    "link": "https://zenn.dev/knowledgework/articles/4b1cd0689149bd",
+    "pubDate": "Tue, 16 Sep 2025 03:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "キーボードが一枚も売れなかった",
     "link": "https://zenn.dev/cheena_gb/articles/e051f46c30d498",
     "pubDate": "Tue, 16 Sep 2025 02:52:49 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「GPT-5-Codex」登場、GPT-5のコーディング能力をさらに向上させてエディターやターミナルでの作業をサポート",
-    "link": "https://gigazine.net/news/20250916-openai-gpt-5-codex/",
-    "pubDate": "2025-09-16T02:35:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Notion好き？",
-    "link": "https://anond.hatelabo.jp/20250916112649",
-    "pubDate": "2025-09-16T02:27:49.000Z"
   },
   {
     "site": "Zenn",
@@ -60,16 +102,28 @@
     "pubDate": "Tue, 16 Sep 2025 02:00:27 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "クラウド最適化の一手：ISV SaaSアプリをAWSからOCIに移行してコストを半分に削減",
+    "link": "https://qiita.com/tktk2712/items/3bd3585adedcca708e6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-16T01:52:11.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "技術ブログはなぜ止まるのか？—テックブログから始めるDevRel入門",
     "link": "https://zenn.dev/peoplex_blog/articles/9295cb67fdd14c",
     "pubDate": "Tue, 16 Sep 2025 01:15:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "気づけばFirefoxのコア開発者になっていた。「修正されないバグの報告」から始まった25年間【フォーカス】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/focus/detail_725/",
-    "pubDate": "2025-09-16T01:00:27.000Z"
+    "site": "Zenn",
+    "title": "RAGは数値を正しく認識できるのか？",
+    "link": "https://zenn.dev/knowledgesense/articles/93a888176c399e",
+    "pubDate": "Tue, 16 Sep 2025 01:01:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェント開発にドメイン駆動設計の考え方を応用した話",
+    "link": "https://zenn.dev/meijin/articles/ddd-ai-agent-architecture",
+    "pubDate": "Tue, 16 Sep 2025 00:14:53 GMT"
   },
   {
     "site": "Qiita",
@@ -78,28 +132,10 @@
     "pubDate": "2025-09-16T00:10:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「寝る量」より「毎日同じ時間に寝る」方が死亡リスクが低い　豪州チームが発表　就寝時刻“3時間のばらつき”に注意",
-    "link": "https://www.itmedia.co.jp/news/articles/2509/16/news031.html",
-    "pubDate": "2025-09-15T23:51:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "人の「面白い」を否定することで精神的マウントを取る人について考えたこと",
-    "link": "https://blog.tinect.jp/?p=90167",
-    "pubDate": "2025-09-15T22:47:31.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Codex CLIにClaude Codeから手軽に設定を移行する方法",
     "link": "https://zenn.dev/karaage0703/articles/aabaa01cb71647",
     "pubDate": "Mon, 15 Sep 2025 16:24:27 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "チョコプラ松尾、「素人はSNSやるな」発言に批判殺到（1/2ページ）",
-    "link": "https://www.zakzak.co.jp/article/20250915-6G55L7DKMVFVLOZC6R2UT4G6GM/",
-    "pubDate": "2025-09-15T15:15:16.000Z"
   },
   {
     "site": "Qiita",
@@ -108,52 +144,28 @@
     "pubDate": "2025-09-15T15:00:54.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "大してアクセスないサイトにECSはオーバースペック",
-    "link": "https://zenn.dev/gyana/articles/92f0d062b1255f",
-    "pubDate": "Mon, 15 Sep 2025 13:13:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "挫折ばっかりしてる過去の自分",
-    "link": "https://zenn.dev/tomokusaba/articles/2a59c52588378f",
-    "pubDate": "Mon, 15 Sep 2025 12:14:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TanStack Form v1以降のアップデート内容まとめ",
-    "link": "https://zenn.dev/tsuboi/books/cc224465ab144a",
-    "pubDate": "Mon, 15 Sep 2025 10:55:34 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】爆速でプランニングポーカーアプリを作成【Vibe Coding×ReactRouter×TypeScript×Firebase】",
-    "link": "https://qiita.com/guppy0356/items/6cf2d34883a5958e8724?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-15T10:26:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "DroidKaigi 2025でAndroid Audio: Beyond Winning On Itという話をしてきた",
-    "link": "https://zenn.dev/atsushieno/articles/3c32802a377d53",
-    "pubDate": "Mon, 15 Sep 2025 10:14:37 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「文字」というオカルト",
     "link": "https://qiita.com/makotosaekit/items/9c53cf233f5a835b498f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-15T09:18:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "TypeScript の歩き方 - TypeScript の全機能を概観する",
-    "link": "https://zenn.dev/somnicattus/articles/8ccf5271f83599",
-    "pubDate": "Mon, 15 Sep 2025 08:23:49 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【初心者完全版】0からReactを始めてCI/CD構築までできるチュートリアル【TypeScript/GitHubActions/Vitest/Firebase】",
     "link": "https://qiita.com/Sicut_study/items/9792f2f01dc887d4cb31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-15T08:03:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Copilot Studioで作成したエージェントをSharePointにサイドパネルとして設置する。",
+    "link": "https://qiita.com/DaddyDaddy/items/7e2afbaa7f98281199d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-15T05:58:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "癒しを求めて Elixir",
+    "link": "https://qiita.com/nakamura-yzrh/items/cffe4a3a8af6e0d1ba3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-15T02:16:17.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "閉域 VPC で ECR と ECS on Fargate を使えるようにする",
     "link": "https://qiita.com/takeda_h/items/256d99f988e762d9976b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-14T09:54:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コンテキストエンジニアリングの源流へ、AIと心理学",
-    "link": "https://qiita.com/makotosaekit/items/c4d37b91258ec44c0cbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-13T18:03:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コサイン類似度について改めて整理する",
-    "link": "https://qiita.com/ryu-ki/items/d83545d022e1a273ae5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-13T11:04:22.000Z"
   }
 ]
