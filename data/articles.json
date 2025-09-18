@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "CSSに問題がないか、保守性・複雑性・パフォーマンスの面から解析し、改善点を教えてくれるツール -CSS Code Quality Analyzer",
+    "link": "https://coliss.com/articles/build-websites/operation/css/css-code-quality-analyzer.html",
+    "pubDate": "2025-09-18T00:40:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "A postmortem of three recent issues",
     "link": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
     "pubDate": "2025-09-17T23:39:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Wasm 3.0 Completed - WebAssembly",
+    "link": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
+    "pubDate": "2025-09-17T20:10:46.000Z"
   },
   {
     "site": "Hatena",
@@ -19,6 +31,12 @@
   },
   {
     "site": "Zenn",
+    "title": "CUDA無し環境でPyTorchでGPUを使用する手軽な方法",
+    "link": "https://zenn.dev/karaage0703/articles/48bcb55002c360",
+    "pubDate": "Wed, 17 Sep 2025 16:06:54 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "「クラウドでIDEを動かしたかっただけなのに」AWSで22万円のクラウド破産した話",
     "link": "https://zenn.dev/eightbeat/articles/ca6ce3d06c0265",
     "pubDate": "2025-09-17T15:17:24.000Z"
@@ -31,21 +49,27 @@
   },
   {
     "site": "Hatena",
-    "title": "iPhone 17シリーズのための、SIMカード → eSIM変換方法",
-    "link": "https://www.gizmodo.jp/2025/09/how-to-switch-from-a-sim-card-to-an-esim.html",
-    "pubDate": "2025-09-17T09:13:06.000Z"
+    "title": "データ分析エージェント Socrates の育て方",
+    "link": "https://speakerdeck.com/na0/detafen-xi-eziento-socrates-noyu-tefang",
+    "pubDate": "2025-09-17T12:34:09.000Z"
   },
   {
     "site": "Zenn",
-    "title": "やってくる Vibe Design の波。AI時代のプロダクトはエンジニアだけでやっていく",
-    "link": "https://zenn.dev/rgbkids/articles/6c35c67e6c724e",
-    "pubDate": "Wed, 17 Sep 2025 07:15:01 GMT"
+    "title": "「AIコーディング時代」だからこそ「ちゃんとする」",
+    "link": "https://zenn.dev/elyza/articles/abb1866b8152fd",
+    "pubDate": "Wed, 17 Sep 2025 10:42:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "現行の「NHK ニュース・防災」アプリは9月末で終了、「NHK ONE」登場に伴う変更点",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2048002.html",
-    "pubDate": "2025-09-17T06:45:42.000Z"
+    "site": "Zenn",
+    "title": "Snowflakeにおける非構造化データを構造化データに変える選択肢",
+    "link": "https://zenn.dev/finatext/articles/unstruct-to-struct-in-snowflake",
+    "pubDate": "Wed, 17 Sep 2025 08:55:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "やってくる Vibe Design の波。AI時代のプロダクトはエンジニアだけでやっていく🌊",
+    "link": "https://zenn.dev/rgbkids/articles/6c35c67e6c724e",
+    "pubDate": "Wed, 17 Sep 2025 07:15:01 GMT"
   },
   {
     "site": "Hatena",
@@ -60,22 +84,10 @@
     "pubDate": "2025-09-17T04:25:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ワコム、3万円台の14型液タブ「Wacom One 14」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2047893.html",
-    "pubDate": "2025-09-17T03:44:58.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AI時代だからこそ「自分で書く」ことが大事だ！",
     "link": "https://qiita.com/yuto_shinkawa/items/4bb3586da2aa447c747e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-17T02:25:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【GraphQL Ruby】型定義から値解決するまでの道のり",
-    "link": "https://zenn.dev/oginoshikibu/articles/c9c2fb44886e86",
-    "pubDate": "Wed, 17 Sep 2025 01:43:46 GMT"
   },
   {
     "site": "Zenn",
@@ -124,18 +136,6 @@
     "title": "Claude CodeからCodexをMCPで呼び出せるようになった話｜Claude Code性能低下問題もこれで解決！",
     "link": "https://zenn.dev/tmasuyama1114/articles/cdfd4562bdce78",
     "pubDate": "Tue, 16 Sep 2025 14:13:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Ghostty1.2.0が来たぞ",
-    "link": "https://zenn.dev/kawarimidoll/articles/06195bf29eac59",
-    "pubDate": "Tue, 16 Sep 2025 14:05:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "openai/codex でのプロジェクト固有MCPを設定する",
-    "link": "https://zenn.dev/mizchi/articles/codex-mcp-config-settings",
-    "pubDate": "Tue, 16 Sep 2025 12:51:19 GMT"
   },
   {
     "site": "Qiita",
