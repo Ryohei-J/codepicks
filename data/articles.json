@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "ついに「BS 4K」を見限る民放、4K放送はどこへ向かう？",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/18/news103.html",
+    "pubDate": "2025-09-18T08:03:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "夜遅い時間にインターホンが鳴り、出たら「Amazonです」今日届く商品なくね？と追跡番号の下４桁を聞いたらガチャ切りされた",
+    "link": "https://togetter.com/li/2604376",
+    "pubDate": "2025-09-18T07:32:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "疑問なんだがITエンジニアってDV癖のあるやつ多いの？",
+    "link": "https://anond.hatelabo.jp/20250918162758",
+    "pubDate": "2025-09-18T07:30:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「iPhone 17 Pro／Pro Max」、カメラ「光学8倍」は誤解に　SNSで指摘が相次ぐ　正しく伝えた競合メーカーは？",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2509/18/news093.html",
+    "pubDate": "2025-09-18T06:36:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "液浸サーバー、普及の壁越えるか　NTTデータなど実証実験",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/091200008/",
+    "pubDate": "2025-09-18T05:02:04.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "CSSに問題がないか、保守性・複雑性・パフォーマンスの面から解析し、改善点を教えてくれるツール -CSS Code Quality Analyzer",
     "link": "https://coliss.com/articles/build-websites/operation/css/css-code-quality-analyzer.html",
     "pubDate": "2025-09-18T00:40:45.000Z"
@@ -12,22 +42,16 @@
     "pubDate": "2025-09-17T23:39:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Wasm 3.0 Completed - WebAssembly",
-    "link": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
-    "pubDate": "2025-09-17T20:10:46.000Z"
+    "site": "Zenn",
+    "title": "個人環境で格安のSentinel Data lake 使っていると思ったら、50万課金されてしまった話",
+    "link": "https://zenn.dev/hirotomotaguchi/articles/202509_microsoft-sentinel-data-lake",
+    "pubDate": "Wed, 17 Sep 2025 23:35:58 GMT"
   },
   {
     "site": "Hatena",
     "title": "「iPhone Air」が放つ圧倒的オーラの正体に迫る　実機で確かめて分かった驚き",
     "link": "https://www.itmedia.co.jp/pcuser/articles/2509/17/news118.html",
     "pubDate": "2025-09-17T18:40:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub、総合的なMCPサーバのレジストリを目論む「GitHub MCP Registry」公開",
-    "link": "https://www.publickey1.jp/blog/25/githubmcpgithub_mcp_registry.html",
-    "pubDate": "2025-09-17T16:28:16.000Z"
   },
   {
     "site": "Zenn",
@@ -48,22 +72,16 @@
     "pubDate": "Wed, 17 Sep 2025 15:03:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "データ分析エージェント Socrates の育て方",
-    "link": "https://speakerdeck.com/na0/detafen-xi-eziento-socrates-noyu-tefang",
-    "pubDate": "2025-09-17T12:34:09.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "「AIコーディング時代」だからこそ「ちゃんとする」",
     "link": "https://zenn.dev/elyza/articles/abb1866b8152fd",
     "pubDate": "Wed, 17 Sep 2025 10:42:50 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Snowflakeにおける非構造化データを構造化データに変える選択肢",
-    "link": "https://zenn.dev/finatext/articles/unstruct-to-struct-in-snowflake",
-    "pubDate": "Wed, 17 Sep 2025 08:55:18 GMT"
+    "site": "Qiita",
+    "title": "npm史上最大：自己伝播ワーム「Shai-Hulud」のサプライチェーン攻撃",
+    "link": "https://qiita.com/___nix___/items/6bf6801ca350d7e2eb9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-17T10:02:43.000Z"
   },
   {
     "site": "Zenn",
@@ -72,22 +90,16 @@
     "pubDate": "Wed, 17 Sep 2025 07:15:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "組立説明書のイラストを頼んだら「Gemini」が期待を軽々越えてきた話｜山下義弘／ドケットストアの人",
-    "link": "https://note.com/tyari/n/na997001eed32",
-    "pubDate": "2025-09-17T04:50:32.000Z"
+    "site": "Zenn",
+    "title": "モダンフレームワークSvelteKitでのコロケーションができるようになったので紹介する",
+    "link": "https://zenn.dev/explaza/articles/ccdce0c1cefe13",
+    "pubDate": "Wed, 17 Sep 2025 03:02:02 GMT"
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】Lv9：『新技！ピカチュウ、アイアンテール！』〜配列〜",
-    "link": "https://qiita.com/hitomin_poke/items/d17c6fec3692ed955c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-17T04:25:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代だからこそ「自分で書く」ことが大事だ！",
-    "link": "https://qiita.com/yuto_shinkawa/items/4bb3586da2aa447c747e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-17T02:25:58.000Z"
+    "title": "命名の重要性とベストプラクティス | 『AI時代のきれいなプログラムの教科書』より",
+    "link": "https://qiita.com/Fujiwo/items/741f7de1255b1e9aefc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-17T01:17:07.000Z"
   },
   {
     "site": "Zenn",
@@ -130,18 +142,6 @@
     "title": "Claude Code vs Codex vs Cursor ― 同じプロンプトでSlackクローンを生成したら",
     "link": "https://zenn.dev/chiji/articles/9412e21dfce923",
     "pubDate": "Tue, 16 Sep 2025 14:55:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeからCodexをMCPで呼び出せるようになった話｜Claude Code性能低下問題もこれで解決！",
-    "link": "https://zenn.dev/tmasuyama1114/articles/cdfd4562bdce78",
-    "pubDate": "Tue, 16 Sep 2025 14:13:38 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeからCodexをMCPで呼び出せるようになった話｜Claude Code性能低下問題もこれで解決！ - Qiita",
-    "link": "https://qiita.com/tomada/items/6ed639a7dae70264ab5d",
-    "pubDate": "2025-09-16T12:43:09.000Z"
   },
   {
     "site": "Qiita",
