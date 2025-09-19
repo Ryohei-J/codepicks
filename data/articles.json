@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "エヌビディア、インテルに50億ドル出資へ－半導体を共同開発",
+    "link": "https://www.bloomberg.co.jp/news/articles/2025-09-18/T2S6T8GOT0JY00",
+    "pubDate": "2025-09-18T14:50:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "NTT西日本による通信障害の原因が判明、VLAN IDの設定ミスでループ発生",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11102/",
     "pubDate": "2025-09-18T13:23:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "経験を積むほどインプット出来ていない感覚になりやすいのではないか - $shibayu36->blog;",
+    "link": "https://blog.shibayu36.org/entry/2025/09/18/183000",
+    "pubDate": "2025-09-18T12:46:34.000Z"
   },
   {
     "site": "Hatena",
@@ -18,6 +30,12 @@
     "pubDate": "2025-09-18T12:13:30.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "React学習ログ No.3",
+    "link": "https://qiita.com/maedaHARUYA/items/3ea14f98a399b25b7ffc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-18T11:29:17.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "バッチ設計ガイドラインを公開しました | フューチャー技術ブログ",
     "link": "https://future-architect.github.io/articles/20250918a/",
@@ -30,10 +48,10 @@
     "pubDate": "2025-09-18T08:03:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "夜遅い時間にインターホンが鳴り、出たら「Amazonです」今日届く商品なくね？と追跡番号の下４桁を聞いたらガチャ切りされた",
-    "link": "https://togetter.com/li/2604376",
-    "pubDate": "2025-09-18T07:32:34.000Z"
+    "site": "Zenn",
+    "title": "ゲームプログラマーとして成長するために大切な3つの力",
+    "link": "https://zenn.dev/wuyukwi/articles/f6d20f7d12e8b4",
+    "pubDate": "Thu, 18 Sep 2025 07:43:12 GMT"
   },
   {
     "site": "Hatena",
@@ -43,21 +61,33 @@
   },
   {
     "site": "Hatena",
+    "title": "Issue, Pull-request, GitHub Copilotによる「普通」の一人チーム開発 - Cybozu Inside Out | サイボウズエンジニアのブログ",
+    "link": "https://blog.cybozu.io/entry/2025/09/18/113000",
+    "pubDate": "2025-09-18T06:48:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「iPhone 17 Pro／Pro Max」、カメラ「光学8倍」は誤解に　SNSで指摘が相次ぐ　正しく伝えた競合メーカーは？",
     "link": "https://www.itmedia.co.jp/mobile/articles/2509/18/news093.html",
     "pubDate": "2025-09-18T06:36:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "液浸サーバー、普及の壁越えるか　NTTデータなど実証実験",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/091200008/",
-    "pubDate": "2025-09-18T05:02:04.000Z"
+    "site": "Zenn",
+    "title": "dely 3 Days エンジニアインターン体験記",
+    "link": "https://zenn.dev/pkmiya/articles/ed4fd230837b5b",
+    "pubDate": "Thu, 18 Sep 2025 04:02:51 GMT"
   },
   {
     "site": "Zenn",
     "title": "個人環境で格安のSentinel Data lake 使っていると思ったら、50万課金されてしまった話",
     "link": "https://zenn.dev/hirotomotaguchi/articles/202509_microsoft-sentinel-data-lake",
     "pubDate": "Wed, 17 Sep 2025 23:35:58 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Runtime Async ― 高性能な非同期の時代へ",
+    "link": "https://qiita.com/hez2010/items/4aeb16b943b01c10c4f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-17T17:08:59.000Z"
   },
   {
     "site": "Zenn",
@@ -70,6 +100,12 @@
     "title": "「クラウドでIDEを動かしたかっただけなのに」AWSで22万円のクラウド破産した話",
     "link": "https://zenn.dev/eightbeat/articles/ca6ce3d06c0265",
     "pubDate": "Wed, 17 Sep 2025 15:03:09 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "「SQLアンチパターン 第2版」まとめ",
+    "link": "https://qiita.com/matsumura-yzrh/items/5ad34282a7c0bf443895?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-17T11:04:43.000Z"
   },
   {
     "site": "Zenn",
@@ -91,9 +127,15 @@
   },
   {
     "site": "Zenn",
-    "title": "モダンフレームワークSvelteKitでのコロケーションができるようになったので紹介する",
-    "link": "https://zenn.dev/explaza/articles/ccdce0c1cefe13",
-    "pubDate": "Wed, 17 Sep 2025 03:02:02 GMT"
+    "title": "AIでテスト設計を効率化！ぶつかった壁と乗り越え方",
+    "link": "https://zenn.dev/qubena/articles/44742ee0825c6f",
+    "pubDate": "Wed, 17 Sep 2025 05:56:31 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "病んだプロジェクトリーダー、そのほとんどが抱えていた問題がコレ。",
+    "link": "https://qiita.com/haihaikazuma/items/c40c863a67b6e305bef8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-17T03:29:45.000Z"
   },
   {
     "site": "Qiita",
@@ -114,34 +156,16 @@
     "pubDate": "2025-09-16T23:34:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「もう帰っていいよ」バキバキに心が折れたデータ分析の報告会。筆者はどうやって再び立ち上がれたか？｜松本健太郎",
-    "link": "https://comemo.nikkei.com/n/nd0bc01ef26ec",
-    "pubDate": "2025-09-16T23:29:14.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Anthropicに学ぶ：AIエージェント向けツール設計の5原則",
     "link": "https://zenn.dev/ml_bear/articles/7e315756ccd31a",
     "pubDate": "Tue, 16 Sep 2025 23:12:19 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "GoogleAppsScriptで作るモダンなWebアプリ開発",
-    "link": "https://zenn.dev/luth/books/gas-with-frontend",
-    "pubDate": "Tue, 16 Sep 2025 16:24:21 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "仕様駆動開発オートエンコーダー コード→AGENTS.md→コード",
     "link": "https://qiita.com/relu/items/ee152b0ba96d1e013ceb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-16T15:20:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code vs Codex vs Cursor ― 同じプロンプトでSlackクローンを生成したら",
-    "link": "https://zenn.dev/chiji/articles/9412e21dfce923",
-    "pubDate": "Tue, 16 Sep 2025 14:55:24 GMT"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "Claude CodeからCodexをMCPで呼び出せるようになった話｜Claude Code性能低下問題もこれで解決！",
     "link": "https://qiita.com/tomada/items/6ed639a7dae70264ab5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-15T23:05:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェント（Cursor/Claude Code他）への「指示だし」レベルを上げる教育プロンプト",
-    "link": "https://qiita.com/WdknWdkn/items/762e9020c9f4e84e3c51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-15T15:00:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【C#】PLC通信の基本を言葉の定義から理解する - 入門から実践まで",
-    "link": "https://qiita.com/Sakai_path/items/85fa90422f1b43fc2bd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-15T14:00:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「文字」というオカルト",
-    "link": "https://qiita.com/makotosaekit/items/9c53cf233f5a835b498f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-15T09:18:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者完全版】0からReactを始めてCI/CD構築までできるチュートリアル【TypeScript/GitHubActions/Vitest/Firebase】",
-    "link": "https://qiita.com/Sicut_study/items/9792f2f01dc887d4cb31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-15T08:03:40.000Z"
   }
 ]
