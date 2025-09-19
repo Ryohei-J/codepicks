@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "速報：ドコモ、iPhone 17シリーズを販売停止。 - すまほん!!",
+    "link": "https://smhn.info/202509-docomo-iphone-17-stop",
+    "pubDate": "2025-09-19T12:33:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "チームコミュニケーションツールのSlackが非営利団体に対し3000万円近い値上げを突然通告し大騒ぎに、猶予期間もわずか5日間と異常に短期間",
+    "link": "https://gigazine.net/news/20250919-slack-increase/",
+    "pubDate": "2025-09-19T11:01:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "JR4社（東・西・海・九）のネット予約が連携へ、相互ログインなど10月から一部先行実施",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2048764.html",
     "pubDate": "2025-09-19T08:28:31.000Z"
@@ -10,6 +22,12 @@
     "title": "Professional Security Operations Engineer 試験 完全攻略ガイド 2025",
     "link": "https://zenn.dev/cloud_ace/articles/howtoget-certified-psoe",
     "pubDate": "Fri, 19 Sep 2025 07:45:33 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "2026年6月以降、「セキュアブート」証明書の失効に注意 ～Windowsを安全に起動できなくなる／Microsoftがサポートドキュメントで注意喚起",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2048696.html",
+    "pubDate": "2025-09-19T07:41:41.000Z"
   },
   {
     "site": "Hatena",
@@ -28,6 +46,12 @@
     "title": "急速に反米化する韓国、ジョージア州での技術者連行への反発に加え「日本より好条件」と絶賛された関税交渉も暗礁に | JBpress (ジェイビープレス)",
     "link": "https://jbpress.ismedia.jp/articles/-/90647",
     "pubDate": "2025-09-19T06:03:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト - Qiita",
+    "link": "https://qiita.com/Sakai_path/items/d4ec1e848672033ca256",
+    "pubDate": "2025-09-19T03:30:04.000Z"
   },
   {
     "site": "Zenn",
@@ -54,12 +78,6 @@
     "pubDate": "Thu, 18 Sep 2025 13:23:25 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "経験を積むほどインプット出来ていない感覚になりやすいのではないか - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2025/09/18/183000",
-    "pubDate": "2025-09-18T12:46:34.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Go言語でmrubyの静的型検査器を作ってみた💎",
     "link": "https://zenn.dev/ehamachang/articles/f992aa6f0ca8c9",
@@ -70,12 +88,6 @@
     "title": "React学習ログ No.3",
     "link": "https://qiita.com/maedaHARUYA/items/3ea14f98a399b25b7ffc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-18T11:29:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "バッチ設計ガイドラインを公開しました | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20250918a/",
-    "pubDate": "2025-09-18T09:33:13.000Z"
   },
   {
     "site": "Qiita",
@@ -90,22 +102,10 @@
     "pubDate": "Thu, 18 Sep 2025 07:43:12 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Issue, Pull-request, GitHub Copilotによる「普通」の一人チーム開発 - Cybozu Inside Out | サイボウズエンジニアのブログ",
-    "link": "https://blog.cybozu.io/entry/2025/09/18/113000",
-    "pubDate": "2025-09-18T06:48:22.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト",
     "link": "https://qiita.com/Sakai_path/items/d4ec1e848672033ca256?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-18T05:33:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "fluent-bit これぐらいはやった方がいい設定",
-    "link": "https://zenn.dev/fujiwara/scraps/f779bbe88a3e32",
-    "pubDate": "2025-09-18T03:04:33.000Z"
   },
   {
     "site": "Zenn",
@@ -128,7 +128,7 @@
   {
     "site": "Qiita",
     "title": "【開発効率化】vscodeでマジで最低限知っておいてほしいショートカット15個厳選した",
-    "link": "https://qiita.com/arunbababa/items/793274ed6ce3cd626a9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "link": "https://qiita.com/aru_hacker_dog/items/793274ed6ce3cd626a9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-17T16:11:02.000Z"
   },
   {
