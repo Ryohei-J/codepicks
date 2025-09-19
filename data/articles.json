@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "エレベーターの隙間にスマホが入ってしまい10階から1階まで落下してしまったがiFaceをつけていたお陰でスマホ本体は無傷だった",
-    "link": "https://togetter.com/li/2604675",
-    "pubDate": "2025-09-19T02:20:31.000Z"
+    "title": "JR4社（東・西・海・九）のネット予約が連携へ、相互ログインなど10月から一部先行実施",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2048764.html",
+    "pubDate": "2025-09-19T08:28:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Professional Security Operations Engineer 試験 完全攻略ガイド 2025",
+    "link": "https://zenn.dev/cloud_ace/articles/howtoget-certified-psoe",
+    "pubDate": "Fri, 19 Sep 2025 07:45:33 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ついにえきねっとやEX予約などで共通ログイン可能に。JR 4社が連携",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2048736.html",
+    "pubDate": "2025-09-19T07:31:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アルバニア AIが生成した架空人物を閣僚に任命 議会で演説 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250919/k10014927371000.html",
+    "pubDate": "2025-09-19T06:17:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "急速に反米化する韓国、ジョージア州での技術者連行への反発に加え「日本より好条件」と絶賛された関税交渉も暗礁に | JBpress (ジェイビープレス)",
+    "link": "https://jbpress.ismedia.jp/articles/-/90647",
+    "pubDate": "2025-09-19T06:03:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Dayスタッフやってみた】Platform Engineering Kaigi 2025",
+    "link": "https://zenn.dev/primenumber/articles/412a8cfb45b160",
+    "pubDate": "Fri, 19 Sep 2025 02:27:36 GMT"
   },
   {
     "site": "Hatena",
@@ -18,10 +48,10 @@
     "pubDate": "2025-09-18T23:28:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NTT西日本による通信障害の原因が判明、VLAN IDの設定ミスでループ発生",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11102/",
-    "pubDate": "2025-09-18T13:23:24.000Z"
+    "site": "Zenn",
+    "title": "「基盤モデルとロボットの融合」読書メモ",
+    "link": "https://zenn.dev/karaage0703/articles/bb2bef39e7071d",
+    "pubDate": "Thu, 18 Sep 2025 13:23:25 GMT"
   },
   {
     "site": "Hatena",
@@ -30,16 +60,10 @@
     "pubDate": "2025-09-18T12:46:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NVIDIAとIntelがまさかの協業！ Intelに約7368億円を投資して，RTX GPUを統合したx86 SoCをPC市場向けに提供するとのこと",
-    "link": "https://www.4gamer.net/games/999/G999902/20250918073/",
-    "pubDate": "2025-09-18T12:38:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "機能要望の裏側にある \"業務の困りごと\" を聞く - Konifar's ZATSU",
-    "link": "https://konifar-zatsu.hatenadiary.jp/entry/2025/09/18/203933",
-    "pubDate": "2025-09-18T12:13:30.000Z"
+    "site": "Zenn",
+    "title": "Go言語でmrubyの静的型検査器を作ってみた💎",
+    "link": "https://zenn.dev/ehamachang/articles/f992aa6f0ca8c9",
+    "pubDate": "Thu, 18 Sep 2025 11:30:29 GMT"
   },
   {
     "site": "Qiita",
@@ -54,6 +78,12 @@
     "pubDate": "2025-09-18T09:33:13.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "老兵は死なず、ただQiitaを書くのみ　～　かつてシステムエンジニアだった私へ贈る10の言葉",
+    "link": "https://qiita.com/peridotan/items/9df96b6d126a2d82b523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-18T07:53:33.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "ゲームプログラマーとして成長するために大切な3つの力",
     "link": "https://zenn.dev/wuyukwi/articles/f6d20f7d12e8b4",
@@ -66,16 +96,22 @@
     "pubDate": "2025-09-18T06:48:22.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "dely 3 Days エンジニアインターン体験記",
-    "link": "https://zenn.dev/pkmiya/articles/ed4fd230837b5b",
-    "pubDate": "Thu, 18 Sep 2025 04:02:51 GMT"
+    "site": "Qiita",
+    "title": "【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト",
+    "link": "https://qiita.com/Sakai_path/items/d4ec1e848672033ca256?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-18T05:33:02.000Z"
   },
   {
     "site": "Zenn",
     "title": "fluent-bit これぐらいはやった方がいい設定",
     "link": "https://zenn.dev/fujiwara/scraps/f779bbe88a3e32",
     "pubDate": "2025-09-18T03:04:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "最高の TypeScript 開発環境を最速で作っていくよ 2025 秋",
+    "link": "https://zenn.dev/somnicattus/articles/3c1f3756aec24a",
+    "pubDate": "Thu, 18 Sep 2025 00:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -90,8 +126,14 @@
     "pubDate": "2025-09-17T17:08:59.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【開発効率化】vscodeでマジで最低限知っておいてほしいショートカット15個厳選した",
+    "link": "https://qiita.com/arunbababa/items/793274ed6ce3cd626a9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-17T16:11:02.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "CUDA無し環境でPyTorchでGPUを使用する手軽な方法",
+    "title": "CUDA無し環境からPyTorchでGPU学習環境を構築する手軽な方法",
     "link": "https://zenn.dev/karaage0703/articles/48bcb55002c360",
     "pubDate": "Wed, 17 Sep 2025 16:06:54 GMT"
   },
@@ -100,12 +142,6 @@
     "title": "「クラウドでIDEを動かしたかっただけなのに」AWSで22万円のクラウド破産した話",
     "link": "https://zenn.dev/eightbeat/articles/ca6ce3d06c0265",
     "pubDate": "Wed, 17 Sep 2025 15:03:09 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「SQLアンチパターン 第2版」まとめ",
-    "link": "https://qiita.com/matsumura-yzrh/items/5ad34282a7c0bf443895?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-17T11:04:43.000Z"
   },
   {
     "site": "Zenn",
@@ -120,16 +156,10 @@
     "pubDate": "2025-09-17T10:02:43.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "やってくる Vibe Design の波。AI時代のプロダクトはエンジニアだけでやっていく🌊",
-    "link": "https://zenn.dev/rgbkids/articles/6c35c67e6c724e",
-    "pubDate": "Wed, 17 Sep 2025 07:15:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIでテスト設計を効率化！ぶつかった壁と乗り越え方",
-    "link": "https://zenn.dev/qubena/articles/44742ee0825c6f",
-    "pubDate": "Wed, 17 Sep 2025 05:56:31 GMT"
+    "site": "Qiita",
+    "title": "【AWS】アーキテクチャ図をラクして書きたい！",
+    "link": "https://qiita.com/im_yoneda/items/f7624a0a25885f68616f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-17T08:58:59.000Z"
   },
   {
     "site": "Qiita",
@@ -139,44 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "命名の重要性とベストプラクティス | 『AI時代のきれいなプログラムの教科書』より",
-    "link": "https://qiita.com/Fujiwo/items/741f7de1255b1e9aefc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-17T01:17:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Excelスクショを廃止する、たったひとつの冴えたやりかた",
-    "link": "https://zenn.dev/nuits_jp/articles/2025-09-16-discon-of-excel-screenshots",
-    "pubDate": "Tue, 16 Sep 2025 23:54:08 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "Java 25新機能まとめ",
     "link": "https://qiita.com/nowokay/items/7e05b4c42ded043a298a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-16T23:34:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropicに学ぶ：AIエージェント向けツール設計の5原則",
-    "link": "https://zenn.dev/ml_bear/articles/7e315756ccd31a",
-    "pubDate": "Tue, 16 Sep 2025 23:12:19 GMT"
   },
   {
     "site": "Qiita",
     "title": "仕様駆動開発オートエンコーダー コード→AGENTS.md→コード",
     "link": "https://qiita.com/relu/items/ee152b0ba96d1e013ceb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-16T15:20:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代のエンジニアの学び方",
-    "link": "https://qiita.com/shunjikonishi/items/260a94758b72bc0eb31f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-16T01:46:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeからCodexをMCPで呼び出せるようになった話｜Claude Code性能低下問題もこれで解決！",
-    "link": "https://qiita.com/tomada/items/6ed639a7dae70264ab5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-15T23:05:31.000Z"
   }
 ]
