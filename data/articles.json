@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "サプライチェーン攻撃への防御策 | blog.jxck.io",
+    "link": "https://blog.jxck.io/entries/2025-09-20/mitigate-risk-of-oss-dependencies.html",
+    "pubDate": "2025-09-19T23:07:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "小池百合子のカイロ大学卒業証書をAI翻訳させて別人の名前が出て、それが「疑惑」にされていた - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2025/09/20/010000",
+    "pubDate": "2025-09-19T21:57:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Reactをクライアントで使わない",
+    "link": "https://speakerdeck.com/yusukebe/reactwokuraiantodeshi-wanai",
+    "pubDate": "2025-09-19T14:14:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "速報：ドコモ、iPhone 17シリーズを販売停止。 - すまほん!!",
     "link": "https://smhn.info/202509-docomo-iphone-17-stop",
     "pubDate": "2025-09-19T12:33:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "1991年に子ども会でもらったシャープペンを愛用しすぎていて使い続けたいので予備を購入したい…太陽や馬やキリンが描かれた特徴的なペンは今でも手に入れられるのか",
+    "link": "https://togetter.com/li/2604858",
+    "pubDate": "2025-09-19T12:23:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "社長が、自腹のRTX2080で国産生成AIをゼロから作ってみた話｜片山良平＠paiza代表",
+    "link": "https://note.com/rk611/n/n4dfffbbed408",
+    "pubDate": "2025-09-19T12:00:39.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +42,10 @@
     "pubDate": "2025-09-19T11:01:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "JR4社（東・西・海・九）のネット予約が連携へ、相互ログインなど10月から一部先行実施",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2048764.html",
-    "pubDate": "2025-09-19T08:28:31.000Z"
+    "site": "Zenn",
+    "title": "Jelly Troops におけるマルチタスクAI(Bot)",
+    "link": "https://zenn.dev/tankenzuki/articles/ai-jt-202509",
+    "pubDate": "Fri, 19 Sep 2025 08:40:57 GMT"
   },
   {
     "site": "Zenn",
@@ -30,24 +60,6 @@
     "pubDate": "2025-09-19T07:41:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ついにえきねっとやEX予約などで共通ログイン可能に。JR 4社が連携",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2048736.html",
-    "pubDate": "2025-09-19T07:31:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アルバニア AIが生成した架空人物を閣僚に任命 議会で演説 | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250919/k10014927371000.html",
-    "pubDate": "2025-09-19T06:17:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "急速に反米化する韓国、ジョージア州での技術者連行への反発に加え「日本より好条件」と絶賛された関税交渉も暗礁に | JBpress (ジェイビープレス)",
-    "link": "https://jbpress.ismedia.jp/articles/-/90647",
-    "pubDate": "2025-09-19T06:03:21.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト - Qiita",
     "link": "https://qiita.com/Sakai_path/items/d4ec1e848672033ca256",
@@ -60,34 +72,34 @@
     "pubDate": "Fri, 19 Sep 2025 02:27:36 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「速いエンジニアは信用される」仕事を加速させるために意識している3つのこと｜kinchan",
-    "link": "https://note.com/kinchan971/n/n9b5b7fc482a5",
-    "pubDate": "2025-09-19T01:13:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「お母さんには言わないで」──ChatGPTが自殺方法を指南→16歳の子供が死去　両親がOpenAIを提訴",
-    "link": "https://www.itmedia.co.jp/news/articles/2509/19/news038.html",
-    "pubDate": "2025-09-18T23:28:44.000Z"
+    "site": "Qiita",
+    "title": "いつのまにかExcelに生えていた謎機能スピルについて調べてみた",
+    "link": "https://qiita.com/ssc-ksaitou/items/c3a0a0ac72edb5614aa0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-19T02:08:02.000Z"
   },
   {
     "site": "Zenn",
-    "title": "「基盤モデルとロボットの融合」読書メモ",
-    "link": "https://zenn.dev/karaage0703/articles/bb2bef39e7071d",
-    "pubDate": "Thu, 18 Sep 2025 13:23:25 GMT"
+    "title": "バイブコーディング: ノンデベロッパーのためのClaude Code実践ガイド - Next.js編",
+    "link": "https://zenn.dev/shibatanaoto/books/nextjs-dashboard-claude-code",
+    "pubDate": "Fri, 19 Sep 2025 01:00:11 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "New RelicのAIアシスタントが一般提供となったので試してみた！",
+    "link": "https://qiita.com/T_OMORI/items/afa5a39bc6cd5d33dabf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-19T00:09:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code でサブエージェントを順次実行するワークフローを作成するツール「CC-Flow」の紹介",
+    "link": "https://zenn.dev/hiraoku/articles/957b24a944cb89",
+    "pubDate": "Thu, 18 Sep 2025 22:50:18 GMT"
   },
   {
     "site": "Zenn",
     "title": "Go言語でmrubyの静的型検査器を作ってみた💎",
     "link": "https://zenn.dev/ehamachang/articles/f992aa6f0ca8c9",
     "pubDate": "Thu, 18 Sep 2025 11:30:29 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "React学習ログ No.3",
-    "link": "https://qiita.com/maedaHARUYA/items/3ea14f98a399b25b7ffc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-18T11:29:17.000Z"
   },
   {
     "site": "Qiita",
@@ -106,6 +118,12 @@
     "title": "【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト",
     "link": "https://qiita.com/Sakai_path/items/d4ec1e848672033ca256?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-18T05:33:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "うちの Step Functions、こうやって育ててます （実践 Tips 集）",
+    "link": "https://zenn.dev/knowledgework/articles/feb2823365e8cd",
+    "pubDate": "Thu, 18 Sep 2025 03:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -132,24 +150,6 @@
     "pubDate": "2025-09-17T16:11:02.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "CUDA無し環境からPyTorchでGPU学習環境を構築する手軽な方法",
-    "link": "https://zenn.dev/karaage0703/articles/48bcb55002c360",
-    "pubDate": "Wed, 17 Sep 2025 16:06:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「クラウドでIDEを動かしたかっただけなのに」AWSで22万円のクラウド破産した話",
-    "link": "https://zenn.dev/eightbeat/articles/ca6ce3d06c0265",
-    "pubDate": "Wed, 17 Sep 2025 15:03:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「AIコーディング時代」だからこそ「ちゃんとする」",
-    "link": "https://zenn.dev/elyza/articles/abb1866b8152fd",
-    "pubDate": "Wed, 17 Sep 2025 10:42:50 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "npm史上最大：自己伝播ワーム「Shai-Hulud」のサプライチェーン攻撃",
     "link": "https://qiita.com/___nix___/items/6bf6801ca350d7e2eb9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -174,9 +174,9 @@
     "pubDate": "2025-09-16T23:34:54.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "仕様駆動開発オートエンコーダー コード→AGENTS.md→コード",
-    "link": "https://qiita.com/relu/items/ee152b0ba96d1e013ceb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-16T15:20:19.000Z"
+    "site": "Hatena",
+    "title": "最新iPhoneはもはや高価に転売できる資産ではない。eSIM専用化で崩れた高額買取の方程式とは - はやぽんログ！",
+    "link": "https://hayaponlog.com/iphone-resale-faq/",
+    "pubDate": "2025-09-14T02:04:31.000Z"
   }
 ]
