@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "韓国旅行で食べたレバ刺しをミラーレス一眼とiPhone15でそれぞれ撮ってみたら結構違ってた「これはどちらの方が肉眼に近いの？」",
+    "link": "https://togetter.com/li/2605076",
+    "pubDate": "2025-09-20T01:37:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "サプライチェーン攻撃への防御策 | blog.jxck.io",
     "link": "https://blog.jxck.io/entries/2025-09-20/mitigate-risk-of-oss-dependencies.html",
     "pubDate": "2025-09-19T23:07:27.000Z"
@@ -10,6 +16,12 @@
     "title": "小池百合子のカイロ大学卒業証書をAI翻訳させて別人の名前が出て、それが「疑惑」にされていた - 電脳塵芥",
     "link": "https://nou-yunyun.hatenablog.com/entry/2025/09/20/010000",
     "pubDate": "2025-09-19T21:57:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RTX3060でMoE付きTransformerの事前学習をしてみる",
+    "link": "https://zenn.dev/asap/articles/d3bada2f005330",
+    "pubDate": "Fri, 19 Sep 2025 15:40:14 GMT"
   },
   {
     "site": "Hatena",
@@ -22,6 +34,12 @@
     "title": "速報：ドコモ、iPhone 17シリーズを販売停止。 - すまほん!!",
     "link": "https://smhn.info/202509-docomo-iphone-17-stop",
     "pubDate": "2025-09-19T12:33:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「光学ズーム」→「光学品質ズーム」に　Apple、iPhone 17 Proの“8倍ズーム”表記をひっそり修正",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/19/news146.html",
+    "pubDate": "2025-09-19T12:31:22.000Z"
   },
   {
     "site": "Hatena",
@@ -52,24 +70,6 @@
     "title": "Professional Security Operations Engineer 試験 完全攻略ガイド 2025",
     "link": "https://zenn.dev/cloud_ace/articles/howtoget-certified-psoe",
     "pubDate": "Fri, 19 Sep 2025 07:45:33 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "2026年6月以降、「セキュアブート」証明書の失効に注意 ～Windowsを安全に起動できなくなる／Microsoftがサポートドキュメントで注意喚起",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2048696.html",
-    "pubDate": "2025-09-19T07:41:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト - Qiita",
-    "link": "https://qiita.com/Sakai_path/items/d4ec1e848672033ca256",
-    "pubDate": "2025-09-19T03:30:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Dayスタッフやってみた】Platform Engineering Kaigi 2025",
-    "link": "https://zenn.dev/primenumber/articles/412a8cfb45b160",
-    "pubDate": "Fri, 19 Sep 2025 02:27:36 GMT"
   },
   {
     "site": "Qiita",
@@ -133,7 +133,7 @@
   },
   {
     "site": "Zenn",
-    "title": "個人環境で格安のSentinel Data lake 使っていると思ったら、50万課金されてしまった話",
+    "title": "格安の Sentinel Data lake 使っていると思ったら、50万課金されてしまった話",
     "link": "https://zenn.dev/hirotomotaguchi/articles/202509_microsoft-sentinel-data-lake",
     "pubDate": "Wed, 17 Sep 2025 23:35:58 GMT"
   },
