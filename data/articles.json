@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "オペレーティングシステム II(2023年)",
+    "link": "https://www.coins.tsukuba.ac.jp/~yas/coins/os2-2023/",
+    "pubDate": "2025-09-21T09:22:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "フロントエンド開発に役立つクライアントプログラム共通のノウハウ / Universal client-side programming best practices for frontend development",
+    "link": "https://speakerdeck.com/nrslib/universal-client-side-programming-best-practices-for-frontend-development",
+    "pubDate": "2025-09-21T07:47:32.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "ChatGPTからQiita記事を直接投稿する【qiita-mcp-server】",
     "link": "https://qiita.com/7mpy/items/f3e8503e89832afbbf36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -10,6 +22,12 @@
     "title": "さまざまな〇〇ペイが現れては消えていくが次は『UNIQLO Pay』が消滅する「何かメリットがあったのか？」「〇〇ペイが多すぎる」",
     "link": "https://togetter.com/li/2605355",
     "pubDate": "2025-09-21T05:43:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "パフォーマンスチューニングで Web 技術を深掘り直す",
+    "link": "https://speakerdeck.com/progfay/pahuomansutiyuningude-web-ji-shu-woshen-jue-rizhi-su",
+    "pubDate": "2025-09-21T05:19:32.000Z"
   },
   {
     "site": "Hatena",
@@ -78,34 +96,22 @@
     "pubDate": "Sun, 21 Sep 2025 01:00:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【閲覧注意】もらい事故を記録したドラレコ映像、事故そのものも怖いが記録されていた音声の事実に気付くとゾッとする→AI生成なのでは？という意見もあるが…",
-    "link": "https://togetter.com/li/2605492",
-    "pubDate": "2025-09-21T00:45:25.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "「技術的には可能です」の少しマシな言い方",
     "link": "https://zenn.dev/nuits_jp/articles/2025-09-21-technically-possible",
     "pubDate": "Sun, 21 Sep 2025 00:36:56 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "世界の人気アプリ100個を分析して見えたペイウォール設計の心得",
+    "link": "https://speakerdeck.com/akihiro_kokubo/key-insights-on-paywall-design",
+    "pubDate": "2025-09-21T00:10:07.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Bedrockくんさぁ、毎朝天気教えてくれない？",
     "link": "https://qiita.com/yakumo_09/items/0c575eed2973e6953fee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T00:06:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone移行時にドコモの障害でeSIM再発行が必要になったがドコモショップ側から手数料4950円いただきますと言われた「今までありがとうございました」",
-    "link": "https://togetter.com/li/2605448",
-    "pubDate": "2025-09-20T22:40:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "会話の目的は勝つことではない - ともにかける",
-    "link": "https://paper2.hatenablog.com/entry/2025/09/20/120053",
-    "pubDate": "2025-09-20T20:54:08.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "いつのまにかExcelに生えていた謎機能スピルについて調べてみた",
     "link": "https://qiita.com/ssc-ksaitou/items/c3a0a0ac72edb5614aa0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-19T02:08:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIがコード書きすぎ問題にはAIで立ち向かえ",
-    "link": "https://speakerdeck.com/jyoshise/aigakodoshu-kisugiwen-ti-nihaaideli-tixiang-kae",
-    "pubDate": "2025-09-18T09:55:34.000Z"
   }
 ]
