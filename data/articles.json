@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "超音波のパワーで食材をスイスイ切れる「超音波包丁」が登場、実際に切っている様子を見せる動画も",
+    "link": "https://gigazine.net/news/20250922-worlds-first-ultrasonic-chefs-knife/",
+    "pubDate": "2025-09-22T11:24:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "エンジニアはちゃんと身銭を切れ - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/09/22/175353",
     "pubDate": "2025-09-22T08:56:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "仕様書がコードを生む時代：話題のSDDを試してみた - Algomatic Tech Blog",
+    "link": "https://tech.algomatic.jp/entry/2025/09/22/143931",
+    "pubDate": "2025-09-22T08:52:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「直近バイアス」からの脱却。NotebookLMを使った客観的フィードバック術！ | Wantedly, Inc.",
+    "link": "https://www.wantedly.com/companies/wantedly/post_articles/1006461",
+    "pubDate": "2025-09-22T08:40:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "日本語でコードを検索したい(on Neovim)",
+    "link": "https://zenn.dev/sirasagi62/articles/88cd334751670f",
+    "pubDate": "Mon, 22 Sep 2025 08:33:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "国勢調査の人が来たが、本物かどうかわからないのに家族構成などを聞かれて怖い→確かめ方やルールについて調査員経験者が教えてくれた",
+    "link": "https://togetter.com/li/2606069",
+    "pubDate": "2025-09-22T05:35:25.000Z"
   },
   {
     "site": "Zenn",
@@ -25,12 +55,6 @@
   },
   {
     "site": "Hatena",
-    "title": "[石川温の「スマホ業界 Watch」] 「日本のiPhoneは“つまらないデバイス”になる」、Appleがスマホ新法に抱く強烈な危機感",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2048935.html",
-    "pubDate": "2025-09-21T23:38:06.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "グーグル画像生成AI「Nano Banana」超便利に使える“神アプリ”　AI開発で続々登場 (1/5)",
     "link": "https://ascii.jp/elem/000/004/321/4321306/",
     "pubDate": "2025-09-21T23:21:36.000Z"
@@ -49,7 +73,7 @@
   },
   {
     "site": "Zenn",
-    "title": "AWSコスト見積もりエージェントを自作！Bedrock AgentCoreワークショップで学んだ、ローカルからクラウドデプロイまで",
+    "title": "AWSコスト見積もりエージェントを自作！Bedrock AgentCoreワークショップで学んだローカルからクラウドデプロイまで",
     "link": "https://zenn.dev/mashharuki/articles/aws-agentcore_1",
     "pubDate": "Sun, 21 Sep 2025 15:36:42 GMT"
   },
@@ -58,12 +82,6 @@
     "title": "フロントエンドカンファレンス東京2025登壇資料集",
     "link": "https://zenn.dev/topi_log/articles/ac476d3fb6eff1",
     "pubDate": "Sun, 21 Sep 2025 15:32:19 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "カーニハンのUNIX回顧録 - 丸善出版 理工・医学・人文社会科学の専門書出版社",
-    "link": "https://www.maruzen-publishing.co.jp/book/b10137109.html",
-    "pubDate": "2025-09-21T13:30:31.000Z"
   },
   {
     "site": "Zenn",
@@ -132,34 +150,16 @@
     "pubDate": "Sun, 21 Sep 2025 06:34:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoftのドキュメントはなぜ「わかりにくい」といわれるのか - kkamegawa's weblog",
-    "link": "https://kkamegawa.hatenablog.jp/entry/2025/09/20/225133",
-    "pubDate": "2025-09-21T03:20:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "CSS大解剖 3日目: 「閲覧環境 1/3」",
     "link": "https://zenn.dev/qnighy/articles/42aa14d8ca61f1",
     "pubDate": "Sun, 21 Sep 2025 02:58:35 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "CSS大解剖 1日目: 「仕様書」",
-    "link": "https://zenn.dev/qnighy/articles/8091294fda603d",
-    "pubDate": "Sun, 21 Sep 2025 02:57:17 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "うんち検知IoT：Raspberry Piが愛犬の大事件を見逃さない",
     "link": "https://qiita.com/RaspiKoubou/items/59f4ec31dbd0dd4bbfb9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T01:34:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "世界の人気アプリ100個を分析して見えたペイウォール設計の心得",
-    "link": "https://speakerdeck.com/akihiro_kokubo/key-insights-on-paywall-design",
-    "pubDate": "2025-09-21T00:10:07.000Z"
   },
   {
     "site": "Qiita",
