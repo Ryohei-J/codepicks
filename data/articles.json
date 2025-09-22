@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "エンジニアはちゃんと身銭を切れ - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/09/22/175353",
+    "pubDate": "2025-09-22T08:56:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LoRAの進化：基礎から最新のLoRA-Proまで",
+    "link": "https://zenn.dev/mkj/articles/11168509d10eb4",
+    "pubDate": "Mon, 22 Sep 2025 02:50:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソフトウェアエンジニアがプロダクトにオーナーシップを持てないアンチパターン、構造 - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く",
+    "link": "https://nekogata.hatenablog.com/entry/2025/09/22/094637",
+    "pubDate": "2025-09-22T01:26:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "モバイル端末の指紋認証、顔認証ってセキュリティ強度低くない？",
     "link": "https://anond.hatelabo.jp/20250922094439",
     "pubDate": "2025-09-22T00:45:52.000Z"
@@ -13,15 +31,21 @@
   },
   {
     "site": "Hatena",
-    "title": "“引っ張ると縮む”新機構「カウンタースナッピング」とは？　オランダの研究者らが発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2509/22/news026.html",
-    "pubDate": "2025-09-21T23:18:26.000Z"
+    "title": "グーグル画像生成AI「Nano Banana」超便利に使える“神アプリ”　AI開発で続々登場 (1/5)",
+    "link": "https://ascii.jp/elem/000/004/321/4321306/",
+    "pubDate": "2025-09-21T23:21:36.000Z"
   },
   {
     "site": "Hatena",
     "title": "親がInstagramに投稿した中学生の娘の顔写真や名前をMetaが30代男性向けの「エサ」としてThreads宣伝に利用していた",
     "link": "https://gigazine.net/news/20250922-parents-outraged-meta-uses-photos-schoolgirls/",
     "pubDate": "2025-09-21T23:17:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GleamのJSターゲットにおける天国と地獄",
+    "link": "https://zenn.dev/comamoca/articles/2025-09-22-gleam-js-target-haven-and-hell",
+    "pubDate": "Sun, 21 Sep 2025 19:42:12 GMT"
   },
   {
     "site": "Zenn",
@@ -34,12 +58,6 @@
     "title": "フロントエンドカンファレンス東京2025登壇資料集",
     "link": "https://zenn.dev/topi_log/articles/ac476d3fb6eff1",
     "pubDate": "Sun, 21 Sep 2025 15:32:19 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Adobeが凄まじいのは、数十万円で買わせた過去のソフトの新規認証を打ち切って新しいパソコンに入れられなくしたこと",
-    "link": "https://togetter.com/li/2605798",
-    "pubDate": "2025-09-21T13:56:15.000Z"
   },
   {
     "site": "Hatena",
@@ -67,9 +85,21 @@
   },
   {
     "site": "Qiita",
+    "title": "E資格合格までの軌跡【半年間耐えた先に見えたもの】",
+    "link": "https://qiita.com/m_mato/items/f0aceab32ab9e24b9fe4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T11:34:24.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【個人開発】自分のスキルの課題点を登録するとAIが解決策+サンプル動画を提示してくれるアプリを作りました【React×TypeScript×Gemini】",
     "link": "https://qiita.com/nagi-0106/items/c32ea93fd93252401b5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T10:50:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "React学習ログ No.4",
+    "link": "https://qiita.com/maedaHARUYA/items/f5d00ec82705a819b6fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T10:50:17.000Z"
   },
   {
     "site": "Zenn",
@@ -84,10 +114,10 @@
     "pubDate": "2025-09-21T10:01:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Full Weak Engineer CTF 2025を開催しました 〜運営の裏側〜",
-    "link": "https://zenn.dev/fwectf/articles/4158968faed5b7",
-    "pubDate": "Sun, 21 Sep 2025 10:00:01 GMT"
+    "site": "Qiita",
+    "title": "iOSDC 2025セッション資料まとめ",
+    "link": "https://qiita.com/yuukiw00w/items/3446dcab3d0cab49f871?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T08:40:43.000Z"
   },
   {
     "site": "Qiita",
@@ -96,22 +126,10 @@
     "pubDate": "2025-09-21T07:42:34.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Amazon Q Developerを用いた開発にてコンテキストを永続化する運用方法",
-    "link": "https://qiita.com/srkw7/items/7d571c38ae37de8988fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T07:20:26.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "生成AIで1枚の写真からフィギュアの3Dデータ生成して3Dプリントするまで",
     "link": "https://zenn.dev/karaage0703/articles/3d6bb2170f42bd",
     "pubDate": "Sun, 21 Sep 2025 06:34:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「技術的には可能です」の少しマシな言い方",
-    "link": "https://zenn.dev/nuits_jp/articles/2025-09-21-technically-possible",
-    "pubDate": "2025-09-21T03:51:09.000Z"
   },
   {
     "site": "Hatena",
@@ -132,22 +150,16 @@
     "pubDate": "Sun, 21 Sep 2025 02:57:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "レッドオーシャンに一石を投じるつもりで変なSNSを8ヶ月以上運営してかなり病んだ話",
-    "link": "https://zenn.dev/arusyukuhai/articles/ba583f74944f3c",
-    "pubDate": "Sun, 21 Sep 2025 02:40:07 GMT"
+    "site": "Qiita",
+    "title": "うんち検知IoT：Raspberry Piが愛犬の大事件を見逃さない",
+    "link": "https://qiita.com/RaspiKoubou/items/59f4ec31dbd0dd4bbfb9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T01:34:40.000Z"
   },
   {
     "site": "Hatena",
     "title": "世界の人気アプリ100個を分析して見えたペイウォール設計の心得",
     "link": "https://speakerdeck.com/akihiro_kokubo/key-insights-on-paywall-design",
     "pubDate": "2025-09-21T00:10:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Bedrockくんさぁ、毎朝天気教えてくれない？",
-    "link": "https://qiita.com/yakumo_09/items/0c575eed2973e6953fee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T00:06:22.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "「複雑な業務ロジック」が読みづらいのは「記述が分散」しているから",
     "link": "https://qiita.com/panda728z/items/7182a3ac53040818735e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-19T21:50:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「あいつはひとりでも大丈夫」と会議を任される新人。会議中のふるまいが秀逸だった。",
-    "link": "https://qiita.com/haihaikazuma/items/c7692e7578ecd9875177?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-19T05:20:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "いつのまにかExcelに生えていた謎機能スピルについて調べてみた",
-    "link": "https://qiita.com/ssc-ksaitou/items/c3a0a0ac72edb5614aa0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-19T02:08:02.000Z"
   }
 ]
