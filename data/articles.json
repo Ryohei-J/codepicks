@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "モバイル端末の指紋認証、顔認証ってセキュリティ強度低くない？",
+    "link": "https://anond.hatelabo.jp/20250922094439",
+    "pubDate": "2025-09-22T00:45:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "[石川温の「スマホ業界 Watch」] 「日本のiPhoneは“つまらないデバイス”になる」、Appleがスマホ新法に抱く強烈な危機感",
+    "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2048935.html",
+    "pubDate": "2025-09-21T23:38:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“引っ張ると縮む”新機構「カウンタースナッピング」とは？　オランダの研究者らが発表",
     "link": "https://www.itmedia.co.jp/news/articles/2509/22/news026.html",
     "pubDate": "2025-09-21T23:18:26.000Z"
@@ -12,22 +24,16 @@
     "pubDate": "2025-09-21T23:17:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "警察庁が2025年上半期のサイバー脅威情勢まとめ発表、検挙件数は6625件　「極めて深刻な情勢が継続」と総括",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2048752.html",
-    "pubDate": "2025-09-21T21:53:12.000Z"
+    "site": "Zenn",
+    "title": "AWSコスト見積もりエージェントを自作！Bedrock AgentCoreワークショップで学んだ、ローカルからクラウドデプロイまで",
+    "link": "https://zenn.dev/mashharuki/articles/aws-agentcore_1",
+    "pubDate": "Sun, 21 Sep 2025 15:36:42 GMT"
   },
   {
     "site": "Zenn",
     "title": "フロントエンドカンファレンス東京2025登壇資料集",
     "link": "https://zenn.dev/topi_log/articles/ac476d3fb6eff1",
     "pubDate": "Sun, 21 Sep 2025 15:32:19 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "極力負担が少ない形で本番データの正当性を担保する仕組みを導入した話 - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2025/09/21/170000",
-    "pubDate": "2025-09-21T15:23:22.000Z"
   },
   {
     "site": "Hatena",
@@ -43,6 +49,18 @@
   },
   {
     "site": "Zenn",
+    "title": "monorepo でも pnpm の利用を強制させる",
+    "link": "https://zenn.dev/arjef/articles/enforce-pnpm-usage-in-monorepo",
+    "pubDate": "Sun, 21 Sep 2025 12:54:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "C#の理解が10年古い、と言われたのでCloud Runにデプロイしてみた",
+    "link": "https://zenn.dev/koduki/articles/dotnet20250920",
+    "pubDate": "2025-09-21T12:42:47.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "Moonbit がもう少しで実用できそうな気配",
     "link": "https://zenn.dev/mizchi/articles/how-to-write-moonbit",
     "pubDate": "Sun, 21 Sep 2025 12:42:20 GMT"
@@ -52,6 +70,12 @@
     "title": "【個人開発】自分のスキルの課題点を登録するとAIが解決策+サンプル動画を提示してくれるアプリを作りました【React×TypeScript×Gemini】",
     "link": "https://qiita.com/nagi-0106/items/c32ea93fd93252401b5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T10:50:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントを脱線させないプロンプト設計の実践ガイド",
+    "link": "https://zenn.dev/toccasystems/articles/ai-agent-guardrail-prompt-tips",
+    "pubDate": "Sun, 21 Sep 2025 10:08:20 GMT"
   },
   {
     "site": "Qiita",
@@ -79,6 +103,12 @@
   },
   {
     "site": "Zenn",
+    "title": "生成AIで1枚の写真からフィギュアの3Dデータ生成して3Dプリントするまで",
+    "link": "https://zenn.dev/karaage0703/articles/3d6bb2170f42bd",
+    "pubDate": "Sun, 21 Sep 2025 06:34:57 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "「技術的には可能です」の少しマシな言い方",
     "link": "https://zenn.dev/nuits_jp/articles/2025-09-21-technically-possible",
     "pubDate": "2025-09-21T03:51:09.000Z"
@@ -91,33 +121,9 @@
   },
   {
     "site": "Zenn",
-    "title": "CSS大解剖 5日目: 「閲覧環境 3/3」",
-    "link": "https://zenn.dev/qnighy/articles/fdd0c232735ee3",
-    "pubDate": "Sun, 21 Sep 2025 03:00:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSS大解剖 4日目: 「閲覧環境 2/3」",
-    "link": "https://zenn.dev/qnighy/articles/f426f260aa0952",
-    "pubDate": "Sun, 21 Sep 2025 02:59:16 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "CSS大解剖 3日目: 「閲覧環境 1/3」",
     "link": "https://zenn.dev/qnighy/articles/42aa14d8ca61f1",
     "pubDate": "Sun, 21 Sep 2025 02:58:35 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "『iPhone 17を地下や建物内で使えない携帯会社』明らかに、auやドコモ、ソフトバンク、楽天モバイルの5G回線を徹底比較してみた | Buzzap！",
-    "link": "https://buzzap.jp/news/20250920-docomo-au-softbank-rakuten-mobile-5g-network-shinjuku/",
-    "pubDate": "2025-09-21T02:58:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSS大解剖 2日目: 「文書とボックス木」",
-    "link": "https://zenn.dev/qnighy/articles/c80a3a3d8f3df4",
-    "pubDate": "Sun, 21 Sep 2025 02:58:06 GMT"
   },
   {
     "site": "Zenn",
@@ -130,12 +136,6 @@
     "title": "レッドオーシャンに一石を投じるつもりで変なSNSを8ヶ月以上運営してかなり病んだ話",
     "link": "https://zenn.dev/arusyukuhai/articles/ba583f74944f3c",
     "pubDate": "Sun, 21 Sep 2025 02:40:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claudeと歩むAI仕様駆動開発の開発手法",
-    "link": "https://zenn.dev/yukketbetai/articles/e263bd18784a78",
-    "pubDate": "Sun, 21 Sep 2025 02:39:59 GMT"
   },
   {
     "site": "Hatena",
