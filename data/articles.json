@@ -1,15 +1,69 @@
 [
   {
     "site": "Hatena",
-    "title": "オペレーティングシステム II(2023年)",
-    "link": "https://www.coins.tsukuba.ac.jp/~yas/coins/os2-2023/",
-    "pubDate": "2025-09-21T09:22:56.000Z"
+    "title": "“引っ張ると縮む”新機構「カウンタースナッピング」とは？　オランダの研究者らが発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/22/news026.html",
+    "pubDate": "2025-09-21T23:18:26.000Z"
   },
   {
     "site": "Hatena",
-    "title": "フロントエンド開発に役立つクライアントプログラム共通のノウハウ / Universal client-side programming best practices for frontend development",
-    "link": "https://speakerdeck.com/nrslib/universal-client-side-programming-best-practices-for-frontend-development",
-    "pubDate": "2025-09-21T07:47:32.000Z"
+    "title": "親がInstagramに投稿した中学生の娘の顔写真や名前をMetaが30代男性向けの「エサ」としてThreads宣伝に利用していた",
+    "link": "https://gigazine.net/news/20250922-parents-outraged-meta-uses-photos-schoolgirls/",
+    "pubDate": "2025-09-21T23:17:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "警察庁が2025年上半期のサイバー脅威情勢まとめ発表、検挙件数は6625件　「極めて深刻な情勢が継続」と総括",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2048752.html",
+    "pubDate": "2025-09-21T21:53:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "フロントエンドカンファレンス東京2025登壇資料集",
+    "link": "https://zenn.dev/topi_log/articles/ac476d3fb6eff1",
+    "pubDate": "Sun, 21 Sep 2025 15:32:19 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "極力負担が少ない形で本番データの正当性を担保する仕組みを導入した話 - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2025/09/21/170000",
+    "pubDate": "2025-09-21T15:23:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Adobeが凄まじいのは、数十万円で買わせた過去のソフトの新規認証を打ち切って新しいパソコンに入れられなくしたこと",
+    "link": "https://togetter.com/li/2605798",
+    "pubDate": "2025-09-21T13:56:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "カーニハンのUNIX回顧録 - 丸善出版 理工・医学・人文社会科学の専門書出版社",
+    "link": "https://www.maruzen-publishing.co.jp/book/b10137109.html",
+    "pubDate": "2025-09-21T13:30:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Moonbit がもう少しで実用できそうな気配",
+    "link": "https://zenn.dev/mizchi/articles/how-to-write-moonbit",
+    "pubDate": "Sun, 21 Sep 2025 12:42:20 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】自分のスキルの課題点を登録するとAIが解決策+サンプル動画を提示してくれるアプリを作りました【React×TypeScript×Gemini】",
+    "link": "https://qiita.com/nagi-0106/items/c32ea93fd93252401b5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T10:50:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】QAエンジニア、テスターを救うファイルダウンロードアプリを作りました【React/Typecript/Python】",
+    "link": "https://qiita.com/aru_hacker_dog/items/f5cef9ae3c319a757529?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T10:01:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Full Weak Engineer CTF 2025を開催しました 〜運営の裏側〜",
+    "link": "https://zenn.dev/fwectf/articles/4158968faed5b7",
+    "pubDate": "Sun, 21 Sep 2025 10:00:01 GMT"
   },
   {
     "site": "Qiita",
@@ -18,34 +72,22 @@
     "pubDate": "2025-09-21T07:42:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "さまざまな〇〇ペイが現れては消えていくが次は『UNIQLO Pay』が消滅する「何かメリットがあったのか？」「〇〇ペイが多すぎる」",
-    "link": "https://togetter.com/li/2605355",
-    "pubDate": "2025-09-21T05:43:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "パフォーマンスチューニングで Web 技術を深掘り直す",
-    "link": "https://speakerdeck.com/progfay/pahuomansutiyuningude-web-ji-shu-woshen-jue-rizhi-su",
-    "pubDate": "2025-09-21T05:19:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "壁打ちをする技術 - 空の箱",
-    "link": "https://blog.inorinrinrin.com/entry/2025/09/21/140123",
-    "pubDate": "2025-09-21T05:13:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSS大解剖 1日目: 「仕様書」",
-    "link": "https://zenn.dev/qnighy/articles/8091294fda603d",
-    "pubDate": "2025-09-21T03:57:34.000Z"
+    "site": "Qiita",
+    "title": "Amazon Q Developerを用いた開発にてコンテキストを永続化する運用方法",
+    "link": "https://qiita.com/srkw7/items/7d571c38ae37de8988fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T07:20:26.000Z"
   },
   {
     "site": "Zenn",
     "title": "「技術的には可能です」の少しマシな言い方",
     "link": "https://zenn.dev/nuits_jp/articles/2025-09-21-technically-possible",
     "pubDate": "2025-09-21T03:51:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoftのドキュメントはなぜ「わかりにくい」といわれるのか - kkamegawa's weblog",
+    "link": "https://kkamegawa.hatenablog.jp/entry/2025/09/20/225133",
+    "pubDate": "2025-09-21T03:20:48.000Z"
   },
   {
     "site": "Zenn",
@@ -91,15 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "C#の理解が10年古い、と言われたのでCloud Runにデプロイしてみた",
-    "link": "https://zenn.dev/koduki/articles/dotnet20250920",
-    "pubDate": "Sun, 21 Sep 2025 01:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「技術的には可能です」の少しマシな言い方",
-    "link": "https://zenn.dev/nuits_jp/articles/2025-09-21-technically-possible",
-    "pubDate": "Sun, 21 Sep 2025 00:36:56 GMT"
+    "title": "Claudeと歩むAI仕様駆動開発の開発手法",
+    "link": "https://zenn.dev/yukketbetai/articles/e263bd18784a78",
+    "pubDate": "Sun, 21 Sep 2025 02:39:59 GMT"
   },
   {
     "site": "Hatena",
@@ -112,36 +148,6 @@
     "title": "Bedrockくんさぁ、毎朝天気教えてくれない？",
     "link": "https://qiita.com/yakumo_09/items/0c575eed2973e6953fee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T00:06:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiro×CodeXで最高のSpec駆動開発を！数時間でWeb3ネイティブなアプリを開発してハッカソンで入賞した話",
-    "link": "https://zenn.dev/mashharuki/articles/web3_ai_vibecoding",
-    "pubDate": "Sat, 20 Sep 2025 13:58:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "@hono/mcpでAWS LambdaにリモートMCPサーバを構築する",
-    "link": "https://zenn.dev/yokomachi/articles/202509_hono_lambda_mcp",
-    "pubDate": "Sat, 20 Sep 2025 13:13:58 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "モノリス・マイクロサービスの違いとモダナイゼーションについて",
-    "link": "https://qiita.com/k12da/items/8ef4fc446425a057f7da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-20T13:07:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone 17 Proを見て思った。Appleはジョブズと決別したのだと…",
-    "link": "https://www.gizmodo.jp/2025/09/iphone-17-pro-first-impression.html",
-    "pubDate": "2025-09-20T12:46:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Server Less Code Moreキーノートレポート【ServerlessDays 2025】",
-    "link": "https://qiita.com/har1101/items/49745c0a15b0b1f8d6ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-20T07:35:35.000Z"
   },
   {
     "site": "Qiita",
@@ -160,12 +166,6 @@
     "title": "「複雑な業務ロジック」が読みづらいのは「記述が分散」しているから",
     "link": "https://qiita.com/panda728z/items/7182a3ac53040818735e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-19T21:50:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Azure ×  AWS 類似サービスあるの?",
-    "link": "https://qiita.com/yoshiiii10/items/ab23c86bb7a1a949b9dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-19T10:17:05.000Z"
   },
   {
     "site": "Qiita",
