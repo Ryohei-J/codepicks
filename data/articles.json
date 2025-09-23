@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "前世代からノイズキャンセリング性能が2倍に向上したApple「AirPods Pro 3」はどう進化したのか？AirPods Pro 2と聴き比べてみた",
+    "link": "https://gigazine.net/news/20250922-apple-airpods-pro-3-usage/",
+    "pubDate": "2025-09-22T13:56:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「RubyGems」のGitHub Enterpriseが勝手に「Ruby Central」に改名されて既存のメンテナが追放される事態が発生",
+    "link": "https://gigazine.net/news/20250922-ruby-centrals-attack-on-rubygems/",
+    "pubDate": "2025-09-22T13:12:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "超音波のパワーで食材をスイスイ切れる「超音波包丁」が登場、実際に切っている様子を見せる動画も",
     "link": "https://gigazine.net/news/20250922-worlds-first-ultrasonic-chefs-knife/",
     "pubDate": "2025-09-22T11:24:46.000Z"
@@ -30,10 +42,22 @@
     "pubDate": "Mon, 22 Sep 2025 08:33:02 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Codexを使うあなたへ。おすすめ設定&MCP集",
+    "link": "https://zenn.dev/chiji/articles/57cb52773391ab",
+    "pubDate": "Mon, 22 Sep 2025 08:19:32 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "国勢調査の人が来たが、本物かどうかわからないのに家族構成などを聞かれて怖い→確かめ方やルールについて調査員経験者が教えてくれた",
-    "link": "https://togetter.com/li/2606069",
-    "pubDate": "2025-09-22T05:35:25.000Z"
+    "title": "あなたのお気に入りの“個人ホームぺージ”が10月1日に見られなくなっている可能性も！？【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2049157.html",
+    "pubDate": "2025-09-22T08:05:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "New Relicのダッシュボードを公開！Public dashboard徹底解説",
+    "link": "https://qiita.com/yseki1985/items/a5c4063458fea7907cbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-22T03:57:35.000Z"
   },
   {
     "site": "Zenn",
@@ -49,27 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "モバイル端末の指紋認証、顔認証ってセキュリティ強度低くない？",
-    "link": "https://anond.hatelabo.jp/20250922094439",
-    "pubDate": "2025-09-22T00:45:52.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "グーグル画像生成AI「Nano Banana」超便利に使える“神アプリ”　AI開発で続々登場 (1/5)",
     "link": "https://ascii.jp/elem/000/004/321/4321306/",
     "pubDate": "2025-09-21T23:21:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "親がInstagramに投稿した中学生の娘の顔写真や名前をMetaが30代男性向けの「エサ」としてThreads宣伝に利用していた",
-    "link": "https://gigazine.net/news/20250922-parents-outraged-meta-uses-photos-schoolgirls/",
-    "pubDate": "2025-09-21T23:17:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GleamのJSターゲットにおける天国と地獄",
-    "link": "https://zenn.dev/comamoca/articles/2025-09-22-gleam-js-target-haven-and-hell",
-    "pubDate": "Sun, 21 Sep 2025 19:42:12 GMT"
   },
   {
     "site": "Zenn",
@@ -91,12 +97,6 @@
   },
   {
     "site": "Zenn",
-    "title": "C#の理解が10年古い、と言われたのでCloud Runにデプロイしてみた",
-    "link": "https://zenn.dev/koduki/articles/dotnet20250920",
-    "pubDate": "2025-09-21T12:42:47.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "Moonbit がもう少しで実用できそうな気配",
     "link": "https://zenn.dev/mizchi/articles/how-to-write-moonbit",
     "pubDate": "Sun, 21 Sep 2025 12:42:20 GMT"
@@ -106,12 +106,6 @@
     "title": "E資格合格までの軌跡【半年間耐えた先に見えたもの】",
     "link": "https://qiita.com/m_mato/items/f0aceab32ab9e24b9fe4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T11:34:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】自分のスキルの課題点を登録するとAIが解決策+サンプル動画を提示してくれるアプリを作りました【React×TypeScript×Gemini】",
-    "link": "https://qiita.com/nagi-0106/items/c32ea93fd93252401b5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T10:50:59.000Z"
   },
   {
     "site": "Qiita",
@@ -166,6 +160,12 @@
     "title": "はじめてWeb開発をする人のためのチュートリアル (Visual Studio Codeの設定方法を含む)",
     "link": "https://qiita.com/Todev89/items/46f6b2efa4d462e50bb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-20T06:19:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最新のAI コードレビューを導入してみたら意外とスムーズだった話",
+    "link": "https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua",
+    "pubDate": "2025-09-20T04:59:15.000Z"
   },
   {
     "site": "Qiita",
