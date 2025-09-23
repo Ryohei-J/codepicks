@@ -1,21 +1,51 @@
 [
   {
-    "site": "Hatena",
-    "title": "前世代からノイズキャンセリング性能が2倍に向上したApple「AirPods Pro 3」はどう進化したのか？AirPods Pro 2と聴き比べてみた",
-    "link": "https://gigazine.net/news/20250922-apple-airpods-pro-3-usage/",
-    "pubDate": "2025-09-22T13:56:01.000Z"
+    "site": "Zenn",
+    "title": "Codexを使うあなたへ。おすすめ設定&MCP集",
+    "link": "https://zenn.dev/chiji/articles/57cb52773391ab",
+    "pubDate": "2025-09-23T04:02:22.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「RubyGems」のGitHub Enterpriseが勝手に「Ruby Central」に改名されて既存のメンテナが追放される事態が発生",
-    "link": "https://gigazine.net/news/20250922-ruby-centrals-attack-on-rubygems/",
-    "pubDate": "2025-09-22T13:12:26.000Z"
+    "title": "米半導体大手 エヌビディア オープンAIに最大15兆円投資へ | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250923/k10014930001000.html",
+    "pubDate": "2025-09-23T02:07:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "調査報告書：Ruby on Rails作者 DHH（David Heinemeier Hansson）の政治的思想",
+    "link": "https://paste.ssig33.com/d7e1df71-9fd1-4f64-b25e-af46bf81dd0b",
+    "pubDate": "2025-09-22T18:20:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "無料版Google ColabでMoE付きTransformerの事前学習をしてみる",
+    "link": "https://zenn.dev/asap/articles/ebb19ae30aa2b9",
+    "pubDate": "Mon, 22 Sep 2025 17:04:38 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「楽天トラベル」にAIエージェント機能　対話しながら宿探し",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2509/22/news116.html",
+    "pubDate": "2025-09-22T12:49:04.000Z"
   },
   {
     "site": "Hatena",
     "title": "超音波のパワーで食材をスイスイ切れる「超音波包丁」が登場、実際に切っている様子を見せる動画も",
     "link": "https://gigazine.net/news/20250922-worlds-first-ultrasonic-chefs-knife/",
     "pubDate": "2025-09-22T11:24:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "The Ruby community has a DHH problem",
+    "link": "https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem",
+    "pubDate": "2025-09-22T10:00:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Terraform 1.14】terraform query コマンドで既存リソースを一括 import する",
+    "link": "https://zenn.dev/terraform_jp/articles/tf-query-bulk-import",
+    "pubDate": "Mon, 22 Sep 2025 09:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -30,12 +60,6 @@
     "pubDate": "2025-09-22T08:52:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「直近バイアス」からの脱却。NotebookLMを使った客観的フィードバック術！ | Wantedly, Inc.",
-    "link": "https://www.wantedly.com/companies/wantedly/post_articles/1006461",
-    "pubDate": "2025-09-22T08:40:20.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "日本語でコードを検索したい(on Neovim)",
     "link": "https://zenn.dev/sirasagi62/articles/88cd334751670f",
@@ -48,10 +72,16 @@
     "pubDate": "Mon, 22 Sep 2025 08:19:32 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "あなたのお気に入りの“個人ホームぺージ”が10月1日に見られなくなっている可能性も！？【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2049157.html",
-    "pubDate": "2025-09-22T08:05:04.000Z"
+    "site": "Zenn",
+    "title": "JavaScript で人と同じように文字数を数える",
+    "link": "https://zenn.dev/luvmini511/articles/b5ea4d537081c2",
+    "pubDate": "Mon, 22 Sep 2025 07:46:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RTX 3060の最適な電力制約を検討する",
+    "link": "https://zenn.dev/robustonian/articles/nvidia-power-limit-optimization",
+    "pubDate": "Mon, 22 Sep 2025 04:08:13 GMT"
   },
   {
     "site": "Qiita",
@@ -64,12 +94,6 @@
     "title": "LoRAの進化：基礎から最新のLoRA-Proまで",
     "link": "https://zenn.dev/mkj/articles/11168509d10eb4",
     "pubDate": "Mon, 22 Sep 2025 02:50:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソフトウェアエンジニアがプロダクトにオーナーシップを持てないアンチパターン、構造 - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く",
-    "link": "https://nekogata.hatenablog.com/entry/2025/09/22/094637",
-    "pubDate": "2025-09-22T01:26:20.000Z"
   },
   {
     "site": "Hatena",
@@ -96,12 +120,6 @@
     "pubDate": "Sun, 21 Sep 2025 12:54:57 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Moonbit がもう少しで実用できそうな気配",
-    "link": "https://zenn.dev/mizchi/articles/how-to-write-moonbit",
-    "pubDate": "Sun, 21 Sep 2025 12:42:20 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "E資格合格までの軌跡【半年間耐えた先に見えたもの】",
     "link": "https://qiita.com/m_mato/items/f0aceab32ab9e24b9fe4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -112,12 +130,6 @@
     "title": "React学習ログ No.4",
     "link": "https://qiita.com/maedaHARUYA/items/f5d00ec82705a819b6fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T10:50:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントを脱線させないプロンプト設計の実践ガイド",
-    "link": "https://zenn.dev/toccasystems/articles/ai-agent-guardrail-prompt-tips",
-    "pubDate": "Sun, 21 Sep 2025 10:08:20 GMT"
   },
   {
     "site": "Qiita",
@@ -136,18 +148,6 @@
     "title": "ChatGPTからQiita記事を直接投稿する【qiita-mcp-server】",
     "link": "https://qiita.com/7mpy/items/f3e8503e89832afbbf36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T07:42:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "生成AIで1枚の写真からフィギュアの3Dデータ生成して3Dプリントするまで",
-    "link": "https://zenn.dev/karaage0703/articles/3d6bb2170f42bd",
-    "pubDate": "Sun, 21 Sep 2025 06:34:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSS大解剖 3日目: 「閲覧環境 1/3」",
-    "link": "https://zenn.dev/qnighy/articles/42aa14d8ca61f1",
-    "pubDate": "Sun, 21 Sep 2025 02:58:35 GMT"
   },
   {
     "site": "Qiita",
