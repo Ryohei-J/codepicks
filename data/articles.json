@@ -1,9 +1,21 @@
 [
   {
+    "site": "Hatena",
+    "title": "NVIDIA、超知能へOpenAIと強者連合　AI一強の果実を再投資 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN22BHO0S5A920C2000000/",
+    "pubDate": "2025-09-23T06:19:04.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Codexを使うあなたへ。おすすめ設定&MCP集",
     "link": "https://zenn.dev/chiji/articles/57cb52773391ab",
     "pubDate": "2025-09-23T04:02:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "都市部の自動運転を支えるマップマッチング",
+    "link": "https://zenn.dev/turing_motors/articles/fa2863fc6e0bdd",
+    "pubDate": "Tue, 23 Sep 2025 02:25:23 GMT"
   },
   {
     "site": "Hatena",
@@ -13,9 +25,39 @@
   },
   {
     "site": "Hatena",
+    "title": "｢まるでぼったくり｣無事故なのに6万5000円…レンタカー会社が\"見えない傷\"に修理代を請求し始めたワケ 海外メディアが報じた｢AIカメラ｣の功罪",
+    "link": "https://president.jp/articles/-/102619",
+    "pubDate": "2025-09-23T00:43:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TikTokがゼロ知識証明の開発を始めた話",
+    "link": "https://zenn.dev/mameta29/articles/d05f0c9d9dff90",
+    "pubDate": "Tue, 23 Sep 2025 00:38:17 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【10項目で比較】Claude Code vs Codex CLI どっちを選ぶべき？観点別にポイントを解説してみた",
+    "link": "https://qiita.com/tomada/items/c369d5f28142a2599a36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-22T21:10:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Glideで手軽にメンバーの在社確認アプリを作ってみた",
+    "link": "https://qiita.com/firel1192/items/951a340d35b0c5c611c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-22T20:05:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "調査報告書：Ruby on Rails作者 DHH（David Heinemeier Hansson）の政治的思想",
     "link": "https://paste.ssig33.com/d7e1df71-9fd1-4f64-b25e-af46bf81dd0b",
     "pubDate": "2025-09-22T18:20:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "TeamsのAIワークフローって何？CopilotやPower Automateと何が違うの？",
+    "link": "https://qiita.com/Oyu3m/items/b9c3ac3efb6f7cd6ebaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-22T17:17:21.000Z"
   },
   {
     "site": "Zenn",
@@ -25,15 +67,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「楽天トラベル」にAIエージェント機能　対話しながら宿探し",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2509/22/news116.html",
-    "pubDate": "2025-09-22T12:49:04.000Z"
+    "title": "そのJavaScript、V8が泣いてます。V8の気持ちを理解して書くパフォーマンス最適化",
+    "link": "https://speakerdeck.com/riyaamemiya/sonojavascript-v8gaqi-itemasu-v8noqi-chi-tiwoli-jie-siteshu-kupahuomansuzui-shi-hua",
+    "pubDate": "2025-09-22T12:55:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "超音波のパワーで食材をスイスイ切れる「超音波包丁」が登場、実際に切っている様子を見せる動画も",
-    "link": "https://gigazine.net/news/20250922-worlds-first-ultrasonic-chefs-knife/",
-    "pubDate": "2025-09-22T11:24:46.000Z"
+    "site": "Qiita",
+    "title": "Strands Angetsのちょっと進んだ使い方（セッション管理と会話管理）",
+    "link": "https://qiita.com/moritalous/items/803a2584d561881c52e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-22T12:34:58.000Z"
   },
   {
     "site": "Hatena",
@@ -78,16 +120,16 @@
     "pubDate": "Mon, 22 Sep 2025 07:46:36 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "CI/CD完全攻略！現場エンジニアが教えるAPIテスト不足の解決法",
+    "link": "https://qiita.com/Nakamura-Kaito/items/8c56e7402a8fe5081e33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-22T07:00:32.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "RTX 3060の最適な電力制約を検討する",
     "link": "https://zenn.dev/robustonian/articles/nvidia-power-limit-optimization",
     "pubDate": "Mon, 22 Sep 2025 04:08:13 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "New Relicのダッシュボードを公開！Public dashboard徹底解説",
-    "link": "https://qiita.com/yseki1985/items/a5c4063458fea7907cbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-22T03:57:35.000Z"
   },
   {
     "site": "Zenn",
@@ -96,28 +138,16 @@
     "pubDate": "Mon, 22 Sep 2025 02:50:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "グーグル画像生成AI「Nano Banana」超便利に使える“神アプリ”　AI開発で続々登場 (1/5)",
-    "link": "https://ascii.jp/elem/000/004/321/4321306/",
-    "pubDate": "2025-09-21T23:21:36.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AWSコスト見積もりエージェントを自作！Bedrock AgentCoreワークショップで学んだローカルからクラウドデプロイまで",
     "link": "https://zenn.dev/mashharuki/articles/aws-agentcore_1",
     "pubDate": "Sun, 21 Sep 2025 15:36:42 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "フロントエンドカンファレンス東京2025登壇資料集",
-    "link": "https://zenn.dev/topi_log/articles/ac476d3fb6eff1",
-    "pubDate": "Sun, 21 Sep 2025 15:32:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "monorepo でも pnpm の利用を強制させる",
-    "link": "https://zenn.dev/arjef/articles/enforce-pnpm-usage-in-monorepo",
-    "pubDate": "Sun, 21 Sep 2025 12:54:57 GMT"
+    "site": "Qiita",
+    "title": "Windows上でのAvalonia UIクロスプラットフォームアプリケーション開発",
+    "link": "https://qiita.com/EndOfData/items/125f92589dcefff33a2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T14:28:05.000Z"
   },
   {
     "site": "Qiita",
@@ -127,21 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "React学習ログ No.4",
-    "link": "https://qiita.com/maedaHARUYA/items/f5d00ec82705a819b6fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T10:50:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】QAエンジニア、テスターを救うファイルダウンロードアプリを作りました【React/Typecript/Python】",
-    "link": "https://qiita.com/aru_hacker_dog/items/f5cef9ae3c319a757529?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T10:01:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "iOSDC 2025セッション資料まとめ",
-    "link": "https://qiita.com/yuukiw00w/items/3446dcab3d0cab49f871?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T08:40:43.000Z"
+    "title": "【個人開発】自分のスキルの課題点を登録するとAIが解決策+サンプル動画を提示してくれるアプリを作りました【React×TypeScript×Gemini】",
+    "link": "https://qiita.com/nagi-0106/items/c32ea93fd93252401b5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-21T10:50:59.000Z"
   },
   {
     "site": "Qiita",
@@ -156,27 +174,9 @@
     "pubDate": "2025-09-21T01:34:40.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "はじめてWeb開発をする人のためのチュートリアル (Visual Studio Codeの設定方法を含む)",
-    "link": "https://qiita.com/Todev89/items/46f6b2efa4d462e50bb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-20T06:19:35.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "最新のAI コードレビューを導入してみたら意外とスムーズだった話",
     "link": "https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua",
     "pubDate": "2025-09-20T04:59:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【仕様駆動開発】cc-sddならKiro式も簡単！Claude Code/Cursor/Gemini CLI に使える国産ツール",
-    "link": "https://qiita.com/tomada/items/6a04114fc41d0b86ffee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-19T23:11:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「複雑な業務ロジック」が読みづらいのは「記述が分散」しているから",
-    "link": "https://qiita.com/panda728z/items/7182a3ac53040818735e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-19T21:50:49.000Z"
   }
 ]
