@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "非実在キャラの「合意」とは？ Blueskyの新しいコミュニティガイドラインがいろいろと波紋【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2049363.html",
+    "pubDate": "2025-09-24T03:02:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「頭はいい上司」が組織を壊す話",
+    "link": "https://blog.tinect.jp/?p=90220",
+    "pubDate": "2025-09-23T23:30:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "これは場外ホームラン!!　日産の次世代プロパイロットが自動運転の「レベル議論」のナナメ上を越えてきた件!!! - 自動車情報誌「ベストカー」",
     "link": "https://bestcarweb.jp/newcar/1327945",
     "pubDate": "2025-09-23T23:15:48.000Z"
@@ -10,6 +22,18 @@
     "title": "ユーザーのスマホから気圧情報も収集→位置情報ビッグデータの「高さ情報による階層分離」実用化【地図と位置情報】",
     "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/2049032.html",
     "pubDate": "2025-09-23T22:34:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMへの指示が得意な人は脳の働きが違う──「プロンプト力」がfMRI研究で初めて科学的に確認される | Ledge.ai",
+    "link": "https://ledge.ai/articles/llm_prompting_brain_fmri_study",
+    "pubDate": "2025-09-23T21:57:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GPT-5-Codex Prompting Guide | OpenAI Cookbook",
+    "link": "https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide",
+    "pubDate": "2025-09-23T21:16:48.000Z"
   },
   {
     "site": "Hatena",
@@ -24,16 +48,16 @@
     "pubDate": "2025-09-23T16:41:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "大規模メンテナンスを振り返る 〜「やってよかった」準備集 - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2025/09/23/150000",
-    "pubDate": "2025-09-23T16:00:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "TikTokがゼロ知識証明の開発を始めた話",
     "link": "https://zenn.dev/mameta29/articles/d05f0c9d9dff90",
     "pubDate": "2025-09-23T14:24:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカル環境でQwen3-Omniを動かす",
+    "link": "https://zenn.dev/robustonian/articles/local_qwen3_omni",
+    "pubDate": "Tue, 23 Sep 2025 13:48:26 GMT"
   },
   {
     "site": "Qiita",
@@ -46,18 +70,6 @@
     "title": "AIで変わる開発現場！2025年注目の生産性向上ツール14選",
     "link": "https://qiita.com/takuya77088/items/79fa2e2595064071fba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-23T07:44:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "実務で役立つ ログの教科書 基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで | 翔泳社",
-    "link": "https://www.shoeisha.co.jp/book/detail/9784798192123",
-    "pubDate": "2025-09-23T04:05:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codexを使うあなたへ。おすすめ設定&MCP集",
-    "link": "https://zenn.dev/chiji/articles/57cb52773391ab",
-    "pubDate": "2025-09-23T04:02:22.000Z"
   },
   {
     "site": "Zenn",
@@ -102,12 +114,6 @@
     "pubDate": "Mon, 22 Sep 2025 17:04:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "そのJavaScript、V8が泣いてます。V8の気持ちを理解して書くパフォーマンス最適化",
-    "link": "https://speakerdeck.com/riyaamemiya/sonojavascript-v8gaqi-itemasu-v8noqi-chi-tiwoli-jie-siteshu-kupahuomansuzui-shi-hua",
-    "pubDate": "2025-09-22T12:55:37.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【JavaScript】JSのパイプライン演算子の話を聞かなくなったけど今どうなってんの？",
     "link": "https://qiita.com/rana_kualu/items/0ca572459a0daeb385d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -148,12 +154,6 @@
     "title": "RTX 3060の最適な電力制約を検討する",
     "link": "https://zenn.dev/robustonian/articles/nvidia-power-limit-optimization",
     "pubDate": "Mon, 22 Sep 2025 04:08:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LoRAの進化：基礎から最新のLoRA-Proまで",
-    "link": "https://zenn.dev/mkj/articles/11168509d10eb4",
-    "pubDate": "Mon, 22 Sep 2025 02:50:01 GMT"
   },
   {
     "site": "Qiita",
