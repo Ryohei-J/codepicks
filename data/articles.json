@@ -1,9 +1,39 @@
 [
   {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 配列#1 〜配列を完全攻略！-基礎編-～",
+    "link": "https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T05:20:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "マネージャーが1on1でメンバーに話してほしいこと1/nの意見",
+    "link": "https://qiita.com/moromi25/items/d03eb4d0104b4435e5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T05:06:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "あのさあファーストブクマ",
+    "link": "https://anond.hatelabo.jp/20250924122708",
+    "pubDate": "2025-09-24T03:42:55.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "非実在キャラの「合意」とは？ Blueskyの新しいコミュニティガイドラインがいろいろと波紋【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2049363.html",
     "pubDate": "2025-09-24T03:02:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【C#】CsSqlite - .NET / Unity向けのハイパフォーマンスなSQLiteライブラリ",
+    "link": "https://zenn.dev/nuskey/articles/library-cssqlite",
+    "pubDate": "Wed, 24 Sep 2025 01:35:49 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Oracle Cloud Compute IOパフォーマンス MAXスピード・チャレンジ:  600万IOPS, 200Gbpsスループット出してみてみた",
+    "link": "https://qiita.com/shirok/items/595fb999e0621fe6956e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T00:53:42.000Z"
   },
   {
     "site": "Hatena",
@@ -49,6 +79,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Neovimのログを揮発させて肥大化を防止する",
+    "link": "https://zenn.dev/vim_jp/articles/c96e9b1bdb9241",
+    "pubDate": "Tue, 23 Sep 2025 15:04:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "TikTokがゼロ知識証明の開発を始めた話",
     "link": "https://zenn.dev/mameta29/articles/d05f0c9d9dff90",
     "pubDate": "2025-09-23T14:24:18.000Z"
@@ -66,16 +102,22 @@
     "pubDate": "2025-09-23T11:31:42.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "デジタル庁サイトのアクセシビリティはすごい",
+    "link": "https://zenn.dev/tmkst/articles/7a806e10b72a40",
+    "pubDate": "Tue, 23 Sep 2025 09:27:59 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AIで変わる開発現場！2025年注目の生産性向上ツール14選",
     "link": "https://qiita.com/takuya77088/items/79fa2e2595064071fba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-23T07:44:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "RAGを30倍速くするMetaの新技術「REFRAG」",
-    "link": "https://zenn.dev/knowledgesense/articles/68089e123a636b",
-    "pubDate": "2025-09-23T03:51:35.000Z"
+    "site": "Qiita",
+    "title": "React学習ログ No.5",
+    "link": "https://qiita.com/maedaHARUYA/items/6d1db72bb1c0ceadf350?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-23T07:23:56.000Z"
   },
   {
     "site": "Zenn",
@@ -91,15 +133,15 @@
   },
   {
     "site": "Zenn",
+    "title": "CUDA PythonではじめるCUDAプログラミング",
+    "link": "https://zenn.dev/bobtk/articles/26925007b68726",
+    "pubDate": "Tue, 23 Sep 2025 00:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "RAGを30倍速くするMetaの新技術「REFRAG」",
     "link": "https://zenn.dev/knowledgesense/articles/68089e123a636b",
     "pubDate": "Mon, 22 Sep 2025 23:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code vs Codex CLI どっちを選ぶ？両方使ってきた経験から観点別にポイントを解説",
-    "link": "https://qiita.com/tomada/items/c369d5f28142a2599a36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-22T21:10:09.000Z"
   },
   {
     "site": "Qiita",
@@ -121,27 +163,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【Terraform 1.14】terraform query コマンドで既存リソースを一括 import する",
-    "link": "https://zenn.dev/terraform_jp/articles/tf-query-bulk-import",
-    "pubDate": "Mon, 22 Sep 2025 09:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "日本語でコードを検索したい(on Neovim)",
-    "link": "https://zenn.dev/sirasagi62/articles/88cd334751670f",
-    "pubDate": "Mon, 22 Sep 2025 08:33:02 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Codexを使うあなたへ。おすすめ設定&MCP集",
     "link": "https://zenn.dev/chiji/articles/57cb52773391ab",
     "pubDate": "Mon, 22 Sep 2025 08:19:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "JavaScript で人と同じように文字数を数える",
-    "link": "https://zenn.dev/luvmini511/articles/b5ea4d537081c2",
-    "pubDate": "Mon, 22 Sep 2025 07:46:36 GMT"
   },
   {
     "site": "Qiita",
@@ -150,33 +174,9 @@
     "pubDate": "2025-09-22T07:00:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "RTX 3060の最適な電力制約を検討する",
-    "link": "https://zenn.dev/robustonian/articles/nvidia-power-limit-optimization",
-    "pubDate": "Mon, 22 Sep 2025 04:08:13 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Windows上でのAvalonia UIクロスプラットフォームアプリケーション開発",
-    "link": "https://qiita.com/EndOfData/items/125f92589dcefff33a2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T14:28:05.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "E資格合格までの軌跡【半年間耐えた先に見えたもの】",
     "link": "https://qiita.com/m_mato/items/f0aceab32ab9e24b9fe4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T11:34:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ChatGPTからQiita記事を直接投稿する【qiita-mcp-server】",
-    "link": "https://qiita.com/7mpy/items/f3e8503e89832afbbf36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T07:42:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "うんち検知IoT：Raspberry Piが愛犬の大事件を見逃さない",
-    "link": "https://qiita.com/RaspiKoubou/items/59f4ec31dbd0dd4bbfb9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T01:34:40.000Z"
   }
 ]
