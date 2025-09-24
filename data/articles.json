@@ -1,21 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "これは場外ホームラン!!　日産の次世代プロパイロットが自動運転の「レベル議論」のナナメ上を越えてきた件!!! - 自動車情報誌「ベストカー」",
+    "link": "https://bestcarweb.jp/newcar/1327945",
+    "pubDate": "2025-09-23T23:15:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ユーザーのスマホから気圧情報も収集→位置情報ビッグデータの「高さ情報による階層分離」実用化【地図と位置情報】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/2049032.html",
+    "pubDate": "2025-09-23T22:34:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS Toolkit for VS Codeとローカルマシン上でAWSをエミュレートするLocalStackが統合可能に。ローカルでAWS Lambdaの開発やテストが容易に",
+    "link": "https://www.publickey1.jp/blog/25/aws_toolkit_for_vs_codeawslocalstackaws_lambda.html",
+    "pubDate": "2025-09-23T20:49:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers",
+    "link": "https://developer.chrome.com/blog/chrome-devtools-mcp",
+    "pubDate": "2025-09-23T16:41:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "大規模メンテナンスを振り返る 〜「やってよかった」準備集 - エムスリーテックブログ",
     "link": "https://www.m3tech.blog/entry/2025/09/23/150000",
     "pubDate": "2025-09-23T16:00:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Our plan for a more secure npm supply chain",
-    "link": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
-    "pubDate": "2025-09-23T08:55:18.000Z"
+    "site": "Zenn",
+    "title": "TikTokがゼロ知識証明の開発を始めた話",
+    "link": "https://zenn.dev/mameta29/articles/d05f0c9d9dff90",
+    "pubDate": "2025-09-23T14:24:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS初心者がJAWS-UG運営になった話",
+    "link": "https://qiita.com/tks_1128/items/08b7ca80868117bd702c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-23T11:31:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIで変わる開発現場！2025年注目の生産性向上ツール14選",
+    "link": "https://qiita.com/takuya77088/items/79fa2e2595064071fba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-23T07:44:25.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「顔をぐるぐるする加工は反対に回せば戻せる」というので例の渦巻き着物女性の渦を解こうとしてみるも全然元に戻らない…御本人が対策済みと明かす",
-    "link": "https://togetter.com/li/2606480",
-    "pubDate": "2025-09-23T07:39:57.000Z"
+    "title": "実務で役立つ ログの教科書 基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで | 翔泳社",
+    "link": "https://www.shoeisha.co.jp/book/detail/9784798192123",
+    "pubDate": "2025-09-23T04:05:12.000Z"
   },
   {
     "site": "Zenn",
@@ -36,34 +72,22 @@
     "pubDate": "Tue, 23 Sep 2025 02:25:23 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "米半導体大手 エヌビディア オープンAIに最大15兆円投資へ | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250923/k10014930001000.html",
-    "pubDate": "2025-09-23T02:07:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "｢まるでぼったくり｣無事故なのに6万5000円…レンタカー会社が\"見えない傷\"に修理代を請求し始めたワケ 海外メディアが報じた｢AIカメラ｣の功罪",
-    "link": "https://president.jp/articles/-/102619",
-    "pubDate": "2025-09-23T00:43:22.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "TikTokがゼロ知識証明の開発を始めた話",
     "link": "https://zenn.dev/mameta29/articles/d05f0c9d9dff90",
     "pubDate": "Tue, 23 Sep 2025 00:38:17 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "RAGを30倍速くするMetaの新技術「REFRAG」",
+    "link": "https://zenn.dev/knowledgesense/articles/68089e123a636b",
+    "pubDate": "Mon, 22 Sep 2025 23:00:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code vs Codex CLI どっちを選ぶ？両方使ってきた経験から観点別にポイントを解説",
     "link": "https://qiita.com/tomada/items/c369d5f28142a2599a36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-22T21:10:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Glideで手軽にメンバーの在社確認アプリを作ってみた",
-    "link": "https://qiita.com/firel1192/items/951a340d35b0c5c611c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-22T20:05:37.000Z"
   },
   {
     "site": "Qiita",
@@ -85,15 +109,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Strands Angetsのちょっと進んだ使い方（セッション管理と会話管理）",
-    "link": "https://qiita.com/moritalous/items/803a2584d561881c52e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-22T12:34:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "The Ruby community has a DHH problem",
-    "link": "https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem",
-    "pubDate": "2025-09-22T10:00:52.000Z"
+    "title": "【JavaScript】JSのパイプライン演算子の話を聞かなくなったけど今どうなってんの？",
+    "link": "https://qiita.com/rana_kualu/items/0ca572459a0daeb385d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-22T12:30:55.000Z"
   },
   {
     "site": "Zenn",
@@ -138,12 +156,6 @@
     "pubDate": "Mon, 22 Sep 2025 02:50:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AWSコスト見積もりエージェントを自作！Bedrock AgentCoreワークショップで学んだローカルからクラウドデプロイまで",
-    "link": "https://zenn.dev/mashharuki/articles/aws-agentcore_1",
-    "pubDate": "Sun, 21 Sep 2025 15:36:42 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Windows上でのAvalonia UIクロスプラットフォームアプリケーション開発",
     "link": "https://qiita.com/EndOfData/items/125f92589dcefff33a2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -157,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【個人開発】自分のスキルの課題点を登録するとAIが解決策+サンプル動画を提示してくれるアプリを作りました【React×TypeScript×Gemini】",
-    "link": "https://qiita.com/nagi-0106/items/c32ea93fd93252401b5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-21T10:50:59.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "ChatGPTからQiita記事を直接投稿する【qiita-mcp-server】",
     "link": "https://qiita.com/7mpy/items/f3e8503e89832afbbf36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T07:42:34.000Z"
@@ -172,11 +178,5 @@
     "title": "うんち検知IoT：Raspberry Piが愛犬の大事件を見逃さない",
     "link": "https://qiita.com/RaspiKoubou/items/59f4ec31dbd0dd4bbfb9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-21T01:34:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "最新のAI コードレビューを導入してみたら意外とスムーズだった話",
-    "link": "https://speakerdeck.com/zabeth129/zui-xin-noai-kodorebiyuwodao-ru-sitemitarayi-wai-tosumuzudatutahua",
-    "pubDate": "2025-09-20T04:59:15.000Z"
   }
 ]
