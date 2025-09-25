@@ -1,21 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "シリコンに溝を刻んで直接冷媒を流し込む冷却技術の実験にMicrosoftが成功",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2049886.html",
+    "pubDate": "2025-09-25T05:33:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "パナソニック、漕がないママチャリ「MU」　特定原付に参入",
+    "link": "https://www.watch.impress.co.jp/docs/news/2049607.html",
+    "pubDate": "2025-09-25T05:18:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeに上手くコンテキストを渡すためのTips",
+    "link": "https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4",
+    "pubDate": "Thu, 25 Sep 2025 03:00:01 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "Macは本当にウイルス対策ソフト不要？ 130種類以上のマルウェアによる検証結果が話題に【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2049786.html",
     "pubDate": "2025-09-25T02:37:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "世界初の共同開発 ― Keychron × ギズモード、新型トラックボールデバイスをTGS2025で初披露 || メディアジーン | Mediagene",
-    "link": "https://www.mediagene.co.jp/2025/09/19403.html",
-    "pubDate": "2025-09-25T02:16:01.000Z"
+    "site": "Zenn",
+    "title": "『AI に使われた』と感じてから始めた3つのこと",
+    "link": "https://zenn.dev/wataryooou/articles/9e55e5130c6602",
+    "pubDate": "Thu, 25 Sep 2025 02:30:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenAI Agents SDKとの5回の試行錯誤でAIエージェント機能実装を成功させた話",
+    "link": "https://zenn.dev/explaza/articles/0f690ff367d6e4",
+    "pubDate": "Thu, 25 Sep 2025 02:24:54 GMT"
   },
   {
     "site": "Hatena",
     "title": "『あっ、本番環境…』をなくしたい。LLM活用でGitHub Actions色分けchrome拡張作成 - MonotaRO Tech Blog",
     "link": "https://tech-blog.monotaro.com/entry/2025/09/25/090000",
     "pubDate": "2025-09-25T00:28:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "useSyncExternalStoreを使ったSSRの判定",
+    "link": "https://zenn.dev/aishift/articles/74c3169df45383",
+    "pubDate": "Thu, 25 Sep 2025 00:09:55 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "その「1週間」見積もり、本当に大丈夫？ - なぜ、あなたの仕事は終わらないのか①",
+    "link": "https://qiita.com/ikeyaH/items/10b7fd7e1b57b4eb62cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T23:27:19.000Z"
   },
   {
     "site": "Hatena",
@@ -36,22 +72,34 @@
     "pubDate": "2025-09-24T14:26:41.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIで理想の自分は作れる！ AIメイクアップガイド Ejan",
+    "link": "https://zenn.dev/takkuhiro/articles/ejan-hackathon",
+    "pubDate": "Wed, 24 Sep 2025 12:06:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Zenn記事をより直感的に書ける！〜 Zenn CLI対応WYSIWYGエディタのすゝめ 〜",
+    "link": "https://zenn.dev/karintou/articles/zenn-cli-wysiwyg",
+    "pubDate": "Wed, 24 Sep 2025 10:37:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Codex Cloud の PR レビュー機能を試してみた",
+    "link": "https://zenn.dev/shintaro/articles/164e4a57412e72",
+    "pubDate": "Wed, 24 Sep 2025 10:09:36 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "AIが作りAIがプレイすれば「やらずにすむゲーム」の完成である - ABAの日誌",
     "link": "https://aba.hatenablog.com/entry/2025/09/24/190334",
     "pubDate": "2025-09-24T10:05:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグル「Nano Banana」級にすごい。無料の画像生成AI「Qwen-Image-Edit-2509」",
-    "link": "https://ascii.jp/elem/000/004/321/4321647/",
-    "pubDate": "2025-09-24T05:42:42.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 配列#1 〜配列を完全攻略！-基礎編-～",
-    "link": "https://qiita.com/hitomin_poke/items/725398ffb83ed0a836a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T05:20:35.000Z"
+    "title": "個人開発での売上が初任給を超えた話",
+    "link": "https://qiita.com/nakapon9517/items/14bf412fe169824cc824?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T09:47:44.000Z"
   },
   {
     "site": "Qiita",
@@ -67,39 +115,27 @@
   },
   {
     "site": "Zenn",
-    "title": "AI でデータ分析！Databricks Genie の活用事例",
-    "link": "https://zenn.dev/ivry/articles/ivry-ai-blog-relay-databricks-genie-20250924",
-    "pubDate": "Wed, 24 Sep 2025 03:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "JaSST'25 Kansai  に参加してきました！",
-    "link": "https://zenn.dev/dreamarts/articles/c9753224a079a0",
-    "pubDate": "Wed, 24 Sep 2025 02:59:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "JaSST'25 Tokyo  に参加してきました！",
-    "link": "https://zenn.dev/dreamarts/articles/c650a41ed803b9",
-    "pubDate": "Wed, 24 Sep 2025 02:58:42 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "【C#】CsSqlite - .NET / Unity向けのハイパフォーマンスなSQLiteライブラリ",
     "link": "https://zenn.dev/nuskey/articles/library-cssqlite",
     "pubDate": "Wed, 24 Sep 2025 01:35:49 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Oracle Cloud Compute IOパフォーマンス MAXスピード・チャレンジ:  600万IOPS, 200Gbpsスループット出してみてみた",
-    "link": "https://qiita.com/shirok/items/595fb999e0621fe6956e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T00:53:42.000Z"
+    "title": "LINE & Bedrockガードレールハンズオン!堅牢なChatBotを作る",
+    "link": "https://qiita.com/Syoitu/items/fe64b76b161074058826?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T01:01:11.000Z"
   },
   {
     "site": "Zenn",
     "title": "データサイエンスの文脈で理解するデザインパターン",
     "link": "https://zenn.dev/suikabar/articles/d742c01a973923",
     "pubDate": "Wed, 24 Sep 2025 00:14:33 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "7日間でハッキングを始める本を読んで理解した攻撃とその防御方法",
+    "link": "https://qiita.com/spec_kori/items/637d1964107887d26790?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T00:11:17.000Z"
   },
   {
     "site": "Zenn",
@@ -109,45 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【GIFTech×かずなり】エンジニアよ、オフラインを楽しもう！ Xフォロワー10万人 かずなり氏とGIFTechが語る、リアルな「越境経験」こそがAI時代の最強スキルである理由【GIFTech Cross-Talk vol.2 ゲスト：伊東和成】",
-    "link": "https://qiita.com/GIFCat/items/4d21ec588715605211f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-23T23:59:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Apple Accountが乗っ取られた時の対応について",
-    "link": "https://qiita.com/wst_0205/items/e7bfd66ecd9036e12523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-23T23:44:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカル環境でQwen3-Omniを動かす",
-    "link": "https://zenn.dev/robustonian/articles/local_qwen3_omni",
-    "pubDate": "Tue, 23 Sep 2025 13:48:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "デジタル庁サイトのアクセシビリティはすごい",
-    "link": "https://zenn.dev/tmkst/articles/7a806e10b72a40",
-    "pubDate": "Tue, 23 Sep 2025 09:27:59 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "AIで変わる開発現場！2025年注目の生産性向上ツール14選",
     "link": "https://qiita.com/takuya77088/items/79fa2e2595064071fba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-23T07:44:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "都市部の自動運転を支えるマップマッチング",
-    "link": "https://zenn.dev/turing_motors/articles/fa2863fc6e0bdd",
-    "pubDate": "Tue, 23 Sep 2025 02:25:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TikTokがゼロ知識証明の開発を始めた話",
-    "link": "https://zenn.dev/mameta29/articles/d05f0c9d9dff90",
-    "pubDate": "Tue, 23 Sep 2025 00:38:17 GMT"
   },
   {
     "site": "Qiita",
@@ -169,9 +169,9 @@
   },
   {
     "site": "Qiita",
-    "title": "CI/CD完全攻略！現場エンジニアが教えるAPIテスト不足の解決法",
-    "link": "https://qiita.com/Nakamura-Kaito/items/8c56e7402a8fe5081e33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-22T07:00:32.000Z"
+    "title": "毎週200万回DLされているパッケージをnpm install するだけで感染する、サプライチェーン攻撃の進化",
+    "link": "https://qiita.com/remtakechi/items/8b36aaf37c1305824980?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-22T08:01:33.000Z"
   },
   {
     "site": "Zenn",
