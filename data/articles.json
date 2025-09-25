@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "シリコンに溝を刻んで直接冷媒を流し込む冷却技術の実験にMicrosoftが成功",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2049886.html",
-    "pubDate": "2025-09-25T05:33:37.000Z"
+    "title": "エンジニアとして高みを目指す、 利益を生み出す設計の考え方 / design-for-profit",
+    "link": "https://speakerdeck.com/minodriven/design-for-profit",
+    "pubDate": "2025-09-25T09:36:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "スクレイピング・自動化対策について",
+    "link": "https://zenn.dev/ame_x/articles/7b7e21e5ef955a",
+    "pubDate": "2025-09-25T09:26:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeに上手くコンテキストを渡すためのTips",
+    "link": "https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4",
+    "pubDate": "2025-09-25T07:24:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「奈良監獄ミュージアム」26年4月開館　五大監獄で唯一現存",
+    "link": "https://www.watch.impress.co.jp/docs/news/2049923.html",
+    "pubDate": "2025-09-25T07:00:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "IT系で転職で給料維持ってむずない？",
+    "link": "https://anond.hatelabo.jp/20250925152444",
+    "pubDate": "2025-09-25T06:25:53.000Z"
   },
   {
     "site": "Hatena",
@@ -36,12 +60,6 @@
     "pubDate": "Thu, 25 Sep 2025 02:24:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "『あっ、本番環境…』をなくしたい。LLM活用でGitHub Actions色分けchrome拡張作成 - MonotaRO Tech Blog",
-    "link": "https://tech-blog.monotaro.com/entry/2025/09/25/090000",
-    "pubDate": "2025-09-25T00:28:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "useSyncExternalStoreを使ったSSRの判定",
     "link": "https://zenn.dev/aishift/articles/74c3169df45383",
@@ -55,21 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Google｢宿題お助けボタン｣停止　Chromeの簡単AI解答を教育界が批判 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN24CMH0U5A920C2000000/",
-    "pubDate": "2025-09-24T22:53:16.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【特集】 ミニPCの雄、MINISFORUMってどんな企業？お邪魔してきました！",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2049721.html",
     "pubDate": "2025-09-24T21:33:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GoogleのAI要約でクリック率ほぼ半減──私たちは思考停止し始めているのか？ | AMP[アンプ] - ビジネスインスピレーションメディア",
-    "link": "https://ampmedia.jp/2025/09/24/ai-overviews/",
-    "pubDate": "2025-09-24T14:26:41.000Z"
   },
   {
     "site": "Zenn",
@@ -79,7 +85,7 @@
   },
   {
     "site": "Zenn",
-    "title": "Zenn記事をより直感的に書ける！〜 Zenn CLI対応WYSIWYGエディタのすゝめ 〜",
+    "title": "Zenn記事をより直感的に書ける！〜 WYSIWYGエディタのすゝめ 〜",
     "link": "https://zenn.dev/karintou/articles/zenn-cli-wysiwyg",
     "pubDate": "Wed, 24 Sep 2025 10:37:43 GMT"
   },
@@ -88,12 +94,6 @@
     "title": "Codex Cloud の PR レビュー機能を試してみた",
     "link": "https://zenn.dev/shintaro/articles/164e4a57412e72",
     "pubDate": "Wed, 24 Sep 2025 10:09:36 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIが作りAIがプレイすれば「やらずにすむゲーム」の完成である - ABAの日誌",
-    "link": "https://aba.hatenablog.com/entry/2025/09/24/190334",
-    "pubDate": "2025-09-24T10:05:30.000Z"
   },
   {
     "site": "Qiita",
@@ -176,7 +176,7 @@
   {
     "site": "Zenn",
     "title": "Claude CodeとCodex MCPの組み合わせが体験良すぎる",
-    "link": "https://zenn.dev/maya_honey/articles/f7ae8c9d035e16",
+    "link": "https://zenn.dev/rakko_inc/articles/f7ae8c9d035e16",
     "pubDate": "2025-09-22T03:00:41.000Z"
   }
 ]
