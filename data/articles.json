@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "自己評価力を武器とする | ドクセル",
+    "link": "https://www.docswell.com/s/Songmu/5PGQV4-self-evaluation-skills",
+    "pubDate": "2025-09-26T00:29:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Storybook公式MCPの解説とその先 - Design Systems with Agentsの提案について -",
+    "link": "https://zenn.dev/cybozu_frontend/articles/e17267112d7816",
+    "pubDate": "Fri, 26 Sep 2025 00:13:24 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料ツール「Flyoobe」で非対応PCが「Windows 11」にアップグレード可能に",
+    "link": "https://japan.zdnet.com/article/35238407/",
+    "pubDate": "2025-09-26T00:07:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生涯“性交渉をしない人”の特徴とは？　英国居住者40万人を分析　「高学歴」「飲酒・喫煙をしない」など",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/26/news036.html",
+    "pubDate": "2025-09-25T23:43:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "第33回：「パスワードが分からない」どころの騒ぎじゃない！？　パスキー時代に想定されるデジタル遺品問題とは【天国へのプロトコル】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/tengoku/2049615.html",
+    "pubDate": "2025-09-25T23:30:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【やじうまミニレビュー】 全ユーザー必携、USB Type-Cケーブルやポートの仕様が一目瞭然になる「USB Cable Checker3」",
     "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2049980.html",
     "pubDate": "2025-09-25T21:58:43.000Z"
@@ -31,12 +61,6 @@
   },
   {
     "site": "Hatena",
-    "title": "PostgreSQL 18 Released!",
-    "link": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
-    "pubDate": "2025-09-25T13:29:03.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "エンジニアとして高みを目指す、 利益を生み出す設計の考え方 / design-for-profit",
     "link": "https://speakerdeck.com/minodriven/design-for-profit",
     "pubDate": "2025-09-25T09:36:19.000Z"
@@ -54,10 +78,10 @@
     "pubDate": "Thu, 25 Sep 2025 09:01:13 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「奈良監獄ミュージアム」26年4月開館　五大監獄で唯一現存",
-    "link": "https://www.watch.impress.co.jp/docs/news/2049923.html",
-    "pubDate": "2025-09-25T07:00:59.000Z"
+    "site": "Zenn",
+    "title": "Spring Boot WebアプリをECS on Fargateにデプロイする際の注意点、およびecspressoいいよという話",
+    "link": "https://zenn.dev/masatoshi_tada/articles/1e899786462567",
+    "pubDate": "Thu, 25 Sep 2025 07:45:20 GMT"
   },
   {
     "site": "Hatena",
@@ -72,10 +96,16 @@
     "pubDate": "Thu, 25 Sep 2025 05:45:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "パナソニック、漕がないママチャリ「MU」　特定原付に参入",
-    "link": "https://www.watch.impress.co.jp/docs/news/2049607.html",
-    "pubDate": "2025-09-25T05:18:41.000Z"
+    "site": "Zenn",
+    "title": "satto workspaceの管理画面で利用しているMCPを一挙公開",
+    "link": "https://zenn.dev/satto_workspace/articles/a92f09afd49673",
+    "pubDate": "Thu, 25 Sep 2025 04:55:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "モバイルアプリ開発でAIにレイアウト修正を頼むと微妙なのはなぜか？",
+    "link": "https://zenn.dev/10q89s/articles/a7114a16db7031",
+    "pubDate": "Thu, 25 Sep 2025 04:15:58 GMT"
   },
   {
     "site": "Zenn",
@@ -85,21 +115,9 @@
   },
   {
     "site": "Zenn",
-    "title": "LLMをゲームプレイで評価するLMGame-Benchを紹介",
-    "link": "https://zenn.dev/mkj/articles/b2cde8c62b2ae3",
-    "pubDate": "Thu, 25 Sep 2025 02:50:01 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "『AI に使われた』と感じてから始めた3つのこと",
     "link": "https://zenn.dev/wataryooou/articles/9e55e5130c6602",
     "pubDate": "Thu, 25 Sep 2025 02:30:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenAI Agents SDKとの5回の試行錯誤でAIエージェント機能実装を成功させた話",
-    "link": "https://zenn.dev/explaza/articles/0f690ff367d6e4",
-    "pubDate": "Thu, 25 Sep 2025 02:24:54 GMT"
   },
   {
     "site": "Zenn",
@@ -126,12 +144,6 @@
     "pubDate": "2025-09-24T11:40:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Zenn記事をより直感的に書ける！〜 WYSIWYGエディタのすゝめ 〜",
-    "link": "https://zenn.dev/karintou/articles/zenn-cli-wysiwyg",
-    "pubDate": "Wed, 24 Sep 2025 10:37:43 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "個人開発での売上が初任給を超えた話",
     "link": "https://qiita.com/nakapon9517/items/14bf412fe169824cc824?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -142,18 +154,6 @@
     "title": "マネージャーが1on1でメンバーに話してほしいこと1/nの意見",
     "link": "https://qiita.com/moromi25/items/d03eb4d0104b4435e5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-24T05:06:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "毎朝30分かかってたタスク整理、3分になっちゃった話 – Claude Code × MCP × Obsidian による究極の自動化術 – | iret.media",
-    "link": "https://iret.media/169031",
-    "pubDate": "2025-09-24T03:46:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【C#】CsSqlite - .NET / Unity向けのハイパフォーマンスなSQLiteライブラリ",
-    "link": "https://zenn.dev/nuskey/articles/library-cssqlite",
-    "pubDate": "Wed, 24 Sep 2025 01:35:49 GMT"
   },
   {
     "site": "Qiita",
