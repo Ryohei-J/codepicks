@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "住信SBIネット銀行がドコモグループへ参画することに伴い、新サービスブランド「d NEOBANK」を開始 | お知らせ | NTTドコモ",
+    "link": "https://www.docomo.ne.jp/info/news_release/2025/09/26_00.html",
+    "pubDate": "2025-09-26T06:54:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マイクロソフト イスラエル国防省へのクラウドなど提供停止 | NHK",
+    "link": "https://www3.nhk.or.jp/news/html/20250926/k10014933101000.html",
+    "pubDate": "2025-09-26T05:14:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot CLI入門",
+    "link": "https://zenn.dev/thirdlf/articles/36-zenn-github-copilot-cli",
+    "pubDate": "Fri, 26 Sep 2025 04:01:12 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 配列#2 〜配列を完全攻略！ -for文と拡張forと配列-～",
+    "link": "https://qiita.com/hitomin_poke/items/bf3385e1e8439255409d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T03:57:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ロジックじゃない、感覚で創る――「アポカリプスホテル」誕生の軌跡、CygamesPictures竹中代表に聞く",
+    "link": "https://www.itmedia.co.jp/news/articles/2509/20/news007.html",
+    "pubDate": "2025-09-26T02:38:17.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "自己評価力を武器とする | ドクセル",
     "link": "https://www.docswell.com/s/Songmu/5PGQV4-self-evaluation-skills",
     "pubDate": "2025-09-26T00:29:05.000Z"
@@ -10,6 +40,12 @@
     "title": "Storybook公式MCPの解説とその先 - Design Systems with Agentsの提案について -",
     "link": "https://zenn.dev/cybozu_frontend/articles/e17267112d7816",
     "pubDate": "Fri, 26 Sep 2025 00:13:24 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "データベースのトラブル発生時に何が起きていたかをSelect AIに聞いてみた",
+    "link": "https://qiita.com/nyasuhiro/items/5b5828d38bf2999e9b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T00:08:02.000Z"
   },
   {
     "site": "Hatena",
@@ -43,12 +79,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Announcing Cloudflare Email Service’s private beta",
-    "link": "https://blog.cloudflare.com/email-service/",
-    "pubDate": "2025-09-25T17:03:44.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "地方の中小企業なんて、役員（笑）の社長の娘がレクサス乗って、従業員がミライース乗っている。潰れて順当。「技術が・・・」とか言ってるやつが中小入って守れよ。社長一族を贅沢させるためのコマになるだけや（偏見まみれ）",
     "link": "https://posfie.com/@mumimushunyu/p/RO3BC89",
     "pubDate": "2025-09-25T14:18:41.000Z"
@@ -58,12 +88,6 @@
     "title": "Amazon Bedrock AgentCore が CloudFormation に対応したので試してみた",
     "link": "https://zenn.dev/aws_japan/articles/3ed1c8d85ebc6b",
     "pubDate": "Thu, 25 Sep 2025 13:41:53 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアとして高みを目指す、 利益を生み出す設計の考え方 / design-for-profit",
-    "link": "https://speakerdeck.com/minodriven/design-for-profit",
-    "pubDate": "2025-09-25T09:36:19.000Z"
   },
   {
     "site": "Zenn",
@@ -84,24 +108,6 @@
     "pubDate": "Thu, 25 Sep 2025 07:45:20 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "IT系で転職で給料維持ってむずない？",
-    "link": "https://anond.hatelabo.jp/20250925152444",
-    "pubDate": "2025-09-25T06:25:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TanStack Form v1.21.3 配列削除で falsy 値が undefined に化けるバグの解析と回避策",
-    "link": "https://zenn.dev/terass_dev/articles/f9591894259ea1",
-    "pubDate": "Thu, 25 Sep 2025 05:45:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "satto workspaceの管理画面で利用しているMCPを一挙公開",
-    "link": "https://zenn.dev/satto_workspace/articles/a92f09afd49673",
-    "pubDate": "Thu, 25 Sep 2025 04:55:30 GMT"
-  },
-  {
     "site": "Zenn",
     "title": "モバイルアプリ開発でAIにレイアウト修正を頼むと微妙なのはなぜか？",
     "link": "https://zenn.dev/10q89s/articles/a7114a16db7031",
@@ -114,6 +120,12 @@
     "pubDate": "Thu, 25 Sep 2025 03:00:01 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "美しいソースコードの基本原則 | 『AI時代のきれいなプログラムの教科書』より",
+    "link": "https://qiita.com/Fujiwo/items/8b175bd399733ee89fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-25T02:43:58.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "『AI に使われた』と感じてから始めた3つのこと",
     "link": "https://zenn.dev/wataryooou/articles/9e55e5130c6602",
@@ -121,27 +133,27 @@
   },
   {
     "site": "Zenn",
-    "title": "useSyncExternalStoreを使ったSSRの判定",
-    "link": "https://zenn.dev/aishift/articles/74c3169df45383",
-    "pubDate": "Thu, 25 Sep 2025 00:09:55 GMT"
+    "title": "OpenAI Agents SDKとの5回の試行錯誤でAIエージェント機能実装を成功させた話",
+    "link": "https://zenn.dev/explaza/articles/0f690ff367d6e4",
+    "pubDate": "Thu, 25 Sep 2025 02:24:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "エンジニアの時間術：知的生活のすすめを今に生かす",
+    "link": "https://zenn.dev/spacemarket/articles/engineer-time-management-2025-09-21",
+    "pubDate": "Thu, 25 Sep 2025 01:52:03 GMT"
   },
   {
     "site": "Qiita",
-    "title": "その「1週間」見積もり、本当に大丈夫？ - なぜ、あなたの仕事は終わらないのか①",
-    "link": "https://qiita.com/ikeyaH/items/10b7fd7e1b57b4eb62cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T23:27:19.000Z"
+    "title": "公式の「Chrome DevTools MCP」を VS Code の GitHub Copilot（エージェントモード）で軽く試す（現在、パブリックプレビュー版）",
+    "link": "https://qiita.com/youtoy/items/075ddb8c09eaa0e98b4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T17:40:25.000Z"
   },
   {
     "site": "Qiita",
-    "title": "書籍：「仮想化&コンテナがしっかりわかる教科書」の要点まとめ (1章〜3章まで)",
-    "link": "https://qiita.com/Nao52/items/095d97140880bdde4afd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T11:42:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "プロジェクトマネジメントの基本をまとめてみた",
-    "link": "https://qiita.com/Nao52/items/2fb33660df8b48bf6751?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T11:40:37.000Z"
+    "title": "徳丸本実習環境でHTTPヘッダインジェクションとセッションIDの固定化を組み合わせた演習手順",
+    "link": "https://qiita.com/ockeghem/items/65c2759033d636e43746?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T14:33:26.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【Docker Compose】.envファイルの入力忘れ、エラー出したくないですか？",
     "link": "https://qiita.com/umekikazuya/items/c8478daf783b187ae479?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-23T17:46:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIで変わる開発現場！2025年注目の生産性向上ツール14選",
-    "link": "https://qiita.com/takuya77088/items/79fa2e2595064071fba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-23T07:44:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code vs Codex CLI どっちを選ぶ？両方使ってきた経験から観点別にポイントを解説",
-    "link": "https://qiita.com/tomada/items/c369d5f28142a2599a36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-22T21:10:09.000Z"
   }
 ]
