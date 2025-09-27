@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "Chrome DevTools MCP で AI エージェントのフロントエンド開発をサポートする",
+    "link": "https://azukiazusa.dev/blog/chrome-devtools-mcp/",
+    "pubDate": "2025-09-27T05:05:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Pythonのhttpx (async) はサービスに支障が出るほど遅い、ただしコネクションプールを切ると速くなるかも - Islands in the byte stream",
+    "link": "https://gfx.hatenablog.com/entry/2025/09/27/134421",
+    "pubDate": "2025-09-27T04:57:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CSS大解剖 15日目: 「方向」",
+    "link": "https://zenn.dev/qnighy/articles/a5dfab433d6a88",
+    "pubDate": "Fri, 26 Sep 2025 22:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Babylon.js：アニメーション機能でモーションをつくる",
+    "link": "https://zenn.dev/fnamuoo/articles/8fc6ed1f115511",
+    "pubDate": "Fri, 26 Sep 2025 22:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Temporal APIの現在地（2025年9月時点）",
+    "link": "https://zenn.dev/fabon/articles/4dbe40896fac73",
+    "pubDate": "Fri, 26 Sep 2025 19:04:31 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "証券口座乗っ取り、家庭のテレビ受信機「STB」経由か　警察が回収 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUD229670S5A920C2000000/",
     "pubDate": "2025-09-26T18:54:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Awesome Gemini Roboticsを紹介：Gemini Robotics-ER 1.5のユースケース＆プロンプト集",
+    "link": "https://qiita.com/7mpy/items/6200677472d65cefe54c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T15:59:40.000Z"
   },
   {
     "site": "Hatena",
@@ -18,16 +54,22 @@
     "pubDate": "2025-09-26T13:39:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Code Mode: the better way to use MCP",
-    "link": "https://blog.cloudflare.com/code-mode/",
-    "pubDate": "2025-09-26T13:35:19.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilot CLI入門",
+    "link": "https://zenn.dev/thirdlf/articles/36-zenn-github-copilot-cli",
+    "pubDate": "2025-09-26T12:09:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【レビュー】 東芝AUREXの一体型ミニコンポ「AX-XSS100」に、“ラジカセ屋の本気”を見た",
-    "link": "https://av.watch.impress.co.jp/docs/review/review/2047393.html",
-    "pubDate": "2025-09-26T11:54:23.000Z"
+    "site": "Qiita",
+    "title": "CDKでもAgentCoreをデプロイしたい - Mastra & StrandsAgents",
+    "link": "https://qiita.com/Syoitu/items/65fda40c75dd467b5cd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T11:58:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ダウンタイムを抑えてCDKに移行",
+    "link": "https://zenn.dev/ncdc/articles/803d9482351529",
+    "pubDate": "Fri, 26 Sep 2025 09:32:42 GMT"
   },
   {
     "site": "Qiita",
@@ -37,15 +79,39 @@
   },
   {
     "site": "Zenn",
+    "title": "決定論的システムと非決定論的AI Agentの接合点：OSSフレームワークEmbabelが拓く新しいソフトウェア開発の可能性",
+    "link": "https://zenn.dev/loglass/articles/e6525e7e8b7a69",
+    "pubDate": "Fri, 26 Sep 2025 08:59:35 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "useEffectEventを理解する",
+    "link": "https://qiita.com/tachu/items/a8a14ead9028d6932338?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T07:45:26.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "数値突合のやり方まとめ",
     "link": "https://zenn.dev/datum_studio/articles/21ba0949af8156",
     "pubDate": "Fri, 26 Sep 2025 07:15:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Strands Agents を使って自分専用ニュースキュレーションエージェントを作る！",
+    "link": "https://zenn.dev/aws_japan/articles/f53f10085f323c",
+    "pubDate": "Fri, 26 Sep 2025 06:01:54 GMT"
   },
   {
     "site": "Hatena",
     "title": "AIを導⼊しても、 開発⽣産性は\"爆増\"していない なぜ？",
     "link": "https://speakerdeck.com/kinosuke01/aiwodao-sitemo-kai-fa-chan-xing-ha-bao-zeng-siteinai-naze",
     "pubDate": "2025-09-26T05:46:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "勤怠管理システムをDDDで作り直して9年。その選択は正しかった？ - RAKUS Developers Blog | ラクス エンジニアブログ",
+    "link": "https://tech-blog.rakus.co.jp/entry/20250926/ddd-practice",
+    "pubDate": "2025-09-26T05:41:15.000Z"
   },
   {
     "site": "Zenn",
@@ -61,15 +127,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 配列#2 〜配列を完全攻略！ -for文と拡張forと配列-～",
-    "link": "https://qiita.com/hitomin_poke/items/bf3385e1e8439255409d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-26T03:57:32.000Z"
+    "title": "【2025年決定版】「Javaではもう厳しい」は本当か？Kotlin vs Java、Android開発言語の「今」と「未来」を徹底比較！",
+    "link": "https://qiita.com/yun_bow/items/3cac8534a3a43e5d74b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T03:07:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AmazonがユーザーをだましてAmazonプライムに登録させ解約は難しくしていた件で3700億円超という歴史的な和解金の支払いに合意",
-    "link": "https://gigazine.net/news/20250926-ftc-historic-2-5-billion-settlement-against-amazon/",
-    "pubDate": "2025-09-26T03:20:07.000Z"
+    "site": "Qiita",
+    "title": "入社1年目からPMとして活躍する組織の育て方",
+    "link": "https://qiita.com/toshiaki_miyake/items/45a4775433cdbdbb7a37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T01:46:11.000Z"
   },
   {
     "site": "Qiita",
@@ -78,22 +144,10 @@
     "pubDate": "2025-09-26T01:34:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "イーロン・マスクGrokが「大躍進」のワケ、なぜビジネスパーソンが「使いまくる」のか",
-    "link": "https://www.sbbit.jp/article/cont1/171928",
-    "pubDate": "2025-09-26T00:51:57.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Storybook公式MCPの解説とその先 - Design Systems with Agentsの提案について -",
     "link": "https://zenn.dev/cybozu_frontend/articles/e17267112d7816",
     "pubDate": "Fri, 26 Sep 2025 00:13:24 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "データベースのトラブル発生時に何が起きていたかをSelect AIに聞いてみた",
-    "link": "https://qiita.com/nyasuhiro/items/5b5828d38bf2999e9b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-26T00:08:02.000Z"
   },
   {
     "site": "Zenn",
@@ -108,52 +162,10 @@
     "pubDate": "2025-09-25T19:15:57.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Amazon Bedrock AgentCore が CloudFormation に対応したので試してみた",
-    "link": "https://zenn.dev/aws_japan/articles/3ed1c8d85ebc6b",
-    "pubDate": "Thu, 25 Sep 2025 13:41:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Zod Codecs で 'use client' を介した Server-Client 間データ転送を強化する",
-    "link": "https://zenn.dev/yumemi_inc/articles/use-client-and-zod-codec-for-data-transfer",
-    "pubDate": "Thu, 25 Sep 2025 09:01:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Spring Boot WebアプリをECS on Fargateにデプロイする際の注意点、およびecspressoいいよという話",
-    "link": "https://zenn.dev/masatoshi_tada/articles/1e899786462567",
-    "pubDate": "Thu, 25 Sep 2025 07:45:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "モバイルアプリ開発でAIにレイアウト修正を頼むと微妙なのはなぜか？",
-    "link": "https://zenn.dev/10q89s/articles/a7114a16db7031",
-    "pubDate": "Thu, 25 Sep 2025 04:15:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeに上手くコンテキストを渡すためのTips",
-    "link": "https://zenn.dev/knowledgework/articles/9b82d0c0a34ab4",
-    "pubDate": "Thu, 25 Sep 2025 03:00:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "美しいソースコードの基本原則 | 『AI時代のきれいなプログラムの教科書』より",
     "link": "https://qiita.com/Fujiwo/items/8b175bd399733ee89fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-25T02:43:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "『AI に使われた』と感じてから始めた3つのこと",
-    "link": "https://zenn.dev/wataryooou/articles/9e55e5130c6602",
-    "pubDate": "Thu, 25 Sep 2025 02:30:30 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "公式の「Chrome DevTools MCP」を VS Code の GitHub Copilot（エージェントモード）で軽く試す（現在、パブリックプレビュー版）",
-    "link": "https://qiita.com/youtoy/items/075ddb8c09eaa0e98b4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T17:40:25.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "個人開発での売上が初任給を超えた話",
     "link": "https://qiita.com/nakapon9517/items/14bf412fe169824cc824?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-24T09:47:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "マネージャーが1on1でメンバーに話してほしいこと1/nの意見",
-    "link": "https://qiita.com/moromi25/items/d03eb4d0104b4435e5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T05:06:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "7日間でハッキングを始める本を読んで理解した攻撃とその防御方法",
-    "link": "https://qiita.com/spec_kori/items/637d1964107887d26790?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T00:11:17.000Z"
   }
 ]
