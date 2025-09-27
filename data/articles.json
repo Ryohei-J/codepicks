@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "証券口座乗っ取り、家庭のテレビ受信機「STB」経由か　警察が回収 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUD229670S5A920C2000000/",
+    "pubDate": "2025-09-26T18:54:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "かつてスパコンが必要だった宇宙シミュレーションをノートPCで実行できる強力エミュレーター「Effort.jl」",
+    "link": "https://gigazine.net/news/20250926-cosmic-simulations-laptop-effort-jl/",
+    "pubDate": "2025-09-26T13:51:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Code Mode: the better way to use MCP",
+    "link": "https://blog.cloudflare.com/code-mode/",
+    "pubDate": "2025-09-26T13:35:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【レビュー】 東芝AUREXの一体型ミニコンポ「AX-XSS100」に、“ラジカセ屋の本気”を見た",
+    "link": "https://av.watch.impress.co.jp/docs/review/review/2047393.html",
+    "pubDate": "2025-09-26T11:54:23.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "『別のプログラムがこのファイルを開いています』「はァ？」 どのファイルが開いてんのか教えてくれよ→解決法がいくつかある様子",
     "link": "https://togetter.com/li/2607787",
     "pubDate": "2025-09-26T11:07:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ファミリーマート、セブン銀行の新ATMを導入　金融強化",
-    "link": "https://www.watch.impress.co.jp/docs/news/2050484.html",
-    "pubDate": "2025-09-26T10:00:56.000Z"
+    "site": "Qiita",
+    "title": "AIと『対話しない』対話法、モノローグ法 - Qiita",
+    "link": "https://qiita.com/makotosaekit/items/2e5c7d3b4504aeccf456",
+    "pubDate": "2025-09-26T09:07:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "数値突合のやり方まとめ",
+    "link": "https://zenn.dev/datum_studio/articles/21ba0949af8156",
+    "pubDate": "Fri, 26 Sep 2025 07:15:49 GMT"
   },
   {
     "site": "Hatena",
@@ -18,10 +48,10 @@
     "pubDate": "2025-09-26T06:54:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マイクロソフト イスラエル国防省へのクラウドなど提供停止 | NHK",
-    "link": "https://www3.nhk.or.jp/news/html/20250926/k10014933101000.html",
-    "pubDate": "2025-09-26T05:14:41.000Z"
+    "site": "Qiita",
+    "title": "公式 Chrome DevTools MCP ： Chromeブラウザ用のMCPが登場 これは、Web開発者にとって必須 - Qiita",
+    "link": "https://qiita.com/masakinihirota/items/a925a2b68ab8374c7fd0",
+    "pubDate": "2025-09-26T06:35:23.000Z"
   },
   {
     "site": "Zenn",
@@ -37,15 +67,21 @@
   },
   {
     "site": "Hatena",
-    "title": "イーロン・マスクGrokが「大躍進」のワケ、なぜビジネスパーソンが「使いまくる」のか",
-    "link": "https://www.sbbit.jp/article/cont1/171928",
-    "pubDate": "2025-09-26T00:51:57.000Z"
+    "title": "Redis is fast - I'll cache in Postgres",
+    "link": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
+    "pubDate": "2025-09-26T02:36:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "リアルな眼球を描く。HTMLとCSSだけで。 第２章 ~こいつ、動くぞッ！？~",
+    "link": "https://qiita.com/ichimonji_haji/items/f5fbd8e1ccb6d8f757e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T01:34:17.000Z"
   },
   {
     "site": "Hatena",
-    "title": "自己評価力を武器とする | ドクセル",
-    "link": "https://www.docswell.com/s/Songmu/5PGQV4-self-evaluation-skills",
-    "pubDate": "2025-09-26T00:29:05.000Z"
+    "title": "イーロン・マスクGrokが「大躍進」のワケ、なぜビジネスパーソンが「使いまくる」のか",
+    "link": "https://www.sbbit.jp/article/cont1/171928",
+    "pubDate": "2025-09-26T00:51:57.000Z"
   },
   {
     "site": "Zenn",
@@ -60,34 +96,16 @@
     "pubDate": "2025-09-26T00:08:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "無料ツール「Flyoobe」で非対応PCが「Windows 11」にアップグレード可能に",
-    "link": "https://japan.zdnet.com/article/35238407/",
-    "pubDate": "2025-09-26T00:07:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "第33回：「パスワードが分からない」どころの騒ぎじゃない！？　パスキー時代に想定されるデジタル遺品問題とは【天国へのプロトコル】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/tengoku/2049615.html",
-    "pubDate": "2025-09-25T23:30:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【やじうまミニレビュー】 全ユーザー必携、USB Type-Cケーブルやポートの仕様が一目瞭然になる「USB Cable Checker3」",
-    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2049980.html",
-    "pubDate": "2025-09-25T21:58:43.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeカスタムコマンド完全ガイド：基礎から実践まで、開発効率を劇的に向上させる自動化テクニック",
+    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_commands",
+    "pubDate": "Thu, 25 Sep 2025 20:56:30 GMT"
   },
   {
     "site": "Qiita",
     "title": "AIと『対話しない』対話法、モノローグ法",
     "link": "https://qiita.com/makotosaekit/items/2e5c7d3b4504aeccf456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-25T19:15:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "地方の中小企業なんて、役員（笑）の社長の娘がレクサス乗って、従業員がミライース乗っている。潰れて順当。「技術が・・・」とか言ってるやつが中小入って守れよ。社長一族を贅沢させるためのコマになるだけや（偏見まみれ）",
-    "link": "https://posfie.com/@mumimushunyu/p/RO3BC89",
-    "pubDate": "2025-09-25T14:18:41.000Z"
   },
   {
     "site": "Zenn",
@@ -132,18 +150,6 @@
     "pubDate": "Thu, 25 Sep 2025 02:30:30 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "OpenAI Agents SDKとの5回の試行錯誤でAIエージェント機能実装を成功させた話",
-    "link": "https://zenn.dev/explaza/articles/0f690ff367d6e4",
-    "pubDate": "Thu, 25 Sep 2025 02:24:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニアの時間術：知的生活のすすめを今に生かす",
-    "link": "https://zenn.dev/spacemarket/articles/engineer-time-management-2025-09-21",
-    "pubDate": "Thu, 25 Sep 2025 01:52:03 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "公式の「Chrome DevTools MCP」を VS Code の GitHub Copilot（エージェントモード）で軽く試す（現在、パブリックプレビュー版）",
     "link": "https://qiita.com/youtoy/items/075ddb8c09eaa0e98b4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -151,9 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "徳丸本実習環境でHTTPヘッダインジェクションとセッションIDの固定化を組み合わせた演習手順",
-    "link": "https://qiita.com/ockeghem/items/65c2759033d636e43746?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-24T14:33:26.000Z"
+    "title": "公式 Chrome DevTools MCP ： Chromeブラウザ用のMCPが登場 これは、Web開発者にとって必須",
+    "link": "https://qiita.com/masakinihirota/items/a925a2b68ab8374c7fd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-24T15:20:36.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "7日間でハッキングを始める本を読んで理解した攻撃とその防御方法",
     "link": "https://qiita.com/spec_kori/items/637d1964107887d26790?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-24T00:11:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Docker Compose】.envファイルの入力忘れ、エラー出したくないですか？",
-    "link": "https://qiita.com/umekikazuya/items/c8478daf783b187ae479?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-23T17:46:40.000Z"
   }
 ]
