@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "日本のミステリー小説はぜひこのシステムを導入して標準装備としてほしい、という熱い要望「これめっちゃ便利」",
+    "link": "https://togetter.com/li/2608608",
+    "pubDate": "2025-09-28T08:43:02.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "広告ブロッカー標準搭載のChromiumベースブラウザ「Helium」を使ってみた",
     "link": "https://gigazine.net/news/20250927-helium-ad-blocking/",
     "pubDate": "2025-09-28T02:59:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「現場で活用するためのAIエージェント実践入門」でつまずいたことメモ:1章",
+    "link": "https://qiita.com/segavvy/items/834a774c09707f62b9d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-28T01:25:58.000Z"
   },
   {
     "site": "Hatena",
     "title": "一緒にゲームやりながら駄弁れるAI、そろそろできないかな",
     "link": "https://anond.hatelabo.jp/20250928015621",
     "pubDate": "2025-09-27T23:26:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Java 仮想マシンを自作したい全ての方々へ",
+    "link": "https://zenn.dev/peyang/articles/making-jvm-knowledges",
+    "pubDate": "2025-09-27T23:24:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeカスタムコマンド完全ガイド：基礎から実践まで、開発効率を劇的に向上させる自動化テクニック",
+    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_commands",
+    "pubDate": "2025-09-27T17:13:18.000Z"
   },
   {
     "site": "Hatena",
@@ -19,15 +43,33 @@
   },
   {
     "site": "Zenn",
+    "title": "多要素認証を設定したら先着販売に乗り遅れた話 ― メール認証の可用性の落とし穴",
+    "link": "https://zenn.dev/banuyu/articles/1b5408860e3697",
+    "pubDate": "Sat, 27 Sep 2025 16:46:14 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub、プルリクエストの新しいFiles changedページで未変更行へのコメントを可能に | gihyo.jp",
+    "link": "https://gihyo.jp/article/2025/09/github-pull-request-support-unchanged-lines-comment",
+    "pubDate": "2025-09-27T15:33:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI で Elixir の Ecto ライブラリを読んでみよう",
+    "link": "https://qiita.com/koyo-miyamura/items/3496c9a55bfd713b6063?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-27T15:07:48.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "コーディングエージェントのauto-compactの仕組みを読み解く - タスク引継ぎの再現性を高める方法",
     "link": "https://zenn.dev/gotalab/articles/4b74e6810db959",
     "pubDate": "Sat, 27 Sep 2025 14:27:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "家庭のテレビ受信機から経由して証券口座を乗っ取る事件が発生「FireTVみたいなIoT機器はリスクがある」",
-    "link": "https://togetter.com/li/2608151",
-    "pubDate": "2025-09-27T11:00:24.000Z"
+    "site": "Zenn",
+    "title": "Chrome DevTools MCPを試してみた：Gemini CLIからGoogle Cloudをブラウザから操作する",
+    "link": "https://zenn.dev/chishiro_shiro/articles/4dd51a9d3a2e6e",
+    "pubDate": "Sat, 27 Sep 2025 11:31:07 GMT"
   },
   {
     "site": "Hatena",
@@ -36,22 +78,16 @@
     "pubDate": "2025-09-27T10:12:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTを最強の「勉強仲間」にする5つの活用術 | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2509the-best-ways-to-study-but-not-cheat-using-ai-tools/",
-    "pubDate": "2025-09-27T09:33:51.000Z"
+    "site": "Zenn",
+    "title": "文系バイブコーダーからR&Dエンジニアになるまでにやったこと",
+    "link": "https://zenn.dev/yasuna/articles/79fc2626ed8b7c",
+    "pubDate": "Sat, 27 Sep 2025 09:34:48 GMT"
   },
   {
     "site": "Zenn",
     "title": "現地速報！ Kaigi on Rails 2025 Day2",
     "link": "https://zenn.dev/bloomo_tech/articles/c4a90417c1c6ca",
     "pubDate": "Sat, 27 Sep 2025 09:31:43 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "コードを読む、コードを書くの最初の一歩目 ― 目の前の「知らない」と向き合って成長する - そーだいなるらくがき帳",
-    "link": "https://soudai.hatenablog.com/entry/2025/09/27/165806",
-    "pubDate": "2025-09-27T08:55:01.000Z"
   },
   {
     "site": "Zenn",
@@ -78,6 +114,12 @@
     "pubDate": "2025-09-27T05:44:18.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "なぜノイズでRAGは強くなるか",
+    "link": "https://qiita.com/YusukeYoshiyama/items/18eb10f6f7c533cd3b66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-27T05:14:10.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "GoのWASI 0.1をWASI 0.2に変換して実行する",
     "link": "https://zenn.dev/monicle/articles/eda7b2e509269f",
@@ -102,24 +144,6 @@
     "pubDate": "2025-09-27T02:14:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "YouTubeに月額780円の「Premium Lite」登場--1080円の既存プランと何が違う？",
-    "link": "https://japan.cnet.com/article/35238499/",
-    "pubDate": "2025-09-26T22:37:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSS大解剖 15日目: 「方向」",
-    "link": "https://zenn.dev/qnighy/articles/a5dfab433d6a88",
-    "pubDate": "Fri, 26 Sep 2025 22:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Temporal APIの現在地（2025年9月時点）",
-    "link": "https://zenn.dev/fabon/articles/4dbe40896fac73",
-    "pubDate": "Fri, 26 Sep 2025 19:04:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "PythonスクリプトをGUI化→exe化し、GitHubでリリースするまでの備忘録",
     "link": "https://qiita.com/Myrune/items/9740b6b4432d55460669?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -127,27 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "CDKでもAgentCoreをデプロイしたい - Mastra & StrandsAgents",
-    "link": "https://qiita.com/Syoitu/items/65fda40c75dd467b5cd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-26T11:58:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "決定論的システムと非決定論的AI Agentの接合点：OSSフレームワークEmbabelが拓く新しいソフトウェア開発の可能性",
-    "link": "https://zenn.dev/loglass/articles/e6525e7e8b7a69",
-    "pubDate": "Fri, 26 Sep 2025 08:59:35 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "useEffectEventを理解する",
-    "link": "https://qiita.com/tachu/items/a8a14ead9028d6932338?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-26T07:45:26.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【2025年決定版】「Javaではもう厳しい」は本当か？Kotlin vs Java、Android開発言語の「今」と「未来」を徹底比較！",
     "link": "https://qiita.com/yun_bow/items/3cac8534a3a43e5d74b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-26T03:07:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "商用版の Qt が高いと思った時に考えること",
+    "link": "https://qiita.com/task_jp/items/d30a1af4fca7781a1251?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-26T02:21:13.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "AIエージェントでObservabilityを実装してみよう！",
-    "link": "https://qiita.com/yseki1985/items/53eccd3ede7e92d98efa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-26T01:03:12.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AIと『対話しない』対話法、モノローグ法",
     "link": "https://qiita.com/makotosaekit/items/2e5c7d3b4504aeccf456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-25T19:15:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "美しいソースコードの基本原則 | 『AI時代のきれいなプログラムの教科書』より",
-    "link": "https://qiita.com/Fujiwo/items/8b175bd399733ee89fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-25T02:43:58.000Z"
   }
 ]
