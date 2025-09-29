@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "日本のミステリー小説はぜひこのシステムを導入して標準装備としてほしい、という熱い要望「これめっちゃ便利」",
-    "link": "https://togetter.com/li/2608608",
-    "pubDate": "2025-09-28T08:43:02.000Z"
+    "title": "【特集】 地味にスゴイ。「脚が階段にめり込んで興ざめ」を防ぐ3D技術たち",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2050437.html",
+    "pubDate": "2025-09-28T23:39:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PostgreSQL 18正式リリース。非同期I/Oによる最大3倍の性能向上、UUID v7対応など",
+    "link": "https://www.publickey1.jp/blog/25/postgresql_18io3uuid_v7.html",
+    "pubDate": "2025-09-28T22:07:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub Copilot CLIがパブリックプレビューとして公開。Linux、macOS、Windowsに対応。GitHub MCPサーバも同梱",
+    "link": "https://www.publickey1.jp/blog/25/github_copilot_clilinuxmacoswindowsgithub_mcp.html",
+    "pubDate": "2025-09-28T21:37:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コーディングエージェントを汎用AIエージェントとして使う",
+    "link": "https://zenn.dev/robustonian/articles/spirit_invest_agent",
+    "pubDate": "Sun, 28 Sep 2025 13:15:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "そのAI生成コード、全部レビューしますか？全部信じますか？",
+    "link": "https://zenn.dev/r_kaga/articles/66c190413d3ab9",
+    "pubDate": "2025-09-28T12:54:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gitコマンド覚えなくてOK！VSCode「Git Graph」で始める超かんたんGit入門 | 初心者向け基本操作・使い方ガイド",
+    "link": "https://zenn.dev/rikuogawa/articles/083025a97ede40",
+    "pubDate": "Sun, 28 Sep 2025 12:10:43 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTの“沼”へ、ようこそ──『プロンプトを作るプロンプト』お渡しします。｜タカジロー",
+    "link": "https://note.com/takajiro0912/n/nec71cb0f3e2e",
+    "pubDate": "2025-09-28T12:00:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWSのSLAについて覗いてみよう",
+    "link": "https://qiita.com/ec2_on_aws/items/a2aff997459aabc1b378?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-28T09:28:58.000Z"
   },
   {
     "site": "Zenn",
@@ -18,16 +60,22 @@
     "pubDate": "2025-09-28T08:39:16.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "おうちではじめる セキュアなハニーポットの戦略",
+    "link": "https://zenn.dev/ngstk/articles/cba2bc328d23ed",
+    "pubDate": "Sun, 28 Sep 2025 06:41:38 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「SNSには根本的な機能不全がある」オードリー・タン氏が語る参政党躍進の裏側とデジタル民主主義の可能性（文春オンライン） - Yahoo!ニュース",
     "link": "https://news.yahoo.co.jp/articles/dd032cbf5ad749ee0897600a99559ae11f76a3de",
     "pubDate": "2025-09-28T04:40:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【書評】 実践LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き｜s-miyawaki",
-    "link": "https://note.com/catshun_/n/n66701e7563ee",
-    "pubDate": "2025-09-28T04:27:01.000Z"
+    "site": "Qiita",
+    "title": "気づきが「実は本に書いてあった」となるメモ術",
+    "link": "https://qiita.com/mkt_hanada/items/9552a30c244020e7fa0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-28T04:39:24.000Z"
   },
   {
     "site": "Zenn",
@@ -36,16 +84,22 @@
     "pubDate": "Sun, 28 Sep 2025 04:20:40 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "RAG精度改善を解説する本を出版しました",
+    "link": "https://qiita.com/xxyc/items/3d9bac8b9da2ebf92f03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-28T03:26:00.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "DuckDB-spatial の対抗馬！？　SedonaDB 最速入門",
     "link": "https://zenn.dev/mierune/articles/32197d0f04750e",
     "pubDate": "Sun, 28 Sep 2025 03:16:25 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "広告ブロッカー標準搭載のChromiumベースブラウザ「Helium」を使ってみた",
-    "link": "https://gigazine.net/news/20250927-helium-ad-blocking/",
-    "pubDate": "2025-09-28T02:59:12.000Z"
+    "site": "Zenn",
+    "title": "【速報】Ollama Web Search登場！ローカルLLM gemma3と組み合わせて\"完全ローカルAIニュースデスク\"を作ってみた！",
+    "link": "https://zenn.dev/mako/articles/4dfc89dd72f010",
+    "pubDate": "Sun, 28 Sep 2025 02:20:31 GMT"
   },
   {
     "site": "Hatena",
@@ -54,46 +108,28 @@
     "pubDate": "2025-09-28T02:11:54.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "静的型付け関数型プログラミング言語を使わない10の理由",
+    "link": "https://matarillo.github.io/fsharp_for_fun_and_profit-ja/posts/ten-reasons-not-to-use-a-functional-programming-language.html",
+    "pubDate": "2025-09-28T01:36:32.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "「現場で活用するためのAIエージェント実践入門」でつまずいたことメモ:1章",
     "link": "https://qiita.com/segavvy/items/834a774c09707f62b9d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-28T01:25:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Java 仮想マシンを自作したい全ての方々へ",
-    "link": "https://zenn.dev/peyang/articles/making-jvm-knowledges",
-    "pubDate": "2025-09-27T23:24:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeカスタムコマンド完全ガイド：基礎から実践まで、開発効率を劇的に向上させる自動化テクニック",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_commands",
-    "pubDate": "2025-09-27T17:13:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "多要素認証を設定したら先着販売に乗り遅れた話 ― メール認証の可用性の落とし穴",
-    "link": "https://zenn.dev/banuyu/articles/1b5408860e3697",
-    "pubDate": "Sat, 27 Sep 2025 16:46:14 GMT"
+    "site": "Qiita",
+    "title": "AIに「元画像になんか似ている画像」の生成を簡単に指示するプロンプト",
+    "link": "https://qiita.com/makotosaekit/items/24ec9b81f8d49057caa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-28T00:56:12.000Z"
   },
   {
     "site": "Zenn",
     "title": "Intel Mac→Mシリーズに移行した人が必ずハマるポイント",
     "link": "https://zenn.dev/acntechjp/articles/230b0bb616c9e5",
     "pubDate": "Sat, 27 Sep 2025 15:34:36 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub、プルリクエストの新しいFiles changedページで未変更行へのコメントを可能に | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/09/github-pull-request-support-unchanged-lines-comment",
-    "pubDate": "2025-09-27T15:33:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI で Elixir の Ecto ライブラリを読んでみよう",
-    "link": "https://qiita.com/koyo-miyamura/items/3496c9a55bfd713b6063?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-27T15:07:48.000Z"
   },
   {
     "site": "Zenn",
@@ -108,46 +144,16 @@
     "pubDate": "Sat, 27 Sep 2025 11:31:07 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Java 仮想マシンを自作したい全ての方々へ",
-    "link": "https://zenn.dev/peyang/articles/making-jvm-knowledges",
-    "pubDate": "Sat, 27 Sep 2025 08:10:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "２週間のインターンで SSR・CDN 環境下での A/B テスト基盤を構築してみた",
-    "link": "https://zenn.dev/huitgroup/articles/web-specialized-boot-camp",
-    "pubDate": "Sat, 27 Sep 2025 06:43:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "これで合格！Professional Cloud Network Engineer 試験攻略法【2025 年 9 月版】",
-    "link": "https://zenn.dev/ralios/articles/11e54da55ec377",
-    "pubDate": "Sat, 27 Sep 2025 06:34:35 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜノイズでRAGは強くなるか",
-    "link": "https://qiita.com/YusukeYoshiyama/items/18eb10f6f7c533cd3b66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-27T05:14:10.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "Sidekiq その前に：Webアプリケーションにおける非同期ジョブ設計原則",
-    "link": "https://speakerdeck.com/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze",
-    "pubDate": "2025-09-27T02:40:29.000Z"
+    "title": "【超入門】AI時代の知的生産フロー完全ガイド：ChatGPT、NotebookLM、Obsidian×Cursorを最強の武器にする方法｜Shin",
+    "link": "https://note.com/iam_shin/n/n647fc9a3440b",
+    "pubDate": "2025-09-27T07:42:21.000Z"
   },
   {
     "site": "Qiita",
     "title": "StrandsAgentsに入門してみよう",
     "link": "https://qiita.com/yakumo_09/items/f85a8a0634e30b0d756c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-27T02:14:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PythonスクリプトをGUI化→exe化し、GitHubでリリースするまでの備忘録",
-    "link": "https://qiita.com/Myrune/items/9740b6b4432d55460669?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-26T16:09:32.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "リアルな眼球を描く。HTMLとCSSだけで。 第２章 ~こいつ、動くぞッ！？~",
     "link": "https://qiita.com/ichimonji_haji/items/f5fbd8e1ccb6d8f757e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-26T01:34:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIと『対話しない』対話法、モノローグ法",
-    "link": "https://qiita.com/makotosaekit/items/2e5c7d3b4504aeccf456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-25T19:15:57.000Z"
   }
 ]
