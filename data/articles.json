@@ -1,6 +1,48 @@
 [
   {
     "site": "Hatena",
+    "title": "ロジクールの新型最上位マウス「MX MASTER 4」登場。触覚フィードバックとショートカット機能でさらに使いやすく",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2051067.html",
+    "pubDate": "2025-09-30T07:20:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Web 標準動向 2025年9月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_monthly_202509",
+    "pubDate": "Tue, 30 Sep 2025 04:32:04 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本式の「いなくなった猫に帰ってきてもらう方法」、TikTok経由で海外に拡散し大バズり中【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2051082.html",
+    "pubDate": "2025-09-30T03:05:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2025年最新】Safari 26でWebGPU、速度は劇的UP！でもTensorflow.jsでGANを回すと…まさかの重み全ゼロ化!?",
+    "link": "https://qiita.com/ntaka329/items/991c970ab24c4bebb58d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-30T02:56:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い",
+    "link": "https://zenn.dev/harumikun/articles/fb9c435acf4070",
+    "pubDate": "2025-09-30T02:28:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Sonnet 4.5が登場！ついにBedrockで国内縛りに対応（StrandsとMastraのサンプルコードも）",
+    "link": "https://qiita.com/minorun365/items/47a47735829e7c302f70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-30T01:32:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「あなたもAIで簡単に稼げる！！」に蹴りを入れるまで。~Youtube動画自動生成までの道のり",
+    "link": "https://zenn.dev/xtm_blog/articles/da1eba90525f91",
+    "pubDate": "Tue, 30 Sep 2025 00:00:01 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "「人格に問題のあるビジネスパーソン」への、いくつかの対処法",
     "link": "https://blog.tinect.jp/?p=90204",
     "pubDate": "2025-09-29T23:07:56.000Z"
@@ -10,6 +52,12 @@
     "title": "Wi-Fi 5の多くはすでにサポート終了、Wi-Fi 6も徐々に…。「セキュリティを意識した更新」が求められるWi-Fiルーターのライフサイクル新常識　",
     "link": "https://internet.watch.impress.co.jp/docs/special/2046952.html",
     "pubDate": "2025-09-29T22:21:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "DuckDB-Wasm, MapLibre GL JS, CloudFlare Pagesを使って、オープンデータを可視化してみたときの学び",
+    "link": "https://zenn.dev/ckreal/articles/db3617de448bb4",
+    "pubDate": "Mon, 29 Sep 2025 22:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -48,10 +96,10 @@
     "pubDate": "Mon, 29 Sep 2025 12:41:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "白ごはん.com、個人が17年かけて運営していた「丁寧に料理したいとき本当に大活躍する」",
-    "link": "https://togetter.com/li/2609091",
-    "pubDate": "2025-09-29T12:19:34.000Z"
+    "site": "Zenn",
+    "title": "初心者のための最短でPythonを学ぶ本",
+    "link": "https://zenn.dev/matsuno0125ai/books/9dee2356178cbc",
+    "pubDate": "Mon, 29 Sep 2025 12:16:47 GMT"
   },
   {
     "site": "Zenn",
@@ -66,46 +114,22 @@
     "pubDate": "Mon, 29 Sep 2025 11:26:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "私はどうやって技術力を上げたのか",
-    "link": "https://speakerdeck.com/yusukebe/si-hadouyatuteji-shu-li-woshang-getanoka",
-    "pubDate": "2025-09-29T10:37:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "パスキー認証に対する脅威と対策 (2025秋)",
     "link": "https://zenn.dev/mixi/articles/3237e8d5c18a62",
     "pubDate": "Mon, 29 Sep 2025 10:26:20 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "サーバーレスで無料！DifyとCloudflare Workersで作るDiscord AIボット",
+    "link": "https://zenn.dev/lnkiai/articles/f4e0af75c42e46",
+    "pubDate": "Mon, 29 Sep 2025 10:26:15 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Claude Codeが刷新した開発現場と、人間に残された仕事",
     "link": "https://tonkotsuboy.github.io/20250929-postdev/",
     "pubDate": "2025-09-29T10:22:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[TypeScript]Cloudflare WorkersとDurable Objectsでオンラインゲーム作った(WebSocket)",
-    "link": "https://zenn.dev/tkithrta/articles/1b9f6acca6a82b",
-    "pubDate": "Mon, 29 Sep 2025 08:00:39 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "最小限のコマンドでADKをCloud Runにデプロイする",
-    "link": "https://qiita.com/fukagawahiroki/items/e14775cac5cdef23d02e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-29T07:39:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 配列#3 〜配列を完全攻略！ -二次元配列-～",
-    "link": "https://qiita.com/hitomin_poke/items/8a51461b75a65c4602c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-29T03:54:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "71歳の私が、AIと協働してFlutterアプリを3週間で作り上げて確信したこと。「プログラミング学習の常識」は、もう終わった。 - Qiita",
-    "link": "https://qiita.com/yniji/items/56a86283ddef245bc35f",
-    "pubDate": "2025-09-29T03:13:00.000Z"
   },
   {
     "site": "Qiita",
@@ -121,21 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "PostgreSQLで結合時のパフォーマンスを確認してみる",
-    "link": "https://qiita.com/Kiita0430/items/73ef2a3831745604423c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-29T00:09:23.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "71歳の私が、AIと協働してFlutterアプリを3週間で作り上げて確信したこと。「プログラミング学習の常識」は、もう終わった。",
     "link": "https://qiita.com/yniji/items/56a86283ddef245bc35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-28T23:43:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go Conference 2025 参加レポート",
-    "link": "https://zenn.dev/yasse/articles/3ca24c274448e2",
-    "pubDate": "Sun, 28 Sep 2025 17:13:11 GMT"
   },
   {
     "site": "Qiita",
@@ -144,28 +156,16 @@
     "pubDate": "2025-09-28T16:20:43.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "コーディングエージェントを汎用AIエージェントとして使う",
-    "link": "https://zenn.dev/robustonian/articles/spirit_invest_agent",
-    "pubDate": "Sun, 28 Sep 2025 13:15:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[Unity] セーブ機能はもっと楽できるはず",
-    "link": "https://zenn.dev/fish_dolls/articles/7401bee1ceb5c3",
-    "pubDate": "Sun, 28 Sep 2025 12:45:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gitコマンド覚えなくてOK！VSCode「Git Graph」で始める超かんたんGit入門 | 初心者向け基本操作・使い方ガイド",
-    "link": "https://zenn.dev/rikuogawa/articles/083025a97ede40",
-    "pubDate": "Sun, 28 Sep 2025 12:10:43 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "気づきが「実は本に書いてあった」となるメモ術",
     "link": "https://qiita.com/mkt_hanada/items/9552a30c244020e7fa0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-28T04:39:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "RAG精度改善を解説する本を出版しました",
+    "link": "https://qiita.com/xxyc/items/3d9bac8b9da2ebf92f03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-28T03:26:00.000Z"
   },
   {
     "site": "Qiita",
