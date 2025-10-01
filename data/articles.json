@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "OpenAI、生成AI動画だけのSNS「Sora」発表--文章から自身の映像、短編アニメなど生成",
+    "link": "https://japan.cnet.com/article/35238621/",
+    "pubDate": "2025-09-30T23:46:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "男性が“女性の胸”に魅了されるのはなぜ？　欧州の研究者らが調査　「隠れているものほど欲望をかき立てる……？」",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/01/news027.html",
+    "pubDate": "2025-09-30T23:37:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「長距離無線LAN」は日本国内でも活躍していた。いったいどんな場所で使われているのか？　バッファローに聞いた ～黒部ダムにも導入事例",
     "link": "https://internet.watch.impress.co.jp/docs/special/2051258.html",
     "pubDate": "2025-09-30T22:08:09.000Z"
@@ -10,6 +22,12 @@
     "title": "【号外・速報！】最強の動画生成AI & 打倒TikTokアプリSora2がOpenAIから発表された！",
     "link": "https://qiita.com/hikarun_videoai/items/a98afadb15b2b1652d2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-30T19:18:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Sora 2 発表関連情報まとめ",
+    "link": "https://zenn.dev/schroneko/articles/openai-sora-2",
+    "pubDate": "Tue, 30 Sep 2025 18:37:01 GMT"
   },
   {
     "site": "Hatena",
@@ -25,9 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "オゾン層、2066年までに完全復旧する見込み",
-    "link": "https://www.gizmodo.jp/2025/09/ozone-layer-full-recovery-3.html",
-    "pubDate": "2025-09-30T14:28:11.000Z"
+    "title": "未だにAIを「統計的に次の単語を予測しているに過ぎない」って言ってる人いる",
+    "link": "https://anond.hatelabo.jp/20250930225212",
+    "pubDate": "2025-09-30T13:55:48.000Z"
   },
   {
     "site": "Zenn",
@@ -54,16 +72,22 @@
     "pubDate": "2025-09-30T10:19:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "検索時の条件がURLに残るプロダクトが好きなんだよという話｜howdy39",
-    "link": "https://note.com/howdy39/n/na4fa1a64a506",
-    "pubDate": "2025-09-30T08:03:04.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "全プロセスが一秒止まる不具合、原因はLinuxカーネルにあり？",
     "link": "https://zenn.dev/turing_motors/articles/a460fe08b54253",
     "pubDate": "Tue, 30 Sep 2025 08:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ベルリンで開催された Fluttercon 2025 EU に参加してきました",
+    "link": "https://zenn.dev/chooyan/articles/94052f1b10c045",
+    "pubDate": "Tue, 30 Sep 2025 07:06:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI Readyなナレッジマネジメント〜議事録の利活用を例に〜",
+    "link": "https://zenn.dev/ubie_dev/articles/8e8c107419601b",
+    "pubDate": "Tue, 30 Sep 2025 06:57:16 GMT"
   },
   {
     "site": "Zenn",
@@ -90,12 +114,6 @@
     "pubDate": "Tue, 30 Sep 2025 04:13:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "GPUなしローカルでも高速・高精度なOCRができるOnnxOCRが凄い",
-    "link": "https://zenn.dev/harumikun/articles/fb9c435acf4070",
-    "pubDate": "2025-09-30T02:28:42.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Sonnet 4.5が登場！ついにBedrockで国内縛りに対応（StrandsとMastraのサンプルコードも）",
     "link": "https://qiita.com/minorun365/items/47a47735829e7c302f70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -118,24 +136,6 @@
     "title": "DuckDB-Wasm, MapLibre GL JS, CloudFlare Pagesを使って、オープンデータを可視化してみたときの学び",
     "link": "https://zenn.dev/ckreal/articles/db3617de448bb4",
     "pubDate": "Mon, 29 Sep 2025 22:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Sonnet 4.5 発表関連情報まとめ",
-    "link": "https://zenn.dev/schroneko/articles/claude-sonnet-4-5",
-    "pubDate": "Mon, 29 Sep 2025 18:18:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "初心者のための最短でPythonを学ぶ本",
-    "link": "https://zenn.dev/matsuno0125ai/books/9dee2356178cbc",
-    "pubDate": "Mon, 29 Sep 2025 12:16:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Temporal Workflow で実現する Durable な AI Agent #LayerX_AI_Agent_ブログリレー",
-    "link": "https://zenn.dev/layerx/articles/b5f6cf6e47221e",
-    "pubDate": "Mon, 29 Sep 2025 12:12:57 GMT"
   },
   {
     "site": "Qiita",
