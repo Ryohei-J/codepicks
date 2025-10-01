@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "AIの仕組みについて漠然と理解している人のために",
+    "link": "https://anond.hatelabo.jp/20251001152931",
+    "pubDate": "2025-10-01T06:30:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ぶっちゃけ日本のIT技術者のレベルが元々低いだけだよね",
+    "link": "https://anond.hatelabo.jp/20251001142227",
+    "pubDate": "2025-10-01T05:25:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "CLAUDE_CONFIG_DIR を設定して、Claude Code の設定ファイルの場所を変更する",
+    "link": "https://qiita.com/ssc-ymuramatsu/items/28f0f73741859f49f17a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-01T04:21:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ライブカメラに映った落雷をAmazon Novaで検出する試み",
+    "link": "https://zenn.dev/weathernews/articles/870c8ac6013593",
+    "pubDate": "Wed, 01 Oct 2025 01:00:17 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "OpenAI、生成AI動画だけのSNS「Sora」発表--文章から自身の映像、短編アニメなど生成",
     "link": "https://japan.cnet.com/article/35238621/",
     "pubDate": "2025-09-30T23:46:34.000Z"
@@ -13,9 +37,21 @@
   },
   {
     "site": "Hatena",
+    "title": "Cursor Learn",
+    "link": "https://cursor.com/learn",
+    "pubDate": "2025-09-30T22:25:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「長距離無線LAN」は日本国内でも活躍していた。いったいどんな場所で使われているのか？　バッファローに聞いた ～黒部ダムにも導入事例",
     "link": "https://internet.watch.impress.co.jp/docs/special/2051258.html",
     "pubDate": "2025-09-30T22:08:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】 なんだこの椅子は！包み込まれるメッシュとあり得ない軽さ。高級チェアに「Steelcase」という選択肢を見つけた",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2047374.html",
+    "pubDate": "2025-09-30T21:56:11.000Z"
   },
   {
     "site": "Qiita",
@@ -49,27 +85,15 @@
   },
   {
     "site": "Zenn",
-    "title": "全プロセスが一秒止まる不具合、原因はLinuxカーネルにあり？",
-    "link": "https://zenn.dev/turing_motors/articles/a460fe08b54253",
-    "pubDate": "2025-09-30T13:49:27.000Z"
+    "title": "React Tokyo ミートアップ #9 イベントレポート",
+    "link": "https://zenn.dev/react_tokyo/articles/9afa2805562855",
+    "pubDate": "Tue, 30 Sep 2025 12:29:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Cursor」によるAIを用いたプログラミングについて学べる講座「Cursor Learn」を無料公開",
-    "link": "https://codezine.jp/news/detail/22319",
-    "pubDate": "2025-09-30T10:54:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "子供3人「完璧に」育て切った最高の母であり妻だと自認する女性が「私ってもしかして全員から嫌われてる？」って気づきかけるアガサ・クリスティのミステリは、教育本より先に読むべき→「これは心が弱ってる時に読んではいけない」",
-    "link": "https://posfie.com/@mumimushunyu/p/aQWQK1I",
-    "pubDate": "2025-09-30T10:34:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Vue にまつわる3つのよくある誤解と、私がVueを選ぶ4つの理由",
-    "link": "https://speakerdeck.com/ytr0903/vue-nimatuwaru3tunoyokuaruwu-jie-to-si-gavuewoxuan-bu4tunoli-you",
-    "pubDate": "2025-09-30T10:19:58.000Z"
+    "site": "Zenn",
+    "title": "アドホック分析をAIで支える ― データマネジメントのライフサイクルをもっと速く回す日記",
+    "link": "https://zenn.dev/dely_jp/articles/47c55622ec2b34",
+    "pubDate": "Tue, 30 Sep 2025 12:00:34 GMT"
   },
   {
     "site": "Zenn",
@@ -90,16 +114,10 @@
     "pubDate": "Tue, 30 Sep 2025 06:57:16 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Go Conference 2025 参加レポート",
-    "link": "https://zenn.dev/notahotel/articles/go-conference-2025-report",
-    "pubDate": "Tue, 30 Sep 2025 06:40:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go Conference 2025 ワークショップレポート",
-    "link": "https://zenn.dev/senoue/articles/9d744233ea06ba",
-    "pubDate": "Tue, 30 Sep 2025 05:28:04 GMT"
+    "site": "Qiita",
+    "title": "OODAループ × Notionテンプレートでプロジェクトの意思決定を高速化した実践記",
+    "link": "https://qiita.com/ota-tsutomu/items/24438601619a9e95443c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-30T05:31:45.000Z"
   },
   {
     "site": "Zenn",
@@ -121,9 +139,9 @@
   },
   {
     "site": "Qiita",
-    "title": "モノリスを“なんちゃってマイクロサービス化”した4ステップ",
-    "link": "https://qiita.com/ota-tsutomu/items/3584dc0140d760866126?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-30T01:07:45.000Z"
+    "title": "ミニハッカソンをやってみたら有意義だった話",
+    "link": "https://qiita.com/schoo_hiroki_takizawa/items/612d017987878c78ead7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-30T01:09:04.000Z"
   },
   {
     "site": "Zenn",
@@ -132,10 +150,16 @@
     "pubDate": "Tue, 30 Sep 2025 00:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "DuckDB-Wasm, MapLibre GL JS, CloudFlare Pagesを使って、オープンデータを可視化してみたときの学び",
-    "link": "https://zenn.dev/ckreal/articles/db3617de448bb4",
-    "pubDate": "Mon, 29 Sep 2025 22:00:01 GMT"
+    "site": "Qiita",
+    "title": "Deep ResearchとNotebookLMを使い倒す！レガシーリプレイスの技術選定と学習コスト削減術",
+    "link": "https://qiita.com/schoo_tetone/items/49564cedd8d2976e2a48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-29T07:59:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIワークフロー自動化で生産性を10倍向上させる方法",
+    "link": "https://qiita.com/QueryPieAI/items/19558f4ebd9a26e45425?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-29T02:29:39.000Z"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "Javaだって捨てたもんじゃないというポエム",
     "link": "https://qiita.com/chaneko/items/289b023a68fc7b3223bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-28T16:20:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "気づきが「実は本に書いてあった」となるメモ術",
-    "link": "https://qiita.com/mkt_hanada/items/9552a30c244020e7fa0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-28T04:39:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "RAG精度改善を解説する本を出版しました",
-    "link": "https://qiita.com/xxyc/items/3d9bac8b9da2ebf92f03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-28T03:26:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIに「元画像になんか似ている画像」の生成を簡単に指示するプロンプト",
-    "link": "https://qiita.com/makotosaekit/items/24ec9b81f8d49057caa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-28T00:56:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【C#】ボタン重複実行はなぜ起きる？ - Windowsメッセージキューの仕組みと対策",
-    "link": "https://qiita.com/Sakai_path/items/dcc004631ada77bff9a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-27T23:19:17.000Z"
   }
 ]
