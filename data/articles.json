@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "AI就職氷河期が米Z世代を直撃している（ニューズウィーク日本版） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/ea3a9a614f38b27f16d7adc8c472318978ad3b06",
-    "pubDate": "2025-10-01T23:01:05.000Z"
+    "title": "画質は？全番組配信する？解約時にFire TV廃棄求めない？「NHK ONE」の気になるところ聞いた",
+    "link": "https://av.watch.impress.co.jp/docs/topic/2051801.html",
+    "pubDate": "2025-10-02T02:59:07.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【特集】 Windows 11の最新版「25H2」登場。現状は24H2とほとんど変わらず、違いが分からない……",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2051755.html",
-    "pubDate": "2025-10-01T22:02:34.000Z"
+    "title": "「NHK ONE」移行エラーは「Gmailにスパム認定されていた可能性」　徐々に解消か",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/02/news061.html",
+    "pubDate": "2025-10-02T02:31:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gmail、POPのサポートを2026年1月に終了へ。海外のGmailユーザーへ順次案内中【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2051818.html",
+    "pubDate": "2025-10-02T02:21:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI就職氷河期が米Z世代を直撃している（ニューズウィーク日本版） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/ea3a9a614f38b27f16d7adc8c472318978ad3b06",
+    "pubDate": "2025-10-01T23:01:05.000Z"
   },
   {
     "site": "Hatena",
@@ -24,6 +36,12 @@
     "pubDate": "2025-10-01T15:33:48.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "uvxで誰でも使えるPython自作ツールを手軽に公開する方法",
+    "link": "https://zenn.dev/karaage0703/articles/3ce79805245fef",
+    "pubDate": "Wed, 01 Oct 2025 14:39:30 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "システムを作る人がまず理解すべきシステム思考の基礎 - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/01/203633",
@@ -31,15 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "JR東日本の全ての指定席券売機が、「自由席」「指定席」というボタンを廃止し「きっぷを買う」のボタンを設置するUIに変更",
-    "link": "https://togetter.com/li/2610053",
-    "pubDate": "2025-10-01T13:22:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【解説】ecspressoはなぜ必要？Terraformと併用するECSデプロイ戦略 - Qiita",
-    "link": "https://qiita.com/N700A/items/99a802307e0184d48e32",
-    "pubDate": "2025-10-01T10:37:02.000Z"
+    "title": "私が面接であったすごいエンジニアの特徴として「タイピング速度が異常に速い」というのがある。タイピングなんてエンジニアの能力と関係ないやんと思うが、意外と相関あるのでは？という話",
+    "link": "https://posfie.com/@taimport/p/cg0aM7P",
+    "pubDate": "2025-10-01T12:40:10.000Z"
   },
   {
     "site": "Qiita",
@@ -60,12 +72,6 @@
     "pubDate": "Wed, 01 Oct 2025 07:39:03 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【60億円流出】Solanaステーキングで何が起きたのかーAPI悪用の可能性と対策",
-    "link": "https://zenn.dev/omakase/articles/b2e85e51ca45ef",
-    "pubDate": "Wed, 01 Oct 2025 06:59:49 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "AIの仕組みについて漠然と理解している人のために",
     "link": "https://anond.hatelabo.jp/20251001152931",
@@ -76,12 +82,6 @@
     "title": "【Tauri】Rust から低遅延にフロントエンドにデータをストリーミングする",
     "link": "https://zenn.dev/gemcook/articles/b08ab45c5ed0e5",
     "pubDate": "Wed, 01 Oct 2025 05:26:29 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ぶっちゃけ日本のIT技術者のレベルが元々低いだけだよね",
-    "link": "https://anond.hatelabo.jp/20251001142227",
-    "pubDate": "2025-10-01T05:25:29.000Z"
   },
   {
     "site": "Qiita",
@@ -97,9 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【保存版】Convex × TanStack Start × Better Auth 認証実装ガイド",
-    "link": "https://zenn.dev/sc30gsw/articles/bb992544c3e636",
-    "pubDate": "Wed, 01 Oct 2025 02:44:19 GMT"
+    "title": "Cursor の新機能「Browser Automation」を使ってみた",
+    "link": "https://zenn.dev/nix/articles/8751bf909737e2",
+    "pubDate": "Wed, 01 Oct 2025 01:27:07 GMT"
   },
   {
     "site": "Zenn",
@@ -139,15 +139,15 @@
   },
   {
     "site": "Zenn",
-    "title": "全プロセスが一秒止まる不具合、原因はLinuxカーネルにあり？",
-    "link": "https://zenn.dev/turing_motors/articles/a460fe08b54253",
-    "pubDate": "Tue, 30 Sep 2025 08:00:02 GMT"
+    "title": "バイブコーディングという地獄",
+    "link": "https://zenn.dev/fugafuga/articles/9f999869812c17",
+    "pubDate": "Tue, 30 Sep 2025 09:17:08 GMT"
   },
   {
     "site": "Zenn",
-    "title": "ベルリンで開催された Fluttercon 2025 EU に参加してきました",
-    "link": "https://zenn.dev/chooyan/articles/94052f1b10c045",
-    "pubDate": "Tue, 30 Sep 2025 07:06:37 GMT"
+    "title": "全プロセスが一秒止まる不具合、原因はLinuxカーネルにあり？",
+    "link": "https://zenn.dev/turing_motors/articles/a460fe08b54253",
+    "pubDate": "Tue, 30 Sep 2025 08:00:02 GMT"
   },
   {
     "site": "Qiita",
