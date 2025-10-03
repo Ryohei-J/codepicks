@@ -1,9 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "【Mac Info】 究極のファイル共有アプリ！Mac、Windows、iPhone、iPad、Android間では「LocalSend」が最強！",
+    "link": "https://pc.watch.impress.co.jp/docs/column/macinfo/2052106.html",
+    "pubDate": "2025-10-02T21:45:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今AIによって起きてることは、擬似的な「能力の民主革命」で、「能力的富裕層」の財産に順強制的に高い税金がかかり、「能力の再分配」が発生してる状態。「富裕層の財産没収して富を再分配して格差是正しろ」の「能力」バージョン。お金じゃなくて能力に対して、超金融課税みたいのが擬似発生してる話",
+    "link": "https://posfie.com/@taimport/p/kyMpjJX",
+    "pubDate": "2025-10-02T14:14:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "官庁出版物30万点、AIモデルに活用へ　国会図書館がNIIに提供",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/02/news102.html",
+    "pubDate": "2025-10-02T14:08:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Webブラウザ上にLinux/Node.sベースのWebアプリ開発環境をWebAssemblyで実装した「BrowserPod」発表。ブラウザ内サーバに別タブからアクセス可能",
+    "link": "https://www.publickey1.jp/blog/25/weblinuxnodeswebwebassemblybrowserpod.html",
+    "pubDate": "2025-10-02T13:59:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWSのナレッジを生成AIで参照できる「AWS Knowledge MCP Server」正式版が登場。公式のドキュメントやAPIリファレンス、アーキテクチャガイダンスなど情報源に",
+    "link": "https://www.publickey1.jp/blog/25/awsaiaws_knowledge_mcp_serverapi.html",
+    "pubDate": "2025-10-02T13:59:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "浮動小数点数に1を掛ける操作は最適化できるか／浮動小数点数のビット列表現のカノニカル性について",
+    "link": "https://zenn.dev/mod_poppo/articles/floating-point-canonicity",
+    "pubDate": "Thu, 02 Oct 2025 13:14:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "サイバー攻撃で出荷停止が続くアサヒ　システム障害で配送の影響は他のビール会社にも…　酒店「大変なことになってきた」【news23】 | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/2203898",
+    "pubDate": "2025-10-02T11:51:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Markdownをプログラミング言語として用いる仕様駆動開発の可能性 ——GitHub Blogより | gihyo.jp",
     "link": "https://gihyo.jp/article/2025/10/spec-driven-development-example",
     "pubDate": "2025-10-02T09:47:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コクヨ、ロゴ刷新　アレンジ広がる594度の斜めライン",
+    "link": "https://www.watch.impress.co.jp/docs/news/2052046.html",
+    "pubDate": "2025-10-02T09:18:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【GCP】Opsエージェントで複数パイプラインを実装し、Loggingに送信する",
+    "link": "https://qiita.com/tuna_tunamayo/items/ee861b9b0f38cf170aa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-02T08:31:50.000Z"
   },
   {
     "site": "Hatena",
@@ -24,28 +78,22 @@
     "pubDate": "Thu, 02 Oct 2025 03:43:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "世界初のAI女優ティリー・ノーウッドが爆誕するもハリウッド俳優から怒りの声が殺到、俳優労働組合も苦言を呈する",
-    "link": "https://gigazine.net/news/20251002-ai-actor-tilly-norwood-outrage-sag-aftra/",
-    "pubDate": "2025-10-02T03:32:41.000Z"
+    "site": "Zenn",
+    "title": "テキスト埋め込みモデルの蒸留に関する調査",
+    "link": "https://zenn.dev/retrieva_tech/articles/c0a7fc6fe35fb4",
+    "pubDate": "Thu, 02 Oct 2025 03:00:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "画質は？全番組配信する？解約時にFire TV廃棄求めない？「NHK ONE」の気になるところ聞いた",
-    "link": "https://av.watch.impress.co.jp/docs/topic/2051801.html",
-    "pubDate": "2025-10-02T02:59:07.000Z"
+    "site": "Zenn",
+    "title": "Claude Code卒業！GitHub Copilotに乗り換えます！",
+    "link": "https://zenn.dev/flinters_blog/articles/db9e9e90ea8dde",
+    "pubDate": "Thu, 02 Oct 2025 03:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「NHK ONE」移行エラーは「Gmailにスパム認定されていた可能性」　徐々に解消か",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/02/news061.html",
-    "pubDate": "2025-10-02T02:31:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gmail、POPのサポートを2026年1月に終了へ。海外のGmailユーザーへ順次案内中【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2051818.html",
-    "pubDate": "2025-10-02T02:21:07.000Z"
+    "site": "Qiita",
+    "title": "書籍「AIエージェント開発/運用入門」のレビューへ参加させていただきました！",
+    "link": "https://qiita.com/har1101/items/d070a6b8181f24ed6697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-01T23:56:21.000Z"
   },
   {
     "site": "Qiita",
@@ -55,51 +103,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【招待コードあり】Veo3超え？！Sora2使ってみた！無料で使える！次世代AI動画生成の未来",
-    "link": "https://qiita.com/nanato12/items/d199738dde6ae616ed1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-01T21:43:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "高校の更衣室で女子数人がBeReal撮ってたのがバレて緊急学年集会が開かれ、学年主任が他にやっている人間がいたら自分から来るように促し、囚人のジレンマのような状況に陥った話",
-    "link": "https://togetter.com/li/2610066",
-    "pubDate": "2025-10-01T16:56:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "SOC2ゆるミートアップ参加レポート",
-    "link": "https://zenn.dev/sayjoy/articles/soc2-yuru-meetup-report",
-    "pubDate": "Wed, 01 Oct 2025 16:34:29 GMT"
+    "title": "Sora 2によって失われる職業ランキング",
+    "link": "https://qiita.com/7mpy/items/10768c5c719d7af8a490?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-01T23:15:13.000Z"
   },
   {
     "site": "Zenn",
     "title": "uvxで誰でも使えるPython自作ツールを手軽に公開する方法",
     "link": "https://zenn.dev/karaage0703/articles/3ce79805245fef",
     "pubDate": "Wed, 01 Oct 2025 14:39:30 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "システムを作る人がまず理解すべきシステム思考の基礎 - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/01/203633",
-    "pubDate": "2025-10-01T13:45:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "React学習ログ No.7",
-    "link": "https://qiita.com/maedaHARUYA/items/0683abf49f3ae60a55dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-01T12:46:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "私が面接であったすごいエンジニアの特徴として「タイピング速度が異常に速い」というのがある。タイピングなんてエンジニアの能力と関係ないやんと思うが、意外と相関あるのでは？という話",
-    "link": "https://posfie.com/@taimport/p/cg0aM7P",
-    "pubDate": "2025-10-01T12:40:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Sora 2の使い方【招待コードはコメントに記載】invite code",
-    "link": "https://qiita.com/7mpy/items/f56283096290a9bf0868?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-01T08:03:24.000Z"
   },
   {
     "site": "Zenn",
@@ -132,22 +144,16 @@
     "pubDate": "Wed, 01 Oct 2025 01:00:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "C++を使った数値計算ライブラリの整備で辛かったこと",
-    "link": "https://zenn.dev/h_shinaoka/articles/896539019fdd08",
-    "pubDate": "Wed, 01 Oct 2025 00:23:04 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【号外・速報！】最強の動画生成AI & 打倒TikTokアプリSora2がOpenAIから発表された！",
     "link": "https://qiita.com/hikarun_videoai/items/a98afadb15b2b1652d2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-30T19:18:36.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Sora 2 発表関連情報まとめ",
-    "link": "https://zenn.dev/schroneko/articles/openai-sora-2",
-    "pubDate": "Tue, 30 Sep 2025 18:37:01 GMT"
+    "site": "Qiita",
+    "title": "【Claude Code】パワーアップした Claude Code for VS Code を確認してみる",
+    "link": "https://qiita.com/ryu-ki/items/49023459c67f0348e3ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-09-30T16:47:14.000Z"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "情シスSlackで知った『基礎からのIT担当者リテラシー』を読んで、業務の振り返りを行う",
     "link": "https://qiita.com/tea_dog/items/8ad3d6025389125ae7b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-30T02:12:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Sonnet 4.5が登場！ついにBedrockで国内縛りに対応（StrandsとMastraのサンプルコードも）",
-    "link": "https://qiita.com/minorun365/items/47a47735829e7c302f70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-30T01:32:15.000Z"
   },
   {
     "site": "Qiita",
