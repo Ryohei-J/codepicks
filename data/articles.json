@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "NHK「新プロジェクトX」プレステ開発の舞台裏に迫る。10月11日20時放送",
+    "link": "https://av.watch.impress.co.jp/docs/news/2052378.html",
+    "pubDate": "2025-10-03T09:07:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「証明写真をAIで生成できた、これは金脈」これでは証明写真の信頼性がなくなってしまうのでは→加工も含め、どこまで許容されるのか話題に",
+    "link": "https://togetter.com/li/2610823",
+    "pubDate": "2025-10-03T08:14:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Sora 2のウォーターマークロゴを消す方法【無料】Video Watermark Remover",
+    "link": "https://qiita.com/7mpy/items/9bf1d9bf90e583f8611d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T06:04:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "動画生成AI「Sora 2」が叩きつけた「著作権法うわのソラ」作戦【生成AIストリーム】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2052295.html",
+    "pubDate": "2025-10-03T05:06:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「本物」のエンジニアはコードに集中すべきで、社内政治は無関係だと考え、政治を嫌うことを誇りに思っていたが、「悪い政治」が勝つくらいならエンジニアも積極的に政治をすべきと考え直した→「世界中同じなんだな…」",
+    "link": "https://posfie.com/@mumimushunyu/p/YWarkwo",
+    "pubDate": "2025-10-03T04:50:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Web制作会社で働いているのだが、 最近、本当に悩ましいことが増えた。 クラ..",
+    "link": "https://anond.hatelabo.jp/20251003115709",
+    "pubDate": "2025-10-03T03:11:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "どのくらい生成AIに任せているかをあらわす指標 - Mitsuyuki.Shiiba",
     "link": "https://bufferings.hatenablog.com/entry/2025/10/02/235024",
     "pubDate": "2025-10-02T23:44:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "やる気満々なのにITセンスゼロな人を見たことあるけど手助けしたくなっちゃいますよねでもそういう人っていくら手助けしてもビックリするほど成長しない→お互いの為にならないね…",
-    "link": "https://posfie.com/@kalofollow/p/rmTjxyk",
-    "pubDate": "2025-10-02T23:26:36.000Z"
+    "site": "Zenn",
+    "title": "ターミナル派待望の GitHub Copilot CLI 使い方まとめ",
+    "link": "https://zenn.dev/10q89s/articles/4a42fb779fde89",
+    "pubDate": "Thu, 02 Oct 2025 23:00:02 GMT"
   },
   {
     "site": "Hatena",
@@ -24,16 +60,22 @@
     "pubDate": "2025-10-02T19:12:09.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "PyCon JP 2025 参加レポ",
+    "link": "https://qiita.com/kitamura-yzrh/items/683bad5824138333a3af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-02T18:08:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS製AIエージェントOSS Strands Agentsの主要機能ハンズオン",
+    "link": "https://zenn.dev/medurance/articles/strands-agents-hands-on",
+    "pubDate": "Thu, 02 Oct 2025 14:32:49 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "今AIによって起きてることは、擬似的な「能力の民主革命」で、「能力的富裕層」の財産に順強制的に高い税金がかかり、「能力の再分配」が発生してる状態。「富裕層の財産没収して富を再分配して格差是正しろ」の「能力」バージョン。お金じゃなくて能力に対して、超金融課税みたいのが擬似発生してる話",
     "link": "https://posfie.com/@taimport/p/kyMpjJX",
     "pubDate": "2025-10-02T14:14:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Webブラウザ上にLinux/Node.sベースのWebアプリ開発環境をWebAssemblyで実装した「BrowserPod」発表。ブラウザ内サーバに別タブからアクセス可能",
-    "link": "https://www.publickey1.jp/blog/25/weblinuxnodeswebwebassemblybrowserpod.html",
-    "pubDate": "2025-10-02T13:59:59.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +90,16 @@
     "pubDate": "Thu, 02 Oct 2025 13:14:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "チームの自律性を重んじるだけでは組織がうまく回らない / 「Spotify’s Failed #SquadGoals」を読み解く - mtx2s’s blog",
-    "link": "https://mtx2s.hatenablog.com/entry/2025/10/02/201310",
-    "pubDate": "2025-10-02T11:25:08.000Z"
+    "site": "Zenn",
+    "title": "エンジニアになって1年目に読み終わった本を振り返る",
+    "link": "https://zenn.dev/prevent/articles/9fa89a131f765f",
+    "pubDate": "Thu, 02 Oct 2025 12:22:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Markdownをプログラミング言語として用いる仕様駆動開発の可能性 ——GitHub Blogより | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/10/spec-driven-development-example",
-    "pubDate": "2025-10-02T09:47:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "コクヨ、ロゴ刷新　594(コクヨ)を意味する斜めライン",
-    "link": "https://www.watch.impress.co.jp/docs/news/2052046.html",
-    "pubDate": "2025-10-02T09:18:13.000Z"
+    "site": "Zenn",
+    "title": "Vue3 + TypeScript で「一度閉じたら二度と出ない」お知らせモーダルを実装する",
+    "link": "https://zenn.dev/hi_kun0912/articles/046fde28d0133e",
+    "pubDate": "Thu, 02 Oct 2025 09:56:59 GMT"
   },
   {
     "site": "Qiita",
@@ -91,12 +127,6 @@
   },
   {
     "site": "Qiita",
-    "title": "書籍「AIエージェント開発/運用入門」のレビューへ参加させていただきました！",
-    "link": "https://qiita.com/har1101/items/d070a6b8181f24ed6697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-01T23:56:21.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "コマンド不要！GUIだけで構築するDifyセルフホスト環境 on OCI",
     "link": "https://qiita.com/yushibats/items/c1e3fddfcb8ec49d5059?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-01T23:25:33.000Z"
@@ -108,6 +138,12 @@
     "pubDate": "2025-10-01T23:15:13.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "4年間ほぼ毎日、少人数技術書読書会を継続できた理由などをふりかえる",
+    "link": "https://qiita.com/nittamatama/items/61eb433aed2c0e1f354f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-01T15:17:05.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "uvxで誰でも使えるPython自作ツールを手軽に公開する方法",
     "link": "https://zenn.dev/karaage0703/articles/3ce79805245fef",
@@ -115,33 +151,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AI時代におけるBIツールのあり方について",
-    "link": "https://zenn.dev/cavernaria/articles/f857da8ffc9db0",
-    "pubDate": "Wed, 01 Oct 2025 07:39:03 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "【Tauri】Rust から低遅延にフロントエンドにデータをストリーミングする",
     "link": "https://zenn.dev/gemcook/articles/b08ab45c5ed0e5",
     "pubDate": "Wed, 01 Oct 2025 05:26:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js × Hono × モノレポで実践する「リアルオプション戦略」：初期の開発速度と将来の柔軟性を両立させるWebシステム設計",
-    "link": "https://zenn.dev/assign/articles/083dfb24afd335",
-    "pubDate": "Wed, 01 Oct 2025 03:38:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cursor の新機能「Browser Automation」を使ってみた",
-    "link": "https://zenn.dev/nix/articles/8751bf909737e2",
-    "pubDate": "Wed, 01 Oct 2025 01:27:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ライブカメラに映った落雷をAmazon Novaで検出する試み",
-    "link": "https://zenn.dev/weathernews/articles/870c8ac6013593",
-    "pubDate": "Wed, 01 Oct 2025 01:00:17 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【解説】ecspressoはなぜ必要？Terraformと併用するECSデプロイ戦略",
     "link": "https://qiita.com/N700A/items/99a802307e0184d48e32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-09-30T08:15:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "情シスSlackで知った『基礎からのIT担当者リテラシー』を読んで、業務の振り返りを行う",
-    "link": "https://qiita.com/tea_dog/items/8ad3d6025389125ae7b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-30T02:12:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Chrome DevTools MCPでWeb開発のチェックを自動化！Playwright MCPとの違いは？",
-    "link": "https://qiita.com/tomada/items/8b22cac69b5247df1c20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-29T20:53:02.000Z"
   }
 ]
