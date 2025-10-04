@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "「何でも反論してくるAI」と議論したら、ChatGPTより思考が深まった話",
+    "link": "https://japan.cnet.com/article/35238779/",
+    "pubDate": "2025-10-04T09:17:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "J-RAGBench：日本企業でRAGするときの落とし穴とは",
+    "link": "https://zenn.dev/neoai/articles/0998f81c39a583",
+    "pubDate": "Sat, 04 Oct 2025 08:53:02 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "海外でITエンジニアをしていた時に予言された事通りに業界がなってる",
     "link": "https://anond.hatelabo.jp/20251004160446",
     "pubDate": "2025-10-04T07:05:38.000Z"
   },
   {
     "site": "Hatena",
-    "title": "動画生成AI「Sora」、著作権配慮し修正へ　アルトマン氏が声明（朝日新聞） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/95d91142a77c6b6d17a77e98d576ef4c8153dc71",
-    "pubDate": "2025-10-04T06:15:09.000Z"
+    "title": "動画生成AI「Sora」、著作権配慮し修正へ　アルトマン氏が声明：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASTB41PCMTB4UHBI00LM.html",
+    "pubDate": "2025-10-04T07:00:19.000Z"
   },
   {
     "site": "Hatena",
@@ -37,12 +49,6 @@
   },
   {
     "site": "Hatena",
-    "title": "ゲーセンで筐体に有線イヤホンを挿してプレイしていたら小学生くらいの子に「それどこで売ってますか？」って聞かれ...→どうやら有線イヤホンの存在を知らなかったらしく砂になった",
-    "link": "https://togetter.com/li/2610957",
-    "pubDate": "2025-10-03T23:16:00.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "アサヒグループホールディングスへのサイバー攻撃についてまとめてみた - piyolog",
     "link": "https://piyolog.hatenadiary.jp/entry/2025/10/04/023247",
     "pubDate": "2025-10-03T22:55:51.000Z"
@@ -60,10 +66,16 @@
     "pubDate": "2025-10-03T21:39:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub、マージコンフリクトをワンクリックで解決可能な新しいUIを提供開始 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/10/github-one-click-merge-conflict-resolution",
-    "pubDate": "2025-10-03T13:06:09.000Z"
+    "site": "Zenn",
+    "title": "LLM用宣言的プログラミング言語 DSPy",
+    "link": "https://zenn.dev/cybernetics/articles/f879e10b53c2db",
+    "pubDate": "Fri, 03 Oct 2025 16:24:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI動画はここまで来た！Sora2を触ってわかった4つのこと",
+    "link": "https://zenn.dev/starai_org/articles/cf1025f36615a1",
+    "pubDate": "Fri, 03 Oct 2025 11:29:47 GMT"
   },
   {
     "site": "Hatena",
@@ -91,9 +103,27 @@
   },
   {
     "site": "Zenn",
+    "title": "v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！",
+    "link": "https://zenn.dev/chot/articles/d5ffeb6de3e7c2",
+    "pubDate": "Fri, 03 Oct 2025 06:00:07 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "cc-sddで仕様駆動開発を試してみた",
     "link": "https://zenn.dev/canly/articles/c77bf9f7a67582",
     "pubDate": "Fri, 03 Oct 2025 03:54:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで開発する時こそ「ユビキタス言語辞書」を作ろう！",
+    "link": "https://zenn.dev/minedia/articles/cb2313fcc47ceb",
+    "pubDate": "Fri, 03 Oct 2025 02:37:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ターミナル派待望の GitHub Copilot CLI 使い方まとめ",
+    "link": "https://zenn.dev/10q89s/articles/4a42fb779fde89",
+    "pubDate": "2025-10-03T01:33:02.000Z"
   },
   {
     "site": "Qiita",
@@ -114,40 +144,10 @@
     "pubDate": "2025-10-02T18:08:26.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AWS製AIエージェントOSS Strands Agentsの主要機能ハンズオン",
-    "link": "https://zenn.dev/medurance/articles/strands-agents-hands-on",
-    "pubDate": "Thu, 02 Oct 2025 14:32:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "浮動小数点数に1を掛ける操作は最適化できるか／浮動小数点数のビット列表現のカノニカル性について",
-    "link": "https://zenn.dev/mod_poppo/articles/floating-point-canonicity",
-    "pubDate": "Thu, 02 Oct 2025 13:14:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニアになって1年目に読み終わった本を振り返る",
-    "link": "https://zenn.dev/prevent/articles/9fa89a131f765f",
-    "pubDate": "Thu, 02 Oct 2025 12:22:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vue3 + TypeScript で「一度閉じたら二度と出ない」お知らせモーダルを実装する",
-    "link": "https://zenn.dev/hi_kun0912/articles/046fde28d0133e",
-    "pubDate": "Thu, 02 Oct 2025 09:56:59 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Chromeのレコーダー機能でプリザンターの操作を簡易自動化",
     "link": "https://qiita.com/sasaki-59426/items/097e5c39c2bf0bbc621c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-02T05:14:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "物体検出モデルの推論高速化入門",
-    "link": "https://zenn.dev/eversteel_tech/articles/51f9b749b8f051",
-    "pubDate": "Thu, 02 Oct 2025 03:43:47 GMT"
   },
   {
     "site": "Qiita",
