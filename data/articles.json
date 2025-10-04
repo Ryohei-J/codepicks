@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "はてなカウンティングの iOS アプリ版ができました！ - はてラボ 開発者ブログ",
-    "link": "https://labo.hatenastaff.com/entry/2025/10/03/190518",
-    "pubDate": "2025-10-03T10:10:18.000Z"
+    "title": "ゲーセンで筐体に有線イヤホンを挿してプレイしていたら小学生くらいの子に「それどこで売ってますか？」って聞かれ...→どうやら有線イヤホンの存在を知らなかったらしく砂になった",
+    "link": "https://togetter.com/li/2610957",
+    "pubDate": "2025-10-03T23:16:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アサヒグループホールディングスへのサイバー攻撃についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2025/10/04/023247",
+    "pubDate": "2025-10-03T22:55:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "嫁の職場の話を聞いてると世の中の非ITの職場はExcelやWord使うだけでとても時間をかけて必死にやってるんだなって分かる。そもそもPC使えるのが数人しかいないとか→「IT職、この点を忘れて設計しがち」",
+    "link": "https://posfie.com/@kalofollow/p/4FaW7je",
+    "pubDate": "2025-10-03T10:09:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "めぶき☆ちゃんねる",
+    "link": "https://mebuki.moe/",
+    "pubDate": "2025-10-03T10:01:29.000Z"
   },
   {
     "site": "Hatena",
@@ -19,15 +37,21 @@
   },
   {
     "site": "Qiita",
+    "title": "HULFT10 for Containerが管理情報をAPIで操作できるようになった",
+    "link": "https://qiita.com/SoichiroKikuchi/items/e2e745557292759c79b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T07:59:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIはどこまでテストができるのか？AIテストエージェントの現在地と課題",
+    "link": "https://zenn.dev/ubie_dev/articles/dc6a0d8f74fd76",
+    "pubDate": "Fri, 03 Oct 2025 07:15:43 GMT"
+  },
+  {
+    "site": "Qiita",
     "title": "Sora 2のウォーターマークロゴを消す方法【無料】Video Watermark Remover",
     "link": "https://qiita.com/7mpy/items/9bf1d9bf90e583f8611d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-03T06:04:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "動画生成AI「Sora 2」が叩きつけた「著作権法うわのソラ」作戦【生成AIストリーム】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2052295.html",
-    "pubDate": "2025-10-03T05:06:15.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +72,40 @@
     "pubDate": "2025-10-03T03:11:46.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeで開発する時こそ「ユビキタス言語辞書」を作ろう！",
+    "link": "https://zenn.dev/minedia/articles/cb2313fcc47ceb",
+    "pubDate": "Fri, 03 Oct 2025 02:37:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "TiDB User Day 2025 に参加なぅ",
+    "link": "https://zenn.dev/awache/articles/45f533aa295713",
+    "pubDate": "Fri, 03 Oct 2025 02:11:02 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "どのくらい生成AIに任せているかをあらわす指標 - Mitsuyuki.Shiiba",
-    "link": "https://bufferings.hatenablog.com/entry/2025/10/02/235024",
-    "pubDate": "2025-10-02T23:44:55.000Z"
+    "title": "【レビュー】 ソニーのモニターヘッドフォン「MDR-M1」がいよいよ日本に来たぞ！ CD900STユーザーがじっくり使ってみた",
+    "link": "https://av.watch.impress.co.jp/docs/review/review/2051276.html",
+    "pubDate": "2025-10-03T01:49:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【アクセシビリティ】主要OSのアクセシビリティ機能まとめ（見えにくい人向け）",
+    "link": "https://qiita.com/ogawa_slj/items/8ac0f676660553e5554f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T00:33:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS環境でのアーキテクチャ設計を整理してみる",
+    "link": "https://qiita.com/mob_engineer/items/e25f2411040bd063780b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-02T23:13:27.000Z"
   },
   {
     "site": "Zenn",
     "title": "ターミナル派待望の GitHub Copilot CLI 使い方まとめ",
     "link": "https://zenn.dev/10q89s/articles/4a42fb779fde89",
     "pubDate": "Thu, 02 Oct 2025 23:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code卒業！GitHub Copilotに乗り換えます！",
-    "link": "https://zenn.dev/flinters_blog/articles/db9e9e90ea8dde",
-    "pubDate": "2025-10-02T19:12:09.000Z"
   },
   {
     "site": "Qiita",
@@ -78,12 +120,6 @@
     "pubDate": "Thu, 02 Oct 2025 14:32:49 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "今AIによって起きてることは、擬似的な「能力の民主革命」で、「能力的富裕層」の財産に順強制的に高い税金がかかり、「能力の再分配」が発生してる状態。「富裕層の財産没収して富を再分配して格差是正しろ」の「能力」バージョン。お金じゃなくて能力に対して、超金融課税みたいのが擬似発生してる話",
-    "link": "https://posfie.com/@taimport/p/kyMpjJX",
-    "pubDate": "2025-10-02T14:14:31.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "浮動小数点数に1を掛ける操作は最適化できるか／浮動小数点数のビット列表現のカノニカル性について",
     "link": "https://zenn.dev/mod_poppo/articles/floating-point-canonicity",
@@ -96,28 +132,16 @@
     "pubDate": "Thu, 02 Oct 2025 12:22:52 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Vue3 + TypeScript で「一度閉じたら二度と出ない」お知らせモーダルを実装する",
-    "link": "https://zenn.dev/hi_kun0912/articles/046fde28d0133e",
-    "pubDate": "Thu, 02 Oct 2025 09:56:59 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "【GCP】Opsエージェントで複数パイプラインを実装し、Loggingに送信する",
-    "link": "https://qiita.com/tuna_tunamayo/items/ee861b9b0f38cf170aa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-02T08:31:50.000Z"
+    "title": "ECS on EC2で導入した自社製品コンテナ（HULFT10）をECSマネージドインスタンスへ移行できるか検証してみた",
+    "link": "https://qiita.com/Akifumi_Nakamura/items/5262340348eb20ba58a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-02T11:05:08.000Z"
   },
   {
     "site": "Zenn",
     "title": "物体検出モデルの推論高速化入門",
     "link": "https://zenn.dev/eversteel_tech/articles/51f9b749b8f051",
     "pubDate": "Thu, 02 Oct 2025 03:43:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "テキスト埋め込みモデルの蒸留に関する調査",
-    "link": "https://zenn.dev/retrieva_tech/articles/c0a7fc6fe35fb4",
-    "pubDate": "Thu, 02 Oct 2025 03:00:02 GMT"
   },
   {
     "site": "Zenn",
@@ -133,9 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Sora 2によって失われる職業ランキング",
-    "link": "https://qiita.com/7mpy/items/10768c5c719d7af8a490?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-01T23:15:13.000Z"
+    "title": "【初心者歓迎】C#だけでWebゲームを1時間で作る javascriptやAJAX不要！Blazorの凄さを体験する",
+    "link": "https://qiita.com/masayahak/items/0e6c82497ad63c856e3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-01T22:59:36.000Z"
   },
   {
     "site": "Qiita",
@@ -150,33 +174,9 @@
     "pubDate": "Wed, 01 Oct 2025 14:39:30 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【Tauri】Rust から低遅延にフロントエンドにデータをストリーミングする",
-    "link": "https://zenn.dev/gemcook/articles/b08ab45c5ed0e5",
-    "pubDate": "Wed, 01 Oct 2025 05:26:29 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "【号外・速報！】最強の動画生成AI & 打倒TikTokアプリSora2がOpenAIから発表された！",
-    "link": "https://qiita.com/hikarun_videoai/items/a98afadb15b2b1652d2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-30T19:18:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Claude Code】パワーアップした Claude Code for VS Code を確認してみる",
-    "link": "https://qiita.com/ryu-ki/items/49023459c67f0348e3ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-30T16:47:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【書評】『AIエージェント開発/運用入門』これからAIエージェント開発を始めたいエンジニアへ",
-    "link": "https://qiita.com/hedgehog051/items/ca64f9958addebc58cf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-30T14:41:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【解説】ecspressoはなぜ必要？Terraformと併用するECSデプロイ戦略",
-    "link": "https://qiita.com/N700A/items/99a802307e0184d48e32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-09-30T08:15:35.000Z"
+    "title": "よっしゃ、Windowsのサービス状況を可視化したぞ...でも、ずっと画面を見ているのは...。なんかあった時に教えてほしい。そんな時はこれ!やってみて!!",
+    "link": "https://qiita.com/khara-nrkk/items/3814f023c87d25cc4aed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-01T01:31:07.000Z"
   }
 ]
