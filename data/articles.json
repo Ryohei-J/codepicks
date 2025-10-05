@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "『みらい まる見え政治資金』を支える技術-国政政党がリリースしたOSSの技術選定と実装について｜Jun Ito",
+    "link": "https://note.com/jujunjun110/n/nee305ca004ac",
+    "pubDate": "2025-10-05T11:17:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "95%以上をLLMが実装。『みらいまる見え政治資金』を45日で完成させた、AIネイティブな開発手法についてご紹介｜Jun Ito",
+    "link": "https://note.com/jujunjun110/n/na653d4120d7e",
+    "pubDate": "2025-10-05T11:11:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "事例で学ぶ、 Microsoft Azure活用術 ～クラウド移行編～(201) ゼロトラストの本質はビジネスに価値をもたらすこと――アサヒグループジャパンの取り組みと、マイクロソフトの統合セキュリティ対策スイートへの期待",
+    "link": "https://news.mynavi.jp/techplus/kikaku/azure_case_td-201/",
+    "pubDate": "2025-10-05T10:26:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Obsidian×AIの活用について",
+    "link": "https://speakerdeck.com/onikun94/obsidianxainohuo-yong-nituite",
+    "pubDate": "2025-10-05T09:51:49.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "投資で破産しないための数学：ケリー基準を理解する - Qiita",
     "link": "https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf",
@@ -12,16 +36,16 @@
     "pubDate": "2025-10-05T03:08:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI駆動開発大阪支部で「詳しくない分野でのVibe Codingで困ったことと学び」を発表してきました - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2025/10/01/180000",
-    "pubDate": "2025-10-05T01:33:19.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "J-RAGBench：日本企業でRAGするときの落とし穴とは",
     "link": "https://zenn.dev/neoai/articles/0998f81c39a583",
     "pubDate": "2025-10-04T23:03:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "testing/synctestはGoランタイムの世界を改変していた",
+    "link": "https://zenn.dev/yuta_kakiki/articles/9ec93623cfdc81",
+    "pubDate": "Sat, 04 Oct 2025 18:27:05 GMT"
   },
   {
     "site": "Qiita",
@@ -40,12 +64,6 @@
     "title": "CloudFormation で閉域 VPC、TGW、Route 53 Resolver の検証環境を一気呵成に構築する",
     "link": "https://qiita.com/takeda_h/items/41c486e461460b933b81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-04T15:37:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ネタ記事】Akamai x UNIQLOのコラボTシャツに書いているコードをJavaでOCRして解読してみる - Qiita",
-    "link": "https://qiita.com/tomo-2525/items/1567cec1ef8e53614810",
-    "pubDate": "2025-10-04T14:48:36.000Z"
   },
   {
     "site": "Zenn",
@@ -85,7 +103,7 @@
   },
   {
     "site": "Zenn",
-    "title": "pointermoveで真面目なドラッグ",
+    "title": "pointermoveで真面目にドラッグ",
     "link": "https://zenn.dev/nishinoshake/articles/ef76a7a740f4de",
     "pubDate": "Sat, 04 Oct 2025 09:54:17 GMT"
   },
@@ -114,22 +132,10 @@
     "pubDate": "Sat, 04 Oct 2025 08:40:09 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！",
-    "link": "https://zenn.dev/chot/articles/d5ffeb6de3e7c2",
-    "pubDate": "2025-10-04T08:37:47.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "投資で破産しないための数学：ケリー基準を理解する",
     "link": "https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-04T06:50:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なつかしのコピペを「Sora 2」に動画化させまくってみた　「もぅﾏﾁﾞ無理」「猫の喧嘩」など……どんな映像になる？",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/04/news025.html",
-    "pubDate": "2025-10-04T06:00:57.000Z"
   },
   {
     "site": "Zenn",
@@ -160,12 +166,6 @@
     "title": "LLM用宣言的プログラミング言語 DSPy",
     "link": "https://zenn.dev/cybernetics/articles/f879e10b53c2db",
     "pubDate": "Fri, 03 Oct 2025 16:24:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "freee株式会社実務インターン記",
-    "link": "https://zenn.dev/mire0726/articles/d89f89ef558b20",
-    "pubDate": "Fri, 03 Oct 2025 09:30:55 GMT"
   },
   {
     "site": "Qiita",
