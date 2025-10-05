@@ -1,5 +1,47 @@
 [
   {
+    "site": "Zenn",
+    "title": "J-RAGBench：日本企業でRAGするときの落とし穴とは",
+    "link": "https://zenn.dev/neoai/articles/0998f81c39a583",
+    "pubDate": "2025-10-04T23:03:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code 2.0.0 のメジャーアップデートについて",
+    "link": "https://zenn.dev/oikon/articles/claude-code-2",
+    "pubDate": "2025-10-04T14:37:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "老いるAI人格育成エンジンを自作する",
+    "link": "https://zenn.dev/saldra/articles/fa8ea14b5a1880",
+    "pubDate": "Sat, 04 Oct 2025 14:26:00 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "JavaScriptでハングルを分解してタイピングソフトを作る",
+    "link": "https://qiita.com/ishi720/items/e253170afb94c5297969?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T14:22:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAIの動画AI「Sora」、日本発キャラクターの無断利用を制限 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN040IF0U5A001C2000000/",
+    "pubDate": "2025-10-04T13:07:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
+    "link": "https://qiita.com/minorun365/items/deb10c8e7a6b1219e595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T12:27:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "本屋さんを開催する技術（Kaigi on Rails 2025）",
+    "link": "https://zenn.dev/ko1/articles/69d8db0227b40a",
+    "pubDate": "Sat, 04 Oct 2025 09:19:47 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「何でも反論してくるAI」と議論したら、ChatGPTより思考が深まった話",
     "link": "https://japan.cnet.com/article/35238779/",
@@ -12,22 +54,40 @@
     "pubDate": "Sat, 04 Oct 2025 08:53:02 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "今からNeovimを始める人のLSP最短設定 (0.11, 2025-10-04現在)",
+    "link": "https://zenn.dev/ras96/articles/4d9d9493d29c06",
+    "pubDate": "Sat, 04 Oct 2025 08:40:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！",
+    "link": "https://zenn.dev/chot/articles/d5ffeb6de3e7c2",
+    "pubDate": "2025-10-04T08:37:47.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "海外でITエンジニアをしていた時に予言された事通りに業界がなってる",
     "link": "https://anond.hatelabo.jp/20251004160446",
     "pubDate": "2025-10-04T07:05:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "動画生成AI「Sora」、著作権配慮し修正へ　アルトマン氏が声明：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASTB41PCMTB4UHBI00LM.html",
-    "pubDate": "2025-10-04T07:00:19.000Z"
+    "site": "Qiita",
+    "title": "投資で破産しないための数学：ケリー基準を理解する",
+    "link": "https://qiita.com/tikeda123/items/3f4dd42c8f57333deeaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-04T06:50:42.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「何もしてないのにパソコン壊れた～」「えっと再起動はした？ドライバの更新とか」→「女性は解決ではなく共感を…違う？」「でもWindowsアップデートしたよね？」",
-    "link": "https://posfie.com/@mumimushunyu/p/opD9Tsy",
-    "pubDate": "2025-10-04T03:30:28.000Z"
+    "title": "なつかしのコピペを「Sora 2」に動画化させまくってみた　「もぅﾏﾁﾞ無理」「猫の喧嘩」など……どんな映像になる？",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/04/news025.html",
+    "pubDate": "2025-10-04T06:00:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "裏日本の零細企業だったコマツが世界2位に大躍進した秘訣がここ。どんな僻地でも製品に不具合があると飛んでいくという。コマツが「客先不具合の現地検証は勉強になるから来てください」と誘ったが拒否した某重電メーカが凋落したニュースを目にして、コマツは正しかった話",
+    "link": "https://posfie.com/@taimport/p/3lm3xrc",
+    "pubDate": "2025-10-04T04:49:00.000Z"
   },
   {
     "site": "Hatena",
@@ -39,19 +99,13 @@
     "site": "Zenn",
     "title": "小手先に見えるテクニックでも、実はReact的に考えられる",
     "link": "https://zenn.dev/uhyo/articles/react-key-techniques",
-    "pubDate": "2025-10-04T01:56:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "小手先に見えるテクニックでも、実はReact的に考えられる",
-    "link": "https://zenn.dev/uhyo/articles/react-key-techniques",
     "pubDate": "Sat, 04 Oct 2025 01:52:46 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "アサヒグループホールディングスへのサイバー攻撃についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2025/10/04/023247",
-    "pubDate": "2025-10-03T22:55:51.000Z"
+    "site": "Qiita",
+    "title": "OSの入った物理ディスクをコピーしてEC2で動かしてみた",
+    "link": "https://qiita.com/tarekatsu_eng/items/00de2123c3d90fc95251?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-03T22:46:02.000Z"
   },
   {
     "site": "Zenn",
@@ -67,33 +121,15 @@
   },
   {
     "site": "Zenn",
-    "title": "LLM用宣言的プログラミング言語 DSPy",
-    "link": "https://zenn.dev/cybernetics/articles/f879e10b53c2db",
-    "pubDate": "Fri, 03 Oct 2025 16:24:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI動画はここまで来た！Sora2を触ってわかった4つのこと",
-    "link": "https://zenn.dev/starai_org/articles/cf1025f36615a1",
-    "pubDate": "Fri, 03 Oct 2025 11:29:47 GMT"
+    "title": "freee株式会社実務インターン記",
+    "link": "https://zenn.dev/mire0726/articles/d89f89ef558b20",
+    "pubDate": "Fri, 03 Oct 2025 09:30:55 GMT"
   },
   {
     "site": "Hatena",
-    "title": "嫁の職場の話を聞いてると世の中の非ITの職場はExcelやWord使うだけでとても時間をかけて必死にやってるんだなって分かる。そもそもPC使えるのが数人しかいないとか→「IT職、この点を忘れて設計しがち」",
-    "link": "https://posfie.com/@kalofollow/p/4FaW7je",
-    "pubDate": "2025-10-03T10:09:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "HULFT10 for Containerが管理情報をAPIで操作できるようになった",
-    "link": "https://qiita.com/SoichiroKikuchi/items/e2e745557292759c79b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-03T07:59:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "メール設計ガイドラインを公開しました | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20251003a/",
-    "pubDate": "2025-10-03T07:30:37.000Z"
+    "title": "楽天Gのネットスーパー、大阪・兵庫から撤退　7～9月期に270億円の減損損失計上見込み",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/03/news106.html",
+    "pubDate": "2025-10-03T09:09:05.000Z"
   },
   {
     "site": "Zenn",
@@ -114,28 +150,10 @@
     "pubDate": "Fri, 03 Oct 2025 03:54:11 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeで開発する時こそ「ユビキタス言語辞書」を作ろう！",
-    "link": "https://zenn.dev/minedia/articles/cb2313fcc47ceb",
-    "pubDate": "Fri, 03 Oct 2025 02:37:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ターミナル派待望の GitHub Copilot CLI 使い方まとめ",
-    "link": "https://zenn.dev/10q89s/articles/4a42fb779fde89",
-    "pubDate": "2025-10-03T01:33:02.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWS環境でのアーキテクチャ設計を整理してみる",
     "link": "https://qiita.com/mob_engineer/items/e25f2411040bd063780b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-02T23:13:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ターミナル派待望の GitHub Copilot CLI 使い方まとめ",
-    "link": "https://zenn.dev/10q89s/articles/4a42fb779fde89",
-    "pubDate": "Thu, 02 Oct 2025 23:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "【初心者歓迎】C#だけでWebゲームを1時間で作る javascriptやAJAX不要！Blazorの凄さを体験する",
     "link": "https://qiita.com/masayahak/items/0e6c82497ad63c856e3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-01T22:59:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "4年間ほぼ毎日、少人数技術書読書会を継続できた理由などをふりかえる",
-    "link": "https://qiita.com/nittamatama/items/61eb433aed2c0e1f354f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-01T15:17:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS Route53で取得したドメインを他のAWSアカウントに移管する",
-    "link": "https://qiita.com/ry-harada/items/571b10c73dcbe1b7f5c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-01T13:25:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "機械学習は“内挿に強く外挿に弱い”を図で理解する — LightGBM vs 線形回帰",
-    "link": "https://qiita.com/Seine_A_Shintani/items/4baee9ff7c2f6942bff8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-01T11:27:27.000Z"
   }
 ]
