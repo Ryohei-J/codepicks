@@ -1,9 +1,21 @@
 [
   {
+    "site": "Hatena",
+    "title": "ガストで昼間からビール飲んでるおじさんが配膳ロボットにお触りしてて、ロボットの方も「くすぐったいにゃん」とか言ってた… 何なんだこの空間は",
+    "link": "https://togetter.com/li/2611523",
+    "pubDate": "2025-10-05T03:08:43.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "J-RAGBench：日本企業でRAGするときの落とし穴とは",
     "link": "https://zenn.dev/neoai/articles/0998f81c39a583",
     "pubDate": "2025-10-04T23:03:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ネタ記事】Akamai x UNIQLOのコラボTシャツに書いているコードをJavaでOCRして解読してみる - Qiita",
+    "link": "https://qiita.com/tomo-2525/items/1567cec1ef8e53614810",
+    "pubDate": "2025-10-04T14:48:36.000Z"
   },
   {
     "site": "Zenn",
@@ -24,16 +36,28 @@
     "pubDate": "2025-10-04T14:22:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OpenAIの動画AI「Sora」、日本発キャラクターの無断利用を制限 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN040IF0U5A001C2000000/",
-    "pubDate": "2025-10-04T13:07:06.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
     "link": "https://qiita.com/minorun365/items/deb10c8e7a6b1219e595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-04T12:27:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "5,544円は衝撃的。｢あの名キーボード｣を知る指が、買ってよしと叫んだ",
+    "link": "https://www.gizmodo.jp/2025/10/amazon-prime-thanksgiving-keychron-b1-pro.html",
+    "pubDate": "2025-10-04T12:23:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Redditが日本語訳されてグーグル検索の結果に表示されることが増えた。 - 世界のねじを巻くブログ",
+    "link": "https://www.nejimakiblog.com/entry/reddit-google-search-japanese-nihongo-translation",
+    "pubDate": "2025-10-04T10:09:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "pointermoveで真面目なドラッグ",
+    "link": "https://zenn.dev/nishinoshake/articles/ef76a7a740f4de",
+    "pubDate": "Sat, 04 Oct 2025 09:54:17 GMT"
   },
   {
     "site": "Zenn",
@@ -42,10 +66,10 @@
     "pubDate": "Sat, 04 Oct 2025 09:19:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「何でも反論してくるAI」と議論したら、ChatGPTより思考が深まった話",
-    "link": "https://japan.cnet.com/article/35238779/",
-    "pubDate": "2025-10-04T09:17:46.000Z"
+    "site": "Zenn",
+    "title": "CodeXとClaude Code、「今のところ」どっちがストレスなくタスクを頼める？",
+    "link": "https://zenn.dev/manabu/articles/f2f6b90f95c039",
+    "pubDate": "Sat, 04 Oct 2025 09:05:34 GMT"
   },
   {
     "site": "Zenn",
@@ -90,12 +114,6 @@
     "pubDate": "2025-10-04T04:49:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "メール設計ガイドライン | フューチャー株式会社",
-    "link": "https://future-architect.github.io/arch-guidelines/documents/forMail/mail_guidelines.html",
-    "pubDate": "2025-10-04T03:06:43.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "小手先に見えるテクニックでも、実はReact的に考えられる",
     "link": "https://zenn.dev/uhyo/articles/react-key-techniques",
@@ -121,33 +139,15 @@
   },
   {
     "site": "Zenn",
+    "title": "LLM用宣言的プログラミング言語 DSPy",
+    "link": "https://zenn.dev/cybernetics/articles/f879e10b53c2db",
+    "pubDate": "Fri, 03 Oct 2025 16:24:31 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "freee株式会社実務インターン記",
     "link": "https://zenn.dev/mire0726/articles/d89f89ef558b20",
     "pubDate": "Fri, 03 Oct 2025 09:30:55 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "楽天Gのネットスーパー、大阪・兵庫から撤退　7～9月期に270億円の減損損失計上見込み",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/03/news106.html",
-    "pubDate": "2025-10-03T09:09:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIはどこまでテストができるのか？AIテストエージェントの現在地と課題",
-    "link": "https://zenn.dev/ubie_dev/articles/dc6a0d8f74fd76",
-    "pubDate": "Fri, 03 Oct 2025 07:15:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "v0 にデザインシステムを与えて、統一感あるデザインに仕上げよう！",
-    "link": "https://zenn.dev/chot/articles/d5ffeb6de3e7c2",
-    "pubDate": "Fri, 03 Oct 2025 06:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "cc-sddで仕様駆動開発を試してみた",
-    "link": "https://zenn.dev/canly/articles/c77bf9f7a67582",
-    "pubDate": "Fri, 03 Oct 2025 03:54:11 GMT"
   },
   {
     "site": "Qiita",
