@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "はてブが自動で消されてるっぽい",
+    "link": "https://anond.hatelabo.jp/20251006211751",
+    "pubDate": "2025-10-06T12:32:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最近の学生が知らなそうなIT知識",
+    "link": "https://anond.hatelabo.jp/20251006203201",
+    "pubDate": "2025-10-06T11:32:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Google 日本語入力」で“20251006”（YYYYMMDD）形式の日付を変換する方法が便利／きょう、きのう、あす、いま、なう、などの変換で使える！【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2052832.html",
+    "pubDate": "2025-10-06T07:27:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "“macOS→Omarchy”の移行ガイド",
+    "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
+    "pubDate": "2025-10-06T06:24:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "江口寿史氏“トレパク”疑惑の影響広がる　ルミネのポスターが発端、セゾンカードやデニーズなど「事実確認中」",
     "link": "https://www.itmedia.co.jp/news/articles/2510/06/news074.html",
     "pubDate": "2025-10-06T06:17:56.000Z"
@@ -10,6 +34,12 @@
     "title": "【ポケモン×Java】知識編 配列#5 〜配列を完全攻略！-落とし穴-～",
     "link": "https://qiita.com/hitomin_poke/items/f5684f8af1b2ab5e9ce1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T05:37:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows 11を快適にする2つの無償のツール",
+    "link": "https://news.mynavi.jp/techplus/article/20251006-3486267/",
+    "pubDate": "2025-10-06T05:29:17.000Z"
   },
   {
     "site": "Hatena",
@@ -24,6 +54,12 @@
     "pubDate": "2025-10-06T03:09:23.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Rustのパターンマッチってアートだヨネ",
+    "link": "https://zenn.dev/namn1125/articles/1a40205d9f8f9a",
+    "pubDate": "Mon, 06 Oct 2025 02:08:20 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化できた",
     "link": "https://qiita.com/ishikawa_slj/items/05dcae0d429dee8769aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -36,10 +72,10 @@
     "pubDate": "2025-10-06T01:38:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ブラウザ上でお手軽動画圧縮 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/10/misskey-20",
-    "pubDate": "2025-10-06T01:14:15.000Z"
+    "site": "Zenn",
+    "title": "“macOS→Omarchy”の移行ガイド",
+    "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
+    "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT"
   },
   {
     "site": "Hatena",
@@ -49,27 +85,21 @@
   },
   {
     "site": "Hatena",
-    "title": "「1週間で速習する！ゼロイチ Linux」講座を公開しました！ #01linux7days - log4ketancho",
-    "link": "https://www.ketancho.net/entry/01linux7days",
-    "pubDate": "2025-10-05T23:35:08.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ネットで「素人がなに発信してんだ」か書きたい",
     "link": "https://blog.tinect.jp/?p=90317",
     "pubDate": "2025-10-05T23:20:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "どんなにアイデアが秀逸でも、プログラムが平凡なら著作物とはいえないですね",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/06/news003.html",
-    "pubDate": "2025-10-05T21:52:35.000Z"
+    "site": "Zenn",
+    "title": "【なぜAIに設計を任せると成長が止まるのか】Kiroを使っても学べない設計スキルの真実",
+    "link": "https://zenn.dev/sunagaku/articles/0105c57e0a1283",
+    "pubDate": "Sun, 05 Oct 2025 23:06:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ガートナー「先進テクノロジーのハイプサイクル 2025年版」発表。人に代わるマシン・カスタマー、プログラマブル・マネーなど注目",
-    "link": "https://www.publickey1.jp/blog/25/_2025.html",
-    "pubDate": "2025-10-05T14:13:01.000Z"
+    "site": "Zenn",
+    "title": "【28分爆速開発】圧勝したのはどっち？ 最新AI Claude Sonnet 4.5 vs 4.0 ハッカソン対決！",
+    "link": "https://zenn.dev/aws_japan/articles/4b7e43e96d23e2",
+    "pubDate": "Sun, 05 Oct 2025 15:43:06 GMT"
   },
   {
     "site": "Zenn",
@@ -82,12 +112,6 @@
     "title": "ローカル環境でQwen3-VL-30B-A3Bを動かす",
     "link": "https://zenn.dev/robustonian/articles/local_qwen3_vl",
     "pubDate": "Sun, 05 Oct 2025 13:35:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "95%以上をLLMが実装。『みらいまる見え政治資金』を45日で完成させた、AIネイティブな開発手法についてご紹介｜Jun Ito",
-    "link": "https://note.com/jujunjun110/n/na653d4120d7e",
-    "pubDate": "2025-10-05T11:11:26.000Z"
   },
   {
     "site": "Zenn",
@@ -138,34 +162,10 @@
     "pubDate": "2025-10-04T15:58:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "老いるAI人格育成エンジンを自作する",
-    "link": "https://zenn.dev/saldra/articles/fa8ea14b5a1880",
-    "pubDate": "Sat, 04 Oct 2025 14:26:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
     "link": "https://qiita.com/minorun365/items/deb10c8e7a6b1219e595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-04T12:27:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "pointermoveで真面目にドラッグ",
-    "link": "https://zenn.dev/nishinoshake/articles/ef76a7a740f4de",
-    "pubDate": "Sat, 04 Oct 2025 09:54:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CodeXとClaude Code、「今のところ」どっちがストレスなくタスクを頼める？",
-    "link": "https://zenn.dev/manabu/articles/f2f6b90f95c039",
-    "pubDate": "Sat, 04 Oct 2025 09:05:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "J-RAGBench：日本企業でRAGするときの落とし穴とは",
-    "link": "https://zenn.dev/neoai/articles/0998f81c39a583",
-    "pubDate": "Sat, 04 Oct 2025 08:53:02 GMT"
   },
   {
     "site": "Qiita",
