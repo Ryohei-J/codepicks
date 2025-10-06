@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "Sora 2で生成の動画、別SNSに“AI素性隠して”大量投稿し再生数荒稼ぎ　ウォーターマークを消すツールとアルトマン氏の著作権への対応（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2025/10/06/4639.html",
+    "pubDate": "2025-10-05T23:45:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「1週間で速習する！ゼロイチ Linux」講座を公開しました！ #01linux7days - log4ketancho",
+    "link": "https://www.ketancho.net/entry/01linux7days",
+    "pubDate": "2025-10-05T23:35:08.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ネットで「素人がなに発信してんだ」か書きたい",
     "link": "https://blog.tinect.jp/?p=90317",
     "pubDate": "2025-10-05T23:20:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "どんなにアイデアが秀逸でも、プログラムが平凡なら著作物とはいえないですね",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/06/news003.html",
+    "pubDate": "2025-10-05T21:52:35.000Z"
   },
   {
     "site": "Hatena",
@@ -13,15 +31,15 @@
   },
   {
     "site": "Zenn",
+    "title": "読書を資産化するプロセスの見直し備忘録",
+    "link": "https://zenn.dev/mutao/articles/effective-reading-tips",
+    "pubDate": "Sun, 05 Oct 2025 13:54:24 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ローカル環境でQwen3-VL-30B-A3Bを動かす",
     "link": "https://zenn.dev/robustonian/articles/local_qwen3_vl",
     "pubDate": "Sun, 05 Oct 2025 13:35:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "『みらい まる見え政治資金』を支える技術-国政政党がリリースしたOSSの技術選定と実装について｜Jun Ito",
-    "link": "https://note.com/jujunjun110/n/nee305ca004ac",
-    "pubDate": "2025-10-05T11:17:27.000Z"
   },
   {
     "site": "Hatena",
@@ -49,15 +67,15 @@
   },
   {
     "site": "Zenn",
+    "title": "「ゆっくり実況」みたいな動画をAWSサービスを駆使して作ってみる",
+    "link": "https://zenn.dev/aws_japan/articles/acc24ed211393e",
+    "pubDate": "Sun, 05 Oct 2025 07:56:31 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "[2025年10月3日] Sora2は多分何かを壊してしまった (週刊AI)",
     "link": "https://zenn.dev/carenet/articles/5a771c6fb58623",
     "pubDate": "2025-10-05T07:23:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "確率ベクトルの定義 | 確率変数 | 確率 | 数学 | ワイズ",
-    "link": "https://wiis.info/math/probability/random-variable/random-vector/",
-    "pubDate": "2025-10-05T06:14:13.000Z"
   },
   {
     "site": "Qiita",
@@ -73,9 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Foundation Models Frameworkで絵文字を推薦させる仕組み",
-    "link": "https://zenn.dev/azookey/articles/153b1bf4da1119",
-    "pubDate": "Sun, 05 Oct 2025 02:00:01 GMT"
+    "title": "結局フロントエンド実装はAIに何を渡せばいいの? DesignBench論文でわかった画像よりコードが強い理由とその実データ",
+    "link": "https://zenn.dev/emrum/articles/designbench-frontend-code-vs-images",
+    "pubDate": "Sun, 05 Oct 2025 03:54:54 GMT"
   },
   {
     "site": "Zenn",
@@ -102,12 +120,6 @@
     "pubDate": "Sat, 04 Oct 2025 14:26:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "cc-sddで仕様駆動開発を試してみた",
-    "link": "https://zenn.dev/canly/articles/c77bf9f7a67582",
-    "pubDate": "2025-10-04T12:43:51.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
     "link": "https://qiita.com/minorun365/items/deb10c8e7a6b1219e595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -121,12 +133,6 @@
   },
   {
     "site": "Zenn",
-    "title": "本屋さんを開催する技術（Kaigi on Rails 2025）",
-    "link": "https://zenn.dev/ko1/articles/69d8db0227b40a",
-    "pubDate": "Sat, 04 Oct 2025 09:19:47 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "CodeXとClaude Code、「今のところ」どっちがストレスなくタスクを頼める？",
     "link": "https://zenn.dev/manabu/articles/f2f6b90f95c039",
     "pubDate": "Sat, 04 Oct 2025 09:05:34 GMT"
@@ -136,12 +142,6 @@
     "title": "J-RAGBench：日本企業でRAGするときの落とし穴とは",
     "link": "https://zenn.dev/neoai/articles/0998f81c39a583",
     "pubDate": "Sat, 04 Oct 2025 08:53:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "今からNeovimを始める人のLSP最短設定 (0.11, 2025-10-04現在)",
-    "link": "https://zenn.dev/ras96/articles/4d9d9493d29c06",
-    "pubDate": "Sat, 04 Oct 2025 08:40:09 GMT"
   },
   {
     "site": "Qiita",
