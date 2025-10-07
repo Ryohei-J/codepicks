@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "クアルコムがArduinoを買収、新製品「Arduino UNO Q」も発表",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2053295.html",
+    "pubDate": "2025-10-07T13:17:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "割とマジで発達障害がITに向いてるって誰が言いだしたんだ？",
+    "link": "https://anond.hatelabo.jp/20251007213048",
+    "pubDate": "2025-10-07T12:35:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIを生産性向上ではなく賃金抑制のためのツールと考えてみると - YAMDAS現更新履歴",
+    "link": "https://yamdas.hatenablog.com/entry/20251007/ai-is-an-attack-from-above-on-wages",
+    "pubDate": "2025-10-07T11:44:59.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "韓国、政府のオンラインストレージが火災で焼失　8年分の業務資料858TBが消滅か　バックアップなく「気が遠くなる」　現地報道",
     "link": "https://www.itmedia.co.jp/news/articles/2510/07/news112.html",
     "pubDate": "2025-10-07T09:16:09.000Z"
@@ -61,21 +79,15 @@
   },
   {
     "site": "Zenn",
+    "title": "RAGの精度向上手法、がっつりまとめ【2025年】",
+    "link": "https://zenn.dev/knowledgesense/articles/148dfe2ca1d146",
+    "pubDate": "Tue, 07 Oct 2025 00:01:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "OpenAI DevDay 2025の現地レポート【OPENING KEYNOTE編】",
     "link": "https://zenn.dev/galirage/articles/openai-dev-day-2025-keynote",
     "pubDate": "Mon, 06 Oct 2025 23:37:32 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIに表の処理を依頼する際に最も適切なフォーマットは「CSV」「Markdown」「JSON」「自然言語」一体どれなのか？",
-    "link": "https://gigazine.net/news/20251007-ai-table-format/",
-    "pubDate": "2025-10-06T22:29:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 眠っていたRaspberry Piが“航空情報局”に！Flightradar24有料プランを無料で楽しむ裏ワザ",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2052772.html",
-    "pubDate": "2025-10-06T21:47:32.000Z"
   },
   {
     "site": "Qiita",
@@ -100,6 +112,12 @@
     "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
     "link": "https://zenn.dev/tmasuyama1114/books/claude_code_basic",
     "pubDate": "Mon, 06 Oct 2025 15:41:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Build, Don't Buy — 2026年、AIエージェントは内製する時代へ",
+    "link": "https://zenn.dev/satoshissss/articles/5be253a330896c",
+    "pubDate": "Mon, 06 Oct 2025 15:03:47 GMT"
   },
   {
     "site": "Qiita",
@@ -138,28 +156,10 @@
     "pubDate": "2025-10-06T02:05:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "システム思考を使う人が知っておいてよい12のシステムアーキタイプ - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/06/074220",
-    "pubDate": "2025-10-06T01:35:33.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "“macOS→Omarchy”の移行ガイド",
     "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
     "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【なぜAIに設計を任せると成長が止まるのか】Kiroを使っても学べない設計スキルの真実",
-    "link": "https://zenn.dev/sunagaku/articles/0105c57e0a1283",
-    "pubDate": "Sun, 05 Oct 2025 23:06:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "go testのキャッシュの仕組みを理解して、テストコードを変えずにCIを高速化する",
-    "link": "https://zenn.dev/drsprime/articles/go-test-cache-ci-optimization",
-    "pubDate": "Sun, 05 Oct 2025 22:30:01 GMT"
   },
   {
     "site": "Qiita",
