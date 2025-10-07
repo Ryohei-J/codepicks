@@ -1,33 +1,75 @@
 [
   {
     "site": "Hatena",
+    "title": "Windows 11のセットアップ時にユーザーフォルダー名を指定する機能がようやく導入へ／その代わりローカルアカウントを作成する方法は削除、Dev/Betaチャネルでテスト",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2053094.html",
+    "pubDate": "2025-10-07T03:46:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MicrosoftがなんとWindows11インストール時にローカルアカウントを作成するコマンドを削除、今後はMicrosoftアカウントとネット接続必須に",
+    "link": "https://gigazine.net/news/20251007-microsoft-windows-11-without-online-account/",
+    "pubDate": "2025-10-07T03:22:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "これは見逃したら後悔する！ iPad版のAffinity Photo 2, Designer 2, publisher 2がなんと0円の無料！！",
+    "link": "https://coliss.com/articles/products/affinity-for-ipad-free-lifetime.html",
+    "pubDate": "2025-10-07T01:24:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI OCRの検証記録 ~ ニーリーでの検証結果はこうでした ~ - Nealle Developer's Blog",
+    "link": "https://nealle-dev.hatenablog.com/entry/2025/10/07/095853",
+    "pubDate": "2025-10-07T00:59:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenAI DevDay 2025の現地レポート【OPENING KEYNOTE編】",
+    "link": "https://zenn.dev/galirage/articles/openai-dev-day-2025-keynote",
+    "pubDate": "Mon, 06 Oct 2025 23:37:32 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIに表の処理を依頼する際に最も適切なフォーマットは「CSV」「Markdown」「JSON」「自然言語」一体どれなのか？",
+    "link": "https://gigazine.net/news/20251007-ai-table-format/",
+    "pubDate": "2025-10-06T22:29:50.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【特集】 眠っていたRaspberry Piが“航空情報局”に！Flightradar24有料プランを無料で楽しむ裏ワザ",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2052772.html",
     "pubDate": "2025-10-06T21:47:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "はてブが自動で消されてるっぽい",
-    "link": "https://anond.hatelabo.jp/20251006211751",
-    "pubDate": "2025-10-06T12:32:21.000Z"
+    "site": "Zenn",
+    "title": "Sora 2 API を触ってみた",
+    "link": "https://zenn.dev/prgckwb/articles/openai-sora2-api",
+    "pubDate": "Mon, 06 Oct 2025 19:26:20 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenAI DevDay 2025 発表まとめ",
+    "link": "https://zenn.dev/schroneko/articles/openai-devday-2025",
+    "pubDate": "2025-10-06T18:47:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenAI DevDay 2025 発表まとめ",
+    "link": "https://zenn.dev/schroneko/articles/openai-devday-2025",
+    "pubDate": "Mon, 06 Oct 2025 18:01:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
+    "link": "https://zenn.dev/tmasuyama1114/books/claude_code_basic",
+    "pubDate": "Mon, 06 Oct 2025 15:41:50 GMT"
   },
   {
     "site": "Hatena",
     "title": "最近の学生が知らなそうなIT知識",
     "link": "https://anond.hatelabo.jp/20251006203201",
     "pubDate": "2025-10-06T11:32:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "朝マックで腹ごしらえする「404姉さん」って誰？",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/06/news101.html",
-    "pubDate": "2025-10-06T09:36:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "全プロセスが一秒止まる不具合続編: カーネル内部で何が起きたか？",
-    "link": "https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b",
-    "pubDate": "2025-10-06T08:05:37.000Z"
   },
   {
     "site": "Zenn",
@@ -42,22 +84,10 @@
     "pubDate": "2025-10-06T07:27:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "“macOS→Omarchy”の移行ガイド",
-    "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
-    "pubDate": "2025-10-06T06:24:05.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【ポケモン×Java】知識編 配列#5 〜配列を完全攻略！-落とし穴-～",
     "link": "https://qiita.com/hitomin_poke/items/f5684f8af1b2ab5e9ce1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T05:37:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11を快適にする2つの無償のツール",
-    "link": "https://news.mynavi.jp/techplus/article/20251006-3486267/",
-    "pubDate": "2025-10-06T05:29:17.000Z"
   },
   {
     "site": "Zenn",
@@ -91,12 +121,6 @@
   },
   {
     "site": "Hatena",
-    "title": "新人「議事録はAIにやらせました」何がダメなのか？　効率化の思わぬ落とし穴",
-    "link": "https://www.itmedia.co.jp/business/articles/2510/06/news005.html",
-    "pubDate": "2025-10-06T01:38:08.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "システム思考を使う人が知っておいてよい12のシステムアーキタイプ - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/06/074220",
     "pubDate": "2025-10-06T01:35:33.000Z"
@@ -126,34 +150,10 @@
     "pubDate": "Sun, 05 Oct 2025 22:30:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "読書を資産化するプロセスの見直し備忘録",
-    "link": "https://zenn.dev/mutao/articles/effective-reading-tips",
-    "pubDate": "Sun, 05 Oct 2025 13:54:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカル環境でQwen3-VL-30B-A3Bを動かす",
-    "link": "https://zenn.dev/robustonian/articles/local_qwen3_vl",
-    "pubDate": "Sun, 05 Oct 2025 13:35:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MeKaBuの始まりと終わりとこれから",
-    "link": "https://zenn.dev/te9no/articles/97f50f463a7a7d",
-    "pubDate": "Sun, 05 Oct 2025 08:58:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "React学習ログ No.8",
     "link": "https://qiita.com/maedaHARUYA/items/1f9753a4d2a9742b2b8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-05T08:33:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「ゆっくり実況」みたいな動画をAWSサービスを駆使して作ってみる",
-    "link": "https://zenn.dev/aws_japan/articles/acc24ed211393e",
-    "pubDate": "Sun, 05 Oct 2025 07:56:31 GMT"
   },
   {
     "site": "Qiita",
