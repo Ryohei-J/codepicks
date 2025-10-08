@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "AIと図書館をつなぐ「カーリル for AI」の運用を開始します – カーリルのブログ",
+    "link": "https://blog.calil.jp/2025/10/forai.html",
+    "pubDate": "2025-10-08T09:59:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "20周年記念にGitを嫌いになろう",
+    "link": "https://zenn.dev/mokume1shine/articles/434cd1ff53803e",
+    "pubDate": "2025-10-08T09:01:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Agents | Playwright",
+    "link": "https://playwright.dev/docs/test-agents",
+    "pubDate": "2025-10-08T08:58:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「『ほっかほっか亭』の書体デザイナーを探しています」　50年前に学生が制作、ナイトスクープにも依頼",
     "link": "https://www.itmedia.co.jp/news/articles/2510/08/news098.html",
     "pubDate": "2025-10-08T07:03:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、Webブラウザーを操作するAI「Gemini 2.5 Computer Use」を発表／ワークフローの自動化や、UIテストの効率化などに向け",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2053364.html",
+    "pubDate": "2025-10-08T02:23:49.000Z"
   },
   {
     "site": "Qiita",
@@ -24,10 +48,10 @@
     "pubDate": "2025-10-08T01:54:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Google、PC操作を自動化するAI「Gemini 2.5 Computer Use」のプレビュー版公開",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2510/08/news061.html",
-    "pubDate": "2025-10-08T01:35:16.000Z"
+    "site": "Zenn",
+    "title": "Rustでセキュリティsandboxツールを作った",
+    "link": "https://zenn.dev/techlead/articles/2025-10-05-rust-sandbox-tool-mori",
+    "pubDate": "Wed, 08 Oct 2025 00:00:01 GMT"
   },
   {
     "site": "Qiita",
@@ -37,33 +61,21 @@
   },
   {
     "site": "Hatena",
-    "title": "“室温25℃”で「超電導」か──高圧下で実現と中国チームが発表　夢の“常温常圧超電導”への布石になるか",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/08/news027.html",
-    "pubDate": "2025-10-07T23:14:02.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "3000円以下のイヤホンの中で音質トップクラスのTRN ORCAがAmazonセールで半額の1,075円に - ARTIFACT@はてブロ",
     "link": "https://kanose.hateblo.jp/entry/2025/10/08/trn-orca",
     "pubDate": "2025-10-07T23:11:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アサヒＧＨＤへのサイバー攻撃、ランサムウエア集団「Qilin」が犯行声明",
-    "link": "https://jp.reuters.com/markets/global-markets/2HPRGIHPTZIANFKRKPUJBZYDBI-2025-10-07/",
-    "pubDate": "2025-10-07T22:40:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【Windows 10サポート終了】Windows 10はなぜOSとして大成功した？功績を振り返る",
-    "link": "https://sumaholife-plus.jp/pc_it/44228/",
-    "pubDate": "2025-10-07T21:47:42.000Z"
   },
   {
     "site": "Zenn",
     "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
     "link": "https://zenn.dev/tmasuyama1114/books/claude_code_basic",
     "pubDate": "2025-10-07T21:10:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Zenn最速！？】OpenAIのAgent Builder・Chatkitのデプロイを試してみた！",
+    "link": "https://zenn.dev/atoy0m0/articles/7b3d7d99a6bb33",
+    "pubDate": "Tue, 07 Oct 2025 12:55:01 GMT"
   },
   {
     "site": "Hatena",
@@ -76,6 +88,12 @@
     "title": "2600億回のモンテカルロを14秒で：Rust×rayon×SIMDで並列化してみた",
     "link": "https://zenn.dev/yua134/articles/montecarlo-pi",
     "pubDate": "Tue, 07 Oct 2025 11:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHubの依存アップデートPRをまとめて捌くCLI拡張「gh-dep」を作りました",
+    "link": "https://zenn.dev/jackchuka/articles/65592ccfb8c548",
+    "pubDate": "Tue, 07 Oct 2025 10:59:33 GMT"
   },
   {
     "site": "Qiita",
@@ -148,24 +166,6 @@
     "title": "SharePointの雑多なデータの山をナレッジエージェント（Copilot）で整理する",
     "link": "https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T16:55:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
-    "link": "https://zenn.dev/tmasuyama1114/books/claude_code_basic",
-    "pubDate": "Mon, 06 Oct 2025 15:41:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Build, Don't Buy — 2026年、AIエージェントは内製する時代へ",
-    "link": "https://zenn.dev/satoshissss/articles/5be253a330896c",
-    "pubDate": "Mon, 06 Oct 2025 15:03:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "全プロセスが一秒止まる不具合続編: カーネル内部で何が起きたか？",
-    "link": "https://zenn.dev/turing_motors/articles/fdfb70b7a9d90b",
-    "pubDate": "Mon, 06 Oct 2025 08:00:01 GMT"
   },
   {
     "site": "Qiita",
