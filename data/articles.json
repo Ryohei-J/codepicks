@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "GoogleがAIバイブコーディングアプリ「Opal」を日本を含む15カ国以上で展開",
+    "link": "https://gigazine.net/news/20251008-google-vibe-coding-app-opal/",
+    "pubDate": "2025-10-08T02:01:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今でも、ラズベリーパイの置き換えになる製品が無いことを知って驚いた。 ..",
+    "link": "https://anond.hatelabo.jp/20251008091036",
+    "pubDate": "2025-10-08T00:11:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“室温25℃”で「超電導」か──高圧下で実現と中国チームが発表　夢の“常温常圧超電導”への布石になるか",
     "link": "https://www.itmedia.co.jp/news/articles/2510/08/news027.html",
     "pubDate": "2025-10-07T23:14:02.000Z"
@@ -13,9 +25,15 @@
   },
   {
     "site": "Hatena",
-    "title": "クアルコムがArduinoを買収、新製品「Arduino UNO Q」も発表",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2053295.html",
-    "pubDate": "2025-10-07T13:17:08.000Z"
+    "title": "【Windows 10サポート終了】Windows 10はなぜOSとして大成功した？功績を振り返る",
+    "link": "https://sumaholife-plus.jp/pc_it/44228/",
+    "pubDate": "2025-10-07T21:47:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ぷまソフト」問題に見る法令遵守と技術者倫理の課題",
+    "link": "https://k4na.de/posts/2025/10/pumasoft/",
+    "pubDate": "2025-10-07T16:45:14.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +42,10 @@
     "pubDate": "2025-10-07T11:57:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIを生産性向上ではなく賃金抑制のためのツールと考えてみると - YAMDAS現更新履歴",
-    "link": "https://yamdas.hatenablog.com/entry/20251007/ai-is-an-attack-from-above-on-wages",
-    "pubDate": "2025-10-07T11:44:59.000Z"
+    "site": "Zenn",
+    "title": "2600億回のモンテカルロを14秒で：Rust×rayon×SIMDで並列化してみた",
+    "link": "https://zenn.dev/yua134/articles/montecarlo-pi",
+    "pubDate": "Tue, 07 Oct 2025 11:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -36,22 +54,10 @@
     "pubDate": "2025-10-07T09:16:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "消費者庁、身近になったリチウムイオン電池の取り扱いに注意喚起",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2053192.html",
-    "pubDate": "2025-10-07T07:28:27.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "「動けばOK」だった僕が2ヶ月のAPI実装研修を通して学んだこと",
     "link": "https://zenn.dev/bita/articles/4a0d0f9af31110",
     "pubDate": "Tue, 07 Oct 2025 06:31:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGの精度向上手法、がっつりまとめ【2025年】",
-    "link": "https://zenn.dev/knowledgesense/articles/148dfe2ca1d146",
-    "pubDate": "2025-10-07T04:00:02.000Z"
   },
   {
     "site": "Qiita",
@@ -96,6 +102,12 @@
     "pubDate": "Mon, 06 Oct 2025 23:37:32 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "20周年記念にGitを嫌いになろう",
+    "link": "https://zenn.dev/mokume1shine/articles/434cd1ff53803e",
+    "pubDate": "Mon, 06 Oct 2025 22:59:31 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips",
     "link": "https://qiita.com/akira_papa_AI/items/7344e21b9204526e5127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -103,7 +115,7 @@
   },
   {
     "site": "Qiita",
-    "title": "『疾走する散文』法、AIと対話しないモノローグ法の発展形",
+    "title": "AIとの対話を次の次元へ：モノローグ法の発展、「襲歩式散文法 (The Galloping Prose Method) 」",
     "link": "https://qiita.com/makotosaekit/items/f40f2f9917f81dd5714e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T19:44:13.000Z"
   },
@@ -148,18 +160,6 @@
     "title": "【ポケモン×Java】知識編 配列#5 〜配列を完全攻略！-落とし穴-～",
     "link": "https://qiita.com/hitomin_poke/items/f5684f8af1b2ab5e9ce1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T05:37:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【TypeScript】カスタムエラーのすすめ",
-    "link": "https://zenn.dev/praha/articles/a8b72ba36294fe",
-    "pubDate": "Mon, 06 Oct 2025 04:40:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustのパターンマッチってアートだヨネ",
-    "link": "https://zenn.dev/namn1125/articles/1a40205d9f8f9a",
-    "pubDate": "Mon, 06 Oct 2025 02:08:20 GMT"
   },
   {
     "site": "Qiita",
