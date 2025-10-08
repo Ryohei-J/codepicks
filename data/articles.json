@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "“室温25℃”で「超電導」か──高圧下で実現と中国チームが発表　夢の“常温常圧超電導”への布石になるか",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/08/news027.html",
+    "pubDate": "2025-10-07T23:14:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アサヒＧＨＤへのサイバー攻撃、ランサムウエア集団「Qilin」が犯行声明",
+    "link": "https://jp.reuters.com/markets/global-markets/2HPRGIHPTZIANFKRKPUJBZYDBI-2025-10-07/",
+    "pubDate": "2025-10-07T22:40:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "クアルコムがArduinoを買収、新製品「Arduino UNO Q」も発表",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2053295.html",
     "pubDate": "2025-10-07T13:17:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "割とマジで発達障害がITに向いてるって誰が言いだしたんだ？",
-    "link": "https://anond.hatelabo.jp/20251007213048",
-    "pubDate": "2025-10-07T12:35:27.000Z"
+    "title": "Sora 2 プロンプトガイド｜npaka",
+    "link": "https://note.com/npaka/n/n754187f14a03",
+    "pubDate": "2025-10-07T11:57:51.000Z"
   },
   {
     "site": "Hatena",
@@ -31,6 +43,12 @@
   },
   {
     "site": "Zenn",
+    "title": "「動けばOK」だった僕が2ヶ月のAPI実装研修を通して学んだこと",
+    "link": "https://zenn.dev/bita/articles/4a0d0f9af31110",
+    "pubDate": "Tue, 07 Oct 2025 06:31:37 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "RAGの精度向上手法、がっつりまとめ【2025年】",
     "link": "https://zenn.dev/knowledgesense/articles/148dfe2ca1d146",
     "pubDate": "2025-10-07T04:00:02.000Z"
@@ -48,18 +66,6 @@
     "pubDate": "2025-10-07T03:48:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Windows 11のセットアップ時にユーザーフォルダー名を指定する機能がようやく導入へ／その代わりローカルアカウントを作成する方法は削除、Dev/Betaチャネルでテスト",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2053094.html",
-    "pubDate": "2025-10-07T03:46:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MicrosoftがなんとWindows11インストール時にローカルアカウントを作成するコマンドを削除、今後はMicrosoftアカウントとネット接続必須に",
-    "link": "https://gigazine.net/news/20251007-microsoft-windows-11-without-online-account/",
-    "pubDate": "2025-10-07T03:22:29.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【検証】AI Agentは学術論文を読んでプロトタイプ実装まで本当にできるのか？（波乱の実装編）",
     "link": "https://qiita.com/ntaka329/items/9ead91ed832cb3f65af2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -67,15 +73,15 @@
   },
   {
     "site": "Hatena",
-    "title": "これは見逃したら後悔する！ iPad版のAffinity Photo 2, Designer 2, publisher 2がなんと0円の無料！！",
-    "link": "https://coliss.com/articles/products/affinity-for-ipad-free-lifetime.html",
-    "pubDate": "2025-10-07T01:24:04.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "フロントエンドエンジニアが完全にオワコンになった件",
     "link": "https://anond.hatelabo.jp/20251007093703",
     "pubDate": "2025-10-07T00:40:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "会議の後に「ラップアップ」を入れてチームを強くする | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20251007a/",
+    "pubDate": "2025-10-07T00:34:12.000Z"
   },
   {
     "site": "Zenn",
@@ -96,6 +102,12 @@
     "pubDate": "2025-10-06T21:06:36.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "『疾走する散文』法、AIと対話しないモノローグ法の発展形",
+    "link": "https://qiita.com/makotosaekit/items/f40f2f9917f81dd5714e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T19:44:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Sora 2 API を触ってみた",
     "link": "https://zenn.dev/prgckwb/articles/openai-sora2-api",
@@ -108,6 +120,12 @@
     "pubDate": "Mon, 06 Oct 2025 18:01:44 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "SharePointの雑多なデータの山をナレッジエージェント（Copilot）で整理する",
+    "link": "https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T16:55:29.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
     "link": "https://zenn.dev/tmasuyama1114/books/claude_code_basic",
@@ -118,12 +136,6 @@
     "title": "Build, Don't Buy — 2026年、AIエージェントは内製する時代へ",
     "link": "https://zenn.dev/satoshissss/articles/5be253a330896c",
     "pubDate": "Mon, 06 Oct 2025 15:03:47 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS CDK 基礎知識まとめ",
-    "link": "https://qiita.com/j-yasukawa/items/8020fab836d4efbae8db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T08:01:50.000Z"
   },
   {
     "site": "Zenn",
@@ -156,12 +168,6 @@
     "pubDate": "2025-10-06T02:05:02.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "“macOS→Omarchy”の移行ガイド",
-    "link": "https://zenn.dev/agata/articles/72f70d607dd8f3",
-    "pubDate": "Mon, 06 Oct 2025 00:41:32 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「世界の一流は『休日』に何をしているのか」を読んだ",
     "link": "https://qiita.com/e99h2121/items/4101286762b9ad9fec03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "LLMが突然賢くなった理由を紐解く - 5つの革新とその影響度",
     "link": "https://qiita.com/penicillin0/items/93898ce5b688103f03f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-05T03:09:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWSでAIエージェント構築に入門！ StrandsをAgentCoreにデプロイしてみよう",
-    "link": "https://qiita.com/minorun365/items/deb10c8e7a6b1219e595?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-04T12:27:26.000Z"
   }
 ]
