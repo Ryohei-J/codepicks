@@ -1,21 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "「『ほっかほっか亭』の書体デザイナーを探しています」　50年前に学生が制作、ナイトスクープにも依頼",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/08/news098.html",
+    "pubDate": "2025-10-08T07:03:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "OpenAI DevDay 2025レポート：OpenAIが創る「AI OS」構想！",
+    "link": "https://qiita.com/ryosuke_ohori/items/e925e920b92c08601752?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-08T02:15:09.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GoogleがAIバイブコーディングアプリ「Opal」を日本を含む15カ国以上で展開",
     "link": "https://gigazine.net/news/20251008-google-vibe-coding-app-opal/",
     "pubDate": "2025-10-08T02:01:06.000Z"
   },
   {
     "site": "Hatena",
-    "title": "今でも、ラズベリーパイの置き換えになる製品が無いことを知って驚いた。 ..",
-    "link": "https://anond.hatelabo.jp/20251008091036",
-    "pubDate": "2025-10-08T00:11:52.000Z"
+    "title": "AI時代に成長するサービスを止めないためのDBリファクタリング完全ガイド - そーだいなるらくがき帳",
+    "link": "https://soudai.hatenablog.com/entry/database-refactoring-double-write",
+    "pubDate": "2025-10-08T01:54:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、PC操作を自動化するAI「Gemini 2.5 Computer Use」のプレビュー版公開",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2510/08/news061.html",
+    "pubDate": "2025-10-08T01:35:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Oracle Cloud MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
+    "link": "https://qiita.com/shirok/items/b255172ed6a845c972f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-07T23:29:59.000Z"
   },
   {
     "site": "Hatena",
     "title": "“室温25℃”で「超電導」か──高圧下で実現と中国チームが発表　夢の“常温常圧超電導”への布石になるか",
     "link": "https://www.itmedia.co.jp/news/articles/2510/08/news027.html",
     "pubDate": "2025-10-07T23:14:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "3000円以下のイヤホンの中で音質トップクラスのTRN ORCAがAmazonセールで半額の1,075円に - ARTIFACT@はてブロ",
+    "link": "https://kanose.hateblo.jp/entry/2025/10/08/trn-orca",
+    "pubDate": "2025-10-07T23:11:00.000Z"
   },
   {
     "site": "Hatena",
@@ -30,10 +60,10 @@
     "pubDate": "2025-10-07T21:47:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「ぷまソフト」問題に見る法令遵守と技術者倫理の課題",
-    "link": "https://k4na.de/posts/2025/10/pumasoft/",
-    "pubDate": "2025-10-07T16:45:14.000Z"
+    "site": "Zenn",
+    "title": "Claude Code入門 - AI駆動開発の基礎を1日で身につけよう",
+    "link": "https://zenn.dev/tmasuyama1114/books/claude_code_basic",
+    "pubDate": "2025-10-07T21:10:11.000Z"
   },
   {
     "site": "Hatena",
@@ -48,10 +78,10 @@
     "pubDate": "Tue, 07 Oct 2025 11:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "韓国、政府のオンラインストレージが火災で焼失　8年分の業務資料858TBが消滅か　バックアップなく「気が遠くなる」　現地報道",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/07/news112.html",
-    "pubDate": "2025-10-07T09:16:09.000Z"
+    "site": "Qiita",
+    "title": "【binaryまで読んで理解する】Javaでゼロから作るgit add",
+    "link": "https://qiita.com/tomo-2525/items/147720e1f7e8ad8fb59a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-07T08:11:33.000Z"
   },
   {
     "site": "Zenn",
@@ -64,30 +94,6 @@
     "title": "良いテストとはなんだろう？ - （good code, bad codeより）",
     "link": "https://qiita.com/ikeyaH/items/8d721f231405e3d22ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-07T03:58:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】Lv10：『選べ、キミの一撃！』〜メソッド②〜",
-    "link": "https://qiita.com/hitomin_poke/items/86676f77b80cd6c4fa93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-07T03:48:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【検証】AI Agentは学術論文を読んでプロトタイプ実装まで本当にできるのか？（波乱の実装編）",
-    "link": "https://qiita.com/ntaka329/items/9ead91ed832cb3f65af2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-07T02:01:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "フロントエンドエンジニアが完全にオワコンになった件",
-    "link": "https://anond.hatelabo.jp/20251007093703",
-    "pubDate": "2025-10-07T00:40:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "会議の後に「ラップアップ」を入れてチームを強くする | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20251007a/",
-    "pubDate": "2025-10-07T00:34:12.000Z"
   },
   {
     "site": "Zenn",
@@ -115,7 +121,7 @@
   },
   {
     "site": "Qiita",
-    "title": "AIとの対話を次の次元へ：モノローグ法の発展、「襲歩式散文法 (The Galloping Prose Method) 」",
+    "title": "AIと対話しないモノローグ法の発展、「襲歩式散文法 (The Galloping Prose Method) 」",
     "link": "https://qiita.com/makotosaekit/items/f40f2f9917f81dd5714e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T19:44:13.000Z"
   },
@@ -124,6 +130,12 @@
     "title": "Sora 2 API を触ってみた",
     "link": "https://zenn.dev/prgckwb/articles/openai-sora2-api",
     "pubDate": "Mon, 06 Oct 2025 19:26:20 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "⚡パワポ革命⚡AIでスライド作成！！",
+    "link": "https://qiita.com/aktsmm/items/9468cee19fa3ca4545a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T18:02:25.000Z"
   },
   {
     "site": "Zenn",
@@ -157,26 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 配列#5 〜配列を完全攻略！-落とし穴-～",
-    "link": "https://qiita.com/hitomin_poke/items/f5684f8af1b2ab5e9ce1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T05:37:25.000Z"
+    "title": "KPTのように形骸化させない。OODAループを“再現性ある習慣”にした現場の工夫とAI連携",
+    "link": "https://qiita.com/ota-tsutomu/items/f98e10e833e1cff9eb74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-06T04:26:28.000Z"
   },
   {
     "site": "Qiita",
     "title": "【アプリ開発】経費申請の手入力を減らしたい新人が、OCRに挑戦してみたら8割自動化できた",
     "link": "https://qiita.com/ishikawa_slj/items/05dcae0d429dee8769aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T02:05:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「世界の一流は『休日』に何をしているのか」を読んだ",
-    "link": "https://qiita.com/e99h2121/items/4101286762b9ad9fec03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-05T20:32:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "LLMが突然賢くなった理由を紐解く - 5つの革新とその影響度",
-    "link": "https://qiita.com/penicillin0/items/93898ce5b688103f03f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-05T03:09:21.000Z"
   }
 ]
