@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "某ブランドのイタリア人デザイナー『色んな裁縫技術見て来たけど、吉田カバン(PORTER)とかの裁縫技術はバケモンレベルだと思っている』",
+    "link": "https://togetter.com/li/2613225",
+    "pubDate": "2025-10-09T01:01:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "個人ホームページが「衰退した」といわれる理由と、「Web日記」文化について【フォーカス】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/focus/detail_732/",
+    "pubDate": "2025-10-09T00:46:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "世界がチープカシオを“再発見”　欧米でヒットの理由と魅力",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2049948.html",
+    "pubDate": "2025-10-09T00:21:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "なぜQualcommによるArduino買収が電子工作界隈で話題なのか、そして「微妙…」みたいな反応なのか - nomolkのブログ",
     "link": "https://nomolk.hatenablog.com/entry/2025/10/08/232500",
     "pubDate": "2025-10-08T23:16:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "プロンプトエンジニアリングを終わらせるDSPy",
+    "link": "https://zenn.dev/cybernetics/articles/39fb763aca746c",
+    "pubDate": "Wed, 08 Oct 2025 22:45:37 GMT"
   },
   {
     "site": "Hatena",
@@ -19,9 +43,27 @@
   },
   {
     "site": "Hatena",
+    "title": "あるゲーム風AI生成動画がバズり「3Dドット絵ゲーム」開発ブームが白熱、本当にゲーム化。“人力”でもちゃんと作れる - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/ai-pixel-art-20251008-360935/",
+    "pubDate": "2025-10-08T13:50:41.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "個人のあらゆるデータを1つのタイムラインに並べるオープンソースツール「Timelinize」",
     "link": "https://gigazine.net/news/20251008-timelinize/",
     "pubDate": "2025-10-08T12:54:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介",
+    "link": "https://zenn.dev/kuto5046/articles/agentic_rl_2025",
+    "pubDate": "Wed, 08 Oct 2025 12:23:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "簡易な正規表現エンジンを実装する",
+    "link": "https://zenn.dev/gatechnologies/articles/a1cdc8ee299c25",
+    "pubDate": "Wed, 08 Oct 2025 11:27:45 GMT"
   },
   {
     "site": "Hatena",
@@ -30,28 +72,10 @@
     "pubDate": "2025-10-08T11:17:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "無料だったNHKニュースサイト、“緊急時を除き有料”に　SNSには「受信料が必要なら見ない」「ケチだ」の声",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2510/08/news116.html",
-    "pubDate": "2025-10-08T11:15:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIと図書館をつなぐ「カーリル for AI」の運用を開始します – カーリルのブログ",
-    "link": "https://blog.calil.jp/2025/10/forai.html",
-    "pubDate": "2025-10-08T09:59:12.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "現場で使える！Dify x Pythonハイブリッド開発実践！",
     "link": "https://zenn.dev/sapeet/articles/edfee5b30d79a8",
     "pubDate": "Wed, 08 Oct 2025 09:18:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "20周年記念にGitを嫌いになろう",
-    "link": "https://zenn.dev/mokume1shine/articles/434cd1ff53803e",
-    "pubDate": "2025-10-08T09:01:38.000Z"
   },
   {
     "site": "Hatena",
@@ -66,6 +90,12 @@
     "pubDate": "2025-10-08T08:48:42.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "GitHub Private repo で XCFramework を配布する",
+    "link": "https://zenn.dev/d_date/articles/8b6ded8fdd2403",
+    "pubDate": "Wed, 08 Oct 2025 06:52:47 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",
     "link": "https://qiita.com/chomado/items/764e67e104843a22bcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -73,15 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AIにリファクタリングをさせて、PRのタイトルと説明文も生成する",
-    "link": "https://zenn.dev/noppe/articles/d637794eb7583b",
-    "pubDate": "Wed, 08 Oct 2025 02:49:39 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google、Webブラウザーを操作するAI「Gemini 2.5 Computer Use」を発表／ワークフローの自動化や、UIテストの効率化などに向け",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2053364.html",
-    "pubDate": "2025-10-08T02:23:49.000Z"
+    "title": "「OpenAIが新たに出したAIエージェント開発キットをアプリに組み込んでみた【AgentKit入門】",
+    "link": "https://zenn.dev/forward/articles/cd0e0453822f7e",
+    "pubDate": "Wed, 08 Oct 2025 04:11:02 GMT"
   },
   {
     "site": "Zenn",
@@ -103,15 +127,15 @@
   },
   {
     "site": "Zenn",
-    "title": "2600億回のモンテカルロを14秒で：Rust×rayon×SIMDで並列化してみた",
-    "link": "https://zenn.dev/yua134/articles/montecarlo-pi",
-    "pubDate": "Tue, 07 Oct 2025 11:00:01 GMT"
+    "title": "【Zenn最速！？】OpenAIのAgent Builder・Chatkitのデプロイを試してみた！",
+    "link": "https://zenn.dev/atoy0m0/articles/7b3d7d99a6bb33",
+    "pubDate": "Tue, 07 Oct 2025 12:55:01 GMT"
   },
   {
     "site": "Zenn",
-    "title": "GitHubの依存アップデートPRをまとめて捌くCLI拡張「gh-dep」を作りました",
-    "link": "https://zenn.dev/jackchuka/articles/65592ccfb8c548",
-    "pubDate": "Tue, 07 Oct 2025 10:59:33 GMT"
+    "title": "2600億回のモンテカルロを14秒で：Rust×rayon×SIMDで並列化してみた",
+    "link": "https://zenn.dev/yua134/articles/montecarlo-pi",
+    "pubDate": "Tue, 07 Oct 2025 11:00:01 GMT"
   },
   {
     "site": "Qiita",
@@ -120,34 +144,10 @@
     "pubDate": "2025-10-07T08:11:33.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "「動けばOK」だった僕が2ヶ月のAPI実装研修を通して学んだこと",
-    "link": "https://zenn.dev/bita/articles/4a0d0f9af31110",
-    "pubDate": "Tue, 07 Oct 2025 06:31:37 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "良いテストとはなんだろう？ - （good code, bad codeより）",
     "link": "https://qiita.com/ikeyaH/items/8d721f231405e3d22ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-07T03:58:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "BigQueryの本番データがすべて消えた日 - 大規模障害から学んだ復旧と再発防止策",
-    "link": "https://zenn.dev/carenet/articles/recovering-from-bigquery-dataset-deletion",
-    "pubDate": "Tue, 07 Oct 2025 02:46:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "git rebase を日本一わかりやすく解説する - 利点編",
-    "link": "https://zenn.dev/tomatommy/articles/471104acc92c27",
-    "pubDate": "Tue, 07 Oct 2025 00:06:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGの精度向上手法、がっつりまとめ【2025年】",
-    "link": "https://zenn.dev/knowledgesense/articles/148dfe2ca1d146",
-    "pubDate": "Tue, 07 Oct 2025 00:01:05 GMT"
   },
   {
     "site": "Qiita",
