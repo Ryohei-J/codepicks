@@ -6,10 +6,28 @@
     "pubDate": "2025-10-09T09:05:28.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "JR、送電損失ほぼゼロ「超電導システム」　実用化へ前進",
+    "link": "https://www.watch.impress.co.jp/docs/news/2053933.html",
+    "pubDate": "2025-10-09T08:24:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "台風22号で海底ケーブル損傷か　青ヶ島と八丈町で通信障害",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/09/news104.html",
+    "pubDate": "2025-10-09T07:39:15.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "Playwright Test Agentsを試してみた〜AIはテスト計画、コード生成、自動修復をどこまでできるのか？",
-    "link": "https://zenn.dev/ubie_dev/articles/46ede677ba9a95",
-    "pubDate": "Thu, 09 Oct 2025 06:05:53 GMT"
+    "title": "プロンプトエンジニアリングを終わらせるDSPy",
+    "link": "https://zenn.dev/cybernetics/articles/39fb763aca746c",
+    "pubDate": "2025-10-09T03:43:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "一生食えるスキルがない？何でITエンジニアになんかなったの？",
+    "link": "https://anond.hatelabo.jp/20251009113824",
+    "pubDate": "2025-10-09T02:42:39.000Z"
   },
   {
     "site": "Zenn",
@@ -63,25 +81,7 @@
     "site": "Zenn",
     "title": "誰でも書けるスクリプト言語は、immutable な配列を提供すればよかった",
     "link": "https://zenn.dev/toga/articles/immutable-vector",
-    "pubDate": "2025-10-08T18:20:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "システムのテスト、『動けばいいじゃん』っていうときは高確率で異常系の考慮が漏れている「万が一異常が発生した際にどうしてこうなったんだ！？って怒られるやつ」",
-    "link": "https://togetter.com/li/2612968",
-    "pubDate": "2025-10-08T16:29:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "誰でも書けるスクリプト言語は、immutable な配列を提供すればよかった",
-    "link": "https://zenn.dev/toga/articles/immutable-vector",
     "pubDate": "Wed, 08 Oct 2025 15:32:20 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "あるゲーム風AI生成動画がバズり「3Dドット絵ゲーム」開発ブームが白熱、本当にゲーム化。“人力”でもちゃんと作れる - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/ai-pixel-art-20251008-360935/",
-    "pubDate": "2025-10-08T13:50:41.000Z"
   },
   {
     "site": "Zenn",
@@ -90,22 +90,10 @@
     "pubDate": "Wed, 08 Oct 2025 13:18:59 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "個人のあらゆるデータを1つのタイムラインに並べるオープンソースツール「Timelinize」",
-    "link": "https://gigazine.net/news/20251008-timelinize/",
-    "pubDate": "2025-10-08T12:54:07.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Gemini 2.5 Computer Use✨AIでQiitaにログインし、トレンド3位の記事をいいねする！ on Windows【E2Eテスト爆速不可避】",
     "link": "https://qiita.com/7mpy/items/3f62d62e7131d9b6911f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-08T12:26:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介",
-    "link": "https://zenn.dev/kuto5046/articles/agentic_rl_2025",
-    "pubDate": "Wed, 08 Oct 2025 12:23:21 GMT"
   },
   {
     "site": "Zenn",
@@ -132,6 +120,12 @@
     "pubDate": "2025-10-08T08:05:17.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "GitHub Private repo で XCFramework を配布する",
+    "link": "https://zenn.dev/d_date/articles/8b6ded8fdd2403",
+    "pubDate": "Wed, 08 Oct 2025 06:52:47 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",
     "link": "https://qiita.com/chomado/items/764e67e104843a22bcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -154,6 +148,12 @@
     "title": "AIにリファクタリングをさせて、PRのタイトルと説明文も生成する",
     "link": "https://zenn.dev/noppe/articles/d637794eb7583b",
     "pubDate": "Wed, 08 Oct 2025 02:49:39 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rustでセキュリティsandboxツールを作った",
+    "link": "https://zenn.dev/techlead/articles/2025-10-05-rust-sandbox-tool-mori",
+    "pubDate": "Wed, 08 Oct 2025 00:00:01 GMT"
   },
   {
     "site": "Qiita",
