@@ -1,21 +1,69 @@
 [
   {
     "site": "Hatena",
-    "title": "ブクマカは実名報道否定派なのか賛成派なのか",
+    "title": "終了したはずの「Word」が勝手によみがえる不具合、日本マイクロソフトが告知／最新チャネルでは修正済み",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2054043.html",
+    "pubDate": "2025-10-09T23:54:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "テスラ車が「死のトラップ」に……　相次ぐ事故、遺族が提訴　「事故で車のドア開かずに焼死」と主張",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/10/news036.html",
+    "pubDate": "2025-10-09T23:13:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Win11をローカルアカウントでセットアップする方法。Windows11 25H2以降対応版。Microsoftアカウントをバイパス | ニッチなPCゲーマーの環境構築Z",
+    "link": "https://www.nichepcgamer.com/archives/windows11-local-account-oobe-setup.html",
+    "pubDate": "2025-10-09T21:05:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Customize Claude Code with plugins",
+    "link": "https://www.anthropic.com/news/claude-code-plugins",
+    "pubDate": "2025-10-09T17:05:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "iOS Default Web Browserの自作方法",
+    "link": "https://zenn.dev/kyome/articles/c5935b24be35e0",
+    "pubDate": "Thu, 09 Oct 2025 15:10:16 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供",
+    "link": "https://www.publickey1.jp/blog/25/googlegemini_enterpriseofficesalesforcesapjira.html",
+    "pubDate": "2025-10-09T14:22:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエージェントで挑んだ大規模リファクタリング - DMM Developers Blog",
+    "link": "https://developersblog.dmm.com/entry/2025/10/09/110000",
+    "pubDate": "2025-10-09T12:34:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「法務でAIがどこまで使えるか」を測るデータセット、デジタル庁が公開",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2510/09/news120.html",
+    "pubDate": "2025-10-09T11:20:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "４輪独立ステアリング移動機構の開発記録",
+    "link": "https://zenn.dev/takaki_maeda_99/articles/80606c946db64e",
+    "pubDate": "Thu, 09 Oct 2025 09:12:07 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【追記】ブクマカは実名報道否定派なのか賛成派なのか",
     "link": "https://anond.hatelabo.jp/20251009180405",
     "pubDate": "2025-10-09T09:05:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "JR、送電損失ほぼゼロ「超電導システム」　実用化へ前進",
-    "link": "https://www.watch.impress.co.jp/docs/news/2053933.html",
-    "pubDate": "2025-10-09T08:24:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "台風22号で海底ケーブル損傷か　青ヶ島と八丈町で通信障害",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/09/news104.html",
-    "pubDate": "2025-10-09T07:39:15.000Z"
+    "site": "Zenn",
+    "title": "Playwrightの新機能 使ってみた【プランナーエージェントについて】",
+    "link": "https://zenn.dev/iinoten/articles/084708f69f3f26",
+    "pubDate": "Thu, 09 Oct 2025 05:16:44 GMT"
   },
   {
     "site": "Zenn",
@@ -24,10 +72,10 @@
     "pubDate": "2025-10-09T03:43:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "一生食えるスキルがない？何でITエンジニアになんかなったの？",
-    "link": "https://anond.hatelabo.jp/20251009113824",
-    "pubDate": "2025-10-09T02:42:39.000Z"
+    "site": "Qiita",
+    "title": "【手動ダウンロードからの卒業】環境ジオポータルのデータをワンクリックでQGISに追加しよう",
+    "link": "https://qiita.com/geo_jagaimo/items/1b3c5d1f8589d1f69c6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T03:15:10.000Z"
   },
   {
     "site": "Zenn",
@@ -37,21 +85,21 @@
   },
   {
     "site": "Zenn",
+    "title": "【コピペOK】技術的負債を作らないためのルールを設定しよう（Claude Code, Codex, Cursor対応）",
+    "link": "https://zenn.dev/tmasuyama1114/articles/global_rule_file",
+    "pubDate": "Thu, 09 Oct 2025 01:55:31 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "google/LangExtract解剖- LLMで抽出した項目の文書内位置特定ロジックを深堀る",
     "link": "https://zenn.dev/gvatech_blog/articles/2d121536d81eb0",
     "pubDate": "Thu, 09 Oct 2025 01:46:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "某ブランドのイタリア人デザイナー『色んな裁縫技術見て来たけど、吉田カバン(PORTER)とかの裁縫技術はバケモンレベルだと思っている』",
-    "link": "https://togetter.com/li/2613225",
-    "pubDate": "2025-10-09T01:01:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "個人ホームページが「衰退した」といわれる理由と、「Web日記」文化について【フォーカス】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/focus/detail_732/",
-    "pubDate": "2025-10-09T00:46:32.000Z"
+    "site": "Qiita",
+    "title": "【コピペOK】AIエージェントで良いコードを書く！誰でも使える品質向上ルールの設定方法",
+    "link": "https://qiita.com/tomada/items/df5d3e0f611860bc2740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T01:40:30.000Z"
   },
   {
     "site": "Hatena",
@@ -61,15 +109,15 @@
   },
   {
     "site": "Qiita",
+    "title": "Systems Manager の Session Manager の上に SSH を通して安全にプライベートサブネットの EC2 へインターネットから接続する",
+    "link": "https://qiita.com/takeda_h/items/fd00b88375494a1544ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T00:10:54.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "React学習ログ No.9",
     "link": "https://qiita.com/maedaHARUYA/items/8a90e3deeccc0fa886d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-08T23:42:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜQualcommによるArduino買収が電子工作界隈で話題なのか、そして「微妙…」みたいな反応なのか - nomolkのブログ",
-    "link": "https://nomolk.hatenablog.com/entry/2025/10/08/232500",
-    "pubDate": "2025-10-08T23:16:28.000Z"
   },
   {
     "site": "Zenn",
@@ -84,10 +132,10 @@
     "pubDate": "Wed, 08 Oct 2025 15:32:20 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
-    "link": "https://zenn.dev/shintake/articles/cc4779fb80dea7",
-    "pubDate": "Wed, 08 Oct 2025 13:18:59 GMT"
+    "site": "Qiita",
+    "title": "Slackに慣れた人間が「Teams使いにくい」と言う理由を言語化して、この先生きのこるための方法を考えてみよう（言語化編）",
+    "link": "https://qiita.com/ykkn/items/8c4082809219c201322f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-08T13:17:26.000Z"
   },
   {
     "site": "Qiita",
@@ -100,24 +148,6 @@
     "title": "簡易な正規表現エンジンを実装する",
     "link": "https://zenn.dev/gatechnologies/articles/a1cdc8ee299c25",
     "pubDate": "Wed, 08 Oct 2025 11:27:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI に自分の回答を疑わせる `/criticalthink` コマンドを作ってみた - ABAの日誌",
-    "link": "https://aba.hatenablog.com/entry/2025/10/08/201243",
-    "pubDate": "2025-10-08T11:17:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SESにおける面談対策について",
-    "link": "https://qiita.com/kosuke_shoji/items/30dcd80f3fad60ef18c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T08:48:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ワークフローエンジン】PrefectのFaaSでの軽量ワークフロー向けの機能4選",
-    "link": "https://qiita.com/kkkdev/items/5358bb324cb5a0eb6b49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T08:05:17.000Z"
   },
   {
     "site": "Zenn",
@@ -138,24 +168,6 @@
     "pubDate": "2025-10-08T04:50:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "「OpenAIが新たに出したAIエージェント開発キットをアプリに組み込んでみた【AgentKit入門】",
-    "link": "https://zenn.dev/forward/articles/cd0e0453822f7e",
-    "pubDate": "Wed, 08 Oct 2025 04:11:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIにリファクタリングをさせて、PRのタイトルと説明文も生成する",
-    "link": "https://zenn.dev/noppe/articles/d637794eb7583b",
-    "pubDate": "Wed, 08 Oct 2025 02:49:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustでセキュリティsandboxツールを作った",
-    "link": "https://zenn.dev/techlead/articles/2025-10-05-rust-sandbox-tool-mori",
-    "pubDate": "Wed, 08 Oct 2025 00:00:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
     "link": "https://qiita.com/shirok/items/b255172ed6a845c972f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,17 +178,5 @@
     "title": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips",
     "link": "https://qiita.com/akira_papa_AI/items/7344e21b9204526e5127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-06T21:06:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SharePointの雑多なデータの山をナレッジエージェント（Copilot）で整理する",
-    "link": "https://qiita.com/Oyu3m/items/f6853314dad9699b2e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T16:55:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "サーバーエンジニアをやるうえで重要な事とは",
-    "link": "https://qiita.com/kosuke_shoji/items/7963d7b20a4e56fedc5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T08:15:00.000Z"
   }
 ]
