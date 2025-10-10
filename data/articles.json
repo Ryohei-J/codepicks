@@ -12,10 +12,28 @@
     "pubDate": "2025-10-10T03:20:12.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "DroidKaigi/iOSDCに向けて、Raspberry Pi × Embedded Swiftでラジコンを作ってみた",
+    "link": "https://qiita.com/shin_usu/items/d4c9309f18e48a6985a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T01:53:44.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "我々はCodexとどう向き合うべきなのか",
     "link": "https://zenn.dev/aki_think/articles/5fb93a15a6257a",
     "pubDate": "2025-10-10T01:43:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「散歩は最高のデバッグ時間」──エンジニアの集中力・作業効率・睡眠が劇的に改善する理由",
+    "link": "https://qiita.com/nakaizumi_slj/items/bf0a08284a8869fbc23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T00:40:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "JR東日本ら、超電導で電力損失「ほぼゼロ」の送電に成功　営業列車4万本に供給",
+    "link": "https://japan.cnet.com/article/35239061/",
+    "pubDate": "2025-10-09T23:23:29.000Z"
   },
   {
     "site": "Hatena",
@@ -54,6 +72,18 @@
     "pubDate": "Thu, 09 Oct 2025 15:10:16 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "個人開発を下火にさせてなるものか！！個人開発を支える裏方サービスをAI駆動で作った話",
+    "link": "https://zenn.dev/koeloop/articles/ai-driven-koeloop",
+    "pubDate": "Thu, 09 Oct 2025 14:20:04 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
+    "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T13:15:39.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "AIエージェントで挑んだ大規模リファクタリング - DMM Developers Blog",
     "link": "https://developersblog.dmm.com/entry/2025/10/09/110000",
@@ -66,10 +96,22 @@
     "pubDate": "2025-10-09T12:32:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「法務でAIがどこまで使えるか」を測るデータセット、デジタル庁が公開",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2510/09/news120.html",
-    "pubDate": "2025-10-09T11:20:43.000Z"
+    "site": "Zenn",
+    "title": "実は進化している！ローカルで動くembeddingモデルたち",
+    "link": "https://zenn.dev/sirasagi62/articles/a75d0ba39f0125",
+    "pubDate": "Thu, 09 Oct 2025 11:39:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "NixOS + Kubernetesで構築する自宅サーバーのすべて",
+    "link": "https://zenn.dev/ichi_h/articles/ff001e0005e33c",
+    "pubDate": "Thu, 09 Oct 2025 09:46:38 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Oracle Database@Hyperscalerを利用する前に確認することあれこれ",
+    "link": "https://qiita.com/billtench/items/642d640d6683682a26e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T08:25:00.000Z"
   },
   {
     "site": "Zenn",
@@ -85,6 +127,12 @@
   },
   {
     "site": "Zenn",
+    "title": "マルチエージェントフレームワークAIMEの紹介と実装",
+    "link": "https://zenn.dev/mkj/articles/e2612cb8bb9d5b",
+    "pubDate": "Thu, 09 Oct 2025 02:50:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "MCPツール棚卸しによるClaude Codeのコンテキスト最適化",
     "link": "https://zenn.dev/medley/articles/optimizing-claude-code-context-with-mcp-tool-audit",
     "pubDate": "Thu, 09 Oct 2025 02:29:43 GMT"
@@ -96,6 +144,12 @@
     "pubDate": "Thu, 09 Oct 2025 01:55:31 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "google/LangExtract解剖- LLMで抽出した項目の文書内位置特定ロジックを深堀る",
+    "link": "https://zenn.dev/gvatech_blog/articles/2d121536d81eb0",
+    "pubDate": "Thu, 09 Oct 2025 01:46:54 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【コピペOK】AIエージェントで良いコードを書く！誰でも使える品質向上ルールの設定方法",
     "link": "https://qiita.com/tomada/items/df5d3e0f611860bc2740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -103,39 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Systems Manager の Session Manager の上に SSH を通して安全にプライベートサブネットの EC2 へインターネットから接続する",
-    "link": "https://qiita.com/takeda_h/items/fd00b88375494a1544ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T00:10:54.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "React学習ログ No.9",
     "link": "https://qiita.com/maedaHARUYA/items/8a90e3deeccc0fa886d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-08T23:42:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "プロンプトエンジニアリングを終わらせるDSPy",
-    "link": "https://zenn.dev/cybernetics/articles/39fb763aca746c",
-    "pubDate": "Wed, 08 Oct 2025 22:45:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "誰でも書けるスクリプト言語は、immutable な配列を提供すればよかった",
-    "link": "https://zenn.dev/toga/articles/immutable-vector",
-    "pubDate": "Wed, 08 Oct 2025 15:32:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "結婚式の招待状＋引出物選択＋受付システムを自作した話",
-    "link": "https://zenn.dev/rasengunshotaro/articles/1d8b2b7d25b011",
-    "pubDate": "Wed, 08 Oct 2025 13:40:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
-    "link": "https://zenn.dev/shintake/articles/cc4779fb80dea7",
-    "pubDate": "Wed, 08 Oct 2025 13:18:59 GMT"
   },
   {
     "site": "Qiita",
@@ -150,33 +174,9 @@
     "pubDate": "2025-10-08T12:26:47.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "LLM×強化学習の新しいパラダイム: Agentic RLの研究紹介",
-    "link": "https://zenn.dev/kuto5046/articles/agentic_rl_2025",
-    "pubDate": "Wed, 08 Oct 2025 12:23:21 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",
     "link": "https://qiita.com/chomado/items/764e67e104843a22bcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-08T05:03:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Slack × Notion × GPT連携で実現する OODA自動回転エコシステム",
-    "link": "https://qiita.com/ota-tsutomu/items/d3a3db77d67e44f35492?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T04:50:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MAXスピード・チャレンジ:  NFS接続で I/Oスループット 200Gbps  出してみてみた",
-    "link": "https://qiita.com/shirok/items/b255172ed6a845c972f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-07T23:29:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "OpenAI Agent Builderを触ってみた：Difyとの違いと実践Tips",
-    "link": "https://qiita.com/akira_papa_AI/items/7344e21b9204526e5127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-06T21:06:36.000Z"
   }
 ]
