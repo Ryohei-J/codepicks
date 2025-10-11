@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "あのシャープが、VRの民のために国産軽量VRメガネを開発中",
+    "link": "https://www.gizmodo.jp/2025/10/309254.html",
+    "pubDate": "2025-10-11T10:51:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "長州力さんのChatGPTの使い方が新しい「次元が違う」「人類がAIに勝った」",
     "link": "https://togetter.com/li/2614260",
     "pubDate": "2025-10-11T10:32:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ゼロから始める クリーンアーキテクチャAPI開発",
+    "link": "https://zenn.dev/yuta_ooo/books/clean-architecture",
+    "pubDate": "Sat, 11 Oct 2025 08:36:24 GMT"
   },
   {
     "site": "Hatena",
@@ -16,6 +28,12 @@
     "title": "“圧倒的に好評”プログラミング自動化農業ゲーム『農家は Replace() されました』ついに正式リリース。ドローン制御を楽しむうちに、Pythonを完全に理解できるかも - AUTOMATON",
     "link": "https://automaton-media.com/articles/newsjp/programming-the-farmer-was-replaced-20251011-361319/",
     "pubDate": "2025-10-11T07:26:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Amazon S3 Tables に入門してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/getting-started-with-s3-tables/",
+    "pubDate": "2025-10-11T06:51:24.000Z"
   },
   {
     "site": "Hatena",
@@ -66,12 +84,6 @@
     "pubDate": "Fri, 10 Oct 2025 20:19:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「量子・AI技術は、あっという間に社会実装されるだろう」、産総研が量子・AI技術をCEATECで全力アピール　産総研が保有する装置や応用例を紹介、方式が違う3つの量子コンピュータのモックアップも展示",
-    "link": "https://internet.watch.impress.co.jp/docs/interview/2053294.html",
-    "pubDate": "2025-10-10T20:02:54.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Nano BananaでDiscordスタンプ5種を作ったので、プロンプトとコツを公開してみる",
     "link": "https://zenn.dev/tmasuyama1114/articles/nano_banana_stamp_prompts",
@@ -88,12 +100,6 @@
     "title": "2024 年 10 月から 2025 年 10 月までの Mozc に対する主な変更",
     "link": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2024_10",
     "pubDate": "Fri, 10 Oct 2025 14:00:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code の設定をプラグインで共有する",
-    "link": "https://azukiazusa.dev/blog/claude-code-plugins/",
-    "pubDate": "2025-10-10T12:48:58.000Z"
   },
   {
     "site": "Qiita",
@@ -120,12 +126,6 @@
     "pubDate": "Fri, 10 Oct 2025 08:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "HTML・CSSだけで作れる！ リストのホバー演出アイデア集 - ICS MEDIA",
-    "link": "https://ics.media/entry/251010/",
-    "pubDate": "2025-10-10T04:48:06.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "TypeScriptで書いたLambda関数をtscなしでCDKデプロイする備忘録",
     "link": "https://qiita.com/1998_i-airi/items/ffb8e0f11adc99fa306b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -150,12 +150,6 @@
     "pubDate": "2025-10-09T22:27:02.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "我々はCodexとどう向き合うべきなのか",
-    "link": "https://zenn.dev/aki_think/articles/5fb93a15a6257a",
-    "pubDate": "Thu, 09 Oct 2025 22:00:06 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
     "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "Python 3.14 で追加された t-strings って何？",
     "link": "https://qiita.com/QUANON/items/ad474a884b3259315a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T00:07:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Kindle の蔵書一覧を取得する(1) - めもちょう。",
+    "link": "https://dominion525.hatenablog.jp/entry/2025/10/07/131151",
+    "pubDate": "2025-10-08T14:25:52.000Z"
   }
 ]
