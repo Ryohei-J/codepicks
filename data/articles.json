@@ -1,15 +1,87 @@
 [
   {
     "site": "Hatena",
+    "title": "長州力さんのChatGPTの使い方が新しい「次元が違う」「人類がAIに勝った」",
+    "link": "https://togetter.com/li/2614260",
+    "pubDate": "2025-10-11T10:32:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "岩手県には「ベアーズ」というローカルマッチング拒否アプリ（熊専用）がある→他地域でも同じシステムがあり、みんな拒否していくべき",
+    "link": "https://togetter.com/li/2614194",
+    "pubDate": "2025-10-11T07:27:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“圧倒的に好評”プログラミング自動化農業ゲーム『農家は Replace() されました』ついに正式リリース。ドローン制御を楽しむうちに、Pythonを完全に理解できるかも - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/programming-the-farmer-was-replaced-20251011-361319/",
+    "pubDate": "2025-10-11T07:26:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マイクロソフト「ウィンドウズ10」のサポート 14日に終了へ | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10014947371000",
+    "pubDate": "2025-10-11T04:01:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "競合他社がRedditのモデレーターになったことで売上30億円規模の会社がめちゃくちゃに失墜させられた事件",
+    "link": "https://gigazine.net/news/20251011-competitor-moderator/",
+    "pubDate": "2025-10-11T03:48:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「iPhone予約しようとしただけなのに最終的にアカウント閉鎖ってマジでどういうこと」約18万円の残高も使用不可となったが公式からは「どうしようもない状況」との回答",
     "link": "https://togetter.com/li/2614123",
     "pubDate": "2025-10-11T02:00:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "React学習ログ No.10",
+    "link": "https://qiita.com/maedaHARUYA/items/8977056a9a42e9b8f04f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T01:50:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "[H2025ID] Hardening 2025 Invisible Divide 参加体験記",
+    "link": "https://zenn.dev/anri99103/articles/8d14289fbe97a0",
+    "pubDate": "Sat, 11 Oct 2025 01:34:00 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "意外と似ている（?） JavaとC#の違い",
+    "link": "https://qiita.com/k12da/items/3417f19b56a8daf5c6e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T00:11:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Amazon Bedrock】データベースに自然言語でクエリできるエージェントを作ってみた",
+    "link": "https://qiita.com/yakumo_09/items/7bf7511b1fddcd4c1d91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T21:51:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "実行時に成長を続けるAgentic Context Engineering",
+    "link": "https://zenn.dev/cybernetics/articles/c0115ee1a01dd5",
+    "pubDate": "Fri, 10 Oct 2025 20:19:38 GMT"
   },
   {
     "site": "Hatena",
     "title": "「量子・AI技術は、あっという間に社会実装されるだろう」、産総研が量子・AI技術をCEATECで全力アピール　産総研が保有する装置や応用例を紹介、方式が違う3つの量子コンピュータのモックアップも展示",
     "link": "https://internet.watch.impress.co.jp/docs/interview/2053294.html",
     "pubDate": "2025-10-10T20:02:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Nano BananaでDiscordスタンプ5種を作ったので、プロンプトとコツを公開してみる",
+    "link": "https://zenn.dev/tmasuyama1114/articles/nano_banana_stamp_prompts",
+    "pubDate": "Fri, 10 Oct 2025 16:58:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "NativeWindの対抗馬？ハイパフォーマンスのUniwindでReact Nativeをスタイリング",
+    "link": "https://zenn.dev/tellernovel_inc/articles/5aa0fd3a3179ae",
+    "pubDate": "Fri, 10 Oct 2025 14:52:13 GMT"
   },
   {
     "site": "Zenn",
@@ -24,22 +96,16 @@
     "pubDate": "2025-10-10T12:48:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ソースコードを整理して開発を高速化する | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/mach-organize-source-code/",
-    "pubDate": "2025-10-10T11:38:24.000Z"
+    "site": "Qiita",
+    "title": "Amazon Bedrock GuardrailsによるAIエージェントの安全対策入門！",
+    "link": "https://qiita.com/eno49conan/items/e4ca8be64afb984c5a68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T10:19:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "最近エンジニアリングマネージャになったので、最近やっていることを紹介 #DevKan - hitode909の日記",
-    "link": "https://blog.sushi.money/entry/2025/10/10/195616",
-    "pubDate": "2025-10-10T11:17:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "PCの物理破壊を外部委託→なぜかネット接続を検知　個人情報漏えいの可能性　「ぼんち揚」製造会社が謝罪",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/10/news120.html",
-    "pubDate": "2025-10-10T09:00:18.000Z"
+    "site": "Zenn",
+    "title": "1時間でCodexとLINE Bot(WIP)",
+    "link": "https://zenn.dev/n0bisuke/books/codex-linebot",
+    "pubDate": "Fri, 10 Oct 2025 09:07:57 GMT"
   },
   {
     "site": "Zenn",
@@ -54,34 +120,16 @@
     "pubDate": "Fri, 10 Oct 2025 08:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "[2025年10月10日] すべてがChatGPTになる？ (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/8876616fe69bc5",
-    "pubDate": "Fri, 10 Oct 2025 07:46:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "WordPressで画像ブロックをボタンにしたい（role=\"button\"）",
-    "link": "https://zenn.dev/bissy/articles/1f6fe504256ea3",
-    "pubDate": "Fri, 10 Oct 2025 07:00:01 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "HTML・CSSだけで作れる！ リストのホバー演出アイデア集 - ICS MEDIA",
     "link": "https://ics.media/entry/251010/",
     "pubDate": "2025-10-10T04:48:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Googleスプレッドシート←→Excelの相互利用ガイド：関数やマクロの互換性に注意せよ",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/10/news016.html",
-    "pubDate": "2025-10-10T03:42:27.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "DroidKaigi/iOSDCに向けて、Raspberry Pi × Embedded Swiftでラジコンを作ってみた",
-    "link": "https://qiita.com/shin_usu/items/d4c9309f18e48a6985a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T01:53:44.000Z"
+    "title": "TypeScriptで書いたLambda関数をtscなしでCDKデプロイする備忘録",
+    "link": "https://qiita.com/1998_i-airi/items/ffb8e0f11adc99fa306b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T03:16:13.000Z"
   },
   {
     "site": "Zenn",
@@ -96,16 +144,10 @@
     "pubDate": "2025-10-10T00:40:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マイクロソフト、「Word」の保存仕様を変更--「OneDrive」への自動保存が標準に",
-    "link": "https://japan.zdnet.com/article/35239060/",
-    "pubDate": "2025-10-10T00:02:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【アウトプット】「何を書けばいいかわからない」を解決するヒント",
-    "link": "https://qiita.com/ryu-ki/items/21b2a9a5ba6356286a14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T23:44:49.000Z"
+    "site": "Zenn",
+    "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
+    "link": "https://zenn.dev/shintake/articles/cc4779fb80dea7",
+    "pubDate": "2025-10-09T22:27:02.000Z"
   },
   {
     "site": "Zenn",
@@ -114,34 +156,10 @@
     "pubDate": "Thu, 09 Oct 2025 22:00:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "iOS Default Web Browserの自作方法",
-    "link": "https://zenn.dev/kyome/articles/c5935b24be35e0",
-    "pubDate": "Thu, 09 Oct 2025 15:10:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "BigQueryの本番データがすべて消えた日 - 大規模障害から学んだ復旧と再発防止策",
-    "link": "https://zenn.dev/carenet/articles/recovering-from-bigquery-dataset-deletion",
-    "pubDate": "2025-10-09T14:38:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人開発を下火にさせてなるものか！！個人開発を支える裏方サービスをAI駆動で作った話",
-    "link": "https://zenn.dev/koeloop/articles/ai-driven-koeloop",
-    "pubDate": "Thu, 09 Oct 2025 14:20:04 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
     "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T13:15:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "実は進化している！ローカルで動くembeddingモデルたち",
-    "link": "https://zenn.dev/sirasagi62/articles/a75d0ba39f0125",
-    "pubDate": "Thu, 09 Oct 2025 11:39:02 GMT"
   },
   {
     "site": "Qiita",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "WPFのMVVM、「理想」と「現実」のギャップを埋めるハイブリッド設計",
-    "link": "https://qiita.com/NeoPotato/items/b8a722e6bd905fcc1b81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T23:09:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Slackに慣れた人間が「Teams使いにくい」と言う理由を言語化して、この先生きのこるための方法を考えてみよう（言語化編）",
-    "link": "https://qiita.com/ykkn/items/8c4082809219c201322f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T13:17:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Dev Containers × FastAPI を体験してみた",
-    "link": "https://qiita.com/ndandayo/items/a9b20c69ae0aaef06356?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T05:29:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[スペック駆動開発] 品質を担保した AI 駆動開発セッション受講メモ #JAZUG",
-    "link": "https://qiita.com/chomado/items/764e67e104843a22bcde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-08T05:03:05.000Z"
+    "title": "Python 3.14 で追加された t-strings って何？",
+    "link": "https://qiita.com/QUANON/items/ad474a884b3259315a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-09T00:07:20.000Z"
   }
 ]
