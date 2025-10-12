@@ -1,5 +1,29 @@
 [
   {
+    "site": "Zenn",
+    "title": "データベースの行ロックをちゃんと理解する（PostgreSQL, MySQL）",
+    "link": "https://zenn.dev/moepyxxx/articles/d1af9fe80fde6c",
+    "pubDate": "Sun, 12 Oct 2025 02:13:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "モダンフロントエンドはJSON APIが鬱陶しいので、無くしていきたい",
+    "link": "https://zenn.dev/naofumik/articles/0714f7237a493c",
+    "pubDate": "Sun, 12 Oct 2025 00:44:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude・Codex・Kombaiを使ったFigma to Codeの比較",
+    "link": "https://zenn.dev/oikon/articles/frontend-ai-tools",
+    "pubDate": "Sat, 11 Oct 2025 22:02:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【5G比較】povo2.0と楽天モバイル『帰宅ラッシュ時に使えない格安データ使い放題』判明、通信品質を徹底検証してみた | Buzzap！",
+    "link": "https://buzzap.jp/news/20251011-povo2_0-rakuten-mobile-5g-network-comparison-2025/",
+    "pubDate": "2025-10-11T14:55:27.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「もうグーグルの検索順位なんてどうでもいい」2014年にSEOをマスターした起業家が今AIで行っていること | Business Insider Japan",
     "link": "https://www.businessinsider.jp/article/2510-how-one-business-owner-is-leveraging-ai-to-grow-company/",
@@ -12,6 +36,12 @@
     "pubDate": "Sat, 11 Oct 2025 14:00:42 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "もうprintlnデバッグは卒業。VSCodeで始めるRust実践デバッグ",
+    "link": "https://zenn.dev/dokusy/articles/b3c34eee18afbb",
+    "pubDate": "Sat, 11 Oct 2025 12:12:56 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Microsoftが「給与振込口座がいつの間にか見知らぬ口座にすり替えられる」給与海賊(ペイロールパイレーツ)というサイバー攻撃について警告",
     "link": "https://gigazine.net/news/20251011-microsoft-warn-payroll-pirate/",
@@ -19,15 +49,21 @@
   },
   {
     "site": "Hatena",
-    "title": "AIツールでどこまでデザインを忠実に実装できるのか",
-    "link": "https://speakerdeck.com/oikon48/aiturudedokomadedezainwozhong-shi-nishi-zhuang-dekirunoka",
-    "pubDate": "2025-10-11T10:34:18.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "長州力さんのChatGPTの使い方が新しい「次元が違う」「人類がAIに勝った」",
     "link": "https://togetter.com/li/2614260",
     "pubDate": "2025-10-11T10:32:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "JAWS FESTA 2025 in 金沢に参加した！〜Day1セッション聴講＆登壇＆スタッフ〜",
+    "link": "https://zenn.dev/relic_tech/articles/9ed743152903ef",
+    "pubDate": "Sat, 11 Oct 2025 09:28:19 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Macの「Spotlight」に神アプデ。メールやメモの作成、タイマーのセット、さらにはiPhoneアプリやファイルの操作もできる⁉︎ macOS Tahoeの新機能",
+    "link": "https://macfan.book.mynavi.jp/article/70716/",
+    "pubDate": "2025-10-11T09:16:58.000Z"
   },
   {
     "site": "Zenn",
@@ -43,57 +79,15 @@
   },
   {
     "site": "Hatena",
-    "title": "岩手県には「ベアーズ」というローカルマッチング拒否アプリ（熊専用）がある→他地域でも同じシステムがあり、みんな拒否していくべき",
-    "link": "https://togetter.com/li/2614194",
-    "pubDate": "2025-10-11T07:27:04.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "“圧倒的に好評”プログラミング自動化農業ゲーム『農家は Replace() されました』ついに正式リリース。ドローン制御を楽しむうちに、Pythonを完全に理解できるかも - AUTOMATON",
     "link": "https://automaton-media.com/articles/newsjp/programming-the-farmer-was-replaced-20251011-361319/",
     "pubDate": "2025-10-11T07:26:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Amazon S3 Tables に入門してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/getting-started-with-s3-tables/",
-    "pubDate": "2025-10-11T06:51:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake Quickstart実践：Terraforming Snowflake",
-    "link": "https://zenn.dev/shinyaa31/articles/49c8897251d10e",
-    "pubDate": "Sat, 11 Oct 2025 06:41:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "チュートリアル実践：dbt Project on Snowflake",
-    "link": "https://zenn.dev/shinyaa31/articles/10b99a192367cf",
-    "pubDate": "Sat, 11 Oct 2025 06:38:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "DDDとクリーンアーキテクチャをはじめよう-Rust編",
-    "link": "https://zenn.dev/poporo/articles/20251011_1_start_ddd_and_clean_architecture_rust",
-    "pubDate": "Sat, 11 Oct 2025 03:12:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "agnoのGuardrail機能を試してみた",
-    "link": "https://zenn.dev/akasan/articles/48cea67449be64",
-    "pubDate": "Sat, 11 Oct 2025 03:09:11 GMT"
   },
   {
     "site": "Qiita",
     "title": "React学習ログ No.10",
     "link": "https://qiita.com/maedaHARUYA/items/8977056a9a42e9b8f04f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T01:50:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[H2025ID] Hardening 2025 Invisible Divide 参加体験記",
-    "link": "https://zenn.dev/anri99103/articles/8d14289fbe97a0",
-    "pubDate": "Sat, 11 Oct 2025 01:34:00 GMT"
   },
   {
     "site": "Qiita",
@@ -112,6 +106,12 @@
     "title": "2024 年 10 月から 2025 年 10 月までの Mozc に対する主な変更",
     "link": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2024_10",
     "pubDate": "Fri, 10 Oct 2025 14:00:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Peering管理者の教科書 | Peering in Japan",
+    "link": "https://peering.jp/index.php/peering-textbook-jp/",
+    "pubDate": "2025-10-10T13:55:35.000Z"
   },
   {
     "site": "Hatena",
@@ -144,12 +144,6 @@
     "pubDate": "2025-10-10T00:40:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "なぜバイブコーディングをめぐる議論は噛み合わないのか",
-    "link": "https://zenn.dev/shintake/articles/cc4779fb80dea7",
-    "pubDate": "2025-10-09T22:27:02.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
     "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,6 +154,12 @@
     "title": "Oracle Database@Hyperscalerを利用する前に確認することあれこれ",
     "link": "https://qiita.com/billtench/items/642d640d6683682a26e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-09T08:25:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "認知負荷を下げるテキストコミュニケーション - ジンジャー研究室",
+    "link": "https://jinjor-labo.hatenablog.com/entry/2025/10/09/042519",
+    "pubDate": "2025-10-09T02:43:27.000Z"
   },
   {
     "site": "Qiita",
