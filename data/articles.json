@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "「初めてのパターンだ…」ネットで輸入商品を買ったら、“開封動画撮影をお願いします”との注意書きがあった→「良いシステム」「台湾では普通にあった」",
+    "link": "https://togetter.com/li/2614680",
+    "pubDate": "2025-10-12T13:11:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Soraの透かしは、もはや信じられない | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2510those-ai-videos-might-actually-be-real/",
+    "pubDate": "2025-10-12T09:07:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「PCの物理破壊を業者に依頼したのに、オンラインへの接続を検知」企業が遭遇したトラブルに色々考えさせられる",
     "link": "https://togetter.com/li/2614615",
     "pubDate": "2025-10-12T08:30:29.000Z"
@@ -24,16 +36,22 @@
     "pubDate": "2025-10-12T06:17:12.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "TinyGoはどのように \"Tiny\" を実現している？",
+    "link": "https://zenn.dev/uji/articles/how-tinygo-tiny",
+    "pubDate": "Sun, 12 Oct 2025 06:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ROS 2のパッケージを公開してみた",
+    "link": "https://zenn.dev/for/articles/1947c6e0c693bd",
+    "pubDate": "Sun, 12 Oct 2025 03:40:28 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Google ウォレット「PayPay/au PAY/d払い/楽天ペイ」統合へ",
     "link": "https://jetstream.blog/2025/10/12/google-wallet-to-integrate-paypay-aupay-d-payment-rakuten-pay-in-japan/",
     "pubDate": "2025-10-12T02:14:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "データベースの行ロックをちゃんと理解する（PostgreSQL, MySQL）",
-    "link": "https://zenn.dev/moepyxxx/articles/d1af9fe80fde6c",
-    "pubDate": "Sun, 12 Oct 2025 02:13:02 GMT"
   },
   {
     "site": "Zenn",
@@ -46,12 +64,6 @@
     "title": "読解力を分解してちゃんと文章を読む。 - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/12/081300",
     "pubDate": "2025-10-12T00:30:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東大が２学部新設の構想、ＡＩや宇宙開発の起業目指す人材育成狙う…卓越大認定の助成金で",
-    "link": "https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20251012-OYT1T50000/",
-    "pubDate": "2025-10-11T22:49:14.000Z"
   },
   {
     "site": "Zenn",
@@ -78,18 +90,6 @@
     "pubDate": "2025-10-11T14:42:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「もうグーグルの検索順位なんてどうでもいい」2014年にSEOをマスターした起業家が今AIで行っていること | Business Insider Japan",
-    "link": "https://www.businessinsider.jp/article/2510-how-one-business-owner-is-leveraging-ai-to-grow-company/",
-    "pubDate": "2025-10-11T14:23:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Nginx】Pixiの仮想環境とNginx【conda-forge】",
-    "link": "https://zenn.dev/amenaruya/articles/bbd585090df848",
-    "pubDate": "Sat, 11 Oct 2025 14:00:42 GMT"
-  },
-  {
     "site": "Zenn",
     "title": "もうprintlnデバッグは卒業。VSCodeで始めるRust実践デバッグ",
     "link": "https://zenn.dev/dokusy/articles/b3c34eee18afbb",
@@ -97,9 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "JAWS FESTA 2025 in 金沢に参加した！〜Day1セッション聴講＆登壇＆スタッフ〜",
-    "link": "https://zenn.dev/relic_tech/articles/9ed743152903ef",
-    "pubDate": "Sat, 11 Oct 2025 09:28:19 GMT"
+    "title": "Go&Ebitengineで3D描画をする",
+    "link": "https://zenn.dev/mirichi/articles/93624c7269f56a",
+    "pubDate": "Sat, 11 Oct 2025 10:40:08 GMT"
   },
   {
     "site": "Zenn",
@@ -118,6 +118,12 @@
     "title": "Kaigi on Rails参加レポ",
     "link": "https://qiita.com/HERUESTA/items/a086d5233e1ad630547d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T05:32:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "DDDとクリーンアーキテクチャをはじめよう-Rust編",
+    "link": "https://zenn.dev/poporo/articles/20251011_1_start_ddd_and_clean_architecture_rust",
+    "pubDate": "Sat, 11 Oct 2025 03:12:47 GMT"
   },
   {
     "site": "Qiita",
@@ -154,12 +160,6 @@
     "title": "もうテストで疲弊しない！生成AI × Laravel Duskでブラウザテストコードを自動生成してくれる話",
     "link": "https://qiita.com/yokoba/items/06eb5b61bdd8c602c95d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-10T08:49:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeのマーケットプレイスを自作し、チーム内でカスタムコマンド、エージェント、フック、MCPサーバ設定を共有してみた",
-    "link": "https://zenn.dev/canly/articles/d76a950bbeefc6",
-    "pubDate": "Fri, 10 Oct 2025 08:12:58 GMT"
   },
   {
     "site": "Qiita",
