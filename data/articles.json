@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "「PCの物理破壊を業者に依頼したのに、オンラインへの接続を検知」企業が遭遇したトラブルに色々考えさせられる",
+    "link": "https://togetter.com/li/2614615",
+    "pubDate": "2025-10-12T08:30:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "モダンフロントエンドはJSON APIが鬱陶しいので、無くしていきたい",
+    "link": "https://zenn.dev/naofumik/articles/0714f7237a493c",
+    "pubDate": "2025-10-12T07:53:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アヒルの人形に話しかけて問題の解決を図る「ラバーダック・デバッグ」はなぜ有効なのか？",
+    "link": "https://gigazine.net/news/20251012-rubber-duck-debug/",
+    "pubDate": "2025-10-12T06:18:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Playwright Agents によるテストの自動生成を試してみた",
+    "link": "https://azukiazusa.dev/blog/playwright-agents/",
+    "pubDate": "2025-10-12T06:17:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google ウォレット「PayPay/au PAY/d払い/楽天ペイ」統合へ",
+    "link": "https://jetstream.blog/2025/10/12/google-wallet-to-integrate-paypay-aupay-d-payment-rakuten-pay-in-japan/",
+    "pubDate": "2025-10-12T02:14:01.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "データベースの行ロックをちゃんと理解する（PostgreSQL, MySQL）",
     "link": "https://zenn.dev/moepyxxx/articles/d1af9fe80fde6c",
@@ -12,16 +42,40 @@
     "pubDate": "Sun, 12 Oct 2025 00:44:01 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "読解力を分解してちゃんと文章を読む。 - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/12/081300",
+    "pubDate": "2025-10-12T00:30:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "東大が２学部新設の構想、ＡＩや宇宙開発の起業目指す人材育成狙う…卓越大認定の助成金で",
+    "link": "https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20251012-OYT1T50000/",
+    "pubDate": "2025-10-11T22:49:14.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude・Codex・Kombaiを使ったFigma to Codeの比較",
     "link": "https://zenn.dev/oikon/articles/frontend-ai-tools",
     "pubDate": "Sat, 11 Oct 2025 22:02:02 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "AgentCore Gatewayのターゲットタイプに「MCP server」が追加されたぞ！",
+    "link": "https://qiita.com/har1101/items/cd6b92f1967a0d262c4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T15:56:54.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "【5G比較】povo2.0と楽天モバイル『帰宅ラッシュ時に使えない格安データ使い放題』判明、通信品質を徹底検証してみた | Buzzap！",
     "link": "https://buzzap.jp/news/20251011-povo2_0-rakuten-mobile-5g-network-comparison-2025/",
     "pubDate": "2025-10-11T14:55:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "パブリックアクセスを無効にした RDS エンドポイントへ別の閉域 VPC やオンプレミスから名前解決できるか整理する",
+    "link": "https://qiita.com/takeda_h/items/e98177b8e09174347b41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T14:42:12.000Z"
   },
   {
     "site": "Hatena",
@@ -42,28 +96,10 @@
     "pubDate": "Sat, 11 Oct 2025 12:12:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoftが「給与振込口座がいつの間にか見知らぬ口座にすり替えられる」給与海賊(ペイロールパイレーツ)というサイバー攻撃について警告",
-    "link": "https://gigazine.net/news/20251011-microsoft-warn-payroll-pirate/",
-    "pubDate": "2025-10-11T11:55:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "長州力さんのChatGPTの使い方が新しい「次元が違う」「人類がAIに勝った」",
-    "link": "https://togetter.com/li/2614260",
-    "pubDate": "2025-10-11T10:32:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "JAWS FESTA 2025 in 金沢に参加した！〜Day1セッション聴講＆登壇＆スタッフ〜",
     "link": "https://zenn.dev/relic_tech/articles/9ed743152903ef",
     "pubDate": "Sat, 11 Oct 2025 09:28:19 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Macの「Spotlight」に神アプデ。メールやメモの作成、タイマーのセット、さらにはiPhoneアプリやファイルの操作もできる⁉︎ macOS Tahoeの新機能",
-    "link": "https://macfan.book.mynavi.jp/article/70716/",
-    "pubDate": "2025-10-11T09:16:58.000Z"
   },
   {
     "site": "Zenn",
@@ -78,22 +114,22 @@
     "pubDate": "2025-10-11T07:31:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "“圧倒的に好評”プログラミング自動化農業ゲーム『農家は Replace() されました』ついに正式リリース。ドローン制御を楽しむうちに、Pythonを完全に理解できるかも - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/programming-the-farmer-was-replaced-20251011-361319/",
-    "pubDate": "2025-10-11T07:26:27.000Z"
+    "site": "Qiita",
+    "title": "Kaigi on Rails参加レポ",
+    "link": "https://qiita.com/HERUESTA/items/a086d5233e1ad630547d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T05:32:19.000Z"
   },
   {
     "site": "Qiita",
-    "title": "React学習ログ No.10",
-    "link": "https://qiita.com/maedaHARUYA/items/8977056a9a42e9b8f04f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T01:50:58.000Z"
+    "title": "図解で理解するWebの仕組み - インターネット・HTTP・ブラウザの全体像",
+    "link": "https://qiita.com/ktdatascience/items/bcf6b873d2d94b48f67b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T02:20:45.000Z"
   },
   {
     "site": "Qiita",
-    "title": "意外と似ている（?） JavaとC#の違い",
-    "link": "https://qiita.com/k12da/items/3417f19b56a8daf5c6e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T00:11:06.000Z"
+    "title": "【個人メモ】三層分離モデルをAWSアカウントで実現しようとした場合の構成",
+    "link": "https://qiita.com/mob_engineer/items/ee1c5eb4c4a8a1ee9625?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T23:27:37.000Z"
   },
   {
     "site": "Qiita",
@@ -106,18 +142,6 @@
     "title": "2024 年 10 月から 2025 年 10 月までの Mozc に対する主な変更",
     "link": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2024_10",
     "pubDate": "Fri, 10 Oct 2025 14:00:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Peering管理者の教科書 | Peering in Japan",
-    "link": "https://peering.jp/index.php/peering-textbook-jp/",
-    "pubDate": "2025-10-10T13:55:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Python」v3.12/3.11/3.10/3.9に最大深刻度がHIGHの脆弱性 ～修正版が公開／同梱のlibexpatライブラリに存在する制限ないリソース割り当てなど",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2054279.html",
-    "pubDate": "2025-10-10T11:11:47.000Z"
   },
   {
     "site": "Zenn",
@@ -139,44 +163,20 @@
   },
   {
     "site": "Qiita",
+    "title": "Transformer アーキテクチャのAttentionメカニズムについて",
+    "link": "https://qiita.com/ueki_yuichi/items/1fca269e10a2bc20d97e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-10T03:05:44.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "「散歩は最高のデバッグ時間」──エンジニアの集中力・作業効率・睡眠が劇的に改善する理由",
     "link": "https://qiita.com/nakaizumi_slj/items/bf0a08284a8869fbc23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-10T00:40:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SESでフルリモートを続けたいエンジニアが今すぐやるべきこと",
-    "link": "https://qiita.com/SunSunTech/items/ac402e7e26b866ce4bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T13:15:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Oracle Database@Hyperscalerを利用する前に確認することあれこれ",
-    "link": "https://qiita.com/billtench/items/642d640d6683682a26e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T08:25:00.000Z"
   },
   {
     "site": "Hatena",
     "title": "認知負荷を下げるテキストコミュニケーション - ジンジャー研究室",
     "link": "https://jinjor-labo.hatenablog.com/entry/2025/10/09/042519",
     "pubDate": "2025-10-09T02:43:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【コピペOK】AIエージェントで良いコードを書く！誰でも使える品質向上ルールの設定方法",
-    "link": "https://qiita.com/tomada/items/df5d3e0f611860bc2740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T01:40:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Python 3.14 で追加された t-strings って何？",
-    "link": "https://qiita.com/QUANON/items/ad474a884b3259315a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-09T00:07:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Kindle の蔵書一覧を取得する(1) - めもちょう。",
-    "link": "https://dominion525.hatenablog.jp/entry/2025/10/07/131151",
-    "pubDate": "2025-10-08T14:25:52.000Z"
   }
 ]
