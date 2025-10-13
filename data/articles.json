@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "4年越しに「REALFORCE R4」が登場。マウス機能や近接センサーを新たに搭載",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2054334.html",
+    "pubDate": "2025-10-13T02:05:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Pocket」代替ツール6選--より進化したお薦めの「後で読む」アプリを紹介",
+    "link": "https://japan.zdnet.com/article/35239092/",
+    "pubDate": "2025-10-13T00:45:37.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【git】プッシュ前に\"ちょ待てよ\"発動させたい。",
     "link": "https://qiita.com/umekikazuya/items/6d92fb70bf3c709ceb52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -42,16 +54,10 @@
     "pubDate": "Sun, 12 Oct 2025 09:58:23 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Soraの透かしは、もはや信じられない | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2510those-ai-videos-might-actually-be-real/",
-    "pubDate": "2025-10-12T09:07:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アヒルの人形に話しかけて問題の解決を図る「ラバーダック・デバッグ」はなぜ有効なのか？",
-    "link": "https://gigazine.net/news/20251012-rubber-duck-debug/",
-    "pubDate": "2025-10-12T06:18:27.000Z"
+    "site": "Zenn",
+    "title": "TinyGoはどのように \"Tiny\" を実現している？",
+    "link": "https://zenn.dev/uji/articles/how-tinygo-tiny",
+    "pubDate": "2025-10-12T09:56:38.000Z"
   },
   {
     "site": "Zenn",
@@ -66,6 +72,12 @@
     "pubDate": "2025-10-12T05:39:25.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Pythonではじめるオープンデータ分析 経済統計の取得から、データハンドリング・可視化・分析まで",
+    "link": "https://www.kspub.co.jp/book/detail/5412251.html",
+    "pubDate": "2025-10-12T05:36:01.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Microsoft Agent Framework (C#) を見てみよう その7 チェックポイントの永続化",
     "link": "https://zenn.dev/microsoft/articles/agent-framework-007",
@@ -73,7 +85,7 @@
   },
   {
     "site": "Zenn",
-    "title": "LLMのコーディングエージェントを効率よく使うために",
+    "title": "LLMのコーディングエージェント(主にCodex)を効率よく使うために",
     "link": "https://zenn.dev/takeshy/articles/ffe23204d1d326",
     "pubDate": "Sun, 12 Oct 2025 04:48:29 GMT"
   },
@@ -85,9 +97,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AIが職を奪う｢常識｣疑え、勝者は若手－敗者は経験豊富なベテラン幹部",
-    "link": "https://www.bloomberg.co.jp/news/articles/2025-10-11/T3SLEFGOT0JK00",
-    "pubDate": "2025-10-12T03:38:28.000Z"
+    "title": "大規模サーバーレスAPIの堅牢性・信頼性設計 〜AWSのベストプラクティスから始まる現実的制約との向き合い方〜",
+    "link": "https://speakerdeck.com/maimyyym/large-scale-reliable-serverless-api-aws-practices",
+    "pubDate": "2025-10-12T03:05:54.000Z"
   },
   {
     "site": "Zenn",
@@ -100,12 +112,6 @@
     "title": "モダンフロントエンドはJSON APIが鬱陶しいので、無くしていきたい",
     "link": "https://zenn.dev/naofumik/articles/0714f7237a493c",
     "pubDate": "Sun, 12 Oct 2025 00:44:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "読解力を分解してちゃんと文章を読む。 - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/12/081300",
-    "pubDate": "2025-10-12T00:30:32.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "「散歩は最高のデバッグ時間」──エンジニアの集中力・作業効率・睡眠が劇的に改善する理由",
     "link": "https://qiita.com/nakaizumi_slj/items/bf0a08284a8869fbc23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-10T00:40:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "認知負荷を下げるテキストコミュニケーション - ジンジャー研究室",
-    "link": "https://jinjor-labo.hatenablog.com/entry/2025/10/09/042519",
-    "pubDate": "2025-10-09T02:43:27.000Z"
   }
 ]
