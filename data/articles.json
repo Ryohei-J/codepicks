@@ -1,9 +1,21 @@
 [
   {
+    "site": "Hatena",
+    "title": "AIはあくまで「言葉の計算機」に過ぎずユーザーが想像するような思考や推論はしていないと専門家が指摘",
+    "link": "https://gigazine.net/news/20251013-ai-word-calculator-criticised/",
+    "pubDate": "2025-10-13T11:08:19.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "2025年に試したい10のモダン開発者向けツール（オープンソース含む）",
     "link": "https://qiita.com/itodaisuke99/items/d5b59d629d5620856a2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T06:59:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「カーリル for AI」を試してみました - やわらか図書館学",
+    "link": "https://yawatosho.hateblo.jp/entry/2025/10/13/104018",
+    "pubDate": "2025-10-13T06:39:28.000Z"
   },
   {
     "site": "Hatena",
@@ -43,6 +55,12 @@
   },
   {
     "site": "Hatena",
+    "title": "GitHub Copilotでバックエンドのバイブコーディングを極めた話 | ドクセル",
+    "link": "https://www.docswell.com/s/yuma/ZPG78E-2025-10-12-tbs",
+    "pubDate": "2025-10-13T01:51:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Pocket」代替ツール6選--より進化したお薦めの「後で読む」アプリを紹介",
     "link": "https://japan.zdnet.com/article/35239092/",
     "pubDate": "2025-10-13T00:45:37.000Z"
@@ -52,6 +70,12 @@
     "title": "Amazon SageMaker ノートブックインスタンスがAmazon Linux 2023になったのでクラウドIDEとして使うヨ",
     "link": "https://qiita.com/moritalous/items/4e69824baf5b4eb100a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T00:26:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Sora 2」は何がすごい？ 著作権問題も含めて整理 (1/7)",
+    "link": "https://ascii.jp/elem/000/004/326/4326609/",
+    "pubDate": "2025-10-13T00:06:50.000Z"
   },
   {
     "site": "Qiita",
@@ -66,12 +90,6 @@
     "pubDate": "Sun, 12 Oct 2025 15:58:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Huawei、LLMの精度を保持したまま最大70%メモリ削減できる新手法を発表──コンシューマーGPUでの高精度生成AI実行も視野に | Ledge.ai",
-    "link": "https://ledge.ai/articles/huawei_sinq_quantization_llm",
-    "pubDate": "2025-10-12T14:30:11.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "未経験から2年働いたエンジニアの本紹介",
     "link": "https://zenn.dev/enkazu/articles/347f2bf59cb903",
@@ -82,12 +100,6 @@
     "title": "【保存版】OpenAIのエンジニアが語る開発を１０倍速にするCodeXの使い方大全：バイブコーディングで設計→実装→レビューまで自動化｜チャエン | 重要AIニュースを毎日発信⚡️",
     "link": "https://note.com/chaen_channel/n/n68e6ae9df467",
     "pubDate": "2025-10-12T13:24:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Remix 3 発表まとめ - React を捨て、Web標準で新しい世界へ",
-    "link": "https://zenn.dev/coji/articles/remix3-introduction",
-    "pubDate": "2025-10-12T12:41:22.000Z"
   },
   {
     "site": "Zenn",
@@ -114,12 +126,6 @@
     "pubDate": "Sun, 12 Oct 2025 09:58:23 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "TinyGoはどのように \"Tiny\" を実現している？",
-    "link": "https://zenn.dev/uji/articles/how-tinygo-tiny",
-    "pubDate": "2025-10-12T09:56:38.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【コンテキストエンジニアリングシリーズ】2)コーディングエージェントのメモリ設計 - 長期記憶システムの実装",
     "link": "https://qiita.com/nogataka/items/3c40975a7271b8e8cf90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,12 +142,6 @@
     "title": "Pythonではじめるオープンデータ分析 経済統計の取得から、データハンドリング・可視化・分析まで",
     "link": "https://www.kspub.co.jp/book/detail/5412251.html",
     "pubDate": "2025-10-12T05:36:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "大規模サーバーレスAPIの堅牢性・信頼性設計 〜AWSのベストプラクティスから始まる現実的制約との向き合い方〜",
-    "link": "https://speakerdeck.com/maimyyym/large-scale-reliable-serverless-api-aws-practices",
-    "pubDate": "2025-10-12T03:05:54.000Z"
   },
   {
     "site": "Qiita",
