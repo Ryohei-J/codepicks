@@ -1,9 +1,45 @@
 [
   {
+    "site": "Qiita",
+    "title": "【git】プッシュ前に\"ちょ待てよ\"発動させたい。",
+    "link": "https://qiita.com/umekikazuya/items/6d92fb70bf3c709ceb52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-12T19:42:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "necordとbullmqで、ジョブキューCLI併用Discord botの構築",
+    "link": "https://zenn.dev/andhisan/articles/02d50c7e2340d7",
+    "pubDate": "Sun, 12 Oct 2025 15:58:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "未経験から2年働いたエンジニアの本紹介",
+    "link": "https://zenn.dev/enkazu/articles/347f2bf59cb903",
+    "pubDate": "Sun, 12 Oct 2025 13:30:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【保存版】OpenAIのエンジニアが語る開発を１０倍速にするCodeXの使い方大全：バイブコーディングで設計→実装→レビューまで自動化｜チャエン | 重要AIニュースを毎日発信⚡️",
+    "link": "https://note.com/chaen_channel/n/n68e6ae9df467",
+    "pubDate": "2025-10-12T13:24:57.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「初めてのパターンだ…」ネットで輸入商品を買ったら、“開封動画撮影をお願いします”との注意書きがあった→「良いシステム」「台湾では普通にあった」",
     "link": "https://togetter.com/li/2614680",
     "pubDate": "2025-10-12T13:11:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Remix 3 発表まとめ - React を捨て、Web標準で新しい世界へ",
+    "link": "https://zenn.dev/coji/articles/remix3-introduction",
+    "pubDate": "2025-10-12T12:41:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Error Boundary/Suspenseはどこに置く？ テスト・Storybook・UXのためのReactコンポーネント設計",
+    "link": "https://zenn.dev/mkt_engr/articles/20251012_error-boundary-suspense-storybook",
+    "pubDate": "Sun, 12 Oct 2025 09:58:23 GMT"
   },
   {
     "site": "Hatena",
@@ -13,33 +49,33 @@
   },
   {
     "site": "Hatena",
-    "title": "「PCの物理破壊を業者に依頼したのに、オンラインへの接続を検知」企業が遭遇したトラブルに色々考えさせられる",
-    "link": "https://togetter.com/li/2614615",
-    "pubDate": "2025-10-12T08:30:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "モダンフロントエンドはJSON APIが鬱陶しいので、無くしていきたい",
-    "link": "https://zenn.dev/naofumik/articles/0714f7237a493c",
-    "pubDate": "2025-10-12T07:53:24.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "アヒルの人形に話しかけて問題の解決を図る「ラバーダック・デバッグ」はなぜ有効なのか？",
     "link": "https://gigazine.net/news/20251012-rubber-duck-debug/",
     "pubDate": "2025-10-12T06:18:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Playwright Agents によるテストの自動生成を試してみた",
-    "link": "https://azukiazusa.dev/blog/playwright-agents/",
-    "pubDate": "2025-10-12T06:17:12.000Z"
   },
   {
     "site": "Zenn",
     "title": "TinyGoはどのように \"Tiny\" を実現している？",
     "link": "https://zenn.dev/uji/articles/how-tinygo-tiny",
     "pubDate": "Sun, 12 Oct 2025 06:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "壁にコンセントがなかった大正時代、人々はどうやって家電を使っていたのか--その答えは",
+    "link": "https://japan.cnet.com/article/35239127/",
+    "pubDate": "2025-10-12T05:39:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoft Agent Framework (C#) を見てみよう その7 チェックポイントの永続化",
+    "link": "https://zenn.dev/microsoft/articles/agent-framework-007",
+    "pubDate": "Sun, 12 Oct 2025 05:03:15 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMのコーディングエージェントを効率よく使うために",
+    "link": "https://zenn.dev/takeshy/articles/ffe23204d1d326",
+    "pubDate": "Sun, 12 Oct 2025 04:48:29 GMT"
   },
   {
     "site": "Zenn",
@@ -49,9 +85,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Google ウォレット「PayPay/au PAY/d払い/楽天ペイ」統合へ",
-    "link": "https://jetstream.blog/2025/10/12/google-wallet-to-integrate-paypay-aupay-d-payment-rakuten-pay-in-japan/",
-    "pubDate": "2025-10-12T02:14:01.000Z"
+    "title": "AIが職を奪う｢常識｣疑え、勝者は若手－敗者は経験豊富なベテラン幹部",
+    "link": "https://www.bloomberg.co.jp/news/articles/2025-10-11/T3SLEFGOT0JK00",
+    "pubDate": "2025-10-12T03:38:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "データベースの行ロックをちゃんと理解する（PostgreSQL, MySQL）",
+    "link": "https://zenn.dev/moepyxxx/articles/d1af9fe80fde6c",
+    "pubDate": "Sun, 12 Oct 2025 02:13:02 GMT"
   },
   {
     "site": "Zenn",
@@ -73,57 +115,27 @@
   },
   {
     "site": "Qiita",
+    "title": "[Rust] シェルピンスキー数の検証",
+    "link": "https://qiita.com/yoshi389111/items/dfc9a0d602f5d40e8380?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T17:28:13.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "AgentCore Gatewayのターゲットタイプに「MCP server」が追加されたぞ！",
     "link": "https://qiita.com/har1101/items/cd6b92f1967a0d262c4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T15:56:54.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【5G比較】povo2.0と楽天モバイル『帰宅ラッシュ時に使えない格安データ使い放題』判明、通信品質を徹底検証してみた | Buzzap！",
-    "link": "https://buzzap.jp/news/20251011-povo2_0-rakuten-mobile-5g-network-comparison-2025/",
-    "pubDate": "2025-10-11T14:55:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "パブリックアクセスを無効にした RDS エンドポイントへ別の閉域 VPC やオンプレミスから名前解決できるか整理する",
-    "link": "https://qiita.com/takeda_h/items/e98177b8e09174347b41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T14:42:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "もうprintlnデバッグは卒業。VSCodeで始めるRust実践デバッグ",
-    "link": "https://zenn.dev/dokusy/articles/b3c34eee18afbb",
-    "pubDate": "Sat, 11 Oct 2025 12:12:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go&Ebitengineで3D描画をする",
-    "link": "https://zenn.dev/mirichi/articles/93624c7269f56a",
-    "pubDate": "Sat, 11 Oct 2025 10:40:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ゼロから始める クリーンアーキテクチャAPI開発",
-    "link": "https://zenn.dev/yuta_ooo/books/clean-architecture",
-    "pubDate": "Sat, 11 Oct 2025 08:36:24 GMT"
+    "title": "コンテナ化されたアプリケーション用の Amazon ECS マネージドインスタンスの発表 | Amazon Web Services",
+    "link": "https://aws.amazon.com/jp/blogs/news/announcing-amazon-ecs-managed-instances-for-containerized-applications/",
+    "pubDate": "2025-10-11T13:28:37.000Z"
   },
   {
     "site": "Qiita",
     "title": "DNSを利用したDDoS攻撃の原理と対策まとめ",
     "link": "https://qiita.com/momokokko/items/c82e240d302c80b646b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T07:31:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Kaigi on Rails参加レポ",
-    "link": "https://qiita.com/HERUESTA/items/a086d5233e1ad630547d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T05:32:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "DDDとクリーンアーキテクチャをはじめよう-Rust編",
-    "link": "https://zenn.dev/poporo/articles/20251011_1_start_ddd_and_clean_architecture_rust",
-    "pubDate": "Sat, 11 Oct 2025 03:12:47 GMT"
   },
   {
     "site": "Qiita",
@@ -142,18 +154,6 @@
     "title": "【Amazon Bedrock】データベースに自然言語でクエリできるエージェントを作ってみた",
     "link": "https://qiita.com/yakumo_09/items/7bf7511b1fddcd4c1d91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-10T21:51:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2024 年 10 月から 2025 年 10 月までの Mozc に対する主な変更",
-    "link": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2024_10",
-    "pubDate": "Fri, 10 Oct 2025 14:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "1時間でCodexとLINE Bot(WIP)",
-    "link": "https://zenn.dev/n0bisuke/books/codex-linebot",
-    "pubDate": "Fri, 10 Oct 2025 09:07:57 GMT"
   },
   {
     "site": "Qiita",
