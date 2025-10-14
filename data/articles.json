@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "とほほのAI入門 - とほほのWWW入門",
+    "link": "https://www.tohoho-web.com/ai/ai.html",
+    "pubDate": "2025-10-14T06:26:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「\"犯人\"はこの中にいる」——年間数億円のAzureコスト削減に向けてイオンが取り組んだ10のコト ",
+    "link": "https://engineer-recruiting.aeon.info/aeon-tech-hub/interview_Azure-cost-optimization",
+    "pubDate": "2025-10-14T01:17:55.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "自然言語処理を10年ぐらいやってきた",
     "link": "https://anond.hatelabo.jp/20251014063736",
     "pubDate": "2025-10-13T23:29:00.000Z"
@@ -54,18 +66,6 @@
     "pubDate": "Mon, 13 Oct 2025 14:24:18 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代のソフトウェアプロダクト開発──変わるエンジニア、チーム、組織 - mtx2s’s blog",
-    "link": "https://mtx2s.hatenablog.com/entry/2025/10/13/190817",
-    "pubDate": "2025-10-13T13:23:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？ - Qiita",
-    "link": "https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c",
-    "pubDate": "2025-10-13T13:15:30.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "知ってるかい？Codexでストレスなくスマホでタスク完結できる世界線を。",
     "link": "https://zenn.dev/manabu/articles/80f22eb54883b0",
@@ -76,12 +76,6 @@
     "title": "アロー関数で this を操る！",
     "link": "https://zenn.dev/tcool/articles/350559e14d590a",
     "pubDate": "Mon, 13 Oct 2025 11:18:14 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIはあくまで「言葉の計算機」に過ぎずユーザーが想像するような思考や推論はしていないと専門家が指摘",
-    "link": "https://gigazine.net/news/20251013-ai-word-calculator-criticised/",
-    "pubDate": "2025-10-13T11:08:19.000Z"
   },
   {
     "site": "Zenn",
@@ -112,6 +106,12 @@
     "title": "Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説",
     "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide",
     "pubDate": "2025-10-13T09:17:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "インターフェース型 VPC エンドポイントを集約 VPC にまとめて複数の VPC 間で共有する時の名前解決パターンを整理する",
+    "link": "https://qiita.com/takeda_h/items/c2d55f91038cd4fc2806?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T08:20:47.000Z"
   },
   {
     "site": "Zenn",
@@ -145,9 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Amazon SageMaker ノートブックインスタンスがAmazon Linux 2023になったのでクラウドIDEとして使うヨ",
-    "link": "https://qiita.com/moritalous/items/4e69824baf5b4eb100a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T00:26:24.000Z"
+    "title": "AWSインフラ設計のベストプラクティスを目指して",
+    "link": "https://qiita.com/so-engineer/items/3538ca8739f85c6d4e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-12T21:00:34.000Z"
   },
   {
     "site": "Qiita",
@@ -157,26 +157,26 @@
   },
   {
     "site": "Qiita",
+    "title": "【自宅サーバ・個人開発】Mini PCをサーバ化してCI/CD導入してみた　前編",
+    "link": "https://qiita.com/komikomi/items/bf3b7efddcccba57d427?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-12T15:45:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "つくって、壊して、直して学ぶ Git＆GitHub 入門 | 翔泳社",
+    "link": "https://www.shoeisha.co.jp/book/detail/9784798191584",
+    "pubDate": "2025-10-12T04:48:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？",
+    "link": "https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-12T02:18:50.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "AgentCore Gatewayのターゲットタイプに「MCP server」が追加されたぞ！",
     "link": "https://qiita.com/har1101/items/cd6b92f1967a0d262c4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T15:56:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "機械学習汎関数 Skala の使い方",
-    "link": "https://qiita.com/ComputerChem/items/c3308a918df0f663be7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T13:05:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "DNSを利用したDDoS攻撃の原理と対策まとめ",
-    "link": "https://qiita.com/momokokko/items/c82e240d302c80b646b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-11T07:31:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人メモ】三層分離モデルをAWSアカウントで実現しようとした場合の構成",
-    "link": "https://qiita.com/mob_engineer/items/ee1c5eb4c4a8a1ee9625?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T23:27:37.000Z"
   }
 ]
