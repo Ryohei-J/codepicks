@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "自然言語処理を10年ぐらいやってきた",
+    "link": "https://anond.hatelabo.jp/20251014063736",
+    "pubDate": "2025-10-13T23:29:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「きょうだい」が多いと学力は低下する？　学生1900人以上を対象に調査　北大が研究発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/10/news044.html",
+    "pubDate": "2025-10-13T23:17:42.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "これは“とっつきやすい”かも！ オランダ版「サイバーセキュリティ経営ガイドライン」が日本のものと比べてかなりコンパクト【海の向こうの“セキュリティ”】",
     "link": "https://internet.watch.impress.co.jp/docs/column/security/2053558.html",
     "pubDate": "2025-10-13T22:23:19.000Z"
@@ -25,6 +37,18 @@
   },
   {
     "site": "Zenn",
+    "title": "Next.js App Routerで破綻しない設計──本番で使えるアーキテクチャ実践ガイド",
+    "link": "https://zenn.dev/yukionishi/articles/cd79e39ea6c172",
+    "pubDate": "Mon, 13 Oct 2025 15:32:56 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "yomitokuで作る無料の日本語OCR Webアプリ【Flask + TypeScript】",
+    "link": "https://zenn.dev/lecto/articles/b345c7f3920ae9",
+    "pubDate": "Mon, 13 Oct 2025 14:45:46 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Unity: 2D で大量の草を生やす",
     "link": "https://zenn.dev/ruccho/articles/258b59603547d0",
     "pubDate": "Mon, 13 Oct 2025 14:24:18 GMT"
@@ -42,6 +66,18 @@
     "pubDate": "2025-10-13T13:15:30.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "知ってるかい？Codexでストレスなくスマホでタスク完結できる世界線を。",
+    "link": "https://zenn.dev/manabu/articles/80f22eb54883b0",
+    "pubDate": "Mon, 13 Oct 2025 12:06:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "アロー関数で this を操る！",
+    "link": "https://zenn.dev/tcool/articles/350559e14d590a",
+    "pubDate": "Mon, 13 Oct 2025 11:18:14 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "AIはあくまで「言葉の計算機」に過ぎずユーザーが想像するような思考や推論はしていないと専門家が指摘",
     "link": "https://gigazine.net/news/20251013-ai-word-calculator-criticised/",
@@ -49,9 +85,9 @@
   },
   {
     "site": "Zenn",
-    "title": "ZMK Input Processorチートシート",
-    "link": "https://zenn.dev/kot149/articles/zmk-input-processor-cheat-sheet",
-    "pubDate": "Mon, 13 Oct 2025 09:55:24 GMT"
+    "title": "なぜ気軽にテーブルにカラムを足してはいけないのか",
+    "link": "https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random",
+    "pubDate": "Mon, 13 Oct 2025 10:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -64,6 +100,12 @@
     "title": "【個人開発】個人製作されたゲームのランキングWebサイトを作成しました",
     "link": "https://qiita.com/takaki-inokuchi/items/6ae54d1d4b22af5b4bed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T09:52:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "3Dゲームを最小コードで動かすまでのメモ（Unity）",
+    "link": "https://zenn.dev/game_dev/articles/e2233631aaae5f",
+    "pubDate": "Mon, 13 Oct 2025 09:32:11 GMT"
   },
   {
     "site": "Zenn",
@@ -96,34 +138,10 @@
     "pubDate": "2025-10-13T06:59:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「カーリル for AI」を試してみました - やわらか図書館学",
-    "link": "https://yawatosho.hateblo.jp/entry/2025/10/13/104018",
-    "pubDate": "2025-10-13T06:39:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Microsoft Agent Framework (C#) を見てみよう その8 Human in the loop を試してみよう",
-    "link": "https://zenn.dev/microsoft/articles/agent-framework-008",
-    "pubDate": "Mon, 13 Oct 2025 05:56:53 GMT"
-  },
-  {
     "site": "Zenn",
     "title": "サプライチェーン攻撃対策に、safe-chainとSocket Firewall Freeを試してみた",
     "link": "https://zenn.dev/hayashim/articles/try-safe-chain-and-socket-firewall-free",
     "pubDate": "Mon, 13 Oct 2025 04:07:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[先取り] Tanstack Start によるクライアントファーストな RSC のアプローチ",
-    "link": "https://zenn.dev/tsuboi/articles/0d2d63b584aa2c",
-    "pubDate": "Mon, 13 Oct 2025 03:35:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide",
-    "pubDate": "Mon, 13 Oct 2025 02:42:53 GMT"
   },
   {
     "site": "Qiita",
@@ -136,18 +154,6 @@
     "title": "【git】プッシュ前に\"ちょ待てよ\"発動させたい。",
     "link": "https://qiita.com/umekikazuya/items/6d92fb70bf3c709ceb52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-12T19:42:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Remix 3 発表まとめ - React を捨て、Web標準で新しい世界へ",
-    "link": "https://zenn.dev/coji/articles/remix3-introduction",
-    "pubDate": "Sun, 12 Oct 2025 12:03:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "大規模計算時代におけるパラメータ推定自動化の歴史",
-    "link": "https://zenn.dev/cybernetics/articles/083cb782b4099c",
-    "pubDate": "Sun, 12 Oct 2025 10:41:01 GMT"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "DNSを利用したDDoS攻撃の原理と対策まとめ",
     "link": "https://qiita.com/momokokko/items/c82e240d302c80b646b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T07:31:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "SOC2取得の全体像",
-    "link": "https://speakerdeck.com/shonansurvivors/overview-of-soc2-achievement",
-    "pubDate": "2025-10-11T00:48:58.000Z"
   },
   {
     "site": "Qiita",
