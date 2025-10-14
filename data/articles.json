@@ -1,9 +1,93 @@
 [
   {
     "site": "Hatena",
+    "title": "これは“とっつきやすい”かも！ オランダ版「サイバーセキュリティ経営ガイドライン」が日本のものと比べてかなりコンパクト【海の向こうの“セキュリティ”】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/security/2053558.html",
+    "pubDate": "2025-10-13T22:23:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Hothotレビュー】 ポータブルゲーミングPCの概念を破壊する性能。GPDが放つ怪物「GPD WIN 5」",
+    "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2054392.html",
+    "pubDate": "2025-10-13T21:15:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど",
+    "link": "https://www.publickey1.jp/blog/25/playwrightai.html",
+    "pubDate": "2025-10-13T18:36:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマホから Youtube Shortsを見られないようにする",
+    "link": "https://speakerdeck.com/lemolatoon/sumahokara-youtube-shortswojian-rarenaiyounisuru",
+    "pubDate": "2025-10-13T17:04:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Unity: 2D で大量の草を生やす",
+    "link": "https://zenn.dev/ruccho/articles/258b59603547d0",
+    "pubDate": "Mon, 13 Oct 2025 14:24:18 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代のソフトウェアプロダクト開発──変わるエンジニア、チーム、組織 - mtx2s’s blog",
+    "link": "https://mtx2s.hatenablog.com/entry/2025/10/13/190817",
+    "pubDate": "2025-10-13T13:23:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？ - Qiita",
+    "link": "https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c",
+    "pubDate": "2025-10-13T13:15:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIはあくまで「言葉の計算機」に過ぎずユーザーが想像するような思考や推論はしていないと専門家が指摘",
     "link": "https://gigazine.net/news/20251013-ai-word-calculator-criticised/",
     "pubDate": "2025-10-13T11:08:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ZMK Input Processorチートシート",
+    "link": "https://zenn.dev/kot149/articles/zmk-input-processor-cheat-sheet",
+    "pubDate": "Mon, 13 Oct 2025 09:55:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake 自律化サービスがもたらすデータエンジニアの新時代",
+    "link": "https://zenn.dev/dataheroes/articles/d6da9fb50e0b1e",
+    "pubDate": "Mon, 13 Oct 2025 09:54:38 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】個人製作されたゲームのランキングWebサイトを作成しました",
+    "link": "https://qiita.com/takaki-inokuchi/items/6ae54d1d4b22af5b4bed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T09:52:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説",
+    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide",
+    "pubDate": "2025-10-13T09:17:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「作って理解する仮想化技術」 読書ログ in Zig",
+    "link": "https://zenn.dev/smallkirby/articles/3e8d3bd1730b6b",
+    "pubDate": "Mon, 13 Oct 2025 08:01:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2025年最新版】0からReactを勉強するならこのロードマップに従え！",
+    "link": "https://qiita.com/Sicut_study/items/6adaeb14abfe022e689c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T08:00:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "React学習ログ No.11",
+    "link": "https://qiita.com/maedaHARUYA/items/61e42405a199c6a1ed3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T07:34:44.000Z"
   },
   {
     "site": "Qiita",
@@ -18,22 +102,16 @@
     "pubDate": "2025-10-13T06:39:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIに「人生相談」、1,670万人が熱狂するAIセラピストの魅力と危険性 | AMP[アンプ] - ビジネスインスピレーションメディア",
-    "link": "https://ampmedia.jp/2025/10/13/ai-therapy-and-risk/",
-    "pubDate": "2025-10-13T06:14:43.000Z"
+    "site": "Zenn",
+    "title": "Microsoft Agent Framework (C#) を見てみよう その8 Human in the loop を試してみよう",
+    "link": "https://zenn.dev/microsoft/articles/agent-framework-008",
+    "pubDate": "Mon, 13 Oct 2025 05:56:53 GMT"
   },
   {
     "site": "Zenn",
-    "title": "IaCを活用して最速でAzure × RAGを概念検証",
-    "link": "https://zenn.dev/kinosh/articles/iac-azure-rag-fastest-poc",
-    "pubDate": "Mon, 13 Oct 2025 05:04:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「俺の話を聞けー」なAltを卒業する。代替テキストは「情報」の羅列ではなく「機能」の伝達である｜Katsutoshi Tsuji",
-    "link": "https://note.com/debugon/n/ne7045920b2f9",
-    "pubDate": "2025-10-13T04:34:35.000Z"
+    "title": "サプライチェーン攻撃対策に、safe-chainとSocket Firewall Freeを試してみた",
+    "link": "https://zenn.dev/hayashim/articles/try-safe-chain-and-socket-firewall-free",
+    "pubDate": "Mon, 13 Oct 2025 04:07:45 GMT"
   },
   {
     "site": "Zenn",
@@ -48,64 +126,16 @@
     "pubDate": "Mon, 13 Oct 2025 02:42:53 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "4年越しに「REALFORCE R4」が登場。マウス機能や近接センサーを新たに搭載",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2054334.html",
-    "pubDate": "2025-10-13T02:05:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub Copilotでバックエンドのバイブコーディングを極めた話 | ドクセル",
-    "link": "https://www.docswell.com/s/yuma/ZPG78E-2025-10-12-tbs",
-    "pubDate": "2025-10-13T01:51:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Pocket」代替ツール6選--より進化したお薦めの「後で読む」アプリを紹介",
-    "link": "https://japan.zdnet.com/article/35239092/",
-    "pubDate": "2025-10-13T00:45:37.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Amazon SageMaker ノートブックインスタンスがAmazon Linux 2023になったのでクラウドIDEとして使うヨ",
     "link": "https://qiita.com/moritalous/items/4e69824baf5b4eb100a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T00:26:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Sora 2」は何がすごい？ 著作権問題も含めて整理 (1/7)",
-    "link": "https://ascii.jp/elem/000/004/326/4326609/",
-    "pubDate": "2025-10-13T00:06:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【git】プッシュ前に\"ちょ待てよ\"発動させたい。",
     "link": "https://qiita.com/umekikazuya/items/6d92fb70bf3c709ceb52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-12T19:42:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "necordとbullmqで、ジョブキューCLI併用Discord botの構築",
-    "link": "https://zenn.dev/andhisan/articles/02d50c7e2340d7",
-    "pubDate": "Sun, 12 Oct 2025 15:58:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "未経験から2年働いたエンジニアの本紹介",
-    "link": "https://zenn.dev/enkazu/articles/347f2bf59cb903",
-    "pubDate": "Sun, 12 Oct 2025 13:30:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【保存版】OpenAIのエンジニアが語る開発を１０倍速にするCodeXの使い方大全：バイブコーディングで設計→実装→レビューまで自動化｜チャエン | 重要AIニュースを毎日発信⚡️",
-    "link": "https://note.com/chaen_channel/n/n68e6ae9df467",
-    "pubDate": "2025-10-12T13:24:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "PKSHA Technologyエンジニア サマーインターン 体験記",
-    "link": "https://zenn.dev/pkmiya/articles/e183c44ba94ea3",
-    "pubDate": "Sun, 12 Oct 2025 12:35:16 GMT"
   },
   {
     "site": "Zenn",
@@ -120,40 +150,16 @@
     "pubDate": "Sun, 12 Oct 2025 10:41:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Error Boundary/Suspenseはどこに置く？ テスト・Storybook・UXのためのReactコンポーネント設計",
-    "link": "https://zenn.dev/mkt_engr/articles/20251012_error-boundary-suspense-storybook",
-    "pubDate": "Sun, 12 Oct 2025 09:58:23 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【コンテキストエンジニアリングシリーズ】2)コーディングエージェントのメモリ設計 - 長期記憶システムの実装",
-    "link": "https://qiita.com/nogataka/items/3c40975a7271b8e8cf90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-12T07:12:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TinyGoはどのように \"Tiny\" を実現している？",
-    "link": "https://zenn.dev/uji/articles/how-tinygo-tiny",
-    "pubDate": "Sun, 12 Oct 2025 06:00:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Pythonではじめるオープンデータ分析 経済統計の取得から、データハンドリング・可視化・分析まで",
-    "link": "https://www.kspub.co.jp/book/detail/5412251.html",
-    "pubDate": "2025-10-12T05:36:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？",
-    "link": "https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-12T02:18:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AgentCore Gatewayのターゲットタイプに「MCP server」が追加されたぞ！",
     "link": "https://qiita.com/har1101/items/cd6b92f1967a0d262c4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-11T15:56:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "機械学習汎関数 Skala の使い方",
+    "link": "https://qiita.com/ComputerChem/items/c3308a918df0f663be7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-11T13:05:29.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +168,15 @@
     "pubDate": "2025-10-11T07:31:16.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "SOC2取得の全体像",
+    "link": "https://speakerdeck.com/shonansurvivors/overview-of-soc2-achievement",
+    "pubDate": "2025-10-11T00:48:58.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【個人メモ】三層分離モデルをAWSアカウントで実現しようとした場合の構成",
     "link": "https://qiita.com/mob_engineer/items/ee1c5eb4c4a8a1ee9625?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-10T23:27:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Amazon Bedrock】データベースに自然言語でクエリできるエージェントを作ってみた",
-    "link": "https://qiita.com/yakumo_09/items/7bf7511b1fddcd4c1d91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T21:51:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "自分が思う理想のメモツールを作ってみた",
-    "link": "https://qiita.com/8bitTD/items/747df42d4e1a92890257?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-10T13:34:46.000Z"
   }
 ]
