@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "自民党、記者会見の全文書き起こしをXで公開　「徹底した一次情報を」",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/15/news104.html",
+    "pubDate": "2025-10-15T07:12:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "『ジブリ風』と言われるAI生成画像、使わない層はどう思っているのか「この絵柄はもはや『OpenAI風』という印象」「この色ホント苦手」",
     "link": "https://togetter.com/li/2615953",
     "pubDate": "2025-10-15T02:38:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "# いまから始めるクラウド環境構築のためのTerraform",
+    "link": "https://qiita.com/Natsuhi-aruku/items/ab32e4bd91c02f0e8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-15T00:40:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PostgreSQL 18の新機能「B-treeインデックスのスキップスキャン」 | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20251014a/",
+    "pubDate": "2025-10-15T00:39:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Oracle AI Database 26ai がリリースされたので作成してみてみた",
+    "link": "https://qiita.com/shirok/items/09159bbf11eea7b26734?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-14T23:59:43.000Z"
   },
   {
     "site": "Hatena",
@@ -18,6 +42,12 @@
     "pubDate": "2025-10-14T23:04:56.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ごめん、カーソル移動を効率的にするヘルシェイク矢野.vimのこと考えてた",
+    "link": "https://zenn.dev/takets/articles/vim-plugin-hellshake-yano",
+    "pubDate": "Tue, 14 Oct 2025 22:11:19 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Windows版のPythonのインストール方法が大きく変わる　Python Install Managerが登場",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/15/news018.html",
@@ -30,16 +60,16 @@
     "pubDate": "2025-10-14T21:57:51.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ハッカソンはいいぞ！ー Revenuecat主催のハッカソンに参加してみて",
+    "link": "https://zenn.dev/kontaco/articles/0415ba73e8099c",
+    "pubDate": "Tue, 14 Oct 2025 14:05:15 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "作業を高速化する「Microsoft Loop」入門！Notionにはない連携機能で仕事が変わる | ライフハッカー・ジャパン",
     "link": "https://www.lifehacker.jp/article/2510-underrated-microsoft-loop-features/",
     "pubDate": "2025-10-14T12:56:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OneDriveをアンインストールして二度と復活させない方法",
-    "link": "https://gigazine.net/news/20251014-onedrive-deactivate/",
-    "pubDate": "2025-10-14T12:29:20.000Z"
   },
   {
     "site": "Hatena",
@@ -49,9 +79,21 @@
   },
   {
     "site": "Zenn",
-    "title": "大阪万博 API 解説",
+    "title": "大阪万博内部 API 解説",
     "link": "https://zenn.dev/nakasyou/articles/osakaexpo-api",
     "pubDate": "Tue, 14 Oct 2025 09:38:31 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Raycastのブラウザ拡張機能の紹介",
+    "link": "https://qiita.com/se_eiji/items/949014418e064548563f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-14T09:20:34.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "PostgreSQLでALTER TABLE ADD COLUMNがハングする原因と回避策",
+    "link": "https://qiita.com/take-yoda/items/8229d1b6b070ee690dd5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-14T08:26:53.000Z"
   },
   {
     "site": "Hatena",
@@ -66,16 +108,16 @@
     "pubDate": "Tue, 14 Oct 2025 05:31:58 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "😱あなたのマウス、実は盗聴器かも？高性能マウスに潜む意外な脆弱性「Mic-E-Mouse」",
+    "link": "https://qiita.com/kaga-yasumitsu/items/1fa17dcb4bf448b53f65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-14T02:26:47.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "RAGでドキュメントの更新に強くする手法",
     "link": "https://zenn.dev/knowledgesense/articles/8b96daf7ca2474",
     "pubDate": "Tue, 14 Oct 2025 01:00:33 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアが外部への技術発信をしない3つの理由と、EMができること - るさんちまん",
-    "link": "https://naopr.hatenablog.com/entry/2025/10/14/085021",
-    "pubDate": "2025-10-14T00:54:56.000Z"
   },
   {
     "site": "Zenn",
@@ -108,30 +150,6 @@
     "pubDate": "Mon, 13 Oct 2025 14:24:18 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "知ってるかい？Codexならスマホでタスク完結できる世界線を。",
-    "link": "https://zenn.dev/manabu/articles/80f22eb54883b0",
-    "pubDate": "Mon, 13 Oct 2025 12:06:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ気軽にテーブルにカラムを足してはいけないのか",
-    "link": "https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random",
-    "pubDate": "Mon, 13 Oct 2025 10:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】個人製作されたゲームのランキングWebサイトを作成しました",
-    "link": "https://qiita.com/takaki-inokuchi/items/6ae54d1d4b22af5b4bed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T09:52:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "インターフェース型 VPC エンドポイントを集約 VPC にまとめて複数の VPC 間で共有する時の名前解決パターンを整理する",
-    "link": "https://qiita.com/takeda_h/items/c2d55f91038cd4fc2806?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T08:20:47.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【2025年最新版】0からReactを勉強するならこのロードマップに従え！",
     "link": "https://qiita.com/Sicut_study/items/6adaeb14abfe022e689c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -139,21 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【PHP】PHP公式のMCP SDKが出たよ",
-    "link": "https://qiita.com/rana_kualu/items/abd2bfed0aec43ae33fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T05:18:11.000Z"
+    "title": "私の思う「社内SE」",
+    "link": "https://qiita.com/kobayashi1423/items/76941f06b9d88383c7d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-13T06:41:14.000Z"
   },
   {
     "site": "Qiita",
     "title": "【第1回】量子計算機時代のクラウドセキュリティ概要 - なぜ今、対策が必要なのか",
     "link": "https://qiita.com/satokan3/items/2fc29a071d6b6014bdc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T03:12:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWSインフラ設計のベストプラクティスを目指して",
-    "link": "https://qiita.com/so-engineer/items/3538ca8739f85c6d4e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-12T21:00:34.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【自宅サーバ・個人開発】Mini PCをサーバ化してCI/CD導入してみた　前編",
     "link": "https://qiita.com/komikomi/items/bf3b7efddcccba57d427?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-12T15:45:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Dify】ナレッジパイプライン機能を使ってみる",
-    "link": "https://qiita.com/yushibats/items/df73be0a28ea84b1dde5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-12T09:15:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIコーディング時代の開発手法を再考する：スクラムよりウォーターフォールが向いている？",
-    "link": "https://qiita.com/nogataka/items/b64870d8fd6b6c225d0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-12T02:18:50.000Z"
   }
 ]
