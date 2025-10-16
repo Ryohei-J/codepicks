@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "ゲーミングPCてこんなに面倒なものだったんだな",
+    "link": "https://anond.hatelabo.jp/20251016172246",
+    "pubDate": "2025-10-16T08:30:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本政府がアニメやゲームなどの日本の知的財産を「かけがえのない宝」と呼んでOpenAIに著作権を侵害しないよう正式に要請したことが海外で話題に",
+    "link": "https://gigazine.net/news/20251016-japan-gov-openai-sora-2/",
+    "pubDate": "2025-10-16T07:13:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【検証】MacBook M4でContainerlabを動かしてみた！ARM対応NOSでネットワーク検証環境構築",
+    "link": "https://qiita.com/ntaka329/items/ed5d8b0b9de27893e0a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T01:24:34.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“内臓脂肪”が多いと脳の老化が加速──各部位の脂肪と脳への影響を調査　海外チームが発表",
     "link": "https://www.itmedia.co.jp/news/articles/2510/16/news022.html",
     "pubDate": "2025-10-15T23:13:39.000Z"
@@ -13,21 +31,33 @@
   },
   {
     "site": "Hatena",
-    "title": "【西川和久の不定期コラム】 Ryzen AI Max+ 395を「ビデオメモリ128GB積んだ鬼GPU」にしてしまう方法",
-    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2054963.html",
-    "pubDate": "2025-10-15T22:10:52.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "OpenAI、NVIDIAと200兆円「循環投資」　ITバブル型錬金術に危うさ - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN090FV0Z01C25A0000000/",
     "pubDate": "2025-10-15T21:16:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Claude】夜更かししていたら Haiku 4.5 が生えていたので少し触る",
+    "link": "https://qiita.com/ryu-ki/items/361f325853be0d7de8d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-15T18:56:02.000Z"
   },
   {
     "site": "Hatena",
     "title": "分割キーボード「Cornix」レビュー、すべてにおいて文句なし｜けんすう",
     "link": "https://kensuu.com/n/n353cc0959e04",
     "pubDate": "2025-10-15T14:56:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "4年目のソフトウェアエンジニアがSWE協会のコーディング練習会に参加して感じた変化",
+    "link": "https://zenn.dev/akhmgc/articles/aa55dfd823d062",
+    "pubDate": "Wed, 15 Oct 2025 14:40:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Supabaseは個人開発の味方 - 煩わしいセットアップは不要・RLSによる宣言的な権限管理",
+    "link": "https://zenn.dev/kontaco/articles/1128b039d47dd0",
+    "pubDate": "Wed, 15 Oct 2025 14:09:34 GMT"
   },
   {
     "site": "Hatena",
@@ -42,16 +72,22 @@
     "pubDate": "2025-10-15T12:53:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "レノボ、手のひらサイズで1PFLOPSのAIスパコン「ThinkStation PGX」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2055186.html",
-    "pubDate": "2025-10-15T09:12:44.000Z"
+    "site": "Zenn",
+    "title": "AIを使う人は、AIをあまり使わない人から「怠惰で能力が低く、自立心に乏しい」と評価されやすい",
+    "link": "https://zenn.dev/cloud_ace/articles/b172102d0163c2",
+    "pubDate": "Wed, 15 Oct 2025 10:09:17 GMT"
   },
   {
     "site": "Qiita",
     "title": "苦節6年 個人開発から始めたB2B SaaSがやっと動き出した話",
     "link": "https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-15T09:05:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントPoCを育てる3ステップ：CursorからLangChainへ",
+    "link": "https://zenn.dev/loglass/articles/797fe3fc60399a",
+    "pubDate": "Wed, 15 Oct 2025 09:00:05 GMT"
   },
   {
     "site": "Hatena",
@@ -72,10 +108,22 @@
     "pubDate": "2025-10-15T08:10:48.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "TypeScriptにResult型を導入するための妥協点はどこか？",
+    "link": "https://zenn.dev/praha/articles/2eb151a891be16",
+    "pubDate": "Wed, 15 Oct 2025 07:08:55 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "将来PMとして活躍するために、学生時代に積んでおきたい「5つの経験」",
     "link": "https://qiita.com/toshiaki_miyake/items/0d664f10ca465ae3dec3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-15T02:05:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "propsを1つ増やしただけなのにレスポンスサイズが5倍に増えてしまった",
+    "link": "https://zenn.dev/chot/articles/e0e2203d12bff8",
+    "pubDate": "Wed, 15 Oct 2025 00:53:07 GMT"
   },
   {
     "site": "Qiita",
@@ -109,9 +157,9 @@
   },
   {
     "site": "Zenn",
-    "title": "大阪万博内部 API 解説",
-    "link": "https://zenn.dev/nakasyou/articles/osakaexpo-api",
-    "pubDate": "Tue, 14 Oct 2025 09:38:31 GMT"
+    "title": "AI SDK 実践入門 - 入門編",
+    "link": "https://zenn.dev/hayato94087/books/8ac4877fc2fc5d",
+    "pubDate": "Tue, 14 Oct 2025 13:38:47 GMT"
   },
   {
     "site": "Qiita",
@@ -120,63 +168,15 @@
     "pubDate": "2025-10-14T09:20:34.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeチームの事例から考える、AI時代のon distributionな技術選定",
-    "link": "https://zenn.dev/r_kaga/articles/c84a6af89e3020",
-    "pubDate": "Tue, 14 Oct 2025 08:30:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Nani翻訳の技術的な話",
-    "link": "https://zenn.dev/catnose99/articles/nani-translate",
-    "pubDate": "Tue, 14 Oct 2025 05:31:58 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "😱あなたのマウス、実は盗聴器かも？高性能マウスに潜む意外な脆弱性「Mic-E-Mouse」",
     "link": "https://qiita.com/kaga-yasumitsu/items/1fa17dcb4bf448b53f65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-14T02:26:47.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "プロダクト戦略から考えるアーキテクチャ選定",
-    "link": "https://zenn.dev/peoplex_blog/articles/b95bb516a7410c",
-    "pubDate": "Tue, 14 Oct 2025 02:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGでドキュメントの更新に強くする手法",
-    "link": "https://zenn.dev/knowledgesense/articles/8b96daf7ca2474",
-    "pubDate": "Tue, 14 Oct 2025 01:00:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Remix 3 を実際に動かしてみる",
-    "link": "https://zenn.dev/sora_kumo/articles/remix3-samples",
-    "pubDate": "Tue, 14 Oct 2025 00:17:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Unity】フキダシUIを作ろう、それもテキストに応じて伸びるやつな【ハンズオン, LayoutGroup, LayoutElement】",
-    "link": "https://zenn.dev/gameshitai/articles/0b35fe99012c6a",
-    "pubDate": "Mon, 13 Oct 2025 22:07:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【2025年最新版】0からReactを勉強するならこのロードマップに従え！",
     "link": "https://qiita.com/Sicut_study/items/6adaeb14abfe022e689c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-13T08:00:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "私の思う「社内SE」",
-    "link": "https://qiita.com/kobayashi1423/items/76941f06b9d88383c7d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T06:41:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【第1回】量子計算機時代のクラウドセキュリティ概要 - なぜ今、対策が必要なのか",
-    "link": "https://qiita.com/satokan3/items/2fc29a071d6b6014bdc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-13T03:12:25.000Z"
   }
 ]
