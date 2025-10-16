@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "ハイレゾBluetoothは'26年10月規格策定へ。最大レートは7.5Mbpsに",
+    "link": "https://av.watch.impress.co.jp/docs/news/2055578.html",
+    "pubDate": "2025-10-16T09:25:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天モバイル、累計5回線目以降の契約に手数料徴収へ",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2055367.html",
+    "pubDate": "2025-10-16T08:31:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ゲーミングPCてこんなに面倒なものだったんだな",
     "link": "https://anond.hatelabo.jp/20251016172246",
     "pubDate": "2025-10-16T08:30:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "フジの長寿番組「くいしん坊！万才」終了へ　1975年の放送開始から50年の節目に",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/16/news107.html",
+    "pubDate": "2025-10-16T07:45:27.000Z"
   },
   {
     "site": "Hatena",
@@ -19,21 +37,21 @@
   },
   {
     "site": "Hatena",
+    "title": "IT業界の劣等感との付き合い方",
+    "link": "https://anond.hatelabo.jp/20251016082708",
+    "pubDate": "2025-10-15T23:28:50.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“内臓脂肪”が多いと脳の老化が加速──各部位の脂肪と脳への影響を調査　海外チームが発表",
     "link": "https://www.itmedia.co.jp/news/articles/2510/16/news022.html",
     "pubDate": "2025-10-15T23:13:39.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「Windows 10」を1年延命できるESU、個人向けを「Microsoft Store」からも購入可能に／価格は3,500円（税込み）",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2055307.html",
-    "pubDate": "2025-10-15T23:02:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAI、NVIDIAと200兆円「循環投資」　ITバブル型錬金術に危うさ - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN090FV0Z01C25A0000000/",
-    "pubDate": "2025-10-15T21:16:11.000Z"
+    "title": "計算機科学の終焉｜情報処理学会・学会誌「情報処理」",
+    "link": "https://note.com/ipsj/n/n5452212e0dbf",
+    "pubDate": "2025-10-15T21:32:34.000Z"
   },
   {
     "site": "Qiita",
@@ -60,18 +78,6 @@
     "pubDate": "Wed, 15 Oct 2025 14:09:34 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Apple、M5チップを搭載した新しい14インチMacBook Proを発表",
-    "link": "https://www.apple.com/jp/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/",
-    "pubDate": "2025-10-15T13:17:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "人工知能基本計画 - 科学技術・イノベーション - 内閣府",
-    "link": "https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html",
-    "pubDate": "2025-10-15T12:53:17.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIを使う人は、AIをあまり使わない人から「怠惰で能力が低く、自立心に乏しい」と評価されやすい",
     "link": "https://zenn.dev/cloud_ace/articles/b172102d0163c2",
@@ -90,22 +96,10 @@
     "pubDate": "Wed, 15 Oct 2025 09:00:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIエージェントを支える技術: コンテキストエンジニアリングの現在地 - Algomatic Tech Blog",
-    "link": "https://tech.algomatic.jp/entry/2025/10/15/172110",
-    "pubDate": "2025-10-15T08:40:02.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Oracle Autonomous AI Lakehouse 26ai がリリースされたので作成してみてみた",
     "link": "https://qiita.com/shirok/items/c28680076b0c02617796?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-15T08:12:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ドングリの豊作凶作は関係なくクマは増えてます」「新世代熊は人間が怖くないからクマ避けの鈴が効かない」クマスプレー取扱店が被害が増加すると考える理由",
-    "link": "https://togetter.com/li/2616034",
-    "pubDate": "2025-10-15T08:10:48.000Z"
   },
   {
     "site": "Zenn",
@@ -148,6 +142,12 @@
     "title": "ごめん、カーソル移動を効率的にするヘルシェイク矢野.vimのこと考えてた",
     "link": "https://zenn.dev/takets/articles/vim-plugin-hellshake-yano",
     "pubDate": "Tue, 14 Oct 2025 22:11:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "作って意地でも理解する フォントがレンダリングされるまで",
+    "link": "https://zenn.dev/yayo1/articles/4fb4dd2a6c4654",
+    "pubDate": "2025-10-14T20:51:43.000Z"
   },
   {
     "site": "Zenn",
