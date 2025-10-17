@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "NIST、新しいパスワードガイドライン公開 - これまでの常識を覆す新ルール",
+    "link": "https://news.mynavi.jp/techplus/article/20251017-3548825/",
+    "pubDate": "2025-10-17T04:29:37.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】番外編 #1：ピカチュウって200種類おんねん～クラス～（Java・Python・JavaScript・Ruby）",
+    "link": "https://qiita.com/hitomin_poke/items/a31fc9e646a1cbcbe14a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T04:12:59.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Googleアカウントのユーザーは設定すべし。ログインできなくなったときのための回復支援機能が登場【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2055750.html",
     "pubDate": "2025-10-17T03:53:57.000Z"
@@ -31,9 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "HDDの故障を予測する「バスタブ曲線」にさらなる変化が加わったことが判明",
-    "link": "https://gigazine.net/news/20251016-backblaze-bathtub-curve/",
-    "pubDate": "2025-10-16T22:40:07.000Z"
+    "title": "AIで無能になる人と、賢くなる人の決定的な違い｜片山良平＠paiza代表",
+    "link": "https://note.com/rk611/n/n5941016f5cc0",
+    "pubDate": "2025-10-16T22:36:45.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +54,34 @@
     "pubDate": "2025-10-16T17:50:20.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AWS Bedrockを利用して、AWSの日本国内に閉じてClaude Codeを利用しよう！！",
+    "link": "https://zenn.dev/tsumita7/articles/closed-cloud-code-on-aws",
+    "pubDate": "Thu, 16 Oct 2025 15:18:13 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Bedrockのモデルアクセス有効化が不要に！ でもClaudeは初回のみ別操作が必要😣",
+    "link": "https://qiita.com/minorun365/items/7070a0206547cc6dc650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T13:47:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Next.js】散らかりにくいREST APIのエラーハンドリング",
+    "link": "https://zenn.dev/frontendflat/articles/d5ea1c5c533c71",
+    "pubDate": "Thu, 16 Oct 2025 12:30:28 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「AIなら週末も無償で働く」と、アナリストを全員解雇したVCの現在…113億円ファンドを運営、他VCでも人員50%削減予測も | Business Insider Japan",
     "link": "https://www.businessinsider.jp/article/venturecapital-ai-agent-meta/",
     "pubDate": "2025-10-16T11:20:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI開発の効率を爆発的に高める方法",
+    "link": "https://qiita.com/QueryPieAI/items/8536a71c0048354cdf2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T09:48:32.000Z"
   },
   {
     "site": "Qiita",
@@ -60,16 +96,22 @@
     "pubDate": "2025-10-16T05:16:43.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Remix3 (Remix Jam 2025)について",
+    "link": "https://zenn.dev/asip2k25/articles/33b38f8298ff4a",
+    "pubDate": "Thu, 16 Oct 2025 04:05:07 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Photoshopはもう不要！グーグル新画像AI「Nano Banana」で即使えるプロンプト集",
     "link": "https://www.sbbit.jp/article/cont1/173354",
     "pubDate": "2025-10-16T03:27:36.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【検証】MacBook M4でContainerlabを動かしてみた！ARM対応NOSでネットワーク検証環境構築",
-    "link": "https://qiita.com/ntaka329/items/ed5d8b0b9de27893e0a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T01:24:34.000Z"
+    "site": "Zenn",
+    "title": "個人開発のOSSが2K Start獲得するまで、4年の軌跡　#1 勉強会レポート",
+    "link": "https://zenn.dev/dreamarts/articles/205142197c705c",
+    "pubDate": "Thu, 16 Oct 2025 00:54:55 GMT"
   },
   {
     "site": "Qiita",
@@ -82,6 +124,12 @@
     "title": "4年目のソフトウェアエンジニアがSWE協会のコーディング練習会に参加して感じた変化",
     "link": "https://zenn.dev/akhmgc/articles/aa55dfd823d062",
     "pubDate": "Wed, 15 Oct 2025 14:40:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Supabaseは個人開発の味方 - 煩わしいセットアップは不要・RLSによる宣言的な権限管理",
+    "link": "https://zenn.dev/kontaco/articles/1128b039d47dd0",
+    "pubDate": "Wed, 15 Oct 2025 14:09:34 GMT"
   },
   {
     "site": "Zenn",
@@ -109,12 +157,6 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeに自分の記憶を持ってもらうMCPサーバーを作った話",
-    "link": "https://zenn.dev/pppp303/articles/claude-ops-mcp-memory",
-    "pubDate": "2025-10-15T08:50:43.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "TypeScriptにResult型を導入するための妥協点はどこか？",
     "link": "https://zenn.dev/praha/articles/2eb151a891be16",
     "pubDate": "Wed, 15 Oct 2025 07:08:55 GMT"
@@ -132,51 +174,9 @@
     "pubDate": "2025-10-15T00:40:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "実サービスへの搭載に向けたLLM AgentとMeta Agentの研究開発",
-    "link": "https://zenn.dev/elyza/articles/4c78076139a733",
-    "pubDate": "Tue, 14 Oct 2025 23:33:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの性能が落ちたのはあなたの使い方のせいかも",
-    "link": "https://zenn.dev/aun_phonogram/articles/05b4ca7afa3b55",
-    "pubDate": "Tue, 14 Oct 2025 22:19:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ごめん、カーソル移動を効率的にするヘルシェイク矢野.vimのこと考えてた",
-    "link": "https://zenn.dev/takets/articles/vim-plugin-hellshake-yano",
-    "pubDate": "Tue, 14 Oct 2025 22:11:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "作って意地でも理解する フォントがレンダリングされるまで",
-    "link": "https://zenn.dev/yayo1/articles/4fb4dd2a6c4654",
-    "pubDate": "Tue, 14 Oct 2025 20:10:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI SDK 実践入門 - 入門編",
-    "link": "https://zenn.dev/hayato94087/books/8ac4877fc2fc5d",
-    "pubDate": "Tue, 14 Oct 2025 13:38:47 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Raycastのブラウザ拡張機能の紹介",
-    "link": "https://qiita.com/se_eiji/items/949014418e064548563f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-14T09:20:34.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Linux初心者向けの便利なコマンド",
     "link": "https://qiita.com/kosuke_shoji/items/59078e087b8b18a4188a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-14T08:54:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "😱あなたのマウス、実は盗聴器かも？高性能マウスに潜む意外な脆弱性「Mic-E-Mouse」",
-    "link": "https://qiita.com/kaga-yasumitsu/items/1fa17dcb4bf448b53f65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-14T02:26:47.000Z"
   }
 ]
