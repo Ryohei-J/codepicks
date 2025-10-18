@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "うちの会社に「Wi-Fi電波がうるさい」という人が居るんだけど本当に通信している時にだけうるさいと言っている...→実はこういうことかも",
+    "link": "https://togetter.com/li/2617188",
+    "pubDate": "2025-10-17T23:37:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIを利用したであろう「外国人アカウント」による日本の政治系などの動画が大量に出来ていた - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2025/10/18/070000",
+    "pubDate": "2025-10-17T23:16:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "RAGでのデータ整形(改行・インデント)がLLMの回答精度に与える影響を検証した - $shibayu36->blog;",
+    "link": "https://blog.shibayu36.org/entry/2025/10/14/173000",
+    "pubDate": "2025-10-17T11:30:10.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Codeを駆使した初めてのiOSアプリ開発 ~ゼロから3週間でグローバルハッカソンで入賞するまで~",
     "link": "https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade",
     "pubDate": "2025-10-17T11:24:28.000Z"
@@ -12,10 +30,10 @@
     "pubDate": "2025-10-17T09:28:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "韓国の“政府オンラインストレージ焼失”火災、当時の監視カメラ映像が公開に　現地報道",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/17/news099.html",
-    "pubDate": "2025-10-17T09:02:54.000Z"
+    "site": "Zenn",
+    "title": "【2025/10/17最新アプデ】Claude Code 2.0.20、エージェントスキルの導入とチーム配布の解説",
+    "link": "https://zenn.dev/canly/articles/965cc8e7e9be8d",
+    "pubDate": "Fri, 17 Oct 2025 08:13:36 GMT"
   },
   {
     "site": "Hatena",
@@ -24,10 +42,10 @@
     "pubDate": "2025-10-17T06:42:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "誰でも無料で使えるようになった「Wave Link 3.0」。音声を自在にミックス、VSTにも対応",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2055858.html",
-    "pubDate": "2025-10-17T06:32:08.000Z"
+    "site": "Zenn",
+    "title": "マウス不要！Git 操作を爆速化する「lazygit」が手放せない",
+    "link": "https://zenn.dev/aishift/articles/d1a0551a444317",
+    "pubDate": "Fri, 17 Oct 2025 04:46:01 GMT"
   },
   {
     "site": "Hatena",
@@ -42,10 +60,10 @@
     "pubDate": "2025-10-17T04:12:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Googleアカウントのユーザーは設定すべし。ログインできなくなったときのための回復支援機能が登場【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2055750.html",
-    "pubDate": "2025-10-17T03:53:57.000Z"
+    "site": "Zenn",
+    "title": "NestJSからHonoへ：使ってみて感じた違いと学び",
+    "link": "https://zenn.dev/medicalforce/articles/719fa20204ea7e",
+    "pubDate": "Fri, 17 Oct 2025 03:54:38 GMT"
   },
   {
     "site": "Qiita",
@@ -60,10 +78,22 @@
     "pubDate": "2025-10-17T03:13:58.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "nnUNetとMONAI事前学習済みモデルの使い方",
+    "link": "https://zenn.dev/nnc496/articles/05699e19760a93",
+    "pubDate": "Fri, 17 Oct 2025 03:07:10 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "機械や電気、建築の人達って専門が違っても工学の基礎があるから、話が通じるが、ITエンジニアはマジで共通言語が持てない。彼らはエンジニア（技術士）ではなく、テクニシャン（技能者・作業員）に近いという話",
     "link": "https://posfie.com/@blackstaragent/p/iVU6CxS",
     "pubDate": "2025-10-17T01:54:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "あなたはVersion Skew問題を知っていますか？ Web開発者なら知って損はない原因と対策",
+    "link": "https://zenn.dev/coconala/articles/nextjs-version-skew-vercel-skew-protection",
+    "pubDate": "Fri, 17 Oct 2025 01:52:09 GMT"
   },
   {
     "site": "Qiita",
@@ -72,10 +102,10 @@
     "pubDate": "2025-10-17T00:38:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「英数・記号の混在」はもう古い　NISTがパスワードポリシーの要件を刷新",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2510/17/news027.html",
-    "pubDate": "2025-10-16T23:18:07.000Z"
+    "site": "Zenn",
+    "title": "1年で1万円以上コストダウンかも!? 外国製AIを有料課金するならRevolut",
+    "link": "https://zenn.dev/salesnow_tech/articles/0fb28697da1108",
+    "pubDate": "Thu, 16 Oct 2025 23:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -91,18 +121,6 @@
   },
   {
     "site": "Zenn",
-    "title": "uvコマンドチートシート",
-    "link": "https://zenn.dev/studypocket/articles/uv-cheatsheet",
-    "pubDate": "Thu, 16 Oct 2025 16:52:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TinyGo Conference 2025を開催しました ~とあるスタッフより~",
-    "link": "https://zenn.dev/satoken/articles/tinygo-conf-2025",
-    "pubDate": "Thu, 16 Oct 2025 15:23:45 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "AWS Bedrockを利用して、AWSの日本国内に閉じてClaude Codeを利用しよう！！",
     "link": "https://zenn.dev/tsumita7/articles/closed-cloud-code-on-aws",
     "pubDate": "Thu, 16 Oct 2025 15:18:13 GMT"
@@ -112,12 +130,6 @@
     "title": "Bedrockのモデルアクセス有効化が不要に！ でもClaudeは初回のみ別操作が必要😣",
     "link": "https://qiita.com/minorun365/items/7070a0206547cc6dc650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-16T13:47:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "小規模チームがゼロからTerraform構成を設計した話 - AI時代の運用を見据えて",
-    "link": "https://zenn.dev/pivotmedia/articles/pivot-terraform-ai-era-design",
-    "pubDate": "Thu, 16 Oct 2025 12:36:44 GMT"
   },
   {
     "site": "Zenn",
@@ -144,24 +156,6 @@
     "pubDate": "2025-10-16T05:16:43.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "4年目のソフトウェアエンジニアがSWE協会のコーディング練習会に参加して感じた変化",
-    "link": "https://zenn.dev/akhmgc/articles/aa55dfd823d062",
-    "pubDate": "Wed, 15 Oct 2025 14:40:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Supabaseは個人開発の味方 - 煩わしいセットアップは不要・RLSによる宣言的な権限管理",
-    "link": "https://zenn.dev/kontaco/articles/1128b039d47dd0",
-    "pubDate": "Wed, 15 Oct 2025 14:09:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIを使う人は、AIをあまり使わない人から「怠惰で能力が低く、自立心に乏しい」と評価されやすい",
-    "link": "https://zenn.dev/cloud_ace/articles/b172102d0163c2",
-    "pubDate": "Wed, 15 Oct 2025 10:09:17 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "苦節6年 個人開発から始めたB2B SaaSがやっと動き出した話",
     "link": "https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "# いまから始めるクラウド環境構築のためのTerraform",
     "link": "https://qiita.com/Natsuhi-aruku/items/ab32e4bd91c02f0e8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-15T00:40:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "部長2人が全力でお薦めする、「生成AI」を仕事と生活に生かすための9冊",
+    "link": "https://bookplus.nikkei.com/atcl/column/100100571/100100001/",
+    "pubDate": "2025-10-03T00:06:02.000Z"
   }
 ]
