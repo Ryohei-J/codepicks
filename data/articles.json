@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Skillsとは何なのか？",
+    "link": "https://blog.lai.so/claude-skills/",
+    "pubDate": "2025-10-18T04:03:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Amazon Bedrock AgentCore】エージェントをRuntimeにデプロイしてみる",
+    "link": "https://qiita.com/yakumo_09/items/eaa3b6062396227615a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T01:34:31.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "うちの会社に「Wi-Fi電波がうるさい」という人が居るんだけど本当に通信している時にだけうるさいと言っている...→実はこういうことかも",
     "link": "https://togetter.com/li/2617188",
     "pubDate": "2025-10-17T23:37:24.000Z"
@@ -10,6 +22,24 @@
     "title": "生成AIを利用したであろう「外国人アカウント」による日本の政治系などの動画が大量に出来ていた - 電脳塵芥",
     "link": "https://nou-yunyun.hatenablog.com/entry/2025/10/18/070000",
     "pubDate": "2025-10-17T23:16:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple、販売不振でiPhone Airの生産削減の報道 - こぼねみ",
+    "link": "https://www.kobonemi.com/entry/2025/10/18//iPhone-Air-Production",
+    "pubDate": "2025-10-17T22:29:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "[レポート] Claude Code Meetup Tokyo #ClaudeCodeMeetupTokyo",
+    "link": "https://zenn.dev/truestar/articles/f4707bb745a74b",
+    "pubDate": "Fri, 17 Oct 2025 15:48:47 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Ryzen AI Max+ 395 で LLM 推論速度を比較",
+    "link": "https://zenn.dev/7shi/articles/20251017-amd-llm",
+    "pubDate": "Fri, 17 Oct 2025 14:12:56 GMT"
   },
   {
     "site": "Hatena",
@@ -24,6 +54,18 @@
     "pubDate": "2025-10-17T11:24:28.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "GA版AgentCoreRuntimeにA2A対応AIエージェントをデプロイして詰まったこと!",
+    "link": "https://qiita.com/Syoitu/items/9fc3d69e6ce3c7dd6884?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T10:58:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Skillsを使ってみた - システムプロンプト的なカスタマイズが面白い",
+    "link": "https://zenn.dev/lnest_knowledge/articles/2912bc87bc83d5",
+    "pubDate": "Fri, 17 Oct 2025 09:41:40 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "スマホをなくしてもログインで詰まない。家族や友人経由でGoogleアカウントを復元できる機能",
     "link": "https://pc.watch.impress.co.jp/docs/news/2055991.html",
@@ -34,12 +76,6 @@
     "title": "【2025/10/17最新アプデ】Claude Code 2.0.20、エージェントスキルの導入とチーム配布の解説",
     "link": "https://zenn.dev/canly/articles/965cc8e7e9be8d",
     "pubDate": "Fri, 17 Oct 2025 08:13:36 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ノーコードで独自のミニAIアプリが作れちゃう、Google「Opal」の使い方 [てっぱんアプリ！]",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2055164.html",
-    "pubDate": "2025-10-17T06:42:21.000Z"
   },
   {
     "site": "Zenn",
@@ -54,28 +90,10 @@
     "pubDate": "2025-10-17T04:29:37.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】番外編 #1：ピカチュウって200種類おんねん～クラス～（Java・Python・JavaScript・Ruby）",
-    "link": "https://qiita.com/hitomin_poke/items/a31fc9e646a1cbcbe14a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T04:12:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "NestJSからHonoへ：使ってみて感じた違いと学び",
     "link": "https://zenn.dev/medicalforce/articles/719fa20204ea7e",
     "pubDate": "Fri, 17 Oct 2025 03:54:38 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "お家でBGP！containerlab x FRRoutingで学ぶBGP経路制御シミュレーション",
-    "link": "https://qiita.com/ntaka329/items/22a9f1ad999396b76b0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T03:16:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GoogleのUI生成AIツール「Stitch」を試してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/google-ui-ai-stitch/",
-    "pubDate": "2025-10-17T03:13:58.000Z"
   },
   {
     "site": "Zenn",
@@ -84,28 +102,28 @@
     "pubDate": "Fri, 17 Oct 2025 03:07:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "機械や電気、建築の人達って専門が違っても工学の基礎があるから、話が通じるが、ITエンジニアはマジで共通言語が持てない。彼らはエンジニア（技術士）ではなく、テクニシャン（技能者・作業員）に近いという話",
-    "link": "https://posfie.com/@blackstaragent/p/iVU6CxS",
-    "pubDate": "2025-10-17T01:54:34.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "あなたはVersion Skew問題を知っていますか？ Web開発者なら知って損はない原因と対策",
     "link": "https://zenn.dev/coconala/articles/nextjs-version-skew-vercel-skew-protection",
     "pubDate": "Fri, 17 Oct 2025 01:52:09 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "Seagate ST24000DM001レビュー：HAMR方式サーバーグレード級HDDが格安に | ちもろぐ",
+    "link": "https://chimolog.co/hdd-st24000dm001/",
+    "pubDate": "2025-10-17T01:48:23.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "BedrockのClaudeクォータ緩和申請の手順が簡単になったよ！",
+    "link": "https://qiita.com/minorun365/items/bc58bbb2490ef1b5fdee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T01:36:14.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Playwright Agentsでテストの自動生成をやってみた",
     "link": "https://qiita.com/resound/items/24f129a920b34677e7f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-17T00:38:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "1年で1万円以上コストダウンかも!? 外国製AIを有料課金するならRevolut",
-    "link": "https://zenn.dev/salesnow_tech/articles/0fb28697da1108",
-    "pubDate": "Thu, 16 Oct 2025 23:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -120,10 +138,10 @@
     "pubDate": "Thu, 16 Oct 2025 21:00:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AWS Bedrockを利用して、AWSの日本国内に閉じてClaude Codeを利用しよう！！",
-    "link": "https://zenn.dev/tsumita7/articles/closed-cloud-code-on-aws",
-    "pubDate": "Thu, 16 Oct 2025 15:18:13 GMT"
+    "site": "Qiita",
+    "title": "いつでもVibe CordingしたいのでLINEとTauriでCodex CLIを遠隔操作する",
+    "link": "https://qiita.com/watanabe-tsubasa/items/5b1784e93484da784771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T15:26:46.000Z"
   },
   {
     "site": "Qiita",
@@ -132,22 +150,16 @@
     "pubDate": "2025-10-16T13:47:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【Next.js】散らかりにくいREST APIのエラーハンドリング",
-    "link": "https://zenn.dev/frontendflat/articles/d5ea1c5c533c71",
-    "pubDate": "Thu, 16 Oct 2025 12:30:28 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI開発の効率を爆発的に高める方法",
-    "link": "https://qiita.com/QueryPieAI/items/8536a71c0048354cdf2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T09:48:32.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "⚠️ 初心者がハマりがちなインフラ構築の落とし穴10選（解説編）",
     "link": "https://qiita.com/kosuke_shoji/items/ed0c1cc16ca7a7191359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-16T08:56:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Cursorの料金改定に全力で対応する",
+    "link": "https://qiita.com/sakamoto-ryosuke/items/c8cdae4260a873d0b28e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T08:11:23.000Z"
   },
   {
     "site": "Qiita",
@@ -160,18 +172,6 @@
     "title": "苦節6年 個人開発から始めたB2B SaaSがやっと動き出した話",
     "link": "https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-15T09:05:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "異常精進は異常",
-    "link": "https://qiita.com/TrueRyoB/items/17dc50f5e51b6d1c32f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-15T03:44:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "# いまから始めるクラウド環境構築のためのTerraform",
-    "link": "https://qiita.com/Natsuhi-aruku/items/ab32e4bd91c02f0e8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-15T00:40:45.000Z"
   },
   {
     "site": "Hatena",
