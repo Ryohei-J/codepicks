@@ -1,6 +1,60 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Code Subagents 再入門 ~cc-sddの実装で学んだこと~ - Speaker Deck",
+    "link": "https://speakerdeck.com/player/cd4536704070441ebe1c7a48d64ad0c0",
+    "pubDate": "2025-10-18T16:59:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Reactのデータ再取得、タイムスタンプで管理すると宣言的になる話【AI生成】",
+    "link": "https://zenn.dev/uhyo/articles/timestamp-refetch-pattern-ai",
+    "pubDate": "2025-10-18T16:39:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Ruby基礎・基本文法",
+    "link": "https://zenn.dev/westtail/articles/1e2813e23e9f24",
+    "pubDate": "Sat, 18 Oct 2025 15:40:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Reactのデータ再取得、タイムスタンプで管理すると宣言的になる話【AI生成】",
+    "link": "https://zenn.dev/uhyo/articles/timestamp-refetch-pattern-ai",
+    "pubDate": "Sat, 18 Oct 2025 15:29:13 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Introduce Hono CLI",
+    "link": "https://speakerdeck.com/yusukebe/introduce-hono-cli",
+    "pubDate": "2025-10-18T14:51:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "暇だからGoogle mapガチってる",
+    "link": "https://anond.hatelabo.jp/20251018215212",
+    "pubDate": "2025-10-18T13:04:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "SDカードが壊れにくいラズベリーパイ（initramfsとは何か？）",
+    "link": "https://zenn.dev/shifromsa_lb/articles/ea4ceb981ea026",
+    "pubDate": "Sat, 18 Oct 2025 12:53:33 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Office 2016／2019サポート終了】サブスクか永続版か？　損をしない次のOfficeの選び方・落とし穴",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/17/news014.html",
+    "pubDate": "2025-10-18T10:10:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Laravel版のAPI PlatformでSystem ProviderやSystem Processorをデコレートするのが難しかった話",
+    "link": "https://zenn.dev/ttskch/articles/40e2e3252a7152",
+    "pubDate": "Sat, 18 Oct 2025 09:55:39 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "Windows 11は忘れよう──グーグルの無料OS「ChromeOS Flex」で古いPCを活用 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "link": "https://forbesjapan.com/articles/detail/83414",
     "pubDate": "2025-10-18T09:47:47.000Z"
@@ -10,6 +64,12 @@
     "title": "比例復活制度はよくできたシステムであるという話｜藤崎剛人",
     "link": "https://note.com/hokusyu/n/ne798de16f2c4",
     "pubDate": "2025-10-18T09:20:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "iPhoneだけでiOSアプリ開発するワークフロー",
+    "link": "https://zenn.dev/oikon/articles/dev-from-mobile",
+    "pubDate": "Sat, 18 Oct 2025 09:06:05 GMT"
   },
   {
     "site": "Hatena",
@@ -24,22 +84,22 @@
     "pubDate": "2025-10-18T01:34:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "うちの会社に「Wi-Fi電波がうるさい」という人が居るんだけど本当に通信している時にだけうるさいと言っている...→実はこういうことかも",
-    "link": "https://togetter.com/li/2617188",
-    "pubDate": "2025-10-17T23:37:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "生成AIを利用したであろう「外国人アカウント」による日本の政治系などの動画が大量に出来ていた - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2025/10/18/070000",
-    "pubDate": "2025-10-17T23:16:30.000Z"
+    "site": "Zenn",
+    "title": "RSNA 2025 3D脳動脈セグメンテーションの作り方",
+    "link": "https://zenn.dev/sugupoko/articles/f6cc381c65f09e",
+    "pubDate": "Sat, 18 Oct 2025 01:12:26 GMT"
   },
   {
     "site": "Hatena",
     "title": "Apple、販売不振でiPhone Airの生産削減の報道 - こぼねみ",
     "link": "https://www.kobonemi.com/entry/2025/10/18//iPhone-Air-Production",
     "pubDate": "2025-10-17T22:29:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "HonoでDIを実現する実践入門 - Slack通知モジュールで学ぶ依存性注入",
+    "link": "https://zenn.dev/stellarcreate/articles/hono-dependency-injection-guide",
+    "pubDate": "Fri, 17 Oct 2025 22:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -54,22 +114,10 @@
     "pubDate": "Fri, 17 Oct 2025 14:12:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeを駆使した初めてのiOSアプリ開発 ~ゼロから3週間でグローバルハッカソンで入賞するまで~",
-    "link": "https://speakerdeck.com/oikon48/claude-codewoqu-shi-sitachu-metenoiosapurikai-fa-zerokara3zhou-jian-degurobaruhatukasonderu-shang-surumade",
-    "pubDate": "2025-10-17T11:24:28.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "GA版AgentCoreRuntimeにA2A対応AIエージェントをデプロイして詰まったこと!",
-    "link": "https://qiita.com/Syoitu/items/9fc3d69e6ce3c7dd6884?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T10:58:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "量子コンピュータのシミュレーション | ドクセル",
-    "link": "https://www.docswell.com/s/gyu-don/K447N6-2025-10-17-192918",
-    "pubDate": "2025-10-17T10:32:23.000Z"
+    "title": "【非公式】AtCoder 言語アップデート 2024-2025 での変更点",
+    "link": "https://qiita.com/punirunrun/items/9bbdb33ef03e9a3a5138?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T12:14:04.000Z"
   },
   {
     "site": "Zenn",
@@ -79,63 +127,21 @@
   },
   {
     "site": "Zenn",
-    "title": "【2025/10/17最新アプデ】Claude Code 2.0.20、エージェントスキルの導入とチーム配布の解説",
-    "link": "https://zenn.dev/canly/articles/965cc8e7e9be8d",
-    "pubDate": "Fri, 17 Oct 2025 08:13:36 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "マウス不要！Git 操作を爆速化する「lazygit」が手放せない",
     "link": "https://zenn.dev/aishift/articles/d1a0551a444317",
-    "pubDate": "Fri, 17 Oct 2025 04:46:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "NestJSからHonoへ：使ってみて感じた違いと学び",
-    "link": "https://zenn.dev/medicalforce/articles/719fa20204ea7e",
-    "pubDate": "Fri, 17 Oct 2025 03:54:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "nnUNetとMONAI事前学習済みモデルの使い方",
-    "link": "https://zenn.dev/nnc496/articles/05699e19760a93",
-    "pubDate": "Fri, 17 Oct 2025 03:07:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "あなたはVersion Skew問題を知っていますか？ Web開発者なら知って損はない原因と対策",
-    "link": "https://zenn.dev/coconala/articles/nextjs-version-skew-vercel-skew-protection",
-    "pubDate": "Fri, 17 Oct 2025 01:52:09 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Seagate ST24000DM001レビュー：HAMR方式サーバーグレード級HDDが格安に | ちもろぐ",
-    "link": "https://chimolog.co/hdd-st24000dm001/",
-    "pubDate": "2025-10-17T01:48:23.000Z"
+    "pubDate": "2025-10-17T04:50:05.000Z"
   },
   {
     "site": "Qiita",
-    "title": "BedrockのClaudeクォータ緩和申請の手順が簡単になったよ！",
-    "link": "https://qiita.com/minorun365/items/bc58bbb2490ef1b5fdee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T01:36:14.000Z"
+    "title": "【ポケモン×Java】番外編 #1：ピカチュウって200種類おんねん～クラス～（Java・Python・JavaScript・Ruby）",
+    "link": "https://qiita.com/hitomin_poke/items/a31fc9e646a1cbcbe14a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T04:12:59.000Z"
   },
   {
     "site": "Qiita",
     "title": "Playwright Agentsでテストの自動生成をやってみた",
     "link": "https://qiita.com/resound/items/24f129a920b34677e7f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-17T00:38:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Honoざっくりキャッチアップ(v4.6.0〜v4.10.0)",
-    "link": "https://zenn.dev/king/articles/f812a77be830ab",
-    "pubDate": "Thu, 16 Oct 2025 21:05:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeに「次のタスクやっといて」ができるタスク管理ツール Task Master を使ってみた",
-    "link": "https://zenn.dev/elyza/articles/49e997dde186aa",
-    "pubDate": "Thu, 16 Oct 2025 21:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -148,6 +154,12 @@
     "title": "Bedrockのモデルアクセス有効化が不要に！ でもClaudeは初回のみ別操作が必要😣",
     "link": "https://qiita.com/minorun365/items/7070a0206547cc6dc650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-16T13:47:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Kubernetes本番運用で必ず実装すべきセキュリティ設定10選",
+    "link": "https://qiita.com/keitah/items/c25440de24eea858a24b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T09:44:07.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "開発PMが読書を「武器」にするための思考トレーニング",
     "link": "https://qiita.com/michiteru_suzuki/items/a277007a8cf7392e3be1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-16T05:16:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "苦節6年 個人開発から始めたB2B SaaSがやっと動き出した話",
-    "link": "https://qiita.com/Akira-Isegawa/items/9938c948996746b03a08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-15T09:05:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "部長2人が全力でお薦めする、「生成AI」を仕事と生活に生かすための9冊",
-    "link": "https://bookplus.nikkei.com/atcl/column/100100571/100100001/",
-    "pubDate": "2025-10-03T00:06:02.000Z"
   }
 ]
