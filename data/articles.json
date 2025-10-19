@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "「あのな、つゆだくなんてきょうび流行んねーんだよ。ボケが。」ﾘﾛ氏の吉野家コピペに批判の引用ツイートが付きいつものお祭りに",
+    "link": "https://togetter.com/li/2617772",
+    "pubDate": "2025-10-19T06:46:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "UnityのアプリにLevelPlayで広告を実装する",
+    "link": "https://zenn.dev/sysys/articles/5952759bb448e9",
+    "pubDate": "Sun, 19 Oct 2025 06:01:32 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【MotionBuilder】UnboundWrapper とエラー対策",
+    "link": "https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_unboundwrapper",
+    "pubDate": "Sun, 19 Oct 2025 05:42:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "WikipediaはAIの台頭でトラフィックが前年同期比で8％も減少、AIの普及で憂き目にあうウェブサイトを救うためにできることは？",
+    "link": "https://gigazine.net/news/20251019-wikipedia-traffic-falling-ai/",
+    "pubDate": "2025-10-19T03:07:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "進捗報告のやり方 - Slava Akhmechet",
+    "link": "https://zenn.dev/contradiction29/articles/f482262d1ab3c0",
+    "pubDate": "Sun, 19 Oct 2025 03:06:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【図解】ゼロ知識証明のPLONKとは？Groth16との違いを世界一わかりやすく解説！",
+    "link": "https://zenn.dev/mashharuki/articles/zk_groth16-plonk",
+    "pubDate": "Sun, 19 Oct 2025 02:53:45 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "Google、「プライバシーサンドボックス」を実質終了　関連技術のほとんどを廃止へ",
     "link": "https://www.itmedia.co.jp/news/articles/2510/19/news019.html",
     "pubDate": "2025-10-19T00:38:57.000Z"
@@ -13,27 +49,51 @@
   },
   {
     "site": "Hatena",
+    "title": "真の無料ChatGPT。ローカルLLM｢gpt-oss-20b｣の動かし方を徹底解説",
+    "link": "https://www.gizmodo.jp/2025/10/how_to_use_gpt_oss_20b_lmstudio.html",
+    "pubDate": "2025-10-18T23:06:09.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Code Subagents 再入門 ~cc-sddの実装で学んだこと~ - Speaker Deck",
     "link": "https://speakerdeck.com/player/cd4536704070441ebe1c7a48d64ad0c0",
     "pubDate": "2025-10-18T16:59:07.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Reactのデータ再取得、タイムスタンプで管理すると宣言的になる話【AI生成】",
-    "link": "https://zenn.dev/uhyo/articles/timestamp-refetch-pattern-ai",
-    "pubDate": "2025-10-18T16:39:53.000Z"
+    "title": "AIに指示するだけ！Web専門知識を引き出し「デジタルサイネージ」HTMLを生成するツールを開発した話",
+    "link": "https://zenn.dev/hosoyayusaku/articles/a2043207c38f54",
+    "pubDate": "Sat, 18 Oct 2025 16:11:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS BedrockでAthenaを操作する分析AIエージェントを作ってみた",
+    "link": "https://zenn.dev/keijipoon/articles/bedrock-athena-agent",
+    "pubDate": "Sat, 18 Oct 2025 14:57:58 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Introduce Hono CLI",
-    "link": "https://speakerdeck.com/yusukebe/introduce-hono-cli",
-    "pubDate": "2025-10-18T14:51:47.000Z"
+    "title": "RustのDockerfile、2025年はこれでいこう - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/17/070250",
+    "pubDate": "2025-10-18T13:49:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "iOS ファーストな CMS をショートカットで構築する",
+    "link": "https://zenn.dev/yamatoiizuka/articles/79ad1b2099b966",
+    "pubDate": "Sat, 18 Oct 2025 13:32:39 GMT"
   },
   {
     "site": "Hatena",
     "title": "脳に着想を得たAIモデル「BDH」がTransformerの限界を超えるかもしれない | XenoSpectrum",
     "link": "https://xenospectrum.com/pathway-bdh-brain-inspired-ai-architecture/",
     "pubDate": "2025-10-18T13:25:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Bedrock AgentCoreでADKを呼び出してみる",
+    "link": "https://qiita.com/y-mae/items/9fcfebd9f52af907e7dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T13:07:26.000Z"
   },
   {
     "site": "Hatena",
@@ -48,6 +108,12 @@
     "pubDate": "Sat, 18 Oct 2025 12:53:33 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "CANable 2.0で高速can通信 with ROS 2",
+    "link": "https://qiita.com/kzs321kzs/items/463f1b1ce21877e8b4b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T10:52:08.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "【Office 2016／2019サポート終了】サブスクか永続版か？　損をしない次のOfficeの選び方・落とし穴",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/17/news014.html",
@@ -60,28 +126,22 @@
     "pubDate": "Sat, 18 Oct 2025 09:55:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Windows 11は忘れよう──グーグルの無料OS「ChromeOS Flex」で古いPCを活用 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/83414",
-    "pubDate": "2025-10-18T09:47:47.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "iPhoneだけでiOSアプリ開発するワークフロー",
     "link": "https://zenn.dev/oikon/articles/dev-from-mobile",
     "pubDate": "Sat, 18 Oct 2025 09:06:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "serdeに入門しよう！",
-    "link": "https://zenn.dev/sileader/articles/c16929968e00e9",
-    "pubDate": "Sat, 18 Oct 2025 08:53:07 GMT"
+    "site": "Qiita",
+    "title": "【Rust】ABC427感想（A~D）",
+    "link": "https://qiita.com/bfs/items/becc7df3dd2ff7b5be45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T08:47:39.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "埋め込み型 JSON シリアライザー",
-    "link": "https://zenn.dev/sator_imaging/articles/6eda537ccec4f8",
-    "pubDate": "Sat, 18 Oct 2025 05:22:32 GMT"
+    "site": "Qiita",
+    "title": "日本語プログラミング言語Mindの小技 「コネクション確立」～Mind7のソケット通信ライブラリ～",
+    "link": "https://qiita.com/mylifewithviolin/items/9b86e1cf38e6a381cbdf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-18T04:11:53.000Z"
   },
   {
     "site": "Qiita",
@@ -90,52 +150,10 @@
     "pubDate": "2025-10-18T01:34:31.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "RSNA 2025 3D脳動脈セグメンテーションの作り方",
-    "link": "https://zenn.dev/sugupoko/articles/f6cc381c65f09e",
-    "pubDate": "Sat, 18 Oct 2025 01:12:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "HonoでDIを実現する実践入門 - Slack通知モジュールで学ぶ依存性注入",
-    "link": "https://zenn.dev/stellarcreate/articles/hono-dependency-injection-guide",
-    "pubDate": "Fri, 17 Oct 2025 22:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[レポート] Claude Code Meetup Tokyo #ClaudeCodeMeetupTokyo",
-    "link": "https://zenn.dev/truestar/articles/f4707bb745a74b",
-    "pubDate": "Fri, 17 Oct 2025 15:48:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Ryzen AI Max+ 395 で LLM 推論速度を比較",
-    "link": "https://zenn.dev/7shi/articles/20251017-amd-llm",
-    "pubDate": "Fri, 17 Oct 2025 14:12:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【非公式】AtCoder 言語アップデート 2024-2025 での変更点",
     "link": "https://qiita.com/punirunrun/items/9bbdb33ef03e9a3a5138?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-17T12:14:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Skillsを使ってみた - システムプロンプト的なカスタマイズが面白い",
-    "link": "https://zenn.dev/lnest_knowledge/articles/2912bc87bc83d5",
-    "pubDate": "Fri, 17 Oct 2025 09:41:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "マウス不要！Git 操作を爆速化する「lazygit」が手放せない",
-    "link": "https://zenn.dev/aishift/articles/d1a0551a444317",
-    "pubDate": "2025-10-17T04:50:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】番外編 #1：ピカチュウって200種類おんねん～クラス～（Java・Python・JavaScript・Ruby）",
-    "link": "https://qiita.com/hitomin_poke/items/a31fc9e646a1cbcbe14a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T04:12:59.000Z"
   },
   {
     "site": "Qiita",
@@ -145,21 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "いつでもVibe CordingしたいのでLINEとTauriでCodex CLIを遠隔操作する",
-    "link": "https://qiita.com/watanabe-tsubasa/items/5b1784e93484da784771?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T15:26:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Bedrockのモデルアクセス有効化が不要に！ でもClaudeは初回のみ別操作が必要😣",
-    "link": "https://qiita.com/minorun365/items/7070a0206547cc6dc650?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T13:47:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Kubernetes本番運用で必ず実装すべきセキュリティ設定10選",
-    "link": "https://qiita.com/keitah/items/c25440de24eea858a24b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T09:44:07.000Z"
+    "title": "GitHub Copilotにプルリクエストを色々レビューさせて使い方を試してみた備忘録 in 2025",
+    "link": "https://qiita.com/hamkiti/items/cb6afdc6454dafa60a31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-16T12:45:27.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Cursorの料金改定に全力で対応する",
     "link": "https://qiita.com/sakamoto-ryosuke/items/c8cdae4260a873d0b28e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-16T08:11:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "開発PMが読書を「武器」にするための思考トレーニング",
-    "link": "https://qiita.com/michiteru_suzuki/items/a277007a8cf7392e3be1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-16T05:16:43.000Z"
   }
 ]
