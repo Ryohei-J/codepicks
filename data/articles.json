@@ -1,9 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "AWSで障害　米国東部リージョンで20サービスが停止・遅延　Zoomや任天堂のサービスなどに影響か",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/20/news092.html",
+    "pubDate": "2025-10-20T08:45:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cortex Analyst と Streamlit を用いた Text2SQL アプリ作成",
+    "link": "https://zenn.dev/chihilong/articles/text2sql-app-cortex-analyst-streamlit",
+    "pubDate": "Mon, 20 Oct 2025 05:13:15 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【mysql2】queryとexecuteの使い分け",
+    "link": "https://qiita.com/tomonari_09/items/30f6731e580f98989afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T04:59:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OneDrive「自動で“全て”のバックアップ取ってあげる！あっ、無料分は5GBまでだから課金してね！」私「いやいらんし…削除」OneDrive「元データ消えたよ」",
+    "link": "https://togetter.com/li/2618189",
+    "pubDate": "2025-10-20T04:45:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由",
+    "link": "https://zenn.dev/bmth/articles/interface-props-extends",
+    "pubDate": "2025-10-20T04:29:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMの責務を最小化する設計 — Claude Codeの中身は50代のベテランエンジニアかもしれない件",
+    "link": "https://zenn.dev/sogab3/articles/fbf0230234ffe1",
+    "pubDate": "Mon, 20 Oct 2025 02:59:31 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "LINEヤフー株式会社を退職したので歴代社長の感想を書く（元ヤフー社員視点） - ariyasacca(2025-10-20)",
     "link": "http://sangoukan.xrea.jp/cgi-bin/tDiary/?date=20251020",
     "pubDate": "2025-10-20T02:38:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2025/10/20時点で最良のAIコーディングプロセス",
+    "link": "https://zenn.dev/erukiti/articles/2510-ai-coding",
+    "pubDate": "Mon, 20 Oct 2025 02:09:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜResult型ライブラリを再発明したのか",
+    "link": "https://zenn.dev/praha/articles/9d24390b869499",
+    "pubDate": "Mon, 20 Oct 2025 02:00:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "2025年版 スタートアップエンジニアが考えるWebアプリの技術選定",
+    "link": "https://zenn.dev/m_noto/articles/5e4c9f705f500b",
+    "pubDate": "Mon, 20 Oct 2025 01:30:00 GMT"
   },
   {
     "site": "Hatena",
@@ -18,10 +72,28 @@
     "pubDate": "2025-10-20T00:22:14.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "containerlab × FRRoutingで実現！BGP冗長化シナリオと自動経路切り替え 実験レシピ",
+    "link": "https://qiita.com/ntaka329/items/1a4291591dc63a55a05c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T00:02:58.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "【レビュー】 時刻合わせがいらない「Wi-Fi時計」。結構安くなったニューモデルを含め2製品を比較した",
     "link": "https://pc.watch.impress.co.jp/docs/topic/review/2055918.html",
     "pubDate": "2025-10-19T23:52:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ReActを使ったAIエージェントによる自律的ワークフローをOracle DBの機能だけで実装してみた (26ai Select AI Agent)",
+    "link": "https://qiita.com/ssfujita/items/80454001845fa1493495?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-19T23:32:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Trocco の運用を Terraform 管理に変えてみた",
+    "link": "https://zenn.dev/medley/articles/a68e98452e1adf",
+    "pubDate": "Sun, 19 Oct 2025 23:23:00 GMT"
   },
   {
     "site": "Hatena",
@@ -30,10 +102,10 @@
     "pubDate": "2025-10-19T22:21:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "X、希望ユーザー名が“アクティブ”でなければ申請・取得できる新機能",
-    "link": "https://www.watch.impress.co.jp/docs/news/2056141.html",
-    "pubDate": "2025-10-19T22:02:59.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilot Coding Agent に実装を任せて、作業を並行化する",
+    "link": "https://zenn.dev/shintaro/articles/48c0abd59a6088",
+    "pubDate": "Sun, 19 Oct 2025 22:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -48,10 +120,16 @@
     "pubDate": "2025-10-19T17:57:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "シスコ、AIにセキュアなコードを生成させるためのルールセット「Project CodeGuard」をオープンソースで公開",
-    "link": "https://www.publickey1.jp/blog/25/aiproject_codeguard.html",
-    "pubDate": "2025-10-19T13:44:15.000Z"
+    "site": "Zenn",
+    "title": "自分用 LLMコーディングエージェント ノウハウまとめ 2025年10月版",
+    "link": "https://zenn.dev/engawawa/articles/8936c60d13bafd",
+    "pubDate": "Sun, 19 Oct 2025 17:29:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由",
+    "link": "https://zenn.dev/bmth/articles/interface-props-extends",
+    "pubDate": "Sun, 19 Oct 2025 15:32:46 GMT"
   },
   {
     "site": "Zenn",
@@ -60,16 +138,16 @@
     "pubDate": "Sun, 19 Oct 2025 13:22:39 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "いきなりログイン画面を見せて11%のユーザーを失ったわけ",
-    "link": "https://zenn.dev/kontaco/articles/16ccc2e51d7a4c",
-    "pubDate": "Sun, 19 Oct 2025 11:17:15 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",
     "link": "https://qiita.com/y-keiyu/items/86a75714a4f14d484c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-19T10:56:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Next.js】Next.jsでQiita + microCMSを連携した技術ブログアプリを作りました",
+    "link": "https://qiita.com/nagi-0106/items/b98a918affeb899da1bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-19T10:05:40.000Z"
   },
   {
     "site": "Qiita",
@@ -91,92 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "React学習ログ No.12",
-    "link": "https://qiita.com/maedaHARUYA/items/b0a6aaf2e6ff2c0fa4d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T08:07:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustのsqlxを使ったリポジトリ層の設計パターン",
-    "link": "https://zenn.dev/qrtz/articles/sqlx-repo-patterns",
-    "pubDate": "Sun, 19 Oct 2025 07:20:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【MotionBuilder】UnboundWrapper とエラー対策",
-    "link": "https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_unboundwrapper",
-    "pubDate": "Sun, 19 Oct 2025 05:42:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ITエンジニアを辞める人たち—“未経験ITエンジニア転職ブーム”から数年後の現実｜久松剛",
-    "link": "https://comemo.nikkei.com/n/ndaf186445a00",
-    "pubDate": "2025-10-19T04:16:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "日刊IETF (2025-10-18) 後編",
-    "link": "https://qiita.com/tetsuko_room/items/0a4ba1cbd98f6689e57c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T03:53:12.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
     "link": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-19T03:18:03.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "進捗報告のやり方 - Slava Akhmechet",
-    "link": "https://zenn.dev/contradiction29/articles/f482262d1ab3c0",
-    "pubDate": "Sun, 19 Oct 2025 03:06:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【図解】ゼロ知識証明のPLONKとは？Groth16との違いを世界一わかりやすく解説！",
-    "link": "https://zenn.dev/mashharuki/articles/zk_groth16-plonk",
-    "pubDate": "Sun, 19 Oct 2025 02:53:45 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Anthropicが発表した「Claude Skills」：AIをあなたの業務に最適化する新時代の機能",
-    "link": "https://qiita.com/Maki-HamarukiLab/items/23a0bc27842e4b4b7a4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-18T15:41:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Reactのデータ再取得、タイムスタンプで管理すると宣言的になる話【AI生成】",
-    "link": "https://zenn.dev/uhyo/articles/timestamp-refetch-pattern-ai",
-    "pubDate": "Sat, 18 Oct 2025 15:29:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "iOS ファーストな CMS をショートカットで構築する",
-    "link": "https://zenn.dev/yamatoiizuka/articles/79ad1b2099b966",
-    "pubDate": "Sat, 18 Oct 2025 13:32:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "iPhoneだけでiOSアプリ開発するワークフロー",
-    "link": "https://zenn.dev/oikon/articles/dev-from-mobile",
-    "pubDate": "Sat, 18 Oct 2025 09:06:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "serdeに入門しよう！",
-    "link": "https://zenn.dev/sileader/articles/c16929968e00e9",
-    "pubDate": "Sat, 18 Oct 2025 08:53:07 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Amazon Bedrock AgentCore】エージェントをRuntimeにデプロイしてみる",
-    "link": "https://qiita.com/yakumo_09/items/eaa3b6062396227615a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-18T01:34:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Playwright Agentsでテストの自動生成をやってみた",
-    "link": "https://qiita.com/resound/items/24f129a920b34677e7f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T00:38:15.000Z"
+    "title": "初心者がハマりがちなインフラ構築の落とし穴10選【チェックリスト】",
+    "link": "https://qiita.com/kosuke_shoji/items/cbb566d0ed4c54909323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-17T08:55:27.000Z"
   }
 ]
