@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "AWSで障害--PerplexityやSlackなどグローバルサービスに支障",
-    "link": "https://japan.cnet.com/article/35239420/",
-    "pubDate": "2025-10-20T08:48:32.000Z"
+    "title": "「95％のAIプロジェクトが失敗」の壁をどう超える？　Uber、アニメ業界、ソフトバンクのAI最前線【CEATEC 2025】",
+    "link": "https://internet.watch.impress.co.jp/docs/event/2056360.html",
+    "pubDate": "2025-10-20T23:46:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【日本語訳全文】Kent Beck氏 基調講演：開発生産性測定のトレードオフ「グッドハートの法則」はもっと悲観的に捉えるべきだった・後編 - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2025/10/21/070000",
+    "pubDate": "2025-10-20T22:07:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS障害、原因特定も日本時間の21日午前6時時点では完全復旧に至らず",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/21/news059.html",
+    "pubDate": "2025-10-20T21:48:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2025/10/20時点で最良のAIコーディングプロセス",
+    "link": "https://zenn.dev/erukiti/articles/2510-ai-coding",
+    "pubDate": "2025-10-20T10:44:57.000Z"
   },
   {
     "site": "Hatena",
@@ -16,6 +34,18 @@
     "title": "富士通、ノートPC型駅弁「FMVentoU」発売。重いノートPC持参で割引、最安300円で食べられる",
     "link": "https://pc.watch.impress.co.jp/docs/news/2056339.html",
     "pubDate": "2025-10-20T05:55:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "電源ボタンなし、動作終了まで泣き続ける赤ちゃんロボット「Crying baby」で子育ての困難さを体験【CEATEC 2025】",
+    "link": "https://internet.watch.impress.co.jp/docs/event/2056287.html",
+    "pubDate": "2025-10-20T05:31:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NIST SP 800-63B-4：パスワードセキュリティの新基準を読み解く",
+    "link": "https://www.sakimura.org/2025/10/7710/",
+    "pubDate": "2025-10-20T05:30:41.000Z"
   },
   {
     "site": "Zenn",
@@ -36,10 +66,16 @@
     "pubDate": "2025-10-20T04:45:01.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "帰ってきた IETF 124 Side Meeting 差分アップデート（2025年10月19日版）",
+    "link": "https://qiita.com/satokan3/items/1a8d5cb33b35c6acc59e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T04:04:54.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由",
-    "link": "https://zenn.dev/bmth/articles/interface-props-extends",
-    "pubDate": "2025-10-20T04:29:31.000Z"
+    "title": "Rust の derive macro を書いてみよう",
+    "link": "https://zenn.dev/doctormate/articles/0a7cc9365d90cd",
+    "pubDate": "Mon, 20 Oct 2025 03:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -72,10 +108,16 @@
     "pubDate": "Mon, 20 Oct 2025 01:30:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【スゴ本】重大インシデントは報告されなかったミスから始まる。致命傷を負う前に読むべき5冊 | レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/column/detail_741/",
-    "pubDate": "2025-10-20T01:16:48.000Z"
+    "site": "Qiita",
+    "title": "Railsでメール認証コードを送信＆照合するAPIを実装してみた（Flutter連携・前編）",
+    "link": "https://qiita.com/chara-gida/items/fe058d4ef9da1a490f06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-20T00:39:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Claude Code】Serenaの導入でAI活用を加速！",
+    "link": "https://zenn.dev/hacobell_dev/articles/claude-code-serena-mcp-experience",
+    "pubDate": "Mon, 20 Oct 2025 00:30:01 GMT"
   },
   {
     "site": "Qiita",
@@ -96,28 +138,10 @@
     "pubDate": "Sun, 19 Oct 2025 23:23:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【日本語訳全文】Kent Beck氏 基調講演：開発生産性測定のトレードオフ「グッドハートの法則」はもっと悲観的に捉えるべきだった・前編 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2025/10/20/070000",
-    "pubDate": "2025-10-19T22:21:08.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "GitHub Copilot Coding Agent に実装を任せて、作業を並行化する",
     "link": "https://zenn.dev/shintaro/articles/48c0abd59a6088",
     "pubDate": "Sun, 19 Oct 2025 22:00:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "生成AIで作ったフェイク動画による扇情的投稿がチラホラと見えてきた - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2025/10/20/030000",
-    "pubDate": "2025-10-19T19:39:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPTよりこっちかも。僕がGoogleの「NotebookLM」を一番よく使う理由 | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2510google-notebooklm-ai-cha/",
-    "pubDate": "2025-10-19T17:57:46.000Z"
   },
   {
     "site": "Zenn",
@@ -126,34 +150,16 @@
     "pubDate": "Sun, 19 Oct 2025 17:29:57 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【結論】TypeScriptの型定義はtypeよりinterfaceを使うべき理由",
-    "link": "https://zenn.dev/bmth/articles/interface-props-extends",
-    "pubDate": "Sun, 19 Oct 2025 15:32:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Private Link Serviceの新機能 Direct Connectを試してみた🚀",
-    "link": "https://zenn.dev/mrt/articles/dd9f87f8aadd42",
-    "pubDate": "Sun, 19 Oct 2025 13:22:39 GMT"
+    "site": "Qiita",
+    "title": "Amazon Bedrock のモデルアクセス廃止に関しておさえておくとよいこと",
+    "link": "https://qiita.com/hayao_k/items/aaaf92e15a60bebd137a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-19T14:25:00.000Z"
   },
   {
     "site": "Qiita",
     "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",
     "link": "https://qiita.com/y-keiyu/items/86a75714a4f14d484c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-19T10:56:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Next.js】Next.jsでQiita + microCMSを連携した技術ブログアプリを作りました",
-    "link": "https://qiita.com/nagi-0106/items/b98a918affeb899da1bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T10:05:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Next.js】MediaRecorder APIとWhisper APIで音声メモアプリを作ってみた",
-    "link": "https://qiita.com/asa129/items/41621b6db287bf6e78e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T09:48:41.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
     "link": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-19T03:18:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "初心者がハマりがちなインフラ構築の落とし穴10選【チェックリスト】",
-    "link": "https://qiita.com/kosuke_shoji/items/cbb566d0ed4c54909323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-17T08:55:27.000Z"
   }
 ]
