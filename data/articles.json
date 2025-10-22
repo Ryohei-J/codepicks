@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "Next.js 16",
-    "link": "https://nextjs.org/blog/next-16",
-    "pubDate": "2025-10-22T00:38:09.000Z"
+    "title": "「物語の自動販売機」、トーハンが実証実験　書店以外でも作品に触れる機会を",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/22/news103.html",
+    "pubDate": "2025-10-22T07:52:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エクセルのスピルについて",
+    "link": "https://qiita.com/Katu_any/items/d9bd669bdbaee5dfc25a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T04:47:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「盗んだイラストを生成AIに学習させるぞ」と脅すハッカー集団あらわる　アートサイトへの攻撃例も",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/22/news085.html",
+    "pubDate": "2025-10-22T04:33:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トレース＝「著作権侵害」なのか？　江口寿史さん巡る疑惑、福井弁護士に聞く線引きのヒント",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/22/news078.html",
+    "pubDate": "2025-10-22T04:30:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
+    "link": "https://qiita.com/shirok/items/94385d1345ce86ade5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T00:09:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "レガシーC#コード対比集（昔こう→今こう） - Qiita",
+    "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8",
+    "pubDate": "2025-10-21T22:49:47.000Z"
   },
   {
     "site": "Hatena",
@@ -48,16 +78,10 @@
     "pubDate": "Tue, 21 Oct 2025 13:01:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "App Store審査落ち、再び──スマホアプリ「クルスタ」が声明　「審査通ったバージョンからデータ更新していない」",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/21/news120.html",
-    "pubDate": "2025-10-21T12:33:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アップルのiOS 26デフォルト設定の誤り——すべてのiPhoneユーザーは設定をチェック | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/83731",
-    "pubDate": "2025-10-21T11:22:35.000Z"
+    "site": "Qiita",
+    "title": "AWKの簡単な使い方",
+    "link": "https://qiita.com/ynaru-yzrh/items/5dc4896a1f37319fd97f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T11:18:38.000Z"
   },
   {
     "site": "Hatena",
@@ -78,16 +102,16 @@
     "pubDate": "Tue, 21 Oct 2025 07:25:00 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "レガシーC#コード対比集（昔こう→今こう）",
+    "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T07:23:56.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "あなたは5年後必要な人材ですか？",
     "link": "https://zenn.dev/coconala/articles/c33e04818367b5",
     "pubDate": "Tue, 21 Oct 2025 06:36:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "uv × DockerでのPython開発環境構築方法",
-    "link": "https://zenn.dev/mkj/articles/3aaa36d6f35c08",
-    "pubDate": "2025-10-21T03:47:14.000Z"
   },
   {
     "site": "Zenn",
@@ -127,12 +151,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】Lv11：『キミが技を選ぶ番だ!』〜Scanner〜",
-    "link": "https://qiita.com/hitomin_poke/items/83f677ba022e41ef12a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T15:56:24.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "ホタルイカの身投げ量を予測するWebサイトを作ってみた",
     "link": "https://qiita.com/yuchi1128/items/eca2bb94dec63ecbff93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-20T13:11:10.000Z"
@@ -151,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "ミニPC「GMKtec EVO-X2」でローカルLLM： LM Studio で ROCm llama.cpp（Windows）＋ gpt-oss-120b を利用【Ryzen AI Max+ 395・メモリ128GB搭載の PC】",
-    "link": "https://qiita.com/youtoy/items/b6b376cae88b11e11100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T13:58:24.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "[個人開発] React×TypeScript×Geminiで調味料代替案アプリをリリースしました！",
     "link": "https://qiita.com/y-keiyu/items/86a75714a4f14d484c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-19T10:56:47.000Z"
@@ -166,17 +178,5 @@
     "title": "【GitHub】100日間コミットしてみた感想と気付き",
     "link": "https://qiita.com/Uyuki_0409/items/eb2090074251dc4e6d1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-19T09:03:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "これだけAIが流行っても単純作業が残っている理由",
-    "link": "https://qiita.com/ktdatascience/items/4e2cd31bedebcedb0ff2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T07:58:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "マネジメント”される”人のためのマネジメント入門「10個のなぜ？」",
-    "link": "https://qiita.com/mkt_hanada/items/3f21c850ddc02636b34c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-19T03:18:03.000Z"
   }
 ]
