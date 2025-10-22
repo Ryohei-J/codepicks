@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "Next.js 16",
+    "link": "https://nextjs.org/blog/next-16",
+    "pubDate": "2025-10-22T00:38:09.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "背景には“日本ならではの地図事情”が？ あのGoogleと老舗デジタル地図会社が資本業務提携に至った経緯とは【地図と位置情報】",
     "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/2056475.html",
     "pubDate": "2025-10-21T22:16:44.000Z"
   },
   {
     "site": "Hatena",
+    "title": "弥助が侍だったという歴史学者に対して、生成AIに調べさせた資料をそのまま疑問としてぶつけたら、その資料が実在しないことを指摘されたという笑えない話 - 法華狼の日記",
+    "link": "https://hokke-ookami.hatenablog.com/entry/20251021/1761058768",
+    "pubDate": "2025-10-21T18:03:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ChatGPTがWebブラウザに　「ChatGPT Atlas」、米OpenAIが発表",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2510/22/news060.html",
     "pubDate": "2025-10-21T17:48:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "†二分探索†で怠惰なカーソル移動をしよう",
+    "link": "https://zenn.dev/kamecha/articles/de680018133636",
+    "pubDate": "Tue, 21 Oct 2025 15:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -24,6 +42,18 @@
     "pubDate": "2025-10-21T14:05:07.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Strix HaloでローカルLLMをFine-tuningする",
+    "link": "https://zenn.dev/robustonian/articles/strix-halo_full_finetuning",
+    "pubDate": "Tue, 21 Oct 2025 13:01:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "App Store審査落ち、再び──スマホアプリ「クルスタ」が声明　「審査通ったバージョンからデータ更新していない」",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/21/news120.html",
+    "pubDate": "2025-10-21T12:33:35.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "アップルのiOS 26デフォルト設定の誤り——すべてのiPhoneユーザーは設定をチェック | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "link": "https://forbesjapan.com/articles/detail/83731",
@@ -31,9 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "株式会社企画屋に関する情報について 【INTERNET Watch編集部コラム】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/editors/2056754.html",
-    "pubDate": "2025-10-21T10:49:29.000Z"
+    "title": "AWS、長時間に及ぶ大規模障害の全貌：DNS問題が招いた混乱の連鎖 | XenoSpectrum",
+    "link": "https://xenospectrum.com/aws-outage-cascading-failure-dns-ec2-analysis/",
+    "pubDate": "2025-10-21T09:08:52.000Z"
   },
   {
     "site": "Qiita",
@@ -52,12 +82,6 @@
     "title": "あなたは5年後必要な人材ですか？",
     "link": "https://zenn.dev/coconala/articles/c33e04818367b5",
     "pubDate": "Tue, 21 Oct 2025 06:36:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "転職失敗したっぽい",
-    "link": "https://anond.hatelabo.jp/20251021125002",
-    "pubDate": "2025-10-21T03:58:39.000Z"
   },
   {
     "site": "Zenn",
@@ -84,22 +108,10 @@
     "pubDate": "Tue, 21 Oct 2025 02:44:31 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "誤って全従業員に閲覧権限設定 ～ デンソーで Microsoft Power BI を利用したデータ分析 | ScanNetSecurity",
-    "link": "https://scan.netsecurity.ne.jp/article/2025/10/20/53836.html",
-    "pubDate": "2025-10-21T01:32:51.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "0からフロントエンドにテストを導入した話",
     "link": "https://zenn.dev/eversteel_tech/articles/c510e3f036b2bf",
     "pubDate": "Tue, 21 Oct 2025 01:07:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「DeepSeek-OCR」を試す",
-    "link": "https://zenn.dev/kun432/scraps/b86cbb66cea4e7",
-    "pubDate": "2025-10-21T00:41:21.000Z"
   },
   {
     "site": "Zenn",
@@ -132,22 +144,10 @@
     "pubDate": "2025-10-20T11:39:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "タスク管理に「AIに依頼」機能をつけたら開発体験がめちゃ向上した話",
-    "link": "https://zenn.dev/himara2/articles/03fbe80334b86d",
-    "pubDate": "Mon, 20 Oct 2025 10:43:32 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",
     "link": "https://qiita.com/comty/items/e1f1f82b89278c1a7e8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-20T08:45:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Compiler v1.0がリリースされました！",
-    "link": "https://zenn.dev/terass_dev/articles/eca0bad44e8d39",
-    "pubDate": "Mon, 20 Oct 2025 08:30:16 GMT"
   },
   {
     "site": "Qiita",
