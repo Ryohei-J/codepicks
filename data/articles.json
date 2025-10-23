@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "コーエーテクモ、“資産運用”好調で業績を上方修正　経常利益＆純利益が2倍に",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/23/news101.html",
+    "pubDate": "2025-10-23T09:18:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Hono CLI 爆誕",
+    "link": "https://zenn.dev/yusukebe/articles/ff69c13ccafb28",
+    "pubDate": "2025-10-23T07:18:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Hono CLI 爆誕",
+    "link": "https://zenn.dev/yusukebe/articles/ff69c13ccafb28",
+    "pubDate": "Thu, 23 Oct 2025 06:59:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2025年版】サービスメッシュに関連するOSSの動向調査記録",
+    "link": "https://qiita.com/melsuga/items/f655bc5cd576bc064399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T05:14:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code導入3ヶ月後の社内アンケートから分かったこと",
+    "link": "https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07",
+    "pubDate": "Thu, 23 Oct 2025 03:15:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region",
+    "link": "https://aws.amazon.com/message/101925/",
+    "pubDate": "2025-10-23T02:40:14.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "iPhone Airの「需要がほぼゼロ」であるためAppleは生産を大幅に削減するとの報道",
     "link": "https://gigazine.net/news/20251023-apple-drastically-cutting-iphone-air-production/",
     "pubDate": "2025-10-23T02:13:51.000Z"
@@ -12,10 +48,34 @@
     "pubDate": "2025-10-23T01:31:29.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "『MCPたくさん入れたいけどコンテキストが...』を解決した話",
+    "link": "https://zenn.dev/bm_sms/articles/modular_mcp_context_optimize",
+    "pubDate": "Thu, 23 Oct 2025 01:21:57 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "yoku0825さんがMySQLのインデックスの知見を語り倒す - Findy Media",
+    "link": "https://findy-code.io/media/articles/chotto-wakaru-mysql-index",
+    "pubDate": "2025-10-23T00:55:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
+    "link": "https://qiita.com/Zucky2022/items/28af0394b86f64b76321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T23:36:28.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「OneDrive」のバックアップ機能を切ったらファイルがなくなった……を防止する改善／新しいアプリアイコンなども導入へ",
     "link": "https://forest.watch.impress.co.jp/docs/news/2057144.html",
     "pubDate": "2025-10-22T23:18:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ブラウザバックで無限スクロールが振り出しに戻る問題をNext.jsの「URL付きモーダル」で解決する",
+    "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
+    "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT"
   },
   {
     "site": "Hatena",
@@ -25,57 +85,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Twitterで日本人がちょっとアダルティな絵をアップロードしたら凍結されるが外国人のセクシーな写真は許されてるのはなぜ？",
-    "link": "https://togetter.com/li/2619138",
-    "pubDate": "2025-10-22T20:40:15.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "画像でテキストをトークン圧縮するDeepSeek-OCRがいろいろすごい - きしだのHatena",
     "link": "https://nowokay.hatenablog.com/entry/2025/10/22/200049",
     "pubDate": "2025-10-22T11:59:31.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形",
+    "link": "https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T11:23:07.000Z"
   },
   {
     "site": "Zenn",
     "title": "Rustのproc-macroで自動微分してGPT-2を学習してみた",
     "link": "https://zenn.dev/ho_oto/articles/32a460c64e963b",
     "pubDate": "Wed, 22 Oct 2025 11:04:13 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Anthropic、「Claude」デスクトップアプリを一般公開 ～Mac向けには新機能も／チャットAI「claude.ai」をショートカットで手軽に召喚、デスクトップ拡張機能も利用可能",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2056896.html",
-    "pubDate": "2025-10-22T10:02:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "スクラムを導入したのに、なぜ組織は変わらないのか",
-    "link": "https://zenn.dev/nttdata_tech/articles/34b4172b467aee",
-    "pubDate": "Wed, 22 Oct 2025 08:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ContainerLabでBGP環境にsFlowを導入！macOS(ARM64)でハマった話と解決法",
-    "link": "https://qiita.com/ntaka329/items/9fec29217abf98769690?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T05:59:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "米アマゾン、倉庫作業60万人分の雇用をロボットで代替か--報道",
-    "link": "https://japan.cnet.com/article/35239493/",
-    "pubDate": "2025-10-22T04:56:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Contact Form 7でオリジナルのタグを作成する",
-    "link": "https://qiita.com/ssc-wkani/items/4d55bc1617efd9fe7225?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T04:52:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エクセルのスピルについて",
-    "link": "https://qiita.com/Katu_any/items/d9bd669bdbaee5dfc25a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T04:47:45.000Z"
   },
   {
     "site": "Zenn",
@@ -102,6 +126,12 @@
     "pubDate": "Tue, 21 Oct 2025 23:08:25 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "Claude × MCPで社内DBに話しかけてみた",
+    "link": "https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T23:03:38.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "0からフロントエンドにテストを導入した話",
     "link": "https://zenn.dev/eversteel_tech/articles/c510e3f036b2bf",
@@ -114,28 +144,16 @@
     "pubDate": "Tue, 21 Oct 2025 15:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AWKの簡単な使い方",
-    "link": "https://qiita.com/ynaru-yzrh/items/5dc4896a1f37319fd97f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T11:18:38.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来",
     "link": "https://zenn.dev/lnest_knowledge/articles/9629c5083357aa",
     "pubDate": "Tue, 21 Oct 2025 10:27:55 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIバイブコーディングは、既に我々が10年以上前に通った道だ（オフショアリング昔話）",
-    "link": "https://anond.hatelabo.jp/20251021191235",
-    "pubDate": "2025-10-21T10:15:55.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Auth0 for AI Agents を理解するために Google カレンダーと連携するサンプルアプリを動かす",
-    "link": "https://zenn.dev/waddy/articles/start-genkit-auth0-for-genai",
-    "pubDate": "Tue, 21 Oct 2025 09:29:01 GMT"
+    "site": "Qiita",
+    "title": "Webサーバーサイド言語としてのRustについてご紹介",
+    "link": "https://qiita.com/kazaf91/items/50ed0a3ce74c7409d46a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-21T09:38:55.000Z"
   },
   {
     "site": "Qiita",
@@ -144,34 +162,16 @@
     "pubDate": "2025-10-21T08:36:29.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Skills (Agent Skills) 入門",
-    "link": "https://zenn.dev/explaza/articles/b3dde4451aa249",
-    "pubDate": "Tue, 21 Oct 2025 07:25:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "レガシーC#コード対比集（昔こう→今こう）",
     "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-21T07:23:56.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "あなたは5年後必要な人材ですか？",
-    "link": "https://zenn.dev/coconala/articles/c33e04818367b5",
-    "pubDate": "Tue, 21 Oct 2025 06:36:45 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ホタルイカの身投げ量を予測するWebサイトを作ってみた",
     "link": "https://qiita.com/yuchi1128/items/eca2bb94dec63ecbff93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-20T13:11:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【JavaScript】オブジェクトをfreezeした後でもprivateプロパティを変更できるし生やすこともできる",
-    "link": "https://qiita.com/rana_kualu/items/ede5f5c0135996e72ebc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T11:39:32.000Z"
   },
   {
     "site": "Qiita",
