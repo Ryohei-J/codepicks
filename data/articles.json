@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "iPhone Airの「需要がほぼゼロ」であるためAppleは生産を大幅に削減するとの報道",
+    "link": "https://gigazine.net/news/20251023-apple-drastically-cutting-iphone-air-production/",
+    "pubDate": "2025-10-23T02:13:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "商用利用も完全に無料！ JIS第二水準まで完備された手書きのフリーフォント「立冬のころに」",
+    "link": "https://coliss.com/articles/freebies/freefont-aswinterbegins.html",
+    "pubDate": "2025-10-23T01:31:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「OneDrive」のバックアップ機能を切ったらファイルがなくなった……を防止する改善／新しいアプリアイコンなども導入へ",
     "link": "https://forest.watch.impress.co.jp/docs/news/2057144.html",
     "pubDate": "2025-10-22T23:18:08.000Z"
@@ -24,10 +36,22 @@
     "pubDate": "2025-10-22T11:59:31.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Rustのproc-macroで自動微分してGPT-2を学習してみた",
+    "link": "https://zenn.dev/ho_oto/articles/32a460c64e963b",
+    "pubDate": "Wed, 22 Oct 2025 11:04:13 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Anthropic、「Claude」デスクトップアプリを一般公開 ～Mac向けには新機能も／チャットAI「claude.ai」をショートカットで手軽に召喚、デスクトップ拡張機能も利用可能",
     "link": "https://forest.watch.impress.co.jp/docs/news/2056896.html",
     "pubDate": "2025-10-22T10:02:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "スクラムを導入したのに、なぜ組織は変わらないのか",
+    "link": "https://zenn.dev/nttdata_tech/articles/34b4172b467aee",
+    "pubDate": "Wed, 22 Oct 2025 08:00:01 GMT"
   },
   {
     "site": "Qiita",
@@ -60,16 +84,10 @@
     "pubDate": "Wed, 22 Oct 2025 04:43:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "LLMの開発効率化に革新？　中国DeepSeekが「DeepSeek-OCR」発表　“テキストを画像化”でデータ圧縮",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2510/22/news042.html",
-    "pubDate": "2025-10-22T03:14:40.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "あなたは5年後必要な人材ですか？",
-    "link": "https://zenn.dev/coconala/articles/c33e04818367b5",
-    "pubDate": "2025-10-22T01:10:23.000Z"
+    "title": "GopherCon 2025に行ってきました！",
+    "link": "https://zenn.dev/logica0419/articles/gophercon-2025",
+    "pubDate": "Wed, 22 Oct 2025 02:45:56 GMT"
   },
   {
     "site": "Qiita",
@@ -79,21 +97,15 @@
   },
   {
     "site": "Zenn",
-    "title": "SnowCamp 2025 Autumn のすごくすごい進化",
-    "link": "https://zenn.dev/dataheroes/articles/c5bf0e52cadff7",
-    "pubDate": "Tue, 21 Oct 2025 23:24:06 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Claude Skills × GitHub Actions でバグ修正の自動化を試す！",
     "link": "https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix",
     "pubDate": "Tue, 21 Oct 2025 23:08:25 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "レガシーC#コード対比集（昔こう→今こう） - Qiita",
-    "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8",
-    "pubDate": "2025-10-21T22:49:47.000Z"
+    "site": "Zenn",
+    "title": "0からフロントエンドにテストを導入した話",
+    "link": "https://zenn.dev/eversteel_tech/articles/c510e3f036b2bf",
+    "pubDate": "2025-10-21T22:32:53.000Z"
   },
   {
     "site": "Zenn",
@@ -108,10 +120,22 @@
     "pubDate": "2025-10-21T11:18:38.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来",
+    "link": "https://zenn.dev/lnest_knowledge/articles/9629c5083357aa",
+    "pubDate": "Tue, 21 Oct 2025 10:27:55 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "AIバイブコーディングは、既に我々が10年以上前に通った道だ（オフショアリング昔話）",
     "link": "https://anond.hatelabo.jp/20251021191235",
     "pubDate": "2025-10-21T10:15:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Auth0 for AI Agents を理解するために Google カレンダーと連携するサンプルアプリを動かす",
+    "link": "https://zenn.dev/waddy/articles/start-genkit-auth0-for-genai",
+    "pubDate": "Tue, 21 Oct 2025 09:29:01 GMT"
   },
   {
     "site": "Qiita",
@@ -136,30 +160,6 @@
     "title": "あなたは5年後必要な人材ですか？",
     "link": "https://zenn.dev/coconala/articles/c33e04818367b5",
     "pubDate": "Tue, 21 Oct 2025 06:36:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenTelemetry が拡げる Gemini CLI の可観測性",
-    "link": "https://zenn.dev/t_hayashi/articles/0fce56bbba5b6f",
-    "pubDate": "Tue, 21 Oct 2025 05:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "最新のNext.js15 / React19における実践的な設計方針とベストプラクティスを体系的にまとめました",
-    "link": "https://zenn.dev/assign/articles/482e93693773e5",
-    "pubDate": "Tue, 21 Oct 2025 02:50:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "uv × DockerでのPython開発環境構築方法",
-    "link": "https://zenn.dev/mkj/articles/3aaa36d6f35c08",
-    "pubDate": "Tue, 21 Oct 2025 02:50:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js 15 / React 19 実践設計ガイド 実装観点別のベストプラクティス",
-    "link": "https://zenn.dev/k_mori/books/24320553af0956",
-    "pubDate": "Tue, 21 Oct 2025 02:44:31 GMT"
   },
   {
     "site": "Qiita",
