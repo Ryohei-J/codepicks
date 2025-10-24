@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "パナソニック、Fire TV/スマホで使うネットワークレコーダ。録画機能はディーガ並み",
+    "link": "https://av.watch.impress.co.jp/docs/news/2057555.html",
+    "pubDate": "2025-10-24T04:41:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマホの電池切れ、改札通過に支障？　「駅に充電器を置いて」に「求めすぎ」の声　最終手段は“あの原点回帰策”",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2510/24/news072.html",
+    "pubDate": "2025-10-24T03:45:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIりんな、SNS活動を無期限休止　2015年から活動する元女子高生AI",
+    "link": "https://kai-you.net/article/93699",
+    "pubDate": "2025-10-24T02:52:56.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Appleさん、日本語入力の優先順位が低いのが見え見えでめちゃ萎えますね どう見ても使いにくいのに改善されないよね",
     "link": "https://togetter.com/li/2619618",
     "pubDate": "2025-10-24T01:48:27.000Z"
   },
   {
     "site": "Hatena",
-    "title": "スタートアップがゼロから作る共通ID基盤：ID統合のその先へ（後編） - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/10/24/id-integration-part2",
-    "pubDate": "2025-10-24T00:04:00.000Z"
+    "title": "Notionが嫌いすぎる！ | Pokosho!",
+    "link": "https://pokosho.com/b/archives/1026064",
+    "pubDate": "2025-10-24T01:35:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【未経験エンジニアの告白】「エラーが出ないと不安」先輩に言われた「エラーホリック」から卒業した話",
+    "link": "https://qiita.com/shimada_slj/items/c10f16b6527fb31f04eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T00:39:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part5 - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2025/10/24/070000",
+    "pubDate": "2025-10-24T00:24:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選",
+    "link": "https://zenn.dev/fastdoctor/articles/ebe3e41039a98f",
+    "pubDate": "Fri, 24 Oct 2025 00:02:49 GMT"
   },
   {
     "site": "Hatena",
@@ -24,16 +60,28 @@
     "pubDate": "2025-10-23T23:55:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 「気づいたらWindows 10サポート終わってた！」という人がやるべきこと",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2057514.html",
-    "pubDate": "2025-10-23T22:24:45.000Z"
+    "site": "Zenn",
+    "title": "HonoでJWTのaudクレームを検証する機能がなかった問題（CVE-2025-62610）",
+    "link": "https://zenn.dev/okazu_dm/articles/d72419e2431761",
+    "pubDate": "Thu, 23 Oct 2025 23:19:45 GMT"
   },
   {
     "site": "Hatena",
     "title": "AI席巻のアメリカ、ブルーカラーを選ぶ若者たち　電気料金2倍が現実に - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN142SF0U5A011C2000000/",
     "pubDate": "2025-10-23T21:54:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 Scanner#1 〜Scannerを完全攻略 - 基本編 -〜",
+    "link": "https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T16:53:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AgentCore Runtimeの非同期実行で広がる、Ambient Agentの可能性",
+    "link": "https://qiita.com/har1101/items/a99fafb7526145e475b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T16:28:59.000Z"
   },
   {
     "site": "Hatena",
@@ -43,27 +91,21 @@
   },
   {
     "site": "Qiita",
-    "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください - Qiita",
-    "link": "https://qiita.com/TooMe/items/873540da84567733d16b",
-    "pubDate": "2025-10-23T10:02:17.000Z"
+    "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform（AIDP）」を試す：ADBと連携してデータ結合",
+    "link": "https://qiita.com/yushibats/items/0b26c68882f2a80e49cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T13:40:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "コーエーテクモ、“資産運用”好調で業績を上方修正　経常利益＆純利益が2倍に",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/23/news101.html",
-    "pubDate": "2025-10-23T09:18:21.000Z"
+    "site": "Zenn",
+    "title": "Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる",
+    "link": "https://zenn.dev/assign/articles/vitest-4-schema-matching",
+    "pubDate": "Thu, 23 Oct 2025 12:25:33 GMT"
   },
   {
     "site": "Zenn",
     "title": "Hono CLI 爆誕",
     "link": "https://zenn.dev/yusukebe/articles/ff69c13ccafb28",
     "pubDate": "Thu, 23 Oct 2025 06:59:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2025年版】サービスメッシュに関連するOSSの動向調査記録",
-    "link": "https://qiita.com/melsuga/items/f655bc5cd576bc064399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T05:14:04.000Z"
   },
   {
     "site": "Zenn",
@@ -79,9 +121,9 @@
   },
   {
     "site": "Zenn",
-    "title": "社内AI活用推進のためにAWS S3 Vectorsを使ってみました！（データのベクトル化と投入、検索まで）",
-    "link": "https://zenn.dev/fukurou_labo/articles/1b38f6d0940917",
-    "pubDate": "Thu, 23 Oct 2025 02:44:52 GMT"
+    "title": "Gemini CLI でセキュアで堅牢な開発をするためのプラクティス集",
+    "link": "https://zenn.dev/kimitsu/articles/secure-and-robust-development-with-gemini-cli",
+    "pubDate": "Thu, 23 Oct 2025 01:52:31 GMT"
   },
   {
     "site": "Zenn",
@@ -96,12 +138,6 @@
     "pubDate": "Thu, 23 Oct 2025 01:21:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoft Entra ID の検証環境を作ろう - ラック・セキュリティごった煮ブログ",
-    "link": "https://devblog.lac.co.jp/entry/20251023",
-    "pubDate": "2025-10-23T00:59:30.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "複数の Docker Compose 環境を同時に立ち上げる",
     "link": "https://zenn.dev/socialdog/articles/multiple-docker-compose-up",
@@ -114,46 +150,16 @@
     "pubDate": "2025-10-22T23:36:28.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Bedrock AgentCore IdentityでGoogleドライブにアクセス！（GA対応版）",
-    "link": "https://qiita.com/moritalous/items/7660a570292eb3e0b605?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T14:51:39.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "増えすぎた GitHub Actions を「3 層アーキテクチャ」で整理した話",
-    "link": "https://zenn.dev/simpleform_blog/articles/99cea8c1af0657",
-    "pubDate": "Wed, 22 Oct 2025 12:34:00 GMT"
+    "title": "ブラウザバックで無限スクロールが振り出しに戻る問題をNext.jsの「URL付きモーダル」で解決する",
+    "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
+    "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT"
   },
   {
     "site": "Qiita",
     "title": "Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形",
     "link": "https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T11:23:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "スクラムを導入したのに、なぜ組織は変わらないのか",
-    "link": "https://zenn.dev/nttdata_tech/articles/34b4172b467aee",
-    "pubDate": "Wed, 22 Oct 2025 08:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "複数の並行開発におけるDocker Composeのポート競合を何とかする（Mac）",
-    "link": "https://zenn.dev/shinoyu/articles/6a79758070df88",
-    "pubDate": "Wed, 22 Oct 2025 04:43:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GopherCon 2025に行ってきました！",
-    "link": "https://zenn.dev/logica0419/articles/gophercon-2025",
-    "pubDate": "Wed, 22 Oct 2025 02:45:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Oracle AI Data Platform(AIDP) がリリースされたので作成してみてみた",
-    "link": "https://qiita.com/shirok/items/94385d1345ce86ade5ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T00:09:52.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Dockerを使ってワードプレスの環境構築をする",
     "link": "https://qiita.com/sun_22/items/9fd95e4515969eae4f6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-21T08:36:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "レガシーC#コード対比集（昔こう→今こう）",
-    "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T07:23:56.000Z"
   }
 ]
