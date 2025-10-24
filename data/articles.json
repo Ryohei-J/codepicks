@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "スタートアップがゼロから作る共通ID基盤：ID統合のその先へ（後編） - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/10/24/id-integration-part2",
+    "pubDate": "2025-10-24T00:04:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoft、カイルくんのようなAIキャラを「Mico」と命名",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/24/news069.html",
+    "pubDate": "2025-10-23T23:55:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI席巻のアメリカ、ブルーカラーを選ぶ若者たち　電気料金2倍が現実に - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN142SF0U5A011C2000000/",
+    "pubDate": "2025-10-23T21:54:04.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Pixel 10 Pro」がゲームに向かない理由　AI処理優先の弊害？　17万円台の最上位モデルに見合う性能が欲しい",
     "link": "https://www.itmedia.co.jp/mobile/articles/2510/23/news107.html",
     "pubDate": "2025-10-23T10:34:41.000Z"
@@ -48,22 +66,22 @@
     "pubDate": "Thu, 23 Oct 2025 03:15:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region",
-    "link": "https://aws.amazon.com/message/101925/",
-    "pubDate": "2025-10-23T02:40:14.000Z"
+    "site": "Qiita",
+    "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください",
+    "link": "https://qiita.com/TooMe/items/873540da84567733d16b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T02:56:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "iPhone Airの「需要がほぼゼロ」であるためAppleは生産を大幅に削減するとの報道",
-    "link": "https://gigazine.net/news/20251023-apple-drastically-cutting-iphone-air-production/",
-    "pubDate": "2025-10-23T02:13:51.000Z"
+    "site": "Zenn",
+    "title": "社内AI活用推進のためにAWS S3 Vectorsを使ってみました！（データのベクトル化と投入、検索まで）",
+    "link": "https://zenn.dev/fukurou_labo/articles/1b38f6d0940917",
+    "pubDate": "Thu, 23 Oct 2025 02:44:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "商用利用も完全に無料！ JIS第二水準まで完備された手書きのフリーフォント「立冬のころに」",
-    "link": "https://coliss.com/articles/freebies/freefont-aswinterbegins.html",
-    "pubDate": "2025-10-23T01:31:29.000Z"
+    "site": "Zenn",
+    "title": "[Next.js] URL末尾に .md つけたらMarkdownをそのまま返す！",
+    "link": "https://zenn.dev/chot/articles/nextjs-md-suffix",
+    "pubDate": "Thu, 23 Oct 2025 01:32:11 GMT"
   },
   {
     "site": "Zenn",
@@ -73,9 +91,21 @@
   },
   {
     "site": "Hatena",
+    "title": "Microsoft Entra ID の検証環境を作ろう - ラック・セキュリティごった煮ブログ",
+    "link": "https://devblog.lac.co.jp/entry/20251023",
+    "pubDate": "2025-10-23T00:59:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "yoku0825さんがMySQLのインデックスの知見を語り倒す - Findy Media",
     "link": "https://findy-code.io/media/articles/chotto-wakaru-mysql-index",
     "pubDate": "2025-10-23T00:55:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "複数の Docker Compose 環境を同時に立ち上げる",
+    "link": "https://zenn.dev/socialdog/articles/multiple-docker-compose-up",
+    "pubDate": "Thu, 23 Oct 2025 00:32:10 GMT"
   },
   {
     "site": "Qiita",
@@ -84,16 +114,16 @@
     "pubDate": "2025-10-22T23:36:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「OneDrive」のバックアップ機能を切ったらファイルがなくなった……を防止する改善／新しいアプリアイコンなども導入へ",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2057144.html",
-    "pubDate": "2025-10-22T23:18:08.000Z"
+    "site": "Qiita",
+    "title": "Bedrock AgentCore IdentityでGoogleドライブにアクセス！（GA対応版）",
+    "link": "https://qiita.com/moritalous/items/7660a570292eb3e0b605?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T14:51:39.000Z"
   },
   {
     "site": "Zenn",
-    "title": "ブラウザバックで無限スクロールが振り出しに戻る問題をNext.jsの「URL付きモーダル」で解決する",
-    "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
-    "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT"
+    "title": "増えすぎた GitHub Actions を「3 層アーキテクチャ」で整理した話",
+    "link": "https://zenn.dev/simpleform_blog/articles/99cea8c1af0657",
+    "pubDate": "Wed, 22 Oct 2025 12:34:00 GMT"
   },
   {
     "site": "Qiita",
@@ -103,9 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Rustのproc-macroで自動微分してGPT-2を学習してみた",
-    "link": "https://zenn.dev/ho_oto/articles/32a460c64e963b",
-    "pubDate": "Wed, 22 Oct 2025 11:04:13 GMT"
+    "title": "スクラムを導入したのに、なぜ組織は変わらないのか",
+    "link": "https://zenn.dev/nttdata_tech/articles/34b4172b467aee",
+    "pubDate": "Wed, 22 Oct 2025 08:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -126,28 +156,10 @@
     "pubDate": "2025-10-22T00:09:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Skills × GitHub Actions でバグ修正の自動化を試す！",
-    "link": "https://zenn.dev/kis9a/articles/claude-skills-pr-auto-fix",
-    "pubDate": "Tue, 21 Oct 2025 23:08:25 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude × MCPで社内DBに話しかけてみた",
     "link": "https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-21T23:03:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "†二分探索†で怠惰なカーソル移動をしよう",
-    "link": "https://zenn.dev/kamecha/articles/de680018133636",
-    "pubDate": "Tue, 21 Oct 2025 15:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code Web版 - スマホで指示、帰宅後に完成する開発の未来",
-    "link": "https://zenn.dev/lnest_knowledge/articles/9629c5083357aa",
-    "pubDate": "Tue, 21 Oct 2025 10:27:55 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "レガシーC#コード対比集（昔こう→今こう）",
     "link": "https://qiita.com/Sakai_path/items/3edc7a0a8db4e43753c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-21T07:23:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ホタルイカの身投げ量を予測するWebサイトを作ってみた",
-    "link": "https://qiita.com/yuchi1128/items/eca2bb94dec63ecbff93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T13:11:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "アサヒビール停止で痛感：ランサムウェアは「工場」ではなく「業務フロー」を止める",
-    "link": "https://qiita.com/comty/items/e1f1f82b89278c1a7e8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-20T08:45:42.000Z"
   }
 ]
