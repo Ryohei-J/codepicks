@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "Kaggle Notebook で始める CUDAプログラミング入門",
+    "link": "https://zenn.dev/kaerururu/articles/101f9261ae923a",
+    "pubDate": "Sat, 25 Oct 2025 03:07:39 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "現代のTelnetは暗号化できる - ロシアンブルー飼育日記",
+    "link": "https://russianblue25.hatenablog.com/entry/2020/12/17/202322",
+    "pubDate": "2025-10-25T02:09:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ここが変だよLLMコーディングエージェント(Codex)",
+    "link": "https://zenn.dev/takeshy/articles/20b8b2ab499b6f",
+    "pubDate": "2025-10-25T01:05:31.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "アマゾンの倉庫で見たAI仕分けロボット、50万人の職を奪うのか（朝日新聞） - Yahoo!ニュース",
     "link": "https://news.yahoo.co.jp/articles/febf30dc7c76057a409a931f82d9d2fe7398ec4c",
     "pubDate": "2025-10-25T00:54:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ここが変だよLLMコーディングエージェント(Codex)",
+    "link": "https://zenn.dev/takeshy/articles/20b8b2ab499b6f",
+    "pubDate": "Sat, 25 Oct 2025 00:51:36 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "React学習ログ No.13",
+    "link": "https://qiita.com/maedaHARUYA/items/e964eb78681c7050ccd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T23:37:37.000Z"
   },
   {
     "site": "Hatena",
@@ -18,10 +48,28 @@
     "pubDate": "2025-10-24T22:34:10.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "今日のQiitaトレンド記事をポッドキャストで聴こう！ 2025/10/25",
+    "link": "https://qiita.com/ennagara128/items/36c0bf0a091fc00722f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T22:03:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Typst 0.14.0 の内容を早めに深堀り",
     "link": "https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14",
     "pubDate": "Fri, 24 Oct 2025 15:10:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI駆動開発のお供にknipがステキな理由",
+    "link": "https://zenn.dev/kondo_script/articles/knip-with-ai",
+    "pubDate": "Fri, 24 Oct 2025 13:53:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "スマホでバイブコーディングする技術",
+    "link": "https://zenn.dev/tsuvic/articles/4a866f40142d8b",
+    "pubDate": "Fri, 24 Oct 2025 13:23:27 GMT"
   },
   {
     "site": "Hatena",
@@ -48,28 +96,28 @@
     "pubDate": "2025-10-24T10:29:06.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する",
+    "link": "https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T10:01:53.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
     "link": "https://zenn.dev/karaage0703/articles/985ddbd8fa15d3",
     "pubDate": "Fri, 24 Oct 2025 08:30:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「テレビ置きたくない派」も満足のネットワークレコーダー、地デジをアプリで見られるパナソニック「miyotto」",
-    "link": "https://ascii.jp/elem/000/004/336/4336515/",
-    "pubDate": "2025-10-24T07:29:58.000Z"
+    "site": "Qiita",
+    "title": "Microsoft Agent Framework開発入門",
+    "link": "https://qiita.com/matayuuu/items/e028904453dded34d18f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T06:58:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "MCP（Model Context Protocol）を活用したJグランツ補助金検索システムの実装例｜デジタル庁",
-    "link": "https://digital-gov.note.jp/n/n09dfb9fa4e8e",
-    "pubDate": "2025-10-24T06:41:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "\"AWS AI Agent ブログ祭り\" 開催！！AI Agent のブログが毎日公開！！",
-    "link": "https://zenn.dev/aws_japan/articles/711a12ee6db8df",
-    "pubDate": "Fri, 24 Oct 2025 04:45:57 GMT"
+    "site": "Qiita",
+    "title": "VS Code（Cursor）で現在開いているタブを一目で分かるようにする方法",
+    "link": "https://qiita.com/yosei_ikegami/items/baf3f6ba7467d0db6f7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T04:34:27.000Z"
   },
   {
     "site": "Zenn",
@@ -84,16 +132,10 @@
     "pubDate": "2025-10-24T03:07:45.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "ハニーポット観測：CVE-2024-3721を悪用した攻撃の観測",
-    "link": "https://qiita.com/melkruri/items/a3d567acb9e92b3676a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T02:37:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【未経験エンジニアの告白】「エラーが出ないと不安」先輩に言われた「エラーホリック」から卒業した話",
-    "link": "https://qiita.com/shimada_slj/items/c10f16b6527fb31f04eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T00:39:36.000Z"
+    "site": "Zenn",
+    "title": "ユニットテストがしやすいコード構成について過去を振り返って考えてみた",
+    "link": "https://zenn.dev/levtech/articles/feae08d88c039d",
+    "pubDate": "Fri, 24 Oct 2025 03:00:44 GMT"
   },
   {
     "site": "Zenn",
@@ -102,46 +144,10 @@
     "pubDate": "Fri, 24 Oct 2025 00:02:49 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "HonoでJWTのaudクレームを検証する機能がなかった問題（CVE-2025-62610）",
-    "link": "https://zenn.dev/okazu_dm/articles/d72419e2431761",
-    "pubDate": "Thu, 23 Oct 2025 23:19:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "モダンな自社開発企業で働く意味を問う: 大阪のしがない受託開発社長からみた今後のWebエンジニアの生存戦略",
-    "link": "https://zenn.dev/mikana0918/articles/dab9caa7f31a3b",
-    "pubDate": "Thu, 23 Oct 2025 18:37:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 Scanner#1 〜Scannerを完全攻略 - 基本編 -〜",
-    "link": "https://qiita.com/hitomin_poke/items/2b905bb79a77c1feda8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T16:53:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AgentCore Runtimeの非同期実行で広がる、Ambient Agentの可能性",
-    "link": "https://qiita.com/har1101/items/a99fafb7526145e475b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T16:28:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[TypeScript] Object.freeze() の代替としての as const satisfies の活用",
-    "link": "https://zenn.dev/aldagram_tech/articles/8992a053b08d34",
-    "pubDate": "Thu, 23 Oct 2025 14:00:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform (AIDP)」を試す：ADBと連携してデータ結合",
     "link": "https://qiita.com/yushibats/items/0b26c68882f2a80e49cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-23T13:40:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる",
-    "link": "https://zenn.dev/assign/articles/vitest-4-schema-matching",
-    "pubDate": "Thu, 23 Oct 2025 12:25:33 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "AWS大規模障害の教訓：単一クラウドが単一障害点になる時代、金融システムはどう備えるべきか",
     "link": "https://qiita.com/yoshimitsu-k-i-a/items/5dedf016adab925eae2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T10:38:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude × MCPで社内DBに話しかけてみた",
-    "link": "https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T23:03:38.000Z"
   }
 ]
