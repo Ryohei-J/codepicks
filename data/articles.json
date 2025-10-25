@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "AWSの大規模障害でスマートベッドが熱くなったり傾きが戻せなくなったりする不具合発生",
-    "link": "https://gigazine.net/news/20251024-smart-beds-stuck/",
-    "pubDate": "2025-10-24T14:11:29.000Z"
+    "title": "アマゾンの倉庫で見たAI仕分けロボット、50万人の職を奪うのか（朝日新聞） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/febf30dc7c76057a409a931f82d9d2fe7398ec4c",
+    "pubDate": "2025-10-25T00:54:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "サイバー攻撃によるシステム障害について（第三報）",
+    "link": "https://www.mino-in.co.jp/archives/news/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E7%AC%AC%E4%B8%89",
+    "pubDate": "2025-10-24T23:30:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【山田祥平のRe:config.sys】 今、どんなPCを買えばいいのか皆目見当がつかない",
+    "link": "https://pc.watch.impress.co.jp/docs/column/config/2057929.html",
+    "pubDate": "2025-10-24T22:34:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Typst 0.14.0 の内容を早めに深堀り",
+    "link": "https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14",
+    "pubDate": "Fri, 24 Oct 2025 15:10:24 GMT"
   },
   {
     "site": "Hatena",
     "title": "パチンコの有名人来店広告、客は有名人ではなく台の設定にしか興味がないのでAIに仕事を奪われそうなっていた→既に規制が",
     "link": "https://togetter.com/li/2619877",
     "pubDate": "2025-10-24T12:58:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TemporalのDurableさを覗く #LayerX_AI_Agent_ブログリレー",
+    "link": "https://zenn.dev/layerx/articles/3985768bda6e5a",
+    "pubDate": "Fri, 24 Oct 2025 12:29:44 GMT"
   },
   {
     "site": "Hatena",
@@ -42,16 +66,10 @@
     "pubDate": "2025-10-24T06:41:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜ、優秀なエンジニアが集まらないのか",
-    "link": "https://newspicks.com/news/14882778/body/",
-    "pubDate": "2025-10-24T04:54:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "パナソニック、Fire TV/スマホで使うネットワークレコーダ。録画機能はディーガ並み",
-    "link": "https://av.watch.impress.co.jp/docs/news/2057555.html",
-    "pubDate": "2025-10-24T04:41:09.000Z"
+    "site": "Zenn",
+    "title": "\"AWS AI Agent ブログ祭り\" 開催！！AI Agent のブログが毎日公開！！",
+    "link": "https://zenn.dev/aws_japan/articles/711a12ee6db8df",
+    "pubDate": "Fri, 24 Oct 2025 04:45:57 GMT"
   },
   {
     "site": "Zenn",
@@ -72,12 +90,6 @@
     "pubDate": "2025-10-24T02:37:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Notionが嫌いすぎる！ | Pokosho!",
-    "link": "https://pokosho.com/b/archives/1026064",
-    "pubDate": "2025-10-24T01:35:22.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【未経験エンジニアの告白】「エラーが出ないと不安」先輩に言われた「エラーホリック」から卒業した話",
     "link": "https://qiita.com/shimada_slj/items/c10f16b6527fb31f04eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,6 +106,12 @@
     "title": "HonoでJWTのaudクレームを検証する機能がなかった問題（CVE-2025-62610）",
     "link": "https://zenn.dev/okazu_dm/articles/d72419e2431761",
     "pubDate": "Thu, 23 Oct 2025 23:19:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "モダンな自社開発企業で働く意味を問う: 大阪のしがない受託開発社長からみた今後のWebエンジニアの生存戦略",
+    "link": "https://zenn.dev/mikana0918/articles/dab9caa7f31a3b",
+    "pubDate": "Thu, 23 Oct 2025 18:37:01 GMT"
   },
   {
     "site": "Qiita",
@@ -126,40 +144,22 @@
     "pubDate": "Thu, 23 Oct 2025 12:25:33 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AI時代の3層アーキテクチャ：関数型コア・決定的シェル・非決定的エッジ",
-    "link": "https://zenn.dev/loglass/articles/7e40d2a253bfd3",
-    "pubDate": "Thu, 23 Oct 2025 07:35:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Hono CLI 爆誕",
-    "link": "https://zenn.dev/yusukebe/articles/ff69c13ccafb28",
-    "pubDate": "Thu, 23 Oct 2025 06:59:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code導入3ヶ月後の社内アンケートから分かったこと",
-    "link": "https://zenn.dev/readyfor_blog/articles/a1cfd81a562e07",
-    "pubDate": "Thu, 23 Oct 2025 03:15:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください",
     "link": "https://qiita.com/TooMe/items/873540da84567733d16b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-23T02:56:26.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Gemini CLI でセキュアで堅牢な開発をするためのプラクティス集",
-    "link": "https://zenn.dev/kimitsu/articles/secure-and-robust-development-with-gemini-cli",
-    "pubDate": "Thu, 23 Oct 2025 01:52:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
     "link": "https://qiita.com/Zucky2022/items/28af0394b86f64b76321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T23:36:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、CPUをArmへ全面移行。AIが支援する10万アプリ書き換えの深層 | XenoSpectrum",
+    "link": "https://xenospectrum.com/google-cpu-arm-migration-axion-ai-cogniport/",
+    "pubDate": "2025-10-22T16:10:06.000Z"
   },
   {
     "site": "Qiita",
