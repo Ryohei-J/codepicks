@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "AWSの大規模障害でスマートベッドが熱くなったり傾きが戻せなくなったりする不具合発生",
+    "link": "https://gigazine.net/news/20251024-smart-beds-stuck/",
+    "pubDate": "2025-10-24T14:11:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "パチンコの有名人来店広告、客は有名人ではなく台の設定にしか興味がないのでAIに仕事を奪われそうなっていた→既に規制が",
     "link": "https://togetter.com/li/2619877",
     "pubDate": "2025-10-24T12:58:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今年は年末調整で税金がたくさん戻って来る!?　2025年(令和7年分) 年末調整の書き方を図解＜第1回＞",
+    "link": "https://internet.watch.impress.co.jp/docs/special/2057469.html",
+    "pubDate": "2025-10-24T11:10:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選",
+    "link": "https://zenn.dev/fastdoctor/articles/ebe3e41039a98f",
+    "pubDate": "2025-10-24T10:29:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
+    "link": "https://zenn.dev/karaage0703/articles/985ddbd8fa15d3",
+    "pubDate": "Fri, 24 Oct 2025 08:30:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「テレビ置きたくない派」も満足のネットワークレコーダー、地デジをアプリで見られるパナソニック「miyotto」",
+    "link": "https://ascii.jp/elem/000/004/336/4336515/",
+    "pubDate": "2025-10-24T07:29:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MCP（Model Context Protocol）を活用したJグランツ補助金検索システムの実装例｜デジタル庁",
+    "link": "https://digital-gov.note.jp/n/n09dfb9fa4e8e",
+    "pubDate": "2025-10-24T06:41:38.000Z"
   },
   {
     "site": "Hatena",
@@ -18,10 +54,10 @@
     "pubDate": "2025-10-24T04:41:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スマホの電池切れ、改札通過に支障？　「駅に充電器を置いて」に「求めすぎ」の声　最終手段は“あの原点回帰策”",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2510/24/news072.html",
-    "pubDate": "2025-10-24T03:45:07.000Z"
+    "site": "Zenn",
+    "title": "では素晴らしい提案をしよう。お前もライブラリを作らないか？",
+    "link": "https://zenn.dev/kyome/articles/10bed29cc08c35",
+    "pubDate": "Fri, 24 Oct 2025 04:26:24 GMT"
   },
   {
     "site": "Hatena",
@@ -30,16 +66,10 @@
     "pubDate": "2025-10-24T03:07:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIりんな、SNS活動を無期限休止　2015年から活動する元女子高生AI",
-    "link": "https://kai-you.net/article/93699",
-    "pubDate": "2025-10-24T02:52:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Appleさん、日本語入力の優先順位が低いのが見え見えでめちゃ萎えますね どう見ても使いにくいのに改善されないよね",
-    "link": "https://togetter.com/li/2619618",
-    "pubDate": "2025-10-24T01:48:27.000Z"
+    "site": "Qiita",
+    "title": "ハニーポット観測：CVE-2024-3721を悪用した攻撃の観測",
+    "link": "https://qiita.com/melkruri/items/a3d567acb9e92b3676a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T02:37:29.000Z"
   },
   {
     "site": "Hatena",
@@ -54,22 +84,10 @@
     "pubDate": "2025-10-24T00:39:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part5 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2025/10/24/070000",
-    "pubDate": "2025-10-24T00:24:22.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選",
     "link": "https://zenn.dev/fastdoctor/articles/ebe3e41039a98f",
     "pubDate": "Fri, 24 Oct 2025 00:02:49 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "フォーティネットがSSL-VPNを2026年5月に廃止、テレワーク環境の見直し急務",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03373/101600001/",
-    "pubDate": "2025-10-23T23:58:26.000Z"
   },
   {
     "site": "Zenn",
@@ -90,8 +108,14 @@
     "pubDate": "2025-10-23T16:28:59.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "[TypeScript] Object.freeze() の代替としての as const satisfies の活用",
+    "link": "https://zenn.dev/aldagram_tech/articles/8992a053b08d34",
+    "pubDate": "Thu, 23 Oct 2025 14:00:01 GMT"
+  },
+  {
     "site": "Qiita",
-    "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform（AIDP）」を試す：ADBと連携してデータ結合",
+    "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform (AIDP)」を試す：ADBと連携してデータ結合",
     "link": "https://qiita.com/yushibats/items/0b26c68882f2a80e49cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-23T13:40:34.000Z"
   },
@@ -100,6 +124,12 @@
     "title": "Vitest 4の新機能 expect.schemaMatching とHonoとZodでスキーマ駆動でテストをやる",
     "link": "https://zenn.dev/assign/articles/vitest-4-schema-matching",
     "pubDate": "Thu, 23 Oct 2025 12:25:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代の3層アーキテクチャ：関数型コア・決定的シェル・非決定的エッジ",
+    "link": "https://zenn.dev/loglass/articles/7e40d2a253bfd3",
+    "pubDate": "Thu, 23 Oct 2025 07:35:23 GMT"
   },
   {
     "site": "Zenn",
@@ -126,34 +156,10 @@
     "pubDate": "Thu, 23 Oct 2025 01:52:31 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "[Next.js] URL末尾に .md つけたらMarkdownをそのまま返す！",
-    "link": "https://zenn.dev/chot/articles/nextjs-md-suffix",
-    "pubDate": "Thu, 23 Oct 2025 01:32:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "『MCPたくさん入れたいけどコンテキストが...』を解決した話",
-    "link": "https://zenn.dev/bm_sms/articles/modular_mcp_context_optimize",
-    "pubDate": "Thu, 23 Oct 2025 01:21:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "複数の Docker Compose 環境を同時に立ち上げる",
-    "link": "https://zenn.dev/socialdog/articles/multiple-docker-compose-up",
-    "pubDate": "Thu, 23 Oct 2025 00:32:10 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
     "link": "https://qiita.com/Zucky2022/items/28af0394b86f64b76321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T23:36:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ブラウザバックで無限スクロールが振り出しに戻る問題をNext.jsの「URL付きモーダル」で解決する",
-    "link": "https://zenn.dev/derarion/articles/f42965b0aed36d",
-    "pubDate": "Wed, 22 Oct 2025 21:45:01 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "AWS大規模障害の教訓：単一クラウドが単一障害点になる時代、金融システムはどう備えるべきか",
+    "link": "https://qiita.com/yoshimitsu-k-i-a/items/5dedf016adab925eae2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-22T10:38:24.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Claude × MCPで社内DBに話しかけてみた",
     "link": "https://qiita.com/kunitomo926/items/3424fbab1160de8ed9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-21T23:03:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Webサーバーサイド言語としてのRustについてご紹介",
-    "link": "https://qiita.com/kazaf91/items/50ed0a3ce74c7409d46a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T09:38:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Dockerを使ってワードプレスの環境構築をする",
-    "link": "https://qiita.com/sun_22/items/9fd95e4515969eae4f6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-21T08:36:29.000Z"
   }
 ]
