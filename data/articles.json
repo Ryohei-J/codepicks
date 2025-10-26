@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "Microsoft Teams、従業員が職場にいないことを会社に通知し始める | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/83924",
+    "pubDate": "2025-10-26T06:52:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "gooポータル、11月に終了へ　1997年から続く老舗の退場に「ピーガガガ」懐かしむ声",
+    "link": "https://www.itmedia.co.jp/news/articles/2510/26/news018.html",
+    "pubDate": "2025-10-26T04:10:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なんとなく聞き流しがちな「圧縮」をGoの実装から理解する（可逆圧縮編）",
+    "link": "https://zenn.dev/yuta_kakiki/articles/13f54dd123e0d8",
+    "pubDate": "Sun, 26 Oct 2025 03:40:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "バイナリ編集プラグインの歴史と新世代のバイナリ編集プラグイン ddx.vim",
+    "link": "https://zenn.dev/shougo/articles/ddx-vim-beta",
+    "pubDate": "Sun, 26 Oct 2025 01:20:47 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "OpenAI GPT-OSS 20Bモデルのファインチューニング完全ガイド",
     "link": "https://zenn.dev/sunwood_ai_labs/articles/openai-gpt-oss-20b-fine-tuning",
@@ -12,16 +36,22 @@
     "pubDate": "2025-10-25T23:29:35.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Macだけに許された“二刀流”、M5 MacBook Proは最上級のWindowsノートでもあった",
+    "link": "https://news.mynavi.jp/article/20251025-3584399/",
+    "pubDate": "2025-10-25T18:36:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【しくじり】ハッカソンで大苦戦して分かったAI駆動開発の実践的ハウツー",
+    "link": "https://zenn.dev/caen/articles/27b84a320982ac",
+    "pubDate": "Sat, 25 Oct 2025 15:36:47 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "サイバーセキュリティ情報インプット集 2025年版 - Qiita",
     "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a",
     "pubDate": "2025-10-25T15:15:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "画像認識AIモデル「Qwen3-VL」の軽量版が登場したので使ってみた、低いVRAM使用量で高性能を実現",
-    "link": "https://gigazine.net/news/20251025-qwen3-vl-4b-and-8b/",
-    "pubDate": "2025-10-25T15:05:13.000Z"
   },
   {
     "site": "Hatena",
@@ -60,10 +90,10 @@
     "pubDate": "2025-10-25T09:33:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "macOS 26 TahoeのMacでGPU使用率を上昇させ、システム全体の遅延やバッテリー消費を引き起こす問題のあるElectronアプリを検出できるスクリプトが公開。",
-    "link": "https://applech2.com/archives/20251025-detect-electron-apps-causing-macos-tahoe-lag.html",
-    "pubDate": "2025-10-25T07:38:16.000Z"
+    "site": "Qiita",
+    "title": "ターミナルとシェルの違いについて、改めてまとめ直してみた",
+    "link": "https://qiita.com/kazutorahattori/items/01f7ba96554a483aefd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T07:48:58.000Z"
   },
   {
     "site": "Zenn",
@@ -73,9 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Unityでリファクタリングことはじめ、サンプルで見かける冗長コードのアンチパターン",
-    "link": "https://zenn.dev/junshimura/articles/1d1803ed16bd50",
-    "pubDate": "Sat, 25 Oct 2025 01:19:34 GMT"
+    "title": "自称調整さんを超える日程調整アプリをAIと作ってみたけど、巨大すぎる◯◯の壁が超えられない",
+    "link": "https://zenn.dev/yasaidev/articles/2cb87a5a2d072e",
+    "pubDate": "Sat, 25 Oct 2025 02:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -85,15 +115,9 @@
   },
   {
     "site": "Qiita",
-    "title": "React学習ログ No.13",
-    "link": "https://qiita.com/maedaHARUYA/items/e964eb78681c7050ccd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T23:37:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "今日のQiitaトレンド記事をポッドキャストで聴こう！ 2025/10/25",
-    "link": "https://qiita.com/ennagara128/items/36c0bf0a091fc00722f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T22:03:13.000Z"
+    "title": "うわああああ！MacでVSCodeが小さくなっちゃった！しかもショートカットも効かない！誰か助k...の解決方法",
+    "link": "https://qiita.com/yoyoh_/items/ce0142050cfb55fb6f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T23:28:10.000Z"
   },
   {
     "site": "Qiita",
@@ -120,16 +144,16 @@
     "pubDate": "Fri, 24 Oct 2025 13:23:27 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
-    "link": "https://zenn.dev/karaage0703/articles/985ddbd8fa15d3",
-    "pubDate": "Fri, 24 Oct 2025 08:30:01 GMT"
+    "site": "Qiita",
+    "title": "iOS 26のSafariで100vh的なスタイルを上手く表示するためのCSSハック",
+    "link": "https://qiita.com/kskwtnk/items/df4d6b15f6df7026cfeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T12:00:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "コンデジ界のSwitch 2!?　買いたくても買えないカメラ「GR IV」がついに発売 (1/4)",
-    "link": "https://ascii.jp/elem/000/004/328/4328110/",
-    "pubDate": "2025-10-24T08:03:36.000Z"
+    "site": "Qiita",
+    "title": "個人的GitHub Copilotの使い方メモ",
+    "link": "https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T10:42:06.000Z"
   },
   {
     "site": "Qiita",
@@ -144,18 +168,6 @@
     "pubDate": "2025-10-24T04:34:27.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "では素晴らしい提案をしよう。お前もライブラリを作らないか？",
-    "link": "https://zenn.dev/kyome/articles/10bed29cc08c35",
-    "pubDate": "Fri, 24 Oct 2025 04:26:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ユニットテストがしやすいコード構成について過去を振り返って考えてみた",
-    "link": "https://zenn.dev/levtech/articles/feae08d88c039d",
-    "pubDate": "Fri, 24 Oct 2025 03:00:44 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "「ChatGPT Atlas」を使ってみたら感動モノだった！ ～エージェント機能が賢すぎる、Chromeの牙城を崩す“新時代のブラウザー”となるか【柳谷智宣のAI ウォッチ！】",
     "link": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2057359.html",
@@ -166,17 +178,5 @@
     "title": "自作OSをセキュアブートに対応させてみた また、セキュアブートとは何なのか解説",
     "link": "https://qiita.com/miku_JK_Jb/items/36c9dad33f6e9a1fb0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-23T16:15:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub Copilotを使っている人は全員\"copilot-instrucions.md\"を作成してください",
-    "link": "https://qiita.com/TooMe/items/873540da84567733d16b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T02:56:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
-    "link": "https://qiita.com/Zucky2022/items/28af0394b86f64b76321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T23:36:28.000Z"
   }
 ]
