@@ -1,9 +1,39 @@
 [
   {
+    "site": "Qiita",
+    "title": "サイバーセキュリティ情報インプット集 2025年版 - Qiita",
+    "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a",
+    "pubDate": "2025-10-25T15:15:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "画像認識AIモデル「Qwen3-VL」の軽量版が登場したので使ってみた、低いVRAM使用量で高性能を実現",
+    "link": "https://gigazine.net/news/20251025-qwen3-vl-4b-and-8b/",
+    "pubDate": "2025-10-25T15:05:13.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「gooポータル」サービス終了のお知らせ – gooヘルプ",
     "link": "https://help.goo.ne.jp/help/article/2904/",
     "pubDate": "2025-10-25T13:55:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "サイバーセキュリティ情報インプット集 2025年版",
+    "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T12:34:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vue Fes Japan 2025参加してきた！",
+    "link": "https://zenn.dev/thirdlf/articles/37-zenn-vue-fes",
+    "pubDate": "Sat, 25 Oct 2025 12:02:37 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS FTR（Foundational Technical Review）を取得してAWS認定ソフトウェアとなりました",
+    "link": "https://qiita.com/infra365/items/bb75ab188dcf19398a9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T10:25:14.000Z"
   },
   {
     "site": "Hatena",
@@ -12,28 +42,34 @@
     "pubDate": "2025-10-25T09:33:47.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "「あの時の自分を救いたい」9年かけて防犯ブザーを再発明、Yolniに込めた想い",
+    "link": "https://gori.me/gadget/162044",
+    "pubDate": "2025-10-25T09:33:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "個人でデジタル庁の デザインシステムをVue.jsで 作っている話",
+    "link": "https://speakerdeck.com/nishiharatsubasa/ge-ren-dedezitaruting-no-dezainsisutemuwovue-dot-jsde-zuo-tuteiruhua",
+    "pubDate": "2025-10-25T09:08:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "macOS 26 TahoeのMacでGPU使用率を上昇させ、システム全体の遅延やバッテリー消費を引き起こす問題のあるElectronアプリを検出できるスクリプトが公開。",
+    "link": "https://applech2.com/archives/20251025-detect-electron-apps-causing-macos-tahoe-lag.html",
+    "pubDate": "2025-10-25T07:38:16.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Kaggle Notebook で始める CUDAプログラミング入門",
     "link": "https://zenn.dev/kaerururu/articles/101f9261ae923a",
     "pubDate": "Sat, 25 Oct 2025 03:07:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "現代のTelnetは暗号化できる - ロシアンブルー飼育日記",
-    "link": "https://russianblue25.hatenablog.com/entry/2020/12/17/202322",
-    "pubDate": "2025-10-25T02:09:02.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "ここが変だよLLMコーディングエージェント(Codex)",
-    "link": "https://zenn.dev/takeshy/articles/20b8b2ab499b6f",
-    "pubDate": "2025-10-25T01:05:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アマゾンの倉庫で見たAI仕分けロボット、50万人の職を奪うのか（朝日新聞） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/febf30dc7c76057a409a931f82d9d2fe7398ec4c",
-    "pubDate": "2025-10-25T00:54:46.000Z"
+    "title": "Unityでリファクタリングことはじめ、サンプルで見かける冗長コードのアンチパターン",
+    "link": "https://zenn.dev/junshimura/articles/1d1803ed16bd50",
+    "pubDate": "Sat, 25 Oct 2025 01:19:34 GMT"
   },
   {
     "site": "Zenn",
@@ -49,21 +85,21 @@
   },
   {
     "site": "Hatena",
-    "title": "サイバー攻撃によるシステム障害について（第三報）",
-    "link": "https://www.mino-in.co.jp/archives/news/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88%E7%AC%AC%E4%B8%89",
-    "pubDate": "2025-10-24T23:30:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【山田祥平のRe:config.sys】 今、どんなPCを買えばいいのか皆目見当がつかない",
-    "link": "https://pc.watch.impress.co.jp/docs/column/config/2057929.html",
-    "pubDate": "2025-10-24T22:34:10.000Z"
+    "title": "パナソニック「miyotto」はnasneキラーになれるか--3チューナー搭載の新型ネットワークレコーダー",
+    "link": "https://japan.cnet.com/article/35239589/",
+    "pubDate": "2025-10-24T23:06:46.000Z"
   },
   {
     "site": "Qiita",
     "title": "今日のQiitaトレンド記事をポッドキャストで聴こう！ 2025/10/25",
     "link": "https://qiita.com/ennagara128/items/36c0bf0a091fc00722f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-24T22:03:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【脱・ランサムウェア被害】中小企業向けSaaSは「サーバーレス×APIファースト」で防御力を劇的に高める",
+    "link": "https://qiita.com/yoshimitsu-k-i-a/items/2ab27e73bf40b31b5827?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-24T16:20:18.000Z"
   },
   {
     "site": "Zenn",
@@ -85,33 +121,15 @@
   },
   {
     "site": "Zenn",
-    "title": "TemporalのDurableさを覗く #LayerX_AI_Agent_ブログリレー",
-    "link": "https://zenn.dev/layerx/articles/3985768bda6e5a",
-    "pubDate": "Fri, 24 Oct 2025 12:29:44 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "今年は年末調整で税金がたくさん戻って来る!?　2025年(令和7年分) 年末調整の書き方を図解＜第1回＞",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2057469.html",
-    "pubDate": "2025-10-24T11:10:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選",
-    "link": "https://zenn.dev/fastdoctor/articles/ebe3e41039a98f",
-    "pubDate": "2025-10-24T10:29:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIとAWS CDKの親和性 ― AIを活用しIaCを学び、AWSを理解する",
-    "link": "https://qiita.com/teshima_daichi/items/c4f749aec3f49d735acd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T10:01:53.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "NVIDIA DGX SparkでローカルAI環境を構築してLLM・画像生成AIを動かしてみた",
     "link": "https://zenn.dev/karaage0703/articles/985ddbd8fa15d3",
     "pubDate": "Fri, 24 Oct 2025 08:30:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "コンデジ界のSwitch 2!?　買いたくても買えないカメラ「GR IV」がついに発売 (1/4)",
+    "link": "https://ascii.jp/elem/000/004/328/4328110/",
+    "pubDate": "2025-10-24T08:03:36.000Z"
   },
   {
     "site": "Qiita",
@@ -138,16 +156,16 @@
     "pubDate": "Fri, 24 Oct 2025 03:00:44 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "今こそCodexに全振りするチャンス！ClaudeCodeからCodexへの移行と実践Tips9選",
-    "link": "https://zenn.dev/fastdoctor/articles/ebe3e41039a98f",
-    "pubDate": "Fri, 24 Oct 2025 00:02:49 GMT"
+    "site": "Hatena",
+    "title": "「ChatGPT Atlas」を使ってみたら感動モノだった！ ～エージェント機能が賢すぎる、Chromeの牙城を崩す“新時代のブラウザー”となるか【柳谷智宣のAI ウォッチ！】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2057359.html",
+    "pubDate": "2025-10-24T01:28:48.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【OCI】新サービスのAIデータ基盤「Oracle AI Data Platform (AIDP)」を試す：ADBと連携してデータ結合",
-    "link": "https://qiita.com/yushibats/items/0b26c68882f2a80e49cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T13:40:34.000Z"
+    "title": "自作OSをセキュアブートに対応させてみた また、セキュアブートとは何なのか解説",
+    "link": "https://qiita.com/miku_JK_Jb/items/36c9dad33f6e9a1fb0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-23T16:15:18.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "API開発を効率化するApidogの使い方とPostmanとの違い",
     "link": "https://qiita.com/Zucky2022/items/28af0394b86f64b76321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-22T23:36:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google、CPUをArmへ全面移行。AIが支援する10万アプリ書き換えの深層 | XenoSpectrum",
-    "link": "https://xenospectrum.com/google-cpu-arm-migration-axion-ai-cogniport/",
-    "pubDate": "2025-10-22T16:10:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Mermaid図経由でCopilotから情報流出 - 間接プロンプト注入型攻撃の新たな形",
-    "link": "https://qiita.com/___nix___/items/90b157d20c819b2db2fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T11:23:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS大規模障害の教訓：単一クラウドが単一障害点になる時代、金融システムはどう備えるべきか",
-    "link": "https://qiita.com/yoshimitsu-k-i-a/items/5dedf016adab925eae2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-22T10:38:24.000Z"
   }
 ]
