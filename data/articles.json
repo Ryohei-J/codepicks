@@ -1,15 +1,99 @@
 [
   {
     "site": "Hatena",
-    "title": "『「フリック入力」を発明』とは何を発明したことを指すのか？",
+    "title": "【特集】 Sandy Bridgeおじさんへ、Intel N100とかの5万円以下PCのほうが速いですよ。Windows 10からの移行先を検証",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2058006.html",
+    "pubDate": "2025-10-26T21:48:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【海外記事紹介】ケン・トンプソンがトロイの木馬をCコンパイラに仕込んだ時の話 — “自己再生するバックドア”の仕組みとその思想",
+    "link": "https://techfeed.io/entries/68fe8fc8f124142b9b180df9",
+    "pubDate": "2025-10-26T21:20:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最近のブコメのスター工作がすごい",
+    "link": "https://anond.hatelabo.jp/20251027001109",
+    "pubDate": "2025-10-26T16:00:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "統一的プロンプトの終焉：もはやllmモデルに互換性はありません",
+    "link": "https://www.coderabbit.ai/ja/blog/the-end-of-one-sized-fits-all-prompts-why-llm-models-are-no-longer-interchangeable-ja",
+    "pubDate": "2025-10-26T15:58:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「フリック入力を発明」とは何を発明したことを指すのか？",
     "link": "https://anond.hatelabo.jp/20251026230023",
     "pubDate": "2025-10-26T14:36:41.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Microsoft Teams、従業員が職場にいないことを会社に通知し始める | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/83924",
-    "pubDate": "2025-10-26T06:52:42.000Z"
+    "title": "Why UUIDs won't protect your secrets",
+    "link": "https://alexsci.com/blog/uuids-and-idor/",
+    "pubDate": "2025-10-26T14:30:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vercel AI SDKはなぜ複数ステップのLLM呼び出しを1つのStreamで返せるのか？",
+    "link": "https://zenn.dev/condy/articles/2fd43ba8819f04",
+    "pubDate": "Sun, 26 Oct 2025 12:19:34 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Amazon Bedrock AgentCore】Gatewayを触りながらざっくり理解する",
+    "link": "https://qiita.com/yakumo_09/items/d7b8aedc166ac19231eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-26T11:43:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "JPYC決済の実装パターンを考える：オフチェーン決済IDとオンチェーンTxを紐付けるためには",
+    "link": "https://zenn.dev/mameta29/articles/4f880f8a7199b7",
+    "pubDate": "Sun, 26 Oct 2025 08:13:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "[2025年10月26日] WebがMCPになる日 (週刊AI)",
+    "link": "https://zenn.dev/carenet/articles/1938c544c41c04",
+    "pubDate": "Sun, 26 Oct 2025 07:44:15 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【イベントレポート兼リンク集】Microsoft 365 CopilotとCopilot Studioのライセンスの話",
+    "link": "https://qiita.com/Oyu3m/items/fd6a820a4fbf7da7025a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-26T06:24:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "感覚で理解するベクトル制御",
+    "link": "https://qiita.com/Doraemonjayo/items/37cc77e6d5a6aeb2694e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-26T06:00:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【KotlinFest 2025にて発表予定】内部実装から理解するKotlin Coroutines",
+    "link": "https://zenn.dev/kaseken/articles/681c5aea0639c7",
+    "pubDate": "Sun, 26 Oct 2025 05:53:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "国土数値情報の Shapefile をブラウザ上で変換するツールを Rust で書くために苦労したところ",
+    "link": "https://zenn.dev/mierune/articles/adcfed5a11b70d",
+    "pubDate": "Sun, 26 Oct 2025 05:36:54 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Power Automate】【概要編】SharePoint と Power Automate と Microsoft Forms を駆使した台帳最新化 - ルドルフもわたるふもいろいろあってな",
+    "link": "https://wataruf.hatenablog.com/entry/2025/10/25/000000",
+    "pubDate": "2025-10-26T05:15:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "スマホでバイブコーディングする技術",
+    "link": "https://zenn.dev/tsuvic/articles/4a866f40142d8b",
+    "pubDate": "2025-10-26T04:42:39.000Z"
   },
   {
     "site": "Zenn",
@@ -18,10 +102,10 @@
     "pubDate": "Sun, 26 Oct 2025 04:27:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "gooポータル、11月に終了へ　1997年から続く老舗の退場に「ピーガガガ」懐かしむ声",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/26/news018.html",
-    "pubDate": "2025-10-26T04:10:17.000Z"
+    "site": "Zenn",
+    "title": "ユニットテストがしやすいコード構成について過去を振り返って考えてみた",
+    "link": "https://zenn.dev/levtech/articles/feae08d88c039d",
+    "pubDate": "2025-10-26T04:25:00.000Z"
   },
   {
     "site": "Hatena",
@@ -43,45 +127,15 @@
   },
   {
     "site": "Zenn",
-    "title": "OpenAI GPT-OSS 20Bモデルのファインチューニング完全ガイド",
-    "link": "https://zenn.dev/sunwood_ai_labs/articles/openai-gpt-oss-20b-fine-tuning",
-    "pubDate": "2025-10-26T00:02:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人的GitHub Copilotの使い方メモ - Qiita",
-    "link": "https://qiita.com/Nozomuts/items/430261fa996cba5fd466",
-    "pubDate": "2025-10-25T23:29:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Macだけに許された“二刀流”、M5 MacBook Proは最上級のWindowsノートでもあった",
-    "link": "https://news.mynavi.jp/article/20251025-3584399/",
-    "pubDate": "2025-10-25T18:36:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【しくじり】ハッカソンで大苦戦して分かったAI駆動開発の実践的ハウツー",
-    "link": "https://zenn.dev/caen/articles/27b84a320982ac",
-    "pubDate": "Sat, 25 Oct 2025 15:36:47 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "サイバーセキュリティ情報インプット集 2025年版 - Qiita",
-    "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a",
-    "pubDate": "2025-10-25T15:15:39.000Z"
+    "title": "Tailwind CSSは本当に便利？従来のCSSとの比較で分かる、メリット・デメリット",
+    "link": "https://zenn.dev/crebo_tech/articles/article-0018-20251026",
+    "pubDate": "Sat, 25 Oct 2025 21:54:50 GMT"
   },
   {
     "site": "Qiita",
     "title": "サイバーセキュリティ情報インプット集 2025年版",
     "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-25T12:34:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本語で使いやすい。おすすめのローカルLLM3選",
-    "link": "https://www.gizmodo.jp/2025/10/local_llm_matome.html",
-    "pubDate": "2025-10-25T12:06:57.000Z"
   },
   {
     "site": "Zenn",
@@ -97,30 +151,6 @@
   },
   {
     "site": "Qiita",
-    "title": "ターミナルとシェルの違いについて、改めてまとめ直してみた",
-    "link": "https://qiita.com/kazutorahattori/items/01f7ba96554a483aefd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T07:48:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kaggle Notebook で始める CUDAプログラミング入門",
-    "link": "https://zenn.dev/kaerururu/articles/101f9261ae923a",
-    "pubDate": "Sat, 25 Oct 2025 03:07:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自称調整さんを超える日程調整アプリをAIと作ってみたけど、巨大すぎる◯◯の壁が超えられない",
-    "link": "https://zenn.dev/yasaidev/articles/2cb87a5a2d072e",
-    "pubDate": "Sat, 25 Oct 2025 02:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ここが変だよLLMコーディングエージェント(Codex)",
-    "link": "https://zenn.dev/takeshy/articles/20b8b2ab499b6f",
-    "pubDate": "Sat, 25 Oct 2025 00:51:36 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "うわああああ！MacでVSCodeが小さくなっちゃった！しかもショートカットも効かない！誰か助k...の解決方法",
     "link": "https://qiita.com/yoyoh_/items/ce0142050cfb55fb6f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-24T23:28:10.000Z"
@@ -130,24 +160,6 @@
     "title": "【脱・ランサムウェア被害】中小企業向けSaaSは「サーバーレス×APIファースト」で防御力を劇的に高める",
     "link": "https://qiita.com/yoshimitsu-k-i-a/items/2ab27e73bf40b31b5827?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-24T16:20:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Typst 0.14.0 の内容を早めに深堀り",
-    "link": "https://zenn.dev/monaqa/articles/2025-10-24-typst-updates-v0-14",
-    "pubDate": "Fri, 24 Oct 2025 15:10:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI駆動開発のお供にknipがステキな理由",
-    "link": "https://zenn.dev/kondo_script/articles/knip-with-ai",
-    "pubDate": "Fri, 24 Oct 2025 13:53:53 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "iOS 26のSafariで100vh的なスタイルを上手く表示するためのCSSハック",
-    "link": "https://qiita.com/kskwtnk/items/df4d6b15f6df7026cfeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T12:00:26.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "VS Code（Cursor）で現在開いているタブを一目で分かるようにする方法",
     "link": "https://qiita.com/yosei_ikegami/items/baf3f6ba7467d0db6f7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-24T04:34:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ChatGPT Atlas」を使ってみたら感動モノだった！ ～エージェント機能が賢すぎる、Chromeの牙城を崩す“新時代のブラウザー”となるか【柳谷智宣のAI ウォッチ！】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2057359.html",
-    "pubDate": "2025-10-24T01:28:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "自作OSをセキュアブートに対応させてみた また、セキュアブートとは何なのか解説",
-    "link": "https://qiita.com/miku_JK_Jb/items/36c9dad33f6e9a1fb0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-23T16:15:18.000Z"
   }
 ]
