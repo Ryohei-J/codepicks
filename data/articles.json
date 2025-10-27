@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "LLMのキモい算術 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "link": "https://joisino.hatenablog.com/entry/kimoi",
+    "pubDate": "2025-10-27T08:59:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWSを退職します - Memo",
+    "link": "https://aajisaka.hatenablog.com/entry/2025/10/27/131908",
+    "pubDate": "2025-10-27T05:27:17.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AWSにおけるネットワークセキュリティの基礎的な考え方 - 電通総研 テックブログ",
     "link": "https://tech.dentsusoken.com/entry/2025/10/27/AWS%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9A%84%E3%81%AA%E8%80%83",
     "pubDate": "2025-10-27T03:40:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ゴルフコンペをAIで盛り上げてみた 〜OCI Data Scienceでつくる『AIベストスマイル賞』〜",
+    "link": "https://qiita.com/ykuma614/items/91d2a9f06d3afcbd9614?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T02:46:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "TypeScriptの二重性: クラスが“値”と“型”を共有できる背景",
+    "link": "https://qiita.com/Dingu-suke/items/71094ea31d367ddc8990?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T01:15:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "[Firebase Cloud Messaging]nest.js大量ユーザーにPush通知を「いい感じ」に配信する方法",
+    "link": "https://qiita.com/fukuidaito/items/95160e3d12fa6e501a6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T01:13:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "見た目と中身がズレるわけ 文字化けの正体とUTF-8・CRLF入門",
+    "link": "https://qiita.com/nucomiya/items/198418fa614e6a41098c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T00:36:20.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +48,10 @@
     "pubDate": "2025-10-26T23:29:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【Claude】Agent Skills入門 - はじめてのスキル作成 - - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2025/10/27/070000",
-    "pubDate": "2025-10-26T22:34:19.000Z"
+    "site": "Zenn",
+    "title": "【AWS公式】ヘルスケアAIエージェント - Amazon Bedrock AgentCore を活用した構築を徹底解説",
+    "link": "https://zenn.dev/aws_japan/articles/679e723bb34cb6",
+    "pubDate": "Sun, 26 Oct 2025 22:00:05 GMT"
   },
   {
     "site": "Hatena",
@@ -40,6 +76,12 @@
     "title": "統一的プロンプトの終焉：もはやllmモデルに互換性はありません",
     "link": "https://www.coderabbit.ai/ja/blog/the-end-of-one-sized-fits-all-prompts-why-llm-models-are-no-longer-interchangeable-ja",
     "pubDate": "2025-10-26T15:58:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vue Fes JAPAN 2025に参加してきました。",
+    "link": "https://zenn.dev/mameshiba_274/articles/a5a6ae9257cd7f",
+    "pubDate": "Sun, 26 Oct 2025 15:00:00 GMT"
   },
   {
     "site": "Zenn",
@@ -90,18 +132,6 @@
     "pubDate": "Sun, 26 Oct 2025 07:44:15 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Go でログに機密情報を出力していないか静的解析するツールを作った",
-    "link": "https://zenn.dev/nilpoona/articles/c68387ec5415f7",
-    "pubDate": "Sun, 26 Oct 2025 07:06:11 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【イベントレポート兼リンク集】Microsoft 365 CopilotとCopilot Studioのライセンスの話",
-    "link": "https://qiita.com/Oyu3m/items/fd6a820a4fbf7da7025a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-26T06:24:15.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "感覚で理解するベクトル制御",
     "link": "https://qiita.com/Doraemonjayo/items/37cc77e6d5a6aeb2694e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -112,12 +142,6 @@
     "title": "国土数値情報の Shapefile をブラウザ上で変換するツールを Rust で書くために苦労したところ",
     "link": "https://zenn.dev/mierune/articles/adcfed5a11b70d",
     "pubDate": "Sun, 26 Oct 2025 05:36:54 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【Power Automate】【概要編】SharePoint と Power Automate と Microsoft Forms を駆使した台帳最新化 - ルドルフもわたるふもいろいろあってな",
-    "link": "https://wataruf.hatenablog.com/entry/2025/10/25/000000",
-    "pubDate": "2025-10-26T05:15:58.000Z"
   },
   {
     "site": "Zenn",
@@ -132,12 +156,6 @@
     "pubDate": "Sun, 26 Oct 2025 04:27:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "なんとなく聞き流しがちな「圧縮」をGoの実装から理解する（可逆圧縮編）",
-    "link": "https://zenn.dev/yuta_kakiki/articles/13f54dd123e0d8",
-    "pubDate": "Sun, 26 Oct 2025 03:40:37 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "サイバーセキュリティ情報インプット集 2025年版",
     "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -145,15 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "AWS FTR（Foundational Technical Review）を取得してAWS認定ソフトウェアとなりました",
-    "link": "https://qiita.com/infra365/items/bb75ab188dcf19398a9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T10:25:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "うわああああ！MacでVSCodeが小さくなっちゃった！しかもショートカットも効かない！誰か助k...の解決方法",
-    "link": "https://qiita.com/yoyoh_/items/ce0142050cfb55fb6f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T23:28:10.000Z"
+    "title": "【振り返り】2025年10月20日AWS大規模障害、何が起こったの？",
+    "link": "https://qiita.com/zhang_hang/items/e63468ec53a95bb605a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T03:07:22.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "個人的GitHub Copilotの使い方メモ",
     "link": "https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-24T10:42:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Microsoft Agent Framework開発入門",
-    "link": "https://qiita.com/matayuuu/items/e028904453dded34d18f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T06:58:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "VS Code（Cursor）で現在開いているタブを一目で分かるようにする方法",
-    "link": "https://qiita.com/yosei_ikegami/items/baf3f6ba7467d0db6f7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T04:34:27.000Z"
   }
 ]
