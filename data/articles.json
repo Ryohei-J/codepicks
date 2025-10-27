@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "AWSにおけるネットワークセキュリティの基礎的な考え方 - 電通総研 テックブログ",
+    "link": "https://tech.dentsusoken.com/entry/2025/10/27/AWS%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9A%84%E3%81%AA%E8%80%83",
+    "pubDate": "2025-10-27T03:40:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTがウェブブラウザーを作る本当の理由【西田宗千佳のイマトミライ】",
+    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2057999.html",
+    "pubDate": "2025-10-26T23:29:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Claude】Agent Skills入門 - はじめてのスキル作成 - - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2025/10/27/070000",
+    "pubDate": "2025-10-26T22:34:19.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【特集】 Sandy Bridgeおじさんへ、Intel N100とかの5万円以下PCのほうが速いですよ。Windows 10からの移行先を検証",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2058006.html",
     "pubDate": "2025-10-26T21:48:41.000Z"
@@ -24,16 +42,16 @@
     "pubDate": "2025-10-26T15:58:10.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Amazon Bedrock AgentCore が GA したので人間の実働 3 分で Runtime を動かす",
+    "link": "https://zenn.dev/aws_japan/articles/088f2051eb6ab3",
+    "pubDate": "Sun, 26 Oct 2025 15:00:00 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「フリック入力を発明」とは何を発明したことを指すのか？",
     "link": "https://anond.hatelabo.jp/20251026230023",
     "pubDate": "2025-10-26T14:36:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Why UUIDs won't protect your secrets",
-    "link": "https://alexsci.com/blog/uuids-and-idor/",
-    "pubDate": "2025-10-26T14:30:54.000Z"
   },
   {
     "site": "Zenn",
@@ -49,15 +67,33 @@
   },
   {
     "site": "Zenn",
+    "title": "Vue Fes Japan 2025 登壇資料まとめ",
+    "link": "https://zenn.dev/shun91/articles/vue-fes-japan-2025",
+    "pubDate": "Sun, 26 Oct 2025 09:22:29 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "JPYC決済の実装パターンを考える：オフチェーン決済IDとオンチェーンTxを紐付けるためには",
     "link": "https://zenn.dev/mameta29/articles/4f880f8a7199b7",
     "pubDate": "Sun, 26 Oct 2025 08:13:33 GMT"
   },
   {
     "site": "Zenn",
+    "title": "OSSにスターをするところから始めませんか？？",
+    "link": "https://zenn.dev/ao_kun/articles/thanks-stars",
+    "pubDate": "Sun, 26 Oct 2025 08:06:29 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "[2025年10月26日] WebがMCPになる日 (週刊AI)",
     "link": "https://zenn.dev/carenet/articles/1938c544c41c04",
     "pubDate": "Sun, 26 Oct 2025 07:44:15 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Go でログに機密情報を出力していないか静的解析するツールを作った",
+    "link": "https://zenn.dev/nilpoona/articles/c68387ec5415f7",
+    "pubDate": "Sun, 26 Oct 2025 07:06:11 GMT"
   },
   {
     "site": "Qiita",
@@ -70,12 +106,6 @@
     "title": "感覚で理解するベクトル制御",
     "link": "https://qiita.com/Doraemonjayo/items/37cc77e6d5a6aeb2694e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-26T06:00:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【KotlinFest 2025にて発表予定】内部実装から理解するKotlin Coroutines",
-    "link": "https://zenn.dev/kaseken/articles/681c5aea0639c7",
-    "pubDate": "Sun, 26 Oct 2025 05:53:33 GMT"
   },
   {
     "site": "Zenn",
@@ -103,45 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "ユニットテストがしやすいコード構成について過去を振り返って考えてみた",
-    "link": "https://zenn.dev/levtech/articles/feae08d88c039d",
-    "pubDate": "2025-10-26T04:25:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "パスキー認証（FIDO2） | 楽天証券",
-    "link": "https://www.rakuten-sec.co.jp/web/security/passkey/",
-    "pubDate": "2025-10-26T04:06:38.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "なんとなく聞き流しがちな「圧縮」をGoの実装から理解する（可逆圧縮編）",
     "link": "https://zenn.dev/yuta_kakiki/articles/13f54dd123e0d8",
     "pubDate": "Sun, 26 Oct 2025 03:40:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バイナリ編集プラグインの歴史と新世代のバイナリ編集プラグイン ddx.vim",
-    "link": "https://zenn.dev/shougo/articles/ddx-vim-beta",
-    "pubDate": "Sun, 26 Oct 2025 01:20:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Tailwind CSSは本当に便利？従来のCSSとの比較で分かる、メリット・デメリット",
-    "link": "https://zenn.dev/crebo_tech/articles/article-0018-20251026",
-    "pubDate": "Sat, 25 Oct 2025 21:54:50 GMT"
   },
   {
     "site": "Qiita",
     "title": "サイバーセキュリティ情報インプット集 2025年版",
     "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-25T12:34:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vue Fes Japan 2025参加してきた！",
-    "link": "https://zenn.dev/thirdlf/articles/37-zenn-vue-fes",
-    "pubDate": "Sat, 25 Oct 2025 12:02:37 GMT"
   },
   {
     "site": "Qiita",
