@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "京王バス、完全キャッシュレス化　27年度以降に現金終了",
+    "link": "https://www.watch.impress.co.jp/docs/news/2058686.html",
+    "pubDate": "2025-10-28T08:44:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "車に乗ってたら同乗者が目視人力でQRコードを読みとり始め、答え合わせしたら正解しててドン引きした「人かどうかも怪しいな」",
+    "link": "https://togetter.com/li/2621269",
+    "pubDate": "2025-10-28T05:16:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 - RAKUS Developers Blog | ラクス エンジニアブログ",
+    "link": "https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming",
+    "pubDate": "2025-10-28T04:40:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“イーロン・マスク版Wikipedia”初期版公開　特徴はAIファクトチェック　「すでにWikipediaより優秀」",
     "link": "https://www.itmedia.co.jp/news/articles/2510/28/news077.html",
     "pubDate": "2025-10-28T03:33:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Java/Mavenビルドが1秒に！Docker Multi-stage Build＋BuildKitで98%短縮した話",
+    "link": "https://qiita.com/ntaka329/items/882e90d61671bdbd024f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T01:51:27.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +66,52 @@
     "pubDate": "2025-10-27T23:03:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "サイゼリヤのセルフオーダー、プログラミング初心者のアプリみたいだけど大丈夫そう…？→いや異常な要件定義の精度でUXの本質を理解している",
-    "link": "https://togetter.com/li/2621035",
-    "pubDate": "2025-10-27T11:35:10.000Z"
+    "site": "Zenn",
+    "title": "DGX Sparkと「nanochat」でゼロから丸一日学習させてLLMを自作してみた",
+    "link": "https://zenn.dev/karaage0703/articles/aedade69a9463f",
+    "pubDate": "Mon, 27 Oct 2025 22:44:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ブラウザの「戻る」で通信が走らない...?  Cache-Control: no-storeとbfcache",
+    "link": "https://zenn.dev/keisuke_05410/articles/689fcdcb49318b",
+    "pubDate": "Mon, 27 Oct 2025 16:28:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Hono + Cloudflare Workers でOG画像を動的に生成する",
+    "link": "https://zenn.dev/chocolat5/articles/64de392a7132d4",
+    "pubDate": "Mon, 27 Oct 2025 15:48:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vercel AI SDK 6 のアツい機能: needsApproval, ToolLoopAgent, prepareCalls",
+    "link": "https://zenn.dev/layerx/articles/5538adfc79b14e",
+    "pubDate": "Mon, 27 Oct 2025 13:45:41 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ソフトウェアエンジニアリングAIエージェントの変遷――「補完」から「自律」への4年間",
+    "link": "https://qiita.com/hummer/items/06d5797e0c4ddcddfff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T13:04:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Grafana Loki による AWS ログ監視基盤の構築",
+    "link": "https://zenn.dev/shunsei/articles/e3a2640a39ef40",
+    "pubDate": "Mon, 27 Oct 2025 12:04:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kaggle | Jigsawコンペ振り返りメモ",
+    "link": "https://zenn.dev/hasibirok0/articles/adb47c6df37ca6",
+    "pubDate": "Mon, 27 Oct 2025 11:12:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vue Fes Japan 2025 に参加しました！",
+    "link": "https://zenn.dev/sekibuuun/articles/d8f7dce7750940",
+    "pubDate": "Mon, 27 Oct 2025 10:58:43 GMT"
   },
   {
     "site": "Zenn",
@@ -55,9 +121,21 @@
   },
   {
     "site": "Qiita",
+    "title": "Vue Fes Japan 2025 で初めてスポンサーブース運営やってみたレポ",
+    "link": "https://qiita.com/Yohei_Suda/items/fdcfad4a4712262d6f9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T06:59:49.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "GPU搭載インスタンスは高い？実測したら逆に8.7倍も安かった話【AWS コスパ検証】",
     "link": "https://qiita.com/noji777/items/a0322c10b010eb210feb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-27T06:00:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ベクトルインデックスのすゝめ",
+    "link": "https://zenn.dev/exwzd/articles/20251015_a_guide_to_vector_indexing",
+    "pubDate": "Mon, 27 Oct 2025 05:47:56 GMT"
   },
   {
     "site": "Zenn",
@@ -66,40 +144,16 @@
     "pubDate": "Mon, 27 Oct 2025 04:12:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Google AI Studio のバイブコーディング機能の概要｜npaka",
-    "link": "https://note.com/npaka/n/n9c5ebcc5a897",
-    "pubDate": "2025-10-27T02:59:08.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "ゴルフコンペをAIで盛り上げてみた 〜OCI Data Scienceでつくる『AIベストスマイル賞』〜",
     "link": "https://qiita.com/ykuma614/items/91d2a9f06d3afcbd9614?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-27T02:46:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub × Obsidian × ChatGPT で “知識アシスタント” をつくる方法",
-    "link": "https://zenn.dev/jambo_dev/articles/ea771dd08140b4",
-    "pubDate": "Mon, 27 Oct 2025 02:08:51 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "TypeScriptの二重性: クラスが“値”と“型”を共有できる背景",
-    "link": "https://qiita.com/Dingu-suke/items/71094ea31d367ddc8990?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T01:15:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "IT技術者として何歳まで働く？ 40代と60代の意見差／年率66％で急成長の「DAP」市場／フリーランス新法施行1年で改善実感の声、ほか (1/3)",
-    "link": "https://ascii.jp/elem/000/004/336/4336851/",
-    "pubDate": "2025-10-27T01:15:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[Firebase Cloud Messaging]nest.js大量ユーザーにPush通知を「いい感じ」に配信する方法",
-    "link": "https://qiita.com/fukuidaito/items/95160e3d12fa6e501a6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T01:13:35.000Z"
+    "title": "なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」",
+    "link": "https://qiita.com/nakaizumi_slj/items/f9f59a2db8fcd6a3d7cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T00:41:22.000Z"
   },
   {
     "site": "Qiita",
@@ -108,52 +162,10 @@
     "pubDate": "2025-10-27T00:36:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "「SQS＊Step Functions＊Fargate」でジョブの待ち時間を解消したら、コストも80%削減できた話",
-    "link": "https://zenn.dev/hacobell_dev/articles/4d395887fb6522",
-    "pubDate": "Mon, 27 Oct 2025 00:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【AWS公式】ヘルスケアAIエージェント - Amazon Bedrock AgentCore を活用した構築を徹底解説",
-    "link": "https://zenn.dev/aws_japan/articles/679e723bb34cb6",
-    "pubDate": "Sun, 26 Oct 2025 22:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Amazon Bedrock AgentCore が GA したので人間の実働 3 分で Runtime を動かす",
-    "link": "https://zenn.dev/aws_japan/articles/088f2051eb6ab3",
-    "pubDate": "Sun, 26 Oct 2025 15:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vercel AI SDKはなぜ複数ステップのLLM呼び出しを1つのStreamで返せるのか？",
-    "link": "https://zenn.dev/condy/articles/2fd43ba8819f04",
-    "pubDate": "Sun, 26 Oct 2025 12:19:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vue Fes Japan 2025 登壇資料まとめ",
-    "link": "https://zenn.dev/shun91/articles/vue-fes-japan-2025",
-    "pubDate": "Sun, 26 Oct 2025 09:22:29 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "結婚式でLTをして一部界隈にだけ刺さった話（メッセージ生成LINE bot）",
     "link": "https://qiita.com/takacpu55/items/336c838827fd52720523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-26T08:11:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OSSにスターをするところから始めませんか？？",
-    "link": "https://zenn.dev/ao_kun/articles/thanks-stars",
-    "pubDate": "Sun, 26 Oct 2025 08:06:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[2025年10月26日] WebがMCPになる日 (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/1938c544c41c04",
-    "pubDate": "Sun, 26 Oct 2025 07:44:15 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "サイバーセキュリティ情報インプット集 2025年版",
     "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-25T12:34:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "APIテスト工数を劇的削減！ AI活用型 vs 仕様書連携型 vs CI/CD型 〜OpenAPIを活用したテスト自動化ツールを徹底比較〜",
-    "link": "https://qiita.com/taikidanbara/items/db21ae0df42acce44663?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T08:39:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【振り返り】2025年10月20日AWS大規模障害、何が起こったの？",
-    "link": "https://qiita.com/zhang_hang/items/e63468ec53a95bb605a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T03:07:22.000Z"
   }
 ]
