@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "【西川和久の不定期コラム】 動画生成AIが2年前から驚異的な進化を遂げたので、ハロウィンっぽいMVをぜ～んぶAIで作ってみた",
+    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2058082.html",
+    "pubDate": "2025-10-27T23:03:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "テスラ、150兆円報酬否決なら「イーロン・マスク氏辞めるかも」　株主に警告 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN27ACA0X21C25A0000000/",
+    "pubDate": "2025-10-27T16:41:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google･KDDI、日本で記事AI検索　著作権配慮し収益機会を提供 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC20AIL0Q5A021C2000000/",
+    "pubDate": "2025-10-27T13:14:47.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "サイゼリヤのセルフオーダー、プログラミング初心者のアプリみたいだけど大丈夫そう…？→いや異常な要件定義の精度でUXの本質を理解している",
     "link": "https://togetter.com/li/2621035",
     "pubDate": "2025-10-27T11:35:10.000Z"
@@ -18,10 +36,22 @@
     "pubDate": "2025-10-27T10:31:06.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "個人的もっと知られてほしいNeovim/Vimプラグイン８選",
+    "link": "https://zenn.dev/sirasagi62/articles/196e0f592a6177",
+    "pubDate": "Mon, 27 Oct 2025 09:58:21 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "LLMのキモい算術 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
     "link": "https://joisino.hatenablog.com/entry/kimoi",
     "pubDate": "2025-10-27T08:59:43.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GPU搭載インスタンスは高い？実測したら逆に8.7倍も安かった話【AWS コスパ検証】",
+    "link": "https://qiita.com/noji777/items/a0322c10b010eb210feb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T06:00:37.000Z"
   },
   {
     "site": "Hatena",
@@ -30,10 +60,16 @@
     "pubDate": "2025-10-27T05:27:17.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "技術ブログの書き方 - 好きな技術を紹介する",
+    "link": "https://zenn.dev/nttdata_tech/articles/764fa74bbbb3c3",
+    "pubDate": "Mon, 27 Oct 2025 04:12:38 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "AWSにおけるネットワークセキュリティの基礎的な考え方 - 電通総研 テックブログ",
-    "link": "https://tech.dentsusoken.com/entry/2025/10/27/AWS%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9A%84%E3%81%AA%E8%80%83",
-    "pubDate": "2025-10-27T03:40:22.000Z"
+    "title": "Google AI Studio のバイブコーディング機能の概要｜npaka",
+    "link": "https://note.com/npaka/n/n9c5ebcc5a897",
+    "pubDate": "2025-10-27T02:59:08.000Z"
   },
   {
     "site": "Qiita",
@@ -42,10 +78,22 @@
     "pubDate": "2025-10-27T02:46:58.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "GitHub × Obsidian × ChatGPT で “知識アシスタント” をつくる方法",
+    "link": "https://zenn.dev/jambo_dev/articles/ea771dd08140b4",
+    "pubDate": "Mon, 27 Oct 2025 02:08:51 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "TypeScriptの二重性: クラスが“値”と“型”を共有できる背景",
     "link": "https://qiita.com/Dingu-suke/items/71094ea31d367ddc8990?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-27T01:15:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "IT技術者として何歳まで働く？ 40代と60代の意見差／年率66％で急成長の「DAP」市場／フリーランス新法施行1年で改善実感の声、ほか (1/3)",
+    "link": "https://ascii.jp/elem/000/004/336/4336851/",
+    "pubDate": "2025-10-27T01:15:35.000Z"
   },
   {
     "site": "Qiita",
@@ -60,34 +108,16 @@
     "pubDate": "2025-10-27T00:36:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTがウェブブラウザーを作る本当の理由【西田宗千佳のイマトミライ】",
-    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2057999.html",
-    "pubDate": "2025-10-26T23:29:24.000Z"
+    "site": "Zenn",
+    "title": "「SQS＊Step Functions＊Fargate」でジョブの待ち時間を解消したら、コストも80%削減できた話",
+    "link": "https://zenn.dev/hacobell_dev/articles/4d395887fb6522",
+    "pubDate": "Mon, 27 Oct 2025 00:30:01 GMT"
   },
   {
     "site": "Zenn",
     "title": "【AWS公式】ヘルスケアAIエージェント - Amazon Bedrock AgentCore を活用した構築を徹底解説",
     "link": "https://zenn.dev/aws_japan/articles/679e723bb34cb6",
     "pubDate": "Sun, 26 Oct 2025 22:00:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 Sandy Bridgeおじさんへ、Intel N100とかの5万円以下PCのほうが速いですよ。Windows 10からの移行先を検証",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2058006.html",
-    "pubDate": "2025-10-26T21:48:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "統一的プロンプトの終焉：もはやllmモデルに互換性はありません",
-    "link": "https://www.coderabbit.ai/ja/blog/the-end-of-one-sized-fits-all-prompts-why-llm-models-are-no-longer-interchangeable-ja",
-    "pubDate": "2025-10-26T15:58:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vue Fes JAPAN 2025に参加してきました。",
-    "link": "https://zenn.dev/mameshiba_274/articles/a5a6ae9257cd7f",
-    "pubDate": "Sun, 26 Oct 2025 15:00:00 GMT"
   },
   {
     "site": "Zenn",
@@ -102,22 +132,16 @@
     "pubDate": "Sun, 26 Oct 2025 12:19:34 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【Amazon Bedrock AgentCore】Gatewayを触りながらざっくり理解する",
-    "link": "https://qiita.com/yakumo_09/items/d7b8aedc166ac19231eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-26T11:43:06.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Vue Fes Japan 2025 登壇資料まとめ",
     "link": "https://zenn.dev/shun91/articles/vue-fes-japan-2025",
     "pubDate": "Sun, 26 Oct 2025 09:22:29 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "JPYC決済の実装パターンを考える：オフチェーン決済IDとオンチェーンTxを紐付けるためには",
-    "link": "https://zenn.dev/mameta29/articles/4f880f8a7199b7",
-    "pubDate": "Sun, 26 Oct 2025 08:13:33 GMT"
+    "site": "Qiita",
+    "title": "結婚式でLTをして一部界隈にだけ刺さった話（メッセージ生成LINE bot）",
+    "link": "https://qiita.com/takacpu55/items/336c838827fd52720523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-26T08:11:35.000Z"
   },
   {
     "site": "Zenn",
@@ -138,24 +162,6 @@
     "pubDate": "2025-10-26T06:00:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "国土数値情報の Shapefile をブラウザ上で変換するツールを Rust で書くために苦労したところ",
-    "link": "https://zenn.dev/mierune/articles/adcfed5a11b70d",
-    "pubDate": "Sun, 26 Oct 2025 05:36:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "スマホでバイブコーディングする技術",
-    "link": "https://zenn.dev/tsuvic/articles/4a866f40142d8b",
-    "pubDate": "2025-10-26T04:42:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ソフトウェアエンジニアはいかにしてAIを真に愛するに 至ったか - コードを書く人から設計意図を定義する人へ -",
-    "link": "https://zenn.dev/hidenorigoto/books/ba347b4e77cae0",
-    "pubDate": "Sun, 26 Oct 2025 04:27:06 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "サイバーセキュリティ情報インプット集 2025年版",
     "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "APIテスト工数を劇的削減！ AI活用型 vs 仕様書連携型 vs CI/CD型 〜OpenAPIを活用したテスト自動化ツールを徹底比較〜",
+    "link": "https://qiita.com/taikidanbara/items/db21ae0df42acce44663?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-25T08:39:17.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【振り返り】2025年10月20日AWS大規模障害、何が起こったの？",
     "link": "https://qiita.com/zhang_hang/items/e63468ec53a95bb605a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-25T03:07:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【脱・ランサムウェア被害】中小企業向けSaaSは「サーバーレス×APIファースト」で防御力を劇的に高める",
-    "link": "https://qiita.com/yoshimitsu-k-i-a/items/2ab27e73bf40b31b5827?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T16:20:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人的GitHub Copilotの使い方メモ",
-    "link": "https://qiita.com/Nozomuts/items/430261fa996cba5fd466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-24T10:42:06.000Z"
   }
 ]
