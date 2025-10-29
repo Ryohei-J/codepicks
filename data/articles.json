@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "AIに仕事奪われた",
+    "link": "https://anond.hatelabo.jp/20251029191331",
+    "pubDate": "2025-10-29T10:15:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI搭載の家事お手伝いヒューマノイドロボット「NEO」が登場、月額約7万6000円のサブスクで利用可能",
+    "link": "https://gigazine.net/news/20251029-1x-technologies-neo-home-robot/",
+    "pubDate": "2025-10-29T07:38:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "住友商事、SCSKの完全子会社化発表　買収総額8820億円 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC291X90Z21C25A0000000/",
+    "pubDate": "2025-10-29T05:23:48.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Xデーは意外と早かったな」Web小説サイト『カクヨム』でAI生成小説がランキング1位になり議論を呼ぶ「手法は自由」「1日の投稿数に制限をかけては」",
     "link": "https://togetter.com/li/2621558",
     "pubDate": "2025-10-29T03:18:46.000Z"
@@ -10,6 +28,12 @@
     "title": "「コンピュータ」とか「サーバ」とか末尾を伸ばさず止めてる人がいたらおじさん→んなもんJISで決まってるんだからおじさんとか関係ないだろ？え？改正されてる…？",
     "link": "https://togetter.com/li/2621554",
     "pubDate": "2025-10-29T02:49:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【アプリ開発】人事の一言で爆誕！Slackの通知にタスクが溺れてたので、ボタンで救出してみた！",
+    "link": "https://qiita.com/ishikawa_slj/items/cbff9aa44ffe320733ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-29T00:31:18.000Z"
   },
   {
     "site": "Hatena",
@@ -30,22 +54,16 @@
     "pubDate": "2025-10-28T22:52:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "［速報］GitHub、AIエージェントを統べる「Agent HQ」構想を発表。ClaudeやCodex、Devinなど他社AIエージェントも利用可能に",
-    "link": "https://www.publickey1.jp/blog/25/githubaiagent_hqgithubclaudecodexdevinai.html",
-    "pubDate": "2025-10-28T18:59:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【PMBOK準拠】実務で使える！Cursor or CodexではじめるAI駆動PM（プロジェクトマネージメント）スターターKitも無料公開！｜MAKE A CHANGE, inc",
-    "link": "https://note.com/make_a_change/n/na2d8a9fd4ac1",
-    "pubDate": "2025-10-28T10:21:59.000Z"
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 Scanner#2 〜基本編②-nextLine-〜",
+    "link": "https://qiita.com/hitomin_poke/items/0d9dc4d60fa6ba840f01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T17:43:46.000Z"
   },
   {
     "site": "Qiita",
-    "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ - Qiita",
-    "link": "https://qiita.com/nolanlover0527/items/071277263f8851012e6b",
-    "pubDate": "2025-10-28T09:52:13.000Z"
+    "title": "ChatGPT × GenSparkで提案書を自動生成する実践フロー",
+    "link": "https://qiita.com/sh-ohtani/items/643c977af71e4952f882?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T10:35:30.000Z"
   },
   {
     "site": "Zenn",
@@ -54,10 +72,10 @@
     "pubDate": "Tue, 28 Oct 2025 08:58:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "国家資格にも登場？　「データマネジメント」が、生成AI活用の成否を分かつ理由",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/28/news006.html",
-    "pubDate": "2025-10-28T07:41:26.000Z"
+    "site": "Zenn",
+    "title": "Vue SFC と AI 駆動開発の相性が良い理由",
+    "link": "https://zenn.dev/ytr0903/articles/2a3cc9dfba9945",
+    "pubDate": "Tue, 28 Oct 2025 08:00:02 GMT"
   },
   {
     "site": "Zenn",
@@ -67,15 +85,21 @@
   },
   {
     "site": "Zenn",
+    "title": "産休に入るエンジニアです。いろんな気づきと今の気持ち",
+    "link": "https://zenn.dev/moneyforward/articles/4cb965f1251ed0",
+    "pubDate": "Tue, 28 Oct 2025 06:27:36 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "【心理学】ダブルバインドが横行する殺伐とした開発現場は実在するので、メンバーは自己防衛の手段としての心理学を身に付けて冷静に対処したい",
     "link": "https://zenn.dev/noranuko13/articles/98d2082ea65374",
     "pubDate": "Tue, 28 Oct 2025 03:03:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Snowflake特徴量ストアのベストプラクティス",
-    "link": "https://zenn.dev/takikomi/articles/cd6c0d26b76f89",
-    "pubDate": "Tue, 28 Oct 2025 03:00:01 GMT"
+    "site": "Hatena",
+    "title": "ソフトウェアエンジニアにおける才能という幻想、あるいは成長を阻む最大の敵について - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/28/113009",
+    "pubDate": "2025-10-28T02:31:26.000Z"
   },
   {
     "site": "Zenn",
@@ -94,12 +118,6 @@
     "title": "Java/Mavenビルドが1秒に！Docker Multi-stage Build＋BuildKitで98%短縮した話",
     "link": "https://qiita.com/ntaka329/items/882e90d61671bdbd024f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-28T01:51:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "設計書づくりをAIと共同作成して効率化した話",
-    "link": "https://qiita.com/hara-h/items/309fff92d034a89a8f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T01:34:49.000Z"
   },
   {
     "site": "Zenn",
@@ -133,21 +151,9 @@
   },
   {
     "site": "Zenn",
-    "title": "個人的もっと知られてほしいNeovim/Vimプラグイン８選",
-    "link": "https://zenn.dev/sirasagi62/articles/196e0f592a6177",
-    "pubDate": "Mon, 27 Oct 2025 09:58:21 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "GPU搭載インスタンスは高い？実測したら逆に8.7倍も安かった話【AWS コスパ検証】",
-    "link": "https://qiita.com/noji777/items/a0322c10b010eb210feb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T06:00:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ベクトルインデックスのすゝめ",
-    "link": "https://zenn.dev/exwzd/articles/20251015_a_guide_to_vector_indexing",
-    "pubDate": "Mon, 27 Oct 2025 05:47:56 GMT"
+    "title": "拡大・平行移動・回転行列で作る円形カルーセル",
+    "link": "https://zenn.dev/studio/articles/445bfb6e55d8b3",
+    "pubDate": "Mon, 27 Oct 2025 12:32:42 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "結婚式でLTをして一部界隈にだけ刺さった話（メッセージ生成LINE bot）",
     "link": "https://qiita.com/takacpu55/items/336c838827fd52720523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-26T08:11:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "感覚で理解するベクトル制御",
-    "link": "https://qiita.com/Doraemonjayo/items/37cc77e6d5a6aeb2694e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-26T06:00:15.000Z"
   }
 ]
