@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "Pythonソフトウェア財団が2億円超の政府助成金プログラム申請を取り下げ、「DEI」が原因か",
+    "link": "https://gigazine.net/news/20251029-python-software-foundation-us-goverment-grant-program/",
+    "pubDate": "2025-10-29T11:39:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エンジニアリングリーダーの実践的なプラクティスとは「エンジニアリングリーダー ―技術組織を育てるリーダーシップとセルフマネジメント」を読んだ - kakakakakku blog",
+    "link": "https://kakakakakku.hatenablog.com/entry/2025/10/29/192801",
+    "pubDate": "2025-10-29T11:01:56.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIに仕事奪われた",
     "link": "https://anond.hatelabo.jp/20251029191331",
     "pubDate": "2025-10-29T10:15:23.000Z"
@@ -24,10 +36,16 @@
     "pubDate": "2025-10-29T03:18:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「コンピュータ」とか「サーバ」とか末尾を伸ばさず止めてる人がいたらおじさん→んなもんJISで決まってるんだからおじさんとか関係ないだろ？え？改正されてる…？",
-    "link": "https://togetter.com/li/2621554",
-    "pubDate": "2025-10-29T02:49:11.000Z"
+    "site": "Zenn",
+    "title": "AI エージェント時代のリスク対策 : 認証・認可をあらためて学ぶ",
+    "link": "https://zenn.dev/aws_japan/articles/f1a0549c8e533a",
+    "pubDate": "Wed, 29 Oct 2025 02:49:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Unityでのマスタデータ管理にMasterMemoryを導入する",
+    "link": "https://zenn.dev/takodevlog/articles/9a66226d3f7a72",
+    "pubDate": "Wed, 29 Oct 2025 01:13:35 GMT"
   },
   {
     "site": "Qiita",
@@ -58,6 +76,12 @@
     "title": "【ポケモン×Java】知識編 Scanner#2 〜基本編②-nextLine-〜",
     "link": "https://qiita.com/hitomin_poke/items/0d9dc4d60fa6ba840f01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-28T17:43:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "無料でも使える！Avalonia Accelerate",
+    "link": "https://zenn.dev/inuinu/articles/avalonia-accelerate-community",
+    "pubDate": "Tue, 28 Oct 2025 15:15:55 GMT"
   },
   {
     "site": "Qiita",
@@ -96,16 +120,16 @@
     "pubDate": "Tue, 28 Oct 2025 03:03:01 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Snowflake特徴量ストアのベストプラクティス",
+    "link": "https://zenn.dev/takikomi/articles/cd6c0d26b76f89",
+    "pubDate": "Tue, 28 Oct 2025 03:00:01 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "ソフトウェアエンジニアにおける才能という幻想、あるいは成長を阻む最大の敵について - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/10/28/113009",
     "pubDate": "2025-10-28T02:31:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "技術ブログの書き方 - 好きな技術を紹介する",
-    "link": "https://zenn.dev/nttdata_tech/articles/764fa74bbbb3c3",
-    "pubDate": "2025-10-28T02:29:50.000Z"
   },
   {
     "site": "Qiita",
@@ -126,34 +150,10 @@
     "pubDate": "Mon, 27 Oct 2025 23:49:44 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "DGX Sparkと「nanochat」でゼロから丸一日学習させてLLMを自作してみた",
-    "link": "https://zenn.dev/karaage0703/articles/aedade69a9463f",
-    "pubDate": "Mon, 27 Oct 2025 22:44:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ブラウザの「戻る」で通信が走らない...?  Cache-Control: no-storeとbfcache",
-    "link": "https://zenn.dev/keisuke_05410/articles/689fcdcb49318b",
-    "pubDate": "Mon, 27 Oct 2025 16:28:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Hono + Cloudflare Workers でOG画像を動的に生成する",
-    "link": "https://zenn.dev/chocolat5/articles/64de392a7132d4",
-    "pubDate": "Mon, 27 Oct 2025 15:48:18 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ソフトウェアエンジニアリングAIエージェントの変遷――「補完」から「自律」への4年間",
     "link": "https://qiita.com/hummer/items/06d5797e0c4ddcddfff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-27T13:04:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "拡大・平行移動・回転行列で作る円形カルーセル",
-    "link": "https://zenn.dev/studio/articles/445bfb6e55d8b3",
-    "pubDate": "Mon, 27 Oct 2025 12:32:42 GMT"
   },
   {
     "site": "Qiita",
