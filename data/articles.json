@@ -1,9 +1,45 @@
 [
   {
+    "site": "Hatena",
+    "title": "ついにAmazonのエンジニアが全員AIになった",
+    "link": "https://anond.hatelabo.jp/20251029091803",
+    "pubDate": "2025-10-29T00:30:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "［速報］GitHub、AIエージェントを統べる「Agent HQ」構想を発表。ClaudeやCodex、Devinなど他社AIエージェントも利用可能に",
+    "link": "https://www.publickey1.jp/blog/25/githubaiagent_hqgithubclaudecodexdevinai.html",
+    "pubDate": "2025-10-28T18:59:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "The Human Only Public License",
+    "link": "https://vanderessen.com/posts/hopl/",
+    "pubDate": "2025-10-28T16:45:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "あらゆるPCをリモートコントロールできる次世代オープンソースKVM「JetKVM」",
+    "link": "https://gigazine.net/news/20251028-jetkvm/",
+    "pubDate": "2025-10-28T12:33:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【PMBOK準拠】実務で使える！Cursor or CodexではじめるAI駆動PM（プロジェクトマネージメント）スターターKitも無料公開！｜MAKE A CHANGE, inc",
+    "link": "https://note.com/make_a_change/n/na2d8a9fd4ac1",
+    "pubDate": "2025-10-28T10:21:59.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ - Qiita",
     "link": "https://qiita.com/nolanlover0527/items/071277263f8851012e6b",
     "pubDate": "2025-10-28T09:52:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Swift SDK for Android プレビューを動かしてみる",
+    "link": "https://zenn.dev/koogawa/articles/163a72131498b6",
+    "pubDate": "Tue, 28 Oct 2025 08:58:07 GMT"
   },
   {
     "site": "Hatena",
@@ -13,27 +49,39 @@
   },
   {
     "site": "Hatena",
-    "title": "できれば知らずに済ませたかったAurora DSQL非互換集 - ArkEdge Space Blog",
-    "link": "https://blog.arkedge.space/entry/2025/10/28/164744",
-    "pubDate": "2025-10-28T07:57:32.000Z"
+    "title": "国家資格にも登場？　「データマネジメント」が、生成AI活用の成否を分かつ理由",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2510/28/news006.html",
+    "pubDate": "2025-10-28T07:41:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "車に乗ってたら同乗者が目視人力でQRコードを読みとり始め、答え合わせしたら正解しててドン引きした「人かどうかも怪しいな」",
-    "link": "https://togetter.com/li/2621269",
-    "pubDate": "2025-10-28T05:16:56.000Z"
+    "site": "Zenn",
+    "title": "Vue Fes Japan 2025に参加しました！",
+    "link": "https://zenn.dev/toreis_up/articles/6644f4a19d34a1",
+    "pubDate": "Tue, 28 Oct 2025 06:47:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 - RAKUS Developers Blog | ラクス エンジニアブログ",
-    "link": "https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming",
-    "pubDate": "2025-10-28T04:40:28.000Z"
+    "site": "Zenn",
+    "title": "【心理学】ダブルバインドが横行する殺伐とした開発現場は実在するので、メンバーは自己防衛の手段としての心理学を身に付けて冷静に対処したい",
+    "link": "https://zenn.dev/noranuko13/articles/98d2082ea65374",
+    "pubDate": "Tue, 28 Oct 2025 03:03:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "“イーロン・マスク版Wikipedia”初期版公開　特徴はAIファクトチェック　「すでにWikipediaより優秀」",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/28/news077.html",
-    "pubDate": "2025-10-28T03:33:57.000Z"
+    "site": "Zenn",
+    "title": "Snowflake特徴量ストアのベストプラクティス",
+    "link": "https://zenn.dev/takikomi/articles/cd6c0d26b76f89",
+    "pubDate": "Tue, 28 Oct 2025 03:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "技術ブログの書き方 - 好きな技術を紹介する",
+    "link": "https://zenn.dev/nttdata_tech/articles/764fa74bbbb3c3",
+    "pubDate": "2025-10-28T02:29:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ",
+    "link": "https://qiita.com/nolanlover0527/items/071277263f8851012e6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T02:09:42.000Z"
   },
   {
     "site": "Qiita",
@@ -42,28 +90,16 @@
     "pubDate": "2025-10-28T01:51:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "X、11月10日までの2要素認証（2FA）再登録をユーザーに要請　「Twitterドメイン廃止のため」",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/28/news067.html",
-    "pubDate": "2025-10-28T01:10:42.000Z"
+    "site": "Qiita",
+    "title": "設計書づくりをAIと共同作成して効率化した話",
+    "link": "https://qiita.com/hara-h/items/309fff92d034a89a8f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T01:34:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "トランプ大統領が乗ったビーストの後ろに居たこのアンテナまみれの車が目の前を通過した途端にイヤホンのBluetoothが強制切断されてスマホも圏外になった",
-    "link": "https://togetter.com/li/2621186",
-    "pubDate": "2025-10-28T00:45:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "国内初の円建てステーブルコイン「JPYC」発行開始　次世代の“通貨”目指す",
-    "link": "https://www.watch.impress.co.jp/docs/news/2058390.html",
-    "pubDate": "2025-10-28T00:01:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「格安すぎるミニPC」1万2800円で登場、16GBメモリと512GB SSD搭載で破格のWindows 11モデルに | Buzzap！",
-    "link": "https://buzzap.jp/news/20251027-hitabt-m30a-12800yen-low-price-mini-pc/",
-    "pubDate": "2025-10-27T23:23:17.000Z"
+    "site": "Zenn",
+    "title": "AgentCore Memory で AI エージェントの記憶をマネージドに管理するぞ",
+    "link": "https://zenn.dev/aws_japan/articles/dd0bf7fa9a3f12",
+    "pubDate": "Mon, 27 Oct 2025 23:49:44 GMT"
   },
   {
     "site": "Zenn",
@@ -84,12 +120,6 @@
     "pubDate": "Mon, 27 Oct 2025 15:48:18 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Vercel AI SDK 6 のアツい機能: needsApproval, ToolLoopAgent, prepareCalls",
-    "link": "https://zenn.dev/layerx/articles/5538adfc79b14e",
-    "pubDate": "Mon, 27 Oct 2025 13:45:41 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ソフトウェアエンジニアリングAIエージェントの変遷――「補完」から「自律」への4年間",
     "link": "https://qiita.com/hummer/items/06d5797e0c4ddcddfff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -97,33 +127,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Grafana Loki による AWS ログ監視基盤の構築",
-    "link": "https://zenn.dev/shunsei/articles/e3a2640a39ef40",
-    "pubDate": "Mon, 27 Oct 2025 12:04:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kaggle | Jigsawコンペ振り返りメモ",
-    "link": "https://zenn.dev/hasibirok0/articles/adb47c6df37ca6",
-    "pubDate": "Mon, 27 Oct 2025 11:12:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vue Fes Japan 2025 に参加しました！",
-    "link": "https://zenn.dev/sekibuuun/articles/d8f7dce7750940",
-    "pubDate": "Mon, 27 Oct 2025 10:58:43 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "個人的もっと知られてほしいNeovim/Vimプラグイン８選",
     "link": "https://zenn.dev/sirasagi62/articles/196e0f592a6177",
     "pubDate": "Mon, 27 Oct 2025 09:58:21 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Vue Fes Japan 2025 で初めてスポンサーブース運営やってみたレポ",
-    "link": "https://qiita.com/Yohei_Suda/items/fdcfad4a4712262d6f9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T06:59:49.000Z"
   },
   {
     "site": "Qiita",
@@ -138,22 +144,16 @@
     "pubDate": "Mon, 27 Oct 2025 05:47:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "技術ブログの書き方 - 好きな技術を紹介する",
-    "link": "https://zenn.dev/nttdata_tech/articles/764fa74bbbb3c3",
-    "pubDate": "Mon, 27 Oct 2025 04:12:38 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ゴルフコンペをAIで盛り上げてみた 〜OCI Data Scienceでつくる『AIベストスマイル賞』〜",
-    "link": "https://qiita.com/ykuma614/items/91d2a9f06d3afcbd9614?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T02:46:58.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」",
     "link": "https://qiita.com/nakaizumi_slj/items/f9f59a2db8fcd6a3d7cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-27T00:41:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "SESからメガベンチャーに転職して学んだことまとめ",
+    "link": "https://qiita.com/Toshi-Shumi/items/e71ee26d16f0b288981c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-27T00:40:53.000Z"
   },
   {
     "site": "Qiita",
@@ -174,9 +174,9 @@
     "pubDate": "2025-10-26T06:00:15.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "サイバーセキュリティ情報インプット集 2025年版",
-    "link": "https://qiita.com/secubot5/items/c49a412ecb1ff49c836a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-25T12:34:52.000Z"
+    "site": "Hatena",
+    "title": "RFC 9457 - Problem Details for HTTP APIs 日本語訳",
+    "link": "https://tex2e.github.io/rfc-translater/html/rfc9457.html",
+    "pubDate": "2023-11-17T06:45:35.000Z"
   }
 ]
