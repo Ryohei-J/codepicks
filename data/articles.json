@@ -6,6 +6,12 @@
     "pubDate": "2025-10-29T23:45:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Pandasで「野根（None）」という地名が欠損値（NaN）になってしまった話",
+    "link": "https://zenn.dev/mierune/articles/014c283ecd2be6",
+    "pubDate": "2025-10-29T23:15:08.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Microsoft公式の日替わりデスクトップ壁紙ツール「Bing Wallpaper」がさらに凶悪化／私が人柱になってみたが……これは邪悪と言われても仕方ない【やじうまの杜】",
     "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2058501.html",
@@ -16,6 +22,18 @@
     "title": "日本株3700社以上を分析。yfinance x「わが投資術」株式スクリーニングアプリを作った話（バイブコーディング）",
     "link": "https://zenn.dev/testkun08080/articles/python-yfinance-4c4331412bc50f",
     "pubDate": "2025-10-29T17:34:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【感謝】Vue Fes Japan 2025 登壇しました【初】",
+    "link": "https://zenn.dev/kosuke_naito/articles/making-vuefes2025-dx-ntr-pc",
+    "pubDate": "Wed, 29 Oct 2025 17:16:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "自分が大学1年生の時に欲しかった資料",
+    "link": "https://zenn.dev/ayarnte/articles/9a5ae9347fe387",
+    "pubDate": "Wed, 29 Oct 2025 14:52:02 GMT"
   },
   {
     "site": "Hatena",
@@ -31,18 +49,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Pythonソフトウェア財団が2億円超の政府助成金プログラム申請を取り下げ、「DEI」が原因か",
-    "link": "https://gigazine.net/news/20251029-python-software-foundation-us-goverment-grant-program/",
-    "pubDate": "2025-10-29T11:39:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアリングリーダーの実践的なプラクティスとは「エンジニアリングリーダー ―技術組織を育てるリーダーシップとセルフマネジメント」を読んだ - kakakakakku blog",
-    "link": "https://kakakakakku.hatenablog.com/entry/2025/10/29/192801",
-    "pubDate": "2025-10-29T11:01:56.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "AIに仕事奪われた",
     "link": "https://anond.hatelabo.jp/20251029191331",
     "pubDate": "2025-10-29T10:15:23.000Z"
@@ -54,10 +60,40 @@
     "pubDate": "2025-10-29T10:07:46.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Pandasで「野根（None）」という地名が欠損値（NaN）になってしまった話",
+    "link": "https://zenn.dev/mierune/articles/014c283ecd2be6",
+    "pubDate": "Wed, 29 Oct 2025 08:38:17 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "GoogleのAIツール「NotebookLM」の解説書を無料限定公開　10月31日まで",
+    "link": "https://edu.watch.impress.co.jp/docs/news/2058666.html",
+    "pubDate": "2025-10-29T08:34:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "入門 eBPF ①「Hello World」を通して、カーネルに耳をすませよう",
+    "link": "https://zenn.dev/nanocy/articles/befac3edb47118",
+    "pubDate": "Wed, 29 Oct 2025 08:27:15 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cloudflare Workers, D1, Hono, Next.jsを使ってちゃんと使えるアプリを作成する",
+    "link": "https://zenn.dev/fatricepaddyy/books/cf_sample_app",
+    "pubDate": "Wed, 29 Oct 2025 07:50:53 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "逆に聞くけど、「AIに奪われない仕事」って何だと思う？ (1/2)",
     "link": "https://ascii.jp/elem/000/004/337/4337370/",
     "pubDate": "2025-10-29T07:46:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RerankでRAGの検索精度はどう変わる？軽量日本語モデルで試してみた",
+    "link": "https://zenn.dev/serio/articles/c3690d2a6b382d",
+    "pubDate": "Wed, 29 Oct 2025 05:54:37 GMT"
   },
   {
     "site": "Qiita",
@@ -70,12 +106,6 @@
     "title": "AI エージェント時代のリスク対策 : 認証・認可をあらためて学ぶ",
     "link": "https://zenn.dev/aws_japan/articles/f1a0549c8e533a",
     "pubDate": "Wed, 29 Oct 2025 02:49:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vue Fes Japan 2025 出展レポート",
-    "link": "https://zenn.dev/finatext/articles/vuefesjapan2025",
-    "pubDate": "Wed, 29 Oct 2025 02:06:06 GMT"
   },
   {
     "site": "Zenn",
@@ -97,9 +127,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【Amazon Bedrock AgentCore/Strands Agents】AIエージェントで経理業務の課題を解決",
-    "link": "https://zenn.dev/grooves/articles/c49c627a1ad4be",
-    "pubDate": "Wed, 29 Oct 2025 00:12:14 GMT"
+    "title": "製造現場の隙間時間で、Next.jsダッシュボードを作った話",
+    "link": "https://zenn.dev/yamato_snow/articles/b0d625be6d0751",
+    "pubDate": "Tue, 28 Oct 2025 23:17:59 GMT"
   },
   {
     "site": "Qiita",
@@ -124,36 +154,6 @@
     "title": "Swift SDK for Android プレビューを動かしてみる",
     "link": "https://zenn.dev/koogawa/articles/163a72131498b6",
     "pubDate": "Tue, 28 Oct 2025 08:58:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vue SFC と AI 駆動開発の相性が良い理由",
-    "link": "https://zenn.dev/ytr0903/articles/2a3cc9dfba9945",
-    "pubDate": "Tue, 28 Oct 2025 08:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vue Fes Japan 2025に参加しました！",
-    "link": "https://zenn.dev/toreis_up/articles/6644f4a19d34a1",
-    "pubDate": "Tue, 28 Oct 2025 06:47:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "産休に入るエンジニアです。いろんな気づきと今の気持ち",
-    "link": "https://zenn.dev/moneyforward/articles/4cb965f1251ed0",
-    "pubDate": "Tue, 28 Oct 2025 06:27:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【心理学】ダブルバインドが横行する殺伐とした開発現場は実在するので、メンバーは自己防衛の手段としての心理学を身に付けて冷静に対処したい",
-    "link": "https://zenn.dev/noranuko13/articles/98d2082ea65374",
-    "pubDate": "Tue, 28 Oct 2025 03:03:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake特徴量ストアのベストプラクティス",
-    "link": "https://zenn.dev/takikomi/articles/cd6c0d26b76f89",
-    "pubDate": "Tue, 28 Oct 2025 03:00:01 GMT"
   },
   {
     "site": "Qiita",
