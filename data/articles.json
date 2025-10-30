@@ -1,15 +1,63 @@
 [
   {
+    "site": "Zenn",
+    "title": "Hono Conference 2025 ─ 主催としての軌跡",
+    "link": "https://zenn.dev/gemcook/articles/hono-conference-2025-organizer-report",
+    "pubDate": "Thu, 30 Oct 2025 07:40:50 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "同級生家族の長女が「家族用のDiscordとnotionを使って家族を仕切ってる」とプロマネみたいになってる話に娘の人生2周目を疑う人が続出",
+    "link": "https://togetter.com/li/2621984",
+    "pubDate": "2025-10-30T07:37:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AI迷子から卒業する方法】複数AIを並列利用して業務効率化してみよう",
+    "link": "https://qiita.com/gmo-co-kitaura/items/ea118fb7b3ceee583ac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-30T01:56:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "View TransitionライブラリSSGOIを使ってNext.jsでネイティブアプリのような画面遷移を再現してみる",
+    "link": "https://zenn.dev/chot/articles/b44f3cf6bda7e1",
+    "pubDate": "Thu, 30 Oct 2025 01:55:14 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Geminiで架空の町の地図(架空の航空写真)を出してみたけど、『日本の街』って言っても出されるのは「なんかこう、違うよね？」なんだよな",
+    "link": "https://togetter.com/li/2621867",
+    "pubDate": "2025-10-30T01:45:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "日刊IETF (2025-10-29)",
+    "link": "https://qiita.com/tetsuko_room/items/67dabbf630ab7ac8c445?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-30T00:28:26.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "35歳 健康診断オールAだったけど脳硬塞で障害が残ったよ",
     "link": "https://anond.hatelabo.jp/20251030084205",
     "pubDate": "2025-10-29T23:45:19.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "「タスク遅れに対しての手札をふやす」ことが、マネージャーの立ち回りとして大事だという話",
+    "link": "https://blog.tinect.jp/?p=90428",
+    "pubDate": "2025-10-29T23:33:03.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Pandasで「野根（None）」という地名が欠損値（NaN）になってしまった話",
     "link": "https://zenn.dev/mierune/articles/014c283ecd2be6",
     "pubDate": "2025-10-29T23:15:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Bedrock AgentCoreとAmplifyでAI SDK + Next.jsなAIエージェントをスタイリッシュにホストする方法",
+    "link": "https://qiita.com/moritalous/items/ea695f8a328585e1313b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-29T23:09:34.000Z"
   },
   {
     "site": "Hatena",
@@ -48,16 +96,16 @@
     "pubDate": "2025-10-29T14:31:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIに仕事奪われた",
-    "link": "https://anond.hatelabo.jp/20251029191331",
-    "pubDate": "2025-10-29T10:15:23.000Z"
+    "site": "Zenn",
+    "title": "GCP x TypeScript で作る非同期システム",
+    "link": "https://zenn.dev/stak22/articles/df9fea12cbb73e",
+    "pubDate": "Wed, 29 Oct 2025 12:46:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "“バーチャルセックス”は金を生む──仮想現実に息づくアバターポルノ経済圏の光と影",
-    "link": "https://premium.kai-you.net/article/949",
-    "pubDate": "2025-10-29T10:07:46.000Z"
+    "site": "Zenn",
+    "title": "Mastraを使ってAIエージェントを作ろう！ - 応用編 -",
+    "link": "https://zenn.dev/tokium_dev/articles/mastra-ai-agent-handson-advanced",
+    "pubDate": "Wed, 29 Oct 2025 09:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -73,33 +121,9 @@
   },
   {
     "site": "Zenn",
-    "title": "入門 eBPF ①「Hello World」を通して、カーネルに耳をすませよう",
-    "link": "https://zenn.dev/nanocy/articles/befac3edb47118",
-    "pubDate": "Wed, 29 Oct 2025 08:27:15 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Cloudflare Workers, D1, Hono, Next.jsを使ってちゃんと使えるアプリを作成する",
     "link": "https://zenn.dev/fatricepaddyy/books/cf_sample_app",
     "pubDate": "Wed, 29 Oct 2025 07:50:53 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "逆に聞くけど、「AIに奪われない仕事」って何だと思う？ (1/2)",
-    "link": "https://ascii.jp/elem/000/004/337/4337370/",
-    "pubDate": "2025-10-29T07:46:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "RerankでRAGの検索精度はどう変わる？軽量日本語モデルで試してみた",
-    "link": "https://zenn.dev/serio/articles/c3690d2a6b382d",
-    "pubDate": "Wed, 29 Oct 2025 05:54:37 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "とんとんぼ式、Devin活用術",
-    "link": "https://qiita.com/KaitoMuraoka/items/65b4c594c679f47bffd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T03:40:05.000Z"
   },
   {
     "site": "Zenn",
@@ -109,9 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Unityでのマスタデータ管理にMasterMemoryを導入する",
-    "link": "https://zenn.dev/takodevlog/articles/9a66226d3f7a72",
-    "pubDate": "Wed, 29 Oct 2025 01:13:35 GMT"
+    "title": "【Anthropic Tokyo Builder Summit レポート】効率的なエージェント構築のベストプラクティス",
+    "link": "https://zenn.dev/kmotohas/articles/a36c1e11b3f029",
+    "pubDate": "Wed, 29 Oct 2025 02:36:36 GMT"
   },
   {
     "site": "Qiita",
@@ -121,21 +145,15 @@
   },
   {
     "site": "Qiita",
-    "title": "AgentCore IdentityでAIエージェントに対する認証機能を実装する（EntraID × Atlassian Cloud）",
-    "link": "https://qiita.com/s3kzk/items/d6fb5fa77c008c9d47ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T00:18:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "製造現場の隙間時間で、Next.jsダッシュボードを作った話",
-    "link": "https://zenn.dev/yamato_snow/articles/b0d625be6d0751",
-    "pubDate": "Tue, 28 Oct 2025 23:17:59 GMT"
+    "title": "予測AIモデルのアルゴリズム選択",
+    "link": "https://qiita.com/obx_y_ueno/items/c94330865c4d4316877c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T23:49:30.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 Scanner#2 〜基本編②-nextLine-〜",
-    "link": "https://qiita.com/hitomin_poke/items/0d9dc4d60fa6ba840f01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T17:43:46.000Z"
+    "title": "アジェンダのないミーティングを減らす（可能性をちょっとだけ上げるかもしれない） Chrome 拡張を作りました",
+    "link": "https://qiita.com/shirakurak/items/3117bb0fb77c1a96b588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T21:19:42.000Z"
   },
   {
     "site": "Qiita",
@@ -150,33 +168,15 @@
     "pubDate": "2025-10-28T10:35:30.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Swift SDK for Android プレビューを動かしてみる",
-    "link": "https://zenn.dev/koogawa/articles/163a72131498b6",
-    "pubDate": "Tue, 28 Oct 2025 08:58:07 GMT"
+    "site": "Qiita",
+    "title": "世界を変えた 4 行のコード - 高速逆平方根",
+    "link": "https://qiita.com/Xudev/items/701906ebe12b4576e7d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-28T09:01:33.000Z"
   },
   {
     "site": "Qiita",
     "title": "VSCodeが重い！メモリ使用量を1/3にする設定まとめ",
     "link": "https://qiita.com/nolanlover0527/items/071277263f8851012e6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-28T02:09:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Java/Mavenビルドが1秒に！Docker Multi-stage Build＋BuildKitで98%短縮した話",
-    "link": "https://qiita.com/ntaka329/items/882e90d61671bdbd024f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-28T01:51:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」",
-    "link": "https://qiita.com/nakaizumi_slj/items/f9f59a2db8fcd6a3d7cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T00:41:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SESからメガベンチャーに転職して学んだことまとめ",
-    "link": "https://qiita.com/Toshi-Shumi/items/e71ee26d16f0b288981c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-27T00:40:53.000Z"
   }
 ]
