@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "いや分かる！！ AIファーストブクマカ、一時期ちょっといなくなってた感じ..",
+    "link": "https://anond.hatelabo.jp/20251101132620",
+    "pubDate": "2025-11-01T04:27:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アラン・ケイ氏に問いかけた質問と、氏からの回答（GUIとAI技術に関連して）｜usagimaru",
+    "link": "https://note.com/usagimaruma/n/n2a6eda685bd4",
+    "pubDate": "2025-10-31T23:46:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",
+    "link": "https://zenn.dev/sunagaku/articles/c5affee1871afb",
+    "pubDate": "Fri, 31 Oct 2025 23:29:15 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "戦えるAIエージェントの作り方",
+    "link": "https://speakerdeck.com/iwiwi/zhan-eruaiezientonozuo-rifang",
+    "pubDate": "2025-10-31T13:36:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "イスラエルはGoogleとAmazonがデータを他国当局に渡さないよう極秘の取り決めをしていた",
     "link": "https://gigazine.net/news/20251031-israel-google-amazon-secret-code-wink/",
     "pubDate": "2025-10-31T13:02:32.000Z"
@@ -10,6 +34,18 @@
     "title": "【速報】“当たらない天気予報”国が規制強化へ　無許可の海外企業など公表か（2025年10月31日掲載）｜日テレNEWS NNN",
     "link": "https://news.ntv.co.jp/category/society/0822df21e53046379f49b3bb0ce862bf",
     "pubDate": "2025-10-31T12:58:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "SRE は管理職に向いている",
+    "link": "https://speakerdeck.com/yoshiiryo1/sre-haguan-li-zhi-nixiang-iteiru",
+    "pubDate": "2025-10-31T12:36:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コードは書ける、でも\"AIを理解してない\"エンジニアが増えている現実😭",
+    "link": "https://zenn.dev/rakushaking/articles/bf54b07247c6ee",
+    "pubDate": "2025-10-31T11:04:02.000Z"
   },
   {
     "site": "Hatena",
@@ -25,9 +61,27 @@
   },
   {
     "site": "Zenn",
+    "title": "WebLLM（Wasm上で動くLLM）は何が凄い？3種のLLM実行環境を徹底比較〜ローカルブラウザ型、ローカルネイティブ型、クラウド型〜",
+    "link": "https://zenn.dev/srefin/articles/17ba278f402b5d",
+    "pubDate": "Fri, 31 Oct 2025 08:53:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "\"ホテルエンジニア\"として半年間やったことをまとめてみた",
+    "link": "https://zenn.dev/7garden/articles/da654bf0684c89",
+    "pubDate": "Fri, 31 Oct 2025 08:50:56 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Code on AWS パターン解説 - Amazon Bedrock / AWS Marketplace",
     "link": "https://zenn.dev/aws_japan/articles/04999e5689d460",
     "pubDate": "Fri, 31 Oct 2025 08:13:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "わたし Cursor に乗り換えます",
+    "link": "https://zenn.dev/mohupor03/articles/58a37e9b56066a",
+    "pubDate": "Fri, 31 Oct 2025 07:59:30 GMT"
   },
   {
     "site": "Zenn",
@@ -42,28 +96,16 @@
     "pubDate": "2025-10-31T06:13:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜPayPayは家計簿アプリと連携されないのか　日本の決済データを巡る“構造的な課題”",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/31/news087.html",
-    "pubDate": "2025-10-31T04:46:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Amazon 人材流出 ついに AWS をダウンさせる | ScanNetSecurity",
-    "link": "https://scan.netsecurity.ne.jp/article/2025/10/31/53937.html",
-    "pubDate": "2025-10-31T04:43:04.000Z"
+    "site": "Zenn",
+    "title": "Claude Code on the webを触ってみた",
+    "link": "https://zenn.dev/beagle/articles/bc6ef88dd68615",
+    "pubDate": "Fri, 31 Oct 2025 04:20:19 GMT"
   },
   {
     "site": "Hatena",
     "title": "｢YouTubeやショート動画ばかりを見ている｣子に届けたい　東大生がAI時代にあえてすすめる本5選",
     "link": "https://toyokeizai.net/articles/-/914940?display=b",
     "pubDate": "2025-10-31T04:05:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Adobe対抗「Affinity」が無料に　デザイン、写真編集、レイアウトツール統合「本当に無料です」",
-    "link": "https://www.itmedia.co.jp/news/articles/2510/31/news099.html",
-    "pubDate": "2025-10-31T03:43:34.000Z"
   },
   {
     "site": "Qiita",
@@ -76,12 +118,6 @@
     "title": "Qiita Advent Calendar 2025のアップデートの紹介",
     "link": "https://qiita.com/Qiita/items/6f8ca2d3ed513f316e66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-31T03:19:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAIがGPT-5ベースの脆弱性検知ツール「Aardvark」を発表、OpenAI社内ではすでに稼働中",
-    "link": "https://gigazine.net/news/20251031-openai-aardvark/",
-    "pubDate": "2025-10-31T03:15:49.000Z"
   },
   {
     "site": "Zenn",
@@ -97,12 +133,6 @@
   },
   {
     "site": "Zenn",
-    "title": "LLMによる文単位抽出を高速・安価に行う- fast-bunkaiの活用",
-    "link": "https://zenn.dev/gvatech_blog/articles/cbc9e663238b66",
-    "pubDate": "Fri, 31 Oct 2025 00:15:57 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "コードは書ける、でも\"AIを理解してない\"エンジニアが増えている現実😭",
     "link": "https://zenn.dev/rakushaking/articles/bf54b07247c6ee",
     "pubDate": "Fri, 31 Oct 2025 00:05:11 GMT"
@@ -114,40 +144,10 @@
     "pubDate": "Thu, 30 Oct 2025 23:35:26 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Neo4jで始めるGraphRAG入門",
-    "link": "https://zenn.dev/timelab/articles/23c0705465e0b4",
-    "pubDate": "Thu, 30 Oct 2025 23:07:36 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
     "link": "https://qiita.com/keitah/items/d41b0888cf7b8b01616d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-30T14:36:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "オープンソースの大規模3D都市モデル生成技術「Skyfall-GS」発表！　衛星写真とAIのみで建物の側面や地上レベルのディテールを補完し、リアルタイムで3Dモデルを生成",
-    "link": "https://cgworld.jp/flashnews/01-202510-Skyfall-GS.html",
-    "pubDate": "2025-10-30T10:13:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ベクトル検索の世界(沼)へようこそ！という題で、発表しました！",
-    "link": "https://zenn.dev/xaiondata/articles/cf99cae3a511f6",
-    "pubDate": "Thu, 30 Oct 2025 09:35:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MySQL (InnoDB) のロック範囲に気をつけよう",
-    "link": "https://zenn.dev/socialplus/articles/2e16da32f39a0c",
-    "pubDate": "Thu, 30 Oct 2025 09:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Hono Conference 2025 ─ 主催としての軌跡",
-    "link": "https://zenn.dev/gemcook/articles/hono-conference-2025-organizer-report",
-    "pubDate": "Thu, 30 Oct 2025 07:40:50 GMT"
   },
   {
     "site": "Qiita",
