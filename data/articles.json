@@ -1,5 +1,17 @@
 [
   {
+    "site": "Zenn",
+    "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
+    "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
+    "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "初めてのGo言語 第2版 - Magnolia Tech",
+    "link": "https://blog.magnolia.tech/entry/2025/11/01/174631",
+    "pubDate": "2025-11-01T23:39:26.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Bluesky、4000万人到達　荒らし対策で「dislike」（嫌い）ボタン実験へ",
     "link": "https://www.itmedia.co.jp/news/articles/2511/02/news018.html",
@@ -22,6 +34,12 @@
     "title": "実はGmailでは簡単にメールアドレスを増やせる、買い物やチケット予約などでメアドを使い分けて重要メールの見落としを防ぐことも可能",
     "link": "https://gigazine.net/news/20251101-gmail-alias/",
     "pubDate": "2025-11-01T12:27:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Actions における Nix バイナリキャッシュ 3 ツールの実測比較",
+    "link": "https://zenn.dev/trifolium/articles/1a2eeca4775e56",
+    "pubDate": "Sat, 01 Nov 2025 12:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -72,28 +90,22 @@
     "pubDate": "2025-11-01T05:31:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "言葉にしない限り、『なんか』は永遠に巨大な壁であり続ける - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/01/120027",
-    "pubDate": "2025-11-01T03:24:02.000Z"
+    "site": "Zenn",
+    "title": "Figma make の基本的な使い方と活用方法3選",
+    "link": "https://zenn.dev/sunagaku/articles/6ffe29e6f271bb",
+    "pubDate": "Sat, 01 Nov 2025 04:42:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Tailscale 2025 秋 大型アプデを全部まとめる！",
+    "link": "https://zenn.dev/ikumasudo/articles/ba99e95161b192",
+    "pubDate": "Sat, 01 Nov 2025 04:13:12 GMT"
   },
   {
     "site": "Qiita",
     "title": "ガバメントクラウド運用改善からSaaS製品開発へ",
     "link": "https://qiita.com/infra365/items/fd0645622d5b6f0ece00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-01T02:59:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gmailなど1億8300万件の認証情報流出、確認と対策を",
-    "link": "https://news.mynavi.jp/techplus/article/20251031-3608156/",
-    "pubDate": "2025-11-01T01:26:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本語入力に最適化したフリック配列を作った｜じーびす/ʐiːbɪs/",
-    "link": "https://note.com/jeebis_keyboard/n/n687c4aee3c6f",
-    "pubDate": "2025-10-31T23:57:19.000Z"
   },
   {
     "site": "Zenn",
@@ -108,34 +120,16 @@
     "pubDate": "2025-10-31T14:13:50.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "【朗報】待望の小型「片手スマホ」きたあああああああ！！！！！！！5.3型、幅63.4mmの「Mode1 Pocket」登場 - すまほん!!",
+    "link": "https://smhn.info/202510-mode1-pocket-spec",
+    "pubDate": "2025-10-31T11:28:40.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "\"ホテルエンジニア\"として半年間やったことをまとめてみた",
     "link": "https://zenn.dev/7garden/articles/da654bf0684c89",
     "pubDate": "Fri, 31 Oct 2025 08:50:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code on AWS パターン解説 - Amazon Bedrock / AWS Marketplace",
-    "link": "https://zenn.dev/aws_japan/articles/04999e5689d460",
-    "pubDate": "Fri, 31 Oct 2025 08:13:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "わたし Cursor に乗り換えます",
-    "link": "https://zenn.dev/mohupor03/articles/58a37e9b56066a",
-    "pubDate": "Fri, 31 Oct 2025 07:59:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話",
-    "link": "https://zenn.dev/misuken/articles/32807daad601d0",
-    "pubDate": "Fri, 31 Oct 2025 06:52:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code on the webを触ってみた",
-    "link": "https://zenn.dev/beagle/articles/bc6ef88dd68615",
-    "pubDate": "Fri, 31 Oct 2025 04:20:19 GMT"
   },
   {
     "site": "Qiita",
@@ -154,6 +148,12 @@
     "title": "【実例付き】Claude × Clineで数時間でWebアプリ開発！無料企画→自動実装の完全ガイド",
     "link": "https://qiita.com/tomota53/items/a79befc442689c3204d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-30T10:42:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DeepSeek-OCRを試す｜shi3z",
+    "link": "https://note.com/shi3zblog/n/n99bb0c642f1e",
+    "pubDate": "2025-10-30T10:22:14.000Z"
   },
   {
     "site": "Qiita",
