@@ -1,15 +1,33 @@
 [
   {
+    "site": "Hatena",
+    "title": "就職せずに自己資本でクラスメソッドを起業して21年掛けて年商950億円になった話",
+    "link": "https://speakerdeck.com/satoshi7/classmethod-20251018",
+    "pubDate": "2025-11-02T09:04:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "土地代で45億稼ぐ科学大、クラファンでトイレ改修する金沢大…国立大学「金策」の明暗｜楽待不動産投資新聞",
+    "link": "https://www.rakumachi.jp/news/column/385270",
+    "pubDate": "2025-11-02T08:47:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "もうワシITエンジニア生命終わったかもしれん。IT勉強会行きたいって思わないもん。息子とマリカーしたいし、休みの日は試験勉強じゃなくて遊びたいんだよな子供と→第二部が始まったんだ",
+    "link": "https://posfie.com/@kalofollow/p/dBakngb",
+    "pubDate": "2025-11-02T06:34:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ノア・スミス「AI がちょっぴり期待外れになるどうかにアメリカの未来はかかってるのかも」（2025年10月12日）｜経済学101",
+    "link": "https://note.com/econ101_/n/nb73c3aba3bee",
+    "pubDate": "2025-11-02T06:31:53.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
     "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
     "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "初めてのGo言語 第2版 - Magnolia Tech",
-    "link": "https://blog.magnolia.tech/entry/2025/11/01/174631",
-    "pubDate": "2025-11-01T23:39:26.000Z"
   },
   {
     "site": "Hatena",
@@ -24,16 +42,16 @@
     "pubDate": "2025-11-01T16:32:42.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
+    "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-01T13:59:29.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "カレントディレクトリとは何か  (Unix系OSの場合)",
     "link": "https://zenn.dev/qnighy/articles/c6653eaf49a21a",
     "pubDate": "Sat, 01 Nov 2025 13:08:39 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "実はGmailでは簡単にメールアドレスを増やせる、買い物やチケット予約などでメアドを使い分けて重要メールの見落としを防ぐことも可能",
-    "link": "https://gigazine.net/news/20251101-gmail-alias/",
-    "pubDate": "2025-11-01T12:27:16.000Z"
   },
   {
     "site": "Zenn",
@@ -46,12 +64,6 @@
     "title": "わたし Cursor に乗り換えます",
     "link": "https://zenn.dev/mohupor03/articles/58a37e9b56066a",
     "pubDate": "2025-11-01T11:48:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIがコードを書いてくれるなら、新米エンジニアは何をする？ / komekaigi2025",
-    "link": "https://speakerdeck.com/nkzn/komekaigi2025",
-    "pubDate": "2025-11-01T10:38:37.000Z"
   },
   {
     "site": "Hatena",
@@ -70,6 +82,12 @@
     "title": "「Slackの会話」を「Notionタスク」に変換するAIツールを作ってみた！",
     "link": "https://zenn.dev/neoai/articles/48ecdf48c51470",
     "pubDate": "Sat, 01 Nov 2025 08:39:26 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Q Developer CLIが教えてくれた`git clean -fdX`という神コマンド",
+    "link": "https://qiita.com/torifukukaiou/items/e7434f22041b0cbd7685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-01T08:17:13.000Z"
   },
   {
     "site": "Qiita",
@@ -102,16 +120,16 @@
     "pubDate": "Sat, 01 Nov 2025 04:13:12 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "ガバメントクラウド運用改善からSaaS製品開発へ",
-    "link": "https://qiita.com/infra365/items/fd0645622d5b6f0ece00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T02:59:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",
     "link": "https://zenn.dev/sunagaku/articles/c5affee1871afb",
     "pubDate": "Fri, 31 Oct 2025 23:29:15 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "便利なvimテクニック",
+    "link": "https://qiita.com/rmatttu/items/2c696c70b812f0c87caa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T14:47:53.000Z"
   },
   {
     "site": "Qiita",
@@ -124,6 +142,12 @@
     "title": "【朗報】待望の小型「片手スマホ」きたあああああああ！！！！！！！5.3型、幅63.4mmの「Mode1 Pocket」登場 - すまほん!!",
     "link": "https://smhn.info/202510-mode1-pocket-spec",
     "pubDate": "2025-10-31T11:28:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Macbookでも1日87円でお手軽にWindows環境を使う（2025年）",
+    "link": "https://qiita.com/t2murata/items/46405d5f616b032236ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T10:18:53.000Z"
   },
   {
     "site": "Zenn",
@@ -139,39 +163,15 @@
   },
   {
     "site": "Qiita",
+    "title": "新米エンジニアが知っておきたい『リーン・スタートアップ』実践ガイド",
+    "link": "https://qiita.com/GIFCat/items/47c68bf85d536703fbe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T00:31:00.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
     "link": "https://qiita.com/keitah/items/d41b0888cf7b8b01616d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-30T14:36:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【実例付き】Claude × Clineで数時間でWebアプリ開発！無料企画→自動実装の完全ガイド",
-    "link": "https://qiita.com/tomota53/items/a79befc442689c3204d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T10:42:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "DeepSeek-OCRを試す｜shi3z",
-    "link": "https://note.com/shi3zblog/n/n99bb0c642f1e",
-    "pubDate": "2025-10-30T10:22:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【レベル1】Power Automate × Office スクリプトで稼働入力表を自動作成する",
-    "link": "https://qiita.com/sonooh/items/2759f1cd8ca2afd8b668?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T00:35:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアを褒めるだけ(通勤中に見てください)",
-    "link": "https://qiita.com/mythree/items/1ea3aba59ecb61af3d12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T23:59:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Bedrock AgentCoreとAmplifyでAI SDK + Next.jsなAIエージェントをスタイリッシュにホストする方法",
-    "link": "https://qiita.com/moritalous/items/ea695f8a328585e1313b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-29T23:09:34.000Z"
   },
   {
     "site": "Hatena",
