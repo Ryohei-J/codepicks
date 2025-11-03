@@ -1,6 +1,24 @@
 [
   {
     "site": "Zenn",
+    "title": "「ED25519」が爆速な理由とその仕組み",
+    "link": "https://zenn.dev/reijilog/articles/33d3f6b2d1856e",
+    "pubDate": "2025-11-03T07:11:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "多分このままだと、1000年後、21世紀は歴史資料がない時代になる - orangestar2",
+    "link": "https://orangestar2.hatenadiary.com/entry/2025/11/03/111656",
+    "pubDate": "2025-11-03T06:00:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ブラウザストレージ比較：localStorage、Cookie、IndexedDBの選び方",
+    "link": "https://zenn.dev/crebo_tech/articles/article-0019-20251103",
+    "pubDate": "2025-11-03T03:41:16.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "VimConf 2025 small に運営として参加しました",
     "link": "https://zenn.dev/mattn/articles/4efa9e1c42613b",
     "pubDate": "Mon, 03 Nov 2025 02:25:23 GMT"
@@ -30,6 +48,18 @@
     "pubDate": "2025-11-02T13:32:31.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【Vue Fes Japan 2025】はじめて技術カンファレンスに参加してみた話",
+    "link": "https://qiita.com/otTATto/items/8be62553bbf96d10b10b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-02T13:07:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AtCoder】入水しました！！！！！！！！！！！！！！",
+    "link": "https://qiita.com/yesantikiss/items/be7544fb531e333de596?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-02T11:55:40.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "兄が大人向けグッズの店でバイトしてたとき、仕入れを任されていたが、カタログから「よくわかんねえなあ」と思うものだけ選んでたらバカほど売れ、社員にスカウトされた話",
     "link": "https://togetter.com/li/2623328",
@@ -48,16 +78,22 @@
     "pubDate": "Sun, 02 Nov 2025 11:09:11 GMT"
   },
   {
+    "site": "Qiita",
+    "title": " Docker以外のコンテナエンジン完全ガイド：初心者から実践まで",
+    "link": "https://qiita.com/keitah/items/fb7fc280e49f4408ca63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-02T11:01:45.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "ROG Xbox Ally X の NPU を使って SLM をローカル実行する",
     "link": "https://zenn.dev/microsoft/articles/3c5f6b8a2983a4",
     "pubDate": "Sun, 02 Nov 2025 11:01:25 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "就職せずに自己資本でクラスメソッドを起業して21年掛けて年商950億円になった話",
-    "link": "https://speakerdeck.com/satoshi7/classmethod-20251018",
-    "pubDate": "2025-11-02T09:04:18.000Z"
+    "site": "Qiita",
+    "title": "LangfuseでLLMアプリケーションのオブザーバビリティを爆上げしたい - プロンプト管理からトレーシング、評価まで",
+    "link": "https://qiita.com/keke21/items/211e70608ba0d09407ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-02T08:03:00.000Z"
   },
   {
     "site": "Qiita",
@@ -72,12 +108,6 @@
     "pubDate": "2025-11-02T07:32:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ノア・スミス「AI がちょっぴり期待外れになるかどうかにアメリカの未来はかかってるのかも」（2025年10月12日）｜経済学101",
-    "link": "https://note.com/econ101_/n/nb73c3aba3bee",
-    "pubDate": "2025-11-02T06:31:53.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
     "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
@@ -88,6 +118,12 @@
     "title": "AI加速時代のQAエンジニア：開発スピードと品質のバランス戦略",
     "link": "https://zenn.dev/pivotmedia/articles/ai-driven-development-qa-challenge",
     "pubDate": "Sun, 02 Nov 2025 01:01:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Gitサブモジュールで生成AIルールとチーム開発を両立する方法",
+    "link": "https://qiita.com/torifukukaiou/items/0cf3a6f513d8f92934c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-02T00:42:13.000Z"
   },
   {
     "site": "Hatena",
@@ -108,12 +144,6 @@
     "pubDate": "Sat, 01 Nov 2025 13:08:39 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "本番環境などでやらかしちゃった人 - Qiita Advent Calendar 2025 - Qiita",
-    "link": "https://qiita.com/advent-calendar/2025/yarakashi",
-    "pubDate": "2025-11-01T11:43:12.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code と Codex の使い",
     "link": "https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc",
@@ -124,12 +154,6 @@
     "title": "Claude Code on the Webの仕様を徹底解剖",
     "link": "https://zenn.dev/oikon/articles/claude-code-web-sandbox",
     "pubDate": "Sat, 01 Nov 2025 09:01:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon Q Developer CLIが教えてくれた`git clean -fdX`という神コマンド",
-    "link": "https://qiita.com/torifukukaiou/items/e7434f22041b0cbd7685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T08:17:13.000Z"
   },
   {
     "site": "Qiita",
@@ -151,32 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "【1on1】1on1って難しいからAIと壁打ちして分かってきたことまとめてみた",
-    "link": "https://qiita.com/genimura/items/a3299694801d19ad4877?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T14:41:55.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "IT業界、特にセキュリティ業界は「個人のスキル」よりも、どこに所属しているかで大きく変わる話",
     "link": "https://qiita.com/yamada_sec/items/6227a30eb584e10d6f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-31T14:13:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【隙間開発】Tauri × Svelteでエイリアスエディタを作ってみた！",
-    "link": "https://qiita.com/genimura/items/43dc28fe79c300638421?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T13:26:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Macbookでも1日87円でお手軽にWindows環境を使う（2025年）",
-    "link": "https://qiita.com/t2murata/items/46405d5f616b032236ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T10:18:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技10選",
-    "link": "https://qiita.com/TonitolCalsis/items/e71715c578c09c2ac960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T03:44:56.000Z"
   }
 ]
