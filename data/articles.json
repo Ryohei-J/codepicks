@@ -1,5 +1,17 @@
 [
   {
+    "site": "Zenn",
+    "title": "Ratatuiのチュートリアルをやる: その1",
+    "link": "https://zenn.dev/helloyuki/articles/e9f25dc546b280",
+    "pubDate": "Sun, 02 Nov 2025 14:10:12 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか - Qiita",
+    "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa",
+    "pubDate": "2025-11-02T13:32:31.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Google、誰でも学べるAI学習サイト「Google Skills」を正式公開──Cloud・DeepMind・教育部門を横断する3000講座を展開 | Ledge.ai",
     "link": "https://ledge.ai/articles/google_skills_ai_learning_platform_launch",
@@ -18,6 +30,18 @@
     "pubDate": "2025-11-02T08:47:16.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【個人開発】勉強に集中できる場所が見つからない問題を解決する地図アプリを個人開発した【React/Supabase】",
+    "link": "https://qiita.com/kazutorahattori/items/b79304ceafae157ba86c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-02T08:00:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "5つのAIツールが私の人生を変えた…収入は倍増、週に15時間の作業時間を節約 | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2510-ai-tools-doubled-income-save-me-fifteen-hours-each-week/",
+    "pubDate": "2025-11-02T07:32:47.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "もうワシITエンジニア生命終わったかもしれん。IT勉強会行きたいって思わないもん。息子とマリカーしたいし、休みの日は試験勉強じゃなくて遊びたいんだよな子供と→第二部が始まったんだ",
     "link": "https://posfie.com/@kalofollow/p/dBakngb",
@@ -28,6 +52,12 @@
     "title": "ノア・スミス「AI がちょっぴり期待外れになるどうかにアメリカの未来はかかってるのかも」（2025年10月12日）｜経済学101",
     "link": "https://note.com/econ101_/n/nb73c3aba3bee",
     "pubDate": "2025-11-02T06:31:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "使い捨てできるGPUクラウド Runpodを使おう！",
+    "link": "https://zenn.dev/nttdata_tech/articles/4b742038898d4e",
+    "pubDate": "Sun, 02 Nov 2025 03:34:30 GMT"
   },
   {
     "site": "Zenn",
@@ -48,12 +78,6 @@
     "pubDate": "2025-11-02T00:20:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Bluesky、4000万人到達　荒らし対策で「dislike」（嫌い）ボタン実験へ",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/02/news018.html",
-    "pubDate": "2025-11-01T23:32:18.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
     "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -66,16 +90,10 @@
     "pubDate": "Sat, 01 Nov 2025 13:08:39 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub Actions における Nix バイナリキャッシュ 3 ツールの実測比較",
-    "link": "https://zenn.dev/trifolium/articles/1a2eeca4775e56",
-    "pubDate": "Sat, 01 Nov 2025 12:00:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "欧州はMS Officeから脱却する: 極東ブログ",
-    "link": "https://finalvent.cocolog-nifty.com/fareastblog/2025/11/post-95d2d9.html",
-    "pubDate": "2025-11-01T09:10:08.000Z"
+    "site": "Qiita",
+    "title": "本番環境などでやらかしちゃった人 - Qiita Advent Calendar 2025 - Qiita",
+    "link": "https://qiita.com/advent-calendar/2025/yarakashi",
+    "pubDate": "2025-11-01T11:43:12.000Z"
   },
   {
     "site": "Zenn",
@@ -94,12 +112,6 @@
     "title": "Amazon Q Developer CLIが教えてくれた`git clean -fdX`という神コマンド",
     "link": "https://qiita.com/torifukukaiou/items/e7434f22041b0cbd7685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-01T08:17:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "React学習ログ No.15",
-    "link": "https://qiita.com/maedaHARUYA/items/ab46d60ca92d8ca82087?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T08:00:21.000Z"
   },
   {
     "site": "Zenn",
@@ -127,9 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【備忘録】AI駆動開発Conference Autumn 2days で 学びと気づきが得られすぎたので、共有したい...",
-    "link": "https://zenn.dev/sunagaku/articles/c5affee1871afb",
-    "pubDate": "Fri, 31 Oct 2025 23:29:15 GMT"
+    "title": "Cursor のアップデートで知った git worktree の便利さ - 並行開発が劇的に楽になった話",
+    "link": "https://zenn.dev/stellarcreate/articles/git-worktree-parallel-development-with-cursor",
+    "pubDate": "2025-10-31T23:02:33.000Z"
   },
   {
     "site": "Qiita",
@@ -139,15 +151,21 @@
   },
   {
     "site": "Qiita",
+    "title": "【1on1】1on1って難しいからAIと壁打ちして分かってきたことまとめてみた",
+    "link": "https://qiita.com/genimura/items/a3299694801d19ad4877?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T14:41:55.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "IT業界、特にセキュリティ業界は「個人のスキル」よりも、どこに所属しているかで大きく変わる話",
     "link": "https://qiita.com/yamada_sec/items/6227a30eb584e10d6f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-31T14:13:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【朗報】待望の小型「片手スマホ」きたあああああああ！！！！！！！5.3型、幅63.4mmの「Mode1 Pocket」登場 - すまほん!!",
-    "link": "https://smhn.info/202510-mode1-pocket-spec",
-    "pubDate": "2025-10-31T11:28:40.000Z"
+    "site": "Qiita",
+    "title": "【隙間開発】Tauri × Svelteでエイリアスエディタを作ってみた！",
+    "link": "https://qiita.com/genimura/items/43dc28fe79c300638421?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-10-31T13:26:38.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技10選",
     "link": "https://qiita.com/TonitolCalsis/items/e71715c578c09c2ac960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-10-31T03:44:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新米エンジニアが知っておきたい『リーン・スタートアップ』実践ガイド",
-    "link": "https://qiita.com/GIFCat/items/47c68bf85d536703fbe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-31T00:31:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "  TerraformとSAMで実現するモダンAWSアーキテクチャ 構築ガイドライン",
-    "link": "https://qiita.com/keitah/items/d41b0888cf7b8b01616d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-10-30T14:36:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "生成AIがe-govを「読めない」問題を検証してたら、最強の生成AIがわかった｜冬次郎_Tojiro ＠基本書シェアリサーチ",
-    "link": "https://note.com/tojiro/n/n9420d7d0d01a",
-    "pubDate": "2025-09-07T17:41:05.000Z"
   }
 ]
