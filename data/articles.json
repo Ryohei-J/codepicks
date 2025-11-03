@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "「Switch 2」“普通に売りたい”のに……販売ルール緩和できず　転売対策に追われる家電量販店の本音",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2511/03/news017.html",
+    "pubDate": "2025-11-03T09:30:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "おい、部屋を掃除しろ - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/03/020316",
+    "pubDate": "2025-11-03T08:01:49.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "「ED25519」が爆速な理由とその仕組み",
     "link": "https://zenn.dev/reijilog/articles/33d3f6b2d1856e",
@@ -16,6 +28,12 @@
     "title": "ブラウザストレージ比較：localStorage、Cookie、IndexedDBの選び方",
     "link": "https://zenn.dev/crebo_tech/articles/article-0019-20251103",
     "pubDate": "2025-11-03T03:41:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "新しいOutlookとOutlook Classic、そろそろ古いOutlookとExchangeの組み合わせは引退の頃合いか (1/2)",
+    "link": "https://ascii.jp/elem/000/004/346/4346155/",
+    "pubDate": "2025-11-03T03:10:01.000Z"
   },
   {
     "site": "Zenn",
@@ -37,15 +55,27 @@
   },
   {
     "site": "Zenn",
+    "title": "フロントエンドアーキテクチャ設計 〜Clean Architecture実践パターン〜",
+    "link": "https://zenn.dev/sakisakiika/articles/39f2164796c62b",
+    "pubDate": "Sun, 02 Nov 2025 15:53:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "VS Code → Cursor、1日目で受けた衝撃",
+    "link": "https://zenn.dev/mn329/articles/95a755391542c6",
+    "pubDate": "Sun, 02 Nov 2025 14:53:22 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Ratatuiのチュートリアルをやる: その1",
     "link": "https://zenn.dev/helloyuki/articles/e9f25dc546b280",
     "pubDate": "Sun, 02 Nov 2025 14:10:12 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか - Qiita",
-    "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa",
-    "pubDate": "2025-11-02T13:32:31.000Z"
+    "site": "Zenn",
+    "title": "【PMBOK準拠】実務で使える！Cursor or CodexではじめるAI駆動PM（プロジェクトマネージメント）スターターKitも無料公開",
+    "link": "https://zenn.dev/masa_oka108/articles/27705aa0f83294",
+    "pubDate": "Sun, 02 Nov 2025 14:02:28 GMT"
   },
   {
     "site": "Qiita",
@@ -54,16 +84,16 @@
     "pubDate": "2025-11-02T13:07:39.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ghaperf で GitHub Actions のパフォーマンス分析",
+    "link": "https://zenn.dev/shunsuke_suzuki/articles/ghaperf-github-actions-performance-analysis",
+    "pubDate": "Sun, 02 Nov 2025 12:38:21 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【AtCoder】入水しました！！！！！！！！！！！！！！",
     "link": "https://qiita.com/yesantikiss/items/be7544fb531e333de596?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-02T11:55:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "兄が大人向けグッズの店でバイトしてたとき、仕入れを任されていたが、カタログから「よくわかんねえなあ」と思うものだけ選んでたらバカほど売れ、社員にスカウトされた話",
-    "link": "https://togetter.com/li/2623328",
-    "pubDate": "2025-11-02T11:46:16.000Z"
   },
   {
     "site": "Hatena",
@@ -82,12 +112,6 @@
     "title": " Docker以外のコンテナエンジン完全ガイド：初心者から実践まで",
     "link": "https://qiita.com/keitah/items/fb7fc280e49f4408ca63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-02T11:01:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ROG Xbox Ally X の NPU を使って SLM をローカル実行する",
-    "link": "https://zenn.dev/microsoft/articles/3c5f6b8a2983a4",
-    "pubDate": "Sun, 02 Nov 2025 11:01:25 GMT"
   },
   {
     "site": "Qiita",
@@ -109,15 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
-    "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
-    "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT"
+    "title": "使い捨てできるGPUクラウド Runpodを使おう！",
+    "link": "https://zenn.dev/nttdata_tech/articles/4b742038898d4e",
+    "pubDate": "Sun, 02 Nov 2025 03:34:30 GMT"
   },
   {
     "site": "Zenn",
-    "title": "AI加速時代のQAエンジニア：開発スピードと品質のバランス戦略",
-    "link": "https://zenn.dev/pivotmedia/articles/ai-driven-development-qa-challenge",
-    "pubDate": "Sun, 02 Nov 2025 01:01:08 GMT"
+    "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
+    "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
+    "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT"
   },
   {
     "site": "Qiita",
@@ -126,34 +150,10 @@
     "pubDate": "2025-11-02T00:42:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント",
-    "link": "https://speakerdeck.com/phaya72/she-ji-nishu-ienziniademoshi-meyasuiakitekutiyadokiyumento",
-    "pubDate": "2025-11-02T00:20:53.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
     "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-01T13:59:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "カレントディレクトリとは何か  (Unix系OSの場合)",
-    "link": "https://zenn.dev/qnighy/articles/c6653eaf49a21a",
-    "pubDate": "Sat, 01 Nov 2025 13:08:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code と Codex の使い",
-    "link": "https://zenn.dev/hy20191108/articles/d88bc7f5ccb0cc",
-    "pubDate": "Sat, 01 Nov 2025 10:25:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code on the Webの仕様を徹底解剖",
-    "link": "https://zenn.dev/oikon/articles/claude-code-web-sandbox",
-    "pubDate": "Sat, 01 Nov 2025 09:01:01 GMT"
   },
   {
     "site": "Qiita",
