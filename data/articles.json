@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "10月の増田のブクマ数、トップ5は俺が作ったAI記事という事実",
+    "link": "https://anond.hatelabo.jp/20251104122119",
+    "pubDate": "2025-11-04T03:26:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIによる大量投稿による文章投稿サイトの環境破壊について（増田、カクヨム） - orangestar2",
+    "link": "https://orangestar2.hatenadiary.com/entry/2025/11/04/111727",
+    "pubDate": "2025-11-04T02:30:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "リニア工事で水位低下、打つ手なし　代替水源確保するも湧水対策は断念",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00250/102700001/",
     "pubDate": "2025-11-03T23:04:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeでトークン使用量とGitブランチをリアルタイム表示する方法(解説あり)",
+    "link": "https://zenn.dev/little_hand_s/articles/dbd5fc27f5a2f0",
+    "pubDate": "Mon, 03 Nov 2025 22:53:38 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "いい幹事さん - ラクラク日程調整ツール",
+    "link": "https://e-kanji-san.com/",
+    "pubDate": "2025-11-03T17:45:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "システム構成図・シーケンス図、結局どれ使う？人気ツールとエンジニアのリアルな使い分け徹底解説",
+    "link": "https://zenn.dev/akari1106/articles/a9e8be49256ca3",
+    "pubDate": "Mon, 03 Nov 2025 16:53:36 GMT"
   },
   {
     "site": "Zenn",
@@ -55,24 +85,6 @@
   },
   {
     "site": "Zenn",
-    "title": "「ED25519」が爆速な理由とその仕組み",
-    "link": "https://zenn.dev/reijilog/articles/33d3f6b2d1856e",
-    "pubDate": "2025-11-03T07:11:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "多分このままだと、1000年後、21世紀は歴史資料がない時代になる - orangestar2",
-    "link": "https://orangestar2.hatenadiary.com/entry/2025/11/03/111656",
-    "pubDate": "2025-11-03T06:00:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ブラウザストレージ比較：localStorage、Cookie、IndexedDBの選び方",
-    "link": "https://zenn.dev/crebo_tech/articles/article-0019-20251103",
-    "pubDate": "2025-11-03T03:41:16.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "VimConf 2025 small に運営として参加しました",
     "link": "https://zenn.dev/mattn/articles/4efa9e1c42613b",
     "pubDate": "Mon, 03 Nov 2025 02:25:23 GMT"
@@ -115,6 +127,12 @@
   },
   {
     "site": "Zenn",
+    "title": "お手軽デプロイ！Hono + Amplify Gen2で軽量フルスタック環境を構築",
+    "link": "https://zenn.dev/sonicmoov/articles/96487960807d8c",
+    "pubDate": "Sun, 02 Nov 2025 14:46:08 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Ratatuiのチュートリアルをやる: その1",
     "link": "https://zenn.dev/helloyuki/articles/e9f25dc546b280",
     "pubDate": "Sun, 02 Nov 2025 14:10:12 GMT"
@@ -132,28 +150,10 @@
     "pubDate": "2025-11-02T11:01:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "DGX Spark上でDeepSeek-OCRをコマンド一発で動くようにしてみた",
-    "link": "https://zenn.dev/karaage0703/articles/bdb75652eebc54",
-    "pubDate": "Sun, 02 Nov 2025 08:38:29 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【個人開発】勉強に集中できる場所が見つからない問題を解決する地図アプリを個人開発した【React/Supabase】",
     "link": "https://qiita.com/kazutorahattori/items/b79304ceafae157ba86c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-02T08:00:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "使い捨てできるGPUクラウド Runpodを使おう！",
-    "link": "https://zenn.dev/nttdata_tech/articles/4b742038898d4e",
-    "pubDate": "Sun, 02 Nov 2025 03:34:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈",
-    "link": "https://zenn.dev/uhyo/articles/state-update-while-rendering",
-    "pubDate": "Sun, 02 Nov 2025 01:54:16 GMT"
   },
   {
     "site": "Qiita",
