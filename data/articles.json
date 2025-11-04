@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "本社に不正ログイン、個人情報流出か　外部から「Slack」に - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUD28CC40Y5A021C2000000/",
+    "pubDate": "2025-11-04T10:28:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【小ネタ】Azure Functionsから“長期鍵なし”でAWSを操作する ~ OIDC＋AssumeRoleWithWebIdentityでS3を触ってみた~",
+    "link": "https://qiita.com/YutoSekine/items/cbe78c96c18c289ab7a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T05:11:21.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "10月の増田のブクマ数、トップ5は俺が作ったAI記事という事実",
     "link": "https://anond.hatelabo.jp/20251104122119",
     "pubDate": "2025-11-04T03:26:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ドキュメント検索MCPサーバを作ってみた【MCP+OpenSearch+AWS】",
+    "link": "https://zenn.dev/levtech/articles/a5a3204ffed86c",
+    "pubDate": "Tue, 04 Nov 2025 03:07:01 GMT"
   },
   {
     "site": "Hatena",
@@ -12,16 +30,40 @@
     "pubDate": "2025-11-04T02:30:40.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "OpenAI AgentKitでサクッとAIエージェント作ってみた",
+    "link": "https://qiita.com/morimune/items/3d07e4e0062598093b3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T01:29:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】知識編 Scanner#3 〜数字入力：安全に文字→数値へ〜",
+    "link": "https://qiita.com/hitomin_poke/items/26eff0158bc24946e93c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-03T23:50:59.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "リニア工事で水位低下、打つ手なし　代替水源確保するも湧水対策は断念",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00250/102700001/",
     "pubDate": "2025-11-03T23:04:08.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "書いてあるとおりに読めていますか？　伝えたいことだけ書けていますか？",
+    "link": "https://blog.tinect.jp/?p=90445",
+    "pubDate": "2025-11-03T23:01:20.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeでトークン使用量とGitブランチをリアルタイム表示する方法(解説あり)",
     "link": "https://zenn.dev/little_hand_s/articles/dbd5fc27f5a2f0",
     "pubDate": "Mon, 03 Nov 2025 22:53:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Apple Silicon Macで始めるLinuxデスクトップ生活 with NixOS, Hyprland",
+    "link": "https://zenn.dev/ymat19/articles/af4e418e49b075",
+    "pubDate": "Mon, 03 Nov 2025 21:50:09 GMT"
   },
   {
     "site": "Hatena",
@@ -48,28 +90,22 @@
     "pubDate": "2025-11-03T15:24:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アニメの絵は動かすと意味が発生するので意味がなければ動かしてはいけないんだけど、AIのアニメは意味もなく動いており見るのが苦痛",
-    "link": "https://togetter.com/li/2623782",
-    "pubDate": "2025-11-03T14:30:19.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "自称調整さんを超える日程調整アプリをAIと作ってみたけど、巨大すぎる◯◯の壁が超えられない",
     "link": "https://zenn.dev/yasaidev/articles/2cb87a5a2d072e",
     "pubDate": "2025-11-03T12:50:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Switch 2」“普通に売りたい”のに……販売ルール緩和できず　転売対策に追われる家電量販店の本音",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2511/03/news017.html",
-    "pubDate": "2025-11-03T09:30:01.000Z"
+    "site": "Zenn",
+    "title": "AIを賢く動かすのは「指示力」ではなく「文脈設計力」",
+    "link": "https://zenn.dev/aun_phonogram/articles/44d298f8d9d0fd",
+    "pubDate": "Mon, 03 Nov 2025 10:44:29 GMT"
   },
   {
     "site": "Qiita",
-    "title": "ガバクラ共同利用方式のように直接操作できないアカウントの EC2 を閉域 API Geteway 経由でオンプレミスから起動停止できるようにする",
-    "link": "https://qiita.com/takeda_h/items/ef6e74da773769519573?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-03T08:31:26.000Z"
+    "title": "【CSS】フォントサイズを横幅ぴったりに合わせるfit-widthの提案",
+    "link": "https://qiita.com/rana_kualu/items/bbdffd6ec5e8d596812e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-03T10:16:25.000Z"
   },
   {
     "site": "Hatena",
@@ -84,22 +120,16 @@
     "pubDate": "Mon, 03 Nov 2025 07:29:56 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "copilot-instructions.mdだけじゃない！GitHub Copilotのカスタム指示まとめ",
+    "link": "https://qiita.com/yuzora_yu/items/83404fd51ba1faeeeca0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-03T05:34:42.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "VimConf 2025 small に運営として参加しました",
     "link": "https://zenn.dev/mattn/articles/4efa9e1c42613b",
     "pubDate": "Mon, 03 Nov 2025 02:25:23 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「猫でもわかるAmazon Q Developer CLI 解体新書」爆誕！",
-    "link": "https://qiita.com/kamogashira/items/ec2ed9b39052d55d4f13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-03T01:00:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS障害対応の事後報告書を自動生成！CloudWatch Incident Reportsを実際に使ってみた",
-    "link": "https://qiita.com/sh_fk2/items/14e5595e40fc3024c805?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-02T22:37:39.000Z"
   },
   {
     "site": "Zenn",
@@ -118,24 +148,6 @@
     "title": "ブラウザストレージ比較：localStorage、Cookie、IndexedDBの選び方",
     "link": "https://zenn.dev/crebo_tech/articles/article-0019-20251103",
     "pubDate": "Sun, 02 Nov 2025 15:02:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "VS Code → Cursor、1日目で受けた衝撃",
-    "link": "https://zenn.dev/mn329/articles/95a755391542c6",
-    "pubDate": "Sun, 02 Nov 2025 14:53:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "お手軽デプロイ！Hono + Amplify Gen2で軽量フルスタック環境を構築",
-    "link": "https://zenn.dev/sonicmoov/articles/96487960807d8c",
-    "pubDate": "Sun, 02 Nov 2025 14:46:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Ratatuiのチュートリアルをやる: その1",
-    "link": "https://zenn.dev/helloyuki/articles/e9f25dc546b280",
-    "pubDate": "Sun, 02 Nov 2025 14:10:12 GMT"
   },
   {
     "site": "Qiita",
@@ -157,21 +169,9 @@
   },
   {
     "site": "Qiita",
-    "title": "nanochatを全て解説する",
-    "link": "https://qiita.com/Shin_unity3dcg/items/2da1c76d0f733678b1d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T15:54:02.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
     "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-01T13:59:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JAWS FESTA 2025 in 金沢  参加レポート",
-    "link": "https://qiita.com/yakumo_09/items/94848ed1297be3d20e5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T05:31:48.000Z"
   },
   {
     "site": "Hatena",
