@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "日本経済新聞社、社内チャット「Slack」に不正ログイン　社員の個人PCのウイルス感染が原因",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/04/news122.html",
+    "pubDate": "2025-11-04T10:41:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "本社に不正ログイン、個人情報流出か　外部から「Slack」に - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUD28CC40Y5A021C2000000/",
     "pubDate": "2025-11-04T10:28:38.000Z"
@@ -13,9 +19,21 @@
   },
   {
     "site": "Hatena",
+    "title": "Next.js でよくある一覧 + 詳細画面を作る - Object.create(null)",
+    "link": "https://susisu.hatenablog.com/entry/2025/11/04/123400",
+    "pubDate": "2025-11-04T05:03:55.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "10月の増田のブクマ数、トップ5は俺が作ったAI記事という事実",
     "link": "https://anond.hatelabo.jp/20251104122119",
     "pubDate": "2025-11-04T03:26:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS の新卒社員が考えた寿司配送システムのアーテクチャを、ベテラン社員にレビューしてもらってみた",
+    "link": "https://aws.amazon.com/jp/builders-flash/202511/review-sushi-delivery-system-architecture/",
+    "pubDate": "2025-11-04T03:13:58.000Z"
   },
   {
     "site": "Zenn",
@@ -61,15 +79,15 @@
   },
   {
     "site": "Zenn",
+    "title": "システム構成図・シーケンス図、結局どれ使う？人気ツールとエンジニアのリアルな使い分け徹底解説",
+    "link": "https://zenn.dev/akari1106/articles/a9e8be49256ca3",
+    "pubDate": "2025-11-03T22:23:21.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "Apple Silicon Macで始めるLinuxデスクトップ生活 with NixOS, Hyprland",
     "link": "https://zenn.dev/ymat19/articles/af4e418e49b075",
     "pubDate": "Mon, 03 Nov 2025 21:50:09 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "いい幹事さん - ラクラク日程調整ツール",
-    "link": "https://e-kanji-san.com/",
-    "pubDate": "2025-11-03T17:45:42.000Z"
   },
   {
     "site": "Zenn",
@@ -78,22 +96,10 @@
     "pubDate": "Mon, 03 Nov 2025 16:53:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "MySQL (InnoDB) のロック範囲に気をつけよう",
-    "link": "https://zenn.dev/socialplus/articles/2e16da32f39a0c",
-    "pubDate": "2025-11-03T16:17:35.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【DDD】そのValueObjectまじで意味ないっす",
     "link": "https://qiita.com/umekikazuya/items/e8567659dc06b07cc9cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-03T15:24:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "自称調整さんを超える日程調整アプリをAIと作ってみたけど、巨大すぎる◯◯の壁が超えられない",
-    "link": "https://zenn.dev/yasaidev/articles/2cb87a5a2d072e",
-    "pubDate": "2025-11-03T12:50:29.000Z"
   },
   {
     "site": "Zenn",
@@ -106,12 +112,6 @@
     "title": "【CSS】フォントサイズを横幅ぴったりに合わせるfit-widthの提案",
     "link": "https://qiita.com/rana_kualu/items/bbdffd6ec5e8d596812e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-03T10:16:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "おい、部屋を掃除しろ - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/03/020316",
-    "pubDate": "2025-11-03T08:01:49.000Z"
   },
   {
     "site": "Zenn",
