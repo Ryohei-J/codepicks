@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "日本経済新聞社、社内チャット「Slack」に不正ログイン　社員の個人PCのウイルス感染が原因",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/04/news122.html",
-    "pubDate": "2025-11-04T10:41:06.000Z"
+    "title": "Microsoft OneDriveを完全無効化すべき3つの理由と「うっかり同期」の対処法",
+    "link": "https://sumaholife-plus.jp/pc_it/46498/",
+    "pubDate": "2025-11-04T15:15:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アップル「AirPods」、日本語のライブ翻訳に対応",
+    "link": "https://www.watch.impress.co.jp/docs/news/2060469.html",
+    "pubDate": "2025-11-04T13:42:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【初心者向け】14年ぶり全面改訂！CSIRTスタータキット v3.0 徹底解説",
+    "link": "https://zenn.dev/moneymog/articles/a5b70b5f73ee65",
+    "pubDate": "Tue, 04 Nov 2025 11:52:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "遂にLangChain v1.0リリース！ 新機能と移行のポイントをコード付きで分かりやすく解説！",
+    "link": "https://zenn.dev/nttdata_tech/articles/2ea5821c65fc06",
+    "pubDate": "Tue, 04 Nov 2025 10:29:34 GMT"
   },
   {
     "site": "Hatena",
@@ -12,22 +30,22 @@
     "pubDate": "2025-11-04T10:28:38.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Web 標準動向 2025年10月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510",
+    "pubDate": "Tue, 04 Nov 2025 07:41:17 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIが「働きたくても働けない人」と「働かなくてもいい人」を生成し始めた 多くの人が仕事を失う一方、AIを駆使して一人で数億円稼ぐ人も登場 | JBpress (ジェイビープレス)",
+    "link": "https://jbpress.ismedia.jp/articles/-/91476",
+    "pubDate": "2025-11-04T05:29:04.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【小ネタ】Azure Functionsから“長期鍵なし”でAWSを操作する ~ OIDC＋AssumeRoleWithWebIdentityでS3を触ってみた~",
     "link": "https://qiita.com/YutoSekine/items/cbe78c96c18c289ab7a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-04T05:11:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Next.js でよくある一覧 + 詳細画面を作る - Object.create(null)",
-    "link": "https://susisu.hatenablog.com/entry/2025/11/04/123400",
-    "pubDate": "2025-11-04T05:03:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "10月の増田のブクマ数、トップ5は俺が作ったAI記事という事実",
-    "link": "https://anond.hatelabo.jp/20251104122119",
-    "pubDate": "2025-11-04T03:26:05.000Z"
   },
   {
     "site": "Hatena",
@@ -43,9 +61,15 @@
   },
   {
     "site": "Hatena",
-    "title": "AIによる大量投稿による文章投稿サイトの環境破壊について（増田、カクヨム） - orangestar2",
-    "link": "https://orangestar2.hatenadiary.com/entry/2025/11/04/111727",
-    "pubDate": "2025-11-04T02:30:40.000Z"
+    "title": "エンジニアの時間外勉強について、徳丸さんの考えをお伺いさせてください。 新卒で大手のsierに入社したのですが、経営層や組織の上の人たちが語る時間外の勉強や外部セミナーの参加の推奨に違和感を感じてしまいます。 ですがこの手の話をすると「エンジニアである以上は生涯学習すべきだけど、プライベートに勉強を強制させるの（無償の時間外労働）はダメだよね」という一般論を返されます。 正味、仕事をこなしていくという観点から言えばプライベートの勉強を一切やらなくても何とかなってます。選択肢という面でスキルアップも大事だと",
+    "link": "https://mond.how/ja/topics/1uhj9najb4uv9oe/m06nva4oyh3le20",
+    "pubDate": "2025-11-04T02:04:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GASを使うと社内だけで使えるWebサイトが簡単に作れるの知ってました？",
+    "link": "https://zenn.dev/sui_water/articles/502a6ef30b79e1",
+    "pubDate": "2025-11-04T01:51:30.000Z"
   },
   {
     "site": "Qiita",
@@ -55,15 +79,33 @@
   },
   {
     "site": "Qiita",
+    "title": "GAS × Supabase × Next.js × Qiita API で構築する業務ナレッジ可視化ツール",
+    "link": "https://qiita.com/ota-tsutomu/items/e00599edde8ab1721e6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-04T01:02:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アクセンチュアは本当に「ITに強いコンサルティング会社」なのか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/103001880/",
+    "pubDate": "2025-11-04T00:48:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「Deep Research」の「がっかり体験」を減らす手法",
+    "link": "https://zenn.dev/knowledgesense/articles/3bd20780949e58",
+    "pubDate": "Tue, 04 Nov 2025 00:00:01 GMT"
+  },
+  {
+    "site": "Qiita",
     "title": "【ポケモン×Java】知識編 Scanner#3 〜数字入力：安全に文字→数値へ〜",
     "link": "https://qiita.com/hitomin_poke/items/26eff0158bc24946e93c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-03T23:50:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "リニア工事で水位低下、打つ手なし　代替水源確保するも湧水対策は断念",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00250/102700001/",
-    "pubDate": "2025-11-03T23:04:08.000Z"
+    "site": "Zenn",
+    "title": "設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント & KomeKaigi 2025 感想",
+    "link": "https://zenn.dev/t_hayashi/articles/c8559c76fb80ed",
+    "pubDate": "Mon, 03 Nov 2025 23:29:21 GMT"
   },
   {
     "site": "Hatena",
@@ -103,9 +145,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AIを賢く動かすのは「指示力」ではなく「文脈設計力」",
-    "link": "https://zenn.dev/aun_phonogram/articles/44d298f8d9d0fd",
-    "pubDate": "Mon, 03 Nov 2025 10:44:29 GMT"
+    "title": "GASを使うと社内だけで使えるWebサイトが簡単に作れるの知ってました？",
+    "link": "https://zenn.dev/sui_water/articles/502a6ef30b79e1",
+    "pubDate": "Mon, 03 Nov 2025 10:41:01 GMT"
   },
   {
     "site": "Qiita",
@@ -114,40 +156,10 @@
     "pubDate": "2025-11-03T10:16:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub Universe2025 全アップデート&Keynoteまとめ",
-    "link": "https://zenn.dev/yuriemori/articles/f11617d5ac74ca",
-    "pubDate": "Mon, 03 Nov 2025 07:29:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "copilot-instructions.mdだけじゃない！GitHub Copilotのカスタム指示まとめ",
     "link": "https://qiita.com/yuzora_yu/items/83404fd51ba1faeeeca0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-03T05:34:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "VimConf 2025 small に運営として参加しました",
-    "link": "https://zenn.dev/mattn/articles/4efa9e1c42613b",
-    "pubDate": "Mon, 03 Nov 2025 02:25:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI駆動開発実践者によるリアルな機能開発プロセスを丁寧に解説してみた",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude-code-real-dev",
-    "pubDate": "Sun, 02 Nov 2025 16:21:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドアーキテクチャ設計 〜Clean Architecture実践パターン〜",
-    "link": "https://zenn.dev/sakisakiika/articles/39f2164796c62b",
-    "pubDate": "Sun, 02 Nov 2025 15:53:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ブラウザストレージ比較：localStorage、Cookie、IndexedDBの選び方",
-    "link": "https://zenn.dev/crebo_tech/articles/article-0019-20251103",
-    "pubDate": "Sun, 02 Nov 2025 15:02:59 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【個人開発】勉強に集中できる場所が見つからない問題を解決する地図アプリを個人開発した【React/Supabase】",
     "link": "https://qiita.com/kazutorahattori/items/b79304ceafae157ba86c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-02T08:00:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "OSS監視ツール徹底比較【2025年版】：あなたの環境に最適な選択はどれか",
-    "link": "https://qiita.com/keitah/items/70e6b63e4c504b4796fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-01T13:59:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "プログラマーのための圏論",
-    "link": "https://ktgw0316.github.io/milewski-ctfp-markdown/",
-    "pubDate": "2023-02-06T02:37:04.000Z"
   }
 ]
