@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "機械翻訳が「人手の作業を大量破壊」　Mozilla日本語コミュニティが解散宣言　人力訳を上書き",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/07/news096.html",
+    "pubDate": "2025-11-07T07:57:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "絵画を、絵画らしく飾る。電子ペーパー採用の最大31.5型アートフレーム",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2061431.html",
+    "pubDate": "2025-11-07T04:22:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Webアプリのセッション管理、結局どれ使えばいいの？",
+    "link": "https://qiita.com/hara-h/items/46b09e83a68c1f15a0db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T02:44:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「生成AIに仕事を奪われるのでは？」「勝手に学習に使われていない？」―カメラマンの不安に、Adobe Fireflyはどう応えているのか - はてなニュース",
+    "link": "https://hatenanews.com/articles/2025/11/07/103000",
+    "pubDate": "2025-11-07T02:00:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【続】8割自動化で終わらせたくなかった新人、OCR×Geminiで“なが〜いレシート”の誤読率3%を達成！",
+    "link": "https://qiita.com/ishikawa_slj/items/d24b88966fbad0174162?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T00:42:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【特集】 「iPhone Air」はなぜ人気がないのか？販売不振を招いた3つの理由",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2061265.html",
     "pubDate": "2025-11-07T00:05:26.000Z"
@@ -16,6 +46,12 @@
     "title": "【買い物山脈】 Google製ドアベルを取り付けたら、宅配待ちでも気兼ねなくトイレに行けるようになった",
     "link": "https://pc.watch.impress.co.jp/docs/column/kaimono/2060871.html",
     "pubDate": "2025-11-06T22:01:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI×BI　IBM watsonx BIを触ってみよう！",
+    "link": "https://qiita.com/YokeSin/items/7839b58710803009cd48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T18:58:00.000Z"
   },
   {
     "site": "Hatena",
@@ -43,21 +79,15 @@
   },
   {
     "site": "Zenn",
-    "title": "フロントエンドとサーバーでのバリデーション責務分解",
-    "link": "https://zenn.dev/ryugen04/articles/20251104-frontend-validation",
-    "pubDate": "2025-11-06T12:24:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MCPサーバー開発大全 | 技術評論社",
-    "link": "https://gihyo.jp/book/2025/978-4-297-15327-4",
-    "pubDate": "2025-11-06T10:52:47.000Z"
+    "title": "Apps SDKでシンプルなChatGPTアプリを作る",
+    "link": "https://zenn.dev/himara2/articles/ae362b516e9e52",
+    "pubDate": "Thu, 06 Nov 2025 10:54:16 GMT"
   },
   {
     "site": "Zenn",
-    "title": "なぜタスク管理をNotionからGitHub Projectsへ移行したのか - AI時代の開発効率を最大化する選択",
-    "link": "https://zenn.dev/pivotmedia/articles/pivot-notion-to-github-projects",
-    "pubDate": "2025-11-06T09:57:22.000Z"
+    "title": "Kiroを使ってZennの執筆効率と品質を改善する",
+    "link": "https://zenn.dev/aws_japan/articles/kiro-zenn-writing-efficiency-improvement",
+    "pubDate": "Thu, 06 Nov 2025 09:18:02 GMT"
   },
   {
     "site": "Zenn",
@@ -72,16 +102,22 @@
     "pubDate": "Thu, 06 Nov 2025 08:19:13 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "因果推論の勉強ロードマップ",
+    "link": "https://qiita.com/Nospare_Inc/items/313c3641081bc1d961ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T07:47:11.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "112通りの複雑な表示を、いかに保守性の高い実装にできるか挑戦した話",
     "link": "https://zenn.dev/misuken/articles/22be0dba9b6947",
     "pubDate": "Thu, 06 Nov 2025 07:18:06 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Docker Desktop（WSL2）でMySQLコンテナのボリュームを永続化する方法",
-    "link": "https://qiita.com/Y-Y-dev/items/4c0d997942eab03b5143?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T05:44:32.000Z"
+    "site": "Zenn",
+    "title": "AI駆動開発時代のメンタルモデル",
+    "link": "https://zenn.dev/sun_asterisk/articles/ai-driven-mental-model",
+    "pubDate": "Thu, 06 Nov 2025 06:50:14 GMT"
   },
   {
     "site": "Qiita",
@@ -91,21 +127,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【IETF124現地参加】プライバシー保護型トークン認証技術の最前線 【ゼロ知識証明 登場！？】",
-    "link": "https://qiita.com/yumi-sakemi/items/bb8f617145e35249685d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T04:07:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIがオブザーバビリティ需要を牽引！2025年版調査レポートを読み解く",
-    "link": "https://qiita.com/ktst79/items/92c127d321f9430c0622?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T00:01:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "貸せ、Pythonのtyping.Protocolはこう使う",
-    "link": "https://zenn.dev/nnc496/articles/ff322597bffaf7",
-    "pubDate": "Wed, 05 Nov 2025 23:33:10 GMT"
+    "title": "【図解】Torネットワークによる匿名化と、.onionドメインにアクセスする仕組みについて",
+    "link": "https://qiita.com/todotodo/items/fd631b42eb18f9cfacd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T03:40:19.000Z"
   },
   {
     "site": "Qiita",
@@ -138,28 +162,10 @@
     "pubDate": "Wed, 05 Nov 2025 07:23:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Observability Conference Tokyo 2025にオーガナイザーとして参加してました",
-    "link": "https://zenn.dev/katzchang/articles/3b6c0da97d090d",
-    "pubDate": "Wed, 05 Nov 2025 06:11:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【これ1本でわかる】 Difyを“まるっと理解する” - 基本要素から実装まで-",
     "link": "https://qiita.com/yushibats/items/80fde659be7425872a8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-05T04:24:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codex CLIに静的型付き関数型言語TreePを作らせてみた",
-    "link": "https://zenn.dev/nextbeat/articles/819c2ace67e8ef",
-    "pubDate": "Wed, 05 Nov 2025 04:12:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【GitHub Copilot】「コードが学習されるのが不安」を解消するオプトアウト設定",
-    "link": "https://qiita.com/imamu123/items/e7105ab0e0a6292f0937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-05T03:07:07.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "電話してサーバーを起動・停止する",
     "link": "https://qiita.com/infra365/items/1d329dbb79e1bf148e63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-04T22:05:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon Neptuneとは",
-    "link": "https://qiita.com/yuki_0/items/d5eae1c73164f3ec0440?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T13:53:00.000Z"
   }
 ]
