@@ -6,6 +6,12 @@
     "pubDate": "2025-11-07T13:46:18.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AI Agentフレームワークを使うべきなのか？",
+    "link": "https://zenn.dev/layerx/articles/91321c52241600",
+    "pubDate": "2025-11-07T13:35:01.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「Mozilla/Firefoxの日本語コミュニティ解散」とかいうDramaについて知っておくべき2,3のこと",
     "link": "https://anond.hatelabo.jp/20251107214401",
@@ -13,9 +19,21 @@
   },
   {
     "site": "Hatena",
-    "title": "某フォトコンテストで”確かな撮影技術と構成の巧みさ”が評価され最優秀賞を獲った作品が著作権フリーの生成AI画像コンテンツだった→もうプロも見抜けないレベルになってるのか",
-    "link": "https://togetter.com/li/2625233",
-    "pubDate": "2025-11-07T11:54:26.000Z"
+    "title": "ロボット掃除機をクラウドなし・サーバーなしのローカルのみで動かせるようになる「Valetudo」",
+    "link": "https://gigazine.net/news/20251107-valetudo/",
+    "pubDate": "2025-11-07T12:15:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「個人ゲーム開発者は、野心作じゃなく流行りの小規模ゲームを作れ」というアドバイスに議論白熱。売れるゲームか、作りたいゲームか - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20251107-365203/",
+    "pubDate": "2025-11-07T11:01:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Anthropic公式のMCPサーバー設計術！98.7%のトークン削減を実現",
+    "link": "https://zenn.dev/tmasuyama1114/articles/anthropic_mcp_workflow",
+    "pubDate": "2025-11-07T10:57:22.000Z"
   },
   {
     "site": "Hatena",
@@ -24,16 +42,16 @@
     "pubDate": "2025-11-07T07:57:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「クマ避けスプレー搭載ドローン」登場　遠隔操作で噴射、自治体利用見込む",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/07/news081.html",
-    "pubDate": "2025-11-07T04:41:47.000Z"
+    "site": "Qiita",
+    "title": "ミニ四駆を買って改造してたらサンフランシスコのOpenAI DevDayに参加できた話①",
+    "link": "https://qiita.com/Null-Sensei/items/5d3fcf50fd53680abac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T05:56:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "絵画を、絵画らしく飾る。電子ペーパー採用の最大31.5型アートフレーム",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2061431.html",
-    "pubDate": "2025-11-07T04:22:16.000Z"
+    "site": "Qiita",
+    "title": "Oracle Autonomous AI DatabaseからBigQueryとSnowflakeに対して、SELECT AI - Sidecarを実行する",
+    "link": "https://qiita.com/mkttji5/items/5c048ad43b41d2d4b0df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T05:46:33.000Z"
   },
   {
     "site": "Hatena",
@@ -66,28 +84,16 @@
     "pubDate": "Thu, 06 Nov 2025 21:48:52 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AI×BI　IBM watsonx BIを触ってみよう！",
-    "link": "https://qiita.com/YokeSin/items/7839b58710803009cd48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T18:58:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MCP サーバーの基礎から実践レベルの知識まで",
-    "link": "https://speakerdeck.com/azukiazusa1/mcp-sabanoji-chu-karashi-jian-reberunozhi-shi-made",
-    "pubDate": "2025-11-06T16:24:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "今年俺を一番幸せにしたDX最高な奴ら10選",
-    "link": "https://zenn.dev/chiji/articles/a8eaa9ed1d042c",
-    "pubDate": "2025-11-06T12:28:07.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Apps SDKでシンプルなChatGPTアプリを作る",
     "link": "https://zenn.dev/himara2/articles/ae362b516e9e52",
     "pubDate": "Thu, 06 Nov 2025 10:54:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "コーディングエージェントが useEffect を多用するのがつらい",
+    "link": "https://zenn.dev/coji/scraps/c890994e6d42b4",
+    "pubDate": "2025-11-06T09:44:53.000Z"
   },
   {
     "site": "Zenn",
@@ -130,12 +136,6 @@
     "title": "DSPy + LangSmithでプロンプトを全自動で育ててみた",
     "link": "https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf",
     "pubDate": "Thu, 06 Nov 2025 06:03:10 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "クロスブラウザ検証のノウハウまとめ（2025年版）",
-    "link": "https://qiita.com/OZAWAKOJI/items/2e6b7b802e9b5d3b6365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T04:51:20.000Z"
   },
   {
     "site": "Qiita",
