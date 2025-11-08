@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "AI作句の見分け困難　妖怪川柳コン今年で終了（日本海新聞） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/90fa3233f88ec5c9d4d8336204985e6197859c65",
+    "pubDate": "2025-11-08T07:33:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "予防に勝る防御なし（2025年版） - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHP Conference Fukuoka 2025",
+    "link": "https://speakerdeck.com/twada/growing-reliable-code-php-conference-fukuoka-2025",
+    "pubDate": "2025-11-08T05:12:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「いまだにSuica／PASMO使えない」駅へ行ったら、「問い合わせが多い……」と駅員さんも苦労していた事情",
     "link": "https://www.itmedia.co.jp/mobile/articles/2511/08/news027.html",
     "pubDate": "2025-11-08T00:05:23.000Z"
@@ -13,15 +25,15 @@
   },
   {
     "site": "Hatena",
-    "title": "ubuntu-latest から ubuntu-slim へ移行しよう！コスト削減うれしい〜！ - #あすみかんの上にあすみかん",
-    "link": "https://asumikam.com/entry/2025/11/07/173141",
-    "pubDate": "2025-11-07T14:51:54.000Z"
+    "title": "データベースと向き合う決意をしてから3年たった | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20251106a/",
+    "pubDate": "2025-11-07T22:38:45.000Z"
   },
   {
     "site": "Hatena",
-    "title": "北海道で車を運転中、ヒグマに襲われる動画がAIを疑うレベルで衝撃映像だった…真正面から突撃してくる迫力に「想像以上にデカい」「死んだフリとか無理」",
-    "link": "https://togetter.com/li/2625260",
-    "pubDate": "2025-11-07T13:46:18.000Z"
+    "title": "ubuntu-latest から ubuntu-slim へ移行しよう！コスト削減うれしい〜！ - #あすみかんの上にあすみかん",
+    "link": "https://asumikam.com/entry/2025/11/07/173141",
+    "pubDate": "2025-11-07T14:51:54.000Z"
   },
   {
     "site": "Zenn",
@@ -34,12 +46,6 @@
     "title": "無料で始める画像生成AI　人気モデルとツールまとめ【2025年11月最新版】 (1/5)",
     "link": "https://ascii.jp/elem/000/004/349/4349177/",
     "pubDate": "2025-11-07T13:26:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Mozilla/Firefoxの日本語コミュニティ解散」とかいうDramaについて知っておくべき2,3のこと",
-    "link": "https://anond.hatelabo.jp/20251107214401",
-    "pubDate": "2025-11-07T12:45:25.000Z"
   },
   {
     "site": "Zenn",
@@ -72,10 +78,34 @@
     "pubDate": "2025-11-07T10:57:22.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "honoでファイルアップロードの時にcontext.req.text()を呼んじゃダメ",
+    "link": "https://qiita.com/t_h118/items/6e50cb847b0badbf0b38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T09:35:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "RAMってどのへんがランダムアクセスなのか",
+    "link": "https://qiita.com/yamat0-i/items/4961b92e201b14c89c86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T08:24:39.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "LLMを用いた地名のひらがな・英語化と、Paraglide JSによるi18n: モダンな歴史地図「れきちず」の事例",
     "link": "https://zenn.dev/mierune/articles/f7c446995e445f",
     "pubDate": "Fri, 07 Nov 2025 08:21:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.jsで始めるモダンフロントエンド完全入門",
+    "link": "https://zenn.dev/keita_max/books/863d0962f11eab",
+    "pubDate": "Fri, 07 Nov 2025 07:47:54 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ネクストリードの技術スタック (C# 編)",
+    "link": "https://qiita.com/magnet163/items/92fde9adceb38f2a4616?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-07T06:22:49.000Z"
   },
   {
     "site": "Qiita",
@@ -109,12 +139,6 @@
   },
   {
     "site": "Zenn",
-    "title": "コーディングエージェントが useEffect を多用するのがつらい",
-    "link": "https://zenn.dev/coji/scraps/c890994e6d42b4",
-    "pubDate": "2025-11-06T09:44:53.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "Kiroを使ってZennの執筆効率と品質を改善する",
     "link": "https://zenn.dev/aws_japan/articles/kiro-zenn-writing-efficiency-improvement",
     "pubDate": "Thu, 06 Nov 2025 09:18:02 GMT"
@@ -144,12 +168,6 @@
     "pubDate": "2025-11-06T07:47:11.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "112通りの複雑な表示を、いかに保守性の高い実装にできるか挑戦した話",
-    "link": "https://zenn.dev/misuken/articles/22be0dba9b6947",
-    "pubDate": "Thu, 06 Nov 2025 07:18:06 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【図解】Torネットワークによる匿名化と、.onionドメインにアクセスする仕組みについて",
     "link": "https://qiita.com/todotodo/items/fd631b42eb18f9cfacd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,23 +178,5 @@
     "title": "AIエージェントに「責任を持たせる」ために必要なもの",
     "link": "https://qiita.com/autotaker1984/items/c30eafd8ab6a5e52cf9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-05T21:55:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【これ1本でわかる】 Difyを“まるっと理解する” - 基本要素から実装まで-",
-    "link": "https://qiita.com/yushibats/items/80fde659be7425872a8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-05T04:24:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "宇宙の視点から考えるセキュリティ ― NASAのゼロトラストの思想",
-    "link": "https://qiita.com/sh-ohtani/items/6f7cebecd8fd8c2ef134?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T23:59:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "電話してサーバーを起動・停止する",
-    "link": "https://qiita.com/infra365/items/1d329dbb79e1bf148e63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-04T22:05:38.000Z"
   }
 ]
