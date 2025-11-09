@@ -1,9 +1,15 @@
 [
   {
     "site": "Hatena",
-    "title": "DIGIMON BEATBREAK：AI時代の新しいデジモンの挑戦　ターゲット拡大の狙い　宮元宏彰、高田伸治インタビュー - MANTANWEB（まんたんウェブ）",
-    "link": "https://mantan-web.jp/article/20251109dog00m200001000c.html",
-    "pubDate": "2025-11-09T00:06:33.000Z"
+    "title": "海外でバズった『Googleを使わずに、最も有名な日本人の名前を挙げてください』を集計してみたら色々と興味深い結果になった",
+    "link": "https://togetter.com/li/2625791",
+    "pubDate": "2025-11-09T01:38:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "CI/CDに続く概念？GitHub Universeでも注目のContinuous AIを紹介 | ドクセル",
+    "link": "https://www.docswell.com/s/yuma/K37VJ8-2025-11-07-ghcpmeetup",
+    "pubDate": "2025-11-08T22:00:53.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +18,10 @@
     "pubDate": "2025-11-08T17:31:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "CSSのイージング関数を簡単に使えるようにできる「Easing Wizard」",
-    "link": "https://gigazine.net/news/20251108-easing-wizard/",
-    "pubDate": "2025-11-08T16:53:01.000Z"
+    "site": "Zenn",
+    "title": "意思決定を委ねる：CLIツール「should-i」",
+    "link": "https://zenn.dev/justhiro/articles/5351c337282175",
+    "pubDate": "Sat, 08 Nov 2025 14:57:57 GMT"
   },
   {
     "site": "Zenn",
@@ -49,6 +55,12 @@
   },
   {
     "site": "Hatena",
+    "title": "チームのテスト力を総合的に鍛えてシフトレフトを推進する/Shifting Left with Software Testing Improvements",
+    "link": "https://speakerdeck.com/goyoki/shifting-left-with-software-testing-improvements",
+    "pubDate": "2025-11-08T10:58:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「古いiPhoneでLINE使えなくなる」ポスターに批判殺到　掲示元の「ノジマ」に意図を聞いた",
     "link": "https://www.itmedia.co.jp/mobile/articles/2511/08/news036.html",
     "pubDate": "2025-11-08T09:52:26.000Z"
@@ -58,6 +70,12 @@
     "title": "マックの注文端末でメニューに価格が表示されてなくて困る話…モバイルオーダーでは見れるのに店舗だとなぜ見れないのか疑問だし、UIが問題と感じる人も",
     "link": "https://togetter.com/li/2625527",
     "pubDate": "2025-11-08T09:43:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "品質は設計でつくり込む / design in quality",
+    "link": "https://speakerdeck.com/technuma/design-in-quality",
+    "pubDate": "2025-11-08T09:15:06.000Z"
   },
   {
     "site": "Zenn",
@@ -70,18 +88,6 @@
     "title": "「AIショック」に沈むApple　「iPhone以来の革命」に乗り遅れた3つの理由 | TBS CROSS DIG with Bloomberg",
     "link": "https://newsdig.tbs.co.jp/articles/withbloomberg/2270426",
     "pubDate": "2025-11-08T07:41:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "予防に勝る防御なし（2025年版） - 堅牢なコードを導く様々な設計のヒント / Growing Reliable Code PHP Conference Fukuoka 2025",
-    "link": "https://speakerdeck.com/twada/growing-reliable-code-php-conference-fukuoka-2025",
-    "pubDate": "2025-11-08T05:12:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Chrome DevTools MCP vs Playwright MCP - どちらを選ぶべき？実測で比較",
-    "link": "https://zenn.dev/nexta_/articles/google-chrome-mcp-server",
-    "pubDate": "2025-11-08T04:06:21.000Z"
   },
   {
     "site": "Zenn",
@@ -100,6 +106,12 @@
     "title": "自分のTweetを学習させてクローンLLMを作りたい",
     "link": "https://qiita.com/kokuren333/items/580448acf62e704c2122?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-07T21:57:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "1Password cli で mcp サーバーに渡すトークンを管理する",
+    "link": "https://zenn.dev/cureapp/articles/62106003917f2c",
+    "pubDate": "Fri, 07 Nov 2025 12:52:09 GMT"
   },
   {
     "site": "Zenn",
@@ -126,12 +138,6 @@
     "pubDate": "Fri, 07 Nov 2025 11:32:38 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Next.jsで始めるモダンフロントエンド完全入門",
-    "link": "https://zenn.dev/keita_max/books/863d0962f11eab",
-    "pubDate": "Fri, 07 Nov 2025 07:47:54 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ミニ四駆を買って改造してたらサンフランシスコのOpenAI DevDayに参加できた話①",
     "link": "https://qiita.com/Null-Sensei/items/5d3fcf50fd53680abac6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -148,12 +154,6 @@
     "title": "【続】8割自動化で終わらせたくなかった新人、OCR×Geminiで“なが〜いレシート”の誤読率3%を達成！",
     "link": "https://qiita.com/ishikawa_slj/items/d24b88966fbad0174162?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-07T00:42:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CognitoとAgentCore GatewayでMCPサーバーにOAuth認証をつけよう",
-    "link": "https://zenn.dev/aws_japan/articles/e86655a8ebd114",
-    "pubDate": "Fri, 07 Nov 2025 00:22:53 GMT"
   },
   {
     "site": "Qiita",
