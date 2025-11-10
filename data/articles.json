@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "【特集】 【悲報】買い時を逃したかも……。メモリ・SSD・HDDが高騰、原因はAI？価格推移をまとめてみた",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2061720.html",
+    "pubDate": "2025-11-09T21:44:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RAGを活用してセキュリティチェックシートの回答作業を自動化した話",
+    "link": "https://zenn.dev/delisit/articles/0b4977d79500fa",
+    "pubDate": "2025-11-09T20:08:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "eslint-plugin-import-accessのpackageDirectoryオプション",
+    "link": "https://zenn.dev/uhyo/articles/eslint-plugin-import-access-v310",
+    "pubDate": "Sun, 09 Nov 2025 12:17:31 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "【年間で$3,120の削減】 Datadog から CloudWatch への移行で実現したコスパ良の外形監視 - Adwaysエンジニアブログ",
     "link": "https://blog.engineer.adways.net/entry/2025/11/05/120000",
     "pubDate": "2025-11-09T12:07:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MIT、AI時代の新開発論を提唱。「可読性の高いソフトウェア」は\"バイブコーディング\"を終わらせるか | XenoSpectrum",
+    "link": "https://xenospectrum.com/mit-legible-software-concepts-synchronizations-ai-coding/",
+    "pubDate": "2025-11-09T11:54:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MCP ツールのコンテキスト圧迫の問題とその解決策",
+    "link": "https://azukiazusa.dev/blog/mcp-tool-context-overflow/",
+    "pubDate": "2025-11-09T10:52:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "\"use client\" は JavaScript 標準ではない - 「出所不明」な文字列が隠すリスク",
+    "link": "https://zenn.dev/tsuboi/articles/3f00d532bcb4dc",
+    "pubDate": "Sun, 09 Nov 2025 10:51:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Prospector ZMK Dongleのタッチ機能を使う",
+    "link": "https://zenn.dev/kot149/articles/prospector-touch",
+    "pubDate": "Sun, 09 Nov 2025 09:47:31 GMT"
   },
   {
     "site": "Zenn",
@@ -13,15 +55,27 @@
   },
   {
     "site": "Hatena",
-    "title": "反イスラム感情惹起に生成AI動画が使用されることが増えてきた - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2025/11/09/170000",
-    "pubDate": "2025-11-09T08:37:20.000Z"
+    "title": "格安SIMは「通信品質が良くないから安い」といまだに言われることがあるが現状を説明したい (1/2)",
+    "link": "https://ascii.jp/elem/000/004/350/4350354/",
+    "pubDate": "2025-11-09T09:07:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "もっと気軽にDocDD(SpecDD)でAI駆動開発したい",
+    "link": "https://zenn.dev/imaimai17468/articles/5df32a0bcfc75a",
+    "pubDate": "Sun, 09 Nov 2025 08:46:53 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初心者完全版】0からReact開発して基礎をマスターできる最強チュートリアル 音楽生成アプリ編【図解解説】",
+    "link": "https://qiita.com/Sicut_study/items/c0096caf21eefcd5c85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T08:06:32.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AIで作成した「回転すると別のものに見える絵」が知覚研究に役立つ",
-    "link": "https://gigazine.net/news/20251109-visual-anagram-reveal-perception/",
-    "pubDate": "2025-11-09T08:07:54.000Z"
+    "title": "ポルノ禁止の余波──グーグルがすべてのスマートフォン利用者に新たな警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/84738",
+    "pubDate": "2025-11-09T08:04:13.000Z"
   },
   {
     "site": "Zenn",
@@ -42,10 +96,10 @@
     "pubDate": "Sun, 09 Nov 2025 06:22:46 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "[UE5 ポストプロセス] 『都市伝説解体センター』風シェーダーを作ってみた",
-    "link": "https://zenn.dev/nlnnn/articles/2c33ea89605559",
-    "pubDate": "Sun, 09 Nov 2025 04:37:55 GMT"
+    "site": "Qiita",
+    "title": "C++は常に進化している！ C++26・C++23の新機能と今後のトレンド",
+    "link": "https://qiita.com/Sakai_path/items/24537a84c2437e9e527f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T04:46:13.000Z"
   },
   {
     "site": "Qiita",
@@ -54,58 +108,28 @@
     "pubDate": "2025-11-09T04:05:24.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Android開発でReposity, Impl, UseCase分ける必要ある？",
+    "link": "https://zenn.dev/mmol93/articles/1a6b5f5ff636f2",
+    "pubDate": "Sun, 09 Nov 2025 03:40:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "生成AIでプログラミング学習、その前に｜社内SEが知っておくべきセキュリティの基本",
+    "link": "https://zenn.dev/yamato_snow/articles/f3b16b07c7410b",
+    "pubDate": "Sun, 09 Nov 2025 03:08:31 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【Midjourney | Nano Banana】商品撮影のプロが撮影をやめた。誰も教えない、ブランドやECの現場レベルで使える画像生成AIと動画生成AIの神業プロンプトまとめ。｜さきすた",
     "link": "https://note.com/sakisuta/n/n5bfecc698d6c",
     "pubDate": "2025-11-09T02:37:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "海外でバズった『Googleを使わずに、最も有名な日本人の名前を挙げてください』を集計してみたら色々と興味深い結果になった",
-    "link": "https://togetter.com/li/2625791",
-    "pubDate": "2025-11-09T01:38:33.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "MCPの3つの欠点 - よりよく使うために知っておきたいこと",
-    "link": "https://zenn.dev/k9i/articles/20251108_mcp_drawbacks",
-    "pubDate": "Sun, 09 Nov 2025 01:25:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGを活用してセキュリティチェックシートの回答作業を自動化した話",
-    "link": "https://zenn.dev/delisit/articles/0b4977d79500fa",
-    "pubDate": "Sun, 09 Nov 2025 00:25:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "意思決定を委ねる：CLIツール「should-i」",
-    "link": "https://zenn.dev/justhiro/articles/5351c337282175",
-    "pubDate": "Sat, 08 Nov 2025 14:57:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsで練習するページ遷移型の検索機能",
-    "link": "https://zenn.dev/dev_tips84/articles/d2b8573fb6dd2c",
-    "pubDate": "Sat, 08 Nov 2025 14:24:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "toio x ATOM S3R-CAM x Unity x Rust x ChatGPT でロボットが歩く街を作ってみた #OMMF2024",
-    "link": "https://zenn.dev/pyteyon/articles/ommf2024-dennou-no-machi",
-    "pubDate": "Sat, 08 Nov 2025 14:00:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS Amplify HostingのCI/CDからCloudFormationでAgentCore Runtimeをデプロイする (コンテナイメージ編)",
-    "link": "https://qiita.com/Takenoko4594/items/a4a32472bd8aa5d0339e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-08T13:11:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Affinity アプリが永久無料と聞いてこれで脱 Adobe できるかと思ってるあなたに、Affinity 歴約 5 年の私から伝えておきたいこと",
-    "link": "https://jeffreyfrancesco.org/weblog/2025110501/",
-    "pubDate": "2025-11-08T12:26:38.000Z"
+    "title": "良かった・気になるツール2025",
+    "link": "https://zenn.dev/monokaai/articles/favorite-tools-2025",
+    "pubDate": "2025-11-08T13:35:35.000Z"
   },
   {
     "site": "Qiita",
@@ -115,27 +139,9 @@
   },
   {
     "site": "Hatena",
-    "title": "チームのテスト力を総合的に鍛えてシフトレフトを推進する/Shifting Left with Software Testing Improvements",
-    "link": "https://speakerdeck.com/goyoki/shifting-left-with-software-testing-improvements",
-    "pubDate": "2025-11-08T10:58:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "品質は設計でつくり込む / design in quality",
-    "link": "https://speakerdeck.com/technuma/design-in-quality",
-    "pubDate": "2025-11-08T09:15:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIショック」に沈むApple　「iPhone以来の革命」に乗り遅れた3つの理由 | TBS CROSS DIG with Bloomberg",
-    "link": "https://newsdig.tbs.co.jp/articles/withbloomberg/2270426",
-    "pubDate": "2025-11-08T07:41:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Jupyterよりも marimoが使いやすい理由",
-    "link": "https://zenn.dev/dxc_ai_driven/articles/10e04000ff6f1d",
-    "pubDate": "2025-11-07T23:05:44.000Z"
+    "title": "例外処理を理解して、設計段階からエラーを見つけやすく、起こりにくく #phpconfuk",
+    "link": "https://speakerdeck.com/kajitack/understanding-exceptions-in-php",
+    "pubDate": "2025-11-08T06:00:43.000Z"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Plotlyで3Dグラフを描く最初の一歩（Surface入門）",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/41e55c8362f784572147?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T14:07:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "EC2の起動停止でパブリックIPが変わる件をLambda + Route 53で自動解決する",
-    "link": "https://qiita.com/torifukukaiou/items/b2cd2bbb01f5efddf767?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-06T13:51:52.000Z"
+    "title": "Spec Copilot: Vibe Codingの限界を超える - 19種の専門AIエージェントで実現する仕様駆動開発",
+    "link": "https://qiita.com/hisaho/items/a77fc3726f5b37b575f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-06T21:16:21.000Z"
   }
 ]
