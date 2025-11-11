@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "「よく使われるようなパスワードを暗記」と「複雑なパスワードを付箋に書きPCに貼り付け」、どちらがサイバー攻撃に強い？さまざまな声が集まる",
+    "link": "https://togetter.com/li/2626659",
+    "pubDate": "2025-11-11T03:22:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ISP加入者に聞いた「ルーター何使ってる？」調査の結果、ヤマハが第1位だった……いったいどちらの異世界ISPの話ですか!?【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2062064.html",
+    "pubDate": "2025-11-11T02:47:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeが並列にSubAgentを起動した時に自宅ネットワークが死ぬ問題を解消した - $shibayu36->blog;",
+    "link": "https://blog.shibayu36.org/entry/2025/11/11/110301",
+    "pubDate": "2025-11-11T02:06:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大学入ってからの無力感がエグい...課題は生成AIに丸投げしたら自分のより出来の良いものがすぐ出るし、生成AIの使い方が上手い友達に時間的にも労力的に成績的にも圧倒されているのがつらい",
+    "link": "https://togetter.com/li/2626646",
+    "pubDate": "2025-11-11T01:59:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI普及で優秀な人の仕事は減り、能力の低い人の仕事が増えた？　LLMで「実力主義」が崩壊（生成AIクローズアップ） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2025/11/11/4709.html",
     "pubDate": "2025-11-10T23:46:11.000Z"
@@ -10,12 +34,6 @@
     "title": "新セキュリティ基準「JC-STAR」はなぜ作られたのか？　完全に理解するためIPAに聞いてきた　Wi-FiルーターなどIoT機器を守る新制度が生まれた背景や目的を知る",
     "link": "https://internet.watch.impress.co.jp/docs/special/2053039.html",
     "pubDate": "2025-11-10T21:42:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アメリカ発の生産性革命、覆面AIがいる日常　行き着く先は超成長か破滅か - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN033EA0T01C25A1000000/",
-    "pubDate": "2025-11-10T21:06:28.000Z"
   },
   {
     "site": "Hatena",
@@ -30,28 +48,16 @@
     "pubDate": "2025-11-10T08:44:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「数カ月で済む動きではないですね」――メモリだけでなく、HDDとSSDも値上がり中",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2511/10/news093.html",
-    "pubDate": "2025-11-10T08:12:19.000Z"
+    "site": "Zenn",
+    "title": "Amazon Bedrock AgentCore Observability では一体何が行われているのか",
+    "link": "https://zenn.dev/aws_japan/articles/ae842ddb2f9d0e",
+    "pubDate": "Mon, 10 Nov 2025 05:21:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "はてなサマーインターンシップ2025 フロントエンド 講義資料",
-    "link": "https://speakerdeck.com/hatena/internship-2025-frontend",
-    "pubDate": "2025-11-10T07:42:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "中国発の新AI「Kimi K2 Thinking」、米国製を超える性能と“無料”の衝撃",
-    "link": "https://japan.zdnet.com/article/35240260/",
-    "pubDate": "2025-11-10T02:49:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "役割と越境とマネージャーと - takanorip blog",
-    "link": "https://blog.takanorip.com/posts/2025-11-10/",
-    "pubDate": "2025-11-10T02:14:04.000Z"
+    "site": "Zenn",
+    "title": "チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―",
+    "link": "https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4",
+    "pubDate": "Mon, 10 Nov 2025 02:31:13 GMT"
   },
   {
     "site": "Qiita",
@@ -64,6 +70,12 @@
     "title": "SNKRDUNKにおける機械学習への取り組みの現状と今後の展望",
     "link": "https://zenn.dev/team_soda/articles/soda-snkrdunk-ml-pickuplinks",
     "pubDate": "Mon, 10 Nov 2025 01:52:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントへの指示、実際どうしてる？",
+    "link": "https://zenn.dev/rescuenow/articles/3b82a651794d4c",
+    "pubDate": "Mon, 10 Nov 2025 01:45:32 GMT"
   },
   {
     "site": "Zenn",
@@ -97,18 +109,6 @@
   },
   {
     "site": "Zenn",
-    "title": "【.NET】開発時に活用できる属性",
-    "link": "https://zenn.dev/prozolic/articles/e6c103b68667b0",
-    "pubDate": "Sun, 09 Nov 2025 12:32:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS × e-Paperで作るデジタルアートフレーム",
-    "link": "https://zenn.dev/allstdft/articles/display_pipeline",
-    "pubDate": "Sun, 09 Nov 2025 12:24:23 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "eslint-plugin-import-accessのpackageDirectoryオプション",
     "link": "https://zenn.dev/uhyo/articles/eslint-plugin-import-access-v310",
     "pubDate": "Sun, 09 Nov 2025 12:17:31 GMT"
@@ -118,12 +118,6 @@
     "title": "\"use client\" は JavaScript 標準ではない - 「出所不明」な文字列が隠すリスク",
     "link": "https://zenn.dev/tsuboi/articles/3f00d532bcb4dc",
     "pubDate": "Sun, 09 Nov 2025 10:51:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Prospector ZMK Dongleのタッチ機能を使う",
-    "link": "https://zenn.dev/kot149/articles/prospector-touch",
-    "pubDate": "Sun, 09 Nov 2025 09:47:31 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "自分のTweetを学習させてクローンLLMを作りたい",
     "link": "https://qiita.com/kokuren333/items/580448acf62e704c2122?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-07T21:57:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「丁寧で的確な引継ぎ」がめったに実践されない理由を解剖する【パウリ】 | レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/column/detail_743/",
+    "pubDate": "2025-10-26T02:15:11.000Z"
   }
 ]
