@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "「これ以上高い解像度の画面はいらない」　人間の眼は何ピクセルまで見分けられるか？　海外チームが発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/12/news021.html",
+    "pubDate": "2025-11-11T23:32:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「グエー死んだンゴ」ニキにはなれないけれど",
+    "link": "https://blog.tinect.jp/?p=90483",
+    "pubDate": "2025-11-11T23:07:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NHK ONE、簡単には「閉じられないメッセージ」表示へ　目的は“NHK受信料”の徴収　なぜ強引な仕様に？",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2511/12/news048.html",
+    "pubDate": "2025-11-11T21:45:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【西川和久の不定期コラム】 やってしまった。職人にお願いして「GeForce RTX 4090」を48GBへ魔改造！",
+    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2062248.html",
+    "pubDate": "2025-11-11T21:15:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "kubernetes でケチケチ節約して複数のサイトを管理する",
+    "link": "https://zenn.dev/mattn/articles/3094881f936076",
+    "pubDate": "2025-11-11T14:28:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "kubernetes でケチケチ節約して複数のサイトを管理する",
+    "link": "https://zenn.dev/mattn/articles/3094881f936076",
+    "pubDate": "Tue, 11 Nov 2025 14:28:24 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "iPhone Pocket 正式発表。発売日は11月14日、価格は2万5800円から - すまほん!!",
     "link": "https://smhn.info/202511-iapple-phone-pocket",
     "pubDate": "2025-11-11T11:50:38.000Z"
@@ -12,10 +48,10 @@
     "pubDate": "2025-11-11T09:23:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アスクル、さらなる情報漏えい確認　個人向け通販「LOHACO」などで",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/11/news099.html",
-    "pubDate": "2025-11-11T07:59:33.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeを使ったおすすめ勉強法",
+    "link": "https://zenn.dev/parfait/articles/7542405e10130d",
+    "pubDate": "2025-11-11T06:51:06.000Z"
   },
   {
     "site": "Hatena",
@@ -24,16 +60,16 @@
     "pubDate": "2025-11-11T06:41:15.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "チーム専属QAからE2E自動化横断支援へ。QAキャリアを前進させた1年間",
+    "link": "https://zenn.dev/mixi/articles/8ec03e546072af",
+    "pubDate": "Tue, 11 Nov 2025 06:02:10 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "ChatGPTの「良い人フィルター」を外して本音を引き出してみた - Qiita",
     "link": "https://qiita.com/nolanlover0527/items/83480966029c70ad14d5",
     "pubDate": "2025-11-11T05:51:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "新規APIの実装でPATCHメソッドを使用しないようにしました | PR TIMES 開発者ブログ",
-    "link": "https://developers.prtimes.jp/2025/11/11/no-patch-in-new-api/",
-    "pubDate": "2025-11-11T03:39:05.000Z"
   },
   {
     "site": "Zenn",
@@ -43,33 +79,21 @@
   },
   {
     "site": "Zenn",
+    "title": "【技術記事】Zennで技術記事を書くときに最低限これだけは意識したい6つのこと",
+    "link": "https://zenn.dev/noranuko13/articles/2740fa9be72757",
+    "pubDate": "Tue, 11 Nov 2025 03:03:00 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Kaggleコンペ紹介：MAP - Charting Student Math Misunderstandings",
     "link": "https://zenn.dev/mkj/articles/1f374627377474",
     "pubDate": "Tue, 11 Nov 2025 02:50:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ISP加入者に聞いた「ルーター何使ってる？」調査の結果、ヤマハが第1位だった……いったいどちらの異世界ISPの話ですか!?【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2062064.html",
-    "pubDate": "2025-11-11T02:47:50.000Z"
   },
   {
     "site": "Zenn",
     "title": "Perlの今",
     "link": "https://zenn.dev/kfly8/books/learning-perl-today",
     "pubDate": "Tue, 11 Nov 2025 02:37:22 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeが並列にSubAgentを起動した時に自宅ネットワークが死ぬ問題を解消した - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2025/11/11/110301",
-    "pubDate": "2025-11-11T02:06:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "大学入ってからの無力感がエグい...課題は生成AIに丸投げしたら自分のより出来の良いものがすぐ出るし、生成AIの使い方が上手い友達に時間的にも労力的に成績的にも圧倒されているのがつらい",
-    "link": "https://togetter.com/li/2626646",
-    "pubDate": "2025-11-11T01:59:33.000Z"
   },
   {
     "site": "Zenn",
@@ -102,34 +126,16 @@
     "pubDate": "Mon, 10 Nov 2025 14:46:33 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "C# で Rust する",
-    "link": "https://zenn.dev/sator_imaging/articles/e6428d4f1c8158",
-    "pubDate": "Mon, 10 Nov 2025 11:18:32 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "決済実装は怖くない！テストカードという存在",
     "link": "https://qiita.com/inukai-masanori/items/7809cc7b63b37f958880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T09:47:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ソフトバンク系、コールセンターをAIで代替　安全性と信頼性を確保　外販開始",
-    "link": "https://japan.cnet.com/article/35240276/",
-    "pubDate": "2025-11-10T08:44:42.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "【CSS】要素がはみ出る！そんな時はまずmin-widthを0にする",
-    "link": "https://qiita.com/hrel11/items/fe402e3a7ed63d8cbe58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T05:13:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "チームを壊す「ブリリアントジャーク」とどう向き合うか―スクラムマスターとしての実践と学び―",
-    "link": "https://zenn.dev/nttdata_tech/articles/fad56bfecd34b4",
-    "pubDate": "Mon, 10 Nov 2025 02:31:13 GMT"
+    "title": "あかんかった人生をやり直す",
+    "link": "https://qiita.com/monsoonTropicalBird/items/0e62b8fc44e480251f2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T02:20:35.000Z"
   },
   {
     "site": "Qiita",
@@ -138,10 +144,16 @@
     "pubDate": "2025-11-10T01:59:24.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "SNKRDUNKにおける機械学習への取り組みの現状と今後の展望",
-    "link": "https://zenn.dev/team_soda/articles/soda-snkrdunk-ml-pickuplinks",
-    "pubDate": "Mon, 10 Nov 2025 01:52:31 GMT"
+    "site": "Qiita",
+    "title": "【Docker】Docker用語が分からない人のための超入門ガイド",
+    "link": "https://qiita.com/shimada_slj/items/aece093434ca59ed87fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T00:39:23.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "初めて Qiita 投稿する人へ ～中堅 SE が語る“記事づくりの流れと工夫”～",
+    "link": "https://qiita.com/KoheiKushida/items/abb9276dc175991760f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-09T23:59:06.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "テキストなしで LLM 同士が“通じ合う”手法:Cache-to-Cache（C2C）について",
     "link": "https://qiita.com/xxyc/items/892bb9b401e162c2e270?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-09T04:05:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【コピペでOK】Gemini RAGはこんなに簡単！寝てる間にGitHub Actionsが最新ドキュメントを学習するAIアシスタントを作ろう",
-    "link": "https://qiita.com/sinzy0925/items/01550618a78428c9cc50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-08T13:59:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2025年11月時点における世界最高速の向聴数計算アルゴリズムを開発・実装してしまった件について",
-    "link": "https://qiita.com/Cryolite/items/2650ce76ffac925d7876?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-08T12:15:03.000Z"
   }
 ]
