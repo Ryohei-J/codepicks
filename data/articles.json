@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "サイバー攻撃被害のアサヒビールの売り上げが前年比９割まで回復、電話・FAXとExcelで手作業受注「ボーナス上げて欲しい」「ベテラン社員が活躍してる？」",
+    "link": "https://togetter.com/li/2627531",
+    "pubDate": "2025-11-13T12:29:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ビジネスの耐えられない柔らかさ - megamouthの葬列",
+    "link": "https://www.megamouth.info/entry/2025/11/13/180559",
+    "pubDate": "2025-11-13T11:15:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Moonbit で React アプリを書く",
+    "link": "https://zenn.dev/mizchi/articles/moonbit-react-app",
+    "pubDate": "Thu, 13 Nov 2025 07:28:27 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "鍵をなくしたので鍵につけているAirTagの位置情報を調べたら出てきた場所がここで絶望...問い合わせても無駄に終わった...「どんなものでも消し炭にするって聞いたことある」",
     "link": "https://togetter.com/li/2627430",
     "pubDate": "2025-11-13T06:19:36.000Z"
@@ -10,6 +28,18 @@
     "title": "NTT、「空間ノイズキャンセリング」開発　耳を塞がず静かな空間を作る",
     "link": "https://www.watch.impress.co.jp/docs/news/2062243.html",
     "pubDate": "2025-11-13T06:08:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLM開発の裏で行われるデバッグ作業: PyTorch DCP",
+    "link": "https://zenn.dev/turing_motors/articles/04eed10b0aafe9",
+    "pubDate": "Thu, 13 Nov 2025 06:03:34 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "CTOがEngineering Managerに期待する7つのこと - KAKEHASHI Tech Blog",
+    "link": "https://kakehashi-dev.hatenablog.com/entry/2025/11/13/113000",
+    "pubDate": "2025-11-13T03:38:17.000Z"
   },
   {
     "site": "Hatena",
@@ -31,12 +61,6 @@
   },
   {
     "site": "Hatena",
-    "title": "ChatGPTに｢温かい会話｣が帰ってきた。OpenAIがGPT-5.1をリリース、評判が悪かった5を改善",
-    "link": "https://www.gizmodo.jp/2025/11/openai_chatgpt_gpt_5_1_released.html",
-    "pubDate": "2025-11-12T23:25:09.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【特集】 「USB」とは何かを徹底解説。コネクタ形状、転送速度、給電能力まとめ",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2062553.html",
     "pubDate": "2025-11-12T21:30:19.000Z"
@@ -46,12 +70,6 @@
     "title": "自宅のWi-Fiルーターを手軽に診断、「am I infected?」の使い方と結果の見方　",
     "link": "https://internet.watch.impress.co.jp/docs/special/2062038.html",
     "pubDate": "2025-11-12T21:24:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Node.jsでネイティブにTypeScriptを実行できる「Type Stripping」機能が安定版に到達。Node.js v25.2.0",
-    "link": "https://www.publickey1.jp/blog/25/nodejstypescripttype_strippingnodejs_v2520.html",
-    "pubDate": "2025-11-12T18:59:49.000Z"
   },
   {
     "site": "Zenn",
@@ -64,6 +82,12 @@
     "title": "AIエージェント機能を継続的に生み出すプロダクトマネジメントについて",
     "link": "https://zenn.dev/layerx/articles/b9272c63152826",
     "pubDate": "Wed, 12 Nov 2025 13:47:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cursor×MCPでスプレッドシートを使ったPM業務を効率化する環境を構築しよう",
+    "link": "https://zenn.dev/masarufuruya/articles/15fe5e2ab5930c",
+    "pubDate": "Wed, 12 Nov 2025 13:25:03 GMT"
   },
   {
     "site": "Zenn",
@@ -82,18 +106,6 @@
     "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
     "link": "https://qiita.com/take-yoda/items/204d5c4170e408d4d0f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T08:48:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Snowflake】Snowflake IntelligenceにWeb検索機能を統合してみた",
-    "link": "https://zenn.dev/truestar/articles/6f080b08a49911",
-    "pubDate": "Wed, 12 Nov 2025 07:26:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Flutterアプリ開発のツール管理をFVMからmiseに移行する",
-    "link": "https://zenn.dev/ivry/articles/9fe7b697f15959",
-    "pubDate": "Wed, 12 Nov 2025 07:00:49 GMT"
   },
   {
     "site": "Zenn",
@@ -138,12 +150,6 @@
     "pubDate": "2025-11-11T13:40:47.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Next.js App Routerで外部ライブラリのデータフェッチをメモ化する方法",
-    "link": "https://zenn.dev/luvmini511/articles/a6116e333e3d4d",
-    "pubDate": "Tue, 11 Nov 2025 12:52:03 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアが覚えておきたい英単語 - AIコード読解時代の必須語彙",
     "link": "https://qiita.com/Sakai_path/items/b11badaa8daff2984f8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "決済実装は怖くない！テストカードという存在",
     "link": "https://qiita.com/inukai-masanori/items/7809cc7b63b37f958880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T09:47:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI 時代のドキュメント管理術",
-    "link": "https://speakerdeck.com/onikun94/ai-shi-dai-nodokiyumentoguan-li-shu",
-    "pubDate": "2025-11-06T10:49:38.000Z"
   }
 ]
