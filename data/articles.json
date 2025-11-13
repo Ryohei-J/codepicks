@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "鍵をなくしたので鍵につけているAirTagの位置情報を調べたら出てきた場所がここで絶望...問い合わせても無駄に終わった...「どんなものでも消し炭にするって聞いたことある」",
+    "link": "https://togetter.com/li/2627430",
+    "pubDate": "2025-11-13T06:19:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NTT、「空間ノイズキャンセリング」開発　耳を塞がず静かな空間を作る",
+    "link": "https://www.watch.impress.co.jp/docs/news/2062243.html",
+    "pubDate": "2025-11-13T06:08:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "老舗コンピューター雑誌のバックナンバー23年分、1枚の画像に変換され無料公開中【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2062869.html",
     "pubDate": "2025-11-13T03:01:24.000Z"
@@ -10,6 +22,12 @@
     "title": "ChatGPT「チャッピー」呼び、いつから広がった？X投稿を分析",
     "link": "https://withnews.jp/article/f0251113000qq000000000000000W0je10701qq000028375A",
     "pubDate": "2025-11-13T01:34:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "インポートしたCSVの行番号",
+    "link": "https://qiita.com/michi-yzrh/items/e3b75dbb08ff65dc614c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T00:47:33.000Z"
   },
   {
     "site": "Hatena",
@@ -54,6 +72,18 @@
     "pubDate": "2025-11-12T12:44:00.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Vue Fes Japan 2025 After Talk参加レポート #vuefes_aftertalk",
+    "link": "https://qiita.com/okuto_oyama/items/7e7d6d2bc26d652516b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-12T09:10:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
+    "link": "https://qiita.com/take-yoda/items/204d5c4170e408d4d0f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-12T08:48:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【Snowflake】Snowflake IntelligenceにWeb検索機能を統合してみた",
     "link": "https://zenn.dev/truestar/articles/6f080b08a49911",
@@ -78,16 +108,16 @@
     "pubDate": "Wed, 12 Nov 2025 04:44:41 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "AIがプログラマを滅ぼすというのは、幻想やったかもしれん",
+    "link": "https://qiita.com/monsoonTropicalBird/items/1d5a6257808ff7871bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-12T04:28:15.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AIの質問を『選択肢+推奨度+理由』にしたら、意思決定の質と速度が圧倒的にあがった",
     "link": "https://zenn.dev/loglass/articles/e250a06fca1f4a",
     "pubDate": "Wed, 12 Nov 2025 03:48:07 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "俺も買いたい・・・超横長14インチのサブディスプレーが欲しすぎる「XENEON EDGE」 (1/4)",
-    "link": "https://ascii.jp/elem/000/004/350/4350115/",
-    "pubDate": "2025-11-11T21:41:55.000Z"
   },
   {
     "site": "Zenn",
@@ -102,6 +132,12 @@
     "pubDate": "Tue, 11 Nov 2025 14:28:24 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "ゲームの負荷試験だってオブザーバビリティしたい！！",
+    "link": "https://qiita.com/ume67026265/items/533e0fb3df7d2f174e83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-11T13:40:47.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Next.js App Routerで外部ライブラリのデータフェッチをメモ化する方法",
     "link": "https://zenn.dev/luvmini511/articles/a6116e333e3d4d",
@@ -112,12 +148,6 @@
     "title": "エンジニアが覚えておきたい英単語 - AIコード読解時代の必須語彙",
     "link": "https://qiita.com/Sakai_path/items/b11badaa8daff2984f8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-11T07:14:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕様駆動開発（SDD）を採用したAI駆動開発の実態と課題",
-    "link": "https://zenn.dev/assign/articles/ab66b2843d9380",
-    "pubDate": "2025-11-11T04:34:29.000Z"
   },
   {
     "site": "Qiita",
@@ -133,45 +163,15 @@
   },
   {
     "site": "Qiita",
+    "title": "【JavaScript】配列を二重配列に分解する提案",
+    "link": "https://qiita.com/rana_kualu/items/e7c51921e9e53415b5bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-10T11:29:33.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "決済実装は怖くない！テストカードという存在",
     "link": "https://qiita.com/inukai-masanori/items/7809cc7b63b37f958880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T09:47:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【CSS】要素がはみ出る！そんな時はまずmin-widthを0にする",
-    "link": "https://qiita.com/hrel11/items/fe402e3a7ed63d8cbe58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T05:13:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "あかんかった人生をやり直す",
-    "link": "https://qiita.com/monsoonTropicalBird/items/0e62b8fc44e480251f2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T02:20:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeでBacklogのチケットから自動実装する仕組みが快適すぎた",
-    "link": "https://qiita.com/mu7kata/items/4b42054ee1b3a96d6f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T01:59:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "超絶わかりやすい！正規表現で詰まったときのチートシート",
-    "link": "https://qiita.com/nolanlover0527/items/81bccb6dac08dfb0e49e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T01:48:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Docker】Docker用語が分からない人のための超入門ガイド",
-    "link": "https://qiita.com/shimada_slj/items/aece093434ca59ed87fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T00:39:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ChatGPTの「良い人フィルター」を外して本音を引き出してみた",
-    "link": "https://qiita.com/nolanlover0527/items/83480966029c70ad14d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-09T23:43:50.000Z"
   },
   {
     "site": "Hatena",
