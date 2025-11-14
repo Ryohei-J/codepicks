@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "【大河原克行の「パソコン業界、東奔西走」】 電池の常識を一変させた「エネループ」。発売から20年間の軌跡を追う",
+    "link": "https://pc.watch.impress.co.jp/docs/column/gyokai/2063128.html",
+    "pubDate": "2025-11-13T21:54:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【朗報？】Windows、「—」と「–」が入力しやすくなる。英文を打つ人にとっては最高のアプデかも | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2511-microsoft-added-shortcut-for-em-dashes/",
+    "pubDate": "2025-11-13T19:05:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【朗報？】Windows、「─」と「─」が入力しやすくなる。英文を打つ人にとっては最高のアプデかも（ライフハッカー・ジャパン） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/a77f8dd15bbb956973ead752b04814ded57a95db",
+    "pubDate": "2025-11-13T16:39:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
+    "link": "https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html",
+    "pubDate": "2025-11-13T14:24:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "サイバー攻撃被害のアサヒビールの売り上げが前年比９割まで回復、電話・FAXとExcelで手作業受注「ボーナス上げて欲しい」「ベテラン社員が活躍してる？」",
     "link": "https://togetter.com/li/2627531",
     "pubDate": "2025-11-13T12:29:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "書いたコードを“スキル化”して再利用してる話",
+    "link": "https://zenn.dev/explaza/articles/9f3271d1a9ce70",
+    "pubDate": "2025-11-13T12:07:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MoonBit 最高 2025",
+    "link": "https://zenn.dev/mizchi/articles/moonbit-is-good-2025",
+    "pubDate": "Thu, 13 Nov 2025 11:31:55 GMT"
   },
   {
     "site": "Hatena",
@@ -13,19 +49,25 @@
   },
   {
     "site": "Zenn",
+    "title": "【速報記事】FlutterKaigi2025 現地参加レポート",
+    "link": "https://zenn.dev/bloomo_tech/articles/efa8aa93b74bd3",
+    "pubDate": "Thu, 13 Nov 2025 09:29:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "書いたコードを“スキル化”して再利用してる話",
+    "link": "https://zenn.dev/explaza/articles/9f3271d1a9ce70",
+    "pubDate": "Thu, 13 Nov 2025 07:55:42 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Moonbit で React アプリを書く",
     "link": "https://zenn.dev/mizchi/articles/moonbit-react-app",
     "pubDate": "Thu, 13 Nov 2025 07:28:27 GMT"
   },
   {
     "site": "Hatena",
-    "title": "鍵をなくしたので鍵につけているAirTagの位置情報を調べたら出てきた場所がここで絶望...問い合わせても無駄に終わった...「どんなものでも消し炭にするって聞いたことある」",
-    "link": "https://togetter.com/li/2627430",
-    "pubDate": "2025-11-13T06:19:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "NTT、「空間ノイズキャンセリング」開発　耳を塞がず静かな空間を作る",
+    "title": "「空間をノイズキャンセリング」　NTTが開発　耳を塞がず静かな空間を作る",
     "link": "https://www.watch.impress.co.jp/docs/news/2062243.html",
     "pubDate": "2025-11-13T06:08:40.000Z"
   },
@@ -36,10 +78,10 @@
     "pubDate": "Thu, 13 Nov 2025 06:03:34 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "CTOがEngineering Managerに期待する7つのこと - KAKEHASHI Tech Blog",
-    "link": "https://kakehashi-dev.hatenablog.com/entry/2025/11/13/113000",
-    "pubDate": "2025-11-13T03:38:17.000Z"
+    "site": "Zenn",
+    "title": "GKE StandardクラスタでAutopilotノードが利用できるようになったので見てみよう",
+    "link": "https://zenn.dev/makocchan/articles/gke_standard_autopilot",
+    "pubDate": "Thu, 13 Nov 2025 03:24:02 GMT"
   },
   {
     "site": "Hatena",
@@ -48,28 +90,28 @@
     "pubDate": "2025-11-13T03:01:24.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AWS App Runnerで簡単にコンテナアプリを実装する",
+    "link": "https://qiita.com/YuNagura/items/d42f2cd6c60d9723931e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T03:00:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
+    "link": "https://qiita.com/huyunoki/items/9d4898a51ceb114076da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T02:36:55.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "ChatGPT「チャッピー」呼び、いつから広がった？X投稿を分析",
-    "link": "https://withnews.jp/article/f0251113000qq000000000000000W0je10701qq000028375A",
-    "pubDate": "2025-11-13T01:34:01.000Z"
+    "title": "なぜ人手不足なのにIT人材が消耗品にされる？　日本型DXの致命的な欠陥構造を分析",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2511/13/news003.html",
+    "pubDate": "2025-11-13T01:34:43.000Z"
   },
   {
     "site": "Qiita",
     "title": "インポートしたCSVの行番号",
     "link": "https://qiita.com/michi-yzrh/items/e3b75dbb08ff65dc614c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T00:47:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 「USB」とは何かを徹底解説。コネクタ形状、転送速度、給電能力まとめ",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2062553.html",
-    "pubDate": "2025-11-12T21:30:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "自宅のWi-Fiルーターを手軽に診断、「am I infected?」の使い方と結果の見方　",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2062038.html",
-    "pubDate": "2025-11-12T21:24:40.000Z"
   },
   {
     "site": "Zenn",
@@ -82,18 +124,6 @@
     "title": "AIエージェント機能を継続的に生み出すプロダクトマネジメントについて",
     "link": "https://zenn.dev/layerx/articles/b9272c63152826",
     "pubDate": "Wed, 12 Nov 2025 13:47:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cursor×MCPでスプレッドシートを使ったPM業務を効率化する環境を構築しよう",
-    "link": "https://zenn.dev/masarufuruya/articles/15fe5e2ab5930c",
-    "pubDate": "Wed, 12 Nov 2025 13:25:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIの質問を『選択肢+推奨度+理由』にしたら、意思決定の質と速度が圧倒的にあがった",
-    "link": "https://zenn.dev/loglass/articles/e250a06fca1f4a",
-    "pubDate": "2025-11-12T12:44:00.000Z"
   },
   {
     "site": "Qiita",
@@ -109,39 +139,21 @@
   },
   {
     "site": "Zenn",
-    "title": "わいの生成AIがカスコードばっか出してくるんやが",
-    "link": "https://zenn.dev/satto_workspace/articles/a12faf6131ac4e",
-    "pubDate": "Wed, 12 Nov 2025 06:41:43 GMT"
+    "title": "Flutterアプリ開発のツール管理をFVMからmiseに移行する",
+    "link": "https://zenn.dev/ivry/articles/9fe7b697f15959",
+    "pubDate": "Wed, 12 Nov 2025 07:00:49 GMT"
   },
   {
     "site": "Zenn",
-    "title": "アジャイル開発の課題を経営課題として捉える〜人的資本経営とFAST〜",
-    "link": "https://zenn.dev/loglass/articles/agile-as-management-issue-hcm-fast",
-    "pubDate": "Wed, 12 Nov 2025 04:44:41 GMT"
+    "title": "わいの生成AIがカスコードばっか出してくるんやが",
+    "link": "https://zenn.dev/satto_workspace/articles/a12faf6131ac4e",
+    "pubDate": "Wed, 12 Nov 2025 06:41:43 GMT"
   },
   {
     "site": "Qiita",
     "title": "AIがプログラマを滅ぼすというのは、幻想やったかもしれん",
     "link": "https://qiita.com/monsoonTropicalBird/items/1d5a6257808ff7871bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T04:28:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIの質問を『選択肢+推奨度+理由』にしたら、意思決定の質と速度が圧倒的にあがった",
-    "link": "https://zenn.dev/loglass/articles/e250a06fca1f4a",
-    "pubDate": "Wed, 12 Nov 2025 03:48:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニアキャリアと敗者のゲームと勝者のゲーム",
-    "link": "https://zenn.dev/truestar/articles/8692d8a0eddb28",
-    "pubDate": "Tue, 11 Nov 2025 21:12:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "kubernetes でケチケチ節約して複数のサイトを管理する",
-    "link": "https://zenn.dev/mattn/articles/3094881f936076",
-    "pubDate": "Tue, 11 Nov 2025 14:28:24 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "生粋のプログラマーが「ビジュアルスクリプティングしか使えない環境」と本気で向き合ってわかったこと",
     "link": "https://qiita.com/segur/items/9b62c7976bb21e822c72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-10T22:58:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【JavaScript】配列を二重配列に分解する提案",
-    "link": "https://qiita.com/rana_kualu/items/e7c51921e9e53415b5bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T11:29:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "決済実装は怖くない！テストカードという存在",
-    "link": "https://qiita.com/inukai-masanori/items/7809cc7b63b37f958880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-10T09:47:02.000Z"
   }
 ]
