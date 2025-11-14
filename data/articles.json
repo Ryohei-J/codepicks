@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "Amazonが何十万もする貴重な精密機械を梱包せず伝票を箱に直接貼った状態で送ってきた→ギフト包装を指定する、別の品と一緒に買うなど回避方法はある？",
+    "link": "https://togetter.com/li/2627815",
+    "pubDate": "2025-11-14T04:14:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "赤字拡大の「バルミューダ」　55万円のランタンで起死回生なるか",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2062928.html",
+    "pubDate": "2025-11-14T00:59:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜインフラコードのモジュール化は難しいのか - アプリケーションコードとの本質的な違いから考える",
+    "link": "https://speakerdeck.com/mizzy/yapc-fukuoka-2025",
+    "pubDate": "2025-11-14T00:28:02.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【大河原克行の「パソコン業界、東奔西走」】 電池の常識を一変させた「エネループ」。発売から20年間の軌跡を追う",
     "link": "https://pc.watch.impress.co.jp/docs/column/gyokai/2063128.html",
     "pubDate": "2025-11-13T21:54:20.000Z"
@@ -22,12 +40,6 @@
     "title": "Google、AIでファイルの種類を高速正確に判別するオープンソース「Magika 1.0」公開。Rustで再構築し、より高速かつ対象を200種類に拡大へ",
     "link": "https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html",
     "pubDate": "2025-11-13T14:24:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "サイバー攻撃被害のアサヒビールの売り上げが前年比９割まで回復、電話・FAXとExcelで手作業受注「ボーナス上げて欲しい」「ベテラン社員が活躍してる？」",
-    "link": "https://togetter.com/li/2627531",
-    "pubDate": "2025-11-13T12:29:18.000Z"
   },
   {
     "site": "Zenn",
@@ -55,6 +67,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Python で他生物の視覚をシミュレートする",
+    "link": "https://zenn.dev/aldagram_tech/articles/2bb82ddb00cffc",
+    "pubDate": "Thu, 13 Nov 2025 09:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "書いたコードを“スキル化”して再利用してる話",
     "link": "https://zenn.dev/explaza/articles/9f3271d1a9ce70",
     "pubDate": "Thu, 13 Nov 2025 07:55:42 GMT"
@@ -79,15 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "GKE StandardクラスタでAutopilotノードが利用できるようになったので見てみよう",
-    "link": "https://zenn.dev/makocchan/articles/gke_standard_autopilot",
-    "pubDate": "Thu, 13 Nov 2025 03:24:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "老舗コンピューター雑誌のバックナンバー23年分、1枚の画像に変換され無料公開中【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2062869.html",
-    "pubDate": "2025-11-13T03:01:24.000Z"
+    "title": "GitHub社謹製Spec KitにCodex CLI対応のPRを送った話",
+    "link": "https://zenn.dev/govtechtokyo/articles/f1197ab6501e45",
+    "pubDate": "Thu, 13 Nov 2025 05:03:05 GMT"
   },
   {
     "site": "Qiita",
@@ -100,12 +112,6 @@
     "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
     "link": "https://qiita.com/huyunoki/items/9d4898a51ceb114076da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T02:36:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜ人手不足なのにIT人材が消耗品にされる？　日本型DXの致命的な欠陥構造を分析",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2511/13/news003.html",
-    "pubDate": "2025-11-13T01:34:43.000Z"
   },
   {
     "site": "Qiita",
@@ -126,6 +132,12 @@
     "pubDate": "Wed, 12 Nov 2025 13:47:59 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "【2025年版】生成AIツール、結局どれ使えばいいの？実際に使って比較してみた",
+    "link": "https://zenn.dev/miz_1123/articles/30496a86db8feb",
+    "pubDate": "Wed, 12 Nov 2025 12:36:23 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Vue Fes Japan 2025 After Talk参加レポート #vuefes_aftertalk",
     "link": "https://qiita.com/okuto_oyama/items/7e7d6d2bc26d652516b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,18 +148,6 @@
     "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
     "link": "https://qiita.com/take-yoda/items/204d5c4170e408d4d0f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T08:48:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Flutterアプリ開発のツール管理をFVMからmiseに移行する",
-    "link": "https://zenn.dev/ivry/articles/9fe7b697f15959",
-    "pubDate": "Wed, 12 Nov 2025 07:00:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "わいの生成AIがカスコードばっか出してくるんやが",
-    "link": "https://zenn.dev/satto_workspace/articles/a12faf6131ac4e",
-    "pubDate": "Wed, 12 Nov 2025 06:41:43 GMT"
   },
   {
     "site": "Qiita",
