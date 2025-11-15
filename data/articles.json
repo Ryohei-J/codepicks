@@ -6,6 +6,12 @@
     "pubDate": "2025-11-14T21:12:26.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "手を動かしながら学ぶデータモデリング - 論理設計から物理設計まで / Data modeling",
+    "link": "https://speakerdeck.com/soudai/data-modeling",
+    "pubDate": "2025-11-14T15:03:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化",
     "link": "https://zenn.dev/appbrew/articles/e2f38677f6a0ce",
@@ -25,15 +31,15 @@
   },
   {
     "site": "Hatena",
-    "title": "SREのためのテレメトリー技術の探究 / Telemetry for SRE",
-    "link": "https://speakerdeck.com/yuukit/telemetry-for-sre",
-    "pubDate": "2025-11-14T09:01:57.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "クレジットカードの不正を防止する技術",
     "link": "https://speakerdeck.com/yutadayo/technology-for-prevent-credit-card-fraud",
     "pubDate": "2025-11-14T09:00:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "その分析、Cursorにやらせてみませんか？",
+    "link": "https://zenn.dev/sirok/articles/8fec2c27d81b32",
+    "pubDate": "Fri, 14 Nov 2025 08:50:22 GMT"
   },
   {
     "site": "Zenn",
@@ -42,16 +48,16 @@
     "pubDate": "Fri, 14 Nov 2025 08:41:19 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Code Wiki",
-    "link": "https://codewiki.google/",
-    "pubDate": "2025-11-14T06:34:07.000Z"
+    "site": "Zenn",
+    "title": "FlutterKaigi 2025 参加レポート",
+    "link": "https://zenn.dev/corrupt/articles/886124e9d9b88d",
+    "pubDate": "Fri, 14 Nov 2025 07:03:28 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ドキュメントを手作業で保守する時代は終わり ～Google、「Code Wiki」を公開プレビュー／公開リポジトリのドキュメントを継続的に自動生成、「Gemini CLI」拡張機能も開発中",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2063281.html",
-    "pubDate": "2025-11-14T06:15:51.000Z"
+    "site": "Zenn",
+    "title": "【Playwright Test Agent】LLMを使ってE2Eテストの開発・保守コストを10分の1にできた、かも",
+    "link": "https://zenn.dev/my_vision/articles/8713fc4fde965c",
+    "pubDate": "Fri, 14 Nov 2025 05:53:04 GMT"
   },
   {
     "site": "Qiita",
@@ -61,15 +67,21 @@
   },
   {
     "site": "Hatena",
+    "title": "Amazon ECS デプロイツール ecspresso の開発を支える「正しい抽象化」の探求 / YAPC::Fukuoka 2025",
+    "link": "https://speakerdeck.com/fujiwara3/yapc-fukuoka-2025",
+    "pubDate": "2025-11-14T05:35:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「データ無い！ 腹立つ！ 推論する！」から 「データ無い！ 腹立つ！ データを作る」へ チームでデータを作り、育てられるようにするまで / How can we create, use, and maintain data ourselves?",
+    "link": "https://speakerdeck.com/moznion/how-can-we-create-use-and-maintain-data-ourselves",
+    "pubDate": "2025-11-14T04:57:59.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "えっ! 年末調整ってそういうことだったの!?　収入と所得の違いなど“申告書の数字のギモン”図解で説明【2025年(令和7年分)の年末調整の書き方】変更点は？ 手取りはいくら増える？",
     "link": "https://internet.watch.impress.co.jp/docs/special/2063024.html",
     "pubDate": "2025-11-14T04:14:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropic社の「Code Execution with MCP」が示す未来  ―― ツールコール時代の終焉と、エージェント設計の次",
-    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
-    "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT"
   },
   {
     "site": "Hatena",
@@ -136,18 +148,6 @@
     "title": "Python で他生物の視覚をシミュレートする",
     "link": "https://zenn.dev/aldagram_tech/articles/2bb82ddb00cffc",
     "pubDate": "Thu, 13 Nov 2025 09:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "書いたコードを“スキル化”して再利用してる話",
-    "link": "https://zenn.dev/explaza/articles/9f3271d1a9ce70",
-    "pubDate": "Thu, 13 Nov 2025 07:55:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Moonbit で React アプリを書く",
-    "link": "https://zenn.dev/mizchi/articles/moonbit-react-app",
-    "pubDate": "Thu, 13 Nov 2025 07:28:27 GMT"
   },
   {
     "site": "Qiita",
