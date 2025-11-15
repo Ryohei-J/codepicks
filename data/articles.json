@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "セキュリティを 「ふつう」にやっていく 技術、体制、文化の追求 / YAPC::Fukuoka 2025",
+    "link": "https://speakerdeck.com/hiboma/yapc-fukuoka-2025",
+    "pubDate": "2025-11-14T21:12:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化",
+    "link": "https://zenn.dev/appbrew/articles/e2f38677f6a0ce",
+    "pubDate": "2025-11-14T14:46:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Suicaのペンギン」卒業騒動にまつわる背景と誤解　JR東日本に聞いた",
     "link": "https://www.itmedia.co.jp/mobile/articles/2511/14/news113.html",
     "pubDate": "2025-11-14T11:46:57.000Z"
@@ -13,9 +25,21 @@
   },
   {
     "site": "Hatena",
+    "title": "SREのためのテレメトリー技術の探究 / Telemetry for SRE",
+    "link": "https://speakerdeck.com/yuukit/telemetry-for-sre",
+    "pubDate": "2025-11-14T09:01:57.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "クレジットカードの不正を防止する技術",
     "link": "https://speakerdeck.com/yutadayo/technology-for-prevent-credit-card-fraud",
     "pubDate": "2025-11-14T09:00:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "隠線処理の話",
+    "link": "https://zenn.dev/kaityo256/articles/hidden_line_normal",
+    "pubDate": "Fri, 14 Nov 2025 08:41:19 GMT"
   },
   {
     "site": "Hatena",
@@ -30,10 +54,10 @@
     "pubDate": "2025-11-14T06:15:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Amazonが何十万もする貴重な精密機械を梱包せず伝票を箱に直接貼った状態で送ってきた→ギフト包装を指定する、別の品と一緒に買うなど回避方法はある？",
-    "link": "https://togetter.com/li/2627815",
-    "pubDate": "2025-11-14T04:14:17.000Z"
+    "site": "Qiita",
+    "title": "ゆめみ iOS インターンと九州〜関東ヒッチハイク旅の記録",
+    "link": "https://qiita.com/TaiyoYamada/items/053b03fae73d8ec86bc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T05:48:13.000Z"
   },
   {
     "site": "Hatena",
@@ -42,22 +66,34 @@
     "pubDate": "2025-11-14T04:14:00.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Anthropic社の「Code Execution with MCP」が示す未来  ―― ツールコール時代の終焉と、エージェント設計の次",
+    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
+    "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "おい、言語化しろ - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/14/112023",
     "pubDate": "2025-11-14T03:07:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "国土交通省が「MCPサーバ」公開　APIの知識不要、対話形式でのデータ取得が可能に",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/14/news056.html",
-    "pubDate": "2025-11-14T00:32:38.000Z"
+    "site": "Zenn",
+    "title": "デカルトの4つの規則に学ぶエンジニアの思考法",
+    "link": "https://zenn.dev/hisamitsu/articles/449cbae1fcf02d",
+    "pubDate": "Fri, 14 Nov 2025 00:02:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "なぜインフラコードのモジュール化は難しいのか - アプリケーションコードとの本質的な違いから考える",
-    "link": "https://speakerdeck.com/mizzy/yapc-fukuoka-2025",
-    "pubDate": "2025-11-14T00:28:02.000Z"
+    "site": "Qiita",
+    "title": "【Web開発】 主要Webフレームワークを比較 - React、Vue.js、Next.js、Django、FastAPIなど",
+    "link": "https://qiita.com/ktdatascience/items/e09cf1a615013f49388d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T23:32:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "iOSエンジニアだけが知っているGmailのなにげないすごさ",
+    "link": "https://zenn.dev/10q89s/articles/gmail_notifications",
+    "pubDate": "Thu, 13 Nov 2025 23:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -72,16 +108,10 @@
     "pubDate": "2025-11-13T16:46:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "nvim-submode : 直感的に設定可能な新しいサブモードプラグイン",
-    "link": "https://zenn.dev/sirasagi62/articles/08ed288ce990e2",
-    "pubDate": "Thu, 13 Nov 2025 13:18:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "laravelコマンドで Starter Kit を展開し、Sail で固める Laravel 開発環境構築ガイド",
-    "link": "https://zenn.dev/catatsumuri/articles/2b9ece7d2b12d7",
-    "pubDate": "Thu, 13 Nov 2025 11:50:08 GMT"
+    "site": "Qiita",
+    "title": "GPT-5.1とGPT-5の違いをGPT-5.1とGPT-5にQiitaの記事としてまとめさせて、GPT-5 Proで評価してみた。（Geminiもいるよ）",
+    "link": "https://qiita.com/autotaker1984/items/932a7059239d3445731f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T15:37:16.000Z"
   },
   {
     "site": "Zenn",
@@ -126,40 +156,16 @@
     "pubDate": "2025-11-13T07:23:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "LLM開発の裏で行われるデバッグ作業: PyTorch DCP",
-    "link": "https://zenn.dev/turing_motors/articles/04eed10b0aafe9",
-    "pubDate": "Thu, 13 Nov 2025 06:03:34 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS App Runnerで簡単にコンテナアプリを実装する",
-    "link": "https://qiita.com/YuNagura/items/d42f2cd6c60d9723931e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T03:00:19.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
     "link": "https://qiita.com/huyunoki/items/9d4898a51ceb114076da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T02:36:55.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "JS→TS移行で「型を書くだけ」じゃなかった話 - 型を書いて気づいた5つの設計の甘さ",
-    "link": "https://zenn.dev/ktsushima/articles/js-to-ts-migration-learnings",
-    "pubDate": "Wed, 12 Nov 2025 18:50:20 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "高受理系高校生が水色コーダーになるために必要な記事",
     "link": "https://qiita.com/nirure/items/a5e6ad8f678281cf208a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T17:53:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【社内発表】AI駆動開発を意識した開発についてやってみた：MCPサーバーとiOSアプリの連携",
-    "link": "https://qiita.com/infracat/items/711415e02bd2340713c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T13:50:26.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "AIがプログラマを滅ぼすというのは、幻想やったかもしれん",
     "link": "https://qiita.com/monsoonTropicalBird/items/1d5a6257808ff7871bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T04:28:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ゲームの負荷試験だってオブザーバビリティしたい！！",
-    "link": "https://qiita.com/ume67026265/items/533e0fb3df7d2f174e83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-11T13:40:47.000Z"
   }
 ]
