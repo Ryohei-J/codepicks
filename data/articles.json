@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "チーム開発の “地ならし\"",
+    "link": "https://speakerdeck.com/konifar/timukai-fa-no-di-narasi",
+    "pubDate": "2025-11-15T09:14:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「これからの時代の賢い人生戦略は親の近くに住む」という投稿へ共感する声が集まる一方、否定的な意見もありとても難しい",
+    "link": "https://togetter.com/li/2628236",
+    "pubDate": "2025-11-15T06:32:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple純正「1万円のヒモ」を買った　思ったよりスグレモノ【いつモノコト】",
+    "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2062057.html",
+    "pubDate": "2025-11-15T00:42:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIが仕分ける日本の雇用　NTT、34万人の業務「5年後に半分代替」 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC198KZ0Z10C25A9000000/",
+    "pubDate": "2025-11-14T21:40:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "セキュリティを 「ふつう」にやっていく 技術、体制、文化の追求 / YAPC::Fukuoka 2025",
     "link": "https://speakerdeck.com/hiboma/yapc-fukuoka-2025",
     "pubDate": "2025-11-14T21:12:26.000Z"
@@ -24,16 +48,16 @@
     "pubDate": "2025-11-14T11:46:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題",
-    "link": "https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti",
-    "pubDate": "2025-11-14T09:04:17.000Z"
+    "site": "Qiita",
+    "title": "【大刷新】PMBOK®の第8版がでた",
+    "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T10:47:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "クレジットカードの不正を防止する技術",
-    "link": "https://speakerdeck.com/yutadayo/technology-for-prevent-credit-card-fraud",
-    "pubDate": "2025-11-14T09:00:36.000Z"
+    "site": "Zenn",
+    "title": "週末にほぼAI (v0・Claude Codeなど) が作った比較サイトをリリース - ほぼ2日で完成した個人開発の裏側",
+    "link": "https://zenn.dev/chot/articles/e594febc54f68f",
+    "pubDate": "Fri, 14 Nov 2025 09:26:37 GMT"
   },
   {
     "site": "Zenn",
@@ -46,18 +70,6 @@
     "title": "隠線処理の話",
     "link": "https://zenn.dev/kaityo256/articles/hidden_line_normal",
     "pubDate": "Fri, 14 Nov 2025 08:41:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "FlutterKaigi 2025 参加レポート",
-    "link": "https://zenn.dev/corrupt/articles/886124e9d9b88d",
-    "pubDate": "Fri, 14 Nov 2025 07:03:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Playwright Test Agent】LLMを使ってE2Eテストの開発・保守コストを10分の1にできた、かも",
-    "link": "https://zenn.dev/my_vision/articles/8713fc4fde965c",
-    "pubDate": "Fri, 14 Nov 2025 05:53:04 GMT"
   },
   {
     "site": "Qiita",
@@ -78,16 +90,22 @@
     "pubDate": "2025-11-14T04:57:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "えっ! 年末調整ってそういうことだったの!?　収入と所得の違いなど“申告書の数字のギモン”図解で説明【2025年(令和7年分)の年末調整の書き方】変更点は？ 手取りはいくら増える？",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2063024.html",
-    "pubDate": "2025-11-14T04:14:00.000Z"
+    "site": "Qiita",
+    "title": "クレカ不要!!無料でクラウドWebアプリを作ってみた!!",
+    "link": "https://qiita.com/yo_arai/items/1bb5353cca7b3f5e37fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T04:08:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "おい、言語化しろ - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/14/112023",
-    "pubDate": "2025-11-14T03:07:11.000Z"
+    "site": "Zenn",
+    "title": "Anthropic社の「Code Execution with MCP」が示す未来  ―― ツールコール時代の終焉と、エージェント設計の次",
+    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
+    "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Node.js on Dockerでスリムかつセキュアなコンテナイメージを作る - 2025年版",
+    "link": "https://zenn.dev/bitkey_dev/articles/7802c25e79e1db",
+    "pubDate": "Fri, 14 Nov 2025 02:09:07 GMT"
   },
   {
     "site": "Zenn",
@@ -115,21 +133,21 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】Lv12：『ラストバトル』～Scanner、while、if～",
-    "link": "https://qiita.com/hitomin_poke/items/24b9bf90cfdeea398a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T16:46:32.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "GPT-5.1とGPT-5の違いをGPT-5.1とGPT-5にQiitaの記事としてまとめさせて、GPT-5 Proで評価してみた。（Geminiもいるよ）",
     "link": "https://qiita.com/autotaker1984/items/932a7059239d3445731f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T15:37:16.000Z"
   },
   {
     "site": "Zenn",
-    "title": "MoonBit 最高 2025",
-    "link": "https://zenn.dev/mizchi/articles/moonbit-is-good-2025",
-    "pubDate": "Thu, 13 Nov 2025 11:31:55 GMT"
+    "title": "Webサイトの状態管理にnanostoresを使ってみて",
+    "link": "https://zenn.dev/mari_tt/articles/40966b7c337e62",
+    "pubDate": "Thu, 13 Nov 2025 15:10:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "nvim-submode : 直感的に設定可能な新しいサブモードプラグイン",
+    "link": "https://zenn.dev/sirasagi62/articles/08ed288ce990e2",
+    "pubDate": "Thu, 13 Nov 2025 13:18:03 GMT"
   },
   {
     "site": "Qiita",
@@ -138,22 +156,10 @@
     "pubDate": "2025-11-13T11:06:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【速報記事】FlutterKaigi2025 現地参加レポート",
-    "link": "https://zenn.dev/bloomo_tech/articles/efa8aa93b74bd3",
-    "pubDate": "Thu, 13 Nov 2025 09:29:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Python で他生物の視覚をシミュレートする",
-    "link": "https://zenn.dev/aldagram_tech/articles/2bb82ddb00cffc",
-    "pubDate": "Thu, 13 Nov 2025 09:00:01 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "知っておくべき10のAWSサービス（SAA試験向け）",
-    "link": "https://qiita.com/ChrisFletcher/items/d04f4b002c3467bc1226?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T07:23:23.000Z"
+    "title": "[Claude Code] AIコーディング開発サイクル (2025年11月時点)",
+    "link": "https://qiita.com/nakamasato/items/ce77984e361ed877f66b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T08:44:30.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
     "link": "https://qiita.com/take-yoda/items/204d5c4170e408d4d0f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-12T08:48:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIがプログラマを滅ぼすというのは、幻想やったかもしれん",
-    "link": "https://qiita.com/monsoonTropicalBird/items/1d5a6257808ff7871bf0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T04:28:15.000Z"
   }
 ]
