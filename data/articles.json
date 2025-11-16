@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "なぜ \"use client\" ディレクティブは優れた API なのか",
+    "link": "https://zenn.dev/yutaosawa/articles/9e978d12793a56",
+    "pubDate": "Sun, 16 Nov 2025 06:24:27 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "コミュニティへの関わり方②コミュニティアンバサダーという選択肢",
+    "link": "https://zenn.dev/dataheroes/articles/d279e7fd7c61d1",
+    "pubDate": "Sun, 16 Nov 2025 05:26:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "コミュニティへの関わり方①あなたに合った参加スタイルを見つけよう",
+    "link": "https://zenn.dev/dataheroes/articles/f2fb8c4597a32c",
+    "pubDate": "Sun, 16 Nov 2025 05:26:40 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ローカルLLMのPoCに300万円使う前に読んでほしい話｜dx_note",
+    "link": "https://note.com/posi7293/n/n3982b984d308",
+    "pubDate": "2025-11-16T03:32:54.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "アーキテクチャと考える迷子にならない開発者テスト",
     "link": "https://speakerdeck.com/irof/architecture-and-developer-testing",
     "pubDate": "2025-11-15T23:03:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "第4回：NumPy配列の結合",
+    "link": "https://zenn.dev/haruhiro1020/articles/1495a0060b4a09",
+    "pubDate": "Sat, 15 Nov 2025 22:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -12,10 +42,22 @@
     "pubDate": "2025-11-15T21:24:05.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "tldraw × AIエージェント：Agent starter kitを触りながら仕組みを追う",
+    "link": "https://zenn.dev/slowhand/articles/bb203aba83e385",
+    "pubDate": "Sat, 15 Nov 2025 19:41:02 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "クマ遭遇確率、AIで予測　秋田県など19地域の地図公開　上智大「人とクマの接近防ぐ」",
     "link": "https://www.sankei.com/article/20251116-Q4QBBYHUAVJI3F75HNN2ORP7TY/",
     "pubDate": "2025-11-15T17:52:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTに｢回答の原産地｣を表示させたら快適だった",
+    "link": "https://www.gizmodo.jp/2025/11/chatgpt_custom_instruction_original_source_note.html",
+    "pubDate": "2025-11-15T16:26:32.000Z"
   },
   {
     "site": "Zenn",
@@ -25,39 +67,33 @@
   },
   {
     "site": "Zenn",
+    "title": "Amazon Bedrock AgentCore Runtimeで zip ファイルを直接アップロードでデプロイしてみた",
+    "link": "https://zenn.dev/fusic/articles/a8dcab7caf9904",
+    "pubDate": "Sat, 15 Nov 2025 12:37:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "自宅のRTX3060で小さなLLMを自作してみた",
+    "link": "https://zenn.dev/nwn/articles/8f1d2521284738",
+    "pubDate": "Sat, 15 Nov 2025 11:45:30 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Windows版Zedを試してみたらVSCodeより使うことになりそう",
     "link": "https://zenn.dev/amenaruya/articles/66b7ee7540703c",
     "pubDate": "Sat, 15 Nov 2025 10:55:12 GMT"
   },
   {
     "site": "Hatena",
-    "title": "乱雑なコードの整理から学ぶ設計の初歩",
-    "link": "https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu",
-    "pubDate": "2025-11-15T10:16:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "インターネットの面白い人たちってどこ行ったんだろう",
-    "link": "https://anond.hatelabo.jp/20251114234622",
-    "pubDate": "2025-11-15T07:49:06.000Z"
+    "title": "機密情報の漏洩を防げ！ Webフロントエンド開発で意識すべき漏洩パターンとその対策",
+    "link": "https://speakerdeck.com/mizdra/web-frontend-secret-leak",
+    "pubDate": "2025-11-15T08:21:12.000Z"
   },
   {
     "site": "Zenn",
     "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
     "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
     "pubDate": "Sat, 15 Nov 2025 07:34:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go × Github Copilot Agent の開発環境とツールセット紹介",
-    "link": "https://zenn.dev/naka_sei/articles/ac1035b0a91d12",
-    "pubDate": "Sat, 15 Nov 2025 06:52:29 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜAI-OCRソフトウェアYomiTokuはNCライセンス(商用利用不可)で提供しているのか｜Kotaro.Kinoshita",
-    "link": "https://note.com/kotaro_kinoshita/n/nd39c01e5794b",
-    "pubDate": "2025-11-15T06:27:02.000Z"
   },
   {
     "site": "Zenn",
@@ -90,10 +126,10 @@
     "pubDate": "2025-11-14T23:50:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code on the Web を超える!? Codex Cloud の実践テク5選",
-    "link": "https://zenn.dev/sunagaku/articles/codex-cloud-5-tips",
-    "pubDate": "Fri, 14 Nov 2025 23:06:07 GMT"
+    "site": "Qiita",
+    "title": "ALBのJWT検証をCognitoで試す",
+    "link": "https://qiita.com/ny7760/items/e0915401f09e72cd52c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T18:57:39.000Z"
   },
   {
     "site": "Qiita",
@@ -108,40 +144,16 @@
     "pubDate": "2025-11-14T10:47:29.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "週末にほぼAI (v0・Claude Codeなど) が作った比較サイトをリリース - ほぼ2日で完成した個人開発の裏側",
-    "link": "https://zenn.dev/chot/articles/e594febc54f68f",
-    "pubDate": "Fri, 14 Nov 2025 09:26:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "その分析、Cursorにやらせてみませんか？",
-    "link": "https://zenn.dev/sirok/articles/8fec2c27d81b32",
-    "pubDate": "Fri, 14 Nov 2025 08:50:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "隠線処理の話",
-    "link": "https://zenn.dev/kaityo256/articles/hidden_line_normal",
-    "pubDate": "Fri, 14 Nov 2025 08:41:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Playwright Test Agent】LLMを使ってE2Eテストの開発・保守コストを10分の1にできた、かも",
-    "link": "https://zenn.dev/my_vision/articles/8713fc4fde965c",
-    "pubDate": "Fri, 14 Nov 2025 05:53:04 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "クレカ不要!!無料でクラウドWebアプリを作ってみた!!",
     "link": "https://qiita.com/yo_arai/items/1bb5353cca7b3f5e37fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-14T04:08:06.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Anthropic社の「Code Execution with MCP」が示す未来  ―― ツールコール時代の終焉と、エージェント設計の次",
-    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
-    "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT"
+    "site": "Hatena",
+    "title": "NTTドコモが“脱VPN”で約5万人のテレワーク環境を刷新　「ゼロトラスト」で実現",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2511/14/news017.html",
+    "pubDate": "2025-11-14T01:30:14.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "[Claude Code] AIコーディング開発サイクル (2025年11月時点)",
     "link": "https://qiita.com/nakamasato/items/ce77984e361ed877f66b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T08:44:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "これ考えた人天才：「システムがまるで存在しない」交通系ICカード｜Yos1toshi",
-    "link": "https://note.com/yos1toshi/n/n8ccd18b8bed1",
-    "pubDate": "2025-11-13T04:15:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
-    "link": "https://qiita.com/huyunoki/items/9d4898a51ceb114076da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T02:36:55.000Z"
   }
 ]
