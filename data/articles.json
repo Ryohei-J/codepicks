@@ -1,9 +1,21 @@
 [
   {
+    "site": "Hatena",
+    "title": "NHK特設サイト消滅に波紋「未来に残して」署名1.7万人、広報「復活の計画なし」（弁護士ドットコムニュース） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/f2549ebeb60c6493cf001e0222a85556fef261b3",
+    "pubDate": "2025-11-16T08:37:22.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "なぜ \"use client\" ディレクティブは優れた API なのか",
     "link": "https://zenn.dev/yutaosawa/articles/9e978d12793a56",
     "pubDate": "Sun, 16 Nov 2025 06:24:27 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "JavaScriptにおけるasync/await呼び出しのスタックトレースの困難と実装",
+    "link": "https://speakerdeck.com/sosukesuzuki/awaithu-bichu-sinosutatukutoresunokun-nan-toshi-zhuang",
+    "pubDate": "2025-11-16T06:01:44.000Z"
   },
   {
     "site": "Zenn",
@@ -24,6 +36,12 @@
     "pubDate": "2025-11-16T03:32:54.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
+    "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
+    "pubDate": "2025-11-16T00:45:17.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "アーキテクチャと考える迷子にならない開発者テスト",
     "link": "https://speakerdeck.com/irof/architecture-and-developer-testing",
@@ -36,12 +54,6 @@
     "pubDate": "Sat, 15 Nov 2025 22:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「ブルーカラービリオネア」という幻想　迫るAI失業、中高年にも脅威 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN11CTZ0R11C25A1000000/",
-    "pubDate": "2025-11-15T21:24:05.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "tldraw × AIエージェント：Agent starter kitを触りながら仕組みを追う",
     "link": "https://zenn.dev/slowhand/articles/bb203aba83e385",
@@ -49,21 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "クマ遭遇確率、AIで予測　秋田県など19地域の地図公開　上智大「人とクマの接近防ぐ」",
-    "link": "https://www.sankei.com/article/20251116-Q4QBBYHUAVJI3F75HNN2ORP7TY/",
-    "pubDate": "2025-11-15T17:52:20.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ChatGPTに｢回答の原産地｣を表示させたら快適だった",
     "link": "https://www.gizmodo.jp/2025/11/chatgpt_custom_instruction_original_source_note.html",
     "pubDate": "2025-11-15T16:26:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Node.js on Dockerでスリムかつセキュアなコンテナイメージを作る - 2025年版",
-    "link": "https://zenn.dev/bitkey_dev/articles/7802c25e79e1db",
-    "pubDate": "2025-11-15T14:31:18.000Z"
   },
   {
     "site": "Zenn",
@@ -85,6 +85,12 @@
   },
   {
     "site": "Hatena",
+    "title": "競馬で学ぶ機械学習の基本と実践 / Machine Learning with Horse Racing",
+    "link": "https://speakerdeck.com/shoheimitani/machine-learning-with-horse-racing",
+    "pubDate": "2025-11-15T09:28:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "機密情報の漏洩を防げ！ Webフロントエンド開発で意識すべき漏洩パターンとその対策",
     "link": "https://speakerdeck.com/mizdra/web-frontend-secret-leak",
     "pubDate": "2025-11-15T08:21:12.000Z"
@@ -100,12 +106,6 @@
     "title": "【数式なし】AIエージェントの教科書",
     "link": "https://zenn.dev/kentaichimura/books/80b0ed2aabbbd1",
     "pubDate": "Sat, 15 Nov 2025 06:00:22 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "プログラミングのように法律答案が書けるエディタ「エルコード」を無料公開",
-    "link": "https://prtimes.jp/main/html/rd/p/000000002.000152752.html",
-    "pubDate": "2025-11-15T05:56:39.000Z"
   },
   {
     "site": "Qiita",
