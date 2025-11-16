@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "アーキテクチャと考える迷子にならない開発者テスト",
+    "link": "https://speakerdeck.com/irof/architecture-and-developer-testing",
+    "pubDate": "2025-11-15T23:03:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「ブルーカラービリオネア」という幻想　迫るAI失業、中高年にも脅威 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN11CTZ0R11C25A1000000/",
     "pubDate": "2025-11-15T21:24:05.000Z"
@@ -12,16 +18,22 @@
     "pubDate": "2025-11-15T17:52:20.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Node.js on Dockerでスリムかつセキュアなコンテナイメージを作る - 2025年版",
+    "link": "https://zenn.dev/bitkey_dev/articles/7802c25e79e1db",
+    "pubDate": "2025-11-15T14:31:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Windows版Zedを試してみたらVSCodeより使うことになりそう",
+    "link": "https://zenn.dev/amenaruya/articles/66b7ee7540703c",
+    "pubDate": "Sat, 15 Nov 2025 10:55:12 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "乱雑なコードの整理から学ぶ設計の初歩",
     "link": "https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu",
     "pubDate": "2025-11-15T10:16:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "チーム開発の “地ならし\"",
-    "link": "https://speakerdeck.com/konifar/timukai-fa-no-di-narasi",
-    "pubDate": "2025-11-15T09:14:09.000Z"
   },
   {
     "site": "Hatena",
@@ -37,15 +49,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Anthropic社の「Code Execution with MCP」が示す未来 ―― ツールコール時代の終焉と、エージェント設計の次",
-    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
-    "pubDate": "2025-11-15T06:31:11.000Z"
+    "title": "Go × Github Copilot Agent の開発環境とツールセット紹介",
+    "link": "https://zenn.dev/naka_sei/articles/ac1035b0a91d12",
+    "pubDate": "Sat, 15 Nov 2025 06:52:29 GMT"
   },
   {
     "site": "Hatena",
     "title": "なぜAI-OCRソフトウェアYomiTokuはNCライセンス(商用利用不可)で提供しているのか｜Kotaro.Kinoshita",
     "link": "https://note.com/kotaro_kinoshita/n/nd39c01e5794b",
     "pubDate": "2025-11-15T06:27:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【数式なし】AIエージェントの教科書",
+    "link": "https://zenn.dev/kentaichimura/books/80b0ed2aabbbd1",
+    "pubDate": "Sat, 15 Nov 2025 06:00:22 GMT"
   },
   {
     "site": "Hatena",
@@ -67,9 +85,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「テーマパーク専用着る毛布」ベルメゾンが発売　冬の待機から仮眠まで「無敵」仕様",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/14/news105.html",
-    "pubDate": "2025-11-14T23:31:31.000Z"
+    "title": "macに移ろうかなって思う",
+    "link": "https://anond.hatelabo.jp/20251115085016",
+    "pubDate": "2025-11-14T23:50:50.000Z"
   },
   {
     "site": "Zenn",
@@ -126,28 +144,10 @@
     "pubDate": "Fri, 14 Nov 2025 03:18:08 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Node.js on Dockerでスリムかつセキュアなコンテナイメージを作る - 2025年版",
-    "link": "https://zenn.dev/bitkey_dev/articles/7802c25e79e1db",
-    "pubDate": "Fri, 14 Nov 2025 02:09:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "デカルトの4つの規則に学ぶエンジニアの思考法",
-    "link": "https://zenn.dev/hisamitsu/articles/449cbae1fcf02d",
-    "pubDate": "Fri, 14 Nov 2025 00:02:04 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Web開発】 主要Webフレームワークを比較 - React、Vue.js、Next.js、Django、FastAPIなど",
     "link": "https://qiita.com/ktdatascience/items/e09cf1a615013f49388d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T23:32:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "iOSエンジニアだけが知っているGmailのなにげないすごさ",
-    "link": "https://zenn.dev/10q89s/articles/gmail_notifications",
-    "pubDate": "Thu, 13 Nov 2025 23:00:01 GMT"
   },
   {
     "site": "Qiita",
