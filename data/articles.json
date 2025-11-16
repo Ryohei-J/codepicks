@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「ブルーカラービリオネア」という幻想　迫るAI失業、中高年にも脅威 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN11CTZ0R11C25A1000000/",
+    "pubDate": "2025-11-15T21:24:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "クマ遭遇確率、AIで予測　秋田県など19地域の地図公開　上智大「人とクマの接近防ぐ」",
+    "link": "https://www.sankei.com/article/20251116-Q4QBBYHUAVJI3F75HNN2ORP7TY/",
+    "pubDate": "2025-11-15T17:52:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "乱雑なコードの整理から学ぶ設計の初歩",
+    "link": "https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu",
+    "pubDate": "2025-11-15T10:16:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "チーム開発の “地ならし\"",
     "link": "https://speakerdeck.com/konifar/timukai-fa-no-di-narasi",
     "pubDate": "2025-11-15T09:14:09.000Z"
@@ -12,46 +30,58 @@
     "pubDate": "2025-11-15T07:49:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "読む技術・書く技術・伝える技術 - 15年続けて分かった持続可能なオープンソース開発",
-    "link": "https://azu.github.io/slide/2025/yapc/opensource-15years.html",
-    "pubDate": "2025-11-15T07:31:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「これからの時代の賢い人生戦略は親の近くに住む」という投稿へ共感する声が集まる一方、否定的な意見もありとても難しい",
-    "link": "https://togetter.com/li/2628236",
-    "pubDate": "2025-11-15T06:32:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Apple純正「1万円のヒモ」を買った　思ったよりスグレモノ【いつモノコト】",
-    "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2062057.html",
-    "pubDate": "2025-11-15T00:42:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIが仕分ける日本の雇用　NTT、34万人の業務「5年後に半分代替」 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC198KZ0Z10C25A9000000/",
-    "pubDate": "2025-11-14T21:40:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "セキュリティを 「ふつう」にやっていく 技術、体制、文化の追求 / YAPC::Fukuoka 2025",
-    "link": "https://speakerdeck.com/hiboma/yapc-fukuoka-2025",
-    "pubDate": "2025-11-14T21:12:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "手を動かしながら学ぶデータモデリング - 論理設計から物理設計まで / Data modeling",
-    "link": "https://speakerdeck.com/soudai/data-modeling",
-    "pubDate": "2025-11-14T15:03:13.000Z"
+    "site": "Zenn",
+    "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
+    "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
+    "pubDate": "Sat, 15 Nov 2025 07:34:37 GMT"
   },
   {
     "site": "Zenn",
-    "title": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化",
-    "link": "https://zenn.dev/appbrew/articles/e2f38677f6a0ce",
-    "pubDate": "2025-11-14T14:46:00.000Z"
+    "title": "Anthropic社の「Code Execution with MCP」が示す未来 ―― ツールコール時代の終焉と、エージェント設計の次",
+    "link": "https://zenn.dev/hatyibei/articles/6b26d6bd27a9c2",
+    "pubDate": "2025-11-15T06:31:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜAI-OCRソフトウェアYomiTokuはNCライセンス(商用利用不可)で提供しているのか｜Kotaro.Kinoshita",
+    "link": "https://note.com/kotaro_kinoshita/n/nd39c01e5794b",
+    "pubDate": "2025-11-15T06:27:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "プログラミングのように法律答案が書けるエディタ「エルコード」を無料公開",
+    "link": "https://prtimes.jp/main/html/rd/p/000000002.000152752.html",
+    "pubDate": "2025-11-15T05:56:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "[Amazon Bedrock AgentCore]エージェント呼び出し時の認証を実装してみる（Inbound Auth解説）",
+    "link": "https://qiita.com/yakumo_09/items/a091b38d23cd16bdbf1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T02:56:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS初心者がTerraform でVPCを構築してみた話",
+    "link": "https://qiita.com/tks_1128/items/9bf85e72ec8e91ac270d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T23:54:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「テーマパーク専用着る毛布」ベルメゾンが発売　冬の待機から仮眠まで「無敵」仕様",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/14/news105.html",
+    "pubDate": "2025-11-14T23:31:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code on the Web を超える!? Codex Cloud の実践テク5選",
+    "link": "https://zenn.dev/sunagaku/articles/codex-cloud-5-tips",
+    "pubDate": "Fri, 14 Nov 2025 23:06:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
+    "link": "https://qiita.com/kotmyn0812/items/06f8a52780189457b80d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T17:18:01.000Z"
   },
   {
     "site": "Qiita",
@@ -78,10 +108,10 @@
     "pubDate": "Fri, 14 Nov 2025 08:41:19 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "ゆめみ iOS インターンと九州〜関東ヒッチハイク旅の記録",
-    "link": "https://qiita.com/TaiyoYamada/items/053b03fae73d8ec86bc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T05:48:13.000Z"
+    "site": "Zenn",
+    "title": "【Playwright Test Agent】LLMを使ってE2Eテストの開発・保守コストを10分の1にできた、かも",
+    "link": "https://zenn.dev/my_vision/articles/8713fc4fde965c",
+    "pubDate": "Fri, 14 Nov 2025 05:53:04 GMT"
   },
   {
     "site": "Qiita",
@@ -120,28 +150,10 @@
     "pubDate": "Thu, 13 Nov 2025 23:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "チームのCLAUDE.mdが勝手に育つ - Hook機能での自動化",
-    "link": "https://zenn.dev/appbrew/articles/e2f38677f6a0ce",
-    "pubDate": "Thu, 13 Nov 2025 23:00:00 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "GPT-5.1とGPT-5の違いをGPT-5.1とGPT-5にQiitaの記事としてまとめさせて、GPT-5 Proで評価してみた。（Geminiもいるよ）",
-    "link": "https://qiita.com/autotaker1984/items/932a7059239d3445731f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T15:37:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Webサイトの状態管理にnanostoresを使ってみて",
-    "link": "https://zenn.dev/mari_tt/articles/40966b7c337e62",
-    "pubDate": "Thu, 13 Nov 2025 15:10:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "nvim-submode : 直感的に設定可能な新しいサブモードプラグイン",
-    "link": "https://zenn.dev/sirasagi62/articles/08ed288ce990e2",
-    "pubDate": "Thu, 13 Nov 2025 13:18:03 GMT"
+    "title": "【Visual Studio 2026】MCPがついに標準化！NuGet MCPを有効化して動作確認してみた",
+    "link": "https://qiita.com/Sakai_path/items/8e4f317acb3490099dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-13T15:47:52.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "エンジニアに必要な自走力について学生目線で言語化してみた",
     "link": "https://qiita.com/huyunoki/items/9d4898a51ceb114076da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T02:36:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "高受理系高校生が水色コーダーになるために必要な記事",
-    "link": "https://qiita.com/nirure/items/a5e6ad8f678281cf208a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T17:53:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Qiita記事を100%AIに書かせたら、地獄が待っていた",
-    "link": "https://qiita.com/take-yoda/items/204d5c4170e408d4d0f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-12T08:48:13.000Z"
   }
 ]
