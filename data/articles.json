@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "女子社員「たまに凄い辛そうなの食べてますけど、お尻は大丈夫なんですか？」俺「痛いよ」→出された結論がパワーワード",
+    "link": "https://togetter.com/li/2628967",
+    "pubDate": "2025-11-17T05:48:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「得点が無限1UPみたいに増えてゆくんですけれども」高専ロボコンで優勝した旭川高専のとった戦法が話題に「合理的すぎて好き」「こういう発想大好き」",
+    "link": "https://togetter.com/li/2628947",
+    "pubDate": "2025-11-17T04:40:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「ウェブ魚拓サービスのArchive.todayに圧力をかける団体の実態は非常に怪しい」という調査結果をAdGuard DNSが公表",
     "link": "https://gigazine.net/news/20251117-suspicious-pressure-on-archive-today/",
     "pubDate": "2025-11-17T04:04:48.000Z"
@@ -13,9 +25,27 @@
   },
   {
     "site": "Hatena",
-    "title": "おい、つなげろ - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/17/085207",
-    "pubDate": "2025-11-17T00:13:15.000Z"
+    "title": "この文字組み、どっちが正解？ベースライン調整のセンスを磨いておこう",
+    "link": "https://www.adobe.com/jp/creativecloud/roc/blog/design/quiz-challenge/baseline.html",
+    "pubDate": "2025-11-17T02:00:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "意外と使ってない？SlackのRSS通知設定で最新情報をキャッチアップ！",
+    "link": "https://qiita.com/imamu123/items/308e857eddadfabd55be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T01:38:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "あなたもクソコードの世界に触れてみませんか？？ - 逆リファクタリングバトルのイベント報告 -",
+    "link": "https://zenn.dev/smartcamp/articles/eac471f2304863",
+    "pubDate": "Mon, 17 Nov 2025 01:28:20 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ReAct 論文と共に読み解く strands-agents/sdk-python の実装",
+    "link": "https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents",
+    "pubDate": "Mon, 17 Nov 2025 00:12:05 GMT"
   },
   {
     "site": "Hatena",
@@ -37,6 +67,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Code on Amazon Bedrock の利用状況の可視化とコスト管理",
+    "link": "https://zenn.dev/aws_japan/articles/2862581173159a",
+    "pubDate": "Sun, 16 Nov 2025 15:23:31 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Duolingoが利用しているオープンソースライブラリを分析してみた",
     "link": "https://zenn.dev/kg_lens/articles/ba9260bee75d06",
     "pubDate": "Sun, 16 Nov 2025 15:15:41 GMT"
@@ -46,6 +82,12 @@
     "title": "統計学の基本からDatadogのモニタリング機能を理解する",
     "link": "https://zenn.dev/koya6565/articles/20251109_datadog_statistics_mapping",
     "pubDate": "2025-11-16T14:31:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Claude Code】Skills機能で『AIっぽい』UIから脱却する方法！Anthropic公式もおすすめ",
+    "link": "https://zenn.dev/tmasuyama1114/articles/anthropic_claude_skills_design",
+    "pubDate": "Sun, 16 Nov 2025 14:21:14 GMT"
   },
   {
     "site": "Zenn",
@@ -61,6 +103,12 @@
   },
   {
     "site": "Zenn",
+    "title": "ClaudeCode使いにもお勧め！AIコーディングエージェントDroid CLIを紹介",
+    "link": "https://zenn.dev/fbbp/articles/ae0284b5138a1a",
+    "pubDate": "Sun, 16 Nov 2025 11:49:37 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "RTX 5090、キミにきめた！",
     "link": "https://zenn.dev/robustonian/articles/rtx5090_i_choose_you",
     "pubDate": "Sun, 16 Nov 2025 10:48:55 GMT"
@@ -70,18 +118,6 @@
     "title": "プロンプト・エンジニアリングは、まだ始まってすらいない",
     "link": "https://qiita.com/makotosaekit/items/21990e3703ac721a04d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-16T10:20:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "世界初、超電導モーター搭載の液体水素カローラが走行披露 佐々木雅弘選手がデモラン",
-    "link": "https://car.watch.impress.co.jp/docs/news/2063610.html",
-    "pubDate": "2025-11-16T09:23:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Owl/Crow：ModernBERT によるコード検索特化言語モデル構築",
-    "link": "https://zenn.dev/shun0212/articles/7769126172ebda",
-    "pubDate": "Sun, 16 Nov 2025 09:20:37 GMT"
   },
   {
     "site": "Qiita",
@@ -96,16 +132,16 @@
     "pubDate": "Sun, 16 Nov 2025 06:24:27 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "コミュニティへの関わり方②コミュニティアンバサダーという選択肢",
-    "link": "https://zenn.dev/dataheroes/articles/d279e7fd7c61d1",
-    "pubDate": "Sun, 16 Nov 2025 05:26:49 GMT"
+    "site": "Qiita",
+    "title": "【React】コードを書く前の基本概念を理解する",
+    "link": "https://qiita.com/ktdatascience/items/cadf9e3a694aa633a63d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T04:26:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "コミュニティへの関わり方①あなたに合った参加スタイルを見つけよう",
-    "link": "https://zenn.dev/dataheroes/articles/f2fb8c4597a32c",
-    "pubDate": "Sun, 16 Nov 2025 05:26:40 GMT"
+    "site": "Qiita",
+    "title": "【解説】ドイツの「PQC対応IDカード」とPQC対応パスポートを技術目線で読み解く",
+    "link": "https://qiita.com/satokan3/items/be788891338739d94137?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T17:27:50.000Z"
   },
   {
     "site": "Qiita",
@@ -114,52 +150,22 @@
     "pubDate": "2025-11-15T14:27:00.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "自宅のRTX3060で小さなLLMを自作してみた",
-    "link": "https://zenn.dev/nwn/articles/8f1d2521284738",
-    "pubDate": "Sat, 15 Nov 2025 11:45:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Windows版Zedを試してみたらVSCodeより使うことになりそう",
-    "link": "https://zenn.dev/amenaruya/articles/66b7ee7540703c",
-    "pubDate": "Sat, 15 Nov 2025 10:55:12 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【セキュリティ】初めてアプリをつくる人がまず抑えておくべき基本的事項",
     "link": "https://qiita.com/ktdatascience/items/72ecd89bef963acb9559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-15T10:30:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "競馬で学ぶ機械学習の基本と実践 / Machine Learning with Horse Racing",
-    "link": "https://speakerdeck.com/shoheimitani/machine-learning-with-horse-racing",
-    "pubDate": "2025-11-15T09:28:51.000Z"
+    "site": "Qiita",
+    "title": "コードレビューをゲーム化しました",
+    "link": "https://qiita.com/goofmint/items/a7fd9b4154b226a820eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T05:35:07.000Z"
   },
   {
     "site": "Qiita",
-    "title": "[Amazon Bedrock AgentCore]エージェント呼び出し時の認証を実装してみる（Inbound Auth解説）",
-    "link": "https://qiita.com/yakumo_09/items/a091b38d23cd16bdbf1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T02:56:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS初心者がTerraform でVPCを構築してみた話",
-    "link": "https://qiita.com/tks_1128/items/9bf85e72ec8e91ac270d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T23:54:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIで仕事が奪われる？ いいえ、エンジニア寿命が伸びる時代です",
-    "link": "https://qiita.com/Sakai_path/items/ad337c67fcb336380123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T23:42:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ALBのJWT検証をCognitoで試す",
-    "link": "https://qiita.com/ny7760/items/e0915401f09e72cd52c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T18:57:39.000Z"
+    "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
+    "link": "https://qiita.com/kotmyn0812/items/06f8a52780189457b80d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T17:18:01.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "やばいアプデきた！グーグル「NotebookLM」Deep Research機能で最強進化",
     "link": "https://ascii.jp/elem/000/004/350/4350621/",
     "pubDate": "2025-11-14T09:01:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Web開発】 主要Webフレームワークを比較 - React、Vue.js、Next.js、Django、FastAPIなど",
-    "link": "https://qiita.com/ktdatascience/items/e09cf1a615013f49388d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T23:32:13.000Z"
   }
 ]
