@@ -1,9 +1,69 @@
 [
   {
     "site": "Hatena",
-    "title": "NHK特設サイト消滅に波紋「未来に残して」署名1.7万人、広報「復活の計画なし」（弁護士ドットコムニュース） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/f2549ebeb60c6493cf001e0222a85556fef261b3",
-    "pubDate": "2025-11-16T08:37:22.000Z"
+    "title": "サカナAIの企業価値4000億円、国内スタートアップ最高に　200億円を調達 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC137OW0T11C25A1000000/",
+    "pubDate": "2025-11-16T23:18:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "セキュリティ文化醸成のための社内セキュリティ競技会2025 - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/11/17/080000",
+    "pubDate": "2025-11-16T23:14:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまミニレビュー】 無料のAffinityってPhotoshopの代わりになる？「やっぱ無理」という結論に達したワケ",
+    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2063469.html",
+    "pubDate": "2025-11-16T21:35:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Duolingoが公開している利用OSライブラリを分析してみた",
+    "link": "https://zenn.dev/kg_lens/articles/ba9260bee75d06",
+    "pubDate": "Sun, 16 Nov 2025 15:15:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "統計学の基本からDatadogのモニタリング機能を理解する",
+    "link": "https://zenn.dev/koya6565/articles/20251109_datadog_statistics_mapping",
+    "pubDate": "2025-11-16T14:31:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "初めて技術書典にサークル参加したら、楽しすぎた件",
+    "link": "https://qiita.com/MIDO-ruby7/items/e74914472ca49904b476?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T12:56:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RTX 5090、キミにきめた！",
+    "link": "https://zenn.dev/robustonian/articles/rtx5090_i_choose_you",
+    "pubDate": "Sun, 16 Nov 2025 10:48:55 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "プロンプト・エンジニアリングは、まだ始まってすらいない",
+    "link": "https://qiita.com/makotosaekit/items/21990e3703ac721a04d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T10:20:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "世界初、超電導モーター搭載の液体水素カローラが走行披露 佐々木雅弘選手がデモラン",
+    "link": "https://car.watch.impress.co.jp/docs/news/2063610.html",
+    "pubDate": "2025-11-16T09:23:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Owl/Crow：ModernBERT によるコード検索特化言語モデル構築",
+    "link": "https://zenn.dev/shun0212/articles/7769126172ebda",
+    "pubDate": "Sun, 16 Nov 2025 09:20:37 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】K-POPアイドル同士のダンスチャレンジ動画を探せるサービスを開発しました【Next/Supabase/Cloudflare】",
+    "link": "https://qiita.com/masafumi1073/items/3c84fe5b19fe71ae95b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T08:35:24.000Z"
   },
   {
     "site": "Zenn",
@@ -24,12 +84,6 @@
     "pubDate": "Sun, 16 Nov 2025 05:26:49 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "コミュニティへの関わり方①あなたに合った参加スタイルを見つけよう",
-    "link": "https://zenn.dev/dataheroes/articles/f2fb8c4597a32c",
-    "pubDate": "Sun, 16 Nov 2025 05:26:40 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "ローカルLLMのPoCに300万円使う前に読んでほしい話｜dx_note",
     "link": "https://note.com/posi7293/n/n3982b984d308",
@@ -42,34 +96,10 @@
     "pubDate": "2025-11-16T00:45:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アーキテクチャと考える迷子にならない開発者テスト",
-    "link": "https://speakerdeck.com/irof/architecture-and-developer-testing",
-    "pubDate": "2025-11-15T23:03:22.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "第4回：NumPy配列の結合",
     "link": "https://zenn.dev/haruhiro1020/articles/1495a0060b4a09",
     "pubDate": "Sat, 15 Nov 2025 22:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "tldraw × AIエージェント：Agent starter kitを触りながら仕組みを追う",
-    "link": "https://zenn.dev/slowhand/articles/bb203aba83e385",
-    "pubDate": "Sat, 15 Nov 2025 19:41:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPTに｢回答の原産地｣を表示させたら快適だった",
-    "link": "https://www.gizmodo.jp/2025/11/chatgpt_custom_instruction_original_source_note.html",
-    "pubDate": "2025-11-15T16:26:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Amazon Bedrock AgentCore Runtimeで zip ファイルを直接アップロードでデプロイしてみた",
-    "link": "https://zenn.dev/fusic/articles/a8dcab7caf9904",
-    "pubDate": "Sat, 15 Nov 2025 12:37:29 GMT"
   },
   {
     "site": "Zenn",
@@ -84,28 +114,28 @@
     "pubDate": "Sat, 15 Nov 2025 10:55:12 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【セキュリティ】初めてアプリをつくる人がまず抑えておくべき基本的事項",
+    "link": "https://qiita.com/ktdatascience/items/72ecd89bef963acb9559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T10:30:23.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "競馬で学ぶ機械学習の基本と実践 / Machine Learning with Horse Racing",
     "link": "https://speakerdeck.com/shoheimitani/machine-learning-with-horse-racing",
     "pubDate": "2025-11-15T09:28:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "機密情報の漏洩を防げ！ Webフロントエンド開発で意識すべき漏洩パターンとその対策",
-    "link": "https://speakerdeck.com/mizdra/web-frontend-secret-leak",
-    "pubDate": "2025-11-15T08:21:12.000Z"
+    "site": "Zenn",
+    "title": "BASE64と私の親密度をあげる",
+    "link": "https://zenn.dev/akari1106/articles/f73d60144bf877",
+    "pubDate": "Sat, 15 Nov 2025 08:13:41 GMT"
   },
   {
     "site": "Zenn",
     "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
     "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
     "pubDate": "Sat, 15 Nov 2025 07:34:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【数式なし】AIエージェントの教科書",
-    "link": "https://zenn.dev/kentaichimura/books/80b0ed2aabbbd1",
-    "pubDate": "Sat, 15 Nov 2025 06:00:22 GMT"
   },
   {
     "site": "Qiita",
@@ -120,10 +150,10 @@
     "pubDate": "2025-11-14T23:54:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "macに移ろうかなって思う",
-    "link": "https://anond.hatelabo.jp/20251115085016",
-    "pubDate": "2025-11-14T23:50:50.000Z"
+    "site": "Qiita",
+    "title": "AIで仕事が奪われる？ いいえ、エンジニア寿命が伸びる時代です",
+    "link": "https://qiita.com/Sakai_path/items/ad337c67fcb336380123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T23:42:25.000Z"
   },
   {
     "site": "Qiita",
@@ -133,27 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
-    "link": "https://qiita.com/kotmyn0812/items/06f8a52780189457b80d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T17:18:01.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【大刷新】PMBOK®の第8版がでた",
     "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-14T10:47:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "クレカ不要!!無料でクラウドWebアプリを作ってみた!!",
-    "link": "https://qiita.com/yo_arai/items/1bb5353cca7b3f5e37fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T04:08:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "NTTドコモが“脱VPN”で約5万人のテレワーク環境を刷新　「ゼロトラスト」で実現",
-    "link": "https://www.itmedia.co.jp/enterprise/articles/2511/14/news017.html",
-    "pubDate": "2025-11-14T01:30:14.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "2025-11-13T23:32:13.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【Visual Studio 2026】MCPがついに標準化！NuGet MCPを有効化して動作確認してみた",
-    "link": "https://qiita.com/Sakai_path/items/8e4f317acb3490099dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T15:47:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "文字化けの正体はこれだ！半角カナ・JIS・UTFの沼を実例で読み解く",
-    "link": "https://qiita.com/comty/items/cb4b0f0060af3ccc7209?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T11:06:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[Claude Code] AIコーディング開発サイクル (2025年11月時点)",
-    "link": "https://qiita.com/nakamasato/items/ce77984e361ed877f66b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-13T08:44:30.000Z"
+    "site": "Hatena",
+    "title": "新著が出ます：『NewSQL徹底入門』｜ミック",
+    "link": "https://note.com/mickmack/n/n22f775b3862c",
+    "pubDate": "2025-11-10T10:48:43.000Z"
   }
 ]
