@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "サカナAIの企業価値4000億円、国内スタートアップ最高に　200億円を調達 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC137OW0T11C25A1000000/",
-    "pubDate": "2025-11-16T23:18:11.000Z"
+    "title": "「ウェブ魚拓サービスのArchive.todayに圧力をかける団体の実態は非常に怪しい」という調査結果をAdGuard DNSが公表",
+    "link": "https://gigazine.net/news/20251117-suspicious-pressure-on-archive-today/",
+    "pubDate": "2025-11-17T04:04:48.000Z"
   },
   {
     "site": "Hatena",
-    "title": "セキュリティ文化醸成のための社内セキュリティ競技会2025 - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/11/17/080000",
-    "pubDate": "2025-11-16T23:14:34.000Z"
+    "title": "Valveの新小型ゲーミングPC「Steam Machine」のスペックは“大多数のSteamユーザー”以上。開発者いわく70％超のユーザーと同等以上の性能に - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/steam-machine-202501117-366178/",
+    "pubDate": "2025-11-17T03:29:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "おい、つなげろ - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/17/085207",
+    "pubDate": "2025-11-17T00:13:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "サカナAIの企業価値4000億円、国内スタートアップ最高に　200億円を調達 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC137OW0T11C25A1000000/",
+    "pubDate": "2025-11-16T23:18:11.000Z"
   },
   {
     "site": "Hatena",
@@ -19,7 +31,13 @@
   },
   {
     "site": "Zenn",
-    "title": "Duolingoが公開している利用OSライブラリを分析してみた",
+    "title": "4ヶ月で電子契約サービスを立ち上げた",
+    "link": "https://zenn.dev/tychy/articles/c4b1c1f4d42f78",
+    "pubDate": "Sun, 16 Nov 2025 15:50:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Duolingoが利用しているオープンソースライブラリを分析してみた",
     "link": "https://zenn.dev/kg_lens/articles/ba9260bee75d06",
     "pubDate": "Sun, 16 Nov 2025 15:15:41 GMT"
   },
@@ -28,6 +46,12 @@
     "title": "統計学の基本からDatadogのモニタリング機能を理解する",
     "link": "https://zenn.dev/koya6565/articles/20251109_datadog_statistics_mapping",
     "pubDate": "2025-11-16T14:31:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？",
+    "link": "https://zenn.dev/ukitaka/articles/468d418a5dd8fa",
+    "pubDate": "Sun, 16 Nov 2025 13:50:12 GMT"
   },
   {
     "site": "Qiita",
@@ -72,34 +96,22 @@
     "pubDate": "Sun, 16 Nov 2025 06:24:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "JavaScriptにおけるasync/await呼び出しのスタックトレースの困難と実装",
-    "link": "https://speakerdeck.com/sosukesuzuki/awaithu-bichu-sinosutatukutoresunokun-nan-toshi-zhuang",
-    "pubDate": "2025-11-16T06:01:44.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "コミュニティへの関わり方②コミュニティアンバサダーという選択肢",
     "link": "https://zenn.dev/dataheroes/articles/d279e7fd7c61d1",
     "pubDate": "Sun, 16 Nov 2025 05:26:49 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ローカルLLMのPoCに300万円使う前に読んでほしい話｜dx_note",
-    "link": "https://note.com/posi7293/n/n3982b984d308",
-    "pubDate": "2025-11-16T03:32:54.000Z"
+    "site": "Zenn",
+    "title": "コミュニティへの関わり方①あなたに合った参加スタイルを見つけよう",
+    "link": "https://zenn.dev/dataheroes/articles/f2fb8c4597a32c",
+    "pubDate": "Sun, 16 Nov 2025 05:26:40 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
-    "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
-    "pubDate": "2025-11-16T00:45:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "第4回：NumPy配列の結合",
-    "link": "https://zenn.dev/haruhiro1020/articles/1495a0060b4a09",
-    "pubDate": "Sat, 15 Nov 2025 22:00:01 GMT"
+    "site": "Qiita",
+    "title": "【大刷新】PMBOK®の第8版がでた - Qiita",
+    "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730",
+    "pubDate": "2025-11-15T14:27:00.000Z"
   },
   {
     "site": "Zenn",
@@ -124,18 +136,6 @@
     "title": "競馬で学ぶ機械学習の基本と実践 / Machine Learning with Horse Racing",
     "link": "https://speakerdeck.com/shoheimitani/machine-learning-with-horse-racing",
     "pubDate": "2025-11-15T09:28:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "BASE64と私の親密度をあげる",
-    "link": "https://zenn.dev/akari1106/articles/f73d60144bf877",
-    "pubDate": "Sat, 15 Nov 2025 08:13:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「モダンC#」に入門しよう！2025【.NET10/C#14】",
-    "link": "https://zenn.dev/inuinu/articles/modern-c-sharp-2025-in-csharp14-and-dotnet10",
-    "pubDate": "Sat, 15 Nov 2025 07:34:37 GMT"
   },
   {
     "site": "Qiita",
@@ -168,15 +168,15 @@
     "pubDate": "2025-11-14T10:47:29.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "やばいアプデきた！グーグル「NotebookLM」Deep Research機能で最強進化",
+    "link": "https://ascii.jp/elem/000/004/350/4350621/",
+    "pubDate": "2025-11-14T09:01:04.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【Web開発】 主要Webフレームワークを比較 - React、Vue.js、Next.js、Django、FastAPIなど",
     "link": "https://qiita.com/ktdatascience/items/e09cf1a615013f49388d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-13T23:32:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "新著が出ます：『NewSQL徹底入門』｜ミック",
-    "link": "https://note.com/mickmack/n/n22f775b3862c",
-    "pubDate": "2025-11-10T10:48:43.000Z"
   }
 ]
