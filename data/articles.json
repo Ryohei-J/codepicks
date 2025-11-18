@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "Cloudflare Global Network experiencing issues",
+    "link": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
+    "pubDate": "2025-11-18T12:06:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ひろゆき氏が1位、英オックスフォード大研究所が日本の“ニュースインフルエンサー”を調査　トップ15入りしたのは？",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/18/news118.html",
+    "pubDate": "2025-11-18T08:51:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "電力会社の従業員、約9年間電気を不正利用　社内システム操作し隠蔽　中電パワーグリッド",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/18/news091.html",
+    "pubDate": "2025-11-18T05:25:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "HTTPS通信とTLSの仕組みを理解する",
+    "link": "https://qiita.com/kazuki_ogawa/items/12268a7bce278c8eb102?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-18T04:44:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GPUに負荷をかけず、15.6型フルHDを最大4画面まで拡張できる外付けモニター",
     "link": "https://pc.watch.impress.co.jp/docs/news/2064134.html",
     "pubDate": "2025-11-18T03:52:57.000Z"
   },
   {
     "site": "Hatena",
-    "title": "絵師を騙す詐欺手口に注意。報酬を先にもらう→ざっと描いた線画ラフ渡す→キャンセルされ返金→ラフを元にAI生成した絵が無断でネットに登場（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2025/11/18/4718.html",
-    "pubDate": "2025-11-18T02:07:57.000Z"
+    "title": "なぜ二次絵界隈だけが反AIで過激化しているのか？",
+    "link": "https://anond.hatelabo.jp/20251118124421",
+    "pubDate": "2025-11-18T03:45:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「NotebookLM」と同等の機能をローカル環境で使える「Open Notebook」",
+    "link": "https://japan.zdnet.com/article/35240588/",
+    "pubDate": "2025-11-18T03:02:58.000Z"
   },
   {
     "site": "Hatena",
@@ -36,28 +66,22 @@
     "pubDate": "2025-11-17T23:04:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "クラウドインフラのシェア、AWSが再び30％を切って29％に。Googleが13％へと成長。2025年第3四半期、Synergy Researchの調査結果",
-    "link": "https://www.publickey1.jp/blog/25/aws3029google1320253synergy_research.html",
-    "pubDate": "2025-11-17T17:56:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "最近「無意味にフォント小さい案内板」が多すぎない？案内板が必要な時って、焦っていて視野や判断力が鈍っている時でしょ",
-    "link": "https://togetter.com/li/2629134",
-    "pubDate": "2025-11-17T16:08:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIに賭けるDeNA、データガバナンスで安心・安全を",
-    "link": "https://mag.executive.itmedia.co.jp/executive/articles/2509/30/news031.html",
-    "pubDate": "2025-11-17T15:58:16.000Z"
+    "site": "Qiita",
+    "title": "家族会議が「感情論」で炎上するので、心理的安全性を守るアプリをAIと二人三脚で作った話",
+    "link": "https://qiita.com/a-nagaoka/items/aa575fc8d3bf7c06b1c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T22:31:11.000Z"
   },
   {
     "site": "Zenn",
-    "title": "「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？",
-    "link": "https://zenn.dev/ukitaka/articles/468d418a5dd8fa",
-    "pubDate": "2025-11-17T14:19:44.000Z"
+    "title": "😱 恐怖！ChatGPTは「忖度」する 〜私がAIに「時給1500円の雑魚」と判定させた誘導実験（実話）〜",
+    "link": "https://zenn.dev/taka4rest/articles/9477a26b8c2e0b",
+    "pubDate": "Mon, 17 Nov 2025 16:22:24 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "文字をうつということ｜キーボード・オタク（著）",
+    "link": "https://qiita.com/kanekanekaneko/items/055b1db531c998ea09df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T15:07:54.000Z"
   },
   {
     "site": "Zenn",
@@ -78,16 +102,16 @@
     "pubDate": "Mon, 17 Nov 2025 11:17:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIエージェントで障害対応とかにおける調査を少しでも楽にしたい",
-    "link": "https://zenn.dev/makocchan/articles/perf_investigating_agent",
-    "pubDate": "Mon, 17 Nov 2025 09:24:12 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【徹底解剖】ChatGPTグループチャットのセキュリティ アレコレ（前編）",
     "link": "https://qiita.com/satokan3/items/9ed160a261ec9033cc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-17T08:48:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【TOON】JSON時代の終わり？ 話題のTOONを解説してみた",
+    "link": "https://qiita.com/shanks665/items/a5ec31706af9ffffc491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T04:19:58.000Z"
   },
   {
     "site": "Zenn",
@@ -106,12 +130,6 @@
     "title": "600ファイル5000箇所の多言語対応を半日で終わらせた話",
     "link": "https://zenn.dev/dress_code/articles/codebase-transformation",
     "pubDate": "Mon, 17 Nov 2025 02:00:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "意外と使ってない？SlackのRSS通知設定で最新情報をキャッチアップ！",
-    "link": "https://qiita.com/imamu123/items/308e857eddadfabd55be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T01:38:34.000Z"
   },
   {
     "site": "Zenn",
@@ -145,38 +163,20 @@
   },
   {
     "site": "Qiita",
+    "title": "中学生がAndroidアプリ開発してGooglePlayで公開した話",
+    "link": "https://qiita.com/nekogakure/items/f1accd7aeeec5a3a7cdf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T04:39:23.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【React】コードを書く前の基本概念を理解する",
     "link": "https://qiita.com/ktdatascience/items/cadf9e3a694aa633a63d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-16T04:26:07.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【解説】ドイツの「PQC対応IDカード」とPQC対応パスポートを技術目線で読み解く",
-    "link": "https://qiita.com/satokan3/items/be788891338739d94137?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T17:27:50.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【セキュリティ】初めてアプリをつくる人がまず抑えておくべき基本的事項",
     "link": "https://qiita.com/ktdatascience/items/72ecd89bef963acb9559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-15T10:30:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コードレビューをゲーム化しました",
-    "link": "https://qiita.com/goofmint/items/a7fd9b4154b226a820eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T05:35:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GPT-5.1とgeoguessrするのがめっちゃ楽しい",
-    "link": "https://qiita.com/autotaker1984/items/b7f77bac83e2d62aa8df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T01:30:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIで仕事が奪われる？ いいえ、エンジニア寿命が伸びる時代です",
-    "link": "https://qiita.com/Sakai_path/items/ad337c67fcb336380123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T23:42:25.000Z"
   }
 ]
