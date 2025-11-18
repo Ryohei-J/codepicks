@@ -1,5 +1,53 @@
 [
   {
+    "site": "Hatena",
+    "title": "「Microsoft 365」（Office）と「LibreOffice」でフォントが違う問題、AIで緩和へ／フォント置換テーブルの活用と専用拡張機能の充実でカバーへ",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2063923.html",
+    "pubDate": "2025-11-17T22:37:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "クラウドインフラのシェア、AWSが再び30％を切って29％に。Googleが13％へと成長。2025年第3四半期、Synergy Researchの調査結果",
+    "link": "https://www.publickey1.jp/blog/25/aws3029google1320253synergy_research.html",
+    "pubDate": "2025-11-17T17:56:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最近「無意味にフォント小さい案内板」が多すぎない？案内板が必要な時って、焦っていて視野や判断力が鈍っている時でしょ",
+    "link": "https://togetter.com/li/2629134",
+    "pubDate": "2025-11-17T16:08:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIに賭けるDeNA、データガバナンスで安心・安全を",
+    "link": "https://mag.executive.itmedia.co.jp/executive/articles/2509/30/news031.html",
+    "pubDate": "2025-11-17T15:58:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？",
+    "link": "https://zenn.dev/ukitaka/articles/468d418a5dd8fa",
+    "pubDate": "2025-11-17T14:19:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Building a Simple Search Engine That Actually Works",
+    "link": "https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works",
+    "pubDate": "2025-11-17T13:01:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "BTCONJP2025_ミニセッションと参加レポート",
+    "link": "https://zenn.dev/genda_jp/articles/d492ad7b0aee25",
+    "pubDate": "Mon, 17 Nov 2025 11:44:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "シミュレーションコンペで銅メダル2つを獲得してkaggle Expertになった方法",
+    "link": "https://zenn.dev/epicai_techblog/articles/a80959e01d62fd",
+    "pubDate": "Mon, 17 Nov 2025 11:17:01 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "4ヶ月で電子契約サービスを立ち上げた",
     "link": "https://zenn.dev/tychy/articles/c4b1c1f4d42f78",
@@ -7,21 +55,27 @@
   },
   {
     "site": "Hatena",
-    "title": "女子社員「たまに凄い辛そうなの食べてますけど、お尻は大丈夫なんですか？」俺「痛いよ」→出された結論がパワーワード",
-    "link": "https://togetter.com/li/2628967",
-    "pubDate": "2025-11-17T05:48:49.000Z"
+    "title": "新型ロマンスカー、展望席に“雫”をイメージした大型ガラス採用、車体は淡い水色に　小田急が概要発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/17/news092.html",
+    "pubDate": "2025-11-17T09:37:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【徹底解剖】ChatGPTグループチャットのセキュリティ アレコレ（前編）",
+    "link": "https://qiita.com/satokan3/items/9ed160a261ec9033cc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T08:48:52.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「得点が無限1UPみたいに増えてゆくんですけれども」高専ロボコンで優勝した旭川高専のとった戦法が話題に「合理的すぎて好き」「こういう発想大好き」",
-    "link": "https://togetter.com/li/2628947",
-    "pubDate": "2025-11-17T04:40:28.000Z"
+    "title": "オンライン会議中に宅配を受け取る新入社員　叱っていいのか、悪いのか？",
+    "link": "https://www.itmedia.co.jp/business/articles/2511/17/news006.html",
+    "pubDate": "2025-11-17T08:13:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「ウェブ魚拓サービスのArchive.todayに圧力をかける団体の実態は非常に怪しい」という調査結果をAdGuard DNSが公表",
-    "link": "https://gigazine.net/news/20251117-suspicious-pressure-on-archive-today/",
-    "pubDate": "2025-11-17T04:04:48.000Z"
+    "site": "Zenn",
+    "title": "Next.js 16で導入されたキャッシュコンポーネントについて理解する",
+    "link": "https://zenn.dev/m_noto/articles/ec22016e47a214",
+    "pubDate": "Mon, 17 Nov 2025 05:50:02 GMT"
   },
   {
     "site": "Zenn",
@@ -30,22 +84,16 @@
     "pubDate": "Mon, 17 Nov 2025 03:35:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Valveの新小型ゲーミングPC「Steam Machine」のスペックは“大多数のSteamユーザー”以上。開発者いわく70％超のユーザーと同等以上の性能に - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/steam-machine-202501117-366178/",
-    "pubDate": "2025-11-17T03:29:53.000Z"
+    "site": "Zenn",
+    "title": "Duolingoが利用しているオープンソースライブラリを分析してみた",
+    "link": "https://zenn.dev/kg_lens/articles/ba9260bee75d06",
+    "pubDate": "2025-11-17T03:13:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「シニアエンジニアとして技術で事業に貢献する方法」全部振り返る | レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/column/detail_757/",
-    "pubDate": "2025-11-17T03:22:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "この文字組み、どっちが正解？ベースライン調整のセンスを磨いておこう",
-    "link": "https://www.adobe.com/jp/creativecloud/roc/blog/design/quiz-challenge/baseline.html",
-    "pubDate": "2025-11-17T02:00:11.000Z"
+    "site": "Zenn",
+    "title": "600ファイル5000箇所の多言語対応を半日で終わらせた話",
+    "link": "https://zenn.dev/dress_code/articles/codebase-transformation",
+    "pubDate": "Mon, 17 Nov 2025 02:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -61,15 +109,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Linuxで顔認証するPAMモジュール chissu-pam を作った",
+    "link": "https://zenn.dev/sett4/articles/cf330b6044cd49",
+    "pubDate": "Mon, 17 Nov 2025 01:00:00 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ReAct 論文と共に読み解く strands-agents/sdk-python の実装",
     "link": "https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents",
     "pubDate": "Mon, 17 Nov 2025 00:12:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【やじうまミニレビュー】 無料のAffinityってPhotoshopの代わりになる？「やっぱ無理」という結論に達したワケ",
-    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2063469.html",
-    "pubDate": "2025-11-16T21:35:36.000Z"
   },
   {
     "site": "Zenn",
@@ -79,27 +127,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code on Amazon Bedrock の利用状況の可視化とコスト管理",
-    "link": "https://zenn.dev/aws_japan/articles/2862581173159a",
-    "pubDate": "Sun, 16 Nov 2025 15:23:31 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Duolingoが利用しているオープンソースライブラリを分析してみた",
     "link": "https://zenn.dev/kg_lens/articles/ba9260bee75d06",
     "pubDate": "Sun, 16 Nov 2025 15:15:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code】Skills機能で『AIっぽい』UIから脱却する方法！Anthropic公式もおすすめ",
-    "link": "https://zenn.dev/tmasuyama1114/articles/anthropic_claude_skills_design",
-    "pubDate": "Sun, 16 Nov 2025 14:21:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？",
-    "link": "https://zenn.dev/ukitaka/articles/468d418a5dd8fa",
-    "pubDate": "Sun, 16 Nov 2025 13:50:12 GMT"
   },
   {
     "site": "Qiita",
@@ -108,28 +138,10 @@
     "pubDate": "2025-11-16T12:56:22.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ClaudeCode使いにもお勧め！AIコーディングエージェントDroid CLIを紹介",
-    "link": "https://zenn.dev/fbbp/articles/ae0284b5138a1a",
-    "pubDate": "Sun, 16 Nov 2025 11:49:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RTX 5090、キミにきめた！",
-    "link": "https://zenn.dev/robustonian/articles/rtx5090_i_choose_you",
-    "pubDate": "Sun, 16 Nov 2025 10:48:55 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "プロンプト・エンジニアリングは、まだ始まってすらいない",
     "link": "https://qiita.com/makotosaekit/items/21990e3703ac721a04d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-16T10:20:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】K-POPアイドル同士のダンスチャレンジ動画を探せるサービスを開発しました【Next/Supabase/Cloudflare】",
-    "link": "https://qiita.com/masafumi1073/items/3c84fe5b19fe71ae95b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-16T08:35:24.000Z"
   },
   {
     "site": "Qiita",
@@ -145,12 +157,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【大刷新】PMBOK®の第8版がでた - Qiita",
-    "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730",
-    "pubDate": "2025-11-15T14:27:00.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【セキュリティ】初めてアプリをつくる人がまず抑えておくべき基本的事項",
     "link": "https://qiita.com/ktdatascience/items/72ecd89bef963acb9559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-15T10:30:23.000Z"
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "国土交通データプラットフォームのMCPサーバーが公開されたので試してみた",
-    "link": "https://qiita.com/kotmyn0812/items/06f8a52780189457b80d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T17:18:01.000Z"
+    "title": "GPT-5.1とgeoguessrするのがめっちゃ楽しい",
+    "link": "https://qiita.com/autotaker1984/items/b7f77bac83e2d62aa8df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-15T01:30:33.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【大刷新】PMBOK®の第8版がでた",
-    "link": "https://qiita.com/hokutoh/items/702bb1df2b2668640730?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-14T10:47:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "やばいアプデきた！グーグル「NotebookLM」Deep Research機能で最強進化",
-    "link": "https://ascii.jp/elem/000/004/350/4350621/",
-    "pubDate": "2025-11-14T09:01:04.000Z"
+    "title": "AIで仕事が奪われる？ いいえ、エンジニア寿命が伸びる時代です",
+    "link": "https://qiita.com/Sakai_path/items/ad337c67fcb336380123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-14T23:42:25.000Z"
   }
 ]
