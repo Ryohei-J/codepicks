@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "AntigravityはどういうAIエディタなのか",
+    "link": "https://blog.lai.so/antigravity/",
+    "pubDate": "2025-11-19T07:17:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
+    "link": "https://zenn.dev/turing_motors/articles/81cf3128b22c63",
+    "pubDate": "Wed, 19 Nov 2025 06:22:29 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "仕様駆動開発の理想と現実、そして向き合い方",
+    "link": "https://speakerdeck.com/gotalab555/shi-yang-qu-dong-kai-fa-noli-xiang-toxian-shi-sositexiang-kihe-ifang",
+    "pubDate": "2025-11-19T04:18:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "HonoとPerl 〜 異文化を持ち込む",
+    "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
+    "pubDate": "Wed, 19 Nov 2025 03:04:28 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "「家族のために休職中にwebデザインを学んで独立したい」という相談が恐怖を感じる→「全然家族の為になってないからやめたまえ…」「毎日2.3時間の勉強で独立する気なのか…」",
     "link": "https://posfie.com/@petaritape/p/XsKQTzz",
     "pubDate": "2025-11-19T01:58:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている",
+    "link": "https://qiita.com/rf_p/items/60be12914338447543d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T01:11:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Googleが発表したAIエディタ、Antigravityを触ってみた。~指示・実装・動作確認~",
+    "link": "https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T00:52:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法",
+    "link": "https://zenn.dev/loglass/articles/7dfe1fb0aa1086",
+    "pubDate": "Wed, 19 Nov 2025 00:28:15 GMT"
   },
   {
     "site": "Hatena",
@@ -18,10 +60,22 @@
     "pubDate": "2025-11-18T23:45:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "［速報］マイクロソフト、あらゆるAIエージェントを包括的に管理する「Microsoft Agent 365」発表。Ignite 2025",
-    "link": "https://www.publickey1.jp/blog/25/aimicrosoft_agent_365ignite_2025.html",
-    "pubDate": "2025-11-18T21:07:36.000Z"
+    "site": "Qiita",
+    "title": "【速報】Google Gemini 3発表。推論・エージェント機能の進化を徹底解説",
+    "link": "https://qiita.com/kentaro_kawamura/items/8d8d52c43154fb172b40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-18T23:37:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google Antigravityファーストインプレッション",
+    "link": "https://zenn.dev/ukiuni/articles/447549118796b1",
+    "pubDate": "Tue, 18 Nov 2025 22:54:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Skillsで簡単にApple風デザインを自動生成！AIっぽいデザインから脱却する方法",
+    "link": "https://zenn.dev/tmasuyama1114/articles/apple_design_skills",
+    "pubDate": "Tue, 18 Nov 2025 19:54:15 GMT"
   },
   {
     "site": "Hatena",
@@ -36,22 +90,28 @@
     "pubDate": "2025-11-18T16:49:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグル「Gemini 3」を公開　AIモード検索にも導入　Gemini Agent登場",
-    "link": "https://www.watch.impress.co.jp/docs/news/2064371.html",
-    "pubDate": "2025-11-18T16:14:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "インターネットが壊れた？　XもChatGPTも使えない　原因の「クラウドフレア」とは",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/18/news131.html",
-    "pubDate": "2025-11-18T15:03:25.000Z"
+    "site": "Zenn",
+    "title": "AIエージェントを開発するPdMがやることをプロンプトを書きながら考える",
+    "link": "https://zenn.dev/layerx/articles/671bdaf4aa0a32",
+    "pubDate": "Tue, 18 Nov 2025 14:45:14 GMT"
   },
   {
     "site": "Hatena",
     "title": "「一般人は容量ばかり見て、充電速度を見ない」百均の20000mAhのモバイルバッテリーを買うくらいなら少し高くても急速充電できるものを買った方が良い？",
     "link": "https://togetter.com/li/2629430",
     "pubDate": "2025-11-18T14:12:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "今年も FlutterKaigi 2025 に参加してきました",
+    "link": "https://zenn.dev/chooyan/articles/1279762434dac3",
+    "pubDate": "Tue, 18 Nov 2025 12:53:02 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "KiroとAmazon Q Developerの比較（2025/11/18）",
+    "link": "https://qiita.com/moritalous/items/76b298854130f239c8d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-18T10:52:09.000Z"
   },
   {
     "site": "Hatena",
@@ -67,39 +127,21 @@
   },
   {
     "site": "Zenn",
-    "title": "ClaudeCodeの拡張思考モード解説",
-    "link": "https://zenn.dev/applibot_tech/articles/6021e75d09bddc",
-    "pubDate": "Tue, 18 Nov 2025 06:33:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ReactのFragmentってなんぞや",
-    "link": "https://zenn.dev/sanyodo/articles/26ad88e3527605",
-    "pubDate": "Tue, 18 Nov 2025 05:59:58 GMT"
+    "title": "基本無料のAIチャットリリースで確信したGPT-OSSこそ真のゲームチェンジャーといえる理由",
+    "link": "https://zenn.dev/collections/articles/ada3a73f0af8bf",
+    "pubDate": "Tue, 18 Nov 2025 08:08:40 GMT"
   },
   {
     "site": "Qiita",
-    "title": "HTTPS通信とTLSの仕組みを理解する",
-    "link": "https://qiita.com/kazuki_ogawa/items/12268a7bce278c8eb102?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-18T04:44:03.000Z"
+    "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",
+    "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-18T07:34:01.000Z"
   },
   {
     "site": "Zenn",
-    "title": "AI-DLCワークショップ体験記：3日間で学んだAI駆動開発の実践と課題",
-    "link": "https://zenn.dev/dip_techblog/articles/b0dfe50710267f",
-    "pubDate": "Tue, 18 Nov 2025 00:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜMath.random()でパスワードを生成してはいけないのか：Web Crypto APIで学ぶセキュアな乱数生成",
-    "link": "https://zenn.dev/nabewata/articles/128d4cadc90860",
-    "pubDate": "Tue, 18 Nov 2025 00:07:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGをゼロから実装して仕組みを学ぶ【2025年版】",
-    "link": "https://zenn.dev/knowledgesense/articles/2619c6e5918d08",
-    "pubDate": "Tue, 18 Nov 2025 00:01:06 GMT"
+    "title": "ClaudeCodeの拡張思考モード解説",
+    "link": "https://zenn.dev/applibot_tech/articles/6021e75d09bddc",
+    "pubDate": "Tue, 18 Nov 2025 06:33:21 GMT"
   },
   {
     "site": "Qiita",
@@ -121,45 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "僕のClaude Code Plugin紹介 ~skills/create-git-worktree~",
-    "link": "https://qiita.com/getty104/items/4716e77cbadd901ea11d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T11:32:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "シミュレーションコンペで銅メダル2つを獲得してkaggle Expertになった方法",
-    "link": "https://zenn.dev/epicai_techblog/articles/a80959e01d62fd",
-    "pubDate": "Mon, 17 Nov 2025 11:17:01 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "【TOON】JSON時代の終わり？ 話題のTOONを解説してみた",
     "link": "https://qiita.com/shanks665/items/a5ec31706af9ffffc491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-17T04:19:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "作って学ぶAsync Rust",
-    "link": "https://zenn.dev/maetin/books/8e1ba228b64dbf",
-    "pubDate": "Mon, 17 Nov 2025 03:35:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "600ファイル5000箇所の多言語対応を半日で終わらせた話",
-    "link": "https://zenn.dev/dress_code/articles/codebase-transformation",
-    "pubDate": "Mon, 17 Nov 2025 02:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "あなたもクソコードの世界に触れてみませんか？？ - 逆リファクタリングバトルのイベント報告 -",
-    "link": "https://zenn.dev/smartcamp/articles/eac471f2304863",
-    "pubDate": "Mon, 17 Nov 2025 01:28:20 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "初めて技術書典にサークル参加したら、楽しすぎた件",
-    "link": "https://qiita.com/MIDO-ruby7/items/e74914472ca49904b476?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-16T12:56:22.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "2025-11-16T10:20:01.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Windowsでずっと開発してた人がMacで働くためのTips",
-    "link": "https://qiita.com/suecideTech/items/c00e6a7c03c4fc388ba1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-16T06:28:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【React】コードを書く前の基本概念を理解する",
-    "link": "https://qiita.com/ktdatascience/items/cadf9e3a694aa633a63d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-16T04:26:07.000Z"
+    "site": "Zenn",
+    "title": "アジャイルとはそもそも何なのか？",
+    "link": "https://zenn.dev/pdfractal/articles/53b908e0d1db3c",
+    "pubDate": "2025-11-16T06:47:52.000Z"
   }
 ]
