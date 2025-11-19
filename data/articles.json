@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "［速報］マイクロソフト、あらゆるAIエージェントを包括的に管理する「Microsoft Agent 365」発表。Ignite 2025",
+    "link": "https://www.publickey1.jp/blog/25/aimicrosoft_agent_365ignite_2025.html",
+    "pubDate": "2025-11-18T21:07:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Antigravity",
+    "link": "https://antigravity.google/",
+    "pubDate": "2025-11-18T16:49:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグル「Gemini 3」を公開　AIモード検索にも導入　Gemini Agent登場",
+    "link": "https://www.watch.impress.co.jp/docs/news/2064371.html",
+    "pubDate": "2025-11-18T16:14:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "インターネットが壊れた？　XもChatGPTも使えない　原因の「クラウドフレア」とは",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/18/news131.html",
+    "pubDate": "2025-11-18T15:03:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Cloudflare」のグローバルネットワークに障害 ～Google、X、AWS、OpenAIなど影響多数／広範囲にわたり500エラーが発生、現在も復旧作業が継続中",
     "link": "https://forest.watch.impress.co.jp/docs/news/2064377.html",
     "pubDate": "2025-11-18T13:21:38.000Z"
@@ -19,15 +43,33 @@
   },
   {
     "site": "Hatena",
+    "title": "がんばるとろくなことは無い｜牛尾　剛",
+    "link": "https://note.com/simplearchitect/n/n13e6da47bd39",
+    "pubDate": "2025-11-18T10:28:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ひろゆき氏が1位、英オックスフォード大研究所が日本の“ニュースインフルエンサー”を調査　トップ15入りしたのは？",
     "link": "https://www.itmedia.co.jp/news/articles/2511/18/news118.html",
     "pubDate": "2025-11-18T08:51:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "シンプルなTODOアプリを、Claude Codeを使って5分で作って30分で公開する | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/11/get-started-claude-code-03",
-    "pubDate": "2025-11-18T05:40:32.000Z"
+    "site": "Zenn",
+    "title": "ローカルで稼働するOpen Notebook を実際に使ってみた",
+    "link": "https://zenn.dev/ryo_tsukuda/articles/d1ae2b44a45709",
+    "pubDate": "Tue, 18 Nov 2025 08:48:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ClaudeCodeの拡張思考モード解説",
+    "link": "https://zenn.dev/applibot_tech/articles/6021e75d09bddc",
+    "pubDate": "Tue, 18 Nov 2025 06:33:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ReactのFragmentってなんぞや",
+    "link": "https://zenn.dev/sanyodo/articles/26ad88e3527605",
+    "pubDate": "Tue, 18 Nov 2025 05:59:58 GMT"
   },
   {
     "site": "Qiita",
@@ -36,28 +78,22 @@
     "pubDate": "2025-11-18T04:44:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「NotebookLM」と同等の機能をローカル環境で使える「Open Notebook」",
-    "link": "https://japan.zdnet.com/article/35240588/",
-    "pubDate": "2025-11-18T03:02:58.000Z"
+    "site": "Zenn",
+    "title": "AI-DLCワークショップ体験記：3日間で学んだAI駆動開発の実践と課題",
+    "link": "https://zenn.dev/dip_techblog/articles/b0dfe50710267f",
+    "pubDate": "Tue, 18 Nov 2025 00:30:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "BtoBにおけるフォーム入力者の76.9%が途中で離脱する原因は、運営者の「削れない項目」にあった | Coneのコンテンツ制作所",
-    "link": "https://cone-c-slide.com/see-sla/blog/btobform-dropout-reason-solution/",
-    "pubDate": "2025-11-18T02:00:12.000Z"
+    "site": "Zenn",
+    "title": "なぜMath.random()でパスワードを生成してはいけないのか：Web Crypto APIで学ぶセキュアな乱数生成",
+    "link": "https://zenn.dev/nabewata/articles/128d4cadc90860",
+    "pubDate": "Tue, 18 Nov 2025 00:07:54 GMT"
   },
   {
     "site": "Zenn",
     "title": "RAGをゼロから実装して仕組みを学ぶ【2025年版】",
     "link": "https://zenn.dev/knowledgesense/articles/2619c6e5918d08",
     "pubDate": "Tue, 18 Nov 2025 00:01:06 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「補給」や「戦力回復」がわからない、牟田口廉也のような親がいる",
-    "link": "https://blog.tinect.jp/?p=90493",
-    "pubDate": "2025-11-17T23:04:36.000Z"
   },
   {
     "site": "Qiita",
@@ -72,40 +108,28 @@
     "pubDate": "2025-11-17T19:09:08.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "😱 恐怖！ChatGPTは「忖度」する 〜私がAIに「時給1500円の雑魚」と判定させた誘導実験（実話）〜",
-    "link": "https://zenn.dev/taka4rest/articles/9477a26b8c2e0b",
-    "pubDate": "Mon, 17 Nov 2025 16:22:24 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "文字をうつということ｜キーボード・オタク（著）",
     "link": "https://qiita.com/kanekanekaneko/items/055b1db531c998ea09df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-17T15:07:54.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "作って学ぶ ChatGPT Atlas",
-    "link": "https://zenn.dev/layerx/articles/bcbfa198e1a059",
-    "pubDate": "Mon, 17 Nov 2025 13:22:25 GMT"
+    "site": "Qiita",
+    "title": "【libxml2】libxml2プロジェクトは放棄されました",
+    "link": "https://qiita.com/rana_kualu/items/29227778c0cb9ecd890f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T11:43:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "BTCONJP2025_ミニセッションと参加レポート",
-    "link": "https://zenn.dev/genda_jp/articles/d492ad7b0aee25",
-    "pubDate": "Mon, 17 Nov 2025 11:44:37 GMT"
+    "site": "Qiita",
+    "title": "僕のClaude Code Plugin紹介 ~skills/create-git-worktree~",
+    "link": "https://qiita.com/getty104/items/4716e77cbadd901ea11d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-17T11:32:15.000Z"
   },
   {
     "site": "Zenn",
     "title": "シミュレーションコンペで銅メダル2つを獲得してkaggle Expertになった方法",
     "link": "https://zenn.dev/epicai_techblog/articles/a80959e01d62fd",
     "pubDate": "Mon, 17 Nov 2025 11:17:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【徹底解剖】ChatGPTグループチャットのセキュリティ アレコレ（前編）",
-    "link": "https://qiita.com/satokan3/items/9ed160a261ec9033cc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T08:48:52.000Z"
   },
   {
     "site": "Qiita",
@@ -120,12 +144,6 @@
     "pubDate": "Mon, 17 Nov 2025 03:35:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "優秀な人はコンテキスト力が高い｜柳川慶太",
-    "link": "https://note.com/gimupop/n/n03ecbcd69eab",
-    "pubDate": "2025-11-17T03:15:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "600ファイル5000箇所の多言語対応を半日で終わらせた話",
     "link": "https://zenn.dev/dress_code/articles/codebase-transformation",
@@ -136,18 +154,6 @@
     "title": "あなたもクソコードの世界に触れてみませんか？？ - 逆リファクタリングバトルのイベント報告 -",
     "link": "https://zenn.dev/smartcamp/articles/eac471f2304863",
     "pubDate": "Mon, 17 Nov 2025 01:28:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Linuxで顔認証するPAMモジュール chissu-pam を作った",
-    "link": "https://zenn.dev/sett4/articles/cf330b6044cd49",
-    "pubDate": "Mon, 17 Nov 2025 01:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ReAct 論文と共に読み解く strands-agents/sdk-python の実装",
-    "link": "https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents",
-    "pubDate": "Mon, 17 Nov 2025 00:12:05 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "中学生がAndroidアプリ開発してGooglePlayで公開した話",
-    "link": "https://qiita.com/nekogakure/items/f1accd7aeeec5a3a7cdf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-16T04:39:23.000Z"
+    "title": "Windowsでずっと開発してた人がMacで働くためのTips",
+    "link": "https://qiita.com/suecideTech/items/c00e6a7c03c4fc388ba1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-16T06:28:12.000Z"
   },
   {
     "site": "Qiita",
     "title": "【React】コードを書く前の基本概念を理解する",
     "link": "https://qiita.com/ktdatascience/items/cadf9e3a694aa633a63d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-16T04:26:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【セキュリティ】初めてアプリをつくる人がまず抑えておくべき基本的事項",
-    "link": "https://qiita.com/ktdatascience/items/72ecd89bef963acb9559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-15T10:30:23.000Z"
   }
 ]
