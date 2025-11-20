@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "プロダクトマネージャーは「この世界をどう変えたいか」さえあればいい",
+    "link": "https://techblog.tebiki.co.jp/2025/11/20/163215",
+    "pubDate": "2025-11-20T08:01:31.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "プレミアムフライデーの偽サイトに経産省が注意喚起　手放したドメイン、第三者が利用か",
     "link": "https://www.itmedia.co.jp/news/articles/2511/20/news093.html",
     "pubDate": "2025-11-20T05:11:16.000Z"
@@ -18,6 +24,18 @@
     "pubDate": "2025-11-20T02:16:00.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【保存版】Google Antigravity 完全攻略ガイド｜次世代 \"エージェント型\" IDEのすべてを使い倒すチートシート",
+    "link": "https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T01:34:26.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
+    "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T23:41:41.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「実質無料」などとうたう、据置型Wi-Fiルーターに関するトラブルに国民生活センターが注意喚起　",
     "link": "https://internet.watch.impress.co.jp/docs/news/2064658.html",
@@ -31,9 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "欧米や中国が自動運転で交通事故予防を掲げてるのに対して日本はドライバー確保を掲げているがアメリカ人や中国人は文字通りの運転が下手くそだから？",
-    "link": "https://togetter.com/li/2629797",
-    "pubDate": "2025-11-19T19:08:27.000Z"
+    "title": "AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる",
+    "link": "https://www.publickey1.jp/blog/25/aigoogle_antigravitygoogle3600windsurf.html",
+    "pubDate": "2025-11-19T16:03:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話",
+    "link": "https://zenn.dev/motty93/articles/release_huntershub",
+    "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT"
   },
   {
     "site": "Hatena",
@@ -43,9 +67,21 @@
   },
   {
     "site": "Zenn",
+    "title": "なぜ React 哲学を守らないといけないのか？",
+    "link": "https://zenn.dev/kkeeth/articles/why-learning-react-philosophy",
+    "pubDate": "Wed, 19 Nov 2025 14:20:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Gemini3 ProのVision性能をチラシチャレンジしてみた",
     "link": "https://zenn.dev/olemi/articles/gemini-3-vision-supermarket-flyer-test",
     "pubDate": "2025-11-19T13:38:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OSSに貢献するときのマナー",
+    "link": "https://zenn.dev/kyome/articles/1259c94ad576ca",
+    "pubDate": "Wed, 19 Nov 2025 13:00:10 GMT"
   },
   {
     "site": "Qiita",
@@ -54,10 +90,10 @@
     "pubDate": "2025-11-19T08:28:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Apple、日本に緊急警告。「価格は下がらず利益86%が中国企業等へ」欧州DMAの皮肉な結末",
-    "link": "https://gori.me/apple/apple-news/162398",
-    "pubDate": "2025-11-19T08:24:49.000Z"
+    "site": "Qiita",
+    "title": "「拡張メソッドの限界突破」C# 14 の Extension members を超簡潔に解説",
+    "link": "https://qiita.com/Sakai_path/items/b40ca57429a8e515f9ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T07:06:53.000Z"
   },
   {
     "site": "Zenn",
@@ -84,12 +120,6 @@
     "pubDate": "Wed, 19 Nov 2025 04:31:21 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価",
-    "link": "https://qiita.com/ntaka329/items/8595b9668158a563c35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T04:06:05.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "HonoとPerl 〜 異文化を持ち込む",
     "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
@@ -100,6 +130,12 @@
     "title": "SDD(仕様駆動開発)と仕様について再度振り返る",
     "link": "https://zenn.dev/beagle/articles/fd60745bc54de1",
     "pubDate": "Wed, 19 Nov 2025 02:56:32 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "国土交通データプラットフォーム MCP サーバーが出てた",
+    "link": "https://zenn.dev/rescuenow/articles/ff5dca69861b94",
+    "pubDate": "Wed, 19 Nov 2025 02:43:42 GMT"
   },
   {
     "site": "Qiita",
@@ -126,40 +162,10 @@
     "pubDate": "2025-11-18T23:37:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Google Antigravityファーストインプレッション",
-    "link": "https://zenn.dev/ukiuni/articles/447549118796b1",
-    "pubDate": "Tue, 18 Nov 2025 22:54:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Skillsで簡単にApple風デザインを自動生成！AIっぽいデザインから脱却する方法",
-    "link": "https://zenn.dev/tmasuyama1114/articles/apple_design_skills",
-    "pubDate": "Tue, 18 Nov 2025 19:54:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントを開発するPdMがやることをプロンプトを書きながら考える",
-    "link": "https://zenn.dev/layerx/articles/671bdaf4aa0a32",
-    "pubDate": "Tue, 18 Nov 2025 14:45:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルで稼働するOpen Notebook を実際に使ってみた",
-    "link": "https://zenn.dev/ryo_tsukuda/articles/d1ae2b44a45709",
-    "pubDate": "Tue, 18 Nov 2025 08:48:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",
     "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-18T07:34:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "家族会議が「感情論」で炎上するので、心理的安全性を守るアプリをAIと二人三脚で作った話",
-    "link": "https://qiita.com/a-nagaoka/items/aa575fc8d3bf7c06b1c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T22:31:11.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【libxml2】libxml2プロジェクトは放棄されました",
     "link": "https://qiita.com/rana_kualu/items/29227778c0cb9ecd890f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-17T11:43:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【TOON】JSON時代の終わり？ 話題のTOONを解説してみた",
-    "link": "https://qiita.com/shanks665/items/a5ec31706af9ffffc491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T04:19:58.000Z"
   }
 ]
