@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "プレミアムフライデーの偽サイトに経産省が注意喚起　手放したドメイン、第三者が利用か",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/20/news093.html",
+    "pubDate": "2025-11-20T05:11:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ダイソーのUSB-Cケーブルなにをどうしたらこの性能でこの値段に出来るんだよ「一番利益ないの電気カテゴリーらしい」",
+    "link": "https://togetter.com/li/2629870",
+    "pubDate": "2025-11-20T03:16:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI搭載縫いぐるみが性的に露骨な会話をエスカレート、消費者団体の指摘で販売中止に",
+    "link": "https://www.cnn.co.jp/tech/35240689.html",
+    "pubDate": "2025-11-20T02:16:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「実質無料」などとうたう、据置型Wi-Fiルーターに関するトラブルに国民生活センターが注意喚起　",
     "link": "https://internet.watch.impress.co.jp/docs/news/2064658.html",
     "pubDate": "2025-11-19T21:51:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている - Qiita",
+    "link": "https://qiita.com/rf_p/items/60be12914338447543d3",
+    "pubDate": "2025-11-19T20:21:15.000Z"
   },
   {
     "site": "Hatena",
@@ -18,22 +42,10 @@
     "pubDate": "2025-11-19T14:20:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "2025年11月18日のCloudflareの障害",
-    "link": "https://blog.cloudflare.com/ja-jp/18-november-2025-outage/",
-    "pubDate": "2025-11-19T12:25:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「業務用のツールでやっていい設計ではない」Adobeのアプリが障害等でサーバとの通信が上手くいかないと基本的な動作すらできなくなるのは問題では？",
-    "link": "https://togetter.com/li/2629592",
-    "pubDate": "2025-11-19T10:56:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【重要】作品投稿に生成AIを利用している方へ、推奨タグ利用のお願い - カクヨムからのお知らせ",
-    "link": "https://kakuyomu.jp/info/entry/geneai_tag",
-    "pubDate": "2025-11-19T08:52:11.000Z"
+    "site": "Zenn",
+    "title": "Gemini3 ProのVision性能をチラシチャレンジしてみた",
+    "link": "https://zenn.dev/olemi/articles/gemini-3-vision-supermarket-flyer-test",
+    "pubDate": "2025-11-19T13:38:31.000Z"
   },
   {
     "site": "Qiita",
@@ -48,12 +60,6 @@
     "pubDate": "2025-11-19T08:24:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AntigravityはどういうAIエディタなのか",
-    "link": "https://blog.lai.so/antigravity/",
-    "pubDate": "2025-11-19T07:17:19.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
     "link": "https://zenn.dev/turing_motors/articles/81cf3128b22c63",
@@ -66,10 +72,16 @@
     "pubDate": "2025-11-19T06:03:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "仕様駆動開発の理想と現実、そして向き合い方",
-    "link": "https://speakerdeck.com/gotalab555/shi-yang-qu-dong-kai-fa-noli-xiang-toxian-shi-sositexiang-kihe-ifang",
-    "pubDate": "2025-11-19T04:18:32.000Z"
+    "site": "Zenn",
+    "title": "“ジャバラ”がバラっと完成！人事配置表自動化の舞台裏",
+    "link": "https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f",
+    "pubDate": "Wed, 19 Nov 2025 05:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kiroに統合されたQ CLI（Kiro-CLI）の新機能から見るAWSのAI開発の志向性の考察",
+    "link": "https://zenn.dev/lifull/articles/222b02560e3b0b",
+    "pubDate": "Wed, 19 Nov 2025 04:31:21 GMT"
   },
   {
     "site": "Qiita",
@@ -82,6 +94,12 @@
     "title": "HonoとPerl 〜 異文化を持ち込む",
     "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
     "pubDate": "Wed, 19 Nov 2025 03:04:28 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SDD(仕様駆動開発)と仕様について再度振り返る",
+    "link": "https://zenn.dev/beagle/articles/fd60745bc54de1",
+    "pubDate": "Wed, 19 Nov 2025 02:56:32 GMT"
   },
   {
     "site": "Qiita",
@@ -127,33 +145,15 @@
   },
   {
     "site": "Zenn",
-    "title": "今年も FlutterKaigi 2025 に参加してきました",
-    "link": "https://zenn.dev/chooyan/articles/1279762434dac3",
-    "pubDate": "Tue, 18 Nov 2025 12:53:02 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "ローカルで稼働するOpen Notebook を実際に使ってみた",
     "link": "https://zenn.dev/ryo_tsukuda/articles/d1ae2b44a45709",
     "pubDate": "Tue, 18 Nov 2025 08:48:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "基本無料のAIチャットリリースで確信したGPT-OSSこそ真のゲームチェンジャーといえる理由",
-    "link": "https://zenn.dev/collections/articles/ada3a73f0af8bf",
-    "pubDate": "Tue, 18 Nov 2025 08:08:40 GMT"
   },
   {
     "site": "Qiita",
     "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",
     "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-18T07:34:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ClaudeCodeの拡張思考モード解説",
-    "link": "https://zenn.dev/applibot_tech/articles/6021e75d09bddc",
-    "pubDate": "Tue, 18 Nov 2025 06:33:21 GMT"
   },
   {
     "site": "Qiita",
