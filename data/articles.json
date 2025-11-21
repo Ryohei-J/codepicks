@@ -1,6 +1,48 @@
 [
   {
     "site": "Hatena",
+    "title": "社内資料「速習 AIエージェント入門」を公開します - LegalOn Technologies Engineering Blog",
+    "link": "https://tech.legalforce.co.jp/entry/aiagent-introduction",
+    "pubDate": "2025-11-21T02:25:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【ブラックフライデーで買っておきたいUdemy講座】Python、生成AI、機械学習のスキルをいまこそ習得！人気講座をまとめてレビュー＆大紹介！ - はてなニュース",
+    "link": "https://hatenanews.com/articles/2025/11/21/103000",
+    "pubDate": "2025-11-21T02:00:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Android、ついにAirDrop対応",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2065251.html",
+    "pubDate": "2025-11-21T01:50:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「朝食を抜くと頭が働かない」はホント？　食べた人と食べてない人の認知能力を比較、3000人以上を調査",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/21/news039.html",
+    "pubDate": "2025-11-21T00:48:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "個人宅に“企業のデータセンター”設置、廃熱を暖房として活用　英国で実証実験",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/21/news041.html",
+    "pubDate": "2025-11-21T00:46:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "凄すぎてもはや意味不明！画像生成AIの到達点「Nano Banana Pro」ついに公開",
+    "link": "https://ascii.jp/elem/000/004/353/4353732/",
+    "pubDate": "2025-11-20T23:03:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証",
+    "link": "https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp",
+    "pubDate": "Thu, 20 Nov 2025 22:46:44 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "Androidの「Quick Share」が「AirDrop」に対応。iPhoneとのファイルやりとりが簡単に／追加アプリ不要、まずは「Pixel 10」ファミリーから",
     "link": "https://forest.watch.impress.co.jp/docs/news/2065228.html",
     "pubDate": "2025-11-20T20:15:04.000Z"
@@ -18,46 +60,22 @@
     "pubDate": "2025-11-20T16:04:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【爆速】ECS Fargateタスクを踏み台にしてRDSへ安全に接続",
-    "link": "https://zenn.dev/zuzuzu/articles/aws_ecs_exec_db_access",
-    "pubDate": "2025-11-20T15:24:45.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "かつてはレシピ検索といえば、クックパッドだったが、遂に人員が3桁切ったという話→「AIに聞いたら教えてくれる」「普通に使いづらい」",
     "link": "https://posfie.com/@taimport/p/RxZxydr",
     "pubDate": "2025-11-20T12:50:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "『この時間帯はこの作業をする』を「Google カレンダー」に登録可能に／タスクに開始時間と終了時間を設定して『タイムブロッキング』的な使い方ができる",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2064969.html",
-    "pubDate": "2025-11-20T08:57:54.000Z"
+    "site": "Zenn",
+    "title": "Closed-Loop で実現するデータ中心の自動運転モデル",
+    "link": "https://zenn.dev/riita10069/books/ad-adas-closed-loop",
+    "pubDate": "Thu, 20 Nov 2025 10:49:14 GMT"
   },
   {
     "site": "Zenn",
     "title": "AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～",
     "link": "https://zenn.dev/r_kaga/articles/74673cb9333007",
     "pubDate": "Thu, 20 Nov 2025 08:24:38 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "プロダクトマネージャーは「この世界をどう変えたいか」さえあればいい",
-    "link": "https://techblog.tebiki.co.jp/2025/11/20/163215",
-    "pubDate": "2025-11-20T08:01:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "X、プロフィール上に「VPN使用の有無」も表示か",
-    "link": "https://japan.cnet.com/article/35240696/",
-    "pubDate": "2025-11-20T03:49:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "娘が乞食をしていた",
-    "link": "https://anond.hatelabo.jp/20251120121355",
-    "pubDate": "2025-11-20T03:15:25.000Z"
   },
   {
     "site": "Qiita",
@@ -67,21 +85,9 @@
   },
   {
     "site": "Qiita",
-    "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム - Qiita",
-    "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b",
-    "pubDate": "2025-11-20T01:28:44.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
     "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T23:41:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "⚔️ C#クエスト ― LINQの試練 🐉",
-    "link": "https://zenn.dev/plusone/articles/ea227c2f5d323e",
-    "pubDate": "Wed, 19 Nov 2025 23:00:01 GMT"
   },
   {
     "site": "Qiita",
@@ -91,15 +97,15 @@
   },
   {
     "site": "Zenn",
-    "title": "【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話",
-    "link": "https://zenn.dev/motty93/articles/release_huntershub",
-    "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "なぜ React 哲学を守らないといけないのか？",
     "link": "https://zenn.dev/kkeeth/articles/why-learning-react-philosophy",
     "pubDate": "Wed, 19 Nov 2025 14:20:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【爆速】ECS Fargateタスクを踏み台にしてRDSへ安全に接続",
+    "link": "https://zenn.dev/zuzuzu/articles/aws_ecs_exec_db_access",
+    "pubDate": "Wed, 19 Nov 2025 13:48:04 GMT"
   },
   {
     "site": "Qiita",
@@ -142,12 +148,6 @@
     "title": "“ジャバラ”がバラっと完成！人事配置表自動化の舞台裏",
     "link": "https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f",
     "pubDate": "Wed, 19 Nov 2025 05:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiroに統合されたQ CLI（Kiro-CLI）の新機能から見るAWSのAI開発の志向性の考察",
-    "link": "https://zenn.dev/lifull/articles/222b02560e3b0b",
-    "pubDate": "Wed, 19 Nov 2025 04:31:21 GMT"
   },
   {
     "site": "Qiita",
