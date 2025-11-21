@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Androidの「Quick Share」が「AirDrop」に対応。iPhoneとのファイルやりとりが簡単に／追加アプリ不要、まずは「Pixel 10」ファミリーから",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2065228.html",
+    "pubDate": "2025-11-20T20:15:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ついにiPhoneとAndroid間で「AirDrop」が可能に　まずはPixel 10シリーズから",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2511/21/news072.html",
+    "pubDate": "2025-11-20T19:51:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "海外「こんな国が存在するはずない…」 日本の日常風景、綺麗すぎてAIだと疑われてしまう",
+    "link": "http://pandora11.com/blog-entry-5547.html",
+    "pubDate": "2025-11-20T16:04:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【爆速】ECS Fargateタスクを踏み台にしてRDSへ安全に接続",
+    "link": "https://zenn.dev/zuzuzu/articles/aws_ecs_exec_db_access",
+    "pubDate": "2025-11-20T15:24:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "かつてはレシピ検索といえば、クックパッドだったが、遂に人員が3桁切ったという話→「AIに聞いたら教えてくれる」「普通に使いづらい」",
     "link": "https://posfie.com/@taimport/p/RxZxydr",
     "pubDate": "2025-11-20T12:50:43.000Z"
@@ -12,10 +36,10 @@
     "pubDate": "2025-11-20T08:57:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "サイバー攻撃を受けたアスクルでは従業員が手元の資料を見ながら倉庫内に山積みにされた商品を探して台車に積み込み搬送している",
-    "link": "https://togetter.com/li/2629975",
-    "pubDate": "2025-11-20T08:50:16.000Z"
+    "site": "Zenn",
+    "title": "AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～",
+    "link": "https://zenn.dev/r_kaga/articles/74673cb9333007",
+    "pubDate": "Thu, 20 Nov 2025 08:24:38 GMT"
   },
   {
     "site": "Hatena",
@@ -25,15 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "プレミアムフライデーの偽サイトに経産省が注意喚起　手放したドメイン、第三者が利用か",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/20/news093.html",
-    "pubDate": "2025-11-20T05:11:16.000Z"
+    "title": "X、プロフィール上に「VPN使用の有無」も表示か",
+    "link": "https://japan.cnet.com/article/35240696/",
+    "pubDate": "2025-11-20T03:49:51.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AI搭載縫いぐるみが性的に露骨な会話をエスカレート、消費者団体の指摘で販売中止に",
-    "link": "https://www.cnn.co.jp/tech/35240689.html",
-    "pubDate": "2025-11-20T02:16:00.000Z"
+    "title": "娘が乞食をしていた",
+    "link": "https://anond.hatelabo.jp/20251120121355",
+    "pubDate": "2025-11-20T03:15:25.000Z"
   },
   {
     "site": "Qiita",
@@ -54,10 +78,16 @@
     "pubDate": "2025-11-19T23:41:41.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "⚔️ C#クエスト ― LINQの試練 🐉",
+    "link": "https://zenn.dev/plusone/articles/ea227c2f5d323e",
+    "pubDate": "Wed, 19 Nov 2025 23:00:01 GMT"
+  },
+  {
     "site": "Qiita",
-    "title": "VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている - Qiita",
-    "link": "https://qiita.com/rf_p/items/60be12914338447543d3",
-    "pubDate": "2025-11-19T20:21:15.000Z"
+    "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
+    "link": "https://qiita.com/sion_neko/items/105168a19194c67a13d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T16:44:07.000Z"
   },
   {
     "site": "Zenn",
@@ -66,16 +96,16 @@
     "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Web とは何か | blog.jxck.io",
-    "link": "https://blog.jxck.io/entries/2025-11-19/web.html",
-    "pubDate": "2025-11-19T14:20:15.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "なぜ React 哲学を守らないといけないのか？",
     "link": "https://zenn.dev/kkeeth/articles/why-learning-react-philosophy",
     "pubDate": "Wed, 19 Nov 2025 14:20:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Microsoft Ignite 2025 で見つけた「個人的に激アツ」な Agent & Copilot アップデートまとめ",
+    "link": "https://qiita.com/katohiro_fi/items/d6e7630305236ce7de49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T13:33:37.000Z"
   },
   {
     "site": "Zenn",
@@ -84,22 +114,22 @@
     "pubDate": "Wed, 19 Nov 2025 13:00:10 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Googleが発表したAIエディタ、Antigravityを触ってみた。~指示・実装・動作確認~ - Qiita",
-    "link": "https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41",
-    "pubDate": "2025-11-19T08:28:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「拡張メソッドの限界突破」C# 14 の Extension members を超簡潔に解説",
-    "link": "https://qiita.com/Sakai_path/items/b40ca57429a8e515f9ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T07:06:53.000Z"
+    "site": "Zenn",
+    "title": "Typescriptにするだけで型安全になると思ってはいけない",
+    "link": "https://zenn.dev/takisato/articles/1a26aaa60ba2ba",
+    "pubDate": "Wed, 19 Nov 2025 08:49:31 GMT"
   },
   {
     "site": "Zenn",
     "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
     "link": "https://zenn.dev/turing_motors/articles/81cf3128b22c63",
     "pubDate": "Wed, 19 Nov 2025 06:22:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "A2A （Agent2Agent) プロトコルを基礎から学ぶ (1) LLM を使わない複数Agentのサンプル",
+    "link": "https://zenn.dev/sakura_internet/articles/e29d64a9d211a4",
+    "pubDate": "Wed, 19 Nov 2025 06:16:52 GMT"
   },
   {
     "site": "Qiita",
@@ -120,22 +150,10 @@
     "pubDate": "Wed, 19 Nov 2025 04:31:21 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "HonoとPerl 〜 異文化を持ち込む",
-    "link": "https://zenn.dev/yusukebe/articles/0e1837b7e96325",
-    "pubDate": "Wed, 19 Nov 2025 03:04:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SDD(仕様駆動開発)と仕様について再度振り返る",
-    "link": "https://zenn.dev/beagle/articles/fd60745bc54de1",
-    "pubDate": "Wed, 19 Nov 2025 02:56:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "国土交通データプラットフォーム MCP サーバーが出てた",
-    "link": "https://zenn.dev/rescuenow/articles/ff5dca69861b94",
-    "pubDate": "Wed, 19 Nov 2025 02:43:42 GMT"
+    "site": "Qiita",
+    "title": "GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価",
+    "link": "https://qiita.com/ntaka329/items/8595b9668158a563c35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T04:06:05.000Z"
   },
   {
     "site": "Qiita",
@@ -150,12 +168,6 @@
     "pubDate": "2025-11-19T00:52:44.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "なぜリリース計画は遅延するの？「後ろめたくないバッファ」で解決する方法",
-    "link": "https://zenn.dev/loglass/articles/7dfe1fb0aa1086",
-    "pubDate": "Wed, 19 Nov 2025 00:28:15 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【速報】Google Gemini 3発表。推論・エージェント機能の進化を徹底解説",
     "link": "https://qiita.com/kentaro_kawamura/items/8d8d52c43154fb172b40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,17 +178,5 @@
     "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",
     "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-18T07:34:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "文字をうつということ｜キーボード・オタク（著）",
-    "link": "https://qiita.com/kanekanekaneko/items/055b1db531c998ea09df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T15:07:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【libxml2】libxml2プロジェクトは放棄されました",
-    "link": "https://qiita.com/rana_kualu/items/29227778c0cb9ecd890f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-17T11:43:37.000Z"
   }
 ]
