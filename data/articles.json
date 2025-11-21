@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "『にじボイス』サービス終了に関するお知らせ ",
+    "link": "https://algomatic.jp/news/notice_nijivoice_20251121",
+    "pubDate": "2025-11-21T08:41:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "時刻表が“QRコード”だけになった──SNSで「不便」「むしろ不要」と賛否　横浜市営地下鉄は元に戻すのか？",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2511/21/news120.html",
+    "pubDate": "2025-11-21T07:56:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "論理削除の絞り込みはWHERE句でやるな",
+    "link": "https://zenn.dev/levtech/articles/squeeze-on-join-on",
+    "pubDate": "2025-11-21T07:21:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "30万kmの道のり、東京でE2E自動運転を走らせる",
+    "link": "https://zenn.dev/turing_motors/articles/bc6436727234ad",
+    "pubDate": "Fri, 21 Nov 2025 05:34:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "技術的負債はいつ解消すべきか？ - HERP が React 移行で使った3つの判断軸",
+    "link": "https://zenn.dev/herp_inc/articles/when-to-resolve-technical-debt",
+    "pubDate": "Fri, 21 Nov 2025 03:36:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "論理削除の絞り込みはWHERE句でやるな",
+    "link": "https://zenn.dev/levtech/articles/squeeze-on-join-on",
+    "pubDate": "Fri, 21 Nov 2025 02:45:01 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "社内資料「速習 AIエージェント入門」を公開します - LegalOn Technologies Engineering Blog",
     "link": "https://tech.legalforce.co.jp/entry/aiagent-introduction",
     "pubDate": "2025-11-21T02:25:27.000Z"
@@ -13,21 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Android、ついにAirDrop対応",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2065251.html",
-    "pubDate": "2025-11-21T01:50:37.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「朝食を抜くと頭が働かない」はホント？　食べた人と食べてない人の認知能力を比較、3000人以上を調査",
     "link": "https://www.itmedia.co.jp/news/articles/2511/21/news039.html",
     "pubDate": "2025-11-21T00:48:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "個人宅に“企業のデータセンター”設置、廃熱を暖房として活用　英国で実証実験",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/21/news041.html",
-    "pubDate": "2025-11-21T00:46:27.000Z"
+    "site": "Qiita",
+    "title": "「謝罪」しすぎない技術",
+    "link": "https://qiita.com/y_o_28/items/4f3bd30f1f0a8fe4c21e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T00:15:37.000Z"
   },
   {
     "site": "Hatena",
@@ -60,16 +90,34 @@
     "pubDate": "2025-11-20T16:04:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "かつてはレシピ検索といえば、クックパッドだったが、遂に人員が3桁切ったという話→「AIに聞いたら教えてくれる」「普通に使いづらい」",
-    "link": "https://posfie.com/@taimport/p/RxZxydr",
-    "pubDate": "2025-11-20T12:50:43.000Z"
+    "site": "Qiita",
+    "title": "念願の！API Gateway + Lambdaでストリーミングレスポンス！Bedrockの応答でカタカタできる！",
+    "link": "https://qiita.com/moritalous/items/2f9a783515abe8e3ccd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T15:59:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "アクセスキーからaws loginへの移行を考える",
+    "link": "https://qiita.com/takahash_3/items/dcf78039fcbaea7848a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T13:13:48.000Z"
   },
   {
     "site": "Zenn",
     "title": "Closed-Loop で実現するデータ中心の自動運転モデル",
     "link": "https://zenn.dev/riita10069/books/ad-adas-closed-loop",
     "pubDate": "Thu, 20 Nov 2025 10:49:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "あんさんぶるスターズ！！10周年UIアップデートで導入したコード自動生成とプレビュー機能",
+    "link": "https://zenn.dev/happy_elements/articles/hekk_article_20251119",
+    "pubDate": "Thu, 20 Nov 2025 10:06:53 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【徹底比較】AI自律実装ツールでFedGAN論文を実装してみた - Copilot vs Antigravity × Claude/Gemini",
+    "link": "https://qiita.com/ntaka329/items/3b02073156239125bd6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T08:38:18.000Z"
   },
   {
     "site": "Zenn",
@@ -85,15 +133,15 @@
   },
   {
     "site": "Qiita",
-    "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
-    "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T23:41:41.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
     "link": "https://qiita.com/sion_neko/items/105168a19194c67a13d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T16:44:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話",
+    "link": "https://zenn.dev/motty93/articles/release_huntershub",
+    "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT"
   },
   {
     "site": "Zenn",
@@ -109,51 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Microsoft Ignite 2025 で見つけた「個人的に激アツ」な Agent & Copilot アップデートまとめ",
-    "link": "https://qiita.com/katohiro_fi/items/d6e7630305236ce7de49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T13:33:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OSSに貢献するときの心得",
-    "link": "https://zenn.dev/kyome/articles/1259c94ad576ca",
-    "pubDate": "Wed, 19 Nov 2025 13:00:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Typescriptにするだけで型安全になると思ってはいけない",
-    "link": "https://zenn.dev/takisato/articles/1a26aaa60ba2ba",
-    "pubDate": "Wed, 19 Nov 2025 08:49:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "NVIDIA NeMoを利用したGPT-OSSの学習",
-    "link": "https://zenn.dev/turing_motors/articles/81cf3128b22c63",
-    "pubDate": "Wed, 19 Nov 2025 06:22:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "A2A （Agent2Agent) プロトコルを基礎から学ぶ (1) LLM を使わない複数Agentのサンプル",
-    "link": "https://zenn.dev/sakura_internet/articles/e29d64a9d211a4",
-    "pubDate": "Wed, 19 Nov 2025 06:16:52 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選",
     "link": "https://qiita.com/kazuya828/items/27f81e75bed8fd7c5b47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T06:03:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "“ジャバラ”がバラっと完成！人事配置表自動化の舞台裏",
-    "link": "https://zenn.dev/govtechtokyo/articles/b8dc21b263c27f",
-    "pubDate": "Wed, 19 Nov 2025 05:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価",
-    "link": "https://qiita.com/ntaka329/items/8595b9668158a563c35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T04:06:05.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【速報】Google Gemini 3発表。推論・エージェント機能の進化を徹底解説",
     "link": "https://qiita.com/kentaro_kawamura/items/8d8d52c43154fb172b40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-18T23:37:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアの脳が壊れる瞬間 ─ 複雑性・認知負荷・計算量のメカニズム",
-    "link": "https://qiita.com/Sakai_path/items/415dc71f3463c0c4471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-18T07:34:01.000Z"
   }
 ]
