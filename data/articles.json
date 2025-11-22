@@ -1,27 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "ソフトウェア設計の課題・原則・実践技法",
+    "link": "https://speakerdeck.com/masuda220/sohutoueashe-ji-noke-ti-yuan-ze-shi-jian-ji-fa",
+    "pubDate": "2025-11-21T16:37:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "セルフレジは社会的に失敗だった？ 有人レジに戻す動きも",
+    "link": "https://www.gizmodo.jp/2025/11/the-self-checkout-nightmare-may-finally-be-ending-jpn-2.html",
+    "pubDate": "2025-11-21T13:28:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "採取したキノコを撮影してAI判定　AIは”食べられる”と回答も...　実際は「毒キノコ」　和歌山市の70代男性が嘔吐の症状で一時入院　「AIや図鑑で自己判断するのは危険」市が注意呼びかけ | 特集 | MBSニュース",
+    "link": "https://www.mbs.jp/news/feature/kansai/article/2025/11/108961.shtml",
+    "pubDate": "2025-11-21T12:21:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "普段は数千円するお高い技術書がセールで安い、これから頑張りたい初心者も勉強する大きなチャンスが到来【Amazonブラックフライデー】",
+    "link": "https://togetter.com/li/2630304",
+    "pubDate": "2025-11-21T11:24:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Nano Banana Pro怖すぎ - トウフ系",
+    "link": "https://kaishaku01.hatenablog.com/entry/2025/11/21/172357",
+    "pubDate": "2025-11-21T10:47:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "アサヒグループHD 来年2月にもシステム復旧 4か月かかることに | NHKニュース",
     "link": "https://news.web.nhk/newsweb/na/na-k10014983111000",
     "pubDate": "2025-11-21T09:04:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "『にじボイス』サービス終了に関するお知らせ ",
-    "link": "https://algomatic.jp/news/notice_nijivoice_20251121",
-    "pubDate": "2025-11-21T08:41:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "時刻表が“QRコード”だけになった──SNSで「不便」「むしろ不要」と賛否　横浜市営地下鉄は元に戻すのか？",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2511/21/news120.html",
-    "pubDate": "2025-11-21T07:56:44.000Z"
   },
   {
     "site": "Zenn",
     "title": "論理削除の絞り込みはWHERE句でやるな",
     "link": "https://zenn.dev/levtech/articles/squeeze-on-join-on",
     "pubDate": "2025-11-21T07:21:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜAIは会話を重ねると間違えるのか：マルチターン対話の落とし穴と実用化への示唆",
+    "link": "https://zenn.dev/pksha/articles/6f38eac49db885",
+    "pubDate": "Fri, 21 Nov 2025 05:35:59 GMT"
   },
   {
     "site": "Zenn",
@@ -34,6 +58,12 @@
     "title": "速習 AIエージェント入門",
     "link": "https://speakerdeck.com/legalontechnologies/aiagent-introduction",
     "pubDate": "2025-11-21T04:53:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "20年超レガシー『バイトル』をAI駆動で再設計！事業成長を実現するリアーキ戦略",
+    "link": "https://zenn.dev/dip_k16/articles/2c86ae68b1c661",
+    "pubDate": "Fri, 21 Nov 2025 04:07:27 GMT"
   },
   {
     "site": "Zenn",
@@ -54,22 +84,16 @@
     "pubDate": "2025-11-21T02:25:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【ブラックフライデーで買っておきたいUdemy講座】Python、生成AI、機械学習のスキルをいまこそ習得！人気講座をまとめてレビュー＆大紹介！ - はてなニュース",
-    "link": "https://hatenanews.com/articles/2025/11/21/103000",
-    "pubDate": "2025-11-21T02:00:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「朝食を抜くと頭が働かない」はホント？　食べた人と食べてない人の認知能力を比較、3000人以上を調査",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/21/news039.html",
-    "pubDate": "2025-11-21T00:48:48.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "「謝罪」しすぎない技術",
     "link": "https://qiita.com/y_o_28/items/4f3bd30f1f0a8fe4c21e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-21T00:15:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI駆動組み込み開発における「Rustの必然性」",
+    "link": "https://zenn.dev/kokimu/articles/7bb7f9f3896bb4",
+    "pubDate": "Fri, 21 Nov 2025 00:01:45 GMT"
   },
   {
     "site": "Hatena",
@@ -82,12 +106,6 @@
     "title": "Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証",
     "link": "https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp",
     "pubDate": "Thu, 20 Nov 2025 22:46:44 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Androidの「Quick Share」が「AirDrop」に対応。iPhoneとのファイルやりとりが簡単に／追加アプリ不要、まずは「Pixel 10」ファミリーから",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2065228.html",
-    "pubDate": "2025-11-20T20:15:04.000Z"
   },
   {
     "site": "Qiita",
@@ -114,12 +132,6 @@
     "pubDate": "Thu, 20 Nov 2025 10:06:53 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【徹底比較】AI自律実装ツールでFedGAN論文を実装してみた - Copilot vs Antigravity × Claude/Gemini",
-    "link": "https://qiita.com/ntaka329/items/3b02073156239125bd6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T08:38:18.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～",
     "link": "https://zenn.dev/r_kaga/articles/74673cb9333007",
@@ -133,27 +145,21 @@
   },
   {
     "site": "Qiita",
+    "title": "「純全帯幺九（ジュンチャン）、難易度の割に安すぎないか？」という麻雀の疑問をGemini 3に聞いてみた。",
+    "link": "https://qiita.com/inukai-masanori/items/29b3aa79f33858845685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-20T00:13:06.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
     "link": "https://qiita.com/sion_neko/items/105168a19194c67a13d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T16:44:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【個人開発】モンスターハンター募集掲示板のようなサービス「HuntersHub」を作った話",
-    "link": "https://zenn.dev/motty93/articles/release_huntershub",
-    "pubDate": "Wed, 19 Nov 2025 14:22:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ React 哲学を守らないといけないのか？",
-    "link": "https://zenn.dev/kkeeth/articles/why-learning-react-philosophy",
-    "pubDate": "Wed, 19 Nov 2025 14:20:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【爆速】ECS Fargateタスクを踏み台にしてRDSへ安全に接続",
-    "link": "https://zenn.dev/zuzuzu/articles/aws_ecs_exec_db_access",
-    "pubDate": "Wed, 19 Nov 2025 13:48:04 GMT"
+    "site": "Qiita",
+    "title": "話題のGemini3で東方風の弾幕シューティングゲームをつくってみた",
+    "link": "https://qiita.com/geekman4040/items/fdbf1e71b16d6f6f1a8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-19T12:13:47.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Googleが発表したAIエディタ、Antigravityを触ってみた。~指示・実装・動作確認~",
     "link": "https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T00:52:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【速報】Google Gemini 3発表。推論・エージェント機能の進化を徹底解説",
-    "link": "https://qiita.com/kentaro_kawamura/items/8d8d52c43154fb172b40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-18T23:37:23.000Z"
   }
 ]
