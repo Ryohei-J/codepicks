@@ -1,15 +1,57 @@
 [
   {
     "site": "Hatena",
-    "title": "スライドホスティングサイトでの文字化けの悩みをさらに調べていたら、より良さそうな対処方法を発見した - kmuto’s blog",
-    "link": "https://kmuto.hatenablog.com/entry/2025/11/23/111400",
-    "pubDate": "2025-11-23T03:02:40.000Z"
+    "title": "「弁護士や税理士などの士業が危ない」という意見に岡野タケシ弁護士が「実際は真逆」と述べ賛否両論「業務独占資格が唯一の『堀』」「売れっ子と全く食えない層に2分化」",
+    "link": "https://togetter.com/li/2631019",
+    "pubDate": "2025-11-23T08:59:57.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GitをCUIで強力にサポートする超高機能ツール「lazygit」",
-    "link": "https://gigazine.net/news/20251122-lazygit/",
-    "pubDate": "2025-11-22T13:40:57.000Z"
+    "title": "インフラエンジニアのあなたも！Shell スクリプト開発で Kiro を使ってみよう | Amazon Web Services",
+    "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-5-kiro-for-shell-scripting/",
+    "pubDate": "2025-11-23T03:33:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "TypeScript 6.0で非推奨化されるオプションたち",
+    "link": "https://speakerdeck.com/uhyo/typescript-6-dot-0defei-tui-jiang-hua-sareruopusiyontati",
+    "pubDate": "2025-11-23T03:10:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Claude Code】SkillsとSubAgents、どっちを使えばいいの？違いと使い分けを完全解説",
+    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_skills_vs_subagents",
+    "pubDate": "Sat, 22 Nov 2025 23:46:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ペイントツール上でライフゲームを動かす",
+    "link": "https://zenn.dev/melville/articles/83c91d6ea42d0c",
+    "pubDate": "Sat, 22 Nov 2025 23:27:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Durable Agent で長時間ツール呼び出し - Microsoft Agent Framework (C#) その15",
+    "link": "https://zenn.dev/microsoft/articles/agent-framework-015",
+    "pubDate": "Sat, 22 Nov 2025 16:33:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeはサブエージェントが何をしたか知らない",
+    "link": "https://zenn.dev/trust_delta/articles/claude-code-subagent-001",
+    "pubDate": "Sat, 22 Nov 2025 15:37:15 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "俺のVercelは遅かった - Function Regionの罠",
+    "link": "https://zenn.dev/mountain1009/articles/00c8a4542e6194",
+    "pubDate": "Sat, 22 Nov 2025 13:06:11 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "`aws login`の認証情報をboto3で使うにはひと工夫必要だよ！",
+    "link": "https://qiita.com/moritalous/items/482b1e0a7418652568e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T12:41:11.000Z"
   },
   {
     "site": "Hatena",
@@ -31,18 +73,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Linuxカーネル開発入門ガイド（LFD103-JP） | Linux Foundation Education",
-    "link": "https://training.linuxfoundation.org/ja/training/a-beginners-guide-to-linux-kernel-development-lfd103-jp/",
-    "pubDate": "2025-11-22T10:42:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "中国の巨大ニュートリノ観測所「JUNO」が始動わずか59日で50年の歴史を凌駕：素粒子物理学に訪れた「新たな地平」とは | XenoSpectrum",
-    "link": "https://xenospectrum.com/china-juno-neutrino-detector-record-results-physics-breakthrough/",
-    "pubDate": "2025-11-22T10:18:00.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「数学は役に立つか？」より大事なこと｜加藤文元",
     "link": "https://note.com/katobungen/n/n5e35e3661294",
     "pubDate": "2025-11-22T09:48:53.000Z"
@@ -60,28 +90,28 @@
     "pubDate": "2025-11-22T08:45:04.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "A2A を基礎から学ぶ (4) Function Calling による複数 Agent の選択的呼び出しの実装",
-    "link": "https://zenn.dev/sakura_internet/articles/72af3abdfe5c5b",
-    "pubDate": "Sat, 22 Nov 2025 03:37:19 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon ECS Expressモードがリリースされました",
-    "link": "https://qiita.com/yama3133/items/9baaea109351c6b2bcc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-22T03:09:24.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "【画像生成AI】帰宅後のOLをリアルに再現する方法｟プロンプト無料公開｠Midjourney/imageFX/ChatGPT/Whisk/imagen4/Gemini/生成AI/AI美女/副業/AI副業｜AI かわき｜世界一優しいAI画像生成の解説",
-    "link": "https://note.com/kawakijourney_ai/n/n72e6f630f3aa",
-    "pubDate": "2025-11-22T01:57:06.000Z"
+    "title": "おそらくNano Banana Proで作ったであろう漫画を見つけた",
+    "link": "https://anond.hatelabo.jp/20251122140905",
+    "pubDate": "2025-11-22T05:10:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "aws loginコマンドが来たのでAWSのアクセスキーを削除したかったけど、やっぱり保留しました。",
+    "link": "https://zenn.dev/ncdc/articles/153101d64b0175",
+    "pubDate": "Sat, 22 Nov 2025 03:14:00 GMT"
   },
   {
     "site": "Zenn",
     "title": "【ポエム】プログラミングスキルと同じように、AIデバッグスキルも必要になりそうだな、と感じた話",
     "link": "https://zenn.dev/sunagaku/articles/ai-debug-skill-needed",
     "pubDate": "Fri, 21 Nov 2025 23:43:48 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Antigravity使うのやめてCopilotに戻った話",
+    "link": "https://qiita.com/tubasa854/items/bf96feb1a0d26fe3a4c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T21:38:41.000Z"
   },
   {
     "site": "Zenn",
@@ -96,10 +126,10 @@
     "pubDate": "Fri, 21 Nov 2025 14:59:09 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Rustで『安全』と言い切れるか？Cloudflare 障害と unwrap() のリアル",
-    "link": "https://zenn.dev/dokusy/articles/666387f63061de",
-    "pubDate": "Fri, 21 Nov 2025 13:17:11 GMT"
+    "site": "Qiita",
+    "title": "技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？",
+    "link": "https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T11:57:41.000Z"
   },
   {
     "site": "Hatena",
@@ -108,22 +138,10 @@
     "pubDate": "2025-11-21T10:43:40.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Reactのexport defaultとexportって何がどう違うんや",
-    "link": "https://zenn.dev/sanyodo/articles/7de65a3fac794d",
-    "pubDate": "Fri, 21 Nov 2025 08:15:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "新卒3ヶ月目で共通基盤の0→1を任されて学んだ『アウトカム思考』の大切さ",
-    "link": "https://zenn.dev/loglass/articles/2025-newcomer",
-    "pubDate": "Fri, 21 Nov 2025 08:03:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Prisma v7の新機能と変更点まとめ",
-    "link": "https://zenn.dev/assign/articles/prisma-v7-whats-new",
-    "pubDate": "Fri, 21 Nov 2025 05:48:14 GMT"
+    "site": "Qiita",
+    "title": "Copilot Studio で SharePoint Listのデータを精度よく取り扱うには",
+    "link": "https://qiita.com/tomoyasasaki1204/items/240299546095a313b228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T06:45:12.000Z"
   },
   {
     "site": "Qiita",
@@ -132,16 +150,16 @@
     "pubDate": "2025-11-21T05:47:04.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "30万kmの道のり、東京でE2E自動運転を走らせる",
-    "link": "https://zenn.dev/turing_motors/articles/bc6436727234ad",
-    "pubDate": "Fri, 21 Nov 2025 05:34:46 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AtCoderで入黄しました！",
     "link": "https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-21T03:19:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "TryHackMeのすゝめ",
+    "link": "https://qiita.com/AKASecurity/items/38de2a7fbe3355879e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T01:25:44.000Z"
   },
   {
     "site": "Qiita",
@@ -156,27 +174,9 @@
     "pubDate": "2025-11-20T23:41:03.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "念願の！API Gateway + Lambdaでストリーミングレスポンス！Bedrockの応答でカタカタできる！",
-    "link": "https://qiita.com/moritalous/items/2f9a783515abe8e3ccd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T15:59:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "アクセスキーからaws loginへの移行を考える",
-    "link": "https://qiita.com/takahash_3/items/dcf78039fcbaea7848a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T13:13:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【保存版】Google Antigravity 完全攻略ガイド｜次世代 \"エージェント型\" IDEのすべてを使い倒すチートシート",
-    "link": "https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T01:34:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
-    "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T23:41:41.000Z"
+    "site": "Hatena",
+    "title": "1Password Environmentsで.envファイルを管理できるようになったので試してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/1password-environments-env-management/",
+    "pubDate": "2025-11-17T08:29:19.000Z"
   }
 ]
