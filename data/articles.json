@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "御社のSaaS導入を社内で止めていたのは、私です｜dx_note",
+    "title": "GitをCUIで強力にサポートする超高機能ツール「lazygit」",
+    "link": "https://gigazine.net/news/20251122-lazygit/",
+    "pubDate": "2025-11-22T13:40:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ITベンダーの皆様、御社SaaSの導入を社内で止めていたのは、私です｜dx_note",
     "link": "https://note.com/posi7293/n/n369d55fe370e",
     "pubDate": "2025-11-22T12:00:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Gmailを使用している要注意】個人情報がAIモデルに学習させられる可能性があるという話。理由は、初期設定ですべてのメッセージと添付ファイルにアクセスすることを自動的に許可されているから",
+    "link": "https://posfie.com/@taimport/p/vP3ym9e",
+    "pubDate": "2025-11-22T11:02:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Lambda Tenant Isolation Mode（テナント分離モード）",
+    "link": "https://zenn.dev/aws_japan/articles/lambda-tenant-isolation",
+    "pubDate": "Sat, 22 Nov 2025 11:02:13 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Linuxカーネル開発入門ガイド（LFD103-JP） | Linux Foundation Education",
+    "link": "https://training.linuxfoundation.org/ja/training/a-beginners-guide-to-linux-kernel-development-lfd103-jp/",
+    "pubDate": "2025-11-22T10:42:47.000Z"
   },
   {
     "site": "Hatena",
@@ -19,9 +43,33 @@
   },
   {
     "site": "Hatena",
+    "title": "「数学は役に立つか？」より大事なこと｜加藤文元",
+    "link": "https://note.com/katobungen/n/n5e35e3661294",
+    "pubDate": "2025-11-22T09:48:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ECSの新機能Expressモードで、認証つきStreamlitアプリを簡単にAWSデプロイしよう！",
+    "link": "https://qiita.com/minorun365/items/7ad6c37eb8996e79d631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T09:24:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Linux Foundation、「Linuxカーネル開発 初心者向けガイド」日本語版を無料公開",
     "link": "https://codezine.jp/news/detail/22645",
     "pubDate": "2025-11-22T05:20:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "A2A を基礎から学ぶ (4) Function Calling による複数 Agent の選択的呼び出しの実装",
+    "link": "https://zenn.dev/sakura_internet/articles/72af3abdfe5c5b",
+    "pubDate": "Sat, 22 Nov 2025 03:37:19 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon ECS Expressモードがリリースされました",
+    "link": "https://qiita.com/yama3133/items/9baaea109351c6b2bcc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T03:09:24.000Z"
   },
   {
     "site": "Hatena",
@@ -36,24 +84,6 @@
     "pubDate": "Fri, 21 Nov 2025 23:43:48 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【Ubuntu日和】 【第82回】無限増殖するミニPCの活用方法！MicroCloudでご家庭クラウドを構築してみたぞ",
-    "link": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2064787.html",
-    "pubDate": "2025-11-21T21:51:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemini 3.0 Pro要緊急対策のご提言",
-    "link": "https://paste.ssig33.com/8a22a6e9-a91d-4368-9b2f-a3d4567c7798",
-    "pubDate": "2025-11-21T19:04:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソフトウェア設計の課題・原則・実践技法",
-    "link": "https://speakerdeck.com/masuda220/sohutoueashe-ji-noke-ti-yuan-ze-shi-jian-ji-fa",
-    "pubDate": "2025-11-21T16:37:24.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Nano Banana Pro APIの新規機能は Gemini Web版で利用できるの！？ (Gemini 3 Pro Image)",
     "link": "https://zenn.dev/mohy_nyapan/articles/72ae3a8965a41c",
@@ -66,28 +96,16 @@
     "pubDate": "Fri, 21 Nov 2025 14:59:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "事務作業をパートさん、生成ＡＩで代替できる仕事なので契約満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた→「ご本人はAIを使いこなしていた」",
-    "link": "https://posfie.com/@petaritape/p/tLMALrs",
-    "pubDate": "2025-11-21T14:36:52.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Rustで『安全』と言い切れるか？Cloudflare 障害と unwrap() のリアル",
     "link": "https://zenn.dev/dokusy/articles/666387f63061de",
     "pubDate": "Fri, 21 Nov 2025 13:17:11 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？",
-    "link": "https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T11:57:41.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "Nano Banana Pro怖すぎ - トウフ系",
-    "link": "https://kaishaku01.hatenablog.com/entry/2025/11/21/172357",
-    "pubDate": "2025-11-21T10:47:20.000Z"
+    "title": "全員アーキテクトで挑む、 巨大で高密度なドメインの紐解き方",
+    "link": "https://speakerdeck.com/agatan/unraveling-massive-and-dense-domains-the-everyone-is-an-architect-approach",
+    "pubDate": "2025-11-21T10:43:40.000Z"
   },
   {
     "site": "Zenn",
@@ -103,33 +121,27 @@
   },
   {
     "site": "Zenn",
+    "title": "Prisma v7の新機能と変更点まとめ",
+    "link": "https://zenn.dev/assign/articles/prisma-v7-whats-new",
+    "pubDate": "Fri, 21 Nov 2025 05:48:14 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "C# は史上初めて Java を追い抜くことになるのか？ - 2025年11月のTIOBE指数",
+    "link": "https://qiita.com/Sakai_path/items/b8917ffa206b11f8c86a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-21T05:47:04.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "30万kmの道のり、東京でE2E自動運転を走らせる",
     "link": "https://zenn.dev/turing_motors/articles/bc6436727234ad",
     "pubDate": "Fri, 21 Nov 2025 05:34:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "20年超レガシー『バイトル』をAI駆動で再設計！事業成長を実現するリアーキ戦略",
-    "link": "https://zenn.dev/dip_k16/articles/2c86ae68b1c661",
-    "pubDate": "Fri, 21 Nov 2025 04:07:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "技術的負債はいつ解消すべきか？ - HERP が React 移行で使った3つの判断軸",
-    "link": "https://zenn.dev/herp_inc/articles/when-to-resolve-technical-debt",
-    "pubDate": "Fri, 21 Nov 2025 03:36:14 GMT"
   },
   {
     "site": "Qiita",
     "title": "AtCoderで入黄しました！",
     "link": "https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-21T03:19:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "LEFT JOINの論理削除はWHERE句でしぼるな",
-    "link": "https://zenn.dev/levtech/articles/squeeze-on-join-on",
-    "pubDate": "Fri, 21 Nov 2025 02:45:01 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "“見えてるけど見えてない”メモリリークの実体と 5 分で防ぐテクニック",
     "link": "https://qiita.com/K3n_to_n17/items/cbd8f1022c37371d6e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-19T23:41:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Antigravity使ってみた - Claude Code&CursorユーザーがGoogleの新IDEを触った感想",
-    "link": "https://qiita.com/sion_neko/items/105168a19194c67a13d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T16:44:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "話題のGemini3で東方風の弾幕シューティングゲームをつくってみた",
-    "link": "https://qiita.com/geekman4040/items/fdbf1e71b16d6f6f1a8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-19T12:13:47.000Z"
   }
 ]
