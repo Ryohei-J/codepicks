@@ -1,9 +1,33 @@
 [
   {
+    "site": "Qiita",
+    "title": "シリーズ: AI時代におけるフロントエンド（NextJS/ReactJS）のディレクトリ構造",
+    "link": "https://qiita.com/TOMOSIA-HieuNT/items/ae0642e32156ea2d8d36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-24T06:50:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した",
+    "link": "https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746",
+    "pubDate": "2025-11-24T03:10:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "X、「アカウント所在地」表示を開始　接続元の国・地域を確認",
+    "link": "https://www.watch.impress.co.jp/docs/news/2065781.html",
+    "pubDate": "2025-11-24T03:05:59.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "高速な XBRL パーサーを Python で書く - kawasin73のブログ",
     "link": "https://kawasin73.hatenablog.com/entry/2025/11/23/221951",
     "pubDate": "2025-11-24T01:24:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "おい、本を読め - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/11/24/043314",
+    "pubDate": "2025-11-24T00:13:43.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +37,27 @@
   },
   {
     "site": "Hatena",
+    "title": "xAIの画像生成AI「Grok Imagine」が凄まじい。使い方は簡単、アダルト規制はユルユル (1/4)",
+    "link": "https://ascii.jp/elem/000/004/354/4354307/",
+    "pubDate": "2025-11-23T23:23:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Open xINT CTF 2025 Writeup",
+    "link": "https://zenn.dev/tkaliiho/articles/59888f72729744",
+    "pubDate": "Sun, 23 Nov 2025 15:25:59 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "「NHKの所在がアメリカになっている」──Xの新機能が招いた波紋か　「場所が違う」との指摘相次ぐ",
     "link": "https://www.itmedia.co.jp/mobile/articles/2511/23/news025.html",
     "pubDate": "2025-11-23T14:32:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "[技術書典19]初めての技術同人誌作成・オフライン出展",
+    "link": "https://zenn.dev/hamijay_cloud/articles/3d99f22f8e098f",
+    "pubDate": "Sun, 23 Nov 2025 11:55:28 GMT"
   },
   {
     "site": "Zenn",
@@ -24,10 +66,10 @@
     "pubDate": "Sun, 23 Nov 2025 11:39:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "サイゼリヤの“注文アプリ”が賛否を呼ぶ理由──「使いやすい」「紙メニュー前提」など多様な意見",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2511/23/news024.html",
-    "pubDate": "2025-11-23T11:02:54.000Z"
+    "site": "Zenn",
+    "title": "AWS CDKのGrantsクラスを試してみた",
+    "link": "https://zenn.dev/aki_kii/articles/try-grants-class-for-awscdk",
+    "pubDate": "Sun, 23 Nov 2025 11:08:19 GMT"
   },
   {
     "site": "Zenn",
@@ -36,22 +78,34 @@
     "pubDate": "Sun, 23 Nov 2025 10:54:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "DellとHP、一部ノートPCでHEVC / H.265を意図的に無効化。動画視聴に影響。コスト削減のためか | ニッチなPCゲーマーの環境構築Z",
-    "link": "https://www.nichepcgamer.com/archives/dell-and-hp-some-laptop-pc-disabled-hevc-h265.html",
-    "pubDate": "2025-11-23T09:02:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「弁護士や税理士などの士業が危ない」という意見に岡野タケシ弁護士が「実際は真逆」と述べ賛否両論「業務独占資格が唯一の『堀』」「売れっ子と全く食えない層に2分化」",
-    "link": "https://togetter.com/li/2631019",
-    "pubDate": "2025-11-23T08:59:57.000Z"
+    "site": "Zenn",
+    "title": "Snowlfake ML Jobsを使おう！",
+    "link": "https://zenn.dev/takikomi/articles/314d3bdda3ad8b",
+    "pubDate": "Sun, 23 Nov 2025 10:39:58 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Microsoft Ignite 2025しがない回想記　Keynote入れないのぉ？？~ネパール人に感謝して~",
-    "link": "https://zenn.dev/kasada/articles/b89c69e66ff67d",
-    "pubDate": "Sun, 23 Nov 2025 08:55:48 GMT"
+    "title": "Unityのホラーゲーム用ライティング設定メモ",
+    "link": "https://zenn.dev/akubi/articles/5168a19d946f1c",
+    "pubDate": "Sun, 23 Nov 2025 10:37:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust でローカルにできる限りにセキュアに保存",
+    "link": "https://zenn.dev/nodamushi/articles/7189de6df51938",
+    "pubDate": "Sun, 23 Nov 2025 09:47:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS CDK で Grants クラスが導入されました（v2.227.0)",
+    "link": "https://zenn.dev/aws_japan/articles/cdk-grants-refactor",
+    "pubDate": "Sun, 23 Nov 2025 09:42:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Google Antigravity】話題のAI IDEを使って、家庭菜園シミュレータを1日で爆誕させた話",
+    "link": "https://zenn.dev/acorn181/articles/2186869ff32265",
+    "pubDate": "Sun, 23 Nov 2025 08:41:22 GMT"
   },
   {
     "site": "Hatena",
@@ -61,33 +115,33 @@
   },
   {
     "site": "Qiita",
+    "title": "ChatGPTにDiscordトレンドAIニュース自動配信Botを作ってもらった【ChatGPT･GitHub Actions･Discord】",
+    "link": "https://qiita.com/foocode/items/43136e8d06b2edc5fa34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T07:22:51.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Diffusion PlannerとAutowareにおける機械学習応用",
     "link": "https://qiita.com/soyaoki/items/77ea79aa380b95693c24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-23T06:19:59.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIを駆使して2D図面画像を2DCAD(ベクター)化する",
-    "link": "https://zenn.dev/firstautomation/articles/36e4d5e3455f52",
-    "pubDate": "Sun, 23 Nov 2025 05:08:28 GMT"
+    "site": "Qiita",
+    "title": "「2025年の崖」問題はどうなったのか？",
+    "link": "https://qiita.com/k12da/items/cd344a6fec413e08edc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T06:08:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NotebookLM実務活用ガイド 2025年11月版：調査・分析から資料作成までを革新する｜【AI研究中】ただし",
-    "link": "https://note.com/note_tds/n/n595913f89c9f",
-    "pubDate": "2025-11-23T03:11:27.000Z"
+    "site": "Qiita",
+    "title": "Git の歴史を映画のように再生する gitlogue を作りました",
+    "link": "https://qiita.com/unhappychoice/items/7e2d792dbf7993ac4465?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T01:51:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【Claude Code】SkillsとSubAgents、どっちを使えばいいの？違いと使い分けを完全解説",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_skills_vs_subagents",
-    "pubDate": "Sat, 22 Nov 2025 23:46:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ペイントツール上でライフゲームを動かす",
-    "link": "https://zenn.dev/melville/articles/83c91d6ea42d0c",
-    "pubDate": "Sat, 22 Nov 2025 23:27:01 GMT"
+    "site": "Qiita",
+    "title": "【Microsoft Ignite Update】Copilot Studio で SharepointListsMCP を試してみた",
+    "link": "https://qiita.com/Takashi_Masumori/items/33e80f0186dc1cf34168?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T23:36:30.000Z"
   },
   {
     "site": "Hatena",
@@ -96,16 +150,16 @@
     "pubDate": "2025-11-22T22:11:35.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "俺のVercelは遅かった - Function Regionの罠",
-    "link": "https://zenn.dev/mountain1009/articles/00c8a4542e6194",
-    "pubDate": "Sat, 22 Nov 2025 13:06:11 GMT"
+    "site": "Qiita",
+    "title": "VLMで自動運転やってみた #2",
+    "link": "https://qiita.com/soyaoki/items/3ebd29fa3d5b24ea1b4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T15:01:35.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Lambda Tenant Isolation Mode（テナント分離モード）",
-    "link": "https://zenn.dev/aws_japan/articles/lambda-tenant-isolation",
-    "pubDate": "Sat, 22 Nov 2025 11:02:13 GMT"
+    "site": "Qiita",
+    "title": "`aws login`の認証情報をboto3で使うにはひと工夫必要だよ！",
+    "link": "https://qiita.com/moritalous/items/482b1e0a7418652568e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T12:41:11.000Z"
   },
   {
     "site": "Qiita",
@@ -120,63 +174,9 @@
     "pubDate": "2025-11-22T07:12:38.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【備忘録】アーキテクチャConference 2025 で 学びと気づきが得られすぎたので、共有したい...",
-    "link": "https://zenn.dev/sunagaku/articles/architecture-conference-2025",
-    "pubDate": "Sat, 22 Nov 2025 05:38:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "aws loginコマンドが来たのでAWSのアクセスキーを削除したかったけど、やっぱり保留しました。",
-    "link": "https://zenn.dev/ncdc/articles/153101d64b0175",
-    "pubDate": "Sat, 22 Nov 2025 03:14:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Antigravity使うのやめてCopilotに戻った話",
-    "link": "https://qiita.com/tubasa854/items/bf96feb1a0d26fe3a4c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T21:38:41.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "Nano Banana ProがヤバかったのでAIマンガ家目線で解説します｜けいすけ",
     "link": "https://note.com/konho/n/na8dbea133158",
     "pubDate": "2025-11-21T14:25:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？",
-    "link": "https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T11:57:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilot Studio で SharePoint Listのデータを精度よく取り扱うには",
-    "link": "https://qiita.com/tomoyasasaki1204/items/240299546095a313b228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T06:45:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AtCoderで入黄しました！",
-    "link": "https://qiita.com/Yoyoyo8128/items/57e089cb66f9fdaa864a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T03:19:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "TryHackMeのすゝめ",
-    "link": "https://qiita.com/AKASecurity/items/38de2a7fbe3355879e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T01:25:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「謝罪」しすぎない技術",
-    "link": "https://qiita.com/y_o_28/items/4f3bd30f1f0a8fe4c21e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T00:15:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【速報】Google画像生成AIの新モデル「Nano Banana Pro」登場！Gemini 3ベースの描画力を徹底解説",
-    "link": "https://qiita.com/kentaro_kawamura/items/d2b858d9d6e091855757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-20T23:41:03.000Z"
   }
 ]
