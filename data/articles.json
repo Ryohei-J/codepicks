@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "ワインバーグの法則をAIに適用する『コンサルタントの秘密』",
+    "link": "https://dain.cocolog-nifty.com/myblog/2025/11/post-42a30b.html",
+    "pubDate": "2025-11-23T23:25:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "終わらない会議を「ベクトル演算」で強制終了させるAIプロンプト",
+    "link": "https://qiita.com/makotosaekit/items/b2e256bc08c94821140c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T11:55:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した",
+    "link": "https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746",
+    "pubDate": "Sun, 23 Nov 2025 11:39:08 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "サイゼリヤの“注文アプリ”が賛否を呼ぶ理由──「使いやすい」「紙メニュー前提」など多様な意見",
     "link": "https://www.itmedia.co.jp/mobile/articles/2511/23/news024.html",
     "pubDate": "2025-11-23T11:02:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "仕様書駆動開発で一番いいAIモデル&エージェント検証 11/23版",
+    "link": "https://zenn.dev/sakastudio/articles/a5ea1eee97ec37",
+    "pubDate": "Sun, 23 Nov 2025 10:54:41 GMT"
   },
   {
     "site": "Hatena",
@@ -18,6 +42,36 @@
     "pubDate": "2025-11-23T08:59:57.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Microsoft Ignite 2025しがない回想記　Keynote入れないのぉ？？~ネパール人に感謝して~",
+    "link": "https://zenn.dev/kasada/articles/b89c69e66ff67d",
+    "pubDate": "Sun, 23 Nov 2025 08:55:48 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Nano Banana Proで使えるプロンプトを公開！（2025年11月22日のAIイラスト）｜てんねん｜AIイラストクリエイター",
+    "link": "https://note.com/munou_ac/n/n0525f0dbd739",
+    "pubDate": "2025-11-23T07:30:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Diffusion PlannerとAutowareにおける機械学習応用",
+    "link": "https://qiita.com/soyaoki/items/77ea79aa380b95693c24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T06:19:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIを駆使して2D図面画像を2DCAD(ベクター)化する",
+    "link": "https://zenn.dev/firstautomation/articles/36e4d5e3455f52",
+    "pubDate": "Sun, 23 Nov 2025 05:08:28 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "アンサイクロペディアの浸食",
+    "link": "https://anond.hatelabo.jp/20251123124205",
+    "pubDate": "2025-11-23T04:08:06.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "インフラエンジニアのあなたも！Shell スクリプト開発で Kiro を使ってみよう | Amazon Web Services",
     "link": "https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-5-kiro-for-shell-scripting/",
@@ -25,9 +79,9 @@
   },
   {
     "site": "Hatena",
-    "title": "TypeScript 6.0で非推奨化されるオプションたち",
-    "link": "https://speakerdeck.com/uhyo/typescript-6-dot-0defei-tui-jiang-hua-sareruopusiyontati",
-    "pubDate": "2025-11-23T03:10:15.000Z"
+    "title": "NotebookLM実務活用ガイド 2025年11月版：調査・分析から資料作成までを革新する｜【AI研究中】ただし",
+    "link": "https://note.com/note_tds/n/n595913f89c9f",
+    "pubDate": "2025-11-23T03:11:27.000Z"
   },
   {
     "site": "Zenn",
@@ -43,18 +97,6 @@
   },
   {
     "site": "Zenn",
-    "title": "Durable Agent で長時間ツール呼び出し - Microsoft Agent Framework (C#) その15",
-    "link": "https://zenn.dev/microsoft/articles/agent-framework-015",
-    "pubDate": "Sat, 22 Nov 2025 16:33:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeはサブエージェントが何をしたか知らない",
-    "link": "https://zenn.dev/trust_delta/articles/claude-code-subagent-001",
-    "pubDate": "Sat, 22 Nov 2025 15:37:15 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "【徹底解剖】Gemini 3.0がGPT-5.1/Claude 4.5を凌駕する「エージェント・ファースト」アーキテクチャの全貌",
     "link": "https://zenn.dev/knbzyh/articles/69012ad0941d12",
     "pubDate": "2025-11-22T15:04:46.000Z"
@@ -66,28 +108,10 @@
     "pubDate": "Sat, 22 Nov 2025 13:06:11 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "`aws login`の認証情報をboto3で使うにはひと工夫必要だよ！",
-    "link": "https://qiita.com/moritalous/items/482b1e0a7418652568e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-22T12:41:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ITベンダーの皆様、御社SaaSの導入を社内で止めていたのは、私です｜dx_note",
-    "link": "https://note.com/posi7293/n/n369d55fe370e",
-    "pubDate": "2025-11-22T12:00:39.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Lambda Tenant Isolation Mode（テナント分離モード）",
     "link": "https://zenn.dev/aws_japan/articles/lambda-tenant-isolation",
     "pubDate": "Sat, 22 Nov 2025 11:02:13 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「数学は役に立つか？」より大事なこと｜加藤文元",
-    "link": "https://note.com/katobungen/n/n5e35e3661294",
-    "pubDate": "2025-11-22T09:48:53.000Z"
   },
   {
     "site": "Qiita",
@@ -96,10 +120,16 @@
     "pubDate": "2025-11-22T09:24:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "おそらくNano Banana Proで作ったであろう漫画を見つけた",
-    "link": "https://anond.hatelabo.jp/20251122140905",
-    "pubDate": "2025-11-22T05:10:46.000Z"
+    "site": "Qiita",
+    "title": "【備忘録】AgentCoreデプロイ手順（Windows編）",
+    "link": "https://qiita.com/yakumo_09/items/43dea9a424ff8246652f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-22T07:12:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【備忘録】アーキテクチャConference 2025 で 学びと気づきが得られすぎたので、共有したい...",
+    "link": "https://zenn.dev/sunagaku/articles/architecture-conference-2025",
+    "pubDate": "Sat, 22 Nov 2025 05:38:21 GMT"
   },
   {
     "site": "Zenn",
@@ -108,46 +138,22 @@
     "pubDate": "Sat, 22 Nov 2025 03:14:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【ポエム】プログラミングスキルと同じように、AIデバッグスキルも必要になりそうだな、と感じた話",
-    "link": "https://zenn.dev/sunagaku/articles/ai-debug-skill-needed",
-    "pubDate": "Fri, 21 Nov 2025 23:43:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Antigravity使うのやめてCopilotに戻った話",
     "link": "https://qiita.com/tubasa854/items/bf96feb1a0d26fe3a4c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-21T21:38:41.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Nano Banana Pro APIの新規機能は Gemini Web版で利用できるの！？ (Gemini 3 Pro Image)",
-    "link": "https://zenn.dev/mohy_nyapan/articles/72ae3a8965a41c",
-    "pubDate": "Fri, 21 Nov 2025 16:21:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "アーキテクチャカンファレンス参加レポート",
-    "link": "https://zenn.dev/yuma_ito_bd/articles/20251121-architecture-conference-report",
-    "pubDate": "Fri, 21 Nov 2025 14:59:09 GMT"
+    "site": "Hatena",
+    "title": "Nano Banana ProがヤバかったのでAIマンガ家目線で解説します｜けいすけ",
+    "link": "https://note.com/konho/n/na8dbea133158",
+    "pubDate": "2025-11-21T14:25:52.000Z"
   },
   {
     "site": "Qiita",
     "title": "技術書典における宣伝と実際の売上について――書籍紹介でどれくらい売上が伸びるのか？",
     "link": "https://qiita.com/dtak/items/8b3a4abc94d16497b991?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-21T11:57:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilot Studio で SharePoint Listのデータを精度よく取り扱うには",
-    "link": "https://qiita.com/tomoyasasaki1204/items/240299546095a313b228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T06:45:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "C# は史上初めて Java を追い抜くことになるのか？ - 2025年11月のTIOBE指数",
-    "link": "https://qiita.com/Sakai_path/items/b8917ffa206b11f8c86a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-21T05:47:04.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【速報】Google画像生成AIの新モデル「Nano Banana Pro」登場！Gemini 3ベースの描画力を徹底解説",
     "link": "https://qiita.com/kentaro_kawamura/items/d2b858d9d6e091855757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-20T23:41:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "1Password Environmentsで.envファイルを管理できるようになったので試してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/1password-environments-env-management/",
-    "pubDate": "2025-11-17T08:29:19.000Z"
   }
 ]
