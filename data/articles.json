@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "AIによる手動QAの自動化：自動テストコーディングのAI化でテスト実行工数を52%削減 - Tabelog Tech Blog",
+    "link": "https://tech-blog.tabelog.com/entry/ai-for-qa-automation-test",
+    "pubDate": "2025-11-25T07:33:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "心臓外科医になるためにクラウドファンディングでお金を集めた後に転科して美容外科医になるのはありなのか？医師の間でも意見の分かれる議論に",
+    "link": "https://togetter.com/li/2631830",
+    "pubDate": "2025-11-25T06:38:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "PythonでLLM APIを並列実行する方法",
+    "link": "https://qiita.com/kazuki_ogawa/items/aad49d80d2466e7c0ced?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-25T03:13:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "[アーキテクチャConference2025 参加レポート]リアルな知見から学ぶ最適なアーキテクチャ",
+    "link": "https://qiita.com/t0hara/items/0289767d37366d9a0f99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-25T02:29:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Suicaの新コード決済は「テッペイ」 2万円超え対応でモバイルPASMOも",
     "link": "https://www.watch.impress.co.jp/docs/news/2065890.html",
     "pubDate": "2025-11-25T02:18:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "SlideCraft - AI生成スライドを部分的に直せるツールを作りました",
+    "link": "https://zenn.dev/coji/articles/slidecraft-react-router-opfs-gemini",
+    "pubDate": "Tue, 25 Nov 2025 02:10:04 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "営業にアジャイルをどう理解してもらったのか？ ダイキン工業の内製化チームの試み - Agile Journey",
+    "link": "https://agilejourney.uzabase.com/entry/2025/11/25/103000",
+    "pubDate": "2025-11-25T02:00:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "QAとSREが統合したQualityチームの挑戦",
+    "link": "https://zenn.dev/luup_developers/articles/sre-gr1m0h-20251125",
+    "pubDate": "Tue, 25 Nov 2025 02:00:00 GMT"
   },
   {
     "site": "Hatena",
@@ -12,10 +54,16 @@
     "pubDate": "2025-11-25T01:16:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「脳を覆う電極シート」、香港チームが開発　数ミリの穴から挿入し展開　ビーグル犬で検証、術後1日で退院",
-    "link": "https://www.itmedia.co.jp/news/articles/2511/25/news030.html",
-    "pubDate": "2025-11-25T00:25:02.000Z"
+    "site": "Zenn",
+    "title": "サプライチェーン攻撃の実態解明とカナリーの防衛戦略",
+    "link": "https://zenn.dev/canary_techblog/articles/6f7c9728665b3a",
+    "pubDate": "Tue, 25 Nov 2025 01:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoft (有志)メンバーが選ぶ！Microsoft Ignite 2025注目セッション",
+    "link": "https://zenn.dev/microsoft/articles/ms-pub-ignite-2025",
+    "pubDate": "Tue, 25 Nov 2025 00:21:09 GMT"
   },
   {
     "site": "Hatena",
@@ -31,18 +79,6 @@
   },
   {
     "site": "Hatena",
-    "title": "コーヒーを飲んでいたら空いている席がたくさんあるのに「ここ、相席いいですか？」と中学生くらいの女の子が声をかけてきて何も頼まずに小一時間いたけど、こういう理由だったのかも",
-    "link": "https://togetter.com/li/2631703",
-    "pubDate": "2025-11-24T22:19:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "P2Pファイル共有ソフト「BitTorrent」利用の違法アップロード者に発信者情報開示を命じる判決、日本レコード協会が発表　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2065555.html",
-    "pubDate": "2025-11-24T22:08:54.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Introducing Claude Opus 4.5",
     "link": "https://www.anthropic.com/news/claude-opus-4-5",
     "pubDate": "2025-11-24T19:25:26.000Z"
@@ -55,9 +91,27 @@
   },
   {
     "site": "Zenn",
+    "title": "ノーコードのDiscordのBot作成ツールを公開したら4kブクマついた話",
+    "link": "https://zenn.dev/himais0giiiin/articles/849f19ad9bcc46",
+    "pubDate": "Mon, 24 Nov 2025 14:42:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "やるべきリファクタを見極め、1ヶ月でやりきれた理由",
+    "link": "https://zenn.dev/studio/articles/refactoring-validation-process",
+    "pubDate": "Mon, 24 Nov 2025 14:10:04 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "新しいワークフローの勉強1 - Microsoft Agent Framework (C#) その18",
     "link": "https://zenn.dev/microsoft/articles/agent-framework-018",
     "pubDate": "Mon, 24 Nov 2025 13:18:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "自作OSにネットワーク機能を実装してpingに応答させる",
+    "link": "https://zenn.dev/junjunjunjun/articles/fa8ab49a94875a",
+    "pubDate": "Mon, 24 Nov 2025 12:03:30 GMT"
   },
   {
     "site": "Zenn",
@@ -66,16 +120,10 @@
     "pubDate": "Mon, 24 Nov 2025 11:50:57 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Open xINT CTF 2025 Write-up (40548F)",
-    "link": "https://zenn.dev/kn1cht/articles/open-xint-2025-40548f",
-    "pubDate": "Mon, 24 Nov 2025 09:22:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "asChild の課題と他の合成パターンの比較",
-    "link": "https://zenn.dev/tsuboi/articles/8abddb1ae3038f",
-    "pubDate": "Mon, 24 Nov 2025 09:04:38 GMT"
+    "site": "Qiita",
+    "title": "【JavaScript】単位をJSで取り扱えるようにしようという提案",
+    "link": "https://qiita.com/rana_kualu/items/2bf709aae35d194dff9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-24T09:29:42.000Z"
   },
   {
     "site": "Qiita",
@@ -84,52 +132,16 @@
     "pubDate": "2025-11-24T08:30:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Microsoft Ignite2025 Agentic DevOps関連セッションまとめ",
-    "link": "https://zenn.dev/microsoft/articles/a748d9bd900ca5",
-    "pubDate": "Mon, 24 Nov 2025 08:14:47 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【歴史】Reactが覇権を握るまでの知られざる物語【図解解説】",
     "link": "https://qiita.com/Sicut_study/items/ab4d6ba9da63d71a6c50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-24T08:00:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIファーストなドキュメント戦略 - DocCommentにユビキタス言語を書くだけのシンプルなアプローチ",
-    "link": "https://zenn.dev/k9i/articles/20251124_doccomment",
-    "pubDate": "Mon, 24 Nov 2025 04:27:50 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Select AI Agent】Oracle DBの中だけでReAct型AIエージェントを動かしてみた -NL2SQL×RAG-",
-    "link": "https://qiita.com/yushibats/items/1abe3001e3fae7b714f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T03:31:11.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "TypedSql──C# の型システムをクエリエンジンとして「悪用」してみた話",
     "link": "https://qiita.com/hez2010/items/2936d7441c61df5a628a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-23T17:34:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した",
-    "link": "https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746",
-    "pubDate": "Sun, 23 Nov 2025 11:39:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕様書駆動開発で一番いいAIモデル&エージェント検証 11/23版",
-    "link": "https://zenn.dev/sakastudio/articles/a5ea1eee97ec37",
-    "pubDate": "Sun, 23 Nov 2025 10:54:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rust でローカルにできる限りにセキュアに保存",
-    "link": "https://zenn.dev/nodamushi/articles/7189de6df51938",
-    "pubDate": "Sun, 23 Nov 2025 09:47:38 GMT"
   },
   {
     "site": "Qiita",
@@ -151,12 +163,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【Microsoft Ignite Update】Copilot Studio で SharepointListsMCP を試してみた",
-    "link": "https://qiita.com/Takashi_Masumori/items/33e80f0186dc1cf34168?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-22T23:36:30.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Google Antigravity IDEで焼き肉部位サイトを作ってみた - 開発フローと知っておくべき機能",
     "link": "https://qiita.com/sion_neko/items/e22e632e826f45fc17b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-22T17:38:05.000Z"
@@ -166,12 +172,6 @@
     "title": "Google Antigravity のスタートガイド  |  Google Codelabs",
     "link": "https://codelabs.developers.google.com/getting-started-google-antigravity?hl=ja",
     "pubDate": "2025-11-22T13:36:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ECSの新機能Expressモードで、認証つきStreamlitアプリを簡単にAWSデプロイしよう！",
-    "link": "https://qiita.com/minorun365/items/7ad6c37eb8996e79d631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-22T09:24:45.000Z"
   },
   {
     "site": "Hatena",
