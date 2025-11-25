@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "訓練データ1個だけでLLMの推論性能を倍にする - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "link": "https://joisino.hatenablog.com/entry/onedata",
+    "pubDate": "2025-11-25T09:03:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIによる手動QAの自動化：自動テストコーディングのAI化でテスト実行工数を52%削減 - Tabelog Tech Blog",
     "link": "https://tech-blog.tabelog.com/entry/ai-for-qa-automation-test",
     "pubDate": "2025-11-25T07:33:10.000Z"
   },
   {
     "site": "Hatena",
+    "title": "国立国会図書館、個人情報など4万件超漏えいの可能性　新システム再委託業者への不正アクセスで",
+    "link": "https://www.itmedia.co.jp/news/articles/2511/25/news103.html",
+    "pubDate": "2025-11-25T07:12:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "心臓外科医になるためにクラウドファンディングでお金を集めた後に転科して美容外科医になるのはありなのか？医師の間でも意見の分かれる議論に",
     "link": "https://togetter.com/li/2631830",
     "pubDate": "2025-11-25T06:38:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『ATOK Passport』新プランのご案内 | お知らせ |【公式】ATOK.com",
+    "link": "https://atok.com/new_plan/",
+    "pubDate": "2025-11-25T05:32:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「社員よりAIを守る国、アメリカ」Z世代のMLエンジニアonoderaが見た“AIの国”の働き方 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/29732/",
+    "pubDate": "2025-11-25T03:27:40.000Z"
   },
   {
     "site": "Qiita",
@@ -22,6 +46,12 @@
     "title": "[アーキテクチャConference2025 参加レポート]リアルな知見から学ぶ最適なアーキテクチャ",
     "link": "https://qiita.com/t0hara/items/0289767d37366d9a0f99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-25T02:29:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "福岡大学 公開NTPサービス アップデート",
+    "link": "https://speakerdeck.com/tanyorg/fu-gang-da-xue-gong-kai-ntpsabisu-atupudeto",
+    "pubDate": "2025-11-25T02:28:16.000Z"
   },
   {
     "site": "Hatena",
@@ -64,24 +94,6 @@
     "title": "Microsoft (有志)メンバーが選ぶ！Microsoft Ignite 2025注目セッション",
     "link": "https://zenn.dev/microsoft/articles/ms-pub-ignite-2025",
     "pubDate": "Tue, 25 Nov 2025 00:21:09 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Microsoft、とうとう「WINS」を廃止 ～「Windows Server 2025」が最後のサポートOS／2034年11月までに後継・代替サービスへ移行を",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2065825.html",
-    "pubDate": "2025-11-24T23:23:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "TypeScriptで設計する 堅牢さとUXを両立した非同期ワークフローの実現",
-    "link": "https://speakerdeck.com/moeka__c/typescriptdeshe-ji-suru-jian-lao-satouxwoliang-li-sitafei-tong-qi-wakuhuronoshi-xian",
-    "pubDate": "2025-11-24T23:14:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Introducing Claude Opus 4.5",
-    "link": "https://www.anthropic.com/news/claude-opus-4-5",
-    "pubDate": "2025-11-24T19:25:26.000Z"
   },
   {
     "site": "Zenn",
@@ -166,17 +178,5 @@
     "title": "Google Antigravity IDEで焼き肉部位サイトを作ってみた - 開発フローと知っておくべき機能",
     "link": "https://qiita.com/sion_neko/items/e22e632e826f45fc17b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-22T17:38:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google Antigravity のスタートガイド  |  Google Codelabs",
-    "link": "https://codelabs.developers.google.com/getting-started-google-antigravity?hl=ja",
-    "pubDate": "2025-11-22T13:36:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPTの能力を“最大化”するプロンプト設計術10選：誰でも回答品質を劇的に引き上げられる理由 - Smart Watch Life｜日本初のスマートウォッチ専門メディア",
-    "link": "https://www.smartwatchlife.jp/60201/",
-    "pubDate": "2025-11-21T07:51:37.000Z"
   }
 ]
