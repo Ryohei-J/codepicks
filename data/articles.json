@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「いまだにXのことTwitterって呼んでる人はアプデしてないの？」にツイッタラーマキマが現る「私たちはね、これから老害になるつもりなの…」",
+    "link": "https://togetter.com/li/2632149",
+    "pubDate": "2025-11-26T06:30:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "オープンソース・プロジェクトのたたみ方",
+    "link": "https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project",
+    "pubDate": "2025-11-26T05:03:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアの「絵で説明して」問題、Nano Banana Pro（Gemini 3 Pro Image）でどこまで解消できるか試してみた",
+    "link": "https://qiita.com/ntaka329/items/6609861b7149c2ee8331?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-26T02:46:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Google「Nano Banana Pro」で“漫画”生成祭り開催中。一発出しでこの仕上がり……（生成AIクローズアップ） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2025/11/26/4733.html",
     "pubDate": "2025-11-26T00:27:42.000Z"
@@ -19,9 +37,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AWS リソース間通信は本当にインターネットに出ないのかを Datadog Network Path で検証する",
-    "link": "https://zenn.dev/datadog/articles/f7ac35d6cac1bd",
-    "pubDate": "2025-11-25T22:16:44.000Z"
+    "title": "英語がもう苦手ではなくなったエンジニアが一つ殻を破るためにやった学習",
+    "link": "https://zenn.dev/moneyforward/articles/893eb6f50bd896",
+    "pubDate": "Tue, 25 Nov 2025 23:30:01 GMT"
   },
   {
     "site": "Hatena",
@@ -30,16 +48,34 @@
     "pubDate": "2025-11-25T21:46:54.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "【海外記事紹介】Rustにはガッカリしている",
+    "link": "https://techfeed.io/entries/69261dbc2020c64b2242f9eb",
+    "pubDate": "2025-11-25T21:21:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude for Excelがマジですごかった",
+    "link": "https://zenn.dev/acntechjp/articles/4b2f19b536d262",
+    "pubDate": "Tue, 25 Nov 2025 21:18:23 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "AIアプリケーション開発を体系的に学ぶ 『AIエンジニアリング』全章紹介",
     "link": "https://zenn.dev/seya/articles/333b03b47234aa",
     "pubDate": "2025-11-25T17:45:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【30,000字・全編無料】受託事業が堅実に1億円を稼ぐ仕組み｜ 田中 翔理 | Ready Crew(レディクル)",
-    "link": "https://note.com/shori_tanaka/n/nc56406cc0607",
-    "pubDate": "2025-11-25T17:26:39.000Z"
+    "site": "Zenn",
+    "title": "オープンソース・プロジェクトのたたみ方",
+    "link": "https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project",
+    "pubDate": "Tue, 25 Nov 2025 16:08:30 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "30日でAWSをマスターするハンズオン問題集の投稿開始します！！",
+    "link": "https://qiita.com/satosato_kozakana/items/446971c2deca7e27d0aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-25T12:06:35.000Z"
   },
   {
     "site": "Zenn",
@@ -66,22 +102,16 @@
     "pubDate": "2025-11-25T05:09:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「社員よりAIを守る国、アメリカ」Z世代のMLエンジニアonoderaが見た“AIの国”の働き方 - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/29732/",
-    "pubDate": "2025-11-25T03:27:40.000Z"
+    "site": "Zenn",
+    "title": "PostgreSQLフルテキスト検索の実装でメール検索を最大71%高速化した話",
+    "link": "https://zenn.dev/91works/articles/8659a8cfb95b72",
+    "pubDate": "Tue, 25 Nov 2025 03:56:52 GMT"
   },
   {
     "site": "Qiita",
-    "title": "PythonでLLM APIを並列実行する方法",
-    "link": "https://qiita.com/kazuki_ogawa/items/aad49d80d2466e7c0ced?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T03:13:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[アーキテクチャConference2025 参加レポート]リアルな知見から学ぶ最適なアーキテクチャ",
-    "link": "https://qiita.com/t0hara/items/0289767d37366d9a0f99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T02:29:16.000Z"
+    "title": "つい手癖で毎回「レビュー修正」とだけコミットメッセージを書いてしまう人へ",
+    "link": "https://qiita.com/jnchito/items/9ab5df60bf83afeb1d76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-25T02:47:54.000Z"
   },
   {
     "site": "Zenn",
@@ -109,33 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Microsoft (有志)メンバーが選ぶ！Microsoft Ignite 2025注目セッション",
-    "link": "https://zenn.dev/microsoft/articles/ms-pub-ignite-2025",
-    "pubDate": "Tue, 25 Nov 2025 00:21:09 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Prisma@7 は No Rust でも Rust Free でもない",
     "link": "https://zenn.dev/sora_kumo/articles/prisma-7-rust-free",
     "pubDate": "Tue, 25 Nov 2025 00:12:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ノーコードのDiscordのBot作成ツールを公開したら4kブクマついた話",
-    "link": "https://zenn.dev/himais0giiiin/articles/849f19ad9bcc46",
-    "pubDate": "Mon, 24 Nov 2025 14:42:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "やるべきリファクタを見極め、1ヶ月でやりきれた理由",
-    "link": "https://zenn.dev/studio/articles/refactoring-validation-process",
-    "pubDate": "Mon, 24 Nov 2025 14:10:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自作OSにネットワーク機能を実装してpingに応答させる",
-    "link": "https://zenn.dev/junjunjunjun/articles/fa8ab49a94875a",
-    "pubDate": "Mon, 24 Nov 2025 12:03:30 GMT"
   },
   {
     "site": "Qiita",
@@ -151,9 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【Select AI Agent】Oracle DBの中だけでReAct型AIエージェントを動かしてみた -NL2SQL×RAG-",
-    "link": "https://qiita.com/yushibats/items/1abe3001e3fae7b714f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T03:31:11.000Z"
+    "title": "【React】コンポーネント設計パターン6選 - 小〜中規模開発",
+    "link": "https://qiita.com/ktdatascience/items/58a38c0efc915651b2cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-24T01:39:37.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "docker-compose.yml で設定できる項目を詳しく解説する【保存版】",
+    "link": "https://qiita.com/cho-tehu/items/2882e2d40614af82cc95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-23T13:53:14.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【2030年問題】オーストラリア政府が突きつけた\"暗号全取替え\"の衝撃 ― LATICEフレームワーク完全解説",
     "link": "https://qiita.com/satokan3/items/e8216adac6a3425c81a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-23T08:26:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「2025年の崖」問題はどうなったのか？",
-    "link": "https://qiita.com/k12da/items/cd344a6fec413e08edc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-23T06:08:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Git の歴史を映画のように再生する gitlogue を作りました",
-    "link": "https://qiita.com/unhappychoice/items/7e2d792dbf7993ac4465?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-23T01:51:25.000Z"
   }
 ]
