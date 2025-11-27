@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "個人開発なら仕様書がいらないと思うじゃん？後から「オレは何を作ろうとしてたんだ？」ってなるから絶対に必要「週明け月曜日の仕事と同じ」",
+    "link": "https://togetter.com/li/2632438",
+    "pubDate": "2025-11-27T08:41:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Honoの7つのコンセプト",
+    "link": "https://zenn.dev/yusukebe/articles/1f3ac394f31f3b",
+    "pubDate": "Thu, 27 Nov 2025 03:28:54 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "CSSで最近よく使うOKLCHカラーについて理解を深めよう、異なる色でトーンを合わせたり、単色のシェードも簡単",
     "link": "https://coliss.com/articles/build-websites/operation/design/about-oklch-color.html",
     "pubDate": "2025-11-27T01:12:11.000Z"
@@ -24,6 +36,12 @@
     "pubDate": "2025-11-27T00:15:19.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Gemini 3.0 Proを使ったら知識ゼロでもAndroidアプリが作れた【Watch+】",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2066504.html",
+    "pubDate": "2025-11-27T00:03:40.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。",
     "link": "https://zenn.dev/loglass/articles/16745471ef55ff",
@@ -42,6 +60,18 @@
     "pubDate": "2025-11-26T19:00:13.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由",
+    "link": "https://zenn.dev/akari1106/articles/ba99c8702ee732",
+    "pubDate": "Wed, 26 Nov 2025 17:22:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "git worktree 並列開発でのポート競合を解消するCLI、PortMuxを作りました",
+    "link": "https://zenn.dev/yuta_takahashi/articles/introduce-portmux-cli",
+    "pubDate": "Wed, 26 Nov 2025 17:00:13 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "中国テック動向：史上最も厳格なモバイルバッテリー新基準が施行へ-日本も対岸の火事ではない、7割の生産能力淘汰が示す「安全＋透明化」の新時代｜吉川真人＠中国テックトレンドニュース",
     "link": "https://note.com/zhenren63/n/nd0532f917f69",
@@ -52,12 +82,6 @@
     "title": "GitHub Copilot カスタムエージェントのための agents.md 作成ベストプラクティス",
     "link": "https://zenn.dev/studypocket/articles/github-copilot-agents-md-best-practices",
     "pubDate": "Wed, 26 Nov 2025 15:23:38 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "読んだ本は忘れていい ― 年間300冊読む私の読書術",
-    "link": "https://azukiazusa.dev/blog/my-reading-techniques-300-books-a-year/",
-    "pubDate": "2025-11-26T13:10:50.000Z"
   },
   {
     "site": "Hatena",
@@ -91,27 +115,15 @@
   },
   {
     "site": "Zenn",
-    "title": "英語がもう苦手ではなくなったエンジニアが一つ殻を破るためにやった学習",
-    "link": "https://zenn.dev/moneyforward/articles/893eb6f50bd896",
-    "pubDate": "2025-11-26T08:08:59.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "モノレポ＋Hono＋OpenAPIスキーマ駆動(Orval)+Drizzleは最高",
     "link": "https://zenn.dev/takumi0706/articles/12229d929523ec",
     "pubDate": "Wed, 26 Nov 2025 08:05:10 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Vitest の assert を使って不要な if 文を避ける tips",
-    "link": "https://zenn.dev/apple_yagi/articles/3fecd12aed68d5",
-    "pubDate": "Wed, 26 Nov 2025 07:32:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自作ライブラリをClaudeに読ませて技術者としての評価をしてもらった",
-    "link": "https://zenn.dev/tai_kimura/articles/ebfdab71957c0b",
-    "pubDate": "Wed, 26 Nov 2025 04:09:20 GMT"
+    "site": "Qiita",
+    "title": "AI時代、未経験から1年で実務レベルのエンジニアになった方法",
+    "link": "https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-26T04:26:30.000Z"
   },
   {
     "site": "Qiita",
@@ -121,33 +133,21 @@
   },
   {
     "site": "Qiita",
-    "title": "【30日でAWSをマスターするハンズオン問題集】Day1：AWSのアクセス制御「IAM」",
-    "link": "https://qiita.com/chiaoi/items/f923a5b3ea086f26ca1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-26T01:26:27.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【Copilot Studio】AI エージェントの価値、使い分けを整理してみた",
     "link": "https://qiita.com/Takashi_Masumori/items/e9fa2a6bf025a0a4335f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-25T23:55:39.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【画像AI革命】Google画像生成AIの新モデル「Nano Banana Pro」を試してみた",
-    "link": "https://qiita.com/tomokoro/items/c6f681a0b67e502df11c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T23:35:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "英語がもう苦手ではなくなったエンジニアが一つ殻を破るためにやった学習",
-    "link": "https://zenn.dev/moneyforward/articles/893eb6f50bd896",
-    "pubDate": "Tue, 25 Nov 2025 23:30:01 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "30日でAWSをマスターするハンズオン問題集の投稿開始します！！",
     "link": "https://qiita.com/satosato_kozakana/items/446971c2deca7e27d0aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-25T12:06:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWSのコスト削減・最適化手法とコスト管理の勘所",
+    "link": "https://qiita.com/kiwi-dev/items/df7e2923e0a723ccc345?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-25T11:34:44.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "【俺みたいになるな】初めて技術書典で本を出す時の教訓と難しさについて",
-    "link": "https://qiita.com/har1101/items/fd3ab8a1bcb2a4a37085?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T08:30:10.000Z"
+    "title": "「コードは設計書だ」と本気で思い直したきっかけ",
+    "link": "https://qiita.com/tomo19950806/items/cafe6f78776d4bc45252?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-24T23:25:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "メインWindows機をKVMで仮想化運用を始めた",
+    "link": "https://qiita.com/Blaster36/items/310654ac87ba9f711d9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-24T09:17:09.000Z"
   },
   {
     "site": "Qiita",
     "title": "【歴史】Reactが覇権を握るまでの知られざる物語【図解解説】",
     "link": "https://qiita.com/Sicut_study/items/ab4d6ba9da63d71a6c50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-24T08:00:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【React】コンポーネント設計パターン6選 - 小〜中規模開発",
-    "link": "https://qiita.com/ktdatascience/items/58a38c0efc915651b2cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T01:39:37.000Z"
   }
 ]
