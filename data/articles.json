@@ -1,15 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "CSSで最近よく使うOKLCHカラーについて理解を深めよう、異なる色でトーンを合わせたり、単色のシェードも簡単",
+    "link": "https://coliss.com/articles/build-websites/operation/design/about-oklch-color.html",
+    "pubDate": "2025-11-27T01:12:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「そのDockerfile、卒業しよう」実務で通用するベストプラクティス",
+    "link": "https://zenn.dev/isawa/articles/a721641613f013",
+    "pubDate": "2025-11-27T01:10:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIを使って割り込み業務を現場で勝手に改善したらちやほやされた話 - MonotaRO Tech Blog",
+    "link": "https://tech-blog.monotaro.com/entry/2025/11/27/090000",
+    "pubDate": "2025-11-27T00:38:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「ヤングジャンプ新人漫画大賞」の月間ベスト賞受賞作にAI疑惑、ストーリー構成やセリフ回しにも違和感",
     "link": "https://togetter.com/li/2632343",
     "pubDate": "2025-11-27T00:15:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。",
+    "link": "https://zenn.dev/loglass/articles/16745471ef55ff",
+    "pubDate": "Wed, 26 Nov 2025 23:22:39 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SNSアプリの投稿画面のUIデザイン改善",
+    "link": "https://zenn.dev/noppe/articles/7093cbaac7d976",
+    "pubDate": "Wed, 26 Nov 2025 20:11:02 GMT"
   },
   {
     "site": "Qiita",
     "title": "「コードは設計書だ」と本気で思い直したきっかけ - Qiita",
     "link": "https://qiita.com/tomo19950806/items/cafe6f78776d4bc45252",
     "pubDate": "2025-11-26T19:00:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "中国テック動向：史上最も厳格なモバイルバッテリー新基準が施行へ-日本も対岸の火事ではない、7割の生産能力淘汰が示す「安全＋透明化」の新時代｜吉川真人＠中国テックトレンドニュース",
+    "link": "https://note.com/zhenren63/n/nd0532f917f69",
+    "pubDate": "2025-11-26T16:50:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot カスタムエージェントのための agents.md 作成ベストプラクティス",
+    "link": "https://zenn.dev/studypocket/articles/github-copilot-agents-md-best-practices",
+    "pubDate": "Wed, 26 Nov 2025 15:23:38 GMT"
   },
   {
     "site": "Hatena",
@@ -37,15 +79,15 @@
   },
   {
     "site": "Zenn",
+    "title": "機能的凝集とコロケーションで保守しやすい React Router v7 コンポーネント設計",
+    "link": "https://zenn.dev/coji/articles/react-router-v7-functional-cohesion-colocation",
+    "pubDate": "Wed, 26 Nov 2025 10:13:13 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude for Excelがマジですごかった",
     "link": "https://zenn.dev/acntechjp/articles/4b2f19b536d262",
     "pubDate": "2025-11-26T08:52:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "実装の 9 割を AI に任せる。食べログのジュニアエンジニアが構築した AI 連携開発フロー - Tabelog Tech Blog",
-    "link": "https://tech-blog.tabelog.com/entry/optimized_ai_development_flow",
-    "pubDate": "2025-11-26T08:10:35.000Z"
   },
   {
     "site": "Zenn",
@@ -60,22 +102,16 @@
     "pubDate": "Wed, 26 Nov 2025 08:05:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "慶應義塾大学出版会 | 生成AIを活用したレポート・論文の書き方 | 伊藤貴之",
-    "link": "https://www.keio-up.co.jp/np/isbn/9784766430837/",
-    "pubDate": "2025-11-26T07:12:38.000Z"
+    "site": "Zenn",
+    "title": "Vitest の assert を使って不要な if 文を避ける tips",
+    "link": "https://zenn.dev/apple_yagi/articles/3fecd12aed68d5",
+    "pubDate": "Wed, 26 Nov 2025 07:32:22 GMT"
   },
   {
     "site": "Zenn",
-    "title": "オープンソース・プロジェクトのたたみ方",
-    "link": "https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project",
-    "pubDate": "2025-11-26T05:03:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIと共に進化するモノタロウ - AI駆動開発 Conference Autumn 2025",
-    "link": "https://speakerdeck.com/monotaro/monotaro-ai-conference-autumn-2025",
-    "pubDate": "2025-11-26T03:03:52.000Z"
+    "title": "自作ライブラリをClaudeに読ませて技術者としての評価をしてもらった",
+    "link": "https://zenn.dev/tai_kimura/articles/ebfdab71957c0b",
+    "pubDate": "Wed, 26 Nov 2025 04:09:20 GMT"
   },
   {
     "site": "Qiita",
@@ -108,46 +144,10 @@
     "pubDate": "Tue, 25 Nov 2025 23:30:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude for Excelがマジですごかった",
-    "link": "https://zenn.dev/acntechjp/articles/4b2f19b536d262",
-    "pubDate": "Tue, 25 Nov 2025 21:18:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "オープンソース・プロジェクトのたたみ方",
-    "link": "https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project",
-    "pubDate": "Tue, 25 Nov 2025 16:08:30 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "30日でAWSをマスターするハンズオン問題集の投稿開始します！！",
     "link": "https://qiita.com/satosato_kozakana/items/446971c2deca7e27d0aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-25T12:06:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIアプリケーション開発を体系的に学ぶ 『AIエンジニアリング』全章紹介",
-    "link": "https://zenn.dev/seya/articles/333b03b47234aa",
-    "pubDate": "Tue, 25 Nov 2025 10:08:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "巨大SQLに対する解読術",
-    "link": "https://zenn.dev/leverages/articles/2ab70781a8c211",
-    "pubDate": "Tue, 25 Nov 2025 09:30:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを使い倒して完成した俺流のバックエンド開発スタイル",
-    "link": "https://zenn.dev/epicai_techblog/articles/175d86a4994a7d",
-    "pubDate": "Tue, 25 Nov 2025 09:09:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Hono + Cloudflare Workers + Supabase】でAPIを作ってCRUDする",
-    "link": "https://zenn.dev/gemcook/articles/48c368723e21e6",
-    "pubDate": "Tue, 25 Nov 2025 05:43:51 GMT"
   },
   {
     "site": "Qiita",
