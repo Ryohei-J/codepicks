@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "https://pc.watch.impress.co.jp/docs/topic/feature/2066667.html",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2066667.html",
+    "pubDate": "2025-11-27T23:00:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "熟練ログ技術：浜風もっこす",
+    "link": "https://techbookfest.org/product/3fB8KmFUJxACcBJyNuZDWg",
+    "pubDate": "2025-11-27T14:27:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "‎Gemini - direct access to Google AI",
     "link": "https://gemini.google.com/share/a6227da2d1ce",
     "pubDate": "2025-11-27T12:27:49.000Z"
   },
   {
     "site": "Hatena",
-    "title": "個人開発なら仕様書がいらないと思うじゃん？後から「オレは何を作ろうとしてたんだ？」ってなるから絶対に必要「週明け月曜日の仕事と同じ」",
-    "link": "https://togetter.com/li/2632438",
-    "pubDate": "2025-11-27T08:41:36.000Z"
+    "title": "アサヒがランサム被害でVPN廃止、大規模被害招いた3つの技術的盲点",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11296/",
+    "pubDate": "2025-11-27T11:15:18.000Z"
   },
   {
     "site": "Hatena",
@@ -18,34 +30,52 @@
     "pubDate": "2025-11-27T08:32:52.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "AIが仕事を奪ったら、誰が製品を買うのか？「それをCEOたちは考えていない」 | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2511-geoffrey-hinton-the-ceos-arent-ready-for-future-few-jobs/",
+    "pubDate": "2025-11-27T08:25:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.js Cache回想",
+    "link": "https://zenn.dev/akfm/articles/nextjs-caching-history",
+    "pubDate": "Thu, 27 Nov 2025 08:22:39 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub を組織的に使いこなすために ソニーが実践した全社展開のプラクティス",
+    "link": "https://speakerdeck.com/sony/github-wozu-zhi-de-nishi-ikonasutameni-sonigashi-jian-sitaquan-she-zhan-kai-nopurakuteisu",
+    "pubDate": "2025-11-27T05:12:01.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Honoの7つのコンセプト",
     "link": "https://zenn.dev/yusukebe/articles/1f3ac394f31f3b",
     "pubDate": "Thu, 27 Nov 2025 03:28:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "CSSで最近よく使うOKLCHカラーについて理解を深めよう、異なる色でトーンを合わせたり、単色のシェードも簡単",
-    "link": "https://coliss.com/articles/build-websites/operation/design/about-oklch-color.html",
-    "pubDate": "2025-11-27T01:12:11.000Z"
+    "site": "Qiita",
+    "title": "【Gemini 3 Pro】コピペ可能：ニュース収集からリッチなUI生成まで全自動化する Gem の作り方",
+    "link": "https://qiita.com/Ryo-Nakano/items/bfd528bb5f6b83e0c43c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T02:50:24.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "「そのDockerfile、卒業しよう」実務で通用するベストプラクティス",
-    "link": "https://zenn.dev/isawa/articles/a721641613f013",
-    "pubDate": "2025-11-27T01:10:59.000Z"
+    "site": "Hatena",
+    "title": "なあ兄弟、 余白の意味を考えてから UI実装してくれ！",
+    "link": "https://speakerdeck.com/ktcryomm/naaxiong-di-yu-bai-noyi-wei-wokao-etekara-uishi-zhuang-sitekure",
+    "pubDate": "2025-11-27T02:12:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Gemini in Android StudioでAndroid開発を快適にする",
+    "link": "https://qiita.com/TJ_droid/items/ff140b11512132ac9ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T02:09:47.000Z"
   },
   {
     "site": "Hatena",
     "title": "生成AIを使って割り込み業務を現場で勝手に改善したらちやほやされた話 - MonotaRO Tech Blog",
     "link": "https://tech-blog.monotaro.com/entry/2025/11/27/090000",
     "pubDate": "2025-11-27T00:38:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ヤングジャンプ新人漫画大賞」の月間ベスト賞受賞作にAI疑惑、ストーリー構成やセリフ回しにも違和感",
-    "link": "https://togetter.com/li/2632343",
-    "pubDate": "2025-11-27T00:15:19.000Z"
   },
   {
     "site": "Hatena",
@@ -64,18 +94,6 @@
     "title": "SNSアプリの投稿画面のUIデザイン改善",
     "link": "https://zenn.dev/noppe/articles/7093cbaac7d976",
     "pubDate": "Wed, 26 Nov 2025 20:11:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「コードは設計書だ」と本気で思い直したきっかけ - Qiita",
-    "link": "https://qiita.com/tomo19950806/items/cafe6f78776d4bc45252",
-    "pubDate": "2025-11-26T19:00:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由",
-    "link": "https://zenn.dev/akari1106/articles/ba99c8702ee732",
-    "pubDate": "Wed, 26 Nov 2025 17:22:05 GMT"
   },
   {
     "site": "Zenn",
@@ -106,12 +124,6 @@
     "title": "機能的凝集とコロケーションで保守しやすい React Router v7 コンポーネント設計",
     "link": "https://zenn.dev/coji/articles/react-router-v7-functional-cohesion-colocation",
     "pubDate": "Wed, 26 Nov 2025 10:13:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude for Excelがマジですごかった",
-    "link": "https://zenn.dev/acntechjp/articles/4b2f19b536d262",
-    "pubDate": "2025-11-26T08:52:31.000Z"
   },
   {
     "site": "Zenn",
@@ -151,32 +163,20 @@
   },
   {
     "site": "Qiita",
+    "title": "BOMを制する者はUTF-8を制す！ Excel文字化け・謎の先頭3バイト・CSVが壊れる全ての元凶を完全に理解する",
+    "link": "https://qiita.com/Sakai_path/items/e5e7c64e760240612700?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-25T07:20:12.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "つい手癖で毎回「レビュー修正」とだけコミットメッセージを書いてしまう人へ",
     "link": "https://qiita.com/jnchito/items/9ab5df60bf83afeb1d76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-25T02:47:54.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【速報】Claude Code for Desktopが神すぎる件 - Opus 4.5で並列コーディングが可能に",
-    "link": "https://qiita.com/Takao-Mochizuki/items/d988887f223c208f4169?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T01:27:54.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "「コードは設計書だ」と本気で思い直したきっかけ",
     "link": "https://qiita.com/tomo19950806/items/cafe6f78776d4bc45252?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-24T23:25:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "メインWindows機をKVMで仮想化運用を始めた",
-    "link": "https://qiita.com/Blaster36/items/310654ac87ba9f711d9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T09:17:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【歴史】Reactが覇権を握るまでの知られざる物語【図解解説】",
-    "link": "https://qiita.com/Sicut_study/items/ab4d6ba9da63d71a6c50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T08:00:32.000Z"
   }
 ]
