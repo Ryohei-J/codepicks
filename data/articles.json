@@ -1,19 +1,43 @@
 [
   {
     "site": "Hatena",
-    "title": "https://pc.watch.impress.co.jp/docs/topic/feature/2066667.html",
+    "title": "単四電池3本使うライトってあるじゃん",
+    "link": "https://anond.hatelabo.jp/20251128124306",
+    "pubDate": "2025-11-28T03:43:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "国土交通省の薗原ダム管理支所アカウントが投稿したダムにかかる虹の写真に『なんかこの写真、おかしくないですか？』と違和感を指摘する声が挙がる",
+    "link": "https://togetter.com/li/2632853",
+    "pubDate": "2025-11-28T03:00:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本で使われているiPhoneの利用者最多は『iPhone SE』だという事実「サイズがちょうどいいんだわ」「だってホームボタンから離れたくない」",
+    "link": "https://togetter.com/li/2632816",
+    "pubDate": "2025-11-28T00:16:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "認証認可学習のすゝめ - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/11/28/how-i-learned-authn-and-authz",
+    "pubDate": "2025-11-28T00:10:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】「VAIO P」発売から15年。Windows 11にできず、延命のためのOSを探した - PC Watch",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2066667.html",
     "pubDate": "2025-11-27T23:00:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "熟練ログ技術：浜風もっこす",
-    "link": "https://techbookfest.org/product/3fB8KmFUJxACcBJyNuZDWg",
-    "pubDate": "2025-11-27T14:27:12.000Z"
+    "site": "Zenn",
+    "title": "Open Notebookを完全ローカル環境で動かす方法",
+    "link": "https://zenn.dev/karaage0703/articles/51a8276e74451c",
+    "pubDate": "Thu, 27 Nov 2025 15:13:48 GMT"
   },
   {
     "site": "Hatena",
-    "title": "‎Gemini - direct access to Google AI",
+    "title": "‎Gemini - Geminiの能力とバージョンについて",
     "link": "https://gemini.google.com/share/a6227da2d1ce",
     "pubDate": "2025-11-27T12:27:49.000Z"
   },
@@ -22,12 +46,6 @@
     "title": "アサヒがランサム被害でVPN廃止、大規模被害招いた3つの技術的盲点",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11296/",
     "pubDate": "2025-11-27T11:15:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "コード全体を自動解析して常時更新する「Code Wiki」公開　開発者の未来はどう変わるのか",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2511/27/news068.html",
-    "pubDate": "2025-11-27T08:32:52.000Z"
   },
   {
     "site": "Hatena",
@@ -72,16 +90,10 @@
     "pubDate": "2025-11-27T02:09:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIを使って割り込み業務を現場で勝手に改善したらちやほやされた話 - MonotaRO Tech Blog",
-    "link": "https://tech-blog.monotaro.com/entry/2025/11/27/090000",
-    "pubDate": "2025-11-27T00:38:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemini 3.0 Proを使ったら知識ゼロでもAndroidアプリが作れた【Watch+】",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2066504.html",
-    "pubDate": "2025-11-27T00:03:40.000Z"
+    "site": "Zenn",
+    "title": "FastAPIのテストコードを書いてDIの重要性を知った話",
+    "link": "https://zenn.dev/lancers/articles/1bff9ebffdbd89",
+    "pubDate": "Thu, 27 Nov 2025 01:56:09 GMT"
   },
   {
     "site": "Zenn",
@@ -94,6 +106,12 @@
     "title": "SNSアプリの投稿画面のUIデザイン改善",
     "link": "https://zenn.dev/noppe/articles/7093cbaac7d976",
     "pubDate": "Wed, 26 Nov 2025 20:11:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由",
+    "link": "https://zenn.dev/akari1106/articles/ba99c8702ee732",
+    "pubDate": "Wed, 26 Nov 2025 17:22:05 GMT"
   },
   {
     "site": "Zenn",
@@ -112,24 +130,6 @@
     "title": "「そのDockerfile、卒業しよう」実務で通用するベストプラクティス",
     "link": "https://zenn.dev/isawa/articles/a721641613f013",
     "pubDate": "Wed, 26 Nov 2025 12:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MCP 認可の新仕様(2025-11-25)で登場のCIMDについて",
-    "link": "https://zenn.dev/kplusk/articles/d4c2ec231bbd46",
-    "pubDate": "Wed, 26 Nov 2025 10:48:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "機能的凝集とコロケーションで保守しやすい React Router v7 コンポーネント設計",
-    "link": "https://zenn.dev/coji/articles/react-router-v7-functional-cohesion-colocation",
-    "pubDate": "Wed, 26 Nov 2025 10:13:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "モノレポ＋Hono＋OpenAPIスキーマ駆動(Orval)+Drizzleは最高",
-    "link": "https://zenn.dev/takumi0706/articles/12229d929523ec",
-    "pubDate": "Wed, 26 Nov 2025 08:05:10 GMT"
   },
   {
     "site": "Qiita",
