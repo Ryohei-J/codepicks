@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "昨今のAIブームは「言語能力こそが知能である」という誤解に基づいているという主張",
+    "link": "https://gigazine.net/news/20251128-ai-bubble-llm-fundamental-mistake/",
+    "pubDate": "2025-11-28T08:00:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "単四電池3本使うライトってあるじゃん",
     "link": "https://anond.hatelabo.jp/20251128124306",
     "pubDate": "2025-11-28T03:43:15.000Z"
   },
   {
     "site": "Hatena",
-    "title": "国土交通省の薗原ダム管理支所アカウントが投稿したダムにかかる虹の写真に『なんかこの写真、おかしくないですか？』と違和感を指摘する声が挙がる",
-    "link": "https://togetter.com/li/2632853",
-    "pubDate": "2025-11-28T03:00:22.000Z"
+    "title": "Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践-",
+    "link": "https://speakerdeck.com/oikon48/claude-code-hazimetegaido-1shi-jian-dexue-beruaiqu-dong-kai-fa-noji-ben-toshi-jian",
+    "pubDate": "2025-11-28T03:06:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Docker環境のNestJSアプリの検索パフォーマンスを確認する方法",
+    "link": "https://qiita.com/I635230/items/e27c2f519ec0bff14c84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T02:21:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "jest.fn / jest.spyOn / jest.mock と reset系の使い分け",
+    "link": "https://qiita.com/I635230/items/282139e61fcf97d14ce3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T01:51:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "t-wadaが説く、今あえて“自分の手”でコードを書く理由「バイブコーディングは、エンジニアのためのものではない」 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/29773/",
+    "pubDate": "2025-11-28T01:30:10.000Z"
   },
   {
     "site": "Hatena",
@@ -22,6 +46,12 @@
     "title": "認証認可学習のすゝめ - カミナシ エンジニアブログ",
     "link": "https://kaminashi-developer.hatenablog.jp/entry/2025/11/28/how-i-learned-authn-and-authz",
     "pubDate": "2025-11-28T00:10:34.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【書籍まとめ】この一冊で全部わかる ネットワークの基本 (1章〜3章)",
+    "link": "https://qiita.com/Nao52/items/d94edde982c355f7cc13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T23:30:48.000Z"
   },
   {
     "site": "Hatena",
@@ -37,15 +67,15 @@
   },
   {
     "site": "Hatena",
-    "title": "‎Gemini - Geminiの能力とバージョンについて",
-    "link": "https://gemini.google.com/share/a6227da2d1ce",
-    "pubDate": "2025-11-27T12:27:49.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "アサヒがランサム被害でVPN廃止、大規模被害招いた3つの技術的盲点",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11296/",
     "pubDate": "2025-11-27T11:15:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【NanoBanana🍌(Gemini)】画像生成の精度を極限まで高めたプロンプトエンジニアリング6つの実践",
+    "link": "https://qiita.com/GIFCat/items/b60e263366b720f004bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-27T08:49:46.000Z"
   },
   {
     "site": "Hatena",
@@ -58,12 +88,6 @@
     "title": "Next.js Cache回想",
     "link": "https://zenn.dev/akfm/articles/nextjs-caching-history",
     "pubDate": "Thu, 27 Nov 2025 08:22:39 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub を組織的に使いこなすために ソニーが実践した全社展開のプラクティス",
-    "link": "https://speakerdeck.com/sony/github-wozu-zhi-de-nishi-ikonasutameni-sonigashi-jian-sitaquan-she-zhan-kai-nopurakuteisu",
-    "pubDate": "2025-11-27T05:12:01.000Z"
   },
   {
     "site": "Zenn",
@@ -82,12 +106,6 @@
     "title": "なあ兄弟、 余白の意味を考えてから UI実装してくれ！",
     "link": "https://speakerdeck.com/ktcryomm/naaxiong-di-yu-bai-noyi-wei-wokao-etekara-uishi-zhuang-sitekure",
     "pubDate": "2025-11-27T02:12:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Gemini in Android StudioでAndroid開発を快適にする",
-    "link": "https://qiita.com/TJ_droid/items/ff140b11512132ac9ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T02:09:47.000Z"
   },
   {
     "site": "Zenn",
@@ -145,9 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【Copilot Studio】AI エージェントの価値、使い分けを整理してみた",
-    "link": "https://qiita.com/Takashi_Masumori/items/e9fa2a6bf025a0a4335f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T23:55:39.000Z"
+    "title": "【30日でAWSをマスターするハンズオン問題集】Day1：AWSのアクセス制御「IAM」",
+    "link": "https://qiita.com/chiaoi/items/f923a5b3ea086f26ca1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-26T01:26:27.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "AWSのコスト削減・最適化手法とコスト管理の勘所",
     "link": "https://qiita.com/kiwi-dev/items/df7e2923e0a723ccc345?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-25T11:34:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "BOMを制する者はUTF-8を制す！ Excel文字化け・謎の先頭3バイト・CSVが壊れる全ての元凶を完全に理解する",
-    "link": "https://qiita.com/Sakai_path/items/e5e7c64e760240612700?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T07:20:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "つい手癖で毎回「レビュー修正」とだけコミットメッセージを書いてしまう人へ",
-    "link": "https://qiita.com/jnchito/items/9ab5df60bf83afeb1d76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-25T02:47:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「コードは設計書だ」と本気で思い直したきっかけ",
-    "link": "https://qiita.com/tomo19950806/items/cafe6f78776d4bc45252?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-24T23:25:33.000Z"
   }
 ]
