@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "アサグループへのサイバー攻撃に関する会見で「最後に一言申し上げたい」から社長が現状を語りまくる様子→特に印象に残った発言たちへの反応",
+    "link": "https://togetter.com/li/2633257",
+    "pubDate": "2025-11-29T05:16:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "複数人でのCLI/Infrastructure as Codeの暮らしを良くする",
     "link": "https://speakerdeck.com/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru",
     "pubDate": "2025-11-28T15:17:12.000Z"
@@ -13,9 +19,21 @@
   },
   {
     "site": "Hatena",
+    "title": "Gemini 3 Pro 実務活用ガイド：個人の能力を拡張し、業務フローを変革するための設計図｜【AI研究中】ただし",
+    "link": "https://note.com/note_tds/n/n7ba408852de9",
+    "pubDate": "2025-11-28T13:18:55.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "大手ゲーム企業でAI導入が加速もインディーゲーム界隈では「AIフリー」が新たな売り文句として広まっている",
     "link": "https://gigazine.net/news/20251128-indie-game-developers-ai-free/",
     "pubDate": "2025-11-28T11:51:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "私物PCのマルウェア感染起因とみられる業務利用Slackへの不正ログイン事案についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2025/11/28/170613",
+    "pubDate": "2025-11-28T09:03:44.000Z"
   },
   {
     "site": "Qiita",
@@ -36,16 +54,16 @@
     "pubDate": "2025-11-28T06:19:17.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ルートファイルの凝集度を上げる React Router v7 リファクタリング",
+    "link": "https://zenn.dev/coji/articles/react-router-v7-route-component-cohesion",
+    "pubDate": "Fri, 28 Nov 2025 04:19:45 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Google、大学生向けに「Gemini活用集」を公開　無料ダウンロード可能　",
     "link": "https://edu.watch.impress.co.jp/docs/knowledge/2066960.html",
     "pubDate": "2025-11-28T03:23:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践-",
-    "link": "https://speakerdeck.com/oikon48/claude-code-hazimetegaido-1shi-jian-dexue-beruaiqu-dong-kai-fa-noji-ben-toshi-jian",
-    "pubDate": "2025-11-28T03:06:00.000Z"
   },
   {
     "site": "Qiita",
@@ -58,12 +76,6 @@
     "title": "jest.fn / jest.spyOn / jest.mock と reset系の使い分け",
     "link": "https://qiita.com/I635230/items/282139e61fcf97d14ce3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-28T01:51:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "t-wadaが説く、今あえて“自分の手”でコードを書く理由「バイブコーディングは、エンジニアのためのものではない」 - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/29773/",
-    "pubDate": "2025-11-28T01:30:10.000Z"
   },
   {
     "site": "Qiita",
@@ -82,12 +94,6 @@
     "title": "【書籍まとめ】この一冊で全部わかる ネットワークの基本 (1章〜3章)",
     "link": "https://qiita.com/Nao52/items/d94edde982c355f7cc13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-27T23:30:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発生産性を最大化するために考えていること ~あるいは技術的負債について",
-    "link": "https://zenn.dev/bloomo_tech/articles/a93e4ecbb16b15",
-    "pubDate": "Thu, 27 Nov 2025 23:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -148,12 +154,6 @@
     "title": "「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。",
     "link": "https://zenn.dev/loglass/articles/16745471ef55ff",
     "pubDate": "Wed, 26 Nov 2025 23:22:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GPUを使わずにWindowsでローカルLLMを動かす",
-    "link": "https://zenn.dev/nwth/articles/202511-local-llm",
-    "pubDate": "2025-11-26T18:15:06.000Z"
   },
   {
     "site": "Zenn",
