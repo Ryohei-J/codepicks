@@ -1,9 +1,21 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Code スキル・サブエージェント攻略ガイド",
+    "link": "https://zenn.dev/oligin/articles/7691926a83936a",
+    "pubDate": "Sat, 29 Nov 2025 06:09:47 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "アサグループへのサイバー攻撃に関する会見で「最後に一言申し上げたい」から社長が現状を語りまくる様子→特に印象に残った発言たちへの反応",
+    "title": "アサヒグループへのサイバー攻撃に関する会見で「最後に一言申し上げたい」から社長が現状を語りまくる様子→特に印象に残った発言たちへの反応",
     "link": "https://togetter.com/li/2633257",
     "pubDate": "2025-11-29T05:16:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "マケプレでサブスクしたMCPサーバーをAgentCore RuntimeにデプロイしてMCP Proxy for AWS経由でKiro CLIからアクセスする",
+    "link": "https://qiita.com/moritalous/items/7c156fad25748e4e6bde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T15:47:30.000Z"
   },
   {
     "site": "Hatena",
@@ -24,6 +36,12 @@
     "pubDate": "2025-11-28T13:18:55.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "cc-sddで71ファイルのユーザー管理機能実装を手戻りなく進めた話",
+    "link": "https://zenn.dev/91works/articles/1f725ab39c31c2",
+    "pubDate": "Fri, 28 Nov 2025 12:15:19 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "大手ゲーム企業でAI導入が加速もインディーゲーム界隈では「AIフリー」が新たな売り文句として広まっている",
     "link": "https://gigazine.net/news/20251128-indie-game-developers-ai-free/",
@@ -42,10 +60,22 @@
     "pubDate": "2025-11-28T08:49:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "昨今のAIブームは「言語能力こそが知能である」という誤解に基づいているという主張",
-    "link": "https://gigazine.net/news/20251128-ai-bubble-llm-fundamental-mistake/",
-    "pubDate": "2025-11-28T08:00:22.000Z"
+    "site": "Qiita",
+    "title": "VizGames2025を振り返る",
+    "link": "https://qiita.com/unbosoms/items/59d2fc3db13a0a544d2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T08:36:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS上で使えるファイル転送サービス比較 ~AWS Transfer Family VS HULFT10 for Container Services",
+    "link": "https://qiita.com/SoichiroKikuchi/items/3c38518c281188f7ee9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T08:03:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS re:Invent 2025 参加レポ #1出発前編",
+    "link": "https://qiita.com/yamamoto-kazuhide001/items/ca7a731b5d8ffa2fea03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T06:25:44.000Z"
   },
   {
     "site": "Hatena",
@@ -54,34 +84,10 @@
     "pubDate": "2025-11-28T06:19:17.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ルートファイルの凝集度を上げる React Router v7 リファクタリング",
-    "link": "https://zenn.dev/coji/articles/react-router-v7-route-component-cohesion",
-    "pubDate": "Fri, 28 Nov 2025 04:19:45 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "Google、大学生向けに「Gemini活用集」を公開　無料ダウンロード可能　",
     "link": "https://edu.watch.impress.co.jp/docs/knowledge/2066960.html",
     "pubDate": "2025-11-28T03:23:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Docker環境のNestJSアプリの検索パフォーマンスを確認する方法",
-    "link": "https://qiita.com/I635230/items/e27c2f519ec0bff14c84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T02:21:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "jest.fn / jest.spyOn / jest.mock と reset系の使い分け",
-    "link": "https://qiita.com/I635230/items/282139e61fcf97d14ce3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T01:51:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "RxJS入門｜ObservableとOperator",
-    "link": "https://qiita.com/Tsurukawauchi_Jin/items/85e41aca2ba8eac2fd8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T00:40:57.000Z"
   },
   {
     "site": "Qiita",
@@ -106,6 +112,12 @@
     "title": "AIコードレビュー「棚卸し」のススメ",
     "link": "https://zenn.dev/aki_think/articles/e8a846e9bb95b0",
     "pubDate": "Thu, 27 Nov 2025 11:54:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Linux】LVM を使うべきか",
+    "link": "https://zenn.dev/eiken/articles/16153147235b67",
+    "pubDate": "Thu, 27 Nov 2025 09:52:08 GMT"
   },
   {
     "site": "Qiita",
@@ -145,38 +157,26 @@
   },
   {
     "site": "Zenn",
+    "title": "AIが「パワポ作り」を奪った日。NotebookLMが10分でプロ級スライドを量産する世界へ",
+    "link": "https://zenn.dev/acntechjp/articles/a89d758d2178b6",
+    "pubDate": "2025-11-27T02:12:18.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "FastAPIのテストコードを書いてDIの重要性を知った話",
     "link": "https://zenn.dev/lancers/articles/1bff9ebffdbd89",
     "pubDate": "Thu, 27 Nov 2025 01:56:09 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「AIに先にテストを全部書かせる」はTDDじゃない。でも、それもアリだよね。",
-    "link": "https://zenn.dev/loglass/articles/16745471ef55ff",
-    "pubDate": "Wed, 26 Nov 2025 23:22:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot カスタムエージェントのための agents.md 作成ベストプラクティス",
-    "link": "https://zenn.dev/studypocket/articles/github-copilot-agents-md-best-practices",
-    "pubDate": "Wed, 26 Nov 2025 15:23:38 GMT"
+    "site": "Qiita",
+    "title": "【Android】Jetpack Compose State 完全ガイド",
+    "link": "https://qiita.com/nozomi2025/items/1417e560767f656ba99c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-26T15:13:08.000Z"
   },
   {
     "site": "Zenn",
     "title": "Claude Code完全ガイド",
     "link": "https://zenn.dev/heku/books/claude-code-guide",
     "pubDate": "2025-11-26T08:55:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代、未経験から1年で実務レベルのエンジニアになった方法",
-    "link": "https://qiita.com/tomoya11/items/0309c38c6c61781b1e9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-26T04:26:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアの「絵で説明して」問題、Nano Banana Pro（Gemini 3 Pro Image）でどこまで解消できるか試してみた",
-    "link": "https://qiita.com/ntaka329/items/6609861b7149c2ee8331?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-26T02:46:43.000Z"
   }
 ]
