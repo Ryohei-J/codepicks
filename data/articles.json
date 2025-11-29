@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "個人開発のWebサービスをRuby on RailsからGo言語へ移行している | shimbaco",
+    "link": "https://wikino.app/s/shimbaco/pages/1085",
+    "pubDate": "2025-11-29T11:34:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Sonyがついに200MPセンサー「LYTIA-901」を発表：Samsungの牙城を崩すAI搭載の\"巨人\" | XenoSpectrum",
+    "link": "https://xenospectrum.com/sony-lytia-901-200mp-sensor-announcement-analysis/",
+    "pubDate": "2025-11-29T10:55:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "教え方を教える: ソフトウェアエンジニアリングと中学受験 - 白のカピバラの逆極限 S.144-3",
+    "link": "https://nuc.hatenadiary.org/entry/2025/11/29/",
+    "pubDate": "2025-11-29T09:29:31.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Code スキル・サブエージェント攻略ガイド",
     "link": "https://zenn.dev/oligin/articles/7691926a83936a",
@@ -12,16 +30,16 @@
     "pubDate": "2025-11-29T05:16:07.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Ruby父 まつもとゆきひろ「出社させたがるのは、マネジャーの怠慢でしかない」 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/29782/",
+    "pubDate": "2025-11-29T00:48:30.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "マケプレでサブスクしたMCPサーバーをAgentCore RuntimeにデプロイしてMCP Proxy for AWS経由でKiro CLIからアクセスする",
     "link": "https://qiita.com/moritalous/items/7c156fad25748e4e6bde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-28T15:47:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "複数人でのCLI/Infrastructure as Codeの暮らしを良くする",
-    "link": "https://speakerdeck.com/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru",
-    "pubDate": "2025-11-28T15:17:12.000Z"
   },
   {
     "site": "Hatena",
@@ -40,12 +58,6 @@
     "title": "cc-sddで71ファイルのユーザー管理機能実装を手戻りなく進めた話",
     "link": "https://zenn.dev/91works/articles/1f725ab39c31c2",
     "pubDate": "Fri, 28 Nov 2025 12:15:19 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "大手ゲーム企業でAI導入が加速もインディーゲーム界隈では「AIフリー」が新たな売り文句として広まっている",
-    "link": "https://gigazine.net/news/20251128-indie-game-developers-ai-free/",
-    "pubDate": "2025-11-28T11:51:32.000Z"
   },
   {
     "site": "Hatena",
@@ -78,18 +90,6 @@
     "pubDate": "2025-11-28T06:25:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GmailのPOPサポート終了｜代替案やIMAPへの移行方法を解説 - バリューノート",
-    "link": "https://www.value-domain.com/media/gmail-pop-end/",
-    "pubDate": "2025-11-28T06:19:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google、大学生向けに「Gemini活用集」を公開　無料ダウンロード可能　",
-    "link": "https://edu.watch.impress.co.jp/docs/knowledge/2066960.html",
-    "pubDate": "2025-11-28T03:23:41.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "家に来た人に毎回Wi-Fiパスワード聞かれるのが面倒なので、QR化したら謎の歓迎ページが爆誕した",
     "link": "https://qiita.com/mamoru-ngy/items/baa445f308238c10df3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -112,6 +112,12 @@
     "title": "AIコードレビュー「棚卸し」のススメ",
     "link": "https://zenn.dev/aki_think/articles/e8a846e9bb95b0",
     "pubDate": "Thu, 27 Nov 2025 11:54:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "巨大SQLに対する解読術",
+    "link": "https://zenn.dev/leverages/articles/2ab70781a8c211",
+    "pubDate": "2025-11-27T10:17:37.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "【Android】Jetpack Compose State 完全ガイド",
     "link": "https://qiita.com/nozomi2025/items/1417e560767f656ba99c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-26T15:13:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code完全ガイド",
-    "link": "https://zenn.dev/heku/books/claude-code-guide",
-    "pubDate": "2025-11-26T08:55:29.000Z"
   }
 ]
