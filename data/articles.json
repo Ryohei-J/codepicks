@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "「Sora」「Nano Banana Pro」の回数制限が強化--「GPUが悲鳴」と提供元",
+    "link": "https://japan.cnet.com/article/35241050/",
+    "pubDate": "2025-11-30T00:36:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
+    "link": "https://zenn.dev/mconfjp/articles/good-book-at-gijutsushoten2025",
+    "pubDate": "2025-11-30T00:29:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【エディタ】VS codeからAntigravityに移行しました - Qiita",
+    "link": "https://qiita.com/hayuse/items/28d8716a8b5fd6ac91fe",
+    "pubDate": "2025-11-29T22:30:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "永続化と切り離した＂純粋＂ドメインモデリング入門 - ステート、イベント、Deciderで始めるイミュータブルモデルの実装",
+    "link": "https://zenn.dev/jtechjapan_pub/articles/fc9878ec69b6a1",
+    "pubDate": "Sat, 29 Nov 2025 20:11:30 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
     "link": "https://zenn.dev/mconfjp/articles/good-book-at-gijutsushoten2025",
@@ -13,15 +37,21 @@
   },
   {
     "site": "Zenn",
+    "title": "UniTask 実装で意識している 7 つのポイント",
+    "link": "https://zenn.dev/fig_codefactory/articles/60a404a42e7a16",
+    "pubDate": "Sat, 29 Nov 2025 12:12:38 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "再帰やループを使わずに組合せを求める",
     "link": "https://zenn.dev/pona/articles/675a59cb0a9efc",
     "pubDate": "Sat, 29 Nov 2025 12:10:02 GMT"
   },
   {
     "site": "Hatena",
-    "title": "脆弱性っぽい挙動を見つけたときの倫理的な行動とは？ | ドクセル",
-    "link": "https://www.docswell.com/s/hasegawa/KEY3D7-matcha139",
-    "pubDate": "2025-11-29T11:42:37.000Z"
+    "title": "UIデザインに役立つ 2025年の最新CSS / The Latest CSS for UI Design 2025",
+    "link": "https://speakerdeck.com/clockmaker/the-latest-css-for-ui-design-2025",
+    "pubDate": "2025-11-29T12:08:03.000Z"
   },
   {
     "site": "Hatena",
@@ -37,6 +67,12 @@
   },
   {
     "site": "Zenn",
+    "title": "コンテナとは何か",
+    "link": "https://zenn.dev/ka_kan/articles/25f0617bed553d",
+    "pubDate": "Sat, 29 Nov 2025 07:12:20 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Android/PCに映る全てのモノをAI自動テストするツールを開発した話",
     "link": "https://zenn.dev/jam0824/articles/2b23a35dfb23e7",
     "pubDate": "Sat, 29 Nov 2025 07:05:57 GMT"
@@ -46,12 +82,6 @@
     "title": "Claude Code スキル・サブエージェント攻略ガイド",
     "link": "https://zenn.dev/oligin/articles/7691926a83936a",
     "pubDate": "Sat, 29 Nov 2025 06:09:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "アサヒグループへのサイバー攻撃に関する会見で「最後に一言申し上げたい」から社長が現状を語りまくる様子→特に印象に残った発言たちへの反応",
-    "link": "https://togetter.com/li/2633257",
-    "pubDate": "2025-11-29T05:16:07.000Z"
   },
   {
     "site": "Qiita",
@@ -82,12 +112,6 @@
     "title": "Auth.jsを引き継いだBetter Authについて、調べてみたぜ",
     "link": "https://zenn.dev/stellarcreate/articles/20251129-better-auth-authjs-successor",
     "pubDate": "Fri, 28 Nov 2025 21:30:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemini 3 Pro 実務活用ガイド：個人の能力を拡張し、業務フローを変革するための設計図｜【AI研究中】ただし",
-    "link": "https://note.com/note_tds/n/n7ba408852de9",
-    "pubDate": "2025-11-28T13:18:55.000Z"
   },
   {
     "site": "Zenn",
@@ -136,30 +160,6 @@
     "title": "【書籍まとめ】この一冊で全部わかる ネットワークの基本 (1章〜3章)",
     "link": "https://qiita.com/Nao52/items/d94edde982c355f7cc13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-27T23:30:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発生産性を最大化するために考えていること ~あるいは技術的負債について",
-    "link": "https://zenn.dev/bloomo_tech/articles/a93e4ecbb16b15",
-    "pubDate": "Thu, 27 Nov 2025 23:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Open Notebookを完全ローカル環境で動かす方法",
-    "link": "https://zenn.dev/karaage0703/articles/51a8276e74451c",
-    "pubDate": "Thu, 27 Nov 2025 15:13:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIコードレビュー「棚卸し」のススメ",
-    "link": "https://zenn.dev/aki_think/articles/e8a846e9bb95b0",
-    "pubDate": "Thu, 27 Nov 2025 11:54:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "巨大SQLに対する解読術",
-    "link": "https://zenn.dev/leverages/articles/2ab70781a8c211",
-    "pubDate": "2025-11-27T10:17:37.000Z"
   },
   {
     "site": "Qiita",
