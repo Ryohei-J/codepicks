@@ -1,21 +1,45 @@
 [
   {
+    "site": "Zenn",
+    "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
+    "link": "https://zenn.dev/mconfjp/articles/good-book-at-gijutsushoten2025",
+    "pubDate": "Sat, 29 Nov 2025 14:52:58 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AI時代のチーム設計 ― 役割と協働の再構築",
+    "link": "https://slide.meguro.ryuzee.com/slides/129",
+    "pubDate": "2025-11-29T13:39:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "再帰やループを使わずに組合せを求める",
+    "link": "https://zenn.dev/pona/articles/675a59cb0a9efc",
+    "pubDate": "Sat, 29 Nov 2025 12:10:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "脆弱性っぽい挙動を見つけたときの倫理的な行動とは？ | ドクセル",
+    "link": "https://www.docswell.com/s/hasegawa/KEY3D7-matcha139",
+    "pubDate": "2025-11-29T11:42:37.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "個人開発のWebサービスをRuby on RailsからGo言語へ移行している | shimbaco",
     "link": "https://wikino.app/s/shimbaco/pages/1085",
     "pubDate": "2025-11-29T11:34:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Sonyがついに200MPセンサー「LYTIA-901」を発表：Samsungの牙城を崩すAI搭載の\"巨人\" | XenoSpectrum",
-    "link": "https://xenospectrum.com/sony-lytia-901-200mp-sensor-announcement-analysis/",
-    "pubDate": "2025-11-29T10:55:44.000Z"
+    "site": "Zenn",
+    "title": "Claude Code スキル・サブエージェント攻略ガイド",
+    "link": "https://zenn.dev/oligin/articles/7691926a83936a",
+    "pubDate": "2025-11-29T09:28:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "教え方を教える: ソフトウェアエンジニアリングと中学受験 - 白のカピバラの逆極限 S.144-3",
-    "link": "https://nuc.hatenadiary.org/entry/2025/11/29/",
-    "pubDate": "2025-11-29T09:29:31.000Z"
+    "site": "Zenn",
+    "title": "Android/PCに映る全てのモノをAI自動テストするツールを開発した話",
+    "link": "https://zenn.dev/jam0824/articles/2b23a35dfb23e7",
+    "pubDate": "Sat, 29 Nov 2025 07:05:57 GMT"
   },
   {
     "site": "Zenn",
@@ -30,22 +54,34 @@
     "pubDate": "2025-11-29T05:16:07.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "API Gatewayのストリーミング機能を試してみました",
+    "link": "https://qiita.com/yakumo_09/items/db2d2df88863136483e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-29T05:05:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "SharePoint ナレッジエージェントを有効化するためにSharePoint Online管理シェルを使ってみた",
+    "link": "https://qiita.com/ponponmikankan/items/b857d73df7841ab93e3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-29T04:20:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Power BI 勉強会 #34 - Power Query の大事な話",
+    "link": "https://qiita.com/PowerBIxyz/items/2344651f396cb1749ad4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-29T03:23:04.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Ruby父 まつもとゆきひろ「出社させたがるのは、マネジャーの怠慢でしかない」 - エンジニアtype | 転職type",
     "link": "https://type.jp/et/feature/29782/",
     "pubDate": "2025-11-29T00:48:30.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "マケプレでサブスクしたMCPサーバーをAgentCore RuntimeにデプロイしてMCP Proxy for AWS経由でKiro CLIからアクセスする",
-    "link": "https://qiita.com/moritalous/items/7c156fad25748e4e6bde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T15:47:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "助けてください、あんまり物欲ないで有名な妻がいきなりコレ(LOVOT)欲しいって言い出した",
-    "link": "https://posfie.com/@cu6gane/p/d0FOdzi",
-    "pubDate": "2025-11-28T14:39:56.000Z"
+    "site": "Zenn",
+    "title": "Auth.jsを引き継いだBetter Authについて、調べてみたぜ",
+    "link": "https://zenn.dev/stellarcreate/articles/20251129-better-auth-authjs-successor",
+    "pubDate": "Fri, 28 Nov 2025 21:30:01 GMT"
   },
   {
     "site": "Hatena",
@@ -60,12 +96,6 @@
     "pubDate": "Fri, 28 Nov 2025 12:15:19 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "私物PCのマルウェア感染起因とみられる業務利用Slackへの不正ログイン事案についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2025/11/28/170613",
-    "pubDate": "2025-11-28T09:03:44.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
     "link": "https://qiita.com/quniquni/items/1e6bafbc6bfce74afe5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -78,16 +108,22 @@
     "pubDate": "2025-11-28T08:36:53.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AWS上で使えるファイル転送サービス比較 ~AWS Transfer Family VS HULFT10 for Container Services",
-    "link": "https://qiita.com/SoichiroKikuchi/items/3c38518c281188f7ee9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T08:03:06.000Z"
+    "site": "Zenn",
+    "title": "Cursor・MCPを活用した画面刷新プロジェクトにおける開発サイクルと教訓",
+    "link": "https://zenn.dev/pksha/articles/82d7ebc8496c32",
+    "pubDate": "Fri, 28 Nov 2025 08:03:16 GMT"
   },
   {
     "site": "Qiita",
-    "title": "AWS re:Invent 2025 参加レポ #1出発前編",
-    "link": "https://qiita.com/yamamoto-kazuhide001/items/ca7a731b5d8ffa2fea03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T06:25:44.000Z"
+    "title": "【エディタ】VS codeからAntigravityに移行しました",
+    "link": "https://qiita.com/hayuse/items/28d8716a8b5fd6ac91fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T06:18:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "業務改善とは「人の弱さと向き合う」こと　だからkintoneの利用は“あきらめた” (1/2)",
+    "link": "https://ascii.jp/elem/000/004/355/4355257/",
+    "pubDate": "2025-11-28T03:08:15.000Z"
   },
   {
     "site": "Qiita",
@@ -100,6 +136,12 @@
     "title": "【書籍まとめ】この一冊で全部わかる ネットワークの基本 (1章〜3章)",
     "link": "https://qiita.com/Nao52/items/d94edde982c355f7cc13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-27T23:30:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "開発生産性を最大化するために考えていること ~あるいは技術的負債について",
+    "link": "https://zenn.dev/bloomo_tech/articles/a93e4ecbb16b15",
+    "pubDate": "Thu, 27 Nov 2025 23:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -120,40 +162,10 @@
     "pubDate": "2025-11-27T10:17:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【Linux】LVM を使うべきか",
-    "link": "https://zenn.dev/eiken/articles/16153147235b67",
-    "pubDate": "Thu, 27 Nov 2025 09:52:08 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "1Password Shell Pluginが便利",
     "link": "https://qiita.com/ohakutsu/items/384a3d0802dbe08287db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-27T09:33:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go + クリーンアーキテクチャで AI エージェント基盤を再設計した話【前編】",
-    "link": "https://zenn.dev/iyusuke/articles/b06400ce2b66c9",
-    "pubDate": "Thu, 27 Nov 2025 09:22:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2台のDGX Sparkを相互接続して無事にvLLMを動作させるまでのメモ",
-    "link": "https://zenn.dev/t0d4/articles/7d8951b7c40fba",
-    "pubDate": "Thu, 27 Nov 2025 09:03:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js Cache回想",
-    "link": "https://zenn.dev/akfm/articles/nextjs-caching-history",
-    "pubDate": "Thu, 27 Nov 2025 08:22:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Honoの7つのコンセプト",
-    "link": "https://zenn.dev/yusukebe/articles/1f3ac394f31f3b",
-    "pubDate": "Thu, 27 Nov 2025 03:28:54 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "AIが「パワポ作り」を奪った日。NotebookLMが10分でプロ級スライドを量産する世界へ",
     "link": "https://zenn.dev/acntechjp/articles/a89d758d2178b6",
     "pubDate": "2025-11-27T02:12:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "FastAPIのテストコードを書いてDIの重要性を知った話",
-    "link": "https://zenn.dev/lancers/articles/1bff9ebffdbd89",
-    "pubDate": "Thu, 27 Nov 2025 01:56:09 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Android】Jetpack Compose State 完全ガイド",
-    "link": "https://qiita.com/nozomi2025/items/1417e560767f656ba99c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-26T15:13:08.000Z"
   }
 ]
