@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "パスキー(FIDO)の安全性と脆弱性と破滅的欠陥 - falsandtruのメモ帳",
+    "link": "https://falsandtru.hatenablog.com/entry/passkey-fido-security-and-vulnerability-and-catastrophic-defect",
+    "pubDate": "2025-12-01T06:41:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Windows 95から30年。PCと私たちの生活はどう変わったのか？",
+    "link": "https://qiita.com/sapi_kawahara/items/92e16d42131c94c54cbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T04:43:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Suicaをポケットに入れたまま改札通過、実装の技術的課題をクリア【鉄道技術展レポート】",
+    "link": "https://japan.cnet.com/article/35241066/",
+    "pubDate": "2025-12-01T03:23:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "60年前のコードが今も動く――英国の銀行システムを縛る“技術負債” (1/2)",
     "link": "https://techtarget.itmedia.co.jp/tt/news/2510/18/news03.html",
     "pubDate": "2025-12-01T00:44:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "動画の倍速視聴、理解できるのは何倍まで？　高齢者と若者の違いを米UCLAが研究報告",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/01/news021.html",
+    "pubDate": "2025-11-30T23:17:23.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +36,52 @@
     "pubDate": "2025-11-30T22:33:35.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "文系未経験がLinuCレベル1を3か月で取得した話",
+    "link": "https://qiita.com/Yoshiiany/items/878b36fff86ec884de4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:07:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "kubernetes Deep Dive (etcd + Raft)",
+    "link": "https://qiita.com/Plath/items/6a07fbbda5b443b4079a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:07:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ユーザ追加からパスワードポリシー設定までの実施作業",
+    "link": "https://qiita.com/alexanoD/items/193fcbab50c341fad129?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:05:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "オラ、ラマにコードレビューしてもらうわ",
+    "link": "https://qiita.com/ussy_k/items/0f48fb0fb6cbe0aedb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:05:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "客先のDBを間違えて削除した話",
+    "link": "https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:04:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアの雑談力って大事",
+    "link": "https://qiita.com/sato_626/items/b07819166ee4a82155a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:04:50.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！",
     "link": "https://zenn.dev/tchen/articles/8999302b0953b3",
     "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "突如削除されるLINEメッセージ💬にエンジニアリングで対抗してみた",
+    "link": "https://qiita.com/musutafakemaru/items/f5b326db7da0af609542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T21:55:52.000Z"
   },
   {
     "site": "Zenn",
@@ -40,12 +106,6 @@
     "title": "AI覇権争い、グーグルがChatGPTに追いつかない理由",
     "link": "https://www.bloomberg.co.jp/news/articles/2025-11-30/T6JLCHT96OSL00",
     "pubDate": "2025-11-30T16:34:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。",
-    "link": "https://zenn.dev/watany/articles/ad14f8a352d62f",
-    "pubDate": "2025-11-30T16:28:21.000Z"
   },
   {
     "site": "Zenn",
@@ -96,12 +156,6 @@
     "pubDate": "2025-11-30T11:41:44.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "生成AI着せ替え体験 2025北陸編の振り返り＠JAWS FESTA 2025 in 金沢",
-    "link": "https://qiita.com/riz3f7/items/265bed100455e4abac61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T10:04:55.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "「本番DBで1行のデータ更新するだけなのに毎回手順書作ってレビューする意味あります？」と2年目の人に聞かれて（意味ありすぎるだろ…）と思ったのだけど令和最新版は違ってたりするのか？→「ぶっ壊した経験があるとわかる」",
     "link": "https://posfie.com/@petaritape/p/pWYcreX",
@@ -114,24 +168,6 @@
     "pubDate": "Sun, 30 Nov 2025 09:04:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "情シスはなぜ採れないのか——役割が増えすぎた2025年の現実｜久松剛",
-    "link": "https://comemo.nikkei.com/n/nea91e693c8c2",
-    "pubDate": "2025-11-30T08:38:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Paperpile→GoogleDrive→NotebookLM という最強の作業フローが完成した話｜Atsushi Oshio",
-    "link": "https://note.com/atnote/n/n720fc9ba560c",
-    "pubDate": "2025-11-30T08:22:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
-    "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T06:56:37.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "超高速SQL単体テスト rawsql-ts/pg-testkit",
     "link": "https://zenn.dev/mkmonaka/articles/c2413d99ae67bb",
@@ -139,44 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "【個人開発】ChatGPTの履歴JSONを「完全ローカル」で解析する爆速ビューアを作った話",
-    "link": "https://qiita.com/takumi_ilove-ai/items/39a16ec6a5ca99cffdfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T15:50:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "API Gatewayのストリーミング機能を試してみました",
-    "link": "https://qiita.com/yakumo_09/items/db2d2df88863136483e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T05:05:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SharePoint ナレッジエージェントを有効化するためにSharePoint Online管理シェルを使ってみた",
-    "link": "https://qiita.com/ponponmikankan/items/b857d73df7841ab93e3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T04:20:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「S3はオブジェクトストレージ」の意味、本当に理解できてますか？~見事にハマった俺の屍を超えて行け~",
-    "link": "https://qiita.com/Rabbit_booK/items/aa6ea14f7ed2106f3655?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T10:22:04.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
     "link": "https://qiita.com/quniquni/items/1e6bafbc6bfce74afe5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-28T08:49:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【エディタ】VS codeからAntigravityに移行しました",
-    "link": "https://qiita.com/hayuse/items/28d8716a8b5fd6ac91fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T06:18:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "家に来た人に毎回Wi-Fiパスワード聞かれるのが面倒なので、QR化したら謎の歓迎ページが爆誕した",
-    "link": "https://qiita.com/mamoru-ngy/items/baa445f308238c10df3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T23:50:11.000Z"
   }
 ]
