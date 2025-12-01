@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "60年前のコードが今も動く――英国の銀行システムを縛る“技術負債” (1/2)",
+    "link": "https://techtarget.itmedia.co.jp/tt/news/2510/18/news03.html",
+    "pubDate": "2025-12-01T00:44:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "これって専門家から見てどうなんですか？　IIJに聞く「法人向けルーターと家庭用ルーターの違い」【イニシャルB】",
     "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2065406.html",
     "pubDate": "2025-11-30T22:33:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！",
+    "link": "https://zenn.dev/tchen/articles/8999302b0953b3",
+    "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
+    "link": "https://zenn.dev/acntechjp/articles/411bbb4fe65022",
+    "pubDate": "Sun, 30 Nov 2025 21:24:12 GMT"
   },
   {
     "site": "Hatena",
     "title": "AI相場で下克上　OpenAI失速、Google陣営に資金シフト - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUB269EB0W5A121C2000000/",
     "pubDate": "2025-11-30T20:34:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Azure の バックボーン や ネットワーク を図解してみる",
+    "link": "https://zenn.dev/microsoft/articles/azurebackbone",
+    "pubDate": "Sun, 30 Nov 2025 18:43:47 GMT"
   },
   {
     "site": "Hatena",
@@ -25,6 +49,18 @@
   },
   {
     "site": "Zenn",
+    "title": "Swift 6.2からのConcurrency SafeなNotification",
+    "link": "https://zenn.dev/matsuji/articles/fa7fa7517282e3",
+    "pubDate": "Sun, 30 Nov 2025 15:30:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cortex AISQLで住所の名寄せをやってみた",
+    "link": "https://zenn.dev/dataheroes/articles/71f5c46419c2f4",
+    "pubDate": "Sun, 30 Nov 2025 15:06:56 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIコーディング実践環境の構築方法【2025年12月】",
     "link": "https://zenn.dev/mkj/articles/bf59c4c86d98a8",
     "pubDate": "Sun, 30 Nov 2025 15:00:43 GMT"
@@ -37,15 +73,9 @@
   },
   {
     "site": "Zenn",
-    "title": "超高速SQL単体テスト rawsql-ts/pg-testkit",
-    "link": "https://zenn.dev/mkmonaka/articles/c2413d99ae67bb",
-    "pubDate": "2025-11-30T13:56:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIを使う開発者は自分の好みの言語よりも、AIのハルシネーションが少ないTypeScriptのような型付け言語を選ぶようになる。GitHubがAIによる変化を予想",
-    "link": "https://www.publickey1.jp/blog/25/aiaitypescriptgithubai.html",
-    "pubDate": "2025-11-30T13:48:01.000Z"
+    "title": "Polars R パッケージを書き直しました",
+    "link": "https://zenn.dev/eitsupi/articles/r-polars-2025",
+    "pubDate": "Sun, 30 Nov 2025 15:00:02 GMT"
   },
   {
     "site": "Hatena",
@@ -70,6 +100,12 @@
     "title": "生成AI着せ替え体験 2025北陸編の振り返り＠JAWS FESTA 2025 in 金沢",
     "link": "https://qiita.com/riz3f7/items/265bed100455e4abac61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-30T10:04:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「本番DBで1行のデータ更新するだけなのに毎回手順書作ってレビューする意味あります？」と2年目の人に聞かれて（意味ありすぎるだろ…）と思ったのだけど令和最新版は違ってたりするのか？→「ぶっ壊した経験があるとわかる」",
+    "link": "https://posfie.com/@petaritape/p/pWYcreX",
+    "pubDate": "2025-11-30T09:55:03.000Z"
   },
   {
     "site": "Zenn",
@@ -102,46 +138,10 @@
     "pubDate": "Sun, 30 Nov 2025 06:45:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Server-Sent Events（SSE）で実現するクロスデバイスリアルタイム連携 - Redis Pub/Subでマルチサーバー対応",
-    "link": "https://zenn.dev/helloworld/articles/a9d5049e8aaa04",
-    "pubDate": "Sun, 30 Nov 2025 02:11:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SELECT * がデータモデルの保守性を下げる話",
-    "link": "https://zenn.dev/okiyuki/articles/d94b4ceb940160",
-    "pubDate": "Sun, 30 Nov 2025 00:23:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "永続化と切り離した＂純粋＂ドメインモデリング入門 - ステート、イベント、Deciderで始めるイミュータブルモデルの実装",
-    "link": "https://zenn.dev/jtechjapan_pub/articles/fc9878ec69b6a1",
-    "pubDate": "Sat, 29 Nov 2025 20:11:30 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【個人開発】ChatGPTの履歴JSONを「完全ローカル」で解析する爆速ビューアを作った話",
     "link": "https://qiita.com/takumi_ilove-ai/items/39a16ec6a5ca99cffdfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-29T15:50:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
-    "link": "https://zenn.dev/mconfjp/articles/good-book-at-gijutsushoten2025",
-    "pubDate": "Sat, 29 Nov 2025 14:52:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "UniTask 実装で意識している 7 つのポイント",
-    "link": "https://zenn.dev/fig_codefactory/articles/60a404a42e7a16",
-    "pubDate": "Sat, 29 Nov 2025 12:12:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "再帰やループを使わずに組合せを求める",
-    "link": "https://zenn.dev/pona/articles/675a59cb0a9efc",
-    "pubDate": "Sat, 29 Nov 2025 12:10:02 GMT"
   },
   {
     "site": "Qiita",
