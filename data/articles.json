@@ -1,15 +1,81 @@
 [
   {
     "site": "Hatena",
+    "title": "これって専門家から見てどうなんですか？　IIJに聞く「法人向けルーターと家庭用ルーターの違い」【イニシャルB】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2065406.html",
+    "pubDate": "2025-11-30T22:33:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI相場で下克上　OpenAI失速、Google陣営に資金シフト - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUB269EB0W5A121C2000000/",
+    "pubDate": "2025-11-30T20:34:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI覇権争い、グーグルがChatGPTに追いつかない理由",
+    "link": "https://www.bloomberg.co.jp/news/articles/2025-11-30/T6JLCHT96OSL00",
+    "pubDate": "2025-11-30T16:34:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。",
+    "link": "https://zenn.dev/watany/articles/ad14f8a352d62f",
+    "pubDate": "2025-11-30T16:28:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIコーディング実践環境の構築方法【2025年12月】",
+    "link": "https://zenn.dev/mkj/articles/bf59c4c86d98a8",
+    "pubDate": "Sun, 30 Nov 2025 15:00:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。",
+    "link": "https://zenn.dev/watany/articles/ad14f8a352d62f",
+    "pubDate": "Sun, 30 Nov 2025 15:00:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "超高速SQL単体テスト rawsql-ts/pg-testkit",
+    "link": "https://zenn.dev/mkmonaka/articles/c2413d99ae67bb",
+    "pubDate": "2025-11-30T13:56:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIを使う開発者は自分の好みの言語よりも、AIのハルシネーションが少ないTypeScriptのような型付け言語を選ぶようになる。GitHubがAIによる変化を予想",
+    "link": "https://www.publickey1.jp/blog/25/aiaitypescriptgithubai.html",
+    "pubDate": "2025-11-30T13:48:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "S&P500神話の終わる時　～インデックス投資バブルの形成過程と、AI投資がもたらす株式市場のレジームチェンジ～｜五月（片山晃）",
     "link": "https://note.com/may5x/n/n814696d63dd3",
     "pubDate": "2025-11-30T13:36:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "useEffectってなんで非推奨みたいなこと言われてるの？",
-    "link": "https://speakerdeck.com/maguroalternative/useeffecttutenandefei-tui-jiang-mitainakotoyan-wareteruno",
-    "pubDate": "2025-11-30T10:40:32.000Z"
+    "title": "無料でLinuxカーネルの仕組みを学習できる「Linuxカーネルエクスプローラー」",
+    "link": "https://gigazine.net/news/20251130-linux-kernel-explorer/",
+    "pubDate": "2025-11-30T13:07:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "CISSPに合格しました",
+    "link": "https://qiita.com/kowaretyatta/items/a8b17843e91829cb8034?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T11:41:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "生成AI着せ替え体験 2025北陸編の振り返り＠JAWS FESTA 2025 in 金沢",
+    "link": "https://qiita.com/riz3f7/items/265bed100455e4abac61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T10:04:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "esa記事を自動要約するSlack Botの実装詳細【Gemini + Cloud Run】",
+    "link": "https://zenn.dev/transmedia_blog/articles/ad324e179b8a68",
+    "pubDate": "Sun, 30 Nov 2025 09:04:52 GMT"
   },
   {
     "site": "Hatena",
@@ -24,22 +90,22 @@
     "pubDate": "2025-11-30T08:22:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なんだよこれ…………もう人類への冒涜とか貨幣経済の侮辱とかそういう類だろ「自販機荒らしや500ウォン対策ではないか？」",
-    "link": "https://togetter.com/li/2633584",
-    "pubDate": "2025-11-30T02:09:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Sora」「Nano Banana Pro」の回数制限が強化--「GPUが悲鳴」と提供元",
-    "link": "https://japan.cnet.com/article/35241050/",
-    "pubDate": "2025-11-30T00:36:08.000Z"
+    "site": "Qiita",
+    "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
+    "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T06:56:37.000Z"
   },
   {
     "site": "Zenn",
-    "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
-    "link": "https://zenn.dev/mconfjp/articles/good-book-at-gijutsushoten2025",
-    "pubDate": "2025-11-30T00:29:58.000Z"
+    "title": "超高速SQL単体テスト rawsql-ts/pg-testkit",
+    "link": "https://zenn.dev/mkmonaka/articles/c2413d99ae67bb",
+    "pubDate": "Sun, 30 Nov 2025 06:45:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Server-Sent Events（SSE）で実現するクロスデバイスリアルタイム連携 - Redis Pub/Subでマルチサーバー対応",
+    "link": "https://zenn.dev/helloworld/articles/a9d5049e8aaa04",
+    "pubDate": "Sun, 30 Nov 2025 02:11:50 GMT"
   },
   {
     "site": "Zenn",
@@ -48,34 +114,22 @@
     "pubDate": "Sun, 30 Nov 2025 00:23:03 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【エディタ】VS codeからAntigravityに移行しました - Qiita",
-    "link": "https://qiita.com/hayuse/items/28d8716a8b5fd6ac91fe",
-    "pubDate": "2025-11-29T22:30:47.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "永続化と切り離した＂純粋＂ドメインモデリング入門 - ステート、イベント、Deciderで始めるイミュータブルモデルの実装",
     "link": "https://zenn.dev/jtechjapan_pub/articles/fc9878ec69b6a1",
     "pubDate": "Sat, 29 Nov 2025 20:11:30 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【個人開発】ChatGPTの履歴JSONを「完全ローカル」で解析する爆速ビューアを作った話",
+    "link": "https://qiita.com/takumi_ilove-ai/items/39a16ec6a5ca99cffdfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-29T15:50:48.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "技術書典19で買った『わかる！ソフトウェア設計トレーニング』が良かった",
     "link": "https://zenn.dev/mconfjp/articles/good-book-at-gijutsushoten2025",
     "pubDate": "Sat, 29 Nov 2025 14:52:58 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "超シンプル！リモートワークの電話連絡を自動化してみた話 (2025年版)",
-    "link": "https://qiita.com/torifukukaiou/items/8ad537bcb178b75ab87c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T13:08:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【化学でPython】SymPy：化学反応速度式などの解析解をさくっと導出する",
-    "link": "https://zenn.dev/yamnor/articles/chem-with-python-sympy",
-    "pubDate": "Sat, 29 Nov 2025 12:59:39 GMT"
   },
   {
     "site": "Zenn",
@@ -88,30 +142,6 @@
     "title": "再帰やループを使わずに組合せを求める",
     "link": "https://zenn.dev/pona/articles/675a59cb0a9efc",
     "pubDate": "Sat, 29 Nov 2025 12:10:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "UIデザインに役立つ 2025年の最新CSS / The Latest CSS for UI Design 2025",
-    "link": "https://speakerdeck.com/clockmaker/the-latest-css-for-ui-design-2025",
-    "pubDate": "2025-11-29T12:08:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "コンテナとは何か",
-    "link": "https://zenn.dev/ka_kan/articles/25f0617bed553d",
-    "pubDate": "Sat, 29 Nov 2025 07:12:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Android/PCに映る全てのモノをAI自動テストするツールを開発した話",
-    "link": "https://zenn.dev/jam0824/articles/2b23a35dfb23e7",
-    "pubDate": "Sat, 29 Nov 2025 07:05:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code スキル・サブエージェント攻略ガイド",
-    "link": "https://zenn.dev/oligin/articles/7691926a83936a",
-    "pubDate": "Sat, 29 Nov 2025 06:09:47 GMT"
   },
   {
     "site": "Qiita",
@@ -127,33 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Power BI 勉強会 #34 - Power Query の大事な話",
-    "link": "https://qiita.com/PowerBIxyz/items/2344651f396cb1749ad4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-29T03:23:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Ruby父 まつもとゆきひろ「出社させたがるのは、マネジャーの怠慢でしかない」 - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/29782/",
-    "pubDate": "2025-11-29T00:48:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Auth.jsを引き継いだBetter Authについて、調べてみたぜ",
-    "link": "https://zenn.dev/stellarcreate/articles/20251129-better-auth-authjs-successor",
-    "pubDate": "Fri, 28 Nov 2025 21:30:01 GMT"
+    "title": "「S3はオブジェクトストレージ」の意味、本当に理解できてますか？~見事にハマった俺の屍を超えて行け~",
+    "link": "https://qiita.com/Rabbit_booK/items/aa6ea14f7ed2106f3655?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-28T10:22:04.000Z"
   },
   {
     "site": "Qiita",
     "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
     "link": "https://qiita.com/quniquni/items/1e6bafbc6bfce74afe5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-28T08:49:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "🚀 Google Antigravity徹底解説！無料で最強のAIエディタは初学者の【すごいキズぐすり】となるか？",
-    "link": "https://qiita.com/Yadon987/items/4177ee549cc3a485f2ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T08:21:45.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "家に来た人に毎回Wi-Fiパスワード聞かれるのが面倒なので、QR化したら謎の歓迎ページが爆誕した",
     "link": "https://qiita.com/mamoru-ngy/items/baa445f308238c10df3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-27T23:50:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilotが書いたコードを捨てる勇気が、一流エンジニアの条件になった理由",
-    "link": "https://qiita.com/kenta_sat0/items/15a50c8a41cc57f2a7f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T10:20:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "1Password Shell Pluginが便利",
-    "link": "https://qiita.com/ohakutsu/items/384a3d0802dbe08287db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-27T09:33:52.000Z"
   }
 ]
