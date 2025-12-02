@@ -1,6 +1,18 @@
 [
   {
     "site": "Zenn",
+    "title": "やったらあかんで！ AWSアンチパターン",
+    "link": "https://zenn.dev/isawa/articles/3e9f9aeba89bde",
+    "pubDate": "2025-12-02T09:26:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「MS “P”明朝」のように書体に“P”がついているのにはこういうワケがあった→「知らなかった…そんなの…」「Pありなしはエンジニアやデザイナーが頭痛になる」",
+    "link": "https://togetter.com/li/2634552",
+    "pubDate": "2025-12-02T05:39:34.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "爆速CLI入門 ~最初に知りたかったTips~",
     "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner",
     "pubDate": "Tue, 02 Dec 2025 00:32:58 GMT"
@@ -12,10 +24,28 @@
     "pubDate": "2025-12-01T23:47:58.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "IT企業に入社して、、（製造業出身のしがない２６歳）",
+    "link": "https://qiita.com/systemi-taka/items/2fc456c113409cdd0881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:08:12.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「公共Wi-Fiを避ける」「QRコードをスキャンしない」「公共のUSBポートでデバイスを充電しない」「パスワードを定期的に変更する」など時代遅れのセキュリティアドバイスを止めろと専門家グループが声を上げる",
     "link": "https://gigazine.net/news/20251202-stop-hacklore/",
     "pubDate": "2025-12-01T22:07:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "スパゲティプログラムに3行追加したら決済ができなくなった話",
+    "link": "https://qiita.com/ryo_s0127/items/d5ee3d84237e62bc5cbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:05:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIと楽しくおしゃべりしながらプレイできるリバーシを作りました",
+    "link": "https://qiita.com/nabettu/items/08fc6bbc780f757e7e84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:03:04.000Z"
   },
   {
     "site": "Hatena",
@@ -28,12 +58,6 @@
     "title": "もしAI素人が「明日からAIエージェント作ってくれ」と言われたら｜Moriya",
     "link": "https://note.com/moriya_gekko/n/n47aa474cf658",
     "pubDate": "2025-12-01T18:38:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Kyashに入社して8年くらい経ちました - Konifar's WIP",
-    "link": "https://konifar.hatenablog.com/entry/2025/12/01/234148",
-    "pubDate": "2025-12-01T15:08:54.000Z"
   },
   {
     "site": "Zenn",
@@ -102,6 +126,12 @@
     "pubDate": "Mon, 01 Dec 2025 02:00:02 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "コードレビューではgtrが便利！",
+    "link": "https://qiita.com/Nozomuts/items/0f16c7de2a85a7aad6c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T01:20:10.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "EMになって10年。10年前の自分に伝えたい8つのこと",
     "link": "https://zenn.dev/openlogi/articles/d43f344f146274",
@@ -112,30 +142,6 @@
     "title": "Writing a good CLAUDE.md",
     "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
     "pubDate": "2025-11-30T22:50:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "文系未経験がLinuCレベル1を3か月で取得した話",
-    "link": "https://qiita.com/Yoshiiany/items/878b36fff86ec884de4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:07:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "kubernetes Deep Dive (etcd + Raft)",
-    "link": "https://qiita.com/Plath/items/6a07fbbda5b443b4079a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:07:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【現場で使える】Linuxコマンド早見表",
-    "link": "https://qiita.com/takuya_nakanishi24/items/08685a6f50272c548f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:06:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ユーザ追加からパスワードポリシー設定までの実施作業",
-    "link": "https://qiita.com/alexanoD/items/193fcbab50c341fad129?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:05:46.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIコーディング実践環境の構築方法【2025年12月】",
-    "link": "https://zenn.dev/mkj/articles/bf59c4c86d98a8",
-    "pubDate": "2025-11-30T21:08:15.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "CISSPに合格しました",
-    "link": "https://qiita.com/kowaretyatta/items/a8b17843e91829cb8034?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T11:41:44.000Z"
+    "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
+    "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T06:56:37.000Z"
   }
 ]
