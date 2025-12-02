@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "「公共Wi-Fiを避ける」「QRコードをスキャンしない」「公共のUSBポートでデバイスを充電しない」「パスワードを定期的に変更する」など時代遅れのセキュリティアドバイスを止めろと専門家グループが声を上げる",
+    "link": "https://gigazine.net/news/20251202-stop-hacklore/",
+    "pubDate": "2025-12-01T22:07:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】 モバイルバッテリ処分2025、楽になったよ。ありがとう環境省",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2067713.html",
+    "pubDate": "2025-12-01T21:24:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "京大理系がPythonで「最強の株AI」を作ろうとしたら、結論が「ニュースを見て寝なさい」になった話｜もんげー",
+    "link": "https://note.com/mongee0792/n/n1006007b1cb4",
+    "pubDate": "2025-12-01T14:46:11.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Kawaiiパワーで完全に理解！しっかりやり切るOAuthとOIDC入門 (執筆中)",
     "link": "https://zenn.dev/calloc134/books/sikkari-oauth-oidc",
@@ -7,27 +25,33 @@
   },
   {
     "site": "Hatena",
-    "title": "AWSがGoogle Cloudとの高速接続を発表、来年にはAzureとも接続。「AWS Interconnect」プレビュー開始",
-    "link": "https://www.publickey1.jp/blog/25/awsgoogle_cloudazureaws_interconnect.html",
-    "pubDate": "2025-12-01T12:28:06.000Z"
+    "title": "DeepSeekは中国共産党がセンシティブ扱いするようなプロンプトだと脆弱性を含むコードを出力する可能性が増加",
+    "link": "https://gigazine.net/news/20251201-deepseek-coding-tasks-ccp-valunerability/",
+    "pubDate": "2025-12-01T14:18:26.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った - Qiita",
-    "link": "https://qiita.com/alclimb/items/e303cf655373992f61f4",
-    "pubDate": "2025-12-01T09:40:44.000Z"
+    "site": "Hatena",
+    "title": "Antigravity を使うときは DevContainer で安全に使おう | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/dont-forget-to-use-devcontainer-when-using-antigravity/",
+    "pubDate": "2025-12-01T14:02:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "健康保険「資格確認書」が届かない？　Web交付という可能性も",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/01/news127.html",
+    "pubDate": "2025-12-01T12:49:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
+    "link": "https://zenn.dev/acntechjp/articles/411bbb4fe65022",
+    "pubDate": "2025-12-01T10:07:42.000Z"
   },
   {
     "site": "Hatena",
     "title": "OCR技術の変遷と日本語対応モデルの性能検証 - LayerX エンジニアブログ",
     "link": "https://tech.layerx.co.jp/entry/2025/12/01/161913",
     "pubDate": "2025-12-01T08:20:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "パスキー(FIDO)の安全性と脆弱性と破滅的欠陥 - falsandtruのメモ帳",
-    "link": "https://falsandtru.hatenablog.com/entry/passkey-fido-security-and-vulnerability-and-catastrophic-defect",
-    "pubDate": "2025-12-01T06:41:13.000Z"
   },
   {
     "site": "Zenn",
@@ -42,10 +66,16 @@
     "pubDate": "2025-12-01T04:43:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Suicaをポケットに入れたまま改札通過、実装の技術的課題をクリア【鉄道技術展レポート】",
-    "link": "https://japan.cnet.com/article/35241066/",
-    "pubDate": "2025-12-01T03:23:03.000Z"
+    "site": "Zenn",
+    "title": "続・易しいアセンブリ",
+    "link": "https://zenn.dev/monicle/articles/7a1edbdac1a13f",
+    "pubDate": "Mon, 01 Dec 2025 04:08:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIでデータ抽出するならBEAM＊を取り入れよう",
+    "link": "https://zenn.dev/gaudiy_blog/articles/03f029c82099cf",
+    "pubDate": "Mon, 01 Dec 2025 02:29:08 GMT"
   },
   {
     "site": "Zenn",
@@ -54,16 +84,22 @@
     "pubDate": "Mon, 01 Dec 2025 02:23:18 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "YAMLを数行変えただけでGithub Actionsの料金を70%削減できて実行時間まで減った話",
+    "link": "https://zenn.dev/counterworks/articles/573954dcfa8bb6",
+    "pubDate": "Mon, 01 Dec 2025 02:00:02 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "客先のDBを間違えて削除した話 - Qiita",
     "link": "https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac",
     "pubDate": "2025-11-30T23:20:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "動画の倍速視聴、理解できるのは何倍まで？　高齢者と若者の違いを米UCLAが研究報告",
-    "link": "https://www.itmedia.co.jp/news/articles/2512/01/news021.html",
-    "pubDate": "2025-11-30T23:17:23.000Z"
+    "site": "Zenn",
+    "title": "EMになって10年。10年前の自分に伝えたい8つのこと",
+    "link": "https://zenn.dev/openlogi/articles/d43f344f146274",
+    "pubDate": "Sun, 30 Nov 2025 23:17:33 GMT"
   },
   {
     "site": "Qiita",
@@ -76,6 +112,12 @@
     "title": "kubernetes Deep Dive (etcd + Raft)",
     "link": "https://qiita.com/Plath/items/6a07fbbda5b443b4079a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-30T22:07:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【現場で使える】Linuxコマンド早見表",
+    "link": "https://qiita.com/takuya_nakanishi24/items/08685a6f50272c548f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:06:35.000Z"
   },
   {
     "site": "Qiita",
@@ -102,16 +144,16 @@
     "pubDate": "2025-11-30T22:04:50.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った",
+    "link": "https://qiita.com/alclimb/items/e303cf655373992f61f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-11-30T22:03:19.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！",
     "link": "https://zenn.dev/tchen/articles/8999302b0953b3",
     "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "突如削除されるLINEメッセージ💬にエンジニアリングで対抗してみた",
-    "link": "https://qiita.com/musutafakemaru/items/f5b326db7da0af609542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T21:55:52.000Z"
   },
   {
     "site": "Zenn",
@@ -132,51 +174,9 @@
     "pubDate": "Sun, 30 Nov 2025 18:43:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI覇権争い、グーグルがChatGPTに追いつかない理由",
-    "link": "https://www.bloomberg.co.jp/news/articles/2025-11-30/T6JLCHT96OSL00",
-    "pubDate": "2025-11-30T16:34:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Swift 6.2からのConcurrency SafeなNotification",
-    "link": "https://zenn.dev/matsuji/articles/fa7fa7517282e3",
-    "pubDate": "Sun, 30 Nov 2025 15:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cortex AISQLで住所の名寄せをやってみた",
-    "link": "https://zenn.dev/dataheroes/articles/71f5c46419c2f4",
-    "pubDate": "Sun, 30 Nov 2025 15:06:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIコーディング実践環境の構築方法【2025年12月】",
-    "link": "https://zenn.dev/mkj/articles/bf59c4c86d98a8",
-    "pubDate": "Sun, 30 Nov 2025 15:00:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。",
-    "link": "https://zenn.dev/watany/articles/ad14f8a352d62f",
-    "pubDate": "Sun, 30 Nov 2025 15:00:21 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "S&P500神話の終わる時　～インデックス投資バブルの形成過程と、AI投資がもたらす株式市場のレジームチェンジ～｜五月（片山晃）",
-    "link": "https://note.com/may5x/n/n814696d63dd3",
-    "pubDate": "2025-11-30T13:36:59.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "CISSPに合格しました",
     "link": "https://qiita.com/kowaretyatta/items/a8b17843e91829cb8034?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-30T11:41:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コンポーネントの設計で最近気をつけていることまとめ（React / Next.js）",
-    "link": "https://qiita.com/quniquni/items/1e6bafbc6bfce74afe5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-28T08:49:28.000Z"
   }
 ]
