@@ -1,5 +1,17 @@
 [
   {
+    "site": "Zenn",
+    "title": "爆速CLI入門 ~最初に知りたかったTips~",
+    "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner",
+    "pubDate": "Tue, 02 Dec 2025 00:32:58 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "クマ閉め出す自動ドア…スマホアプリに反応し開閉、障害者や高齢者向けシステム「新たな活用法」",
+    "link": "https://www.yomiuri.co.jp/national/20251202-GYT1T00086/",
+    "pubDate": "2025-12-01T23:47:58.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「公共Wi-Fiを避ける」「QRコードをスキャンしない」「公共のUSBポートでデバイスを充電しない」「パスワードを定期的に変更する」など時代遅れのセキュリティアドバイスを止めろと専門家グループが声を上げる",
     "link": "https://gigazine.net/news/20251202-stop-hacklore/",
@@ -10,6 +22,24 @@
     "title": "【特集】 モバイルバッテリ処分2025、楽になったよ。ありがとう環境省",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2067713.html",
     "pubDate": "2025-12-01T21:24:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "もしAI素人が「明日からAIエージェント作ってくれ」と言われたら｜Moriya",
+    "link": "https://note.com/moriya_gekko/n/n47aa474cf658",
+    "pubDate": "2025-12-01T18:38:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Kyashに入社して8年くらい経ちました - Konifar's WIP",
+    "link": "https://konifar.hatenablog.com/entry/2025/12/01/234148",
+    "pubDate": "2025-12-01T15:08:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RAGプロダクトを支える、ベクトルDB構築以外の周辺Tips",
+    "link": "https://zenn.dev/mkj/articles/1a9aed0c21db7e",
+    "pubDate": "Mon, 01 Dec 2025 15:00:03 GMT"
   },
   {
     "site": "Hatena",
@@ -25,33 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "DeepSeekは中国共産党がセンシティブ扱いするようなプロンプトだと脆弱性を含むコードを出力する可能性が増加",
-    "link": "https://gigazine.net/news/20251201-deepseek-coding-tasks-ccp-valunerability/",
-    "pubDate": "2025-12-01T14:18:26.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Antigravity を使うときは DevContainer で安全に使おう | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/dont-forget-to-use-devcontainer-when-using-antigravity/",
     "pubDate": "2025-12-01T14:02:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "健康保険「資格確認書」が届かない？　Web交付という可能性も",
-    "link": "https://www.itmedia.co.jp/news/articles/2512/01/news127.html",
-    "pubDate": "2025-12-01T12:49:41.000Z"
+    "site": "Zenn",
+    "title": "やったらあかんで！ AWSアンチパターン",
+    "link": "https://zenn.dev/isawa/articles/3e9f9aeba89bde",
+    "pubDate": "Mon, 01 Dec 2025 11:00:02 GMT"
   },
   {
     "site": "Zenn",
     "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
     "link": "https://zenn.dev/acntechjp/articles/411bbb4fe65022",
     "pubDate": "2025-12-01T10:07:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OCR技術の変遷と日本語対応モデルの性能検証 - LayerX エンジニアブログ",
-    "link": "https://tech.layerx.co.jp/entry/2025/12/01/161913",
-    "pubDate": "2025-12-01T08:20:27.000Z"
   },
   {
     "site": "Zenn",
@@ -73,12 +91,6 @@
   },
   {
     "site": "Zenn",
-    "title": "AIでデータ抽出するならBEAM＊を取り入れよう",
-    "link": "https://zenn.dev/gaudiy_blog/articles/03f029c82099cf",
-    "pubDate": "Mon, 01 Dec 2025 02:29:08 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "TanStack Startを試してみたけど、もうNext.jsには戻れない",
     "link": "https://zenn.dev/yt4/articles/tanstack-start-next-js",
     "pubDate": "Mon, 01 Dec 2025 02:23:18 GMT"
@@ -90,16 +102,16 @@
     "pubDate": "Mon, 01 Dec 2025 02:00:02 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "客先のDBを間違えて削除した話 - Qiita",
-    "link": "https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac",
-    "pubDate": "2025-11-30T23:20:40.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "EMになって10年。10年前の自分に伝えたい8つのこと",
     "link": "https://zenn.dev/openlogi/articles/d43f344f146274",
     "pubDate": "Sun, 30 Nov 2025 23:17:33 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Writing a good CLAUDE.md",
+    "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+    "pubDate": "2025-11-30T22:50:54.000Z"
   },
   {
     "site": "Qiita",
@@ -157,21 +169,9 @@
   },
   {
     "site": "Zenn",
-    "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
-    "link": "https://zenn.dev/acntechjp/articles/411bbb4fe65022",
-    "pubDate": "Sun, 30 Nov 2025 21:24:12 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "AIコーディング実践環境の構築方法【2025年12月】",
     "link": "https://zenn.dev/mkj/articles/bf59c4c86d98a8",
     "pubDate": "2025-11-30T21:08:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Azure の バックボーン や ネットワーク を図解してみる",
-    "link": "https://zenn.dev/microsoft/articles/azurebackbone",
-    "pubDate": "Sun, 30 Nov 2025 18:43:47 GMT"
   },
   {
     "site": "Qiita",
