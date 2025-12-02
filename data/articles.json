@@ -1,9 +1,33 @@
 [
   {
+    "site": "Hatena",
+    "title": "AI で再注目された技術やツールたち - ぽ靴な缶",
+    "link": "https://blog.pokutuna.com/entry/ai-rediscovered-tech-and-tools",
+    "pubDate": "2025-12-02T14:17:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、対Google「非常事態」宣言と米報道　3年前と形勢逆転 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN027ZB0S5A201C2000000/",
+    "pubDate": "2025-12-02T10:36:37.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "やったらあかんで！ AWSアンチパターン",
     "link": "https://zenn.dev/isawa/articles/3e9f9aeba89bde",
     "pubDate": "2025-12-02T09:26:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "32歳ITエンジニアが休職になるまでのノート｜NPOS",
+    "link": "https://note.com/npostring/n/n56e58d1783b3",
+    "pubDate": "2025-12-02T09:19:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "goroutineを作ってみる。Rustで - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/build-your-own-goroutine-in-rust",
+    "pubDate": "2025-12-02T08:18:35.000Z"
   },
   {
     "site": "Hatena",
@@ -18,22 +42,16 @@
     "pubDate": "Tue, 02 Dec 2025 00:32:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "クマ閉め出す自動ドア…スマホアプリに反応し開閉、障害者や高齢者向けシステム「新たな活用法」",
-    "link": "https://www.yomiuri.co.jp/national/20251202-GYT1T00086/",
-    "pubDate": "2025-12-01T23:47:58.000Z"
+    "site": "Zenn",
+    "title": "AI出力の品質が悪い？「レビューと改善を3回繰り返して」だけで圧倒的に品質が上がる",
+    "link": "https://zenn.dev/loglass/articles/c356dbc3062137",
+    "pubDate": "Tue, 02 Dec 2025 00:23:51 GMT"
   },
   {
     "site": "Qiita",
     "title": "IT企業に入社して、、（製造業出身のしがない２６歳）",
     "link": "https://qiita.com/systemi-taka/items/2fc456c113409cdd0881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-01T22:08:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「公共Wi-Fiを避ける」「QRコードをスキャンしない」「公共のUSBポートでデバイスを充電しない」「パスワードを定期的に変更する」など時代遅れのセキュリティアドバイスを止めろと専門家グループが声を上げる",
-    "link": "https://gigazine.net/news/20251202-stop-hacklore/",
-    "pubDate": "2025-12-01T22:07:17.000Z"
   },
   {
     "site": "Qiita",
@@ -66,6 +84,12 @@
     "pubDate": "Mon, 01 Dec 2025 15:00:03 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "改めて Active Directory のセキュリティ対策を考えよう",
+    "link": "https://zenn.dev/microsoft/articles/active-directory-security-advent-calendar-2025-1",
+    "pubDate": "Mon, 01 Dec 2025 14:59:00 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "京大理系がPythonで「最強の株AI」を作ろうとしたら、結論が「ニュースを見て寝なさい」になった話｜もんげー",
     "link": "https://note.com/mongee0792/n/n1006007b1cb4",
@@ -78,22 +102,10 @@
     "pubDate": "Mon, 01 Dec 2025 14:45:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Antigravity を使うときは DevContainer で安全に使おう | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/dont-forget-to-use-devcontainer-when-using-antigravity/",
-    "pubDate": "2025-12-01T14:02:55.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "やったらあかんで！ AWSアンチパターン",
     "link": "https://zenn.dev/isawa/articles/3e9f9aeba89bde",
     "pubDate": "Mon, 01 Dec 2025 11:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "M365 Copilotで「自社スタイルPPT」を自動生成する方法",
-    "link": "https://zenn.dev/acntechjp/articles/411bbb4fe65022",
-    "pubDate": "2025-12-01T10:07:42.000Z"
   },
   {
     "site": "Zenn",
@@ -132,18 +144,6 @@
     "pubDate": "2025-12-01T01:20:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "EMになって10年。10年前の自分に伝えたい8つのこと",
-    "link": "https://zenn.dev/openlogi/articles/d43f344f146274",
-    "pubDate": "Sun, 30 Nov 2025 23:17:33 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Writing a good CLAUDE.md",
-    "link": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
-    "pubDate": "2025-11-30T22:50:54.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "オラ、ラマにコードレビューしてもらうわ",
     "link": "https://qiita.com/ussy_k/items/0f48fb0fb6cbe0aedb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -168,15 +168,15 @@
     "pubDate": "2025-11-30T22:03:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！",
-    "link": "https://zenn.dev/tchen/articles/8999302b0953b3",
-    "pubDate": "Sun, 30 Nov 2025 22:00:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
     "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-30T06:56:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "適職探索トップ | job tag（職業情報提供サイト（日本版O-NET））",
+    "link": "https://shigoto.mhlw.go.jp/User/Search/Top",
+    "pubDate": "2022-10-03T17:12:53.000Z"
   }
 ]
