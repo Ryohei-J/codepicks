@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "結局このUSBは普及しなかったな…「この形状でなぜ普及すると思ったのか」「え、外付HDDではすごく普及してて困ってる」など反応様々",
+    "link": "https://togetter.com/li/2634805",
+    "pubDate": "2025-12-02T23:12:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "会計士から配管工で給与3倍の幸福度　「AIで新産業は望み薄」の未来 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN260CH0W5A121C2000000/",
+    "pubDate": "2025-12-02T21:28:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI で再注目された技術やツールたち - ぽ靴な缶",
     "link": "https://blog.pokutuna.com/entry/ai-rediscovered-tech-and-tools",
     "pubDate": "2025-12-02T14:17:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OpenAI、対Google「非常事態」宣言と米報道　3年前と形勢逆転 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN027ZB0S5A201C2000000/",
-    "pubDate": "2025-12-02T10:36:37.000Z"
+    "site": "Zenn",
+    "title": "Prompt Cachingを完全に理解してLLMコストを爆裂に下げる",
+    "link": "https://zenn.dev/ubie_dev/articles/ade17afebabaa9",
+    "pubDate": "2025-12-02T12:44:00.000Z"
   },
   {
     "site": "Zenn",
@@ -25,15 +37,39 @@
   },
   {
     "site": "Hatena",
-    "title": "goroutineを作ってみる。Rustで - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/build-your-own-goroutine-in-rust",
-    "pubDate": "2025-12-02T08:18:35.000Z"
+    "title": "おしゃべりAIリバーシ",
+    "link": "https://reversi.nabettu.com/",
+    "pubDate": "2025-12-02T05:58:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した",
+    "link": "https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1",
+    "pubDate": "Tue, 02 Dec 2025 04:57:52 GMT"
   },
   {
     "site": "Hatena",
-    "title": "「MS “P”明朝」のように書体に“P”がついているのにはこういうワケがあった→「知らなかった…そんなの…」「Pありなしはエンジニアやデザイナーが頭痛になる」",
-    "link": "https://togetter.com/li/2634552",
-    "pubDate": "2025-12-02T05:39:34.000Z"
+    "title": "アサヒビール｢形だけのセキュリティ対策｣が招いた大混乱､\"基本のキ\"でつまずき大規模な障害に…サイバー攻撃から2カ月何が間違っていたのか",
+    "link": "https://toyokeizai.net/articles/-/921207?display=b",
+    "pubDate": "2025-12-02T03:29:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "誰でも今からでも追いつけるパスキー - Qiita",
+    "link": "https://qiita.com/kkoiwai/items/4a1d438642ed5a050669",
+    "pubDate": "2025-12-02T03:14:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "目にやさしい仕様駆動開発「spec-workflow-mcp」がもたらすブルーベリー効果",
+    "link": "https://zenn.dev/layerx/articles/60b46a2e9ac94e",
+    "pubDate": "Tue, 02 Dec 2025 02:20:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Prompt Cachingを完全に理解してLLMコストを爆裂に下げる",
+    "link": "https://zenn.dev/ubie_dev/articles/ade17afebabaa9",
+    "pubDate": "Tue, 02 Dec 2025 02:10:50 GMT"
   },
   {
     "site": "Zenn",
@@ -55,6 +91,18 @@
   },
   {
     "site": "Qiita",
+    "title": "【初心者向け】AZ-900（Azure Fundamentals）を勉強してみたまとめ",
+    "link": "https://qiita.com/Show_k07/items/4a2ce76f99de3714d3a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:07:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "現場で学んだ、viの基礎便利ワザと謎の落とし穴",
+    "link": "https://qiita.com/w-m/items/8fdd1bb24726194e721b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T22:05:51.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "スパゲティプログラムに3行追加したら決済ができなくなった話",
     "link": "https://qiita.com/ryo_s0127/items/d5ee3d84237e62bc5cbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-01T22:05:35.000Z"
@@ -66,18 +114,6 @@
     "pubDate": "2025-12-01T22:03:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 モバイルバッテリ処分2025、楽になったよ。ありがとう環境省",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2067713.html",
-    "pubDate": "2025-12-01T21:24:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "もしAI素人が「明日からAIエージェント作ってくれ」と言われたら｜Moriya",
-    "link": "https://note.com/moriya_gekko/n/n47aa474cf658",
-    "pubDate": "2025-12-01T18:38:37.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "RAGプロダクトを支える、ベクトルDB構築以外の周辺Tips",
     "link": "https://zenn.dev/mkj/articles/1a9aed0c21db7e",
@@ -85,21 +121,15 @@
   },
   {
     "site": "Zenn",
-    "title": "改めて Active Directory のセキュリティ対策を考えよう",
-    "link": "https://zenn.dev/microsoft/articles/active-directory-security-advent-calendar-2025-1",
-    "pubDate": "Mon, 01 Dec 2025 14:59:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "京大理系がPythonで「最強の株AI」を作ろうとしたら、結論が「ニュースを見て寝なさい」になった話｜もんげー",
-    "link": "https://note.com/mongee0792/n/n1006007b1cb4",
-    "pubDate": "2025-12-01T14:46:11.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "Kawaiiパワーで完全に理解！しっかりやり切るOAuthとOIDC入門 (執筆中)",
     "link": "https://zenn.dev/calloc134/books/sikkari-oauth-oidc",
     "pubDate": "Mon, 01 Dec 2025 14:45:10 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Kubernetesはなぜ難しいのか？",
+    "link": "https://qiita.com/K5K/items/dcfb0f90277e07e487b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-01T13:08:37.000Z"
   },
   {
     "site": "Zenn",
@@ -109,45 +139,21 @@
   },
   {
     "site": "Zenn",
+    "title": "AI エージェント開発で失敗しないための 10 のデザインパターン - フレームワークに依存しない設計の共通言語を定義する",
+    "link": "https://zenn.dev/loglass/articles/c7f4499ec8320b",
+    "pubDate": "Mon, 01 Dec 2025 08:56:22 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "思考を減らしコードに集中するための tmux, Neovim 設定",
     "link": "https://zenn.dev/layerx/articles/8c29b0367238b8",
     "pubDate": "Mon, 01 Dec 2025 04:58:55 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Windows 95から30年。PCと私たちの生活はどう変わったのか？",
-    "link": "https://qiita.com/sapi_kawahara/items/92e16d42131c94c54cbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-01T04:43:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "続・易しいアセンブリ",
-    "link": "https://zenn.dev/monicle/articles/7a1edbdac1a13f",
-    "pubDate": "Mon, 01 Dec 2025 04:08:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TanStack Startを試してみたけど、もうNext.jsには戻れない",
-    "link": "https://zenn.dev/yt4/articles/tanstack-start-next-js",
-    "pubDate": "Mon, 01 Dec 2025 02:23:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "YAMLを数行変えただけでGithub Actionsの料金を70%削減できて実行時間まで減った話",
-    "link": "https://zenn.dev/counterworks/articles/573954dcfa8bb6",
-    "pubDate": "Mon, 01 Dec 2025 02:00:02 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "コードレビューではgtrが便利！",
     "link": "https://qiita.com/Nozomuts/items/0f16c7de2a85a7aad6c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-01T01:20:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "オラ、ラマにコードレビューしてもらうわ",
-    "link": "https://qiita.com/ussy_k/items/0f48fb0fb6cbe0aedb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T22:05:01.000Z"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った",
     "link": "https://qiita.com/alclimb/items/e303cf655373992f61f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-11-30T22:03:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIが発達していくからこそ、IT国家試験は受かっておきたい話",
-    "link": "https://qiita.com/nekonymous/items/7b691b2d6f8aedec382d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-11-30T06:56:37.000Z"
   },
   {
     "site": "Hatena",
