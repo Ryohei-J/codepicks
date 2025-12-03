@@ -1,45 +1,63 @@
 [
   {
     "site": "Hatena",
-    "title": "結局このUSBは普及しなかったな…「この形状でなぜ普及すると思ったのか」「え、外付HDDではすごく普及してて困ってる」など反応様々",
-    "link": "https://togetter.com/li/2634805",
-    "pubDate": "2025-12-02T23:12:44.000Z"
+    "title": "大学生とともに作った「Gemini 活用事例集」を公開",
+    "link": "https://blog.google/intl/ja-jp/feed/gemini/",
+    "pubDate": "2025-12-03T00:25:20.000Z"
   },
   {
     "site": "Hatena",
-    "title": "会計士から配管工で給与3倍の幸福度　「AIで新産業は望み薄」の未来 - 日本経済新聞",
+    "title": "DMARCをなめてました - 弁護士ドットコム株式会社 Creators’ blog",
+    "link": "https://creators.bengo4.com/entry/2025/12/03/000000",
+    "pubDate": "2025-12-02T23:42:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIを楽観視する日本　「脅威ではない」44%、先進国では異例 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC133YR0T11C25A1000000/",
+    "pubDate": "2025-12-02T23:24:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GoogleがGeminiの活用法を紹介する電子書籍を無償公開 ～全国の大学生と合同で作成／社会人も業務などで役に立つ45の活用例を収録した『Gemini 活用事例集』【Book Watch/ニュース】",
+    "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2068062.html",
+    "pubDate": "2025-12-02T22:48:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "窓なし部屋でも「朝」は作れる。カメラマン×エンジニアが教える『光のデスク設計術』｜reny🌻",
+    "link": "https://note.com/reni1chang/n/n84ae6af50436",
+    "pubDate": "2025-12-02T22:44:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米国、会計士から配管工で給与3倍の幸福度　「AIで雇用創出は望み薄」 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN260CH0W5A121C2000000/",
     "pubDate": "2025-12-02T21:28:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI で再注目された技術やツールたち - ぽ靴な缶",
-    "link": "https://blog.pokutuna.com/entry/ai-rediscovered-tech-and-tools",
-    "pubDate": "2025-12-02T14:17:34.000Z"
+    "site": "Zenn",
+    "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
+    "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
+    "pubDate": "Tue, 02 Dec 2025 15:04:07 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Prompt Cachingを完全に理解してLLMコストを爆裂に下げる",
-    "link": "https://zenn.dev/ubie_dev/articles/ade17afebabaa9",
-    "pubDate": "2025-12-02T12:44:00.000Z"
+    "title": "HaskellerとRustaceanが知恵をあわせてプロダクトを3日で1000倍高速化した話",
+    "link": "https://zenn.dev/jij_inc/articles/2025-12-03-haskeller-and-rustacean-1000x-faster",
+    "pubDate": "Tue, 02 Dec 2025 15:00:03 GMT"
   },
   {
     "site": "Zenn",
-    "title": "やったらあかんで！ AWSアンチパターン",
-    "link": "https://zenn.dev/isawa/articles/3e9f9aeba89bde",
-    "pubDate": "2025-12-02T09:26:25.000Z"
+    "title": "月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。",
+    "link": "https://zenn.dev/dress_code/articles/89a5ceaa6eac37",
+    "pubDate": "Tue, 02 Dec 2025 12:00:30 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "32歳ITエンジニアが休職になるまでのノート｜NPOS",
-    "link": "https://note.com/npostring/n/n56e58d1783b3",
-    "pubDate": "2025-12-02T09:19:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "おしゃべりAIリバーシ",
-    "link": "https://reversi.nabettu.com/",
-    "pubDate": "2025-12-02T05:58:54.000Z"
+    "site": "Zenn",
+    "title": "爆速CLI入門 ~最初に知りたかったTips~",
+    "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-beginner",
+    "pubDate": "2025-12-02T11:32:15.000Z"
   },
   {
     "site": "Zenn",
@@ -130,24 +148,6 @@
     "title": "Kubernetesはなぜ難しいのか？",
     "link": "https://qiita.com/K5K/items/dcfb0f90277e07e487b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-01T13:08:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "やったらあかんで！ AWSアンチパターン",
-    "link": "https://zenn.dev/isawa/articles/3e9f9aeba89bde",
-    "pubDate": "Mon, 01 Dec 2025 11:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI エージェント開発で失敗しないための 10 のデザインパターン - フレームワークに依存しない設計の共通言語を定義する",
-    "link": "https://zenn.dev/loglass/articles/c7f4499ec8320b",
-    "pubDate": "Mon, 01 Dec 2025 08:56:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "思考を減らしコードに集中するための tmux, Neovim 設定",
-    "link": "https://zenn.dev/layerx/articles/8c29b0367238b8",
-    "pubDate": "Mon, 01 Dec 2025 04:58:55 GMT"
   },
   {
     "site": "Qiita",
