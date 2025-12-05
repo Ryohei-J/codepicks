@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "IEEEを「ｲｪ~~~」って呼んでた元上司の話に「ｱｨ~~~~」やそのままアルファベット読みをした人たちが集まる「IT用語って独特な読み方をするやつが多い」",
-    "link": "https://togetter.com/li/2635553",
-    "pubDate": "2025-12-05T03:46:47.000Z"
+    "title": "農園が障害者を雇い、企業がその障害者に金銭を支払うことにより障害者を雇っていることにするシステム、今までグレーだったがようやく問題という流れになってきた",
+    "link": "https://togetter.com/li/2635634",
+    "pubDate": "2025-12-05T09:17:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエンジニアが本気で作ったLLM勉強会資料を大公開 〜そのまま使えるハンズオン用コード付き〜 | BLOG - DeNA Engineering",
+    "link": "https://engineering.dena.com/blog/2025/12/llm-study-1201/",
+    "pubDate": "2025-12-05T05:25:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DeNA、「AIエンジニアが本気で作った」LLM勉強会資料とコードを全公開　非エンジニアも学べる",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news086.html",
+    "pubDate": "2025-12-05T04:36:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳 - Qiita",
+    "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c",
+    "pubDate": "2025-12-05T04:25:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "“距離感を間違えない”コミュニケーション",
+    "link": "https://qiita.com/KURIeIGHT/items/5e8a857ff54ac1cb9ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T03:12:52.000Z"
   },
   {
     "site": "Qiita",
@@ -12,16 +36,10 @@
     "pubDate": "2025-12-05T02:38:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ゴミ出しのルール、「午前6時までにお出しください」って、早くない？みんなそう？→夜に出して夜中に回収してくれる福岡のシステムが称えられる",
-    "link": "https://togetter.com/li/2635499",
-    "pubDate": "2025-12-05T01:43:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "デミス・ハサビス氏、GoogleのAI開発のカギを握る天才｜村松 一之（フォーライクス　代表）",
-    "link": "https://note.com/cjdbx883/n/n6676563ce7b0",
-    "pubDate": "2025-12-05T00:13:49.000Z"
+    "site": "Qiita",
+    "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",
+    "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T01:53:47.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +60,10 @@
     "pubDate": "2025-12-04T23:05:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "俺が、俺こそが真の「要はバランスおじさん」だ！！！ - フジイユウジ::ドットネット",
-    "link": "https://fujii-yuji.net/2025/12/05/000357",
-    "pubDate": "2025-12-04T21:51:05.000Z"
+    "site": "Qiita",
+    "title": "客先本番環境のNASデータをすべてrmした事件",
+    "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:05:28.000Z"
   },
   {
     "site": "Hatena",
@@ -70,6 +88,12 @@
     "title": "TypeScript 7で消えるtsconfigのレガシー設定。target: es5やbaseUrlにサヨウナラ",
     "link": "https://zenn.dev/ubie_dev/articles/typescript7-goodbye-legacy",
     "pubDate": "Thu, 04 Dec 2025 07:33:41 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "MCPサーバーになってみた",
+    "link": "https://qiita.com/jugyo/items/12633900df47cecbf5c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T06:35:46.000Z"
   },
   {
     "site": "Zenn",
@@ -103,18 +127,6 @@
   },
   {
     "site": "Qiita",
-    "title": "漏洩しても使えない？ DPoPが実現する『鉄壁のAWS CLI認証』",
-    "link": "https://qiita.com/sapi_kawahara/items/1cb5aed50ca172f124ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T22:07:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Flutterフォームバリデーションの呪縛を解き放て！ZodArtで宣言的に書いてみた",
-    "link": "https://qiita.com/zzundalek/items/42af805719960ab56dcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T15:49:11.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "システム再起動で起動しなくなった話",
     "link": "https://qiita.com/zzzzico/items/2f779dd0697eca8abd86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T15:27:32.000Z"
@@ -133,12 +145,6 @@
   },
   {
     "site": "Qiita",
-    "title": "スペック駆動開発（Spec‑Driven Development）とは？",
-    "link": "https://qiita.com/CoffeeCoffeeCoffee/items/4612e1ee34ce3b3fe49b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T06:50:47.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AI使いすぎで思考力が雑魚になる対策プロンプト-「Thinking Gym」",
     "link": "https://qiita.com/WdknWdkn/items/c67c90d75e7ec942e60c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T05:49:05.000Z"
@@ -148,12 +154,6 @@
     "title": "CTOとして会社に置くと決めた、ありがたい技術書5選",
     "link": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
     "pubDate": "Wed, 03 Dec 2025 00:00:04 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "コンセント配線で9万円を無駄にしかけた話",
-    "link": "https://qiita.com/waricoma/items/03d53fbbc1c5862e0140?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-02T21:14:09.000Z"
   },
   {
     "site": "Zenn",
