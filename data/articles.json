@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "IEEEを「ｲｪ~~~」って呼んでた元上司の話に「ｱｨ~~~~」やそのままアルファベット読みをした人たちが集まる「IT用語って独特な読み方をするやつが多い」",
+    "link": "https://togetter.com/li/2635553",
+    "pubDate": "2025-12-05T03:46:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "MCPサーバーになってみた - Qiita",
+    "link": "https://qiita.com/jugyo/items/12633900df47cecbf5c5",
+    "pubDate": "2025-12-05T02:38:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ゴミ出しのルール、「午前6時までにお出しください」って、早くない？みんなそう？→夜に出して夜中に回収してくれる福岡のシステムが称えられる",
+    "link": "https://togetter.com/li/2635499",
+    "pubDate": "2025-12-05T01:43:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "デミス・ハサビス氏、GoogleのAI開発のカギを握る天才｜村松 一之（フォーライクス　代表）",
+    "link": "https://note.com/cjdbx883/n/n6676563ce7b0",
+    "pubDate": "2025-12-05T00:13:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【レビュー】 レコーダ難民が、パナソニック「miyotto」使ってみた。納得の実用性で“導入に王手”",
+    "link": "https://av.watch.impress.co.jp/docs/review/review/2067658.html",
+    "pubDate": "2025-12-04T23:47:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マネージャーは何が楽しくてやれる仕事なの？ - だいくしー(@daiksy)のはてなブログ",
+    "link": "https://daiksy.hatenablog.jp/entry/2025/12/05/081740",
+    "pubDate": "2025-12-04T23:43:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AWS、古いメインフレームを36mの高さから投下＆爆破　「技術負債を解消しよう！」",
     "link": "https://www.itmedia.co.jp/news/articles/2512/05/news053.html",
     "pubDate": "2025-12-04T23:05:45.000Z"
@@ -13,15 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "【西川和久の不定期コラム】 やっと来たぜ卓上AIスパコン「ASUS ASCENT GX10」！気になる性能はどう？",
-    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2068546.html",
-    "pubDate": "2025-12-04T21:44:47.000Z"
+    "title": "弱者男性だがSora3が出たら身が持たないかもしれない",
+    "link": "https://anond.hatelabo.jp/20251204200000",
+    "pubDate": "2025-12-04T21:26:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "\"主観で終わらせない\"定性データ活用 ― プロダクトディスカバリーを加速させるインサイトマネジメント / Utilizing qualitative data that \"doesn't end with subjectivity\" - Insight management that accelerates product discovery",
-    "link": "https://speakerdeck.com/kaminashi/utilizing-qualitative-data-that-doesnt-end-with-subjectivity-insight-management-that-accelerates-product-discovery",
-    "pubDate": "2025-12-04T14:15:34.000Z"
+    "site": "Zenn",
+    "title": "【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について",
+    "link": "https://zenn.dev/satoyoshi/articles/05389491886cac",
+    "pubDate": "Thu, 04 Dec 2025 14:40:11 GMT"
   },
   {
     "site": "Hatena",
@@ -30,34 +66,10 @@
     "pubDate": "2025-12-04T10:24:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "docker-buildのチューニングTips全部書く【Go×GitHubActions】",
-    "link": "https://karamaru-alpha.com/posts/docker-build-2025/",
-    "pubDate": "2025-12-04T08:36:50.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "TypeScript 7で消えるtsconfigのレガシー設定。target: es5やbaseUrlにサヨウナラ",
     "link": "https://zenn.dev/ubie_dev/articles/typescript7-goodbye-legacy",
     "pubDate": "Thu, 04 Dec 2025 07:33:41 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "バイブコーディングを超えて",
-    "link": "https://www.oreilly.co.jp//books/9784814401420/",
-    "pubDate": "2025-12-04T05:42:55.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【npm】11月24日以降にnpm installした人へ - Shai-Hulud感染チェック & 多層防御ガイド",
-    "link": "https://zenn.dev/hand_dot/articles/04542a91bc432e",
-    "pubDate": "2025-12-04T04:10:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Gemini 3」で誰でもAIエージェントが作れる「Google Workspace Studio」が一般提供、「Gmail」や「Google ドライブ」とも深く統合／コーディングの必要なし、GASによるカスタマイズもOK",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2068480.html",
-    "pubDate": "2025-12-04T02:52:19.000Z"
   },
   {
     "site": "Zenn",
@@ -70,12 +82,6 @@
     "title": "高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜",
     "link": "https://qiita.com/drken/items/c853184ad95b9e9fd45d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-04T02:18:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Geminiに会社のチラシを作ってもらったら、嫁から「全部クソダサい」と言われ、ChatGPTになおしてもらった話｜桜花一門",
-    "link": "https://note.com/oukaichimon/n/nd8aadfb9caed",
-    "pubDate": "2025-12-04T02:17:54.000Z"
   },
   {
     "site": "Zenn",
@@ -144,16 +150,16 @@
     "pubDate": "Wed, 03 Dec 2025 00:00:04 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "パッケージマネージャーで Runtime のバージョンを管理する",
-    "link": "https://zenn.dev/ryo_manba/articles/devengines-runtime-management",
-    "pubDate": "Wed, 03 Dec 2025 00:00:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "コンセント配線で9万円を無駄にしかけた話",
     "link": "https://qiita.com/waricoma/items/03d53fbbc1c5862e0140?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-02T21:14:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code公式Pluginのすすめ",
+    "link": "https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins",
+    "pubDate": "Tue, 02 Dec 2025 21:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -166,12 +172,6 @@
     "title": "HaskellerとRustaceanが知恵をあわせてプロダクトを3日で1000倍高速化した話",
     "link": "https://zenn.dev/jij_inc/articles/2025-12-03-haskeller-and-rustacean-1000x-faster",
     "pubDate": "Tue, 02 Dec 2025 15:00:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "新人のときに読みたかった ―『先輩データサイエンティストからの指南書』を読んで",
-    "link": "https://zenn.dev/mkj/articles/c081840e565623",
-    "pubDate": "Tue, 02 Dec 2025 15:00:02 GMT"
   },
   {
     "site": "Qiita",
