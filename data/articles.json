@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "なぜ日本のSaaSスタートアップは「稼げない」のか ",
+    "link": "https://forma.welldirection.jp/posts/japanese-saas-monetization-challenges",
+    "pubDate": "2025-12-05T13:21:31.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "農園が障害者を雇い、企業がその障害者に金銭を支払うことにより障害者を雇っていることにするシステム、今までグレーだったがようやく問題という流れになってきた",
     "link": "https://togetter.com/li/2635634",
     "pubDate": "2025-12-05T09:17:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【分析】メタバースは終わった――米メタが事業部予算削減の報道、ウォール街好感",
+    "link": "https://www.cnn.co.jp/tech/35241288.html",
+    "pubDate": "2025-12-05T05:49:03.000Z"
   },
   {
     "site": "Hatena",
@@ -54,12 +66,6 @@
     "pubDate": "2025-12-04T23:43:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AWS、古いメインフレームを36mの高さから投下＆爆破　「技術負債を解消しよう！」",
-    "link": "https://www.itmedia.co.jp/news/articles/2512/05/news053.html",
-    "pubDate": "2025-12-04T23:05:45.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "客先本番環境のNASデータをすべてrmした事件",
     "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -78,10 +84,16 @@
     "pubDate": "Thu, 04 Dec 2025 14:40:11 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "もしモバイルバッテリが燃えてしまったら？東京消防庁が消火方法を紹介",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2068745.html",
-    "pubDate": "2025-12-04T10:24:32.000Z"
+    "site": "Zenn",
+    "title": "朝起きたら、React・Next.js に重大脆弱性が発生！【CVE-2025-55182・66478】",
+    "link": "https://zenn.dev/gymynnym/articles/1ffbae5a18b404",
+    "pubDate": "Thu, 04 Dec 2025 11:48:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "JSでギャルゲー！～JavaScriptでノベルゲームエンジン作った～",
+    "link": "https://zenn.dev/dgbt/articles/f36d356929a0b6",
+    "pubDate": "Thu, 04 Dec 2025 07:53:15 GMT"
   },
   {
     "site": "Zenn",
@@ -160,18 +172,6 @@
     "title": "Claude Code公式Pluginのすすめ",
     "link": "https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins",
     "pubDate": "Tue, 02 Dec 2025 21:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。",
-    "link": "https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards",
-    "pubDate": "Tue, 02 Dec 2025 15:04:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "HaskellerとRustaceanが知恵をあわせてプロダクトを3日で1000倍高速化した話",
-    "link": "https://zenn.dev/jij_inc/articles/2025-12-03-haskeller-and-rustacean-1000x-faster",
-    "pubDate": "Tue, 02 Dec 2025 15:00:03 GMT"
   },
   {
     "site": "Qiita",
