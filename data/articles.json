@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "突撃！隣のリモート・オフィス環境 2025 - freee Developers Hub",
+    "link": "https://developers.freee.co.jp/entry/remote-2025",
+    "pubDate": "2025-12-06T01:13:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Kodakの超小型カメラ「Charmera」が楽しい　毎日の記録にちょうどいい【いつモノコト】",
+    "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2067229.html",
+    "pubDate": "2025-12-06T00:48:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料の「Affinity」は“Adobe税”に苦しむデジカメ民を救えるか？　節税にはなるかも",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/06/news023.html",
+    "pubDate": "2025-12-06T00:06:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "技術力で殴る前に「問い」を研げ。",
+    "link": "https://zenn.dev/shizumaru/articles/42664815ba973f",
+    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "AIデータセンターは迷惑施設　健康不安で怒る米住民、3.8兆円分阻止 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN288RF0Y5A121C2000000/",
     "pubDate": "2025-12-05T20:13:58.000Z"
   },
   {
     "site": "Hatena",
+    "title": "FirebaseのようにGUIでバックエンドを構築できる無料でオープンソースのシステム「PocketBase」、わずか1ファイルのみ",
+    "link": "https://gigazine.net/news/20251206-pocketbase/",
+    "pubDate": "2025-12-05T17:09:02.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "止めずに移行　メルカリの40TB超・50台MySQLからTiDB Cloudへ | PingCAP株式会社",
     "link": "https://pingcap.co.jp/case-study/mercari-tidb-cloud/",
     "pubDate": "2025-12-05T16:41:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "フルリモート歴1年のエンジニアが辿り着いた“最強の作業環境”",
+    "link": "https://zenn.dev/collabostyle/articles/f7ec387e0096b4",
+    "pubDate": "Fri, 05 Dec 2025 15:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -25,33 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "農園が障害者を雇い、企業がその障害者に金銭を支払うことにより障害者を雇っていることにするシステム、今までグレーだったがようやく問題という流れになってきた",
-    "link": "https://togetter.com/li/2635634",
-    "pubDate": "2025-12-05T09:17:40.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【分析】メタバースは終わった――米メタが事業部予算削減の報道、ウォール街好感",
     "link": "https://www.cnn.co.jp/tech/35241288.html",
     "pubDate": "2025-12-05T05:49:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIエンジニアが本気で作ったLLM勉強会資料を大公開 〜そのまま使えるハンズオン用コード付き〜 | BLOG - DeNA Engineering",
-    "link": "https://engineering.dena.com/blog/2025/12/llm-study-1201/",
-    "pubDate": "2025-12-05T05:25:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "DeNA、「AIエンジニアが本気で作った」LLM勉強会資料とコードを全公開　非エンジニアも学べる",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/05/news086.html",
-    "pubDate": "2025-12-05T04:36:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳 - Qiita",
-    "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c",
-    "pubDate": "2025-12-05T04:25:08.000Z"
   },
   {
     "site": "Qiita",
@@ -115,15 +127,21 @@
   },
   {
     "site": "Zenn",
-    "title": "【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について",
-    "link": "https://zenn.dev/satoyoshi/articles/05389491886cac",
-    "pubDate": "Thu, 04 Dec 2025 14:40:11 GMT"
+    "title": "TypeScript開発者待望？！ Strands Agents TypeScript SDKを試してみた！",
+    "link": "https://zenn.dev/mashharuki/articles/strands_agent_ts_sdk-1",
+    "pubDate": "Thu, 04 Dec 2025 16:53:24 GMT"
   },
   {
     "site": "Zenn",
-    "title": "朝起きたら、React・Next.js に重大脆弱性が発生！【CVE-2025-55182・66478】",
-    "link": "https://zenn.dev/gymynnym/articles/1ffbae5a18b404",
-    "pubDate": "Thu, 04 Dec 2025 11:48:00 GMT"
+    "title": "【UE5】Antigravityを使ってどんなことができるか試してみた",
+    "link": "https://zenn.dev/daria_nicht/articles/ue-antigravity",
+    "pubDate": "Thu, 04 Dec 2025 15:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について",
+    "link": "https://zenn.dev/satoyoshi/articles/05389491886cac",
+    "pubDate": "Thu, 04 Dec 2025 14:40:11 GMT"
   },
   {
     "site": "Zenn",
@@ -138,28 +156,10 @@
     "pubDate": "Thu, 04 Dec 2025 07:53:15 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "TypeScript 7で消えるtsconfigのレガシー設定。target: es5やbaseUrlにサヨウナラ",
-    "link": "https://zenn.dev/ubie_dev/articles/typescript7-goodbye-legacy",
-    "pubDate": "Thu, 04 Dec 2025 07:33:41 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "MCPサーバーになってみた",
     "link": "https://qiita.com/jugyo/items/12633900df47cecbf5c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-04T06:35:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【npm】11月21日以降にnpm installした人へ - Shai-Hulud感染チェック & 多層防御ガイド",
-    "link": "https://zenn.dev/hand_dot/articles/04542a91bc432e",
-    "pubDate": "Thu, 04 Dec 2025 02:36:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 標準動向 2025年11月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202511",
-    "pubDate": "Thu, 04 Dec 2025 02:33:48 GMT"
   },
   {
     "site": "Qiita",
