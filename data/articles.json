@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "AIデータセンターは迷惑施設　健康不安で怒る米住民、3.8兆円分阻止 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN288RF0Y5A121C2000000/",
+    "pubDate": "2025-12-05T20:13:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "止めずに移行　メルカリの40TB超・50台MySQLからTiDB Cloudへ | PingCAP株式会社",
+    "link": "https://pingcap.co.jp/case-study/mercari-tidb-cloud/",
+    "pubDate": "2025-12-05T16:41:34.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "なぜ日本のSaaSスタートアップは「稼げない」のか ",
     "link": "https://forma.welldirection.jp/posts/japanese-saas-monetization-challenges",
     "pubDate": "2025-12-05T13:21:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "快活CLUB不正アクセスと“天才ハッカー美談”の危うさ──真面目な技術者を傷つける誤った称賛 | おたくま経済新聞",
+    "link": "https://otakuma.net/archives/2025120504.html",
+    "pubDate": "2025-12-05T12:49:04.000Z"
   },
   {
     "site": "Hatena",
@@ -43,27 +61,33 @@
   },
   {
     "site": "Qiita",
-    "title": "MCPサーバーになってみた - Qiita",
-    "link": "https://qiita.com/jugyo/items/12633900df47cecbf5c5",
-    "pubDate": "2025-12-05T02:38:25.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",
     "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T01:53:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【レビュー】 レコーダ難民が、パナソニック「miyotto」使ってみた。納得の実用性で“導入に王手”",
-    "link": "https://av.watch.impress.co.jp/docs/review/review/2067658.html",
-    "pubDate": "2025-12-04T23:47:36.000Z"
+    "site": "Zenn",
+    "title": "React2Shell (CVE-2025-55182) で気付いた React Server Components のセキュリティの盲点",
+    "link": "https://zenn.dev/storehero/articles/15636985eb876c",
+    "pubDate": "Fri, 05 Dec 2025 01:38:14 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "マネージャーは何が楽しくてやれる仕事なの？ - だいくしー(@daiksy)のはてなブログ",
-    "link": "https://daiksy.hatenablog.jp/entry/2025/12/05/081740",
-    "pubDate": "2025-12-04T23:43:15.000Z"
+    "site": "Zenn",
+    "title": "Flutter x Riverpodのアーキテクチャ考察",
+    "link": "https://zenn.dev/st43/articles/ca7feb21500a6c",
+    "pubDate": "Fri, 05 Dec 2025 01:08:23 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "エンジニアに必要な「読解力」とは？ 技術文書を構造化して\"秒\"で理解する技術",
+    "link": "https://zenn.dev/coconala/articles/engineer-reading-skill-structuring",
+    "pubDate": "Fri, 05 Dec 2025 01:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について",
+    "link": "https://zenn.dev/satoyoshi/articles/05389491886cac",
+    "pubDate": "2025-12-05T00:57:42.000Z"
   },
   {
     "site": "Qiita",
@@ -72,10 +96,22 @@
     "pubDate": "2025-12-04T22:05:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "弱者男性だがSora3が出たら身が持たないかもしれない",
-    "link": "https://anond.hatelabo.jp/20251204200000",
-    "pubDate": "2025-12-04T21:26:48.000Z"
+    "site": "Qiita",
+    "title": "入社して1ヶ月を振り返ってみた☺️",
+    "link": "https://qiita.com/k-shiba-chan/items/37766eca4d9157b0c11f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:05:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ID管理と認証(Authn)技術の選定【マルチテナントSaaSにおけるエンジニアリング大全 Day5】",
+    "link": "https://qiita.com/ad-sho-loko/items/6fa7419e51c2978bc8ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:04:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "DBにSQLインジェクションしてみよう",
+    "link": "https://qiita.com/kk333/items/a9e79beaa678a0de8bc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:04:47.000Z"
   },
   {
     "site": "Zenn",
@@ -88,6 +124,12 @@
     "title": "朝起きたら、React・Next.js に重大脆弱性が発生！【CVE-2025-55182・66478】",
     "link": "https://zenn.dev/gymynnym/articles/1ffbae5a18b404",
     "pubDate": "Thu, 04 Dec 2025 11:48:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代におけるQA/テストエンジニアの道を考える",
+    "link": "https://zenn.dev/jam0824/articles/e3fb95122cf3a3",
+    "pubDate": "Thu, 04 Dec 2025 08:49:24 GMT"
   },
   {
     "site": "Zenn",
@@ -114,16 +156,16 @@
     "pubDate": "Thu, 04 Dec 2025 02:36:44 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Web 標準動向 2025年11月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202511",
+    "pubDate": "Thu, 04 Dec 2025 02:33:48 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜",
     "link": "https://qiita.com/drken/items/c853184ad95b9e9fd45d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-04T02:18:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【CBT化】令和８年度以降の応用情報／支援士／高度試験、気を付けたいこと",
-    "link": "https://zenn.dev/agent_grow/articles/b2d23780fec476",
-    "pubDate": "Wed, 03 Dec 2025 23:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -133,50 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "TypeScriptのネイティブ版をさっそく導入したらCIが止まりました",
-    "link": "https://qiita.com/uhyo/items/fa5d885e410323821cae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T22:07:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "システム再起動で起動しなくなった話",
-    "link": "https://qiita.com/zzzzico/items/2f779dd0697eca8abd86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T15:27:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "さくらのAppRun正式版がリリースされる、その前に",
-    "link": "https://zenn.dev/sakura_internet/articles/apprun-cli-20251204",
-    "pubDate": "Wed, 03 Dec 2025 13:57:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "新しくプログラミング言語を作る際に文字列型をどうするべきか",
-    "link": "https://zenn.dev/mod_poppo/articles/strings-for-new-language",
-    "pubDate": "Wed, 03 Dec 2025 13:12:38 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "AI使いすぎで思考力が雑魚になる対策プロンプト-「Thinking Gym」",
     "link": "https://qiita.com/WdknWdkn/items/c67c90d75e7ec942e60c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T05:49:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CTOとして会社に置くと決めた、ありがたい技術書5選",
-    "link": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
-    "pubDate": "Wed, 03 Dec 2025 00:00:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code公式Pluginのすすめ",
-    "link": "https://zenn.dev/modokkin/articles/zenn-2025-12-03-tech-claude-code-plugins",
-    "pubDate": "Tue, 02 Dec 2025 21:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "高校の文化祭の整理券システムを一人で作ったけど問題だらけだった話。",
-    "link": "https://qiita.com/OtakuMoyashi/items/1c1ae9507dcc75b057d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-02T11:59:41.000Z"
   }
 ]
