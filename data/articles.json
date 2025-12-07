@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
-    "title": "人材流出が相次ぐAppleでAppleシリコンの開発を主導したジョニー・スルージが退社を真剣に検討しているとの報道",
-    "link": "https://gigazine.net/news/20251207-johny-srouji-leaving-apple/",
-    "pubDate": "2025-12-07T01:32:11.000Z"
+    "title": "GoでGracefulに停止する定期実行ワーカー - すぎゃーんメモ",
+    "link": "https://memo.sugyan.com/entry/2025/11/25/120405",
+    "pubDate": "2025-12-07T06:27:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "（Linux）大規模基盤のLinux運用で得た知見まとめ - Qiita",
+    "link": "https://qiita.com/tanishi0131/items/f887318c4b78e1473efd",
+    "pubDate": "2025-12-07T06:00:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "本番環境でしか起こらない Goroutines 急増問題と解決までの道のり | メルカリエンジニアリング",
+    "link": "https://engineering.mercari.com/blog/entry/20251207-61e24d343e/",
+    "pubDate": "2025-12-07T01:56:48.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +36,10 @@
     "pubDate": "2025-12-06T19:31:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話",
-    "link": "https://speakerdeck.com/panda728/kodohashang-karaxia-hedu-munoga-fan-tosi-tutashi-ni-si-ichu-sitehosiihua",
-    "pubDate": "2025-12-06T13:15:25.000Z"
+    "site": "Zenn",
+    "title": "松尾研究所データサイエンスチームの組織文化について",
+    "link": "https://zenn.dev/mkj/articles/0138ac9d831689",
+    "pubDate": "Sat, 06 Dec 2025 15:00:28 GMT"
   },
   {
     "site": "Zenn",
@@ -48,34 +60,28 @@
     "pubDate": "2025-12-06T10:28:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Grokが一般人の住所を晒し続ける：AIは“プライバシー”も破壊するのか？ | XenoSpectrum",
-    "link": "https://xenospectrum.com/grok-doxxing-privacy-scandal-elon-musk-safety-failure/",
-    "pubDate": "2025-12-06T09:08:12.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "CodexについにSkillsが来たので徹底解説",
     "link": "https://zenn.dev/aki_think/articles/978556f1652aa6",
     "pubDate": "Sat, 06 Dec 2025 08:55:49 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "コスト削減 - EC2編 - 🚀",
-    "link": "https://qiita.com/ryu_ji_0501/items/93b3e9d63e702ea347d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T05:01:04.000Z"
+    "site": "Zenn",
+    "title": "n8nを用いて社内業務のドラスティックな業務改善を狙おう！ ~導入編~",
+    "link": "https://zenn.dev/ubie_dev/articles/ccd18a2f911706",
+    "pubDate": "2025-12-06T06:00:32.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Luaをコンパイル先とする言語処理系を作る際のTips",
-    "link": "https://zenn.dev/mod_poppo/articles/compiling-to-lua",
-    "pubDate": "Sat, 06 Dec 2025 03:40:16 GMT"
+    "title": "「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話",
+    "link": "https://zenn.dev/panda728/articles/d0b3d9e3404f33",
+    "pubDate": "Sat, 06 Dec 2025 05:33:28 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "タスク管理とは何か｜きゅーい",
-    "link": "https://note.com/kiwiwi/n/nc50d2d9bd3c5",
-    "pubDate": "2025-12-06T03:08:55.000Z"
+    "site": "Qiita",
+    "title": "TypeScript版のStrands Agents×HonoでAgentCore Runtimeへデプロイ！",
+    "link": "https://qiita.com/har1101/items/3cb163cc67d56d0e6417?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T03:27:03.000Z"
   },
   {
     "site": "Qiita",
@@ -103,14 +109,14 @@
   },
   {
     "site": "Zenn",
-    "title": "なぜ \"簡単\" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』",
-    "link": "https://zenn.dev/loglass/articles/6b56dac587f02e",
+    "title": "技術力で殴る前に「問い」を研げ。",
+    "link": "https://zenn.dev/shizumaru/articles/42664815ba973f",
     "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT"
   },
   {
     "site": "Zenn",
-    "title": "技術力で殴る前に「問い」を研げ。",
-    "link": "https://zenn.dev/shizumaru/articles/42664815ba973f",
+    "title": "なぜ \"簡単\" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』",
+    "link": "https://zenn.dev/loglass/articles/6b56dac587f02e",
     "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT"
   },
   {
@@ -138,12 +144,6 @@
     "pubDate": "Fri, 05 Dec 2025 15:00:03 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "セキュリティチェックシート回答生成の自動化に取り組んでいる話 〜RAGと運用改善で実現する効率化〜",
-    "link": "https://zenn.dev/globis/articles/07126d6680b7e3",
-    "pubDate": "Fri, 05 Dec 2025 15:00:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ADサーバーが消えた日",
     "link": "https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -157,26 +157,26 @@
   },
   {
     "site": "Qiita",
+    "title": "“距離感を間違えない”コミュニケーション",
+    "link": "https://qiita.com/KURIeIGHT/items/5e8a857ff54ac1cb9ed1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T03:12:52.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",
     "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T01:53:47.000Z"
   },
   {
     "site": "Qiita",
+    "title": "Claude CodeのコンテキストにUX心理学を与えたら、UI/UXはどう変わるのか",
+    "link": "https://qiita.com/nori0724/items/5c1aa2a5d5327bb68b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-04T22:05:52.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "客先本番環境のNASデータをすべてrmした事件",
     "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-04T22:05:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MCPサーバーになってみた",
-    "link": "https://qiita.com/jugyo/items/12633900df47cecbf5c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-04T06:35:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【3.14対応】Pythonをいろんな意味で高速化する個人的TIPS30選",
-    "link": "https://qiita.com/nukipei/items/cb095dcc167a7673294c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T22:26:48.000Z"
   }
 ]
