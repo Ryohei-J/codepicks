@@ -1,21 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "ChatGPTとGeminiに「おにぎり」の話でトークさせたら一生止まらなかった、最後はAI同士で機械語で語り合うかもしれない",
+    "link": "https://togetter.com/li/2636146",
+    "pubDate": "2025-12-06T19:31:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話",
+    "link": "https://speakerdeck.com/panda728/kodohashang-karaxia-hedu-munoga-fan-tosi-tutashi-ni-si-ichu-sitehosiihua",
+    "pubDate": "2025-12-06T13:15:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "情シスの休日：個人ホームページを WordPress から Hugo + AWS へ移行して、コストを 1/100 にした話",
+    "link": "https://zenn.dev/shimosyan/articles/f9c35cb3736b25",
+    "pubDate": "2025-12-06T12:37:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大阪市平野区の高校２年の男子生徒（１７）について",
+    "link": "https://anond.hatelabo.jp/20251206202018",
+    "pubDate": "2025-12-06T11:30:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ヨドバシ通販は「高還元率で偽物リスク低い」──コレが“脱Amazon”した人の本音か",
     "link": "https://www.itmedia.co.jp/mobile/articles/2512/06/news029.html",
     "pubDate": "2025-12-06T10:28:30.000Z"
   },
   {
     "site": "Hatena",
-    "title": "WindowsのドライブレターはA～Z以外も実は使える",
-    "link": "https://gigazine.net/news/20251206-windows-drive-letters/",
-    "pubDate": "2025-12-06T08:10:05.000Z"
+    "title": "Grokが一般人の住所を晒し続ける：AIは“プライバシー”も破壊するのか？ | XenoSpectrum",
+    "link": "https://xenospectrum.com/grok-doxxing-privacy-scandal-elon-musk-safety-failure/",
+    "pubDate": "2025-12-06T09:08:12.000Z"
   },
   {
     "site": "Zenn",
-    "title": "技術力で殴る前に「問い」を研げ。",
-    "link": "https://zenn.dev/shizumaru/articles/42664815ba973f",
-    "pubDate": "2025-12-06T07:13:00.000Z"
+    "title": "CodexについにSkillsが来たので徹底解説",
+    "link": "https://zenn.dev/aki_think/articles/978556f1652aa6",
+    "pubDate": "Sat, 06 Dec 2025 08:55:49 GMT"
   },
   {
     "site": "Qiita",
@@ -36,10 +60,16 @@
     "pubDate": "2025-12-06T03:08:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "突撃！隣のリモート・オフィス環境 2025 - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/remote-2025",
-    "pubDate": "2025-12-06T01:13:49.000Z"
+    "site": "Qiita",
+    "title": "ADサーバーが消えた日 - Qiita",
+    "link": "https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2",
+    "pubDate": "2025-12-06T02:21:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
+    "link": "https://qiita.com/Shiro_Shihi/items/1891c34595c9eff665f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T02:14:12.000Z"
   },
   {
     "site": "Zenn",
@@ -48,16 +78,22 @@
     "pubDate": "2025-12-06T00:59:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Kodakの超小型カメラ「Charmera」が楽しい　毎日の記録にちょうどいい【いつモノコト】",
-    "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2067229.html",
-    "pubDate": "2025-12-06T00:48:46.000Z"
+    "site": "Qiita",
+    "title": "サービスの本番データベースを吹き飛ばした話",
+    "link": "https://qiita.com/tampopo256/items/601dc79677fabb0a23d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T22:08:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "無料の「Affinity」は“Adobe税”に苦しむデジカメ民を救えるか？　節税にはなるかも",
-    "link": "https://www.itmedia.co.jp/news/articles/2512/06/news023.html",
-    "pubDate": "2025-12-06T00:06:12.000Z"
+    "site": "Qiita",
+    "title": "2025年 社内Power BI普及活動について",
+    "link": "https://qiita.com/tsukapon/items/0b50f24f254f230c827b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-05T22:03:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜ \"簡単\" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』",
+    "link": "https://zenn.dev/loglass/articles/6b56dac587f02e",
+    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT"
   },
   {
     "site": "Zenn",
@@ -67,21 +103,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Physical AIに向けて：Robotic World Model (RWM)",
-    "link": "https://zenn.dev/cybernetics/articles/2bad5339dd9508",
-    "pubDate": "Fri, 05 Dec 2025 20:26:44 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "止めずに移行　メルカリの40TB超・50台MySQLからTiDB Cloudへ | PingCAP株式会社",
-    "link": "https://pingcap.co.jp/case-study/mercari-tidb-cloud/",
-    "pubDate": "2025-12-05T16:41:34.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "Tailscaleを利用して開発環境を整える",
     "link": "https://zenn.dev/chamafoobar/articles/8ccdb552ef0acf",
     "pubDate": "Fri, 05 Dec 2025 16:08:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RAGを自分で実装したくなったらまずこれ見て【ruri-v3 × Faiss】",
+    "link": "https://zenn.dev/livetoon/articles/b273cdfc07c55c",
+    "pubDate": "Fri, 05 Dec 2025 15:27:23 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "情シスの休日：個人ホームページを WordPress から Hugo + AWS へ移行して、コストを 1/100 にした話",
+    "link": "https://zenn.dev/shimosyan/articles/f9c35cb3736b25",
+    "pubDate": "Fri, 05 Dec 2025 15:21:10 GMT"
   },
   {
     "site": "Zenn",
@@ -109,15 +145,15 @@
   },
   {
     "site": "Qiita",
-    "title": "序章：コスト削減 - コストと戦う未来の僕へ -",
-    "link": "https://qiita.com/ryu_ji_0501/items/a04bf2de7ac898b678fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T12:49:21.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "「新しい相関係数」について",
     "link": "https://qiita.com/Islay_tr/items/dd427ba86ba11bd25626?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T10:47:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "n8nを用いて社内業務のドラスティックな業務改善を狙おう！ ~導入編~",
+    "link": "https://zenn.dev/ubie_dev/articles/ccd18a2f911706",
+    "pubDate": "Fri, 05 Dec 2025 09:17:22 GMT"
   },
   {
     "site": "Qiita",
@@ -126,34 +162,10 @@
     "pubDate": "2025-12-05T01:53:47.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "React2Shell (CVE-2025-55182) で気付いた React Server Components のセキュリティの盲点",
-    "link": "https://zenn.dev/storehero/articles/15636985eb876c",
-    "pubDate": "Fri, 05 Dec 2025 01:38:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Flutter x Riverpodのアーキテクチャ考察",
-    "link": "https://zenn.dev/st43/articles/ca7feb21500a6c",
-    "pubDate": "Fri, 05 Dec 2025 01:08:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニアに必要な「読解力」とは？ 技術文書を構造化して\"秒\"で理解する技術",
-    "link": "https://zenn.dev/coconala/articles/engineer-reading-skill-structuring",
-    "pubDate": "Fri, 05 Dec 2025 01:00:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "客先本番環境のNASデータをすべてrmした事件",
     "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-04T22:05:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScript開発者待望？！ Strands Agents TypeScript SDKを試してみた！",
-    "link": "https://zenn.dev/mashharuki/articles/strands_agent_ts_sdk-1",
-    "pubDate": "Thu, 04 Dec 2025 16:53:24 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜",
-    "link": "https://qiita.com/drken/items/c853184ad95b9e9fd45d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-04T02:18:31.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【3.14対応】Pythonをいろんな意味で高速化する個人的TIPS30選",
     "link": "https://qiita.com/nukipei/items/cb095dcc167a7673294c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-03T22:26:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "TypeScriptのネイティブ版をさっそく導入したらCIが止まりました",
-    "link": "https://qiita.com/uhyo/items/fa5d885e410323821cae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-03T22:07:53.000Z"
   }
 ]
