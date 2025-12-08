@@ -1,9 +1,33 @@
 [
   {
+    "site": "Hatena",
+    "title": "PC大手3社が悲鳴、DRAM枯渇で値上げラッシュへ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2069374.html",
+    "pubDate": "2025-12-08T05:16:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
+    "link": "https://qiita.com/watanabe_masaru/items/a37506c1acda0307d8aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T04:34:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トイレに装着し健康状態を分析するIoTデバイス、説明していたエンドツーエンド暗号化なしで写真を送信か【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2069339.html",
+    "pubDate": "2025-12-08T04:17:28.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "実践フルAIコーディング",
     "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
     "pubDate": "2025-12-08T02:58:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スキルと業務を体系的に引き継ぐ全手順。余裕が無いときの応急措置も【パウリ】 | レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/column/detail_765/",
+    "pubDate": "2025-12-08T01:21:00.000Z"
   },
   {
     "site": "Hatena",
@@ -36,10 +60,10 @@
     "pubDate": "2025-12-07T22:41:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代は哲学専攻ひっぱりだこ？　LinkedIn肩書に「倫理」5年で6倍 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC04A660U5A101C2000000/",
-    "pubDate": "2025-12-07T19:29:04.000Z"
+    "site": "Qiita",
+    "title": "AWS認定クラウドプラクティショナー　コツとコツコツと",
+    "link": "https://qiita.com/hidesuke4129/items/1fe863acf94658519fd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-07T22:03:47.000Z"
   },
   {
     "site": "Zenn",
@@ -48,28 +72,28 @@
     "pubDate": "Sun, 07 Dec 2025 15:00:03 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "YouTubeプレミアムを14％オフの月額1100円で契約できる、Google Oneプレミアムプラン利用者向けアドオンが日本で提供開始。2TBのクラウドストレージや広告なしの視聴などの特典を、それぞれ個別で契約するよりもお得に利用可能",
-    "link": "https://news.denfaminicogamer.jp/news/251207f",
-    "pubDate": "2025-12-07T14:33:10.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ターミナルでメモ管理 (Neovim, nb, zeno.zsh)",
     "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-info-management",
     "pubDate": "Sun, 07 Dec 2025 14:26:37 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "Qiita APIを使ってアドベントカレンダーを盛り上げてみた　2025年Claude Codeを使って",
+    "link": "https://qiita.com/sapi_kawahara/items/b3c3e18068742d89893c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-07T14:00:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeで開発するシステムエンジニアの日常",
+    "link": "https://qiita.com/toyafone/items/5577d13615d31d85245c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-07T13:31:50.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "mizchi/js.mbt で TS の代わりに Moonbit を書く",
     "link": "https://zenn.dev/mizchi/articles/introduce-mizchi-js",
     "pubDate": "Sun, 07 Dec 2025 13:07:41 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発",
-    "link": "https://note.com/light_liger1051/n/nd499ebc2d96a",
-    "pubDate": "2025-12-07T12:45:11.000Z"
   },
   {
     "site": "Zenn",
@@ -90,16 +114,22 @@
     "pubDate": "Sun, 07 Dec 2025 07:52:27 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "（Linux）大規模基盤のLinux運用で得た知見まとめ - Qiita",
-    "link": "https://qiita.com/tanishi0131/items/f887318c4b78e1473efd",
-    "pubDate": "2025-12-07T06:00:01.000Z"
+    "site": "Hatena",
+    "title": "Nano Banana Proで遊ぼう！公開プロンプトまとめ（2025年12月5日のAIイラスト）｜てんねん｜AIイラストクリエイター",
+    "link": "https://note.com/munou_ac/n/n43c1328e5ae8",
+    "pubDate": "2025-12-07T02:03:53.000Z"
   },
   {
     "site": "Qiita",
-    "title": "完了したと思っていたリプレイスに、ひそんでいた見落とし",
-    "link": "https://qiita.com/katokonigiry/items/59288f82042ae2741791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T17:40:02.000Z"
+    "title": "【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた",
+    "link": "https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T22:04:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "もう手動編集しない！GitHubラベルをファイル管理＆自動更新してみた",
+    "link": "https://qiita.com/hirotask/items/ad600ef69afdc007b503?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T22:04:15.000Z"
   },
   {
     "site": "Qiita",
@@ -139,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "2025年 社内Power BI普及活動について",
-    "link": "https://qiita.com/tsukapon/items/0b50f24f254f230c827b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T22:03:59.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "ADサーバーが消えた日",
     "link": "https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T14:30:43.000Z"
@@ -154,29 +178,5 @@
     "title": "「新しい相関係数」について",
     "link": "https://qiita.com/Islay_tr/items/dd427ba86ba11bd25626?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T10:47:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "たった1行のSELECT文でシステムを停止しかけた話",
-    "link": "https://qiita.com/shota0616/items/8fb4af919e758cca505e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T04:51:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "元上司が「IEEE」を「イェ～～」と呼んでいた件と、IT業界の初見殺し単語帳",
-    "link": "https://qiita.com/Shiro_Shihi/items/5cec24f4a67cc49dfb0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T01:53:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeのコンテキストにUX心理学を与えたら、UI/UXはどう変わるのか",
-    "link": "https://qiita.com/nori0724/items/5c1aa2a5d5327bb68b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-04T22:05:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "客先本番環境のNASデータをすべてrmした事件",
-    "link": "https://qiita.com/iikaiki/items/6882d91b92064cebb352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-04T22:05:28.000Z"
   }
 ]
