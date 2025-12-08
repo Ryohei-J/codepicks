@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "実践フルAIコーディング",
+    "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
+    "pubDate": "2025-12-08T02:58:28.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "スクラムマスターとしてのファシリテーションスキルをAIで爆上げするテクニック - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/scrum-master-as-a-facilitator",
-    "pubDate": "2025-12-08T00:01:15.000Z"
+    "title": "【特集】 Micronが捨てるコンシューマ向けメモリ/SSD事業。Crucialブランドはなぜ潰えるのか？",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2069270.html",
+    "pubDate": "2025-12-08T00:17:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "エンジニア出身PMが一次請けで失敗しまくった話",
+    "link": "https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55",
+    "pubDate": "2025-12-08T00:07:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「アサヒがファイアウォールではなくFAXに救われた事実を考えよ」――キンドリル、サイバーレジリエンスの重要性を強調",
+    "link": "https://cloud.watch.impress.co.jp/docs/news/2069244.html",
+    "pubDate": "2025-12-08T00:02:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "実在感が恐ろしいレベル　画像生成AIの常識をひっくり返した「Nano Banana Pro」 (1/4)",
+    "link": "https://ascii.jp/elem/000/004/358/4358014/",
+    "pubDate": "2025-12-07T23:52:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグル検索が目指すものと、それでは見つからない個人サイトについて。 - 世界のねじを巻くブログ",
+    "link": "https://www.nejimakiblog.com/entry/kojin-site-blog-google-search-eeat",
+    "pubDate": "2025-12-07T22:41:21.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +42,28 @@
     "pubDate": "2025-12-07T19:29:04.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "誰でも作れる Nostr リレーサーバの作り方",
+    "link": "https://zenn.dev/mattn/articles/a1a67af88394b4",
+    "pubDate": "Sun, 07 Dec 2025 15:00:03 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "YouTubeプレミアムを14％オフの月額1100円で契約できる、Google Oneプレミアムプラン利用者向けアドオンが日本で提供開始。それぞれ個別で契約するよりもお得に、2TBのクラウドストレージや広告なしの視聴などの特典を利用可能にそれぞれ個別で契約するよりもお得に、2TBのクラウドストレージや広告なしの視聴などの特典を利用可能に",
+    "title": "YouTubeプレミアムを14％オフの月額1100円で契約できる、Google Oneプレミアムプラン利用者向けアドオンが日本で提供開始。2TBのクラウドストレージや広告なしの視聴などの特典を、それぞれ個別で契約するよりもお得に利用可能",
     "link": "https://news.denfaminicogamer.jp/news/251207f",
     "pubDate": "2025-12-07T14:33:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ターミナルでメモ管理 (Neovim, nb, zeno.zsh)",
+    "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-info-management",
+    "pubDate": "Sun, 07 Dec 2025 14:26:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "mizchi/js.mbt で TS の代わりに Moonbit を書く",
+    "link": "https://zenn.dev/mizchi/articles/introduce-mizchi-js",
+    "pubDate": "Sun, 07 Dec 2025 13:07:41 GMT"
   },
   {
     "site": "Hatena",
@@ -24,22 +72,16 @@
     "pubDate": "2025-12-07T12:45:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "『先に席をお取りください』の店は頼むから席をキープする手段ぐらい用意しといてほしい「店のシステムが客の善意前提で成り立ってるのはどうなのって」",
-    "link": "https://togetter.com/li/2636421",
-    "pubDate": "2025-12-07T12:31:42.000Z"
+    "site": "Zenn",
+    "title": "エンジニア出身PMが一次請けで失敗しまくった話",
+    "link": "https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55",
+    "pubDate": "Sun, 07 Dec 2025 11:21:31 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "SQLアンチパターンを根本から理解する：実務で遭遇した“DBが泣く”5つのNGクエリと改善策 - Qiita",
-    "link": "https://qiita.com/Shiro_Shihi/items/b1b582c4528c5dd802f5",
-    "pubDate": "2025-12-07T10:12:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "たった1行のSELECT文でシステムを停止しかけた話 - Qiita",
-    "link": "https://qiita.com/shota0616/items/8fb4af919e758cca505e",
-    "pubDate": "2025-12-07T09:49:03.000Z"
+    "site": "Zenn",
+    "title": "Compound Componentsで実現する「引き算のUI設計」",
+    "link": "https://zenn.dev/tsuboi/articles/d922a3e8c5f53e",
+    "pubDate": "Sun, 07 Dec 2025 10:26:46 GMT"
   },
   {
     "site": "Zenn",
@@ -52,18 +94,6 @@
     "title": "（Linux）大規模基盤のLinux運用で得た知見まとめ - Qiita",
     "link": "https://qiita.com/tanishi0131/items/f887318c4b78e1473efd",
     "pubDate": "2025-12-07T06:00:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「私たちのログ配送、コストかかりすぎ？」fluentdのログ配送に関するコスト削減に取り組んだお話 - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/cost-down-fluentd",
-    "pubDate": "2025-12-07T02:21:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "大LLM時代に論文を読む/まとめるならカスタムGPTで",
-    "link": "https://zenn.dev/zozotech/articles/17a56e85d43529",
-    "pubDate": "Sat, 06 Dec 2025 22:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -102,24 +132,6 @@
     "pubDate": "Sat, 06 Dec 2025 08:55:49 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「コードは上から下へ読むのが一番」と思った時に、思い出してほしい話",
-    "link": "https://zenn.dev/panda728/articles/d0b3d9e3404f33",
-    "pubDate": "Sat, 06 Dec 2025 05:33:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMのプロダクト利用とAI破産を回避する運用体制",
-    "link": "https://zenn.dev/ivry/articles/databricks-ai-query-cost-management",
-    "pubDate": "Sat, 06 Dec 2025 03:04:14 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "49歳と53歳で転職した元ソフトウェアエンジニアの紆余曲折 - Qiita",
-    "link": "https://qiita.com/segavvy/items/a39c75a2eba932585af0",
-    "pubDate": "2025-12-06T02:20:53.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
     "link": "https://qiita.com/Shiro_Shihi/items/1891c34595c9eff665f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -130,18 +142,6 @@
     "title": "2025年 社内Power BI普及活動について",
     "link": "https://qiita.com/tsukapon/items/0b50f24f254f230c827b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-05T22:03:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "技術力で殴る前に「問い」を研げ。",
-    "link": "https://zenn.dev/shizumaru/articles/42664815ba973f",
-    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ \"簡単\" なコードが複雑になるのか 〜 AI時代に読み直す『Simple Made Easy』",
-    "link": "https://zenn.dev/loglass/articles/6b56dac587f02e",
-    "pubDate": "Fri, 05 Dec 2025 22:00:03 GMT"
   },
   {
     "site": "Qiita",
