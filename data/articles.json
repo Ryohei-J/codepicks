@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "良いドキュメントは、伝えたいことを、最も削ぎ落とした文章で伝える - $shibayu36->blog;",
+    "link": "https://blog.shibayu36.org/entry/2025/12/08/170000",
+    "pubDate": "2025-12-08T08:15:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "文字も図解も思いのまま！Nano Banana Pro の凄さと、今すぐ使える活用術｜Gemini - Google の AI",
+    "link": "https://note.com/google_gemini/n/n064d03afe2c0",
+    "pubDate": "2025-12-08T06:10:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "PC大手3社が悲鳴、DRAM枯渇で値上げラッシュへ",
     "link": "https://pc.watch.impress.co.jp/docs/news/2069374.html",
     "pubDate": "2025-12-08T05:16:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「MIDI」デバイスに必要なもの一式をつめた「Windows MIDI Services」、単体リリース",
+    "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2069333.html",
+    "pubDate": "2025-12-08T04:48:44.000Z"
   },
   {
     "site": "Qiita",
@@ -24,16 +42,10 @@
     "pubDate": "2025-12-08T02:58:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スキルと業務を体系的に引き継ぐ全手順。余裕が無いときの応急措置も【パウリ】 | レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/column/detail_765/",
-    "pubDate": "2025-12-08T01:21:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 Micronが捨てるコンシューマ向けメモリ/SSD事業。Crucialブランドはなぜ潰えるのか？",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2069270.html",
-    "pubDate": "2025-12-08T00:17:02.000Z"
+    "site": "Zenn",
+    "title": "実践フルAIコーディング",
+    "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
+    "pubDate": "Mon, 08 Dec 2025 02:11:42 GMT"
   },
   {
     "site": "Zenn",
@@ -54,12 +66,6 @@
     "pubDate": "2025-12-07T23:52:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグル検索が目指すものと、それでは見つからない個人サイトについて。 - 世界のねじを巻くブログ",
-    "link": "https://www.nejimakiblog.com/entry/kojin-site-blog-google-search-eeat",
-    "pubDate": "2025-12-07T22:41:21.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWS認定クラウドプラクティショナー　コツとコツコツと",
     "link": "https://qiita.com/hidesuke4129/items/1fe863acf94658519fd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -67,9 +73,21 @@
   },
   {
     "site": "Zenn",
+    "title": "検証用お手軽ActiveDirectory環境をぽちぽちつくろう",
+    "link": "https://zenn.dev/ochandayo/articles/8f6ce02ccce94b",
+    "pubDate": "Sun, 07 Dec 2025 15:45:18 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "誰でも作れる Nostr リレーサーバの作り方",
     "link": "https://zenn.dev/mattn/articles/a1a67af88394b4",
     "pubDate": "Sun, 07 Dec 2025 15:00:03 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "世界で一番詳しい！ ElastiCache Serverless for Valkey を約1年実際に運用してわかったポイント",
+    "link": "https://zenn.dev/applibot_tech/articles/c8216b0bd61b2d",
+    "pubDate": "Sun, 07 Dec 2025 14:57:30 GMT"
   },
   {
     "site": "Zenn",
@@ -109,6 +127,12 @@
   },
   {
     "site": "Zenn",
+    "title": "GitHub Copilot はサポートエンジニアこそが使い倒すべき！",
+    "link": "https://zenn.dev/microsoft/articles/12aa44e8a42fd7",
+    "pubDate": "Sun, 07 Dec 2025 10:14:00 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "息子さんのOSSの為に死亡証明書を下さい",
     "link": "https://zenn.dev/livetoon/articles/oss_death_or_alive",
     "pubDate": "Sun, 07 Dec 2025 07:52:27 GMT"
@@ -136,30 +160,6 @@
     "title": "SQLアンチパターンを根本から理解する：実務で遭遇した“DBが泣く”5つのNGクエリと改善策",
     "link": "https://qiita.com/Shiro_Shihi/items/b1b582c4528c5dd802f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-06T15:54:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "結局なぜRCEが発生するのか？react2shell PoC研究レポート (途中)",
-    "link": "https://zenn.dev/calloc134/articles/poc-report-for-personal",
-    "pubDate": "Sat, 06 Dec 2025 12:31:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "8GBメモリでローカルLLMを動かす",
-    "link": "https://zenn.dev/kokoa0429/articles/e515ff57d56cc0",
-    "pubDate": "Sat, 06 Dec 2025 12:17:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CIでやりたい最低限のNodeセキュリティ対策",
-    "link": "https://zenn.dev/nislab/articles/typescript-security",
-    "pubDate": "Sat, 06 Dec 2025 09:06:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CodexについにSkillsが来たので徹底解説",
-    "link": "https://zenn.dev/aki_think/articles/978556f1652aa6",
-    "pubDate": "Sat, 06 Dec 2025 08:55:49 GMT"
   },
   {
     "site": "Qiita",
