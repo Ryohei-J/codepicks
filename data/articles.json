@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "sudoをパスワードレス認証で使いたい | IIJ Engineers Blog",
+    "link": "https://eng-blog.iij.ad.jp/archives/33282",
+    "pubDate": "2025-12-09T00:48:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "モーダルが開いている間、その下のページが連鎖してスクロールしてしまうのを回避するCSSの新しいテクニック",
+    "link": "https://coliss.com/articles/build-websites/operation/work/how-to-avoid-scroll-chaining-with-css.html",
+    "pubDate": "2025-12-09T00:17:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cap'n Webについて",
+    "link": "https://zenn.dev/yusukebe/articles/3c18e280eaa490",
+    "pubDate": "Tue, 09 Dec 2025 00:03:58 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "愚かな人間の都合など完全無視、LLMのための高効率プログラミング言語「Sui」（粋）／AIが正確に、安く実行できることを最優先【やじうまの杜】",
     "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2069573.html",
     "pubDate": "2025-12-08T23:03:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Node.js のコンパイルキャッシュで Cloud Run のコールドスタートを速くする",
+    "link": "https://zenn.dev/bitkey_dev/articles/nodejs-compile-cache",
+    "pubDate": "Mon, 08 Dec 2025 15:00:12 GMT"
   },
   {
     "site": "Hatena",
@@ -31,7 +55,7 @@
   },
   {
     "site": "Zenn",
-    "title": "え？まだ \"vite\" 使ってるの？ バンドラー 2025 まとめ",
+    "title": "バンドラー 2025 まとめ | まだ \"vite\" 使ってるの？",
     "link": "https://zenn.dev/nakasyou/articles/give_up_vite",
     "pubDate": "Mon, 08 Dec 2025 13:08:35 GMT"
   },
@@ -46,12 +70,6 @@
     "title": "グーグル、「アカウント乗っ取り」防御を呼びかけ――今すぐChromeのこの設定を変更せよ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "link": "https://forbesjapan.com/articles/detail/86589",
     "pubDate": "2025-12-08T10:00:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "良いドキュメントは、伝えたいことを、最も削ぎ落とした文章で伝える - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2025/12/08/170000",
-    "pubDate": "2025-12-08T08:15:48.000Z"
   },
   {
     "site": "Hatena",
@@ -85,6 +103,12 @@
   },
   {
     "site": "Zenn",
+    "title": "「その処理、本当に並列ですか？」Node.js, Python, Ruby, Goで踏み抜くCPUバウンドの罠",
+    "link": "https://zenn.dev/hacobell_dev/articles/learning-multithreading-in-several-languages",
+    "pubDate": "Mon, 08 Dec 2025 00:30:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "美しいLinuxデスクトップで開発をしませんか？",
     "link": "https://zenn.dev/kiku_sui/articles/31e599360be2db",
     "pubDate": "Mon, 08 Dec 2025 00:00:02 GMT"
@@ -109,21 +133,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Go 1.26で生まれ変わるimage/jpegパッケージ",
+    "link": "https://zenn.dev/koya_iwamura/articles/c47b41bd7459a7",
+    "pubDate": "Sun, 07 Dec 2025 15:20:39 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "誰でも作れる Nostr リレーサーバの作り方",
     "link": "https://zenn.dev/mattn/articles/a1a67af88394b4",
     "pubDate": "Sun, 07 Dec 2025 15:00:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "世界で一番詳しい！ ElastiCache Serverless for Valkey を約1年実際に運用してわかったポイント",
-    "link": "https://zenn.dev/applibot_tech/articles/c8216b0bd61b2d",
-    "pubDate": "Sun, 07 Dec 2025 14:57:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ターミナルでメモ管理 (Neovim, nb, zeno.zsh)",
-    "link": "https://zenn.dev/mozumasu/articles/mozumasu-cli-info-management",
-    "pubDate": "Sun, 07 Dec 2025 14:26:37 GMT"
   },
   {
     "site": "Qiita",
@@ -136,18 +154,6 @@
     "title": "Claude Codeで開発するシステムエンジニアの日常",
     "link": "https://qiita.com/toyafone/items/5577d13615d31d85245c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-07T13:31:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニア出身PMが一次請けで失敗しまくった話",
-    "link": "https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55",
-    "pubDate": "Sun, 07 Dec 2025 11:21:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Compound Componentsで実現する「引き算のUI設計」",
-    "link": "https://zenn.dev/tsuboi/articles/d922a3e8c5f53e",
-    "pubDate": "Sun, 07 Dec 2025 10:26:46 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
     "link": "https://qiita.com/Shiro_Shihi/items/1891c34595c9eff665f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-06T02:14:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【厳選】もう戻れない！2025年版 快適すぎる開発スタック 10選 - Qiita",
-    "link": "https://qiita.com/curry__30/items/cdf4f1811de62fa986de",
-    "pubDate": "2025-12-04T23:43:36.000Z"
   }
 ]
