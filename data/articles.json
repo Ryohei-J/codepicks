@@ -1,6 +1,54 @@
 [
   {
     "site": "Hatena",
+    "title": "愚かな人間の都合など完全無視、LLMのための高効率プログラミング言語「Sui」（粋）／AIが正確に、安く実行できることを最優先【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2069573.html",
+    "pubDate": "2025-12-08T23:03:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Background Fetch API が消えそうだった話 | blog.jxck.io",
+    "link": "https://blog.jxck.io/entries/2025-12-08/deprecating-background-fetch.html",
+    "pubDate": "2025-12-08T14:44:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "戦闘機「F-35」にはC++の特殊ルール適用版が使われており例外処理や再帰関数が禁止されている",
+    "link": "https://gigazine.net/news/20251208-f-35-cpp-jsf-standards/",
+    "pubDate": "2025-12-08T14:07:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "不適切なブログ記事公開に関するお詫びと今後の対応について｜株式会社SmartHR",
+    "link": "https://smarthr.co.jp/news/info/20251208/",
+    "pubDate": "2025-12-08T13:38:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "チンパンジーが配属されてきたら、あなたはどうマネジメントする？ - Qiita",
+    "link": "https://web.archive.org/web/20251208110539/https://qiita.com/jesus_isao/items/29b878e137f46c675d89",
+    "pubDate": "2025-12-08T13:12:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "え？まだ \"vite\" 使ってるの？ バンドラー 2025 まとめ",
+    "link": "https://zenn.dev/nakasyou/articles/give_up_vite",
+    "pubDate": "Mon, 08 Dec 2025 13:08:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "低レイヤー開発者が注目すべきRustのアップデート 2025年版",
+    "link": "https://zenn.dev/garasubo/articles/cfcf8bb6a16dca",
+    "pubDate": "Mon, 08 Dec 2025 11:30:37 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグル、「アカウント乗っ取り」防御を呼びかけ――今すぐChromeのこの設定を変更せよ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/86589",
+    "pubDate": "2025-12-08T10:00:49.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "良いドキュメントは、伝えたいことを、最も削ぎ落とした文章で伝える - $shibayu36->blog;",
     "link": "https://blog.shibayu36.org/entry/2025/12/08/170000",
     "pubDate": "2025-12-08T08:15:48.000Z"
@@ -12,16 +60,10 @@
     "pubDate": "2025-12-08T06:10:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "PC大手3社が悲鳴、DRAM枯渇で値上げラッシュへ",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2069374.html",
-    "pubDate": "2025-12-08T05:16:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「MIDI」デバイスに必要なもの一式をつめた「Windows MIDI Services」、単体リリース",
-    "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2069333.html",
-    "pubDate": "2025-12-08T04:48:44.000Z"
+    "site": "Zenn",
+    "title": "検証用お手軽ActiveDirectory環境をぽちぽちつくろう",
+    "link": "https://zenn.dev/ochandayo/articles/8f6ce02ccce94b",
+    "pubDate": "2025-12-08T05:04:20.000Z"
   },
   {
     "site": "Qiita",
@@ -30,40 +72,28 @@
     "pubDate": "2025-12-08T04:34:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "トイレに装着し健康状態を分析するIoTデバイス、説明していたエンドツーエンド暗号化なしで写真を送信か【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2069339.html",
-    "pubDate": "2025-12-08T04:17:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "実践フルAIコーディング",
-    "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
-    "pubDate": "2025-12-08T02:58:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "実践フルAIコーディング",
     "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
     "pubDate": "Mon, 08 Dec 2025 02:11:42 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "QA任せにしない、開発者みんなで品質を支えるテスト戦略設計",
+    "link": "https://qiita.com/_mi/items/28619f24a6fa74ad427f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T01:03:01.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "エンジニア出身PMが一次請けで失敗しまくった話",
-    "link": "https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55",
-    "pubDate": "2025-12-08T00:07:57.000Z"
+    "title": "美しいLinuxデスクトップで開発をしませんか？",
+    "link": "https://zenn.dev/kiku_sui/articles/31e599360be2db",
+    "pubDate": "Mon, 08 Dec 2025 00:00:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「アサヒがファイアウォールではなくFAXに救われた事実を考えよ」――キンドリル、サイバーレジリエンスの重要性を強調",
-    "link": "https://cloud.watch.impress.co.jp/docs/news/2069244.html",
-    "pubDate": "2025-12-08T00:02:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "実在感が恐ろしいレベル　画像生成AIの常識をひっくり返した「Nano Banana Pro」 (1/4)",
-    "link": "https://ascii.jp/elem/000/004/358/4358014/",
-    "pubDate": "2025-12-07T23:52:27.000Z"
+    "site": "Qiita",
+    "title": "Docker Desktop から Docker Engine へ移行したら、LocalStack の Lambda が動かなくなった話",
+    "link": "https://qiita.com/rkondo08/items/29cbeac6f216ff74ea50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-07T22:08:06.000Z"
   },
   {
     "site": "Qiita",
@@ -109,12 +139,6 @@
   },
   {
     "site": "Zenn",
-    "title": "mizchi/js.mbt で TS の代わりに Moonbit を書く",
-    "link": "https://zenn.dev/mizchi/articles/introduce-mizchi-js",
-    "pubDate": "Sun, 07 Dec 2025 13:07:41 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "エンジニア出身PMが一次請けで失敗しまくった話",
     "link": "https://zenn.dev/xxpiyomaruxx/articles/61699e48f45a55",
     "pubDate": "Sun, 07 Dec 2025 11:21:31 GMT"
@@ -126,24 +150,6 @@
     "pubDate": "Sun, 07 Dec 2025 10:26:46 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub Copilot はサポートエンジニアこそが使い倒すべき！",
-    "link": "https://zenn.dev/microsoft/articles/12aa44e8a42fd7",
-    "pubDate": "Sun, 07 Dec 2025 10:14:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "息子さんのOSSの為に死亡証明書を下さい",
-    "link": "https://zenn.dev/livetoon/articles/oss_death_or_alive",
-    "pubDate": "Sun, 07 Dec 2025 07:52:27 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Nano Banana Proで遊ぼう！公開プロンプトまとめ（2025年12月5日のAIイラスト）｜てんねん｜AIイラストクリエイター",
-    "link": "https://note.com/munou_ac/n/n43c1328e5ae8",
-    "pubDate": "2025-12-07T02:03:53.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた",
     "link": "https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -151,9 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "もう手動編集しない！GitHubラベルをファイル管理＆自動更新してみた",
-    "link": "https://qiita.com/hirotask/items/ad600ef69afdc007b503?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T22:04:15.000Z"
+    "title": "【圏論×AI×認知科学】村上春樹「ノルウェーの森」をLLMで形式化してみた",
+    "link": "https://qiita.com/10long/items/a010030eb0060f52b55b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T22:03:29.000Z"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "ADサーバーが消えた日",
-    "link": "https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T14:30:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「新しい相関係数」について",
-    "link": "https://qiita.com/Islay_tr/items/dd427ba86ba11bd25626?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-05T10:47:06.000Z"
+    "title": "【厳選】もう戻れない！2025年版 快適すぎる開発スタック 10選 - Qiita",
+    "link": "https://qiita.com/curry__30/items/cdf4f1811de62fa986de",
+    "pubDate": "2025-12-04T23:43:36.000Z"
   }
 ]
