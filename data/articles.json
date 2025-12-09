@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "家買った - がんばるぞ",
+    "link": "https://y-ahiru.hatenadiary.jp/entry/2025/12/09/090000",
+    "pubDate": "2025-12-09T07:34:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Webサイトを作るように紙パックを企画したら300万本売れるヒット作になった話 ～UX視点で見る『ミルクの束縛』～ - KAYAC Engineers' Blog",
+    "link": "https://techblog.kayac.com/2025/12/09/153907",
+    "pubDate": "2025-12-09T06:43:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「チンパンジーが配属されてきたら」問題は、なぜ「誤読」ではないのか──HRTechが踏まえるべき国際的な倫理ライン｜株式会社 七夕研究所",
+    "link": "https://note.com/tanabata_lab/n/nfb68295ce7d7",
+    "pubDate": "2025-12-09T05:20:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "新しい相関係数の理論的性質",
+    "link": "https://zenn.dev/falconnnmmm/articles/4eecd8a5c3253a",
+    "pubDate": "2025-12-09T01:30:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "sudoをパスワードレス認証で使いたい | IIJ Engineers Blog",
     "link": "https://eng-blog.iij.ad.jp/archives/33282",
     "pubDate": "2025-12-09T00:48:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ワールドトリガー29巻読んだら面白すぎて感情が暴走したので感想を書かせてくれ",
+    "link": "https://blog.tinect.jp/?p=90555",
+    "pubDate": "2025-12-09T00:39:14.000Z"
   },
   {
     "site": "Hatena",
@@ -24,6 +54,30 @@
     "pubDate": "2025-12-08T23:03:00.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Google CloudのロードバランサーとCDNのコスト計算で困った話",
+    "link": "https://qiita.com/yurikashiwagi/items/657e8645fe316942022d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T22:07:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "TypeScriptエラーハンドリング進化の軌跡",
+    "link": "https://qiita.com/touka-io/items/2a75c0558e3b206c7433?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T22:03:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI駆動でFlutter開発を行ったときに得意だと思ったこと。不得意だと思ったこと。",
+    "link": "https://qiita.com/namatya/items/78e6583a3980a1f8ad37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T20:46:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "新しい相関係数の理論的性質",
+    "link": "https://zenn.dev/falconnnmmm/articles/4eecd8a5c3253a",
+    "pubDate": "Mon, 08 Dec 2025 16:23:21 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "Node.js のコンパイルキャッシュで Cloud Run のコールドスタートを速くする",
     "link": "https://zenn.dev/bitkey_dev/articles/nodejs-compile-cache",
@@ -34,24 +88,6 @@
     "title": "Background Fetch API が消えそうだった話 | blog.jxck.io",
     "link": "https://blog.jxck.io/entries/2025-12-08/deprecating-background-fetch.html",
     "pubDate": "2025-12-08T14:44:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "戦闘機「F-35」にはC++の特殊ルール適用版が使われており例外処理や再帰関数が禁止されている",
-    "link": "https://gigazine.net/news/20251208-f-35-cpp-jsf-standards/",
-    "pubDate": "2025-12-08T14:07:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "不適切なブログ記事公開に関するお詫びと今後の対応について｜株式会社SmartHR",
-    "link": "https://smarthr.co.jp/news/info/20251208/",
-    "pubDate": "2025-12-08T13:38:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "チンパンジーが配属されてきたら、あなたはどうマネジメントする？ - Qiita",
-    "link": "https://web.archive.org/web/20251208110539/https://qiita.com/jesus_isao/items/29b878e137f46c675d89",
-    "pubDate": "2025-12-08T13:12:37.000Z"
   },
   {
     "site": "Zenn",
@@ -66,18 +102,6 @@
     "pubDate": "Mon, 08 Dec 2025 11:30:37 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "グーグル、「アカウント乗っ取り」防御を呼びかけ――今すぐChromeのこの設定を変更せよ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/86589",
-    "pubDate": "2025-12-08T10:00:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "文字も図解も思いのまま！Nano Banana Pro の凄さと、今すぐ使える活用術｜Gemini - Google の AI",
-    "link": "https://note.com/google_gemini/n/n064d03afe2c0",
-    "pubDate": "2025-12-08T06:10:40.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "検証用お手軽ActiveDirectory環境をぽちぽちつくろう",
     "link": "https://zenn.dev/ochandayo/articles/8f6ce02ccce94b",
@@ -90,16 +114,16 @@
     "pubDate": "2025-12-08T04:34:09.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "エンジニア未経験が1週間で生成AIを使って「毎日のToDoを自動生成してくれるタスク管理アプリ」を作ってみた",
+    "link": "https://qiita.com/tr-10k/items/e5a93587d08aac103f1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T02:16:39.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "実践フルAIコーディング",
     "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
     "pubDate": "Mon, 08 Dec 2025 02:11:42 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "QA任せにしない、開発者みんなで品質を支えるテスト戦略設計",
-    "link": "https://qiita.com/_mi/items/28619f24a6fa74ad427f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T01:03:01.000Z"
   },
   {
     "site": "Zenn",
@@ -114,18 +138,6 @@
     "pubDate": "Mon, 08 Dec 2025 00:00:02 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Docker Desktop から Docker Engine へ移行したら、LocalStack の Lambda が動かなくなった話",
-    "link": "https://qiita.com/rkondo08/items/29cbeac6f216ff74ea50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-07T22:08:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS認定クラウドプラクティショナー　コツとコツコツと",
-    "link": "https://qiita.com/hidesuke4129/items/1fe863acf94658519fd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-07T22:03:47.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "検証用お手軽ActiveDirectory環境をぽちぽちつくろう",
     "link": "https://zenn.dev/ochandayo/articles/8f6ce02ccce94b",
@@ -138,22 +150,22 @@
     "pubDate": "Sun, 07 Dec 2025 15:20:39 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "誰でも作れる Nostr リレーサーバの作り方",
-    "link": "https://zenn.dev/mattn/articles/a1a67af88394b4",
-    "pubDate": "Sun, 07 Dec 2025 15:00:03 GMT"
+    "site": "Qiita",
+    "title": "メールサーバーを爆撃して部門長宛のメールを消失させた話",
+    "link": "https://qiita.com/infinity0206/items/7c2114370ba49a3dab85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-07T09:39:35.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Qiita APIを使ってアドベントカレンダーを盛り上げてみた　2025年Claude Codeを使って",
-    "link": "https://qiita.com/sapi_kawahara/items/b3c3e18068742d89893c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-07T14:00:08.000Z"
+    "title": "あえて100点より90点を目指す：UIデザインにおける視覚調整の考え方",
+    "link": "https://qiita.com/kskwtnk/items/727adbad00d962cf1abb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T22:08:56.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Claude Codeで開発するシステムエンジニアの日常",
-    "link": "https://qiita.com/toyafone/items/5577d13615d31d85245c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-07T13:31:50.000Z"
+    "title": "よく使うサクラエディタ便利機能紹介",
+    "link": "https://qiita.com/sato_3/items/4df102692aa2e0f61213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-06T22:04:42.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "【圏論×AI×認知科学】村上春樹「ノルウェーの森」をLLMで形式化してみた",
-    "link": "https://qiita.com/10long/items/a010030eb0060f52b55b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T22:03:29.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "SQLアンチパターンを根本から理解する：実務で遭遇した“DBが泣く”5つのNGクエリと改善策",
     "link": "https://qiita.com/Shiro_Shihi/items/b1b582c4528c5dd802f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-06T15:54:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "先輩に『レビューは採点じゃない』と言われて魂が浄化された話と、レビューが怖い新人に捧ぐサバイバル術",
-    "link": "https://qiita.com/Shiro_Shihi/items/1891c34595c9eff665f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T02:14:12.000Z"
   }
 ]
