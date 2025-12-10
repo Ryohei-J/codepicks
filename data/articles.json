@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "みんなはSNSで見かけた情報をどうやって記録・管理してるのか教えてほしい→Google Mapsに保存したりLINEやDiscordを活用している声が多く集まる",
-    "link": "https://togetter.com/li/2637052",
-    "pubDate": "2025-12-09T10:33:13.000Z"
+    "title": "「AIは過剰に宣伝されているが、ツールとしては大いに信じている」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（前編）",
+    "link": "https://www.publickey1.jp/blog/25/aiopen_source_summit_japan.html",
+    "pubDate": "2025-12-09T15:14:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【試し読み】金原瑞人『英米文学のわからない言葉』「プリンとプディング」｜左右社",
-    "link": "https://note.com/sayusha/n/ne58b34035bb3",
-    "pubDate": "2025-12-09T08:30:00.000Z"
+    "title": "「あなたが修正するのは自分だけのバグではない」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（後編）",
+    "link": "https://www.publickey1.jp/blog/25/open_source_summit_japan.html",
+    "pubDate": "2025-12-09T14:31:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gmail、外部メール利用不能まであと1ヵ月　「2025年中に移行を」呼びかけ続く",
+    "link": "https://ascii.jp/elem/000/004/358/4358601/",
+    "pubDate": "2025-12-09T14:06:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "みんなはSNSで見かけた情報をどうやって記録・管理してるのか教えてほしい→Google Mapsに保存したりLINEやDiscordを活用している声が多く集まる",
+    "link": "https://togetter.com/li/2637052",
+    "pubDate": "2025-12-09T10:33:13.000Z"
   },
   {
     "site": "Hatena",
@@ -25,33 +37,27 @@
   },
   {
     "site": "Hatena",
-    "title": "Webサイトを作るように紙パックを企画したら300万本売れるヒット作になった話 ～UX視点で見る『ミルクの束縛』～ - KAYAC Engineers' Blog",
-    "link": "https://techblog.kayac.com/2025/12/09/153907",
-    "pubDate": "2025-12-09T06:43:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Tailscaleを社内VPNとして採用できるかという観点で試してみた - Qiita",
-    "link": "https://qiita.com/ryoma-debari/items/225bb4843510619a2f64",
-    "pubDate": "2025-12-09T06:32:37.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「チンパンジーが配属されてきたら」問題は、なぜ「誤読」ではないのか──HRTechが踏まえるべき国際的な倫理ライン｜株式会社 七夕研究所",
     "link": "https://note.com/tanabata_lab/n/nfb68295ce7d7",
     "pubDate": "2025-12-09T05:20:42.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "新しい相関係数の理論的性質",
-    "link": "https://zenn.dev/falconnnmmm/articles/4eecd8a5c3253a",
-    "pubDate": "2025-12-09T01:30:52.000Z"
+    "site": "Hatena",
+    "title": "「ン」と「ソ」の認識境界ってどこ？｜原因地",
+    "link": "https://note.com/genninnchi/n/n94b39f0903a0",
+    "pubDate": "2025-12-09T03:44:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "sudoをパスワードレス認証で使いたい | IIJ Engineers Blog",
-    "link": "https://eng-blog.iij.ad.jp/archives/33282",
-    "pubDate": "2025-12-09T00:48:39.000Z"
+    "site": "Zenn",
+    "title": "マネジメントを知らないエンジニアが本を読んで感じたこと",
+    "link": "https://zenn.dev/studist/articles/newbie-management-learn",
+    "pubDate": "Tue, 09 Dec 2025 03:00:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ランサムウェア対策としてのバックアップ戦略＠AWS",
+    "link": "https://zenn.dev/nttdata_tech/articles/aws-backup-ransomware-321110",
+    "pubDate": "2025-12-09T00:43:44.000Z"
   },
   {
     "site": "Hatena",
@@ -66,10 +72,34 @@
     "pubDate": "Tue, 09 Dec 2025 00:03:58 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ランサムウェア対策としてのバックアップ戦略＠AWS",
+    "link": "https://zenn.dev/nttdata_tech/articles/aws-backup-ransomware-321110",
+    "pubDate": "Mon, 08 Dec 2025 22:13:17 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "設定ファイルの変更を横着して、普段と違うテキストエディタを使った結果",
+    "link": "https://qiita.com/xx_mana/items/530a4ef34f1d21410d2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T22:10:02.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Google CloudのロードバランサーとCDNのコスト計算で困った話",
     "link": "https://qiita.com/yurikashiwagi/items/657e8645fe316942022d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-08T22:07:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "良いコードとは ~ 具体的にどう実装するの ~",
+    "link": "https://qiita.com/yusuke_ando_vj/items/7c3ae472d2ab37001144?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T22:06:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "PoCやディープダイブから学んだ喜びの源泉",
+    "link": "https://qiita.com/takaaki-maeda6/items/8e3b6d19c0d9779ef342?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-08T22:05:46.000Z"
   },
   {
     "site": "Qiita",
@@ -97,6 +127,12 @@
   },
   {
     "site": "Zenn",
+    "title": "音声合成の日本語化手法が一般化した話",
+    "link": "https://zenn.dev/mkj/articles/0576d194771c08",
+    "pubDate": "Mon, 08 Dec 2025 15:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "バンドラー 2025 まとめ | まだ \"vite\" 使ってるの？",
     "link": "https://zenn.dev/nakasyou/articles/give_up_vite",
     "pubDate": "Mon, 08 Dec 2025 13:08:35 GMT"
@@ -106,6 +142,12 @@
     "title": "低レイヤー開発者が注目すべきRustのアップデート 2025年版",
     "link": "https://zenn.dev/garasubo/articles/cfcf8bb6a16dca",
     "pubDate": "Mon, 08 Dec 2025 11:30:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "$1で最大8時間の動画を話者分離・文字起こし・LLM分析するAWSパイプラインを作った",
+    "link": "https://zenn.dev/ekusiadadus/articles/ek-transcript-stepfunctions-1dollar",
+    "pubDate": "Mon, 08 Dec 2025 08:10:07 GMT"
   },
   {
     "site": "Qiita",
@@ -126,42 +168,6 @@
     "pubDate": "Mon, 08 Dec 2025 02:11:42 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「その処理、本当に並列ですか？」Node.js, Python, Ruby, Goで踏み抜くCPUバウンドの罠",
-    "link": "https://zenn.dev/hacobell_dev/articles/learning-multithreading-in-several-languages",
-    "pubDate": "Mon, 08 Dec 2025 00:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "美しいLinuxデスクトップで開発をしませんか？",
-    "link": "https://zenn.dev/kiku_sui/articles/31e599360be2db",
-    "pubDate": "Mon, 08 Dec 2025 00:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "検証用お手軽ActiveDirectory環境をぽちぽちつくろう",
-    "link": "https://zenn.dev/ochandayo/articles/8f6ce02ccce94b",
-    "pubDate": "Sun, 07 Dec 2025 15:45:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go 1.26で生まれ変わるimage/jpegパッケージ",
-    "link": "https://zenn.dev/koya_iwamura/articles/c47b41bd7459a7",
-    "pubDate": "Sun, 07 Dec 2025 15:20:39 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "メールサーバーを爆撃して部門長宛のメールを消失させた話",
-    "link": "https://qiita.com/infinity0206/items/7c2114370ba49a3dab85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-07T09:39:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "あえて100点より90点を目指す：UIデザインにおける視覚調整の考え方",
-    "link": "https://qiita.com/kskwtnk/items/727adbad00d962cf1abb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T22:08:56.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "よく使うサクラエディタ便利機能紹介",
     "link": "https://qiita.com/sato_3/items/4df102692aa2e0f61213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた",
     "link": "https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-06T22:04:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SQLアンチパターンを根本から理解する：実務で遭遇した“DBが泣く”5つのNGクエリと改善策",
-    "link": "https://qiita.com/Shiro_Shihi/items/b1b582c4528c5dd802f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-06T15:54:14.000Z"
   }
 ]
