@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "NotebookLMでのスライド生成で結果を自在にコントロールする方法①｜FUJI / Presentation designer",
+    "link": "https://note.com/yoshifujidesign/n/nd9c8db0b55b8",
+    "pubDate": "2025-12-10T00:40:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI自動化あそび - 大西ブログ",
+    "link": "https://onishi.hatenablog.com/entry/2025/12/10/084714",
+    "pubDate": "2025-12-09T23:52:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "｢ひらがなも書けない新人｣に現場は激怒　人手不足でも\"学歴フィルター厳格化\"に踏み切った企業の本音",
+    "link": "https://toyokeizai.net/articles/-/922860?display=b",
+    "pubDate": "2025-12-09T22:42:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "津波警報の発表中にグーグル検索、AIが「すべて解除」と誤情報：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASTD933Y2TD9OXIE008M.html",
+    "pubDate": "2025-12-09T21:12:48.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「AIは過剰に宣伝されているが、ツールとしては大いに信じている」、リーナス・トーバルズ氏が東京開催のOpen Source Summit Japan基調講演で語ったこと（前編）",
     "link": "https://www.publickey1.jp/blog/25/aiopen_source_summit_japan.html",
     "pubDate": "2025-12-09T15:14:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "3年ぶりにアプリをアップデートしたことの振り返り",
+    "link": "https://zenn.dev/naoya_maeda/articles/af86652c1ba611",
+    "pubDate": "Tue, 09 Dec 2025 15:00:02 GMT"
   },
   {
     "site": "Hatena",
@@ -18,28 +48,16 @@
     "pubDate": "2025-12-09T14:06:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "みんなはSNSで見かけた情報をどうやって記録・管理してるのか教えてほしい→Google Mapsに保存したりLINEやDiscordを活用している声が多く集まる",
-    "link": "https://togetter.com/li/2637052",
-    "pubDate": "2025-12-09T10:33:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "家買った - がんばるぞ",
-    "link": "https://y-ahiru.hatenadiary.jp/entry/2025/12/09/090000",
-    "pubDate": "2025-12-09T07:34:25.000Z"
+    "site": "Zenn",
+    "title": "ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager",
+    "link": "https://zenn.dev/layerx/articles/762ecd4494694f",
+    "pubDate": "Tue, 09 Dec 2025 10:24:23 GMT"
   },
   {
     "site": "Qiita",
     "title": "【検証】夜泣き対応で絶望したので、娘の泣き声を最新LLMに「翻訳」させてみた - Qiita",
     "link": "https://qiita.com/Kuroyanagi96/items/cb89339b3dda509c7ff5",
     "pubDate": "2025-12-09T07:01:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「チンパンジーが配属されてきたら」問題は、なぜ「誤読」ではないのか──HRTechが踏まえるべき国際的な倫理ライン｜株式会社 七夕研究所",
-    "link": "https://note.com/tanabata_lab/n/nfb68295ce7d7",
-    "pubDate": "2025-12-09T05:20:42.000Z"
   },
   {
     "site": "Hatena",
@@ -58,12 +76,6 @@
     "title": "ランサムウェア対策としてのバックアップ戦略＠AWS",
     "link": "https://zenn.dev/nttdata_tech/articles/aws-backup-ransomware-321110",
     "pubDate": "2025-12-09T00:43:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ワールドトリガー29巻読んだら面白すぎて感情が暴走したので感想を書かせてくれ",
-    "link": "https://blog.tinect.jp/?p=90555",
-    "pubDate": "2025-12-09T00:39:14.000Z"
   },
   {
     "site": "Zenn",
@@ -144,12 +156,6 @@
     "pubDate": "Mon, 08 Dec 2025 11:30:37 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "$1で最大8時間の動画を話者分離・文字起こし・LLM分析するAWSパイプラインを作った",
-    "link": "https://zenn.dev/ekusiadadus/articles/ek-transcript-stepfunctions-1dollar",
-    "pubDate": "Mon, 08 Dec 2025 08:10:07 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
     "link": "https://qiita.com/watanabe_masaru/items/a37506c1acda0307d8aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,12 +166,6 @@
     "title": "エンジニア未経験が1週間で生成AIを使って「毎日のToDoを自動生成してくれるタスク管理アプリ」を作ってみた",
     "link": "https://qiita.com/tr-10k/items/e5a93587d08aac103f1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-08T02:16:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "実践フルAIコーディング",
-    "link": "https://zenn.dev/erukiti/articles/2512-full-ai-cofing",
-    "pubDate": "Mon, 08 Dec 2025 02:11:42 GMT"
   },
   {
     "site": "Qiita",
