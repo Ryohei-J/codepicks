@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "なぜ「フォント」が重要なの？ 米国務省が公的文書を「Times New Roman」に",
+    "link": "https://japan.cnet.com/article/35241534/",
+    "pubDate": "2025-12-11T05:17:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "テセウスのTransformer",
+    "link": "https://zenn.dev/shot4410/articles/5354ce65907e15",
+    "pubDate": "Thu, 11 Dec 2025 04:02:48 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "スイッチサイエンス年間売上ベスト100を読み解く――M5、ラズパイ、Arduino、AIの2025年 - FabScene（ファブシーン）",
+    "link": "https://fabscene.com/new/special/switch-science-annual-sales-ranking-2025/",
+    "pubDate": "2025-12-11T03:32:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代の超読書術の試行錯誤の話｜miyasaka",
+    "link": "https://note.com/mmiya/n/n5f3a4644469f",
+    "pubDate": "2025-12-11T03:31:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "DDR5を中心にメモリの暴騰が止まらず、64GB×2枚組で248,000円の例も [12月前半のメモリ価格]　",
     "link": "https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2070296.html",
     "pubDate": "2025-12-11T02:01:17.000Z"
@@ -24,10 +48,10 @@
     "pubDate": "2025-12-10T23:36:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "バリデーションとパースの分離。Goで実装する「変更に強い」CSV 処理の設計 - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/go-csv-import-design",
-    "pubDate": "2025-12-10T23:15:40.000Z"
+    "site": "Qiita",
+    "title": "現場エンジニアではない人事が、それでもQiitaを読む理由",
+    "link": "https://qiita.com/w_koichiro/items/5e334171c424783c0cc0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T23:19:05.000Z"
   },
   {
     "site": "Hatena",
@@ -42,6 +66,42 @@
     "pubDate": "2025-12-10T22:26:19.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "新卒エンジニアが vibe coding して分かったこと",
+    "link": "https://qiita.com/Gingnose/items/430040181e6211331061?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T22:08:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話",
+    "link": "https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T22:07:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "New Relic Go Agent 完全理解・実践導入ガイド",
+    "link": "https://zenn.dev/mpyw/articles/new-relic-go-agent-struggle",
+    "pubDate": "Wed, 10 Dec 2025 21:47:23 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "調整さんのスケジュールを自動生成するLINE Botを作った話",
+    "link": "https://qiita.com/namatya/items/3ffb9c5335c8c0c79412?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T21:43:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Reactカスタムフックが可読性を損なうとき",
+    "link": "https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability",
+    "pubDate": "Wed, 10 Dec 2025 17:24:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "モ。〜モデル選定のヒントについて〜",
+    "link": "https://qiita.com/haruty/items/cfcf881b9ef3db6e3b36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T16:31:49.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "生成AI時代だからこそ、Vim as an IME",
     "link": "https://zenn.dev/dog/articles/vim-as-an-ime",
@@ -52,12 +112,6 @@
     "title": "【無料】アドビが｢Photoshop for ChatGPT｣を発表。誰でも“フォトショ職人”は新時代すぎ",
     "link": "https://www.gizmodo.jp/2025/12/photoshop_for_chatgpt.html",
     "pubDate": "2025-12-10T13:08:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "アスタリスクはもう古い！？モダンC言語でのポインター型の記法",
-    "link": "https://zenn.dev/mod_poppo/articles/c-pointer-notation",
-    "pubDate": "2025-12-10T11:27:07.000Z"
   },
   {
     "site": "Zenn",
@@ -78,12 +132,6 @@
     "pubDate": "Wed, 10 Dec 2025 01:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "NotebookLMでのスライド生成で結果を自在にコントロールする方法①｜FUJI / Presentation designer",
-    "link": "https://note.com/yoshifujidesign/n/nd9c8db0b55b8",
-    "pubDate": "2025-12-10T00:40:53.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "バハムート駆動開発をやってください",
     "link": "https://qiita.com/RealFlair/items/f9edf19495275f36e784?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -91,33 +139,9 @@
   },
   {
     "site": "Qiita",
-    "title": "OpenAPIに設計を集約してドキュメントを一元管理する実践ガイド",
-    "link": "https://qiita.com/Mr_hana/items/432d83cf2df584c2e651?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:09:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "フレッツ光を Catalyst スイッチで収容してみよう",
-    "link": "https://qiita.com/matagawa/items/11b2510bf3b42cb8484a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:07:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "あまり、法律を気にせずAIを使ってきたことに気付いた　〜今後ウォッチすべき情報ソースまで含めて考える〜",
-    "link": "https://qiita.com/Mikey/items/cb921d2079b761d3c1bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:06:57.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」",
     "link": "https://qiita.com/shota_hanawa/items/e242d826570e4292e388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-09T22:06:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "一気通貫の意味を知れ！〜『ドメイン駆動設計をはじめよう』ではじめる業務分析〜",
-    "link": "https://qiita.com/krakazcyrano/items/973eb49bc06217cdee0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:03:47.000Z"
   },
   {
     "site": "Qiita",
@@ -144,39 +168,15 @@
     "pubDate": "Tue, 09 Dec 2025 14:57:03 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ローカル開発のシークレット設定を自動化する ── Go × AWS Secrets Manager",
-    "link": "https://zenn.dev/layerx/articles/762ecd4494694f",
-    "pubDate": "Tue, 09 Dec 2025 10:24:23 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "2025年12月版: MCP、Subagent、Skills… エージェント拡張技術が次々出てきて追いきれない人のためのガイド",
     "link": "https://qiita.com/jugyo/items/afd684d7eeb0bf194843?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-09T03:48:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "マネジメントを知らないエンジニアが本を読んで感じたこと",
-    "link": "https://zenn.dev/studist/articles/newbie-management-learn",
-    "pubDate": "Tue, 09 Dec 2025 03:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cap'n Webについて",
-    "link": "https://zenn.dev/yusukebe/articles/3c18e280eaa490",
-    "pubDate": "Tue, 09 Dec 2025 00:03:58 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "TypeScriptエラーハンドリング進化の軌跡",
     "link": "https://qiita.com/touka-io/items/2a75c0558e3b206c7433?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-08T22:03:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "生命ってコードで作れるの？試してわかったALIFEのヤバさ（前編）",
-    "link": "https://qiita.com/watanabe_masaru/items/a37506c1acda0307d8aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T04:34:09.000Z"
   }
 ]
