@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "DDR5を中心にメモリの暴騰が止まらず、64GB×2枚組で248,000円の例も [12月前半のメモリ価格]　",
+    "link": "https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2070296.html",
+    "pubDate": "2025-12-11T02:01:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GeminiでチャHしてたらアカウントBANされた",
+    "link": "https://anond.hatelabo.jp/20251211104855",
+    "pubDate": "2025-12-11T01:49:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2025年、日本語の新作フリーフォントのまとめ！ 今年も新しいフリーフォントがたくさんリリースされました",
+    "link": "https://coliss.com/articles/freebies/japanese-free-fonts-dec-2025.html",
+    "pubDate": "2025-12-11T00:53:04.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「手書き vs. タイピング」　どちらでノートを取った方が成績が良くなる？　学生3000人以上を分析",
     "link": "https://www.itmedia.co.jp/news/articles/2512/11/news030.html",
     "pubDate": "2025-12-10T23:36:35.000Z"
@@ -13,21 +31,27 @@
   },
   {
     "site": "Hatena",
+    "title": "アサヒ、全システム停止も売上9割維持の奇跡…脱システム依存で見せた驚異の現場力",
+    "link": "https://biz-journal.jp/company/post_392577.html",
+    "pubDate": "2025-12-10T23:01:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【特集】 不要PC処分2025。実は「あの方法」が一番おすすめ！",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2070201.html",
     "pubDate": "2025-12-10T22:26:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "生成AI時代だからこそ、Vim as an IME",
+    "link": "https://zenn.dev/dog/articles/vim-as-an-ime",
+    "pubDate": "Wed, 10 Dec 2025 14:04:32 GMT"
   },
   {
     "site": "Hatena",
     "title": "【無料】アドビが｢Photoshop for ChatGPT｣を発表。誰でも“フォトショ職人”は新時代すぎ",
     "link": "https://www.gizmodo.jp/2025/12/photoshop_for_chatgpt.html",
     "pubDate": "2025-12-10T13:08:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIのOCR能力を競わせて評価する「OCR Arena」",
-    "link": "https://gigazine.net/news/20251210-ai-ocr-arena/",
-    "pubDate": "2025-12-10T13:03:17.000Z"
   },
   {
     "site": "Zenn",
@@ -42,16 +66,10 @@
     "pubDate": "Wed, 10 Dec 2025 11:16:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "無料＆アカウント登録なし＆ブラウザ上で完全に動作するプライバシー重視のPDFエディター「LocalPDF」",
-    "link": "https://gigazine.net/news/20251210-localpdf/",
-    "pubDate": "2025-12-10T11:04:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "catnoseの個人開発者という生き方。自由に、好きなものだけ作った先で、人はなにを思うのか | LIFE DRAFT",
-    "link": "https://life.job-draft.jp/2025/12/10/1124/",
-    "pubDate": "2025-12-10T06:40:02.000Z"
+    "site": "Zenn",
+    "title": "【備忘録】なぜ日本のITは「技術トレンド」に遅れるのか？経営者と話してわかった構造の闇",
+    "link": "https://zenn.dev/croco_82/articles/e7ee28b8556c83",
+    "pubDate": "Wed, 10 Dec 2025 06:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -109,6 +127,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Code × MCP × Notion で「Jupyter Notebookから分析レポート」ことはじめ",
+    "link": "https://zenn.dev/mkj/articles/0f7ba3695874ee",
+    "pubDate": "Tue, 09 Dec 2025 15:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "3年ぶりにアプリをアップデートしたことの振り返り",
     "link": "https://zenn.dev/naoya_maeda/articles/af86652c1ba611",
     "pubDate": "Tue, 09 Dec 2025 15:00:02 GMT"
@@ -118,12 +142,6 @@
     "title": "Claude Codeプラグインを社内で作って、2ヶ月経過した",
     "link": "https://zenn.dev/ubie_dev/articles/5c510ab1d7e6f3",
     "pubDate": "Tue, 09 Dec 2025 14:57:03 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Dockerが提供するDockerfileリンターを使ってみる - 風に吹かれても",
-    "link": "https://ymse.hatenablog.com/entry/2025/12/09/214253",
-    "pubDate": "2025-12-09T12:43:22.000Z"
   },
   {
     "site": "Zenn",
@@ -145,27 +163,9 @@
   },
   {
     "site": "Zenn",
-    "title": "10年前の自分に捧ぐ進化の石：縛りプレイをやめよう",
-    "link": "https://zenn.dev/coconala/articles/5b39d5f5804e76",
-    "pubDate": "Tue, 09 Dec 2025 01:17:07 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Cap'n Webについて",
     "link": "https://zenn.dev/yusukebe/articles/3c18e280eaa490",
     "pubDate": "Tue, 09 Dec 2025 00:03:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「とりあえずNext.js」をやめてBetter-T-Stackを試してみた",
-    "link": "https://zenn.dev/appleworld/articles/567515443c85a3",
-    "pubDate": "Mon, 08 Dec 2025 22:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ランサムウェア対策としてのバックアップ戦略＠AWS",
-    "link": "https://zenn.dev/nttdata_tech/articles/aws-backup-ransomware-321110",
-    "pubDate": "Mon, 08 Dec 2025 22:13:17 GMT"
   },
   {
     "site": "Qiita",
