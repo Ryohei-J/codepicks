@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "【速報】官邸偽サイト、設計コードにロシア語",
+    "link": "https://www.47news.jp/13588157.html",
+    "pubDate": "2025-12-12T10:16:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ハードバウンスとソフトバウンスの間にあるもの - /var/lib/azumakuniyuki",
+    "link": "https://azumakuniyuki.hatenablog.com/entry/between-hard-bounce-and-soft-bounce",
+    "pubDate": "2025-12-12T08:16:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "シェア9割越え。家庭用3Dプリンター市場を中国勢が制した理由 | レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/column/detail_770/",
+    "pubDate": "2025-12-12T01:22:17.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIで生成した「やたら長文だが内容は薄い情報」とか「意味のある情報が抜けた要約文」を上司や同僚に送りつけるのはやめようね、の話。 - フジイユウジ::ドットネット",
     "link": "https://fujii-yuji.net/2025/12/12/085414",
     "pubDate": "2025-12-12T00:09:30.000Z"
@@ -24,6 +42,36 @@
     "pubDate": "2025-12-11T22:37:07.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "T2セキュリティチップ搭載のMacBook Pro （2019）にLinux Mintを入れてみた話",
+    "link": "https://qiita.com/hirotask/items/5d9a2f6ea8e1484e04d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T22:08:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "基礎を学んだ現場と教訓",
+    "link": "https://qiita.com/a_any/items/0bafc5f56ba78b61fb3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T22:06:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "EC2起動時にユーザーデータを利用して初期設定を自動化する",
+    "link": "https://qiita.com/g-nawa/items/49112e81ab9b535081f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T22:06:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Excel関数のみでデータの内部結合を実現する方法",
+    "link": "https://qiita.com/Yuki_Ishikawa/items/7c3f121c03c3f8912f3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T22:05:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "LLMさんにボディビル大会までの1年間の減量データを分析してもらった",
+    "link": "https://qiita.com/mercy-333/items/c5dc9402c8d6095ee5e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T22:04:58.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "OpenAI、「GPT-5.2」発表　「Gemini 3」の“コードレッド”後、性能を大幅強化",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news064.html",
@@ -42,28 +90,16 @@
     "pubDate": "2025-12-11T15:55:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ディズニー、OpenAIに1500億円出資　動画AI「Sora」にキャラ提供 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN11CN50R11C25A2000000/",
-    "pubDate": "2025-12-11T15:14:00.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeのコンテキストを節約する",
     "link": "https://zenn.dev/karaage0703/articles/1f30a572ff8460",
     "pubDate": "Thu, 11 Dec 2025 13:33:29 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "マックのAI生成広告に「魂が感じられない」と批判殺到➡︎取り下げに。制作側は「7週間ほとんど眠らず...」と擁護【オランダ】",
-    "link": "https://www.huffingtonpost.jp/entry/story_jp_693a2272e4b053d6e8ed67cc",
-    "pubDate": "2025-12-11T12:48:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Twitter歴14年の僕でも引っかかった「最新型フィッシング詐欺」の手口｜コブラ",
-    "link": "https://note.com/imascg/n/n557cafb391be",
-    "pubDate": "2025-12-11T12:14:20.000Z"
+    "site": "Qiita",
+    "title": "メンタルの話",
+    "link": "https://qiita.com/hachiyama/items/bfccbb1a24940433a269?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T12:09:40.000Z"
   },
   {
     "site": "Zenn",
@@ -109,12 +145,6 @@
   },
   {
     "site": "Qiita",
-    "title": "新卒エンジニアが vibe coding して分かったこと",
-    "link": "https://qiita.com/Gingnose/items/430040181e6211331061?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T22:08:54.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話",
     "link": "https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-10T22:07:24.000Z"
@@ -124,12 +154,6 @@
     "title": "New Relic Go Agent 完全理解・実践導入ガイド",
     "link": "https://zenn.dev/mpyw/articles/new-relic-go-agent-struggle",
     "pubDate": "Wed, 10 Dec 2025 21:47:23 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "調整さんのスケジュールを自動生成するLINE Botを作った話",
-    "link": "https://qiita.com/namatya/items/3ffb9c5335c8c0c79412?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T21:43:20.000Z"
   },
   {
     "site": "Zenn",
@@ -145,18 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "モ。〜モデル選定のヒントについて〜",
-    "link": "https://qiita.com/haruty/items/cfcf881b9ef3db6e3b36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T16:31:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "証明書の自動更新のすすめ − Step Functions × DigiCert API で運用ゼロを実現",
-    "link": "https://qiita.com/chotone/items/a560ae8eab9ec6403e10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T14:35:57.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Zabbixで円周率の近似値を求めてみた",
     "link": "https://qiita.com/nuon0414/items/d673b4ae6c3ce41953ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-10T11:19:09.000Z"
@@ -166,17 +178,5 @@
     "title": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」",
     "link": "https://qiita.com/shota_hanawa/items/e242d826570e4292e388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-09T22:06:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2025年12月版: MCP、Subagent、Skills… エージェント拡張技術が次々出てきて追いきれない人のためのガイド",
-    "link": "https://qiita.com/jugyo/items/afd684d7eeb0bf194843?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T03:48:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "TypeScriptエラーハンドリング進化の軌跡",
-    "link": "https://qiita.com/touka-io/items/2a75c0558e3b206c7433?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-08T22:03:56.000Z"
   }
 ]
