@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "AIで生成した「やたら長文だが内容は薄い情報」とか「意味のある情報が抜けた要約文」を上司や同僚に送りつけるのはやめようね、の話。 - フジイユウジ::ドットネット",
+    "link": "https://fujii-yuji.net/2025/12/12/085414",
+    "pubDate": "2025-12-12T00:09:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“DRAMパニック”はなぜ起きたか、価格はいつ落ち着くのか？　狂騒の裏で起きていること",
     "link": "https://www.itmedia.co.jp/news/articles/2512/12/news051.html",
     "pubDate": "2025-12-11T23:33:16.000Z"
@@ -12,10 +18,28 @@
     "pubDate": "2025-12-11T22:53:12.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌",
+    "link": "https://zenn.dev/sohosai/articles/3ac46af14abd96",
+    "pubDate": "2025-12-11T22:37:07.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "OpenAI、「GPT-5.2」発表　「Gemini 3」の“コードレッド”後、性能を大幅強化",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2512/12/news064.html",
     "pubDate": "2025-12-11T21:56:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌",
+    "link": "https://zenn.dev/sohosai/articles/3ac46af14abd96",
+    "pubDate": "Thu, 11 Dec 2025 17:31:43 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Nano Banana Proで遊ぼう！公開プロンプトまとめ｜てんねん｜AIイラストクリエイター",
+    "link": "https://note.com/munou_ac/n/nabe19ef84227",
+    "pubDate": "2025-12-11T15:55:09.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +48,10 @@
     "pubDate": "2025-12-11T15:14:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "海外「日本人の発想ってスゲーな…」 ヨーロッパ屈指の建築家が伊勢神宮の凄さを語り話題に",
-    "link": "http://pandora11.com/blog-entry-5569.html",
-    "pubDate": "2025-12-11T15:09:45.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeのコンテキストを節約する",
+    "link": "https://zenn.dev/karaage0703/articles/1f30a572ff8460",
+    "pubDate": "Thu, 11 Dec 2025 13:33:29 GMT"
   },
   {
     "site": "Hatena",
@@ -55,12 +79,6 @@
   },
   {
     "site": "Zenn",
-    "title": "RAGで非構造データを整理する手法「BookRAG」",
-    "link": "https://zenn.dev/knowledgesense/articles/f7f9a9b38f6add",
-    "pubDate": "2025-12-11T10:13:01.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "View TransitionでわかるNext.jsとAstroの設計思想",
     "link": "https://zenn.dev/ignorant_kenji/articles/6f501784ee2812",
     "pubDate": "Thu, 11 Dec 2025 05:32:13 GMT"
@@ -72,10 +90,16 @@
     "pubDate": "Thu, 11 Dec 2025 04:02:48 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代の超読書術の試行錯誤の話｜miyasaka",
-    "link": "https://note.com/mmiya/n/n5f3a4644469f",
-    "pubDate": "2025-12-11T03:31:43.000Z"
+    "site": "Zenn",
+    "title": "Storybook風SlackApp UIのプレビューツール『slack-blockbook』を作ってみた！",
+    "link": "https://zenn.dev/layerx/articles/11368a2ad2b5d1",
+    "pubDate": "Thu, 11 Dec 2025 02:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RAGで非構造データを整理する手法「BookRAG」",
+    "link": "https://zenn.dev/knowledgesense/articles/f7f9a9b38f6add",
+    "pubDate": "Thu, 11 Dec 2025 01:15:54 GMT"
   },
   {
     "site": "Qiita",
@@ -132,34 +156,10 @@
     "pubDate": "2025-12-10T14:35:57.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "生成AI時代だからこそ、Vim as an IME",
-    "link": "https://zenn.dev/dog/articles/vim-as-an-ime",
-    "pubDate": "Wed, 10 Dec 2025 14:04:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Antigravity を使って自作 WEB アプリの脆弱性診断を行ってみたメモ",
-    "link": "https://zenn.dev/junpei_katayama/articles/self-vulnerability-check",
-    "pubDate": "Wed, 10 Dec 2025 13:48:49 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Zabbixで円周率の近似値を求めてみた",
     "link": "https://qiita.com/nuon0414/items/d673b4ae6c3ce41953ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-10T11:19:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "アスタリスクはもう古い！？モダンC言語でのポインター型の記法",
-    "link": "https://zenn.dev/mod_poppo/articles/c-pointer-notation",
-    "pubDate": "Wed, 10 Dec 2025 11:16:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【備忘録】なぜ日本のITは「技術トレンド」に遅れるのか？経営者と話してわかった構造の闇",
-    "link": "https://zenn.dev/croco_82/articles/e7ee28b8556c83",
-    "pubDate": "Wed, 10 Dec 2025 06:00:01 GMT"
   },
   {
     "site": "Qiita",
