@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊",
+    "link": "https://bookplus.nikkei.com/atcl/column/051200507/120900004/",
+    "pubDate": "2025-12-13T02:00:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ランサムウェア攻撃の影響調査結果および安全性強化に向けた取り組みのご報告（ランサムウェア攻撃によるシステム障害関連・第 13 報）",
+    "link": "https://prtimes.jp/main/html/rd/p/000000500.000021550.html",
+    "pubDate": "2025-12-13T01:31:47.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "個人開発のEC2が乗っ取られてMoneroを掘られていた話【CVE-2025-55182】｜ねころこ",
     "link": "https://note.com/nekoroko/n/n729421e1cf8d",
     "pubDate": "2025-12-12T23:14:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『日本のロボットが「剣」で戦うのは、海外でかなり不思議がられる』…から始まる大議論。かっこいいからは説明になるか？ケレンとは？リアリティとは？",
+    "link": "https://posfie.com/@OOEDO4/p/NGQH8r6",
+    "pubDate": "2025-12-12T20:15:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "runtime/secret でGoのランタイムから秘匿情報を消す",
+    "link": "https://zenn.dev/mattn/articles/64d85241fd3726",
+    "pubDate": "Fri, 12 Dec 2025 15:00:04 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS設計ガイドラインを公開しました | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20251212a/",
+    "pubDate": "2025-12-12T13:06:47.000Z"
   },
   {
     "site": "Qiita",
@@ -18,12 +48,6 @@
     "pubDate": "2025-12-12T11:15:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【速報】官邸偽サイト、設計コードにロシア語",
-    "link": "https://www.47news.jp/13588157.html",
-    "pubDate": "2025-12-12T10:16:14.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "俺が一番好きなデザインパターン「Strategy Pattern」の話",
     "link": "https://zenn.dev/zozotech/articles/204d6bfe2e4314",
@@ -36,22 +60,28 @@
     "pubDate": "2025-12-12T09:08:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "obsidian-gemini-helper/README_ja.md at master · takeshy/obsidian-gemini-helper",
-    "link": "https://github.com/takeshy/obsidian-gemini-helper/blob/master/README_ja.md",
-    "pubDate": "2025-12-12T07:39:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows ライセンス認証における電話認証手順の変更について",
-    "link": "https://jpwinsup.github.io/blog/2025/12/11/Activation/PhoneActivation-changed/",
-    "pubDate": "2025-12-12T04:14:02.000Z"
+    "site": "Zenn",
+    "title": "シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている",
+    "link": "https://zenn.dev/moneyforward/articles/0a9e517a02ddbd",
+    "pubDate": "Fri, 12 Dec 2025 08:48:08 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話",
-    "link": "https://zenn.dev/stafes_blog/articles/d7457519a2daec",
-    "pubDate": "2025-12-12T02:55:37.000Z"
+    "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
+    "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
+    "pubDate": "Fri, 12 Dec 2025 03:46:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GraphQLを採用するか迷ったときに読む記事",
+    "link": "https://zenn.dev/d0ne1s/articles/bfa82af01f8c2f",
+    "pubDate": "Fri, 12 Dec 2025 00:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "クロックパズルを単因子論で解く",
+    "link": "https://zenn.dev/lotz/articles/93f73c17145819",
+    "pubDate": "Thu, 11 Dec 2025 22:47:16 GMT"
   },
   {
     "site": "Qiita",
@@ -103,6 +133,12 @@
   },
   {
     "site": "Zenn",
+    "title": "「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう",
+    "link": "https://zenn.dev/livetoon/articles/04dccf642d324c",
+    "pubDate": "Thu, 11 Dec 2025 16:40:50 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Codeのコンテキストを節約する",
     "link": "https://zenn.dev/karaage0703/articles/1f30a572ff8460",
     "pubDate": "Thu, 11 Dec 2025 13:33:29 GMT"
@@ -126,46 +162,10 @@
     "pubDate": "Thu, 11 Dec 2025 05:32:13 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "テセウスのTransformer",
-    "link": "https://zenn.dev/shot4410/articles/5354ce65907e15",
-    "pubDate": "Thu, 11 Dec 2025 04:02:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Storybook風SlackApp UIのプレビューツール『slack-blockbook』を作ってみた！",
-    "link": "https://zenn.dev/layerx/articles/11368a2ad2b5d1",
-    "pubDate": "Thu, 11 Dec 2025 02:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話",
-    "link": "https://zenn.dev/stafes_blog/articles/d7457519a2daec",
-    "pubDate": "Thu, 11 Dec 2025 01:00:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話",
     "link": "https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-10T22:07:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "New Relic Go Agent 完全理解・実践導入ガイド",
-    "link": "https://zenn.dev/mpyw/articles/new-relic-go-agent-struggle",
-    "pubDate": "Wed, 10 Dec 2025 21:47:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CLAUDE.mdの肥大化を防ぐ！.claude/rules/で動的にルールを読み込む方法",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_dynamic_rules",
-    "pubDate": "Wed, 10 Dec 2025 18:38:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Reactカスタムフックが可読性を損なうとき",
-    "link": "https://zenn.dev/yuta_takahashi/articles/cases-where-custom-hooks-compromise-readability",
-    "pubDate": "Wed, 10 Dec 2025 17:24:08 GMT"
   },
   {
     "site": "Qiita",
