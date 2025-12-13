@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "アスクルがランサムウェア攻撃の調査レポートを公開、内容が様々なところに教訓を活かせそうだと話題に「セキュリティと利便性の天秤は難しい」",
+    "link": "https://togetter.com/li/2638414",
+    "pubDate": "2025-12-13T06:36:48.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AWS構成図を生成するためにAgent Skillsで試行錯誤してみた | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/trial-and-error-aws-diagram-agent-skills/",
     "pubDate": "2025-12-13T04:03:00.000Z"
@@ -54,6 +60,12 @@
     "pubDate": "Fri, 12 Dec 2025 16:00:05 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "セキュリティエンジニアの知識地図：読んでみた！ - Qiita",
+    "link": "https://qiita.com/loverboy/items/7dc19dd27bc7449f7aee",
+    "pubDate": "2025-12-12T15:05:09.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "runtime/secret でGoのランタイムから秘匿情報を消す",
     "link": "https://zenn.dev/mattn/articles/64d85241fd3726",
@@ -73,27 +85,15 @@
   },
   {
     "site": "Hatena",
-    "title": "専門家は話さないですよ(『専門家が「力」をセーブせずに全力で専門性を振り回してもリスペクトされる組織をつくりたい』を読んで) - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/12/163220",
-    "pubDate": "2025-12-12T11:15:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "俺が一番好きなデザインパターン「Strategy Pattern」の話",
-    "link": "https://zenn.dev/zozotech/articles/204d6bfe2e4314",
-    "pubDate": "2025-12-12T10:09:25.000Z"
+    "title": "GPT-5.2 Prompting Guide | OpenAI Cookbook",
+    "link": "https://cookbook.openai.com/examples/gpt-5/gpt-5-2_prompting_guide",
+    "pubDate": "2025-12-12T11:02:38.000Z"
   },
   {
     "site": "Qiita",
     "title": "AIに「愛」は伝わるのか",
     "link": "https://qiita.com/makimuramakoto/items/337f35e3d10f8cee6a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T09:41:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう",
-    "link": "https://zenn.dev/livetoon/articles/04dccf642d324c",
-    "pubDate": "2025-12-12T09:08:45.000Z"
   },
   {
     "site": "Zenn",
