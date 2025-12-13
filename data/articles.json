@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "AWS構成図を生成するためにAgent Skillsで試行錯誤してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/trial-and-error-aws-diagram-agent-skills/",
+    "pubDate": "2025-12-13T04:03:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊",
     "link": "https://bookplus.nikkei.com/atcl/column/051200507/120900004/",
     "pubDate": "2025-12-13T02:00:20.000Z"
@@ -18,10 +24,34 @@
     "pubDate": "2025-12-12T23:14:13.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "その日、なぜお客様のサーバーは止まってしまったのか",
+    "link": "https://qiita.com/KMKZ/items/f0d939cc81048fcde6af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T22:07:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Gemini】コード差分を「フローチャート」にしてロジック確認を爆速化する方法",
+    "link": "https://qiita.com/yyy0123/items/a95496ecd624e95b80f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T22:04:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "問題を自分で解決する」から「チームで問題を解決できるようにする」へ——クリティカルシンキングで再考するエンジニアチームマネジメント",
+    "link": "https://qiita.com/WANG_YUQUAN/items/87b5bbdb19892a095743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T22:04:20.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "『日本のロボットが「剣」で戦うのは、海外でかなり不思議がられる』…から始まる大議論。かっこいいからは説明になるか？ケレンとは？リアリティとは？",
     "link": "https://posfie.com/@OOEDO4/p/NGQH8r6",
     "pubDate": "2025-12-12T20:15:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "初老を超えたエンジニアの現実2025",
+    "link": "https://zenn.dev/moshjp/articles/0bcfeba3bba295",
+    "pubDate": "Fri, 12 Dec 2025 16:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -30,16 +60,16 @@
     "pubDate": "Fri, 12 Dec 2025 15:00:04 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "セキュリティエンジニアの知識地図：読んでみた！",
+    "link": "https://qiita.com/loverboy/items/7dc19dd27bc7449f7aee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T14:15:24.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "AWS設計ガイドラインを公開しました | フューチャー技術ブログ",
     "link": "https://future-architect.github.io/articles/20251212a/",
     "pubDate": "2025-12-12T13:06:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Next.jsの脆弱性を数日放置したら暗号通貨マイナーを仕込まれた話 - Qiita",
-    "link": "https://qiita.com/KeppyNaushika/items/53936b0ef3f87104e398",
-    "pubDate": "2025-12-12T11:29:41.000Z"
   },
   {
     "site": "Hatena",
@@ -54,6 +84,12 @@
     "pubDate": "2025-12-12T10:09:25.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AIに「愛」は伝わるのか",
+    "link": "https://qiita.com/makimuramakoto/items/337f35e3d10f8cee6a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T09:41:05.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう",
     "link": "https://zenn.dev/livetoon/articles/04dccf642d324c",
@@ -61,15 +97,39 @@
   },
   {
     "site": "Zenn",
-    "title": "シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている",
-    "link": "https://zenn.dev/moneyforward/articles/0a9e517a02ddbd",
-    "pubDate": "Fri, 12 Dec 2025 08:48:08 GMT"
+    "title": "🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想",
+    "link": "https://zenn.dev/myui/articles/64f31faaf1488c",
+    "pubDate": "Fri, 12 Dec 2025 08:47:40 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "PleasanterAPIのブリッジ機能ライブラリを作りました",
+    "link": "https://qiita.com/oosugi-t/items/7098f636983f7ce089ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T08:01:59.000Z"
   },
   {
     "site": "Zenn",
     "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
     "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
     "pubDate": "Fri, 12 Dec 2025 03:46:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Vim/Neovim入門】モダンな開発環境を最短で構築する",
+    "link": "https://zenn.dev/kosments/articles/3d799096e05673",
+    "pubDate": "2025-12-12T03:07:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Go 1.25 testing/synctestの使い所とは? もう非同期処理を含むテストで悩まない",
+    "link": "https://zenn.dev/ubie_dev/articles/38a4dd255866ff",
+    "pubDate": "Fri, 12 Dec 2025 01:09:32 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "一種類の記号だけで個数を数える方法は「1進法」ではない",
+    "link": "https://qiita.com/hibit/items/8f0e0f57e35711474a79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T00:34:06.000Z"
   },
   {
     "site": "Zenn",
@@ -84,46 +144,10 @@
     "pubDate": "Thu, 11 Dec 2025 22:47:16 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "T2セキュリティチップ搭載のMacBook Pro （2019）にLinux Mintを入れてみた話",
-    "link": "https://qiita.com/hirotask/items/5d9a2f6ea8e1484e04d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:08:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "基礎を学んだ現場と教訓",
-    "link": "https://qiita.com/a_any/items/0bafc5f56ba78b61fb3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:06:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "EC2起動時にユーザーデータを利用して初期設定を自動化する",
-    "link": "https://qiita.com/g-nawa/items/49112e81ab9b535081f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:06:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Excel関数のみでデータの内部結合を実現する方法",
-    "link": "https://qiita.com/Yuki_Ishikawa/items/7c3f121c03c3f8912f3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:05:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "面倒だから作った！Google Calendarの予定をGASでスプレッドシートに書き出して作業時間を集計",
-    "link": "https://qiita.com/tomosu_engine/items/35e17c0995c44e7ac6ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:05:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "LLMさんにボディビル大会までの1年間の減量データを分析してもらった",
-    "link": "https://qiita.com/mercy-333/items/c5dc9402c8d6095ee5e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T22:04:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "log.debug() だけでは見えなかった世界を OpenTelemetry が見せてくれた話",
-    "link": "https://qiita.com/kyojinnaapyon/items/cf5efe38f9ab280ca5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T17:42:07.000Z"
+    "site": "Zenn",
+    "title": "今Go言語を採用する理由をなるべく定量的に考えてみる",
+    "link": "https://zenn.dev/it_tsumugi/articles/894d59963a9cbb",
+    "pubDate": "Thu, 11 Dec 2025 19:17:42 GMT"
   },
   {
     "site": "Zenn",
@@ -138,28 +162,10 @@
     "pubDate": "Thu, 11 Dec 2025 16:40:50 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeのコンテキストを節約する",
-    "link": "https://zenn.dev/karaage0703/articles/1f30a572ff8460",
-    "pubDate": "Thu, 11 Dec 2025 13:33:29 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "メンタルの話",
     "link": "https://qiita.com/hachiyama/items/bfccbb1a24940433a269?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-11T12:09:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)",
-    "link": "https://zenn.dev/himara2/articles/755a0a2c4678c0",
-    "pubDate": "Thu, 11 Dec 2025 10:48:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "View TransitionでわかるNext.jsとAstroの設計思想",
-    "link": "https://zenn.dev/ignorant_kenji/articles/6f501784ee2812",
-    "pubDate": "Thu, 11 Dec 2025 05:32:13 GMT"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」",
-    "link": "https://qiita.com/shota_hanawa/items/e242d826570e4292e388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-09T22:06:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "心理的安全性は作らない",
-    "link": "https://speakerdeck.com/akiowatanabe/xin-li-de-an-quan-xing-hazuo-ranai",
-    "pubDate": "2020-04-04T02:25:05.000Z"
+    "title": "Next.jsの脆弱性を数日放置したら暗号通貨マイナーを仕込まれた話",
+    "link": "https://qiita.com/KeppyNaushika/items/53936b0ef3f87104e398?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-10T13:38:09.000Z"
   }
 ]
