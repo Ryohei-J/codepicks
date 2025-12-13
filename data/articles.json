@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "個人開発のEC2が乗っ取られてMoneroを掘られていた話【CVE-2025-55182】｜ねころこ",
+    "link": "https://note.com/nekoroko/n/n729421e1cf8d",
+    "pubDate": "2025-12-12T23:14:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Next.jsの脆弱性を数日放置したら暗号通貨マイナーを仕込まれた話 - Qiita",
+    "link": "https://qiita.com/KeppyNaushika/items/53936b0ef3f87104e398",
+    "pubDate": "2025-12-12T11:29:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "専門家は話さないですよ(『専門家が「力」をセーブせずに全力で専門性を振り回してもリスペクトされる組織をつくりたい』を読んで) - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/12/163220",
+    "pubDate": "2025-12-12T11:15:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【速報】官邸偽サイト、設計コードにロシア語",
     "link": "https://www.47news.jp/13588157.html",
     "pubDate": "2025-12-12T10:16:14.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "俺が一番好きなデザインパターン「Strategy Pattern」の話",
+    "link": "https://zenn.dev/zozotech/articles/204d6bfe2e4314",
+    "pubDate": "2025-12-12T10:09:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう",
+    "link": "https://zenn.dev/livetoon/articles/04dccf642d324c",
+    "pubDate": "2025-12-12T09:08:45.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "ハードバウンスとソフトバウンスの間にあるもの - /var/lib/azumakuniyuki",
-    "link": "https://azumakuniyuki.hatenablog.com/entry/between-hard-bounce-and-soft-bounce",
-    "pubDate": "2025-12-12T08:16:12.000Z"
+    "title": "obsidian-gemini-helper/README_ja.md at master · takeshy/obsidian-gemini-helper",
+    "link": "https://github.com/takeshy/obsidian-gemini-helper/blob/master/README_ja.md",
+    "pubDate": "2025-12-12T07:39:39.000Z"
   },
   {
     "site": "Hatena",
@@ -18,34 +48,10 @@
     "pubDate": "2025-12-12T04:14:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "クラウドネイティブなデータベースはなぜコンピュートとストレージを分離するのか - hacomono TECH BLOG",
-    "link": "https://techblog.hacomono.jp/entry/2025/12/12/000000",
-    "pubDate": "2025-12-12T03:20:15.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話",
     "link": "https://zenn.dev/stafes_blog/articles/d7457519a2daec",
     "pubDate": "2025-12-12T02:55:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIで生成した「やたら長文だが内容は薄い情報」とか「意味のある情報が抜けた要約文」を上司や同僚に送りつけるのはやめようね、の話。 - フジイユウジ::ドットネット",
-    "link": "https://fujii-yuji.net/2025/12/12/085414",
-    "pubDate": "2025-12-12T00:09:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "“DRAMパニック”はなぜ起きたか、価格はいつ落ち着くのか？　狂騒の裏で起きていること",
-    "link": "https://www.itmedia.co.jp/news/articles/2512/12/news051.html",
-    "pubDate": "2025-12-11T23:33:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "かゆいところに手が届く！Geminiの小ワザ【個人的】8選",
-    "link": "https://zenn.dev/densan_techblog/articles/ef12b28ffb5893",
-    "pubDate": "2025-12-11T22:53:12.000Z"
   },
   {
     "site": "Qiita",
@@ -73,21 +79,27 @@
   },
   {
     "site": "Qiita",
+    "title": "面倒だから作った！Google Calendarの予定をGASでスプレッドシートに書き出して作業時間を集計",
+    "link": "https://qiita.com/tomosu_engine/items/35e17c0995c44e7ac6ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T22:05:21.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "LLMさんにボディビル大会までの1年間の減量データを分析してもらった",
     "link": "https://qiita.com/mercy-333/items/c5dc9402c8d6095ee5e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-11T22:04:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "log.debug() だけでは見えなかった世界を OpenTelemetry が見せてくれた話",
+    "link": "https://qiita.com/kyojinnaapyon/items/cf5efe38f9ab280ca5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-11T17:42:07.000Z"
   },
   {
     "site": "Zenn",
     "title": "詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌",
     "link": "https://zenn.dev/sohosai/articles/3ac46af14abd96",
     "pubDate": "Thu, 11 Dec 2025 17:31:43 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Nano Banana Proで遊ぼう！公開プロンプトまとめ｜てんねん｜AIイラストクリエイター",
-    "link": "https://note.com/munou_ac/n/nabe19ef84227",
-    "pubDate": "2025-12-11T15:55:09.000Z"
   },
   {
     "site": "Zenn",
@@ -100,12 +112,6 @@
     "title": "メンタルの話",
     "link": "https://qiita.com/hachiyama/items/bfccbb1a24940433a269?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-11T12:09:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIの力を借りて2人で10人分の仕事をする (2025年・個人開発)",
-    "link": "https://zenn.dev/himara2/articles/755a0a2c4678c0",
-    "pubDate": "2025-12-11T11:22:32.000Z"
   },
   {
     "site": "Zenn",
@@ -139,12 +145,6 @@
   },
   {
     "site": "Qiita",
-    "title": "現場エンジニアではない人事が、それでもQiitaを読む理由",
-    "link": "https://qiita.com/w_koichiro/items/5e334171c424783c0cc0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T23:19:05.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話",
     "link": "https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-10T22:07:24.000Z"
@@ -169,14 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "Zabbixで円周率の近似値を求めてみた",
-    "link": "https://qiita.com/nuon0414/items/d673b4ae6c3ce41953ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T11:19:09.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "実装2週間・要件定義4ヶ月。AI時代の開発で痛感した「上流工程の価値」",
     "link": "https://qiita.com/shota_hanawa/items/e242d826570e4292e388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-09T22:06:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "心理的安全性は作らない",
+    "link": "https://speakerdeck.com/akiowatanabe/xin-li-de-an-quan-xing-hazuo-ranai",
+    "pubDate": "2020-04-04T02:25:05.000Z"
   }
 ]
