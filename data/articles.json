@@ -1,15 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Code に draw.io の図を描かせるコツ",
+    "link": "https://zenn.dev/genda_jp/articles/2025-12-12-drawio-tips-claude-code",
+    "pubDate": "2025-12-13T17:40:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スターの多いOSSは、どのようなAGENTS.mdを記述しているのか調べてみました - freee Developers Hub",
+    "link": "https://developers.freee.co.jp/entry/oss-agents-md",
+    "pubDate": "2025-12-13T12:43:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ニコニコ公式の #ネット流行語100 で「ｴｯﾎｴｯﾎ」が選出されていたが、ちゃんと本家本元の写真を撮影したハニー・ヘーレさんにコメントを貰いに行っていて流石だった",
+    "link": "https://togetter.com/li/2638486",
+    "pubDate": "2025-12-13T10:35:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "メモリの動的確保はなぜ嫌われるのか？",
+    "link": "https://qiita.com/felis_silv/items/d7e7c84a6b712299102b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-13T07:05:49.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "アスクルがランサムウェア攻撃の調査レポートを公開、内容が様々なところに教訓を活かせそうだと話題に「セキュリティと利便性の天秤は難しい」",
     "link": "https://togetter.com/li/2638414",
     "pubDate": "2025-12-13T06:36:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS構成図を生成するためにAgent Skillsで試行錯誤してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/trial-and-error-aws-diagram-agent-skills/",
-    "pubDate": "2025-12-13T04:03:00.000Z"
   },
   {
     "site": "Hatena",
@@ -18,22 +36,22 @@
     "pubDate": "2025-12-13T02:00:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ランサムウェア攻撃の影響調査結果および安全性強化に向けた取り組みのご報告（ランサムウェア攻撃によるシステム障害関連・第 13 報）",
-    "link": "https://prtimes.jp/main/html/rd/p/000000500.000021550.html",
-    "pubDate": "2025-12-13T01:31:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "個人開発のEC2が乗っ取られてMoneroを掘られていた話【CVE-2025-55182】｜ねころこ",
-    "link": "https://note.com/nekoroko/n/n729421e1cf8d",
-    "pubDate": "2025-12-12T23:14:13.000Z"
+    "site": "Zenn",
+    "title": "初老を超えたエンジニアの現実2025",
+    "link": "https://zenn.dev/moshjp/articles/0bcfeba3bba295",
+    "pubDate": "2025-12-13T01:11:54.000Z"
   },
   {
     "site": "Qiita",
     "title": "その日、なぜお客様のサーバーは止まってしまったのか",
     "link": "https://qiita.com/KMKZ/items/f0d939cc81048fcde6af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T22:07:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AgentフレームワークStrands Agentsの設計思想をコードを追って理解する",
+    "link": "https://qiita.com/Yodeee/items/1882750551e3c932937c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T22:06:07.000Z"
   },
   {
     "site": "Qiita",
@@ -46,6 +64,12 @@
     "title": "問題を自分で解決する」から「チームで問題を解決できるようにする」へ——クリティカルシンキングで再考するエンジニアチームマネジメント",
     "link": "https://qiita.com/WANG_YUQUAN/items/87b5bbdb19892a095743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T22:04:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS認定資格以外でガバメントクラウド運用に役立ちそうな資格",
+    "link": "https://qiita.com/infra365/items/cf66d1a1dedacbfac1a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T20:46:21.000Z"
   },
   {
     "site": "Hatena",
@@ -84,16 +108,16 @@
     "pubDate": "2025-12-12T13:06:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GPT-5.2 Prompting Guide | OpenAI Cookbook",
-    "link": "https://cookbook.openai.com/examples/gpt-5/gpt-5-2_prompting_guide",
-    "pubDate": "2025-12-12T11:02:38.000Z"
+    "site": "Zenn",
+    "title": "lspmuxでrust-analyzer（あるいは任意のLSPサーバ）の起動を高速化する",
+    "link": "https://zenn.dev/dalance/articles/ad3443d6282ce2",
+    "pubDate": "Fri, 12 Dec 2025 09:38:44 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AIに「愛」は伝わるのか",
-    "link": "https://qiita.com/makimuramakoto/items/337f35e3d10f8cee6a29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T09:41:05.000Z"
+    "site": "Zenn",
+    "title": "シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている",
+    "link": "https://zenn.dev/moneyforward/articles/0a9e517a02ddbd",
+    "pubDate": "Fri, 12 Dec 2025 08:48:08 GMT"
   },
   {
     "site": "Zenn",
@@ -102,22 +126,16 @@
     "pubDate": "Fri, 12 Dec 2025 08:47:40 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "PleasanterAPIのブリッジ機能ライブラリを作りました",
-    "link": "https://qiita.com/oosugi-t/items/7098f636983f7ce089ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T08:01:59.000Z"
+    "site": "Zenn",
+    "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
+    "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
+    "pubDate": "2025-12-12T07:52:21.000Z"
   },
   {
     "site": "Zenn",
     "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
     "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
     "pubDate": "Fri, 12 Dec 2025 03:46:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Vim/Neovim入門】モダンな開発環境を最短で構築する",
-    "link": "https://zenn.dev/kosments/articles/3d799096e05673",
-    "pubDate": "2025-12-12T03:07:04.000Z"
   },
   {
     "site": "Zenn",
@@ -133,6 +151,12 @@
   },
   {
     "site": "Zenn",
+    "title": "実践ドメインモデリング！Modeling Forum 2025",
+    "link": "https://zenn.dev/hacobell_dev/articles/5a8894644e1e89",
+    "pubDate": "Fri, 12 Dec 2025 00:00:03 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "GraphQLを採用するか迷ったときに読む記事",
     "link": "https://zenn.dev/d0ne1s/articles/bfa82af01f8c2f",
     "pubDate": "Fri, 12 Dec 2025 00:00:02 GMT"
@@ -142,24 +166,6 @@
     "title": "クロックパズルを単因子論で解く",
     "link": "https://zenn.dev/lotz/articles/93f73c17145819",
     "pubDate": "Thu, 11 Dec 2025 22:47:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "今Go言語を採用する理由をなるべく定量的に考えてみる",
-    "link": "https://zenn.dev/it_tsumugi/articles/894d59963a9cbb",
-    "pubDate": "Thu, 11 Dec 2025 19:17:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌",
-    "link": "https://zenn.dev/sohosai/articles/3ac46af14abd96",
-    "pubDate": "Thu, 11 Dec 2025 17:31:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう",
-    "link": "https://zenn.dev/livetoon/articles/04dccf642d324c",
-    "pubDate": "Thu, 11 Dec 2025 16:40:50 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話",
     "link": "https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-10T22:07:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Next.jsの脆弱性を数日放置したら暗号通貨マイナーを仕込まれた話",
-    "link": "https://qiita.com/KeppyNaushika/items/53936b0ef3f87104e398?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T13:38:09.000Z"
   }
 ]
