@@ -1,9 +1,51 @@
 [
   {
+    "site": "Hatena",
+    "title": "Notebook LM に Kindle 本を突っ込む - set setting reset",
+    "link": "https://rriifftt.hatenablog.com/entry/2025/12/04/102528",
+    "pubDate": "2025-12-14T03:12:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「価値のあるシステム」を作るエンジニアのスタンス - 32万レコードのログシステム設計で実践したこと - Speee DEVELOPER BLOG",
+    "link": "https://tech.speee.jp/entry/engineer-stance-valuable-system-design",
+    "pubDate": "2025-12-14T02:34:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「継続」は力なり - 継続を知り、Promiseの限界を超え、Effect Systemへ - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2025/12/14/100000",
+    "pubDate": "2025-12-14T01:29:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "予約処理で結果整合を実現するための実装パターン - 一休.com Developers Blog",
+    "link": "https://user-first.ikyu.co.jp/entry/2025/12/13/185316",
+    "pubDate": "2025-12-14T00:31:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MacBook Airが欲しいという娘に夫が「俺はLinuxフリークだ、買い与えるパソコンOSをLinuxにする」と言うので倒したい",
+    "link": "https://togetter.com/li/2638625",
+    "pubDate": "2025-12-13T22:58:40.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Code に draw.io の図を描かせるコツ",
     "link": "https://zenn.dev/genda_jp/articles/2025-12-12-drawio-tips-claude-code",
     "pubDate": "2025-12-13T17:40:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLM学習における実験管理入門（W&B）",
+    "link": "https://zenn.dev/mkj/articles/52697fbd2ad133",
+    "pubDate": "Sat, 13 Dec 2025 15:00:06 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "『原神』級のゲームはこうして生まれた──PCオンライン黎明期から『原神』・『Black Myth』までの20年と、日本の勝ち筋｜うきょう|フリーゲームプロデューサー兼マーケッター（株スタジオデルタ代表）",
+    "link": "https://note.com/ukyousan/n/ncabf042cc01b",
+    "pubDate": "2025-12-13T13:27:46.000Z"
   },
   {
     "site": "Hatena",
@@ -12,28 +54,10 @@
     "pubDate": "2025-12-13T12:43:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ニコニコ公式の #ネット流行語100 で「ｴｯﾎｴｯﾎ」が選出されていたが、ちゃんと本家本元の写真を撮影したハニー・ヘーレさんにコメントを貰いに行っていて流石だった",
-    "link": "https://togetter.com/li/2638486",
-    "pubDate": "2025-12-13T10:35:58.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "メモリの動的確保はなぜ嫌われるのか？",
     "link": "https://qiita.com/felis_silv/items/d7e7c84a6b712299102b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-13T07:05:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アスクルがランサムウェア攻撃の調査レポートを公開、内容が様々なところに教訓を活かせそうだと話題に「セキュリティと利便性の天秤は難しい」",
-    "link": "https://togetter.com/li/2638414",
-    "pubDate": "2025-12-13T06:36:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "キーエンス、グーグル、成城石井…「あの企業のすごさ」が面白いほど分かる8冊",
-    "link": "https://bookplus.nikkei.com/atcl/column/051200507/120900004/",
-    "pubDate": "2025-12-13T02:00:20.000Z"
   },
   {
     "site": "Zenn",
@@ -72,22 +96,16 @@
     "pubDate": "2025-12-12T20:46:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "『日本のロボットが「剣」で戦うのは、海外でかなり不思議がられる』…から始まる大議論。かっこいいからは説明になるか？ケレンとは？リアリティとは？",
-    "link": "https://posfie.com/@OOEDO4/p/NGQH8r6",
-    "pubDate": "2025-12-12T20:15:07.000Z"
+    "site": "Zenn",
+    "title": "Upcoming pybotters 2.0",
+    "link": "https://zenn.dev/mtkn1/articles/upcoming-pybotters-2",
+    "pubDate": "Fri, 12 Dec 2025 17:20:53 GMT"
   },
   {
     "site": "Zenn",
     "title": "初老を超えたエンジニアの現実2025",
     "link": "https://zenn.dev/moshjp/articles/0bcfeba3bba295",
     "pubDate": "Fri, 12 Dec 2025 16:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "セキュリティエンジニアの知識地図：読んでみた！ - Qiita",
-    "link": "https://qiita.com/loverboy/items/7dc19dd27bc7449f7aee",
-    "pubDate": "2025-12-12T15:05:09.000Z"
   },
   {
     "site": "Zenn",
@@ -100,12 +118,6 @@
     "title": "セキュリティエンジニアの知識地図：読んでみた！",
     "link": "https://qiita.com/loverboy/items/7dc19dd27bc7449f7aee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T14:15:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS設計ガイドラインを公開しました | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20251212a/",
-    "pubDate": "2025-12-12T13:06:47.000Z"
   },
   {
     "site": "Zenn",
@@ -127,6 +139,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Next.jsのApp RouterとRSC、Server Functionsはコロケーションのために使うとちょうどいい",
+    "link": "https://zenn.dev/pksha/articles/bb1118afac4a24",
+    "pubDate": "Fri, 12 Dec 2025 08:31:52 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
     "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
     "pubDate": "2025-12-12T07:52:21.000Z"
@@ -138,28 +156,10 @@
     "pubDate": "Fri, 12 Dec 2025 03:46:38 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Go 1.25 testing/synctestの使い所とは? もう非同期処理を含むテストで悩まない",
-    "link": "https://zenn.dev/ubie_dev/articles/38a4dd255866ff",
-    "pubDate": "Fri, 12 Dec 2025 01:09:32 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "一種類の記号だけで個数を数える方法は「1進法」ではない",
     "link": "https://qiita.com/hibit/items/8f0e0f57e35711474a79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T00:34:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "実践ドメインモデリング！Modeling Forum 2025",
-    "link": "https://zenn.dev/hacobell_dev/articles/5a8894644e1e89",
-    "pubDate": "Fri, 12 Dec 2025 00:00:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GraphQLを採用するか迷ったときに読む記事",
-    "link": "https://zenn.dev/d0ne1s/articles/bfa82af01f8c2f",
-    "pubDate": "Fri, 12 Dec 2025 00:00:02 GMT"
   },
   {
     "site": "Zenn",
