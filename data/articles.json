@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "Lessons from React2Shell",
+    "link": "https://dev.to/cheetah100/lessons-from-react2shell-1m8b",
+    "pubDate": "2025-12-14T06:26:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『国税庁のAIの使い方、正しいうえに強くて笑うw』......所得税調査の追徴税額が1431億円、2009年以降で過去最高を更新。",
+    "link": "https://posfie.com/@Count_Down_000/p/OFpoK7M",
+    "pubDate": "2025-12-14T03:29:31.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Notebook LM に Kindle 本を突っ込む - set setting reset",
     "link": "https://rriifftt.hatenablog.com/entry/2025/12/04/102528",
     "pubDate": "2025-12-14T03:12:07.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「価値のあるシステム」を作るエンジニアのスタンス - 32万レコードのログシステム設計で実践したこと - Speee DEVELOPER BLOG",
-    "link": "https://tech.speee.jp/entry/engineer-stance-valuable-system-design",
-    "pubDate": "2025-12-14T02:34:57.000Z"
+    "title": "AIは数学者になれるか　数学界に衝撃、証明検証ソフトLean登場：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASTD333PNTD3DIFI004M.html",
+    "pubDate": "2025-12-14T01:38:34.000Z"
   },
   {
     "site": "Hatena",
@@ -19,15 +31,27 @@
   },
   {
     "site": "Hatena",
+    "title": "【大バズリ】NotebookLMスライドをパワポやGIF画像に即変換するCanvas。ん…Canvas！？【コード無料配布】｜まじん",
+    "link": "https://note.com/majin_108/n/n21d838108820",
+    "pubDate": "2025-12-14T01:12:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "予約処理で結果整合を実現するための実装パターン - 一休.com Developers Blog",
     "link": "https://user-first.ikyu.co.jp/entry/2025/12/13/185316",
     "pubDate": "2025-12-14T00:31:42.000Z"
   },
   {
     "site": "Hatena",
-    "title": "MacBook Airが欲しいという娘に夫が「俺はLinuxフリークだ、買い与えるパソコンOSをLinuxにする」と言うので倒したい",
-    "link": "https://togetter.com/li/2638625",
-    "pubDate": "2025-12-13T22:58:40.000Z"
+    "title": "無料のWebサービス「画像減色ツール」公開！　高精度なドット絵変換機能搭載、商用利用可",
+    "link": "https://cgworld.jp/flashnews/01-202512-ColorQuantizer.html",
+    "pubDate": "2025-12-14T00:06:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "プログラムに1文字加えて本番環境のバッチ処理を4倍遅くした",
+    "link": "https://qiita.com/nfujita55a/items/260750312c565835acaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-13T21:37:51.000Z"
   },
   {
     "site": "Zenn",
@@ -43,27 +67,21 @@
   },
   {
     "site": "Hatena",
-    "title": "『原神』級のゲームはこうして生まれた──PCオンライン黎明期から『原神』・『Black Myth』までの20年と、日本の勝ち筋｜うきょう|フリーゲームプロデューサー兼マーケッター（株スタジオデルタ代表）",
-    "link": "https://note.com/ukyousan/n/ncabf042cc01b",
-    "pubDate": "2025-12-13T13:27:46.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "スターの多いOSSは、どのようなAGENTS.mdを記述しているのか調べてみました - freee Developers Hub",
     "link": "https://developers.freee.co.jp/entry/oss-agents-md",
     "pubDate": "2025-12-13T12:43:00.000Z"
   },
   {
     "site": "Qiita",
+    "title": "「7日間でハッキングをはじめる本」をやってみての感想",
+    "link": "https://qiita.com/kenken88/items/5082787653b75a285f24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-13T07:20:55.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "メモリの動的確保はなぜ嫌われるのか？",
     "link": "https://qiita.com/felis_silv/items/d7e7c84a6b712299102b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-13T07:05:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "初老を超えたエンジニアの現実2025",
-    "link": "https://zenn.dev/moshjp/articles/0bcfeba3bba295",
-    "pubDate": "2025-12-13T01:11:54.000Z"
   },
   {
     "site": "Qiita",
@@ -76,18 +94,6 @@
     "title": "AgentフレームワークStrands Agentsの設計思想をコードを追って理解する",
     "link": "https://qiita.com/Yodeee/items/1882750551e3c932937c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T22:06:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Gemini】コード差分を「フローチャート」にしてロジック確認を爆速化する方法",
-    "link": "https://qiita.com/yyy0123/items/a95496ecd624e95b80f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T22:04:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "問題を自分で解決する」から「チームで問題を解決できるようにする」へ——クリティカルシンキングで再考するエンジニアチームマネジメント",
-    "link": "https://qiita.com/WANG_YUQUAN/items/87b5bbdb19892a095743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T22:04:20.000Z"
   },
   {
     "site": "Qiita",
@@ -106,6 +112,12 @@
     "title": "初老を超えたエンジニアの現実2025",
     "link": "https://zenn.dev/moshjp/articles/0bcfeba3bba295",
     "pubDate": "Fri, 12 Dec 2025 16:00:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "とりあえずGUIが欲しいならStreamlitがおすすめ",
+    "link": "https://qiita.com/kagawa0710/items/39b1c7ab84e703554bb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T15:06:47.000Z"
   },
   {
     "site": "Zenn",
@@ -147,12 +159,6 @@
     "site": "Zenn",
     "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
     "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
-    "pubDate": "2025-12-12T07:52:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
-    "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
     "pubDate": "Fri, 12 Dec 2025 03:46:38 GMT"
   },
   {
@@ -172,11 +178,5 @@
     "title": "メンタルの話",
     "link": "https://qiita.com/hachiyama/items/bfccbb1a24940433a269?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-11T12:09:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話",
-    "link": "https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-10T22:07:24.000Z"
   }
 ]
