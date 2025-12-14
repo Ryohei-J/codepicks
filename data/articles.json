@@ -6,6 +6,12 @@
     "pubDate": "2025-12-14T06:26:30.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "FastAPIの作者が作った「SQLModel」が革命的すぎるので、全Python使いに教えたい",
+    "link": "https://zenn.dev/livetoon/articles/9923c448c2734c",
+    "pubDate": "2025-12-14T04:37:08.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "『国税庁のAIの使い方、正しいうえに強くて笑うw』......所得税調査の追徴税額が1431億円、2009年以降で過去最高を更新。",
     "link": "https://posfie.com/@Count_Down_000/p/OFpoK7M",
@@ -25,9 +31,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「継続」は力なり - 継続を知り、Promiseの限界を超え、Effect Systemへ - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2025/12/14/100000",
-    "pubDate": "2025-12-14T01:29:11.000Z"
+    "title": "SmartHR炎上から考える、テックブログの本当の役割——萎縮・自粛が招く採用リスク｜久松剛",
+    "link": "https://comemo.nikkei.com/n/na309074e4534",
+    "pubDate": "2025-12-14T01:12:58.000Z"
   },
   {
     "site": "Hatena",
@@ -61,15 +67,15 @@
   },
   {
     "site": "Zenn",
+    "title": "【React / Next.js】RSC続報：結局なにをすればいいか（55183 / 55184 / 67779）",
+    "link": "https://zenn.dev/divsawa/articles/20251214_nextjs-incident",
+    "pubDate": "Sat, 13 Dec 2025 15:19:34 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "LLM学習における実験管理入門（W&B）",
     "link": "https://zenn.dev/mkj/articles/52697fbd2ad133",
     "pubDate": "Sat, 13 Dec 2025 15:00:06 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "スターの多いOSSは、どのようなAGENTS.mdを記述しているのか調べてみました - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/oss-agents-md",
-    "pubDate": "2025-12-13T12:43:00.000Z"
   },
   {
     "site": "Qiita",
@@ -133,27 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "lspmuxでrust-analyzer（あるいは任意のLSPサーバ）の起動を高速化する",
-    "link": "https://zenn.dev/dalance/articles/ad3443d6282ce2",
-    "pubDate": "Fri, 12 Dec 2025 09:38:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "シフトレフトは施策ではない --- 品質の作り込みは最初から始まっている",
-    "link": "https://zenn.dev/moneyforward/articles/0a9e517a02ddbd",
-    "pubDate": "Fri, 12 Dec 2025 08:48:08 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想",
     "link": "https://zenn.dev/myui/articles/64f31faaf1488c",
     "pubDate": "Fri, 12 Dec 2025 08:47:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsのApp RouterとRSC、Server Functionsはコロケーションのために使うとちょうどいい",
-    "link": "https://zenn.dev/pksha/articles/bb1118afac4a24",
-    "pubDate": "Fri, 12 Dec 2025 08:31:52 GMT"
   },
   {
     "site": "Zenn",
@@ -172,6 +160,18 @@
     "title": "クロックパズルを単因子論で解く",
     "link": "https://zenn.dev/lotz/articles/93f73c17145819",
     "pubDate": "Thu, 11 Dec 2025 22:47:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code に draw.io の図を描かせるコツ",
+    "link": "https://zenn.dev/genda_jp/articles/2025-12-12-drawio-tips-claude-code",
+    "pubDate": "Thu, 11 Dec 2025 22:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "今Go言語を採用する理由をなるべく定量的に考えてみる",
+    "link": "https://zenn.dev/it_tsumugi/articles/894d59963a9cbb",
+    "pubDate": "Thu, 11 Dec 2025 19:17:42 GMT"
   },
   {
     "site": "Qiita",
