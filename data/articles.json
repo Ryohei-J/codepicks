@@ -7,6 +7,24 @@
   },
   {
     "site": "Hatena",
+    "title": "じぶんが管理職になれるわけないじゃん、ムリムリ! (※ムリでもやるんだ!!) - NTT docomo Business Engineers' Blog",
+    "link": "https://engineers.ntt.com/entry/20251215-advent-calendar-day15/entry",
+    "pubDate": "2025-12-15T03:12:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【アドベントカレンダー2025】【NotebookLM × Gemini】仕様書からテスト項目書を自動生成する「専門家AI」の育て方 -ぐるなび組織間連携の事例- - ぐるなびをちょっと良くするエンジニアブログ",
+    "link": "https://developers.gnavi.co.jp/entry/adventcalendar-251215-1/",
+    "pubDate": "2025-12-15T03:06:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "わずか13cmのディスクに360TBのデータを138億年保存できるガラスストレージ技術「5次元メモリクリスタル」が実現間近",
+    "link": "https://gigazine.net/news/20251215-sphotonix-5d-memory-crystal/",
+    "pubDate": "2025-12-15T02:36:24.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Amazon、一部のKindle本がEPUBまたはPDF形式でのダウンロードに対応へ。2026年1月20日から【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2071209.html",
     "pubDate": "2025-12-15T02:26:12.000Z"
@@ -24,22 +42,40 @@
     "pubDate": "2025-12-15T01:59:53.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "「状態」ではなく「変化（イベント）」を保存したい",
+    "link": "https://zenn.dev/dress_code/articles/5d94f6c817efb3",
+    "pubDate": "Mon, 15 Dec 2025 00:00:03 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "たった1日で実務経験が積める神ゲー『農家はReplace()されました』",
+    "link": "https://zenn.dev/oginoshikibu/articles/5a0c30f39c08f9",
+    "pubDate": "Sun, 14 Dec 2025 23:00:02 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【特集】 メモリ価格が2.8倍に爆上げ。SSDも合わせて高騰中。それでも今買ったほうがいい理由とは？",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2071150.html",
     "pubDate": "2025-12-14T22:13:18.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "HTTPプロトコルのAPI GatewayをCloudFront経由のリクエストのみに制限してみた",
+    "link": "https://qiita.com/rc-saka/items/01f82f85e76b17cf9567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-14T17:02:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Feature Flag の量産に耐えられる Go のライブラリを作りました",
+    "link": "https://zenn.dev/mpyw/articles/go-context-feature-flags",
+    "pubDate": "Sun, 14 Dec 2025 15:17:02 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "AgentOps入門　〜LLM時代の新たな運用パラダイム〜",
     "link": "https://zenn.dev/mkj/articles/438de5dc603084",
     "pubDate": "Sun, 14 Dec 2025 15:00:04 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "理想の Workflow Platform という“聖杯”に、n8n でついに手が届くかもしれない | メルカリエンジニアリング",
-    "link": "https://engineering.mercari.com/blog/entry/20251211-cf3b67a5a7/",
-    "pubDate": "2025-12-14T14:32:19.000Z"
   },
   {
     "site": "Hatena",
@@ -54,24 +90,6 @@
     "pubDate": "2025-12-14T12:19:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "｢AIと違って人間は責任取れるから」とか言ってる奴､自惚れすぎだろ",
-    "link": "https://anond.hatelabo.jp/20251214182609",
-    "pubDate": "2025-12-14T09:30:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「単一戦略」から「アンサンブル」へ。Strategy Factoryパターンで挑む、シャープレシオ向上の技術",
-    "link": "https://zenn.dev/ageonsen/articles/ce692f471787d8",
-    "pubDate": "Sun, 14 Dec 2025 08:57:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ChatGPTの記憶システムはRAGを使っていなかった - 4層アーキテクチャの衝撃",
-    "link": "https://zenn.dev/tenormusica/articles/chatgpt-memory-no-rag-2025",
-    "pubDate": "2025-12-14T08:52:28.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "臆病な私の JAWS-UG 2年間の歩き方",
     "link": "https://qiita.com/tetutetu214/items/38051ebaee2733bf5d1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -82,6 +100,12 @@
     "title": "Just image Transformer: ピクセル空間で実画像を予測するフローマッチングモデル",
     "link": "https://zenn.dev/platina/articles/jit-pixel-space-x-pred",
     "pubDate": "Sun, 14 Dec 2025 07:17:50 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "React2Shellを使用して攻撃してみた",
+    "link": "https://qiita.com/Kengo2003/items/ff3c30e60835d2dad9cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-14T07:02:39.000Z"
   },
   {
     "site": "Zenn",
@@ -109,21 +133,15 @@
   },
   {
     "site": "Qiita",
-    "title": "レビューしやすい設計書を作ってくれるエージェント決定戦！ cc-sddで設計書作って比べてみた",
-    "link": "https://qiita.com/kaaaichi_i/items/7083543acaad53c39b30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-14T00:16:41.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "開発者ツールでテストしたら本番環境だった話 〜不正入力とバリデーションの大事さ〜",
     "link": "https://qiita.com/nprimem/items/ed8179c858695c1e31ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-13T22:09:14.000Z"
   },
   {
     "site": "Qiita",
-    "title": "「井の中の蛙」だった私が、転職活動で目の当たりにした \"実力不足\" 〜勘違いしていた駆け出しの私へ〜",
-    "link": "https://qiita.com/hasuto/items/fe0ecc9d07a286baa4f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-13T22:05:59.000Z"
+    "title": "日々のコンディションを“軽いデバッグ”として扱ってみる、そんな試みの話。",
+    "link": "https://qiita.com/neru_maru_2025/items/7760b6bc9e5750c1be0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-13T22:06:37.000Z"
   },
   {
     "site": "Qiita",
@@ -136,18 +154,6 @@
     "title": "【React / Next.js】RSC続報：結局なにをすればいいか（55183 / 55184 / 67779）",
     "link": "https://zenn.dev/divsawa/articles/20251214_nextjs-incident",
     "pubDate": "Sat, 13 Dec 2025 15:19:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Live2Dの代替？Inochi2DでAI生成キャラをアバター化してみた",
-    "link": "https://zenn.dev/riti0208/articles/db69f68eaab5d1",
-    "pubDate": "Sat, 13 Dec 2025 15:08:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLM学習における実験管理入門（W&B）",
-    "link": "https://zenn.dev/mkj/articles/52697fbd2ad133",
-    "pubDate": "Sat, 13 Dec 2025 15:00:06 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "その日、なぜお客様のサーバーは止まってしまったのか",
-    "link": "https://qiita.com/KMKZ/items/f0d939cc81048fcde6af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T22:07:50.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "とりあえずGUIが欲しいならStreamlitがおすすめ",
     "link": "https://qiita.com/kagawa0710/items/39b1c7ab84e703554bb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T15:06:47.000Z"
   },
   {
     "site": "Qiita",
-    "title": "セキュリティエンジニアの知識地図：読んでみた！",
-    "link": "https://qiita.com/loverboy/items/7dc19dd27bc7449f7aee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T14:15:24.000Z"
+    "title": "「東京パソコンクラブ」 ――乃木坂46が見せる美しさとひたむきさの両立――",
+    "link": "https://qiita.com/sayaka46/items/ef49cb45c34b5232e4a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-12T09:40:15.000Z"
   }
 ]
