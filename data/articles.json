@@ -1,9 +1,63 @@
 [
   {
     "site": "Hatena",
-    "title": "Lessons from React2Shell",
-    "link": "https://dev.to/cheetah100/lessons-from-react2shell-1m8b",
-    "pubDate": "2025-12-14T06:26:30.000Z"
+    "title": "【特集】 メモリ価格が2.8倍に爆上げ。SSDも合わせて高騰中。それでも今買ったほうがいい理由とは？",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2071150.html",
+    "pubDate": "2025-12-14T22:13:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "理想の Workflow Platform という“聖杯”に、n8n でついに手が届くかもしれない | メルカリエンジニアリング",
+    "link": "https://engineering.mercari.com/blog/entry/20251211-cf3b67a5a7/",
+    "pubDate": "2025-12-14T14:32:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トランプの悪夢の制裁　メールアカウント削除、Kindle書籍消滅、クレジットカードは使用不能 | INODS UNVEIL",
+    "link": "https://inods.co.jp/topics/news/8230/",
+    "pubDate": "2025-12-14T12:50:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "普通の会社員が新しい図形を発見したのでハンガリーのポスドクの助けを借りてarXivに論文を投稿した話｜平野たいる｜MathKonnect",
+    "link": "https://note.com/tairu_mk/n/nbf238ec63c96",
+    "pubDate": "2025-12-14T12:19:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "｢AIと違って人間は責任取れるから」とか言ってる奴､自惚れすぎだろ",
+    "link": "https://anond.hatelabo.jp/20251214182609",
+    "pubDate": "2025-12-14T09:30:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「単一戦略」から「アンサンブル」へ。Strategy Factoryパターンで挑む、シャープレシオ向上の技術",
+    "link": "https://zenn.dev/ageonsen/articles/ce692f471787d8",
+    "pubDate": "Sun, 14 Dec 2025 08:57:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot の回答精度が大きく変わる。「.instructions.md」の書き方",
+    "link": "https://zenn.dev/cscloud_blog/articles/0d27a926eff4cc",
+    "pubDate": "2025-12-14T08:51:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "臆病な私の JAWS-UG 2年間の歩き方",
+    "link": "https://qiita.com/tetutetu214/items/38051ebaee2733bf5d1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-14T07:52:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Just image Transformer: ピクセル空間で実画像を予測するフローマッチングモデル",
+    "link": "https://zenn.dev/platina/articles/jit-pixel-space-x-pred",
+    "pubDate": "Sun, 14 Dec 2025 07:17:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【OSS】Rust + gpuiで高速なファイルエクスプローラを作り始めた話",
+    "link": "https://zenn.dev/syuya2036/articles/7f02faaf8c8ec4",
+    "pubDate": "Sun, 14 Dec 2025 06:30:29 GMT"
   },
   {
     "site": "Zenn",
@@ -24,28 +78,22 @@
     "pubDate": "2025-12-14T03:12:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIは数学者になれるか　数学界に衝撃、証明検証ソフトLean登場：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASTD333PNTD3DIFI004M.html",
-    "pubDate": "2025-12-14T01:38:34.000Z"
+    "site": "Zenn",
+    "title": "Tree-shaking に対応したバンドルサイズを計算してくれる Rolldphobia を作った",
+    "link": "https://zenn.dev/ssssota/articles/rolldphobia-intro",
+    "pubDate": "Sun, 14 Dec 2025 02:53:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "SmartHR炎上から考える、テックブログの本当の役割——萎縮・自粛が招く採用リスク｜久松剛",
-    "link": "https://comemo.nikkei.com/n/na309074e4534",
-    "pubDate": "2025-12-14T01:12:58.000Z"
+    "site": "Zenn",
+    "title": "AI設計壁打ちに使える、小さな合意を積み重ねるプロトコルを作った",
+    "link": "https://zenn.dev/erukiti/articles/2512-micro-commit-protocol",
+    "pubDate": "Sun, 14 Dec 2025 02:01:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【大バズリ】NotebookLMスライドをパワポやGIF画像に即変換するCanvas。ん…Canvas！？【コード無料配布】｜まじん",
-    "link": "https://note.com/majin_108/n/n21d838108820",
-    "pubDate": "2025-12-14T01:12:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "予約処理で結果整合を実現するための実装パターン - 一休.com Developers Blog",
-    "link": "https://user-first.ikyu.co.jp/entry/2025/12/13/185316",
-    "pubDate": "2025-12-14T00:31:42.000Z"
+    "site": "Qiita",
+    "title": "レビューしやすい設計書を作ってくれるエージェント決定戦！ cc-sddで設計書作って比べてみた",
+    "link": "https://qiita.com/kaaaichi_i/items/7083543acaad53c39b30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-14T00:16:41.000Z"
   },
   {
     "site": "Hatena",
@@ -55,15 +103,21 @@
   },
   {
     "site": "Qiita",
+    "title": "開発者ツールでテストしたら本番環境だった話 〜不正入力とバリデーションの大事さ〜",
+    "link": "https://qiita.com/nprimem/items/ed8179c858695c1e31ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-13T22:09:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「井の中の蛙」だった私が、転職活動で目の当たりにした \"実力不足\" 〜勘違いしていた駆け出しの私へ〜",
+    "link": "https://qiita.com/hasuto/items/fe0ecc9d07a286baa4f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-13T22:05:59.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "プログラムに1文字加えて本番環境のバッチ処理を4倍遅くした",
     "link": "https://qiita.com/nfujita55a/items/260750312c565835acaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-13T21:37:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code に draw.io の図を描かせるコツ",
-    "link": "https://zenn.dev/genda_jp/articles/2025-12-12-drawio-tips-claude-code",
-    "pubDate": "2025-12-13T17:40:30.000Z"
   },
   {
     "site": "Zenn",
@@ -84,6 +138,12 @@
     "pubDate": "2025-12-13T07:20:55.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "RAGを埋め込んだGeminiをコマンドで使う(Obsidian,NeoVim対応)",
+    "link": "https://zenn.dev/takeshy/articles/8883e8387e0b35",
+    "pubDate": "Sat, 13 Dec 2025 07:10:09 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "メモリの動的確保はなぜ嫌われるのか？",
     "link": "https://qiita.com/felis_silv/items/d7e7c84a6b712299102b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,24 +154,6 @@
     "title": "その日、なぜお客様のサーバーは止まってしまったのか",
     "link": "https://qiita.com/KMKZ/items/f0d939cc81048fcde6af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T22:07:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AgentフレームワークStrands Agentsの設計思想をコードを追って理解する",
-    "link": "https://qiita.com/Yodeee/items/1882750551e3c932937c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T22:06:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS認定資格以外でガバメントクラウド運用に役立ちそうな資格",
-    "link": "https://qiita.com/infra365/items/cf66d1a1dedacbfac1a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T20:46:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Upcoming pybotters 2.0",
-    "link": "https://zenn.dev/mtkn1/articles/upcoming-pybotters-2",
-    "pubDate": "Fri, 12 Dec 2025 17:20:53 GMT"
   },
   {
     "site": "Zenn",
@@ -136,47 +178,5 @@
     "title": "セキュリティエンジニアの知識地図：読んでみた！",
     "link": "https://qiita.com/loverboy/items/7dc19dd27bc7449f7aee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-12T14:15:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想",
-    "link": "https://zenn.dev/myui/articles/64f31faaf1488c",
-    "pubDate": "Fri, 12 Dec 2025 08:47:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "緯度経度からの住所検索！〜日本の住所に絶望し、希望を見つけるまで〜",
-    "link": "https://zenn.dev/layerx/articles/489e81aae2e33b",
-    "pubDate": "Fri, 12 Dec 2025 03:46:38 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "一種類の記号だけで個数を数える方法は「1進法」ではない",
-    "link": "https://qiita.com/hibit/items/8f0e0f57e35711474a79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T00:34:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "クロックパズルを単因子論で解く",
-    "link": "https://zenn.dev/lotz/articles/93f73c17145819",
-    "pubDate": "Thu, 11 Dec 2025 22:47:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code に draw.io の図を描かせるコツ",
-    "link": "https://zenn.dev/genda_jp/articles/2025-12-12-drawio-tips-claude-code",
-    "pubDate": "Thu, 11 Dec 2025 22:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "今Go言語を採用する理由をなるべく定量的に考えてみる",
-    "link": "https://zenn.dev/it_tsumugi/articles/894d59963a9cbb",
-    "pubDate": "Thu, 11 Dec 2025 19:17:42 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "メンタルの話",
-    "link": "https://qiita.com/hachiyama/items/bfccbb1a24940433a269?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-11T12:09:40.000Z"
   }
 ]
