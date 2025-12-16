@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "ベテランプログラマは生成AIをどう活用しているのか？そして初学者は生成AIをどう活用すべきか？ - give IT a try",
+    "link": "https://blog.jnito.com/entry/2025/12/15/073604",
+    "pubDate": "2025-12-15T22:16:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本人プログラマ向け、プログラミングに適した「フォント」まとめ。2025年版",
+    "link": "https://www.publickey1.jp/blog/25/2025_1.html",
+    "pubDate": "2025-12-15T14:16:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アマゾン、Kindle本の内容を「ネタバレなし」でAIに質問可能に　作家は拒否できず",
+    "link": "https://japan.cnet.com/article/35241670/",
+    "pubDate": "2025-12-15T11:59:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIエージェント/MCPサーバー実装ガイドを作成しました | SIOS Tech Lab",
     "link": "https://tech-lab.sios.jp/archives/50769",
     "pubDate": "2025-12-15T10:07:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜ人を集めてもチームにならないのか",
+    "link": "https://zenn.dev/jugyo/articles/2457a1389966f6",
+    "pubDate": "2025-12-15T10:06:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Git Worktreeでブランチごとにデータベースも分離 —— Docker Volume スナップショットの活用",
+    "link": "https://zenn.dev/layerx/articles/6539bf1842f1e0",
+    "pubDate": "Mon, 15 Dec 2025 08:39:27 GMT"
   },
   {
     "site": "Hatena",
@@ -18,10 +48,10 @@
     "pubDate": "2025-12-15T03:40:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "技術書の読み放題サービス「TechLib」が開始、インプレス、オーム社、翔泳社など10社が参加／本文も含めた全文検索機能アリ、ソースコードはコピペ可能【Book Watch/ニュース】",
-    "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2070645.html",
-    "pubDate": "2025-12-15T03:27:19.000Z"
+    "site": "Qiita",
+    "title": "茶色になるまで1年かかったうさぎさんの入緑記事",
+    "link": "https://qiita.com/Un_titled/items/1b11a2649fe5e32ff3a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-15T03:39:05.000Z"
   },
   {
     "site": "Hatena",
@@ -31,27 +61,15 @@
   },
   {
     "site": "Hatena",
-    "title": "わずか13cmのディスクに360TBのデータを138億年保存できるガラスストレージ技術「5次元メモリクリスタル」が実現間近",
-    "link": "https://gigazine.net/news/20251215-sphotonix-5d-memory-crystal/",
-    "pubDate": "2025-12-15T02:36:24.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Amazon、一部のKindle本がEPUBまたはPDF形式でのダウンロードに対応へ。2026年1月20日から【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2071209.html",
     "pubDate": "2025-12-15T02:26:12.000Z"
   },
   {
     "site": "Hatena",
-    "title": "もしかして、無名企業のホームページってこうあるべきなんじゃないか！？ | Cone Inc. | 株式会社コーン",
-    "link": "https://coneinc.jp/corpsiteren/",
-    "pubDate": "2025-12-15T02:00:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【Go言語】死なないジョブワーカー処理～数万並行処理でも落ちない設計～",
-    "link": "https://levtech.jp/media/article/column/detail_767/",
-    "pubDate": "2025-12-15T01:59:53.000Z"
+    "title": "クラウド環境におけるランサムウェア対策の考え方 — HACK The Nikkei",
+    "link": "https://hack.nikkei.com/blog/advent20251214/",
+    "pubDate": "2025-12-15T02:01:07.000Z"
   },
   {
     "site": "Zenn",
@@ -64,6 +82,42 @@
     "title": "たった1日で実務経験が積める神ゲー『農家はReplace()されました』",
     "link": "https://zenn.dev/oginoshikibu/articles/5a0c30f39c08f9",
     "pubDate": "Sun, 14 Dec 2025 23:00:02 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Noto Sans JPで上下中央揃えにするやつ",
+    "link": "https://qiita.com/uhyo/items/f56055a360222a90564b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-14T22:11:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIが出せないコード",
+    "link": "https://qiita.com/Rasukarusan/items/87497a4c9754cf20f028?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-14T22:06:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "FPGAファミコンのはじめかた",
+    "link": "https://qiita.com/tarusake/items/8ec7ce7dd22454b509ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-14T22:04:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Flutter 3.38の隠れた目玉機能「Hooks (Native Assets)」でネイティブ連携が変わる",
+    "link": "https://zenn.dev/koji_1009/articles/e9524eccb6c55d",
+    "pubDate": "Sun, 14 Dec 2025 22:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "z-index 地獄を避ける方法",
+    "link": "https://zenn.dev/moshjp/articles/00064e77369cb8",
+    "pubDate": "Sun, 14 Dec 2025 22:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "山岡家Map(非公式)を作った話",
+    "link": "https://zenn.dev/mierune/articles/try-119-yamaokaya-map",
+    "pubDate": "Sun, 14 Dec 2025 22:00:00 GMT"
   },
   {
     "site": "Qiita",
@@ -84,16 +138,10 @@
     "pubDate": "Sun, 14 Dec 2025 15:00:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "普通の会社員が新しい図形を発見したのでハンガリーのポスドクの助けを借りてarXivに論文を投稿した話｜平野たいる｜MathKonnect",
-    "link": "https://note.com/tairu_mk/n/nbf238ec63c96",
-    "pubDate": "2025-12-14T12:19:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "臆病な私の JAWS-UG 2年間の歩き方",
-    "link": "https://qiita.com/tetutetu214/items/38051ebaee2733bf5d1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-14T07:52:35.000Z"
+    "site": "Zenn",
+    "title": "1行もコードを書かずにGeminiだけでUnityの大富豪ゲームを作って公開した話",
+    "link": "https://zenn.dev/tomotomobile/articles/b5cf31891b77e2",
+    "pubDate": "Sun, 14 Dec 2025 08:41:17 GMT"
   },
   {
     "site": "Zenn",
@@ -108,52 +156,16 @@
     "pubDate": "2025-12-14T07:02:39.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成",
-    "link": "https://zenn.dev/hirokita117/articles/24c42f407dc9b9",
-    "pubDate": "Sun, 14 Dec 2025 06:52:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【OSS】Rust + gpuiで高速なファイルエクスプローラを作り始めた話",
-    "link": "https://zenn.dev/syuya2036/articles/7f02faaf8c8ec4",
-    "pubDate": "Sun, 14 Dec 2025 06:30:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Tree-shaking に対応したバンドルサイズを計算してくれる Rolldphobia を作った",
-    "link": "https://zenn.dev/ssssota/articles/rolldphobia-intro",
-    "pubDate": "Sun, 14 Dec 2025 02:53:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI設計壁打ちに使える、小さな合意を積み重ねるプロトコルを作った",
-    "link": "https://zenn.dev/erukiti/articles/2512-micro-commit-protocol",
-    "pubDate": "Sun, 14 Dec 2025 02:01:21 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "開発者ツールでテストしたら本番環境だった話 〜不正入力とバリデーションの大事さ〜",
-    "link": "https://qiita.com/nprimem/items/ed8179c858695c1e31ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-13T22:09:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "日々のコンディションを“軽いデバッグ”として扱ってみる、そんな試みの話。",
-    "link": "https://qiita.com/neru_maru_2025/items/7760b6bc9e5750c1be0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-13T22:06:37.000Z"
+    "title": "先輩にビビりすぎて自滅しかけた話",
+    "link": "https://qiita.com/gusa/items/d075000300d7003582e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-13T21:39:33.000Z"
   },
   {
     "site": "Qiita",
     "title": "プログラムに1文字加えて本番環境のバッチ処理を4倍遅くした",
     "link": "https://qiita.com/nfujita55a/items/260750312c565835acaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-13T21:37:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【React / Next.js】RSC続報：結局なにをすればいいか（55183 / 55184 / 67779）",
-    "link": "https://zenn.dev/divsawa/articles/20251214_nextjs-incident",
-    "pubDate": "Sat, 13 Dec 2025 15:19:34 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "メモリの動的確保はなぜ嫌われるのか？",
     "link": "https://qiita.com/felis_silv/items/d7e7c84a6b712299102b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-13T07:05:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "とりあえずGUIが欲しいならStreamlitがおすすめ",
-    "link": "https://qiita.com/kagawa0710/items/39b1c7ab84e703554bb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T15:06:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「東京パソコンクラブ」 ――乃木坂46が見せる美しさとひたむきさの両立――",
-    "link": "https://qiita.com/sayaka46/items/ef49cb45c34b5232e4a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-12T09:40:15.000Z"
   }
 ]
