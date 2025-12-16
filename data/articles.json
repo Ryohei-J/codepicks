@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "イギリス政府がAppleやGoogleに「性的画像をOSレベルで検知する」機能をスマートフォンに実装するよう求める方針",
+    "link": "https://gigazine.net/news/20251216-uk-wants-all-smartphone-to-block-nsfw/",
+    "pubDate": "2025-12-16T06:46:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeで爆速開発！S3→BigQueryデータ転送システムを1時間で設計した話",
+    "link": "https://qiita.com/sapeet-lin/items/33758f3da56ad9397946?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-16T06:04:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「PC買うなら急げ」は本当だった。マウスが一部販売停止&1月値上げを発表",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2071627.html",
+    "pubDate": "2025-12-16T04:25:04.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "かつての人気サイト「スラッシュドット・ジャパン」に偽物、関係者が警告「絶対ログイン禁止」／何者かがドメインを取得し、過去データを表示、ID・パスワードの盗難に厳重注意【やじうまの杜】",
     "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2071523.html",
     "pubDate": "2025-12-16T01:28:23.000Z"
@@ -18,10 +36,40 @@
     "pubDate": "Tue, 16 Dec 2025 00:39:13 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "アウトプットが苦手というより、公開が苦手だった話",
+    "link": "https://zenn.dev/rime_iki/articles/202f83693b5410",
+    "pubDate": "Tue, 16 Dec 2025 00:30:05 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "ベテランプログラマは生成AIをどう活用しているのか？そして初学者は生成AIをどう活用すべきか？ - give IT a try",
     "link": "https://blog.jnito.com/entry/2025/12/15/073604",
     "pubDate": "2025-12-15T22:16:26.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "G検定を受けてみた",
+    "link": "https://qiita.com/kmprider/items/8b9718e4807d07fd6b68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-15T22:05:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "PokeAPI × Amazon Comprehendでポケモン図鑑説明文を感情分析、ネガティブスコアTOP3",
+    "link": "https://qiita.com/mizumu/items/f95804143c0bd13cb9d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-15T22:03:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "V8 JavaScript engineにおけるオンヒープメモリとオフヒープメモリを理解してNext.jsのビルドを救う",
+    "link": "https://zenn.dev/t0m0h1r0x/articles/c78a26a5def2cb",
+    "pubDate": "Mon, 15 Dec 2025 22:00:06 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "マグネットポンプをつかって自動灌水機をつくりたかった",
+    "link": "https://qiita.com/tech_tuna/items/aea5012cd9a83f2b0abf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-15T15:11:58.000Z"
   },
   {
     "site": "Zenn",
@@ -54,12 +102,6 @@
     "pubDate": "Mon, 15 Dec 2025 11:22:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIエージェント/MCPサーバー実装ガイドを作成しました | SIOS Tech Lab",
-    "link": "https://tech-lab.sios.jp/archives/50769",
-    "pubDate": "2025-12-15T10:07:22.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "なぜ人を集めてもチームにならないのか",
     "link": "https://zenn.dev/jugyo/articles/2457a1389966f6",
@@ -78,16 +120,16 @@
     "pubDate": "2025-12-15T06:46:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "もうgit stashは卒業！git worktree + wtp で実現する、ストレスゼロの並行開発",
-    "link": "https://zenn.dev/flinters_blog/articles/9b6bf8e036228f",
-    "pubDate": "2025-12-15T03:40:38.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "茶色になるまで1年かかったうさぎさんの入緑記事",
     "link": "https://qiita.com/Un_titled/items/1b11a2649fe5e32ff3a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-15T03:39:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "kaniで数学的に証明するRust標準ライブラリの安全性",
+    "link": "https://zenn.dev/exwzd/articles/20251210_rust_kani",
+    "pubDate": "Mon, 15 Dec 2025 00:53:56 GMT"
   },
   {
     "site": "Zenn",
@@ -109,12 +151,6 @@
   },
   {
     "site": "Qiita",
-    "title": "AIが出せないコード",
-    "link": "https://qiita.com/Rasukarusan/items/87497a4c9754cf20f028?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-14T22:06:51.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "FPGAファミコンのはじめかた",
     "link": "https://qiita.com/tarusake/items/8ec7ce7dd22454b509ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-14T22:04:30.000Z"
@@ -126,40 +162,10 @@
     "pubDate": "Sun, 14 Dec 2025 22:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "z-index 地獄を避ける方法",
-    "link": "https://zenn.dev/moshjp/articles/00064e77369cb8",
-    "pubDate": "Sun, 14 Dec 2025 22:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "山岡家Map(非公式)を作った話",
-    "link": "https://zenn.dev/mierune/articles/try-119-yamaokaya-map",
-    "pubDate": "Sun, 14 Dec 2025 22:00:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "HTTPプロトコルのAPI GatewayをCloudFront経由のリクエストのみに制限してみた",
-    "link": "https://qiita.com/rc-saka/items/01f82f85e76b17cf9567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-14T17:02:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Feature Flag の量産に耐えられる Go のライブラリを作りました",
-    "link": "https://zenn.dev/mpyw/articles/go-context-feature-flags",
-    "pubDate": "Sun, 14 Dec 2025 15:17:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "React2Shellを使用して攻撃してみた",
     "link": "https://qiita.com/Kengo2003/items/ff3c30e60835d2dad9cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-14T07:02:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "先輩にビビりすぎて自滅しかけた話",
-    "link": "https://qiita.com/gusa/items/d075000300d7003582e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-13T21:39:33.000Z"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "「7日間でハッキングをはじめる本」をやってみての感想",
-    "link": "https://qiita.com/kenken88/items/5082787653b75a285f24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-13T07:20:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "メモリの動的確保はなぜ嫌われるのか？",
-    "link": "https://qiita.com/felis_silv/items/d7e7c84a6b712299102b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-13T07:05:49.000Z"
+    "title": "Dockerに自信があるとはどういう状態か？🤔",
+    "link": "https://qiita.com/arunbababa/items/93c197c8bcb5e62a73dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-13T09:29:35.000Z"
   }
 ]
