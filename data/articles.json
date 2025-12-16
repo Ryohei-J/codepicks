@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "かつての人気サイト「スラッシュドット・ジャパン」に偽物、関係者が警告「絶対ログイン禁止」／何者かがドメインを取得し、過去データを表示、ID・パスワードの盗難に厳重注意【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2071523.html",
+    "pubDate": "2025-12-16T01:28:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "言語化が下手な人は5つのタイプに分けられる｜すてぃお",
+    "link": "https://note.com/suthio/n/n2555d51f8f1b",
+    "pubDate": "2025-12-16T00:54:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "React の状態管理の歴史と、最新 API に込められた React の思想",
+    "link": "https://zenn.dev/zozotech/articles/ebf38b7ab4aff0",
+    "pubDate": "Tue, 16 Dec 2025 00:39:13 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "ベテランプログラマは生成AIをどう活用しているのか？そして初学者は生成AIをどう活用すべきか？ - give IT a try",
     "link": "https://blog.jnito.com/entry/2025/12/15/073604",
     "pubDate": "2025-12-15T22:16:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI-FriendlyなNotebookを作ろう。次世代のNotebook環境について",
+    "link": "https://zenn.dev/mkj/articles/7c6f38e1b70594",
+    "pubDate": "Mon, 15 Dec 2025 15:00:02 GMT"
   },
   {
     "site": "Hatena",
@@ -13,9 +37,21 @@
   },
   {
     "site": "Hatena",
+    "title": "NotebookLMのスライド生成で結果を自在にコントロールする方法【番外編】｜FUJI / Presentation designer",
+    "link": "https://note.com/yoshifujidesign/n/nd9458ae338a4",
+    "pubDate": "2025-12-15T13:18:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "アマゾン、Kindle本の内容を「ネタバレなし」でAIに質問可能に　作家は拒否できず",
     "link": "https://japan.cnet.com/article/35241670/",
     "pubDate": "2025-12-15T11:59:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Railsにマージされた最新PRを毎日自動要約するサイトを作った",
+    "link": "https://zenn.dev/gatechnologies/articles/f72a00c771874a",
+    "pubDate": "Mon, 15 Dec 2025 11:22:00 GMT"
   },
   {
     "site": "Hatena",
@@ -37,9 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "ロート製薬、新卒採用の書類選考を廃止　生成AI普及でES均質化 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUF154CN0V11C25A2000000/",
-    "pubDate": "2025-12-15T07:49:40.000Z"
+    "title": "2025年の趣味開発環境",
+    "link": "https://gist.github.com/sile/ff7080fd41d3f74100f80c963bcbb429",
+    "pubDate": "2025-12-15T06:46:58.000Z"
   },
   {
     "site": "Zenn",
@@ -52,24 +88,6 @@
     "title": "茶色になるまで1年かかったうさぎさんの入緑記事",
     "link": "https://qiita.com/Un_titled/items/1b11a2649fe5e32ff3a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-15T03:39:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "じぶんが管理職になれるわけないじゃん、ムリムリ! (※ムリでもやるんだ!!) - NTT docomo Business Engineers' Blog",
-    "link": "https://engineers.ntt.com/entry/20251215-advent-calendar-day15/entry",
-    "pubDate": "2025-12-15T03:12:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Amazon、一部のKindle本がEPUBまたはPDF形式でのダウンロードに対応へ。2026年1月20日から【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2071209.html",
-    "pubDate": "2025-12-15T02:26:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "クラウド環境におけるランサムウェア対策の考え方 — HACK The Nikkei",
-    "link": "https://hack.nikkei.com/blog/advent20251214/",
-    "pubDate": "2025-12-15T02:01:07.000Z"
   },
   {
     "site": "Zenn",
@@ -130,24 +148,6 @@
     "title": "Feature Flag の量産に耐えられる Go のライブラリを作りました",
     "link": "https://zenn.dev/mpyw/articles/go-context-feature-flags",
     "pubDate": "Sun, 14 Dec 2025 15:17:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AgentOps入門　〜LLM時代の新たな運用パラダイム〜",
-    "link": "https://zenn.dev/mkj/articles/438de5dc603084",
-    "pubDate": "Sun, 14 Dec 2025 15:00:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "1行もコードを書かずにGeminiだけでUnityの大富豪ゲームを作って公開した話",
-    "link": "https://zenn.dev/tomotomobile/articles/b5cf31891b77e2",
-    "pubDate": "Sun, 14 Dec 2025 08:41:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Just image Transformer: ピクセル空間で実画像を予測するフローマッチングモデル",
-    "link": "https://zenn.dev/platina/articles/jit-pixel-space-x-pred",
-    "pubDate": "Sun, 14 Dec 2025 07:17:50 GMT"
   },
   {
     "site": "Qiita",
