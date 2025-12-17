@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "高木浩光＠自宅の日記 - 知財検討会にまで及ぶAI規制の混迷──処遇AIと生成AIを混ぜると、全部壊れる",
+    "link": "http://takagi-hiromitsu.jp/diary/20251216.html",
+    "pubDate": "2025-12-16T21:26:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Pricing changes for GitHub Actions",
+    "link": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
+    "pubDate": "2025-12-16T19:35:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【c++】二分探索より速いisqrtを実装する",
+    "link": "https://trap.jp/post/2728/",
+    "pubDate": "2025-12-16T14:56:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GitHub Japanに入社しました | おそらくはそれさえも平凡な日々",
     "link": "https://songmu.jp/riji/entry/2025-12-16-joining-github.html",
     "pubDate": "2025-12-16T14:43:12.000Z"
   },
   {
     "site": "Hatena",
-    "title": "イギリス政府がAppleやGoogleに「性的画像をOSレベルで検知する」機能をスマートフォンに実装するよう求める方針",
-    "link": "https://gigazine.net/news/20251216-uk-wants-all-smartphone-to-block-nsfw/",
-    "pubDate": "2025-12-16T06:46:16.000Z"
+    "title": "site2skill: どんなサイトでもClaude Skills化するツールを作った",
+    "link": "https://blog.lai.so/site2skill/",
+    "pubDate": "2025-12-16T11:53:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "サーマルプリンタを子育てに活用してみた - m1104m Blog",
+    "link": "https://m1104m.hatenablog.com/entry/2025/12/15/132956",
+    "pubDate": "2025-12-16T10:18:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "中国発の詐欺広告に甘いMeta、数千億円規模の収入優先か　ザッカーバーグCEO関与の疑いも",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/16/news119.html",
+    "pubDate": "2025-12-16T09:00:31.000Z"
   },
   {
     "site": "Qiita",
@@ -25,21 +55,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「PC買うなら急げ」は本当だった。マウスが一部販売停止&1月値上げを発表",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2071627.html",
-    "pubDate": "2025-12-16T04:25:04.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "グーグルのAIブラウザ「Disco」　複雑な作業をAIが支援",
     "link": "https://www.watch.impress.co.jp/docs/news/2071584.html",
     "pubDate": "2025-12-16T04:14:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "かつての人気サイト「スラッシュドット・ジャパン」に偽物、関係者が警告「絶対ログイン禁止」／何者かがドメインを取得し、過去データを表示、ID・パスワードの盗難に厳重注意【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2071523.html",
-    "pubDate": "2025-12-16T01:28:23.000Z"
+    "site": "Qiita",
+    "title": "便利なLinuxツール",
+    "link": "https://qiita.com/amf/items/0478d8537f1c9b48d26e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-16T03:07:14.000Z"
   },
   {
     "site": "Hatena",
@@ -60,16 +84,34 @@
     "pubDate": "Tue, 16 Dec 2025 00:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ベテランプログラマは生成AIをどう活用しているのか？そして初学者は生成AIをどう活用すべきか？ - give IT a try",
-    "link": "https://blog.jnito.com/entry/2025/12/15/073604",
-    "pubDate": "2025-12-15T22:16:26.000Z"
+    "site": "Zenn",
+    "title": "コードレビューの業務Tierを上げる",
+    "link": "https://zenn.dev/ubie_dev/articles/6c660ad9fc5dcc",
+    "pubDate": "Tue, 16 Dec 2025 00:30:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RAGの「リランキング」を10倍速くする「MixLM」",
+    "link": "https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b",
+    "pubDate": "Tue, 16 Dec 2025 00:01:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Geminiに謎解きさせてみた",
+    "link": "https://zenn.dev/kosyamada/articles/97de6ec681d4f5",
+    "pubDate": "Mon, 15 Dec 2025 23:50:20 GMT"
   },
   {
     "site": "Qiita",
     "title": "G検定を受けてみた",
     "link": "https://qiita.com/kmprider/items/8b9718e4807d07fd6b68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-15T22:05:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ZOZOのデータマート設計と運用の工夫",
+    "link": "https://qiita.com/takagiyudai/items/56c72faf76100aec3ce2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-15T22:03:39.000Z"
   },
   {
     "site": "Qiita",
@@ -85,6 +127,12 @@
   },
   {
     "site": "Qiita",
+    "title": "才能ゼロの私が半年で水コーダーへなるためにやったこと",
+    "link": "https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-15T16:22:36.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "マグネットポンプをつかって自動灌水機をつくりたかった",
     "link": "https://qiita.com/tech_tuna/items/aea5012cd9a83f2b0abf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-15T15:11:58.000Z"
@@ -96,10 +144,10 @@
     "pubDate": "Mon, 15 Dec 2025 15:00:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "NotebookLMのスライド生成で結果を自在にコントロールする方法【番外編】｜FUJI / Presentation designer",
-    "link": "https://note.com/yoshifujidesign/n/nd9458ae338a4",
-    "pubDate": "2025-12-15T13:18:53.000Z"
+    "site": "Zenn",
+    "title": "書籍『わが投資術』のネットキャッシュ比率の汎用性の検証",
+    "link": "https://zenn.dev/morim34/articles/ff991f32187d96",
+    "pubDate": "Mon, 15 Dec 2025 11:35:54 GMT"
   },
   {
     "site": "Zenn",
@@ -114,52 +162,10 @@
     "pubDate": "Mon, 15 Dec 2025 08:39:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "2025年の趣味開発環境",
-    "link": "https://gist.github.com/sile/ff7080fd41d3f74100f80c963bcbb429",
-    "pubDate": "2025-12-15T06:46:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "茶色になるまで1年かかったうさぎさんの入緑記事",
-    "link": "https://qiita.com/Un_titled/items/1b11a2649fe5e32ff3a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-15T03:39:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "kaniで数学的に証明するRust標準ライブラリの安全性",
-    "link": "https://zenn.dev/exwzd/articles/20251210_rust_kani",
-    "pubDate": "Mon, 15 Dec 2025 00:53:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「状態」ではなく「変化（イベント）」を保存したい",
-    "link": "https://zenn.dev/dress_code/articles/5d94f6c817efb3",
-    "pubDate": "Mon, 15 Dec 2025 00:00:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "たった1日で実務経験が積める神ゲー『農家はReplace()されました』",
-    "link": "https://zenn.dev/oginoshikibu/articles/5a0c30f39c08f9",
-    "pubDate": "Sun, 14 Dec 2025 23:00:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Noto Sans JPで上下中央揃えにするやつ",
-    "link": "https://qiita.com/uhyo/items/f56055a360222a90564b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-14T22:11:11.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "FPGAファミコンのはじめかた",
     "link": "https://qiita.com/tarusake/items/8ec7ce7dd22454b509ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-14T22:04:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Flutter 3.38の隠れた目玉機能「Hooks (Native Assets)」でネイティブ連携が変わる",
-    "link": "https://zenn.dev/koji_1009/articles/e9524eccb6c55d",
-    "pubDate": "Sun, 14 Dec 2025 22:00:01 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "プログラムに1文字加えて本番環境のバッチ処理を4倍遅くした",
     "link": "https://qiita.com/nfujita55a/items/260750312c565835acaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-13T21:37:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Dockerに自信があるとはどういう状態か？🤔",
-    "link": "https://qiita.com/arunbababa/items/93c197c8bcb5e62a73dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-13T09:29:35.000Z"
   }
 ]
