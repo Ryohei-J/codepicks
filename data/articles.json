@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「要件通り＝正解ではない」新卒エンジニアが学んだ、\"解くべき問い\"のスコープ定義 - Speee DEVELOPER BLOG",
+    "link": "https://tech.speee.jp/entry/bizops-solve-the-real-issue",
+    "pubDate": "2025-12-17T02:34:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "仕事や生活する上で「取得しといてよかった資格」って何？「役に立ったのは電気工事士2種」「バイオ技術者認定試験 はどこへ行っても理解が得られない」",
+    "link": "https://togetter.com/li/2639731",
+    "pubDate": "2025-12-17T00:33:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AntigravityとGemini 3でアプリ開発したら、めちゃくちゃ効率的だった話",
+    "link": "https://blog.usize-tech.com/antigravity-gemini3-app-development/",
+    "pubDate": "2025-12-16T23:53:35.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "高木浩光＠自宅の日記 - 知財検討会にまで及ぶAI規制の混迷──処遇AIと生成AIを混ぜると、全部壊れる",
     "link": "http://takagi-hiromitsu.jp/diary/20251216.html",
     "pubDate": "2025-12-16T21:26:36.000Z"
@@ -12,22 +30,16 @@
     "pubDate": "2025-12-16T19:35:12.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "FUNSTACK Router: Navigation APIを用いたルーターライブラリ",
+    "link": "https://zenn.dev/uhyo/articles/funstack-router-poc",
+    "pubDate": "Tue, 16 Dec 2025 15:09:35 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【c++】二分探索より速いisqrtを実装する",
     "link": "https://trap.jp/post/2728/",
     "pubDate": "2025-12-16T14:56:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub Japanに入社しました | おそらくはそれさえも平凡な日々",
-    "link": "https://songmu.jp/riji/entry/2025-12-16-joining-github.html",
-    "pubDate": "2025-12-16T14:43:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "site2skill: どんなサイトでもClaude Skills化するツールを作った",
-    "link": "https://blog.lai.so/site2skill/",
-    "pubDate": "2025-12-16T11:53:42.000Z"
   },
   {
     "site": "Hatena",
@@ -42,6 +54,12 @@
     "pubDate": "2025-12-16T09:00:31.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeを使ってXのアーカイブから1年を振り返る",
+    "link": "https://zenn.dev/nikechan/articles/6d5d93be1d3beb",
+    "pubDate": "Tue, 16 Dec 2025 08:52:46 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Codeで爆速開発！S3→BigQueryデータ転送システムを1時間で設計した話",
     "link": "https://qiita.com/sapeet-lin/items/33758f3da56ad9397946?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -54,22 +72,10 @@
     "pubDate": "2025-12-16T04:34:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグルのAIブラウザ「Disco」　複雑な作業をAIが支援",
-    "link": "https://www.watch.impress.co.jp/docs/news/2071584.html",
-    "pubDate": "2025-12-16T04:14:25.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "便利なLinuxツール",
     "link": "https://qiita.com/amf/items/0478d8537f1c9b48d26e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-16T03:07:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "言語化が下手な人は5つのタイプに分けられる｜すてぃお",
-    "link": "https://note.com/suthio/n/n2555d51f8f1b",
-    "pubDate": "2025-12-16T00:54:40.000Z"
   },
   {
     "site": "Zenn",
@@ -94,6 +100,12 @@
     "title": "RAGの「リランキング」を10倍速くする「MixLM」",
     "link": "https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b",
     "pubDate": "Tue, 16 Dec 2025 00:01:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【ディップ版】スクラムを始めるためのガイドライン",
+    "link": "https://zenn.dev/dip_inc/books/dip-scrum-guidelines",
+    "pubDate": "Mon, 15 Dec 2025 23:55:51 GMT"
   },
   {
     "site": "Zenn",
@@ -127,6 +139,12 @@
   },
   {
     "site": "Qiita",
+    "title": "画像圧縮するベストな方法（2025） - Qiita",
+    "link": "https://qiita.com/fukushima1981/items/deaf8e97df2d1b9d6865",
+    "pubDate": "2025-12-15T18:55:52.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "才能ゼロの私が半年で水コーダーへなるためにやったこと",
     "link": "https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-15T16:22:36.000Z"
@@ -142,24 +160,6 @@
     "title": "AI-FriendlyなNotebookを作ろう。次世代のNotebook環境について",
     "link": "https://zenn.dev/mkj/articles/7c6f38e1b70594",
     "pubDate": "Mon, 15 Dec 2025 15:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "書籍『わが投資術』のネットキャッシュ比率の汎用性の検証",
-    "link": "https://zenn.dev/morim34/articles/ff991f32187d96",
-    "pubDate": "Mon, 15 Dec 2025 11:35:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Railsにマージされた最新PRを毎日自動要約するサイトを作った",
-    "link": "https://zenn.dev/gatechnologies/articles/f72a00c771874a",
-    "pubDate": "Mon, 15 Dec 2025 11:22:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Git Worktreeでブランチごとにデータベースも分離 —— Docker Volume スナップショットの活用",
-    "link": "https://zenn.dev/layerx/articles/6539bf1842f1e0",
-    "pubDate": "Mon, 15 Dec 2025 08:39:27 GMT"
   },
   {
     "site": "Qiita",
