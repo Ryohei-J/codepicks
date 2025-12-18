@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "『夜の』をつけてもまったく興奮できない言葉ある？→「システム障害」という答えでテンションがだだ下がりしてしまう人たち「言っていいことと悪いことがある」",
+    "link": "https://togetter.com/li/2640189",
+    "pubDate": "2025-12-18T08:17:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ピカール金属磨きが販売終了？製造中止の理由と、今後どうすればいいのか徹底解説",
+    "link": "https://matsukawabutsudan.jp/blog/detail/20251203174811/",
+    "pubDate": "2025-12-18T04:03:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI エージェント開発で半年間成果が出なかった私が、前に進めるようになるまで - Speee DEVELOPER BLOG",
+    "link": "https://tech.speee.jp/entry/ai-agent-rd-milestone-driven",
+    "pubDate": "2025-12-18T02:31:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Apple、日本でのiOSにおける変更を発表",
     "link": "https://www.apple.com/jp/newsroom/2025/12/apple-announces-changes-to-ios-in-japan/",
     "pubDate": "2025-12-18T01:44:33.000Z"
@@ -12,28 +30,52 @@
     "pubDate": "2025-12-18T01:00:36.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Rustを学ぶと世界が変わる",
+    "link": "https://zenn.dev/tika/articles/475f8713aaf09c",
+    "pubDate": "Thu, 18 Dec 2025 00:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "技術書を「覚える」のをやめたら、使えるようになった",
+    "link": "https://zenn.dev/recustomer/articles/caff27849cb91c",
+    "pubDate": "Thu, 18 Dec 2025 00:00:01 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "生成AIに知識を垂れ流すラジオ番組を作ってもらう｜Kohya S.",
     "link": "https://note.com/kohya_ss/n/n613b44bb15a5",
     "pubDate": "2025-12-17T22:49:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "え？これ、どう作ったらこうなるの？？？スゴい…AIかな「怪文書かよwww」「フォントが統一されてない？のキモすぎる」",
-    "link": "https://togetter.com/li/2640020",
-    "pubDate": "2025-12-17T22:44:23.000Z"
+    "site": "Qiita",
+    "title": "「今日ネットワークめっちゃ重くない？」の真犯人は私だった話",
+    "link": "https://qiita.com/KoheiKushida/items/2e4d3a0466c3c8a8f744?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-17T22:08:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話",
-    "link": "https://zenn.dev/sohosai/articles/9ea1ec0e844232",
-    "pubDate": "2025-12-17T15:55:56.000Z"
+    "site": "Qiita",
+    "title": "詳細設計書を作成する際のポイントまとめ",
+    "link": "https://qiita.com/fumiya0271/items/714196e4870d3c464e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-17T22:07:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub Actionsが価格改定。GitHubがホストする処理は値下げ、ユーザーのセルフホスト処理は1分あたり0.002ドルの請求に",
-    "link": "https://www.publickey1.jp/blog/25/github_actionsgithub10002.html",
-    "pubDate": "2025-12-17T14:45:55.000Z"
+    "site": "Qiita",
+    "title": "入社3カ月で製造工程に入った話",
+    "link": "https://qiita.com/kmblauervogel/items/c601cb14938f944632ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-17T22:06:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアって大変なんやで。",
+    "link": "https://qiita.com/ido_shun/items/3529b142ec6849eca24a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-17T22:05:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "共有PCでのアカウントロックをグループポリシーで防止する",
+    "link": "https://qiita.com/Shimizu_Kazuya/items/0e536cf193c7981aa4cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-17T22:03:52.000Z"
   },
   {
     "site": "Hatena",
@@ -52,6 +94,12 @@
     "title": "間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話",
     "link": "https://zenn.dev/sohosai/articles/9ea1ec0e844232",
     "pubDate": "Wed, 17 Dec 2025 13:06:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "STTとTTSの性能比較をするツール「Hikaku-Voice」を作った",
+    "link": "https://zenn.dev/morix1500/articles/94522d6cc54d70",
+    "pubDate": "Wed, 17 Dec 2025 12:57:20 GMT"
   },
   {
     "site": "Zenn",
@@ -90,10 +138,10 @@
     "pubDate": "2025-12-17T02:17:23.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "2025年12月10日発表🎉 Googleの最新音声合成モデルがすごい！「読む」から「演じる」へ。【Gemini 2.5 TTS】",
-    "link": "https://qiita.com/KYoshiyama/items/53d74d2d76adef0688a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-17T01:05:04.000Z"
+    "site": "Zenn",
+    "title": "AeneasでRustプログラムを検証してみた",
+    "link": "https://zenn.dev/hatoo/articles/fd157320e9463b",
+    "pubDate": "Wed, 17 Dec 2025 00:20:32 GMT"
   },
   {
     "site": "Zenn",
@@ -109,33 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Boidsの布教 - 3つの規則で群れを作る",
-    "link": "https://qiita.com/Hiroto_2402/items/f7db1878fb76fff30006?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-16T22:07:17.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "マルチレポ vs モノレポ",
     "link": "https://qiita.com/Ayumu_Usu/items/5a1f19de8f49578f9400?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-16T22:04:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "私のAI日常使い　人間は考える葦である",
-    "link": "https://qiita.com/hidesuke4129/items/53e8b920ccfd25603762?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-16T22:03:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Kotlinでアプリを作った話 🌈 ☁️",
-    "link": "https://qiita.com/lemontown24/items/f6ce86bf27c48a63565c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-16T17:20:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Pydantic の居場所は “境界” がちょうどいい",
-    "link": "https://zenn.dev/recustomer/articles/bcd19cdfe4572f",
-    "pubDate": "Tue, 16 Dec 2025 16:06:42 GMT"
   },
   {
     "site": "Qiita",
@@ -144,34 +168,10 @@
     "pubDate": "2025-12-16T15:17:46.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "FUNSTACK Router: Navigation APIを用いたルーターライブラリ",
-    "link": "https://zenn.dev/uhyo/articles/funstack-router-poc",
-    "pubDate": "Tue, 16 Dec 2025 15:09:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ブラウザだけで高速かつ無限に文章・音声・画像のAIを使う事ができるGemini Nanoを試してみる",
-    "link": "https://zenn.dev/finatext/articles/236a27fa78817d",
-    "pubDate": "Tue, 16 Dec 2025 15:00:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを使ってXのアーカイブから1年を振り返る",
-    "link": "https://zenn.dev/nikechan/articles/6d5d93be1d3beb",
-    "pubDate": "Tue, 16 Dec 2025 08:52:46 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【コピペOK】GitHub Copilotを\"DeepWiki化\"するドキュメント指示書を作成してみた",
     "link": "https://qiita.com/a32-suzuki/items/c3540da3e009dab1bf97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-15T23:06:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "G検定を受けてみた",
-    "link": "https://qiita.com/kmprider/items/8b9718e4807d07fd6b68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-15T22:05:39.000Z"
   },
   {
     "site": "Qiita",
