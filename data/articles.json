@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "え？これ、どう作ったらこうなるの？？？スゴい…AIかな「怪文書かよwww」「フォントが統一されてない？のキモすぎる」",
+    "link": "https://togetter.com/li/2640020",
+    "pubDate": "2025-12-17T22:44:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub Actionsが価格改定。GitHubがホストする処理は値下げ、ユーザーのセルフホスト処理は1分あたり0.002ドルの請求に",
+    "link": "https://www.publickey1.jp/blog/25/github_actionsgithub10002.html",
+    "pubDate": "2025-12-17T14:45:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "人気音楽ユニット「マッシヴ・アタック」がコンサート中に観客の顔を投影して顔認識技術への警鐘を鳴らす",
+    "link": "https://gigazine.net/news/20251217-band-live-facial-recognition-audience/",
+    "pubDate": "2025-12-17T13:53:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話",
+    "link": "https://zenn.dev/sohosai/articles/9ea1ec0e844232",
+    "pubDate": "Wed, 17 Dec 2025 13:06:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RSC/Next.jsは信頼できないかもだけど、それで良いのかもしれない",
+    "link": "https://zenn.dev/naofumik/articles/467a875928baef",
+    "pubDate": "2025-12-17T13:03:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilotにおける Agent / Instructions / Prompt の整理と活用方法",
+    "link": "https://zenn.dev/thinkingsinc/articles/cd59e1ffc4f842",
+    "pubDate": "2025-12-17T09:33:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude CodeからPull Requestのレビュー操作を便利に行うClaude Skillsを作った - $shibayu36->blog;",
     "link": "https://blog.shibayu36.org/entry/2025/12/17/173000",
     "pubDate": "2025-12-17T09:05:00.000Z"
@@ -10,6 +46,12 @@
     "title": "サイゼリヤ店員が作るサイゼリヤメニューTier表 - 京音Advent Calendar企画用ブログ",
     "link": "https://keionkakimasen.hatenablog.com/entry/2025/12/17/065121",
     "pubDate": "2025-12-17T08:45:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Anthropic SkillsからAIプロダクト開発者が学べること：Skillsは\"業務マニュアル付きの道具箱\"",
+    "link": "https://zenn.dev/r_kaga/articles/810cc2e8326ca5",
+    "pubDate": "Wed, 17 Dec 2025 08:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -24,16 +66,10 @@
     "pubDate": "2025-12-17T05:18:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ブラウザの安全性を高めるための XSLT の削除  |  Web Platform  |  Chrome for Developers",
-    "link": "https://developer.chrome.com/docs/web-platform/deprecating-xslt?hl=ja",
-    "pubDate": "2025-12-17T03:34:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「要件通り＝正解ではない」新卒エンジニアが学んだ、\"解くべき問い\"のスコープ定義 - Speee DEVELOPER BLOG",
-    "link": "https://tech.speee.jp/entry/bizops-solve-the-real-issue",
-    "pubDate": "2025-12-17T02:34:17.000Z"
+    "site": "Qiita",
+    "title": "なぜ私はAtCoderが全くできないのか",
+    "link": "https://qiita.com/Shiro_Shihi/items/31b9e50abda41e4c2b71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-17T02:17:23.000Z"
   },
   {
     "site": "Qiita",
@@ -42,16 +78,28 @@
     "pubDate": "2025-12-17T01:05:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AntigravityとGemini 3でアプリ開発したら、めちゃくちゃ効率的だった話",
-    "link": "https://blog.usize-tech.com/antigravity-gemini3-app-development/",
-    "pubDate": "2025-12-16T23:53:35.000Z"
+    "site": "Zenn",
+    "title": "言語化されない組織の「やりづらい」をラップバトルで開示させる",
+    "link": "https://zenn.dev/loglass/articles/b217268b26de96",
+    "pubDate": "Tue, 16 Dec 2025 23:44:58 GMT"
   },
   {
     "site": "Zenn",
     "title": "ダンジョン生成に一様分布を求めるのは間違っているだろうか",
     "link": "https://zenn.dev/folio_sec/articles/06c4271b96bfb5",
     "pubDate": "Tue, 16 Dec 2025 23:29:21 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Boidsの布教 - 3つの規則で群れを作る",
+    "link": "https://qiita.com/Hiroto_2402/items/f7db1878fb76fff30006?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-16T22:07:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "マルチレポ vs モノレポ",
+    "link": "https://qiita.com/Ayumu_Usu/items/5a1f19de8f49578f9400?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-16T22:04:00.000Z"
   },
   {
     "site": "Qiita",
@@ -96,16 +144,10 @@
     "pubDate": "Tue, 16 Dec 2025 15:00:10 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AtCoder黄色到達までにやったこと（復習と環境づくり）",
-    "link": "https://qiita.com/igeeeeee/items/9ef3a96ae19d9c0fe7ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-16T10:42:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "サーマルプリンタを子育てに活用してみた - m1104m Blog",
-    "link": "https://m1104m.hatenablog.com/entry/2025/12/15/132956",
-    "pubDate": "2025-12-16T10:18:54.000Z"
+    "site": "Zenn",
+    "title": "CloudflareでNext.js(OpenNext)を運用してVercelに移行した話",
+    "link": "https://zenn.dev/monicle/articles/86bda5d675bb8d",
+    "pubDate": "Tue, 16 Dec 2025 03:48:21 GMT"
   },
   {
     "site": "Zenn",
@@ -120,24 +162,6 @@
     "pubDate": "Tue, 16 Dec 2025 00:30:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "RAGの「リランキング」を10倍速くする「MixLM」",
-    "link": "https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b",
-    "pubDate": "Tue, 16 Dec 2025 00:01:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【ディップ版】スクラムを始めるためのガイドライン",
-    "link": "https://zenn.dev/dip_inc/books/dip-scrum-guidelines",
-    "pubDate": "Mon, 15 Dec 2025 23:55:51 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Geminiに謎解きさせてみた",
-    "link": "https://zenn.dev/kosyamada/articles/97de6ec681d4f5",
-    "pubDate": "Mon, 15 Dec 2025 23:50:20 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【コピペOK】GitHub Copilotを\"DeepWiki化\"するドキュメント指示書を作成してみた",
     "link": "https://qiita.com/a32-suzuki/items/c3540da3e009dab1bf97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -150,33 +174,9 @@
     "pubDate": "2025-12-15T22:05:39.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "V8 JavaScript engineにおけるオンヒープメモリとオフヒープメモリを理解してNext.jsのビルドを救う",
-    "link": "https://zenn.dev/t0m0h1r0x/articles/c78a26a5def2cb",
-    "pubDate": "Mon, 15 Dec 2025 22:00:06 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "画像圧縮するベストな方法（2025） - Qiita",
-    "link": "https://qiita.com/fukushima1981/items/deaf8e97df2d1b9d6865",
-    "pubDate": "2025-12-15T18:55:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "才能ゼロの私が半年で水コーダーへなるためにやったこと",
-    "link": "https://qiita.com/river0525/items/d9e53215a3bc5a84e0ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-15T16:22:36.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "画像圧縮するベストな方法（2025）",
     "link": "https://qiita.com/fukushima1981/items/deaf8e97df2d1b9d6865?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-15T16:03:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "FPGAファミコンのはじめかた",
-    "link": "https://qiita.com/tarusake/items/8ec7ce7dd22454b509ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-14T22:04:30.000Z"
   }
 ]
