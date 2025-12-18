@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "Apple、日本でのiOSにおける変更を発表",
+    "link": "https://www.apple.com/jp/newsroom/2025/12/apple-announces-changes-to-ios-in-japan/",
+    "pubDate": "2025-12-18T01:44:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『一見さんお断り』ってどういうシステムで潰れてないんですか？「金持ちが新しい金持ちを連れて来るんやで…」「あれ理論上最初無理じゃないかと思ってる」",
+    "link": "https://togetter.com/li/2640050",
+    "pubDate": "2025-12-18T01:00:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIに知識を垂れ流すラジオ番組を作ってもらう｜Kohya S.",
+    "link": "https://note.com/kohya_ss/n/n613b44bb15a5",
+    "pubDate": "2025-12-17T22:49:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "え？これ、どう作ったらこうなるの？？？スゴい…AIかな「怪文書かよwww」「フォントが統一されてない？のキモすぎる」",
     "link": "https://togetter.com/li/2640020",
     "pubDate": "2025-12-17T22:44:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話",
+    "link": "https://zenn.dev/sohosai/articles/9ea1ec0e844232",
+    "pubDate": "2025-12-17T15:55:56.000Z"
   },
   {
     "site": "Hatena",
     "title": "GitHub Actionsが価格改定。GitHubがホストする処理は値下げ、ユーザーのセルフホスト処理は1分あたり0.002ドルの請求に",
     "link": "https://www.publickey1.jp/blog/25/github_actionsgithub10002.html",
     "pubDate": "2025-12-17T14:45:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "夜を制する者が “AI Agent 大民主化時代” を制する",
+    "link": "https://speakerdeck.com/icoxfog417/generative-ai-agent-should-work-in-night",
+    "pubDate": "2025-12-17T14:33:51.000Z"
   },
   {
     "site": "Hatena",
@@ -27,19 +57,13 @@
     "site": "Zenn",
     "title": "RSC/Next.jsは信頼できないかもだけど、それで良いのかもしれない",
     "link": "https://zenn.dev/naofumik/articles/467a875928baef",
-    "pubDate": "2025-12-17T13:03:46.000Z"
+    "pubDate": "Wed, 17 Dec 2025 12:38:43 GMT"
   },
   {
     "site": "Zenn",
-    "title": "GitHub Copilotにおける Agent / Instructions / Prompt の整理と活用方法",
-    "link": "https://zenn.dev/thinkingsinc/articles/cd59e1ffc4f842",
-    "pubDate": "2025-12-17T09:33:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude CodeからPull Requestのレビュー操作を便利に行うClaude Skillsを作った - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2025/12/17/173000",
-    "pubDate": "2025-12-17T09:05:00.000Z"
+    "title": "Nix Flake+direnvでプロジェクトのパッケージ管理",
+    "link": "https://zenn.dev/watagame/articles/miselike-nix",
+    "pubDate": "Wed, 17 Dec 2025 10:06:35 GMT"
   },
   {
     "site": "Hatena",
@@ -58,12 +82,6 @@
     "title": "値上げを提案された家賃の交渉とその結果 - 紙屋研究所",
     "link": "https://kamiyakenkyujo.hatenablog.com/entry/2025/12/17/095906",
     "pubDate": "2025-12-17T05:48:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "太字で見る 三宅香帆の言語化能力｜AIと大喜利する",
-    "link": "https://note.com/kyunkyun_p_d/n/n9cc45ed3d74b",
-    "pubDate": "2025-12-17T05:18:03.000Z"
   },
   {
     "site": "Qiita",
@@ -108,12 +126,6 @@
     "pubDate": "2025-12-16T22:03:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "高木浩光＠自宅の日記 - 知財検討会にまで及ぶAI規制の混迷──処遇AIと生成AIを混ぜると、全部壊れる",
-    "link": "http://takagi-hiromitsu.jp/diary/20251216.html",
-    "pubDate": "2025-12-16T21:26:36.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Kotlinでアプリを作った話 🌈 ☁️",
     "link": "https://qiita.com/lemontown24/items/f6ce86bf27c48a63565c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -145,21 +157,9 @@
   },
   {
     "site": "Zenn",
-    "title": "CloudflareでNext.js(OpenNext)を運用してVercelに移行した話",
-    "link": "https://zenn.dev/monicle/articles/86bda5d675bb8d",
-    "pubDate": "Tue, 16 Dec 2025 03:48:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "React の状態管理の歴史と、最新 API に込められた React の思想",
-    "link": "https://zenn.dev/zozotech/articles/ebf38b7ab4aff0",
-    "pubDate": "Tue, 16 Dec 2025 00:39:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードレビューの業務Tierを上げる",
-    "link": "https://zenn.dev/ubie_dev/articles/6c660ad9fc5dcc",
-    "pubDate": "Tue, 16 Dec 2025 00:30:05 GMT"
+    "title": "Claude Codeを使ってXのアーカイブから1年を振り返る",
+    "link": "https://zenn.dev/nikechan/articles/6d5d93be1d3beb",
+    "pubDate": "Tue, 16 Dec 2025 08:52:46 GMT"
   },
   {
     "site": "Qiita",
