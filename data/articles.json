@@ -12,10 +12,58 @@
     "pubDate": "2025-12-19T02:35:50.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "医療業界で突然LLMを使ってくれと言われたら",
+    "link": "https://zenn.dev/livetoon/articles/ba4536e4722187",
+    "pubDate": "Fri, 19 Dec 2025 01:59:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Astroでreact2shellのような脆弱性が起きない理由",
+    "link": "https://zenn.dev/reyalka/articles/63bb023051afcd",
+    "pubDate": "Thu, 18 Dec 2025 22:53:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ATT&CK T1059 深掘り：攻撃者がCLIを愛してやまない理由",
+    "link": "https://qiita.com/ikeda_takato/items/3410503d0016ad140f05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-18T22:41:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アップルとグーグル、アプリ外決済に最大１５～２０％の手数料課す方針…スマホ新法施行",
+    "link": "https://www.yomiuri.co.jp/economy/20251219-GYT1T00025/",
+    "pubDate": "2025-12-18T22:29:42.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Overview - Agent Skills",
     "link": "https://agentskills.io/home",
     "pubDate": "2025-12-18T22:24:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "🔐 TOTPを再実装してみた、OJT初日のMFA地獄を糧に",
+    "link": "https://qiita.com/shonakam/items/b2cce6816a7c94d66bef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-18T22:11:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "コード疲れたから農業デビューする",
+    "link": "https://qiita.com/b_vrp/items/e8af90c7a5f2d033f101?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-18T22:11:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS Lambdaを利用してAWS利用料金をSlackのチャンネルへ通知する",
+    "link": "https://qiita.com/Mouflon_127000/items/362ba1272a2c576228ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-18T22:06:55.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "HookUp作業の整理メモ（送信側／受信側・hosts／DNS 編）",
+    "link": "https://qiita.com/r-kojima/items/fa7181f4f6d8bcc15d30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-18T22:03:53.000Z"
   },
   {
     "site": "Hatena",
@@ -25,19 +73,37 @@
   },
   {
     "site": "Zenn",
+    "title": "Deno に\"守り\"のコントリビュートしていたら、TC39 に出した言語仕様変更が承認され、ついでに V8 にパッチを投げた話",
+    "link": "https://zenn.dev/pixiv/articles/325f922db8b3b8",
+    "pubDate": "Thu, 18 Dec 2025 20:13:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Software DesignでNix連載しました",
+    "link": "https://zenn.dev/takeokunn/articles/20251124235900",
+    "pubDate": "Thu, 18 Dec 2025 16:31:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLM-as-a-Judge とルーブリック評価",
+    "link": "https://zenn.dev/ubie_dev/articles/llm-as-a-judge-rubric-evaluation",
+    "pubDate": "Thu, 18 Dec 2025 15:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Rustを学ぶと世界が変わる",
     "link": "https://zenn.dev/tika/articles/475f8713aaf09c",
     "pubDate": "2025-12-18T13:13:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マイクロサービスへの5年間 ぶっちゃけ何をしてどうなったか",
-    "link": "https://speakerdeck.com/joker1007/maikurosabisuheno5nian-jian-bututiyakehe-wositedounatutaka",
-    "pubDate": "2025-12-18T12:06:55.000Z"
+    "site": "Zenn",
+    "title": "フロントエンド分割やめました",
+    "link": "https://zenn.dev/coconala/articles/d4c30f0f582259",
+    "pubDate": "Thu, 18 Dec 2025 13:06:20 GMT"
   },
   {
     "site": "Zenn",
-    "title": "【OAuth】アクセストークンの検証をサボると成りすまし攻撃ができます",
+    "title": "【OAuth】アクセストークンの検証を誤ると成りすまし攻撃ができます",
     "link": "https://zenn.dev/calloc134/articles/oauth-cross-api-vuln-attack",
     "pubDate": "Thu, 18 Dec 2025 11:47:13 GMT"
   },
@@ -54,10 +120,16 @@
     "pubDate": "2025-12-18T09:57:02.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "祝v1リリース🎉新たなヘッドレスUIライブラリBase UIが良さそう",
+    "link": "https://zenn.dev/miruoon_892/articles/49d0032753266b",
+    "pubDate": "Thu, 18 Dec 2025 00:43:48 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "Windows 11、リソースを大量消費するサービスが自動起動に",
-    "link": "https://news.mynavi.jp/techplus/article/20251218-3829186/",
-    "pubDate": "2025-12-18T08:54:02.000Z"
+    "title": "飛行機の隣席にオードリー・タンさんがいた話 - Sway",
+    "link": "https://blog.kocoronoblue.com/archives/2025/12/18/004547",
+    "pubDate": "2025-12-18T00:35:39.000Z"
   },
   {
     "site": "Zenn",
@@ -70,12 +142,6 @@
     "title": "技術書を「覚える」のをやめたら、使えるようになった",
     "link": "https://zenn.dev/recustomer/articles/caff27849cb91c",
     "pubDate": "Thu, 18 Dec 2025 00:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent Skillsの運用を楽にし、Claude以外のAgentでも利用可能にするOSS『SkillPort』を作った話",
-    "link": "https://zenn.dev/gotalab/articles/65cd3ff3cb9152",
-    "pubDate": "Wed, 17 Dec 2025 23:28:55 GMT"
   },
   {
     "site": "Hatena",
@@ -91,57 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "TF-IDFを使用した重要語の抽出",
-    "link": "https://qiita.com/ryutatomita/items/10e5afd5dbec4b82100a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-17T22:07:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "入社3カ月で製造工程に入った話",
-    "link": "https://qiita.com/kmblauervogel/items/c601cb14938f944632ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-17T22:06:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "IaC入門 ～開発環境を整えることから始めるTerraform～",
-    "link": "https://qiita.com/kawai-ayaka/items/87ebfaeeb445dec795a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-17T22:05:59.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "エンジニアって大変なんやで。",
     "link": "https://qiita.com/ido_shun/items/3529b142ec6849eca24a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-17T22:05:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "共有PCでのアカウントロックをグループポリシーで防止する",
-    "link": "https://qiita.com/Shimizu_Kazuya/items/0e536cf193c7981aa4cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-17T22:03:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話",
-    "link": "https://zenn.dev/sohosai/articles/9ea1ec0e844232",
-    "pubDate": "Wed, 17 Dec 2025 13:06:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RSC/Next.jsは信頼できないかもだけど、それで良いのかもしれない",
-    "link": "https://zenn.dev/naofumik/articles/467a875928baef",
-    "pubDate": "Wed, 17 Dec 2025 12:38:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Nix Flake+direnvでプロジェクトのパッケージ管理",
-    "link": "https://zenn.dev/watagame/articles/miselike-nix",
-    "pubDate": "Wed, 17 Dec 2025 10:06:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropic SkillsからAIプロダクト開発者が学べること：Skillsは\"業務マニュアル付きの道具箱\"",
-    "link": "https://zenn.dev/r_kaga/articles/810cc2e8326ca5",
-    "pubDate": "Wed, 17 Dec 2025 08:00:01 GMT"
   },
   {
     "site": "Qiita",
@@ -150,33 +168,15 @@
     "pubDate": "2025-12-17T02:17:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeで実現する仕様駆動開発(SDD)",
-    "link": "https://zenn.dev/luup_developers/articles/server-jang-20251215",
-    "pubDate": "Wed, 17 Dec 2025 01:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AeneasでRustプログラムを検証してみた",
-    "link": "https://zenn.dev/hatoo/articles/fd157320e9463b",
-    "pubDate": "Wed, 17 Dec 2025 00:20:32 GMT"
+    "site": "Qiita",
+    "title": "「Webを支える技術」から学ぶWebの歴史について",
+    "link": "https://qiita.com/y_iwa/items/735a3f2828ab7f720047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-16T22:07:32.000Z"
   },
   {
     "site": "Qiita",
     "title": "マルチレポ vs モノレポ",
     "link": "https://qiita.com/Ayumu_Usu/items/5a1f19de8f49578f9400?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-16T22:04:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "余裕だったはずの採番が最大値に到達してしまった話",
-    "link": "https://qiita.com/yaju/items/39ec2f28daafe2089574?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-16T15:17:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【コピペOK】GitHub Copilotを\"DeepWiki化\"するドキュメント指示書を作成してみた",
-    "link": "https://qiita.com/a32-suzuki/items/c3540da3e009dab1bf97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-15T23:06:04.000Z"
   }
 ]
