@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "Docker、1000超のHardened Imagesを無償・オープンソース公開",
-    "link": "https://codezine.jp/news/detail/22860",
-    "pubDate": "2025-12-20T03:27:14.000Z"
+    "title": "Claude Code の LSP サポート",
+    "link": "https://azukiazusa.dev/blog/claude-code-lsp-support/",
+    "pubDate": "2025-12-20T10:41:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "標準ライブラリーが提供する数学関数はどのくらい正確か、あるいはどの程度環境依存するのか",
+    "link": "https://zenn.dev/mod_poppo/articles/libm-precision",
+    "pubDate": "Sat, 20 Dec 2025 04:18:33 GMT"
   },
   {
     "site": "Hatena",
     "title": "ウィンドウズが擬人化したらXPが一番いい女だと思う",
     "link": "https://anond.hatelabo.jp/20251218230935",
     "pubDate": "2025-12-19T22:57:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "おきのどくですが ファイルシステムは きえてしまいました",
+    "link": "https://qiita.com/papillon/items/b7fc1fb13d0a36eaf41c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-19T22:03:53.000Z"
   },
   {
     "site": "Hatena",
@@ -19,9 +31,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【OAuth】アクセストークンの検証を誤ると成りすまし攻撃ができます",
-    "link": "https://zenn.dev/calloc134/articles/oauth-cross-api-vuln-attack",
-    "pubDate": "2025-12-19T14:54:05.000Z"
+    "title": "JAXにできてPyTorchにできないこと",
+    "link": "https://zenn.dev/mkj/articles/4306bb20a366be",
+    "pubDate": "Fri, 19 Dec 2025 15:00:03 GMT"
   },
   {
     "site": "Hatena",
@@ -31,9 +43,21 @@
   },
   {
     "site": "Qiita",
-    "title": "祝・実験終了 🎉 Linux カーネルの Rust 採用が正式化！ C から Rust へ ─ AI コードエージェントが Linux カーネルコードを書き換えるとどうなるか？ - Qiita",
-    "link": "https://qiita.com/hisaho/items/09362b9efdc5f21ab1f2",
-    "pubDate": "2025-12-19T12:55:42.000Z"
+    "title": "AIを禁止して気づいた エンジニアの基礎体力",
+    "link": "https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-19T11:40:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "初心者・非エンジニア向けセキュリティ学習プラットフォーム一覧",
+    "link": "https://qiita.com/daisuke-team-ai/items/c17328b4967042ebfbe5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-19T11:23:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「今さら聞けない...」認証・認可まわりをざっと復習しよう",
+    "link": "https://zenn.dev/isawa/articles/2b84d7d6b2f207",
+    "pubDate": "Fri, 19 Dec 2025 11:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -46,6 +70,12 @@
     "title": "Claude Codeの Agent Skills は設定したほうがいい - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/19/173309",
     "pubDate": "2025-12-19T10:34:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "特定のワードに反応してミーム音源を勝手に流すクソアプリ",
+    "link": "https://qiita.com/kokushin/items/a21f2045a033b689383e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-19T08:23:04.000Z"
   },
   {
     "site": "Zenn",
@@ -66,6 +96,12 @@
     "pubDate": "2025-12-19T01:28:15.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "2025年版: 開発環境のツールまとめ",
+    "link": "https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment",
+    "pubDate": "Fri, 19 Dec 2025 01:00:01 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "モバイルアプリエンジニアだけど鉄道会社に転職して、退職した｜とと",
     "link": "https://note.com/totokit4/n/n19e17b45e1fc",
@@ -73,39 +109,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Astroでreact2shellのような脆弱性が起きない理由",
+    "title": "Astroでreact2shellのような脆弱性が起きない理由、そして脆弱にしないために",
     "link": "https://zenn.dev/reyalka/articles/63bb023051afcd",
     "pubDate": "Thu, 18 Dec 2025 22:53:01 GMT"
   },
   {
     "site": "Qiita",
-    "title": "🔐 TOTPを再実装してみた、OJT初日のMFA地獄を糧に",
-    "link": "https://qiita.com/shonakam/items/b2cce6816a7c94d66bef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-18T22:11:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コード疲れたから農業デビューする",
-    "link": "https://qiita.com/b_vrp/items/e8af90c7a5f2d033f101?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-18T22:11:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS Lambdaを利用してAWS利用料金をSlackのチャンネルへ通知する",
-    "link": "https://qiita.com/Mouflon_127000/items/362ba1272a2c576228ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-18T22:06:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新卒1年目が4か月弱で資格を4つ取るための勉強法",
-    "link": "https://qiita.com/soraponnu/items/79553773326b2b691134?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-18T22:06:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "HookUp作業の整理メモ（送信側／受信側・hosts／DNS 編）",
-    "link": "https://qiita.com/r-kojima/items/fa7181f4f6d8bcc15d30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-18T22:03:53.000Z"
+    "title": "世界一わかりやすいSPF/DKIM/DMARCの仕組み【完全図解】 - Qiita",
+    "link": "https://qiita.com/user19/items/8acc4f2ce146d6d6e36c",
+    "pubDate": "2025-12-18T21:32:36.000Z"
   },
   {
     "site": "Zenn",
@@ -120,6 +132,12 @@
     "pubDate": "Thu, 18 Dec 2025 16:31:09 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "世界一わかりやすいSPF/DKIM/DMARCの仕組み【完全図解】",
+    "link": "https://qiita.com/user19/items/8acc4f2ce146d6d6e36c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-18T15:01:27.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "LLM-as-a-Judge とルーブリック評価",
     "link": "https://zenn.dev/ubie_dev/articles/llm-as-a-judge-rubric-evaluation",
@@ -127,39 +145,15 @@
   },
   {
     "site": "Zenn",
-    "title": "フロントエンド分割やめました",
-    "link": "https://zenn.dev/coconala/articles/d4c30f0f582259",
-    "pubDate": "Thu, 18 Dec 2025 13:06:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【OAuth】アクセストークンの検証を誤ると成りすまし攻撃ができます",
-    "link": "https://zenn.dev/calloc134/articles/oauth-cross-api-vuln-attack",
-    "pubDate": "Thu, 18 Dec 2025 11:47:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare Workers + Turso で動画広告配信システムを作ってみた - VAST準拠、エッジで動くOSS",
-    "link": "https://zenn.dev/coji/articles/video-ad-network-cloudflare-turso",
-    "pubDate": "Thu, 18 Dec 2025 06:19:07 GMT"
+    "title": "[A2UI] AIエージェントとUIをつなぐプロトコル A2UIを試してみる",
+    "link": "https://zenn.dev/soundtricker/articles/a0c46f366ef953",
+    "pubDate": "Thu, 18 Dec 2025 14:44:21 GMT"
   },
   {
     "site": "Qiita",
     "title": "祝・実験終了 🎉 Linux カーネルの Rust 採用が正式化！ C から Rust へ ─ AI コードエージェントが Linux カーネルコードを書き換えるとどうなるか？",
     "link": "https://qiita.com/hisaho/items/09362b9efdc5f21ab1f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-18T04:51:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "try-catch に疲れたので、TypeScript で別の書き方を考えた",
-    "link": "https://zenn.dev/sangun/articles/354b8d53343777",
-    "pubDate": "Thu, 18 Dec 2025 00:44:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "祝v1リリース🎉新たなヘッドレスUIライブラリBase UIが良さそう",
-    "link": "https://zenn.dev/miruoon_892/articles/49d0032753266b",
-    "pubDate": "Thu, 18 Dec 2025 00:43:48 GMT"
   },
   {
     "site": "Qiita",
@@ -175,8 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "なぜ私はAtCoderが全くできないのか",
-    "link": "https://qiita.com/Shiro_Shihi/items/31b9e50abda41e4c2b71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-17T02:17:23.000Z"
+    "title": "「あの話、なんだっけ？」を無くしたい。Slack AI議事録 × NotebookLM で スクラムの議事録をストックする運用を始めてみた",
+    "link": "https://qiita.com/subaru__sato/items/d73c86547c764a51fe5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-17T22:04:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "MUSUBI ではじめる仕様駆動開発入門 - Vibe CodingからSDD（Specification Driven Development）へ - Qiita",
+    "link": "https://qiita.com/hisaho/items/322d0b21779d312318db",
+    "pubDate": "2025-11-17T21:28:43.000Z"
   }
 ]
