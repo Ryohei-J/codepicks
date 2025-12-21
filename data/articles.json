@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude CodeにLSPツールが追加",
+    "link": "https://blog.lai.so/claude-code-lsp/",
+    "pubDate": "2025-12-20T15:45:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AI時代に\"読書すること\"の価値を考える。 - 世界のねじを巻くブログ",
+    "link": "https://www.nejimakiblog.com/entry/ai-era-book-reading-meaning-dokusho",
+    "pubDate": "2025-12-20T14:50:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アップル株、2026年に40％下落する可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/87568",
+    "pubDate": "2025-12-20T12:16:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub Copilotにも追加されたAgent Skillsとは | ドクセル",
+    "link": "https://www.docswell.com/s/yuma/5RE1Q3-2025-12-20-dotnetlab",
+    "pubDate": "2025-12-20T11:19:49.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Code の LSP サポート",
     "link": "https://azukiazusa.dev/blog/claude-code-lsp-support/",
     "pubDate": "2025-12-20T10:41:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CF WorkersでNodeJS依存ライブラリが使えない？できらぁ！！！～黒魔術ViteプラグインでNodeJS依存関数を透過的に呼ぶ話～",
+    "link": "https://zenn.dev/inaridiy/articles/80ad405279e3fe",
+    "pubDate": "Sat, 20 Dec 2025 07:43:10 GMT"
   },
   {
     "site": "Zenn",
@@ -24,16 +54,22 @@
     "pubDate": "Sat, 20 Dec 2025 04:18:33 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ウィンドウズが擬人化したらXPが一番いい女だと思う",
-    "link": "https://anond.hatelabo.jp/20251218230935",
-    "pubDate": "2025-12-19T22:57:32.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "おきのどくですが ファイルシステムは きえてしまいました",
     "link": "https://qiita.com/papillon/items/b7fc1fb13d0a36eaf41c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-19T22:03:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "意外と知らない！？Claude Codeで使える小技集 - Qiita",
+    "link": "https://qiita.com/mu7kata/items/c325740e4710120b0963",
+    "pubDate": "2025-12-19T21:10:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード",
+    "link": "https://www.gizmodo.jp/2025/12/openai-defaults-free-users-to-cheapest-model-to-cut-back-on-costs.html",
+    "pubDate": "2025-12-19T19:18:12.000Z"
   },
   {
     "site": "Zenn",
@@ -42,10 +78,10 @@
     "pubDate": "Fri, 19 Dec 2025 15:00:03 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「考えなくていいUI」を考える｜ritar",
-    "link": "https://note.com/ritar/n/n9e960988c8c8",
-    "pubDate": "2025-12-19T14:33:02.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilot Agent Skills 入門",
+    "link": "https://zenn.dev/openjny/articles/a9d4f6ec2a05c2",
+    "pubDate": "Fri, 19 Dec 2025 14:58:22 GMT"
   },
   {
     "site": "Qiita",
@@ -66,12 +102,6 @@
     "pubDate": "Fri, 19 Dec 2025 11:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIにスナック自販機の経営を任せたらPlayStationの無償配布や魚の入荷を始めて大赤字",
-    "link": "https://gigazine.net/news/20251219-anthropic-project-vend-phase-two/",
-    "pubDate": "2025-12-19T10:40:53.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "特定のワードに反応してミーム音源を勝手に流すクソアプリ",
     "link": "https://qiita.com/kokushin/items/a21f2045a033b689383e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,9 +109,9 @@
   },
   {
     "site": "Zenn",
-    "title": "やってみたら思った以上にエンジニアだった公務員の奮闘記― 区職員×都庁ICT職が挑む、生成AIプロジェクト（前編）",
-    "link": "https://zenn.dev/govtechtokyo/articles/493cda92ae44fc",
-    "pubDate": "2025-12-19T05:18:36.000Z"
+    "title": "「画像なし」で挑むVLM学習 / Text-Printed Imageによるアプローチ",
+    "link": "https://zenn.dev/turing_motors/articles/017e6d6253632f",
+    "pubDate": "Fri, 19 Dec 2025 07:49:06 GMT"
   },
   {
     "site": "Zenn",
@@ -102,16 +132,16 @@
     "pubDate": "Fri, 19 Dec 2025 01:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "モバイルアプリエンジニアだけど鉄道会社に転職して、退職した｜とと",
-    "link": "https://note.com/totokit4/n/n19e17b45e1fc",
-    "pubDate": "2025-12-19T00:12:30.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Astroでreact2shellのような脆弱性が起きない理由、そして脆弱にしないために",
     "link": "https://zenn.dev/reyalka/articles/63bb023051afcd",
     "pubDate": "Thu, 18 Dec 2025 22:53:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "M4 Mac miniをポータブル化して気づいた、MacBookという名の「奇跡」",
+    "link": "https://qiita.com/asuya_kakegawa/items/58b74a6b254542838287?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-18T22:11:28.000Z"
   },
   {
     "site": "Qiita",
@@ -126,28 +156,10 @@
     "pubDate": "Thu, 18 Dec 2025 20:13:04 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Software DesignでNix連載しました",
-    "link": "https://zenn.dev/takeokunn/articles/20251124235900",
-    "pubDate": "Thu, 18 Dec 2025 16:31:09 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "世界一わかりやすいSPF/DKIM/DMARCの仕組み【完全図解】",
     "link": "https://qiita.com/user19/items/8acc4f2ce146d6d6e36c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-18T15:01:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLM-as-a-Judge とルーブリック評価",
-    "link": "https://zenn.dev/ubie_dev/articles/llm-as-a-judge-rubric-evaluation",
-    "pubDate": "Thu, 18 Dec 2025 15:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[A2UI] AIエージェントとUIをつなぐプロトコル A2UIを試してみる",
-    "link": "https://zenn.dev/soundtricker/articles/a0c46f366ef953",
-    "pubDate": "Thu, 18 Dec 2025 14:44:21 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "エンジニアって大変なんやで。",
     "link": "https://qiita.com/ido_shun/items/3529b142ec6849eca24a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-17T22:05:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「あの話、なんだっけ？」を無くしたい。Slack AI議事録 × NotebookLM で スクラムの議事録をストックする運用を始めてみた",
-    "link": "https://qiita.com/subaru__sato/items/d73c86547c764a51fe5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-17T22:04:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MUSUBI ではじめる仕様駆動開発入門 - Vibe CodingからSDD（Specification Driven Development）へ - Qiita",
-    "link": "https://qiita.com/hisaho/items/322d0b21779d312318db",
-    "pubDate": "2025-11-17T21:28:43.000Z"
   }
 ]
