@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "ハイパー省メモリかつ高速なreadonly組み込みDBをUnityにぶちこもう - HADASHIKICK LAND",
+    "link": "https://hadashikick.land/tech/vkv-preview",
+    "pubDate": "2025-12-20T19:07:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude CodeにLSPツールが追加",
     "link": "https://blog.lai.so/claude-code-lsp/",
     "pubDate": "2025-12-20T15:45:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Go の test における flag パッケージ活用Tips",
+    "link": "https://zenn.dev/uji/articles/go-flag-usecase-in-test",
+    "pubDate": "Sat, 20 Dec 2025 15:00:02 GMT"
   },
   {
     "site": "Hatena",
@@ -18,16 +30,16 @@
     "pubDate": "2025-12-20T12:16:46.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "GitHub Copilot Agent Skills 入門",
+    "link": "https://zenn.dev/openjny/articles/a9d4f6ec2a05c2",
+    "pubDate": "2025-12-20T12:14:15.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "GitHub Copilotにも追加されたAgent Skillsとは | ドクセル",
     "link": "https://www.docswell.com/s/yuma/5RE1Q3-2025-12-20-dotnetlab",
     "pubDate": "2025-12-20T11:19:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code の LSP サポート",
-    "link": "https://azukiazusa.dev/blog/claude-code-lsp-support/",
-    "pubDate": "2025-12-20T10:41:57.000Z"
   },
   {
     "site": "Zenn",
@@ -42,10 +54,10 @@
     "pubDate": "2025-12-20T06:10:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "余ったPCで検証用のプライベートクラウドを構築してネットワークで遊んでみた - ABEJA Tech Blog",
-    "link": "https://tech-blog.abeja.asia/entry/advent-2025-day20",
-    "pubDate": "2025-12-20T05:34:32.000Z"
+    "site": "Zenn",
+    "title": "標準ライブラリーが提供する数学関数はどのくらい正確か、あるいはどの程度環境依存するのか",
+    "link": "https://zenn.dev/mod_poppo/articles/libm-precision",
+    "pubDate": "2025-12-20T04:30:40.000Z"
   },
   {
     "site": "Zenn",
@@ -60,16 +72,10 @@
     "pubDate": "2025-12-19T22:03:53.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "意外と知らない！？Claude Codeで使える小技集 - Qiita",
-    "link": "https://qiita.com/mu7kata/items/c325740e4710120b0963",
-    "pubDate": "2025-12-19T21:10:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード",
-    "link": "https://www.gizmodo.jp/2025/12/openai-defaults-free-users-to-cheapest-model-to-cut-back-on-costs.html",
-    "pubDate": "2025-12-19T19:18:12.000Z"
+    "site": "Zenn",
+    "title": "英語が不安でも60分セッションを話し切るためのTips",
+    "link": "https://zenn.dev/ma2shita/articles/292f8708ad686f",
+    "pubDate": "Fri, 19 Dec 2025 15:57:51 GMT"
   },
   {
     "site": "Zenn",
@@ -114,6 +120,12 @@
     "pubDate": "Fri, 19 Dec 2025 07:49:06 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "9割が「12時間以内に応答」を要求　OSSを“商用製品扱い”する日本企業の幻想",
+    "link": "https://techtarget.itmedia.co.jp/tt/news/2512/19/news04.html",
+    "pubDate": "2025-12-19T03:38:42.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "医療業界で突然LLMを使ってくれと言われたら",
     "link": "https://zenn.dev/livetoon/articles/ba4536e4722187",
@@ -132,12 +144,6 @@
     "pubDate": "Fri, 19 Dec 2025 01:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Astroでreact2shellのような脆弱性が起きない理由、そして脆弱にしないために",
-    "link": "https://zenn.dev/reyalka/articles/63bb023051afcd",
-    "pubDate": "Thu, 18 Dec 2025 22:53:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "M4 Mac miniをポータブル化して気づいた、MacBookという名の「奇跡」",
     "link": "https://qiita.com/asuya_kakegawa/items/58b74a6b254542838287?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -148,12 +154,6 @@
     "title": "世界一わかりやすいSPF/DKIM/DMARCの仕組み【完全図解】 - Qiita",
     "link": "https://qiita.com/user19/items/8acc4f2ce146d6d6e36c",
     "pubDate": "2025-12-18T21:32:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Deno に\"守り\"のコントリビュートしていたら、TC39 に出した言語仕様変更が承認され、ついでに V8 にパッチを投げた話",
-    "link": "https://zenn.dev/pixiv/articles/325f922db8b3b8",
-    "pubDate": "Thu, 18 Dec 2025 20:13:04 GMT"
   },
   {
     "site": "Qiita",
