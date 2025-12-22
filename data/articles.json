@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "日本の会社員が発見、数学界を賑わせた「新図形」とは？　論文も5日間で執筆、arXivにも掲載",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/22/news034.html",
+    "pubDate": "2025-12-21T23:24:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「カード番号と有効期限」だけで通った時代から10年～決済セキュリティの進化と今すべき対策 - Qiita",
+    "link": "https://qiita.com/ahera/items/5c5bcfeeeea69081744d",
+    "pubDate": "2025-12-21T22:32:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“忘れられた技術”―P2Pファイル共有ソフト「BitTorrent」で今、何が起きているのか？　著作権侵害による開示請求急増の背景　今知っておくべきP2Pファイル共有ソフトの特徴と注意点",
     "link": "https://internet.watch.impress.co.jp/docs/special/2069262.html",
     "pubDate": "2025-12-21T21:42:34.000Z"
@@ -25,15 +37,39 @@
   },
   {
     "site": "Zenn",
+    "title": "Python のコンパイラを作りたい #9 - MLIR の導入と最適化",
+    "link": "https://zenn.dev/t3tra/articles/05fcc322102215",
+    "pubDate": "Sun, 21 Dec 2025 11:17:22 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "最速最強の Markdown コンパイラ作るぞ",
     "link": "https://zenn.dev/mizchi/articles/markdown-incremental-preview",
     "pubDate": "Sun, 21 Dec 2025 10:51:25 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeの50回制限を20倍に拡張するclaude-mem - コンテキスト枯渇問題の解決策",
+    "link": "https://zenn.dev/tenormusica/articles/claude-mem-endless-mode-context-limit-2025",
+    "pubDate": "2025-12-21T09:15:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「Skills？MCP？インストラクション？」仕組みからわかる GitHub Copilot のカスタマイズ戦略ガイド",
+    "link": "https://zenn.dev/openjny/articles/91e88d7914e5bc",
+    "pubDate": "Sun, 21 Dec 2025 07:30:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMのCUDAカーネルを自作しよう!",
+    "link": "https://zenn.dev/selllous/articles/diy_llm_kernel",
+    "pubDate": "Sun, 21 Dec 2025 07:29:03 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "AIを活用したドキュメント執筆技術｜michiomochi",
-    "link": "https://note.com/michiomochi/n/nffa93191b5e9",
-    "pubDate": "2025-12-21T08:03:43.000Z"
+    "title": "【ベストバイ2025】買ってよかったモノ・ガジェットBEST15 | ロピログ",
+    "link": "https://lopylog.jp/2025-best-buy/",
+    "pubDate": "2025-12-21T04:45:52.000Z"
   },
   {
     "site": "Hatena",
@@ -46,18 +82,6 @@
     "title": "イベントソーシングから学ぶ、削除をドメインの言葉で表現する設計",
     "link": "https://zenn.dev/jtechjapan_pub/articles/c0673490bc548c",
     "pubDate": "Sun, 21 Dec 2025 03:13:13 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "もはやセキュリティに「社内」と「社外」の境界はない。CSIRTとPSIRTを統合してひとつのチームへ - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/merge_csirt_and_psirt",
-    "pubDate": "2025-12-21T02:46:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "おい、休め - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/21/092456",
-    "pubDate": "2025-12-21T01:04:19.000Z"
   },
   {
     "site": "Zenn",
@@ -97,45 +121,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Go の test における flag パッケージ活用Tips",
-    "link": "https://zenn.dev/uji/articles/go-flag-usecase-in-test",
+    "title": "【書評】小さく作って深く学ぶGo──『Learn Go with Pocket-Sized Projects』",
+    "link": "https://zenn.dev/pythocial/articles/ae7b8e6193e441",
     "pubDate": "Sat, 20 Dec 2025 15:00:02 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Prisma 7 がつらくて Atlas + Kysely に移行した - Turso + better-auth 環境での実践",
-    "link": "https://zenn.dev/coji/articles/prisma7-to-atlas-kysely-migration",
-    "pubDate": "Sat, 20 Dec 2025 11:40:51 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CF WorkersでNodeJS依存ライブラリが使えない？できらぁ！！！～黒魔術ViteプラグインでNodeJS依存関数を透過的に呼ぶ話～",
-    "link": "https://zenn.dev/inaridiy/articles/80ad405279e3fe",
-    "pubDate": "Sat, 20 Dec 2025 07:43:10 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11、更新プログラムの影響でメモリリークの不具合か",
-    "link": "https://news.mynavi.jp/techplus/article/20251219-3839527/",
-    "pubDate": "2025-12-20T04:57:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "標準ライブラリーが提供する数学関数はどのくらい正確か、あるいはどの程度環境依存するのか",
-    "link": "https://zenn.dev/mod_poppo/articles/libm-precision",
-    "pubDate": "Sat, 20 Dec 2025 04:18:33 GMT"
+    "title": "Go の test における flag パッケージ活用Tips",
+    "link": "https://zenn.dev/uji/articles/go-flag-usecase-in-test",
+    "pubDate": "Sat, 20 Dec 2025 15:00:02 GMT"
   },
   {
     "site": "Qiita",
     "title": "全てをなんちゃってソースコードにするクソアプリ",
     "link": "https://qiita.com/ampersand/items/e3cc3463c1834cda3290?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-20T03:23:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長している話",
-    "link": "https://zenn.dev/dress_code/articles/21680757d88828",
-    "pubDate": "Sat, 20 Dec 2025 03:00:02 GMT"
   },
   {
     "site": "Qiita",
