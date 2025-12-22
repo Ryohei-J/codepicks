@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「バザールでござーる」あと1年でサヨナラでござーる　35周年の節目に引退へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/22/news121.html",
+    "pubDate": "2025-12-22T10:21:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "郵便局の“AI年賀状”が攻めてる　軽い気持ちで試したら、新たな黒歴史が爆誕した",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/22/news095.html",
+    "pubDate": "2025-12-22T04:52:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "もはや「在庫不足」の域を超えた。TSUKUMO、注文殺到で全BTO PCを一時受注停止",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2073151.html",
+    "pubDate": "2025-12-22T01:11:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "日本の会社員が発見、数学界を賑わせた「新図形」とは？　論文も5日間で執筆、arXivにも掲載",
     "link": "https://www.itmedia.co.jp/news/articles/2512/22/news034.html",
     "pubDate": "2025-12-21T23:24:11.000Z"
@@ -10,6 +28,12 @@
     "title": "「カード番号と有効期限」だけで通った時代から10年～決済セキュリティの進化と今すべき対策 - Qiita",
     "link": "https://qiita.com/ahera/items/5c5bcfeeeea69081744d",
     "pubDate": "2025-12-21T22:32:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "TypeScriptの型安全性を極めるライブラリ6選",
+    "link": "https://qiita.com/touka-io/items/c4104488234206efb0d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-21T22:06:41.000Z"
   },
   {
     "site": "Hatena",
@@ -37,6 +61,12 @@
   },
   {
     "site": "Zenn",
+    "title": "TanStack DBってなに？ —— TanStack Queryと比較しながら理解する「クライアントDB」という選択",
+    "link": "https://zenn.dev/r1013t/articles/396a10c6025205",
+    "pubDate": "Sun, 21 Dec 2025 14:02:07 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Python のコンパイラを作りたい #9 - MLIR の導入と最適化",
     "link": "https://zenn.dev/t3tra/articles/05fcc322102215",
     "pubDate": "Sun, 21 Dec 2025 11:17:22 GMT"
@@ -48,10 +78,10 @@
     "pubDate": "Sun, 21 Dec 2025 10:51:25 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeの50回制限を20倍に拡張するclaude-mem - コンテキスト枯渇問題の解決策",
-    "link": "https://zenn.dev/tenormusica/articles/claude-mem-endless-mode-context-limit-2025",
-    "pubDate": "2025-12-21T09:15:16.000Z"
+    "site": "Qiita",
+    "title": "「なんとなく」で終わらせない！ビジネス要件分析で 本当に 必要なドキュメント",
+    "link": "https://qiita.com/angel_high_low/items/b631c1000e7cb5cdcb12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-21T09:12:30.000Z"
   },
   {
     "site": "Zenn",
@@ -67,12 +97,6 @@
   },
   {
     "site": "Hatena",
-    "title": "【ベストバイ2025】買ってよかったモノ・ガジェットBEST15 | ロピログ",
-    "link": "https://lopylog.jp/2025-best-buy/",
-    "pubDate": "2025-12-21T04:45:52.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Nano Banana Pro で ストーリー漫画の作成を試す｜npaka",
     "link": "https://note.com/npaka/n/n5e7f167c9bf8",
     "pubDate": "2025-12-21T04:05:09.000Z"
@@ -82,6 +106,12 @@
     "title": "イベントソーシングから学ぶ、削除をドメインの言葉で表現する設計",
     "link": "https://zenn.dev/jtechjapan_pub/articles/c0673490bc548c",
     "pubDate": "Sun, 21 Dec 2025 03:13:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Figmaやめて、AIとコードでUIを作り始めた話",
+    "link": "https://zenn.dev/aishift/articles/3e211e67e3dc14",
+    "pubDate": "Sun, 21 Dec 2025 00:30:01 GMT"
   },
   {
     "site": "Zenn",
@@ -103,9 +133,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Gemini 3 Proの「思考プロセス」を可視化してみた！AIは回答までに何を考えているのか。",
-    "link": "https://qiita.com/harunatotsuka/items/e16450df667845a3f130?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-20T22:24:32.000Z"
+    "title": "維持管理案件は\"退屈\"？それとも\"価値ある挑戦\"となるのか？",
+    "link": "https://qiita.com/yoshiki_sysi/items/d89bc0a76f01aa938654?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-20T22:07:39.000Z"
   },
   {
     "site": "Qiita",
@@ -115,21 +145,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【公式】準備ゼロで使えるPyxel開発環境『Pyxel Code Maker』のご紹介",
-    "link": "https://qiita.com/kitao/items/6f3d080f8e1c5d2f2715?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-20T22:04:39.000Z"
+    "title": "【Excel×Copilot】Excelで実行ログのタイムチャートを作るのをAIに手伝ってもらった",
+    "link": "https://qiita.com/a-yama/items/1ef5d3600908a61ab685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-20T22:04:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【書評】小さく作って深く学ぶGo──『Learn Go with Pocket-Sized Projects』",
-    "link": "https://zenn.dev/pythocial/articles/ae7b8e6193e441",
-    "pubDate": "Sat, 20 Dec 2025 15:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go の test における flag パッケージ活用Tips",
-    "link": "https://zenn.dev/uji/articles/go-flag-usecase-in-test",
-    "pubDate": "Sat, 20 Dec 2025 15:00:02 GMT"
+    "site": "Qiita",
+    "title": "OSS版Kong Gatewayをk8sで動かしてみる",
+    "link": "https://qiita.com/tmatsu200/items/4c1b5be984ec8db7ee51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-20T07:32:20.000Z"
   },
   {
     "site": "Qiita",
@@ -145,38 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "物理図と論理図の違いについて簡単にまとめてみたよ。",
+    "link": "https://qiita.com/IchigoOre713/items/9f02b1f9e8b48248c3b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-19T22:03:48.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "AIを禁止して気づいた エンジニアの基礎体力",
     "link": "https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-19T11:40:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "初心者・非エンジニア向けセキュリティ学習プラットフォーム一覧",
-    "link": "https://qiita.com/daisuke-team-ai/items/c17328b4967042ebfbe5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-19T11:23:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "特定のワードに反応してミーム音源を勝手に流すクソアプリ",
-    "link": "https://qiita.com/kokushin/items/a21f2045a033b689383e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-19T08:23:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "意外と知らない！？Claude Codeで使える小技集",
-    "link": "https://qiita.com/mu7kata/items/c325740e4710120b0963?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-19T01:28:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "M4 Mac miniをポータブル化して気づいた、MacBookという名の「奇跡」",
-    "link": "https://qiita.com/asuya_kakegawa/items/58b74a6b254542838287?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-18T22:11:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Japan Dashboard（経済・財政・人口と暮らしに関するダッシュボード）とデータカタログ（2025年7月公開）",
-    "link": "https://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/mieruka/jd_top/index.html",
-    "pubDate": "2025-07-10T23:58:37.000Z"
   }
 ]
