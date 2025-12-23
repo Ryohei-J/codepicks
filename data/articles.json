@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "勝手に輝いていた増田ブコメ大賞2025 - 誰かの肩の上",
+    "link": "https://daydollarbotch.hatenablog.com/entry/2025/12/23/194714",
+    "pubDate": "2025-12-23T10:48:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~ - エムスリーテックブログ",
     "link": "https://www.m3tech.blog/entry/blockly",
     "pubDate": "2025-12-23T09:10:48.000Z"
@@ -19,15 +25,21 @@
   },
   {
     "site": "Hatena",
-    "title": "新卒がfreee会計の開発で学んだ「図解」という武器 - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/understanding-complex-domain-with-diagrams",
-    "pubDate": "2025-12-23T01:27:49.000Z"
+    "title": "AI活用100本ノック（DeNA）",
+    "link": "https://downloads.ctfassets.net/7mrdlclm9xss/m7XsAz2M3bT8WoDrfmYn3/8ee77c25f48de5dab3b792b428df5495/AI_100tips_slide.pdf",
+    "pubDate": "2025-12-23T05:32:29.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ISUCONイベントサポート体制引継ぎのお知らせ | さくらインターネット",
-    "link": "https://www.sakura.ad.jp/corporate/information/events/2025/12/23/1968222662/",
-    "pubDate": "2025-12-23T01:23:36.000Z"
+    "title": "「手作業でやってきた部分ほど自動化しづらい」 MIXI社「インフラAI活用」の“泥臭い” 実践 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/interview/detail_774/",
+    "pubDate": "2025-12-23T02:40:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「このデザイン、CSSで再現できないかも😫」を解決してくれるかもしれないプロパティ、mask",
+    "link": "https://zenn.dev/chot/articles/b85ffe33a12f95",
+    "pubDate": "Tue, 23 Dec 2025 01:14:45 GMT"
   },
   {
     "site": "Hatena",
@@ -66,16 +78,22 @@
     "pubDate": "2025-12-22T22:06:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「家族アルバム みてね」を支えるS3ライフサイクル戦略",
-    "link": "https://speakerdeck.com/fanglang/jia-zu-arubamu-mitene-wozhi-erus3raihusaikuruzhan-lue?slide=26",
-    "pubDate": "2025-12-22T14:03:30.000Z"
+    "site": "Zenn",
+    "title": "Agent Skillsを一番かんたんに作る方法（Claude Code + skill-creator）",
+    "link": "https://zenn.dev/aun_phonogram/articles/475f3cca8f40a3",
+    "pubDate": "Mon, 22 Dec 2025 22:00:02 GMT"
   },
   {
     "site": "Hatena",
-    "title": "AI で日本語の長文を校正する - 山下泰平の趣味の方法",
-    "link": "https://cocolog-nifty.hatenablog.com/entry/2025/12/22/124436",
-    "pubDate": "2025-12-22T14:00:22.000Z"
+    "title": "「戦略・作戦・戦術」について ──戦略を語れと言われた気がするから、戦略を語ってみるぞ - フジイユウジ::ドットネット",
+    "link": "https://fujii-yuji.net/2025/12/23/002922",
+    "pubDate": "2025-12-22T20:13:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "結局std::simdってどうなのさ",
+    "link": "https://zenn.dev/wx257osn2/articles/std_simd_bcap8fnapwe987",
+    "pubDate": "Mon, 22 Dec 2025 16:19:05 GMT"
   },
   {
     "site": "Qiita",
@@ -144,28 +162,10 @@
     "pubDate": "Sun, 21 Dec 2025 10:51:25 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "NotebookLM × ChatGPT × Fish Audio で「三行で終わる世界」を作った話",
-    "link": "https://zenn.dev/acntechjp/articles/b2f8969bc97e94",
-    "pubDate": "Sun, 21 Dec 2025 10:26:38 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「なんとなく」で終わらせない！ビジネス要件分析で 本当に 必要なドキュメント",
     "link": "https://qiita.com/angel_high_low/items/b631c1000e7cb5cdcb12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-21T09:12:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「Skills？MCP？インストラクション？」仕組みからわかる GitHub Copilot のカスタマイズ戦略ガイド",
-    "link": "https://zenn.dev/openjny/articles/91e88d7914e5bc",
-    "pubDate": "Sun, 21 Dec 2025 07:30:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMのCUDAカーネルを自作しよう!",
-    "link": "https://zenn.dev/selllous/articles/diy_llm_kernel",
-    "pubDate": "Sun, 21 Dec 2025 07:29:03 GMT"
   },
   {
     "site": "Qiita",
