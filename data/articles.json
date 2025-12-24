@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "Chrome、従来型ブラウザーの中ではプライバシーリスクが最も高いとの調査結果【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2073905.html",
-    "pubDate": "2025-12-24T08:17:22.000Z"
+    "title": "Xに画像の“AI加工機能”出現　他人のポストでも、1クリックで画像編集　「最悪なシステム」と物議に",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news128.html",
+    "pubDate": "2025-12-24T10:51:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「とほほのWWW入門」にMarkdownの解説が追加 ～GitHub/Qiitaの拡張記法まで網羅／書き換えるとプレビューが可能なサンプルエリアも便利",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2074051.html",
+    "pubDate": "2025-12-24T08:48:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ブルーレイはなぜ、DVDより先に「オワコン化」したのか　タイミングを逃し続けた“勝者”の末路",
+    "link": "https://www.itmedia.co.jp/news/articles/2512/24/news113.html",
+    "pubDate": "2025-12-24T08:35:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "論理削除という技術的負債、それでも僕たちは使い続ける - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/24/110101",
+    "pubDate": "2025-12-24T08:08:39.000Z"
   },
   {
     "site": "Hatena",
@@ -18,10 +36,22 @@
     "pubDate": "2025-12-24T03:38:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "新卒2年目エンジニアの私が、チームをリードするために「こだわっている」こと - Speee DEVELOPER BLOG",
-    "link": "https://tech.speee.jp/entry/stance-for-leading-team",
-    "pubDate": "2025-12-24T02:36:44.000Z"
+    "site": "Zenn",
+    "title": "Go 1.24でmap[T]struct{}のメモリ節約効果がなくなった",
+    "link": "https://zenn.dev/naoki_kuroda/articles/c225d315a3a5ae",
+    "pubDate": "Wed, 24 Dec 2025 01:39:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "上場までにデータ基盤が歩んできた道",
+    "link": "https://zenn.dev/neinc_tech/articles/195d260ddd127a",
+    "pubDate": "Wed, 24 Dec 2025 01:28:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMは数理最適化がおおたまんよりも得意...かも？",
+    "link": "https://zenn.dev/ohtaman/articles/opt-mcp-and-demo",
+    "pubDate": "Wed, 24 Dec 2025 01:09:11 GMT"
   },
   {
     "site": "Qiita",
@@ -48,6 +78,18 @@
     "pubDate": "2025-12-23T21:27:47.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "TeXから始めるLean言語",
+    "link": "https://zenn.dev/k16/articles/f468f28a08a764",
+    "pubDate": "Tue, 23 Dec 2025 20:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "CQRS/ESの『整合性どうするの？』に答えてみる",
+    "link": "https://zenn.dev/jtechjapan_pub/articles/033061a3461ed9",
+    "pubDate": "Tue, 23 Dec 2025 19:53:23 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "ビジュアル正規表現エディタ",
     "link": "https://hi-king.github.io/visual_regexp_web/",
@@ -61,21 +103,21 @@
   },
   {
     "site": "Zenn",
+    "title": "「復帰」ではなく「変容」だった半年間",
+    "link": "https://zenn.dev/dress_code/articles/eb8d9afcd86391",
+    "pubDate": "Tue, 23 Dec 2025 15:00:04 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "oxlint, oxfmt, tsgoを導入して開発環境が爆速になった",
     "link": "https://zenn.dev/dress_code/articles/d655cd7a43b936",
     "pubDate": "Tue, 23 Dec 2025 15:00:04 GMT"
   },
   {
     "site": "Zenn",
-    "title": "「復帰」ではなく「変容」だった半年間",
-    "link": "https://zenn.dev/dress_code/articles/eb8d9afcd86391",
-    "pubDate": "Tue, 23 Dec 2025 15:00:04 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "LINEヤフー川邊会長退任へ　「為すべき事は済んだ」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2073808.html",
-    "pubDate": "2025-12-23T12:59:03.000Z"
+    "title": "「数字」で振り返るPHPカンファレンス福岡の10年史 #phpconfuk",
+    "link": "https://zenn.dev/akase244/articles/4292dfaf05b7a2",
+    "pubDate": "Tue, 23 Dec 2025 15:00:02 GMT"
   },
   {
     "site": "Hatena",
@@ -108,58 +150,16 @@
     "pubDate": "2025-12-23T05:21:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ビジネスモデル3.0図鑑 #全文公開チャレンジ｜図解総研",
-    "link": "https://note.com/bizgram/n/n5bde4d5402d1",
-    "pubDate": "2025-12-23T05:13:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Pythonを書くなら、Ruffのルールページは最高の教材だと思う（AI時代の学び方）",
     "link": "https://zenn.dev/layerx/articles/28498105e81a4f",
     "pubDate": "Tue, 23 Dec 2025 03:00:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「このデザイン、CSSで再現できないかも😫」を解決してくれるかもしれないプロパティ、mask",
-    "link": "https://zenn.dev/chot/articles/b85ffe33a12f95",
-    "pubDate": "Tue, 23 Dec 2025 01:14:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vertex AI Vector Search 2.0 登場 ―― ANN 特化から「データストア統合型」の包括的な検索基盤へ",
-    "link": "https://zenn.dev/google_cloud_jp/articles/vector-search-2-0-intro",
-    "pubDate": "Tue, 23 Dec 2025 00:23:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発環境をRustで染まりたい",
-    "link": "https://zenn.dev/tsubasa_ryuto/articles/13588a7236f578",
-    "pubDate": "Mon, 22 Dec 2025 23:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "実務で使い倒したので cc-sdd の仕様駆動開発プロセスを丁寧に解説してみた",
-    "link": "https://zenn.dev/tmasuyama1114/articles/cc_sdd_whole_flow",
-    "pubDate": "Mon, 22 Dec 2025 22:42:18 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Google Cloud認定資格を全て取得したので学習方法等をまとめる",
     "link": "https://qiita.com/takahiro_fukushima/items/9c143c46dcac20a6bf62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-22T22:07:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent Skillsを一番かんたんに作る方法（Claude Code + skill-creator）",
-    "link": "https://zenn.dev/aun_phonogram/articles/475f3cca8f40a3",
-    "pubDate": "Mon, 22 Dec 2025 22:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "結局std::simdってどうなのさ",
-    "link": "https://zenn.dev/wx257osn2/articles/std_simd_bcap8fnapwe987",
-    "pubDate": "Mon, 22 Dec 2025 16:19:05 GMT"
   },
   {
     "site": "Qiita",
