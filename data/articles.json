@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "【特集】 AI巡るメモリ争奪戦――2026年はPC、スマホに“冬”が到来",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2073359.html",
+    "pubDate": "2025-12-23T21:27:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ビジュアル正規表現エディタ",
+    "link": "https://hi-king.github.io/visual_regexp_web/",
+    "pubDate": "2025-12-23T17:13:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "oxlint, oxfmt, tsgoを導入して開発環境が爆速になった",
+    "link": "https://zenn.dev/dress_code/articles/d655cd7a43b936",
+    "pubDate": "2025-12-23T15:09:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LINEヤフー川邊会長退任へ　「為すべき事は済んだ」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2073808.html",
+    "pubDate": "2025-12-23T12:59:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "勝手に輝いていた増田ブコメ大賞2025 - 誰かの肩の上",
     "link": "https://daydollarbotch.hatenablog.com/entry/2025/12/23/194714",
     "pubDate": "2025-12-23T10:48:37.000Z"
@@ -18,6 +42,12 @@
     "pubDate": "2025-12-23T07:57:24.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "実務で使い倒したので cc-sdd の仕様駆動開発プロセスを丁寧に解説してみた",
+    "link": "https://zenn.dev/tmasuyama1114/articles/cc_sdd_whole_flow",
+    "pubDate": "2025-12-23T06:49:20.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「PCが買えない年末」現実に。マウス、全PC製品の販売停止と初売り中止を発表",
     "link": "https://pc.watch.impress.co.jp/docs/news/2073586.html",
@@ -30,10 +60,10 @@
     "pubDate": "2025-12-23T05:32:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「手作業でやってきた部分ほど自動化しづらい」 MIXI社「インフラAI活用」の“泥臭い” 実践 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/interview/detail_774/",
-    "pubDate": "2025-12-23T02:40:31.000Z"
+    "site": "Zenn",
+    "title": "Pythonを書くなら、Ruffのルールページは最高の教材だと思う（AI時代の学び方）",
+    "link": "https://zenn.dev/layerx/articles/28498105e81a4f",
+    "pubDate": "Tue, 23 Dec 2025 03:00:02 GMT"
   },
   {
     "site": "Zenn",
@@ -42,22 +72,10 @@
     "pubDate": "Tue, 23 Dec 2025 01:14:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "GPT-1 から GPT-5.2 まで: LLM の特殊トークン徹底解説【2025年12月最新】",
-    "link": "https://blog.asial.co.jp/6429/",
-    "pubDate": "2025-12-23T00:59:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "パスワードはとにかく長ければ良い　「新常識」をNISTガイドラインで確認する",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2071110.html",
-    "pubDate": "2025-12-22T23:53:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ストーマ（人工肛門）とわたくし（出会い編）",
-    "link": "https://blog.tinect.jp/?p=90585",
-    "pubDate": "2025-12-22T23:25:02.000Z"
+    "site": "Qiita",
+    "title": "Cloud Runのアクセス制御を完全理解する（Ingress / IAM / Cloud Armor / IAP）",
+    "link": "https://qiita.com/created_on_june_19/items/ed7d16eda2264ba690bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-22T22:08:36.000Z"
   },
   {
     "site": "Qiita",
@@ -78,16 +96,16 @@
     "pubDate": "2025-12-22T22:06:45.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "GitLabでCI/CDパイプラインを実装してみた ~ProjectRunner編 Docker executorをpodmanを用いての実践に挑戦~",
+    "link": "https://qiita.com/natu-cl7785/items/dea1911303157d44d719?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-22T22:04:15.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Agent Skillsを一番かんたんに作る方法（Claude Code + skill-creator）",
     "link": "https://zenn.dev/aun_phonogram/articles/475f3cca8f40a3",
     "pubDate": "Mon, 22 Dec 2025 22:00:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「戦略・作戦・戦術」について ──戦略を語れと言われた気がするから、戦略を語ってみるぞ - フジイユウジ::ドットネット",
-    "link": "https://fujii-yuji.net/2025/12/23/002922",
-    "pubDate": "2025-12-22T20:13:24.000Z"
   },
   {
     "site": "Zenn",
@@ -100,6 +118,18 @@
     "title": "システム運用設計のドキュメント体系を徹底解説",
     "link": "https://qiita.com/Akira_Kato/items/f2868e5496b8dc1504e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-22T13:09:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Swift 7年書いてきたけど React Native に賭けてみようと思う",
+    "link": "https://zenn.dev/ikuraikura/articles/2025-12-21-native",
+    "pubDate": "Mon, 22 Dec 2025 08:11:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Goの哲学を哲学する - Interface編",
+    "link": "https://zenn.dev/dorarep/articles/1ca793424148e7",
+    "pubDate": "Mon, 22 Dec 2025 04:25:40 GMT"
   },
   {
     "site": "Zenn",
@@ -138,45 +168,15 @@
     "pubDate": "Sun, 21 Dec 2025 22:00:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "TanStack DBってなに？ —— TanStack Queryと比較しながら理解する「クライアントDB」という選択",
-    "link": "https://zenn.dev/r1013t/articles/396a10c6025205",
-    "pubDate": "Sun, 21 Dec 2025 14:02:07 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【個人開発】Chromeの新規タブを「ドラクエ5」風に改造して、自分専用の最強環境を作った話",
     "link": "https://qiita.com/toarusyakaijin/items/017223fe0e731e2d642d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-21T13:35:38.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Python のコンパイラを作りたい #9 - MLIR の導入と最適化",
-    "link": "https://zenn.dev/t3tra/articles/05fcc322102215",
-    "pubDate": "Sun, 21 Dec 2025 11:17:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "最速最強の Markdown コンパイラ作るぞ",
-    "link": "https://zenn.dev/mizchi/articles/markdown-incremental-preview",
-    "pubDate": "Sun, 21 Dec 2025 10:51:25 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「なんとなく」で終わらせない！ビジネス要件分析で 本当に 必要なドキュメント",
     "link": "https://qiita.com/angel_high_low/items/b631c1000e7cb5cdcb12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-21T09:12:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Obsidianプラグインをゼロから作る〜配布までの流れ。サンプル付き！",
-    "link": "https://qiita.com/zuxianW/items/5197f428d5f191dfd412?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-20T22:06:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【公式】準備ゼロで使えるPyxel開発環境『Pyxel Code Maker』のご紹介",
-    "link": "https://qiita.com/kitao/items/6f3d080f8e1c5d2f2715?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-20T22:04:39.000Z"
   }
 ]
