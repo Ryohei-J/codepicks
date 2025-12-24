@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "新卒2年目エンジニアの私が、チームをリードするために「こだわっている」こと - Speee DEVELOPER BLOG",
+    "link": "https://tech.speee.jp/entry/stance-for-leading-team",
+    "pubDate": "2025-12-24T02:36:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ユーザーは要確認、「EmEditor」の公式サイトで偽のインストーラーが配信される事案／12月20日から3日間、リダイレクト設定が不正に書き換えられる",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2073825.html",
+    "pubDate": "2025-12-24T01:46:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【特集】 AI巡るメモリ争奪戦――2026年はPC、スマホに“冬”が到来",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2073359.html",
     "pubDate": "2025-12-23T21:27:47.000Z"
@@ -13,9 +25,21 @@
   },
   {
     "site": "Zenn",
+    "title": "CTOをやめようと思っている話✨",
+    "link": "https://zenn.dev/ryosukeiketeru/articles/893d86fbc7ffa8",
+    "pubDate": "Tue, 23 Dec 2025 16:13:47 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "oxlint, oxfmt, tsgoを導入して開発環境が爆速になった",
     "link": "https://zenn.dev/dress_code/articles/d655cd7a43b936",
-    "pubDate": "2025-12-23T15:09:34.000Z"
+    "pubDate": "Tue, 23 Dec 2025 15:00:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「復帰」ではなく「変容」だった半年間",
+    "link": "https://zenn.dev/dress_code/articles/eb8d9afcd86391",
+    "pubDate": "Tue, 23 Dec 2025 15:00:04 GMT"
   },
   {
     "site": "Hatena",
@@ -31,27 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~ - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/blockly",
-    "pubDate": "2025-12-23T09:10:48.000Z"
+    "title": "ChatGPT派だった私が、Google Workspace版Geminiに「降参」した理由｜近藤敏矢",
+    "link": "https://note.com/kondo_toshiya/n/n6c14c7eef4b4",
+    "pubDate": "2025-12-23T09:41:28.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「周囲の女性が買おうとしてたらぜひ止めてあげてほしい」スリコの16500円タブレットを買ってみた人のレビューが出始めたが、予想通り特級呪物という厳しい評価となる",
-    "link": "https://togetter.com/li/2641953",
-    "pubDate": "2025-12-23T07:57:24.000Z"
+    "title": "正規表現すぐ忘れるのでビジュアルプログラミングツールを作った ~ Blocklyで簡単にビジュアルDSL作ろう ~ - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/blockly",
+    "pubDate": "2025-12-23T09:10:48.000Z"
   },
   {
     "site": "Zenn",
     "title": "実務で使い倒したので cc-sdd の仕様駆動開発プロセスを丁寧に解説してみた",
     "link": "https://zenn.dev/tmasuyama1114/articles/cc_sdd_whole_flow",
     "pubDate": "2025-12-23T06:49:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「PCが買えない年末」現実に。マウス、全PC製品の販売停止と初売り中止を発表",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2073586.html",
-    "pubDate": "2025-12-23T06:40:18.000Z"
   },
   {
     "site": "Hatena",
@@ -70,6 +88,24 @@
     "title": "「このデザイン、CSSで再現できないかも😫」を解決してくれるかもしれないプロパティ、mask",
     "link": "https://zenn.dev/chot/articles/b85ffe33a12f95",
     "pubDate": "Tue, 23 Dec 2025 01:14:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vertex AI Vector Search 2.0 登場 ―― ANN 特化から「データストア統合型」の包括的な検索基盤へ",
+    "link": "https://zenn.dev/google_cloud_jp/articles/vector-search-2-0-intro",
+    "pubDate": "Tue, 23 Dec 2025 00:23:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "開発環境をRustで染まりたい",
+    "link": "https://zenn.dev/tsubasa_ryuto/articles/13588a7236f578",
+    "pubDate": "Mon, 22 Dec 2025 23:30:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "実務で使い倒したので cc-sdd の仕様駆動開発プロセスを丁寧に解説してみた",
+    "link": "https://zenn.dev/tmasuyama1114/articles/cc_sdd_whole_flow",
+    "pubDate": "Mon, 22 Dec 2025 22:42:18 GMT"
   },
   {
     "site": "Qiita",
@@ -120,36 +156,6 @@
     "pubDate": "2025-12-22T13:09:13.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Swift 7年書いてきたけど React Native に賭けてみようと思う",
-    "link": "https://zenn.dev/ikuraikura/articles/2025-12-21-native",
-    "pubDate": "Mon, 22 Dec 2025 08:11:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Goの哲学を哲学する - Interface編",
-    "link": "https://zenn.dev/dorarep/articles/1ca793424148e7",
-    "pubDate": "Mon, 22 Dec 2025 04:25:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025年、Claude Code と 1 人で 40 万行規模のフルスタック＋インフラを構築した話（あみださん）",
-    "link": "https://zenn.dev/shusuke_o/articles/f63e1bf61363b8",
-    "pubDate": "Mon, 22 Dec 2025 03:13:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントの最前線~シングルからマルチAIエージェントへの進化につながる技術とマルチAIエージェントの現在地~",
-    "link": "https://zenn.dev/mkj/articles/10ee4ced3d7aaf",
-    "pubDate": "Mon, 22 Dec 2025 02:50:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "50人以上の開発者が日々使用する10万commitオーバーのGitHubリポジトリを分離した",
-    "link": "https://zenn.dev/moneyforward/articles/5ae6e5c698b1dc",
-    "pubDate": "Mon, 22 Dec 2025 00:30:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「カード番号と有効期限」だけで通った時代から10年～決済セキュリティの進化と今すべき対策",
     "link": "https://qiita.com/ahera/items/5c5bcfeeeea69081744d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,12 +166,6 @@
     "title": "TypeScriptの型安全性を極めるライブラリ6選",
     "link": "https://qiita.com/touka-io/items/c4104488234206efb0d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-21T22:06:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js App Router での「更新後のUI最新化」をパターンで整理する",
-    "link": "https://zenn.dev/akky1991/articles/75f15ee6511049",
-    "pubDate": "Sun, 21 Dec 2025 22:00:00 GMT"
   },
   {
     "site": "Qiita",
