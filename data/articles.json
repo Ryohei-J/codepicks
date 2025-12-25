@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "画像生成AIと画像認識AIの生成ループを実行すると最終的にどんな指示でも「12種類のスタイル」に収束してしまうことが判明",
+    "link": "https://gigazine.net/news/20251225-ai-image-generators/",
+    "pubDate": "2025-12-25T08:02:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "2025年「はてなブックマーク年間ランキング」トップ100 - はてなニュース",
     "link": "https://hatenanews.com/articles/hatenabookmark2025",
     "pubDate": "2025-12-25T03:16:53.000Z"
@@ -22,12 +28,6 @@
     "title": "25年愛するお絵かき掲示板のために、54歳でコードを書き始めた。Javaアプレット廃止に抗って【フォーカス】 レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/focus/detail_776/",
     "pubDate": "2025-12-25T01:30:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マイクロソフトの新しい日本語入力ソフト「Copilot Keyboard」はキュートで賢い／ベータ版として提供中【レビュー】",
-    "link": "https://forest.watch.impress.co.jp/docs/review/2073660.html",
-    "pubDate": "2025-12-24T23:39:56.000Z"
   },
   {
     "site": "Hatena",
@@ -55,14 +55,20 @@
   },
   {
     "site": "Zenn",
-    "title": "Go 1.26 は、軽くなり速くなる",
-    "link": "https://zenn.dev/mattn/articles/64c47f937a522f",
-    "pubDate": "Wed, 24 Dec 2025 15:00:01 GMT"
+    "title": "Kaggleの「次の一手」を探る6個のヒント",
+    "link": "https://zenn.dev/muku_8949/articles/2633c986a51254",
+    "pubDate": "Wed, 24 Dec 2025 15:47:10 GMT"
   },
   {
     "site": "Zenn",
     "title": "うっかりミスでアクティブユーザー1万人超えのサービスをサ終させた話",
     "link": "https://zenn.dev/mnonamer/articles/yarakashi-2025-eos-with-10k-au",
+    "pubDate": "Wed, 24 Dec 2025 15:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Go 1.26 は、軽くなり速くなる",
+    "link": "https://zenn.dev/mattn/articles/64c47f937a522f",
     "pubDate": "Wed, 24 Dec 2025 15:00:01 GMT"
   },
   {
@@ -115,6 +121,12 @@
   },
   {
     "site": "Zenn",
+    "title": "新卒3年目が、AIフル活用で設計力が爆あがりした話",
+    "link": "https://zenn.dev/ourly_tech_blog/articles/9301cc0acdd09c",
+    "pubDate": "Wed, 24 Dec 2025 03:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "5年ぶりにAngularを触ったら、審美眼もアップデートされた話",
     "link": "https://zenn.dev/okunokentaro/articles/01kd4hz2mf113xt8vwkt012e73",
     "pubDate": "Wed, 24 Dec 2025 01:51:29 GMT"
@@ -124,18 +136,6 @@
     "title": "Go 1.24でmap[T]struct{}のメモリ節約効果がなくなった",
     "link": "https://zenn.dev/naoki_kuroda/articles/c225d315a3a5ae",
     "pubDate": "Wed, 24 Dec 2025 01:39:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "上場までにデータ基盤が歩んできた道",
-    "link": "https://zenn.dev/neinc_tech/articles/195d260ddd127a",
-    "pubDate": "Wed, 24 Dec 2025 01:28:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMは数理最適化がおおたまんよりも得意...かも？",
-    "link": "https://zenn.dev/ohtaman/articles/opt-mcp-and-demo",
-    "pubDate": "Wed, 24 Dec 2025 01:09:11 GMT"
   },
   {
     "site": "Qiita",
