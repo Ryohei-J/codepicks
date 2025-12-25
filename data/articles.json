@@ -1,9 +1,57 @@
 [
   {
+    "site": "Zenn",
+    "title": "Go 1.26 は、軽くなり速くなる",
+    "link": "https://zenn.dev/mattn/articles/64c47f937a522f",
+    "pubDate": "Wed, 24 Dec 2025 15:00:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "みのもんたさん AIで元日番組に - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/pickup/6563601",
+    "pubDate": "2025-12-24T14:27:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "某A省K重事案の真相をお前らに教える",
+    "link": "https://anond.hatelabo.jp/20251224215205",
+    "pubDate": "2025-12-24T13:00:36.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Xに画像の“AI加工機能”出現　他人のポストでも、1クリックで画像編集　「最悪なシステム」と物議に",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news128.html",
     "pubDate": "2025-12-24T10:51:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Geminiが安い、「Google AI Pro」セール中　年額3万4800円→1万4500円に　新規ユーザー向け",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news121.html",
+    "pubDate": "2025-12-24T10:47:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「知能爆発」へ“10年以内”の現実味──オックスフォード大の哲学者MacAskill氏らの警告、AIが「数年で1世紀分」の技術進歩を起こし得る | Ledge.ai",
+    "link": "https://ledge.ai/articles/intelligence_explosion_10_years_warning",
+    "pubDate": "2025-12-24T10:24:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "とほほのMarkdown入門 - とほほのWWW入門",
+    "link": "https://www.tohoho-web.com/ex/markdown.html",
+    "pubDate": "2025-12-24T09:54:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Luna UI - JS/Moonbit のための宣言的UI. 軽量、高速、そして WebComponents First",
+    "link": "https://zenn.dev/mizchi/articles/moonbit-luna-ui",
+    "pubDate": "Wed, 24 Dec 2025 09:43:47 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "新しいデザインシステム・コンポーネント管理のかたち「shadcn/ui registry」",
+    "link": "https://zenn.dev/imaimai17468/articles/774e42f5613b15",
+    "pubDate": "Wed, 24 Dec 2025 09:02:17 GMT"
   },
   {
     "site": "Hatena",
@@ -25,15 +73,15 @@
   },
   {
     "site": "Hatena",
-    "title": "アップルが警告、Macでの「Chrome使用をやめよ」──その理由は？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/87899",
-    "pubDate": "2025-12-24T04:41:03.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "これからメールサーバをつくるならStalwart - Tomohisa Oda",
     "link": "https://tomohisaoda.com/blog/building-a-modern-mail-server-with-stalwart",
     "pubDate": "2025-12-24T03:38:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "5年ぶりにAngularを触ったら、審美眼もアップデートされた話",
+    "link": "https://zenn.dev/okunokentaro/articles/01kd4hz2mf113xt8vwkt012e73",
+    "pubDate": "Wed, 24 Dec 2025 01:51:29 GMT"
   },
   {
     "site": "Zenn",
@@ -55,6 +103,24 @@
   },
   {
     "site": "Qiita",
+    "title": "学校で学ぶC言語と実務で求められるC言語",
+    "link": "https://qiita.com/Kanau_Kato/items/69c4591586e629324379?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-24T00:23:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エニプラアワード2025 - Copilotを利用したウェブページの作成 🚀",
+    "link": "https://qiita.com/takuya_nakanishi24/items/3eb63213075ac7778ffb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-23T22:07:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【実録】クリぼっち確定。AIに「過去半年の自分の行い」を全投入して恋愛相談したら、再起不能レベルの『正論パンチ』を食らった話",
+    "link": "https://qiita.com/dekenbu/items/27bae39274436c68dc80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-23T22:07:05.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Flutterにおける非同期処理のレースコンディションとその対策",
     "link": "https://qiita.com/natsuko_nagaoka/items/b0de963db4d181c3bd67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-23T22:05:38.000Z"
@@ -72,12 +138,6 @@
     "pubDate": "2025-12-23T22:05:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 AI巡るメモリ争奪戦――2026年はPC、スマホに“冬”が到来",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2073359.html",
-    "pubDate": "2025-12-23T21:27:47.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "TeXから始めるLean言語",
     "link": "https://zenn.dev/k16/articles/f468f28a08a764",
@@ -90,46 +150,10 @@
     "pubDate": "Tue, 23 Dec 2025 19:53:23 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ビジュアル正規表現エディタ",
-    "link": "https://hi-king.github.io/visual_regexp_web/",
-    "pubDate": "2025-12-23T17:13:45.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "CTOをやめようと思っている話✨",
     "link": "https://zenn.dev/ryosukeiketeru/articles/893d86fbc7ffa8",
     "pubDate": "Tue, 23 Dec 2025 16:13:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「復帰」ではなく「変容」だった半年間",
-    "link": "https://zenn.dev/dress_code/articles/eb8d9afcd86391",
-    "pubDate": "Tue, 23 Dec 2025 15:00:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "oxlint, oxfmt, tsgoを導入して開発環境が爆速になった",
-    "link": "https://zenn.dev/dress_code/articles/d655cd7a43b936",
-    "pubDate": "Tue, 23 Dec 2025 15:00:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「数字」で振り返るPHPカンファレンス福岡の10年史 #phpconfuk",
-    "link": "https://zenn.dev/akase244/articles/4292dfaf05b7a2",
-    "pubDate": "Tue, 23 Dec 2025 15:00:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPT派だった私が、Google Workspace版Geminiに「降参」した理由｜近藤敏矢",
-    "link": "https://note.com/kondo_toshiya/n/n6c14c7eef4b4",
-    "pubDate": "2025-12-23T09:41:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Intel CPUのAVX-512ユニットの5番ポートは物理的に遠い：文献調査編",
-    "link": "https://qiita.com/Terminus-IMRC/items/659d4fd502a96baab9c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-23T08:46:26.000Z"
   },
   {
     "site": "Qiita",
@@ -138,22 +162,10 @@
     "pubDate": "2025-12-23T08:06:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI活用100本ノック（DeNA）",
-    "link": "https://downloads.ctfassets.net/7mrdlclm9xss/m7XsAz2M3bT8WoDrfmYn3/8ee77c25f48de5dab3b792b428df5495/AI_100tips_slide.pdf",
-    "pubDate": "2025-12-23T05:32:29.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "SD LoRA学習: OneTrainer導入 (JP-EN)",
     "link": "https://qiita.com/cody_kotichas/items/95c27feb0256e6028c27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-23T05:21:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Pythonを書くなら、Ruffのルールページは最高の教材だと思う（AI時代の学び方）",
-    "link": "https://zenn.dev/layerx/articles/28498105e81a4f",
-    "pubDate": "Tue, 23 Dec 2025 03:00:02 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "「カード番号と有効期限」だけで通った時代から10年～決済セキュリティの進化と今すべき対策",
     "link": "https://qiita.com/ahera/items/5c5bcfeeeea69081744d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-21T22:12:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】Chromeの新規タブを「ドラクエ5」風に改造して、自分専用の最強環境を作った話",
-    "link": "https://qiita.com/toarusyakaijin/items/017223fe0e731e2d642d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-21T13:35:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「なんとなく」で終わらせない！ビジネス要件分析で 本当に 必要なドキュメント",
-    "link": "https://qiita.com/angel_high_low/items/b631c1000e7cb5cdcb12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-21T09:12:30.000Z"
   }
 ]
