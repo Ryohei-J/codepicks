@@ -1,8 +1,32 @@
 [
   {
+    "site": "Hatena",
+    "title": "25年愛するお絵かき掲示板のために、54歳でコードを書き始めた。Javaアプレット廃止に抗って【フォーカス】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/focus/detail_776/",
+    "pubDate": "2025-12-25T01:30:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マイクロソフトの新しい日本語入力ソフト「Copilot Keyboard」はキュートで賢い／ベータ版として提供中【レビュー】",
+    "link": "https://forest.watch.impress.co.jp/docs/review/2073660.html",
+    "pubDate": "2025-12-24T23:39:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてな民、逆張りが過ぎないかって話。 高市叩きが当たり前みたいになって..",
+    "link": "https://anond.hatelabo.jp/20251225072754",
+    "pubDate": "2025-12-24T22:30:35.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Go 1.26 は、軽くなり速くなる",
     "link": "https://zenn.dev/mattn/articles/64c47f937a522f",
+    "pubDate": "Wed, 24 Dec 2025 15:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "うっかりミスでアクティブユーザー1万人超えのサービスをサ終させた話",
+    "link": "https://zenn.dev/mnonamer/articles/yarakashi-2025-eos-with-10k-au",
     "pubDate": "Wed, 24 Dec 2025 15:00:01 GMT"
   },
   {
@@ -12,22 +36,22 @@
     "pubDate": "2025-12-24T14:27:02.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ゲームエンジンを自作する際のテキスト描画機能",
+    "link": "https://zenn.dev/reputeless/articles/siv3d-text-rendering-v8",
+    "pubDate": "Wed, 24 Dec 2025 14:05:27 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "5年間 Laravel を使って辿り着いた，AI 時代に考える「なんちゃってクリーンアーキテクチャ」のその先",
+    "link": "https://zenn.dev/yumemi_inc/articles/ebc6e634fa57a1",
+    "pubDate": "Wed, 24 Dec 2025 13:00:45 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "某A省K重事案の真相をお前らに教える",
     "link": "https://anond.hatelabo.jp/20251224215205",
     "pubDate": "2025-12-24T13:00:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Xに画像の“AI加工機能”出現　他人のポストでも、1クリックで画像編集　「最悪なシステム」と物議に",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news128.html",
-    "pubDate": "2025-12-24T10:51:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Geminiが安い、「Google AI Pro」セール中　年額3万4800円→1万4500円に　新規ユーザー向け",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/24/news121.html",
-    "pubDate": "2025-12-24T10:47:51.000Z"
   },
   {
     "site": "Hatena",
@@ -55,12 +79,6 @@
   },
   {
     "site": "Hatena",
-    "title": "「とほほのWWW入門」にMarkdownの解説が追加 ～GitHub/Qiitaの拡張記法まで網羅／書き換えるとプレビューが可能なサンプルエリアも便利",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2074051.html",
-    "pubDate": "2025-12-24T08:48:11.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ブルーレイはなぜ、DVDより先に「オワコン化」したのか　タイミングを逃し続けた“勝者”の末路",
     "link": "https://www.itmedia.co.jp/news/articles/2512/24/news113.html",
     "pubDate": "2025-12-24T08:35:11.000Z"
@@ -70,12 +88,6 @@
     "title": "論理削除という技術的負債、それでも僕たちは使い続ける - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/24/110101",
     "pubDate": "2025-12-24T08:08:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "これからメールサーバをつくるならStalwart - Tomohisa Oda",
-    "link": "https://tomohisaoda.com/blog/building-a-modern-mail-server-with-stalwart",
-    "pubDate": "2025-12-24T03:38:51.000Z"
   },
   {
     "site": "Zenn",
@@ -109,6 +121,12 @@
   },
   {
     "site": "Qiita",
+    "title": "NotebookLMで60ページ超の登壇スライド作成してみた - Qiita",
+    "link": "https://qiita.com/simdroid/items/236886451b6aef7162b5",
+    "pubDate": "2025-12-23T23:06:18.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "エニプラアワード2025 - Copilotを利用したウェブページの作成 🚀",
     "link": "https://qiita.com/takuya_nakanishi24/items/3eb63213075ac7778ffb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-23T22:07:14.000Z"
@@ -136,24 +154,6 @@
     "title": "【配属2ヶ月】エンジニアとして働いて感じた事",
     "link": "https://qiita.com/oda-yu/items/9cd06c8b0c11d678059a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-23T22:05:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TeXから始めるLean言語",
-    "link": "https://zenn.dev/k16/articles/f468f28a08a764",
-    "pubDate": "Tue, 23 Dec 2025 20:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CQRS/ESの『整合性どうするの？』に答えてみる",
-    "link": "https://zenn.dev/jtechjapan_pub/articles/033061a3461ed9",
-    "pubDate": "Tue, 23 Dec 2025 19:53:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CTOをやめようと思っている話✨",
-    "link": "https://zenn.dev/ryosukeiketeru/articles/893d86fbc7ffa8",
-    "pubDate": "Tue, 23 Dec 2025 16:13:47 GMT"
   },
   {
     "site": "Qiita",
