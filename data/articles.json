@@ -1,9 +1,27 @@
 [
   {
+    "site": "Qiita",
+    "title": "WEBシステムにおけるタイムアウト設計のセオリー - Qiita",
+    "link": "https://qiita.com/k2-irie/items/131672361b68c831f00d",
+    "pubDate": "2025-12-26T12:03:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "性別的に中立な代名詞示す新たな漢字、近くキーボードで入力可能になる見込み",
+    "link": "https://www.cnn.co.jp/world/35242138.html",
+    "pubDate": "2025-12-26T09:58:42.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "X（Twitter）、規約改定で「生成AIでの法律違反もユーザーの自己責任」と明文化へ。新AI機能「画像を編集」が波紋広げる中、来年1月発効予定 - AUTOMATON",
     "link": "https://automaton-media.com/articles/newsjp/20251226-390466/",
     "pubDate": "2025-12-26T09:34:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code中心のAIコーディング運用：実務で効いた5つの型",
+    "link": "https://zenn.dev/mkj/articles/868e0723efa060",
+    "pubDate": "2025-12-26T09:28:33.000Z"
   },
   {
     "site": "Hatena",
@@ -19,27 +37,21 @@
   },
   {
     "site": "Hatena",
-    "title": "検索の減少・SEO死亡説は誤り 多くのデータで探るSEOと検索エンジンの今とこれから - Web > SEO",
-    "link": "https://webweb.hatenablog.com/blog/seo/search-2025",
-    "pubDate": "2025-12-26T05:25:07.000Z"
+    "title": "システムプログラミング入門としてのRust製スレッドスケジューラー - lapla.dev",
+    "link": "https://lapla.dev/posts/thread_sched_rust/",
+    "pubDate": "2025-12-26T05:50:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【2025年版】無料でAIを学べる「公開資料・動画」12選　基本から活用法まで幅広く",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/26/news055.html",
-    "pubDate": "2025-12-26T05:16:44.000Z"
+    "site": "Qiita",
+    "title": "【TOEIC600→875】仕事終わり1日1時間×3ヶ月で270点伸ばした“本当に効いたAI活用勉強法” - Qiita",
+    "link": "https://qiita.com/shotaloss/items/3542e1d186e888c0482f",
+    "pubDate": "2025-12-26T04:35:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「AIで作ったやつも表彰されるのかぁ」という声が生々しい…『探偵！ナイトスクープ』で放送された「AIに頼りすぎる12歳の娘」が神回だと話題に",
-    "link": "https://togetter.com/li/2643026",
-    "pubDate": "2025-12-26T03:45:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gmail、これまで不可能だった「@gmail.com」よりも前の部分を変更できる機能の提供を開始【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2074627.html",
-    "pubDate": "2025-12-26T01:44:03.000Z"
+    "site": "Zenn",
+    "title": "Claude Code中心のAIコーディング運用：実務で効いた5つの型",
+    "link": "https://zenn.dev/mkj/articles/868e0723efa060",
+    "pubDate": "Fri, 26 Dec 2025 02:50:05 GMT"
   },
   {
     "site": "Zenn",
@@ -48,16 +60,22 @@
     "pubDate": "Fri, 26 Dec 2025 01:43:44 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【2025年最新】Gemini FlashとProの違いを徹底比較！サッカーのポジションで例えてみた",
+    "link": "https://qiita.com/okkam_018/items/13a0a7c0ce22e46be117?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-26T01:32:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI駆動開発のススメ方〜クラスメソッドの実践を添えて〜 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/aidd-practice-classmethod/",
+    "pubDate": "2025-12-26T00:39:24.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "自分の中で「録音」の意味が変わった1年 by西田 宗千佳",
     "link": "https://av.watch.impress.co.jp/docs/topic/pb2025/2073370.html",
     "pubDate": "2025-12-26T00:11:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeアドベントカレンダー: 24 Tipsまとめ",
-    "link": "https://zenn.dev/oikon/articles/cc-advent-calendar",
-    "pubDate": "2025-12-25T23:58:50.000Z"
   },
   {
     "site": "Zenn",
@@ -73,9 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "おそすぎたはやすぎる最適化で.NET Runtimeに貢献しよう！",
-    "link": "https://zenn.dev/pcysl5edgo/articles/bbac6bfcd7a86e",
-    "pubDate": "Thu, 25 Dec 2025 11:18:25 GMT"
+    "title": "Arch Linuxしか使わなくなった話",
+    "link": "https://zenn.dev/molyashi/articles/9423a75b55b08b",
+    "pubDate": "Thu, 25 Dec 2025 16:14:24 GMT"
   },
   {
     "site": "Zenn",
@@ -84,16 +102,16 @@
     "pubDate": "Thu, 25 Dec 2025 10:12:33 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "フロントエンドテストパフォーマンス改善：Vitestのボトルネックを探っていく",
+    "link": "https://zenn.dev/socialplus/articles/bfb19c5f98ae32",
+    "pubDate": "Thu, 25 Dec 2025 09:00:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "人間が技術記事を読む時代は終わった。それでも私は記事を書く。",
     "link": "https://qiita.com/Michinosuke/items/9bc84aa2fc84d692a922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-25T08:18:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人AI禁止令と、その結果の答え合わせ - Qiita",
-    "link": "https://qiita.com/WdknWdkn/items/9b7dea889fec59194df5",
-    "pubDate": "2025-12-25T06:57:13.000Z"
   },
   {
     "site": "Qiita",
@@ -106,6 +124,12 @@
     "title": "【TOEIC600→875】仕事終わり1日1時間×3ヶ月で270点伸ばした“本当に効いたAI活用勉強法”",
     "link": "https://qiita.com/shotaloss/items/3542e1d186e888c0482f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-25T03:07:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "『なぜそうするのか？』を説明できるようになりたい話",
+    "link": "https://zenn.dev/zozotech/articles/ba1516ff7e958a",
+    "pubDate": "Thu, 25 Dec 2025 02:30:33 GMT"
   },
   {
     "site": "Zenn",
@@ -132,34 +156,10 @@
     "pubDate": "2025-12-24T22:05:30.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Kaggleの「次の一手」を探る6個のヒント",
-    "link": "https://zenn.dev/muku_8949/articles/2633c986a51254",
-    "pubDate": "Wed, 24 Dec 2025 15:47:10 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「ぜったい使っちゃダメ」な乱数生成器、本当にクラックできるの？",
     "link": "https://qiita.com/wsysuper/items/cded0f3c6cfaf634642f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-24T15:29:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go 1.26 は、軽くなり速くなる",
-    "link": "https://zenn.dev/mattn/articles/64c47f937a522f",
-    "pubDate": "Wed, 24 Dec 2025 15:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "うっかりミスでアクティブユーザー1万人超えのサービスをサ終させた話",
-    "link": "https://zenn.dev/mnonamer/articles/yarakashi-2025-eos-with-10k-au",
-    "pubDate": "Wed, 24 Dec 2025 15:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "昔触った「Tekton」を思い出しながら、初心者向けに CI/CD の基本概念を整理してみる",
-    "link": "https://qiita.com/ta1ch1-sa1to/items/958cf3943266d7deca21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-24T03:57:51.000Z"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "NotebookLMで60ページ超の登壇スライド作成してみた",
-    "link": "https://qiita.com/simdroid/items/236886451b6aef7162b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-23T13:01:41.000Z"
+    "title": "Hyper-v仮想マシンに関して調べてみた",
+    "link": "https://qiita.com/ikegami01/items/14ecfd77f7b137b22874?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-23T22:03:55.000Z"
   }
 ]
