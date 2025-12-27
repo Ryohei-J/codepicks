@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "「バイブコーディング」は崩壊する？　CursorのCEOが“AI丸投げ開発”に警告",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/27/news041.html",
+    "pubDate": "2025-12-27T01:27:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ブクマカ「AIが書いたか人間が書いたかなんでどうでも良くね？お気持ち？」←これ",
+    "link": "https://anond.hatelabo.jp/20251227082315",
+    "pubDate": "2025-12-26T23:37:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【山田祥平のRe:config.sys】 30年分のメールを集めたらローカルAI処理には絶望的な量だと言われて途方に暮れながら2025年が終わる",
+    "link": "https://pc.watch.impress.co.jp/docs/column/config/2074919.html",
+    "pubDate": "2025-12-26T23:06:22.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "WEBシステムにおけるタイムアウト設計のセオリー - Qiita",
     "link": "https://qiita.com/k2-irie/items/131672361b68c831f00d",
@@ -12,28 +30,10 @@
     "pubDate": "2025-12-26T09:58:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "X（Twitter）、規約改定で「生成AIでの法律違反もユーザーの自己責任」と明文化へ。新AI機能「画像を編集」が波紋広げる中、来年1月発効予定 - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20251226-390466/",
-    "pubDate": "2025-12-26T09:34:39.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code中心のAIコーディング運用：実務で効いた5つの型",
     "link": "https://zenn.dev/mkj/articles/868e0723efa060",
     "pubDate": "2025-12-26T09:28:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本のクラファンがつまらなくなったのは「普通にアリエク等で売っているようなものを新規プロジェクトと誤認する形で販売」という手法が横行したせい？",
-    "link": "https://togetter.com/li/2643163",
-    "pubDate": "2025-12-26T08:33:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Goで作るセキュリティ分析LLMエージェント",
-    "link": "https://zenn.dev/mizutani/books/sec-agent-book",
-    "pubDate": "2025-12-26T08:26:59.000Z"
   },
   {
     "site": "Hatena",
@@ -72,10 +72,10 @@
     "pubDate": "2025-12-26T00:39:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "自分の中で「録音」の意味が変わった1年 by西田 宗千佳",
-    "link": "https://av.watch.impress.co.jp/docs/topic/pb2025/2073370.html",
-    "pubDate": "2025-12-26T00:11:42.000Z"
+    "site": "Zenn",
+    "title": "Active Directory 環境を縮小していくには",
+    "link": "https://zenn.dev/microsoft/articles/active-directory-security-advent-calendar-2025-2",
+    "pubDate": "2025-12-25T22:08:16.000Z"
   },
   {
     "site": "Zenn",
