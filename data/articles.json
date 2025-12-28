@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "私のソフトウェア開発を一変させてしまった2025年のAIエージェントをふりかえる",
+    "link": "https://blog.lai.so/agents-in-2025/",
+    "pubDate": "2025-12-28T08:57:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドンキの4万円プロジェクターを買った。そして45万円のXGIMI最上位モデルに心を揺さぶられた年末 by石井和美",
+    "link": "https://av.watch.impress.co.jp/docs/topic/pb2025/2072884.html",
+    "pubDate": "2025-12-28T04:19:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "発表から約2週間、いますぐ使えるAgent Skills 10選｜Seiji Takahashi@ベースマキナ",
+    "link": "https://note.com/timakin/n/na8b2789897ea",
+    "pubDate": "2025-12-28T03:03:02.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "規約ベースのフレームワークはAI処理に不利だと思う - きしだのHatena",
     "link": "https://nowokay.hatenablog.com/entry/2025/12/28/045145",
     "pubDate": "2025-12-28T00:34:38.000Z"
@@ -10,6 +28,18 @@
     "title": "ChatGPT使いすぎて、文章見ると『あ、これChatGPTに書かせて一部だけ訂正したやつだな』というのが大体分かるようになってきてしまった",
     "link": "https://togetter.com/li/2643830",
     "pubDate": "2025-12-27T22:36:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "育児アプリから見るアプリをサクッと作るイメージ",
+    "link": "https://qiita.com/akira_365/items/efaf50c8d9d6804ddf72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-27T14:44:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "実務レベルで最適化のコードを書く時の設計",
+    "link": "https://zenn.dev/sfujiwara/articles/opt-template",
+    "pubDate": "Sat, 27 Dec 2025 14:44:12 GMT"
   },
   {
     "site": "Qiita",
@@ -30,28 +60,22 @@
     "pubDate": "2025-12-27T11:27:38.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Rust製のPythonライブラリを自作してみた",
+    "link": "https://zenn.dev/ctenopoma/articles/rust-python-ai",
+    "pubDate": "Sat, 27 Dec 2025 10:29:09 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "2025 年に読んでよかった本",
     "link": "https://azukiazusa.dev/blog/books-i-liked-in-2025/",
     "pubDate": "2025-12-27T10:16:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "エクセルのキモさ",
-    "link": "https://anond.hatelabo.jp/20251227182316",
-    "pubDate": "2025-12-27T09:24:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "2025年、AI時代の要件定義について考える - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2025/12/27/140231",
-    "pubDate": "2025-12-27T08:19:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "SwiftUIでOS判定をうまくやりたい",
-    "link": "https://zenn.dev/fromkk/articles/b23151f12c48cb",
-    "pubDate": "Sat, 27 Dec 2025 08:14:39 GMT"
+    "site": "Qiita",
+    "title": "クレカ登録不要！Google Cloudの「BigQuery Sandbox」で日本の検索トレンドを無料で分析してみた",
+    "link": "https://qiita.com/n-kawashima/items/3c796a64b8610b78cbd4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-27T08:15:15.000Z"
   },
   {
     "site": "Zenn",
@@ -60,22 +84,10 @@
     "pubDate": "Sat, 27 Dec 2025 07:10:48 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "2026年、量子コンピュータが半導体ビジネスに「統合」されるための必須生存ルール",
-    "link": "https://zenn.dev/yuichirominato/articles/8b2abe422e97b8",
-    "pubDate": "Sat, 27 Dec 2025 05:28:03 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "レガシーシステムの保守を任された中年非エンジニアは何をすべきか？ - Qiita",
     "link": "https://qiita.com/Conabuku/items/20dcd8dd76923d44f8e2",
     "pubDate": "2025-12-27T04:26:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "2026年に自社開発企業から600-800万円のオファーを得るためにやるべき5のこと｜サカモト@エンジニアキャリア論",
-    "link": "https://note.com/sakamoto_582/n/n3c5db0244298",
-    "pubDate": "2025-12-27T04:02:42.000Z"
   },
   {
     "site": "Zenn",
@@ -84,16 +96,22 @@
     "pubDate": "2025-12-27T03:07:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【Gemini／NotebookLM】Gemini3以降で業務に役立つ生成AI実践記事13選｜うえむら",
-    "link": "https://note.com/uemura_hr/n/n6e775ec0cc0b",
-    "pubDate": "2025-12-27T02:16:48.000Z"
+    "site": "Qiita",
+    "title": "Python 使いの C/C++ ことはじめ",
+    "link": "https://qiita.com/Sappli/items/9b87dad2ded213542e5e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-26T14:22:49.000Z"
   },
   {
     "site": "Zenn",
     "title": "2025年のdotfiles",
     "link": "https://zenn.dev/momeemt/articles/dotfiles2025",
     "pubDate": "Fri, 26 Dec 2025 13:21:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust が「Stack Overflow Most Admired Language」に選ばれ続ける理由",
+    "link": "https://zenn.dev/dokusy/articles/5abac45780ecfe",
+    "pubDate": "Fri, 26 Dec 2025 13:02:55 GMT"
   },
   {
     "site": "Qiita",
@@ -121,12 +139,6 @@
   },
   {
     "site": "Zenn",
-    "title": "UnityでなぜMCPが必要なのか",
-    "link": "https://zenn.dev/dsgarage/articles/2cd3e51b3cdfcd",
-    "pubDate": "Fri, 26 Dec 2025 04:40:17 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "天下一レビュープロセス大会 2025",
     "link": "https://zenn.dev/aldagram_tech/articles/01b9ab2fd6daee",
     "pubDate": "Fri, 26 Dec 2025 04:34:42 GMT"
@@ -139,15 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "30年ぶりに基本情報技術者試験を受けてきました",
-    "link": "https://qiita.com/dais_cw/items/6069de1baed07a7e829b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-25T23:22:52.000Z"
+    "title": "嫌われ者のストアドプロシージャ",
+    "link": "https://qiita.com/gmo-connect-ogawa/items/48f339fcecabf432969f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-26T02:33:22.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Copilot Studio で登録した特定のナレッジのみから回答を生成させるアプローチ",
-    "link": "https://qiita.com/Takashi_Masumori/items/fc66212f700a889741a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-25T23:20:21.000Z"
+    "title": "30年ぶりに基本情報技術者試験を受けてきました",
+    "link": "https://qiita.com/dais_cw/items/6069de1baed07a7e829b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-25T23:22:52.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "2025-12-25T08:18:34.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "新人AI禁止令と、その結果の答え合わせ",
-    "link": "https://qiita.com/WdknWdkn/items/9b7dea889fec59194df5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-25T05:32:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【TOEIC600→875】仕事終わり1日1時間×3ヶ月で270点伸ばした“本当に効いたAI活用勉強法”",
-    "link": "https://qiita.com/shotaloss/items/3542e1d186e888c0482f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-25T03:07:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "WEBシステムにおけるタイムアウト設計のセオリー",
-    "link": "https://qiita.com/k2-irie/items/131672361b68c831f00d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-24T22:06:45.000Z"
+    "site": "Hatena",
+    "title": "1on1の準備をAIに任せたら、負担は激減し満足度は向上した——語学サービス企業の実例 - 1on1総研",
+    "link": "https://kakeai.co.jp/media/article/0156",
+    "pubDate": "2025-12-12T10:17:54.000Z"
   }
 ]
