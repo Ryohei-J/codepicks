@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "ChatGPT使いすぎて、文章見ると『あ、これChatGPTに書かせて一部だけ訂正したやつだな』というのが大体分かるようになってきてしまった",
+    "link": "https://togetter.com/li/2643830",
+    "pubDate": "2025-12-27T22:36:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "アドカレで話題になった25記事を、AIたちに分析させてみた",
+    "link": "https://qiita.com/ryosuke_ohori/items/46f2e03ff18cb9e97aa8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-27T13:44:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JAWS-UG Presents AI Builders Day開催レポート",
+    "link": "https://qiita.com/har1101/items/96a8fa079721ad62cfc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-27T13:33:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料でYouTubeチャンネルとプレイリストをローカルへ自動的にダウンロードして同期する「TubeSync」",
+    "link": "https://gigazine.net/news/20251227-tubesync/",
+    "pubDate": "2025-12-27T11:27:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2025 年に読んでよかった本",
+    "link": "https://azukiazusa.dev/blog/books-i-liked-in-2025/",
+    "pubDate": "2025-12-27T10:16:23.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "エクセルのキモさ",
     "link": "https://anond.hatelabo.jp/20251227182316",
     "pubDate": "2025-12-27T09:24:49.000Z"
@@ -12,28 +42,28 @@
     "pubDate": "2025-12-27T08:19:48.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "レガシーシステムの保守を任された中年非エンジニアは何をすべきか？ - Qiita",
+    "link": "https://qiita.com/Conabuku/items/20dcd8dd76923d44f8e2",
+    "pubDate": "2025-12-27T04:26:46.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "統計から異常検知まで 〜実践につながる学習ロードマップ〜 | gihyo.jp",
     "link": "https://gihyo.jp/article/2025/12/practical-knowledge-for-anomaly-detection",
     "pubDate": "2025-12-27T04:13:28.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "dbtで出来そうなCI一通り実装してみた",
+    "link": "https://zenn.dev/octabird/articles/df8f903d823aa8",
+    "pubDate": "Sat, 27 Dec 2025 03:22:14 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【Gemini／NotebookLM】Gemini3以降で業務に役立つ生成AI実践記事13選｜うえむら",
     "link": "https://note.com/uemura_hr/n/n6e775ec0cc0b",
     "pubDate": "2025-12-27T02:16:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「バイブコーディング」は崩壊する？　CursorのCEOが“AI丸投げ開発”に警告",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2512/27/news041.html",
-    "pubDate": "2025-12-27T01:27:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "散在する社内ドキュメントをNotebookLMで「話せるマニュアル」に変える | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/turn-scattered-internal-documents-into-a-talkable-manual-with-notebooklm/",
-    "pubDate": "2025-12-27T00:42:41.000Z"
   },
   {
     "site": "Hatena",
@@ -48,18 +78,6 @@
     "pubDate": "Fri, 26 Dec 2025 13:21:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "法廷のあの「高い場所」にいる奴ら、全員AIに変えてくれ",
-    "link": "https://anond.hatelabo.jp/20251226210222",
-    "pubDate": "2025-12-26T12:03:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Terraform × GitHub Actions】planをBedrockで自動要約 & コード解析を全自動化",
-    "link": "https://qiita.com/hiyanger/items/6f750b341a461a4b7593?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-26T10:40:09.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "このAI時代に、私がもう一度文系・未経験からセキュリティ業界に入るなら",
     "link": "https://qiita.com/yamada_sec/items/1b5b9a9f4cc375c79c32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -67,9 +85,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code中心のAIコーディング運用：実務で効いた5つの型",
-    "link": "https://zenn.dev/mkj/articles/868e0723efa060",
-    "pubDate": "2025-12-26T09:28:33.000Z"
+    "title": "シェルスクリプトとしてもPythonスクリプトとしても実行できるファイルの作り方",
+    "link": "https://zenn.dev/omu_tryangle/articles/e109eb7475d61f",
+    "pubDate": "Fri, 26 Dec 2025 07:30:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Visual Studio 2026 で GitHub Copilot 用の設計ドキュメントを整備するときの注意点",
+    "link": "https://zenn.dev/microsoft/articles/github-copilot-vs2026",
+    "pubDate": "Fri, 26 Dec 2025 06:35:01 GMT"
   },
   {
     "site": "Zenn",
@@ -78,10 +102,22 @@
     "pubDate": "Fri, 26 Dec 2025 06:00:01 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "UnityでなぜMCPが必要なのか",
+    "link": "https://zenn.dev/dsgarage/articles/2cd3e51b3cdfcd",
+    "pubDate": "Fri, 26 Dec 2025 04:40:17 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【TOEIC600→875】仕事終わり1日1時間×3ヶ月で270点伸ばした“本当に効いたAI活用勉強法” - Qiita",
     "link": "https://qiita.com/shotaloss/items/3542e1d186e888c0482f",
     "pubDate": "2025-12-26T04:35:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "天下一レビュープロセス大会 2025",
+    "link": "https://zenn.dev/aldagram_tech/articles/01b9ab2fd6daee",
+    "pubDate": "Fri, 26 Dec 2025 04:34:42 GMT"
   },
   {
     "site": "Zenn",
@@ -102,34 +138,22 @@
     "pubDate": "Fri, 26 Dec 2025 01:32:48 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeアドベントカレンダー: 24 Tipsまとめ",
-    "link": "https://zenn.dev/oikon/articles/cc-advent-calendar",
-    "pubDate": "Thu, 25 Dec 2025 22:03:05 GMT"
+    "site": "Qiita",
+    "title": "30年ぶりに基本情報技術者試験を受けてきました",
+    "link": "https://qiita.com/dais_cw/items/6069de1baed07a7e829b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-25T23:22:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Goで作るセキュリティ分析LLMエージェント",
-    "link": "https://zenn.dev/mizutani/books/sec-agent-book",
-    "pubDate": "Thu, 25 Dec 2025 21:56:52 GMT"
+    "site": "Qiita",
+    "title": "Copilot Studio で登録した特定のナレッジのみから回答を生成させるアプローチ",
+    "link": "https://qiita.com/Takashi_Masumori/items/fc66212f700a889741a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-25T23:20:21.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Arch Linuxしか使わなくなった話",
-    "link": "https://zenn.dev/molyashi/articles/9423a75b55b08b",
-    "pubDate": "Thu, 25 Dec 2025 16:14:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot Chat の Ask/Edit/Agent モードをコードレベルで理解して使い分ける",
-    "link": "https://zenn.dev/openjny/articles/5487004a195051",
-    "pubDate": "Thu, 25 Dec 2025 15:17:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "APIをそのままMCPサーバーにするな",
-    "link": "https://zenn.dev/ncdc/articles/c1d65b6e939185",
-    "pubDate": "Thu, 25 Dec 2025 13:44:26 GMT"
+    "site": "Qiita",
+    "title": "情報処理安全確保支援士試験（セキスペ）に合格しました",
+    "link": "https://qiita.com/Takehara-Biz/items/82c9651d38fb2793e678?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-25T13:58:08.000Z"
   },
   {
     "site": "Qiita",
@@ -145,38 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "コードの話ばかりだったけれど、最後にSapeetの話を少しだけ。",
-    "link": "https://qiita.com/fuko_6/items/c48ec028b68c08084046?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-25T03:23:43.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【TOEIC600→875】仕事終わり1日1時間×3ヶ月で270点伸ばした“本当に効いたAI活用勉強法”",
     "link": "https://qiita.com/shotaloss/items/3542e1d186e888c0482f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-25T03:07:01.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Vue ⇄ React 移行者のための備忘録",
-    "link": "https://qiita.com/elden_tamon/items/74b1c592922d05068e56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-25T01:08:00.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "WEBシステムにおけるタイムアウト設計のセオリー",
     "link": "https://qiita.com/k2-irie/items/131672361b68c831f00d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-24T22:06:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "VS Code全盛期にあえてScreen/Tmuxを伝えたい",
-    "link": "https://qiita.com/daikt/items/3202d00e1d8d0944b091?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-24T22:06:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「ぜったい使っちゃダメ」な乱数生成器、本当にクラックできるの？",
-    "link": "https://qiita.com/wsysuper/items/cded0f3c6cfaf634642f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-24T15:29:59.000Z"
   }
 ]
