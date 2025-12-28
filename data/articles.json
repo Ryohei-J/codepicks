@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "規約ベースのフレームワークはAI処理に不利だと思う - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2025/12/28/045145",
+    "pubDate": "2025-12-28T00:34:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ChatGPT使いすぎて、文章見ると『あ、これChatGPTに書かせて一部だけ訂正したやつだな』というのが大体分かるようになってきてしまった",
     "link": "https://togetter.com/li/2643830",
     "pubDate": "2025-12-27T22:36:30.000Z"
@@ -42,6 +48,24 @@
     "pubDate": "2025-12-27T08:19:48.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "SwiftUIでOS判定をうまくやりたい",
+    "link": "https://zenn.dev/fromkk/articles/b23151f12c48cb",
+    "pubDate": "Sat, 27 Dec 2025 08:14:39 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Azure OpenAI の非推奨と提供終了を正しく理解する",
+    "link": "https://zenn.dev/microsoft/articles/f97e88de1b79fb",
+    "pubDate": "Sat, 27 Dec 2025 07:10:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026年、量子コンピュータが半導体ビジネスに「統合」されるための必須生存ルール",
+    "link": "https://zenn.dev/yuichirominato/articles/8b2abe422e97b8",
+    "pubDate": "Sat, 27 Dec 2025 05:28:03 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "レガシーシステムの保守を任された中年非エンジニアは何をすべきか？ - Qiita",
     "link": "https://qiita.com/Conabuku/items/20dcd8dd76923d44f8e2",
@@ -49,27 +73,21 @@
   },
   {
     "site": "Hatena",
-    "title": "統計から異常検知まで 〜実践につながる学習ロードマップ〜 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2025/12/practical-knowledge-for-anomaly-detection",
-    "pubDate": "2025-12-27T04:13:28.000Z"
+    "title": "2026年に自社開発企業から600-800万円のオファーを得るためにやるべき5のこと｜サカモト@エンジニアキャリア論",
+    "link": "https://note.com/sakamoto_582/n/n3c5db0244298",
+    "pubDate": "2025-12-27T04:02:42.000Z"
   },
   {
     "site": "Zenn",
-    "title": "dbtで出来そうなCI一通り実装してみた",
-    "link": "https://zenn.dev/octabird/articles/df8f903d823aa8",
-    "pubDate": "Sat, 27 Dec 2025 03:22:14 GMT"
+    "title": "APIをそのままMCPサーバーにするな",
+    "link": "https://zenn.dev/ncdc/articles/c1d65b6e939185",
+    "pubDate": "2025-12-27T03:07:42.000Z"
   },
   {
     "site": "Hatena",
     "title": "【Gemini／NotebookLM】Gemini3以降で業務に役立つ生成AI実践記事13選｜うえむら",
     "link": "https://note.com/uemura_hr/n/n6e775ec0cc0b",
     "pubDate": "2025-12-27T02:16:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「OAuthは認可、OIDCは認証」という説明が人によりブレる理由とより理解を深めるために必要な考え方 - r-weblife",
-    "link": "https://ritou.hatenablog.com/entry/2025/12/26/221852",
-    "pubDate": "2025-12-27T00:14:01.000Z"
   },
   {
     "site": "Zenn",
@@ -108,12 +126,6 @@
     "pubDate": "Fri, 26 Dec 2025 04:40:17 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【TOEIC600→875】仕事終わり1日1時間×3ヶ月で270点伸ばした“本当に効いたAI活用勉強法” - Qiita",
-    "link": "https://qiita.com/shotaloss/items/3542e1d186e888c0482f",
-    "pubDate": "2025-12-26T04:35:15.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "天下一レビュープロセス大会 2025",
     "link": "https://zenn.dev/aldagram_tech/articles/01b9ab2fd6daee",
@@ -124,18 +136,6 @@
     "title": "Claude Code中心のAIコーディング運用：実務で効いた5つの型",
     "link": "https://zenn.dev/mkj/articles/868e0723efa060",
     "pubDate": "Fri, 26 Dec 2025 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "さくらのクラウドのモニタリングスイートにotelcolで送信する本",
-    "link": "https://zenn.dev/tokuhirom/books/7c2c7820b2c36c",
-    "pubDate": "Fri, 26 Dec 2025 01:43:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「手作り RAG システム」で RAG の仕組みを学び直す",
-    "link": "https://zenn.dev/google_cloud_jp/articles/e699bda0a298d6",
-    "pubDate": "Fri, 26 Dec 2025 01:32:48 GMT"
   },
   {
     "site": "Qiita",
