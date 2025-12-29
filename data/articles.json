@@ -1,15 +1,57 @@
 [
   {
+    "site": "Hatena",
+    "title": "AI vs human code gen report: AI code creates 1.7x more issues",
+    "link": "https://www.coderabbit.ai/ja/blog/state-of-ai-vs-human-code-generation-report",
+    "pubDate": "2025-12-29T01:21:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "中途半端にResultを使うぐらいならunwrapの方がマシ",
+    "link": "https://zenn.dev/namn1125/articles/ced8022f40133c",
+    "pubDate": "Sun, 28 Dec 2025 23:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【10ギガ回線化顛末記】1ギガから10ギガへのプラン変更ができないだと!?　",
+    "link": "https://internet.watch.impress.co.jp/docs/special/2056734.html",
+    "pubDate": "2025-12-28T22:09:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてなブックマークで振り返る、2025年にワタシが遺した文章 - YAMDAS現更新履歴",
+    "link": "https://yamdas.hatenablog.com/entry/20251229/yamdas",
+    "pubDate": "2025-12-28T20:08:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "wa.dev に WebAssembly Component Model のライブラリを公開してみた",
+    "link": "https://zenn.dev/mizchi/articles/wasm-component-wadev",
+    "pubDate": "Sun, 28 Dec 2025 18:30:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Dockerの裏側を知るために、Goで最小限のコンテナランタイムを作ってみた",
+    "link": "https://zenn.dev/7csc/articles/6bca7dad3b0a84",
+    "pubDate": "2025-12-28T17:15:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【スマホ市場】なぜ日本で「iPhone離れ」が起きている？調査データで読み解くシェア低下の背景3選 | TRILL【トリル】",
+    "link": "https://trilltrill.jp/articles/4507206",
+    "pubDate": "2025-12-28T15:47:13.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【禊ポエム】AWS re:Invent 2025参加者がシアトル空港にPCを忘れた話 ",
     "link": "https://qiita.com/tetutetu214/items/96401c6eaeded76852f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-28T13:40:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "2025-12-27 Claude CodeでPRレビュー対応を効率化する@機械学習社会実装勉強会第54回",
-    "link": "https://speakerdeck.com/nakamasato/2025-12-27-claude-codedeprrebiyudui-ying-woxiao-lu-hua-suru-at-ji-jie-xue-xi-she-hui-shi-zhuang-mian-qiang-hui-di-54hui",
-    "pubDate": "2025-12-28T12:41:56.000Z"
+    "site": "Qiita",
+    "title": "2026 年も GitHub で人生を管理したい - Qiita",
+    "link": "https://qiita.com/e99h2121/items/45c62307565458964b94",
+    "pubDate": "2025-12-28T12:08:49.000Z"
   },
   {
     "site": "Hatena",
@@ -30,12 +72,6 @@
     "pubDate": "Sun, 28 Dec 2025 07:42:15 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeを使った情報整理術",
-    "link": "https://speakerdeck.com/knishioka/claude-codewoshi-tutaqing-bao-zheng-li-shu",
-    "pubDate": "2025-12-28T07:36:04.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "7年運用した Firestore から 1億件超えのデータを Cloud SQL に移行し、速度と費用と開発体験を改善した話",
     "link": "https://zenn.dev/ymdkit/articles/77ce7b64cdb460",
@@ -54,22 +90,22 @@
     "pubDate": "2025-12-28T05:31:59.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "推しキャラ駆動開発のススメ",
+    "link": "https://zenn.dev/yosugi/articles/character-driven-development",
+    "pubDate": "Sun, 28 Dec 2025 05:11:50 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "セキュリティ学習プラットフォーム56選を徹底比較｜難易度・料金・言語で選ぶガイド",
     "link": "https://qiita.com/dave-kiara-inc/items/17c206da0626df633a76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-28T04:47:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "発表から約2週間、いますぐ使えるAgent Skills 10選｜Seiji Takahashi@ベースマキナ",
-    "link": "https://note.com/timakin/n/na8b2789897ea",
-    "pubDate": "2025-12-28T03:03:02.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "【Google Antigravity】実践ガイド Part 2 - ワークフロー自動化とカスタムツールの作成",
-    "link": "https://zenn.dev/shineos/articles/google-antigravity-workflow-automation",
-    "pubDate": "2025-12-28T03:02:21.000Z"
+    "title": "ブラウザで99%まで0.55秒！Rust×Wasmで遺伝的アルゴリズムをやってみた",
+    "link": "https://zenn.dev/aoi0318/articles/19002b98208ec5",
+    "pubDate": "Sun, 28 Dec 2025 03:50:28 GMT"
   },
   {
     "site": "Hatena",
@@ -90,6 +126,12 @@
     "pubDate": "2025-12-27T17:05:13.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Dockerの裏側を知るために、Goで最小限のコンテナランタイムを作ってみた",
+    "link": "https://zenn.dev/7csc/articles/6bca7dad3b0a84",
+    "pubDate": "Sat, 27 Dec 2025 15:11:11 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "育児アプリから見るアプリをサクッと作るイメージ",
     "link": "https://qiita.com/akira_365/items/efaf50c8d9d6804ddf72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -102,52 +144,10 @@
     "pubDate": "Sat, 27 Dec 2025 14:44:12 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Rust製のPythonライブラリを自作してみた",
-    "link": "https://zenn.dev/ctenopoma/articles/rust-python-ai",
-    "pubDate": "Sat, 27 Dec 2025 10:29:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Azure OpenAI の非推奨と提供終了を正しく理解する",
-    "link": "https://zenn.dev/microsoft/articles/f97e88de1b79fb",
-    "pubDate": "Sat, 27 Dec 2025 07:10:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026年、量子コンピュータが半導体ビジネスに「統合」されるための必須生存ルール",
-    "link": "https://zenn.dev/yuichirominato/articles/8b2abe422e97b8",
-    "pubDate": "Sat, 27 Dec 2025 05:28:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "APIをそのままMCPサーバーにするな",
-    "link": "https://zenn.dev/ncdc/articles/c1d65b6e939185",
-    "pubDate": "2025-12-27T03:07:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "MarkdownでPDF資料をつくる&便利Tips",
-    "link": "https://zenn.dev/zenzoe/articles/eaa49c7a630aaa",
-    "pubDate": "2025-12-27T03:05:30.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "「Linux部」を全国の中高に！算額のように技術を競い、日本の情報産業を底上げする構想",
     "link": "https://qiita.com/kameda05/items/b5e3a72f164aeb1872c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-27T01:37:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Router v7 を選んだ話",
-    "link": "https://zenn.dev/kibe/articles/7f4563614864e2",
-    "pubDate": "Sat, 27 Dec 2025 01:25:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "『優れたエンジニアがコミュニティの中でしていること』を読んで",
-    "link": "https://zenn.dev/idapan/articles/f6fa37bf212536",
-    "pubDate": "Sat, 27 Dec 2025 00:28:49 GMT"
   },
   {
     "site": "Qiita",
