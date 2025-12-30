@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "アップデート中にiPhoneが文鎮化──eSIM時代に\"動かなくなったスマホ\"から突きつけた厳しい現実",
+    "link": "https://toyokeizai.net/articles/-/925752?display=b",
+    "pubDate": "2025-12-30T02:50:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最古の「プログラマ不要論」とAI時代の「プログラマ不要論」の共通点 - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2025/12/30/095337",
+    "pubDate": "2025-12-30T01:21:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "待望の新モデル！5Gにも対応したQWERTY配列の物理キーボード搭載スマホ「Unihertz Titan2」の外観や同梱物、基本機能などを紹介【レビュー】 : S-MAX",
+    "link": "https://s-max.jp/archives/1839353.html",
+    "pubDate": "2025-12-30T00:36:18.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "2025年にブックマークしたページでよかったもの集めた - Really Saying Something",
     "link": "https://toya.hatenablog.com/entry/2025/12/30/005511",
     "pubDate": "2025-12-29T16:46:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？ - Qiita",
+    "link": "https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327",
+    "pubDate": "2025-12-29T13:30:24.000Z"
   },
   {
     "site": "Hatena",
@@ -16,12 +40,6 @@
     "title": "【Qiita】ひとりアドベントカレンダー2025年の完走率を調査してみたよ",
     "link": "https://qiita.com/rana_kualu/items/938c4be871f37ce6973b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-29T10:16:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "外見はロレックス、裏返すとApple Watch--異色の時計バンドが登場　富裕層に訴求",
-    "link": "https://japan.cnet.com/article/35242165/",
-    "pubDate": "2025-12-29T09:50:03.000Z"
   },
   {
     "site": "Zenn",
@@ -48,12 +66,6 @@
     "pubDate": "2025-12-29T05:35:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "業務の煩悩を祓うAI活用術108選 / AI 108 Usages",
-    "link": "https://speakerdeck.com/smartbank/ye-wu-nofan-nao-wofu-uaihuo-yong-shu-108xuan",
-    "pubDate": "2025-12-29T03:48:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AI駆動開発を全力で試して得られた、10の実践テクニックと知見について",
     "link": "https://zenn.dev/sunagaku/articles/ai-development-best-practices-2025",
@@ -64,12 +76,6 @@
     "title": "本気コンパイラ開発の日記【自作コンパイラで得られる知見】",
     "link": "https://zenn.dev/sonneko/books/4c66e31549640b",
     "pubDate": "Mon, 29 Dec 2025 01:23:25 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "数百万人が使う“AI彼女”アプリ「SillyTavern」が面白い (1/6)",
-    "link": "https://ascii.jp/elem/000/004/363/4363610/",
-    "pubDate": "2025-12-29T00:22:38.000Z"
   },
   {
     "site": "Zenn",
@@ -90,6 +96,12 @@
     "pubDate": "Sun, 28 Dec 2025 18:30:59 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "製作中のNeovim用プラグインマネージャの紹介と相談",
+    "link": "https://zenn.dev/gw31415/articles/909af402ba806a",
+    "pubDate": "Sun, 28 Dec 2025 15:00:34 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【禊ポエム】AWS re:Invent 2025参加者がシアトル空港にPCを忘れた話 ",
     "link": "https://qiita.com/tetutetu214/items/96401c6eaeded76852f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,6 +112,12 @@
     "title": "プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？",
     "link": "https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-28T12:46:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【後編】NotebookLMでスライド作成が劇的に進化。最新のスライド作成とは？",
+    "link": "https://zenn.dev/and_dot/articles/291429d8647ad7",
+    "pubDate": "Sun, 28 Dec 2025 10:25:41 GMT"
   },
   {
     "site": "Qiita",
@@ -114,40 +132,22 @@
     "pubDate": "Sun, 28 Dec 2025 09:51:28 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか",
+    "link": "https://zenn.dev/pivotmedia/articles/ai-era-code-review",
+    "pubDate": "Sun, 28 Dec 2025 09:00:00 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "2025年に使い始めて良かったツール10選 - Qiita",
     "link": "https://qiita.com/takumi3488/items/3e398ae230e94144a20e",
     "pubDate": "2025-12-28T08:41:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Tesla T4でMNIST推論 2,780万枚/秒を出すための最適化技術",
-    "link": "https://zenn.dev/holy_fox/articles/4beceb7624d67b",
-    "pubDate": "Sun, 28 Dec 2025 08:15:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ピクセル空間フローマッチングモデルで顔イラストを学習してみた",
-    "link": "https://zenn.dev/platina/articles/jit-animeface",
-    "pubDate": "Sun, 28 Dec 2025 07:42:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "7年運用した Firestore から 1億件超えのデータを Cloud SQL に移行し、速度と費用と開発体験を改善した話",
-    "link": "https://zenn.dev/ymdkit/articles/77ce7b64cdb460",
-    "pubDate": "Sun, 28 Dec 2025 07:15:27 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "セキュリティ学習プラットフォーム56選を徹底比較｜難易度・料金・言語で選ぶガイド",
     "link": "https://qiita.com/dave-kiara-inc/items/17c206da0626df633a76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-28T04:47:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "年末年始に「生成AI初心者」から一気に「上級者」に駆け上がりたい人のための記事ガイド｜KAJI | 梶谷健人",
-    "link": "https://note.com/kajiken0630/n/n48db7c5ed54d",
-    "pubDate": "2025-12-27T23:28:05.000Z"
   },
   {
     "site": "Qiita",
