@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "exe.dev - AI時代のVM Hostingサービス",
+    "link": "https://www.deeeet.com/writing/exe-dev",
+    "pubDate": "2025-12-31T01:20:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeの全てのCHANGELOGを追ってきて",
+    "link": "https://zenn.dev/oikon/articles/claude-code-2025",
+    "pubDate": "2025-12-31T00:19:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeの全てのCHANGELOGを追ってきて",
+    "link": "https://zenn.dev/oikon/articles/claude-code-2025",
+    "pubDate": "Tue, 30 Dec 2025 22:02:01 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "【特集】 新年は広いシステムドライブでゆったりと過ごそう！無料ソフト「Clonezilla」を使ったSSDの引っ越し手順",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2075000.html",
     "pubDate": "2025-12-30T21:30:48.000Z"
   },
   {
     "site": "Zenn",
-    "title": "1403人が年末に使ったDiscord読み上げBot「Swiftly」のインフラ構成と開発",
-    "link": "https://zenn.dev/techfish4/articles/6ce71134bdecb1",
-    "pubDate": "Tue, 30 Dec 2025 15:54:15 GMT"
+    "title": "30日でCVE取得! OSSバグハント入門",
+    "link": "https://zenn.dev/scgajge12/books/6f6ab44df405b2",
+    "pubDate": "Tue, 30 Dec 2025 20:19:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vim/Neovimをquitするときに特殊ウィンドウを一気に閉じる",
+    "link": "https://zenn.dev/vim_jp/articles/ff6cd224fab0c7",
+    "pubDate": "Tue, 30 Dec 2025 15:02:01 GMT"
   },
   {
     "site": "Hatena",
@@ -37,15 +61,15 @@
   },
   {
     "site": "Hatena",
-    "title": "無料でGmailなどのメールをアーカイブして保存後に自動削除して空き容量を増やすことができる「Mail-Archiver」",
-    "link": "https://gigazine.net/news/20251230-mail-archiver/",
-    "pubDate": "2025-12-30T10:00:15.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「こんな複雑なことをしないといけないのはおかしい」というソフトウェアエンジニアの勘 - valid,invalid",
     "link": "https://ohbarye.hatenablog.jp/entry/2025/12/30/155950",
     "pubDate": "2025-12-30T09:31:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "オープンソースソフトウェア「UniDx」の公開",
+    "link": "https://zenn.dev/tankenzuki/articles/unidx_2025_open",
+    "pubDate": "Tue, 30 Dec 2025 07:53:57 GMT"
   },
   {
     "site": "Qiita",
@@ -61,6 +85,12 @@
   },
   {
     "site": "Zenn",
+    "title": "ゲームエフェクト制作のはじめ方✨",
+    "link": "https://zenn.dev/kurie/articles/9502fc072721e0",
+    "pubDate": "Tue, 30 Dec 2025 05:57:40 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "やはりお前らのSkillsの解釈はまちがっている。",
     "link": "https://zenn.dev/nuits_jp/articles/2025-12-30-interpretation-of-agent-skills",
     "pubDate": "Tue, 30 Dec 2025 05:30:48 GMT"
@@ -72,16 +102,16 @@
     "pubDate": "Tue, 30 Dec 2025 03:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "この一言だけでも、ギャルゲー世代の心に直撃するほどの破壊力がある",
-    "link": "https://posfie.com/@xay6609025327/p/0N3wZUP",
-    "pubDate": "2025-12-30T00:55:25.000Z"
+    "site": "Zenn",
+    "title": "VFX Artist のための Material Maker 入門",
+    "link": "https://zenn.dev/kurie/books/00f10a8c55c0ec",
+    "pubDate": "Tue, 30 Dec 2025 01:05:00 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Microsoft 365 Copilotを活かすためにMicrosoft 365をきちんと使おう - Qiita",
-    "link": "https://qiita.com/Oyu3m/items/1ef0b1846fc98b2c595d",
-    "pubDate": "2025-12-30T00:08:43.000Z"
+    "title": "【備忘録】Windows11をオフライン環境でセットアップするときのおまじない - Qiita",
+    "link": "https://qiita.com/Blaster36/items/baa5f2eb92bffa735c55",
+    "pubDate": "2025-12-30T00:45:30.000Z"
   },
   {
     "site": "Hatena",
@@ -96,12 +126,6 @@
     "pubDate": "2025-12-29T15:41:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "フルVibe Codingでも仕事が進むようになってきた2025年",
-    "link": "https://zenn.dev/kazuph/articles/full-vibe-coding-2025",
-    "pubDate": "Mon, 29 Dec 2025 14:46:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "性能が微妙な中古PCを販売するくらいなら中高生にくれてやれ",
     "link": "https://qiita.com/kameda05/items/13e04907217b6c2c873e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -114,34 +138,10 @@
     "pubDate": "2025-12-29T10:16:51.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ターミナルで攻略するAWS Tips集",
-    "link": "https://zenn.dev/mozumasu/articles/mozumasu-aws-tips",
-    "pubDate": "Mon, 29 Dec 2025 08:23:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Claude Code】Agent SkillsとMCPの違いを徹底解説 - 補完関係を理解して使いこなす",
     "link": "https://qiita.com/masayan1126/items/20fa457b8ba6994b6d0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-29T05:35:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI駆動開発を全力で試して得られた、10の実践テクニックと知見について",
-    "link": "https://zenn.dev/sunagaku/articles/ai-development-best-practices-2025",
-    "pubDate": "Mon, 29 Dec 2025 02:23:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "本気コンパイラ開発の日記【自作コンパイラで得られる知見】",
-    "link": "https://zenn.dev/sonneko/books/4c66e31549640b",
-    "pubDate": "Mon, 29 Dec 2025 01:23:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vapor Mode で変わる Vue JSX 体験",
-    "link": "https://zenn.dev/comm_vue_nuxt/articles/intro-vue-jsx-vapor",
-    "pubDate": "Mon, 29 Dec 2025 00:41:28 GMT"
   },
   {
     "site": "Qiita",
