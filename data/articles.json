@@ -1,15 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "【特集】 新年は広いシステムドライブでゆったりと過ごそう！無料ソフト「Clonezilla」を使ったSSDの引っ越し手順",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2075000.html",
+    "pubDate": "2025-12-30T21:30:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "1403人が年末に使ったDiscord読み上げBot「Swiftly」のインフラ構成と開発",
+    "link": "https://zenn.dev/techfish4/articles/6ce71134bdecb1",
+    "pubDate": "Tue, 30 Dec 2025 15:54:15 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "製造業の異常検知を体系的に学ぶ「まるごと学べる異常検知の実践知」 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/book-anomaly-detection/",
+    "pubDate": "2025-12-30T14:33:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "インターネットだった - Letter from Kyoto",
+    "link": "https://lfk.hatenablog.com/entry/2025/12/30/230726",
+    "pubDate": "2025-12-30T14:21:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ジョージア工科大学のコンピュータサイエンス修士課程を修了しました",
+    "link": "https://zenn.dev/magurotuna/articles/reflect-on-my-journey-with-omscs",
+    "pubDate": "Tue, 30 Dec 2025 13:52:06 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "意外と知られていない「Amazonの優良業者が守っているルール」が話題に→他にもパチモンを扱っているような業者を見抜くポイントやツールの情報が集まる",
     "link": "https://togetter.com/li/2645143",
     "pubDate": "2025-12-30T12:36:40.000Z"
   },
   {
     "site": "Hatena",
+    "title": "無料でGmailなどのメールをアーカイブして保存後に自動削除して空き容量を増やすことができる「Mail-Archiver」",
+    "link": "https://gigazine.net/news/20251230-mail-archiver/",
+    "pubDate": "2025-12-30T10:00:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「こんな複雑なことをしないといけないのはおかしい」というソフトウェアエンジニアの勘 - valid,invalid",
     "link": "https://ohbarye.hatenablog.jp/entry/2025/12/30/155950",
     "pubDate": "2025-12-30T09:31:43.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "2025年のAIエージェント開発の到達点はClaude Code on Bedrock AgentCoreかもしれない",
+    "link": "https://qiita.com/moritalous/items/bd4e1cdfadb80b04065a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-30T06:24:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Swiftだけでwebアプリを公開したい！",
+    "link": "https://zenn.dev/am2525nyan/articles/ca28f387efd02b",
+    "pubDate": "Tue, 30 Dec 2025 06:06:30 GMT"
   },
   {
     "site": "Zenn",
@@ -22,30 +70,6 @@
     "title": "新卒社会人博士データサイエンティストが1年続けた10の悪あがき",
     "link": "https://zenn.dev/delzaky/articles/waruagaki_20251209",
     "pubDate": "Tue, 30 Dec 2025 03:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ターミナルで攻略するAWS Tips集",
-    "link": "https://zenn.dev/mozumasu/articles/mozumasu-aws-tips",
-    "pubDate": "2025-12-30T03:16:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アップデート中にiPhoneが文鎮化──eSIM時代に\"動かなくなったスマホ\"から突きつけた厳しい現実",
-    "link": "https://toyokeizai.net/articles/-/925752?display=b",
-    "pubDate": "2025-12-30T02:50:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 21年前の電動ハンドガン(1.2万円)と、最新最高級カスタムモデル(9万円)の戦闘力を比較してみた",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2075068.html",
-    "pubDate": "2025-12-30T02:26:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "最古の「プログラマ不要論」とAI時代の「プログラマ不要論」の共通点 - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2025/12/30/095337",
-    "pubDate": "2025-12-30T01:21:28.000Z"
   },
   {
     "site": "Hatena",
@@ -79,12 +103,6 @@
   },
   {
     "site": "Qiita",
-    "title": "プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？ - Qiita",
-    "link": "https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327",
-    "pubDate": "2025-12-29T13:30:24.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "性能が微妙な中古PCを販売するくらいなら中高生にくれてやれ",
     "link": "https://qiita.com/kameda05/items/13e04907217b6c2c873e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-29T10:38:31.000Z"
@@ -102,6 +120,12 @@
     "pubDate": "Mon, 29 Dec 2025 08:23:05 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【Claude Code】Agent SkillsとMCPの違いを徹底解説 - 補完関係を理解して使いこなす",
+    "link": "https://qiita.com/masayan1126/items/20fa457b8ba6994b6d0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-29T05:35:06.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AI駆動開発を全力で試して得られた、10の実践テクニックと知見について",
     "link": "https://zenn.dev/sunagaku/articles/ai-development-best-practices-2025",
@@ -115,45 +139,15 @@
   },
   {
     "site": "Zenn",
-    "title": "中途半端にResultを使うぐらいならunwrapの方がマシ",
-    "link": "https://zenn.dev/namn1125/articles/ced8022f40133c",
-    "pubDate": "Sun, 28 Dec 2025 23:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Bambu Labの工業向けフィラメントを試してみた",
-    "link": "https://zenn.dev/aeronext_dev/articles/6d94a2b46a2498",
-    "pubDate": "Sun, 28 Dec 2025 22:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "wa.dev に WebAssembly Component Model のライブラリを公開してみた",
-    "link": "https://zenn.dev/mizchi/articles/wasm-component-wadev",
-    "pubDate": "Sun, 28 Dec 2025 18:30:59 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【禊ポエム】AWS re:Invent 2025参加者がシアトル空港にPCを忘れた話 ",
-    "link": "https://qiita.com/tetutetu214/items/96401c6eaeded76852f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-28T13:40:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Dockerの本質理解備忘録",
-    "link": "https://zenn.dev/oz006/articles/06e033a6be662e",
-    "pubDate": "Sun, 28 Dec 2025 12:57:53 GMT"
+    "title": "Vapor Mode で変わる Vue JSX 体験",
+    "link": "https://zenn.dev/comm_vue_nuxt/articles/intro-vue-jsx-vapor",
+    "pubDate": "Mon, 29 Dec 2025 00:41:28 GMT"
   },
   {
     "site": "Qiita",
     "title": "プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？",
     "link": "https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-28T12:46:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "セキュリティ初心者向けFAQ完全ガイド｜70個の重要キーワードを体系的に解説",
-    "link": "https://qiita.com/dave-kiara-inc/items/74a38146249b5207ed48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-28T10:18:26.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "2025年に使い始めて良かったツール10選",
     "link": "https://qiita.com/takumi3488/items/3e398ae230e94144a20e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-27T20:18:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "シニアソフトウェアエンジニアになるためには",
+    "link": "https://speakerdeck.com/kworkdev/to_be_a_senior_software_engineer",
+    "pubDate": "2025-12-19T02:09:29.000Z"
   }
 ]
