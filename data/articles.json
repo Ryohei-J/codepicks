@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "1on1で「まずこれを読んで！」と布教し続けるそーだいさんの言語化集 - そーだいなる Advent Calendar 2025 20日目｜mkitahara / きたはら",
+    "link": "https://note.com/mkitahara/n/n0060fdb3e369",
+    "pubDate": "2025-12-31T10:21:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "生成AIがシステム丸ごと開発　NTTデータ、IT人材不足に抜本策 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/",
     "pubDate": "2025-12-31T09:14:09.000Z"
   },
   {
     "site": "Hatena",
+    "title": "Claude Codeで開発するならWSL2ファイルシステムに資材を置きたい - 理系学生日記",
+    "link": "https://kiririmode.hatenablog.jp/entry/20251230/17179246901338514059",
+    "pubDate": "2025-12-31T09:09:35.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "MacのJISキーボードで¥が\\に化けない問題を、今度こそ忘れないために書く - 理系学生日記",
     "link": "https://kiririmode.hatenablog.jp/entry/20251230/17179246901338412328",
     "pubDate": "2025-12-31T09:06:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "[個人的]データベースゆく年くる年 2025",
+    "link": "https://zenn.dev/tzkoba/articles/tzkoba-endof-202512",
+    "pubDate": "2025-12-31T08:11:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "[個人的]データベースゆく年くる年 2025",
+    "link": "https://zenn.dev/tzkoba/articles/tzkoba-endof-202512",
+    "pubDate": "Wed, 31 Dec 2025 06:02:39 GMT"
   },
   {
     "site": "Qiita",
@@ -31,9 +55,21 @@
   },
   {
     "site": "Zenn",
+    "title": "バイブコーディング・イズデッド・イズデッド",
+    "link": "https://zenn.dev/watany/articles/98c3a597886261",
+    "pubDate": "Wed, 31 Dec 2025 02:01:16 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Codeの全てのCHANGELOGを追ってきて",
     "link": "https://zenn.dev/oikon/articles/claude-code-2025",
     "pubDate": "2025-12-31T00:19:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "今年お世話になった開発環境の棚卸し 2025",
+    "link": "https://zenn.dev/okmkm321/articles/dev_environment_inventory",
+    "pubDate": "Tue, 30 Dec 2025 23:42:49 GMT"
   },
   {
     "site": "Zenn",
@@ -42,16 +78,22 @@
     "pubDate": "Tue, 30 Dec 2025 22:02:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 新年は広いシステムドライブでゆったりと過ごそう！無料ソフト「Clonezilla」を使ったSSDの引っ越し手順",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2075000.html",
-    "pubDate": "2025-12-30T21:30:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "30日でCVE取得! OSSバグハント入門",
     "link": "https://zenn.dev/scgajge12/books/6f6ab44df405b2",
     "pubDate": "Tue, 30 Dec 2025 20:19:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "列挙値(enum)から文字列への変換 in C++26",
+    "link": "https://zenn.dev/yohhoy/articles/enum-to-string-cpp26",
+    "pubDate": "Tue, 30 Dec 2025 16:22:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "1560人が年末に使ったDiscord読み上げBot「Swiftly」のインフラ構成と開発",
+    "link": "https://zenn.dev/techfish4/articles/6ce71134bdecb1",
+    "pubDate": "Tue, 30 Dec 2025 15:54:15 GMT"
   },
   {
     "site": "Zenn",
@@ -72,12 +114,6 @@
     "pubDate": "Tue, 30 Dec 2025 13:52:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「こんな複雑なことをしないといけないのはおかしい」というソフトウェアエンジニアの勘 - valid,invalid",
-    "link": "https://ohbarye.hatenablog.jp/entry/2025/12/30/155950",
-    "pubDate": "2025-12-30T09:31:43.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "オープンソースソフトウェア「UniDx」の公開",
     "link": "https://zenn.dev/tankenzuki/articles/unidx_2025_open",
@@ -88,36 +124,6 @@
     "title": "2025年のAIエージェント開発の到達点はClaude Code on Bedrock AgentCoreかもしれない",
     "link": "https://qiita.com/moritalous/items/bd4e1cdfadb80b04065a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-30T06:24:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Swiftだけでwebアプリを公開したい！",
-    "link": "https://zenn.dev/am2525nyan/articles/ca28f387efd02b",
-    "pubDate": "Tue, 30 Dec 2025 06:06:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ゲームエフェクト制作のはじめ方✨",
-    "link": "https://zenn.dev/kurie/articles/9502fc072721e0",
-    "pubDate": "Tue, 30 Dec 2025 05:57:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "やはりお前らのSkillsの解釈はまちがっている。",
-    "link": "https://zenn.dev/nuits_jp/articles/2025-12-30-interpretation-of-agent-skills",
-    "pubDate": "Tue, 30 Dec 2025 05:30:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "新卒社会人博士データサイエンティストが1年続けた10の悪あがき",
-    "link": "https://zenn.dev/delzaky/articles/waruagaki_20251209",
-    "pubDate": "Tue, 30 Dec 2025 03:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "VFX Artist のための Material Maker 入門",
-    "link": "https://zenn.dev/kurie/books/00f10a8c55c0ec",
-    "pubDate": "Tue, 30 Dec 2025 01:05:00 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【備忘録】Windows11をオフライン環境でセットアップするときのおまじない",
     "link": "https://qiita.com/Blaster36/items/baa5f2eb92bffa735c55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-28T08:48:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "シニアソフトウェアエンジニアになるためには",
-    "link": "https://speakerdeck.com/kworkdev/to_be_a_senior_software_engineer",
-    "pubDate": "2025-12-19T02:09:29.000Z"
   }
 ]
