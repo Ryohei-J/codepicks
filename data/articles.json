@@ -6,6 +6,24 @@
     "pubDate": "2026-01-01T08:01:27.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "2025年12月時点の「ぼくがいまやっている最強の開発方法」 - Qiita",
+    "link": "https://qiita.com/mokemokechicken/items/e63081de6a379905ecf5",
+    "pubDate": "2026-01-01T07:19:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Python FastAPIで脱初心者！「とりあえず動く」を卒業するバックエンド構築",
+    "link": "https://zenn.dev/masaru0208/articles/eaf6a7872ab8ac",
+    "pubDate": "2026-01-01T05:40:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "動画編集ソフトを作ってみた！【React】【Rust】",
+    "link": "https://zenn.dev/bea4dev/articles/0726392004a890",
+    "pubDate": "Thu, 01 Jan 2026 02:06:53 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "RAGの精度が73%から100%に向上した話 ─ チャンキング戦略の比較検証",
     "link": "https://zenn.dev/oharu121/articles/efd3d038afc6da",
@@ -31,33 +49,33 @@
   },
   {
     "site": "Zenn",
+    "title": "デジタル署名を TypeScript で学ぶ",
+    "link": "https://zenn.dev/stin/articles/degital-sign-with-typescript",
+    "pubDate": "Wed, 31 Dec 2025 14:56:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "小データの予測から意思決定へ：転職を機に研究仮説を総括する",
+    "link": "https://zenn.dev/akira_t/articles/from-prediction-to-decision",
+    "pubDate": "Wed, 31 Dec 2025 14:43:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "2025 年振り返り",
+    "link": "https://zenn.dev/shunsuke_suzuki/articles/look-back-on-2025",
+    "pubDate": "Wed, 31 Dec 2025 12:23:18 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "2025年の振り返りと2026年の抱負",
     "link": "https://zenn.dev/magurotuna/articles/2025-review-and-2026-goals",
     "pubDate": "Wed, 31 Dec 2025 12:03:21 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【インストール手順を紹介】Windows 11に更新できないPCを延命するChromeOS Flexで古いPCを再活用！ (1/4)",
-    "link": "https://ascii.jp/elem/000/004/363/4363702/",
-    "pubDate": "2025-12-31T11:34:06.000Z"
   },
   {
     "site": "Zenn",
     "title": "今年お世話になった開発環境の棚卸し 2025",
     "link": "https://zenn.dev/okmkm321/articles/dev_environment_inventory",
     "pubDate": "2025-12-31T11:01:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "2025年 Amazon Bedrock AgentCoreまとめ",
-    "link": "https://speakerdeck.com/yuu551/2025nian-amazon-bedrock-agentcorematome",
-    "pubDate": "2025-12-31T10:36:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "1on1で「まずこれを読んで！」と布教し続けるそーだいさんの言語化集 - そーだいなる Advent Calendar 2025 20日目｜mkitahara / きたはら",
-    "link": "https://note.com/mkitahara/n/n0060fdb3e369",
-    "pubDate": "2025-12-31T10:21:15.000Z"
   },
   {
     "site": "Zenn",
@@ -79,7 +97,7 @@
   },
   {
     "site": "Qiita",
-    "title": "ECSになぜecspressoが必要なのか？（導入手順付き）",
+    "title": "【AWS】ECSになぜecspressoが必要なのか？（導入手順付き）",
     "link": "https://qiita.com/hiyanger/items/f630372a61a32be7f23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-31T09:06:07.000Z"
   },
@@ -88,12 +106,6 @@
     "title": "Obsidian+GPT: 抑うつ症状を前提としたタスク管理【2025-12-31】 - 二千三百五十五年",
     "link": "https://obsolete.hatenadiary.com/entry/2025/12/31/141424",
     "pubDate": "2025-12-31T08:42:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025 年、OSS を 3 つ出して「これはこれでええやん」まとめ",
-    "link": "https://zenn.dev/nyaomaru/articles/2025-summary-of-oss",
-    "pubDate": "Wed, 31 Dec 2025 06:08:05 GMT"
   },
   {
     "site": "Zenn",
@@ -124,24 +136,6 @@
     "title": "今年お世話になった開発環境の棚卸し 2025",
     "link": "https://zenn.dev/okmkm321/articles/dev_environment_inventory",
     "pubDate": "Tue, 30 Dec 2025 23:42:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの全てのCHANGELOGを追ってきて",
-    "link": "https://zenn.dev/oikon/articles/claude-code-2025",
-    "pubDate": "Tue, 30 Dec 2025 22:02:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "30日でCVE取得! OSSバグハント入門",
-    "link": "https://zenn.dev/scgajge12/books/6f6ab44df405b2",
-    "pubDate": "Tue, 30 Dec 2025 20:19:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "列挙値(enum)から文字列への変換 in C++26",
-    "link": "https://zenn.dev/yohhoy/articles/enum-to-string-cpp26",
-    "pubDate": "Tue, 30 Dec 2025 16:22:36 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "2025年末最新版：Gemini無料枠で始める自分専用AIの作り方",
     "link": "https://qiita.com/k-ysd/items/8f6fb441d1ec0f75ede2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-29T09:04:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "概観 トランザクションとロック - 用語整理と最初の一歩 -",
+    "link": "https://zenn.dev/suzuki_hoge/books/2024-12-mysql-tx-a6ea4d00e8bd70",
+    "pubDate": "2024-12-18T06:09:38.000Z"
   }
 ]
