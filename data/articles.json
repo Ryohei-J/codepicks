@@ -1,9 +1,27 @@
 [
   {
+    "site": "Hatena",
+    "title": "なぜローストビーフは日本のおせち料理の仲間入りをしたのか…この謎を追って調査班は南米アマゾンに飛んだ→様々な考察が集まる",
+    "link": "https://togetter.com/li/2646119",
+    "pubDate": "2026-01-01T08:01:27.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "RAGの精度が73%から100%に向上した話 ─ チャンキング戦略の比較検証",
     "link": "https://zenn.dev/oharu121/articles/efd3d038afc6da",
     "pubDate": "2026-01-01T00:08:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "プログラムは main から始まるわけではない",
+    "link": "https://zenn.dev/kariya_mitsuru/articles/f4df89c8259e8f",
+    "pubDate": "2025-12-31T23:48:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「Linuxは分かるはず」が通用しなかった Kubernetes の話 〜オンプレミス前提からクラウドネイティブへの技術ギャップ〜",
+    "link": "https://zenn.dev/jtmy/articles/a444428b4d0fb1",
+    "pubDate": "2025-12-31T16:45:41.000Z"
   },
   {
     "site": "Hatena",
@@ -22,12 +40,6 @@
     "title": "【インストール手順を紹介】Windows 11に更新できないPCを延命するChromeOS Flexで古いPCを再活用！ (1/4)",
     "link": "https://ascii.jp/elem/000/004/363/4363702/",
     "pubDate": "2025-12-31T11:34:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Pythonパッケージ管理ツール「uv」はなぜこれほど爆速なのか？",
-    "link": "https://zenn.dev/acrosstudioblog/articles/8efb31681b46f3",
-    "pubDate": "2025-12-31T11:06:33.000Z"
   },
   {
     "site": "Zenn",
@@ -66,16 +78,16 @@
     "pubDate": "2025-12-31T09:17:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIがシステム丸ごと開発　NTTデータ、IT人材不足に抜本策 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/",
-    "pubDate": "2025-12-31T09:14:09.000Z"
+    "site": "Qiita",
+    "title": "ECSになぜecspressoが必要なのか？（導入手順付き）",
+    "link": "https://qiita.com/hiyanger/items/f630372a61a32be7f23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-31T09:06:07.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "怒涛の24ユースケース紹介｜今話題のAgent Skillsを一挙に実践紹介",
-    "link": "https://qiita.com/masayan1126/items/168fb1f8550265cc42aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-31T06:36:40.000Z"
+    "site": "Hatena",
+    "title": "Obsidian+GPT: 抑うつ症状を前提としたタスク管理【2025-12-31】 - 二千三百五十五年",
+    "link": "https://obsolete.hatenadiary.com/entry/2025/12/31/141424",
+    "pubDate": "2025-12-31T08:42:25.000Z"
   },
   {
     "site": "Zenn",
@@ -90,22 +102,16 @@
     "pubDate": "Wed, 31 Dec 2025 06:02:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "“人型ロボット”で世界を目指す中国の野望 「日本が笑っていられるのも今だけ」との声も（2025年12月30日掲載）｜日テレNEWS NNN",
-    "link": "https://news.ntv.co.jp/category/international/841462ccc5434e888f2e40d323064b1f",
-    "pubDate": "2025-12-31T05:53:00.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "快適なPCデスクの作業環境作り、難しすぎﾜﾛﾀｧ",
     "link": "https://qiita.com/minorun365/items/0a49d1069683ba3fb20e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-31T02:41:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "S3を正しく理解するための内部構造の読解",
-    "link": "https://speakerdeck.com/nrinetcom/s3wozheng-sikuli-jie-surutamenonei-bu-gou-zao-nodu-jie",
-    "pubDate": "2025-12-31T02:07:14.000Z"
+    "site": "Qiita",
+    "title": "2025年12月時点の「ぼくがいまやっている最強の開発方法」",
+    "link": "https://qiita.com/mokemokechicken/items/e63081de6a379905ecf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-31T02:22:17.000Z"
   },
   {
     "site": "Zenn",
@@ -132,16 +138,16 @@
     "pubDate": "Tue, 30 Dec 2025 20:19:38 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "参考書無しで情報処理安全確保支援士試験に合格した話",
-    "link": "https://qiita.com/okazuki_it/items/b160b073bc816edd25a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-30T18:39:26.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "列挙値(enum)から文字列への変換 in C++26",
     "link": "https://zenn.dev/yohhoy/articles/enum-to-string-cpp26",
     "pubDate": "Tue, 30 Dec 2025 16:22:36 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "個人開発の進捗報告が面倒なので、GitHub ActionsとAIで「勝手にデモ動画を作る」仕組みを構築した",
+    "link": "https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-30T10:19:45.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "2025年末最新版：Gemini無料枠で始める自分専用AIの作り方",
     "link": "https://qiita.com/k-ysd/items/8f6fb441d1ec0f75ede2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-29T09:04:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【無料プラン】GitHubのプライベートリポジトリにWikiのような機能を使用したい場合の対応",
-    "link": "https://qiita.com/MetroOsamu/items/987ec4eb292aea4a218b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-29T02:17:36.000Z"
   }
 ]
