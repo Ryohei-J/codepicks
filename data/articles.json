@@ -1,9 +1,9 @@
 [
   {
     "site": "Hatena",
-    "title": "【新年のビッグセール到来！】Go・TypeScript・Rust・Terraform・AI・英語＆資格 - 2026年の開発現場で生きる技術をUdemyで学ぶ！ - はてなニュース",
-    "link": "https://hatenanews.com/articles/2026/01/02/103000",
-    "pubDate": "2026-01-02T01:40:51.000Z"
+    "title": "Geminiの「Gem」機能のTips集(2/3)：応用編（知識機能、ハルシネーション抑制、自己点検、引用マーカー排除）｜榎本大貴 / LITALICO研究所所長",
+    "link": "https://note.com/enomotod/n/n478915d143dd",
+    "pubDate": "2026-01-02T02:32:34.000Z"
   },
   {
     "site": "Hatena",
@@ -19,7 +19,25 @@
   },
   {
     "site": "Hatena",
-    "title": "重さ1kg,SSD2台搭載可能で10万円ちょいの高コスパモバイルノート　Mechrevo機械革命　星輝(XingYao)14 　AMD Ryzen AI 9H 365/メモリ32G/SSD1T(追加でも｜TAKASU Masakazu",
+    "title": "AGIは来ない、バブルは続かない──スタンフォード大 HAI研究所が示す2026年のAI、過剰期待の時代は終わり、評価フェーズへ | Ledge.ai",
+    "link": "https://ledge.ai/articles/stanford_hai_ai_2026_evaluation_phase",
+    "pubDate": "2026-01-01T18:00:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amplify ＆ AgentCoreで維持費激安！ 王道フルスタックなAIエージェントを簡単構築しよう",
+    "link": "https://qiita.com/minorun365/items/11be2c3565923b96ab54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-01T17:09:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "新たな始まり：Vim/Neovimを再起動させるRestartコマンド",
+    "link": "https://zenn.dev/vim_jp/articles/2308d5e7db8bc7",
+    "pubDate": "Thu, 01 Jan 2026 15:02:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "重さ1kg,SSD2台搭載可能で10万円ちょいの高コスパモバイルノート　Mechrevo機械革命　星耀(XingYao)14 　AMD Ryzen AI 9H 365/メモリ32G/SSD1T(追加でも｜TAKASU Masakazu",
     "link": "https://note.com/takasu/n/nca9e6b98eac9",
     "pubDate": "2026-01-01T14:46:11.000Z"
   },
@@ -48,16 +66,16 @@
     "pubDate": "2026-01-01T09:19:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "田んぼ不要で年6回も収穫。ミニ＆スピーディなお米で稲作の歴史は変わるのか？",
-    "link": "https://www.gizmodo.jp/2026/01/rice-factory-0gi.html",
-    "pubDate": "2026-01-01T06:44:59.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した",
     "link": "https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-01T03:39:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026年版：JavaScript/TypeScriptのロギング入門",
+    "link": "https://zenn.dev/hongminhee/articles/e0d19ae2c4e042",
+    "pubDate": "Thu, 01 Jan 2026 02:51:10 GMT"
   },
   {
     "site": "Zenn",
@@ -90,6 +108,12 @@
     "pubDate": "Wed, 31 Dec 2025 14:56:05 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "小データの予測から意思決定へ：転職を機に研究仮説を総括する",
+    "link": "https://zenn.dev/akira_t/articles/from-prediction-to-decision",
+    "pubDate": "Wed, 31 Dec 2025 14:43:49 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "2025年、AIコーディングをガチって学んだこと10選｜makaneko",
     "link": "https://note.com/makaneko_ai/n/n606488728c4e",
@@ -120,28 +144,10 @@
     "pubDate": "Wed, 31 Dec 2025 10:02:25 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【予言】2026年は論理ゲート式ニューラルネットワークが爆発的に進化する",
-    "link": "https://zenn.dev/teba_eleven/articles/68955053ed75be",
-    "pubDate": "Wed, 31 Dec 2025 09:25:51 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "【AWS】ECSになぜecspressoが必要なのか？（導入手順付き）",
-    "link": "https://qiita.com/hiyanger/items/f630372a61a32be7f23b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-31T09:06:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rust における「変数」を本気で理解する",
-    "link": "https://zenn.dev/moooda_dev/articles/683b3ca9ba6c1e",
-    "pubDate": "Wed, 31 Dec 2025 06:47:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025 年、OSS を 3 つ出して「これはこれでええやん」まとめ",
-    "link": "https://zenn.dev/nyaomaru/articles/2025-summary-of-oss",
-    "pubDate": "Wed, 31 Dec 2025 06:08:05 GMT"
+    "title": "怒涛の24ユースケース紹介｜今話題のAgent Skillsを一挙に実践紹介",
+    "link": "https://qiita.com/masayan1126/items/168fb1f8550265cc42aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-31T06:36:40.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "個人開発の進捗報告が面倒なので、GitHub ActionsとAIで「勝手にデモ動画を作る」仕組みを構築した",
     "link": "https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-30T10:19:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2025年のAIエージェント開発の到達点はClaude Code on Bedrock AgentCoreかもしれない",
-    "link": "https://qiita.com/moritalous/items/bd4e1cdfadb80b04065a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-30T06:24:53.000Z"
   }
 ]
