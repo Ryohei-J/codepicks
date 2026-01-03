@@ -43,12 +43,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Geminiの「Gem」機能のTips集(2/3)：応用編（知識機能、ハルシネーション抑制、自己点検、引用マーカー排除）｜榎本大貴 / LITALICO研究所所長",
-    "link": "https://note.com/enomotod/n/n478915d143dd",
-    "pubDate": "2026-01-02T02:32:34.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "コマンドラインからさようなら！Claude Codeの視覚的なワークフロー編集器が人気：ノードをドラッグ＆ドロップするだけでAI自動化ツールを構築",
     "link": "https://news.aibase.com/ja/news/24128",
     "pubDate": "2026-01-02T01:18:58.000Z"
@@ -66,6 +60,12 @@
     "pubDate": "Thu, 01 Jan 2026 21:00:17 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Agent Skillsを業務プロダクトに導入してはいけない",
+    "link": "https://zenn.dev/ncdc/articles/206fbad44d1dba",
+    "pubDate": "Thu, 01 Jan 2026 18:04:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Amplify ＆ AgentCoreで維持費激安！ 王道フルスタックなAIエージェントを簡単構築しよう",
     "link": "https://qiita.com/minorun365/items/11be2c3565923b96ab54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -78,16 +78,16 @@
     "pubDate": "Thu, 01 Jan 2026 15:02:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Geminiの「Gem」機能のTips集(1/3)：基本編｜榎本大貴 / LITALICO研究所所長",
-    "link": "https://note.com/enomotod/n/na943723d9b20",
-    "pubDate": "2026-01-01T13:54:28.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Codeライトユーザー目線で、万人受けする便利設定を紹介",
     "link": "https://qiita.com/minorun365/items/3711c0de2e2558adb7c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-01T12:58:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アルバイト未経験エンジニア４３歳、タイミーさんになる①～タイミーアプリの正しい使い方～ - honeylab's blog",
+    "link": "https://honeylab.hatenablog.jp/entry/2026/01/01/135619",
+    "pubDate": "2026-01-01T07:07:40.000Z"
   },
   {
     "site": "Zenn",
@@ -120,22 +120,10 @@
     "pubDate": "Thu, 01 Jan 2026 02:06:53 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "今年の生成AIのテーマは「シミュレーション」である",
-    "link": "https://zenn.dev/tesla/articles/545165ed6334c7",
-    "pubDate": "Thu, 01 Jan 2026 01:38:55 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Windowsサーバの接続方法",
     "link": "https://qiita.com/infra365/items/7f15e9efe85982e28442?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-01T00:40:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "確率推論として解く最適制御: モデル予測経路積分制御(MPPI)の理論と導出",
-    "link": "https://zenn.dev/mizuhoaoki1998/articles/07107289f33450",
-    "pubDate": "Wed, 31 Dec 2025 22:45:28 GMT"
   },
   {
     "site": "Zenn",
@@ -154,6 +142,12 @@
     "title": "社会に出てわかった「ビジネスで強いのは、物理屋の思考法」",
     "link": "https://qiita.com/koropenko/items/09c1ae45f2bdf3e2d96b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-31T12:45:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェント時代、正直しんどい話",
+    "link": "https://zenn.dev/ryo369/articles/d02561ddaacc62",
+    "pubDate": "Wed, 31 Dec 2025 10:01:37 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "2025年12月時点の「ぼくがいまやっている最強の開発方法」",
     "link": "https://qiita.com/mokemokechicken/items/e63081de6a379905ecf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-31T02:22:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gemini の参照ファイルに NotebookLM を指定する - Tbpgr Blog",
+    "link": "https://tbpgr.hatenablog.com/entry/2025/12/20/025353",
+    "pubDate": "2025-12-20T04:23:47.000Z"
   }
 ]
