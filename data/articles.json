@@ -1,27 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "半導体業界は前例のない「ギガサイクル」に突入、AIの大規模な発展によりコンピューティング・メモリ・ネットワーク・ストレージの経済性が同時に高まる",
-    "link": "https://gigazine.net/news/20260102-giga-cycle/",
-    "pubDate": "2026-01-02T08:11:04.000Z"
+    "title": "NotebookLM をソースとした Gemini の Gem で問題定義サポーターというツールを作った - Tbpgr Blog",
+    "link": "https://tbpgr.hatenablog.com/entry/2026/01/02/151033",
+    "pubDate": "2026-01-02T15:05:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "新人エンジニアのための今度こそ理解するSSL/TLS超入門",
+    "link": "https://zenn.dev/collabostyle/articles/ec7604c7468b84",
+    "pubDate": "2026-01-02T13:34:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIっぽくない実写風画像を作れる画像生成AI「Qwen-Image-2512」が登場、無料で使えて日本語での指示も可能",
+    "link": "https://gigazine.net/news/20260102-qwen-image-2512/",
+    "pubDate": "2026-01-02T12:31:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ロボットが女性である必然性ってある？　とは思ってる。 コメントには男性..",
+    "link": "https://anond.hatelabo.jp/20260102211010",
+    "pubDate": "2026-01-02T12:11:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "新人エンジニアのための今度こそ理解するSSL/TLS超入門",
+    "link": "https://zenn.dev/collabostyle/articles/ec7604c7468b84",
+    "pubDate": "Fri, 02 Jan 2026 10:38:57 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AI駆動PM」と「SDD（仕様駆動開発）」で要件定義書・設計書の精度を劇的に向上させる方法｜MAKE A CHANGE, inc",
+    "link": "https://note.com/make_a_change/n/ncd3791d6a01d",
+    "pubDate": "2026-01-02T09:32:06.000Z"
   },
   {
     "site": "Hatena",
     "title": "2026 年に押さえておきたい AI トレンド 38 選 - izanami",
     "link": "https://izanami.dev/post/3f1f4ef3-2246-4b7a-b911-26b1b8980899",
     "pubDate": "2026-01-02T06:57:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026年版：JavaScript/TypeScriptのロギング入門",
-    "link": "https://zenn.dev/hongminhee/articles/e0d19ae2c4e042",
-    "pubDate": "2026-01-02T06:41:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "セキュリティエンジニアにおすすめの本 1選 - サーバーワークスエンジニアブログ",
-    "link": "https://blog.serverworks.co.jp/recommended-book-for-security-engineers-2026",
-    "pubDate": "2026-01-02T03:01:08.000Z"
   },
   {
     "site": "Hatena",
@@ -31,9 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AIボットだけのSNSを作ってみたら…彼らはすぐに派閥を形成し、極端な意見を増幅させ、少数のエリート層が支配するようになった | Business Insider Japan",
-    "link": "https://www.businessinsider.jp/article/researchers-ai-bots-social-media-network-experiment-toxic-a/",
-    "pubDate": "2026-01-02T01:06:56.000Z"
+    "title": "コマンドラインからさようなら！Claude Codeの視覚的なワークフロー編集器が人気：ノードをドラッグ＆ドロップするだけでAI自動化ツールを構築",
+    "link": "https://news.aibase.com/ja/news/24128",
+    "pubDate": "2026-01-02T01:18:58.000Z"
   },
   {
     "site": "Zenn",
@@ -42,10 +60,10 @@
     "pubDate": "2026-01-02T01:05:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AGIは来ない、バブルは続かない──スタンフォード大 HAI研究所が示す2026年のAI、過剰期待の時代は終わり、評価フェーズへ | Ledge.ai",
-    "link": "https://ledge.ai/articles/stanford_hai_ai_2026_evaluation_phase",
-    "pubDate": "2026-01-01T18:00:52.000Z"
+    "site": "Zenn",
+    "title": "【Next.js】「動けば正義」から卒業する。個人開発で設定すべきセキュリティヘッダー7選とその効果",
+    "link": "https://zenn.dev/famaryllis/articles/e8193ebe5057c7",
+    "pubDate": "Thu, 01 Jan 2026 21:00:17 GMT"
   },
   {
     "site": "Qiita",
@@ -72,6 +90,12 @@
     "pubDate": "2026-01-01T12:58:11.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "2026元日、Playwright MCPに触れて気づいた、LLM時代のブラウザ自動化の新しいパラダイム",
+    "link": "https://zenn.dev/nossa/articles/8d90efd840934f",
+    "pubDate": "Thu, 01 Jan 2026 05:36:30 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した",
     "link": "https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -84,10 +108,28 @@
     "pubDate": "Thu, 01 Jan 2026 02:51:10 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "AWS製AI統合・仕様駆動型IDE「Kiro」.kiro作成ベストプラクティス",
+    "link": "https://qiita.com/tatsuoNakano/items/17e702f0fd1407882ad8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-01T02:44:01.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "動画編集ソフトを作ってみた！【React】【Rust】",
     "link": "https://zenn.dev/bea4dev/articles/0726392004a890",
     "pubDate": "Thu, 01 Jan 2026 02:06:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "今年の生成AIのテーマは「シミュレーション」である",
+    "link": "https://zenn.dev/tesla/articles/545165ed6334c7",
+    "pubDate": "Thu, 01 Jan 2026 01:38:55 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Windowsサーバの接続方法",
+    "link": "https://qiita.com/infra365/items/7f15e9efe85982e28442?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-01T00:40:21.000Z"
   },
   {
     "site": "Zenn",
@@ -108,40 +150,10 @@
     "pubDate": "Wed, 31 Dec 2025 14:56:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "小データの予測から意思決定へ：転職を機に研究仮説を総括する",
-    "link": "https://zenn.dev/akira_t/articles/from-prediction-to-decision",
-    "pubDate": "Wed, 31 Dec 2025 14:43:49 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "2025年、AIコーディングをガチって学んだこと10選｜makaneko",
-    "link": "https://note.com/makaneko_ai/n/n606488728c4e",
-    "pubDate": "2025-12-31T13:16:36.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "社会に出てわかった「ビジネスで強いのは、物理屋の思考法」",
     "link": "https://qiita.com/koropenko/items/09c1ae45f2bdf3e2d96b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-31T12:45:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025 年振り返り",
-    "link": "https://zenn.dev/shunsuke_suzuki/articles/look-back-on-2025",
-    "pubDate": "Wed, 31 Dec 2025 12:23:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025年の振り返りと2026年の抱負",
-    "link": "https://zenn.dev/magurotuna/articles/2025-review-and-2026-goals",
-    "pubDate": "Wed, 31 Dec 2025 12:03:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025年総括記事：Microsoft 365 Copilot推進担当者よ、Agentに踊らされるな",
-    "link": "https://zenn.dev/kasada/articles/e1509a71272f62",
-    "pubDate": "Wed, 31 Dec 2025 10:02:25 GMT"
   },
   {
     "site": "Qiita",
@@ -157,26 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "Gitのpush制限に引っかかった話",
+    "link": "https://qiita.com/motitt/items/9c03d6f881977dadf531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2025-12-31T02:23:39.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "2025年12月時点の「ぼくがいまやっている最強の開発方法」",
     "link": "https://qiita.com/mokemokechicken/items/e63081de6a379905ecf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2025-12-31T02:22:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Java】大量リクエスト処理をするために必要な技術",
-    "link": "https://qiita.com/SKY-HaYaTo/items/49fc74c0b99d4a911d36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-30T13:22:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeを実務で3ヶ月使って痛感した5つの教訓",
-    "link": "https://qiita.com/riiiii/items/b642f039c30d4e9c1bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-30T13:09:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発の進捗報告が面倒なので、GitHub ActionsとAIで「勝手にデモ動画を作る」仕組みを構築した",
-    "link": "https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-30T10:19:45.000Z"
   }
 ]
