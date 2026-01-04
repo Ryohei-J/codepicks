@@ -1,9 +1,81 @@
 [
   {
+    "site": "Qiita",
+    "title": "IT業界に蔓延する『ナンニデモPM』 それ、本当にプロジェクトマネジメント？",
+    "link": "https://qiita.com/katohiro_fi/items/b91a11cbcdd0e4967b8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-03T13:16:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "横断的に理解する PostgreSQL の 内部データ構造: MVCC・トランザクション分離・インデックス",
+    "link": "https://zenn.dev/calloc134/articles/postgres-internal-mvcc-index",
+    "pubDate": "2026-01-03T12:53:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "jotaiによるReact再入門",
+    "link": "https://zenn.dev/uhyo/books/learn-react-with-jotai",
+    "pubDate": "2026-01-03T12:47:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "検証用の Azure VM に Public IP はいらなくなったっぽい",
+    "link": "https://zenn.dev/skmkzyk/articles/public-ip-is-no-longer-needed",
+    "pubDate": "Sat, 03 Jan 2026 10:50:06 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Figma MCP でデザインシステムを提供して AI コーディングエージェントに一貫したフロントエンドコードを書かせる",
+    "link": "https://azukiazusa.dev/blog/using-figma-mcp-to-provide-design-system-for-ai-coding-agents/",
+    "pubDate": "2026-01-03T10:07:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIキャラ同士で会話したら自分にないアイデアが生まれるのでは？",
+    "link": "https://zenn.dev/yuki_koike0626/articles/dev-character-discussion",
+    "pubDate": "Sat, 03 Jan 2026 09:48:02 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "X「Grok」によるディープフェイク大量生成の衝撃：未成年被害とAI安全神話の崩壊 | XenoSpectrum",
+    "link": "https://xenospectrum.com/grok-ai-nonconsensual-image-scandal-minors-safety-crisis/",
+    "pubDate": "2026-01-03T09:09:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeのSkillsを確実に発動させる方法を色々試してみた",
+    "link": "https://zenn.dev/ka888aa/articles/b7fcb48a3b3fa9",
+    "pubDate": "Sat, 03 Jan 2026 08:59:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "横断的に理解する PostgreSQL の 内部データ構造: MVCC・トランザクション分離・インデックス",
+    "link": "https://zenn.dev/calloc134/articles/postgres-internal-mvcc-index",
+    "pubDate": "Sat, 03 Jan 2026 08:20:39 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Ｘの生成ＡＩでビキニ姿に、女性や未成年の性的画像が新年に急増",
+    "link": "https://jp.reuters.com/business/technology/WMWMQIEIH5KLTEM6BYHRIDZEZY-2026-01-03/",
+    "pubDate": "2026-01-03T05:58:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code 開発者自身の活用法をまとめてみた",
+    "link": "https://zenn.dev/akino/articles/62e25d7c1b37d6",
+    "pubDate": "Sat, 03 Jan 2026 05:47:22 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "Reactを根本から理解する：Hooksの仕組みを実装して学ぶ",
     "link": "https://zenn.dev/fitness_densuke/articles/2026-01-01-react-hooks-fundamental",
     "pubDate": "2026-01-03T05:38:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "動くMermaid：矢印アニメーションで通信を表現する",
+    "link": "https://qiita.com/sakaimaging/items/3eab3b2d1c116ced79a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-03T04:24:45.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +84,22 @@
     "pubDate": "2026-01-03T04:15:33.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Agent Skillsを業務プロダクトに導入してはいけない",
-    "link": "https://zenn.dev/ncdc/articles/206fbad44d1dba",
-    "pubDate": "2026-01-03T04:02:10.000Z"
+    "site": "Qiita",
+    "title": "データサイエンティスト1年目の学び(2025年)",
+    "link": "https://qiita.com/tarantula426/items/193f9df4db110f1bb817?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-03T03:22:55.000Z"
   },
   {
     "site": "Zenn",
-    "title": "2026元日、Playwright MCPに触れて気づいた、LLM時代のブラウザ自動化の新しいパラダイム",
-    "link": "https://zenn.dev/nossa/articles/8d90efd840934f",
-    "pubDate": "2026-01-03T01:07:58.000Z"
+    "title": "Vue Vineで 1 ファイルに複数コンポーネント",
+    "link": "https://zenn.dev/comm_vue_nuxt/articles/intro-vue-vine",
+    "pubDate": "Sat, 03 Jan 2026 03:00:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "賀正🎍「Gemini」×「NotebookLM」で出来るDX（業務フロー改善）｜吉川 聡史 | AI＆UX",
+    "link": "https://note.com/aiux_unite/n/n24dc19c0ff2d",
+    "pubDate": "2026-01-02T23:36:17.000Z"
   },
   {
     "site": "Zenn",
@@ -30,28 +108,10 @@
     "pubDate": "Fri, 02 Jan 2026 22:53:45 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AI エージェントとの対話を止めないモバイル環境を構築する",
-    "link": "https://qiita.com/icoxfog417/items/247ab6dbe90b124589f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-02T15:00:08.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "開発環境 2025-2026",
     "link": "https://zenn.dev/kazshu/articles/8df3440915af65",
     "pubDate": "Fri, 02 Jan 2026 12:12:53 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ロボットが女性である必然性ってある？　とは思ってる。 コメントには男性..",
-    "link": "https://anond.hatelabo.jp/20260102211010",
-    "pubDate": "2026-01-02T12:11:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ロボットに乳房つけて男性は喜ぶのか",
-    "link": "https://anond.hatelabo.jp/20260102201119",
-    "pubDate": "2026-01-02T11:15:31.000Z"
   },
   {
     "site": "Zenn",
@@ -60,34 +120,22 @@
     "pubDate": "Fri, 02 Jan 2026 10:38:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "統計検定1級取得後に読んだ 数理統計・データサイエンスのおすすめ書籍ガイド - jiku log",
-    "link": "https://stern-bow.hatenablog.com/entry/2026/01/02/120000",
-    "pubDate": "2026-01-02T08:17:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "PythonでGPU計算やってみた話 ― 沼にハマった記録",
-    "link": "https://zenn.dev/ryo369/articles/2d1d24d7d24c16",
-    "pubDate": "Thu, 01 Jan 2026 23:00:05 GMT"
+    "site": "Qiita",
+    "title": "Git Worktreeを快適にするCLIツール「vibe」を作りました",
+    "link": "https://qiita.com/kexi/items/65e6786bd9519698c401?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-02T07:21:20.000Z"
   },
   {
     "site": "Qiita",
-    "title": "ばねに繋がれた2物体の運動について(連成振動)",
-    "link": "https://qiita.com/arairuca/items/3268497289a2df6c5977?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-01T21:06:44.000Z"
+    "title": "Pythonの列挙型で驚いた話",
+    "link": "https://qiita.com/MinadukiSekina/items/f37762784bb02ff659ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-02T04:24:26.000Z"
   },
   {
     "site": "Zenn",
-    "title": "【Next.js】「動けば正義」から卒業する。個人開発で設定すべきセキュリティヘッダー7選とその効果",
-    "link": "https://zenn.dev/famaryllis/articles/e8193ebe5057c7",
-    "pubDate": "Thu, 01 Jan 2026 21:00:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent Skillsを業務プロダクトに導入してはいけない",
-    "link": "https://zenn.dev/ncdc/articles/206fbad44d1dba",
-    "pubDate": "Thu, 01 Jan 2026 18:04:05 GMT"
+    "title": "RAGの精度は検索戦略で決まる｜ハイブリッド検索が効く理由を検証する",
+    "link": "https://zenn.dev/startspace/articles/3f8775d70e2c9f",
+    "pubDate": "Fri, 02 Jan 2026 02:42:26 GMT"
   },
   {
     "site": "Qiita",
@@ -96,16 +144,10 @@
     "pubDate": "2026-01-01T17:09:34.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Flutterエンジニアが Python × FastAPI × AIに挑戦してみた",
-    "link": "https://zenn.dev/tukiyubi/articles/622d76b2bb9cb6",
-    "pubDate": "Thu, 01 Jan 2026 15:14:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "新たな始まり：Vim/Neovimを再起動させるRestartコマンド",
-    "link": "https://zenn.dev/vim_jp/articles/2308d5e7db8bc7",
-    "pubDate": "Thu, 01 Jan 2026 15:02:01 GMT"
+    "site": "Qiita",
+    "title": "書籍管理によさげなもの(Libib)",
+    "link": "https://qiita.com/SerizawaK/items/5e311467b616dcd99bfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-01T14:58:01.000Z"
   },
   {
     "site": "Qiita",
@@ -114,22 +156,10 @@
     "pubDate": "2026-01-01T12:58:11.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Goで作る 実践Headless Workflow Engine",
-    "link": "https://zenn.dev/sbk0716/books/e97b8e3f422632",
-    "pubDate": "Thu, 01 Jan 2026 08:20:58 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "アルバイト未経験エンジニア４３歳、タイミーさんになる①～タイミーアプリの正しい使い方～ - honeylab's blog",
     "link": "https://honeylab.hatenablog.jp/entry/2026/01/01/135619",
     "pubDate": "2026-01-01T07:07:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026元日、Playwright MCPに触れて気づいた、LLM時代のブラウザ自動化の新しいパラダイム",
-    "link": "https://zenn.dev/nossa/articles/8d90efd840934f",
-    "pubDate": "Thu, 01 Jan 2026 05:36:30 GMT"
   },
   {
     "site": "Qiita",
@@ -145,38 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Windowsサーバの接続方法",
-    "link": "https://qiita.com/infra365/items/7f15e9efe85982e28442?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-01T00:40:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "線形代数は「空間」と「分解」",
-    "link": "https://qiita.com/qwer123123/items/311de35d6a20791f84c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-31T17:36:28.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "2026年 ITエンジニア生き残り戦略 - Qiita",
     "link": "https://qiita.com/op_yamaguchi/items/00790c15556f26c6e549",
     "pubDate": "2025-12-31T15:04:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2026年 ITエンジニア生き残り戦略",
-    "link": "https://qiita.com/op_yamaguchi/items/00790c15556f26c6e549?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-31T15:00:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "社会に出てわかった「ビジネスで強いのは、物理屋の思考法」",
-    "link": "https://qiita.com/koropenko/items/09c1ae45f2bdf3e2d96b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2025-12-31T12:45:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemini の参照ファイルに NotebookLM を指定する - Tbpgr Blog",
-    "link": "https://tbpgr.hatenablog.com/entry/2025/12/20/025353",
-    "pubDate": "2025-12-20T04:23:47.000Z"
   }
 ]
