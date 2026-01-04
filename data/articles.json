@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "歴史上で「この人がいなかったらかなりまずかった」っていう人を募集しても良いですか→「フリッツ・ハーバー&カール・ボッシュ」「徳川家康」など、様々な人物が集まる",
+    "link": "https://togetter.com/li/2647415",
+    "pubDate": "2026-01-04T04:56:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "さらば秀才、鍛えろカラダ　AI時代備え月10万円保育園に殺到 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUA060A00W5A201C2000000/",
     "pubDate": "2026-01-04T02:37:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【狂気の実証実験2】GPTsに電気ショック権限を付与してみた",
+    "link": "https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-04T02:10:54.000Z"
   },
   {
     "site": "Hatena",
@@ -13,21 +25,15 @@
   },
   {
     "site": "Hatena",
-    "title": "“ローン・オフェンダー”対策 警察庁 AI活用しSNS投稿分析へ | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015018271000",
-    "pubDate": "2026-01-03T23:36:45.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【2026年最新版】Claude Code 完全入門ガイド｜創業者直伝のノウハウ、おすすめSkills・SubAgnets、SaaSの未来、月額400円活用術まで2.7万文字で詳細解説。｜チャエン | 重要AIニュースを毎日発信⚡️",
     "link": "https://note.com/chaen_channel/n/n170fbfcd94bf",
     "pubDate": "2026-01-03T22:06:09.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude Code の ENABLE_TOOL_SEARCH=1 の挙動を理解する 2026/01",
-    "link": "https://zenn.dev/him0/articles/8b6c82e592e30b",
-    "pubDate": "Sat, 03 Jan 2026 19:34:07 GMT"
+    "title": "Claude Code の6つの拡張機能、結局どう使い分ければいいの？",
+    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_extension_guide",
+    "pubDate": "Sat, 03 Jan 2026 16:33:38 GMT"
   },
   {
     "site": "Hatena",
@@ -84,6 +90,18 @@
     "pubDate": "Sat, 03 Jan 2026 08:20:39 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "RAGについて勉強した結果をまとめてみた",
+    "link": "https://qiita.com/nAotO01_03/items/cfc2013f38ca95578652?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-03T07:59:31.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "言語仕様ボリュームだけで見るC++の進化",
+    "link": "https://qiita.com/yohhoy/items/71d6db6f9d4349a7c63f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-03T06:32:10.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Ｘの生成ＡＩでビキニ姿に、女性や未成年の性的画像が新年に急増",
     "link": "https://jp.reuters.com/business/technology/WMWMQIEIH5KLTEM6BYHRIDZEZY-2026-01-03/",
@@ -94,12 +112,6 @@
     "title": "Claude Code 開発者自身の活用法をまとめてみた",
     "link": "https://zenn.dev/akino/articles/62e25d7c1b37d6",
     "pubDate": "Sat, 03 Jan 2026 05:47:22 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "動くMermaid：矢印アニメーションで通信を表現する",
-    "link": "https://qiita.com/sakaimaging/items/3eab3b2d1c116ced79a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-03T04:24:45.000Z"
   },
   {
     "site": "Qiita",
@@ -114,6 +126,12 @@
     "pubDate": "Sat, 03 Jan 2026 03:00:01 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "2026年AIコードレビューの旅 ～そしてボトルネックは要件定義へ…",
+    "link": "https://zenn.dev/manimoto/articles/1c3b1379cc5ef0",
+    "pubDate": "Sat, 03 Jan 2026 02:07:17 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "賀正🎍「Gemini」×「NotebookLM」で出来るDX（業務フロー改善）｜吉川 聡史 | AI＆UX",
     "link": "https://note.com/aiux_unite/n/n24dc19c0ff2d",
@@ -126,22 +144,16 @@
     "pubDate": "Fri, 02 Jan 2026 22:53:45 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "今だからこそ、Dart FFIはいいぞ",
-    "link": "https://zenn.dev/kikuchy/articles/9a5bcd142c38fe",
-    "pubDate": "Fri, 02 Jan 2026 19:07:05 GMT"
+    "site": "Qiita",
+    "title": "データで学ぶ データサイエンス数学",
+    "link": "https://qiita.com/qwer123123/items/853e0a4fcbabec6861b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-02T12:20:17.000Z"
   },
   {
     "site": "Qiita",
     "title": "Git Worktreeを快適にするCLIツール「vibe」を作りました",
     "link": "https://qiita.com/kexi/items/65e6786bd9519698c401?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-02T07:21:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Pythonの列挙型で驚いた話",
-    "link": "https://qiita.com/MinadukiSekina/items/f37762784bb02ff659ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-02T04:24:26.000Z"
   },
   {
     "site": "Zenn",
@@ -166,17 +178,5 @@
     "title": "Claude Codeライトユーザー目線で、万人受けする便利設定を紹介",
     "link": "https://qiita.com/minorun365/items/3711c0de2e2558adb7c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-01T12:58:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した",
-    "link": "https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-01T03:39:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS製AI統合・仕様駆動型IDE「Kiro」.kiro作成ベストプラクティス",
-    "link": "https://qiita.com/tatsuoNakano/items/17e702f0fd1407882ad8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-01T02:44:01.000Z"
   }
 ]
