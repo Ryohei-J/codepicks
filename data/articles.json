@@ -1,21 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "キャラクターの芯を掘り下げるためのLLM向けプロンプト - ぽなのおにくせいかつ🍖",
-    "link": "https://meatlog.de10.moe/entry/character_creator_prompt",
-    "pubDate": "2026-01-04T10:55:56.000Z"
+    "title": "情報処理技術者試験の大幅刷新案、応用・高度試験を再編　2027年度から",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11378/",
+    "pubDate": "2026-01-04T22:28:00.000Z"
   },
   {
     "site": "Hatena",
-    "title": "やっぱり古のネット民は正しかったんや…ネットに自分の写真上げたら何されるか分からんから絶対に姿を晒したらいかんのや",
-    "link": "https://togetter.com/li/2647539",
-    "pubDate": "2026-01-04T07:50:30.000Z"
+    "title": "PublickeyのIT業界予想2026。メモリ高騰による消極的なクラウド選択、AIエージェントを前提とした開発方法論、Rust採用の広がりなど",
+    "link": "https://www.publickey1.jp/blog/26/publickeyit2026airust.html",
+    "pubDate": "2026-01-04T21:57:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ベネズエラ関連でAIによる動画とか画像が当然のごとく拡散していたりした - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2026/01/05/020000",
+    "pubDate": "2026-01-04T17:08:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMは「同じ質問を2回」入力すると精度が上がる──Google研究者ら、プロンプト反復の効果を短報で報告 | Ledge.ai",
+    "link": "https://ledge.ai/articles/prompt_repetition_improves_llm_accuracy",
+    "pubDate": "2026-01-04T13:01:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ブラウザのレイアウトエンジンを自作してみた",
+    "link": "https://zenn.dev/mizchi/articles/build-my-own-layout-engine",
+    "pubDate": "Sun, 04 Jan 2026 11:44:28 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「インデックス投資では億り人になれない」――年収600万円以下から“超富裕層一歩手前”まで登りつめた、元アパレル社員の5つの投資哲学 | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2601-index-investing-cannot-make-you-a-millionaire/",
+    "pubDate": "2026-01-04T10:56:42.000Z"
   },
   {
     "site": "Hatena",
     "title": "歴史上で「この人がいなかったらかなりまずかった」っていう人を募集しても良いですか→「フリッツ・ハーバー&カール・ボッシュ」「徳川家康」など、様々な人物が集まる",
     "link": "https://togetter.com/li/2647415",
     "pubDate": "2026-01-04T04:56:26.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "IT業界に蔓延する『ナンニデモPM』 それ、本当にプロジェクトマネジメント？ - Qiita",
+    "link": "https://qiita.com/katohiro_fi/items/b91a11cbcdd0e4967b8c",
+    "pubDate": "2026-01-04T04:33:40.000Z"
   },
   {
     "site": "Hatena",
@@ -31,15 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "江戸時代の「Google マップ」？　「れきちず」が全国に対応【4月18日追記】【再掲】【今すぐ読みたい！人気記事】",
-    "link": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/2074289.html",
-    "pubDate": "2026-01-04T01:25:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【2026年最新版】Claude Code 完全入門ガイド｜創業者直伝のノウハウ、おすすめSkills・SubAgnets、SaaSの未来、月額400円活用術まで2.7万文字で詳細解説。｜チャエン | 重要AIニュースを毎日発信⚡️",
-    "link": "https://note.com/chaen_channel/n/n170fbfcd94bf",
-    "pubDate": "2026-01-03T22:06:09.000Z"
+    "title": "Apple、単一画像から高品質な3DGSを生成する技術「SHARP」公開！ 一般的GPU環境で高速3Dシーン構築可能",
+    "link": "https://cgworld.jp/flashnews/01-202601-SHARP.html",
+    "pubDate": "2026-01-04T00:25:54.000Z"
   },
   {
     "site": "Zenn",
@@ -48,10 +72,10 @@
     "pubDate": "Sat, 03 Jan 2026 16:33:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "元セキュリティエンジニアがおすすめする本格ハッキングゲーム「Grey Hack」。コマンドを駆使してターゲットに侵入せよ！ リアルなサイバー攻撃を疑似体験【年始特集】",
-    "link": "https://game.watch.impress.co.jp/docs/kikaku/2074364.html",
-    "pubDate": "2026-01-03T16:12:39.000Z"
+    "site": "Zenn",
+    "title": "Rustにおける「所有権」を フロントエンドエンジニアが本気で理解する",
+    "link": "https://zenn.dev/moooda_dev/articles/0841f0cbdbe5db",
+    "pubDate": "Sat, 03 Jan 2026 14:23:17 GMT"
   },
   {
     "site": "Zenn",
@@ -73,15 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "検証用の Azure VM に Public IP はいらなくなったっぽい",
-    "link": "https://zenn.dev/skmkzyk/articles/public-ip-is-no-longer-needed",
-    "pubDate": "Sat, 03 Jan 2026 10:50:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIキャラ同士で会話したら自分にないアイデアが生まれるのでは？",
-    "link": "https://zenn.dev/yuki_koike0626/articles/dev-character-discussion",
-    "pubDate": "Sat, 03 Jan 2026 09:48:02 GMT"
+    "title": "Numbaって何者やねん ― PythonをCUDAに変える魔法",
+    "link": "https://zenn.dev/ryo369/articles/d58d2e68a69d28",
+    "pubDate": "Sat, 03 Jan 2026 09:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -121,27 +139,33 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeの開発者によるClaude Code活用術がめちゃくちゃ有用そう",
+    "link": "https://zenn.dev/explaza/articles/a387d2bf1cb448",
+    "pubDate": "Sat, 03 Jan 2026 03:12:41 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Vue Vineで 1 ファイルに複数コンポーネント",
     "link": "https://zenn.dev/comm_vue_nuxt/articles/intro-vue-vine",
     "pubDate": "Sat, 03 Jan 2026 03:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "2026年AIコードレビューの旅 ～そしてボトルネックは要件定義へ…",
-    "link": "https://zenn.dev/manimoto/articles/1c3b1379cc5ef0",
-    "pubDate": "Sat, 03 Jan 2026 02:07:17 GMT"
+    "site": "Qiita",
+    "title": "自動化の[正解]は技術じゃなかった。 業務効率化をやってきて分かった現場のリアル",
+    "link": "https://qiita.com/mamineko/items/ba93b20f744dc40c6690?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-03T01:47:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "賀正🎍「Gemini」×「NotebookLM」で出来るDX（業務フロー改善）｜吉川 聡史 | AI＆UX",
-    "link": "https://note.com/aiux_unite/n/n24dc19c0ff2d",
-    "pubDate": "2026-01-02T23:36:17.000Z"
+    "site": "Qiita",
+    "title": "多様体論の全体像",
+    "link": "https://qiita.com/KimuraSoh/items/3bd028c640d5f4ef0c23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-03T00:15:39.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ずっと欲しかったPDFリーダーを個人開発している話",
-    "link": "https://zenn.dev/togatoga/articles/e1e1e316491003",
-    "pubDate": "Fri, 02 Jan 2026 22:53:45 GMT"
+    "site": "Qiita",
+    "title": "AntiGravityが最高すぎてGoogle AI Pro/Ultraを契約しようとしたらできなかった話",
+    "link": "https://qiita.com/Blacpans/items/097ce184d4b95ff6a474?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-02T15:19:10.000Z"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "Git Worktreeを快適にするCLIツール「vibe」を作りました",
     "link": "https://qiita.com/kexi/items/65e6786bd9519698c401?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-02T07:21:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025年、これが良かったClaude Code開発テクニック",
-    "link": "https://zenn.dev/mzmt/articles/my-ai-coding-2025",
-    "pubDate": "2026-01-02T01:25:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amplify ＆ AgentCoreで維持費激安！ 王道フルスタックなAIエージェントを簡単構築しよう",
-    "link": "https://qiita.com/minorun365/items/11be2c3565923b96ab54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-01T17:09:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "書籍管理によさげなもの(Libib)",
-    "link": "https://qiita.com/SerizawaK/items/5e311467b616dcd99bfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-01T14:58:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeライトユーザー目線で、万人受けする便利設定を紹介",
-    "link": "https://qiita.com/minorun365/items/3711c0de2e2558adb7c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-01T12:58:11.000Z"
   }
 ]
