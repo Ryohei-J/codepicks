@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "チームみらい安野党首、正しい株式保有数は3250株（約1億3500万円）　資産巡る報道受け訂正",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/06/news093.html",
+    "pubDate": "2026-01-06T06:00:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "年賀状、まだ続けてる？　元日の配達物「前年比26％減」の衝撃　日本郵便“AI年賀状”作戦も不発か",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/06/news086.html",
+    "pubDate": "2026-01-06T05:03:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "生成AI「Grok」の悪用を断罪へ　Xが厳格な新指針、法執行機関などと連携",
     "link": "https://www.itmedia.co.jp/mobile/articles/2601/06/news083.html",
     "pubDate": "2026-01-06T04:08:37.000Z"
@@ -54,16 +66,16 @@
     "pubDate": "2026-01-05T17:22:43.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "拝啓、出社できなかった日の俺へ。──人生が止まったその日から、俺の挑戦が始まった。",
+    "link": "https://qiita.com/Keita-0025/items/c0fb3bed10f49b0ed523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-05T14:35:30.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "part2:「R7年度国・地方ネットワークの将来像の実現に向けた検証事業」から読み解く～僕らの生存戦略～",
     "link": "https://zenn.dev/8chikuwa3/articles/80ba1c179b9ec1",
     "pubDate": "Mon, 05 Jan 2026 13:13:46 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Databases in 2025: A Year in Review",
-    "link": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-    "pubDate": "2026-01-05T12:27:56.000Z"
   },
   {
     "site": "Zenn",
@@ -72,10 +84,22 @@
     "pubDate": "Mon, 05 Jan 2026 11:16:30 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "NotebookLM×Gemini【Gem】でデザイン性のある編集可能スライドを作る！｜尾辻和孝",
-    "link": "https://note.com/kazu_note_1987/n/n40b80ba85ace",
-    "pubDate": "2026-01-05T08:20:36.000Z"
+    "site": "Qiita",
+    "title": "設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記",
+    "link": "https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-05T09:54:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "aws loginのクレデンシャルが15分で切れる問題を解決した話",
+    "link": "https://qiita.com/_YukiOgawa/items/ee0f494dbd8bce009178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-05T07:35:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "H3ロケットの失敗から学ぶ、前提を疑う設計 ",
+    "link": "https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-05T06:37:07.000Z"
   },
   {
     "site": "Zenn",
@@ -120,6 +144,12 @@
     "pubDate": "2026-01-04T12:27:39.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント",
+    "link": "https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-04T12:27:36.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "ブラウザのレイアウトエンジンを自作してみた",
     "link": "https://zenn.dev/mizchi/articles/build-my-own-layout-engine",
@@ -139,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "プログラミング言語の選び方：完全ガイド2025年版",
-    "link": "https://qiita.com/AInsights/items/a719fea09a14b7fc72c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-03T20:20:28.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "IT業界に蔓延する『ナンニデモPM』 それ、本当にプロジェクトマネジメント？",
     "link": "https://qiita.com/katohiro_fi/items/b91a11cbcdd0e4967b8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-03T13:16:38.000Z"
@@ -154,29 +178,5 @@
     "title": "Windows を USB で持ち運ぶ：Hyper‑V + WinPE を使った VHDX ブート手法",
     "link": "https://qiita.com/carol0226/items/e5789268d7ba860b4ca4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-03T11:57:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "RAGについて勉強した結果をまとめてみた",
-    "link": "https://qiita.com/nAotO01_03/items/cfc2013f38ca95578652?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-03T07:59:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "動くMermaid：矢印アニメーションで通信を表現する",
-    "link": "https://qiita.com/sakaimaging/items/3eab3b2d1c116ced79a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-03T04:24:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "データサイエンティスト1年目の学び(2025年)",
-    "link": "https://qiita.com/tarantula426/items/193f9df4db110f1bb817?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-03T03:22:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "自動化の[正解]は技術じゃなかった。 業務効率化をやってきて分かった現場のリアル",
-    "link": "https://qiita.com/mamineko/items/ba93b20f744dc40c6690?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-03T01:47:02.000Z"
   }
 ]
