@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "会社の登記変更書類をChatGPTにお願いして作ってもらって楽だなぁと思っていたが、提出したら法務局から「何もかも違うので作り直してください」と怒られた",
+    "link": "https://togetter.com/li/2648757",
+    "pubDate": "2026-01-07T05:42:23.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI時代に今からITエンジニアを目指す若者にオススメする10冊の本 2026年版 - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2026/01/07/103853",
     "pubDate": "2026-01-07T03:17:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "岩波新書と岩波文庫(Kindle Unlimited)のおすすめ - 山下泰平の趣味の方法",
+    "link": "https://cocolog-nifty.hatenablog.com/entry/2026/01/07/120347",
+    "pubDate": "2026-01-07T03:16:34.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "インターネットは軍事目的で始まった？歴史をざっくりと学ぶ",
+    "link": "https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-07T02:35:04.000Z"
   },
   {
     "site": "Hatena",
@@ -16,6 +34,18 @@
     "title": "AI生成作品が小説大賞を獲得→書籍化中止　本人「後出し規約変更」で撤回と説明、運営の意図は | オタク総研",
     "link": "https://0115765.com/archives/165655",
     "pubDate": "2026-01-07T01:06:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS re:Invent 2025レポート】GameDayだけじゃない。Gamified learningのススメ",
+    "link": "https://qiita.com/melksg/items/a87bb46496901fc3d2a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-07T00:53:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Select AI】クエリできすぎくんを使ってSelect AIを検証してみた（Part 1）",
+    "link": "https://qiita.com/marfujim/items/e5d0e562b85c3f6b5f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-07T00:15:39.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +78,52 @@
     "pubDate": "Tue, 06 Jan 2026 22:00:01 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた",
+    "link": "https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-06T16:53:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MicrosoftはなぜBinaryFormatterを排除したのか",
+    "link": "https://zenn.dev/litharge/articles/16862a6d6884b8",
+    "pubDate": "Tue, 06 Jan 2026 15:18:14 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "外部依存ゼロのVim/Neovimでもプラグインを使える。本体に同梱されてるから。",
     "link": "https://zenn.dev/vim_jp/articles/e2620b502913f4",
     "pubDate": "Tue, 06 Jan 2026 15:03:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【独自】原子力規制庁スマホ、中国で紛失　非公表の職員名など漏えい可能性 | NEWSjp",
-    "link": "https://news.jp/i/1381241501801054216",
-    "pubDate": "2026-01-06T12:15:44.000Z"
+    "site": "Zenn",
+    "title": "続・Claude Code公式Pluginのすすめ+α",
+    "link": "https://zenn.dev/modokkin/articles/zenn-2026-01-06-claude-code-plugins-update",
+    "pubDate": "Tue, 06 Jan 2026 14:31:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "RailsのパーシャルとViewComponent、どう使い分ける？ 「FES READY」の実例で整理してみた",
+    "link": "https://qiita.com/hinanata72/items/1a4e9cef5c452cb00f2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-06T13:03:49.000Z"
   },
   {
     "site": "Zenn",
     "title": "ノードエディタ形式の画像・オーディオ処理ツール「Multimodal-Node-Editor」",
     "link": "https://zenn.dev/kazuhito/articles/7e7b3564887776",
     "pubDate": "Tue, 06 Jan 2026 10:15:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "\"AIツールのスイス\" TanStack AI の設計哲学",
+    "link": "https://zenn.dev/tsuboi/articles/fbce183f930fc0",
+    "pubDate": "Tue, 06 Jan 2026 10:09:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "31万枚の画像をAI自動整理するシステムを、RTX 5090とローカルVLM(Qwen2-VL)で作った話",
+    "link": "https://zenn.dev/toki_mwc/articles/a7a76e05d143d9",
+    "pubDate": "Tue, 06 Jan 2026 09:59:56 GMT"
   },
   {
     "site": "Qiita",
@@ -96,34 +156,10 @@
     "pubDate": "Tue, 06 Jan 2026 02:25:41 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "現場で使い倒すDify：導入から本番運用・社内展開までの実践バイブル",
-    "link": "https://zenn.dev/kentaichimura/books/e48a042e40c657",
-    "pubDate": "Tue, 06 Jan 2026 02:09:32 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Google Cloud 】Private Service Connect を使ってVPC間の内部通信をする",
-    "link": "https://qiita.com/aaaabbbbb/items/604140a1050a71c35aa6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-06T01:54:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの拡張機能を活用した並列開発プラグインの設計と実装",
-    "link": "https://zenn.dev/genda_jp/articles/b268146f3d5392",
-    "pubDate": "Tue, 06 Jan 2026 00:00:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "拝啓、出社できなかった日の俺へ。──人生が止まったその日から、俺の挑戦が始まった。",
     "link": "https://qiita.com/Keita-0025/items/c0fb3bed10f49b0ed523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-05T14:35:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "VimのコードベースはどのバージョンのSTEVIEか？",
-    "link": "https://zenn.dev/nil2/articles/2da481e588b649",
-    "pubDate": "Mon, 05 Jan 2026 11:16:30 GMT"
   },
   {
     "site": "Qiita",
@@ -133,50 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "H3ロケットの失敗から学ぶ、前提を疑う設計 ",
-    "link": "https://qiita.com/sh-ohtani/items/db798b2e5805c51a64c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-05T06:37:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeのAgent Skillでgit commitを自動化する",
-    "link": "https://zenn.dev/saka1/articles/647a177cc5f7b8",
-    "pubDate": "Mon, 05 Jan 2026 06:30:00 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "【資格勉強のコツ】私が辿り着いた「勉強モチベ阻害要因の排除」を軸とする合格戦略",
     "link": "https://qiita.com/Yusg_5/items/ae9f2a8d3fc5fb20852f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-05T01:19:57.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【Web開発】TCP/IPを簡単に抑えておく",
-    "link": "https://qiita.com/ktdatascience/items/f85261a4f3638e1a69b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-04T18:38:03.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude × Nano Banana Pro で料理漫画を自動生成するパイプラインを作った",
     "link": "https://qiita.com/yongyong/items/cabcfb8c91b857cc164f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-04T12:27:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JavaエンジニアがTypeScriptに触れて違いを感じた6つのポイント",
-    "link": "https://qiita.com/ebichan_88/items/5eab2570dbed38021851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-04T12:27:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【狂気の実証実験2】GPTsに電気ショック権限を付与してみた",
-    "link": "https://qiita.com/motoya0118/items/bd5266a987d082caea16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-04T02:10:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「分かりやすい文章」を言語化してみた - NRIネットコムBlog",
-    "link": "https://tech.nri-net.com/entry/verbalization_of_text",
-    "pubDate": "2026-01-01T11:32:18.000Z"
   }
 ]
