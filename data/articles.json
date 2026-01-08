@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "Dellが消費者はAI搭載PCに興味がないことを認める",
+    "link": "https://gigazine.net/news/20260108-dell-admits-consumers-dont-care-ai-pc/",
+    "pubDate": "2026-01-08T01:36:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "クレジットカード番号の混入を防ぐ技術 - inSmartBank",
+    "link": "https://blog.smartbank.co.jp/entry/2026/01/08/100000",
+    "pubDate": "2026-01-08T01:35:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、健康支援機能「ChatGPT Health」発表　Apple「ヘルスケア」などと連携",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news052.html",
+    "pubDate": "2026-01-08T00:35:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleで14年間働いたエンジニアが語る「活躍する人がコード以外で意識している21の教訓」とは？",
+    "link": "https://gigazine.net/news/20260108-google-14-years-21-lessons/",
+    "pubDate": "2026-01-07T23:58:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "インクを“はがして消す”ボールペン「ケセラ」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2075878.html",
+    "pubDate": "2026-01-07T23:11:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "⌘英かな - Apple Silicon版",
     "link": "https://eikana.dominion525.com/",
     "pubDate": "2026-01-07T22:38:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "NVIDIAのAlpaSim使ってみた",
+    "link": "https://zenn.dev/hakuturu583/articles/alpasim-introduction",
+    "pubDate": "Wed, 07 Jan 2026 17:45:31 GMT"
   },
   {
     "site": "Hatena",
@@ -12,16 +48,10 @@
     "pubDate": "2026-01-07T14:26:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【危険】iPhone容量が一気に空く「2030年」小技が話題に！文鎮化リスクあり、絶対やめろ - すまほん!!",
-    "link": "https://smhn.info/202601-iphone-tips",
-    "pubDate": "2026-01-07T13:01:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "雑誌「Mac Fan」定期刊行を終了へ　1993年の創刊から32年、「新しい形」に",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/07/news133.html",
-    "pubDate": "2026-01-07T10:45:36.000Z"
+    "site": "Zenn",
+    "title": "Pythonだけで\"ほぼReact\"な宣言的UIアプリが作れるようになったぞ！【Flet1.0beta】",
+    "link": "https://zenn.dev/harumikun/articles/357c576417fbdd",
+    "pubDate": "Wed, 07 Jan 2026 14:22:59 GMT"
   },
   {
     "site": "Hatena",
@@ -42,12 +72,6 @@
     "pubDate": "2026-01-07T08:33:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【資料公開】デイリースクラム Deep Dive",
-    "link": "https://www.ryuzee.com/contents/blog/14608",
-    "pubDate": "2026-01-07T08:20:55.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Mac 環境構築2026",
     "link": "https://zenn.dev/mizchi/scraps/8b1f2789a94c43",
@@ -66,16 +90,16 @@
     "pubDate": "2026-01-07T04:05:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代に今からITエンジニアを目指す若者にオススメする10冊の本 2026年版 - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2026/01/07/103853",
-    "pubDate": "2026-01-07T03:17:16.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "インターネットは軍事目的で始まった？歴史をざっくりと学ぶ",
     "link": "https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-07T02:35:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "新卒エンジニアよ。コードは書かなくていいかもしれない。でも理解だけはやめないでほしい",
+    "link": "https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters",
+    "pubDate": "Wed, 07 Jan 2026 01:40:25 GMT"
   },
   {
     "site": "Qiita",
@@ -88,12 +112,6 @@
     "title": "【Select AI】クエリできすぎくんを使ってSelect AIを検証してみた（Part 1）",
     "link": "https://qiita.com/marfujim/items/e5d0e562b85c3f6b5f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-07T00:15:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「とほほのWWW入門」作者・杜甫々さん “10年先を見据えた”プロジェクト管理術を語る (1/2)",
-    "link": "https://ascii.jp/elem/000/004/364/4364476/",
-    "pubDate": "2026-01-07T00:10:24.000Z"
   },
   {
     "site": "Zenn",
@@ -115,6 +133,12 @@
   },
   {
     "site": "Zenn",
+    "title": "AIで個人開発を始めたら「作る」より「売る」が100倍難しかった話",
+    "link": "https://zenn.dev/ktg/articles/518c880823ad4a",
+    "pubDate": "Tue, 06 Jan 2026 16:53:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "MicrosoftはなぜBinaryFormatterを排除したのか",
     "link": "https://zenn.dev/litharge/articles/16862a6d6884b8",
     "pubDate": "Tue, 06 Jan 2026 15:18:14 GMT"
@@ -130,30 +154,6 @@
     "title": "続・Claude Code公式Pluginのすすめ+α",
     "link": "https://zenn.dev/modokkin/articles/zenn-2026-01-06-claude-code-plugins-update",
     "pubDate": "Tue, 06 Jan 2026 14:31:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ノードエディタ形式の画像・オーディオ処理ツール「Multimodal-Node-Editor」",
-    "link": "https://zenn.dev/kazuhito/articles/7e7b3564887776",
-    "pubDate": "Tue, 06 Jan 2026 10:15:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "\"AIツールのスイス\" TanStack AI の設計哲学",
-    "link": "https://zenn.dev/tsuboi/articles/fbce183f930fc0",
-    "pubDate": "Tue, 06 Jan 2026 10:09:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "31万枚の画像をAI自動整理するシステムを、RTX 5090とローカルVLM(Qwen2-VL)で作った話",
-    "link": "https://zenn.dev/toki_mwc/articles/a7a76e05d143d9",
-    "pubDate": "Tue, 06 Jan 2026 09:59:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OrvalというOSSでスポンサー募集を開始しました",
-    "link": "https://zenn.dev/soartec_lab/articles/625e89ba7b8f55",
-    "pubDate": "Tue, 06 Jan 2026 09:34:00 GMT"
   },
   {
     "site": "Qiita",
