@@ -1,21 +1,39 @@
 [
   {
+    "site": "Qiita",
+    "title": "意外と知られていないログインの裏側 - Webアプリケーションの認証の仕組み",
+    "link": "https://qiita.com/shibata1111/items/855524191d08f73a6748?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-08T05:25:09.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "Dellが消費者はAI搭載PCに興味がないことを認める",
-    "link": "https://gigazine.net/news/20260108-dell-admits-consumers-dont-care-ai-pc/",
-    "pubDate": "2026-01-08T01:36:18.000Z"
+    "title": "PCメーカーDell、“AI機能の宣伝控えめ”に方針転換へ。「ユーザーはAI機能に興味ない」と気づいたから - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/dell-20260108-400891/",
+    "pubDate": "2026-01-08T05:03:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "岩波新書、「Kindle Unlimited」で多数読み放題　「疑似科学入門」「知的生産の技術」など",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/08/news078.html",
+    "pubDate": "2026-01-08T04:02:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ついにキタ！NotebookLMのスライドを「編集可能パワポ」に変換する最強ツール「Kirigami」",
+    "link": "https://zenn.dev/acntechjp/articles/a878b6aa38fe53",
+    "pubDate": "Thu, 08 Jan 2026 01:57:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "BorisがXのレス内で語ったClaude Codeの使い方",
+    "link": "https://zenn.dev/beagle/articles/_0019_keypoints_from_responses_of_boris",
+    "pubDate": "Thu, 08 Jan 2026 01:50:50 GMT"
   },
   {
     "site": "Hatena",
     "title": "クレジットカード番号の混入を防ぐ技術 - inSmartBank",
     "link": "https://blog.smartbank.co.jp/entry/2026/01/08/100000",
     "pubDate": "2026-01-08T01:35:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAI、健康支援機能「ChatGPT Health」発表　Apple「ヘルスケア」などと連携",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/08/news052.html",
-    "pubDate": "2026-01-08T00:35:06.000Z"
   },
   {
     "site": "Hatena",
@@ -37,9 +55,33 @@
   },
   {
     "site": "Zenn",
+    "title": "海外で「IDEでClaude Code動かすな」が流行ってる。私はZed + ターミナル派",
+    "link": "https://zenn.dev/kok1eeeee/articles/claude-code-zed-terminal-workflow",
+    "pubDate": "Wed, 07 Jan 2026 21:56:41 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "技術同人誌の著者は、なぜKindle版を出すのか or 出さないのか - プログラマでありたい",
+    "link": "https://blog.takuros.net/entry/2026/01/07/205612",
+    "pubDate": "2026-01-07T21:01:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“音声入力は使えない”派が認めた「Aqua Voice」とは？　2026年、プログラミングの常識が変わる",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/08/news009.html",
+    "pubDate": "2026-01-07T20:45:00.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "NVIDIAのAlpaSim使ってみた",
     "link": "https://zenn.dev/hakuturu583/articles/alpasim-introduction",
     "pubDate": "Wed, 07 Jan 2026 17:45:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "3000 ドルかけて Devin と React 18 移行して得た学び",
+    "link": "https://zenn.dev/teramotodaiki/articles/react18-migration-with-devin",
+    "pubDate": "Wed, 07 Jan 2026 15:45:15 GMT"
   },
   {
     "site": "Hatena",
@@ -54,12 +96,6 @@
     "pubDate": "Wed, 07 Jan 2026 14:22:59 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ",
-    "link": "https://news.mynavi.jp/techplus/article/20260107-3931954/",
-    "pubDate": "2026-01-07T08:48:25.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について",
     "link": "https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -72,10 +108,10 @@
     "pubDate": "2026-01-07T08:33:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Mac 環境構築2026",
-    "link": "https://zenn.dev/mizchi/scraps/8b1f2789a94c43",
-    "pubDate": "2026-01-07T06:42:05.000Z"
+    "site": "Qiita",
+    "title": "Slack APIの3秒ルールとLambdaコールドスタート、まずはメモリを上げよう",
+    "link": "https://qiita.com/koto-t/items/b5461b1ed9f98b0a42fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-07T08:30:54.000Z"
   },
   {
     "site": "Zenn",
@@ -91,6 +127,12 @@
   },
   {
     "site": "Qiita",
+    "title": "【C#】Channel<T>  でスレッド間通信をシンプルに",
+    "link": "https://qiita.com/Sakai_path/items/9bc0a7a0a68b50c8e138?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-07T03:22:24.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "インターネットは軍事目的で始まった？歴史をざっくりと学ぶ",
     "link": "https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-07T02:35:04.000Z"
@@ -100,18 +142,6 @@
     "title": "新卒エンジニアよ。コードは書かなくていいかもしれない。でも理解だけはやめないでほしい",
     "link": "https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters",
     "pubDate": "Wed, 07 Jan 2026 01:40:25 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS re:Invent 2025レポート】GameDayだけじゃない。Gamified learningのススメ",
-    "link": "https://qiita.com/melksg/items/a87bb46496901fc3d2a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-07T00:53:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Select AI】クエリできすぎくんを使ってSelect AIを検証してみた（Part 1）",
-    "link": "https://qiita.com/marfujim/items/e5d0e562b85c3f6b5f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-07T00:15:39.000Z"
   },
   {
     "site": "Zenn",
@@ -132,36 +162,6 @@
     "pubDate": "2026-01-06T16:53:34.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIで個人開発を始めたら「作る」より「売る」が100倍難しかった話",
-    "link": "https://zenn.dev/ktg/articles/518c880823ad4a",
-    "pubDate": "Tue, 06 Jan 2026 16:53:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MicrosoftはなぜBinaryFormatterを排除したのか",
-    "link": "https://zenn.dev/litharge/articles/16862a6d6884b8",
-    "pubDate": "Tue, 06 Jan 2026 15:18:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "外部依存ゼロのVim/Neovimでもプラグインを使える。本体に同梱されてるから。",
-    "link": "https://zenn.dev/vim_jp/articles/e2620b502913f4",
-    "pubDate": "Tue, 06 Jan 2026 15:03:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "続・Claude Code公式Pluginのすすめ+α",
-    "link": "https://zenn.dev/modokkin/articles/zenn-2026-01-06-claude-code-plugins-update",
-    "pubDate": "Tue, 06 Jan 2026 14:31:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilot Studioを利用したデータ取得：ナレッジ（RAG）とツールの使い分けを仕様や挙動をもとに整理したい",
-    "link": "https://qiita.com/tomoyasasaki1204/items/3e99756853dbe5209660?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-06T07:47:12.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "拝啓、出社できなかった日の俺へ。──人生が止まったその日から、俺の挑戦が始まった。",
     "link": "https://qiita.com/Keita-0025/items/c0fb3bed10f49b0ed523?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -169,14 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "🚀 開発がもっとスムーズに！ソフトウェアエンジニアのための心理学・行動経済学ガイド",
-    "link": "https://qiita.com/mnoguchi/items/9554c4b96b45d0729a9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-05T08:07:20.000Z"
+    "title": "JSを使わずカルーセルを作る",
+    "link": "https://qiita.com/kobayashimakoto/items/9e6595d7c6f6f0c90c4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-05T09:32:18.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【資格勉強のコツ】私が辿り着いた「勉強モチベ阻害要因の排除」を軸とする合格戦略",
-    "link": "https://qiita.com/Yusg_5/items/ae9f2a8d3fc5fb20852f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-05T01:19:57.000Z"
+    "title": "🚀 開発がもっとスムーズに！ソフトウェアエンジニアのための心理学・行動経済学ガイド",
+    "link": "https://qiita.com/mnoguchi/items/9554c4b96b45d0729a9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-05T08:07:20.000Z"
   }
 ]
