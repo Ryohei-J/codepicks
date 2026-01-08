@@ -1,15 +1,69 @@
 [
   {
+    "site": "Hatena",
+    "title": "⌘英かな - Apple Silicon版",
+    "link": "https://eikana.dominion525.com/",
+    "pubDate": "2026-01-07T22:38:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTに絶対に共有してはいけない5つの情報を、専門家が警告。すでにしてしまった場合の対処法も紹介",
+    "link": "https://www.huffingtonpost.jp/entry/story_jp_693fbd8ee4b0775c5077e079",
+    "pubDate": "2026-01-07T14:26:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【危険】iPhone容量が一気に空く「2030年」小技が話題に！文鎮化リスクあり、絶対やめろ - すまほん!!",
+    "link": "https://smhn.info/202601-iphone-tips",
+    "pubDate": "2026-01-07T13:01:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "雑誌「Mac Fan」定期刊行を終了へ　1993年の創刊から32年、「新しい形」に",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/07/news133.html",
+    "pubDate": "2026-01-07T10:45:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ",
+    "link": "https://news.mynavi.jp/techplus/article/20260107-3931954/",
+    "pubDate": "2026-01-07T08:48:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について",
+    "link": "https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-07T08:34:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "HTTPリクエストでどのような処理が行われているのか確認する",
+    "link": "https://qiita.com/shibata1111/items/cb838bedfb33e9d5f1a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-07T08:33:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【資料公開】デイリースクラム Deep Dive",
+    "link": "https://www.ryuzee.com/contents/blog/14608",
+    "pubDate": "2026-01-07T08:20:55.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Mac 環境構築2026",
     "link": "https://zenn.dev/mizchi/scraps/8b1f2789a94c43",
     "pubDate": "2026-01-07T06:42:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "会社の登記変更書類をChatGPTにお願いして作ってもらって楽だなぁと思っていたが、提出したら法務局から「何もかも違うので作り直してください」と怒られた",
-    "link": "https://togetter.com/li/2648757",
-    "pubDate": "2026-01-07T05:42:23.000Z"
+    "site": "Zenn",
+    "title": "Rust製軽量エディタZedでDev Containers + GitHub Copilot + Claude Code生活はじめました",
+    "link": "https://zenn.dev/dyoshikawa/articles/zed-devcontainers-copilot-claudecode",
+    "pubDate": "Wed, 07 Jan 2026 04:37:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "続・Claude Code公式Pluginのすすめ+α",
+    "link": "https://zenn.dev/modokkin/articles/zenn-2026-01-06-claude-code-plugins-update",
+    "pubDate": "2026-01-07T04:05:40.000Z"
   },
   {
     "site": "Hatena",
@@ -18,34 +72,10 @@
     "pubDate": "2026-01-07T03:17:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "岩波新書と岩波文庫(Kindle Unlimited)のおすすめ - 山下泰平の趣味の方法",
-    "link": "https://cocolog-nifty.hatenablog.com/entry/2026/01/07/120347",
-    "pubDate": "2026-01-07T03:16:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIがバイナリを直接吐くようにはならない - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/01/07/111410",
-    "pubDate": "2026-01-07T02:47:25.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "インターネットは軍事目的で始まった？歴史をざっくりと学ぶ",
     "link": "https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-07T02:35:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「iPhoneの日付を2030年に設定して数分放置したら空き容量がめちゃくちゃ増えた」→試したユーザーからiPhoneが起動しなくなったという報告が相次ぐ",
-    "link": "https://togetter.com/li/2648678",
-    "pubDate": "2026-01-07T01:43:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI生成作品が小説大賞を獲得→書籍化中止　本人「後出し規約変更」で撤回と説明、運営の意図は | オタク総研",
-    "link": "https://0115765.com/archives/165655",
-    "pubDate": "2026-01-07T01:06:18.000Z"
   },
   {
     "site": "Qiita",
@@ -102,12 +132,6 @@
     "pubDate": "Tue, 06 Jan 2026 14:31:08 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "RailsのパーシャルとViewComponent、どう使い分ける？ 「FES READY」の実例で整理してみた",
-    "link": "https://qiita.com/hinanata72/items/1a4e9cef5c452cb00f2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-06T13:03:49.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ノードエディタ形式の画像・オーディオ処理ツール「Multimodal-Node-Editor」",
     "link": "https://zenn.dev/kazuhito/articles/7e7b3564887776",
@@ -126,34 +150,16 @@
     "pubDate": "Tue, 06 Jan 2026 09:59:56 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "OrvalというOSSでスポンサー募集を開始しました",
+    "link": "https://zenn.dev/soartec_lab/articles/625e89ba7b8f55",
+    "pubDate": "Tue, 06 Jan 2026 09:34:00 GMT"
+  },
+  {
     "site": "Qiita",
-    "title": "Amplify & AgentCoreのAIエージェントをAWS CDKでデプロイしよう！",
-    "link": "https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-06T09:17:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "テストが設計を駆動するなら、評価は何を駆動する？   〜テスト駆動開発と評価駆動開発、「先に定義する」ことの力〜",
-    "link": "https://zenn.dev/r_kaga/articles/54698ed22fbfe9",
-    "pubDate": "Tue, 06 Jan 2026 09:14:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIを仕事でどう使うのか、言語化してまとめてみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/ai-basics-tsukaiwake/",
-    "pubDate": "2026-01-06T06:44:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "育てるほど楽になる AI 開発体制を作っている話 | BLOG - DeNA Engineering",
-    "link": "https://engineering.dena.com/blog/2026/01/ai-driven-develop/",
-    "pubDate": "2026-01-06T03:24:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGの「業界特化」戦略（メルカリの成功例に学ぶ）",
-    "link": "https://zenn.dev/knowledgesense/articles/dc593ea029356f",
-    "pubDate": "Tue, 06 Jan 2026 02:25:41 GMT"
+    "title": "Copilot Studioを利用したデータ取得：ナレッジ（RAG）とツールの使い分けを仕様や挙動をもとに整理したい",
+    "link": "https://qiita.com/tomoyasasaki1204/items/3e99756853dbe5209660?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-06T07:47:12.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "設計はAIと後で直せ。Claude Codeと駆け抜けた「Vibe Coding」16時間のOSS開発記",
-    "link": "https://qiita.com/take-yoda/items/bafb7b921bf8d16187ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-05T09:54:12.000Z"
+    "title": "🚀 開発がもっとスムーズに！ソフトウェアエンジニアのための心理学・行動経済学ガイド",
+    "link": "https://qiita.com/mnoguchi/items/9554c4b96b45d0729a9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-05T08:07:20.000Z"
   },
   {
     "site": "Qiita",
     "title": "【資格勉強のコツ】私が辿り着いた「勉強モチベ阻害要因の排除」を軸とする合格戦略",
     "link": "https://qiita.com/Yusg_5/items/ae9f2a8d3fc5fb20852f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-05T01:19:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude × Nano Banana Pro で料理漫画を自動生成するパイプラインを作った",
-    "link": "https://qiita.com/yongyong/items/cabcfb8c91b857cc164f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-04T12:27:39.000Z"
   }
 ]
