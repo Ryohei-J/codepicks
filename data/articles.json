@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "イランがインターネット完全遮断か。トラフィック「ゼロ」に、Cloudflareが報告",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2076813.html",
+    "pubDate": "2026-01-09T04:33:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Tailwind CSSの騒動から考える、生成AIがOSSビジネスを壊す瞬間 - Sweet Escape",
+    "link": "https://www.keisuke69.net/entry/2026/01/09/113951",
+    "pubDate": "2026-01-09T02:41:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「そもそも生成AIでやるべきでない問い」に、企業が挑んでしまう問題｜深津 貴之 (fladdict)",
+    "link": "https://note.com/fladdict/n/na45a57c572c8",
+    "pubDate": "2026-01-09T01:05:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "テックブログのネタ探し入門",
+    "link": "https://zenn.dev/kakakakakku/books/tech-blog-ideas",
+    "pubDate": "Fri, 09 Jan 2026 00:12:29 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "睡眠中に「脳内のごみ」を活発に洗い流していた　掃除が不十分だと認知症リスク増　米国チームが発表",
     "link": "https://www.itmedia.co.jp/news/articles/2601/09/news038.html",
     "pubDate": "2026-01-08T23:36:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "IT開発者向けの質疑応答（QA）サイト「Stack Overflow」で投稿数が激減、ユーザー戦慄／最盛期20万件超えの月間投稿数がわずか4,000～3,000件のレベルに……【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2076551.html",
+    "pubDate": "2026-01-08T23:25:29.000Z"
   },
   {
     "site": "Zenn",
@@ -19,12 +49,6 @@
   },
   {
     "site": "Hatena",
-    "title": "ドコモが取り組む通信品質改善の今、なぜ基地局を「3倍」で整備するのか",
-    "link": "https://k-tai.watch.impress.co.jp/docs/interview/2074789.html",
-    "pubDate": "2026-01-08T17:44:29.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "変化を抱擁するシステムの作り方〜「人が増えても速くならない」より",
     "link": "https://speakerdeck.com/kuranuki/bian-hua-wobao-yong-surusisutemunozuo-rifang-ren-gazeng-etemosu-kunaranai-yori",
     "pubDate": "2026-01-08T16:47:54.000Z"
@@ -34,12 +58,6 @@
     "title": "GoogleKeepの幅を広げる Chrome拡張",
     "link": "https://9cguide.appspot.com/extension_keep_expand.html",
     "pubDate": "2026-01-08T11:41:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アイ・オー、外付けHDDに録画したTV番組を保存できる「BDレコ」",
-    "link": "https://av.watch.impress.co.jp/docs/news/2076676.html",
-    "pubDate": "2026-01-08T11:16:31.000Z"
   },
   {
     "site": "Zenn",
@@ -54,16 +72,22 @@
     "pubDate": "Thu, 08 Jan 2026 10:22:42 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "『Balatro』も採用したシンプルな2Dゲームフレームワーク「LÖVE」とは。エンジニア目線で魅力を解説｜ゲームメーカーズ",
-    "link": "https://gamemakers.jp/article/2026_01_08_112338/",
-    "pubDate": "2026-01-08T08:57:34.000Z"
+    "site": "Zenn",
+    "title": "LLMアプリケーションのセキュリティ実践：脆弱性の発見からガードレール実装まで",
+    "link": "https://zenn.dev/acompany/articles/c642c09bd167a6",
+    "pubDate": "Thu, 08 Jan 2026 10:15:31 GMT"
   },
   {
     "site": "Zenn",
     "title": "Next.jsを採用するのをやめた理由・背景",
     "link": "https://zenn.dev/anatoo/articles/64c18865fc971c",
     "pubDate": "Thu, 08 Jan 2026 08:31:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "この冬、育てたいGitHub Readme。Golang製のスタイリッリュなLanguage Stats SVG",
+    "link": "https://zenn.dev/chot/articles/30b08c452795eb",
+    "pubDate": "Thu, 08 Jan 2026 08:18:17 GMT"
   },
   {
     "site": "Zenn",
@@ -85,12 +109,6 @@
   },
   {
     "site": "Zenn",
-    "title": "AHC058勉強会レポート&作問体験記",
-    "link": "https://zenn.dev/algoartis/articles/report-ahc058",
-    "pubDate": "Thu, 08 Jan 2026 03:31:10 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "ついにキタ！NotebookLMのスライドを「編集可能パワポ」に変換する最強ツール「Kirigami」",
     "link": "https://zenn.dev/acntechjp/articles/a878b6aa38fe53",
     "pubDate": "Thu, 08 Jan 2026 01:57:41 GMT"
@@ -103,6 +121,12 @@
   },
   {
     "site": "Zenn",
+    "title": "個人開発の面倒な『利用規約』を一瞬で生成するツールを1日で作ってみた",
+    "link": "https://zenn.dev/c_shiraga/articles/9941b44f76fdc0",
+    "pubDate": "Wed, 07 Jan 2026 22:30:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "海外で「IDEでClaude Code動かすな」が流行ってる。私はZed + ターミナル派",
     "link": "https://zenn.dev/kok1eeeee/articles/claude-code-zed-terminal-workflow",
     "pubDate": "Wed, 07 Jan 2026 21:56:41 GMT"
@@ -112,30 +136,6 @@
     "title": "PythonのGUIフレームワークライブラリ総まとめ",
     "link": "https://qiita.com/kirakiraboshi/items/386e6d387e39eefe5af2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-07T21:36:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "“音声入力は使えない”派が認めた「Aqua Voice」とは？　2026年、プログラミングの常識が変わる",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/08/news009.html",
-    "pubDate": "2026-01-07T20:45:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "NVIDIAのAlpaSim使ってみた",
-    "link": "https://zenn.dev/hakuturu583/articles/alpasim-introduction",
-    "pubDate": "Wed, 07 Jan 2026 17:45:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "3000 ドルかけて Devin と React 18 移行して得た学び",
-    "link": "https://zenn.dev/teramotodaiki/articles/react18-migration-with-devin",
-    "pubDate": "Wed, 07 Jan 2026 15:45:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Pythonだけで\"ほぼReact\"な宣言的UIアプリが作れるようになったぞ！【Flet1.0beta】",
-    "link": "https://zenn.dev/harumikun/articles/357c576417fbdd",
-    "pubDate": "Wed, 07 Jan 2026 14:22:59 GMT"
   },
   {
     "site": "Qiita",
