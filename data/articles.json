@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "「Grok、この女性をビキニにして」無料ユーザーは不可能に　X、AI画像編集を一部有料化",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news105.html",
+    "pubDate": "2026-01-09T09:28:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【令和８年最新版】GitHub CopilotにおけるAIモデルの違いや選定の考え方",
+    "link": "https://qiita.com/Free_Akito9120/items/f41f80af8eed80a9044f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-09T05:08:24.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "イランがインターネット完全遮断か。トラフィック「ゼロ」に、Cloudflareが報告",
     "link": "https://pc.watch.impress.co.jp/docs/news/2076813.html",
     "pubDate": "2026-01-09T04:33:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIがバイナリを書く未来は、来ないとは思うが、今も普通にできる",
+    "link": "https://anond.hatelabo.jp/20260109125514",
+    "pubDate": "2026-01-09T03:55:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「毎秒3万回振動する包丁」でトマトを切ってみた　普通の包丁との違いは？",
+    "link": "https://japan.cnet.com/article/35242499/",
+    "pubDate": "2026-01-09T02:59:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Attention再入門 is all you need",
+    "link": "https://zenn.dev/mkj/articles/re-entry-attention_20251209",
+    "pubDate": "Fri, 09 Jan 2026 02:50:01 GMT"
   },
   {
     "site": "Hatena",
@@ -37,6 +67,12 @@
   },
   {
     "site": "Zenn",
+    "title": "NeMoフレームワークを用いたLLMの学習",
+    "link": "https://zenn.dev/mkj/articles/nemo-series_20251230",
+    "pubDate": "Thu, 08 Jan 2026 22:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ついにキタ！NotebookLMのスライドを「編集可能パワポ」に変換する最強ツール「Kirigami」",
     "link": "https://zenn.dev/acntechjp/articles/a878b6aa38fe53",
     "pubDate": "2026-01-08T21:20:35.000Z"
@@ -48,22 +84,10 @@
     "pubDate": "2026-01-08T21:10:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "変化を抱擁するシステムの作り方〜「人が増えても速くならない」より",
-    "link": "https://speakerdeck.com/kuranuki/bian-hua-wobao-yong-surusisutemunozuo-rifang-ren-gazeng-etemosu-kunaranai-yori",
-    "pubDate": "2026-01-08T16:47:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GoogleKeepの幅を広げる Chrome拡張",
-    "link": "https://9cguide.appspot.com/extension_keep_expand.html",
-    "pubDate": "2026-01-08T11:41:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsを採用するのをやめた理由・背景",
-    "link": "https://zenn.dev/anatoo/articles/64c18865fc971c",
-    "pubDate": "2026-01-08T10:27:44.000Z"
+    "site": "Qiita",
+    "title": "AWS初心者がAmazon Connectで簡単なコールセンターを構築した話",
+    "link": "https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-08T12:08:48.000Z"
   },
   {
     "site": "Zenn",
@@ -120,18 +144,6 @@
     "pubDate": "Thu, 08 Jan 2026 01:50:50 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "個人開発の面倒な『利用規約』を一瞬で生成するツールを1日で作ってみた",
-    "link": "https://zenn.dev/c_shiraga/articles/9941b44f76fdc0",
-    "pubDate": "Wed, 07 Jan 2026 22:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "海外で「IDEでClaude Code動かすな」が流行ってる。私はZed + ターミナル派",
-    "link": "https://zenn.dev/kok1eeeee/articles/claude-code-zed-terminal-workflow",
-    "pubDate": "Wed, 07 Jan 2026 21:56:41 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "PythonのGUIフレームワークライブラリ総まとめ",
     "link": "https://qiita.com/kirakiraboshi/items/386e6d387e39eefe5af2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Pythonで描くカオスの世界：二重振り子シミュレーターを作ってみよう",
-    "link": "https://qiita.com/abcdefg123/items/1adb4495e74c1dbcd6c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-06T18:27:15.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた",
     "link": "https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-06T16:53:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amplify & AgentCoreのAIエージェントをAWS CDKでデプロイしよう！",
-    "link": "https://qiita.com/minorun365/items/0b4a980f2f4bb073a9e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-06T09:17:31.000Z"
   }
 ]
