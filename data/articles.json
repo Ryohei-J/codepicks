@@ -1,5 +1,11 @@
 [
   {
+    "site": "Hatena",
+    "title": "Facebookはマジで中高年しかやってない… 若い人がやってたら、留学など海外経験があるのかな？と思うレベル「実名が無理」「毎日同じ味気ない生活してると書くことが無い」",
+    "link": "https://togetter.com/li/2650002",
+    "pubDate": "2026-01-10T01:21:03.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Obsidian の個人的に便利だと思う使い方 - Qiita",
     "link": "https://qiita.com/CookieBox26/items/82c606539cc4fe31e2b9",
@@ -13,27 +19,33 @@
   },
   {
     "site": "Hatena",
-    "title": "レグザブルーレイ全製品の生産完了。今後は「市場の状況を鑑み判断」",
-    "link": "https://av.watch.impress.co.jp/docs/news/2077050.html",
-    "pubDate": "2026-01-09T12:47:32.000Z"
+    "title": "そのPC、もっと使いやすく進化する。Windowsを最強の仕事道具に変える10コツ | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2601-best-hacks-for-windows-power-users/",
+    "pubDate": "2026-01-09T21:37:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeとの会話を自動でObsidianに記録する仕組みを作った",
+    "link": "https://zenn.dev/pepabo/articles/ffb79b5279f6ee",
+    "pubDate": "2026-01-09T18:22:31.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Linus、「AIツールはただのツール」とあらためて強調 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/01/daily-linux-260109",
-    "pubDate": "2026-01-09T11:33:58.000Z"
+    "title": "“日本最後の秘境”に密着したNHKスペシャル、1月18日夜",
+    "link": "https://av.watch.impress.co.jp/docs/news/2076802.html",
+    "pubDate": "2026-01-09T14:19:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "年間500万円以上のコスト削減を実現したのに、どこかむなしいのはなぜか",
+    "link": "https://zenn.dev/zenn_mita/articles/bd54d81c4dab31",
+    "pubDate": "Fri, 09 Jan 2026 13:20:56 GMT"
   },
   {
     "site": "Hatena",
-    "title": "ミソジニーって本当に湧いてるの？AIに聞いてみました。",
-    "link": "https://anond.hatelabo.jp/20260109184703",
-    "pubDate": "2026-01-09T09:59:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "都会のたぬきは人間がいるとき、うんちを我慢しているかもしれない　東京農工大",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/09/news106.html",
-    "pubDate": "2026-01-09T09:38:19.000Z"
+    "title": "いじめって、叩かれ過ぎじゃないかと思う。 もちろん「いじめは良くない」..",
+    "link": "https://anond.hatelabo.jp/20260109185658",
+    "pubDate": "2026-01-09T09:57:49.000Z"
   },
   {
     "site": "Zenn",
@@ -61,21 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Tailwind CSSの騒動から考える、生成AIがOSSビジネスを壊す瞬間 - Sweet Escape",
-    "link": "https://www.keisuke69.net/entry/2026/01/09/113951",
-    "pubDate": "2026-01-09T02:41:42.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「そもそも生成AIでやるべきでない問い」に、企業が挑んでしまう問題｜深津 貴之 (fladdict)",
     "link": "https://note.com/fladdict/n/na45a57c572c8",
     "pubDate": "2026-01-09T01:05:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Juliaの生きる道 (生成AI時代の開発体験)",
-    "link": "https://zenn.dev/h_shinaoka/articles/fcba75dc2e00a0",
-    "pubDate": "Fri, 09 Jan 2026 00:34:17 GMT"
   },
   {
     "site": "Zenn",
@@ -94,6 +94,12 @@
     "title": "NeMoフレームワークを用いたLLMの学習",
     "link": "https://zenn.dev/mkj/articles/nemo-series_20251230",
     "pubDate": "Thu, 08 Jan 2026 22:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude・GPT・Geminiを同時に使いこなすoh-my-opencodeがすごい（どれか1つでもOK）",
+    "link": "https://zenn.dev/zenhance/articles/oh-my-opencode-intro",
+    "pubDate": "Thu, 08 Jan 2026 16:08:16 GMT"
   },
   {
     "site": "Hatena",
@@ -130,12 +136,6 @@
     "title": "Next.jsを採用するのをやめた理由・背景",
     "link": "https://zenn.dev/anatoo/articles/64c18865fc971c",
     "pubDate": "Thu, 08 Jan 2026 08:31:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "この冬、育てたいGitHub Readme。Golang製のスタイリッリュなLanguage Stats SVG",
-    "link": "https://zenn.dev/chot/articles/30b08c452795eb",
-    "pubDate": "Thu, 08 Jan 2026 08:18:17 GMT"
   },
   {
     "site": "Qiita",
