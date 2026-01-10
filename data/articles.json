@@ -1,9 +1,27 @@
 [
   {
+    "site": "Qiita",
+    "title": "Obsidian の個人的に便利だと思う使い方 - Qiita",
+    "link": "https://qiita.com/CookieBox26/items/82c606539cc4fe31e2b9",
+    "pubDate": "2026-01-09T22:39:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代にORMなんて必要なんですかね？",
+    "link": "https://zenn.dev/terurou/articles/55ffe7c6e5c96e",
+    "pubDate": "2026-01-09T22:25:26.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "レグザブルーレイ全製品の生産完了。今後は「市場の状況を鑑み判断」",
     "link": "https://av.watch.impress.co.jp/docs/news/2077050.html",
     "pubDate": "2026-01-09T12:47:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Linus、「AIツールはただのツール」とあらためて強調 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/01/daily-linux-260109",
+    "pubDate": "2026-01-09T11:33:58.000Z"
   },
   {
     "site": "Hatena",
@@ -18,22 +36,22 @@
     "pubDate": "2026-01-09T09:38:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AI時代にORMなんて必要なんですかね？",
+    "link": "https://zenn.dev/terurou/articles/55ffe7c6e5c96e",
+    "pubDate": "Fri, 09 Jan 2026 08:41:36 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "「Grok、この女性をビキニにして」無料ユーザーは不可能に　X、AI画像編集を一部有料化",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/09/news105.html",
-    "pubDate": "2026-01-09T09:28:58.000Z"
+    "title": "歴史から学ぶ、Goのメモリ管理基礎",
+    "link": "https://speakerdeck.com/logica0419/fundamentals-of-memory-management-in-go-jp",
+    "pubDate": "2026-01-09T07:11:46.000Z"
   },
   {
     "site": "Qiita",
     "title": "【令和８年最新版】GitHub CopilotにおけるAIモデルの違いや選定の考え方",
     "link": "https://qiita.com/Free_Akito9120/items/f41f80af8eed80a9044f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-09T05:08:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "イランがインターネット完全遮断か。トラフィック「ゼロ」に、Cloudflareが報告",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2076813.html",
-    "pubDate": "2026-01-09T04:33:09.000Z"
   },
   {
     "site": "Zenn",
@@ -55,21 +73,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Juliaの生きる道 (生成AI時代の開発体験)",
+    "link": "https://zenn.dev/h_shinaoka/articles/fcba75dc2e00a0",
+    "pubDate": "Fri, 09 Jan 2026 00:34:17 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "テックブログのネタ探し入門",
     "link": "https://zenn.dev/kakakakakku/books/tech-blog-ideas",
     "pubDate": "Fri, 09 Jan 2026 00:12:29 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "睡眠中に「脳内のごみ」を活発に洗い流していた　掃除が不十分だと認知症リスク増　米国チームが発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/09/news038.html",
-    "pubDate": "2026-01-08T23:36:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "IT開発者向けの質疑応答（QA）サイト「Stack Overflow」で投稿数が激減、ユーザー戦慄／最盛期20万件超えの月間投稿数がわずか4,000～3,000件のレベルに……【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2076551.html",
-    "pubDate": "2026-01-08T23:25:29.000Z"
+    "site": "Zenn",
+    "title": "GitHub Actions のシークレットは簡単に見れる",
+    "link": "https://zenn.dev/enjapan/articles/github-actions-secrets",
+    "pubDate": "Fri, 09 Jan 2026 00:10:59 GMT"
   },
   {
     "site": "Zenn",
@@ -78,10 +96,16 @@
     "pubDate": "Thu, 08 Jan 2026 22:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ついにキタ！NotebookLMのスライドを「編集可能パワポ」に変換する最強ツール「Kirigami」",
-    "link": "https://zenn.dev/acntechjp/articles/a878b6aa38fe53",
-    "pubDate": "2026-01-08T21:20:35.000Z"
+    "site": "Hatena",
+    "title": "『CSV++』フォーマットの提案仕様について - ASnoKaze blog",
+    "link": "https://asnokaze.hatenablog.com/entry/2026/01/09/000152",
+    "pubDate": "2026-01-08T15:34:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Appleアプリ審査をスムーズに進めるための完全ガイド",
+    "link": "https://qiita.com/KaitoMuraoka/items/ce7da9207da2d5af986e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-08T13:31:18.000Z"
   },
   {
     "site": "Qiita",
@@ -114,10 +138,10 @@
     "pubDate": "Thu, 08 Jan 2026 08:18:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "フォームのオートコンプリートでデザインが壊れる問題をCSSだけで解決する",
-    "link": "https://zenn.dev/localer/articles/b7d9aba4ca4db8",
-    "pubDate": "Thu, 08 Jan 2026 06:29:05 GMT"
+    "site": "Qiita",
+    "title": "CSSだけで作れる“ちょっと楽しい”UIサンプル7選【初心者向けまとめ】",
+    "link": "https://qiita.com/suzukielecs/items/394eac56e0babfbc9984?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-08T06:24:02.000Z"
   },
   {
     "site": "Qiita",
@@ -127,27 +151,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 ERROR #6 実行時エラーを防止するには？",
-    "link": "https://qiita.com/hitomin_poke/items/4d28c47b1b6f7ef727cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-08T05:12:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ついにキタ！NotebookLMのスライドを「編集可能パワポ」に変換する最強ツール「Kirigami」",
-    "link": "https://zenn.dev/acntechjp/articles/a878b6aa38fe53",
-    "pubDate": "Thu, 08 Jan 2026 01:57:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "BorisがXのレス内で語ったClaude Codeの使い方",
-    "link": "https://zenn.dev/beagle/articles/_0019_keypoints_from_responses_of_boris",
-    "pubDate": "Thu, 08 Jan 2026 01:50:50 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "PythonのGUIフレームワークライブラリ総まとめ",
-    "link": "https://qiita.com/kirakiraboshi/items/386e6d387e39eefe5af2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-07T21:36:36.000Z"
+    "title": "Python開発の初速を上げるためのテンプレート設計",
+    "link": "https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-07T22:57:11.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "インターネットは軍事目的で始まった？歴史をざっくりと学ぶ",
     "link": "https://qiita.com/shibata1111/items/1403f6be43bad5d085b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-07T02:35:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Microsoft 365 Copilotに色々な方法でパワポ作成を丸投げしてみた",
-    "link": "https://qiita.com/Oyu3m/items/7c9c19c257be35f5dcec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-06T16:53:34.000Z"
   }
 ]
