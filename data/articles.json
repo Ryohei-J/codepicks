@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "2025年増田ファーストブクマカランキング",
+    "link": "https://anond.hatelabo.jp/20260111013003",
+    "pubDate": "2026-01-10T17:38:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「GrokとXのアプリをAppleとGoogleのアプリストアから削除せよ」という公開書簡をアメリカの政治家たちが送付、理由は「違法な性的画像を大量生成しているため」",
+    "link": "https://gigazine.net/news/20260110-grok-x-app-suspended-apple-google/",
+    "pubDate": "2026-01-10T12:24:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "形式手法特論：コンパイラの「正しさ」は証明できるか？ #burikaigi / BuriKaigi 2026",
     "link": "https://speakerdeck.com/ytaka23/burikaigi-2026",
     "pubDate": "2026-01-10T10:03:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "焼肉屋で若い男の子が「タイミーです」とやって来た→その後店長が何でも出来ちゃうその子をベタ褒めしていた「タイミーは時々超シゴデキの人が来る」",
-    "link": "https://togetter.com/li/2650154",
-    "pubDate": "2026-01-10T10:02:48.000Z"
+    "site": "Zenn",
+    "title": "毛の一本まで切り抜きたい猫好きエンジニアへ送るセグメンテーション比較",
+    "link": "https://zenn.dev/neoai/articles/segmentation",
+    "pubDate": "Sat, 10 Jan 2026 09:07:08 GMT"
   },
   {
     "site": "Hatena",
@@ -24,28 +36,22 @@
     "pubDate": "2026-01-10T06:45:09.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "aws loginコマンドで400エラーが発生する時の対処法",
-    "link": "https://qiita.com/yakumo_09/items/b6ad77de9fd39ca1446f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-10T01:30:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Obsidian の個人的に便利だと思う使い方 - Qiita",
-    "link": "https://qiita.com/CookieBox26/items/82c606539cc4fe31e2b9",
-    "pubDate": "2026-01-09T22:39:56.000Z"
+    "site": "Zenn",
+    "title": "MCPでやる必要のない業務をSkillsに置き換えてトークンと時間の消費を爆減してみた",
+    "link": "https://zenn.dev/moneyforward/articles/c43cc7eff468a7",
+    "pubDate": "Sat, 10 Jan 2026 06:27:07 GMT"
   },
   {
     "site": "Hatena",
-    "title": "そのPC、もっと使いやすく進化する。Windowsを最強の仕事道具に変える10コツ | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2601-best-hacks-for-windows-power-users/",
-    "pubDate": "2026-01-09T21:37:54.000Z"
+    "title": "“デジカメ老人会”世代が推す「復活してほしいコンデジ」あれこれ",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/10/news021.html",
+    "pubDate": "2026-01-10T05:02:48.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeとの会話を自動でObsidianに記録する仕組みを作った",
-    "link": "https://zenn.dev/pepabo/articles/ffb79b5279f6ee",
-    "pubDate": "2026-01-09T18:22:31.000Z"
+    "site": "Hatena",
+    "title": "パターン | APG Patterns Examples",
+    "link": "https://masup9.github.io/apg-patterns-examples/ja/",
+    "pubDate": "2026-01-10T04:06:06.000Z"
   },
   {
     "site": "Zenn",
@@ -66,6 +72,18 @@
     "pubDate": "Fri, 09 Jan 2026 13:20:56 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "量子HPCクラウド提供をやめます。",
+    "link": "https://zenn.dev/yuichirominato/articles/a3b33e252be9f9",
+    "pubDate": "Fri, 09 Jan 2026 12:47:02 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "58歳・Python経験ゼロから4ヶ月。「ピチョン」と呼んでいた私がAIを相棒に不動産分析ツールを完結させた話",
+    "link": "https://qiita.com/usamashigechan/items/90f3229b8a6e3e204594?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-09T11:30:40.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "React 19でつくる「気持ちいいUI」- 楽観的UIのすすめ",
     "link": "https://speakerdeck.com/himorishige/react-19detukuru-qi-chi-tiiiui-le-guan-de-uinosusume",
@@ -76,12 +94,6 @@
     "title": "AI時代にORMなんて必要なんですかね？",
     "link": "https://zenn.dev/terurou/articles/55ffe7c6e5c96e",
     "pubDate": "Fri, 09 Jan 2026 08:41:36 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "FlaskとGoogle Books APIを使用した読書記録WEBアプリ",
-    "link": "https://qiita.com/yamaguch_i/items/82cf3af1cb64a8b27cce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-09T08:06:24.000Z"
   },
   {
     "site": "Qiita",
@@ -114,6 +126,12 @@
     "pubDate": "2026-01-09T02:35:03.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "資格懐疑派がAWS SAP取得を目指したきっかけと学習法",
+    "link": "https://qiita.com/toproad/items/b7609a0f538696bedbd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-09T01:33:17.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Juliaの生きる道 (生成AI時代の開発体験)",
     "link": "https://zenn.dev/h_shinaoka/articles/fcba75dc2e00a0",
@@ -132,18 +150,6 @@
     "pubDate": "Fri, 09 Jan 2026 00:10:59 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "NeMoフレームワークを用いたLLMの学習",
-    "link": "https://zenn.dev/mkj/articles/nemo-series_20251230",
-    "pubDate": "Thu, 08 Jan 2026 22:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude・GPT・Geminiを同時に使いこなすoh-my-opencodeがすごい（どれか1つでもOK）",
-    "link": "https://zenn.dev/zenhance/articles/oh-my-opencode-intro",
-    "pubDate": "Thu, 08 Jan 2026 16:08:16 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Power Automate】ガマンして読むと JSON への抵抗が少し和らぐ気がする記事",
     "link": "https://qiita.com/eigogakuto/items/bdb07ac14ff966b56d81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -151,15 +157,15 @@
   },
   {
     "site": "Qiita",
+    "title": "「cat file.txt > /dev/null 2>&1」を実行した時に裏で何が行われているのか？",
+    "link": "https://qiita.com/tamagokakegohan2/items/8725b4d80fb2a9456e63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-08T12:30:13.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "AWS初心者がAmazon Connectで簡単なコールセンターを構築した話",
     "link": "https://qiita.com/tks_1128/items/c241b9c10d259a9b4efc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-08T12:08:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code on the Webでghコマンドを使う",
-    "link": "https://zenn.dev/oikon/articles/claude-code-web-gh-cli",
-    "pubDate": "Thu, 08 Jan 2026 10:22:42 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Python開発の初速を上げるためのテンプレート設計",
     "link": "https://qiita.com/kobori_akira/items/a69ce52cc2862af7ebc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-07T22:57:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "情報はどうやって海を越えるのか？IPアドレスとDNSの関係性について",
-    "link": "https://qiita.com/shibata1111/items/a3e91b89b5ed9b266e91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-07T08:34:20.000Z"
   }
 ]
