@@ -1,9 +1,75 @@
 [
   {
     "site": "Hatena",
+    "title": "現代ネット社会は評論家など中間的な知的権威を認めず、ガチ専門家だけを尊重しがちだが、「専門性を素人は判断できない」ので彼らの与太話を信じてしまう脆弱性がある",
+    "link": "https://togetter.com/li/2650932",
+    "pubDate": "2026-01-12T09:49:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "イラン、史上初の衛星インターネット遮断　スターリンクに「キルスイッチ」発動 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/89252",
+    "pubDate": "2026-01-12T03:56:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cloudflare入れたのに75%素通りだった話 ー 攻撃者も学習する",
+    "link": "https://zenn.dev/dhc4aki/articles/af82b70c904faa",
+    "pubDate": "2026-01-12T02:31:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2026年1月12日時点】無料版Copilotで何ができるか調べてみた",
+    "link": "https://qiita.com/sadabon444/items/811175c3695a5971b09d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-12T01:55:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、エージェンティックコマース時代に向けた共通規格「UCP」発表　AIが決済まで代行",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/12/news019.html",
+    "pubDate": "2026-01-12T01:38:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OrvalでスキーマとしてZodの選択と、Fetchクライアントでのランタイムバリデーションが可能になりました",
+    "link": "https://zenn.dev/soartec_lab/articles/b6c1e3e56f2aac",
+    "pubDate": "Mon, 12 Jan 2026 00:59:52 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "YouTubeショートで収益停止報告相次ぐ　生成AIで「まとめ」系動画を大量投稿→粗製濫造判定か（オタク総研） - Yahoo!ニュース",
     "link": "https://news.yahoo.co.jp/articles/40ea598367a4c9ca44b11a62707ab98a5d5bd2cc",
     "pubDate": "2026-01-11T23:51:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Seleniumの作者によるAIと人間のためのブラウザ自動化「Vibium」",
+    "link": "https://gigazine.net/news/20260111-vibium/",
+    "pubDate": "2026-01-11T23:39:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIフェイクはここまで来た　自分の顔で試して分かった“違和感”と恐怖 (1/5)",
+    "link": "https://ascii.jp/elem/000/004/365/4365434/",
+    "pubDate": "2026-01-11T23:03:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "おい、辞めないなら頑張れ - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/01/12/003013",
+    "pubDate": "2026-01-11T22:21:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - vercel-labs/agent-browser: Browser automation CLI for AI agents",
+    "link": "https://github.com/vercel-labs/agent-browser",
+    "pubDate": "2026-01-11T20:48:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "俺の考えた一番わかりやすいSPF/DKIM/DMARC解説（N番煎じ）",
+    "link": "https://zenn.dev/robustengine/articles/basic_mail_security_2026ver",
+    "pubDate": "Sun, 11 Jan 2026 16:12:49 GMT"
   },
   {
     "site": "Zenn",
@@ -12,22 +78,16 @@
     "pubDate": "Sun, 11 Jan 2026 15:41:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "APIって何？と聞かれた時に答える内容 - えくせるちゅんちゅん",
-    "link": "https://www.excel-chunchun.com/entry/20260111_what_is_api",
-    "pubDate": "2026-01-11T15:25:55.000Z"
+    "site": "Qiita",
+    "title": "AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい",
+    "link": "https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-11T14:34:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アメリカでITエンジニアからテロリストになった兄の話　追記2",
-    "link": "https://anond.hatelabo.jp/20260111231612",
-    "pubDate": "2026-01-11T15:19:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ちなみにpico-banana-appは女性",
-    "link": "https://anond.hatelabo.jp/20260111212639",
-    "pubDate": "2026-01-11T12:27:16.000Z"
+    "site": "Zenn",
+    "title": "Xで流行りの縦長4分割投稿、ツール作ってみたら意外とハマりどころがあった",
+    "link": "https://zenn.dev/nabewata/articles/7f53c21a5b76ad",
+    "pubDate": "Sun, 11 Jan 2026 13:18:54 GMT"
   },
   {
     "site": "Zenn",
@@ -36,16 +96,34 @@
     "pubDate": "Sun, 11 Jan 2026 12:02:57 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "データを扱う職種について in 2026/01",
+    "link": "https://qiita.com/masukai/items/93dc53af3096184ec368?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-11T11:39:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026年開発環境のことはじめ",
+    "link": "https://zenn.dev/chiaoi/articles/2026_development_environment",
+    "pubDate": "Sun, 11 Jan 2026 11:00:56 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Blueskyで「よくある勘違い」10選 | Bam",
     "link": "https://whtwnd.com/boobam.bsky.social/3mc52c5hfyj2z",
     "pubDate": "2026-01-11T09:44:53.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "入緑しました!",
+    "link": "https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-11T09:12:15.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "CQRS+ES カンファレンス 2026 参加レポート：イベントソーシングの現在地と未来",
-    "link": "https://zenn.dev/jtechjapan_pub/articles/cqrs-conf-2026",
-    "pubDate": "Sun, 11 Jan 2026 09:35:08 GMT"
+    "title": "サムネイル画像URLはバックエンドで生成すべき",
+    "link": "https://zenn.dev/catatsuy/articles/4070de849114e0",
+    "pubDate": "Sun, 11 Jan 2026 09:07:47 GMT"
   },
   {
     "site": "Qiita",
@@ -55,9 +133,9 @@
   },
   {
     "site": "Qiita",
-    "title": "miseのセットアップ(本体&開発ツール)",
-    "link": "https://qiita.com/uhooi/items/0fe7cedd16a09940a710?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-11T04:02:53.000Z"
+    "title": "Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜",
+    "link": "https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-11T06:03:27.000Z"
   },
   {
     "site": "Zenn",
@@ -66,28 +144,10 @@
     "pubDate": "Sun, 11 Jan 2026 02:29:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Geminiの勢いが止まらない。ChatGPTが圧倒されるのも仕方ない",
-    "link": "https://www.gizmodo.jp/2026/01/similarweb_global_ai_tracker_2026_jan_1_gemini_got_share.html",
-    "pubDate": "2026-01-11T01:50:24.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "OpenCodeにおける一部のサードパーティプロバイダーは治安が悪すぎる",
     "link": "https://zenn.dev/nuits_jp/articles/2026-01-11-opencode-third-party-provider",
     "pubDate": "Sun, 11 Jan 2026 00:43:08 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "生成AI（Gemini CLI）を専属アナリストにする。中小型割安株スクリーニングとAI評価のハイブリッド投資術｜はら",
-    "link": "https://note.com/hara_stock/n/nd246546847b4",
-    "pubDate": "2026-01-10T23:55:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIのせいでAIの学習データがなくなってきている - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/01/10/174213",
-    "pubDate": "2026-01-10T20:08:19.000Z"
   },
   {
     "site": "Zenn",
@@ -97,33 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "SDF Face Shadowマッピング を SDF無しでお手軽に再現する",
-    "link": "https://qiita.com/tori_momo/items/949eb49747f425a33f57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-10T16:22:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "code-simplifier：Claude Code公式の「コード整理係」を試してみた",
-    "link": "https://zenn.dev/hjpotter1/articles/5614c3d33de1f3",
-    "pubDate": "Sat, 10 Jan 2026 14:52:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rust + wgpu v28 でハードウェアレイトレーシングに入門する",
-    "link": "https://zenn.dev/kokutoupan/articles/eefc517ac4210d",
-    "pubDate": "Sat, 10 Jan 2026 14:12:23 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "人生初の副業で、要件定義・スケジュール管理・API申請・本業バッティングに全部やられた話",
     "link": "https://qiita.com/oageST/items/09f4a782cee077000c9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-10T12:19:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "毛の一本まで切り抜きたい猫好きエンジニアへ送るセグメンテーション比較",
-    "link": "https://zenn.dev/neoai/articles/segmentation",
-    "pubDate": "Sat, 10 Jan 2026 09:07:08 GMT"
   },
   {
     "site": "Qiita",
@@ -132,51 +168,15 @@
     "pubDate": "2026-01-10T08:20:09.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "MCPでやる必要のない業務をSkillsに置き換えてトークンと時間の消費を爆減してみた",
-    "link": "https://zenn.dev/moneyforward/articles/c43cc7eff468a7",
-    "pubDate": "Sat, 10 Jan 2026 06:27:07 GMT"
+    "site": "Qiita",
+    "title": "Claude Code への質問とその回答を指定のファイルに保存する方法例",
+    "link": "https://qiita.com/CookieBox26/items/bdbfb3e00b181203788f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-10T07:39:54.000Z"
   },
   {
     "site": "Qiita",
     "title": "年間500万円以上のコスト削減を実現したのに、どこかむなしいのはなぜか",
     "link": "https://qiita.com/qiita_mita/items/23781b97f6477d84db17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-09T13:21:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "お名前.comの罠にハマった私が、AIを「超絶クレーマー」に改造した話",
-    "link": "https://qiita.com/momo22222/items/b6019ae2702c58f98bea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-09T07:57:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「Googleでの14年間で学んだ21の教訓」を 個人的な解釈でまとめてみた",
-    "link": "https://qiita.com/Sakai_path/items/8ae1e34e012a53aa8d1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-09T07:01:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Obsidian の個人的に便利だと思う使い方",
-    "link": "https://qiita.com/CookieBox26/items/82c606539cc4fe31e2b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-09T02:35:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "資格懐疑派がAWS SAP取得を目指したきっかけと学習法",
-    "link": "https://qiita.com/toproad/items/b7609a0f538696bedbd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-09T01:33:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "数GBのLLMモデルを、LambdaでLinuxシステムコールを駆使して本番水準で動かす - Nealle Developer's Blog",
-    "link": "https://nealle-dev.hatenablog.com/entry/2026/01/08/103135",
-    "pubDate": "2026-01-08T01:34:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Jujutsu（jj）完全ガイド：Gitを超える次世代バージョン管理システムの実践活用法",
-    "link": "https://zenn.dev/kimkiyong/articles/1806beccb74a88",
-    "pubDate": "2025-07-24T05:21:01.000Z"
   }
 ]
