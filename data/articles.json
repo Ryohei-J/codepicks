@@ -1,15 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "コーディングを楽しめなくなった、あなたへ",
+    "link": "https://zenn.dev/coconala/articles/e1ba22510836fc",
+    "pubDate": "Tue, 13 Jan 2026 03:58:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "BuriKaigi 2026 ができるまで / 運営目線",
+    "link": "https://zenn.dev/xin9le/articles/c3ddd0412b3b22",
+    "pubDate": "Tue, 13 Jan 2026 03:52:27 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "JCB、新ポイント「J-POINT」開始　Amazonやマクドナルドなどで最大10％還元",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2077290.html",
+    "pubDate": "2026-01-13T02:44:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Twitter、なんでこんなTLの内容偏ってんの？とGrokに聞いてみたら『怒りや対立を煽るアルゴリズムになってるからだよ！』って言われた",
+    "link": "https://togetter.com/li/2651202",
+    "pubDate": "2026-01-13T01:55:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "サラリーマンソフトウェアエンジニアのキャリア",
+    "link": "https://speakerdeck.com/yuheinakasaka/sararimansohutoueaenzinianokiyaria",
+    "pubDate": "2026-01-13T01:54:50.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Anthropic、自律型AI「Cowork」発表　デスクトップ作業を丸投げ可能に",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news051.html",
     "pubDate": "2026-01-13T01:12:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソニーもグーグルも去ったCESとテクノロジーの変化　中国のスピードへの対抗【西田宗千佳のイマトミライ】",
-    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2077203.html",
-    "pubDate": "2026-01-12T23:23:24.000Z"
   },
   {
     "site": "Zenn",
@@ -22,12 +46,6 @@
     "title": "Appleによる「Gemini」採用は「不当な権力集中」──「Grok」擁するイーロン・マスク氏",
     "link": "https://www.itmedia.co.jp/news/articles/2601/13/news045.html",
     "pubDate": "2026-01-12T22:42:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Joint statement from Google and Apple",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/",
-    "pubDate": "2026-01-12T21:19:40.000Z"
   },
   {
     "site": "Hatena",
@@ -66,6 +84,12 @@
     "pubDate": "Mon, 12 Jan 2026 11:36:13 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条",
+    "link": "https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-12T10:12:01.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Prisma から Atlas + Kysely への移行 - Supabase 環境での実践記録",
     "link": "https://zenn.dev/coji/articles/prisma-to-atlas-kysely-migration-with-supabase",
@@ -97,39 +121,15 @@
   },
   {
     "site": "Zenn",
-    "title": "OrvalでスキーマとしてZodの選択と、Fetchクライアントでのランタイムバリデーションが可能になりました",
-    "link": "https://zenn.dev/soartec_lab/articles/b6c1e3e56f2aac",
-    "pubDate": "Mon, 12 Jan 2026 00:59:52 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "おい、辞めないなら頑張れ - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2026/01/12/003013",
-    "pubDate": "2026-01-11T22:21:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "俺の考えた一番わかりやすいSPF/DKIM/DMARC解説（N番煎じ）",
-    "link": "https://zenn.dev/robustengine/articles/basic_mail_security_2026ver",
-    "pubDate": "Sun, 11 Jan 2026 16:12:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "便利Neovimプラグイン紹介：undo-glow.nvim",
-    "link": "https://zenn.dev/vim_jp/articles/00e297fcccf949",
-    "pubDate": "Sun, 11 Jan 2026 15:02:01 GMT"
+    "title": "「期待値」を超えるのが一番面白い",
+    "link": "https://zenn.dev/k_sangaku/articles/exceeding-expectations",
+    "pubDate": "Mon, 12 Jan 2026 01:02:41 GMT"
   },
   {
     "site": "Qiita",
     "title": "AIエージェントがUIを生成する「Generative UI」を広く浅く理解したい",
     "link": "https://qiita.com/Takenoko4594/items/4387782ff8310427048e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-11T14:34:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【イベントレポート】BuriKaigi 2026（スタッフ + TDD Bootcamp）",
-    "link": "https://qiita.com/k_adachi_01/items/4aae3afde8f93a0d44a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-11T13:59:12.000Z"
   },
   {
     "site": "Qiita",
@@ -145,6 +145,18 @@
   },
   {
     "site": "Qiita",
+    "title": "Bunってなんだ？〜爆速JavaScriptランタイムの全貌と実践ガイド〜",
+    "link": "https://qiita.com/GeneLab_999/items/ea928f214c6c99dee66e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-11T05:56:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "SQL再入門 #5 - ORDER BY句",
+    "link": "https://qiita.com/TTR11/items/7fa945bfb5e33ecbb8ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-10T15:14:51.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "人生初の副業で、要件定義・スケジュール管理・API申請・本業バッティングに全部やられた話",
     "link": "https://qiita.com/oageST/items/09f4a782cee077000c9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-10T12:19:37.000Z"
@@ -154,18 +166,6 @@
     "title": "俺の設計が甘かったばかりにAIが精神を崩壊させてしまった件",
     "link": "https://qiita.com/Blacpans/items/4c65053a3db0e3bb6ecb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-10T08:20:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code への質問とその回答を指定のファイルに保存する方法例",
-    "link": "https://qiita.com/CookieBox26/items/bdbfb3e00b181203788f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-10T07:39:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "企業・自治体・学校・中古PC業者が連携してつくる「教育×IT」の新しいエコシステム",
-    "link": "https://qiita.com/kameda05/items/204df7802b9855461f74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-10T04:25:03.000Z"
   },
   {
     "site": "Hatena",
