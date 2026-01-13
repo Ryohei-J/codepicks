@@ -1,21 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "Joint statement from Google and Apple",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/",
+    "pubDate": "2026-01-12T21:19:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Appleの次世代AIはGoogle Geminiベースに　「数年にわたる協力関係」を開始",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news044.html",
+    "pubDate": "2026-01-12T18:33:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIはなぜTypeScriptのような型付き言語の普及を促進するのか、GitHubが理由を説明",
+    "link": "https://www.publickey1.jp/blog/26/aitypescriptgithub.html",
+    "pubDate": "2026-01-12T15:37:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google AIは友達集めて最大83%オフで利用できる（Proだと月額202円から）",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-01-12-google-ai-family-share",
+    "pubDate": "Mon, 12 Jan 2026 11:36:13 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "通信速度がやけに遅いので色々調べた上でLANケーブルを新しくしたら爆速になった話「見落としがちなので要確認」「カテゴリはケーブルに印字されてる」",
     "link": "https://togetter.com/li/2650946",
     "pubDate": "2026-01-12T11:17:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "現代ネット社会は評論家など中間的な知的権威を認めず、ガチ専門家だけを尊重しがちだが、「専門性を素人は判断できない」ので彼らの与太話を信じてしまう脆弱性がある",
-    "link": "https://togetter.com/li/2650932",
-    "pubDate": "2026-01-12T09:49:17.000Z"
+    "site": "Zenn",
+    "title": "Prisma から Atlas + Kysely への移行 - Supabase 環境での実践記録",
+    "link": "https://zenn.dev/coji/articles/prisma-to-atlas-kysely-migration-with-supabase",
+    "pubDate": "Mon, 12 Jan 2026 09:55:43 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "イラン、史上初の衛星インターネット遮断　スターリンクに「キルスイッチ」発動 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/89252",
-    "pubDate": "2026-01-12T03:56:58.000Z"
+    "site": "Zenn",
+    "title": "ゲームエフェクトってどうやってできてるの？",
+    "link": "https://zenn.dev/kurie/articles/771d62b9790416",
+    "pubDate": "Mon, 12 Jan 2026 07:55:49 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Strands × MCP × AgentCore Identity使用時のエラー解消メモ",
+    "link": "https://qiita.com/har1101/items/f9a12f86ff642f8920c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-12T07:49:49.000Z"
   },
   {
     "site": "Zenn",
@@ -30,16 +60,10 @@
     "pubDate": "2026-01-12T01:55:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Google、エージェンティックコマース時代に向けた共通規格「UCP」発表　AIが決済まで代行",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/12/news019.html",
-    "pubDate": "2026-01-12T01:38:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "2026 is the Year of Self-hosting",
-    "link": "https://fulghum.io/self-hosting",
-    "pubDate": "2026-01-12T01:21:55.000Z"
+    "site": "Zenn",
+    "title": "「期待値」を超えるのが一番面白い",
+    "link": "https://zenn.dev/k_sangaku/articles/exceeding-expectations",
+    "pubDate": "Mon, 12 Jan 2026 01:02:41 GMT"
   },
   {
     "site": "Zenn",
@@ -55,9 +79,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Seleniumの作者によるAIと人間のためのブラウザ自動化「Vibium」",
-    "link": "https://gigazine.net/news/20260111-vibium/",
-    "pubDate": "2026-01-11T23:39:31.000Z"
+    "title": "ChatGPTとの会話を丸ごと盗むChrome拡張機能、90万人以上がダウンロードする大規模被害（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/01/12/4814.html",
+    "pubDate": "2026-01-12T00:33:26.000Z"
   },
   {
     "site": "Hatena",
@@ -79,9 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【2026年1月更新】Discordの読み上げbotを全てレビュー！おすすめのbotをまとめました！",
-    "link": "https://zenn.dev/siyukatu/articles/discord-ttsbot-list",
-    "pubDate": "Sun, 11 Jan 2026 15:41:09 GMT"
+    "title": "便利Neovimプラグイン紹介：undo-glow.nvim",
+    "link": "https://zenn.dev/vim_jp/articles/00e297fcccf949",
+    "pubDate": "Sun, 11 Jan 2026 15:02:01 GMT"
   },
   {
     "site": "Qiita",
@@ -90,10 +114,10 @@
     "pubDate": "2026-01-11T14:34:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Xで流行りの縦長4分割投稿、ツール作ってみたら意外とハマりどころがあった",
-    "link": "https://zenn.dev/nabewata/articles/7f53c21a5b76ad",
-    "pubDate": "Sun, 11 Jan 2026 13:18:54 GMT"
+    "site": "Qiita",
+    "title": "【イベントレポート】BuriKaigi 2026（スタッフ + TDD Bootcamp）",
+    "link": "https://qiita.com/k_adachi_01/items/4aae3afde8f93a0d44a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-11T13:59:12.000Z"
   },
   {
     "site": "Zenn",
@@ -102,22 +126,10 @@
     "pubDate": "Sun, 11 Jan 2026 12:02:57 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "データを扱う職種について in 2026/01",
-    "link": "https://qiita.com/masukai/items/93dc53af3096184ec368?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-11T11:39:57.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "2026年開発環境のことはじめ",
     "link": "https://zenn.dev/chiaoi/articles/2026_development_environment",
     "pubDate": "Sun, 11 Jan 2026 11:00:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "入緑しました!",
-    "link": "https://qiita.com/alpha0314alpha/items/eb3d9f5e3e0406a0a8e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-11T09:12:15.000Z"
   },
   {
     "site": "Zenn",
@@ -136,24 +148,6 @@
     "title": "Expressってなんだ？〜Node.jsの事実上の標準フレームワークを完全理解〜",
     "link": "https://qiita.com/GeneLab_999/items/58be7519dee6a58f74d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-11T06:03:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare入れたのに75%素通りだった話 ー 攻撃者も学習する",
-    "link": "https://zenn.dev/dhc4aki/articles/af82b70c904faa",
-    "pubDate": "Sun, 11 Jan 2026 02:29:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenCodeにおける一部のサードパーティプロバイダーは治安が悪すぎる",
-    "link": "https://zenn.dev/nuits_jp/articles/2026-01-11-opencode-third-party-provider",
-    "pubDate": "Sun, 11 Jan 2026 00:43:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "超小型日本語LLM LFM 2.5-JPと会話してみた",
-    "link": "https://zenn.dev/kok1eeeee/articles/lfm25-local-llm-trial",
-    "pubDate": "Sat, 10 Jan 2026 19:28:01 GMT"
   },
   {
     "site": "Qiita",
@@ -175,8 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "年間500万円以上のコスト削減を実現したのに、どこかむなしいのはなぜか",
-    "link": "https://qiita.com/qiita_mita/items/23781b97f6477d84db17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-09T13:21:47.000Z"
+    "title": "企業・自治体・学校・中古PC業者が連携してつくる「教育×IT」の新しいエコシステム",
+    "link": "https://qiita.com/kameda05/items/204df7802b9855461f74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-10T04:25:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Nano Banana Pro Prompts - 高品質AIプロンプトと画像生成 - YouMind",
+    "link": "https://youmind.com/ja-JP/nano-banana-pro-prompts",
+    "pubDate": "2025-12-09T13:08:24.000Z"
   }
 ]
