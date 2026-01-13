@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Anthropic、自律型AI「Cowork」発表　デスクトップ作業を丸投げ可能に",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/13/news051.html",
+    "pubDate": "2026-01-13T01:12:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソニーもグーグルも去ったCESとテクノロジーの変化　中国のスピードへの対抗【西田宗千佳のイマトミライ】",
+    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2077203.html",
+    "pubDate": "2026-01-12T23:23:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "\"AIエージェント時代、正直しんどい話\" に対する処方箋",
+    "link": "https://zenn.dev/hand_dot/articles/93089ca5b6de7f",
+    "pubDate": "Mon, 12 Jan 2026 23:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Appleによる「Gemini」採用は「不当な権力集中」──「Grok」擁するイーロン・マスク氏",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/13/news045.html",
+    "pubDate": "2026-01-12T22:42:34.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Joint statement from Google and Apple",
     "link": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/",
     "pubDate": "2026-01-12T21:19:40.000Z"
@@ -18,16 +42,28 @@
     "pubDate": "2026-01-12T15:37:16.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "人間がECサイトを訪れることなく、AIエージェントとの対話だけで商品を探し、購入、決済まで実現する「Universal Commerce Protocol」（UCP）登場",
+    "link": "https://www.publickey1.jp/blog/26/ecaiuniversal_commerce_protocolucp.html",
+    "pubDate": "2026-01-12T15:30:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rustの未初期化I/O用APIの現状",
+    "link": "https://zenn.dev/qnighy/articles/6ee7b9b7d8b9ec",
+    "pubDate": "Mon, 12 Jan 2026 14:30:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Zennの自動翻訳機能から学ぶプロダクト開発の難しさ",
+    "link": "https://zenn.dev/akari1106/articles/993e42b4430f36",
+    "pubDate": "Mon, 12 Jan 2026 13:53:27 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "Google AIは友達集めて最大83%オフで利用できる（Proだと月額202円から）",
     "link": "https://zenn.dev/nuits_jp/articles/2026-01-12-google-ai-family-share",
     "pubDate": "Mon, 12 Jan 2026 11:36:13 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "通信速度がやけに遅いので色々調べた上でLANケーブルを新しくしたら爆速になった話「見落としがちなので要確認」「カテゴリはケーブルに印字されてる」",
-    "link": "https://togetter.com/li/2650946",
-    "pubDate": "2026-01-12T11:17:51.000Z"
   },
   {
     "site": "Zenn",
@@ -49,9 +85,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Cloudflare入れたのに75%素通りだった話 ー 攻撃者も学習する",
-    "link": "https://zenn.dev/dhc4aki/articles/af82b70c904faa",
-    "pubDate": "2026-01-12T02:31:28.000Z"
+    "title": "UseCaseレイヤーって要るの？",
+    "link": "https://zenn.dev/timelab/articles/354615e675ae9a",
+    "pubDate": "Mon, 12 Jan 2026 05:47:57 GMT"
   },
   {
     "site": "Qiita",
@@ -61,33 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "「期待値」を超えるのが一番面白い",
-    "link": "https://zenn.dev/k_sangaku/articles/exceeding-expectations",
-    "pubDate": "Mon, 12 Jan 2026 01:02:41 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "OrvalでスキーマとしてZodの選択と、Fetchクライアントでのランタイムバリデーションが可能になりました",
     "link": "https://zenn.dev/soartec_lab/articles/b6c1e3e56f2aac",
     "pubDate": "Mon, 12 Jan 2026 00:59:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コーディングエージェントにやさしい環境は、人間にも優しかった ghq × gwq × fzf のススメ",
-    "link": "https://zenn.dev/shunk031/articles/ghq-gwq-fzf-worktree",
-    "pubDate": "2026-01-12T00:44:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPTとの会話を丸ごと盗むChrome拡張機能、90万人以上がダウンロードする大規模被害（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/01/12/4814.html",
-    "pubDate": "2026-01-12T00:33:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIフェイクはここまで来た　自分の顔で試して分かった“違和感”と恐怖 (1/5)",
-    "link": "https://ascii.jp/elem/000/004/365/4365434/",
-    "pubDate": "2026-01-11T23:03:11.000Z"
   },
   {
     "site": "Hatena",
@@ -118,24 +130,6 @@
     "title": "【イベントレポート】BuriKaigi 2026（スタッフ + TDD Bootcamp）",
     "link": "https://qiita.com/k_adachi_01/items/4aae3afde8f93a0d44a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-11T13:59:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent Skills Scriptsアンチパターン その1",
-    "link": "https://zenn.dev/tkithrta/articles/6e36550369a65e",
-    "pubDate": "Sun, 11 Jan 2026 12:02:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026年開発環境のことはじめ",
-    "link": "https://zenn.dev/chiaoi/articles/2026_development_environment",
-    "pubDate": "Sun, 11 Jan 2026 11:00:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "サムネイル画像URLはバックエンドで生成すべき",
-    "link": "https://zenn.dev/catatsuy/articles/4070de849114e0",
-    "pubDate": "Sun, 11 Jan 2026 09:07:47 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "Nano Banana Pro Prompts - 高品質AIプロンプトと画像生成 - YouMind",
     "link": "https://youmind.com/ja-JP/nano-banana-pro-prompts",
     "pubDate": "2025-12-09T13:08:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "VS Code の Remote Development は仕組みを理解してないと危ない - Qiita",
+    "link": "https://qiita.com/coatly/items/a392925346f091b49279",
+    "pubDate": "2023-04-03T07:16:34.000Z"
   }
 ]
