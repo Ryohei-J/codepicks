@@ -1,9 +1,9 @@
 [
   {
     "site": "Hatena",
-    "title": "「Studio One 8」に相当する新DAW「Fender Studio Pro 8」が誕生。ブランド変更とともに新UI・AIノート変換・Fender公式アンプが一気に統合",
-    "link": "https://www.dtmstation.com/archives/75655.html",
-    "pubDate": "2026-01-13T15:27:25.000Z"
+    "title": "マウスの戻るボタンでページ遷移してしまう原因を追ったら Google Tag Manager に行き着いた - ドワンゴ教育サービス開発者ブログ",
+    "link": "https://blog.nnn.dev/entry/2026/01/14/110000",
+    "pubDate": "2026-01-14T02:17:25.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +13,21 @@
   },
   {
     "site": "Hatena",
+    "title": "CLAUDE.md や AGENTS.md のベストプラクティスな書き方 - izanami",
+    "link": "https://izanami.dev/post/47b08b5a-6e1c-4fb0-8342-06b8e627450a",
+    "pubDate": "2026-01-13T14:23:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「魁！！男塾【公式】」YouTubeチャンネルが収益化無効に　“量産型コンテンツ”の烙印に「貴殿達こそ量産型のシステムで審査してるんじゃないのか？」",
     "link": "https://www.itmedia.co.jp/news/articles/2601/13/news118.html",
     "pubDate": "2026-01-13T14:04:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot を極める会",
+    "link": "https://zenn.dev/microsoft/articles/github_copilot_advanced",
+    "pubDate": "Tue, 13 Jan 2026 13:07:37 GMT"
   },
   {
     "site": "Hatena",
@@ -48,6 +60,12 @@
     "pubDate": "2026-01-13T09:31:17.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "青春18きっぷ1枚で日本縦断ずっと不可能だったけどまた可能になったので最北端の稚内から最南端の鹿児島まで行ってきた｜pato",
+    "link": "https://note.com/pato_numeri/n/neb0a35648079",
+    "pubDate": "2026-01-13T08:29:07.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【CISSP合格体験記】実務経験者が3か月・約100時間で合格するまで",
     "link": "https://zenn.dev/kenseitogari/articles/5124cc75373ac5",
@@ -58,6 +76,18 @@
     "title": "データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について",
     "link": "https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-13T07:01:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code の集中力を保つ Agent Skills を作った",
+    "link": "https://zenn.dev/cureapp/articles/c5016035a7d53d",
+    "pubDate": "Tue, 13 Jan 2026 06:56:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "2025年の AI コーディングの振り返り",
+    "link": "https://zenn.dev/hololab/articles/28f84cfcdfea9d",
+    "pubDate": "Tue, 13 Jan 2026 06:27:51 GMT"
   },
   {
     "site": "Qiita",
@@ -84,12 +114,6 @@
     "pubDate": "Tue, 13 Jan 2026 03:52:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "サラリーマンソフトウェアエンジニアのキャリア",
-    "link": "https://speakerdeck.com/yuheinakasaka/sararimansohutoueaenzinianokiyaria",
-    "pubDate": "2026-01-13T01:54:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Unityでドンキーコングバナンザみたいにボクセルを扱う(メッシュ生成編)",
     "link": "https://qiita.com/0ali8hi26/items/22c391addbdb74e7ace3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,12 +132,6 @@
     "pubDate": "Mon, 12 Jan 2026 22:50:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "マッキンゼーが「人間がAIに勝てる」3つのスキルを特定。「若手が磨くべき分野」はこれだ | Business Insider Japan",
-    "link": "https://www.businessinsider.jp/article/2601-mckinsey-boss-shares-human-skills-ai-models-cant-do/",
-    "pubDate": "2026-01-12T22:31:18.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "iptables入れたのにまだ27%直接アクセスされてた ー IPv6を忘れていた",
     "link": "https://zenn.dev/dhc4aki/articles/955d4fcbea3196",
@@ -121,33 +139,15 @@
   },
   {
     "site": "Zenn",
-    "title": "ベクターフォントの機械学習用ライブラリ TorchFont を作った",
-    "link": "https://zenn.dev/fjktkm/articles/c674b6185076a8",
-    "pubDate": "Mon, 12 Jan 2026 19:08:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustの未初期化I/O用APIの現状",
-    "link": "https://zenn.dev/qnighy/articles/6ee7b9b7d8b9ec",
-    "pubDate": "Mon, 12 Jan 2026 14:30:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Zennの自動翻訳機能から学ぶプロダクト開発の難しさ",
-    "link": "https://zenn.dev/akari1106/articles/993e42b4430f36",
-    "pubDate": "Mon, 12 Jan 2026 13:53:27 GMT"
+    "title": "【日本で12人目】Kubernetes未経験から1年で15資格全冠した記録【Golden Kubestronaut】",
+    "link": "https://zenn.dev/yuu7751/articles/e6bbaa11aac218",
+    "pubDate": "Mon, 12 Jan 2026 22:00:01 GMT"
   },
   {
     "site": "Qiita",
     "title": "【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条",
     "link": "https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-12T10:12:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ゲームエフェクトってどうやってできてるの？",
-    "link": "https://zenn.dev/kurie/articles/771d62b9790416",
-    "pubDate": "Mon, 12 Jan 2026 07:55:49 GMT"
   },
   {
     "site": "Qiita",
