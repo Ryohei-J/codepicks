@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "「嫌な仕事を始められない」脳回路を解明　“やる気ブレーキ”を発見　京大など",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/15/news123.html",
+    "pubDate": "2026-01-15T07:34:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "開発環境現状確認 2026 - k0kubun's blog",
+    "link": "https://k0kubun.hatenablog.com/entry/development-environment-2026",
+    "pubDate": "2026-01-15T06:58:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "総務省、「自治体AIガイドブック」第4版公表　自治体の生成AI活用事例、利用ルール整備に役立つテンプレ公開",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/15/news057.html",
+    "pubDate": "2026-01-15T06:35:34.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～",
+    "link": "https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-15T05:43:44.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "5億画素だがUSBポートなし。人間という「デバイス」に接続し、脳内イメージを画像化する技術 | レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/column/detail_785/",
     "pubDate": "2026-01-15T01:48:41.000Z"
@@ -12,16 +36,58 @@
     "pubDate": "2026-01-15T00:06:26.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "「横のガードレール」でAIにアーキテクチャを教えるのをやめた話",
+    "link": "https://zenn.dev/hideyuki_toyama/articles/horizontal-guard-rails",
+    "pubDate": "Wed, 14 Jan 2026 23:15:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeの並列実行を効率化する管理アプリを作った",
+    "link": "https://zenn.dev/akino/articles/4e1b949594b6ca",
+    "pubDate": "Wed, 14 Jan 2026 22:10:05 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "グーグル、「Gemini」がユーザー専属のAIエージェントになる「Personal Intelligence」発表",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2077924.html",
     "pubDate": "2026-01-14T16:59:02.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Rust+Wasmで爆速ライフゲームを作って動く壁紙にする",
+    "link": "https://zenn.dev/108_twil3akine/articles/rust-wasm-lifegame-wallpaper",
+    "pubDate": "Wed, 14 Jan 2026 16:06:58 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "タイポグラフィCSS",
+    "link": "https://gist.github.com/tak-dcxi/0f8b924d6dd81aaeb58dc2e287f2ab3a",
+    "pubDate": "2026-01-14T15:22:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust アプリケーションにおける実践的トランザクション設計",
+    "link": "https://zenn.dev/poi2/articles/68e3d158a6d4b9",
+    "pubDate": "Wed, 14 Jan 2026 15:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeとCodexの連携をMCPからSkillに変えたら体験が劇的に改善した",
+    "link": "https://zenn.dev/owayo/articles/63d325934ba0de",
+    "pubDate": "Wed, 14 Jan 2026 14:40:20 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "​Bandcamp、生成AI音楽を全面禁止｜人間によるクリエイティビティ保護を宣言 | クラベリア",
     "link": "https://clubberia.com/ja/news/11907-Bandcamp-AI/",
     "pubDate": "2026-01-14T14:26:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "[合格体験記] 基本情報技術者試験に合格しました [2026]",
+    "link": "https://zenn.dev/raynya/articles/b099760ba4e768",
+    "pubDate": "Wed, 14 Jan 2026 14:17:21 GMT"
   },
   {
     "site": "Hatena",
@@ -36,10 +102,10 @@
     "pubDate": "2026-01-14T14:04:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "M5Stackのかわいいロボット“スタックチャン”クラウドファンディング開始　約1万円から",
-    "link": "https://ascii.jp/elem/000/004/366/4366129/",
-    "pubDate": "2026-01-14T11:42:18.000Z"
+    "site": "Zenn",
+    "title": "【Gemini】社内の風景写真を「新海誠風」に変換して、資料作成の素材不足を解決してみた",
+    "link": "https://zenn.dev/medirom_tech/articles/b12ba64c57d413",
+    "pubDate": "Wed, 14 Jan 2026 10:08:03 GMT"
   },
   {
     "site": "Qiita",
@@ -60,64 +126,22 @@
     "pubDate": "Wed, 14 Jan 2026 02:09:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「ハーバー・ボッシュ法」が100年ぶりに覆される：Ammobiaが描くアンモニア製造の革命と脱炭素社会への道筋 | XenoSpectrum",
-    "link": "https://xenospectrum.com/ammobia-green-ammonia-haber-bosch-2-0-revolution/",
-    "pubDate": "2026-01-14T01:45:07.000Z"
+    "site": "Zenn",
+    "title": "Claude Agent Skills のベストプラクティス",
+    "link": "https://zenn.dev/ttks/articles/1ff66cc3f89d2a",
+    "pubDate": "Wed, 14 Jan 2026 01:29:45 GMT"
   },
   {
-    "site": "Qiita",
+    "site": "Zenn",
     "title": "Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた",
-    "link": "https://qiita.com/hiropon122/items/c130168ca3fc0f1f6aaa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-14T00:56:01.000Z"
+    "link": "https://zenn.dev/hiropon22/articles/599e0d5a7517b3",
+    "pubDate": "Wed, 14 Jan 2026 00:56:16 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Aurora MySQL から S3 に直接 CSV 出力する【SELECT INTO OUTFILE S3】",
-    "link": "https://qiita.com/h_ito_yzrh/items/44c3376cd87c3d1bc9f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-14T00:54:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の集中力を保つ Agent Skills を作った",
-    "link": "https://zenn.dev/cureapp/articles/c5016035a7d53d",
-    "pubDate": "2026-01-13T23:23:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot を極める会",
-    "link": "https://zenn.dev/microsoft/articles/github_copilot_advanced",
-    "pubDate": "2026-01-13T22:47:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot を極める会",
-    "link": "https://zenn.dev/microsoft/articles/github_copilot_advanced",
-    "pubDate": "Tue, 13 Jan 2026 13:07:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "React×TypeScriptで事故らない型設計：現場で効くパターン10選",
-    "link": "https://zenn.dev/mitsuo119/articles/cd5feaee09262b",
-    "pubDate": "Tue, 13 Jan 2026 13:00:13 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "OCIのノーコード・エージェントビルダー『Agent Factory』がリリース！触ってみた",
-    "link": "https://qiita.com/yushibats/items/cb29c3208ac188dad5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-13T11:31:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude「Cowork」を試してみた - コーディング不要でClaude Codeの力を使えるようになった",
-    "link": "https://zenn.dev/lnest_knowledge/articles/0b763e2ccf1bd8",
-    "pubDate": "Tue, 13 Jan 2026 08:24:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【CISSP合格体験記】実務経験者が3か月・約100時間で合格するまで",
-    "link": "https://zenn.dev/kenseitogari/articles/5124cc75373ac5",
-    "pubDate": "Tue, 13 Jan 2026 07:36:23 GMT"
+    "title": "Claude Codeとghコマンドで、コードエディタをほぼ触らなくなった話",
+    "link": "https://qiita.com/take-yoda/items/31399825fe2a1a03550a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-13T08:15:15.000Z"
   },
   {
     "site": "Qiita",
@@ -126,46 +150,22 @@
     "pubDate": "2026-01-13T07:01:44.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code の集中力を保つ Agent Skills を作った",
-    "link": "https://zenn.dev/cureapp/articles/c5016035a7d53d",
-    "pubDate": "Tue, 13 Jan 2026 06:56:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2025年の AI コーディングの振り返り",
-    "link": "https://zenn.dev/hololab/articles/28f84cfcdfea9d",
-    "pubDate": "Tue, 13 Jan 2026 06:27:51 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "アーキテクチャの本質は共通している？最も大切な責務分離という考え方",
     "link": "https://qiita.com/shibata1111/items/b1726a7a6054ed7e64df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-13T06:27:06.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "コーディングを楽しめなくなった、あなたへ",
-    "link": "https://zenn.dev/coconala/articles/e1ba22510836fc",
-    "pubDate": "Tue, 13 Jan 2026 03:58:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "BuriKaigi 2026 ができるまで / 運営目線",
-    "link": "https://zenn.dev/xin9le/articles/c3ddd0412b3b22",
-    "pubDate": "Tue, 13 Jan 2026 03:52:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Antigravityにエンジニアリングの未来を見た",
-    "link": "https://zenn.dev/innovation/articles/ce0f4b638fd86c",
-    "pubDate": "Tue, 13 Jan 2026 03:00:44 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜",
     "link": "https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-13T01:24:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた",
+    "link": "https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-13T00:24:08.000Z"
   },
   {
     "site": "Qiita",
