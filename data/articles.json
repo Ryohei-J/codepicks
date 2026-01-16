@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "生成AIの絵って実際どのぐらい受け入れられてるかっていう話",
+    "link": "https://anond.hatelabo.jp/20260116152714",
+    "pubDate": "2026-01-16T06:30:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "プログラミングが好きな人は、もうIT業界に来るな。｜いぐぞー@書籍執筆中 ✈️ 旅するプログラマー",
+    "link": "https://note.com/igz0/n/n80b262ea33ba",
+    "pubDate": "2026-01-16T05:35:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Vue 3: computed で入力バリデーションをリアルタイム表示する",
+    "link": "https://qiita.com/pomusuke36/items/90697508c14d8f2a5afe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T05:28:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "開発環境現状確認2026｜laiso",
+    "link": "https://sizu.me/laiso/posts/3ssbv27ca1o0",
+    "pubDate": "2026-01-16T05:13:35.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「腕時計は一生Apple Watchでいいや」と思ってたけど100万円のロレックス1本買って長く使った方がコスパがいい？→機械式は維持費が高いし比較しにくい",
     "link": "https://togetter.com/li/2652358",
     "pubDate": "2026-01-16T02:29:58.000Z"
@@ -18,6 +42,18 @@
     "pubDate": "2026-01-16T01:40:28.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "日本語特化拡散言語モデル「ELYZA-LLM-Diffusion」の公開",
+    "link": "https://zenn.dev/elyza/articles/f9dd010e895a34",
+    "pubDate": "Fri, 16 Jan 2026 01:30:02 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "カメラが回る開発現場で学ぶ、エンジニアがビジネスで成長するための5つの視点",
+    "link": "https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T00:00:57.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "チャッピー「あなたは狂っていないよ」──ChatGPTがある男の妄想をずっと肯定→母親を殺害する事件に　米国で発生",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2601/16/news038.html",
@@ -28,6 +64,18 @@
     "title": "AI に指示するのではなく、まずは AI に質問させた方が捗る",
     "link": "https://zenn.dev/hataluck/articles/d347a5011cf71e",
     "pubDate": "2026-01-15T23:47:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AgentCore Gateway で MCP サーバー・ツールのアクセス制御を実現する 3 つの方法の徹底比較",
+    "link": "https://zenn.dev/aws_japan/articles/003-bedrock-agentcore-policy-fgac",
+    "pubDate": "Thu, 15 Jan 2026 22:48:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Emacsに浮気してしまったVimmerが2026年に思うこと",
+    "link": "https://zenn.dev/laraochan/articles/c2d8ce9525f096",
+    "pubDate": "Thu, 15 Jan 2026 19:22:50 GMT"
   },
   {
     "site": "Hatena",
@@ -42,22 +90,28 @@
     "pubDate": "2026-01-15T12:48:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "話題のAIツール、グーグル「NotebookLM」をもっと活用する方法 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/89389",
-    "pubDate": "2026-01-15T08:16:24.000Z"
+    "site": "Zenn",
+    "title": "Mermaidコード読めないから某翻訳アプリのようなChrome拡張機能を作った",
+    "link": "https://zenn.dev/harumikun/articles/607d6992408ad5",
+    "pubDate": "Thu, 15 Jan 2026 12:43:56 GMT"
   },
   {
     "site": "Qiita",
-    "title": "【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～",
-    "link": "https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-15T05:43:44.000Z"
+    "title": "Redshiftで2.5の整数キャストが3にも2にもなる理由",
+    "link": "https://qiita.com/koto-t/items/6010676fea48377eb2b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-15T08:24:33.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude CodeとCodexの連携をMCPからSkillに変えたら体験が劇的に改善した",
-    "link": "https://zenn.dev/owayo/articles/63d325934ba0de",
-    "pubDate": "2026-01-15T02:40:14.000Z"
+    "site": "Qiita",
+    "title": "【Rails】form_with と params って結局なんやねん",
+    "link": "https://qiita.com/hinanata72/items/11b4b4be3a5572f3a102?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-15T08:10:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Select AI】クエリできすぎくんを使ってSelect AIを検証してみた（Part 2）",
+    "link": "https://qiita.com/marfujim/items/be7cd9e7b017db6b84fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-15T07:05:32.000Z"
   },
   {
     "site": "Zenn",
@@ -73,15 +127,15 @@
   },
   {
     "site": "Zenn",
+    "title": "RAGに疲れた人に捧げるClaude SkillsをAPI経由で使って簡単にRAGっぽいものを作る方法",
+    "link": "https://zenn.dev/axelspace/articles/6aadb2755b7677",
+    "pubDate": "Wed, 14 Jan 2026 21:30:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Rust+Wasmで爆速ライフゲームを作って動く壁紙にする",
     "link": "https://zenn.dev/108_twil3akine/articles/rust-wasm-lifegame-wallpaper",
     "pubDate": "Wed, 14 Jan 2026 16:06:58 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "タイポグラフィCSS",
-    "link": "https://gist.github.com/tak-dcxi/0f8b924d6dd81aaeb58dc2e287f2ab3a",
-    "pubDate": "2026-01-14T15:22:27.000Z"
   },
   {
     "site": "Zenn",
@@ -96,30 +150,6 @@
     "pubDate": "Wed, 14 Jan 2026 14:40:20 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【Gemini】社内の風景写真を「新海誠風」に変換して、資料作成の素材不足を解決してみた",
-    "link": "https://zenn.dev/medirom_tech/articles/b12ba64c57d413",
-    "pubDate": "Wed, 14 Jan 2026 10:08:03 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポケモン×Java】知識編 ERROR #7  ## 論理エラーは「止まらない」― だから気づけない？！",
-    "link": "https://qiita.com/hitomin_poke/items/3ae7541a112833cad737?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-14T08:36:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI に指示するのではなく、まずは AI に質問させた方が捗る",
-    "link": "https://zenn.dev/hataluck/articles/d347a5011cf71e",
-    "pubDate": "Wed, 14 Jan 2026 05:44:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Reactの魔法を理解する",
-    "link": "https://zenn.dev/gaomond/articles/7c69f904c53ceb",
-    "pubDate": "Wed, 14 Jan 2026 04:57:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025",
     "link": "https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -132,16 +162,10 @@
     "pubDate": "2026-01-14T02:27:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "State of PWA 2026：今あらためて整理するPWA",
-    "link": "https://zenn.dev/masatodev/articles/6c9461617b3432",
-    "pubDate": "Wed, 14 Jan 2026 02:09:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Agent Skills のベストプラクティス",
-    "link": "https://zenn.dev/ttks/articles/1ff66cc3f89d2a",
-    "pubDate": "Wed, 14 Jan 2026 01:29:45 GMT"
+    "site": "Qiita",
+    "title": "Raspberry Pi＋フォトカプラでリモートからPCリセット",
+    "link": "https://qiita.com/septigram/items/326dfb5d9177d3688576?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-13T22:38:48.000Z"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "Claude Codeとghコマンドで、コードエディタをほぼ触らなくなった話",
     "link": "https://qiita.com/take-yoda/items/31399825fe2a1a03550a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-13T08:15:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "データベースはなぜ大切なのか？多くの人が説明できない概念的な考え方について",
-    "link": "https://qiita.com/shibata1111/items/45699be4eb9d7e0f3b8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-13T07:01:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "無茶なスケジュール案件でも燃えにくくする「開発環境」と内部工程計画の考え方",
-    "link": "https://qiita.com/masa-555/items/ed2b64a94c7547133a85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-13T04:55:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ハッカー視点で語る「Initial Access（初期侵入）」 〜 派手なExploitより、地味なパスワードが最強 〜",
-    "link": "https://qiita.com/tkmiii_GiGOOO/items/01de1ee21d2491c54450?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-13T01:24:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた",
-    "link": "https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-13T00:24:08.000Z"
   }
 ]
