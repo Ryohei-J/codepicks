@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "職場のアメリカ人から「Youはアルファベットしか入力できないキーボードでどうやって数多くの漢字をタイピングしているんだ?」と質問されたので、入力方法を教えたら感動していた",
+    "link": "https://togetter.com/li/2652895",
+    "pubDate": "2026-01-17T08:24:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPT、「広告」開始へ　無料版と1500円の新プラン「ChatGPT Go」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2078673.html",
+    "pubDate": "2026-01-17T02:26:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "[読書]2025年に読んだ本、後編",
+    "link": "https://anond.hatelabo.jp/20260117083916",
+    "pubDate": "2026-01-16T23:45:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "チャットGPTに広告表示、米国で試験導入　OpenAIが巨額投資回収へ - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN16CAW0W6A110C2000000/",
     "pubDate": "2026-01-16T22:14:30.000Z"
@@ -12,10 +30,10 @@
     "pubDate": "2026-01-16T17:48:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "検閲のゆるいAIランキング",
-    "link": "https://gigazine.net/news/20260116-uncensored-ai/",
-    "pubDate": "2026-01-16T14:35:07.000Z"
+    "site": "Zenn",
+    "title": "Honoの型推論は好きだけどRPCの書き方が苦手な人のための、RESTな型安全クライアント「hono-typed-rest」を作った",
+    "link": "https://zenn.dev/andyyyy64/articles/d8ffe5f26d4a56",
+    "pubDate": "Fri, 16 Jan 2026 13:30:47 GMT"
   },
   {
     "site": "Hatena",
@@ -30,10 +48,28 @@
     "pubDate": "2026-01-16T11:31:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Meta、VR空間に集まって仕事できる「Horizon Workrooms」を終了",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/16/news122.html",
-    "pubDate": "2026-01-16T08:27:39.000Z"
+    "site": "Zenn",
+    "title": "2025年に調べたり構築した開発環境について",
+    "link": "https://zenn.dev/hiro345/articles/20260113_development",
+    "pubDate": "Fri, 16 Jan 2026 10:34:51 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS Amplify Gen2】Next.js の ログインUIを追加しよう",
+    "link": "https://qiita.com/YSasago/items/5138187b2dbeaa1f99b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T10:09:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI時代の技術書との付き合いかた",
+    "link": "https://qiita.com/araom/items/cbdcda9c0251d66f252c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T09:38:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "IAnimationClipSourceという神インターフェースについて",
+    "link": "https://qiita.com/nemuke_cs/items/307b277b9202ab553bc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T08:47:11.000Z"
   },
   {
     "site": "Zenn",
@@ -48,28 +84,22 @@
     "pubDate": "2026-01-16T06:45:29.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Strands AgentsでClaudeモデルのプロンプトキャッシュを使う方法",
+    "link": "https://qiita.com/moritalous/items/062b06bed7b4a08f5fad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T06:06:40.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "iOS Safariでhaptic feedbackを自由に扱えるOSSを公開しました",
     "link": "https://zenn.dev/posaune0423/articles/4f963b89ca2fdf",
     "pubDate": "Fri, 16 Jan 2026 05:51:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "プログラミングが好きな人は、もうIT業界に来るな。｜いぐぞー@書籍執筆中 ✈️ 旅するプログラマー",
-    "link": "https://note.com/igz0/n/n80b262ea33ba",
-    "pubDate": "2026-01-16T05:35:39.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "Vue 3: computed で入力バリデーションをリアルタイム表示する",
-    "link": "https://qiita.com/pomusuke36/items/90697508c14d8f2a5afe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T05:28:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【検証】汎用AIエージェント「Genspark Super Agent」で無料システム開発は可能なのか？",
-    "link": "https://qiita.com/dir-okada_n/items/1b3bcbbae2c2c7b8a3e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T02:50:29.000Z"
+    "title": "Pythonの勉強を始めたところ標準ライブラリが強力すぎて（Javascript比較）驚きました。Pythonからプログラムの勉強を始めると多言語学習に苦労するのでは無いでしょうか？",
+    "link": "https://qiita.com/t7u-ito/items/6a4e4d894dbfc79ce246?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T01:57:45.000Z"
   },
   {
     "site": "Zenn",
@@ -85,12 +115,6 @@
   },
   {
     "site": "Qiita",
-    "title": "命名が苦手なのはセンスの問題じゃない気がしている",
-    "link": "https://qiita.com/yoshinaga_slj/items/bc30221dbd9af29b5bdd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T00:41:24.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【LLM文字起こし性能比較】低解像度のAI泣かせ表データを読ませてみた結果（GPT-5.2 / Gemini 3 / Claude 4.5 Opus）",
     "link": "https://qiita.com/k2a_Y4a/items/b46a545a96e9150c457f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-16T00:21:19.000Z"
@@ -100,6 +124,12 @@
     "title": "カメラが回る開発現場で学ぶ、エンジニアがビジネスで成長するための5つの視点",
     "link": "https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-16T00:00:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AgentCore Gateway で MCP サーバー・ツールのアクセス制御を実現する 3 つの方法の徹底比較",
+    "link": "https://zenn.dev/aws_japan/articles/003-bedrock-agentcore-policy-fgac",
+    "pubDate": "Thu, 15 Jan 2026 22:48:18 GMT"
   },
   {
     "site": "Qiita",
@@ -126,22 +156,10 @@
     "pubDate": "Thu, 15 Jan 2026 09:32:58 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "信頼できないソフトウェアと、どう付き合うか",
-    "link": "https://zenn.dev/chot/articles/b07162a685ca99",
-    "pubDate": "Thu, 15 Jan 2026 09:02:27 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【ポケモン×Java】Lv15：『ピカチュウも、ヒトカゲも、、、』～抽象化～",
     "link": "https://qiita.com/hitomin_poke/items/acc22c05c66826289f11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-15T05:43:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜshadcn/uiは支持されたのか ― Providerモデル以後のUI設計",
-    "link": "https://zenn.dev/sasau/articles/e036281804679c",
-    "pubDate": "Thu, 15 Jan 2026 05:41:40 GMT"
   },
   {
     "site": "Zenn",
@@ -150,28 +168,10 @@
     "pubDate": "Wed, 14 Jan 2026 23:15:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeの並列実行を効率化する管理アプリを作った",
-    "link": "https://zenn.dev/akino/articles/4e1b949594b6ca",
-    "pubDate": "Wed, 14 Jan 2026 22:10:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "個人開発者として実際にアプリを運営していく中で感じた個人開発の現実を言語化したいと思います。",
     "link": "https://qiita.com/tatsuoNakano/items/5557800c41eb43b43f2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-14T09:53:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Web関係のセキュリティについて初心者でもわかるようにまとめてみた - OWASP Top 10:2025",
-    "link": "https://qiita.com/shibata1111/items/e64b9f26c54607f7862b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-14T03:32:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発。AIと一緒にアプリを作ったら、普通にストア公開できた話",
-    "link": "https://qiita.com/yniji/items/a287336353a0a582bfb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-14T02:27:58.000Z"
   },
   {
     "site": "Hatena",
