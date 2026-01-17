@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "チャットGPTに広告表示、米国で試験導入　OpenAIが巨額投資回収へ - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN16CAW0W6A110C2000000/",
+    "pubDate": "2026-01-16T22:14:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIで起きたのは｢研究の低年齢化｣ではない／民主化ではなく､｢最初から本質を持っているか｣が問われる残酷かつ公平な時代に",
+    "link": "https://toyokeizai.net/articles/-/928669?display=b",
+    "pubDate": "2026-01-16T17:48:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "検閲のゆるいAIランキング",
     "link": "https://gigazine.net/news/20260116-uncensored-ai/",
     "pubDate": "2026-01-16T14:35:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "UI Skills",
+    "link": "https://www.ui-skills.com/",
+    "pubDate": "2026-01-16T12:03:51.000Z"
   },
   {
     "site": "Qiita",
@@ -13,21 +31,9 @@
   },
   {
     "site": "Hatena",
-    "title": "生成AIで起きたのは「研究の低年齢化」ではない/民主化ではなく、「最初から本質を持っているか」が問われる残酷かつ公平な時代に（東洋経済オンライン） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/8a433d6194f0d5cddf8939f62bb08561646ccb62",
-    "pubDate": "2026-01-16T11:00:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Microsoft Edge」の便利機能「コレクション」が近い将来削除されてしまうかも／閲覧中のコンテンツをスクラップ、他の「Edge」と共有できる機能【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2078480.html",
-    "pubDate": "2026-01-16T09:07:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anchor Positioningが全対応。HTML・CSSだけのポップオーバーが完全体に",
-    "link": "https://zenn.dev/ubie_dev/articles/anchor-positioning-popover",
-    "pubDate": "2026-01-16T08:50:30.000Z"
+    "title": "Meta、VR空間に集まって仕事できる「Horizon Workrooms」を終了",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/16/news122.html",
+    "pubDate": "2026-01-16T08:27:39.000Z"
   },
   {
     "site": "Zenn",
@@ -37,9 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "生成AIの絵って実際どのぐらい受け入れられてるかっていう話",
-    "link": "https://anond.hatelabo.jp/20260116152714",
-    "pubDate": "2026-01-16T06:30:35.000Z"
+    "title": "マチアプ、詐欺集団に狙われてる気がする",
+    "link": "https://anond.hatelabo.jp/20260116154036",
+    "pubDate": "2026-01-16T06:45:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "iOS Safariでhaptic feedbackを自由に扱えるOSSを公開しました",
+    "link": "https://zenn.dev/posaune0423/articles/4f963b89ca2fdf",
+    "pubDate": "Fri, 16 Jan 2026 05:51:57 GMT"
   },
   {
     "site": "Hatena",
@@ -58,12 +70,6 @@
     "title": "【検証】汎用AIエージェント「Genspark Super Agent」で無料システム開発は可能なのか？",
     "link": "https://qiita.com/dir-okada_n/items/1b3bcbbae2c2c7b8a3e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-16T02:50:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Best Practicesはむしろアンチパターン説",
-    "link": "https://zenn.dev/thr3a/articles/081ee955f32832",
-    "pubDate": "Fri, 16 Jan 2026 02:42:21 GMT"
   },
   {
     "site": "Zenn",
@@ -96,18 +102,6 @@
     "pubDate": "2026-01-16T00:00:57.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI に指示するのではなく、まずは AI に質問させた方が捗る",
-    "link": "https://zenn.dev/hataluck/articles/d347a5011cf71e",
-    "pubDate": "2026-01-15T23:47:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AgentCore Gateway で MCP サーバー・ツールのアクセス制御を実現する 3 つの方法の徹底比較",
-    "link": "https://zenn.dev/aws_japan/articles/003-bedrock-agentcore-policy-fgac",
-    "pubDate": "Thu, 15 Jan 2026 22:48:18 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話 - Qiita",
     "link": "https://qiita.com/shiozaki/items/9d7aeac0dd6733a6e2fb",
@@ -130,6 +124,12 @@
     "title": "GMOのエンジニアが好きなポッドキャスト20選",
     "link": "https://zenn.dev/gmomedia/articles/podcast-recommendations-2026",
     "pubDate": "Thu, 15 Jan 2026 09:32:58 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "信頼できないソフトウェアと、どう付き合うか",
+    "link": "https://zenn.dev/chot/articles/b07162a685ca99",
+    "pubDate": "Thu, 15 Jan 2026 09:02:27 GMT"
   },
   {
     "site": "Qiita",
