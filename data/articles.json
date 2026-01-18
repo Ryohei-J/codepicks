@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "Let’s Encrypt Launches IP Address Certificates With 6-Day Lifetimes",
+    "link": "https://linuxiac.com/lets-encrypt-launches-ip-address-certificates-with-6-day-lifetimes/",
+    "pubDate": "2026-01-18T06:19:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代になぜ人が学ぶのか - そーだいなるらくがき帳",
+    "link": "https://soudai.hatenablog.com/entry/2026/01/18/133044",
+    "pubDate": "2026-01-18T04:32:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Skills、結局どれを入れる？用途別おすすめ9選",
+    "link": "https://zenn.dev/kg_filled/articles/50f762610d48c7",
+    "pubDate": "2026-01-18T04:25:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "プログラミングが好きな人こそ今の時代、プログラマーになる方がいいと思う。- 「プログラミングが好きな人は、もうIT業界に来るな。」を読んで - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2026/01/18/123151",
     "pubDate": "2026-01-18T04:13:30.000Z"
@@ -42,10 +60,10 @@
     "pubDate": "2026-01-17T13:57:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "禁断のハッキング端末｢Flipper Zero｣、車両盗難に使われまくる",
-    "link": "https://www.gizmodo.jp/2026/01/flipper-zero-cars-hacking-ejf.html",
-    "pubDate": "2026-01-17T13:15:13.000Z"
+    "site": "Qiita",
+    "title": "SaaS (クラウドサービス) の導入って、どうなったら成功なんだろう？",
+    "link": "https://qiita.com/yugoes1021/items/e8c76a30f6529c7af739?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-17T11:53:48.000Z"
   },
   {
     "site": "Zenn",
@@ -91,12 +109,6 @@
   },
   {
     "site": "Zenn",
-    "title": "jjを使っていて驚いた「1変更1コミット」という哲学",
-    "link": "https://zenn.dev/imudak/articles/jj-gerrit-philosophy",
-    "pubDate": "2026-01-17T05:12:02.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "Kiro Autonomous Agent（プレビュー）を試してみた",
     "link": "https://zenn.dev/nyuuuk/articles/ee0673c07b4824",
     "pubDate": "Sat, 17 Jan 2026 04:59:02 GMT"
@@ -106,6 +118,12 @@
     "title": "Qwen3-VL-Embeddingを用いたローカル画像検索アプリをつくった",
     "link": "https://zenn.dev/robustonian/articles/qwen3-vl-embedding_search",
     "pubDate": "Sat, 17 Jan 2026 01:11:57 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド",
+    "link": "https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-17T00:50:06.000Z"
   },
   {
     "site": "Zenn",
@@ -118,18 +136,6 @@
     "title": "開発環境現状確認（2026年）",
     "link": "https://zenn.dev/shunk031/articles/my-dev-env-2026",
     "pubDate": "Fri, 16 Jan 2026 15:00:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「7 日間でハッキングをはじめる本」完全に理解した！（ただの感想）",
-    "link": "https://qiita.com/loverboy/items/70670c3fbfb0887c7732?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T14:36:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ウィキペディア AI開発企業と合意 データ提供し資金支援受ける | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015028371000",
-    "pubDate": "2026-01-16T14:29:57.000Z"
   },
   {
     "site": "Hatena",
@@ -151,9 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "IAnimationClipSourceという神インターフェースについて",
-    "link": "https://qiita.com/nemuke_cs/items/307b277b9202ab553bc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T08:47:11.000Z"
+    "title": "エンジニアなら知っておきたいサーバーの基本",
+    "link": "https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T04:30:24.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "カメラが回る開発現場で学ぶ、エンジニアがビジネスで成長するための5つの視点",
-    "link": "https://qiita.com/GIFCat/items/9529bb67ac6ab6857b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T00:00:57.000Z"
+    "title": "ポケモンで学ぶ機械学習手法",
+    "link": "https://qiita.com/qwer123123/items/f503c0824abce0921f12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-16T00:03:39.000Z"
   },
   {
     "site": "Qiita",
-    "title": "ポケモンで学ぶオブジェクト指向〜SOLID原則編〜",
-    "link": "https://qiita.com/basio/items/7f5f2730b425cd95d39c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-15T13:11:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "とりあえずApproveはもうやめよう",
-    "link": "https://qiita.com/mintak21/items/7cf974ec7e9cc0f3e026?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-15T07:14:17.000Z"
+    "title": "【Python】Selenium 徹底解説：入門で終わらせない実践的ブラウザ自動化",
+    "link": "https://qiita.com/nozomi2025/items/e00e7373b3f8a15877f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-15T08:11:21.000Z"
   }
 ]
