@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "Twitter創業者のジャック・ドーシーがインターネットなしで機能する衝撃の新メッセージアプリ『Bitchat』の立ち上げを発表した",
+    "link": "https://togetter.com/li/2653333",
+    "pubDate": "2026-01-18T12:23:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Let's EncryptでIPアドレス証明書を発行できるようになった - ASnoKaze blog",
+    "link": "https://asnokaze.hatenablog.com/entry/2026/01/18/153321",
+    "pubDate": "2026-01-18T11:13:35.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Let’s Encrypt Launches IP Address Certificates With 6-Day Lifetimes",
     "link": "https://linuxiac.com/lets-encrypt-launches-ip-address-certificates-with-6-day-lifetimes/",
     "pubDate": "2026-01-18T06:19:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIによってプログラマの仕事が増え始めている - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2026/01/18/142349",
+    "pubDate": "2026-01-18T05:24:49.000Z"
   },
   {
     "site": "Hatena",
@@ -30,10 +48,28 @@
     "pubDate": "2026-01-18T02:46:59.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "GLM Coding Plan入門 〜APIキー取得からopencodeやClaude Codeを駆動するまで〜",
+    "link": "https://zenn.dev/robustonian/articles/glm_coding_plan",
+    "pubDate": "Sun, 18 Jan 2026 02:43:00 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "店に食事会の予約をしたら、その予約方法が『直前キャンセル対策』として素晴らしいシステムだった「これは普及して欲しい」「海外ではわりと普通」",
     "link": "https://togetter.com/li/2653142",
     "pubDate": "2026-01-18T02:08:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Webのお絵描き（フリーハンド入力）アプリ用の手ブレ補正ライブラリを作ってみた",
+    "link": "https://zenn.dev/yoshi333/articles/06aa493c13a011",
+    "pubDate": "Sat, 17 Jan 2026 17:33:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "（2026年1月16日号）データエンジニアリングユニオン Season2 #14",
+    "link": "https://zenn.dev/churadata/articles/236b3e32431cc6",
+    "pubDate": "Sat, 17 Jan 2026 15:46:44 GMT"
   },
   {
     "site": "Zenn",
@@ -54,10 +90,16 @@
     "pubDate": "2026-01-17T14:12:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIと研究不正②：Geminiの超危険な親切｜川原繁人のnote（言語学者・音声学者）",
-    "link": "https://note.com/keiophonetics/n/nfc8d2171df32",
-    "pubDate": "2026-01-17T13:57:11.000Z"
+    "site": "Zenn",
+    "title": "#1 CISSPで学ぶ「職業倫理」",
+    "link": "https://zenn.dev/ameshi/articles/97ccdbf0f7d3aa",
+    "pubDate": "Sat, 17 Jan 2026 12:23:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kaggle Benchmarks で AI モデルの評価をする",
+    "link": "https://zenn.dev/prgckwb/articles/kaggle-benchmarks-ai-eval",
+    "pubDate": "Sat, 17 Jan 2026 12:22:21 GMT"
   },
   {
     "site": "Qiita",
@@ -70,12 +112,6 @@
     "title": "なぜ私はフロントエンド開発を避けるようになったのか",
     "link": "https://zenn.dev/sijiaoh/articles/9c7edf0ba29def",
     "pubDate": "Sat, 17 Jan 2026 10:41:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent Skills対応デスクトップマスコットを作ったので紹介だけします。かわいいので",
-    "link": "https://zenn.dev/tkithrta/articles/531884d62ff9a1",
-    "pubDate": "Sat, 17 Jan 2026 09:54:12 GMT"
   },
   {
     "site": "Qiita",
@@ -96,24 +132,6 @@
     "pubDate": "Sat, 17 Jan 2026 07:07:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "合唱制作の歴史が変わった。Synthesizer Vが実現した「16人AI合唱」という革命",
-    "link": "https://www.dtmstation.com/archives/75634.html",
-    "pubDate": "2026-01-17T07:00:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codex CLI で組み込みソフトウェア開発 PoC",
-    "link": "https://zenn.dev/wurly/articles/07005a253521dd",
-    "pubDate": "Sat, 17 Jan 2026 06:51:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiro Autonomous Agent（プレビュー）を試してみた",
-    "link": "https://zenn.dev/nyuuuk/articles/ee0673c07b4824",
-    "pubDate": "Sat, 17 Jan 2026 04:59:02 GMT"
-  },
-  {
     "site": "Zenn",
     "title": "Qwen3-VL-Embeddingを用いたローカル画像検索アプリをつくった",
     "link": "https://zenn.dev/robustonian/articles/qwen3-vl-embedding_search",
@@ -124,24 +142,6 @@
     "title": "Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド",
     "link": "https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-17T00:50:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CISSP合格体験記｜公式教材を信じて「割り切った」社会人学習と試験当日の立ち回り",
-    "link": "https://zenn.dev/rfc1149/articles/f46538ce9d7444",
-    "pubDate": "Sat, 17 Jan 2026 00:49:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発環境現状確認（2026年）",
-    "link": "https://zenn.dev/shunk031/articles/my-dev-env-2026",
-    "pubDate": "Fri, 16 Jan 2026 15:00:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code スキル自作勢へ！Agent Skills Marketplace に6万超スキル集結 - izanami",
-    "link": "https://izanami.dev/post/93b709b5-06ae-48a0-8489-9f1970c20756",
-    "pubDate": "2026-01-16T11:35:29.000Z"
   },
   {
     "site": "Qiita",
