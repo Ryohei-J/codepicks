@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "自分のはてなブックマークが突然非公開になったが復活した話",
+    "link": "https://anond.hatelabo.jp/20260119205035",
+    "pubDate": "2026-01-19T11:52:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Anthropicハッカソン優勝者のClaude Code設定集「everything-claude-code」を読み解く",
+    "link": "https://zenn.dev/ttks/articles/a54c7520f827be",
+    "pubDate": "2026-01-19T10:23:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Google Workspace」規約改定　日本の公的機関利用時は「日本法準拠」「管轄は東京地裁」明記",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/19/news105.html",
+    "pubDate": "2026-01-19T08:36:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ISMSの文書管理をGitHubに移行したお話 - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/01/19/isms-docs-to-github",
+    "pubDate": "2026-01-19T07:40:19.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "LINE iOSアプリ開発を高速化するClaude Code基盤の設計思想",
     "link": "https://techblog.lycorp.co.jp/ja/20260119a",
     "pubDate": "2026-01-19T06:03:07.000Z"
@@ -10,12 +34,6 @@
     "title": "【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた",
     "link": "https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-19T04:59:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "App Storeの代替アプリストアのひとつが早くも終了、導入済みアプリはすべて無効に？【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2078789.html",
-    "pubDate": "2026-01-19T03:04:00.000Z"
   },
   {
     "site": "Hatena",
@@ -36,6 +54,12 @@
     "pubDate": "2026-01-19T01:49:13.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "テストで開発者を駆動する",
+    "link": "https://zenn.dev/fusic/articles/test-driven-developers",
+    "pubDate": "Mon, 19 Jan 2026 01:42:37 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "さよなら、データ修正地獄。ExploratoryのAI関数による表記揺れ解決術",
     "link": "https://qiita.com/takatoshiroto/items/ce27adb51e14fba4f3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -46,12 +70,6 @@
     "title": "Anthropicハッカソン優勝者のClaude Code設定集「everything-claude-code」を読み解く",
     "link": "https://zenn.dev/ttks/articles/a54c7520f827be",
     "pubDate": "Mon, 19 Jan 2026 00:22:56 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Instagramの「パスワードリセット」メール出回る　ユーザー情報が大量流出か　リンクのクリックは禁物",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/19/news022.html",
-    "pubDate": "2026-01-18T23:16:50.000Z"
   },
   {
     "site": "Qiita",
@@ -79,27 +97,27 @@
   },
   {
     "site": "Qiita",
-    "title": "Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～ - Qiita",
-    "link": "https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62",
-    "pubDate": "2026-01-18T13:59:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "PHP×Tokyo January 2026 に参加しました",
-    "link": "https://zenn.dev/hkusaba_f/articles/phpxtky_202601",
-    "pubDate": "Sun, 18 Jan 2026 13:41:33 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦",
     "link": "https://qiita.com/katohiro_fi/items/8c17dddea93a5fc8eab9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-18T13:35:33.000Z"
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeの機能が多くて混乱している人へ",
+    "link": "https://zenn.dev/kazu1/articles/b678ce44616354",
+    "pubDate": "Sun, 18 Jan 2026 13:25:06 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "あなたの拾ってきた野良（マーケット）Skills、セキュリティトラブルを発生させていませんか？",
     "link": "https://zenn.dev/nuits_jp/articles/2026-01-19-risks-of-skills-marketplace",
     "pubDate": "Sun, 18 Jan 2026 10:26:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Orvalのメンテナーとして2025年の活動と2026年やりたいこと",
+    "link": "https://zenn.dev/soartec_lab/articles/444be40483b2dc",
+    "pubDate": "Sun, 18 Jan 2026 10:05:48 GMT"
   },
   {
     "site": "Qiita",
@@ -127,18 +145,6 @@
   },
   {
     "site": "Zenn",
-    "title": "tmux, gwq, fzfでworktreeをサクサク切り替えてAIコーディングを並列する",
-    "link": "https://zenn.dev/ymat19/articles/9107170744368f",
-    "pubDate": "Sun, 18 Jan 2026 04:02:40 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "採用市場は「AIによるDoS攻撃」で死んだ。履歴書が消滅する日と、生き残るための「GitHub化」戦略｜川崎 裕一 / マネタイズおじさん",
-    "link": "https://comemo.nikkei.com/n/n3466b28d8f39",
-    "pubDate": "2026-01-18T02:52:54.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "GLM Coding Plan入門 〜APIキー取得からopencodeやClaude Codeを駆動するまで〜",
     "link": "https://zenn.dev/robustonian/articles/glm_coding_plan",
     "pubDate": "Sun, 18 Jan 2026 02:43:00 GMT"
@@ -148,12 +154,6 @@
     "title": "Claude Codeを実務で安全に使うための設定と運用の整理",
     "link": "https://zenn.dev/tukiyubi/articles/7f43f23f053394",
     "pubDate": "Sun, 18 Jan 2026 02:39:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SWIMMER OSINT CTF Writeup (kn1cht)",
-    "link": "https://zenn.dev/kn1cht/articles/swimmer-osint-2026-kn1cht",
-    "pubDate": "Sat, 17 Jan 2026 15:29:27 GMT"
   },
   {
     "site": "Qiita",
