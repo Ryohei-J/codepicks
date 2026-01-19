@@ -1,21 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "GitHub - affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "link": "https://github.com/affaan-m/everything-claude-code",
+    "pubDate": "2026-01-18T22:37:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "静的サイトジェネレータ「Astro」、Cloudflareによる買収を発表",
+    "link": "https://www.publickey1.jp/blog/26/astrocloudflare.html",
+    "pubDate": "2026-01-18T15:13:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～ - Qiita",
+    "link": "https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62",
+    "pubDate": "2026-01-18T13:59:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "IPAの試験再編から読み解く「AIエージェント時代」の生存戦略と、新資格AB-100への挑戦",
+    "link": "https://qiita.com/katohiro_fi/items/8c17dddea93a5fc8eab9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-18T13:35:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ほぼ同一のテンプレ説明文を用いてたAIを利用した政治系動画チャンネルについてのメモ - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2026/01/18/210000",
+    "pubDate": "2026-01-18T12:48:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Twitter創業者のジャック・ドーシーがインターネットなしで機能する衝撃の新メッセージアプリ『Bitchat』の立ち上げを発表した",
     "link": "https://togetter.com/li/2653333",
     "pubDate": "2026-01-18T12:23:40.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Let's EncryptでIPアドレス証明書を発行できるようになった - ASnoKaze blog",
+    "title": "Let's EncryptでIPアドレス証明書を発行できるようになったので試した - ASnoKaze blog",
     "link": "https://asnokaze.hatenablog.com/entry/2026/01/18/153321",
     "pubDate": "2026-01-18T11:13:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Let’s Encrypt Launches IP Address Certificates With 6-Day Lifetimes",
-    "link": "https://linuxiac.com/lets-encrypt-launches-ip-address-certificates-with-6-day-lifetimes/",
-    "pubDate": "2026-01-18T06:19:29.000Z"
+    "site": "Zenn",
+    "title": "あなたの拾ってきた野良（マーケット）Skills、セキュリティトラブルを発生させていませんか？",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-01-19-risks-of-skills-marketplace",
+    "pubDate": "Sun, 18 Jan 2026 10:26:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeが私の職場を激変させはじめた - Qiita",
+    "link": "https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4",
+    "pubDate": "2026-01-18T07:25:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026 年に nix を始める方法",
+    "link": "https://zenn.dev/koba_e964/articles/32a7e0c345affe",
+    "pubDate": "Sun, 18 Jan 2026 05:25:02 GMT"
   },
   {
     "site": "Hatena",
@@ -24,10 +66,10 @@
     "pubDate": "2026-01-18T05:24:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代になぜ人が学ぶのか - そーだいなるらくがき帳",
-    "link": "https://soudai.hatenablog.com/entry/2026/01/18/133044",
-    "pubDate": "2026-01-18T04:32:42.000Z"
+    "site": "Zenn",
+    "title": "動かないデバイスもAntigravityがなんとかしてくれた",
+    "link": "https://zenn.dev/kacky/articles/30a4aa9c268496",
+    "pubDate": "Sun, 18 Jan 2026 05:01:22 GMT"
   },
   {
     "site": "Zenn",
@@ -36,40 +78,16 @@
     "pubDate": "2026-01-18T04:25:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "プログラミングが好きな人こそ今の時代、プログラマーになる方がいいと思う。- 「プログラミングが好きな人は、もうIT業界に来るな。」を読んで - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2026/01/18/123151",
-    "pubDate": "2026-01-18T04:13:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜJavaScriptのfetchはawaitを2回しないとレスポンスを取れないのか | maguro​.dev",
-    "link": "https://maguro.dev/blog/fetch-double-await-explained/",
-    "pubDate": "2026-01-18T02:46:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "GLM Coding Plan入門 〜APIキー取得からopencodeやClaude Codeを駆動するまで〜",
     "link": "https://zenn.dev/robustonian/articles/glm_coding_plan",
     "pubDate": "Sun, 18 Jan 2026 02:43:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "店に食事会の予約をしたら、その予約方法が『直前キャンセル対策』として素晴らしいシステムだった「これは普及して欲しい」「海外ではわりと普通」",
-    "link": "https://togetter.com/li/2653142",
-    "pubDate": "2026-01-18T02:08:18.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Webのお絵描き（フリーハンド入力）アプリ用の手ブレ補正ライブラリを作ってみた",
-    "link": "https://zenn.dev/yoshi333/articles/06aa493c13a011",
-    "pubDate": "Sat, 17 Jan 2026 17:33:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "（2026年1月16日号）データエンジニアリングユニオン Season2 #14",
-    "link": "https://zenn.dev/churadata/articles/236b3e32431cc6",
-    "pubDate": "Sat, 17 Jan 2026 15:46:44 GMT"
+    "title": "Claude Codeを実務で安全に使うための設定と運用の整理",
+    "link": "https://zenn.dev/tukiyubi/articles/7f43f23f053394",
+    "pubDate": "Sun, 18 Jan 2026 02:39:15 GMT"
   },
   {
     "site": "Zenn",
@@ -91,15 +109,9 @@
   },
   {
     "site": "Zenn",
-    "title": "#1 CISSPで学ぶ「職業倫理」",
-    "link": "https://zenn.dev/ameshi/articles/97ccdbf0f7d3aa",
-    "pubDate": "Sat, 17 Jan 2026 12:23:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kaggle Benchmarks で AI モデルの評価をする",
-    "link": "https://zenn.dev/prgckwb/articles/kaggle-benchmarks-ai-eval",
-    "pubDate": "Sat, 17 Jan 2026 12:22:21 GMT"
+    "title": "ITコンサル3人でAI駆動開発を2日間やってみた",
+    "link": "https://zenn.dev/ncdc/articles/e15a2bc6020b9c",
+    "pubDate": "Sat, 17 Jan 2026 12:45:22 GMT"
   },
   {
     "site": "Qiita",
@@ -115,27 +127,21 @@
   },
   {
     "site": "Qiita",
-    "title": "生成AIの収束先の存在を圏論で証明する",
-    "link": "https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-17T09:19:24.000Z"
+    "title": "Claude Codeが私の職場を激変させはじめた",
+    "link": "https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-17T09:52:10.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Shuji Noguchi (@carol0226) 技術記事アーカイブ",
-    "link": "https://qiita.com/carol0226/items/92152c0e3f6e117dc2e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-17T07:47:11.000Z"
+    "title": "生成AIの収束先の存在を圏論で証明する",
+    "link": "https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-17T09:19:24.000Z"
   },
   {
     "site": "Zenn",
     "title": "Next.jsは「近道」か「迷路」か。迷子の初学者がWebの歴史を遡り、Next.jsの本質が見えてきた話",
     "link": "https://zenn.dev/takeshi0518/articles/4900ca7f320355",
     "pubDate": "Sat, 17 Jan 2026 07:07:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Qwen3-VL-Embeddingを用いたローカル画像検索アプリをつくった",
-    "link": "https://zenn.dev/robustonian/articles/qwen3-vl-embedding_search",
-    "pubDate": "Sat, 17 Jan 2026 01:11:57 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "ポケモンで学ぶ機械学習手法",
     "link": "https://qiita.com/qwer123123/items/f503c0824abce0921f12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-16T00:03:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Python】Selenium 徹底解説：入門で終わらせない実践的ブラウザ自動化",
-    "link": "https://qiita.com/nozomi2025/items/e00e7373b3f8a15877f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-15T08:11:21.000Z"
   }
 ]
