@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "LINE iOSアプリ開発を高速化するClaude Code基盤の設計思想",
+    "link": "https://techblog.lycorp.co.jp/ja/20260119a",
+    "pubDate": "2026-01-19T06:03:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Claude Code】スラッシュコマンドを使ってAIに日報のフィードバックをさせてみた",
+    "link": "https://qiita.com/ssc-jfukui/items/96b53404478f318c5544?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-19T04:59:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "App Storeの代替アプリストアのひとつが早くも終了、導入済みアプリはすべて無効に？【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2078789.html",
+    "pubDate": "2026-01-19T03:04:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "放てレールガン！　防衛装備庁が洋上射撃実験の動画を公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/19/news058.html",
+    "pubDate": "2026-01-19T02:50:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "DBスキーマ変更をオンラインで安全に行うための仕組み - inSmartBank",
     "link": "https://blog.smartbank.co.jp/entry/safe-online-database-schema-changes",
     "pubDate": "2026-01-19T02:07:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "完璧な仕様は、もう設計できない - Nothing ventured, nothing gained.",
+    "link": "https://takoratta.hatenablog.com/entry/product-design-in-ai-native-era",
+    "pubDate": "2026-01-19T01:49:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "さよなら、データ修正地獄。ExploratoryのAI関数による表記揺れ解決術",
+    "link": "https://qiita.com/takatoshiroto/items/ce27adb51e14fba4f3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-19T00:38:53.000Z"
   },
   {
     "site": "Zenn",
@@ -18,6 +54,12 @@
     "pubDate": "2026-01-18T23:16:50.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AIでアンケートのテキスト分類とセンチメント分析を爆速化してみた",
+    "link": "https://qiita.com/IkuyaM/items/5b757456b3c2b3676531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-18T23:01:11.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「買ったのに使われなかったもの」の原因は、「システムが定着しない原因」と大体同じだった",
     "link": "https://blog.tinect.jp/?p=90670",
@@ -30,16 +72,10 @@
     "pubDate": "2026-01-18T22:57:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub - affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
-    "link": "https://github.com/affaan-m/everything-claude-code",
-    "pubDate": "2026-01-18T22:37:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "静的サイトジェネレータ「Astro」、Cloudflareによる買収を発表",
-    "link": "https://www.publickey1.jp/blog/26/astrocloudflare.html",
-    "pubDate": "2026-01-18T15:13:20.000Z"
+    "site": "Qiita",
+    "title": "Let's Encrypt、IPアドレス証明書が一般提供開始 - RFC 8738準拠の6日間証明書",
+    "link": "https://qiita.com/satokan3/items/791c78879e690b7c8cd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-18T14:36:00.000Z"
   },
   {
     "site": "Qiita",
@@ -60,28 +96,22 @@
     "pubDate": "2026-01-18T13:35:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Twitter創業者のジャック・ドーシーがインターネットなしで機能する衝撃の新メッセージアプリ『Bitchat』の立ち上げを発表した",
-    "link": "https://togetter.com/li/2653333",
-    "pubDate": "2026-01-18T12:23:40.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "あなたの拾ってきた野良（マーケット）Skills、セキュリティトラブルを発生させていませんか？",
     "link": "https://zenn.dev/nuits_jp/articles/2026-01-19-risks-of-skills-marketplace",
     "pubDate": "Sun, 18 Jan 2026 10:26:07 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～",
+    "link": "https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-18T09:28:51.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "泡マテリアル🫧の作り方",
     "link": "https://zenn.dev/kurie/articles/6a8294cc1fbab8",
     "pubDate": "Sun, 18 Jan 2026 08:42:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeが私の職場を激変させはじめた - Qiita",
-    "link": "https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4",
-    "pubDate": "2026-01-18T07:25:05.000Z"
   },
   {
     "site": "Zenn",
@@ -127,21 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "SaaS (クラウドサービス) の導入って、どうなったら成功なんだろう？",
-    "link": "https://qiita.com/yugoes1021/items/e8c76a30f6529c7af739?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-17T11:53:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeが私の職場を激変させはじめた",
-    "link": "https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-17T09:52:10.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "生成AIの収束先の存在を圏論で証明する",
     "link": "https://qiita.com/momo10/items/097d51405416e93d5132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-17T09:19:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Python】クラス全員を救うために「実験レポート爆速生成ツール」を作って配布した話",
+    "link": "https://qiita.com/afmi21/items/5583156dec3b32acb400?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-17T07:43:28.000Z"
   },
   {
     "site": "Qiita",
@@ -151,32 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Qiitaのいろいろランキング2025",
-    "link": "https://qiita.com/Qiita/items/67f7fc1c79173c9a6c44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T11:31:56.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AI時代の技術書との付き合いかた",
     "link": "https://qiita.com/araom/items/cbdcda9c0251d66f252c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-16T09:38:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアなら知っておきたいサーバーの基本",
-    "link": "https://qiita.com/Suntory/items/910b7a6c1be97da2879d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T04:30:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Pythonの勉強を始めたところ標準ライブラリが強力すぎて（Javascript比較）驚きました。Pythonからプログラムの勉強を始めると多言語学習に苦労するのでは無いでしょうか？",
-    "link": "https://qiita.com/t7u-ito/items/6a4e4d894dbfc79ce246?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T01:57:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ポケモンで学ぶ機械学習手法",
-    "link": "https://qiita.com/qwer123123/items/f503c0824abce0921f12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-16T00:03:39.000Z"
   }
 ]
