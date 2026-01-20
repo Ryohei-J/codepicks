@@ -1,13 +1,25 @@
 [
   {
     "site": "Hatena",
+    "title": "これはかなり便利！ 1クリックであらゆるWebサイトのデザインやアセットを抽出できるChromeの拡張機能 -MiroMiro",
+    "link": "https://coliss.com/articles/build-websites/architectonics/copy-sites-design-assets.html",
+    "pubDate": "2026-01-20T01:09:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スシローの呼び出し番号を表示するディスプレイ、あまりにも分かりづらい「こんなに沢山矢印やら数字やらアイコン書いてあるのに全く理解できないUI」",
+    "link": "https://togetter.com/li/2653868",
+    "pubDate": "2026-01-20T00:46:49.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "インターネット接続不要のメッセージアプリ「bitchat」、抗議活動が続くイランなどで利用拡大【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2079035.html",
     "pubDate": "2026-01-19T23:21:18.000Z"
   },
   {
     "site": "Hatena",
-    "title": "チャットGPT、6科目満点　共通テスト解答、AI学力向上（共同通信） - Yahoo!ニュース",
+    "title": "チャットGPT、9科目満点　共通テスト解答、AI学力向上（共同通信） - Yahoo!ニュース",
     "link": "https://news.yahoo.co.jp/articles/ad54fc0d4d971f38e3beda002a8c8b95c99aaae1",
     "pubDate": "2026-01-19T22:22:13.000Z"
   },
@@ -24,16 +36,22 @@
     "pubDate": "2026-01-19T21:50:13.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "サーバーの無いReactフレークワークFUNSTACK Static",
+    "link": "https://zenn.dev/uhyo/articles/funstack-static-first-release",
+    "pubDate": "Mon, 19 Jan 2026 14:46:03 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "jQuery 4.0正式版が公開。10年振りのメジャーバージョンアップ。IE10以前がサポート外、XSS防止など",
     "link": "https://www.publickey1.jp/blog/26/jquery_4010ie10xss.html",
     "pubDate": "2026-01-19T14:15:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "自分のはてなブックマークが突然非公開になったが復活した話",
-    "link": "https://anond.hatelabo.jp/20260119205035",
-    "pubDate": "2026-01-19T11:52:09.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeにお遣いさせて見えてきた、買い物エージェントの一つの解",
+    "link": "https://zenn.dev/wmoto_ai/articles/ai-shopping-human-in-the-loop",
+    "pubDate": "Mon, 19 Jan 2026 13:10:56 GMT"
   },
   {
     "site": "Zenn",
@@ -66,16 +84,10 @@
     "pubDate": "2026-01-19T04:59:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "完璧な仕様は、もう設計できない - Nothing ventured, nothing gained.",
-    "link": "https://takoratta.hatenablog.com/entry/product-design-in-ai-native-era",
-    "pubDate": "2026-01-19T01:49:13.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "テストで開発者を駆動する",
-    "link": "https://zenn.dev/fusic/articles/test-driven-developers",
-    "pubDate": "Mon, 19 Jan 2026 01:42:37 GMT"
+    "title": "Next.js のリクエストから画面描画まで──RSC Payload を理解する",
+    "link": "https://zenn.dev/branbran/articles/5dff2f327cf18d",
+    "pubDate": "Mon, 19 Jan 2026 02:56:01 GMT"
   },
   {
     "site": "Qiita",
@@ -102,16 +114,16 @@
     "pubDate": "2026-01-18T23:01:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「買ったのに使われなかったもの」の原因は、「システムが定着しない原因」と大体同じだった",
-    "link": "https://blog.tinect.jp/?p=90670",
-    "pubDate": "2026-01-18T22:59:32.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた",
     "link": "https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-18T21:42:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "getElementByIdはなぜ速いのかを理解する",
+    "link": "https://zenn.dev/ycode/articles/fa13cb0104225b",
+    "pubDate": "Sun, 18 Jan 2026 16:01:01 GMT"
   },
   {
     "site": "Qiita",
@@ -138,28 +150,10 @@
     "pubDate": "2026-01-18T09:28:51.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "泡マテリアル🫧の作り方",
-    "link": "https://zenn.dev/kurie/articles/6a8294cc1fbab8",
-    "pubDate": "Sun, 18 Jan 2026 08:42:08 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "PythonではなくJavaScriptを学ぶべきだった",
     "link": "https://qiita.com/newt0/items/ec78502b3c20a2b4d3a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-18T06:15:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026 年に nix を始める方法",
-    "link": "https://zenn.dev/koba_e964/articles/32a7e0c345affe",
-    "pubDate": "Sun, 18 Jan 2026 05:25:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "動かないデバイスもAntigravityがなんとかしてくれた",
-    "link": "https://zenn.dev/kacky/articles/30a4aa9c268496",
-    "pubDate": "Sun, 18 Jan 2026 05:01:22 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "Rust と Web でつくる軽量デスクトップアプリ：Tauri 完全ガイド",
     "link": "https://qiita.com/automation2025/items/c2e5d77c08c37532a3a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-17T00:50:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Otonami（おとなみ）｜大人のための非日常体験",
+    "link": "https://otonami.jp/",
+    "pubDate": "2021-10-22T09:08:05.000Z"
   }
 ]
