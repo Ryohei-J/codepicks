@@ -1,9 +1,9 @@
 [
   {
     "site": "Hatena",
-    "title": "日比谷線に乗っていたら隣の人が持ってたiPad(モバイルバッテリー？)が急に発火してめちゃ燃えて死ぬかと思った「日比谷線でこの絵面はトラウマ」",
-    "link": "https://togetter.com/li/2654224",
-    "pubDate": "2026-01-21T02:01:04.000Z"
+    "title": "Node.js作者の発言「人間がコードを書く時代は終わった」について思うこと | maguro​.dev",
+    "link": "https://maguro.dev/blog/the-era-of-humans-writing-code-is-over/",
+    "pubDate": "2026-01-21T04:00:11.000Z"
   },
   {
     "site": "Hatena",
@@ -16,6 +16,12 @@
     "title": "本の虫: 元Google社員、社内での給与額の公開運動について語る",
     "link": "https://ezoeryou.github.io/blog/article/2015-07-18-salary.html",
     "pubDate": "2026-01-20T23:25:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Agent SkillsがVercelに乗っ取られそうになっている件について",
+    "link": "https://zenn.dev/tkithrta/articles/b7afbf76e7bb31",
+    "pubDate": "Tue, 20 Jan 2026 22:42:48 GMT"
   },
   {
     "site": "Qiita",
@@ -36,6 +42,12 @@
     "pubDate": "2026-01-20T14:15:03.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "https://2685434919 と https://160.16.124.39 はSameOriginか",
+    "link": "https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-20T13:57:35.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド",
     "link": "https://zenn.dev/studypocket/articles/claude-code-complete-guide",
@@ -48,10 +60,28 @@
     "pubDate": "Tue, 20 Jan 2026 09:17:48 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "2026年1月、スノーボード駆動開発に辿り着いた 〜 オレのバイブコーディング 〜",
+    "link": "https://zenn.dev/gawa/articles/my-vibe-coding-memo",
+    "pubDate": "Tue, 20 Jan 2026 07:45:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "MoonBit による静的解析：簡易言語の分析から MCIL まで",
+    "link": "https://zenn.dev/moonbitlang/articles/bc477c84d9c0b2",
+    "pubDate": "Tue, 20 Jan 2026 07:25:57 GMT"
+  },
+  {
     "site": "Qiita",
-    "title": "『単体テストの考え方/使い方』が良すぎた - Qiita",
-    "link": "https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a",
-    "pubDate": "2026-01-20T06:39:42.000Z"
+    "title": "仕事を構造化する実践ノウハウ",
+    "link": "https://qiita.com/kimuni-i/items/3ccede58154d3d4e6724?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-20T06:16:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Leanでミレニアム懸賞金問題の物理系2問を解決したから見て欲しい",
+    "link": "https://zenn.dev/solufa/articles/frourio-universe-structure-theory",
+    "pubDate": "Tue, 20 Jan 2026 06:11:36 GMT"
   },
   {
     "site": "Zenn",
@@ -79,51 +109,39 @@
   },
   {
     "site": "Zenn",
+    "title": "AIエージェントを「自己進化」させる仕組み",
+    "link": "https://zenn.dev/knowledgesense/articles/a68f42a6a0144b",
+    "pubDate": "Tue, 20 Jan 2026 00:01:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Spec DrivenではなくImplementation Drivenを選ぶ理由",
+    "link": "https://zenn.dev/akring/articles/ef2d8d1e95ff86",
+    "pubDate": "Mon, 19 Jan 2026 18:01:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "サーバーの無いReactフレームワークFUNSTACK Static",
     "link": "https://zenn.dev/uhyo/articles/funstack-static-first-release",
     "pubDate": "Mon, 19 Jan 2026 14:46:03 GMT"
   },
   {
     "site": "Zenn",
-    "title": "なぜ、MCPよりも「ファイルベースで扱うSkills」の方が便利なのか",
-    "link": "https://zenn.dev/karamage/articles/db488ca6362eb2",
-    "pubDate": "Mon, 19 Jan 2026 11:45:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "濫立するClaude Codeの機能の使い分け：スキル、サブエージェント、スラッシュコマンド、CLAUDE.md、Hooks",
-    "link": "https://zenn.dev/notahotel/articles/a175aa95629d0b",
-    "pubDate": "Mon, 19 Jan 2026 07:35:25 GMT"
+    "title": "Claude Codeにお遣いさせて見えてきた、買い物エージェントの一つの解",
+    "link": "https://zenn.dev/wmoto_ai/articles/ai-shopping-human-in-the-loop",
+    "pubDate": "Mon, 19 Jan 2026 13:10:56 GMT"
   },
   {
     "site": "Zenn",
     "title": "プログラマの抱いている「住所」についての誤謬",
     "link": "https://zenn.dev/yuyaokada09/articles/ed4d2c1f3b982c",
-    "pubDate": "Mon, 19 Jan 2026 06:46:58 GMT"
+    "pubDate": "2026-01-19T11:09:41.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "なぜ、IT業界\"にわか\"層は「Web系がSIerに比べて技術的に優位」という幻想を抱くのか？",
-    "link": "https://zenn.dev/pdfractal/articles/e9f3aa5f0d55f0",
-    "pubDate": "Mon, 19 Jan 2026 06:06:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js のリクエストから画面描画まで──RSC Payload を理解する",
-    "link": "https://zenn.dev/branbran/articles/5dff2f327cf18d",
-    "pubDate": "Mon, 19 Jan 2026 02:56:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "テストで開発者を駆動する",
-    "link": "https://zenn.dev/fusic/articles/test-driven-developers",
-    "pubDate": "Mon, 19 Jan 2026 01:42:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropicハッカソン優勝者のClaude Code設定集「everything-claude-code」を読み解く",
-    "link": "https://zenn.dev/ttks/articles/a54c7520f827be",
-    "pubDate": "Mon, 19 Jan 2026 00:22:56 GMT"
+    "site": "Qiita",
+    "title": "第４回空戦AIチャレンジ最終一位チームの「最終解法」",
+    "link": "https://qiita.com/TaroKawa_Spakona/items/0a2f110216f4d00f295c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-19T10:00:23.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～",
     "link": "https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-18T09:28:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PythonではなくJavaScriptを学ぶべきだった",
-    "link": "https://qiita.com/newt0/items/ec78502b3c20a2b4d3a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T06:15:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ローカルLLMサーバーの実用的な使い道の検討",
-    "link": "https://qiita.com/bd8z/items/85b419b26b2886f5e2d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T03:50:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "統計モデリング大全　目次",
-    "link": "https://qiita.com/c60evaporator/items/c8907eddfe84881cdc3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T02:48:14.000Z"
   }
 ]
