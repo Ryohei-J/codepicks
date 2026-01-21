@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "ChatGPTに対して「これまで私があなたをどう扱ってきたのかを画像にしてください」とプロンプトを投げてみると普段自分がAIをどう扱っているかが明らかに",
+    "link": "https://togetter.com/li/2654471",
+    "pubDate": "2026-01-21T13:48:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「スマートロックで死にかけた」──SNSでの訴えにSwitchBotが不備を認め謝罪　サポート体制見直しへ",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/21/news114.html",
+    "pubDate": "2026-01-21T11:49:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スキャン書籍のPDFファイルを電子書籍並みにクリアで読みやすくするAI・高品質化・各種調整ツール「DN_SuperBook_PDF_Converter」",
+    "link": "https://gigazine.net/news/20260121-dn-superbook-pdf-converter/",
+    "pubDate": "2026-01-21T11:41:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Amazon RDS Blue/Green Deployments reduces downtime to under five seconds - AWS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-blue-green-deployments-reduces-downtime/",
+    "pubDate": "2026-01-21T10:56:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "メガネを「スマート化」する超小型ディスプレイ、クラファンで4,800%達成",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2079410.html",
+    "pubDate": "2026-01-21T08:59:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、「Claude Code for VS Code」の一般提供を開始／コーディング支援AI「Claude Code」の公式「Visual Studio Code」拡張機能",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2079499.html",
+    "pubDate": "2026-01-21T08:19:18.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Node.js作者の発言「人間がコードを書く時代は終わった」について思うこと | maguro​.dev",
     "link": "https://maguro.dev/blog/the-era-of-humans-writing-code-is-over/",
     "pubDate": "2026-01-21T04:00:11.000Z"
@@ -12,22 +48,10 @@
     "pubDate": "2026-01-20T23:47:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "本の虫: 元Google社員、社内での給与額の公開運動について語る",
-    "link": "https://ezoeryou.github.io/blog/article/2015-07-18-salary.html",
-    "pubDate": "2026-01-20T23:25:56.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Agent SkillsがVercelに乗っ取られそうになっている件について",
     "link": "https://zenn.dev/tkithrta/articles/b7afbf76e7bb31",
     "pubDate": "Tue, 20 Jan 2026 22:42:48 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Mermaidでアーキテクチャ図を作成する - Qiita",
-    "link": "https://qiita.com/mistylady/items/bfa00a849f08d7dc7b47",
-    "pubDate": "2026-01-20T17:59:56.000Z"
   },
   {
     "site": "Hatena",
@@ -36,22 +60,10 @@
     "pubDate": "2026-01-20T15:40:48.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "2026年1月版 俺的AI駆動開発フロー&Tips",
-    "link": "https://zenn.dev/microsoft/articles/2026-01-my-aidd-flow",
-    "pubDate": "2026-01-20T14:15:03.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "https://2685434919 と https://160.16.124.39 はSameOriginか",
     "link": "https://qiita.com/flano_yuki/items/e038be1a66448aaf594f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-20T13:57:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド",
-    "link": "https://zenn.dev/studypocket/articles/claude-code-complete-guide",
-    "pubDate": "2026-01-20T12:34:20.000Z"
   },
   {
     "site": "Zenn",
@@ -84,22 +96,10 @@
     "pubDate": "Tue, 20 Jan 2026 06:11:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIエージェントを「自己進化」させる仕組み",
-    "link": "https://zenn.dev/knowledgesense/articles/a68f42a6a0144b",
-    "pubDate": "2026-01-20T05:04:26.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】",
     "link": "https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-20T04:12:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "電子書籍（EPUB）ではHTMLは使えないことになりました — W3Cが苦渋の決断、Webと電子書籍の統合を阻んだ「XMLの壁」",
-    "link": "https://techfeed.io/entries/696edf1002840843325333c3",
-    "pubDate": "2026-01-20T01:55:21.000Z"
   },
   {
     "site": "Zenn",
