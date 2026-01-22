@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "エンジニアが自宅野菜サーバーを運用して得られた、IoTの「収穫」 - Findy Media",
+    "link": "https://findy-code.io/media/articles/chotto-wakaru-iot",
+    "pubDate": "2026-01-21T23:40:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "紙書籍を「自炊」している人に福音？　スキャンデータを徹底的に読みやすくする最強ツール／作者は「SoftEther VPN」などで知られる登大遊氏",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2079681.html",
+    "pubDate": "2026-01-21T21:46:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "KindleストアでDRMフリーの本は“その他のフォーマット”でもダウンロード可能になった――が、そもそもDRMフリーの本かどうかをユーザーが購入前に知る手段はいまのところなさそう | HON[.]jp News Blog",
+    "link": "https://hon.jp/news/1.0/0/58260",
+    "pubDate": "2026-01-21T20:12:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "そのAIレビュー、レビューしてますか？ / Are you reviewing those AI reviews?",
+    "link": "https://speakerdeck.com/rkaga/are-you-reviewing-those-ai-reviews",
+    "pubDate": "2026-01-21T16:16:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Clawdbot — Personal AI Assistant",
+    "link": "https://clawd.bot/",
+    "pubDate": "2026-01-21T16:15:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「情報処理技術者試験の見直し」説明会　2025年12月22日：経済産業省（３） - ＩＴ記者会講演再録",
+    "link": "https://interview.hatenablog.jp/entry/2026/01/20/072030",
+    "pubDate": "2026-01-21T15:32:21.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ChatGPTに対して「これまで私があなたをどう扱ってきたのかを画像にしてください」とプロンプトを投げてみると普段自分がAIをどう扱っているかが明らかに",
     "link": "https://togetter.com/li/2654471",
     "pubDate": "2026-01-21T13:48:28.000Z"
@@ -18,22 +54,10 @@
     "pubDate": "2026-01-21T11:41:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Amazon RDS Blue/Green Deployments reduces downtime to under five seconds - AWS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-blue-green-deployments-reduces-downtime/",
-    "pubDate": "2026-01-21T10:56:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "メガネを「スマート化」する超小型ディスプレイ、クラファンで4,800%達成",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2079410.html",
-    "pubDate": "2026-01-21T08:59:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Anthropic、「Claude Code for VS Code」の一般提供を開始／コーディング支援AI「Claude Code」の公式「Visual Studio Code」拡張機能",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2079499.html",
-    "pubDate": "2026-01-21T08:19:18.000Z"
+    "site": "Zenn",
+    "title": "【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう",
+    "link": "https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient",
+    "pubDate": "Wed, 21 Jan 2026 09:24:18 GMT"
   },
   {
     "site": "Hatena",
@@ -42,10 +66,16 @@
     "pubDate": "2026-01-21T04:00:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「ジェミニ」か「ジェミナイ」──Geminiの正しい読み方は？　Google Japanが改めて告知",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2601/21/news052.html",
-    "pubDate": "2026-01-20T23:47:49.000Z"
+    "site": "Qiita",
+    "title": "Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた",
+    "link": "https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-21T01:28:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Stylelint v17 の主な変更点：ESM 移行と CSS Nesting 対応など",
+    "link": "https://zenn.dev/ryo_manba/articles/stylelint-v17-update",
+    "pubDate": "Wed, 21 Jan 2026 00:00:01 GMT"
   },
   {
     "site": "Zenn",
@@ -54,10 +84,10 @@
     "pubDate": "Tue, 20 Jan 2026 22:42:48 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "エンジニアの技術と給料 - megamouthの葬列",
-    "link": "https://www.megamouth.info/entry/2026/01/20/225357",
-    "pubDate": "2026-01-20T15:40:48.000Z"
+    "site": "Qiita",
+    "title": "\"セキュリティ投資\"は\"投資\"か？を本気で考える",
+    "link": "https://qiita.com/f_0000/items/864a49b93bbfaa7672ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-20T16:09:10.000Z"
   },
   {
     "site": "Qiita",
@@ -97,6 +127,12 @@
   },
   {
     "site": "Qiita",
+    "title": "VS Code開発効率を最大化するキーボード操作術【Mac編】",
+    "link": "https://qiita.com/Yamashita_Sosuke/items/0800689e72d30fb554d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-20T06:10:04.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】",
     "link": "https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-20T04:12:47.000Z"
@@ -120,28 +156,16 @@
     "pubDate": "Mon, 19 Jan 2026 18:01:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "サーバーの無いReactフレームワークFUNSTACK Static",
-    "link": "https://zenn.dev/uhyo/articles/funstack-static-first-release",
-    "pubDate": "Mon, 19 Jan 2026 14:46:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeにお遣いさせて見えてきた、買い物エージェントの一つの解",
-    "link": "https://zenn.dev/wmoto_ai/articles/ai-shopping-human-in-the-loop",
-    "pubDate": "Mon, 19 Jan 2026 13:10:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プログラマの抱いている「住所」についての誤謬",
-    "link": "https://zenn.dev/yuyaokada09/articles/ed4d2c1f3b982c",
-    "pubDate": "2026-01-19T11:09:41.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "第４回空戦AIチャレンジ最終一位チームの「最終解法」",
     "link": "https://qiita.com/TaroKawa_Spakona/items/0a2f110216f4d00f295c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-19T10:00:23.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "自然言語からSQLは魔法ではない",
+    "link": "https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-19T02:08:09.000Z"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた",
     "link": "https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-18T21:42:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "『単体テストの考え方/使い方』が良すぎた",
-    "link": "https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T16:30:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Google AI Proで使い倒すAntigravity開発ノウハウ：モデルとモードの最適解",
-    "link": "https://qiita.com/ryosukehayashi/items/ad6e67d7d2b261a3b39f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T14:04:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Antigravityのスキルで、実装・レビュー・修正まで一貫してできるようになった話",
-    "link": "https://qiita.com/ho-rai/items/cb76efb490898c778a45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T09:50:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilotは果たしてセキュアなのか～管理者目線・ユーザー目線からまとめてみた～",
-    "link": "https://qiita.com/sadabon444/items/9a2e5c163b46d81e1f62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T09:28:51.000Z"
   }
 ]
