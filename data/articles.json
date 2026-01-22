@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "「iPhoneを使ってる人が多いのは日本だけ」というのは間違い",
+    "link": "https://anond.hatelabo.jp/20260122120224",
+    "pubDate": "2026-01-22T03:07:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "紙書籍を「自炊」している人に福音？　スキャンデータを徹底的に読みやすくする最強ツール／作者は「SoftEther VPN」などで知られる登大遊氏【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2079829.html",
+    "pubDate": "2026-01-22T02:16:49.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "キングジム、本を開いたまま固定できてページもめくれるブッククリップ",
     "link": "https://www.watch.impress.co.jp/docs/news/2077360.html",
     "pubDate": "2026-01-22T01:36:27.000Z"
@@ -36,28 +48,40 @@
     "pubDate": "2026-01-21T21:46:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "そのAIレビュー、レビューしてますか？ / Are you reviewing those AI reviews?",
-    "link": "https://speakerdeck.com/rkaga/are-you-reviewing-those-ai-reviews",
-    "pubDate": "2026-01-21T16:16:07.000Z"
+    "site": "Zenn",
+    "title": "「人間がコードを書く時代は終わった」— Node.js創始者の宣言から考える、ソフトウェア開発の未来",
+    "link": "https://zenn.dev/liushengli/articles/c12d4a6881b604",
+    "pubDate": "Wed, 21 Jan 2026 14:17:24 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTに対して「これまで私があなたをどう扱ってきたのかを画像にしてください」とプロンプトを投げてみると普段自分がAIをどう扱っているかが明らかに",
-    "link": "https://togetter.com/li/2654471",
-    "pubDate": "2026-01-21T13:48:28.000Z"
+    "site": "Zenn",
+    "title": "LEANをポータブルで使う方法（非公式）",
+    "link": "https://zenn.dev/adrastea/articles/9b20d6d04a01cf",
+    "pubDate": "Wed, 21 Jan 2026 13:03:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「スマートロックで死にかけた」──SNSでの訴えにSwitchBotが不備を認め謝罪　サポート体制見直しへ",
-    "link": "https://www.itmedia.co.jp/news/articles/2601/21/news114.html",
-    "pubDate": "2026-01-21T11:49:04.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilotを使いこなすための概念整理",
+    "link": "https://zenn.dev/cbmrham/articles/202601-github-copilot-concepts",
+    "pubDate": "Wed, 21 Jan 2026 11:50:22 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】Qiita記事を手元に残してオフラインで読めるMarkdown / PDF保存ツールを個人開発した【Next.js / React / TypeScript / Playwright / Qiita API】",
+    "link": "https://qiita.com/kazutorahattori/items/fe68c9566983b1d28a1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-21T11:45:08.000Z"
   },
   {
     "site": "Hatena",
     "title": "スキャン書籍のPDFファイルを電子書籍並みにクリアで読みやすくするAI・高品質化・各種調整ツール「DN_SuperBook_PDF_Converter」",
     "link": "https://gigazine.net/news/20260121-dn-superbook-pdf-converter/",
     "pubDate": "2026-01-21T11:41:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "本当に使える！海外Tech動画爆速キャッチアップ術まとめ",
+    "link": "https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-21T10:18:40.000Z"
   },
   {
     "site": "Zenn",
@@ -67,9 +91,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Bedrock AgentCoreのデプロイツールがTypeScriptに対応！ 宇宙最速で試してみた",
-    "link": "https://qiita.com/minorun365/items/57fb0da7257d9875409c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-21T01:28:47.000Z"
+    "title": "【個人開発】Neon + Drizzle + Hono + Cloudflare Workers で「オレオレ Pocket」を作ってみた話",
+    "link": "https://qiita.com/guppy0356/items/ee412628917fe2fc3e45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-21T08:04:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【思考実験】NTRビデオレターを確実に届けたい間男VS令和最新版のご家庭 - セラミックロケッツ！",
+    "link": "https://cr.hatenablog.com/entry/2026/01/21/022453",
+    "pubDate": "2026-01-21T01:47:46.000Z"
   },
   {
     "site": "Zenn",
@@ -85,6 +115,12 @@
   },
   {
     "site": "Qiita",
+    "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その1",
+    "link": "https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-20T17:29:29.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "\"セキュリティ投資\"は\"投資\"か？を本気で考える",
     "link": "https://qiita.com/f_0000/items/864a49b93bbfaa7672ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-20T16:09:10.000Z"
@@ -97,21 +133,21 @@
   },
   {
     "site": "Zenn",
-    "title": "[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド",
+    "title": "【入門】いまさらRAGを自作して、検索の挙動とチューニングの勘所を「体感」する",
+    "link": "https://zenn.dev/sakagi/articles/3e0348dc4265dc",
+    "pubDate": "Tue, 20 Jan 2026 09:58:47 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド【基礎編】",
     "link": "https://zenn.dev/studypocket/articles/claude-code-complete-guide",
     "pubDate": "Tue, 20 Jan 2026 09:17:48 GMT"
   },
   {
     "site": "Zenn",
-    "title": "2026年1月、スノーボード駆動開発に辿り着いた 〜 オレのバイブコーディング 〜",
-    "link": "https://zenn.dev/gawa/articles/my-vibe-coding-memo",
-    "pubDate": "Tue, 20 Jan 2026 07:45:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MoonBit による静的解析：簡易言語の分析から MCIL まで",
-    "link": "https://zenn.dev/moonbitlang/articles/bc477c84d9c0b2",
-    "pubDate": "Tue, 20 Jan 2026 07:25:57 GMT"
+    "title": "いいから設計段階でレビュー依頼を出せ",
+    "link": "https://zenn.dev/gizmo/articles/d2962c4a0754c7",
+    "pubDate": "Tue, 20 Jan 2026 09:14:01 GMT"
   },
   {
     "site": "Qiita",
@@ -138,45 +174,9 @@
     "pubDate": "2026-01-20T04:12:47.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "2026年1月版 俺的AI駆動開発フロー&Tips",
-    "link": "https://zenn.dev/microsoft/articles/2026-01-my-aidd-flow",
-    "pubDate": "Tue, 20 Jan 2026 01:41:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントを「自己進化」させる仕組み",
-    "link": "https://zenn.dev/knowledgesense/articles/a68f42a6a0144b",
-    "pubDate": "Tue, 20 Jan 2026 00:01:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Spec DrivenではなくImplementation Drivenを選ぶ理由",
-    "link": "https://zenn.dev/akring/articles/ef2d8d1e95ff86",
-    "pubDate": "Mon, 19 Jan 2026 18:01:05 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "第４回空戦AIチャレンジ最終一位チームの「最終解法」",
-    "link": "https://qiita.com/TaroKawa_Spakona/items/0a2f110216f4d00f295c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-19T10:00:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "自然言語からSQLは魔法ではない",
-    "link": "https://qiita.com/engchina/items/3795769451ab003b6ee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-19T02:08:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Claude Code】Claude CodeがOllamaと連携できるようになったらしい",
-    "link": "https://qiita.com/ryu-ki/items/eed90901fdd044ce7f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T23:41:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年最新】Claude Code作者が実践する「超並列駆動」開発術がエンジニアの常識を破壊していた",
-    "link": "https://qiita.com/ot12/items/66e7c07c459e3bb7082d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-18T21:42:29.000Z"
+    "title": "IPA高度区分試験攻略法(PM/ST/AU)── と思ったらまさかの試験区分再編！",
+    "link": "https://qiita.com/dais_cw/items/1a0c2e84dd0898a088ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-19T22:44:35.000Z"
   }
 ]
