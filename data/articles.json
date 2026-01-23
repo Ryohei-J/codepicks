@@ -1,9 +1,51 @@
 [
   {
+    "site": "Zenn",
+    "title": "「人間がコードを書く時代は終わった」議論は2種類のコードを混同している",
+    "link": "https://zenn.dev/uryyyyyyy/articles/f127af4277aa32",
+    "pubDate": "2026-01-23T08:09:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "git-wtを導入した - koicの日記",
+    "link": "https://koic.hatenablog.com/entry/introduce-git-wt",
+    "pubDate": "2026-01-23T07:52:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大学で働いてたとき、財務課から「パーソナルコンピュータのパーソナルは\"個人\"という意味だから、学科の予算で学生複数名が使うPCは購入することができません」と言われた話",
+    "link": "https://togetter.com/li/2655022",
+    "pubDate": "2026-01-23T06:22:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "人用のテストケースも実行できる汎用テスト実行エージェントを開発した話",
+    "link": "https://zenn.dev/mixi/articles/7cab5eef970f39",
+    "pubDate": "Fri, 23 Jan 2026 03:12:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【個人開発】Claude Codeに83%のコードを書かせる「ドキュメント駆動開発」の全貌【Flutter向けCLAUDE.md公開】",
+    "link": "https://zenn.dev/furunag/articles/claude-code-document-driven-development",
+    "pubDate": "Fri, 23 Jan 2026 03:00:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "5秒の声から良質ボイスクローンを生成できるCPU動作の軽量ローカルAI「Pocket TTS」、AIにゲームで遊ばせたら別ジャンルでも能力が向上した研究など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/01/23/4832.html",
+    "pubDate": "2026-01-23T01:40:07.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "OSSの公式Webサイトを見分けるのは難しい (PuTTYを例に) | IIJ Engineers Blog",
     "link": "https://eng-blog.iij.ad.jp/archives/34968",
     "pubDate": "2026-01-23T00:34:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2026年最新】1万件のQiita記事を分析して分かった「ブログのトレンド」の法則まとめ",
+    "link": "https://qiita.com/GIFCat/items/bb975270517295716af3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-22T23:58:03.000Z"
   },
   {
     "site": "Hatena",
@@ -12,22 +54,10 @@
     "pubDate": "2026-01-22T23:06:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "第35回：秘密のデータを墓場まで持っていく計画に、“プロ仕様SSD”が使えるらしい【天国へのプロトコル】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/tengoku/2078335.html",
-    "pubDate": "2026-01-22T21:31:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Announcing winapp, the Windows App Development CLI",
-    "link": "https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/",
-    "pubDate": "2026-01-22T16:40:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilotを使いこなすための概念整理",
-    "link": "https://zenn.dev/cbmrham/articles/202601-github-copilot-concepts",
-    "pubDate": "2026-01-22T13:01:39.000Z"
+    "site": "Qiita",
+    "title": "【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?",
+    "link": "https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-22T19:45:34.000Z"
   },
   {
     "site": "Hatena",
@@ -36,22 +66,16 @@
     "pubDate": "2026-01-22T11:23:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "非公式7-Zip Webサイトにて公開されているインストーラによる不審なファイルの展開",
-    "link": "https://wizsafe.iij.ad.jp/2026/01/2075/",
-    "pubDate": "2026-01-22T10:51:43.000Z"
+    "site": "Zenn",
+    "title": "ステルスSSID、百害あって一利なし",
+    "link": "https://zenn.dev/digeon/articles/bfe97d0ef09232",
+    "pubDate": "Thu, 22 Jan 2026 11:15:59 GMT"
   },
   {
     "site": "Zenn",
     "title": "Anthropic ハッカソン優勝者のClaude Codeの設定がすごすぎた",
     "link": "https://zenn.dev/shintaroamaike/articles/6397da70f4a445",
     "pubDate": "2026-01-22T10:28:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code × MCPで実現するPRレビュー準備の自動化 ——週6時間のレビュー工数を削減した実践例——",
-    "link": "https://techblog.lycorp.co.jp/ja/20260122a",
-    "pubDate": "2026-01-22T09:07:10.000Z"
   },
   {
     "site": "Zenn",
@@ -72,6 +96,12 @@
     "pubDate": "2026-01-22T04:34:11.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Best Practices for Claude Code - Claude Code Docs",
+    "link": "https://code.claude.com/docs/en/best-practices",
+    "pubDate": "2026-01-22T03:47:59.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド【応用編】",
     "link": "https://zenn.dev/studypocket/articles/claude-code-complete-guide-advanced",
@@ -84,16 +114,28 @@
     "pubDate": "Thu, 22 Jan 2026 01:55:16 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "デザインの「沼」を抜けるための視点リセット術🧠⚡",
+    "link": "https://qiita.com/GIFCat/items/d435d9dd7ca1c1329483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-22T00:02:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "フリーランスエンジニアは「経験の切り売り」になりやすいのか？",
+    "link": "https://zenn.dev/yutaro1985/articles/freelance-career-strategy",
+    "pubDate": "Wed, 21 Jan 2026 23:00:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "素人質問が大好きな教授にコードレビューを頼んでみた結果",
+    "link": "https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-21T14:20:09.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "「人間がコードを書く時代は終わった」— Node.js創始者の宣言から考える、ソフトウェア開発の未来",
     "link": "https://zenn.dev/liushengli/articles/c12d4a6881b604",
     "pubDate": "Wed, 21 Jan 2026 14:17:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ExcelVBAをVSCode × AIエージェントの100%バイブコーディングで開発する方法",
-    "link": "https://zenn.dev/harumikun/articles/5a0f1ef2a2265d",
-    "pubDate": "Wed, 21 Jan 2026 13:59:27 GMT"
   },
   {
     "site": "Zenn",
@@ -102,28 +144,16 @@
     "pubDate": "Wed, 21 Jan 2026 12:56:49 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub Copilotを使いこなすための概念整理",
-    "link": "https://zenn.dev/cbmrham/articles/202601-github-copilot-concepts",
-    "pubDate": "Wed, 21 Jan 2026 11:50:22 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "本当に使える！海外Tech動画爆速キャッチアップ術まとめ",
     "link": "https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-21T10:18:40.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう",
-    "link": "https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient",
-    "pubDate": "Wed, 21 Jan 2026 09:24:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropic ハッカソン優勝者のClaude Codeの設定がすごすぎた",
-    "link": "https://zenn.dev/shintaroamaike/articles/6397da70f4a445",
-    "pubDate": "Wed, 21 Jan 2026 08:46:41 GMT"
+    "site": "Qiita",
+    "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その2",
+    "link": "https://qiita.com/sumikawa@github/items/3f5762ce0469740e5502?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-21T05:22:43.000Z"
   },
   {
     "site": "Qiita",
@@ -148,35 +178,5 @@
     "title": "Synology NASで「自分専用の自動化サーバー(n8n)」を立ち上げる方法（Docker入門）",
     "link": "https://qiita.com/TaichiEndoh/items/ec3575db1f0a8755896e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-20T09:24:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "仕事を構造化する実践ノウハウ",
-    "link": "https://qiita.com/kimuni-i/items/3ccede58154d3d4e6724?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-20T06:16:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。【前編】",
-    "link": "https://qiita.com/hitomin_poke/items/f5e8cb0c1b2e1145e852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-20T04:12:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeを使いこなす完全ガイド - 生産性を劇的に向上させるテクニック",
-    "link": "https://qiita.com/koras7788/items/540e9c60095243a888d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-20T00:47:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発のAIアプリをServerless化したら月額$7で運用できた件",
-    "link": "https://qiita.com/JaminL/items/3f76045c4b7696744fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-19T23:34:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "IPA高度区分試験攻略法(PM/ST/AU)── と思ったらまさかの試験区分再編！",
-    "link": "https://qiita.com/dais_cw/items/1a0c2e84dd0898a088ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-19T22:44:35.000Z"
   }
 ]
