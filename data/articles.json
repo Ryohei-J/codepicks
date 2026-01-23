@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "OSSの公式Webサイトを見分けるのは難しい (PuTTYを例に) | IIJ Engineers Blog",
+    "link": "https://eng-blog.iij.ad.jp/archives/34968",
+    "pubDate": "2026-01-23T00:34:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“躁”と“鬱”を繰り返す「双極症」、原因の脳部位を特定　41人の死後脳から　順天堂大がNature系列誌で発表",
     "link": "https://www.itmedia.co.jp/news/articles/2601/23/news029.html",
     "pubDate": "2026-01-22T23:06:18.000Z"
@@ -49,6 +55,12 @@
   },
   {
     "site": "Zenn",
+    "title": "「人間がコードを書く時代は終わった」議論は2種類のコードを混同している",
+    "link": "https://zenn.dev/uryyyyyyy/articles/f127af4277aa32",
+    "pubDate": "Thu, 22 Jan 2026 08:13:42 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AntigravityでRemotionのSkillをつかって動画を作成してみた",
     "link": "https://zenn.dev/nari007/articles/df1d4954e903e9",
     "pubDate": "Thu, 22 Jan 2026 05:22:36 GMT"
@@ -66,16 +78,22 @@
     "pubDate": "Thu, 22 Jan 2026 03:46:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "NotebookLMを取り入れた新・知的生産術｜Shin",
-    "link": "https://note.com/iam_shin/n/n7de3b47cbbe5",
-    "pubDate": "2026-01-22T00:05:16.000Z"
+    "site": "Zenn",
+    "title": "ZennのシンタックスハイライターをPrism.jsからShikiに移行しました",
+    "link": "https://zenn.dev/team_zenn/articles/zenn-prism-to-shiki",
+    "pubDate": "Thu, 22 Jan 2026 01:55:16 GMT"
   },
   {
     "site": "Zenn",
-    "title": "フリーランスエンジニアは「経験の切り売り」になりやすいのか？",
-    "link": "https://zenn.dev/yutaro1985/articles/freelance-career-strategy",
-    "pubDate": "Wed, 21 Jan 2026 23:00:01 GMT"
+    "title": "「人間がコードを書く時代は終わった」— Node.js創始者の宣言から考える、ソフトウェア開発の未来",
+    "link": "https://zenn.dev/liushengli/articles/c12d4a6881b604",
+    "pubDate": "Wed, 21 Jan 2026 14:17:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ExcelVBAをVSCode × AIエージェントの100%バイブコーディングで開発する方法",
+    "link": "https://zenn.dev/harumikun/articles/5a0f1ef2a2265d",
+    "pubDate": "Wed, 21 Jan 2026 13:59:27 GMT"
   },
   {
     "site": "Zenn",
@@ -109,27 +127,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【AWS未経験】1年でCFP → SAA → SAPに合格した勉強法",
+    "title": "【AWS未経験】1年でCFP → SAA → SAPに一発合格した勉強法",
     "link": "https://qiita.com/kakerucc/items/0990ec75925499981100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-21T03:06:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Stylelint v17 の主な変更点：ESM 移行と CSS Nesting 対応など",
-    "link": "https://zenn.dev/ryo_manba/articles/stylelint-v17-update",
-    "pubDate": "Wed, 21 Jan 2026 00:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSSで頑張らなくても、SVGで楽にできるときもある",
-    "link": "https://zenn.dev/silverbirder/articles/97f026320218f9",
-    "pubDate": "Tue, 20 Jan 2026 23:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent SkillsがVercelに乗っ取られそうになっている件について",
-    "link": "https://zenn.dev/tkithrta/articles/b7afbf76e7bb31",
-    "pubDate": "Tue, 20 Jan 2026 22:42:48 GMT"
   },
   {
     "site": "Qiita",
