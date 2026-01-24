@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "原稿の確認依頼を行ったところ先方から「Geminiはこう言っています」とAIのコピペ修正案が送られてきて衝撃を受けた→「世に出てない原稿をAIに食わせたって事だよな...」",
+    "link": "https://togetter.com/li/2655455",
+    "pubDate": "2026-01-24T07:49:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeベストプラクティスまとめ",
+    "link": "https://speakerdeck.com/minorun365/claude-codebesutopurakuteisumatome",
+    "pubDate": "2026-01-24T06:45:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "速報！Playwright CLIがでた！",
+    "link": "https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-24T02:40:09.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "複雑な要件を1クエリで完結させる、PostgreSQL活用術 - SmartHR Tech Blog",
     "link": "https://tech.smarthr.jp/entry/2026/01/23/083000",
     "pubDate": "2026-01-24T02:35:58.000Z"
@@ -12,16 +30,16 @@
     "pubDate": "2026-01-24T01:21:48.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！",
+    "link": "https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-23T14:45:29.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "ステルスSSID、百害あって一利なし",
     "link": "https://zenn.dev/digeon/articles/bfe97d0ef09232",
     "pubDate": "2026-01-23T14:05:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Devin Reviewがレビュー疲れの人を助けてくれるかも",
-    "link": "https://zenn.dev/immedio/articles/a88d8ffe75f2b6",
-    "pubDate": "2026-01-23T12:53:17.000Z"
   },
   {
     "site": "Hatena",
@@ -31,9 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "git-wtを導入した - koicの日記",
-    "link": "https://koic.hatenablog.com/entry/introduce-git-wt",
-    "pubDate": "2026-01-23T07:52:40.000Z"
+    "title": "引き渡しから半月で家中がカビまみれ、独自の基礎断熱と換気方法が裏目に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03443/121600003/",
+    "pubDate": "2026-01-23T08:54:51.000Z"
   },
   {
     "site": "Zenn",
@@ -42,28 +60,22 @@
     "pubDate": "Fri, 23 Jan 2026 07:18:41 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【Google Antigravity】新機能「Skills」について",
-    "link": "https://zenn.dev/emp_tech_blog/articles/google-antigravity-skills",
-    "pubDate": "2026-01-23T07:10:21.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "Qwen-TTSに自分の声でしゃべらせる - きしだのHatena",
     "link": "https://nowokay.hatenablog.com/entry/2026/01/23/145128",
     "pubDate": "2026-01-23T06:54:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "業界初VIO専用の電動洗浄ブラシ、パナソニック - 家電 Watch",
-    "link": "https://kaden.watch.impress.co.jp/docs/news/2080217.html",
-    "pubDate": "2026-01-23T06:24:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "量子コンピュータの「幻滅期」を超えて：2026年、実利と研究が切り離される再編の幕開け",
     "link": "https://zenn.dev/yuichirominato/articles/52954bca4e24f2",
     "pubDate": "Fri, 23 Jan 2026 05:35:07 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Geminiの「Gem」で自分専用のAWS認定講師を作ってみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/",
+    "pubDate": "2026-01-23T04:59:34.000Z"
   },
   {
     "site": "Zenn",
@@ -78,16 +90,22 @@
     "pubDate": "Fri, 23 Jan 2026 03:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【2026年最新】1万件のQiita記事を分析して分かった「ブログのトレンド」の法則まとめ",
-    "link": "https://qiita.com/GIFCat/items/bb975270517295716af3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-22T23:58:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【考察】React は何故こんなに分かりにくいのか？",
     "link": "https://zenn.dev/ak0047/articles/2026-01-react-difficulty",
     "pubDate": "Thu, 22 Jan 2026 21:29:52 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【10ギガ回線化顛末記】10ギガ回線がやってきた！ 速度を最大限に引き出すために宅内LANやPCを10GbE化する　",
+    "link": "https://internet.watch.impress.co.jp/docs/special/2076445.html",
+    "pubDate": "2026-01-22T21:22:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話",
+    "link": "https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-22T21:09:33.000Z"
   },
   {
     "site": "Qiita",
@@ -108,10 +126,22 @@
     "pubDate": "2026-01-22T17:14:46.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜",
+    "link": "https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-22T15:40:51.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Best Practices for Claude Codeを読んでみた",
     "link": "https://zenn.dev/mashharuki/articles/claudecode_best-1",
     "pubDate": "Thu, 22 Jan 2026 14:49:25 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ブラウザ操作不要！Playwright MCPでテスト仕様書からE2Eテストコードを自動生成してみた",
+    "link": "https://qiita.com/ntaka329/items/e3f47c36c980f49381d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-22T12:04:56.000Z"
   },
   {
     "site": "Zenn",
@@ -138,24 +168,6 @@
     "pubDate": "Thu, 22 Jan 2026 06:20:40 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Best Practices for Claude Code - Claude Code Docs",
-    "link": "https://code.claude.com/docs/en/best-practices",
-    "pubDate": "2026-01-22T03:47:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "デザインの「沼」を抜けるための視点リセット術🧠⚡",
-    "link": "https://qiita.com/GIFCat/items/d435d9dd7ca1c1329483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-22T00:02:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "海外で注目されている OSS「Clawdbot」入門  - LocalLLM前提のAIアシスタント紹介 -",
-    "link": "https://qiita.com/xhackjp1/items/03045dd62c2f1c0f4c04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-21T23:45:13.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "素人質問が大好きな教授にコードレビューを頼んでみた結果",
     "link": "https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "【10個のツールを渡り歩いた結論】メモツール難民を卒業した話｜VSCode＋拡張機能で情報整理が劇的に変わった",
-    "link": "https://qiita.com/Shimoide0714/items/09d4c1b61ef08bd68169?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-21T10:49:14.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "本当に使える！海外Tech動画爆速キャッチアップ術まとめ",
     "link": "https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-21T10:18:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS未経験】1年でCFP → SAA → SAPに一発合格した勉強法",
-    "link": "https://qiita.com/kakerucc/items/0990ec75925499981100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-21T03:06:42.000Z"
   }
 ]
