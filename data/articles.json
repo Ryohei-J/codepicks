@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
-    "title": "個人で静的型付け言語のコンパイラをフルスクラッチで作れる時代が来た！ - Islands in the byte stream",
-    "link": "https://gfx.hatenablog.com/entry/2026/01/23/212644",
-    "pubDate": "2026-01-23T12:54:25.000Z"
+    "title": "複雑な要件を1クエリで完結させる、PostgreSQL活用術 - SmartHR Tech Blog",
+    "link": "https://tech.smarthr.jp/entry/2026/01/23/083000",
+    "pubDate": "2026-01-24T02:35:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "全身に反射材をつけたゲーミング雪かき、視認性抜群だと話題に「クソコラみたいな反射の仕方するのなｗ」「テクスチャバグかよ」",
+    "link": "https://togetter.com/li/2655307",
+    "pubDate": "2026-01-24T01:21:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ステルスSSID、百害あって一利なし",
+    "link": "https://zenn.dev/digeon/articles/bfe97d0ef09232",
+    "pubDate": "2026-01-23T14:05:15.000Z"
   },
   {
     "site": "Zenn",
@@ -19,18 +31,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeがわずか30分でCUDAをROCmへ移植：崩れ去る「CUDAの掘」とAIが書き換える半導体業界の勢力図 | XenoSpectrum",
-    "link": "https://xenospectrum.com/claude-code-ports-cuda-to-rocm-nvidia-moat-analysis/",
-    "pubDate": "2026-01-23T09:13:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「人間がコードを書く時代は終わった」議論は2種類のコードを混同している",
-    "link": "https://zenn.dev/uryyyyyyy/articles/f127af4277aa32",
-    "pubDate": "2026-01-23T08:09:37.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "git-wtを導入した - koicの日記",
     "link": "https://koic.hatenablog.com/entry/introduce-git-wt",
     "pubDate": "2026-01-23T07:52:40.000Z"
@@ -42,16 +42,22 @@
     "pubDate": "Fri, 23 Jan 2026 07:18:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Linuxの創始者トーバルズ氏が語る、AIや開発の“これから”を3分でまとめ（TechTargetジャパン） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/06cf3828ae6d1a5eee03e1595406dd73b8a14e4e",
-    "pubDate": "2026-01-23T07:16:55.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "【Google Antigravity】新機能「Skills」で自律型コードレビュアーを作ってみた",
+    "title": "【Google Antigravity】新機能「Skills」について",
     "link": "https://zenn.dev/emp_tech_blog/articles/google-antigravity-skills",
     "pubDate": "2026-01-23T07:10:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Qwen-TTSに自分の声でしゃべらせる - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2026/01/23/145128",
+    "pubDate": "2026-01-23T06:54:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "業界初VIO専用の電動洗浄ブラシ、パナソニック - 家電 Watch",
+    "link": "https://kaden.watch.impress.co.jp/docs/news/2080217.html",
+    "pubDate": "2026-01-23T06:24:28.000Z"
   },
   {
     "site": "Zenn",
@@ -72,16 +78,16 @@
     "pubDate": "Fri, 23 Jan 2026 03:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "5秒の声から良質ボイスクローンを生成できるCPU動作の軽量ローカルAI「Pocket TTS」、AIにゲームで遊ばせたら別ジャンルでも能力が向上した研究など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/01/23/4832.html",
-    "pubDate": "2026-01-23T01:40:07.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【2026年最新】1万件のQiita記事を分析して分かった「ブログのトレンド」の法則まとめ",
     "link": "https://qiita.com/GIFCat/items/bb975270517295716af3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-22T23:58:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【考察】React は何故こんなに分かりにくいのか？",
+    "link": "https://zenn.dev/ak0047/articles/2026-01-react-difficulty",
+    "pubDate": "Thu, 22 Jan 2026 21:29:52 GMT"
   },
   {
     "site": "Qiita",
@@ -103,6 +109,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Best Practices for Claude Codeを読んでみた",
+    "link": "https://zenn.dev/mashharuki/articles/claudecode_best-1",
+    "pubDate": "Thu, 22 Jan 2026 14:49:25 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ステルスSSID、百害あって一利なし",
     "link": "https://zenn.dev/digeon/articles/bfe97d0ef09232",
     "pubDate": "Thu, 22 Jan 2026 11:15:59 GMT"
@@ -121,27 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "AntigravityでRemotionのSkillをつかって動画を作成してみた",
-    "link": "https://zenn.dev/nari007/articles/df1d4954e903e9",
-    "pubDate": "Thu, 22 Jan 2026 05:22:36 GMT"
+    "title": "【Google Antigravity】新機能「Skills」について",
+    "link": "https://zenn.dev/emp_tech_blog/articles/google-antigravity-skills",
+    "pubDate": "Thu, 22 Jan 2026 06:20:40 GMT"
   },
   {
     "site": "Hatena",
     "title": "Best Practices for Claude Code - Claude Code Docs",
     "link": "https://code.claude.com/docs/en/best-practices",
     "pubDate": "2026-01-22T03:47:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド【応用編】",
-    "link": "https://zenn.dev/studypocket/articles/claude-code-complete-guide-advanced",
-    "pubDate": "Thu, 22 Jan 2026 03:46:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ZennのシンタックスハイライターをPrism.jsからShikiに移行しました",
-    "link": "https://zenn.dev/team_zenn/articles/zenn-prism-to-shiki",
-    "pubDate": "Thu, 22 Jan 2026 01:55:16 GMT"
   },
   {
     "site": "Qiita",
