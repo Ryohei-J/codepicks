@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "ChordCraft - コード進行作成アプリ | 無料で使える作曲支援ツール",
+    "link": "https://chord.iru-yo.com/",
+    "pubDate": "2026-01-25T12:28:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "書いた小説をAIに見せてもおだてられるだけなので「小説の公募の下読みをしていますがこのような作品が送られてきました」と頼んだら率直に批評してくれたがAI不信になった",
+    "link": "https://togetter.com/li/2655953",
+    "pubDate": "2026-01-25T09:49:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoftが顧客データの暗号化を解除する回復キーをFBIに引き渡していたことが明らかに",
+    "link": "https://gigazine.net/news/20260125-microsoft-bitlocker-encryption-keys-fbi/",
+    "pubDate": "2026-01-25T08:43:10.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "旦那さんからのリクエストで作った “朝食用食券機” が完成度高くてすごい「何この技術力!」「中身どうなってる?」",
     "link": "https://togetter.com/li/2655846",
     "pubDate": "2026-01-25T05:20:09.000Z"
@@ -19,15 +37,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【元経理】実務で本当に使えたExcelの小技５選 - Qiita",
+    "title": "【元経理】実務で本当に使えたExcelの小技５選【ミス防止】 - Qiita",
     "link": "https://qiita.com/2000na/items/e41062344f0b86049a68",
     "pubDate": "2026-01-25T03:03:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "プロンプトを2回繰り返すだけでAIの正答率が上がるとGoogle Researchが報告",
-    "link": "https://gigazine.net/news/20260125-prompt-repetition-improves-non-reasoning-llms/",
-    "pubDate": "2026-01-25T02:43:07.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilot CLIは、gpt-5.2-codex xhighに複雑なレビューを依頼しても1回4円",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-01-26-cheet-of-copilot",
+    "pubDate": "Sun, 25 Jan 2026 03:00:00 GMT"
   },
   {
     "site": "Hatena",
@@ -48,22 +66,10 @@
     "pubDate": "Sat, 24 Jan 2026 13:37:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub - nyanko3141592/remotion-voicevox-template: Remotion + VOICEVOX動画テンプレート（ずんだもん＆めたん掛け合い動画）",
-    "link": "https://github.com/nyanko3141592/remotion-voicevox-template",
-    "pubDate": "2026-01-24T12:58:09.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "エンジニアのAI疲れとの付き合い方",
     "link": "https://zenn.dev/karamage/articles/306f0c571e0af9",
     "pubDate": "Sat, 24 Jan 2026 11:56:38 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "新しいデザインツール Pencil を試してみた",
-    "link": "https://azukiazusa.dev/blog/new-design-tool-pencil/",
-    "pubDate": "2026-01-24T11:51:26.000Z"
   },
   {
     "site": "Zenn",
@@ -82,6 +88,12 @@
     "title": "How I estimate work as a staff software engineer",
     "link": "https://www.seangoedecke.com/how-i-estimate-work/",
     "pubDate": "2026-01-24T10:14:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Transformerアーキテクチャの変遷 ~Attention is All You Needからgpt-ossまで~",
+    "link": "https://zenn.dev/sakaitomoaki/articles/edbfb63b54a966",
+    "pubDate": "Sat, 24 Jan 2026 07:41:05 GMT"
   },
   {
     "site": "Zenn",
@@ -120,6 +132,12 @@
     "pubDate": "2026-01-23T23:52:57.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【Claude Code】カスタムスラッシュコマンドがスキルに統合されました",
+    "link": "https://zenn.dev/tmasuyama1114/articles/cc_commands_merged_into_skills",
+    "pubDate": "Fri, 23 Jan 2026 20:01:03 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！",
     "link": "https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -130,24 +148,6 @@
     "title": "TUIでPR diffを見ながら裏でAIが勝手に修正&レビューをし続けるRust製tool「octorus」",
     "link": "https://zenn.dev/ushironoko/articles/90d34dd61a1825",
     "pubDate": "Fri, 23 Jan 2026 12:08:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot SDK で遊ぼう - Copilot の「できない」を解決する",
-    "link": "https://zenn.dev/openjny/articles/8c98d344f78889",
-    "pubDate": "Fri, 23 Jan 2026 10:43:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「あとで読む」を消化できない全ての人へ",
-    "link": "https://zenn.dev/ogi1211/articles/curaq-philosophy",
-    "pubDate": "Fri, 23 Jan 2026 07:18:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "量子コンピュータの「幻滅期」を超えて：2026年、実利と研究が切り離される再編の幕開け",
-    "link": "https://zenn.dev/yuichirominato/articles/52954bca4e24f2",
-    "pubDate": "Fri, 23 Jan 2026 05:35:07 GMT"
   },
   {
     "site": "Qiita",
