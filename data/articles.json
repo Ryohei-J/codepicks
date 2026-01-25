@@ -1,5 +1,41 @@
 [
   {
+    "site": "Qiita",
+    "title": "Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！ - Qiita",
+    "link": "https://qiita.com/degudegu2510/items/eff0f63dac99554e6439",
+    "pubDate": "2026-01-24T17:50:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今、密かに起きている｢Windows離れ｣。“思ったより快適な移住先”とは？",
+    "link": "https://www.gizmodo.jp/2026/01/some_windows_users_decide_to_change_linux.html",
+    "pubDate": "2026-01-24T12:09:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "新しいデザインツール Pencil を試してみた",
+    "link": "https://azukiazusa.dev/blog/new-design-tool-pencil/",
+    "pubDate": "2026-01-24T11:51:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【形式証明付き】余白に収まるフェルマーの最終定理の証明【AI不使用】",
+    "link": "https://zenn.dev/pandaman64/articles/formalized-flt-proof",
+    "pubDate": "Sat, 24 Jan 2026 11:37:27 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "In silicoペプチド創薬の教科書",
+    "link": "https://zenn.dev/labcode/books/6c6dc31864ef14",
+    "pubDate": "Sat, 24 Jan 2026 10:51:58 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマホの「アプリを探す時間」が減った！ Pixelの画面の端に自分専用の置き場を作ってみた | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2601how-to-get-samsung-galaxy-best-feature-on-your-pixel-or-any-android/",
+    "pubDate": "2026-01-24T09:08:08.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "原稿の確認依頼を行ったところ先方から「Geminiはこう言っています」とAIのコピペ修正案が送られてきて衝撃を受けた→「世に出てない原稿をAIに食わせたって事だよな...」",
     "link": "https://togetter.com/li/2655455",
@@ -13,27 +49,27 @@
   },
   {
     "site": "Qiita",
+    "title": "速報！Playwright CLIがでた！ - Qiita",
+    "link": "https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share",
+    "pubDate": "2026-01-24T05:10:10.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "速報！Playwright CLIがでた！",
     "link": "https://qiita.com/moritalous/items/97df9ff710914a806340?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-24T02:40:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "複雑な要件を1クエリで完結させる、PostgreSQL活用術 - SmartHR Tech Blog",
-    "link": "https://tech.smarthr.jp/entry/2026/01/23/083000",
-    "pubDate": "2026-01-24T02:35:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "全身に反射材をつけたゲーミング雪かき、視認性抜群だと話題に「クソコラみたいな反射の仕方するのなｗ」「テクスチャバグかよ」",
-    "link": "https://togetter.com/li/2655307",
-    "pubDate": "2026-01-24T01:21:48.000Z"
   },
   {
     "site": "Zenn",
     "title": "CuraQの技術的な話　〜技術選定編〜",
     "link": "https://zenn.dev/ogi1211/articles/curaq-techstack",
     "pubDate": "Sat, 24 Jan 2026 01:08:04 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub Copilot SDKの発表",
+    "link": "https://github.blog/jp/2026-01-23-build-an-agent-into-any-app-with-the-github-copilot-sdk/",
+    "pubDate": "2026-01-23T23:00:13.000Z"
   },
   {
     "site": "Qiita",
@@ -48,10 +84,10 @@
     "pubDate": "2026-01-23T14:18:03.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ステルスSSID、百害あって一利なし",
-    "link": "https://zenn.dev/digeon/articles/bfe97d0ef09232",
-    "pubDate": "2026-01-23T14:05:15.000Z"
+    "site": "Qiita",
+    "title": "【Qiita最速？】Clawdbot + Discordで自分専用AIアシスタントを構築する【Proxmox/Ubuntu】",
+    "link": "https://qiita.com/yu_720/items/4b3bc75731f109927ebd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-23T13:27:52.000Z"
   },
   {
     "site": "Zenn",
@@ -60,16 +96,16 @@
     "pubDate": "Fri, 23 Jan 2026 12:08:42 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "『メダリスト』最新14巻のレビューが大荒れ！電子版巻末の別作品試し読み掲載に賛否両論",
-    "link": "https://posfie.com/@kndl_fanfun/p/eRqmUD1",
-    "pubDate": "2026-01-23T10:54:34.000Z"
+    "site": "Zenn",
+    "title": "【個人開発】Claude Codeに83%のコードを書かせる「ドキュメント駆動開発」の全貌【Flutter向けCLAUDE.md公開】",
+    "link": "https://zenn.dev/furunag/articles/claude-code-document-driven-development",
+    "pubDate": "2026-01-23T11:34:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "引き渡しから半月で家中がカビまみれ、独自の基礎断熱と換気方法が裏目に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03443/121600003/",
-    "pubDate": "2026-01-23T08:54:51.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilot SDK で遊ぼう - Copilot の「できない」を解決する",
+    "link": "https://zenn.dev/openjny/articles/8c98d344f78889",
+    "pubDate": "Fri, 23 Jan 2026 10:43:44 GMT"
   },
   {
     "site": "Zenn",
@@ -78,22 +114,10 @@
     "pubDate": "Fri, 23 Jan 2026 07:18:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Qwen-TTSに自分の声でしゃべらせる - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/01/23/145128",
-    "pubDate": "2026-01-23T06:54:22.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "量子コンピュータの「幻滅期」を超えて：2026年、実利と研究が切り離される再編の幕開け",
     "link": "https://zenn.dev/yuichirominato/articles/52954bca4e24f2",
     "pubDate": "Fri, 23 Jan 2026 05:35:07 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Geminiの「Gem」で自分専用のAWS認定講師を作ってみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/gemini-gem-aws-certification-instructor/",
-    "pubDate": "2026-01-23T04:59:34.000Z"
   },
   {
     "site": "Zenn",
@@ -108,10 +132,16 @@
     "pubDate": "Fri, 23 Jan 2026 03:00:01 GMT"
   },
   {
+    "site": "Qiita",
+    "title": " 【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見",
+    "link": "https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-23T01:20:46.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "【考察】React は何故こんなに分かりにくいのか？",
-    "link": "https://zenn.dev/ak0047/articles/2026-01-react-difficulty",
-    "pubDate": "Thu, 22 Jan 2026 21:29:52 GMT"
+    "title": "Xperia 1 Ⅱ にLineageOSを焼いてソシャゲ専用端末としての余生を与える",
+    "link": "https://zenn.dev/tokium_dev/articles/xperia-1-mark2-lineageos-revival",
+    "pubDate": "Fri, 23 Jan 2026 00:00:43 GMT"
   },
   {
     "site": "Qiita",
@@ -120,34 +150,16 @@
     "pubDate": "2026-01-22T21:09:33.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code公式ベストプラクティス徹底解説｜Anthropicが重視する5つの設計思想",
-    "link": "https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_202601",
-    "pubDate": "Thu, 22 Jan 2026 20:31:36 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?",
     "link": "https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-22T19:45:34.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Devin Reviewがレビュー疲れの人を助けてくれるかも",
-    "link": "https://zenn.dev/immedio/articles/a88d8ffe75f2b6",
-    "pubDate": "Thu, 22 Jan 2026 17:18:45 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Feedlyがいつか終わるのが怖いので、月額0円で動くRSSリーダーを自作した",
     "link": "https://qiita.com/votepurchase/items/047ae4d6922b9f3c150c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-22T17:14:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドパフォーマンス完全ガイド 2026 - Core Web Vitals/最適化の全て",
-    "link": "https://zenn.dev/gaku1234/books/frontend-performance-complete-guide-2026",
-    "pubDate": "Thu, 22 Jan 2026 16:02:33 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "要件定義に不安があった実務3年目エンジニア、国際規格に救われる",
     "link": "https://qiita.com/howanpin5525/items/dda01037624623a8e7ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-22T09:46:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "素人質問が大好きな教授にコードレビューを頼んでみた結果",
-    "link": "https://qiita.com/i-inose/items/e21155fe84a5beb4782d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-21T14:20:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "本当に使える！海外Tech動画爆速キャッチアップ術まとめ",
-    "link": "https://qiita.com/Koder_dev/items/ce2327852cef06f5f2ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-21T10:18:40.000Z"
   }
 ]
