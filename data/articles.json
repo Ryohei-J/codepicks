@@ -1,21 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "「国産ヒューマノイドは巻き返せる。だが、いまが最後のチャンス」。日本のロボット開発の厳しい現実と、起死回生の道筋",
+    "link": "https://levtech.jp/media/article/interview/detail_790/",
+    "pubDate": "2026-01-26T01:48:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソニーテレビ事業分離の衝撃と必然　世界テレビビジネスの現在地【西田宗千佳のイマトミライ】",
+    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2080596.html",
+    "pubDate": "2026-01-25T23:44:36.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "まつもとゆきひろが危惧する、ジュニア不要論の先に広がるIT業界「焼け野原」",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/26/news002.html",
     "pubDate": "2026-01-25T22:52:49.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Findyの爆速インフラ構築を支えるTerraform活用術 〜汎用モジュール編〜 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2026/01/26/070000",
-    "pubDate": "2026-01-25T22:30:52.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "コードを書かずにアプリを作る時代がやってきた——バイブコーディング入門｜takeshy",
     "link": "https://note.com/takeshy/n/n9b626796bfdb",
     "pubDate": "2026-01-25T20:41:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "気象データをZarrに変換して風を可視化する",
+    "link": "https://zenn.dev/mierune/articles/bf217beb554da0",
+    "pubDate": "Sun, 25 Jan 2026 17:46:10 GMT"
   },
   {
     "site": "Zenn",
@@ -48,10 +60,10 @@
     "pubDate": "2026-01-25T12:28:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "書いた小説をAIに見せてもおだてられるだけなので「小説の公募の下読みをしていますがこのような作品が送られてきました」と頼んだら率直に批評してくれたがAI不信になった",
-    "link": "https://togetter.com/li/2655953",
-    "pubDate": "2026-01-25T09:49:04.000Z"
+    "site": "Zenn",
+    "title": "キーボード沼 〜分割キーボードに手を出したよ〜",
+    "link": "https://zenn.dev/nakayarn/articles/ce4f620630182b",
+    "pubDate": "Sun, 25 Jan 2026 11:29:59 GMT"
   },
   {
     "site": "Zenn",
@@ -64,12 +76,6 @@
     "title": "【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】",
     "link": "https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-25T08:01:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Unityのアニメーション制御が、気づくと複雑になる理由",
-    "link": "https://zenn.dev/ruskworks/articles/9498d32019c1f2",
-    "pubDate": "Sun, 25 Jan 2026 06:21:19 GMT"
   },
   {
     "site": "Qiita",
@@ -97,6 +103,12 @@
   },
   {
     "site": "Zenn",
+    "title": "AI開発における知識の定着のしづらさと抗い方",
+    "link": "https://zenn.dev/hyokokkooko/articles/e5377427a6752f",
+    "pubDate": "Sat, 24 Jan 2026 13:37:46 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "なぜUnity(C#)は遅いといわれるのか",
     "link": "https://zenn.dev/aqua5432/articles/b4addb51f80508",
     "pubDate": "Sat, 24 Jan 2026 13:37:39 GMT"
@@ -112,18 +124,6 @@
     "title": "【形式証明付き】余白に収まるフェルマーの最終定理の証明【AI不使用】",
     "link": "https://zenn.dev/pandaman64/articles/formalized-flt-proof",
     "pubDate": "Sat, 24 Jan 2026 11:37:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "In silicoペプチド創薬の教科書",
-    "link": "https://zenn.dev/labcode/books/6c6dc31864ef14",
-    "pubDate": "Sat, 24 Jan 2026 10:51:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google Gemini CLIをGoで再実装したら60倍以上速くなった",
-    "link": "https://zenn.dev/abalol/articles/588f33425be41c",
-    "pubDate": "Sat, 24 Jan 2026 08:38:40 GMT"
   },
   {
     "site": "Qiita",
