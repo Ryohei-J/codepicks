@@ -1,9 +1,27 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Codeで「AI部下10人」を作ったら、勝手にバグ直して「違反は切腹」ルールを追加してきて、オレは適当にしゃべるだけになった",
+    "link": "https://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1",
+    "pubDate": "2026-01-26T12:56:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMの能力の「穴」 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "link": "https://joisino.hatenablog.com/entry/zeh",
+    "pubDate": "2026-01-26T08:33:56.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "日本のアクセス解析史 -25年の歴史- - Real Analytics （リアルアナリティクス）",
     "link": "https://analytics.hatenadiary.com/entry/2026/01/26/170956",
     "pubDate": "2026-01-26T08:28:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "｢LM Studio｣ではじめるローカルLLM。“ガチ無料AI”を徹底解説",
+    "link": "https://www.gizmodo.jp/2026/01/how_to_use_lm_studio-thr.html",
+    "pubDate": "2026-01-26T08:04:37.000Z"
   },
   {
     "site": "Zenn",
@@ -24,22 +42,10 @@
     "pubDate": "2026-01-26T07:02:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【やじうまPC Watch】 Microsoft、FBIへBitLocker回復キー提供。Appleと対照的と米紙報道",
-    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2080768.html",
-    "pubDate": "2026-01-26T06:44:22.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "なぜmkcertでlocalhostに証明書をつけられるのか？仕組みを図解で理解する",
     "link": "https://qiita.com/kazuki_ogawa/items/efc227e8fe159cadb50b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-26T04:01:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「国産ヒューマノイドは巻き返せる。だが、いまが最後のチャンス」。日本のロボット開発の厳しい現実と、起死回生の道筋",
-    "link": "https://levtech.jp/media/article/interview/detail_790/",
-    "pubDate": "2026-01-26T01:48:10.000Z"
   },
   {
     "site": "Hatena",
@@ -64,12 +70,6 @@
     "title": "【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）",
     "link": "https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-25T21:43:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "コードを書かずにアプリを作る時代がやってきた——バイブコーディング入門｜takeshy",
-    "link": "https://note.com/takeshy/n/n9b626796bfdb",
-    "pubDate": "2026-01-25T20:41:46.000Z"
   },
   {
     "site": "Zenn",
@@ -139,7 +139,7 @@
   },
   {
     "site": "Zenn",
-    "title": "AIにコードを書かせてAIにレビューさせる開発スタイル",
+    "title": "Claude Code でAIにコードを書かせてAIにレビューさせる開発スタイル",
     "link": "https://zenn.dev/sora_biz/articles/claude-code-ai-review-workflow",
     "pubDate": "Sat, 24 Jan 2026 16:55:02 GMT"
   },
