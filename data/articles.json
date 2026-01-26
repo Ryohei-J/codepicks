@@ -1,6 +1,48 @@
 [
   {
     "site": "Hatena",
+    "title": "まつもとゆきひろが危惧する、ジュニア不要論の先に広がるIT業界「焼け野原」",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/26/news002.html",
+    "pubDate": "2026-01-25T22:52:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Findyの爆速インフラ構築を支えるTerraform活用術 〜汎用モジュール編〜 - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2026/01/26/070000",
+    "pubDate": "2026-01-25T22:30:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コードを書かずにアプリを作る時代がやってきた——バイブコーディング入門｜takeshy",
+    "link": "https://note.com/takeshy/n/n9b626796bfdb",
+    "pubDate": "2026-01-25T20:41:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Skillsで実装からレビューまで全部自動化してみた",
+    "link": "https://zenn.dev/neurostack_0001/articles/claude-code-skills-review-automation",
+    "pubDate": "2026-01-25T14:27:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエージェントがPostgreSQL対応の優れたコードを書けるようになるAgent Skill「Postgres Best Practices」、Supabaseが公開",
+    "link": "https://www.publickey1.jp/blog/26/aipostgresqlagent_skillpostgres_best_practicessupabase.html",
+    "pubDate": "2026-01-25T14:16:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Clawdbot入門(#1)：チャットアプリで動く“自分専用AIアシスタント”の出来ることと安全な始め方",
+    "link": "https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide",
+    "pubDate": "Sun, 25 Jan 2026 13:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "🦞Clawdbot🦞 を AWS + Telegram で動かす",
+    "link": "https://zenn.dev/kndoshn/articles/46c673bb16aa49",
+    "pubDate": "Sun, 25 Jan 2026 12:36:10 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "ChordCraft - コード進行作成アプリ | 無料で使える作曲支援ツール",
     "link": "https://chord.iru-yo.com/",
     "pubDate": "2026-01-25T12:28:59.000Z"
@@ -12,28 +54,22 @@
     "pubDate": "2026-01-25T09:49:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoftが顧客データの暗号化を解除する回復キーをFBIに引き渡していたことが明らかに",
-    "link": "https://gigazine.net/news/20260125-microsoft-bitlocker-encryption-keys-fbi/",
-    "pubDate": "2026-01-25T08:43:10.000Z"
+    "site": "Zenn",
+    "title": "Claude Code Skillsで実装からレビューまで全部自動化してみた",
+    "link": "https://zenn.dev/neurostack_0001/articles/claude-code-skills-review-automation",
+    "pubDate": "Sun, 25 Jan 2026 09:07:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "旦那さんからのリクエストで作った “朝食用食券機” が完成度高くてすごい「何この技術力!」「中身どうなってる?」",
-    "link": "https://togetter.com/li/2655846",
-    "pubDate": "2026-01-25T05:20:09.000Z"
+    "site": "Qiita",
+    "title": "【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】",
+    "link": "https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-25T08:01:10.000Z"
   },
   {
     "site": "Zenn",
-    "title": "GitHub Copilot CLIは、gpt-5.2-codex xhighに複雑なレビューを依頼しても1回4円",
-    "link": "https://zenn.dev/nuits_jp/articles/2026-01-26-cheet-of-copilot",
-    "pubDate": "2026-01-25T03:35:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "超音波洗浄機を見る度に『コレに頭突っ込んだら全ての毛穴から皮脂がブゥワァァァって出てきて鼻とか頭皮とかめっちゃスッキリするのでは』と妄想している",
-    "link": "https://togetter.com/li/2655784",
-    "pubDate": "2026-01-25T03:20:05.000Z"
+    "title": "Unityのアニメーション制御が、気づくと複雑になる理由",
+    "link": "https://zenn.dev/ruskworks/articles/9498d32019c1f2",
+    "pubDate": "Sun, 25 Jan 2026 06:21:19 GMT"
   },
   {
     "site": "Qiita",
@@ -49,15 +85,15 @@
   },
   {
     "site": "Hatena",
-    "title": "これが無料は凄すぎる｜筑波大学教授のPython講義資料が本気で役に立つ - Smart Watch Life｜日本初のスマートウォッチ専門メディア",
-    "link": "https://www.smartwatchlife.jp/62763/",
-    "pubDate": "2026-01-24T22:35:21.000Z"
+    "title": "ソフトウェア開発で「なぜなぜ分析」はアンチパターン - 勘と経験と読経",
+    "link": "https://agnozingdays.hatenablog.com/entry/2026/01/24/170000",
+    "pubDate": "2026-01-25T01:31:07.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！ - Qiita",
-    "link": "https://qiita.com/degudegu2510/items/eff0f63dac99554e6439",
-    "pubDate": "2026-01-24T17:50:01.000Z"
+    "site": "Hatena",
+    "title": "これが無料は凄すぎる｜筑波大学教授のPython講義資料が本気で役に立つ - Smart Watch Life｜スマートウォッチとガジェットのデジタル活用専門メディア",
+    "link": "https://www.smartwatchlife.jp/62763/",
+    "pubDate": "2026-01-24T22:35:21.000Z"
   },
   {
     "site": "Zenn",
@@ -84,22 +120,10 @@
     "pubDate": "Sat, 24 Jan 2026 10:51:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "How I estimate work as a staff software engineer",
-    "link": "https://www.seangoedecke.com/how-i-estimate-work/",
-    "pubDate": "2026-01-24T10:14:51.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Transformerアーキテクチャの変遷 ~Attention is All You Needからgpt-ossまで~",
-    "link": "https://zenn.dev/sakaitomoaki/articles/edbfb63b54a966",
-    "pubDate": "Sat, 24 Jan 2026 07:41:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "memcachedは終わってない：単純なKVキャッシュとしての強さ",
-    "link": "https://zenn.dev/catatsuy/articles/50d77952394b9f",
-    "pubDate": "Sat, 24 Jan 2026 06:18:41 GMT"
+    "title": "Google Gemini CLIをGoで再実装したら60倍以上速くなった",
+    "link": "https://zenn.dev/abalol/articles/588f33425be41c",
+    "pubDate": "Sat, 24 Jan 2026 08:38:40 GMT"
   },
   {
     "site": "Qiita",
@@ -114,10 +138,10 @@
     "pubDate": "2026-01-24T02:40:09.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "CuraQの技術的な話　〜技術選定編〜",
-    "link": "https://zenn.dev/ogi1211/articles/curaq-techstack",
-    "pubDate": "Sat, 24 Jan 2026 01:08:04 GMT"
+    "site": "Qiita",
+    "title": "pip installって何してるの？",
+    "link": "https://qiita.com/shinya-kg0/items/9923fb21c48ea999b191?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-24T01:41:56.000Z"
   },
   {
     "site": "Qiita",
@@ -132,22 +156,16 @@
     "pubDate": "2026-01-23T23:52:57.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【Claude Code】カスタムスラッシュコマンドがスキルに統合されました",
-    "link": "https://zenn.dev/tmasuyama1114/articles/cc_commands_merged_into_skills",
-    "pubDate": "Fri, 23 Jan 2026 20:01:03 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！",
     "link": "https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-23T14:45:29.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "TUIでPR diffを見ながら裏でAIが勝手に修正&レビューをし続けるRust製tool「octorus」",
-    "link": "https://zenn.dev/ushironoko/articles/90d34dd61a1825",
-    "pubDate": "Fri, 23 Jan 2026 12:08:42 GMT"
+    "site": "Qiita",
+    "title": "Gitの次に来る？次世代VCS \"Jujutsu\"",
+    "link": "https://qiita.com/kinopy513/items/78c976e29a000eaf7819?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-23T04:50:38.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話",
     "link": "https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-22T21:09:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026最新】BedrockでRAGとエージェント作って、Amplifyから呼ぼう！ 維持費ほぼ無料!?",
-    "link": "https://qiita.com/minorun365/items/5f11084c98d32d86248d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-22T19:45:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "VS Code の GitHub Copilot 設定、多すぎて分からない？〜 settings.json 完全ガイド〜",
-    "link": "https://qiita.com/aktsmm/items/8096f9d9ccbe4666d85d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-22T15:40:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "要件定義に不安があった実務3年目エンジニア、国際規格に救われる",
-    "link": "https://qiita.com/howanpin5525/items/dda01037624623a8e7ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-22T09:46:55.000Z"
   }
 ]
