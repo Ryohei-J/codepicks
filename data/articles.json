@@ -1,21 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "日本のアクセス解析史 -25年の歴史- - Real Analytics （リアルアナリティクス）",
+    "link": "https://analytics.hatenadiary.com/entry/2026/01/26/170956",
+    "pubDate": "2026-01-26T08:28:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MoonBitによるCRDTアルゴリズムの実装とリアルタイム共同編集アプリケーションの構築",
+    "link": "https://zenn.dev/moonbitlang/articles/463d2abd94ce8e",
+    "pubDate": "Mon, 26 Jan 2026 07:54:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Coding Agentについてのまとめ (2026年1月)",
+    "link": "https://zenn.dev/sakasegawa/articles/af8ede2e4d7da4",
+    "pubDate": "Mon, 26 Jan 2026 07:29:20 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "トヨタ系基金、ネコ型ロボットの実証実験　ドライバーの「運転を評価されたくない」和らげ交通安全促せるか",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/26/news103.html",
+    "pubDate": "2026-01-26T07:02:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまPC Watch】 Microsoft、FBIへBitLocker回復キー提供。Appleと対照的と米紙報道",
+    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2080768.html",
+    "pubDate": "2026-01-26T06:44:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜmkcertでlocalhostに証明書をつけられるのか？仕組みを図解で理解する",
+    "link": "https://qiita.com/kazuki_ogawa/items/efc227e8fe159cadb50b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-26T04:01:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「国産ヒューマノイドは巻き返せる。だが、いまが最後のチャンス」。日本のロボット開発の厳しい現実と、起死回生の道筋",
     "link": "https://levtech.jp/media/article/interview/detail_790/",
     "pubDate": "2026-01-26T01:48:10.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ソニーテレビ事業分離の衝撃と必然　世界テレビビジネスの現在地【西田宗千佳のイマトミライ】",
-    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2080596.html",
-    "pubDate": "2026-01-25T23:44:36.000Z"
+    "title": "7文字で住所を伝える「デジタルアドレス」　普及へ業界横断の新団体",
+    "link": "https://www.watch.impress.co.jp/docs/news/2080638.html",
+    "pubDate": "2026-01-26T01:32:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエージェントにお金を払えば、誰でもゲームを作れてしまうという衝撃の事実　開発者の仕事はどうなる？ (1/5)",
+    "link": "https://ascii.jp/elem/000/004/368/4368590/",
+    "pubDate": "2026-01-26T01:29:18.000Z"
   },
   {
     "site": "Hatena",
     "title": "まつもとゆきひろが危惧する、ジュニア不要論の先に広がるIT業界「焼け野原」",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2601/26/news002.html",
     "pubDate": "2026-01-25T22:52:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）",
+    "link": "https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-25T21:43:13.000Z"
   },
   {
     "site": "Hatena",
@@ -36,12 +84,6 @@
     "pubDate": "2026-01-25T14:27:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIエージェントがPostgreSQL対応の優れたコードを書けるようになるAgent Skill「Postgres Best Practices」、Supabaseが公開",
-    "link": "https://www.publickey1.jp/blog/26/aipostgresqlagent_skillpostgres_best_practicessupabase.html",
-    "pubDate": "2026-01-25T14:16:19.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Clawdbot入門(#1)：チャットアプリで動く“自分専用AIアシスタント”の出来ることと安全な始め方",
     "link": "https://zenn.dev/yujmatsu/articles/20260125_clawdbot_beginners_guide",
@@ -54,16 +96,22 @@
     "pubDate": "Sun, 25 Jan 2026 12:36:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ChordCraft - コード進行作成アプリ | 無料で使える作曲支援ツール",
-    "link": "https://chord.iru-yo.com/",
-    "pubDate": "2026-01-25T12:28:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "キーボード沼 〜分割キーボードに手を出したよ〜",
     "link": "https://zenn.dev/nakayarn/articles/ce4f620630182b",
     "pubDate": "Sun, 25 Jan 2026 11:29:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで「AI部下10人」を作ったら、勝手にバグ直して「違反は切腹」ルールを追加してきて、オレは適当にしゃべるだけになった",
+    "link": "https://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1",
+    "pubDate": "Sun, 25 Jan 2026 11:18:45 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "個人開発「ひたすら数学」作ってリリースしてみた iOS/Android",
+    "link": "https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-25T10:39:50.000Z"
   },
   {
     "site": "Zenn",
@@ -78,12 +126,6 @@
     "pubDate": "2026-01-25T08:01:10.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【元経理】実務で本当に使えたExcelの小技５選【ミス防止】 - Qiita",
-    "link": "https://qiita.com/2000na/items/e41062344f0b86049a68",
-    "pubDate": "2026-01-25T03:03:40.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "GitHub Copilot CLIは、gpt-5.2-codex xhighに複雑なレビューを依頼しても1回4円",
     "link": "https://zenn.dev/nuits_jp/articles/2026-01-26-cheet-of-copilot",
@@ -96,34 +138,10 @@
     "pubDate": "2026-01-25T01:31:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "これが無料は凄すぎる｜筑波大学教授のPython講義資料が本気で役に立つ - Smart Watch Life｜スマートウォッチとガジェットのデジタル活用専門メディア",
-    "link": "https://www.smartwatchlife.jp/62763/",
-    "pubDate": "2026-01-24T22:35:21.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "AI開発における知識の定着のしづらさと抗い方",
-    "link": "https://zenn.dev/hyokokkooko/articles/e5377427a6752f",
-    "pubDate": "Sat, 24 Jan 2026 13:37:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜUnity(C#)は遅いといわれるのか",
-    "link": "https://zenn.dev/aqua5432/articles/b4addb51f80508",
-    "pubDate": "Sat, 24 Jan 2026 13:37:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エンジニアのAI疲れとの付き合い方",
-    "link": "https://zenn.dev/karamage/articles/306f0c571e0af9",
-    "pubDate": "Sat, 24 Jan 2026 11:56:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【形式証明付き】余白に収まるフェルマーの最終定理の証明【AI不使用】",
-    "link": "https://zenn.dev/pandaman64/articles/formalized-flt-proof",
-    "pubDate": "Sat, 24 Jan 2026 11:37:27 GMT"
+    "title": "AIにコードを書かせてAIにレビューさせる開発スタイル",
+    "link": "https://zenn.dev/sora_biz/articles/claude-code-ai-review-workflow",
+    "pubDate": "Sat, 24 Jan 2026 16:55:02 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "Claude CodeやCursorを使って、AIがUIデザインを生成することができる「Pencil」が登場！",
     "link": "https://qiita.com/degudegu2510/items/eff0f63dac99554e6439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-23T14:45:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Gitの次に来る？次世代VCS \"Jujutsu\"",
-    "link": "https://qiita.com/kinopy513/items/78c976e29a000eaf7819?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-23T04:50:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " 【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見",
-    "link": "https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-23T01:20:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ポエム】 高卒、基本情報3連敗。それでも24歳までに「ネスペ・支援士・AWS12冠」など24資格に合格した話",
-    "link": "https://qiita.com/fuji0202/items/176fb69b1be583c14a4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-22T21:09:33.000Z"
   }
 ]
