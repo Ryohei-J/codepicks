@@ -1,21 +1,27 @@
 [
   {
-    "site": "Hatena",
-    "title": "SPAで発生しやすい「クライアントサイドパストラバーサル」のリスクとその対策 - GMO Flatt Security Blog",
-    "link": "https://blog.flatt.tech/entry/client_side_path_traversal",
-    "pubDate": "2026-01-28T01:39:20.000Z"
+    "site": "Qiita",
+    "title": "git-worktree-runner (gtr) で実現するAI時代の並列開発",
+    "link": "https://qiita.com/kazuki_ogawa/items/c006c5a7ea64684eae1e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-28T05:10:41.000Z"
   },
   {
     "site": "Hatena",
-    "title": "偽造マイナンバーカードで口座開設 約6億円分不正使用か | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015037461000",
-    "pubDate": "2026-01-28T01:07:54.000Z"
+    "title": "Googleが月額1200円の「Google AI Plus」を日本で開始",
+    "link": "https://gigazine.net/news/20260128-google-ai-plus/",
+    "pubDate": "2026-01-28T04:14:07.000Z"
   },
   {
     "site": "Hatena",
     "title": "「オクターブ＝2倍」の常識を覆す　“完全五度”と“自由な転調”を両立した新しい音律システム【研究紹介】 レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/column/detail_793/",
     "pubDate": "2026-01-28T00:48:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Git の次へ。jj（Jujutsu）が変えるバージョン管理の常識",
+    "link": "https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide",
+    "pubDate": "2026-01-27T23:56:43.000Z"
   },
   {
     "site": "Hatena",
@@ -48,6 +54,12 @@
     "pubDate": "Tue, 27 Jan 2026 17:12:10 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "【続】Claude Codeマルチエージェント：v1.1.0で家老が切腹しかけた話",
+    "link": "https://zenn.dev/shio_shoppaize/articles/8870bbf7c14c22",
+    "pubDate": "2026-01-27T13:40:15.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「日本はカモにされていた」Metaがいかにして日本政府を欺いていたのか、その「工作」を明らかにする【プラットフォーマーに問う①】｜SlowNews | スローニュース",
     "link": "https://slownews.com/n/n4382ee9507a4",
@@ -58,12 +70,6 @@
     "title": "みんなAI使って何やってるの？",
     "link": "https://anond.hatelabo.jp/20260127205647",
     "pubDate": "2026-01-27T12:19:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "子どもについ怒ってしまう問題に対応する - 「どならない練習」を読んだ - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2026/01/27/170000",
-    "pubDate": "2026-01-27T11:47:58.000Z"
   },
   {
     "site": "Zenn",
@@ -96,16 +102,10 @@
     "pubDate": "Tue, 27 Jan 2026 01:05:21 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "grep | awk | sort | uniq を全部つなげる理由",
-    "link": "https://qiita.com/OZAWAKOJI/items/f44e78a3991c83d5ab64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-27T01:02:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "次世代AI開発の極意：Python × Cursor × MCP で自律型エージェントを構築する究極のロードマップ【2026年版】",
-    "link": "https://qiita.com/GIFCat/items/d1f9923830251b439e5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-26T23:54:37.000Z"
+    "site": "Zenn",
+    "title": "Claude CodeのPlanモードで実装した後、そのまま質問しまくってるやついる？いねえよな！",
+    "link": "https://zenn.dev/take4/articles/b7fad1a0c52481",
+    "pubDate": "Mon, 26 Jan 2026 23:11:15 GMT"
   },
   {
     "site": "Qiita",
@@ -132,12 +132,6 @@
     "pubDate": "Mon, 26 Jan 2026 14:22:22 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "VanishChat - DBなし・完全ステートレスなメッセンジャーをCloudflare Workersで作った",
-    "link": "https://zenn.dev/kiyo2023/articles/vanishchat-db-free-messenger",
-    "pubDate": "Mon, 26 Jan 2026 13:43:33 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ペネトレーションテスト チートシート（CRTP）",
     "link": "https://qiita.com/sanyamarseille/items/b15f9adc9fb807a3e148?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -145,21 +139,33 @@
   },
   {
     "site": "Qiita",
-    "title": "Figmaで線が崩れないSVGアイコンを作るコツ（Boolean操作編）",
-    "link": "https://qiita.com/karina-yzrh/items/0d6448db838c3fc4d00e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-26T12:39:36.000Z"
+    "title": "【JavaScript】ES2026の新機能全部解説する",
+    "link": "https://qiita.com/rana_kualu/items/7c5305349815f5142d7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-26T12:13:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ローカルAI時代の「Clawdbot × Ollama」完全ガイド   ――自分専用マルチチャットAIを動かす",
+    "link": "https://qiita.com/automation2025/items/e719ed3d0d23ac05bc6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-26T08:48:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "フル日本語環境で働く外国人として  ",
+    "link": "https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-26T05:07:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeの自動承認モードでホームディレクトリを吹き飛ばされたくない人へ【Docker Sandboxes】",
+    "link": "https://qiita.com/sijiaoh/items/a4ab780761bbf734e473?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-25T23:25:35.000Z"
   },
   {
     "site": "Qiita",
     "title": "就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ",
     "link": "https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-25T22:05:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "🤤 僕の考えた最強の次世代Webアプリケーションフレームワーク",
-    "link": "https://qiita.com/u83unlimited/items/8b0e5b51749ccdfde393?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-25T17:01:20.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】",
     "link": "https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-25T08:01:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Next.jsフルスタック構成の限界：開発サーバーが起動しなくなるまでの失敗談",
-    "link": "https://qiita.com/nishibu97/items/ec2b2c0db0f94eccd2b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-25T06:44:15.000Z"
   }
 ]
