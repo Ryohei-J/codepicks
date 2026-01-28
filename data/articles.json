@@ -1,21 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "「SaaSの死」業務ソフトにAI代替の荒波　4社時価総額15兆円消失 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN236910T20C26A1000000/",
+    "pubDate": "2026-01-27T22:34:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ネット広告に「楽天ショック」 AIで制作・運用、RIZAPは8割内製 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC07BQ20X00C26A1000000/",
+    "pubDate": "2026-01-27T21:30:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「日本はカモにされていた」Metaがいかにして日本政府を欺いていたのか、その「工作」を明らかにする【プラットフォーマーに問う①】｜SlowNews | スローニュース",
+    "link": "https://slownews.com/n/n4382ee9507a4",
+    "pubDate": "2026-01-27T13:00:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "みんなAI使って何やってるの？",
+    "link": "https://anond.hatelabo.jp/20260127205647",
+    "pubDate": "2026-01-27T12:19:44.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "子どもについ怒ってしまう問題に対応する - 「どならない練習」を読んだ - $shibayu36->blog;",
     "link": "https://blog.shibayu36.org/entry/2026/01/27/170000",
     "pubDate": "2026-01-27T11:47:58.000Z"
   },
   {
     "site": "Hatena",
-    "title": "データモデルのイベントの期間の設計のコツ - そーだいなるらくがき帳",
-    "link": "https://soudai.hatenablog.com/entry/2026/01/27/185902",
-    "pubDate": "2026-01-27T10:07:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アップル「iPhone 5s」などにアップデート提供　13年前のモデルが異例の延命",
-    "link": "https://ascii.jp/elem/000/004/369/4369154/",
-    "pubDate": "2026-01-27T08:22:28.000Z"
+    "title": "生成AIの利用率、男性は女性の1.8倍　千葉大学調査 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOCC240Q20U6A120C2000000/",
+    "pubDate": "2026-01-27T10:00:54.000Z"
   },
   {
     "site": "Hatena",
@@ -49,6 +67,24 @@
   },
   {
     "site": "Zenn",
+    "title": "RAGで大事なキーワードを無視させない手法",
+    "link": "https://zenn.dev/knowledgesense/articles/6bada1cdce48d5",
+    "pubDate": "Tue, 27 Jan 2026 01:05:21 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "grep | awk | sort | uniq を全部つなげる理由",
+    "link": "https://qiita.com/OZAWAKOJI/items/f44e78a3991c83d5ab64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-27T01:02:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "次世代AI開発の極意：Python × Cursor × MCP で自律型エージェントを構築する究極のロードマップ【2026年版】",
+    "link": "https://qiita.com/GIFCat/items/d1f9923830251b439e5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-26T23:54:37.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "MCP Apps：AIのUIが「標準化」された日（AI UIのHTML化）",
     "link": "https://zenn.dev/gunta/articles/03b74f75541d5f",
     "pubDate": "Mon, 26 Jan 2026 21:23:40 GMT"
@@ -60,22 +96,10 @@
     "pubDate": "Mon, 26 Jan 2026 21:09:03 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Gmail歴10年、もっと早く知りたかった。未読の山と容量不足を「一瞬で解決」する最強ハック | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2601-matome-gmail/",
-    "pubDate": "2026-01-26T14:09:58.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "VanishChat - DBなし・完全ステートレスなメッセンジャーをCloudflare Workersで作った",
     "link": "https://zenn.dev/kiyo2023/articles/vanishchat-db-free-messenger",
     "pubDate": "Mon, 26 Jan 2026 13:43:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで「AI部下10人」を作ったら、勝手にバグ直して「違反は切腹」ルールを追加してきて、オレは適当にしゃべるだけになった",
-    "link": "https://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1",
-    "pubDate": "2026-01-26T12:56:49.000Z"
   },
   {
     "site": "Qiita",
@@ -90,10 +114,10 @@
     "pubDate": "2026-01-26T12:39:36.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Bedrock AgentCore RuntimeはCDKでらくらくデプロイ！コンテナいらずでHot swapも可能！！",
-    "link": "https://qiita.com/moritalous/items/d865fc92921a822c1f44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-26T08:46:15.000Z"
+    "site": "Zenn",
+    "title": "Microsoft Entra エージェント ID を理解したい",
+    "link": "https://zenn.dev/microsoft/articles/be9e51acf96cb3",
+    "pubDate": "Mon, 26 Jan 2026 10:22:36 GMT"
   },
   {
     "site": "Zenn",
@@ -108,14 +132,14 @@
     "pubDate": "Mon, 26 Jan 2026 07:29:20 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "アメリカのインターネット事情 | IIJ Engineers Blog",
-    "link": "https://eng-blog.iij.ad.jp/archives/34855",
-    "pubDate": "2026-01-26T06:15:01.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilot のツールは必要なものだけONにしよう",
+    "link": "https://zenn.dev/gyory/articles/cd425bc30c9201",
+    "pubDate": "Mon, 26 Jan 2026 05:06:27 GMT"
   },
   {
     "site": "Zenn",
-    "title": "最近話題の Clawdbot をラズパイ 5 で動かしてみた",
+    "title": "最近話題の Moltbot（旧：Clawdbot）をラズパイ 5 で動かしてみた",
     "link": "https://zenn.dev/edom18/articles/try-clawdbot-on-raspi",
     "pubDate": "Mon, 26 Jan 2026 04:04:08 GMT"
   },
@@ -126,40 +150,16 @@
     "pubDate": "Mon, 26 Jan 2026 03:00:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Antigravityの課題点(2026年1月時点)",
-    "link": "https://zenn.dev/wild_onion/articles/bf5c3808a80370",
-    "pubDate": "Mon, 26 Jan 2026 00:28:45 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "【Copilot Studio】Microsoft SharePoint Lists MCP が進化している？",
-    "link": "https://qiita.com/Takashi_Masumori/items/a8ddab3c94942988fd6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-25T23:07:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ハンズオン】AI × データ基盤：OCI AI Data Platformで実現する統合分析パイプラインの構築（前編）",
-    "link": "https://qiita.com/yushibats/items/cbad89098dfcc8c71178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-25T21:43:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "気象データをZarrに変換して風を可視化する",
-    "link": "https://zenn.dev/mierune/articles/bf217beb554da0",
-    "pubDate": "Sun, 25 Jan 2026 17:46:10 GMT"
+    "title": "就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ",
+    "link": "https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-25T22:05:56.000Z"
   },
   {
     "site": "Qiita",
     "title": "🤤 僕の考えた最強の次世代Webアプリケーションフレームワーク",
     "link": "https://qiita.com/u83unlimited/items/8b0e5b51749ccdfde393?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-25T17:01:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「検索」をやめて「組織図」を作ったら、長尺動画RAGが劇的に賢くなった話",
-    "link": "https://zenn.dev/sunyeul89/articles/6b8b87ecfd905c",
-    "pubDate": "Sun, 25 Jan 2026 14:53:37 GMT"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図",
-    "link": "https://qiita.com/ryucciarati/items/800beee69019ca84855c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-24T12:01:36.000Z"
+    "title": "Next.jsフルスタック構成の限界：開発サーバーが起動しなくなるまでの失敗談",
+    "link": "https://qiita.com/nishibu97/items/ec2b2c0db0f94eccd2b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-25T06:44:15.000Z"
   }
 ]
