@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "SPAで発生しやすい「クライアントサイドパストラバーサル」のリスクとその対策 - GMO Flatt Security Blog",
+    "link": "https://blog.flatt.tech/entry/client_side_path_traversal",
+    "pubDate": "2026-01-28T01:39:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "偽造マイナンバーカードで口座開設 約6億円分不正使用か | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015037461000",
+    "pubDate": "2026-01-28T01:07:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「オクターブ＝2倍」の常識を覆す　“完全五度”と“自由な転調”を両立した新しい音律システム【研究紹介】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/column/detail_793/",
+    "pubDate": "2026-01-28T00:48:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ケータイの”短期契約”を繰り返すホッピングは解消できるか? 　各社が改善案【石野純也のモバイル通信SE】",
+    "link": "https://www.watch.impress.co.jp/docs/series/ishino/2080893.html",
+    "pubDate": "2026-01-27T23:41:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "JAXAが公開したMCPサーバーを触ってみる",
+    "link": "https://zenn.dev/ra0kley/articles/cb2fc726f167da",
+    "pubDate": "Tue, 27 Jan 2026 22:42:01 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "「SaaSの死」業務ソフトにAI代替の荒波　4社時価総額15兆円消失 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN236910T20C26A1000000/",
     "pubDate": "2026-01-27T22:34:21.000Z"
@@ -10,6 +40,12 @@
     "title": "ネット広告に「楽天ショック」 AIで制作・運用、RIZAPは8割内製 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC07BQ20X00C26A1000000/",
     "pubDate": "2026-01-27T21:30:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "マーケターのための Google Antigravity 活用術",
+    "link": "https://zenn.dev/geeknees/books/b312b1844fb348",
+    "pubDate": "Tue, 27 Jan 2026 17:12:10 GMT"
   },
   {
     "site": "Hatena",
@@ -30,40 +66,28 @@
     "pubDate": "2026-01-27T11:47:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIの利用率、男性は女性の1.8倍　千葉大学調査 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOCC240Q20U6A120C2000000/",
-    "pubDate": "2026-01-27T10:00:54.000Z"
+    "site": "Zenn",
+    "title": "AIの見張り番をやめよう - AIチームを指揮するOSS「takt」を公開しました",
+    "link": "https://zenn.dev/nrs/articles/c6842288a526d7",
+    "pubDate": "Tue, 27 Jan 2026 11:16:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ぴよ日記",
-    "link": "https://piyo.hatelabo.jp/",
-    "pubDate": "2026-01-27T07:07:43.000Z"
+    "site": "Zenn",
+    "title": "【続】Claude Codeマルチエージェント：v1.1.0で家老が切腹しかけた話",
+    "link": "https://zenn.dev/shio_shoppaize/articles/8870bbf7c14c22",
+    "pubDate": "Tue, 27 Jan 2026 09:36:32 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "新サービス「ぴよ日記」をリリースしました - はてラボ 開発者ブログ",
-    "link": "https://labo.hatenastaff.com/entry/2026/01/27/151712",
-    "pubDate": "2026-01-27T06:57:51.000Z"
+    "site": "Zenn",
+    "title": "Git の次へ。jj（Jujutsu）が変えるバージョン管理の常識",
+    "link": "https://zenn.dev/yamitake/articles/jj-jujutsu-modern-vcs-guide",
+    "pubDate": "Tue, 27 Jan 2026 06:47:34 GMT"
   },
   {
     "site": "Qiita",
     "title": "【後編】先輩に言われた「それ、前教えたじゃん！」。それでもあなたは悪くない。",
     "link": "https://qiita.com/hitomin_poke/items/9607008aefc2521615ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-27T05:17:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "知っているようで知らないCLAUDE.mdを深掘りする | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/01/get-started-claude-code-06",
-    "pubDate": "2026-01-27T04:01:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIで出世した無能だけど、バレたら終わりだと毎日思ってる",
-    "link": "https://anond.hatelabo.jp/20260127123435",
-    "pubDate": "2026-01-27T03:40:00.000Z"
   },
   {
     "site": "Zenn",
@@ -84,6 +108,12 @@
     "pubDate": "2026-01-26T23:54:37.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図 - Qiita",
+    "link": "https://qiita.com/ryucciarati/items/800beee69019ca84855c",
+    "pubDate": "2026-01-26T23:09:14.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "MCP Apps：AIのUIが「標準化」された日（AI UIのHTML化）",
     "link": "https://zenn.dev/gunta/articles/03b74f75541d5f",
@@ -94,6 +124,12 @@
     "title": "自分でやった方が早いは、AI時代に組織とお前を殺す",
     "link": "https://zenn.dev/nuits_jp/articles/2026-01-27-codex-review-prompt",
     "pubDate": "Mon, 26 Jan 2026 21:09:03 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【2026共通テスト 情報Ⅰ】現役ソフトウェアエンジニアが解いてみた",
+    "link": "https://zenn.dev/raku/articles/f6e154eca45dac",
+    "pubDate": "Mon, 26 Jan 2026 14:22:22 GMT"
   },
   {
     "site": "Zenn",
@@ -112,42 +148,6 @@
     "title": "Figmaで線が崩れないSVGアイコンを作るコツ（Boolean操作編）",
     "link": "https://qiita.com/karina-yzrh/items/0d6448db838c3fc4d00e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-26T12:39:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Microsoft Entra エージェント ID を理解したい",
-    "link": "https://zenn.dev/microsoft/articles/be9e51acf96cb3",
-    "pubDate": "Mon, 26 Jan 2026 10:22:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MoonBitによるCRDTアルゴリズムの実装とリアルタイム共同編集アプリケーションの構築",
-    "link": "https://zenn.dev/moonbitlang/articles/463d2abd94ce8e",
-    "pubDate": "Mon, 26 Jan 2026 07:54:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Coding Agentについてのまとめ (2026年1月)",
-    "link": "https://zenn.dev/sakasegawa/articles/af8ede2e4d7da4",
-    "pubDate": "Mon, 26 Jan 2026 07:29:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot のツールは必要なものだけONにしよう",
-    "link": "https://zenn.dev/gyory/articles/cd425bc30c9201",
-    "pubDate": "Mon, 26 Jan 2026 05:06:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "最近話題の Moltbot（旧：Clawdbot）をラズパイ 5 で動かしてみた",
-    "link": "https://zenn.dev/edom18/articles/try-clawdbot-on-raspi",
-    "pubDate": "Mon, 26 Jan 2026 04:04:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "月間400件以上のプルリクエストを生産したClaude Code活用事例",
-    "link": "https://zenn.dev/knowledgework/articles/20260125-create-400-prs-with-claude-code",
-    "pubDate": "Mon, 26 Jan 2026 03:00:01 GMT"
   },
   {
     "site": "Qiita",
