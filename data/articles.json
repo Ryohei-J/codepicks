@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "急にMacBook Proのパスワードが拒絶されログイン不能に→Apple Storeでも解決せず初期化＆復元するも再発→原因はキーボード配列の誤認識だった？",
-    "link": "https://togetter.com/li/2656997",
-    "pubDate": "2026-01-28T09:47:01.000Z"
+    "title": "「40Hzの音」を聞くと“脳のごみ”を2倍洗い流す　霊長類で実験　アルツハイマー病の新治療へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2601/29/news035.html",
+    "pubDate": "2026-01-28T23:36:21.000Z"
   },
   {
     "site": "Hatena",
-    "title": "約5年間気付かず。エプソン販売、システム不備で問い合わせに未回答",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2081475.html",
-    "pubDate": "2026-01-28T05:30:51.000Z"
+    "title": "ネットのコメント芸が必死すぎてキモい",
+    "link": "https://anond.hatelabo.jp/20260129040032",
+    "pubDate": "2026-01-28T23:16:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2026年のBluesky予測 - Bluesky",
+    "link": "https://bsky.social/about/blog/01-28-2026-bluesky-2026-predictions-jp",
+    "pubDate": "2026-01-28T22:46:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhoneの調子が悪いです。",
+    "link": "https://www.aiphone-faq.jp/faq/show/4684?site_domain=default",
+    "pubDate": "2026-01-28T16:43:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "車に話しかけたらGeminiが返事してくれるようになった - hitode909の日記",
+    "link": "https://blog.sushi.money/entry/2026/01/28/235900",
+    "pubDate": "2026-01-28T16:12:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Dropboxのアカウントが規約違反により突然BANされて博士課程の研究データの一部や趣味の写真などが取り出せなくなった...問い合わせメールも全て無視されている",
+    "link": "https://togetter.com/li/2657098",
+    "pubDate": "2026-01-28T14:29:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "脆弱性診断士/ペネトレーションテスター倫理綱領",
+    "link": "https://wg1.isog-j.org/CodeofEthics/",
+    "pubDate": "2026-01-28T10:50:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeのPlanモードで実装した後、そのまま質問しまくってるやついる？いねえよな！",
+    "link": "https://zenn.dev/take4/articles/b7fad1a0c52481",
+    "pubDate": "2026-01-28T06:38:38.000Z"
   },
   {
     "site": "Qiita",
@@ -19,21 +55,9 @@
   },
   {
     "site": "Zenn",
-    "title": "JAXAが公開したMCPサーバーを触ってみる",
-    "link": "https://zenn.dev/ra0kley/articles/cb2fc726f167da",
-    "pubDate": "2026-01-28T05:00:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Googleが月額1200円の「Google AI Plus」を日本で開始",
-    "link": "https://gigazine.net/news/20260128-google-ai-plus/",
-    "pubDate": "2026-01-28T04:14:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "自分でやった方が早いは、AI時代に組織とお前を殺す",
-    "link": "https://zenn.dev/nuits_jp/articles/2026-01-27-codex-review-prompt",
-    "pubDate": "2026-01-28T02:37:39.000Z"
+    "title": "GitHub CopilotでClaude Code（とCodex CLI）が使えるようになるぞ！",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-01-28-claude-code-on-agent-hq",
+    "pubDate": "Wed, 28 Jan 2026 03:17:07 GMT"
   },
   {
     "site": "Hatena",
@@ -61,15 +85,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【続】Claude Codeマルチエージェント：v1.1.0で家老が切腹しかけた話",
-    "link": "https://zenn.dev/shio_shoppaize/articles/8870bbf7c14c22",
-    "pubDate": "2026-01-27T13:40:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "みんなAI使って何やってるの？",
-    "link": "https://anond.hatelabo.jp/20260127205647",
-    "pubDate": "2026-01-27T12:19:44.000Z"
+    "title": "ブラウザ戦争の歴史を辿ってみた",
+    "link": "https://zenn.dev/shima0111/articles/b9819c999fa011",
+    "pubDate": "Tue, 27 Jan 2026 12:58:44 GMT"
   },
   {
     "site": "Zenn",
@@ -97,39 +115,27 @@
   },
   {
     "site": "Zenn",
+    "title": "GitHub ActionsでDockerビルドを高速化する：並列化・キャッシュ・ARMビルドの実践ガイド",
+    "link": "https://zenn.dev/satto_workspace/articles/c571e1d81f753e",
+    "pubDate": "Tue, 27 Jan 2026 04:31:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RAGの精度は入力構造で決まる｜なぜテキストChunkingでは限界に到達するのか",
+    "link": "https://zenn.dev/startspace/articles/32509227cbf0f0",
+    "pubDate": "Tue, 27 Jan 2026 03:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "RAGで大事なキーワードを無視させない手法",
     "link": "https://zenn.dev/knowledgesense/articles/6bada1cdce48d5",
     "pubDate": "Tue, 27 Jan 2026 01:05:21 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude CodeのPlanモードで実装した後、そのまま質問しまくってるやついる？いねえよな！",
-    "link": "https://zenn.dev/take4/articles/b7fad1a0c52481",
-    "pubDate": "Mon, 26 Jan 2026 23:11:15 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "「ログイン周り」がごちゃつく人へ：認証・認可・SSO・OAuth/OIDC/SAMLの地図 - Qiita",
-    "link": "https://qiita.com/ryucciarati/items/800beee69019ca84855c",
-    "pubDate": "2026-01-26T23:09:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "MCP Apps：AIのUIが「標準化」された日（AI UIのHTML化）",
-    "link": "https://zenn.dev/gunta/articles/03b74f75541d5f",
-    "pubDate": "Mon, 26 Jan 2026 21:23:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自分でやった方が早いは、AI時代に組織とお前を殺す",
-    "link": "https://zenn.dev/nuits_jp/articles/2026-01-27-codex-review-prompt",
-    "pubDate": "Mon, 26 Jan 2026 21:09:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【2026共通テスト 情報Ⅰ】現役ソフトウェアエンジニアが解いてみた",
-    "link": "https://zenn.dev/raku/articles/f6e154eca45dac",
-    "pubDate": "Mon, 26 Jan 2026 14:22:22 GMT"
+    "title": "【AWS】SAA-C03試験対策まとめ（AWS主要サービスの全体像）",
+    "link": "https://qiita.com/RizumuUEDA/items/20a2d4af87aa3541f1d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-27T00:50:22.000Z"
   },
   {
     "site": "Qiita",
@@ -151,6 +157,12 @@
   },
   {
     "site": "Qiita",
+    "title": "外挿の見抜き方：学習域外を“検知”してアラートする",
+    "link": "https://qiita.com/Seine_A_Shintani/items/502e922d1fc80b6df9fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-26T07:46:09.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "フル日本語環境で働く外国人として  ",
     "link": "https://qiita.com/polopopi/items/b0b8f28990b19e2a1b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-26T05:07:03.000Z"
@@ -166,17 +178,5 @@
     "title": "就職活動のためにLangGraph+ローカルLLMでアプリを作ったら、意外にも使える子に仕上がったので自慢させてくれ",
     "link": "https://qiita.com/Ultra-grand-child/items/d3f492b66a35bbaa0a94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-25T22:05:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発「ひたすら数学」作ってリリースしてみた iOS/Android",
-    "link": "https://qiita.com/keitaMax/items/eba4cc53538a37121ede?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-25T10:39:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者完全版】0からDockerをフルスタックアプリを開発しながら学べるチュートリアル【React /TypeScript/Hono/docker-compose】",
-    "link": "https://qiita.com/Sicut_study/items/fd8e8a9fe05631fc5ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-25T08:01:10.000Z"
   }
 ]
