@@ -1,15 +1,57 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude CodeのHooksをハックして自律駆動するマルチエージェントを作った",
+    "link": "https://zenn.dev/zaico/articles/d6b882c78fe4b3",
+    "pubDate": "2026-01-30T16:13:57.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "ChatGPT、新規ユーザーの利用料金が“円建て”に　実質値下げ　既存ドル建てユーザーは現状そのまま",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2601/30/news107.html",
-    "pubDate": "2026-01-30T07:15:20.000Z"
+    "title": "「AIおばあちゃん」に政治を語らせてるチャンネルについてのメモ - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2026/01/30/220000",
+    "pubDate": "2026-01-30T13:34:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Ollama 17万台ハックされてたそうですね - Qiita",
+    "link": "https://qiita.com/ohkitashigeto/items/f66918b0a5dc59db9017",
+    "pubDate": "2026-01-30T13:04:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "そのインタラクション、どう作るか？",
+    "link": "https://zenn.dev/team_soda/articles/ba0fe106a605dc",
+    "pubDate": "Fri, 30 Jan 2026 11:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "A complete guide to building skills for Claude | Claude",
+    "link": "https://claude.com/blog/complete-guide-to-building-skills-for-claude",
+    "pubDate": "2026-01-30T07:26:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeのHooksをハックして自律駆動するマルチエージェントを作った",
+    "link": "https://zenn.dev/zaico/articles/d6b882c78fe4b3",
+    "pubDate": "Fri, 30 Jan 2026 06:54:41 GMT"
   },
   {
     "site": "Hatena",
     "title": "NECが基地局事業から撤退",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2082281.html",
     "pubDate": "2026-01-30T06:31:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "C言語でメモリマップド I/O を扱うときに注意すること  - volatile 修飾子とメモリバリアの役割",
+    "link": "https://qiita.com/ikwzm/items/d6d6a0223931c4a55037?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-30T05:53:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「GitHub Copilotが高くて払えない」と嘆くあなたへ。AWSの「Amazon Q」なら無料で同じことができます",
+    "link": "https://zenn.dev/miyaco_log/articles/6f084e82688fa1",
+    "pubDate": "2026-01-30T04:51:57.000Z"
   },
   {
     "site": "Qiita",
@@ -22,18 +64,6 @@
     "title": "Claude Code Orchestra: Claude Code × Codex CLI × Gemini CLIの最適解を探る",
     "link": "https://zenn.dev/mkj/articles/claude-code-orchestra_20260120",
     "pubDate": "Fri, 30 Jan 2026 02:50:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "解約率0%のシステムを、作り直すことにしました。〜エージェントからfindさんに紹介できません、と言われたあの日〜｜株式会社find｜公式note",
-    "link": "https://note.com/find_info/n/n9a0da3fffd9f",
-    "pubDate": "2026-01-30T02:47:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "相次ぐモバイルバッテリの発火、主な原因が明らかに",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2082118.html",
-    "pubDate": "2026-01-30T01:04:19.000Z"
   },
   {
     "site": "Hatena",
@@ -60,40 +90,16 @@
     "pubDate": "2026-01-29T23:03:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "川勝前知事は正しかった？　「リニアで井戸枯れ」報道受け静岡に脚光",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/012601943/",
-    "pubDate": "2026-01-29T22:27:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「gog」導入・設定ガイド ーー AIに言葉で指示して Googleサービス(Gmail/カレンダー etc.)を操る",
-    "link": "https://zenn.dev/takna/articles/gog-cli-setup-guide",
-    "pubDate": "Thu, 29 Jan 2026 12:07:59 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Chrome、とうとう｢AIブラウザ｣になってしまうんだね",
-    "link": "https://www.gizmodo.jp/2026/01/gemini_in_chrome.html",
-    "pubDate": "2026-01-29T11:02:37.000Z"
+    "site": "Qiita",
+    "title": "どの中間CAを選ぶべきかわからなかった話",
+    "link": "https://qiita.com/Kohta21/items/bb4f83d11f6771febb98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-29T22:19:04.000Z"
   },
   {
     "site": "Zenn",
     "title": "Laravelは単なるバックエンドフレームワークではない。急速に進化し続けるLaravelエコシステム。",
     "link": "https://zenn.dev/avosalmon/articles/966101753a9efa",
     "pubDate": "2026-01-29T09:43:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Qiita AI Summit にて登壇いたしました（資料公開・事前準備編）",
-    "link": "https://qiita.com/noalisa-ai/items/caf32fd2a3ebd661b732?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-29T08:09:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その8",
-    "link": "https://qiita.com/sumikawa@github/items/f7a455909fe4596a66bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-29T06:50:35.000Z"
   },
   {
     "site": "Qiita",
@@ -148,12 +154,6 @@
     "title": "さよなら、Figmaからのコピペ。Pencil.devでデザインをコードとして管理する",
     "link": "https://zenn.dev/yuukikawabata/articles/pencil-dev-introduction",
     "pubDate": "Wed, 28 Jan 2026 13:27:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "🦞Moltbot🦞をパーソナルアシスタントとして使い倒す基盤設計",
-    "link": "https://zenn.dev/kndoshn/articles/57b5033bbf155b",
-    "pubDate": "Wed, 28 Jan 2026 13:06:07 GMT"
   },
   {
     "site": "Qiita",
