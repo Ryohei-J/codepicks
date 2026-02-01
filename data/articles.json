@@ -1,5 +1,29 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Opus 4.5 vs Kimi K2.5 〜コーディング性能とコスト効率比較〜",
+    "link": "https://zenn.dev/robustonian/articles/claude_vs_kimi_k25",
+    "pubDate": "Sun, 01 Feb 2026 06:02:13 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ChatGTPに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた - Qiita",
+    "link": "https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d",
+    "pubDate": "2026-02-01T05:13:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてブを取り巻く全部が老化して劣化してる感じがするんだ。",
+    "link": "https://anond.hatelabo.jp/20260118221943",
+    "pubDate": "2026-02-01T03:27:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "純粋関数型言語ではconsole.log(\"Hello\")をlog \"Hello\"と書くし、foo = 42をwrite 42 fooと書く",
+    "link": "https://qiita.com/hiruberuto/items/4d8a4739cd738c425ee2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-01T01:36:23.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "AIが書き込みAIが議論するAI専用のSNS”moltbook”を眺めていたらもう既に人類への反乱が起きそうで怖い→「ターミネーターのシナリオ通りに進化が進んでるやん...」",
     "link": "https://togetter.com/li/2658446",
@@ -7,9 +31,21 @@
   },
   {
     "site": "Zenn",
-    "title": "【個人開発】QAをAIがしてくれるサービスをつくった",
+    "title": "【個人開発】毎回テストで疲弊するのをやめたくて、AI QAサービスを作った",
     "link": "https://zenn.dev/keiichiro/articles/b998a410601537",
     "pubDate": "Sun, 01 Feb 2026 00:56:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Anthropic 公式ガイドで学ぶ Claude Skill 構築についての実践ガイド",
+    "link": "https://zenn.dev/studypocket/articles/complete-guide-to-building-skills-for-claude",
+    "pubDate": "Sat, 31 Jan 2026 22:48:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人開発でも爆速リリースを続けられる理由 〜 企画からリリース後運用までの「AI駆動開発」〜",
+    "link": "https://zenn.dev/yokkomystery/articles/85e9b4d6cc8d36",
+    "pubDate": "Sat, 31 Jan 2026 22:08:47 GMT"
   },
   {
     "site": "Hatena",
@@ -19,33 +55,21 @@
   },
   {
     "site": "Zenn",
+    "title": "生成AI時代にITエンジニアに求められているのはレビュー能力ではない",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-02-01-engineers-not-reviewers-ai-era",
+    "pubDate": "Sat, 31 Jan 2026 21:38:24 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Kaggle 草コンペ振り返り & 上位解法まとめ | CSIRO - Image2Biomass Prediction",
     "link": "https://zenn.dev/prgckwb/articles/kaggle-csiro-image2biomass",
     "pubDate": "Sat, 31 Jan 2026 18:58:50 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "医学論文、13.5%にAIの痕跡　「乱造」で増す誤情報リスクと査読負担 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOSG088I20Y5A001C2000000/",
-    "pubDate": "2026-01-31T17:09:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ドメインに発行されたすべての証明書を検索できる「CertRadar」",
-    "link": "https://gigazine.net/news/20260131-cert-radar/",
-    "pubDate": "2026-01-31T13:42:31.000Z"
   },
   {
     "site": "Zenn",
     "title": "【Antigravity】動画編集ド素人の学生が、Pythonで「ゆっくり実況」の完全自動化に挑んでみた話",
     "link": "https://zenn.dev/kiri_tech/articles/bbbaf5f1cdc57d",
     "pubDate": "Sat, 31 Jan 2026 11:52:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Moltbookについて、いま起きていることのまとめ",
-    "link": "https://zenn.dev/sakasegawa/articles/9cf4dba3f6b5f3",
-    "pubDate": "2026-01-31T11:11:11.000Z"
   },
   {
     "site": "Zenn",
@@ -60,10 +84,10 @@
     "pubDate": "Sat, 31 Jan 2026 09:46:32 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "PM の育成はなぜ難しいのか？ ー「贈与」の視点で考える「見えない仕事」の伝え方ー",
-    "link": "https://zenn.dev/t_vana4/articles/c13b3eaaa9f5e3",
-    "pubDate": "Sat, 31 Jan 2026 08:02:03 GMT"
+    "site": "Hatena",
+    "title": "クレジットカード決済基盤を支えるSRE - 厳格な監査とSRE運用の両立 (SRE Kaigi 2026)",
+    "link": "https://speakerdeck.com/capytan/kurezitutokadojue-ji-ji-pan-wozhi-erusre-yan-ge-najian-cha-tosreyun-yong-noliang-li-sre-kaigi-2026-d099bc0e-9ba2-4d2b-81ac-7b3c152649a1",
+    "pubDate": "2026-01-31T09:16:33.000Z"
   },
   {
     "site": "Zenn",
@@ -72,22 +96,22 @@
     "pubDate": "Sat, 31 Jan 2026 06:07:34 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "寿司屋のサイトをmicroCMSからpitcmsに乗り換えた",
-    "link": "https://zenn.dev/yutopia898/articles/e8005988b656d4",
-    "pubDate": "Sat, 31 Jan 2026 05:40:02 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Googleのゲーム生成AI、ほぼ「マリオ」「ゼルダ」な世界を生成　関連株が一時大幅下落（多根清史） - エキスパート - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/expert/articles/dedf117b29b9642591aa2ff9ab84b55cd3a18b9d",
-    "pubDate": "2026-01-31T04:36:09.000Z"
+    "site": "Qiita",
+    "title": "ChatGPTに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた",
+    "link": "https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-31T04:17:03.000Z"
   },
   {
     "site": "Hatena",
     "title": "ゲオ（GEO）で売ってる激安SSDをレビュー：容量2TBで2万円台なのにハイエンド顔負けの性能 | ちもろぐ",
     "link": "https://chimolog.co/geo-ssd/",
     "pubDate": "2026-01-31T00:35:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Zenn開発者catnoseが語る「個人開発で勝てる3つのパターン」と、作り続ける理由｜TECH WORLD",
+    "link": "https://note.com/techworld_inc/n/n88e9eb73a0ea",
+    "pubDate": "2026-01-30T19:52:28.000Z"
   },
   {
     "site": "Hatena",
@@ -100,18 +124,6 @@
     "title": "「悪いな、資料のフォントは2年前までMeiryo UI派だったけど今はBIZ UDPゴシック派なんだ」昔はみんなMeiryo UIやメイリオを使っていたのに…",
     "link": "https://togetter.com/li/2657706",
     "pubDate": "2026-01-30T14:07:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Pencilで「AI臭くならないデザイン」を作るために、skillsに how / how to think を書いてみた",
-    "link": "https://zenn.dev/mae616/articles/02d4425ec419ee",
-    "pubDate": "Fri, 30 Jan 2026 13:17:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プログラミングの知識は「書くため」ではなく「導くため」になった — AIエージェント並列オーケストレーションの先にあったもの",
-    "link": "https://zenn.dev/nrs/articles/ea37ed55b8704a",
-    "pubDate": "Fri, 30 Jan 2026 12:47:20 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "GitHub と Claude Code でタスク管理・日記・個人ナレッジを管理する - Qiita",
     "link": "https://qiita.com/TaigoKuriyama/items/32f3ef128db2b9344e6a",
     "pubDate": "2026-01-29T06:59:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "応用情報の廃止・再編「今」取るべき理由と合格戦略",
-    "link": "https://qiita.com/shibuya-ys/items/b31603922b791c37cc37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-29T05:57:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Pencil × Claude Code がよさそうなので試してみた！",
-    "link": "https://qiita.com/akiraabe/items/371e384bbd30de04e473?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-29T01:50:49.000Z"
   }
 ]
