@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "SSHがキーストロークごとに100パケットを送信する問題をLLMとともに解決した話",
+    "link": "https://gigazine.net/news/20260201-ssh-sends-100-packets-per-keystroke/",
+    "pubDate": "2026-02-01T09:29:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "画像生成AIをPCで簡単に実行できる「ComfyUI」のインストール手順＆最初の画像を生成するまでの手順まとめ - GIGAZINE",
+    "link": "https://gigazine.net/news/20260201-comfyui-image-video-generation-ai/",
+    "pubDate": "2026-02-01T08:23:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ふるさと納税の松阪牛が届きハイテンションで開封したところ、なんと証明書のコピー入り『この牛の名前は“きよこ”、屠畜日は1月4日、生後665日目』きよこ…",
+    "link": "https://togetter.com/li/2658605",
+    "pubDate": "2026-02-01T07:35:29.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Opus 4.5 vs Kimi K2.5 〜コーディング性能とコスト効率比較〜",
     "link": "https://zenn.dev/robustonian/articles/claude_vs_kimi_k25",
@@ -7,7 +25,7 @@
   },
   {
     "site": "Qiita",
-    "title": "ChatGTPに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた - Qiita",
+    "title": "ChatGPTに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた - Qiita",
     "link": "https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d",
     "pubDate": "2026-02-01T05:13:05.000Z"
   },
@@ -43,7 +61,7 @@
   },
   {
     "site": "Zenn",
-    "title": "個人開発でも爆速リリースを続けられる理由 〜 企画からリリース後運用までの「AI駆動開発」〜",
+    "title": "【AI駆動開発】個人開発でも爆速リリースを続けられる理由 〜 企画からリリース後運用まで〜",
     "link": "https://zenn.dev/yokkomystery/articles/85e9b4d6cc8d36",
     "pubDate": "Sat, 31 Jan 2026 22:08:47 GMT"
   },
@@ -103,12 +121,6 @@
   },
   {
     "site": "Hatena",
-    "title": "ゲオ（GEO）で売ってる激安SSDをレビュー：容量2TBで2万円台なのにハイエンド顔負けの性能 | ちもろぐ",
-    "link": "https://chimolog.co/geo-ssd/",
-    "pubDate": "2026-01-31T00:35:05.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Zenn開発者catnoseが語る「個人開発で勝てる3つのパターン」と、作り続ける理由｜TECH WORLD",
     "link": "https://note.com/techworld_inc/n/n88e9eb73a0ea",
     "pubDate": "2026-01-30T19:52:28.000Z"
@@ -118,12 +130,6 @@
     "title": "Claude Codeと暮らす | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/claude-code-daily-workflow/",
     "pubDate": "2026-01-30T14:36:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「悪いな、資料のフォントは2年前までMeiryo UI派だったけど今はBIZ UDPゴシック派なんだ」昔はみんなMeiryo UIやメイリオを使っていたのに…",
-    "link": "https://togetter.com/li/2657706",
-    "pubDate": "2026-01-30T14:07:37.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【恐怖】AIエージェントが社員を脅迫した実話｜2026年最大のセキュリティ事件を徹底解説",
     "link": "https://qiita.com/emi_ndk/items/1534e672ead63226db91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-29T09:52:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub と Claude Code でタスク管理・日記・個人ナレッジを管理する - Qiita",
-    "link": "https://qiita.com/TaigoKuriyama/items/32f3ef128db2b9344e6a",
-    "pubDate": "2026-01-29T06:59:20.000Z"
   }
 ]
