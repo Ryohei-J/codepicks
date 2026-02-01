@@ -6,10 +6,22 @@
     "pubDate": "2026-02-01T01:03:49.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【個人開発】QAをAIがしてくれるサービスをつくった",
+    "link": "https://zenn.dev/keiichiro/articles/b998a410601537",
+    "pubDate": "Sun, 01 Feb 2026 00:56:01 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "政見放送をＡＩで改ざん、中道の野田・斉藤両共同代表が踊り出すニセ動画が拡散…専門家「選挙ゆがみかねない」",
     "link": "https://www.yomiuri.co.jp/election/shugiin/20260131-GYT1T00420/",
     "pubDate": "2026-01-31T21:38:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kaggle 草コンペ振り返り & 上位解法まとめ | CSIRO - Image2Biomass Prediction",
+    "link": "https://zenn.dev/prgckwb/articles/kaggle-csiro-image2biomass",
+    "pubDate": "Sat, 31 Jan 2026 18:58:50 GMT"
   },
   {
     "site": "Hatena",
@@ -22,6 +34,12 @@
     "title": "ドメインに発行されたすべての証明書を検索できる「CertRadar」",
     "link": "https://gigazine.net/news/20260131-cert-radar/",
     "pubDate": "2026-01-31T13:42:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Antigravity】動画編集ド素人の学生が、Pythonで「ゆっくり実況」の完全自動化に挑んでみた話",
+    "link": "https://zenn.dev/kiri_tech/articles/bbbaf5f1cdc57d",
+    "pubDate": "Sat, 31 Jan 2026 11:52:37 GMT"
   },
   {
     "site": "Zenn",
@@ -43,9 +61,15 @@
   },
   {
     "site": "Zenn",
-    "title": "実装はClaude、レビューはCodex ─ tmuxで繋ぐ開発フロー",
-    "link": "https://zenn.dev/tokium_dev/articles/0ef3f807d67e7c",
-    "pubDate": "2026-01-31T05:51:53.000Z"
+    "title": "PM の育成はなぜ難しいのか？ ー「贈与」の視点で考える「見えない仕事」の伝え方ー",
+    "link": "https://zenn.dev/t_vana4/articles/c13b3eaaa9f5e3",
+    "pubDate": "Sat, 31 Jan 2026 08:02:03 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LazyNix: 誰でも作れる再現可能な開発環境",
+    "link": "https://zenn.dev/shundeveloper/articles/6d9a464c4a6bad",
+    "pubDate": "Sat, 31 Jan 2026 06:07:34 GMT"
   },
   {
     "site": "Zenn",
@@ -60,12 +84,6 @@
     "pubDate": "2026-01-31T04:36:09.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "C# 難読化２０２６年版",
-    "link": "https://zenn.dev/sator_imaging/articles/a9ed908f38b5f8",
-    "pubDate": "Sat, 31 Jan 2026 03:51:55 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "ゲオ（GEO）で売ってる激安SSDをレビュー：容量2TBで2万円台なのにハイエンド顔負けの性能 | ちもろぐ",
     "link": "https://chimolog.co/geo-ssd/",
@@ -73,9 +91,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Claude Code 超完全ガイド | エンジニアから投資家まで、すべてのユーザーのための実践マニュアル｜FabyΔ",
-    "link": "https://note.com/fabymetal/n/n3f0f2873b56c",
-    "pubDate": "2026-01-30T23:45:39.000Z"
+    "title": "Claude Codeと暮らす | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claude-code-daily-workflow/",
+    "pubDate": "2026-01-30T14:36:38.000Z"
   },
   {
     "site": "Hatena",
@@ -94,18 +112,6 @@
     "title": "プログラミングの知識は「書くため」ではなく「導くため」になった — AIエージェント並列オーケストレーションの先にあったもの",
     "link": "https://zenn.dev/nrs/articles/ea37ed55b8704a",
     "pubDate": "Fri, 30 Jan 2026 12:47:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "そのインタラクション、どう作るか？",
-    "link": "https://zenn.dev/team_soda/articles/ba0fe106a605dc",
-    "pubDate": "Fri, 30 Jan 2026 11:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeのHooksをハックして自律駆動するマルチエージェントを作った",
-    "link": "https://zenn.dev/zaico/articles/d6b882c78fe4b3",
-    "pubDate": "Fri, 30 Jan 2026 06:54:41 GMT"
   },
   {
     "site": "Qiita",
@@ -132,18 +138,6 @@
     "pubDate": "2026-01-30T03:29:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code Orchestra: Claude Code × Codex CLI × Gemini CLIの最適解を探る",
-    "link": "https://zenn.dev/mkj/articles/claude-code-orchestra_20260120",
-    "pubDate": "Fri, 30 Jan 2026 02:50:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "git worktreeの不満を解消するためにCLIツールを自作した",
-    "link": "https://zenn.dev/progate/articles/2e1e90796d82f0",
-    "pubDate": "Fri, 30 Jan 2026 01:03:53 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "よくわからずにClaudeのSkillを使い倒し始めたら、自分の仕事が丸裸になりつつある話",
     "link": "https://qiita.com/WdknWdkn/items/351912f61ffe1b177a68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,6 +160,12 @@
     "title": "【恐怖】AIエージェントが社員を脅迫した実話｜2026年最大のセキュリティ事件を徹底解説",
     "link": "https://qiita.com/emi_ndk/items/1534e672ead63226db91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-01-29T09:52:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GitHub と Claude Code でタスク管理・日記・個人ナレッジを管理する - Qiita",
+    "link": "https://qiita.com/TaigoKuriyama/items/32f3ef128db2b9344e6a",
+    "pubDate": "2026-01-29T06:59:20.000Z"
   },
   {
     "site": "Qiita",
