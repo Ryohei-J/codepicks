@@ -1,9 +1,27 @@
 [
   {
+    "site": "Qiita",
+    "title": "【前編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”",
+    "link": "https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-03T03:53:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Adobe Animate」終了へ　「Flash Pro」後継も幕引き　ユーザーは「困る」と悲鳴",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/03/news067.html",
+    "pubDate": "2026-02-03T02:14:01.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "カセットテープ・エンジニア人生45年。「彼でないと動かせない生産設備」と共に2回移籍して【フォーカス】 レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/focus/detail_797/",
     "pubDate": "2026-02-03T01:59:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "リアル志向すぎて罪悪感さえ覚えるハッキングシミュレーター「HackHub」（ほぼ日 インディーPick Up！）",
+    "link": "https://www.4gamer.net/games/950/G095079/20260201004/",
+    "pubDate": "2026-02-03T00:14:08.000Z"
   },
   {
     "site": "Hatena",
@@ -36,10 +54,16 @@
     "pubDate": "2026-02-02T15:20:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "40年前の「コピー防止ドングル」を突破した記録が興味深い、コンパイルそのものにドングルが必須だが4バイトのパッチのみで解除可能",
-    "link": "https://gigazine.net/news/20260202-copy-protection-dongle/",
-    "pubDate": "2026-02-02T14:45:44.000Z"
+    "site": "Zenn",
+    "title": "防衛省サイバーコンテスト2026 Writeup",
+    "link": "https://zenn.dev/saku0512/articles/e33e6df540df45",
+    "pubDate": "Mon, 02 Feb 2026 14:58:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kaggle days Championshipのようなコンペを開催した話",
+    "link": "https://zenn.dev/ryushi496/articles/4df4f2412cfdd9",
+    "pubDate": "Mon, 02 Feb 2026 14:38:18 GMT"
   },
   {
     "site": "Qiita",
@@ -61,21 +85,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Code Skillsがわからなくて焦った僕が、最初に考えるべきだったこと",
+    "link": "https://zenn.dev/tokium_dev/articles/1f0c83eb3dd72d",
+    "pubDate": "Mon, 02 Feb 2026 06:55:14 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Tokyo 30の舞台裏？AWSで作る！フルマネージドな大規模GPUクラスターの構築/運用のリアル",
     "link": "https://zenn.dev/turing_motors/articles/588954c08dccc0",
     "pubDate": "Mon, 02 Feb 2026 06:00:01 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Next.js で認証を 実装する方法",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/4e0ef83fd384a477e480?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-02T02:33:42.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "なぜcronからsystemd timerへ移行しているのか？歴史と設計思想から理解する",
-    "link": "https://zenn.dev/hcompany/articles/20260119_systemd_timer",
-    "pubDate": "2026-02-02T00:15:35.000Z"
+    "title": "VSCodeの時代は終わった？次世代エディタ Zed Editor 完全ガイド",
+    "link": "https://zenn.dev/yamitake/articles/zed-editor-next-generation-ide",
+    "pubDate": "Mon, 02 Feb 2026 01:18:22 GMT"
   },
   {
     "site": "Zenn",
@@ -97,9 +121,21 @@
   },
   {
     "site": "Qiita",
-    "title": "AWSクレジットが使える！ BedrockのKimi K2を調教して、StrandsのClaudeコストを節約しよう",
-    "link": "https://qiita.com/minorun365/items/e85b46678a8700d564cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-01T15:04:59.000Z"
+    "title": "⏰Copilot Scheduler🚀 GitHub Copilot をスケジュール実行する VS Code 拡張機能を作った",
+    "link": "https://qiita.com/aktsmm/items/9a90eede8f4396ef216d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-01T21:58:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TypeScriptはなぜランタイム構文を作り、なぜ今それを取り除きつつあるのか",
+    "link": "https://zenn.dev/sonsu/articles/270319f20b0390",
+    "pubDate": "Sun, 01 Feb 2026 14:34:46 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Codex CLI猛進。Github Copilotと大差。　～データで見る2026年1月のAI Codingの動向まとめ～",
+    "link": "https://qiita.com/kotauchisunsun/items/a8409d108cae24888ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-01T12:47:06.000Z"
   },
   {
     "site": "Zenn",
@@ -108,28 +144,16 @@
     "pubDate": "Sun, 01 Feb 2026 11:52:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Rust + Axumで学ぶ 実践キューイングシステム入門",
-    "link": "https://zenn.dev/sbk0716/books/1ba52e1005fe1e",
-    "pubDate": "Sun, 01 Feb 2026 11:01:59 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "開発者はAIを使うと24％速くなると考えているが実際には約20％遅いという主張について調べた件",
     "link": "https://qiita.com/morry_48/items/a4c5d048f6fb662ebbba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-01T09:20:28.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "SRE Kaigi 2026 発表資料まとめ",
-    "link": "https://zenn.dev/su8/articles/205656fbae8c2f",
-    "pubDate": "Sun, 01 Feb 2026 08:17:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Opus 4.5 vs Kimi K2.5 〜コーディング性能とコスト効率比較〜",
-    "link": "https://zenn.dev/robustonian/articles/claude_vs_kimi_k25",
-    "pubDate": "Sun, 01 Feb 2026 06:02:13 GMT"
+    "site": "Qiita",
+    "title": "【完全自動化】n8n×Obsidianで「寝ている間に最新ニュースが届く」最強の情報収集システムを作った話",
+    "link": "https://qiita.com/TaichiEndoh/items/b534f73310ce4508dac2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-01T05:26:09.000Z"
   },
   {
     "site": "Qiita",
@@ -144,24 +168,6 @@
     "pubDate": "2026-02-01T01:36:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI組織の家老が部下8人の報告で圧死したので、将軍に「本音を聞いてやれ」と言ったら、将軍が家老の本音を聞いた上で、リストラを提案してきた",
-    "link": "https://zenn.dev/shio_shoppaize/articles/dc85db324bb3f0",
-    "pubDate": "Sun, 01 Feb 2026 01:07:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "要件定義の教科書",
-    "link": "https://zenn.dev/tan_go238/books/f4cdf93523210f",
-    "pubDate": "Sun, 01 Feb 2026 01:00:31 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ネットワークの基礎：OSI参照モデルとTCP/IPモデルの違いと各層の役割",
-    "link": "https://qiita.com/Haruji/items/4c5c87de1fc5eb8bae5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-31T15:01:00.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【2026年】UIトレンドを調べてみた",
     "link": "https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "「オンボーディングが早い」と言われるためにやっていること",
-    "link": "https://qiita.com/ktdatascience/items/38cedf1f96e981b4f11d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-31T04:46:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ChatGPTに「生成AIが広まったけど、結局 言語化能力がある人が得してるだけじゃない？」と問いかけてみた",
-    "link": "https://qiita.com/8853Tomtomtom/items/656c122f1ef714f3079d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-31T04:17:03.000Z"
+    "title": "JSPを使ってシステム開発を行った結果、フロントトレンドがReact/Vueに移行した理由を身をもって知った話",
+    "link": "https://qiita.com/kimuchi_a/items/06f9c9282fbb5504b145?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-01-31T14:56:39.000Z"
   }
 ]
