@@ -1,9 +1,27 @@
 [
   {
+    "site": "Hatena",
+    "title": "これ新道作ろうとしたら古墳出てきちゃって終わったやつだろ→Googleの航空写真を見ていたらあからさまに工事が中止されている場所が「見なかったことにするゼネコンもありますね...」",
+    "link": "https://togetter.com/li/2659677",
+    "pubDate": "2026-02-04T00:26:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "野球を彫刻する｜朝日新聞社 メディア研究開発センター",
+    "link": "https://note.com/asahi_ictrad/n/n6ed3e5daeb1e",
+    "pubDate": "2026-02-03T23:32:50.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AIエンジニアがLangChainを推奨しない理由",
     "link": "https://zenn.dev/genshi_ai/articles/166cf652723496",
     "pubDate": "2026-02-03T12:19:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "2026年、AWS LambdaはVSCodeで開発するのがナウい",
+    "link": "https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-03T11:52:34.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +31,33 @@
   },
   {
     "site": "Hatena",
-    "title": "下の住人に「電波攻撃されてる」と言われたので「攻撃してる周波数を教えて」と返したら「業者に調べてもらってる」と言われた、そこから2ヶ月連絡がない",
-    "link": "https://togetter.com/li/2659486",
-    "pubDate": "2026-02-03T10:43:09.000Z"
+    "title": "ゲーム中にボイスチャットするとゲーム音量が下がるのでバグを疑った→かつてSkypeを使っていた人はみんな確認してた項目がWindowsにはあるんだ",
+    "link": "https://togetter.com/li/2659494",
+    "pubDate": "2026-02-03T10:32:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "フランスが「Microsoft Teams」と「Zoom」を排除した理由--何に代替するのか",
+    "link": "https://japan.zdnet.com/article/35243443/",
+    "pubDate": "2026-02-03T07:18:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエンジニアがLangChainを推奨しない理由",
+    "link": "https://zenn.dev/genshi_ai/articles/166cf652723496",
+    "pubDate": "Tue, 03 Feb 2026 06:48:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI部下8人を同時テストしたら1人が全員分片付け、管理職が隠蔽してたので「令和なめんな」と詰めたら倍返しで反省をOSSに入れたいと言い出した",
+    "link": "https://zenn.dev/shio_shoppaize/articles/8ffa42a88d426a",
+    "pubDate": "Tue, 03 Feb 2026 05:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【LLM】社内文書をセキュアに検索！OllamaとOpen WebUIで構築する完全無料・RAG環境",
+    "link": "https://zenn.dev/shineos/articles/local-llm-rag-web-search-with-ollama",
+    "pubDate": "2026-02-03T03:55:55.000Z"
   },
   {
     "site": "Qiita",
@@ -25,33 +67,15 @@
   },
   {
     "site": "Hatena",
-    "title": "カセットテープ・エンジニア人生45年。「彼でないと動かせない生産設備」と共に2回移籍して【フォーカス】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/focus/detail_797/",
-    "pubDate": "2026-02-03T01:59:32.000Z"
+    "title": "RAGを丁寧に解説(無料で使えるGemini,Obsidianを活用して自分の秘書を作る)｜takeshy",
+    "link": "https://note.com/takeshy/n/nf6fd1378368b",
+    "pubDate": "2026-02-03T03:52:57.000Z"
   },
   {
     "site": "Hatena",
-    "title": "リアル志向すぎて罪悪感さえ覚えるハッキングシミュレーター「HackHub」（ほぼ日 インディーPick Up！）",
-    "link": "https://www.4gamer.net/games/950/G095079/20260201004/",
-    "pubDate": "2026-02-03T00:14:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Obsidian読書メモ術。知識を「記録」するのをやめて「発酵」させよう - Digiledge（デジレッジ）",
-    "link": "https://koheifukushi-kuih-creative.com/entry/20260203/1770071400",
-    "pubDate": "2026-02-02T23:26:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜIPアドレスで「どこにいるか」が判別できる？　IPv4、IPv6を網羅するデータベースの正体",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/03/news013.html",
-    "pubDate": "2026-02-02T23:17:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 「電気代、払うのやめてみました」ポタ電と太陽光だけで1カ月仕事してみた狂気の結果",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2082893.html",
-    "pubDate": "2026-02-02T21:13:04.000Z"
+    "title": "GitHub - uxmal/reko: Reko is a binary decompiler.",
+    "link": "https://github.com/uxmal/reko",
+    "pubDate": "2026-02-03T03:38:43.000Z"
   },
   {
     "site": "Hatena",
@@ -67,21 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Kaggle days Championshipのようなコンペを開催した話",
-    "link": "https://zenn.dev/ryushi496/articles/4df4f2412cfdd9",
-    "pubDate": "Mon, 02 Feb 2026 14:38:18 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "JOI2025/2026セミファイナル参戦記",
-    "link": "https://qiita.com/kazuppa/items/314ba804a4c5b14a1092?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-02T13:33:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【完全自動化】n8n×Obsidianで「寝ている間に最新ニュースが届く」最強の情報収集システムを作った話 - Qiita",
-    "link": "https://qiita.com/TaichiEndoh/items/b534f73310ce4508dac2",
-    "pubDate": "2026-02-02T09:04:24.000Z"
+    "title": "コンポーネントの「ウォーターフォール問題」をどう解決するか by React開発者 Dan Abramov氏",
+    "link": "https://zenn.dev/dragon1208/articles/5ed0277f280e71",
+    "pubDate": "Mon, 02 Feb 2026 10:00:02 GMT"
   },
   {
     "site": "Zenn",
@@ -97,9 +109,27 @@
   },
   {
     "site": "Zenn",
+    "title": "【LLM】社内文書をセキュアに検索！OllamaとOpen WebUIで構築する完全無料・RAG環境",
+    "link": "https://zenn.dev/shineos/articles/local-llm-rag-web-search-with-ollama",
+    "pubDate": "Mon, 02 Feb 2026 02:58:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "プロンプトで祈るのはもうやめる。Outlines/Guidance で LLM の出力を 100% 制御する技術",
+    "link": "https://qiita.com/harusato2806/items/1f73ed7d1d3e6af932a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-02T01:51:44.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "VSCodeの時代は終わった？次世代エディタ Zed Editor 完全ガイド",
     "link": "https://zenn.dev/yamitake/articles/zed-editor-next-generation-ide",
     "pubDate": "Mon, 02 Feb 2026 01:18:22 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアの経験が伝わる職務経歴書を書く - シーキューブモデル",
+    "link": "https://qiita.com/newta/items/248390917376fc96e51d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-02T00:04:47.000Z"
   },
   {
     "site": "Zenn",
@@ -114,22 +144,10 @@
     "pubDate": "Sun, 01 Feb 2026 23:25:12 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code Max(100ドル)を会社支給にするまでに考えたこと・試したことまとめ",
-    "link": "https://zenn.dev/manalink_dev/articles/claude_code_max_plan_thinking_and_compare",
-    "pubDate": "Sun, 01 Feb 2026 23:05:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "⏰Copilot Scheduler🚀 GitHub Copilot をスケジュール実行する VS Code 拡張機能を作った",
     "link": "https://qiita.com/aktsmm/items/9a90eede8f4396ef216d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-01T21:58:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScriptはなぜランタイム構文を作り、なぜ今それを取り除きつつあるのか",
-    "link": "https://zenn.dev/sonsu/articles/270319f20b0390",
-    "pubDate": "Sun, 01 Feb 2026 14:34:46 GMT"
   },
   {
     "site": "Qiita",
@@ -138,10 +156,10 @@
     "pubDate": "2026-02-01T12:47:06.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "C#erとして考える、モダンC#/.NETの2026年始の現在地とLLM時代の課題",
-    "link": "https://zenn.dev/nossa/articles/12591dab29df30",
-    "pubDate": "Sun, 01 Feb 2026 11:52:01 GMT"
+    "site": "Qiita",
+    "title": "バックエンドとフロントエンドがつながっている箇所",
+    "link": "https://qiita.com/skill_toy/items/975d74e93f73750b255d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-01T10:49:03.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "Rustを勉強して分かったC言語経験者がつまづきやすいポイント",
     "link": "https://qiita.com/denden888/items/1ae89e9d8d5c2cfa8180?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-01T03:07:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "純粋関数型言語ではconsole.log(\"Hello\")をlog \"Hello\"と書くし、foo = 42をwrite 42 fooと書く",
-    "link": "https://qiita.com/hiruberuto/items/4d8a4739cd738c425ee2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-01T01:36:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年】UIトレンドを調べてみた",
-    "link": "https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-31T14:59:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JSPを使ってシステム開発を行った結果、フロントトレンドがReact/Vueに移行した理由を身をもって知った話",
-    "link": "https://qiita.com/kimuchi_a/items/06f9c9282fbb5504b145?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-01-31T14:56:39.000Z"
   }
 ]
