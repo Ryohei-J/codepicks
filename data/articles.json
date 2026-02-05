@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "声優ら、声のAI無断複製に危惧　権利侵害訴える手立て乏しく - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUD265JV0W5A820C2000000/",
+    "pubDate": "2026-02-04T22:50:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Geminiが作ってくれた最悪なプログラミング言語「Ojisan」、最悪だが読みやすく分かりやすいという声が寄せられる",
+    "link": "https://togetter.com/li/2659959",
+    "pubDate": "2026-02-04T14:13:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "さくらのクラウド、ガバメントクラウドの条件クリアまであと3つまで到達。残りは統制やセキュリティ認証、オブジェクトストレージなどの一部に",
+    "link": "https://www.publickey1.jp/blog/26/3_8.html",
+    "pubDate": "2026-02-04T14:06:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AIが人間をレンタルできるサービスが誕生」まさにディストピアがすぐそこまで来ているのでは",
+    "link": "https://togetter.com/li/2659913",
+    "pubDate": "2026-02-04T13:28:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026年初頭のClaude Code Skillsについてまとめる",
+    "link": "https://zenn.dev/nanahiryu/articles/claude-code-skills-202601",
+    "pubDate": "2026-02-04T12:56:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "生成AIヘビーユーザーほど「残業時間が長い」　パーソル傘下調査",
     "link": "https://www.itmedia.co.jp/aiplus/articles/2602/04/news121.html",
     "pubDate": "2026-02-04T09:51:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "豪雪の時に会社のユンボを借りて善意で自宅周辺の除雪をしてあげたらちょうど作業を止めた先の家主が「なぜウチの前はやらないんだ」と激怒→善意は時に悪意に見られることもある",
-    "link": "https://togetter.com/li/2659848",
-    "pubDate": "2026-02-04T07:39:44.000Z"
+    "site": "Zenn",
+    "title": "防衛省サイバーコンテスト 2026 CTF Writeup",
+    "link": "https://zenn.dev/waki285/articles/2026-modctf-writeup",
+    "pubDate": "Wed, 04 Feb 2026 06:23:33 GMT"
   },
   {
     "site": "Hatena",
@@ -24,28 +54,22 @@
     "pubDate": "Wed, 04 Feb 2026 06:00:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude CodeやGemini CLIなどのコーディングエージェントを安全に使えるMicroiVMベースの分離環境「Docker Sandbox」。WindowsとMacに対応",
-    "link": "https://www.publickey1.jp/blog/26/dockerclaude_codegemini_climicroivmdocker_snadboxwindowsmac.html",
-    "pubDate": "2026-02-04T04:27:35.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。 - Qiita",
     "link": "https://qiita.com/yosim/items/bbc8671d4295139c6e6d",
     "pubDate": "2026-02-04T03:55:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "悪意持つAI集団が“人間のふり”で大量に会話→偽世論で情報操作　次世代プロパガンダの脅威、国際チームが警告",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/04/news025.html",
-    "pubDate": "2026-02-04T03:22:28.000Z"
+    "site": "Qiita",
+    "title": "React 19の型定義では「FC」と「ReactNodeを返す関数」が違う",
+    "link": "https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-04T03:16:02.000Z"
   },
   {
     "site": "Hatena",
-    "title": "高品質な歌唱付き楽曲を爆速生成できる音楽生成AI「ACE-Step 1.5」が登場、VRAM容量4GB未満のPCでローカル実行可能でLoRAにも対応",
-    "link": "https://gigazine.net/news/20260204-ace-step-music-generation/",
-    "pubDate": "2026-02-04T02:30:39.000Z"
+    "title": "Claude Codeの性能を引き出すワークフロー設計 - エス・エム・エス エンジニア テックブログ",
+    "link": "https://tech.bm-sms.co.jp/entry/2026/02/04/110000",
+    "pubDate": "2026-02-04T02:50:41.000Z"
   },
   {
     "site": "Qiita",
@@ -54,16 +78,16 @@
     "pubDate": "2026-02-04T00:54:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "外部キー制約の知っておいて欲しいこと - RDBMSを正しく使うために必要なこと / FOREIGN KEY Night",
-    "link": "https://speakerdeck.com/soudai/foreign-key-night",
-    "pubDate": "2026-02-04T00:15:02.000Z"
+    "site": "Zenn",
+    "title": "CodeX のデスクトップアプリを触ってみた",
+    "link": "https://zenn.dev/tech_discovery/articles/5cc17a4f6880bc",
+    "pubDate": "Wed, 04 Feb 2026 00:30:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIは速いのに、人間が遅い？ Claude Codeをさらに加速させる私の「推しツール」 - Findy Media",
-    "link": "https://findy-code.io/media/articles/aisaji-tonkotsuboy_com",
-    "pubDate": "2026-02-03T23:33:19.000Z"
+    "site": "Zenn",
+    "title": "FDEっぽいことして学んだ、AIの「精度向上」の心得",
+    "link": "https://zenn.dev/kiva/articles/4eb59207a9a82a",
+    "pubDate": "Wed, 04 Feb 2026 00:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -73,9 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AI製品のQAって何するの？レッドチーミング「6軸」で挑む、一歩踏んだ安全性の守り方",
-    "link": "https://zenn.dev/r_sasaki/articles/14d72d10ac25bd",
-    "pubDate": "Tue, 03 Feb 2026 21:45:02 GMT"
+    "title": "[AWS] VPCエンドポイントを作っただけなのに",
+    "link": "https://zenn.dev/agent_grow/articles/bbcf406a1fbc13",
+    "pubDate": "Tue, 03 Feb 2026 23:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -84,10 +108,22 @@
     "pubDate": "2026-02-03T13:45:03.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Code Hooksを遊び倒す｜海外勢のネタ設定が面白すぎた",
+    "link": "https://zenn.dev/kki2ne/articles/claude-code-hooks-unique-use-cases-2026",
+    "pubDate": "Tue, 03 Feb 2026 11:59:23 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "2026年、AWS LambdaはVSCodeで開発するのがナウい",
     "link": "https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-03T11:52:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【続編】WindowsアプリUI開発はもうつらくない！ Blazor × Tailwind CSS完全版",
+    "link": "https://zenn.dev/wogo_techblog/articles/a51dee31b0c90e",
+    "pubDate": "Tue, 03 Feb 2026 10:01:05 GMT"
   },
   {
     "site": "Qiita",
@@ -109,9 +145,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AI部下8人を同時テストしたら1人が全員分片付け、管理職が隠蔽してたので「令和なめんな」と詰めたら倍返しで反省をOSSに入れたいと言い出した",
-    "link": "https://zenn.dev/shio_shoppaize/articles/8ffa42a88d426a",
-    "pubDate": "Tue, 03 Feb 2026 05:00:06 GMT"
+    "title": "Homebrewはもう古い。MacPortsという選択肢を本気で推したい",
+    "link": "https://zenn.dev/yamitake/articles/macports-better-than-homebrew",
+    "pubDate": "Tue, 03 Feb 2026 06:44:52 GMT"
   },
   {
     "site": "Qiita",
@@ -120,63 +156,27 @@
     "pubDate": "2026-02-03T03:53:59.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "防衛省サイバーコンテスト2026 Writeup",
-    "link": "https://zenn.dev/saku0512/articles/e33e6df540df45",
-    "pubDate": "Mon, 02 Feb 2026 14:58:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "技術負債も理解負債も生まないAIコーディング手法（2026年2月現在）",
-    "link": "https://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices",
-    "pubDate": "Mon, 02 Feb 2026 11:01:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コンポーネントの「ウォーターフォール問題」をどう解決するか by React開発者 Dan Abramov氏",
-    "link": "https://zenn.dev/dragon1208/articles/5ed0277f280e71",
-    "pubDate": "Mon, 02 Feb 2026 10:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code Skillsがわからなくて焦った僕が、最初に考えるべきだったこと",
-    "link": "https://zenn.dev/tokium_dev/articles/1f0c83eb3dd72d",
-    "pubDate": "Mon, 02 Feb 2026 06:55:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【LLM】社内文書をセキュアに検索！OllamaとOpen WebUIで構築する完全無料・RAG環境",
-    "link": "https://zenn.dev/shineos/articles/local-llm-rag-web-search-with-ollama",
-    "pubDate": "Mon, 02 Feb 2026 02:58:05 GMT"
+    "site": "Qiita",
+    "title": "URLだけで進捗共有できるタスク管理ツールを作った話（社内チャット向け）",
+    "link": "https://qiita.com/uni928/items/2f92ad7f7bee9f4b9f51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-03T03:18:03.000Z"
   },
   {
     "site": "Qiita",
-    "title": "エンジニアの経験が伝わる職務経歴書を書く - シーキューブモデル",
-    "link": "https://qiita.com/newta/items/248390917376fc96e51d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-02T00:04:47.000Z"
+    "title": "Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。",
+    "link": "https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-03T02:25:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Qiitaでの発信をきっかけに書籍を出版しました",
+    "link": "https://qiita.com/c60evaporator/items/9c7bd5791f33b2c034cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-02T23:26:05.000Z"
   },
   {
     "site": "Qiita",
     "title": "Windows アプリの開発手段の選択肢をまとめてみたの続き",
     "link": "https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-02T00:00:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Codex CLI猛進。Github Copilotと大差。　～データで見る2026年1月のAI Codingの動向まとめ～",
-    "link": "https://qiita.com/kotauchisunsun/items/a8409d108cae24888ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-01T12:47:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "バックエンドとフロントエンドがつながっている箇所",
-    "link": "https://qiita.com/skill_toy/items/975d74e93f73750b255d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-01T10:49:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "開発者はAIを使うと24％速くなると考えているが実際には約20％遅いという主張について調べた件",
-    "link": "https://qiita.com/morry_48/items/a4c5d048f6fb662ebbba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-01T09:20:28.000Z"
   }
 ]
