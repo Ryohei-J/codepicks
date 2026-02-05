@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "ChromeOSは2034年に段階的廃止へ…GoogleのOS開発計画、裁判所への提出書類から判明【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2083598.html",
+    "pubDate": "2026-02-05T02:51:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "任天堂、好決算でも株価急落……Google「ゲーム生成AI」の衝撃、唯一無二のゲームブランドを脅かすか",
+    "link": "https://www.itmedia.co.jp/business/articles/2602/05/news030.html",
+    "pubDate": "2026-02-05T01:23:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "声優ら、声のAI無断複製に危惧　権利侵害訴える手立て乏しく - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUD265JV0W5A820C2000000/",
     "pubDate": "2026-02-04T22:50:28.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Geminiが作ってくれた最悪なプログラミング言語「Ojisan」、最悪だが読みやすく分かりやすいという声が寄せられる",
-    "link": "https://togetter.com/li/2659959",
-    "pubDate": "2026-02-04T14:13:11.000Z"
+    "title": "｢日報をAIに丸投げ｣した新人の1年後の悲惨な末路　日報はなぜあるのか？　AIを｢使うな｣ではなく｢使い方を考える｣必要がある",
+    "link": "https://toyokeizai.net/articles/-/933473?display=b",
+    "pubDate": "2026-02-04T22:21:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "データの整合性を保ちたいだけなんだ",
+    "link": "https://speakerdeck.com/shoheimitani/foreign-key-checks",
+    "pubDate": "2026-02-04T22:20:19.000Z"
   },
   {
     "site": "Hatena",
@@ -42,22 +60,16 @@
     "pubDate": "Wed, 04 Feb 2026 06:23:33 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Cursor開発チームが明かす、コーディングエージェントの7つのベストプラクティス",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/04/news056.html",
-    "pubDate": "2026-02-04T06:05:30.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【インターン 2025】~ Finatext ~",
     "link": "https://zenn.dev/ahiru75/articles/e865848bdea632",
     "pubDate": "Wed, 04 Feb 2026 06:00:02 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。 - Qiita",
-    "link": "https://qiita.com/yosim/items/bbc8671d4295139c6e6d",
-    "pubDate": "2026-02-04T03:55:50.000Z"
+    "site": "Zenn",
+    "title": "ちょっと社でアンケートとってみた - State of chot Inc. 2025",
+    "link": "https://zenn.dev/chot/articles/state-of-chot-inc-2025",
+    "pubDate": "Wed, 04 Feb 2026 04:07:42 GMT"
   },
   {
     "site": "Qiita",
@@ -102,12 +114,6 @@
     "pubDate": "Tue, 03 Feb 2026 23:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Obsidian引退しました｜すぅ | AI駆動PM",
-    "link": "https://note.com/suh_sunaneko/n/nad82181288b2",
-    "pubDate": "2026-02-03T13:45:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code Hooksを遊び倒す｜海外勢のネタ設定が面白すぎた",
     "link": "https://zenn.dev/kki2ne/articles/claude-code-hooks-unique-use-cases-2026",
@@ -126,6 +132,12 @@
     "pubDate": "Tue, 03 Feb 2026 10:01:05 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "【神コラボ】Googleの城(Antigravity)にライバルのClaude Codeを召喚したら、Geminiが神対応してくれた話✨",
+    "link": "https://zenn.dev/miki_mini/articles/a591e9d6954600",
+    "pubDate": "Tue, 03 Feb 2026 09:56:25 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Codeを使用する上で設定したほうが良いファイル5選",
     "link": "https://qiita.com/TatApp/items/6618c025de5715ed35d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,18 +148,6 @@
     "title": "AIがコードを書く時代、人はドキュメントだけレビューすればいい？ → ドキュメント更新も漏れるじゃん",
     "link": "https://zenn.dev/abalol/articles/e5801899c468b0",
     "pubDate": "Tue, 03 Feb 2026 07:20:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエンジニアがLangChainを推奨しない理由",
-    "link": "https://zenn.dev/genshi_ai/articles/166cf652723496",
-    "pubDate": "Tue, 03 Feb 2026 06:48:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Homebrewはもう古い。MacPortsという選択肢を本気で推したい",
-    "link": "https://zenn.dev/yamitake/articles/macports-better-than-homebrew",
-    "pubDate": "Tue, 03 Feb 2026 06:44:52 GMT"
   },
   {
     "site": "Qiita",
