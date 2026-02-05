@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "HDD大手メーカー、なんと「読み書き速度4倍」となる新技術発表。お値段急騰中のSSDの“代わり”を目指す - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/hdd-20260205-416397/",
+    "pubDate": "2026-02-05T07:09:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "現在のパスキーは単一障害点である",
+    "link": "https://zenn.dev/malt03/articles/3f5dbee5301ddd",
+    "pubDate": "2026-02-05T05:53:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「×」ボタンをタップしても消えない――「UI偽装広告」が壊すデジタル社会の常識",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/04/news050.html",
+    "pubDate": "2026-02-05T05:37:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ChromeOSは2034年に段階的廃止へ…GoogleのOS開発計画、裁判所への提出書類から判明【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2083598.html",
     "pubDate": "2026-02-05T02:51:48.000Z"
   },
   {
     "site": "Hatena",
-    "title": "任天堂、好決算でも株価急落……Google「ゲーム生成AI」の衝撃、唯一無二のゲームブランドを脅かすか",
-    "link": "https://www.itmedia.co.jp/business/articles/2602/05/news030.html",
-    "pubDate": "2026-02-05T01:23:05.000Z"
+    "title": "Gemini新機能「プロジェクト」展開へ",
+    "link": "https://jetstream.blog/satellite/gemini-new-feature-projects-coming-soon/",
+    "pubDate": "2026-02-05T02:07:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアは、なぜ生成AIで仕事が楽にならないのか",
+    "link": "https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-05T01:29:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜJavaのジェネリクスの型推論は同じ型を強制しないのか",
+    "link": "https://zenn.dev/nstock/articles/java-generics-lub-type-inference",
+    "pubDate": "Thu, 05 Feb 2026 01:24:10 GMT"
   },
   {
     "site": "Hatena",
@@ -30,16 +60,16 @@
     "pubDate": "2026-02-04T22:20:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "さくらのクラウド、ガバメントクラウドの条件クリアまであと3つまで到達。残りは統制やセキュリティ認証、オブジェクトストレージなどの一部に",
-    "link": "https://www.publickey1.jp/blog/26/3_8.html",
-    "pubDate": "2026-02-04T14:06:52.000Z"
+    "site": "Qiita",
+    "title": "最近の GitHub の AI 周りのまとめ in Microsoft AI Tour in Mumbai 基調講演デモ (2025年12月版)",
+    "link": "https://qiita.com/chomado/items/9e2d2b3f9ef6a40a83d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-04T15:46:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「AIが人間をレンタルできるサービスが誕生」まさにディストピアがすぐそこまで来ているのでは",
-    "link": "https://togetter.com/li/2659913",
-    "pubDate": "2026-02-04T13:28:12.000Z"
+    "site": "Zenn",
+    "title": "現在のパスキーは単一障害点である",
+    "link": "https://zenn.dev/malt03/articles/3f5dbee5301ddd",
+    "pubDate": "Wed, 04 Feb 2026 14:58:00 GMT"
   },
   {
     "site": "Zenn",
@@ -48,28 +78,28 @@
     "pubDate": "2026-02-04T12:56:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIヘビーユーザーほど「残業時間が長い」　パーソル傘下調査",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/04/news121.html",
-    "pubDate": "2026-02-04T09:51:22.000Z"
+    "site": "Qiita",
+    "title": "【Claude Code】 /insights コマンドがおもしろい",
+    "link": "https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-04T10:51:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Ghostty + lazygit + Claude Code 構成に憧れて挫折し、VSCodeにタブバーを生やした",
+    "link": "https://zenn.dev/yukih/articles/33cba73b2e62dc",
+    "pubDate": "Wed, 04 Feb 2026 10:37:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "tmux使いが全員Zellijに乗り換える日が来た",
+    "link": "https://zenn.dev/hirokitakamura/articles/zellij-complete-guide",
+    "pubDate": "Wed, 04 Feb 2026 10:00:51 GMT"
   },
   {
     "site": "Zenn",
     "title": "防衛省サイバーコンテスト 2026 CTF Writeup",
     "link": "https://zenn.dev/waki285/articles/2026-modctf-writeup",
     "pubDate": "Wed, 04 Feb 2026 06:23:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【インターン 2025】~ Finatext ~",
-    "link": "https://zenn.dev/ahiru75/articles/e865848bdea632",
-    "pubDate": "Wed, 04 Feb 2026 06:00:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ちょっと社でアンケートとってみた - State of chot Inc. 2025",
-    "link": "https://zenn.dev/chot/articles/state-of-chot-inc-2025",
-    "pubDate": "Wed, 04 Feb 2026 04:07:42 GMT"
   },
   {
     "site": "Qiita",
@@ -102,12 +132,6 @@
     "pubDate": "Wed, 04 Feb 2026 00:00:05 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "UIデザインから実装までをAIエージェントに丸投げしてみた（ChatGPT → Google Stitch → Antigravity × Claude Opus 4.5）",
-    "link": "https://qiita.com/kunitomo926/items/205aa17d0acc88a34bf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-03T23:21:15.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "[AWS] VPCエンドポイントを作っただけなのに",
     "link": "https://zenn.dev/agent_grow/articles/bbcf406a1fbc13",
@@ -132,24 +156,6 @@
     "pubDate": "Tue, 03 Feb 2026 10:01:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【神コラボ】Googleの城(Antigravity)にライバルのClaude Codeを召喚したら、Geminiが神対応してくれた話✨",
-    "link": "https://zenn.dev/miki_mini/articles/a591e9d6954600",
-    "pubDate": "Tue, 03 Feb 2026 09:56:25 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeを使用する上で設定したほうが良いファイル5選",
-    "link": "https://qiita.com/TatApp/items/6618c025de5715ed35d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-03T09:28:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIがコードを書く時代、人はドキュメントだけレビューすればいい？ → ドキュメント更新も漏れるじゃん",
-    "link": "https://zenn.dev/abalol/articles/e5801899c468b0",
-    "pubDate": "Tue, 03 Feb 2026 07:20:34 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【前編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”",
     "link": "https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "Qiitaでの発信をきっかけに書籍を出版しました",
     "link": "https://qiita.com/c60evaporator/items/9c7bd5791f33b2c034cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-02T23:26:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Windows アプリの開発手段の選択肢をまとめてみたの続き",
-    "link": "https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-02T00:00:06.000Z"
   }
 ]
