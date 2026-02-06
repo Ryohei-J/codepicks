@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "「いちばん脂が乗っていた初期『カルドセプト』のバランスや規模感、ゲームフィール」を取り戻したい」──約10年ぶりの完全新作『カルドセプト ビギンズ』は「『カルドセプト』を新しく変えたい」という熱意から生まれた【開発者インタビュー】",
+    "link": "https://news.denfaminicogamer.jp/interview/260206x",
+    "pubDate": "2026-02-06T02:56:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「SaaSの死」震源、アンソロピックが新AI　財務分析やパワポ自動化 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN05D2T0V00C26A2000000/",
+    "pubDate": "2026-02-05T23:43:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【特集】 床置き派の宿命「ホコリ」を断つ。デスク天板下を活用したPC吊り下げの秘技を見せる",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2083786.html",
     "pubDate": "2026-02-05T21:34:38.000Z"
@@ -10,6 +22,12 @@
     "title": "Anthropicが教える\"AIエージェントの正しい作り方\"——5つの設計パターンを図解してみた｜みさき",
     "link": "https://note.com/bright_jacana710/n/nfef9c469db84",
     "pubDate": "2026-02-05T21:25:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米AI兵器で「無人地獄」計画　台湾防衛の切り札か、人類滅亡の序章か - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN28CW30Y6A120C2000000/",
+    "pubDate": "2026-02-05T20:34:56.000Z"
   },
   {
     "site": "Zenn",
@@ -24,6 +42,12 @@
     "pubDate": "Thu, 05 Feb 2026 09:27:33 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Gemini API のコストを最適化する方法",
+    "link": "https://zenn.dev/google_cloud_jp/articles/0e7a7bd1573dfb",
+    "pubDate": "Thu, 05 Feb 2026 09:15:01 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "新しい日本語入力システム「Copilot Keyboard」が32bit対応、キーボードショートカットも充実／月単位で定期的な更新を実施し、継続的な改善へ",
     "link": "https://forest.watch.impress.co.jp/docs/news/2083823.html",
@@ -36,22 +60,10 @@
     "pubDate": "2026-02-05T08:27:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "2026年版：生成AIでvibe codingの時代にこそお薦めしたい、データ分析を仕事にするなら読んでおくべき書籍リスト - 渋谷駅前で働くデータサイエンティストのブログ",
-    "link": "https://tjo.hatenablog.com/entry/2026/02/05/170000",
-    "pubDate": "2026-02-05T08:13:48.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【優勝🥇】防衛省サイバーコンテストをAIで攻略した話 - Qiita",
     "link": "https://qiita.com/satoki/items/955302bf2615813bae5a",
     "pubDate": "2026-02-05T08:02:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "HDD大手メーカー、なんと「読み書き速度4倍」となる新技術発表。お値段急騰中のSSDの“代わり”を目指す - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/hdd-20260205-416397/",
-    "pubDate": "2026-02-05T07:09:44.000Z"
   },
   {
     "site": "Qiita",
@@ -67,15 +79,9 @@
   },
   {
     "site": "Zenn",
-    "title": "現在のパスキーは単一障害点である",
-    "link": "https://zenn.dev/malt03/articles/3f5dbee5301ddd",
-    "pubDate": "2026-02-05T05:53:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「×」ボタンをタップしても消えない――「UI偽装広告」が壊すデジタル社会の常識",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/04/news050.html",
-    "pubDate": "2026-02-05T05:37:33.000Z"
+    "title": "AWSインフラ設計のベストプラクティスを目指して(CI/CD編)",
+    "link": "https://zenn.dev/so_engineer/articles/6dec2a617f5553",
+    "pubDate": "Thu, 05 Feb 2026 05:17:34 GMT"
   },
   {
     "site": "Qiita",
@@ -94,6 +100,12 @@
     "title": "Claude Codeに乗り遅れたあなたへ。Open CodeとGithub CopilotとVSCode（期間限定kimi k2.5）",
     "link": "https://zenn.dev/kiva/articles/7be372e4783248",
     "pubDate": "Wed, 04 Feb 2026 22:10:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Opus 4.6",
+    "link": "https://www.anthropic.com/news/claude-opus-4-6",
+    "pubDate": "2026-02-04T17:24:53.000Z"
   },
   {
     "site": "Qiita",
@@ -115,7 +127,7 @@
   },
   {
     "site": "Zenn",
-    "title": "Ghostty + lazygit + Claude Code 構成に憧れて挫折し、VSCodeにタブバーを生やした",
+    "title": "Ghostty + zellij + lazygit + Claude Code 構成に憧れて挫折し、VSCodeにタブバーを生やした",
     "link": "https://zenn.dev/yukih/articles/33cba73b2e62dc",
     "pubDate": "Wed, 04 Feb 2026 10:37:29 GMT"
   },
@@ -127,15 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "防衛省サイバーコンテスト 2026 CTF Writeup",
-    "link": "https://zenn.dev/waki285/articles/2026-modctf-writeup",
-    "pubDate": "Wed, 04 Feb 2026 06:23:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ちょっと社でアンケートとってみた - State of chot Inc. 2025",
-    "link": "https://zenn.dev/chot/articles/state-of-chot-inc-2025",
-    "pubDate": "Wed, 04 Feb 2026 04:07:42 GMT"
+    "title": "Codex appが公開されたが、Codex Monitorもいいぞ",
+    "link": "https://zenn.dev/explaza/articles/f0e21f367810c2",
+    "pubDate": "Wed, 04 Feb 2026 08:32:49 GMT"
   },
   {
     "site": "Qiita",
@@ -148,12 +154,6 @@
     "title": "AIエージェントと協働するオフィスワーク2026",
     "link": "https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-04T00:54:55.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CodeX のデスクトップアプリを触ってみた",
-    "link": "https://zenn.dev/tech_discovery/articles/5cc17a4f6880bc",
-    "pubDate": "Wed, 04 Feb 2026 00:30:01 GMT"
   },
   {
     "site": "Qiita",
