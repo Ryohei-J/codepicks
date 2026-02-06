@@ -1,5 +1,47 @@
 [
   {
+    "site": "Hatena",
+    "title": "【特集】 床置き派の宿命「ホコリ」を断つ。デスク天板下を活用したPC吊り下げの秘技を見せる",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2083786.html",
+    "pubDate": "2026-02-05T21:34:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropicが教える\"AIエージェントの正しい作り方\"——5つの設計パターンを図解してみた｜みさき",
+    "link": "https://note.com/bright_jacana710/n/nfef9c469db84",
+    "pubDate": "2026-02-05T21:25:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "EUでバックエンドエンジニアとして転職活動した記録（応募数・通過率・面接対策まとめ）",
+    "link": "https://zenn.dev/katsulau/articles/f745af2c36a2bd",
+    "pubDate": "Thu, 05 Feb 2026 12:17:12 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Web 標準動向 2026年1月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202601",
+    "pubDate": "Thu, 05 Feb 2026 09:27:33 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "新しい日本語入力システム「Copilot Keyboard」が32bit対応、キーボードショートカットも充実／月単位で定期的な更新を実施し、継続的な改善へ",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2083823.html",
+    "pubDate": "2026-02-05T09:07:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアは、なぜ生成AIで仕事が楽にならないのか - Qiita",
+    "link": "https://qiita.com/KYoshiyama/items/14554853372f33c3374b",
+    "pubDate": "2026-02-05T08:27:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2026年版：生成AIでvibe codingの時代にこそお薦めしたい、データ分析を仕事にするなら読んでおくべき書籍リスト - 渋谷駅前で働くデータサイエンティストのブログ",
+    "link": "https://tjo.hatenablog.com/entry/2026/02/05/170000",
+    "pubDate": "2026-02-05T08:13:48.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【優勝🥇】防衛省サイバーコンテストをAIで攻略した話 - Qiita",
     "link": "https://qiita.com/satoki/items/955302bf2615813bae5a",
@@ -10,6 +52,12 @@
     "title": "HDD大手メーカー、なんと「読み書き速度4倍」となる新技術発表。お値段急騰中のSSDの“代わり”を目指す - AUTOMATON",
     "link": "https://automaton-media.com/articles/newsjp/hdd-20260205-416397/",
     "pubDate": "2026-02-05T07:09:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【優勝🥇】防衛省サイバーコンテストをAIで攻略した話",
+    "link": "https://qiita.com/satoki/items/955302bf2615813bae5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-05T06:28:52.000Z"
   },
   {
     "site": "Hatena",
@@ -30,24 +78,6 @@
     "pubDate": "2026-02-05T05:37:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "たった一日で43兆円が消えた日　Anthropic「Cowork」が揺るがしたSaaS神話",
-    "link": "https://www.itmedia.co.jp/business/articles/2602/05/news067.html",
-    "pubDate": "2026-02-05T03:02:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChromeOSは2034年に段階的廃止へ…GoogleのOS開発計画、裁判所への提出書類から判明【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2083598.html",
-    "pubDate": "2026-02-05T02:51:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemini新機能「プロジェクト」展開へ",
-    "link": "https://jetstream.blog/satellite/gemini-new-feature-projects-coming-soon/",
-    "pubDate": "2026-02-05T02:07:52.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアは、なぜ生成AIで仕事が楽にならないのか",
     "link": "https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -60,10 +90,10 @@
     "pubDate": "Thu, 05 Feb 2026 01:24:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "｢日報をAIに丸投げ｣した新人の1年後の悲惨な末路　日報はなぜあるのか？　AIを｢使うな｣ではなく｢使い方を考える｣必要がある",
-    "link": "https://toyokeizai.net/articles/-/933473?display=b",
-    "pubDate": "2026-02-04T22:21:00.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeに乗り遅れたあなたへ。Open CodeとGithub CopilotとVSCode（期間限定kimi k2.5）",
+    "link": "https://zenn.dev/kiva/articles/7be372e4783248",
+    "pubDate": "Wed, 04 Feb 2026 22:10:01 GMT"
   },
   {
     "site": "Qiita",
@@ -76,12 +106,6 @@
     "title": "現在のパスキーは単一障害点である",
     "link": "https://zenn.dev/malt03/articles/3f5dbee5301ddd",
     "pubDate": "Wed, 04 Feb 2026 14:58:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026年初頭のClaude Code Skillsについてまとめる",
-    "link": "https://zenn.dev/nanahiryu/articles/claude-code-skills-202601",
-    "pubDate": "2026-02-04T12:56:37.000Z"
   },
   {
     "site": "Qiita",
@@ -108,6 +132,12 @@
     "pubDate": "Wed, 04 Feb 2026 06:23:33 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ちょっと社でアンケートとってみた - State of chot Inc. 2025",
+    "link": "https://zenn.dev/chot/articles/state-of-chot-inc-2025",
+    "pubDate": "Wed, 04 Feb 2026 04:07:42 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "React 19の型定義では「FC」と「ReactNodeを返す関数」が違う",
     "link": "https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -126,34 +156,16 @@
     "pubDate": "Wed, 04 Feb 2026 00:30:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "FDEっぽいことして学んだ、AIの「精度向上」の心得",
-    "link": "https://zenn.dev/kiva/articles/4eb59207a9a82a",
-    "pubDate": "Wed, 04 Feb 2026 00:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[AWS] VPCエンドポイントを作っただけなのに",
-    "link": "https://zenn.dev/agent_grow/articles/bbcf406a1fbc13",
-    "pubDate": "Tue, 03 Feb 2026 23:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code Hooksを遊び倒す｜海外勢のネタ設定が面白すぎた",
-    "link": "https://zenn.dev/kki2ne/articles/claude-code-hooks-unique-use-cases-2026",
-    "pubDate": "Tue, 03 Feb 2026 11:59:23 GMT"
+    "site": "Qiita",
+    "title": "【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥",
+    "link": "https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-04T00:19:44.000Z"
   },
   {
     "site": "Qiita",
     "title": "2026年、AWS LambdaはVSCodeで開発するのがナウい",
     "link": "https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-03T11:52:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【続編】WindowsアプリUI開発はもうつらくない！ Blazor × Tailwind CSS完全版",
-    "link": "https://zenn.dev/wogo_techblog/articles/a51dee31b0c90e",
-    "pubDate": "Tue, 03 Feb 2026 10:01:05 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "URLだけで進捗共有できるタスク管理ツールを作った話（社内チャット向け）",
-    "link": "https://qiita.com/uni928/items/2f92ad7f7bee9f4b9f51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-03T03:18:03.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。",
     "link": "https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-03T02:25:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Qiitaでの発信をきっかけに書籍を出版しました",
-    "link": "https://qiita.com/c60evaporator/items/9c7bd5791f33b2c034cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-02T23:26:05.000Z"
   }
 ]
