@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "チームみらいは誰の声を聞いているのか——オードリー・タンとの分岐点",
+    "link": "https://okadaasa.theletter.jp/posts/5c5f5c60-9c33-4311-832b-c78cc34efcd8",
+    "pubDate": "2026-02-06T23:59:08.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "KDDI子会社が巨額の架空取引 330億円が闇に消える",
     "link": "https://www.watch.impress.co.jp/docs/news/2084288.html",
     "pubDate": "2026-02-06T14:05:31.000Z"
@@ -13,9 +19,33 @@
   },
   {
     "site": "Zenn",
+    "title": "GPT5.3-codex vs Opus4.6 をセンサーフュージョンシミュレーション課題で比較",
+    "link": "https://zenn.dev/cybernetics/articles/8e536d508d26be",
+    "pubDate": "Fri, 06 Feb 2026 10:59:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Bit - Git 互換のAIサンドボックス",
+    "link": "https://zenn.dev/mizchi/articles/introduce-bit-by-moonbit",
+    "pubDate": "Fri, 06 Feb 2026 10:53:40 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Metaの精鋭エンジニアたちが「設計の最適解」を導くために頼る一冊。世界規模の開発を支えるシステム設計のバイブル - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/30384/",
+    "pubDate": "2026-02-06T10:41:25.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "3,980円のカメラでClaude Codeに「身体」を与えてみた",
     "link": "https://zenn.dev/nextbeat/articles/2026-02-embodied-claude",
     "pubDate": "2026-02-06T10:23:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Ruby on Rails】name:と:nameはなにが違うのか？素通りしがちなコロンの意味",
+    "link": "https://qiita.com/shibata1111/items/12b678e12882db74041c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-06T09:49:59.000Z"
   },
   {
     "site": "Hatena",
@@ -25,9 +55,15 @@
   },
   {
     "site": "Hatena",
-    "title": "ちょっと待って、これ荒木飛呂彦先生16歳の時の学祭の女装ってマジ？いやいや美しすぎんか、いやいや…マジ？「AIでしょ？」「Jyoshi立ち」",
-    "link": "https://togetter.com/li/2660615",
-    "pubDate": "2026-02-06T08:01:18.000Z"
+    "title": "Googleフォトを開いたら例のお節介機能で数日前に起きた悲惨極まりない写真がピックアップされブチギレ「思い出を振り返りましょうじゃねえんだよ💢💢💢」",
+    "link": "https://togetter.com/li/2660566",
+    "pubDate": "2026-02-06T08:30:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Agent Teamsが来た！さっそく使い倒して自前のOSSを滅ぼそうと思ったら……？",
+    "link": "https://zenn.dev/nrs/articles/68840349bbdd8c",
+    "pubDate": "Fri, 06 Feb 2026 08:11:47 GMT"
   },
   {
     "site": "Zenn",
@@ -36,16 +72,22 @@
     "pubDate": "Fri, 06 Feb 2026 07:08:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "iPodの発案者｢AppleはiPodを復活させるべき。理由は2つあるよ｣",
-    "link": "https://www.gizmodo.jp/2026/02/tony-fadell-ipod.html",
-    "pubDate": "2026-02-06T05:56:49.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code Agent Teams を試す：複数AIエージェントの協調作業",
     "link": "https://qiita.com/nero-15/items/c12a9403a7d7673ae432?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-06T04:07:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【海外記事紹介】Microsoftがオープンソースで公開した「LiteBox」が実は革新的だった — Linuxカーネルを抽象化したRust製「ライブラリOS」、セキュアで高速なサンドボックスを実現",
+    "link": "https://techfeed.io/entries/69856135bf1c6338a73ae7f4",
+    "pubDate": "2026-02-06T03:40:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Unity】モバイル端末スペックを判定するロジック",
+    "link": "https://qiita.com/TatApp/items/9839f5e2fe4d6f966d14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-06T02:25:37.000Z"
   },
   {
     "site": "Qiita",
@@ -67,21 +109,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Opus 4.6がリリース。エージェント性能とロングコンテキストが大幅進化",
-    "link": "https://zenn.dev/kei31ai/articles/20260206-claude-opus-4-6",
-    "pubDate": "Thu, 05 Feb 2026 22:32:46 GMT"
+    "title": "【徹底解説】BigQuery「Conversational Analytics」登場！既存のAI分析ツールと何が違うのか？",
+    "link": "https://zenn.dev/google_cloud_jp/articles/6232563a07205d",
+    "pubDate": "2026-02-05T19:25:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Anthropicが教える\"AIエージェントの正しい作り方\"——5つの設計パターンを図解してみた｜みさき",
-    "link": "https://note.com/bright_jacana710/n/nfef9c469db84",
-    "pubDate": "2026-02-05T21:25:26.000Z"
+    "site": "Zenn",
+    "title": "VSCode卒業？次世代エディタ「Zed」を触って感じた、エンジニアとしての思考の速度",
+    "link": "https://zenn.dev/yuukikawabata/articles/zed-editor-impression",
+    "pubDate": "Thu, 05 Feb 2026 12:44:28 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI要約だけ見て「検索終了」は6割超　ドコモ調査",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/05/news131.html",
-    "pubDate": "2026-02-05T15:19:18.000Z"
+    "site": "Zenn",
+    "title": "GPUのない場所で作るレンダラー：C++とSIMDで積み上げるグラフィックス数学",
+    "link": "https://zenn.dev/shika_gfx/books/shika-graphics-math-cpp",
+    "pubDate": "Thu, 05 Feb 2026 12:37:31 GMT"
   },
   {
     "site": "Zenn",
@@ -102,28 +144,10 @@
     "pubDate": "Thu, 05 Feb 2026 09:27:33 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Gemini API のコストを最適化する方法",
-    "link": "https://zenn.dev/google_cloud_jp/articles/0e7a7bd1573dfb",
-    "pubDate": "Thu, 05 Feb 2026 09:15:01 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアは、なぜ生成AIで仕事が楽にならないのか - Qiita",
-    "link": "https://qiita.com/KYoshiyama/items/14554853372f33c3374b",
-    "pubDate": "2026-02-05T08:27:28.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【優勝🥇】防衛省サイバーコンテストをAIで攻略した話",
     "link": "https://qiita.com/satoki/items/955302bf2615813bae5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-05T06:28:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWSインフラ設計のベストプラクティスを目指して(CI/CD編)",
-    "link": "https://zenn.dev/so_engineer/articles/6dec2a617f5553",
-    "pubDate": "Thu, 05 Feb 2026 05:17:34 GMT"
   },
   {
     "site": "Qiita",
@@ -132,34 +156,16 @@
     "pubDate": "2026-02-05T01:29:55.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "なぜJavaのジェネリクスの型推論は同じ型を強制しないのか",
-    "link": "https://zenn.dev/nstock/articles/java-generics-lub-type-inference",
-    "pubDate": "Thu, 05 Feb 2026 01:24:10 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "オブジェクト指向の基本を押さえる",
     "link": "https://qiita.com/y-yugeta/items/985fb9b9a91e08dea989?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-05T01:14:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeに乗り遅れたあなたへ。Open CodeとGithub CopilotとVSCode（期間限定kimi k2.5）",
-    "link": "https://zenn.dev/kiva/articles/7be372e4783248",
-    "pubDate": "Wed, 04 Feb 2026 22:10:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Claude Code】 /insights コマンドがおもしろい",
     "link": "https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-04T10:51:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェントと協働するオフィスワーク2026",
-    "link": "https://qiita.com/hirokidaichi/items/382920eb22ed3e645257?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-04T00:54:55.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換） ",
     "link": "https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-04T00:04:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2026年、AWS LambdaはVSCodeで開発するのがナウい",
-    "link": "https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-03T11:52:34.000Z"
   }
 ]
