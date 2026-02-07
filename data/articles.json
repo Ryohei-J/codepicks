@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "トヨタが独自の“ゲームエンジン”「Fluorite」を開発：FlutterとDartで次世代デジタルコクピットを再定義 | XenoSpectrum",
+    "link": "https://xenospectrum.com/toyota-fluorite-flutter-game-engine-digital-cockpit/",
+    "pubDate": "2026-02-07T05:12:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Opus4.6はどのようにPPTXを生成しているか",
+    "link": "https://zenn.dev/microsoft/articles/how-the-claude-opus46-generate-pptx",
+    "pubDate": "Sat, 07 Feb 2026 04:01:48 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "セキュリティを大幅強化、驚きを隠せない次期「Ubuntu 26.04」の全容",
     "link": "https://japan.zdnet.com/article/35243565/",
     "pubDate": "2026-02-07T02:56:34.000Z"
@@ -19,9 +31,27 @@
   },
   {
     "site": "Hatena",
-    "title": "KDDI子会社が巨額の架空取引 330億円が闇に消える",
-    "link": "https://www.watch.impress.co.jp/docs/news/2084288.html",
-    "pubDate": "2026-02-06T14:05:31.000Z"
+    "title": "Claude in Excel でExcel方眼紙とMarkdownを相互に変換してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claude-in-excel-excel-markdown/",
+    "pubDate": "2026-02-06T23:57:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.js がやってくれていたこと全部、自分でやってみた",
+    "link": "https://zenn.dev/ashunar0/articles/2b6c77e2fe251d",
+    "pubDate": "Fri, 06 Feb 2026 13:16:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Opus 4.6 × Vertex AI 完全ガイド：Claude Code を GCP でセキュアに使い倒す",
+    "link": "https://zenn.dev/google_cloud_jp/articles/b65dc4d6df7f34",
+    "pubDate": "Fri, 06 Feb 2026 12:01:02 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Claude Code 2.1.33】memory frontmatterでサブエージェントに\"記憶\"を持たせてみた",
+    "link": "https://qiita.com/Aochan0604/items/f3f8a6ebc44613717f7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-06T11:13:49.000Z"
   },
   {
     "site": "Zenn",
@@ -42,12 +72,6 @@
     "pubDate": "2026-02-06T10:41:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "3,980円のカメラでClaude Codeに「身体」を与えてみた",
-    "link": "https://zenn.dev/nextbeat/articles/2026-02-embodied-claude",
-    "pubDate": "2026-02-06T10:23:20.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【Ruby on Rails】name:と:nameはなにが違うのか？素通りしがちなコロンの意味",
     "link": "https://qiita.com/shibata1111/items/12b678e12882db74041c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -55,9 +79,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Googleフォトを開いたら例のお節介機能で数日前に起きた悲惨極まりない写真がピックアップされブチギレ「思い出を振り返りましょうじゃねえんだよ💢💢💢」",
-    "link": "https://togetter.com/li/2660566",
-    "pubDate": "2026-02-06T08:30:41.000Z"
+    "title": "Obsidian 向いている人・向いていない人｜松濤Vimmer",
+    "link": "https://note.com/shotovim/n/n7c46d7a962e2",
+    "pubDate": "2026-02-06T09:34:55.000Z"
   },
   {
     "site": "Zenn",
@@ -72,6 +96,12 @@
     "pubDate": "Fri, 06 Feb 2026 07:08:08 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "思考のスピードでマインドマップを書けるエディタを Tauri で作った",
+    "link": "https://zenn.dev/dokusy/articles/aa7674688802c3",
+    "pubDate": "Fri, 06 Feb 2026 05:43:48 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code Agent Teams を試す：複数AIエージェントの協調作業",
     "link": "https://qiita.com/nero-15/items/c12a9403a7d7673ae432?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -84,16 +114,16 @@
     "pubDate": "2026-02-06T03:40:06.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【Unity】モバイル端末スペックを判定するロジック",
-    "link": "https://qiita.com/TatApp/items/9839f5e2fe4d6f966d14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-06T02:25:37.000Z"
+    "site": "Zenn",
+    "title": "【2026/2/6最新アプデ】Claude Code新機能『エージェントチーム』が革新的だったので解説",
+    "link": "https://zenn.dev/canly/articles/76e2106de80380",
+    "pubDate": "Fri, 06 Feb 2026 03:19:02 GMT"
   },
   {
     "site": "Qiita",
-    "title": "New Relic の Lookup Table を GitHub Actions で更新して運用を自動化",
-    "link": "https://qiita.com/MarthaS/items/1c6a6372317cfde8e71f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-06T02:04:36.000Z"
+    "title": "Webのしないといけないセキュリティ対策",
+    "link": "https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-06T02:37:20.000Z"
   },
   {
     "site": "Zenn",
@@ -102,46 +132,22 @@
     "pubDate": "Fri, 06 Feb 2026 00:46:38 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "アツアツのdbt agent skillsを触ったらヤケドしかけた",
-    "link": "https://zenn.dev/myshmeh/articles/a73b208b2afebd",
-    "pubDate": "Thu, 05 Feb 2026 23:31:39 GMT"
+    "site": "Qiita",
+    "title": "なぜ私はWindowsを捨ててArch Linuxに住み着いたのか。システムの主としての「自由」",
+    "link": "https://qiita.com/ry2x/items/4a7ddbcb8ed76d1c621b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-05T15:13:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【現役Udemy講師】AWS認定全12冠ガイド（2024-2025）",
+    "link": "https://qiita.com/Maruchin/items/b0a7826a7b2f6b1fc65d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-05T14:54:35.000Z"
   },
   {
     "site": "Zenn",
-    "title": "【徹底解説】BigQuery「Conversational Analytics」登場！既存のAI分析ツールと何が違うのか？",
-    "link": "https://zenn.dev/google_cloud_jp/articles/6232563a07205d",
-    "pubDate": "2026-02-05T19:25:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "VSCode卒業？次世代エディタ「Zed」を触って感じた、エンジニアとしての思考の速度",
-    "link": "https://zenn.dev/yuukikawabata/articles/zed-editor-impression",
-    "pubDate": "Thu, 05 Feb 2026 12:44:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GPUのない場所で作るレンダラー：C++とSIMDで積み上げるグラフィックス数学",
-    "link": "https://zenn.dev/shika_gfx/books/shika-graphics-math-cpp",
-    "pubDate": "Thu, 05 Feb 2026 12:37:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "EUでバックエンドエンジニアとして転職活動した記録（応募数・通過率・面接対策まとめ）",
-    "link": "https://zenn.dev/katsulau/articles/f745af2c36a2bd",
-    "pubDate": "Thu, 05 Feb 2026 12:17:12 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude CodeとPlaywright MCPで実現する対話型UI自動テスト構築 | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/building-interactive-ui-tests-with-claude-code-and-playwright-mcp/",
-    "pubDate": "2026-02-05T11:48:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 標準動向 2026年1月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202601",
-    "pubDate": "Thu, 05 Feb 2026 09:27:33 GMT"
+    "title": "tmux使いが全員Zellijに乗り換える日が来た",
+    "link": "https://zenn.dev/hirokitakamura/articles/zellij-complete-guide",
+    "pubDate": "2026-02-05T11:24:58.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "2026-02-04T10:51:48.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥",
-    "link": "https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-04T00:19:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換） ",
-    "link": "https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-04T00:04:51.000Z"
+    "site": "Zenn",
+    "title": "Visual Studio Code (VS Code)のオススメ設定と拡張機能の紹介",
+    "link": "https://zenn.dev/yutotnh/articles/1577b6dc5ab7d9",
+    "pubDate": "2024-04-28T06:35:38.000Z"
   }
 ]
