@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "それでも外部キー制約は必要ない / #fk_night でしゃべってきました",
+    "link": "https://osyoyu.com/blog/2026/02/08/165954",
+    "pubDate": "2026-02-08T08:15:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？",
+    "link": "https://zenn.dev/karamage/articles/2514cf04e0d1ac",
+    "pubDate": "2026-02-08T04:45:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ChatGPTのイラッとくる表現を集めたLINEスタンプを探したらやっぱりあった→「真面目な議論で多用されたらガチギレしそう」「煽りスタンプとして最強」",
     "link": "https://togetter.com/li/2661232",
     "pubDate": "2026-02-08T01:47:12.000Z"
@@ -24,6 +36,12 @@
     "pubDate": "Sat, 07 Feb 2026 21:43:44 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "開発ツール管理？断然Miseでしょ。",
+    "link": "https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-07T17:44:08.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AI Agent yagi を作った",
     "link": "https://zenn.dev/mattn/articles/af6b456142dafe",
@@ -31,9 +49,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Agent Teamを使ってロールプレイ駆動開発してみよう",
-    "link": "https://zenn.dev/sakasegawa/articles/e6a8aa168a7d19",
-    "pubDate": "2026-02-07T13:52:15.000Z"
+    "title": "個人的定番macアプリ6選",
+    "link": "https://zenn.dev/kawarimidoll/articles/b120d56a12b3f0",
+    "pubDate": "Sat, 07 Feb 2026 13:43:53 GMT"
   },
   {
     "site": "Qiita",
@@ -48,16 +66,22 @@
     "pubDate": "2026-02-07T11:37:23.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？",
+    "link": "https://zenn.dev/karamage/articles/2514cf04e0d1ac",
+    "pubDate": "Sat, 07 Feb 2026 10:59:29 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Claude Code のオーケストレーション機能であるエージェントチームを試してみた",
     "link": "https://azukiazusa.dev/blog/trying-claude-code-agent-teams/",
     "pubDate": "2026-02-07T09:55:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Geminiの使い方完全ガイド｜仕事が劇的に速くなる5つの活用術【初心者向け】 | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2602-5-ways-to-use-google-gemini-to-streamline-your-workday/",
-    "pubDate": "2026-02-07T09:04:54.000Z"
+    "site": "Qiita",
+    "title": "NLBで\"クライアントIPアドレスの保持\"をするときに、ターゲット側のセキュリティグループで取るべき設定",
+    "link": "https://qiita.com/yuki_ink/items/43b5c3afdd889c0338ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-07T09:48:47.000Z"
   },
   {
     "site": "Zenn",
@@ -66,16 +90,22 @@
     "pubDate": "Sat, 07 Feb 2026 09:00:31 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【Power Query】集計定義をExcelシートに外出してTable.Groupをクエリの外から制御する",
+    "link": "https://qiita.com/madilloar/items/0cebe41a02d837d83bd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-07T08:41:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2026年版】Webスクレイピングの\"3大つらみ\"をBright Dataで解決する",
+    "link": "https://qiita.com/ktdatascience/items/a13b42998925e9ba046b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-07T08:40:48.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "思考のスピードでマインドマップを書けるエディタを Tauri で作った",
     "link": "https://zenn.dev/dokusy/articles/aa7674688802c3",
     "pubDate": "2026-02-07T08:32:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "もうレビューは読まなくていい ― Bright Data × RAGで\"全レビュー読破AI\"を作った話",
-    "link": "https://qiita.com/ktdatascience/items/3d4180f188cbb944936b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-07T07:50:29.000Z"
   },
   {
     "site": "Hatena",
@@ -96,16 +126,16 @@
     "pubDate": "2026-02-07T03:31:21.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Remotion公式の Agent Skills を Google Antigravity で少しだけ試す（＋ 公式の Hello World のお試し）",
+    "link": "https://qiita.com/youtoy/items/92a142c4aff8ad1998bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-07T03:21:12.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "聞きづらい人にならないための技術",
     "link": "https://zenn.dev/idapan/articles/af819fa822c090",
     "pubDate": "Sat, 07 Feb 2026 00:48:37 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "RUNTEQで学び始めた初心者が整理したターミナル基本コマンド",
-    "link": "https://qiita.com/liliko73/items/5f4ef7143208e489ca74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-06T17:01:32.000Z"
   },
   {
     "site": "Zenn",
@@ -120,28 +150,16 @@
     "pubDate": "Fri, 06 Feb 2026 13:16:49 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ",
+    "link": "https://qiita.com/shatolin/items/ca1810e419fee5fd963b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-06T11:56:32.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "GPT5.3-codex vs Opus4.6 をセンサーフュージョンシミュレーション課題で比較",
     "link": "https://zenn.dev/cybernetics/articles/8e536d508d26be",
     "pubDate": "Fri, 06 Feb 2026 10:59:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Bit - Git 互換のAIサンドボックス",
-    "link": "https://zenn.dev/mizchi/articles/introduce-bit-by-moonbit",
-    "pubDate": "Fri, 06 Feb 2026 10:53:40 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Ruby on Rails】name:と:nameはなにが違うのか？素通りしがちなコロンの意味",
-    "link": "https://qiita.com/shibata1111/items/12b678e12882db74041c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-06T09:49:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[2026年2月6日] ソフトウェアエンジニアリングという仕事の変質を感じる (週刊AI)",
-    "link": "https://zenn.dev/carenet/articles/49dd8e64165e33",
-    "pubDate": "Fri, 06 Feb 2026 09:21:35 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "なぜ私はWindowsを捨ててArch Linuxに住み着いたのか。システムの主としての「自由」",
     "link": "https://qiita.com/ry2x/items/4a7ddbcb8ed76d1c621b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-05T15:13:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【優勝🥇】防衛省サイバーコンテストをAIで攻略した話",
-    "link": "https://qiita.com/satoki/items/955302bf2615813bae5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-05T06:28:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアは、なぜ生成AIで仕事が楽にならないのか",
-    "link": "https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-05T01:29:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "オブジェクト指向の基本を押さえる",
-    "link": "https://qiita.com/y-yugeta/items/985fb9b9a91e08dea989?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-05T01:14:15.000Z"
   }
 ]
