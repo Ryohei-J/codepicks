@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "ChatGPTのイラッとくる表現を集めたLINEスタンプを探したらやっぱりあった→「真面目な議論で多用されたらガチギレしそう」「煽りスタンプとして最強」",
+    "link": "https://togetter.com/li/2661232",
+    "pubDate": "2026-02-08T01:47:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“ごめんやっぱり戻ってきて”　AIで人員削減した企業の半数が2027年までに再雇用",
+    "link": "https://techtarget.itmedia.co.jp/tt/news/2602/06/news09.html",
+    "pubDate": "2026-02-07T23:40:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "荻窪の吉田カレー、「ブスの女子会禁止」と貼り紙！文句言われたらFBで常連客達と「空気の読めない性格ブス、被害妄想、めんどくさいやつ、美しい女性は笑い飛ばして終わり」と盛り上がる",
+    "link": "https://posfie.com/@waterpear121873/p/9TgZiYV",
+    "pubDate": "2026-02-07T22:36:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自分のコードをAIに攻撃させたら\"守り\"が全部ザルだった",
+    "link": "https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo",
+    "pubDate": "Sat, 07 Feb 2026 21:43:44 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "AI Agent yagi を作った",
     "link": "https://zenn.dev/mattn/articles/af6b456142dafe",
@@ -22,6 +46,12 @@
     "title": "仕事でOutlook以外のメールソフト使ってる奴ｗｗｗｗｗｗｗｗｗｗｗｗｗ",
     "link": "http://www.gadget2ch.com/archives/post-267304.html",
     "pubDate": "2026-02-07T11:37:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code のオーケストレーション機能であるエージェントチームを試してみた",
+    "link": "https://azukiazusa.dev/blog/trying-claude-code-agent-teams/",
+    "pubDate": "2026-02-07T09:55:00.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +78,10 @@
     "pubDate": "2026-02-07T07:50:29.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Opus4.6はどのようにPPTXを生成しているか",
-    "link": "https://zenn.dev/microsoft/articles/how-the-claude-opus46-generate-pptx",
-    "pubDate": "2026-02-07T06:33:41.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "なぜ「キヤノン」の社名は「キャノン」と書いてはいけないのか",
     "link": "https://japan.cnet.com/article/35243648/",
     "pubDate": "2026-02-07T05:50:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "トヨタが独自の“ゲームエンジン”「Fluorite」を開発：FlutterとDartで次世代デジタルコクピットを再定義 | XenoSpectrum",
-    "link": "https://xenospectrum.com/toyota-fluorite-flutter-game-engine-digital-cockpit/",
-    "pubDate": "2026-02-07T05:12:57.000Z"
   },
   {
     "site": "Zenn",
@@ -78,16 +96,22 @@
     "pubDate": "2026-02-07T03:31:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "人間は意図、AIは実装：Codexが導く「要件を伝えるだけ」のAI駆動開発ワークフロー | CyberAgent Developers Blog",
-    "link": "https://developers.cyberagent.co.jp/blog/archives/62010/",
-    "pubDate": "2026-02-07T03:00:41.000Z"
+    "site": "Zenn",
+    "title": "聞きづらい人にならないための技術",
+    "link": "https://zenn.dev/idapan/articles/af819fa822c090",
+    "pubDate": "Sat, 07 Feb 2026 00:48:37 GMT"
   },
   {
     "site": "Qiita",
     "title": "RUNTEQで学び始めた初心者が整理したターミナル基本コマンド",
     "link": "https://qiita.com/liliko73/items/5f4ef7143208e489ca74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-06T17:01:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "モバイル開発未経験者がTauriでアプリを開発/リリースしたけど超しんどかったよ",
+    "link": "https://zenn.dev/curry_battle/articles/e7cb46daf8fc12",
+    "pubDate": "Fri, 06 Feb 2026 15:06:03 GMT"
   },
   {
     "site": "Zenn",
@@ -120,24 +144,6 @@
     "pubDate": "Fri, 06 Feb 2026 09:21:35 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code Agent Teamsが来た！さっそく使い倒して自前のOSSを滅ぼそうと思ったら……？",
-    "link": "https://zenn.dev/nrs/articles/68840349bbdd8c",
-    "pubDate": "Fri, 06 Feb 2026 08:11:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "3,980円のカメラでClaude Codeに「身体」を与えてみた",
-    "link": "https://zenn.dev/nextbeat/articles/2026-02-embodied-claude",
-    "pubDate": "Fri, 06 Feb 2026 07:08:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "思考のスピードでマインドマップを書けるエディタを Tauri で作った",
-    "link": "https://zenn.dev/dokusy/articles/aa7674688802c3",
-    "pubDate": "Fri, 06 Feb 2026 05:43:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Webのしないといけないセキュリティ対策",
     "link": "https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -154,12 +160,6 @@
     "title": "なぜ私はWindowsを捨ててArch Linuxに住み着いたのか。システムの主としての「自由」",
     "link": "https://qiita.com/ry2x/items/4a7ddbcb8ed76d1c621b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-05T15:13:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "tmux使いが全員Zellijに乗り換える日が来た",
-    "link": "https://zenn.dev/hirokitakamura/articles/zellij-complete-guide",
-    "pubDate": "2026-02-05T11:24:58.000Z"
   },
   {
     "site": "Qiita",
