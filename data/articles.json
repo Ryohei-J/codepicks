@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "OpenAIとNVIDIAが険悪化。AIの金回りが悪くなって泥仕合",
+    "link": "https://www.gizmodo.jp/2026/02/all-the-messy-drama-between-openai-and-nvidia-explained.html",
+    "pubDate": "2026-02-08T09:13:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "それでも外部キー制約は必要ない / #fk_night でしゃべってきました",
     "link": "https://osyoyu.com/blog/2026/02/08/165954",
     "pubDate": "2026-02-08T08:15:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「患者のこと考えろボケ」このゲーミング輸液ポンプの設計したバカをぶん殴ってやりたい",
+    "link": "https://togetter.com/li/2661340",
+    "pubDate": "2026-02-08T06:04:40.000Z"
   },
   {
     "site": "Zenn",
@@ -103,15 +115,9 @@
   },
   {
     "site": "Zenn",
-    "title": "思考のスピードでマインドマップを書けるエディタを Tauri で作った",
-    "link": "https://zenn.dev/dokusy/articles/aa7674688802c3",
-    "pubDate": "2026-02-07T08:32:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜ「キヤノン」の社名は「キャノン」と書いてはいけないのか",
-    "link": "https://japan.cnet.com/article/35243648/",
-    "pubDate": "2026-02-07T05:50:23.000Z"
+    "title": "NodeCG 配信グラフィック開発入門 ~Vite + React + TypeScript テンプレートで学ぶNodeCG開発~",
+    "link": "https://zenn.dev/bozitoma/books/nodecg-react-overlay",
+    "pubDate": "Sat, 07 Feb 2026 06:56:05 GMT"
   },
   {
     "site": "Zenn",
@@ -156,12 +162,6 @@
     "pubDate": "2026-02-06T11:56:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GPT5.3-codex vs Opus4.6 をセンサーフュージョンシミュレーション課題で比較",
-    "link": "https://zenn.dev/cybernetics/articles/8e536d508d26be",
-    "pubDate": "Fri, 06 Feb 2026 10:59:46 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Webのしないといけないセキュリティ対策",
     "link": "https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -175,7 +175,7 @@
   },
   {
     "site": "Qiita",
-    "title": "なぜ私はWindowsを捨ててArch Linuxに住み着いたのか。システムの主としての「自由」",
+    "title": "なぜ私はWindowsを捨ててArch Linuxに住み着いたのか。システムの主しての「自由」",
     "link": "https://qiita.com/ry2x/items/4a7ddbcb8ed76d1c621b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-05T15:13:16.000Z"
   }
