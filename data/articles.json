@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "ソニー、ブルーレイディスクレコーダ出荷終了、2月以降順次。「後継機種はない」",
+    "link": "https://av.watch.impress.co.jp/docs/news/2084492.html",
+    "pubDate": "2026-02-09T02:49:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソニー、ブルーレイディスクレコーダー全機種の出荷終了へ　「後継機種はございません」",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/09/news070.html",
+    "pubDate": "2026-02-09T02:31:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeのSkillsで作る、AIライフマネジメント",
+    "link": "https://zenn.dev/react_uncle/articles/840efe2fdc6963",
+    "pubDate": "Mon, 09 Feb 2026 00:49:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Agent TeamsとHooksの統合で分かったこと",
+    "link": "https://zenn.dev/tarouimo/articles/9aace19fa1c271",
+    "pubDate": "Sun, 08 Feb 2026 22:43:02 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "「フレッツ 光25G」を実現する仕組みは？　今後のエリア展開は？　NTT東日本に聞いて分かった新サービスの正体【イニシャルB】",
     "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2079761.html",
     "pubDate": "2026-02-08T21:49:40.000Z"
@@ -24,12 +48,6 @@
     "pubDate": "2026-02-08T14:41:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Herokuが事実上のメンテナンスモードに移行。新機能の導入よりも品質と運用の維持に重点を置くと発表",
-    "link": "https://www.publickey1.jp/blog/26/heroku_1.html",
-    "pubDate": "2026-02-08T14:12:51.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]",
     "link": "https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -40,12 +58,6 @@
     "title": "聞きづらい人にならないための技術",
     "link": "https://zenn.dev/idapan/articles/af819fa822c090",
     "pubDate": "2026-02-08T09:22:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAIとNVIDIAが険悪化。AIの金回りが悪くなって泥仕合",
-    "link": "https://www.gizmodo.jp/2026/02/all-the-messy-drama-between-openai-and-nvidia-explained.html",
-    "pubDate": "2026-02-08T09:13:39.000Z"
   },
   {
     "site": "Qiita",
@@ -60,16 +72,22 @@
     "pubDate": "Sun, 08 Feb 2026 08:18:49 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "それでも外部キー制約は必要ない / #fk_night でしゃべってきました",
-    "link": "https://osyoyu.com/blog/2026/02/08/165954",
-    "pubDate": "2026-02-08T08:15:24.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "【ACE-Step-1.5】無料クラウド環境に音楽生成AIを構築する。｜Google Colab初学者向け",
+    "title": "【ACE-Step-1.5】無料クラウド環境に音楽生成AI環境を構築する。｜Google Colab｜初学者向け",
     "link": "https://qiita.com/abemaki29/items/5f43ab1b1025078f757c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-08T08:08:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "デザイナーのための Cursor 入門チュートリアル ~ プロトタイピングしてみよう！編 ~",
+    "link": "https://zenn.dev/hirokuroinu123/articles/300770298a491a",
+    "pubDate": "Sun, 08 Feb 2026 07:46:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code 拡張機能の整理（Skills / Agents / Plugins / Agent Teams）",
+    "link": "https://zenn.dev/singularity/articles/2026-02-07-claude-code-extensibility-memo",
+    "pubDate": "2026-02-08T07:26:05.000Z"
   },
   {
     "site": "Zenn",
@@ -144,28 +162,10 @@
     "pubDate": "Sat, 07 Feb 2026 10:59:29 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Agent Teamを使ってロールプレイ駆動開発してみよう",
-    "link": "https://zenn.dev/sakasegawa/articles/e6a8aa168a7d19",
-    "pubDate": "Sat, 07 Feb 2026 09:00:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【2026年版】Webスクレイピングの\"3大つらみ\"をBright Dataで解決する",
     "link": "https://qiita.com/ktdatascience/items/a13b42998925e9ba046b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-07T08:40:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWSインフラ設計のベストプラクティスを目指して(IaC編)",
-    "link": "https://zenn.dev/so_engineer/articles/45acac4e572ff3",
-    "pubDate": "Sat, 07 Feb 2026 06:58:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "NodeCG 配信グラフィック開発入門 ~Vite + React + TypeScript テンプレートで学ぶNodeCG開発~",
-    "link": "https://zenn.dev/bozitoma/books/nodecg-react-overlay",
-    "pubDate": "Sat, 07 Feb 2026 06:56:05 GMT"
   },
   {
     "site": "Qiita",
