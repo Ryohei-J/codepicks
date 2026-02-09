@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Code Agent Teamsのあそびかた",
+    "link": "https://blog.lai.so/agent-teams/",
+    "pubDate": "2026-02-09T07:55:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話",
+    "link": "https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-09T06:54:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "長いページは全体がクロールされなくなる？ Googleがクロール制限を15MB→2MBに縮小【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2084460.html",
+    "pubDate": "2026-02-09T03:07:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ソニー、ブルーレイディスクレコーダ出荷終了、2月以降順次。「後継機種はない」",
     "link": "https://av.watch.impress.co.jp/docs/news/2084492.html",
     "pubDate": "2026-02-09T02:49:46.000Z"
@@ -19,21 +37,27 @@
   },
   {
     "site": "Zenn",
+    "title": "AIが脆弱性を96%見つける時代に、僕らがセキュリティを学ぶ意味はあるのか",
+    "link": "https://zenn.dev/smartvain/articles/ai-finds-96pct-vulns-why-learn-security",
+    "pubDate": "2026-02-09T00:30:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows 11が重い・つながらない……。できる情シスが真っ先に使う管理コマンド5選",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/09/news018.html",
+    "pubDate": "2026-02-09T00:05:39.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "Agent TeamsとHooksの統合で分かったこと",
     "link": "https://zenn.dev/tarouimo/articles/9aace19fa1c271",
     "pubDate": "Sun, 08 Feb 2026 22:43:02 GMT"
   },
   {
     "site": "Hatena",
-    "title": "「フレッツ 光25G」を実現する仕組みは？　今後のエリア展開は？　NTT東日本に聞いて分かった新サービスの正体【イニシャルB】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2079761.html",
-    "pubDate": "2026-02-08T21:49:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "PostgreSQLだけで日本語全文検索を実現する - ParadeDBのBM25検索を実測で検証した",
-    "link": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
-    "pubDate": "2026-02-08T18:01:48.000Z"
+    "title": "仕事もゲームも、配線も妥協しない。HDMI 2.1 KVMスイッチで構築する理想のデスクセットアップ｜Dan",
+    "link": "https://note.com/nadiaru/n/ne0bf919fc51f",
+    "pubDate": "2026-02-08T16:06:08.000Z"
   },
   {
     "site": "Zenn",
@@ -42,10 +66,10 @@
     "pubDate": "2026-02-08T15:23:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「State of JavaScript 2025」公開。フロントエンドライブラリはReactがシェアを伸ばして1位、ビルドツールはついにwebpackにviteが追いつく",
-    "link": "https://www.publickey1.jp/blog/26/state_of_javascript_2025react1webpackvite.html",
-    "pubDate": "2026-02-08T14:41:07.000Z"
+    "site": "Zenn",
+    "title": "AIが脆弱性を96%見つける時代に、僕らがセキュリティを学ぶ意味はあるのか",
+    "link": "https://zenn.dev/smartvain/articles/ai-finds-96pct-vulns-why-learn-security",
+    "pubDate": "Sun, 08 Feb 2026 13:25:40 GMT"
   },
   {
     "site": "Qiita",
@@ -79,21 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "デザイナーのための Cursor 入門チュートリアル ~ プロトタイピングしてみよう！編 ~",
-    "link": "https://zenn.dev/hirokuroinu123/articles/300770298a491a",
-    "pubDate": "Sun, 08 Feb 2026 07:46:04 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Claude Code 拡張機能の整理（Skills / Agents / Plugins / Agent Teams）",
     "link": "https://zenn.dev/singularity/articles/2026-02-07-claude-code-extensibility-memo",
     "pubDate": "2026-02-08T07:26:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？",
-    "link": "https://zenn.dev/karamage/articles/2514cf04e0d1ac",
-    "pubDate": "2026-02-08T04:45:20.000Z"
   },
   {
     "site": "Zenn",
@@ -108,28 +120,28 @@
     "pubDate": "Sun, 08 Feb 2026 03:21:50 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "🔍GLM-OCR（LLM）と Tesseract を同じ画像で比較してわかったこと",
+    "link": "https://zenn.dev/tktomaru/articles/glm-ocr-vs-tesseract-comparison",
+    "pubDate": "Sun, 08 Feb 2026 01:29:00 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について",
     "link": "https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-07T23:10:56.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【AWS】Kiroのカスタムサブエージェントでタスクを並列実行【Kiro】",
-    "link": "https://qiita.com/Nana_777/items/c63d0734542981a89672?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-07T22:54:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "マルチテナント作るならPostgres一択。アプリ層に依存しない「RLS」によるデータ隔離が最強すぎる話 - Qiita",
-    "link": "https://qiita.com/hey_miii/items/daac2f459d2aa76206ad",
-    "pubDate": "2026-02-07T22:45:52.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "自分のコードをAIに攻撃させたら\"守り\"が全部ザルだった",
     "link": "https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo",
     "pubDate": "Sat, 07 Feb 2026 21:43:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code 拡張機能の整理（Skills / Agents / Plugins / Agent Teams）",
+    "link": "https://zenn.dev/singularity/articles/2026-02-07-claude-code-extensibility-memo",
+    "pubDate": "Sat, 07 Feb 2026 21:06:49 GMT"
   },
   {
     "site": "Qiita",
@@ -144,22 +156,16 @@
     "pubDate": "Sat, 07 Feb 2026 14:18:12 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "個人的定番macアプリ6選",
-    "link": "https://zenn.dev/kawarimidoll/articles/b120d56a12b3f0",
-    "pubDate": "Sat, 07 Feb 2026 13:43:53 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【書評】Microsoft 365 Copilot踏み込み活用術（できるビジネス）",
     "link": "https://qiita.com/ponponmikankan/items/2f1221b73728b95449f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-07T12:28:17.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "なぜ、Claude Codeは、RAGを捨ててAgentic Searchを選んだのか？",
-    "link": "https://zenn.dev/karamage/articles/2514cf04e0d1ac",
-    "pubDate": "Sat, 07 Feb 2026 10:59:29 GMT"
+    "site": "Qiita",
+    "title": "ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵",
+    "link": "https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-07T09:52:28.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ",
     "link": "https://qiita.com/shatolin/items/ca1810e419fee5fd963b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-06T11:56:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Webのしないといけないセキュリティ対策",
-    "link": "https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-06T02:37:20.000Z"
   }
 ]
