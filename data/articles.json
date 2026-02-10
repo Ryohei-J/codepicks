@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Amazonの不在連絡票をみたら、「誤配先で商品を捨ててしまいました…」と書いてあって、困惑… 荷物番号が書かれていなかったため、何の商品が捨てられたのかも分からず",
+    "link": "https://togetter.com/li/2662081",
+    "pubDate": "2026-02-10T03:22:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Next.jsをVercelからCloudflareへ移行し、90%のコスト削減を実現した話 - Hello Tech",
     "link": "https://tech.hello.ai/entry/vercel-cloudflare-migration",
     "pubDate": "2026-02-10T00:16:07.000Z"
@@ -48,16 +54,22 @@
     "pubDate": "2026-02-09T08:45:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code Agent Teamsのあそびかた",
-    "link": "https://blog.lai.so/agent-teams/",
-    "pubDate": "2026-02-09T07:55:33.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話",
     "link": "https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-09T06:54:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「なんか良いらしい」でDDDを導入した結果、何も得られなかった話",
+    "link": "https://zenn.dev/tokium_dev/articles/why-ddd-failed-for-me",
+    "pubDate": "Mon, 09 Feb 2026 05:45:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「アンチパターン」と呼ばれるEAVを、あえて採用した話 ── 数十万件の属性、数十億件の値と向き合って",
+    "link": "https://zenn.dev/yesodco/articles/f047e05bf9b656",
+    "pubDate": "Mon, 09 Feb 2026 05:30:01 GMT"
   },
   {
     "site": "Zenn",
@@ -88,6 +100,12 @@
     "title": "AIが脆弱性を96%見つける時代に、僕らがセキュリティを学ぶ意味はあるのか",
     "link": "https://zenn.dev/smartvain/articles/ai-finds-96pct-vulns-why-learn-security",
     "pubDate": "Sun, 08 Feb 2026 13:25:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude16台で10万行のCコンパイラを作った論文を読んで、「いや答えあるじゃん」と思った話",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-spec-first",
+    "pubDate": "Sun, 08 Feb 2026 11:26:37 GMT"
   },
   {
     "site": "Qiita",
@@ -132,28 +150,10 @@
     "pubDate": "Sun, 08 Feb 2026 03:21:50 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "🔍GLM-OCR（LLM）と Tesseract を同じ画像で比較してわかったこと",
-    "link": "https://zenn.dev/tktomaru/articles/glm-ocr-vs-tesseract-comparison",
-    "pubDate": "Sun, 08 Feb 2026 01:29:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Microsoft Teams を悪用したCEO詐欺（ビジネスチャット詐欺）について",
     "link": "https://qiita.com/hirotomotaguchi/items/4db2182e2384df4122a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-07T23:10:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の Agent Teams を使って、Agent Teams の記事を書いてみた",
-    "link": "https://zenn.dev/aun_phonogram/articles/5bbc0c5ca40df5",
-    "pubDate": "Sat, 07 Feb 2026 22:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自分のコードをAIに攻撃させたら\"守り\"が全部ザルだった",
-    "link": "https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo",
-    "pubDate": "Sat, 07 Feb 2026 21:43:44 GMT"
   },
   {
     "site": "Qiita",
