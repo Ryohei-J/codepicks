@@ -1,9 +1,33 @@
 [
   {
+    "site": "Qiita",
+    "title": "【後編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”",
+    "link": "https://qiita.com/hitomin_poke/items/10211c4fa7248c7c9740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-10T04:46:53.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "Amazonの不在連絡票をみたら、「誤配先で商品を捨ててしまいました…」と書いてあって、困惑… 荷物番号が書かれていなかったため、何の商品が捨てられたのかも分からず",
-    "link": "https://togetter.com/li/2662081",
-    "pubDate": "2026-02-10T03:22:06.000Z"
+    "title": "AIは仕事を減らさず増やすことがテック企業を対象にした調査で明らかに",
+    "link": "https://gigazine.net/news/20260210-ai-changed-work-habits/",
+    "pubDate": "2026-02-10T03:31:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeがベクトル検索を採用しなくなった理由",
+    "link": "https://zenn.dev/knowledgesense/articles/d015f1b810c05a",
+    "pubDate": "Tue, 10 Feb 2026 03:01:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini × NotebookLM 連携で「自分専用エージェント」を量産する：蓄積した履歴を血肉化する究極の活用術",
+    "link": "https://zenn.dev/minipoisson/articles/2806b4a0865acb",
+    "pubDate": "2026-02-10T01:02:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DeNAがPerl6000行を1カ月でGo言語へ、特性異なるAIエージェント駆使",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11469/",
+    "pubDate": "2026-02-10T00:46:39.000Z"
   },
   {
     "site": "Hatena",
@@ -16,6 +40,12 @@
     "title": "ブルーレイ・レコーダーはなぜ終売するのか。ディスクメディアの30年に見る必然【西田宗千佳のRandomTracking】",
     "link": "https://av.watch.impress.co.jp/docs/series/rt/2084753.html",
     "pubDate": "2026-02-09T22:32:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "頭のいい人が「思考を整理したい」ときにChatGPTでやっている“意外な使い方”",
+    "link": "https://diamond.jp/articles/-/383511",
+    "pubDate": "2026-02-09T22:08:26.000Z"
   },
   {
     "site": "Zenn",
@@ -37,21 +67,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Apple、日本では超広帯域無線(UWB)の一部周波数が利用できないためAirTag (第2世代)などの第2世代超広帯域チップによる拡大した正確な場所を見つける機能が利用できないと発表。",
-    "link": "https://applech2.com/archives/20260209-airtag2-expanded-precision-finding-not-available-japan-uwb.html",
-    "pubDate": "2026-02-09T13:09:14.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "記事をAIに書かせるな｜ushironoko",
     "link": "https://sizu.me/ushironoko/posts/1t256hfucxc6",
     "pubDate": "2026-02-09T09:51:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "LLMでソート - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
-    "link": "https://joisino.hatenablog.com/entry/llmsort",
-    "pubDate": "2026-02-09T08:45:45.000Z"
   },
   {
     "site": "Qiita",
@@ -72,6 +90,12 @@
     "pubDate": "Mon, 09 Feb 2026 05:30:01 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "TCP/IPのきほんで学ぶ「ネットワークのセキュリティ① 」HTTPS・暗号化・VPNを整理してみた",
+    "link": "https://qiita.com/masa_tech_0326/items/9cd09d8a0d598bdff9fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-09T02:16:12.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude CodeのSkillsで作る、AIライフマネジメント",
     "link": "https://zenn.dev/react_uncle/articles/840efe2fdc6963",
@@ -79,9 +103,9 @@
   },
   {
     "site": "Qiita",
-    "title": "開発環境でChromeが勝手にhttps://にリダイレクトする件の解決方法",
-    "link": "https://qiita.com/metappi/items/825d616c2c5d9859ce69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-09T00:20:37.000Z"
+    "title": "ADB-S MCPサーバーを試してみた",
+    "link": "https://qiita.com/marfujim/items/dc8e0878a795b325edbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-09T00:29:34.000Z"
   },
   {
     "site": "Zenn",
@@ -91,9 +115,15 @@
   },
   {
     "site": "Zenn",
-    "title": "個人的定番macアプリ6選",
-    "link": "https://zenn.dev/kawarimidoll/articles/b120d56a12b3f0",
-    "pubDate": "2026-02-08T16:51:47.000Z"
+    "title": "codex 5.3, opus 4.6, gemini 3.0 proの画像認識能力を比べた",
+    "link": "https://zenn.dev/simossyi/articles/f5ef8378959878",
+    "pubDate": "Sun, 08 Feb 2026 20:55:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini × NotebookLM 連携で「自分専用エージェント」を量産する：蓄積した履歴を血肉化する究極の活用術",
+    "link": "https://zenn.dev/minipoisson/articles/2806b4a0865acb",
+    "pubDate": "Sun, 08 Feb 2026 13:41:19 GMT"
   },
   {
     "site": "Zenn",
@@ -114,40 +144,16 @@
     "pubDate": "2026-02-08T10:12:58.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "腑に落ちない人のための多重共線性（マルチコ）",
-    "link": "https://qiita.com/Mark-N/items/6b56ecbecf8140ec0dbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-08T08:37:57.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ゼロから始めるContext Engineering",
     "link": "https://zenn.dev/sakasegawa/articles/65895201c59e44",
     "pubDate": "Sun, 08 Feb 2026 08:18:49 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Async Reactとは何か",
-    "link": "https://zenn.dev/cryptobox/articles/70b502e22954be",
-    "pubDate": "Sun, 08 Feb 2026 08:07:20 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "生成AI・LLM必須リンク集2026",
     "link": "https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-08T06:35:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codex Appのいい感じの使い方",
-    "link": "https://zenn.dev/devneko/articles/8a5f6f44adf606",
-    "pubDate": "Sun, 08 Feb 2026 04:35:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "WSLからネイティブLinuxに乗り換えてよかったこと",
-    "link": "https://zenn.dev/texia/articles/c98da5518233a7",
-    "pubDate": "Sun, 08 Feb 2026 03:21:50 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "【書評】Microsoft 365 Copilot踏み込み活用術（できるビジネス）",
-    "link": "https://qiita.com/ponponmikankan/items/2f1221b73728b95449f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-07T12:28:17.000Z"
+    "title": "# 【AI駆動開発】ソースコードから仕様書をリバースエンジニアリングする方法",
+    "link": "https://qiita.com/enomoso_pm/items/b4855d64f50b1c24acc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-07T15:21:23.000Z"
   },
   {
     "site": "Qiita",
     "title": "ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵",
     "link": "https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-07T09:52:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年版】Webスクレイピングの\"3大つらみ\"をBright Dataで解決する",
-    "link": "https://qiita.com/ktdatascience/items/a13b42998925e9ba046b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-07T08:40:48.000Z"
   }
 ]
