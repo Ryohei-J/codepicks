@@ -1,6 +1,54 @@
 [
   {
     "site": "Hatena",
+    "title": "Next.jsをVercelからCloudflareへ移行し、90%のコスト削減を実現した話 - Hello Tech",
+    "link": "https://tech.hello.ai/entry/vercel-cloudflare-migration",
+    "pubDate": "2026-02-10T00:16:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ブルーレイ・レコーダーはなぜ終売するのか。ディスクメディアの30年に見る必然【西田宗千佳のRandomTracking】",
+    "link": "https://av.watch.impress.co.jp/docs/series/rt/2084753.html",
+    "pubDate": "2026-02-09T22:32:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude16台で10万行のCコンパイラを作った論文を読んで、「いや答えあるじゃん」と思った話",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-spec-first",
+    "pubDate": "2026-02-09T21:48:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「チームみらいは誰の声を聞いているのか——オードリー・タンとの分岐点」という記事の誤情報について｜NISHIO Hirokazu",
+    "link": "https://note.com/nishiohirokazu/n/n58b6f250d298",
+    "pubDate": "2026-02-09T16:17:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google SRE が Gemini CLI を使用して実際の障害を解決している方法 | Google Cloud 公式ブログ",
+    "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/how-google-sres-use-gemini-cli-to-solve-real-world-outages/",
+    "pubDate": "2026-02-09T14:58:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple、日本では超広帯域無線(UWB)の一部周波数が利用できないためAirTag (第2世代)などの第2世代超広帯域チップによる拡大した正確な場所を見つける機能が利用できないと発表。",
+    "link": "https://applech2.com/archives/20260209-airtag2-expanded-precision-finding-not-available-japan-uwb.html",
+    "pubDate": "2026-02-09T13:09:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "記事をAIに書かせるな｜ushironoko",
+    "link": "https://sizu.me/ushironoko/posts/1t256hfucxc6",
+    "pubDate": "2026-02-09T09:51:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMでソート - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "link": "https://joisino.hatenablog.com/entry/llmsort",
+    "pubDate": "2026-02-09T08:45:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Code Agent Teamsのあそびかた",
     "link": "https://blog.lai.so/agent-teams/",
     "pubDate": "2026-02-09T07:55:33.000Z"
@@ -12,40 +60,16 @@
     "pubDate": "2026-02-09T06:54:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "長いページは全体がクロールされなくなる？ Googleがクロール制限を15MB→2MBに縮小【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2084460.html",
-    "pubDate": "2026-02-09T03:07:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソニー、ブルーレイディスクレコーダ出荷終了、2月以降順次。「後継機種はない」",
-    "link": "https://av.watch.impress.co.jp/docs/news/2084492.html",
-    "pubDate": "2026-02-09T02:49:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソニー、ブルーレイディスクレコーダー全機種の出荷終了へ　「後継機種はございません」",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/09/news070.html",
-    "pubDate": "2026-02-09T02:31:56.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude CodeのSkillsで作る、AIライフマネジメント",
     "link": "https://zenn.dev/react_uncle/articles/840efe2fdc6963",
     "pubDate": "Mon, 09 Feb 2026 00:49:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIが脆弱性を96%見つける時代に、僕らがセキュリティを学ぶ意味はあるのか",
-    "link": "https://zenn.dev/smartvain/articles/ai-finds-96pct-vulns-why-learn-security",
-    "pubDate": "2026-02-09T00:30:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11が重い・つながらない……。できる情シスが真っ先に使う管理コマンド5選",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/09/news018.html",
-    "pubDate": "2026-02-09T00:05:39.000Z"
+    "site": "Qiita",
+    "title": "開発環境でChromeが勝手にhttps://にリダイレクトする件の解決方法",
+    "link": "https://qiita.com/metappi/items/825d616c2c5d9859ce69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-09T00:20:37.000Z"
   },
   {
     "site": "Zenn",
@@ -54,16 +78,10 @@
     "pubDate": "Sun, 08 Feb 2026 22:43:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "仕事もゲームも、配線も妥協しない。HDMI 2.1 KVMスイッチで構築する理想のデスクセットアップ｜Dan",
-    "link": "https://note.com/nadiaru/n/ne0bf919fc51f",
-    "pubDate": "2026-02-08T16:06:08.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "自分のコードをAIに攻撃させたら\"守り\"が全部ザルだった",
-    "link": "https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo",
-    "pubDate": "2026-02-08T15:23:36.000Z"
+    "title": "個人的定番macアプリ6選",
+    "link": "https://zenn.dev/kawarimidoll/articles/b120d56a12b3f0",
+    "pubDate": "2026-02-08T16:51:47.000Z"
   },
   {
     "site": "Zenn",
@@ -78,12 +96,6 @@
     "pubDate": "2026-02-08T10:12:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "聞きづらい人にならないための技術",
-    "link": "https://zenn.dev/idapan/articles/af819fa822c090",
-    "pubDate": "2026-02-08T09:22:31.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "腑に落ちない人のための多重共線性（マルチコ）",
     "link": "https://qiita.com/Mark-N/items/6b56ecbecf8140ec0dbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -96,16 +108,16 @@
     "pubDate": "Sun, 08 Feb 2026 08:18:49 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【ACE-Step-1.5】無料クラウド環境に音楽生成AI環境を構築する。｜Google Colab｜初学者向け",
-    "link": "https://qiita.com/abemaki29/items/5f43ab1b1025078f757c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-08T08:08:00.000Z"
+    "site": "Zenn",
+    "title": "Async Reactとは何か",
+    "link": "https://zenn.dev/cryptobox/articles/70b502e22954be",
+    "pubDate": "Sun, 08 Feb 2026 08:07:20 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code 拡張機能の整理（Skills / Agents / Plugins / Agent Teams）",
-    "link": "https://zenn.dev/singularity/articles/2026-02-07-claude-code-extensibility-memo",
-    "pubDate": "2026-02-08T07:26:05.000Z"
+    "site": "Qiita",
+    "title": "生成AI・LLM必須リンク集2026",
+    "link": "https://qiita.com/aokikenichi/items/fca5a1898cc2a9c961f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-08T06:35:29.000Z"
   },
   {
     "site": "Zenn",
@@ -133,27 +145,21 @@
   },
   {
     "site": "Zenn",
-    "title": "自分のコードをAIに攻撃させたら\"守り\"が全部ザルだった",
-    "link": "https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo",
-    "pubDate": "Sat, 07 Feb 2026 21:43:44 GMT"
+    "title": "Claude Code の Agent Teams を使って、Agent Teams の記事を書いてみた",
+    "link": "https://zenn.dev/aun_phonogram/articles/5bbc0c5ca40df5",
+    "pubDate": "Sat, 07 Feb 2026 22:00:05 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Claude Code 拡張機能の整理（Skills / Agents / Plugins / Agent Teams）",
-    "link": "https://zenn.dev/singularity/articles/2026-02-07-claude-code-extensibility-memo",
-    "pubDate": "Sat, 07 Feb 2026 21:06:49 GMT"
+    "title": "自分のコードをAIに攻撃させたら\"守り\"が全部ザルだった",
+    "link": "https://zenn.dev/smartvain/articles/ai-attacked-my-code-security-mostly-placebo",
+    "pubDate": "Sat, 07 Feb 2026 21:43:44 GMT"
   },
   {
     "site": "Qiita",
     "title": "開発ツール管理？断然Miseでしょ。",
     "link": "https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-07T17:44:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI Agent yagi を作った",
-    "link": "https://zenn.dev/mattn/articles/af6b456142dafe",
-    "pubDate": "Sat, 07 Feb 2026 14:18:12 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【2026年版】Webスクレイピングの\"3大つらみ\"をBright Dataで解決する",
     "link": "https://qiita.com/ktdatascience/items/a13b42998925e9ba046b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-07T08:40:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年版】Claude Codeを最強にするプラグイン・MCP・ツール総まとめ",
-    "link": "https://qiita.com/shatolin/items/ca1810e419fee5fd963b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-06T11:56:32.000Z"
   }
 ]
