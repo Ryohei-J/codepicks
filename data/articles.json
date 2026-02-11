@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "VRAM96GB(Unified memory 128GB)でどのLLMが使えるか - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/02/10/162234",
-    "pubDate": "2026-02-10T07:42:16.000Z"
+    "title": "Discordの代替アプリランキング",
+    "link": "https://gigazine.net/news/20260210-discord-alternatives-ranking/",
+    "pubDate": "2026-02-10T15:36:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成 AI による仕様書作成とレビューの考え方 | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/62064/",
+    "pubDate": "2026-02-10T12:51:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windowsのエクスプローラーでフォルダサイズを表示する方法",
+    "link": "https://gigazine.net/news/20260210-explorer-folder-size/",
+    "pubDate": "2026-02-10T11:05:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "一番の脆弱性は\"人間のコードレビュー\"だった",
+    "link": "https://zenn.dev/smartvain/articles/ai-security-test-human-code-review-weakest",
+    "pubDate": "Tue, 10 Feb 2026 09:07:36 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "[Next.js] Parallel Routes + Intercepting Routes でページ遷移時にスクロール位置を保持する",
+    "link": "https://qiita.com/taka_xin/items/2b8fad1047a7e210f21a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-10T08:23:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマイルカーブの終焉と「コ」の字型社会の到来 ― AI時代に価値はどこへ消えるのか - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+    "link": "https://kaz-ataka.hatenablog.com/entry/2026/02/10/132414",
+    "pubDate": "2026-02-10T07:41:35.000Z"
   },
   {
     "site": "Hatena",
@@ -18,10 +48,34 @@
     "pubDate": "2026-02-10T04:46:53.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "実機不要！「Gemini Robotics」で学ぶフィジカルAI入門①〜物体の座標を特定〜",
+    "link": "https://qiita.com/kentaro_kawamura/items/df787a587324d418b277?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-10T03:50:44.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeがベクトル検索を採用しなくなった理由",
     "link": "https://zenn.dev/knowledgesense/articles/d015f1b810c05a",
     "pubDate": "Tue, 10 Feb 2026 03:01:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Agent Teams を使ってわかったチーム設計の勘所と自動化の限界",
+    "link": "https://zenn.dev/sc30gsw/articles/4eee68a83454a2",
+    "pubDate": "Tue, 10 Feb 2026 02:11:46 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "2026年、もはや Claude Code はエンジニア以外も全員が使うべきツールになった｜KAJI | 梶谷健人",
+    "link": "https://note.com/kajiken0630/n/nc0cb92bc080f",
+    "pubDate": "2026-02-10T01:55:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "APIファーストで作るMLOps基盤",
+    "link": "https://zenn.dev/turing_motors/articles/71f1e96311885c",
+    "pubDate": "Tue, 10 Feb 2026 01:33:00 GMT"
   },
   {
     "site": "Hatena",
@@ -36,40 +90,22 @@
     "pubDate": "2026-02-10T01:02:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Next.jsをVercelからCloudflareへ移行し、90%のコスト削減を実現した話 - Hello Tech",
-    "link": "https://tech.hello.ai/entry/vercel-cloudflare-migration",
-    "pubDate": "2026-02-10T00:16:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ブルーレイ・レコーダーはなぜ終売するのか。ディスクメディアの30年に見る必然【西田宗千佳のRandomTracking】",
-    "link": "https://av.watch.impress.co.jp/docs/series/rt/2084753.html",
-    "pubDate": "2026-02-09T22:32:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "頭のいい人が「思考を整理したい」ときにChatGPTでやっている“意外な使い方”",
-    "link": "https://diamond.jp/articles/-/383511",
-    "pubDate": "2026-02-09T22:08:26.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Claude16台で10万行のCコンパイラを作った論文を読んで、「いや答えあるじゃん」と思った話",
-    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-spec-first",
-    "pubDate": "2026-02-09T21:48:41.000Z"
+    "title": "効果的なCLAUDE.mdの書き方",
+    "link": "https://zenn.dev/farstep/articles/how-to-write-a-great-claude-md",
+    "pubDate": "Mon, 09 Feb 2026 23:29:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「チームみらいは誰の声を聞いているのか——オードリー・タンとの分岐点」という記事の誤情報について｜NISHIO Hirokazu",
-    "link": "https://note.com/nishiohirokazu/n/n58b6f250d298",
-    "pubDate": "2026-02-09T16:17:41.000Z"
+    "site": "Qiita",
+    "title": "【WebF】React/Vue/Svelteがそのままネイティブアプリになるよ - Qiita",
+    "link": "https://qiita.com/rana_kualu/items/6c8f9db6565e80332d05",
+    "pubDate": "2026-02-09T12:04:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Google SRE が Gemini CLI を使用して実際の障害を解決している方法 | Google Cloud 公式ブログ",
-    "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/how-google-sres-use-gemini-cli-to-solve-real-world-outages/",
-    "pubDate": "2026-02-09T14:58:42.000Z"
+    "site": "Qiita",
+    "title": "【WebF】React/Vue/Svelteがそのままネイティブアプリになるよ",
+    "link": "https://qiita.com/rana_kualu/items/6c8f9db6565e80332d05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-09T11:09:27.000Z"
   },
   {
     "site": "Qiita",
@@ -97,6 +133,12 @@
   },
   {
     "site": "Zenn",
+    "title": "多重共線性",
+    "link": "https://zenn.dev/dmmdata/articles/3d1dd0b204efe3",
+    "pubDate": "Mon, 09 Feb 2026 02:12:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude CodeのSkillsで作る、AIライフマネジメント",
     "link": "https://zenn.dev/react_uncle/articles/840efe2fdc6963",
     "pubDate": "Mon, 09 Feb 2026 00:49:00 GMT"
@@ -114,40 +156,10 @@
     "pubDate": "Sun, 08 Feb 2026 22:43:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "codex 5.3, opus 4.6, gemini 3.0 proの画像認識能力を比べた",
-    "link": "https://zenn.dev/simossyi/articles/f5ef8378959878",
-    "pubDate": "Sun, 08 Feb 2026 20:55:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini × NotebookLM 連携で「自分専用エージェント」を量産する：蓄積した履歴を血肉化する究極の活用術",
-    "link": "https://zenn.dev/minipoisson/articles/2806b4a0865acb",
-    "pubDate": "Sun, 08 Feb 2026 13:41:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIが脆弱性を96%見つける時代に、僕らがセキュリティを学ぶ意味はあるのか",
-    "link": "https://zenn.dev/smartvain/articles/ai-finds-96pct-vulns-why-learn-security",
-    "pubDate": "Sun, 08 Feb 2026 13:25:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude16台で10万行のCコンパイラを作った論文を読んで、「いや答えあるじゃん」と思った話",
-    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-spec-first",
-    "pubDate": "Sun, 08 Feb 2026 11:26:37 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "[個人開発] 巨大駅の出口がわからないを写真と最小限の文章で解決する「Dexit」を作成しました [Next.js×Vercel]",
     "link": "https://qiita.com/Daichisama/items/cdc85e68d948c0924294?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-08T10:12:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ゼロから始めるContext Engineering",
-    "link": "https://zenn.dev/sakasegawa/articles/65895201c59e44",
-    "pubDate": "Sun, 08 Feb 2026 08:18:49 GMT"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "2026-02-07T23:10:56.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "開発ツール管理？断然Miseでしょ。",
-    "link": "https://qiita.com/umekikazuya/items/388a7aaad767b9e11fa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-07T17:44:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "# 【AI駆動開発】ソースコードから仕様書をリバースエンジニアリングする方法",
-    "link": "https://qiita.com/enomoso_pm/items/b4855d64f50b1c24acc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-07T15:21:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ベイズ原理主義者ブチ切れ必至！因子分析の再学習を50倍速める運用の知恵",
-    "link": "https://qiita.com/Gotoubun_taiwan/items/8010f0d62025db8f3d81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-07T09:52:28.000Z"
+    "site": "Hatena",
+    "title": "ログ設計ガイドライン",
+    "link": "https://future-architect.github.io/arch-guidelines/documents/forLog/log_guidelines.html",
+    "pubDate": "2025-09-28T12:10:06.000Z"
   }
 ]
