@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "「チームみらいの過疎地得票率が不自然に均一」と主張する陰謀論がバズるが、ただちにプログラマによって検証され事実無根であることが判明する",
+    "link": "https://togetter.com/li/2663037",
+    "pubDate": "2026-02-12T12:32:49.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "香川県、なんとNVIDIAと連携協定締結へ。全国自治体で初、AI企業誘致・IT人材の育成を目指して - AUTOMATON",
     "link": "https://automaton-media.com/articles/newsjp/nvidia-20260212-420144/",
     "pubDate": "2026-02-12T07:34:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTやClaudeから、行政APIを介して最新の行政データにアクセス － AI HYVEとN-3、「行政オープンデータリモートMCPサーバ」を無料公開 －",
+    "link": "https://prtimes.jp/main/html/rd/p/000000006.000146070.html",
+    "pubDate": "2026-02-12T07:19:55.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +24,16 @@
     "pubDate": "2026-02-12T04:03:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「推しのためにApple Musicで曲を聞け、収益が高いから」は事実か？　レーベル運営者の実データで確認",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/10/news041.html",
-    "pubDate": "2026-02-12T02:34:14.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【最新版】GitHub Copilotを使っている人は全員\"SKILL.md\"も導入してください",
     "link": "https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-12T02:31:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claudeちゃんと夜のお散歩をしてみた",
+    "link": "https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-walk",
+    "pubDate": "Thu, 12 Feb 2026 02:23:53 GMT"
   },
   {
     "site": "Hatena",
@@ -46,12 +58,6 @@
     "title": "【Go】構造体のフィールド順序はパフォーマンスにどう影響するか？~ 検証レポート ~",
     "link": "https://qiita.com/umekikazuya/items/800e8a37d0f6ec4b7ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-11T19:05:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "日本企業にありがちな「アジャイルの誤解」を解き、現場に定着させるための実践ガイド",
-    "link": "https://zenn.dev/ncdc/articles/4428c3cad9421b",
-    "pubDate": "2026-02-11T15:43:58.000Z"
   },
   {
     "site": "Qiita",
@@ -85,6 +91,12 @@
   },
   {
     "site": "Zenn",
+    "title": "ローカルLLMの始め方とモデルサイズの選び方",
+    "link": "https://zenn.dev/takaha4k/articles/local-llm-mac-intro",
+    "pubDate": "Wed, 11 Feb 2026 07:57:06 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Geminiの全チャット履歴をNotebookLMに食わせて「自分専用ナレッジベース」を作った話",
     "link": "https://zenn.dev/minipoisson/articles/d8b307f8eedc5f",
     "pubDate": "2026-02-11T07:16:30.000Z"
@@ -115,9 +127,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Windowsの高速化をがんばってみた",
+    "link": "https://zenn.dev/maedan/articles/91caa405e30165",
+    "pubDate": "Wed, 11 Feb 2026 01:45:23 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "CSSを、Vitestでテストしてみる",
     "link": "https://zenn.dev/silverbirder/articles/e1a70ea756a0",
     "pubDate": "Tue, 10 Feb 2026 23:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【深掘り】AIだけのSNS「Moltbook」が3分でハッキングされた件について語らせてくれ",
+    "link": "https://zenn.dev/ebimanager/articles/moltbook-hacking-3min",
+    "pubDate": "Tue, 10 Feb 2026 22:03:05 GMT"
   },
   {
     "site": "Zenn",
@@ -142,30 +166,6 @@
     "title": "【閲覧注意】Rの恐怖に全エンジニアが驚愕：read_csvが仕込んだ地雷！",
     "link": "https://qiita.com/Gotoubun_taiwan/items/080e49ee9b275b92b8b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-10T12:10:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rust初心者でも簡単にゲームが作れる！macroquad入門",
-    "link": "https://zenn.dev/makotoishida/articles/23c2a4cecb33bf",
-    "pubDate": "Tue, 10 Feb 2026 11:01:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "draw.ioの公式MCPサーバが出てたのでClaude Codeで試してみる",
-    "link": "https://zenn.dev/is0383kk/articles/b39bccc8264b47",
-    "pubDate": "Tue, 10 Feb 2026 09:49:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "一番の脆弱性は\"人間のコードレビュー\"だった",
-    "link": "https://zenn.dev/smartvain/articles/ai-security-test-human-code-review-weakest",
-    "pubDate": "Tue, 10 Feb 2026 09:07:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ、「ElysiaJS」は爆速なのか",
-    "link": "https://zenn.dev/gymynnym/articles/c326836dc035e4",
-    "pubDate": "Tue, 10 Feb 2026 07:09:53 GMT"
   },
   {
     "site": "Qiita",
