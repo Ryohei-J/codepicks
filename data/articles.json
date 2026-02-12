@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "香川県、なんとNVIDIAと連携協定締結へ。全国自治体で初、AI企業誘致・IT人材の育成を目指して - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/nvidia-20260212-420144/",
+    "pubDate": "2026-02-12T07:34:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code Webを10並列で回す！チームみらいの選挙支援ツールを作りながら構築した、超並列LLMコーディングを実現するためのハーネスエンジニアリング｜Jun Ito",
+    "link": "https://note.com/jujunjun110/n/n66306cab294a",
+    "pubDate": "2026-02-12T04:03:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「推しのためにApple Musicで曲を聞け、収益が高いから」は事実か？　レーベル運営者の実データで確認",
     "link": "https://www.itmedia.co.jp/news/articles/2602/10/news041.html",
     "pubDate": "2026-02-12T02:34:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【最新版】GitHub Copilotを使っている人は全員\"SKILL.md\"も導入してください",
+    "link": "https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-12T02:31:15.000Z"
   },
   {
     "site": "Hatena",
@@ -19,21 +37,33 @@
   },
   {
     "site": "Hatena",
-    "title": "【特集】 液晶付きキーボードを魔改造して“ワープロ風PC”を作ってみた",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2084561.html",
-    "pubDate": "2026-02-11T21:41:01.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "欧州委「エンジン車禁止」撤回へ",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00138/00001/",
     "pubDate": "2026-02-11T19:57:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Go】構造体のフィールド順序はパフォーマンスにどう影響するか？~ 検証レポート ~",
+    "link": "https://qiita.com/umekikazuya/items/800e8a37d0f6ec4b7ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-11T19:05:38.000Z"
   },
   {
     "site": "Zenn",
     "title": "日本企業にありがちな「アジャイルの誤解」を解き、現場に定着させるための実践ガイド",
     "link": "https://zenn.dev/ncdc/articles/4428c3cad9421b",
     "pubDate": "2026-02-11T15:43:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "draw.io公式MCP Serverがリリース！Kiro CLIで試してみつつ、AWS Diagram MCP Serverとの比較もやってみた",
+    "link": "https://qiita.com/sh_fukatsu/items/582dc769379e2c32ae30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-11T14:26:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "NoteBookLMを使ったら勉強がめちゃくちゃ捗った話",
+    "link": "https://qiita.com/hiroki2712/items/a6786232ccff689da825?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-11T11:28:53.000Z"
   },
   {
     "site": "Qiita",
@@ -52,12 +82,6 @@
     "title": "なぜ現場ではCTEで書かれたクエリが少ないのか",
     "link": "https://zenn.dev/tonbi_attack/articles/560b025a188620",
     "pubDate": "Wed, 11 Feb 2026 07:58:07 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「チームみらいの過疎地得票率が不自然に均一」という主張を、208市区町村の公式データで検証してみた｜せい@健康優良不良プログラマ",
-    "link": "https://note.com/seiichi3141/n/n4ffefcc68673",
-    "pubDate": "2026-02-11T07:53:41.000Z"
   },
   {
     "site": "Zenn",
@@ -114,6 +138,12 @@
     "pubDate": "Tue, 10 Feb 2026 12:38:25 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【閲覧注意】Rの恐怖に全エンジニアが驚愕：read_csvが仕込んだ地雷！",
+    "link": "https://qiita.com/Gotoubun_taiwan/items/080e49ee9b275b92b8b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-10T12:10:43.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Rust初心者でも簡単にゲームが作れる！macroquad入門",
     "link": "https://zenn.dev/makotoishida/articles/23c2a4cecb33bf",
@@ -148,35 +178,5 @@
     "title": "【WebF】React/Vue/Svelteがそのままネイティブアプリになるよ",
     "link": "https://qiita.com/rana_kualu/items/6c8f9db6565e80332d05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-09T11:09:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "CLAUDE.mdを大掃除してコンテキスト圧迫をキレイキレイした備忘録",
-    "link": "https://qiita.com/haruna-hatanaka/items/26fd67d082a42e46b4b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-09T08:50:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeのAgent Teamsをお試し様子見①「人間チーム開発の問題がなんか再現された」話",
-    "link": "https://qiita.com/WdknWdkn/items/4eff08ff2413c23b95ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-09T06:54:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【完全ガイド】Claude Code Hooks で開発ワークフローを自動化する ── 全14イベント徹底解説",
-    "link": "https://qiita.com/nogataka/items/17fc8d9c2b2efde570a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-09T05:13:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "TCP/IPのきほんで学ぶ「ネットワークのセキュリティ① 」HTTPS・暗号化・VPNを整理してみた",
-    "link": "https://qiita.com/masa_tech_0326/items/9cd09d8a0d598bdff9fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-09T02:16:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "高校生が作った「AIに丸投げできるスクレイピングシステム」が、Bright Dataで合法かつ最強になった話",
-    "link": "https://qiita.com/harupython/items/52e164dfb810e700348f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-08T23:41:18.000Z"
   }
 ]
