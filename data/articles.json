@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "武蔵小杉病院、ナースコールがランサムウェアの餌食に　患者1万人の個人情報が漏えい",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/13/news115.html",
+    "pubDate": "2026-02-13T10:28:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『スレスパ2』なども採用、今熱いゲームエンジンGodot開発者いわく「日本で想定以上の人気」。大手の採用例も増えるGodot、“弱点”もあるゆえの強みを訊く - AUTOMATON",
+    "link": "https://automaton-media.com/articles/interviewsjp/godot-20260213-420555/",
+    "pubDate": "2026-02-13T06:01:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAIが「DeepSeekは蒸留で次世代AIを訓練しアメリカの主要AIに『ただ乗り』している」と議員へのメモの中で非難",
+    "link": "https://gigazine.net/news/20260213-openai-accuses-china-deepseek/",
+    "pubDate": "2026-02-13T05:42:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「イーロンはすごいですが、ザッカーバーグはザルですよ」闇バイトのリクルーターが恐れるのは警察でもヤクザでもなくSNSのアルゴリズム変更だという話",
     "link": "https://togetter.com/li/2663358",
     "pubDate": "2026-02-13T05:29:55.000Z"
@@ -12,10 +30,16 @@
     "pubDate": "2026-02-13T05:15:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NYダウ669ドル安　「SaaSの死」再び、医療やゲームまで波及 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN12C650S6A210C2000000/",
-    "pubDate": "2026-02-13T00:31:23.000Z"
+    "site": "Zenn",
+    "title": "JANOG57 NETCONをClaude Codeで解いた: CLAUDE.mdとMCPサーバーの育て方",
+    "link": "https://zenn.dev/taquan/articles/netcon-claude-code",
+    "pubDate": "Fri, 13 Feb 2026 03:12:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "octorusはなぜ30万行のdiffを高速表示できるのか？",
+    "link": "https://zenn.dev/ushironoko/articles/ae9fa49dd18515",
+    "pubDate": "Fri, 13 Feb 2026 02:24:59 GMT"
   },
   {
     "site": "Hatena",
@@ -24,16 +48,22 @@
     "pubDate": "2026-02-12T23:57:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "povoと楽天モバイルの優待を組み合わせて通信費ほぼ無料を実現する方法が話題となり、携帯電話の販売員がどうすればいいのかと嘆く",
-    "link": "https://togetter.com/li/2663102",
-    "pubDate": "2026-02-12T14:10:03.000Z"
+    "site": "Qiita",
+    "title": "Claude CodeのAgent Teamsをお試し様子見③：「分担で簡単な作業は安いモデル」とかやったら見積もりと７倍ずれた",
+    "link": "https://qiita.com/WdknWdkn/items/02c555b8969bef3c817a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-12T16:39:57.000Z"
   },
   {
     "site": "Hatena",
-    "title": "なぜTypeScriptは成功しているのか。作者ヘイルスバーグ氏が語る7つの教訓",
-    "link": "https://www.publickey1.jp/blog/26/typescript7.html",
-    "pubDate": "2026-02-12T13:38:19.000Z"
+    "title": "iTerm2の連携機能によって意識せずにtmuxを使えて便利 - Mitsuyuki.Shiiba",
+    "link": "https://bufferings.hatenablog.com/entry/2026/02/12/224302",
+    "pubDate": "2026-02-12T14:47:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "DLL Hell から .NET の自己完結型デプロイまで：30年の依存関係戦争",
+    "link": "https://zenn.dev/takekazuomi/articles/dll-hell-over30y",
+    "pubDate": "Thu, 12 Feb 2026 13:18:37 GMT"
   },
   {
     "site": "Zenn",
@@ -46,6 +76,12 @@
     "title": "知っておきたいWindows 11でおススメのオープンソースアプリ5選",
     "link": "https://news.mynavi.jp/techplus/article/20260212-4105066/",
     "pubDate": "2026-02-12T10:19:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Googleの公式ドキュメントを検索できるMCP「Developer Knowledge API」をGemini CLIで使ってみた",
+    "link": "https://qiita.com/kentaro_kawamura/items/fa79b87afcd165428e39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-12T08:53:05.000Z"
   },
   {
     "site": "Zenn",
@@ -91,27 +127,27 @@
   },
   {
     "site": "Qiita",
+    "title": "AI駆動開発時代にこそ『リーダブルコード』が効く理由：TypeScript実例で再確認する",
+    "link": "https://qiita.com/nogataka/items/9ad4fbc57e706b580b6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-12T02:01:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot資格『GH-300』を1週間で取得！学びと実務での活用のヒント",
+    "link": "https://zenn.dev/nttdata_tech/articles/77bf6496ad4246",
+    "pubDate": "Thu, 12 Feb 2026 01:32:46 GMT"
+  },
+  {
+    "site": "Qiita",
     "title": "【draw.io MCP】触ってみた所感と何が便利なのか",
     "link": "https://qiita.com/ryu-ki/items/29219d2c3126b97e7a0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-11T23:31:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GLM-5の性能がすごい。大手商用モデルに追いついてきた。 - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/02/12/005151",
-    "pubDate": "2026-02-11T22:36:01.000Z"
   },
   {
     "site": "Zenn",
     "title": "AIエージェントへの回答は y だけでよい",
     "link": "https://zenn.dev/kimushun1101/articles/ai-agent-y-response",
     "pubDate": "Wed, 11 Feb 2026 20:53:54 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Go】構造体のフィールド順序はパフォーマンスにどう影響するか？~ 検証レポート ~",
-    "link": "https://qiita.com/umekikazuya/items/800e8a37d0f6ec4b7ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-11T19:05:38.000Z"
   },
   {
     "site": "Qiita",
@@ -132,30 +168,6 @@
     "pubDate": "2026-02-11T11:28:53.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ウォーターフォールを成功させるには、結局先の工程に取りかからないと厳しいと思った話",
-    "link": "https://zenn.dev/tonbi_attack/articles/c07206607bb3b1",
-    "pubDate": "Wed, 11 Feb 2026 09:57:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バイブコーディングでリモートデスクトップアプリを作ってみたら意外にパフォーマンスが良かった",
-    "link": "https://zenn.dev/mmgames/articles/ae44b853ae3ccf",
-    "pubDate": "Wed, 11 Feb 2026 09:39:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ現場ではCTEで書かれたクエリが少ないのか",
-    "link": "https://zenn.dev/tonbi_attack/articles/560b025a188620",
-    "pubDate": "Wed, 11 Feb 2026 07:58:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルLLMの始め方とモデルサイズの選び方",
-    "link": "https://zenn.dev/takaha4k/articles/local-llm-mac-intro",
-    "pubDate": "Wed, 11 Feb 2026 07:57:06 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「セキュリティリスク＝影響度☓発生確率」をやめよう",
     "link": "https://qiita.com/f_0000/items/5cc486be289a8ea76728?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,17 +178,5 @@
     "title": "Power Apps でポップアップ (確認ダイアログ) の作成が楽になりました！",
     "link": "https://qiita.com/Takashi_Masumori/items/6d08844e43f44860fb9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-11T03:41:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【閲覧注意】Rの恐怖に全エンジニアが驚愕：read_csvが仕込んだ地雷！",
-    "link": "https://qiita.com/Gotoubun_taiwan/items/080e49ee9b275b92b8b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-10T12:10:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【後編】新人エンジニアは、なぜ「止まってしまう」のか。─教える側の“死角”",
-    "link": "https://qiita.com/hitomin_poke/items/10211c4fa7248c7c9740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-10T04:46:53.000Z"
   }
 ]
