@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "反移民の「リフォームUK」政党支持率で圧倒的な首位、 SNSにAI生成の広告動画が氾濫 英",
+    "link": "https://www.afpbb.com/articles/-/3622272",
+    "pubDate": "2026-02-14T01:26:19.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "プログラミングが全自動に、マスク氏「2026年末にも」　AIが急速進化 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN12C460S6A210C2000000/",
     "pubDate": "2026-02-13T21:14:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "未成年が成人向けに触れる事についての雑感",
+    "link": "https://anond.hatelabo.jp/20260214024734",
+    "pubDate": "2026-02-13T18:05:38.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +36,10 @@
     "pubDate": "2026-02-13T10:28:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "セガサミー、「Angry Birds」で約313億円の減損　通期予想は最終赤字に転落",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/13/news094.html",
-    "pubDate": "2026-02-13T07:03:45.000Z"
+    "site": "Zenn",
+    "title": "【Claude Code】Agent Teamを役割ではなく「4つの性格」で組んだら、議論の性質が変わった",
+    "link": "https://zenn.dev/happy_elements/articles/d01195392ceb10",
+    "pubDate": "Fri, 13 Feb 2026 06:41:34 GMT"
   },
   {
     "site": "Hatena",
@@ -49,15 +61,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Git難すぎ問題",
+    "link": "https://zenn.dev/crebo_tech/articles/73c75ab155e766",
+    "pubDate": "Fri, 13 Feb 2026 04:40:43 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AI軍団で天下統一が見えたと思ったら本能寺が6つ同時に燃えてて焦ったので、偵察に出したら全員まだ城の基礎工事してた",
     "link": "https://zenn.dev/shio_shoppaize/articles/shogun-sekigahara-battle",
     "pubDate": "2026-02-13T04:30:57.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "JANOG57 NETCONをClaude Codeで解いた: CLAUDE.mdとMCPサーバーの育て方",
-    "link": "https://zenn.dev/taquan/articles/netcon-claude-code",
-    "pubDate": "Fri, 13 Feb 2026 03:12:18 GMT"
+    "site": "Hatena",
+    "title": "【爆安15万円】 RaspberryPi5でNVIDIAのGPUを使ってみた【LLMもFluxも】｜shi3z",
+    "link": "https://note.com/shi3zblog/n/ne72c2316c0a3",
+    "pubDate": "2026-02-13T03:30:29.000Z"
   },
   {
     "site": "Zenn",
@@ -72,16 +90,28 @@
     "pubDate": "2026-02-13T02:23:18.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Hono on Node.js 最速レスポンス選手権",
+    "link": "https://zenn.dev/chot/articles/hono-node-the-fastest-adapter",
+    "pubDate": "Fri, 13 Feb 2026 00:25:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "インデックス以外でできるDBパフォーマンスチューニング入門",
+    "link": "https://zenn.dev/urakawa_jinsei/articles/4077d617f2fcae",
+    "pubDate": "Thu, 12 Feb 2026 23:00:06 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude CodeのAgent Teamsをお試し様子見③：「分担で簡単な作業は安いモデル」とかやったら見積もりと７倍ずれた",
     "link": "https://qiita.com/WdknWdkn/items/02c555b8969bef3c817a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-12T16:39:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "iTerm2の連携機能によって意識せずにtmuxを使えて便利 - Mitsuyuki.Shiiba",
-    "link": "https://bufferings.hatenablog.com/entry/2026/02/12/224302",
-    "pubDate": "2026-02-12T14:47:27.000Z"
+    "site": "Zenn",
+    "title": "React, Vue, Svelteの「危険なHTML挿入」と「javascript: URL」の実装を読み比べてみた",
+    "link": "https://zenn.dev/akito_tsukahara/articles/1d15cb875b0f82",
+    "pubDate": "Thu, 12 Feb 2026 14:39:48 GMT"
   },
   {
     "site": "Zenn",
@@ -96,16 +126,16 @@
     "pubDate": "Thu, 12 Feb 2026 10:51:11 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "解像度が低いのに、プロンプトなど書けるわけがない。",
+    "link": "https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9",
+    "pubDate": "Thu, 12 Feb 2026 08:59:25 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話",
     "link": "https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-12T08:43:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "0から分かる Claude Code 完全ガイド",
-    "link": "https://zenn.dev/lv/books/f611cdfe8a6e1a",
-    "pubDate": "2026-02-12T08:16:40.000Z"
   },
   {
     "site": "Zenn",
@@ -114,46 +144,16 @@
     "pubDate": "Thu, 12 Feb 2026 07:12:35 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "低コスト分析基盤として DuckDB を採用したら S3 読み込みがボトルネックになった話",
-    "link": "https://zenn.dev/pksha/articles/duckdb-s3-read-bottleneck",
-    "pubDate": "Thu, 12 Feb 2026 07:00:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人サービスのホスティング代、年1,500円まで削れた — 6サービス比較した結果",
-    "link": "https://zenn.dev/helloworld/articles/b42240ad018a51",
-    "pubDate": "Thu, 12 Feb 2026 04:41:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "カンリー社内Claude Code勉強会の資料を公開します",
-    "link": "https://zenn.dev/canly/articles/cc0891517e45cc",
-    "pubDate": "Thu, 12 Feb 2026 04:38:34 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【最新版】GitHub Copilotを使っている人は全員\"SKILL.md\"も導入してください",
     "link": "https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-12T02:31:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claudeちゃんと夜のお散歩をしてみた",
-    "link": "https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-walk",
-    "pubDate": "Thu, 12 Feb 2026 02:23:53 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AI駆動開発時代にこそ『リーダブルコード』が効く理由：TypeScript実例で再確認する",
     "link": "https://qiita.com/nogataka/items/9ad4fbc57e706b580b6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-12T02:01:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot資格『GH-300』を1週間で取得！学びと実務での活用のヒント",
-    "link": "https://zenn.dev/nttdata_tech/articles/77bf6496ad4246",
-    "pubDate": "Thu, 12 Feb 2026 01:32:46 GMT"
   },
   {
     "site": "Qiita",
