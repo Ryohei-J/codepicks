@@ -1,5 +1,23 @@
 [
   {
+    "site": "Zenn",
+    "title": "非エンジニアがClaude Codeでアプリを作って公開した全記録",
+    "link": "https://zenn.dev/tiaroka/articles/f6a0187b721607",
+    "pubDate": "2026-02-14T09:07:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIに設計を書かせるだけで、理解負債と実装漏れが激減した話",
+    "link": "https://zenn.dev/peoplex_blog/articles/58d1235f59f88a",
+    "pubDate": "2026-02-14T03:57:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "解像度が低いのに、プロンプトなど書けるわけがない。",
+    "link": "https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9",
+    "pubDate": "2026-02-14T01:40:13.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "反移民の「リフォームUK」政党支持率で圧倒的な首位、 SNSにAI生成の広告動画が氾濫 英",
     "link": "https://www.afpbb.com/articles/-/3622272",
@@ -12,28 +30,28 @@
     "pubDate": "2026-02-13T21:14:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "未成年が成人向けに触れる事についての雑感",
-    "link": "https://anond.hatelabo.jp/20260214024734",
-    "pubDate": "2026-02-13T18:05:38.000Z"
+    "site": "Zenn",
+    "title": "Agent Teams＋Skillsでエージェント3体と1週間働いたら、\"自分の仕事\"が再定義された",
+    "link": "https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work",
+    "pubDate": "Fri, 13 Feb 2026 17:18:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "26年度応用情報・高度試験、4月開催は困難か　「1度限りのCBT」は断行へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11491/",
-    "pubDate": "2026-02-13T12:31:30.000Z"
+    "site": "Zenn",
+    "title": "個人サービスのホスティング代、年1,500円まで削れた — 6サービス比較した結果",
+    "link": "https://zenn.dev/helloworld/articles/b42240ad018a51",
+    "pubDate": "2026-02-13T14:11:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "SDD（仕様駆動開発）のスラッシュコマンドを自分で作って運用している - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2026/02/12/173000",
-    "pubDate": "2026-02-13T12:09:03.000Z"
+    "site": "Zenn",
+    "title": "Interop 2026が始まりました！",
+    "link": "https://zenn.dev/yamanoku/articles/interop-2026-launched",
+    "pubDate": "Fri, 13 Feb 2026 12:52:20 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "武蔵小杉病院、ナースコールがランサムウェアの餌食に　患者1万人の個人情報が漏えい",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/13/news115.html",
-    "pubDate": "2026-02-13T10:28:43.000Z"
+    "site": "Qiita",
+    "title": "「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】",
+    "link": "https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-13T08:45:32.000Z"
   },
   {
     "site": "Zenn",
@@ -97,6 +115,12 @@
   },
   {
     "site": "Zenn",
+    "title": "AI軍団で天下統一が見えたと思ったら本能寺が6つ同時に燃えてて焦ったので、偵察に出したら全員まだ城の基礎工事してた",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-sekigahara-battle",
+    "pubDate": "Thu, 12 Feb 2026 23:54:10 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "インデックス以外でできるDBパフォーマンスチューニング入門",
     "link": "https://zenn.dev/urakawa_jinsei/articles/4077d617f2fcae",
     "pubDate": "Thu, 12 Feb 2026 23:00:06 GMT"
@@ -120,16 +144,10 @@
     "pubDate": "Thu, 12 Feb 2026 13:18:37 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【2026年版】日本語RAGのEmbeddingモデル、結局どれが最強なのか？6構成で2000問ベンチマークした",
-    "link": "https://zenn.dev/fp16/articles/aa48dcae23974e",
-    "pubDate": "Thu, 12 Feb 2026 10:51:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "解像度が低いのに、プロンプトなど書けるわけがない。",
-    "link": "https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9",
-    "pubDate": "Thu, 12 Feb 2026 08:59:25 GMT"
+    "site": "Qiita",
+    "title": "Googleの公式ドキュメントを検索できるMCP「Developer Knowledge API」をGemini CLIで使ってみた",
+    "link": "https://qiita.com/kentaro_kawamura/items/fa79b87afcd165428e39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-12T08:53:05.000Z"
   },
   {
     "site": "Qiita",
@@ -138,22 +156,10 @@
     "pubDate": "2026-02-12T08:43:03.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeにコードジェネレーターを作らせるのがとても良かった",
-    "link": "https://zenn.dev/happy_elements/articles/fc36f545f9e457",
-    "pubDate": "Thu, 12 Feb 2026 07:12:35 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【最新版】GitHub Copilotを使っている人は全員\"SKILL.md\"も導入してください",
     "link": "https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-12T02:31:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI駆動開発時代にこそ『リーダブルコード』が効く理由：TypeScript実例で再確認する",
-    "link": "https://qiita.com/nogataka/items/9ad4fbc57e706b580b6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-12T02:01:38.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "NoteBookLMを使ったら勉強がめちゃくちゃ捗った話",
     "link": "https://qiita.com/hiroki2712/items/a6786232ccff689da825?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-11T11:28:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「セキュリティリスク＝影響度☓発生確率」をやめよう",
-    "link": "https://qiita.com/f_0000/items/5cc486be289a8ea76728?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-11T05:48:24.000Z"
   }
 ]
