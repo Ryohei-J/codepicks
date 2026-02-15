@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "プログラミングは今が一番楽しい",
+    "link": "https://iwashi.co/2026/02/15/programming-is-most-fun-now",
+    "pubDate": "2026-02-15T12:12:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "3年間凍結されていたTwitter（X）アカウントがBBB（米国ビジネス改善協会）への申し立てであっさり復活した話｜ししかわ",
+    "link": "https://note.com/stack_chan/n/nfea877fdddc5",
+    "pubDate": "2026-02-15T10:06:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソニーグループ、作曲AIの学習データを特定　創作者への対価算出可能に - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN070LT0X00C26A2000000/",
+    "pubDate": "2026-02-15T09:31:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】 - Qiita",
+    "link": "https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24",
+    "pubDate": "2026-02-15T08:53:55.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AGENTS.mdを自動で育てる仕組みを作った",
     "link": "https://nyosegawa.github.io/posts/agents-md-generator/",
     "pubDate": "2026-02-15T06:31:25.000Z"
@@ -18,34 +42,10 @@
     "pubDate": "2026-02-15T02:59:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIに『投票の様子のイラスト』を描いてもらおうとしているが、どうあがいても投票として不適切な絵しか生成されない「撮影禁止の場所はAIで代替が効かない」",
-    "link": "https://togetter.com/li/2664179",
-    "pubDate": "2026-02-15T02:32:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ウクライナは日本が保有する防空システムを必要としている」＝ウクライナ政権高官",
-    "link": "https://www.ukrinform.jp/rubric-defense/4091376-ukurainaha-ri-benga-bao-yousuru-fang-kongshisutemuwo-bi-yaotoshiteiruukuraina-zheng-quan-gao-guan.html",
-    "pubDate": "2026-02-14T20:44:14.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【テスト】カバレッジ100%は安心していいわけじゃない",
     "link": "https://qiita.com/umekikazuya/items/ffea7ee083a76e4ae142?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-14T19:48:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "エラーのスタックトレースをAIにコピペする時代、終わらせたい",
-    "link": "https://zenn.dev/otinashi/articles/bd672e8f8189df",
-    "pubDate": "2026-02-14T17:23:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "英語ができるため海外のコールセンターで年収1000万円を稼いでいた友人がコルセンでAIが利用されるようになり無職になっていた",
-    "link": "https://togetter.com/li/2664028",
-    "pubDate": "2026-02-14T17:00:44.000Z"
   },
   {
     "site": "Zenn",
@@ -58,6 +58,12 @@
     "title": "金融取引分析エージェント(AIとデータサイエンス)- Python & Google ADKで金融取引戦略を生成",
     "link": "https://zenn.dev/mmmot/articles/560829d90036dc",
     "pubDate": "Sat, 14 Feb 2026 14:13:42 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "大学職員のためのプロンプトガイド2026｜Pogo / gmoriki",
+    "link": "https://note.com/pogohopper8/n/nced249950cfc",
+    "pubDate": "2026-02-14T13:14:27.000Z"
   },
   {
     "site": "Zenn",
@@ -118,12 +124,6 @@
     "title": "ClaudeでPRレビュー対応を爆速化する",
     "link": "https://zenn.dev/datum_studio/articles/c5c5dcb87a70f1",
     "pubDate": "Sat, 14 Feb 2026 02:01:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "解像度が低いのに、プロンプトなど書けるわけがない。",
-    "link": "https://zenn.dev/recurrenthub/articles/1e0e30f7037dd9",
-    "pubDate": "2026-02-14T01:40:13.000Z"
   },
   {
     "site": "Zenn",
