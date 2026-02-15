@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "AGENTS.mdを自動で育てる仕組みを作った",
+    "link": "https://nyosegawa.github.io/posts/agents-md-generator/",
+    "pubDate": "2026-02-15T06:31:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "また病院がVPN経由でやられたわけだがVPNは悪だね｜ロードバランスすだちくん（仮）",
+    "link": "https://note.cloudnative.co.jp/n/ndee08b72db63",
+    "pubDate": "2026-02-15T05:19:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "新たな「カルシウムイオン電池」が1,000サイクルの長寿命とリチウムイオン電池に匹敵する性能を達成 | XenoSpectrum",
     "link": "https://xenospectrum.com/hkust-calcium-ion-battery-cof-electrolyte-breakthrough/",
     "pubDate": "2026-02-15T02:59:22.000Z"
@@ -18,6 +30,12 @@
     "pubDate": "2026-02-14T20:44:14.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【テスト】カバレッジ100%は安心していいわけじゃない",
+    "link": "https://qiita.com/umekikazuya/items/ffea7ee083a76e4ae142?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-14T19:48:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "エラーのスタックトレースをAIにコピペする時代、終わらせたい",
     "link": "https://zenn.dev/otinashi/articles/bd672e8f8189df",
@@ -30,10 +48,28 @@
     "pubDate": "2026-02-14T17:00:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "自治体の枠を超えた「戦略」の集大成。山形県南陽市の生成AIプロンプト集から学ぶこと - 松田軽太のブロぐる",
-    "link": "https://www.matudakta.com/entry/2026/02/14/143705",
-    "pubDate": "2026-02-14T12:22:12.000Z"
+    "site": "Zenn",
+    "title": "Python のコンパイラを作りたい #10 - MLIR Dialect 設計と Lowering パス実装",
+    "link": "https://zenn.dev/t3tra/articles/248df893b306c8",
+    "pubDate": "Sat, 14 Feb 2026 15:13:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "金融取引分析エージェント(AIとデータサイエンス)- Python & Google ADKで金融取引戦略を生成",
+    "link": "https://zenn.dev/mmmot/articles/560829d90036dc",
+    "pubDate": "Sat, 14 Feb 2026 14:13:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Streamlit公式Skillsでベストプラクティスに沿ったアプリを瞬時に構築",
+    "link": "https://zenn.dev/datum_studio/articles/f202b8075f1b1b",
+    "pubDate": "Sat, 14 Feb 2026 12:43:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIコーディングが隆盛する一方でマネジメントが辛い件",
+    "link": "https://zenn.dev/hiroharu8864/articles/782ed847d52aae",
+    "pubDate": "Sat, 14 Feb 2026 12:07:00 GMT"
   },
   {
     "site": "Qiita",
@@ -42,10 +78,10 @@
     "pubDate": "2026-02-14T12:00:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code中心のMac開発環境を整備する - tmux・Ghostty・Discord通知",
-    "link": "https://nyosegawa.github.io/posts/claude-code-mac-dev-environment/",
-    "pubDate": "2026-02-14T10:52:10.000Z"
+    "site": "Qiita",
+    "title": "アセンブリ言語を学ぶことで得られるメリット【アセンブリ言語さくっと入門】",
+    "link": "https://qiita.com/minegishirei_v2/items/074706837c939ec05a3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-14T10:36:55.000Z"
   },
   {
     "site": "Zenn",
@@ -64,6 +100,12 @@
     "title": "Unity MCP「uLoopMCP」を使ってゲームを作ってみる",
     "link": "https://zenn.dev/tkada/articles/00b32b7f41a2ed",
     "pubDate": "Sat, 14 Feb 2026 07:10:58 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "SQLにむしゃくしゃしたのでフルAIコーディングで🐟自作プログラミング言語🍣を作った",
+    "link": "https://qiita.com/hiruberuto/items/3130f649eea4df8e4742?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-14T06:30:48.000Z"
   },
   {
     "site": "Qiita",
@@ -97,24 +139,6 @@
   },
   {
     "site": "Zenn",
-    "title": "なぜ、クソコードは仕事のプログラミングでしか書かれないのか？",
-    "link": "https://zenn.dev/pdfractal/articles/59fe7cda9b296c",
-    "pubDate": "Fri, 13 Feb 2026 13:16:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "大規模設計で学んだ「抽象化」の力：関数型的にシステムを捉えるコツ",
-    "link": "https://zenn.dev/uma002/articles/architecture-abstraction-patterns",
-    "pubDate": "Fri, 13 Feb 2026 13:07:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エラーのスタックトレースをAIにコピペする時代、終わらせたい",
-    "link": "https://zenn.dev/otinashi/articles/bd672e8f8189df",
-    "pubDate": "Fri, 13 Feb 2026 11:12:01 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Claude Code / Codex / Gemini CLI — Skills 機能比較まとめ",
     "link": "https://zenn.dev/hiraoku/articles/e3f750a9fe96dc",
     "pubDate": "2026-02-13T10:42:23.000Z"
@@ -124,18 +148,6 @@
     "title": "「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】",
     "link": "https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-13T08:45:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "いい加減重い腰を上げてNeovimへ移行した",
-    "link": "https://zenn.dev/sonicmoov/articles/cddd50d644ac86",
-    "pubDate": "Fri, 13 Feb 2026 08:23:26 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Geminiをハッカーたちはどんなことに使ってるの？ Googleの報告から",
-    "link": "https://qiita.com/ohkitashigeto/items/56514650b9afe970b842?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-13T05:48:24.000Z"
   },
   {
     "site": "Qiita",
@@ -157,25 +169,13 @@
   },
   {
     "site": "Qiita",
-    "title": "Googleの公式ドキュメントを検索できるMCP「Developer Knowledge API」をGemini CLIで使ってみた",
-    "link": "https://qiita.com/kentaro_kawamura/items/fa79b87afcd165428e39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-12T08:53:05.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話",
     "link": "https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-12T08:43:03.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【最新版】GitHub Copilotを使っている人は全員\"SKILL.md\"も導入してください",
-    "link": "https://qiita.com/TooMe/items/230a730ce0387c77e822?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-12T02:31:15.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "一発OK!! 市民も使える！生成AI活用実例集（プロンプト集）３６３例",
+    "title": "一発OK!! 市民も使える！生成AI活用実例集（プロンプト集）７４８例",
     "link": "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
     "pubDate": "2025-01-10T02:29:53.000Z"
   }
