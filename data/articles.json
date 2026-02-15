@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "新たな「カルシウムイオン電池」が1,000サイクルの長寿命とリチウムイオン電池に匹敵する性能を達成 | XenoSpectrum",
+    "link": "https://xenospectrum.com/hkust-calcium-ion-battery-cof-electrolyte-breakthrough/",
+    "pubDate": "2026-02-15T02:59:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIに『投票の様子のイラスト』を描いてもらおうとしているが、どうあがいても投票として不適切な絵しか生成されない「撮影禁止の場所はAIで代替が効かない」",
+    "link": "https://togetter.com/li/2664179",
+    "pubDate": "2026-02-15T02:32:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「ウクライナは日本が保有する防空システムを必要としている」＝ウクライナ政権高官",
     "link": "https://www.ukrinform.jp/rubric-defense/4091376-ukurainaha-ri-benga-bao-yousuru-fang-kongshisutemuwo-bi-yaotoshiteiruukuraina-zheng-quan-gao-guan.html",
     "pubDate": "2026-02-14T20:44:14.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "エラーのスタックトレースをAIにコピペする時代、終わらせたい",
+    "link": "https://zenn.dev/otinashi/articles/bd672e8f8189df",
+    "pubDate": "2026-02-14T17:23:02.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "Writing Good Unit Tests",
-    "link": "https://eliocapella.com/blog/writing-good-unit-tests/",
-    "pubDate": "2026-02-14T14:47:09.000Z"
+    "title": "英語ができるため海外のコールセンターで年収1000万円を稼いでいた友人がコルセンでAIが利用されるようになり無職になっていた",
+    "link": "https://togetter.com/li/2664028",
+    "pubDate": "2026-02-14T17:00:44.000Z"
   },
   {
     "site": "Hatena",
@@ -25,12 +43,6 @@
   },
   {
     "site": "Hatena",
-    "title": "claude codeで投資戦略を考えてみた｜にとり",
-    "link": "https://note.com/neet_uncle/n/nb793a6962ca7",
-    "pubDate": "2026-02-14T11:43:12.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Claude Code中心のMac開発環境を整備する - tmux・Ghostty・Discord通知",
     "link": "https://nyosegawa.github.io/posts/claude-code-mac-dev-environment/",
     "pubDate": "2026-02-14T10:52:10.000Z"
@@ -42,22 +54,16 @@
     "pubDate": "Sat, 14 Feb 2026 10:13:15 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「Markdownだけで」顧客提案レベルのスライドを作ってみた【Slidev x Claude Opus 4.6】 - Qiita",
-    "link": "https://qiita.com/ntaka329/items/47fb89fb6a84d9976d36",
-    "pubDate": "2026-02-14T09:29:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "非エンジニアがClaude Codeでアプリを作って公開した全記録",
-    "link": "https://zenn.dev/tiaroka/articles/f6a0187b721607",
-    "pubDate": "2026-02-14T09:07:44.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "非エンジニアがClaude Codeでアプリを作って公開した全記録",
     "link": "https://zenn.dev/tiaroka/articles/f6a0187b721607",
     "pubDate": "Sat, 14 Feb 2026 09:00:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Unity MCP「uLoopMCP」を使ってゲームを作ってみる",
+    "link": "https://zenn.dev/tkada/articles/00b32b7f41a2ed",
+    "pubDate": "Sat, 14 Feb 2026 07:10:58 GMT"
   },
   {
     "site": "Qiita",
@@ -85,9 +91,33 @@
   },
   {
     "site": "Zenn",
-    "title": "個人サービスのホスティング代、年1,500円まで削れた — 6サービス比較した結果",
-    "link": "https://zenn.dev/helloworld/articles/b42240ad018a51",
-    "pubDate": "2026-02-13T14:11:57.000Z"
+    "title": "Claude CodeでObsidianのナレッジ管理を自動化してみた",
+    "link": "https://zenn.dev/fabrica/articles/2026-02-13_claude-code-obsidian-workflow",
+    "pubDate": "Fri, 13 Feb 2026 14:21:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜ、クソコードは仕事のプログラミングでしか書かれないのか？",
+    "link": "https://zenn.dev/pdfractal/articles/59fe7cda9b296c",
+    "pubDate": "Fri, 13 Feb 2026 13:16:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "大規模設計で学んだ「抽象化」の力：関数型的にシステムを捉えるコツ",
+    "link": "https://zenn.dev/uma002/articles/architecture-abstraction-patterns",
+    "pubDate": "Fri, 13 Feb 2026 13:07:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "エラーのスタックトレースをAIにコピペする時代、終わらせたい",
+    "link": "https://zenn.dev/otinashi/articles/bd672e8f8189df",
+    "pubDate": "Fri, 13 Feb 2026 11:12:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code / Codex / Gemini CLI — Skills 機能比較まとめ",
+    "link": "https://zenn.dev/hiraoku/articles/e3f750a9fe96dc",
+    "pubDate": "2026-02-13T10:42:23.000Z"
   },
   {
     "site": "Qiita",
@@ -97,9 +127,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【Claude Code】Agent Teamを役割ではなく「4つの性格」で組んだら、議論の性質が変わった",
-    "link": "https://zenn.dev/happy_elements/articles/d01195392ceb10",
-    "pubDate": "Fri, 13 Feb 2026 06:41:34 GMT"
+    "title": "いい加減重い腰を上げてNeovimへ移行した",
+    "link": "https://zenn.dev/sonicmoov/articles/cddd50d644ac86",
+    "pubDate": "Fri, 13 Feb 2026 08:23:26 GMT"
   },
   {
     "site": "Qiita",
@@ -114,40 +144,10 @@
     "pubDate": "2026-02-13T04:48:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Git難すぎ問題",
-    "link": "https://zenn.dev/crebo_tech/articles/73c75ab155e766",
-    "pubDate": "Fri, 13 Feb 2026 04:40:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "octorusはなぜ30万行のdiffを高速表示できるのか？",
-    "link": "https://zenn.dev/ushironoko/articles/ae9fa49dd18515",
-    "pubDate": "Fri, 13 Feb 2026 02:24:59 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアこそセルフコンパッションを学ぶべきだと思った理由",
     "link": "https://qiita.com/nakaizumi_slj/items/de98e012a6537544056d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-13T00:43:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Hono on Node.js 最速レスポンス選手権",
-    "link": "https://zenn.dev/chot/articles/hono-node-the-fastest-adapter",
-    "pubDate": "Fri, 13 Feb 2026 00:25:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI軍団で天下統一が見えたと思ったら本能寺が6つ同時に燃えてて焦ったので、偵察に出したら全員まだ城の基礎工事してた",
-    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-sekigahara-battle",
-    "pubDate": "Thu, 12 Feb 2026 23:54:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "インデックス以外でできるDBパフォーマンスチューニング入門",
-    "link": "https://zenn.dev/urakawa_jinsei/articles/4077d617f2fcae",
-    "pubDate": "Thu, 12 Feb 2026 23:00:06 GMT"
   },
   {
     "site": "Qiita",
