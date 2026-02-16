@@ -1,13 +1,31 @@
 [
   {
     "site": "Hatena",
+    "title": "定番の圧縮・解凍ツール「Explzh」の開発者として知られる鬼束裕之氏が亡くなる／昨年の12月に「Explzh」がv10.00へ到達したばかり",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2086189.html",
+    "pubDate": "2026-02-16T04:38:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "髪を“不自然な色”に染める行為とうつ病の関係は？　海外マッチングアプリ1万人以上を分析　22年に発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/16/news028.html",
+    "pubDate": "2026-02-15T23:41:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "日本で拡大した「録画」はなぜ消えるのか そして同時に消える「文化」とはなにか【西田宗千佳のイマトミライ】",
     "link": "https://www.watch.impress.co.jp/docs/series/nishida/2086013.html",
     "pubDate": "2026-02-15T23:29:48.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "【特集】 パーツ高騰時代を乗り越えるためのメモリ節約術",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2086014.html",
+    "pubDate": "2026-02-15T22:17:56.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "【2026年最新】エンジニアが入れるべきMCPサーバー厳選まとめ（Draw.io, GitHub, Docker他）",
+    "title": "【2026年最新】エンジニアが入れるべきMCPサーバー厳選まとめ（Draw.io, Filesystem, Serena他）",
     "link": "https://zenn.dev/imohuke/articles/mcp-servers-2026",
     "pubDate": "2026-02-15T15:16:30.000Z"
   },
@@ -22,12 +40,6 @@
     "title": "GPT5.2が理論物理学の定説を覆し、シンプルな新公式を発見",
     "link": "https://www.sbbit.jp/article/cont1/180888",
     "pubDate": "2026-02-15T13:02:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "プログラミングは今が一番楽しい",
-    "link": "https://iwashi.co/2026/02/15/programming-is-most-fun-now",
-    "pubDate": "2026-02-15T12:12:11.000Z"
   },
   {
     "site": "Hatena",
@@ -48,6 +60,12 @@
     "pubDate": "Sun, 15 Feb 2026 08:30:26 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "宣言的 Skill Loader としての agent-skills-nix",
+    "link": "https://zenn.dev/kyre/articles/evolution-agent-skills-nix",
+    "pubDate": "Sun, 15 Feb 2026 08:16:30 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌",
     "link": "https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -60,22 +78,16 @@
     "pubDate": "2026-02-15T07:37:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AGENTS.mdを自動で育てる仕組みを作った",
-    "link": "https://nyosegawa.github.io/posts/agents-md-generator/",
-    "pubDate": "2026-02-15T06:31:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "また病院がVPN経由でやられたわけだがVPNは悪だね｜ロードバランスすだちくん（仮）",
-    "link": "https://note.cloudnative.co.jp/n/ndee08b72db63",
-    "pubDate": "2026-02-15T05:19:15.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code の実装から読み解く Agent Teams の設計思想",
     "link": "https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-15T04:09:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【RPC比較】tRPC・oRPC・Hono・Elysia 結局どれを選ぶべき？",
+    "link": "https://zenn.dev/sc30gsw/articles/6be1b73d3db81b",
+    "pubDate": "Sun, 15 Feb 2026 03:38:38 GMT"
   },
   {
     "site": "Qiita",
@@ -138,12 +150,6 @@
     "pubDate": "Sat, 14 Feb 2026 09:00:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Unity MCP「uLoopMCP」を使ってゲームを作ってみる",
-    "link": "https://zenn.dev/tkada/articles/00b32b7f41a2ed",
-    "pubDate": "Sat, 14 Feb 2026 07:10:58 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "SQLにむしゃくしゃしたのでフルAIコーディングで🐟自作プログラミング言語🍣を作った",
     "link": "https://qiita.com/hiruberuto/items/3130f649eea4df8e4742?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,12 +166,6 @@
     "title": "1台のProxmoxを「仮想的に8〜16個に分割する」方法。",
     "link": "https://qiita.com/masa-555/items/bd17daef0ee6b29a23cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-14T02:21:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ClaudeでPRレビュー対応を爆速化する",
-    "link": "https://zenn.dev/datum_studio/articles/c5c5dcb87a70f1",
-    "pubDate": "Sat, 14 Feb 2026 02:01:33 GMT"
   },
   {
     "site": "Qiita",
