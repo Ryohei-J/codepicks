@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "日本で拡大した「録画」はなぜ消えるのか そして同時に消える「文化」とはなにか【西田宗千佳のイマトミライ】",
+    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2086013.html",
+    "pubDate": "2026-02-15T23:29:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【2026年最新】エンジニアが入れるべきMCPサーバー厳選まとめ（Draw.io, GitHub, Docker他）",
+    "link": "https://zenn.dev/imohuke/articles/mcp-servers-2026",
+    "pubDate": "2026-02-15T15:16:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌 - Qiita",
+    "link": "https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124",
+    "pubDate": "2026-02-15T13:58:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GPT5.2が理論物理学の定説を覆し、シンプルな新公式を発見",
+    "link": "https://www.sbbit.jp/article/cont1/180888",
+    "pubDate": "2026-02-15T13:02:57.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "プログラミングは今が一番楽しい",
     "link": "https://iwashi.co/2026/02/15/programming-is-most-fun-now",
     "pubDate": "2026-02-15T12:12:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "南陽市が公開した「生成AIプロンプト集748例」が前代未聞のボリュームで凄すぎた - Smart Watch Life｜スマートウォッチとガジェットのデジタル活用専門メディア",
+    "link": "https://www.smartwatchlife.jp/63815/",
+    "pubDate": "2026-02-15T10:54:18.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +42,22 @@
     "pubDate": "2026-02-15T10:06:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ソニーグループ、作曲AIの学習データを特定　創作者への対価算出可能に - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN070LT0X00C26A2000000/",
-    "pubDate": "2026-02-15T09:31:07.000Z"
+    "site": "Zenn",
+    "title": "量子コンピュータの正体：ただの「巨大な行列計算機」",
+    "link": "https://zenn.dev/yuichirominato/articles/baa2eed928e072",
+    "pubDate": "Sun, 15 Feb 2026 08:30:26 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】 - Qiita",
-    "link": "https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24",
-    "pubDate": "2026-02-15T08:53:55.000Z"
+    "title": "【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌",
+    "link": "https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-15T08:02:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【draw.io MCP】AIで ER 図が一瞬で生成できるようになった話 — 実際に使って検証してみた",
+    "link": "https://zenn.dev/aya1357/articles/12f4ede03bc32c",
+    "pubDate": "2026-02-15T07:37:39.000Z"
   },
   {
     "site": "Hatena",
@@ -36,10 +72,10 @@
     "pubDate": "2026-02-15T05:19:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "新たな「カルシウムイオン電池」が1,000サイクルの長寿命とリチウムイオン電池に匹敵する性能を達成 | XenoSpectrum",
-    "link": "https://xenospectrum.com/hkust-calcium-ion-battery-cof-electrolyte-breakthrough/",
-    "pubDate": "2026-02-15T02:59:22.000Z"
+    "site": "Qiita",
+    "title": "Claude Code の実装から読み解く Agent Teams の設計思想",
+    "link": "https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-15T04:09:14.000Z"
   },
   {
     "site": "Qiita",
@@ -49,21 +85,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Python のコンパイラを作りたい #10 - MLIR Dialect 設計と Lowering パス実装",
-    "link": "https://zenn.dev/t3tra/articles/248df893b306c8",
-    "pubDate": "Sat, 14 Feb 2026 15:13:29 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "金融取引分析エージェント(AIとデータサイエンス)- Python & Google ADKで金融取引戦略を生成",
     "link": "https://zenn.dev/mmmot/articles/560829d90036dc",
     "pubDate": "Sat, 14 Feb 2026 14:13:42 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "大学職員のためのプロンプトガイド2026｜Pogo / gmoriki",
-    "link": "https://note.com/pogohopper8/n/nced249950cfc",
-    "pubDate": "2026-02-14T13:14:27.000Z"
   },
   {
     "site": "Zenn",
@@ -82,6 +106,12 @@
     "title": "【SharePoint】ER図やテーブル設計書を自動作成！SharePoint ERD Generatorを公開しました！【拡張機能】",
     "link": "https://qiita.com/reire/items/5c0d306a7cfc821ebda6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-14T12:00:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "useEffect で API を叩くのを卒業しよう",
+    "link": "https://zenn.dev/ashunar0/articles/32419c3c60cc53",
+    "pubDate": "Sat, 14 Feb 2026 10:57:20 GMT"
   },
   {
     "site": "Qiita",
@@ -103,6 +133,12 @@
   },
   {
     "site": "Zenn",
+    "title": "【draw.io MCP】AIで ER 図が一瞬で生成できるようになった話 — 実際に使って検証してみた",
+    "link": "https://zenn.dev/aya1357/articles/12f4ede03bc32c",
+    "pubDate": "Sat, 14 Feb 2026 09:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Unity MCP「uLoopMCP」を使ってゲームを作ってみる",
     "link": "https://zenn.dev/tkada/articles/00b32b7f41a2ed",
     "pubDate": "Sat, 14 Feb 2026 07:10:58 GMT"
@@ -120,28 +156,16 @@
     "pubDate": "2026-02-14T02:55:18.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "1台のProxmoxを「仮想的に8〜16個に分割する」方法。",
+    "link": "https://qiita.com/masa-555/items/bd17daef0ee6b29a23cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-14T02:21:56.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "ClaudeでPRレビュー対応を爆速化する",
     "link": "https://zenn.dev/datum_studio/articles/c5c5dcb87a70f1",
     "pubDate": "Sat, 14 Feb 2026 02:01:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent Teams＋Skillsでエージェント3体と1週間働いたら、\"自分の仕事\"が再定義された",
-    "link": "https://zenn.dev/neurostack_0001/articles/agent-teams-one-week-redefine-work",
-    "pubDate": "Fri, 13 Feb 2026 17:18:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeでObsidianのナレッジ管理を自動化してみた",
-    "link": "https://zenn.dev/fabrica/articles/2026-02-13_claude-code-obsidian-workflow",
-    "pubDate": "Fri, 13 Feb 2026 14:21:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code / Codex / Gemini CLI — Skills 機能比較まとめ",
-    "link": "https://zenn.dev/hiraoku/articles/e3f750a9fe96dc",
-    "pubDate": "2026-02-13T10:42:23.000Z"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "セキュリティ基礎講座：公開鍵暗号は３種類あるよ",
     "link": "https://qiita.com/peridotan/items/441f4c6a467dae69583a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-13T04:48:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアこそセルフコンパッションを学ぶべきだと思った理由",
-    "link": "https://qiita.com/nakaizumi_slj/items/de98e012a6537544056d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-13T00:43:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ClaudeCodeのAgent Teams試したら性能が違いすぎてもう笑いもでなかった話",
-    "link": "https://qiita.com/robitan/items/f890e1153060cbb4ab0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-12T12:40:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話",
-    "link": "https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-12T08:43:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "一発OK!! 市民も使える！生成AI活用実例集（プロンプト集）７４８例",
-    "link": "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
-    "pubDate": "2025-01-10T02:29:53.000Z"
   }
 ]
