@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "「AIしか遊べない」宇宙MMO『SpaceMolt』公開。AIが作りAIが遊ぶ、“人間抜き”の銀河シミュレーション - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20260217-421734/",
-    "pubDate": "2026-02-17T03:21:57.000Z"
+    "title": "国防総省がAnthropicを「サプライチェーンリスク」に指定して請負業者に取引中止を求めることも検討",
+    "link": "https://gigazine.net/news/20260217-pentagon-anthropic-supply-chain-risk/",
+    "pubDate": "2026-02-17T06:36:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ゲームエンジンUnity、「ゲームまるごと制作できるAI機能」を出すと表明。ノーコードで使えるAIツールで、“誰でもゲーム開発者時代”をアピール - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/unity-20260217-421770/",
+    "pubDate": "2026-02-17T06:00:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NHKで「ふしぎの海のナディア」4Kリマスター版放送。毎週日曜9時",
+    "link": "https://av.watch.impress.co.jp/docs/news/2086497.html",
+    "pubDate": "2026-02-17T05:18:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "富士通、ソフトウェア開発の全工程をAIで自動化　“生産性100倍”に　独自LLM「Takane」活用",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2602/17/news086.html",
+    "pubDate": "2026-02-17T04:08:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenClawを活用した全自動開発のメモ｜深津 貴之 (fladdict)",
+    "link": "https://note.com/fladdict/n/n5f315e408879",
+    "pubDate": "2026-02-17T03:41:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "モダンで爆速。月額0円でWebアプリを開発・公開する技術構成（Hono/Neon/Drizzle/Cloudflare Pages）",
+    "link": "https://zenn.dev/epicai_techblog/articles/ff6225111e3649",
+    "pubDate": "2026-02-17T03:32:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Codex App】3つのCodexツールのサブエージェント機能の違いを比較",
+    "link": "https://qiita.com/kkkdev/items/500f73822cfbcd4783bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-17T02:00:36.000Z"
   },
   {
     "site": "Hatena",
@@ -16,6 +52,12 @@
     "title": "「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】",
     "link": "https://zenn.dev/helloworld/articles/5c69b2981d5199",
     "pubDate": "2026-02-17T01:41:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS re:Invent 2025レポート】量産開発経験者が行くre:Invent",
+    "link": "https://qiita.com/y_wakai/items/9e5f003ed1c373aecc78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-17T00:17:19.000Z"
   },
   {
     "site": "Hatena",
@@ -31,15 +73,15 @@
   },
   {
     "site": "Zenn",
+    "title": "「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】",
+    "link": "https://zenn.dev/helloworld/articles/5c69b2981d5199",
+    "pubDate": "Mon, 16 Feb 2026 22:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIがペネトレーションテストを自動化する時代が来た——2026年の主要ツールまとめ",
     "link": "https://zenn.dev/frsk/articles/ai-pentesting-tools-2026",
     "pubDate": "Mon, 16 Feb 2026 17:38:54 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIプロダクトの品質をどう守る？",
-    "link": "https://speakerdeck.com/matsu802/aipurodakutonopin-zhi-wodoushou-ru",
-    "pubDate": "2026-02-16T15:17:00.000Z"
   },
   {
     "site": "Zenn",
@@ -48,28 +90,16 @@
     "pubDate": "Mon, 16 Feb 2026 14:36:11 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIがGoogleテクノロジーの公式ドキュメントを参照できる「Developer Knowledge API & MCP Server」、Googleが発表",
-    "link": "https://www.publickey1.jp/blog/26/aigoogledeveloper_knowledge_api_mcp_servergoogle.html",
-    "pubDate": "2026-02-16T14:29:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "君はIE11を覚えているか？ 2010年代のHTML制作は何が大変だったか - ICS MEDIA",
-    "link": "https://ics.media/entry/260216/",
-    "pubDate": "2026-02-16T13:12:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "コーディングエージェントがブレなくコードを生成できるプロンプトが大切 - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/02/16/202401",
-    "pubDate": "2026-02-16T11:45:05.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "初心者向けプログラミング学習サービス「Codize」を公開しました",
     "link": "https://zenn.dev/kou_pg_0131/articles/codize-introduction",
     "pubDate": "Mon, 16 Feb 2026 09:00:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ハッカソンに登録したのにClaude Codeが凄すぎて提出できなかった話",
+    "link": "https://zenn.dev/niji2/articles/claudecode00",
+    "pubDate": "Mon, 16 Feb 2026 07:22:28 GMT"
   },
   {
     "site": "Qiita",
@@ -84,40 +114,16 @@
     "pubDate": "Mon, 16 Feb 2026 04:27:07 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "属人化自体は悪じゃない。“〇〇な属人化”が悪い",
-    "link": "https://qiita.com/taka_xin/items/4eadb2019e0c61746631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-16T03:49:58.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【コピペすら不要】tmux + Neovimで作るVSCodeライクなターミナル開発環境",
     "link": "https://zenn.dev/spacemarket/articles/fd6203970ba0fe",
     "pubDate": "Mon, 16 Feb 2026 02:53:04 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「怖、、、」をなくす。レビューでの5つのルール",
-    "link": "https://qiita.com/kuma_3838/items/6303aa289c9734974f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-16T01:50:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代だからこそ便利ツールを見直そう！",
-    "link": "https://qiita.com/kuma_3838/items/45fb6add48b8ee008b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-16T01:50:17.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "OpenClaw+さくらのAI Engine無料枠でAIエージェントを構築する",
-    "link": "https://zenn.dev/yskst/articles/3309f73a813d1a",
-    "pubDate": "Mon, 16 Feb 2026 00:36:04 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "数時間かかるアンケートの前処理を、AIを使って数分で終わらせるための5つの方法",
-    "link": "https://qiita.com/IkuyaM/items/2ac66a726d0c8f4d780f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-16T00:22:25.000Z"
+    "title": "なぜWSLを使うのですか？Linuxで良くないですか？",
+    "link": "https://zenn.dev/dozo/articles/4e9ac08119f00a",
+    "pubDate": "Mon, 16 Feb 2026 00:29:01 GMT"
   },
   {
     "site": "Zenn",
@@ -127,21 +133,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Figma MakeでClaude Opus 4.6を使ったら凄すぎた件",
-    "link": "https://zenn.dev/itsminadesu/articles/687683f466519b",
-    "pubDate": "Sun, 15 Feb 2026 12:43:34 GMT"
+    "title": "複数エージェント協業で「続く健康習慣」を実現するAIコーチングアプリ「AIZAP」",
+    "link": "https://zenn.dev/heyhey1028/articles/ai_agentic_hackathon_vol4_aizap",
+    "pubDate": "Sun, 15 Feb 2026 14:50:47 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "量子コンピュータの正体：ただの「巨大な行列計算機」",
-    "link": "https://zenn.dev/yuichirominato/articles/baa2eed928e072",
-    "pubDate": "Sun, 15 Feb 2026 08:30:26 GMT"
+    "site": "Qiita",
+    "title": "draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）",
+    "link": "https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-15T12:49:05.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "宣言的 Skill Loader としての agent-skills-nix",
-    "link": "https://zenn.dev/kyre/articles/evolution-agent-skills-nix",
-    "pubDate": "Sun, 15 Feb 2026 08:16:30 GMT"
+    "site": "Qiita",
+    "title": "家のSwitchBotデバイスをLambdaとAmazon Bedrockで定期的に監視し自律的に操作させた",
+    "link": "https://qiita.com/kexi/items/b8926d59254b95aec8fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-15T08:25:15.000Z"
   },
   {
     "site": "Qiita",
@@ -156,10 +162,10 @@
     "pubDate": "2026-02-15T05:23:13.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude CodeのAgent Teamのトークン消費量を半分以下に抑える方法（lead以外をGLM-5に委譲する方法）",
-    "link": "https://zenn.dev/sh1ma/articles/b6719fa5fec00c",
-    "pubDate": "2026-02-15T03:51:13.000Z"
+    "site": "Qiita",
+    "title": "Claude Code の実装から読み解く Agent Teams の設計思想",
+    "link": "https://qiita.com/Dinn/items/6c0dd5107d4ce6c4b300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-15T04:09:14.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "アセンブリ言語を学ぶことで得られるメリット【アセンブリ言語さくっと入門】",
     "link": "https://qiita.com/minegishirei_v2/items/074706837c939ec05a3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-14T10:36:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code Skills で株スクリーニングを自動化した話【Python × yfinance × バイブコーディング】",
-    "link": "https://qiita.com/okikusan-public/items/61100a5b1aa8d752ae24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-14T02:55:18.000Z"
   }
 ]
