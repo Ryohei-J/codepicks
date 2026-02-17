@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "「AIしか遊べない」宇宙MMO『SpaceMolt』公開。AIが作りAIが遊ぶ、“人間抜き”の銀河シミュレーション - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20260217-421734/",
+    "pubDate": "2026-02-17T03:21:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "国産組込みOS「ITRON」が40年生き残ってきた理由を、生みの親と振り返る【TRON】 レバテックラボ（レバテックLAB）",
+    "link": "https://levtech.jp/media/article/interview/detail_806/",
+    "pubDate": "2026-02-17T01:49:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】",
+    "link": "https://zenn.dev/helloworld/articles/5c69b2981d5199",
+    "pubDate": "2026-02-17T01:41:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「サポート切れルーターはすべて廃棄を」米CISAが異例の命令、その深刻な理由とは",
+    "link": "https://ascii.jp/elem/000/004/373/4373984/",
+    "pubDate": "2026-02-16T23:58:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】 「春から大学行くんだけど、PC買ったほうがいい？」と若い衆から相談された時、ニヤっとしたい貴殿に捧ぐ。大学生「BYOD」事情2026年版",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2086257.html",
+    "pubDate": "2026-02-16T22:34:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIがペネトレーションテストを自動化する時代が来た——2026年の主要ツールまとめ",
+    "link": "https://zenn.dev/frsk/articles/ai-pentesting-tools-2026",
+    "pubDate": "Mon, 16 Feb 2026 17:38:54 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "AIプロダクトの品質をどう守る？",
     "link": "https://speakerdeck.com/matsu802/aipurodakutonopin-zhi-wodoushou-ru",
     "pubDate": "2026-02-16T15:17:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "S3 Vectors と Bedrock で、サーバーレスなお手軽セマンティック検索基盤を構築してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/s3-vectors-bedrock-semantic-search/",
-    "pubDate": "2026-02-16T15:02:34.000Z"
+    "site": "Zenn",
+    "title": "Excel 方眼紙を GitHub Copilot に食わせてみた",
+    "link": "https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi",
+    "pubDate": "Mon, 16 Feb 2026 14:36:11 GMT"
   },
   {
     "site": "Hatena",
@@ -30,28 +66,10 @@
     "pubDate": "2026-02-16T11:45:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「パズドラ」のガンホーが大幅減益、“脱スマホ”へ舵を切る",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/16/news126.html",
-    "pubDate": "2026-02-16T09:51:33.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "初心者向けプログラミング学習サービス「Codize」を公開しました",
     "link": "https://zenn.dev/kou_pg_0131/articles/codize-introduction",
     "pubDate": "Mon, 16 Feb 2026 09:00:04 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "自分のOSSリポジトリにGitHubのセキュリティ設定を入れ、自分用の手順書を作った - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2026/02/16/173000",
-    "pubDate": "2026-02-16T08:39:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIでSaaS不要論」再び? Claude Cowork登場で株式市場にも影響",
-    "link": "https://www.watch.impress.co.jp/docs/watchplus/2086001.html",
-    "pubDate": "2026-02-16T08:36:30.000Z"
   },
   {
     "site": "Qiita",
@@ -60,16 +78,22 @@
     "pubDate": "2026-02-16T05:36:08.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "バイブコーディングで課題解決アプリを作ったけど、やっぱり紙が最強だった話",
+    "link": "https://zenn.dev/jun_murakami/articles/81f54145c17414",
+    "pubDate": "Mon, 16 Feb 2026 04:27:07 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "属人化自体は悪じゃない。“〇〇な属人化”が悪い",
     "link": "https://qiita.com/taka_xin/items/4eadb2019e0c61746631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-16T03:49:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アンドロメダ銀河の巨大星が突如「消失」。超新星爆発失敗でブラックホール化か",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2086115.html",
-    "pubDate": "2026-02-16T03:40:41.000Z"
+    "site": "Zenn",
+    "title": "【コピペすら不要】tmux + Neovimで作るVSCodeライクなターミナル開発環境",
+    "link": "https://zenn.dev/spacemarket/articles/fd6203970ba0fe",
+    "pubDate": "Mon, 16 Feb 2026 02:53:04 GMT"
   },
   {
     "site": "Qiita",
@@ -103,12 +127,6 @@
   },
   {
     "site": "Zenn",
-    "title": "複数エージェント協業で「続く健康習慣」を実現するAIコーチングアプリ「AIZAP」",
-    "link": "https://zenn.dev/heyhey1028/articles/ai_agentic_hackathon_vol4_aizap",
-    "pubDate": "Sun, 15 Feb 2026 14:50:47 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Figma MakeでClaude Opus 4.6を使ったら凄すぎた件",
     "link": "https://zenn.dev/itsminadesu/articles/687683f466519b",
     "pubDate": "Sun, 15 Feb 2026 12:43:34 GMT"
@@ -132,12 +150,6 @@
     "pubDate": "2026-02-15T08:02:46.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "結局 Python は遅いのか",
-    "link": "https://zenn.dev/k2_gc/articles/a6fe00d54b1433",
-    "pubDate": "Sun, 15 Feb 2026 05:30:29 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "結局 Python は遅いのか",
     "link": "https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -150,22 +162,10 @@
     "pubDate": "2026-02-15T03:51:13.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【RPC比較】tRPC・oRPC・Hono・Elysia 結局どれを選ぶべき？",
-    "link": "https://zenn.dev/sc30gsw/articles/6be1b73d3db81b",
-    "pubDate": "Sun, 15 Feb 2026 03:38:38 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアの勉強って結局どうやれば良いの？を再度考えてみました",
     "link": "https://qiita.com/nAotO01_03/items/99cf932786dad3b3ec05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-14T23:58:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Streamlit公式Skillsでベストプラクティスに沿ったアプリを瞬時に構築",
-    "link": "https://zenn.dev/datum_studio/articles/f202b8075f1b1b",
-    "pubDate": "Sat, 14 Feb 2026 12:43:38 GMT"
   },
   {
     "site": "Qiita",
