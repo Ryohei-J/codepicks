@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "AnkerからAIボイスレコーダー「Soundcore Work」が発売、世界最小でAI文字起こしや要約",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2086707.html",
+    "pubDate": "2026-02-18T05:08:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "\"ビビる大木AI\"を生放送で喋らせた全技術 — ラヴィット!裏側",
+    "link": "https://zenn.dev/t_honda/articles/loveit-ai-voice-pipeline",
+    "pubDate": "2026-02-18T04:19:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "航空機内でモバイルバッテリーの使用禁止へ 4月から 国交省 | NHKニュース",
     "link": "https://news.web.nhk/newsweb/na/na-k10015054951000",
     "pubDate": "2026-02-18T03:35:57.000Z"
@@ -10,6 +22,24 @@
     "title": "あなたがSunoだと思ってサブスクしているそのAI作曲サービスの正体（CloseBox） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2026/02/18/4870.html",
     "pubDate": "2026-02-18T02:04:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある - Qiita",
+    "link": "https://qiita.com/nogataka/items/cace9602e4eaea995cc9",
+    "pubDate": "2026-02-18T01:40:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "bump というバージョンバンプツールを作った",
+    "link": "https://zenn.dev/mattn/articles/28ff86d209d081",
+    "pubDate": "Wed, 18 Feb 2026 00:26:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "\"ビビる大木AI\"を生放送で喋らせた全技術 — ラヴィット!裏側",
+    "link": "https://zenn.dev/t_honda/articles/loveit-ai-voice-pipeline",
+    "pubDate": "Tue, 17 Feb 2026 22:00:11 GMT"
   },
   {
     "site": "Zenn",
@@ -24,16 +54,22 @@
     "pubDate": "2026-02-17T21:09:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Introducing Sonnet 4.6",
-    "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "pubDate": "2026-02-17T17:58:45.000Z"
+    "site": "Qiita",
+    "title": "【15分で追いつく！】今のClaude Codeができることをざっくり解説 - Qiita",
+    "link": "https://qiita.com/kyuko/items/77e9e022860b57e4bd4d",
+    "pubDate": "2026-02-17T19:58:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【宇宙最速レビュー】AWSではじめるMCP実践ガイド",
+    "link": "https://qiita.com/minorun365/items/fe3446e3f2a8c33efdfb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-17T15:32:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AWS 構成図をプロンプトひとつで作れる！Claude Code + draw.io MCP サーバーを試してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/aws-architecture-diagram-claude-code-drawio-mcp/",
-    "pubDate": "2026-02-17T16:30:40.000Z"
+    "title": "エンジニアは全員コーディングエージェントにダイブしたらええんちゃう？という話｜牛尾　剛",
+    "link": "https://note.com/simplearchitect/n/n0de0a2e8bc6e",
+    "pubDate": "2026-02-17T15:27:00.000Z"
   },
   {
     "site": "Hatena",
@@ -42,22 +78,10 @@
     "pubDate": "2026-02-17T15:15:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OpenClawの何が特別なのか？",
-    "link": "https://blog.lai.so/openclaw/",
-    "pubDate": "2026-02-17T12:14:49.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Amazonでの12年間を振り返る",
     "link": "https://zenn.dev/moomindani/articles/5b4ee6d4f33b44",
     "pubDate": "Tue, 17 Feb 2026 11:20:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "もうすぐ皆既月食　2028年まで見られない貴重な天体ショーの観測方法",
-    "link": "https://japan.cnet.com/article/35243976/",
-    "pubDate": "2026-02-17T08:13:18.000Z"
   },
   {
     "site": "Zenn",
@@ -67,21 +91,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeに体調と空気を読む力を与えてみた",
-    "link": "https://zenn.dev/nextbeat/articles/2026-02-embodied-claude-kokoro",
-    "pubDate": "Tue, 17 Feb 2026 05:53:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "モダンで爆速。月額0円でWebアプリを開発・公開する技術構成（Hono/Neon/Drizzle/Cloudflare Pages）",
-    "link": "https://zenn.dev/epicai_techblog/articles/ff6225111e3649",
-    "pubDate": "2026-02-17T03:32:46.000Z"
+    "title": "【Claude Code】Agent Teamsに「ホワイトボード」を1つ置いたら、分業が協働に変わった",
+    "link": "https://zenn.dev/happy_elements/articles/da2dda3618425c",
+    "pubDate": "Tue, 17 Feb 2026 04:06:16 GMT"
   },
   {
     "site": "Qiita",
-    "title": "※随時更新【Codex App】3つのCodexツールのサブエージェント機能の違いを比較",
-    "link": "https://qiita.com/kkkdev/items/500f73822cfbcd4783bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-17T02:00:36.000Z"
+    "title": "Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある",
+    "link": "https://qiita.com/nogataka/items/cace9602e4eaea995cc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-17T02:43:54.000Z"
   },
   {
     "site": "Zenn",
@@ -91,21 +109,27 @@
   },
   {
     "site": "Qiita",
-    "title": "【AWS re:Invent 2025レポート】量産開発経験者が行くre:Invent",
-    "link": "https://qiita.com/y_wakai/items/9e5f003ed1c373aecc78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-17T00:17:19.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【15分で追いつく！】今のClaude Codeができることをざっくり解説",
     "link": "https://qiita.com/kyuko/items/77e9e022860b57e4bd4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-17T00:01:54.000Z"
   },
   {
     "site": "Zenn",
+    "title": "RAGで「ベクトル検索」が要る時、要らない時",
+    "link": "https://zenn.dev/knowledgesense/articles/b01609ba4f8d96",
+    "pubDate": "Tue, 17 Feb 2026 00:01:02 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】",
     "link": "https://zenn.dev/helloworld/articles/5c69b2981d5199",
     "pubDate": "Mon, 16 Feb 2026 22:00:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌",
+    "link": "https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-16T20:50:43.000Z"
   },
   {
     "site": "Zenn",
@@ -115,27 +139,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Excel 方眼紙を GitHub Copilot に食わせてみた",
-    "link": "https://zenn.dev/microsoft/articles/github-copilot-excel-hoganshi",
-    "pubDate": "Mon, 16 Feb 2026 14:36:11 GMT"
+    "title": "Claude Codeに「アイデア発掘スキル」を作らせたら、3つの穴場市場を見つけてきた",
+    "link": "https://zenn.dev/s4kura/articles/claude-code-indie-idea-scout-skill",
+    "pubDate": "Mon, 16 Feb 2026 15:41:49 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【冷や汗】「あ、それ上げちゃダメ！」GitHubに絶対pushしてはいけないファイル10選＆対策",
-    "link": "https://zenn.dev/kewa8579/articles/4aa92ec168313a",
-    "pubDate": "Mon, 16 Feb 2026 13:56:44 GMT"
+    "site": "Qiita",
+    "title": "【PHP】2026年の今こそPHPを始めるとき！",
+    "link": "https://qiita.com/rana_kualu/items/47872fec2c39e9415e67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-16T11:52:01.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "C#er のための GitHub Copilot が勝手に Python を実行するのを辞めさせたい場合の対処法",
-    "link": "https://zenn.dev/microsoft/articles/github-copilot-csharp-scripting",
-    "pubDate": "Mon, 16 Feb 2026 13:43:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "初心者向けプログラミング学習サービス「Codize」を公開しました",
-    "link": "https://zenn.dev/kou_pg_0131/articles/codize-introduction",
-    "pubDate": "Mon, 16 Feb 2026 09:00:04 GMT"
+    "site": "Qiita",
+    "title": "エンジニアが「仕様待ち」にならないための、ビジネス要件を技術実装に落とし込むコミュニケーション術とドキュメント作成",
+    "link": "https://qiita.com/YushiYamamoto/items/422591df50d6e3b85e5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-16T11:33:18.000Z"
   },
   {
     "site": "Qiita",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "家のSwitchBotデバイスをLambdaとAmazon Bedrockで定期的に監視し自律的に操作させた",
-    "link": "https://qiita.com/kexi/items/b8926d59254b95aec8fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-15T08:25:15.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌",
     "link": "https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-15T08:02:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "結局 Python は遅いのか",
-    "link": "https://qiita.com/k2-gc/items/7b8a5e65873a35ea72dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-15T05:23:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアの勉強って結局どうやれば良いの？を再度考えてみました",
-    "link": "https://qiita.com/nAotO01_03/items/99cf932786dad3b3ec05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-14T23:58:46.000Z"
   }
 ]
