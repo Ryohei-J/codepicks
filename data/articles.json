@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「AIを使えば劇的に生産性が上がる」は本当か？cc-sdd導入前後のデプロイ頻度データから見えた、AI時代のチーム開発の\"本当のボトルネック\"。 - Timee Product Team Blog",
+    "link": "https://tech.timee.co.jp/entry/2026/02/19/190000",
+    "pubDate": "2026-02-19T10:12:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "venv？conda？ Python周りの面倒な環境管理を一元化するVS Code拡張機能が登場／1年のプレビュー期間を経てMicrosoftが「Python Environments」を一般公開",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2087199.html",
+    "pubDate": "2026-02-19T09:32:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【MCP×LINE】AIに「LINEを送る力」を授けよう！",
+    "link": "https://zenn.dev/4geru/books/mcp-line-handson",
+    "pubDate": "Thu, 19 Feb 2026 07:55:07 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "年収2500万でも貧困層？ 米マイクロソフトに18年勤務した日本人エンジニアが「日本は健全」と語るワケ - エンジニアtype | 転職type",
     "link": "https://type.jp/et/feature/30493/",
     "pubDate": "2026-02-19T06:31:15.000Z"
@@ -24,16 +42,16 @@
     "pubDate": "2026-02-19T02:59:02.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン - Qiita",
+    "link": "https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312",
+    "pubDate": "2026-02-19T02:58:41.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ブックマークしておくと便利！ さまざまなデバイスのスクリーンサイズ・解像度・ピクセル密度などの仕様が一覧できる -What Is My Screen Size?",
     "link": "https://coliss.com/articles/build-websites/operation/work/screen-sizes-and-resolutions-for-different-devices.html",
     "pubDate": "2026-02-19T01:05:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Geminiが歌を手に入れた。日本語の楽曲をチャットで作れるGoogle Lyria 3を使ってわかった限界（CloseBox） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/02/19/4873.html",
-    "pubDate": "2026-02-19T00:24:26.000Z"
   },
   {
     "site": "Zenn",
@@ -43,27 +61,15 @@
   },
   {
     "site": "Hatena",
-    "title": "【レビュー】 “崖っぷちダビング文化”に援軍現る!? アイ・オーのPCドライブ「BDレコ」使ってみた",
-    "link": "https://av.watch.impress.co.jp/docs/review/review/2086640.html",
-    "pubDate": "2026-02-18T23:14:32.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "アサヒグループHD、ランサムウェア攻撃によるシステム障害について、調査が完了した内容と再発防止策を公開　取引先や従業員の情報約11万5000件の漏えいを確認",
     "link": "https://internet.watch.impress.co.jp/docs/news/2087007.html",
     "pubDate": "2026-02-18T22:59:59.000Z"
   },
   {
     "site": "Qiita",
-    "title": "AIに「ペルソナ」を与えるだけで、UIデザインはここまで化ける - Qiita",
+    "title": "AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける - Qiita",
     "link": "https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3",
     "pubDate": "2026-02-18T16:25:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "小1にGemini使わせてみたら、AIより先に困ったことがあった",
-    "link": "https://zenn.dev/nexta_/articles/f001c370c7df1d",
-    "pubDate": "2026-02-18T16:00:40.000Z"
   },
   {
     "site": "Qiita",
@@ -142,12 +148,6 @@
     "title": "Supabase、RLSを外したらcurlで全データ返ってきた——150万APIキー漏洩の再現【後編】",
     "link": "https://zenn.dev/helloworld/articles/0abb8169ac05b9",
     "pubDate": "Tue, 17 Feb 2026 22:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜExcel/VBAは軽視されるのか：技術ヒエラルキーと現場・管理の非対称性",
-    "link": "https://zenn.dev/minipoisson/articles/psychology-of-technical-hierarchy",
-    "pubDate": "Tue, 17 Feb 2026 15:56:03 GMT"
   },
   {
     "site": "Qiita",
