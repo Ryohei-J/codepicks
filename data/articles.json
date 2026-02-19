@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "React 19時代のコンポーネント設計ベストプラクティス",
-    "link": "https://speakerdeck.com/uhyo/react-19shi-dai-nokonponentoshe-ji-besutopurakuteisu",
-    "pubDate": "2026-02-18T10:26:12.000Z"
+    "title": "アサヒグループHD、ランサムウェア攻撃によるシステム障害について、調査が完了した内容と再発防止策を公開　取引先や従業員の情報約11万5000件の漏えいを確認",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2087007.html",
+    "pubDate": "2026-02-18T22:59:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "剱岳の雪崩事故、iPhoneの“衛星SOS”で救助要請に成功",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/18/news103.html",
-    "pubDate": "2026-02-18T07:03:58.000Z"
+    "title": "【西川和久の不定期コラム】 人間なら半日の作業が2時間に。ローカルLLM「Qwen3 Coder Next」で爆速開発",
+    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2086975.html",
+    "pubDate": "2026-02-18T22:26:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIに「ペルソナ」を与えるだけで、UIデザインはここまで化ける - Qiita",
+    "link": "https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3",
+    "pubDate": "2026-02-18T16:25:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "小1にGemini使わせてみたら、AIより先に困ったことがあった",
+    "link": "https://zenn.dev/nexta_/articles/f001c370c7df1d",
+    "pubDate": "2026-02-18T16:00:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "時系列統計データ検索サイトにおけるAPI機能の提供開始 : 日本銀行 Bank of Japan",
+    "link": "https://www.boj.or.jp/statistics/outline/notice_2026/not260218a.htm",
+    "pubDate": "2026-02-18T11:56:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【忙しい人向け】30分でAgentCoreとStrandsに入門！",
+    "link": "https://qiita.com/minorun365/items/6b8fa1d65f992dc2fc1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-18T11:41:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる - Qiita",
+    "link": "https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74",
+    "pubDate": "2026-02-18T09:54:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIに「ペルソナ」を与えるだけで、UIデザインはここまで化ける",
+    "link": "https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-18T05:36:15.000Z"
   },
   {
     "site": "Hatena",
@@ -19,21 +55,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AnkerからAIボイスレコーダー「Soundcore Work」が発売、世界最小でAI文字起こしや要約",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2086707.html",
-    "pubDate": "2026-02-18T05:08:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "\"ビビる大木AI\"を生放送で喋らせた全技術 — ラヴィット!裏側",
-    "link": "https://zenn.dev/t_honda/articles/loveit-ai-voice-pipeline",
-    "pubDate": "2026-02-18T04:19:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "航空機内でモバイルバッテリーの使用禁止へ 4月から 国交省 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015054951000",
-    "pubDate": "2026-02-18T03:35:57.000Z"
+    "title": "ソフトウェア工学をコンピュータサイエンスとよぶのはおかしい - 芳賀 雅樹 のページ",
+    "link": "https://silasol.la/posts/2026-02-18-01_software-engineering-is-not-cs/",
+    "pubDate": "2026-02-18T02:53:19.000Z"
   },
   {
     "site": "Qiita",
@@ -42,10 +66,22 @@
     "pubDate": "2026-02-18T01:40:08.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "仕事が遅い人の特徴を自分で分析してみた",
+    "link": "https://qiita.com/kmatsuda_slj/items/8e5c36e43f430a4b4f9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-18T00:40:01.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "bump というバージョンバンプツールを作った",
     "link": "https://zenn.dev/mattn/articles/28ff86d209d081",
     "pubDate": "Wed, 18 Feb 2026 00:26:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Codex v0.102 Multi-Agent 動作検証",
+    "link": "https://zenn.dev/optiverse_now/articles/28d5a30f240b8e",
+    "pubDate": "Wed, 18 Feb 2026 00:17:05 GMT"
   },
   {
     "site": "Zenn",
@@ -66,22 +102,16 @@
     "pubDate": "2026-02-17T19:58:08.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Codex 5.3 と Opus 4.6 どう使い分ける？実務で使って分かったこと",
+    "link": "https://zenn.dev/ichigoooo/articles/327c52983b18a3",
+    "pubDate": "Tue, 17 Feb 2026 15:41:30 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【宇宙最速レビュー】AWSではじめるMCP実践ガイド",
     "link": "https://qiita.com/minorun365/items/fe3446e3f2a8c33efdfb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-17T15:32:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアは全員コーディングエージェントにダイブしたらええんちゃう？という話｜牛尾　剛",
-    "link": "https://note.com/simplearchitect/n/n0de0a2e8bc6e",
-    "pubDate": "2026-02-17T15:27:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エプスタイン文書を「使い慣れたUI」で丸裸にする開発者たち｜情報の灯台",
-    "link": "https://note.com/joho_no_todai/n/nb1bfe7a329c9",
-    "pubDate": "2026-02-17T15:15:14.000Z"
   },
   {
     "site": "Zenn",
@@ -94,6 +124,12 @@
     "title": "【Claude Code】Agent Teamsに「ホワイトボード」を1つ置いたら、分業が協働に変わった",
     "link": "https://zenn.dev/happy_elements/articles/da2dda3618425c",
     "pubDate": "Tue, 17 Feb 2026 04:06:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "tmuxユーザーだけどtmuxのペイン分割をあまり使ってこなかった人のためのページ",
+    "link": "https://zenn.dev/arm_techblog/articles/1e17250f400604",
+    "pubDate": "Tue, 17 Feb 2026 03:25:50 GMT"
   },
   {
     "site": "Qiita",
@@ -109,45 +145,27 @@
   },
   {
     "site": "Qiita",
+    "title": "依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる",
+    "link": "https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-17T01:52:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「Excelみたいな表がよくて・・・」は数億円の請求と同じ意味？ 発注者が心得るべき「要望の解像度」の上げ方",
+    "link": "https://zenn.dev/ncdc/articles/2dca8719d05dfa",
+    "pubDate": "Tue, 17 Feb 2026 00:45:46 GMT"
+  },
+  {
+    "site": "Qiita",
     "title": "【15分で追いつく！】今のClaude Codeができることをざっくり解説",
     "link": "https://qiita.com/kyuko/items/77e9e022860b57e4bd4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-17T00:01:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGで「ベクトル検索」が要る時、要らない時",
-    "link": "https://zenn.dev/knowledgesense/articles/b01609ba4f8d96",
-    "pubDate": "Tue, 17 Feb 2026 00:01:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】",
-    "link": "https://zenn.dev/helloworld/articles/5c69b2981d5199",
-    "pubDate": "Mon, 16 Feb 2026 22:00:01 GMT"
   },
   {
     "site": "Qiita",
     "title": "Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌",
     "link": "https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-16T20:50:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIがペネトレーションテストを自動化する時代が来た——2026年の主要ツールまとめ",
-    "link": "https://zenn.dev/frsk/articles/ai-pentesting-tools-2026",
-    "pubDate": "Mon, 16 Feb 2026 17:38:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeに「アイデア発掘スキル」を作らせたら、3つの穴場市場を見つけてきた",
-    "link": "https://zenn.dev/s4kura/articles/claude-code-indie-idea-scout-skill",
-    "pubDate": "Mon, 16 Feb 2026 15:41:49 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【PHP】2026年の今こそPHPを始めるとき！",
-    "link": "https://qiita.com/rana_kualu/items/47872fec2c39e9415e67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-16T11:52:01.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "【前編】「で、\"結局\"今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない",
     "link": "https://qiita.com/hitomin_poke/items/bd39652d49addcb116d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-16T05:36:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Chrome の拡張機能を公開したら自分の住所も公開した話",
-    "link": "https://qiita.com/KaitoMuraoka/items/21684a9fcaa046f82988?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-15T15:05:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "draw.io MCP + Playwright MCP で画面設計書を自動生成してみた（GitHub Copilot Agent Skills）",
-    "link": "https://qiita.com/Ymmy/items/1d84037b3b9a499167de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-15T12:49:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【緊急】AIエージェントの12%がマルウェアだった。OpenClaw史上最悪のサプライチェーン攻撃の全貌",
-    "link": "https://qiita.com/emi_ndk/items/bf3b5f0f3eef99a4d124?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-15T08:02:46.000Z"
   }
 ]
