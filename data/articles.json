@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "非接触スキミング — “タッチ決済”のセキュリティにおける誤解【鈴木淳也のPay Attention】",
+    "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2087446.html",
+    "pubDate": "2026-02-19T23:43:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「SaaSの死」次の標的はどこか　地雷原と化すAI相場、優良株半値の衝撃 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN190QR0Z10C26A2000000/",
+    "pubDate": "2026-02-19T20:22:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub、リポジトリに対するプルリクエストをコラボレーターのみに制限する、あるいは完全に無効にする設定を可能に",
+    "link": "https://www.publickey1.jp/blog/26/github_14.html",
+    "pubDate": "2026-02-19T15:35:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PlaywrightではじめるE2Eテスト入門（後編） - ICS MEDIA",
+    "link": "https://ics.media/entry/260219/",
+    "pubDate": "2026-02-19T11:51:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「AIを使えば劇的に生産性が上がる」は本当か？cc-sdd導入前後のデプロイ頻度データから見えた、AI時代のチーム開発の\"本当のボトルネック\"。 - Timee Product Team Blog",
     "link": "https://tech.timee.co.jp/entry/2026/02/19/190000",
     "pubDate": "2026-02-19T10:12:13.000Z"
   },
   {
     "site": "Hatena",
-    "title": "venv？conda？ Python周りの面倒な環境管理を一元化するVS Code拡張機能が登場／1年のプレビュー期間を経てMicrosoftが「Python Environments」を一般公開",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2087199.html",
-    "pubDate": "2026-02-19T09:32:47.000Z"
+    "title": "Claude Codeが短期投資家に与える影響｜UKI",
+    "link": "https://note.com/uki_profit/n/na31ed1225e20",
+    "pubDate": "2026-02-19T09:28:36.000Z"
   },
   {
     "site": "Zenn",
@@ -24,18 +48,6 @@
     "pubDate": "2026-02-19T06:31:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NVIDIAが日本語特化の小型AIモデル「Nemotron-Nano-9B-v2-Japanese」を公開、10B以下で最高性能を達成し商用利用可能",
-    "link": "https://gigazine.net/news/20260219-nvidia-nemotron-2-nano-9b-japanese/",
-    "pubDate": "2026-02-19T05:18:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Microsoftの「ガラスにデータを1万年以上保存する技術」が進歩して家庭用ガラスにもデータを記録可能に",
-    "link": "https://gigazine.net/news/20260219-microsoft-research-project-silica-advances/",
-    "pubDate": "2026-02-19T03:40:31.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "PRレビュー、順番待ちやめました — AI時代の\"交通整理\"を自動化した話",
     "link": "https://qiita.com/sapeet-lin/items/3b03cf922886bca5c661?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -48,10 +60,10 @@
     "pubDate": "2026-02-19T02:58:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ブックマークしておくと便利！ さまざまなデバイスのスクリーンサイズ・解像度・ピクセル密度などの仕様が一覧できる -What Is My Screen Size?",
-    "link": "https://coliss.com/articles/build-websites/operation/work/screen-sizes-and-resolutions-for-different-devices.html",
-    "pubDate": "2026-02-19T01:05:02.000Z"
+    "site": "Zenn",
+    "title": "gitのちょっとした手間を解決するCLI、gut-cliを作りました",
+    "link": "https://zenn.dev/steelydylan/articles/why-i-created-gut-cli",
+    "pubDate": "Thu, 19 Feb 2026 00:31:03 GMT"
   },
   {
     "site": "Zenn",
@@ -60,28 +72,10 @@
     "pubDate": "Thu, 19 Feb 2026 00:00:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "アサヒグループHD、ランサムウェア攻撃によるシステム障害について、調査が完了した内容と再発防止策を公開　取引先や従業員の情報約11万5000件の漏えいを確認",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2087007.html",
-    "pubDate": "2026-02-18T22:59:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける - Qiita",
-    "link": "https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3",
-    "pubDate": "2026-02-18T16:25:02.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude CodeとCodexで使える、OCI構成図を自然言語から自動生成するSkillsを作った",
     "link": "https://qiita.com/araidon/items/db26d1a9d9916365d60e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-18T12:39:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【忙しい人向け】30分でAgentCoreとStrandsに入門！",
-    "link": "https://qiita.com/minorun365/items/6b8fa1d65f992dc2fc1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-18T11:41:28.000Z"
   },
   {
     "site": "Zenn",
@@ -106,6 +100,12 @@
     "title": "話題のmicrogptを早速試してみる",
     "link": "https://zenn.dev/aiforall/articles/e5733531811e0e",
     "pubDate": "Wed, 18 Feb 2026 05:26:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "『Linuxのしくみ』1章：Linuxの全体像を理解する",
+    "link": "https://zenn.dev/baker_link_lab/articles/linux-no-shikumi-ch1-summary",
+    "pubDate": "Wed, 18 Feb 2026 03:56:58 GMT"
   },
   {
     "site": "Zenn",
@@ -138,16 +138,10 @@
     "pubDate": "Tue, 17 Feb 2026 23:37:47 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "\"ビビる大木AI\"を生放送で喋らせた全技術 — ラヴィット!裏側",
-    "link": "https://zenn.dev/t_honda/articles/loveit-ai-voice-pipeline",
-    "pubDate": "Tue, 17 Feb 2026 22:00:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Supabase、RLSを外したらcurlで全データ返ってきた——150万APIキー漏洩の再現【後編】",
-    "link": "https://zenn.dev/helloworld/articles/0abb8169ac05b9",
-    "pubDate": "Tue, 17 Feb 2026 22:00:01 GMT"
+    "site": "Qiita",
+    "title": "アイデア出しに困ったら、Agent Skillsを使って8人の専門家とブレストしてみませんか？",
+    "link": "https://qiita.com/nogataka/items/e49ae37c8534addd6cee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-17T07:43:19.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "Claude Code作者が全公開！9種のカスタマイズ手段と設定の全貌",
     "link": "https://qiita.com/dai_chi/items/252fb5ef031127784757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-16T20:50:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MCPをAgent Skillsのように軽量化する新手法、MCP Lightの紹介",
+    "link": "https://nyosegawa.github.io/posts/mcp-light/",
+    "pubDate": "2026-02-13T12:29:15.000Z"
   }
 ]
