@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "チームみらい・安野党首、都知事選「AIあんの」で「福島」をNGに⇨「ハルシネーション防止」。福島との向き合い方に「人間あんの」は",
+    "link": "https://www.huffingtonpost.jp/entry/story_jp_699675a5e4b0f4c9ebbe5253",
+    "pubDate": "2026-02-20T03:07:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ、AIで生産性があがっていると錯覚してしまうのか",
+    "link": "https://hirokidaichi.github.io/presentation/devsummit.html",
+    "pubDate": "2026-02-20T03:05:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「自分、いけます」Suicaペンギン後継に他社キャラ続々立候補　Duolingoのフクロウ、ポスペのモモ、Pontaのたぬきまで",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/20/news062.html",
+    "pubDate": "2026-02-20T02:02:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "非接触スキミング — “タッチ決済”のセキュリティにおける誤解【鈴木淳也のPay Attention】",
     "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2087446.html",
     "pubDate": "2026-02-19T23:43:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェント × knipで無駄コードを簡単に掃除",
+    "link": "https://zenn.dev/knowledgework/articles/knip-with-ai-agent",
+    "pubDate": "Thu, 19 Feb 2026 23:12:14 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoft、安価なガラスでも1万年データを保存できる技術",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2087385.html",
+    "pubDate": "2026-02-19T21:26:07.000Z"
   },
   {
     "site": "Hatena",
@@ -13,27 +43,21 @@
   },
   {
     "site": "Hatena",
-    "title": "GitHub、リポジトリに対するプルリクエストをコラボレーターのみに制限する、あるいは完全に無効にする設定を可能に",
-    "link": "https://www.publickey1.jp/blog/26/github_14.html",
-    "pubDate": "2026-02-19T15:35:40.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "PlaywrightではじめるE2Eテスト入門（後編） - ICS MEDIA",
     "link": "https://ics.media/entry/260219/",
     "pubDate": "2026-02-19T11:51:20.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「AIを使えば劇的に生産性が上がる」は本当か？cc-sdd導入前後のデプロイ頻度データから見えた、AI時代のチーム開発の\"本当のボトルネック\"。 - Timee Product Team Blog",
-    "link": "https://tech.timee.co.jp/entry/2026/02/19/190000",
-    "pubDate": "2026-02-19T10:12:13.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Claude Codeが短期投資家に与える影響｜UKI",
     "link": "https://note.com/uki_profit/n/na31ed1225e20",
     "pubDate": "2026-02-19T09:28:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "図形フル活用の PowerPoint を GitHub Copilot に読ませてみた",
+    "link": "https://zenn.dev/microsoft/articles/github-copilot-cli-pptx",
+    "pubDate": "Thu, 19 Feb 2026 08:08:04 GMT"
   },
   {
     "site": "Zenn",
@@ -48,16 +72,16 @@
     "pubDate": "2026-02-19T06:31:15.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "プログラミングが「全くできない人」の頭の中を解剖してみた",
+    "link": "https://zenn.dev/rabee/articles/2d9ab1789b707d",
+    "pubDate": "Thu, 19 Feb 2026 04:18:53 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "PRレビュー、順番待ちやめました — AI時代の\"交通整理\"を自動化した話",
     "link": "https://qiita.com/sapeet-lin/items/3b03cf922886bca5c661?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-19T02:59:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン - Qiita",
-    "link": "https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312",
-    "pubDate": "2026-02-19T02:58:41.000Z"
   },
   {
     "site": "Zenn",
@@ -72,10 +96,22 @@
     "pubDate": "Thu, 19 Feb 2026 00:00:10 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Claude CodeのようなAI エージェントにEC2を安全に調査させるSSMガードレールの設計",
+    "link": "https://zenn.dev/applibot_tech/articles/0e3889b25fd56b",
+    "pubDate": "Wed, 18 Feb 2026 23:55:28 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude CodeとCodexで使える、OCI構成図を自然言語から自動生成するSkillsを作った",
     "link": "https://qiita.com/araidon/items/db26d1a9d9916365d60e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-18T12:39:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "シニアエンジニアが呼吸するようにやっている「調査 / 切り分けの思考の型」",
+    "link": "https://zenn.dev/atrae/articles/d3d31ad0413bf3",
+    "pubDate": "Wed, 18 Feb 2026 11:37:53 GMT"
   },
   {
     "site": "Zenn",
@@ -84,58 +120,22 @@
     "pubDate": "Wed, 18 Feb 2026 11:07:01 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "AI エージェントのワークフローをスキルで自動化する ― Just Do It!",
+    "link": "https://zenn.dev/kenfdev/articles/e27d49b8dc12e4",
+    "pubDate": "Wed, 18 Feb 2026 11:00:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける",
     "link": "https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-18T05:36:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "お前らなんで放送大学入らんの？快活クラブ、Apple製品、Amazonプライム、Office、公共交通機関、Adobe　全部学割なるで : 哲学ニュースnwk",
-    "link": "https://nwknews.jp/archives/6232291.html",
-    "pubDate": "2026-02-18T05:35:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "話題のmicrogptを早速試してみる",
-    "link": "https://zenn.dev/aiforall/articles/e5733531811e0e",
-    "pubDate": "Wed, 18 Feb 2026 05:26:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "『Linuxのしくみ』1章：Linuxの全体像を理解する",
-    "link": "https://zenn.dev/baker_link_lab/articles/linux-no-shikumi-ch1-summary",
-    "pubDate": "Wed, 18 Feb 2026 03:56:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "階層的 RAG (Hierarchical RAG) の実装",
-    "link": "https://zenn.dev/aprender/articles/11fe7de0aef29c",
-    "pubDate": "Wed, 18 Feb 2026 03:48:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン",
     "link": "https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-18T03:00:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "bump というバージョンバンプツールを作った",
-    "link": "https://zenn.dev/mattn/articles/28ff86d209d081",
-    "pubDate": "Wed, 18 Feb 2026 00:26:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codex v0.102 Multi-Agent 動作検証",
-    "link": "https://zenn.dev/optiverse_now/articles/28d5a30f240b8e",
-    "pubDate": "Wed, 18 Feb 2026 00:17:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人開発のAIエージェントに『Bun + Hono + Drizzle + SQLite』が最強な理由",
-    "link": "https://zenn.dev/kazuki_okura/articles/bun-hono-drizzle-sqlite-ai-agent-stack",
-    "pubDate": "Tue, 17 Feb 2026 23:37:47 GMT"
   },
   {
     "site": "Qiita",
