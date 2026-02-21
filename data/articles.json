@@ -1,5 +1,41 @@
 [
   {
+    "site": "Hatena",
+    "title": "AIに踊らされず自分の思考を取り戻す方法とは？",
+    "link": "https://gigazine.net/news/20260221-ai-cognitive-atrophy-risk/",
+    "pubDate": "2026-02-21T09:22:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "デスクトップ Claude Code の Preview 機能で UI を直接確認する",
+    "link": "https://azukiazusa.dev/blog/claude-code-preview/",
+    "pubDate": "2026-02-21T05:24:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "文字コードの話",
+    "link": "https://speakerdeck.com/qnighy/encoding",
+    "pubDate": "2026-02-21T04:30:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ガストで人を介さず「テーブル決済」、食い逃げ対策はあるのか？　すかいらーくに聞いた安心の仕組み",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2602/21/news009.html",
+    "pubDate": "2026-02-21T03:24:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ごく個人的なClaude Codeプラクティス集",
+    "link": "https://zenn.dev/hawkymisc/articles/2cace1f599cc06",
+    "pubDate": "2026-02-21T01:11:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ごく個人的なClaude Codeプラクティス集",
+    "link": "https://zenn.dev/hawkymisc/articles/2cace1f599cc06",
+    "pubDate": "Fri, 20 Feb 2026 17:27:33 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "Cloudflare無料プランだけで個人サイトのセキュリティが完結した話",
     "link": "https://zenn.dev/yostos/articles/cloudflare-benefits",
@@ -12,22 +48,16 @@
     "pubDate": "2026-02-20T13:57:45.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Qwen3-SwallowをBedrockにインポートする",
+    "link": "https://qiita.com/moritalous/items/2e90e85776b77da8d350?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-20T13:50:45.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Qwen3-Swallow & GPT-OSS-Swallow",
     "link": "https://zenn.dev/tokyotech_lm/articles/fa56f10e51fd7d",
     "pubDate": "Fri, 20 Feb 2026 09:15:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "モジュラモノリスで急成長SaaSをスケール - マイクロサービス移行の判断基準",
-    "link": "https://zenn.dev/neoai/articles/2b8ee68d99e545",
-    "pubDate": "Fri, 20 Feb 2026 09:00:04 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Ubuntu 26.04（resolute）の開発;「ソフトウェアとアップデート」の整理、Ubuntu 24.04.4のリリース、Open Source Conference 2026 Tokyo/Spring＠駒澤大学、ハイブリッド鍵交換の必要性 | gihyo.jp",
-    "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202602/20",
-    "pubDate": "2026-02-20T08:48:50.000Z"
   },
   {
     "site": "Zenn",
@@ -42,6 +72,12 @@
     "pubDate": "2026-02-20T08:00:31.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "DSPyでドメインエキスパートに挑んだ結果、返り討ちにあった話",
+    "link": "https://zenn.dev/coten/articles/8a3628b07f8fd1",
+    "pubDate": "Fri, 20 Feb 2026 05:50:57 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Claude Codeで実践する仕様(スペック)駆動開発入門 - yoshidashingo",
     "link": "https://yoshidashingo.com/entry/sdd-with-claude_code",
@@ -49,15 +85,9 @@
   },
   {
     "site": "Zenn",
-    "title": "シニアエンジニアが呼吸するようにやっている「調査 / 切り分けの思考の型」",
-    "link": "https://zenn.dev/atrae/articles/d3d31ad0413bf3",
-    "pubDate": "2026-02-20T05:02:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Github Copilotを標準機能の範囲で賢くしよう - Qiita",
-    "link": "https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85",
-    "pubDate": "2026-02-20T04:41:17.000Z"
+    "title": "Jujutsuを使った新しいバージョン管理の形",
+    "link": "https://zenn.dev/sun_asterisk/articles/using-jj-granular-commits-and-branches",
+    "pubDate": "Fri, 20 Feb 2026 05:00:34 GMT"
   },
   {
     "site": "Zenn",
@@ -73,15 +103,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeを起動するたび出てくるオレンジの生き物、お前は一体何なんだ",
+    "link": "https://zenn.dev/tutupizizizi/articles/claude-code-clawd-mascot",
+    "pubDate": "Fri, 20 Feb 2026 00:03:03 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIエージェント × knipで無駄コードを簡単に掃除",
     "link": "https://zenn.dev/knowledgework/articles/knip-with-ai-agent",
     "pubDate": "Thu, 19 Feb 2026 23:12:14 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPTもGeminiもまとめて使える？ Genspark AI 2.0日本上陸、音楽制作にも効く統合AIを検証",
-    "link": "https://www.dtmstation.com/archives/76150.html",
-    "pubDate": "2026-02-19T22:32:37.000Z"
   },
   {
     "site": "Qiita",
@@ -96,34 +126,16 @@
     "pubDate": "Thu, 19 Feb 2026 21:31:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "30分でわかるアーキテクチャモダナイゼーション",
-    "link": "https://speakerdeck.com/nwiizo/30fen-dewakaruakitekutiyamodanaizesiyon",
-    "pubDate": "2026-02-19T14:08:12.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【2026年版】AWS SAP(SAP-C02)直前対策チートシート",
     "link": "https://qiita.com/kentaro_kawamura/items/95463600ab243203318f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-19T10:02:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIコーディングエージェント時代のReactコード診断ツール「React Doctor」",
-    "link": "https://zenn.dev/my_vision/articles/34a92a674a7c47",
-    "pubDate": "Thu, 19 Feb 2026 09:16:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "図形フル活用の PowerPoint を GitHub Copilot に読ませてみた",
-    "link": "https://zenn.dev/microsoft/articles/github-copilot-cli-pptx",
-    "pubDate": "Thu, 19 Feb 2026 08:08:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【MCP×LINE】AIに「LINEを送る力」を授けよう！",
-    "link": "https://zenn.dev/4geru/books/mcp-line-handson",
-    "pubDate": "Thu, 19 Feb 2026 07:55:07 GMT"
+    "site": "Qiita",
+    "title": "無料で使い放題のローカルLLM「Ollama」を試してみた！",
+    "link": "https://qiita.com/hiroki2712/items/918db5c912f436a62e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-19T09:57:10.000Z"
   },
   {
     "site": "Qiita",
@@ -157,21 +169,9 @@
   },
   {
     "site": "Qiita",
-    "title": "AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける",
-    "link": "https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-18T05:36:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン",
-    "link": "https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-18T03:00:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "仕事が遅い人の特徴を自分で分析してみた",
-    "link": "https://qiita.com/kmatsuda_slj/items/8e5c36e43f430a4b4f9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-18T00:40:01.000Z"
+    "title": "【個人開発】「砂を箱に詰める実験」から着想を得た、物理ベースの学習最適化手法 〜ニューラルネットを\"揺らす\"と学習は加速するか？〜",
+    "link": "https://qiita.com/yomawari-san/items/0739169b8a1615e02e0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-18T12:22:17.000Z"
   },
   {
     "site": "Zenn",
