@@ -1,11 +1,5 @@
 [
   {
-    "site": "Hatena",
-    "title": "Making frontier cybersecurity capabilities available to defenders",
-    "link": "https://www.anthropic.com/news/claude-code-security",
-    "pubDate": "2026-02-20T18:48:50.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Cloudflare無料プランだけで個人サイトのセキュリティが完結した話",
     "link": "https://zenn.dev/yostos/articles/cloudflare-benefits",
@@ -30,6 +24,12 @@
     "pubDate": "Fri, 20 Feb 2026 09:00:04 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "Ubuntu 26.04（resolute）の開発;「ソフトウェアとアップデート」の整理、Ubuntu 24.04.4のリリース、Open Source Conference 2026 Tokyo/Spring＠駒澤大学、ハイブリッド鍵交換の必要性 | gihyo.jp",
+    "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202602/20",
+    "pubDate": "2026-02-20T08:48:50.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Cloudflare無料プランだけで個人サイトのセキュリティが完結した話",
     "link": "https://zenn.dev/yostos/articles/cloudflare-benefits",
@@ -40,6 +40,12 @@
     "title": "自社サービスの知識をClaude Codeに覚えさせたかったのでMCPサーバーを作ってみた | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/growthpack-mcp/",
     "pubDate": "2026-02-20T08:00:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeで実践する仕様(スペック)駆動開発入門 - yoshidashingo",
+    "link": "https://yoshidashingo.com/entry/sdd-with-claude_code",
+    "pubDate": "2026-02-20T05:36:56.000Z"
   },
   {
     "site": "Zenn",
@@ -54,28 +60,10 @@
     "pubDate": "2026-02-20T04:41:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "非同期設計ガイドラインを公開しました | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20260220a/",
-    "pubDate": "2026-02-20T04:38:21.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "\"世界変わる\"——非エンジニアでもできる、 Claude Code による n8n ワークフロー開発",
     "link": "https://zenn.dev/ubie_dev/articles/6b23a74187766b",
     "pubDate": "Fri, 20 Feb 2026 03:49:34 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "チームみらい・安野党首、都知事選「AIあんの」で「福島」をNGに⇨「ハルシネーション防止」。福島との向き合い方に「人間あんの」は",
-    "link": "https://www.huffingtonpost.jp/entry/story_jp_699675a5e4b0f4c9ebbe5253",
-    "pubDate": "2026-02-20T03:07:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜ、AIで生産性があがっていると錯覚してしまうのか",
-    "link": "https://hirokidaichi.github.io/presentation/devsummit.html",
-    "pubDate": "2026-02-20T03:05:47.000Z"
   },
   {
     "site": "Zenn",
@@ -90,10 +78,22 @@
     "pubDate": "Thu, 19 Feb 2026 23:12:14 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "ChatGPTもGeminiもまとめて使える？ Genspark AI 2.0日本上陸、音楽制作にも効く統合AIを検証",
+    "link": "https://www.dtmstation.com/archives/76150.html",
+    "pubDate": "2026-02-19T22:32:37.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "製造業のための統計学・機械学習",
     "link": "https://qiita.com/Nospare_Inc/items/183a0855d9fd19ae5da9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-19T22:26:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人開発した「技術書ランキングサイト」が公開1日で1,000PV突破した裏側",
+    "link": "https://zenn.dev/codaccu/articles/540bbfe931888d",
+    "pubDate": "Thu, 19 Feb 2026 21:31:56 GMT"
   },
   {
     "site": "Hatena",
@@ -106,6 +106,12 @@
     "title": "【2026年版】AWS SAP(SAP-C02)直前対策チートシート",
     "link": "https://qiita.com/kentaro_kawamura/items/95463600ab243203318f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-19T10:02:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIコーディングエージェント時代のReactコード診断ツール「React Doctor」",
+    "link": "https://zenn.dev/my_vision/articles/34a92a674a7c47",
+    "pubDate": "Thu, 19 Feb 2026 09:16:14 GMT"
   },
   {
     "site": "Zenn",
@@ -126,22 +132,10 @@
     "pubDate": "2026-02-19T05:41:47.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "プログラミングが「全くできない人」の頭の中を解剖してみた",
-    "link": "https://zenn.dev/rabee/articles/2d9ab1789b707d",
-    "pubDate": "Thu, 19 Feb 2026 04:18:53 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較",
     "link": "https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-19T04:10:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "斜体はどうして選択範囲からはみ出るの？",
-    "link": "https://zenn.dev/morisawa/articles/08e848e52539c3",
-    "pubDate": "Thu, 19 Feb 2026 04:00:13 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "仕事が遅い人の特徴を自分で分析してみた",
     "link": "https://qiita.com/kmatsuda_slj/items/8e5c36e43f430a4b4f9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-18T00:40:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeチャット履歴はObsidianに保存",
+    "link": "https://zenn.dev/togo_asai/articles/0b5bbd51f2a7cc",
+    "pubDate": "2026-02-17T14:32:28.000Z"
   }
 ]
