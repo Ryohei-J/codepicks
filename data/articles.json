@@ -1,9 +1,21 @@
 [
   {
+    "site": "Hatena",
+    "title": "Claude Code で、広告バナー200本を15分で作るえぐい手順（やってみた） - izanami",
+    "link": "https://izanami.dev/post/33bc0c0f-4210-4f5e-90e5-4ee8efe9ac66",
+    "pubDate": "2026-02-22T06:11:52.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "プログラミング言語オタクとして改めてC#を語りたい",
     "link": "https://zenn.dev/nuskey/articles/why-i-use-csharp",
     "pubDate": "2026-02-22T03:32:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "数兆パラメータの時代に、無料GPU環境で3Bモデルを動かしたら想像以上だった",
+    "link": "https://zenn.dev/kozoka_ai/articles/4041c910f6280e",
+    "pubDate": "2026-02-22T01:19:15.000Z"
   },
   {
     "site": "Hatena",
@@ -31,9 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "米Orbic、日本市場から事実上の撤退か　オービックとの商標訴訟に敗訴、法人登記も抹消",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2602/22/news011.html",
-    "pubDate": "2026-02-21T21:34:21.000Z"
+    "title": "Boris Tane",
+    "link": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/",
+    "pubDate": "2026-02-21T20:47:33.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +60,22 @@
     "pubDate": "2026-02-21T17:00:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ブラウザがGPUメモリを使いすぎるので、サブGPUのRTX3050を使わせる - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/02/21/175505",
-    "pubDate": "2026-02-21T09:05:56.000Z"
+    "site": "Zenn",
+    "title": "現地訪問必須だったRaspberryPiの管理地獄に終止符-AWS Greengrass",
+    "link": "https://zenn.dev/masaru0208/articles/09b8fbbb3371f2",
+    "pubDate": "Sat, 21 Feb 2026 11:55:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【React】Strategyパターン実践編 〜マルチテナント対応を例に〜",
+    "link": "https://zenn.dev/sakisakiika/articles/f41abf4e0160a7",
+    "pubDate": "Sat, 21 Feb 2026 09:54:14 GMT"
   },
   {
     "site": "Qiita",
     "title": "【眺めるメモ帳】情報を浴びれるwebアプリを開発しました。",
     "link": "https://qiita.com/nakau0605/items/d6c9735ce0f7426a4fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-21T08:38:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustコンパイラで使われる新しいハッシュ関数「rustc-hash 2」について調べてみた",
-    "link": "https://zenn.dev/hatoo/articles/ad3d4a079e884b",
-    "pubDate": "Sat, 21 Feb 2026 08:09:11 GMT"
   },
   {
     "site": "Qiita",
@@ -103,12 +115,6 @@
   },
   {
     "site": "Zenn",
-    "title": "新デザインツールPencilはなぜエンジニアに刺さるのか",
-    "link": "https://zenn.dev/aria3/articles/pencil-dev-why-engineers-love-it",
-    "pubDate": "2026-02-21T02:07:51.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "ごく個人的なClaude Codeプラクティス集",
     "link": "https://zenn.dev/hawkymisc/articles/2cace1f599cc06",
     "pubDate": "Fri, 20 Feb 2026 17:27:33 GMT"
@@ -133,27 +139,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Ghostty + Claude Code で快適なターミナル開発環境を構築する",
+    "link": "https://zenn.dev/sprix_it/articles/a25ddd0ca4d175",
+    "pubDate": "Fri, 20 Feb 2026 10:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "数兆パラメータの時代に、無料GPU環境で3Bモデルを動かしたら想像以上だった",
+    "link": "https://zenn.dev/kozoka_ai/articles/4041c910f6280e",
+    "pubDate": "Fri, 20 Feb 2026 09:45:36 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Qwen3-Swallow & GPT-OSS-Swallow",
     "link": "https://zenn.dev/tokyotech_lm/articles/fa56f10e51fd7d",
     "pubDate": "Fri, 20 Feb 2026 09:15:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "モジュラモノリスで急成長SaaSをスケール - マイクロサービス移行の判断基準",
-    "link": "https://zenn.dev/neoai/articles/2b8ee68d99e545",
-    "pubDate": "Fri, 20 Feb 2026 09:00:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare無料プランだけで個人サイトのセキュリティが完結した話",
-    "link": "https://zenn.dev/yostos/articles/cloudflare-benefits",
-    "pubDate": "Fri, 20 Feb 2026 08:10:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Dockerfile のベストプラクティスを動かして学ぶ",
-    "link": "https://zenn.dev/frontendflat/articles/92ae8952baae15",
-    "pubDate": "Fri, 20 Feb 2026 06:25:05 GMT"
   },
   {
     "site": "Qiita",
