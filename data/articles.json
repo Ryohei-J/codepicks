@@ -1,15 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "プログラミング言語オタクとして改めてC#を語りたい",
+    "link": "https://zenn.dev/nuskey/articles/why-i-use-csharp",
+    "pubDate": "2026-02-22T03:32:54.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Anthropic 社内のマーケティングチームが Claude Code をガチ運用してた話 - izanami",
     "link": "https://izanami.dev/post/b56cafbc-4d8d-477a-8629-b5ef70282f2b",
     "pubDate": "2026-02-22T00:31:17.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した - Qiita",
+    "link": "https://qiita.com/emi_ndk/items/fb529b2ede94661e5287",
+    "pubDate": "2026-02-22T00:09:32.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Obsidian Web Clipper × Claude Codeで技術記事の自動整理をしてみた | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/obsidian-claude-clip/",
     "pubDate": "2026-02-21T22:12:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "10年前に予測されていた「なくなるとされた仕事」について、一次ソースを用いて深掘りしてみる｜破綻国家研究所",
+    "link": "https://note.com/hatankokka/n/nb21e45b658b4",
+    "pubDate": "2026-02-21T22:02:53.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +42,10 @@
     "pubDate": "2026-02-21T19:41:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "インシデント対応入門",
-    "link": "https://speakerdeck.com/grimoh/insidentodui-ying-ru-men",
-    "pubDate": "2026-02-21T11:23:59.000Z"
+    "site": "Qiita",
+    "title": "Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した",
+    "link": "https://qiita.com/emi_ndk/items/fb529b2ede94661e5287?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-21T17:00:22.000Z"
   },
   {
     "site": "Hatena",
@@ -36,10 +54,10 @@
     "pubDate": "2026-02-21T09:05:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「にゃんこ大戦争」インフラ“大引っ越し”の理由　なぜAWSからGoogle Cloudに？",
-    "link": "https://techtarget.itmedia.co.jp/tt/news/2602/21/news01.html",
-    "pubDate": "2026-02-21T08:41:12.000Z"
+    "site": "Qiita",
+    "title": "【眺めるメモ帳】情報を浴びれるwebアプリを開発しました。",
+    "link": "https://qiita.com/nakau0605/items/d6c9735ce0f7426a4fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-21T08:38:16.000Z"
   },
   {
     "site": "Zenn",
@@ -48,10 +66,22 @@
     "pubDate": "Sat, 21 Feb 2026 08:09:11 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【革命】コンテキスト長の限界を100倍突破！「Recursive Language Models」が2026年のAI開発を変える",
+    "link": "https://qiita.com/emi_ndk/items/394a21f2a49d6b4e22a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-21T08:03:12.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "プログラミング言語オタクとして改めてC#を語りたい",
     "link": "https://zenn.dev/nuskey/articles/why-i-use-csharp",
     "pubDate": "Sat, 21 Feb 2026 07:56:00 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Daily AlpacaHack 2/20 Dancing Cursorのwriteup",
+    "link": "https://qiita.com/mizore_fuyu/items/5727ed96f75a0ed29a28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-21T07:52:18.000Z"
   },
   {
     "site": "Zenn",
@@ -66,10 +96,10 @@
     "pubDate": "Sat, 21 Feb 2026 06:48:23 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "文字コードの話",
-    "link": "https://speakerdeck.com/qnighy/encoding",
-    "pubDate": "2026-02-21T04:30:58.000Z"
+    "site": "Qiita",
+    "title": "SaaSは死なない、ただし「人間がUIを触る前提の設計」は終わる──AIエージェント時代のSaaS再設計論 - Qiita",
+    "link": "https://qiita.com/nogataka/items/e04d1f6f417eec2bab54",
+    "pubDate": "2026-02-21T04:15:00.000Z"
   },
   {
     "site": "Zenn",
@@ -88,6 +118,12 @@
     "title": "【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。",
     "link": "https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-20T17:16:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "数十行の箇条書きから49枚の提案スライドへ — Claude Opus 4.6 × Slidev【プロンプト全文公開】",
+    "link": "https://qiita.com/ntaka329/items/a2b936b3796ed1ba7373?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-20T12:04:17.000Z"
   },
   {
     "site": "Zenn",
@@ -133,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【2026年版】AWS SAP(SAP-C02)直前対策チートシート",
-    "link": "https://qiita.com/kentaro_kawamura/items/95463600ab243203318f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-19T10:02:37.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "無料で使い放題のローカルLLM「Ollama」を試してみた！",
     "link": "https://qiita.com/hiroki2712/items/918db5c912f436a62e52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-19T09:57:10.000Z"
@@ -148,35 +178,5 @@
     "title": "Googleが音楽生成モデル「Lyria 3」をリリース！Lo-Fi BGMを作ってみた。",
     "link": "https://qiita.com/kentaro_kawamura/items/0d32e9bb21a7d34ca8ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-19T08:42:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "shadcn/ui → LiftKit 移行記 ── 「なぜか心地よいUI」の数学的正体を、コードで全部暴く",
-    "link": "https://qiita.com/YushiYamamoto/items/e19ed38f3dbbad3bba75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-19T06:10:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Github Copilotを標準機能の範囲で賢くしよう",
-    "link": "https://qiita.com/tetsuya-ito-hulft/items/a0a6daad237e97764b85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-19T05:41:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code・Copilot・Codex・Gemini・Cursorが同じスキルを読める時代──Agent Skills標準の実装を徹底比較",
-    "link": "https://qiita.com/nogataka/items/7476eb9dfc8bca4e0bb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-19T04:10:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "DatabricksとSnowflakeは何が根本的に違うのか？ ―設計思想から読み解く2大データプラットフォーム",
-    "link": "https://qiita.com/ktdatascience/items/a2a849bd360cec024a81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-19T01:41:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "残業60時間でも年間200時間の学習を確保する技術【エンジニアの時間戦略】 - Qiita",
-    "link": "https://qiita.com/handson-lab/items/95d9e92894bc99a34606",
-    "pubDate": "2026-02-18T16:04:35.000Z"
   }
 ]
