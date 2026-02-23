@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "最近15年ほどの世界的な出生率低下傾向について｜筒井淳也",
+    "link": "https://note.com/junya_tsutsui/n/n601cdf7e72eb",
+    "pubDate": "2026-02-23T02:26:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コードを理解する超軽量MCPを作った — トークン70%削減、1分でセットアップ",
+    "link": "https://zenn.dev/badmonster/articles/92338955317115",
+    "pubDate": "2026-02-23T00:38:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "最近のAIに関する所感｜catatsuy",
     "link": "https://sizu.me/catatsuy/posts/6hcooh41ni4c",
     "pubDate": "2026-02-22T16:12:06.000Z"
@@ -12,10 +24,22 @@
     "pubDate": "2026-02-22T15:42:04.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【ハッカソンでClean Architecture】4人対戦ババ抜きWebSocketサーバーの設計と7つのこだわり",
+    "link": "https://zenn.dev/teba_eleven/articles/1765035114d00b",
+    "pubDate": "Sun, 22 Feb 2026 14:43:29 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "OpenClawでTelegramを使ってトレーディング戦略を構築してみた - GMOインターネットグループ グループ研究開発本部",
     "link": "https://recruit.group.gmo/engineer/jisedai/blog/openclaw_stock_trading/",
     "pubDate": "2026-02-22T14:10:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "この先生きのこるには",
+    "link": "https://zenn.dev/kaiware0x/articles/to-be-or-not-to-be",
+    "pubDate": "2026-02-22T12:55:26.000Z"
   },
   {
     "site": "Zenn",
@@ -43,27 +67,9 @@
   },
   {
     "site": "Zenn",
-    "title": "プログラミング言語オタクとして改めてC#を語りたい",
-    "link": "https://zenn.dev/nuskey/articles/why-i-use-csharp",
-    "pubDate": "2026-02-22T03:32:54.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "支援先のQAチームにClaude Codeを導入してテストケース生成を自動化した話",
     "link": "https://zenn.dev/neurostack_0001/articles/claude-code-qa-sprint-testcase-generation",
     "pubDate": "Sun, 22 Feb 2026 02:48:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "数兆パラメータの時代に、無料GPU環境で3Bモデルを動かしたら想像以上だった",
-    "link": "https://zenn.dev/kozoka_ai/articles/4041c910f6280e",
-    "pubDate": "2026-02-22T01:19:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code Securityが発表され、セキュリティ株が暴落。AIが数十年見逃されたバグ500件を発見した - Qiita",
-    "link": "https://qiita.com/emi_ndk/items/fb529b2ede94661e5287",
-    "pubDate": "2026-02-22T00:09:32.000Z"
   },
   {
     "site": "Qiita",
@@ -97,21 +103,27 @@
   },
   {
     "site": "Zenn",
+    "title": "この先生きのこるには",
+    "link": "https://zenn.dev/kaiware0x/articles/to-be-or-not-to-be",
+    "pubDate": "Sat, 21 Feb 2026 13:38:58 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "現地訪問必須だったRaspberryPiの管理地獄に終止符-AWS Greengrass",
     "link": "https://zenn.dev/masaru0208/articles/09b8fbbb3371f2",
     "pubDate": "Sat, 21 Feb 2026 11:55:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【React】Strategyパターン実践編 〜マルチテナント対応を例に〜",
+    "link": "https://zenn.dev/sakisakiika/articles/f41abf4e0160a7",
+    "pubDate": "Sat, 21 Feb 2026 09:54:14 GMT"
   },
   {
     "site": "Qiita",
     "title": "【眺めるメモ帳】情報を浴びれるwebアプリを開発しました。",
     "link": "https://qiita.com/nakau0605/items/d6c9735ce0f7426a4fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-21T08:38:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustコンパイラで使われる新しいハッシュ関数「rustc-hash 2」について調べてみた",
-    "link": "https://zenn.dev/hatoo/articles/ad3d4a079e884b",
-    "pubDate": "Sat, 21 Feb 2026 08:09:11 GMT"
   },
   {
     "site": "Zenn",
@@ -144,12 +156,6 @@
     "pubDate": "2026-02-21T04:23:30.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ごく個人的なClaude Codeプラクティス集",
-    "link": "https://zenn.dev/hawkymisc/articles/2cace1f599cc06",
-    "pubDate": "Fri, 20 Feb 2026 17:27:33 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。",
     "link": "https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,12 +166,6 @@
     "title": "数十行の箇条書きから49枚の提案スライドへ — Claude Opus 4.6 × Slidev【プロンプト全文公開】",
     "link": "https://qiita.com/ntaka329/items/a2b936b3796ed1ba7373?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-20T12:04:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "新デザインツールPencilはなぜエンジニアに刺さるのか",
-    "link": "https://zenn.dev/aria3/articles/pencil-dev-why-engineers-love-it",
-    "pubDate": "Fri, 20 Feb 2026 11:35:41 GMT"
   },
   {
     "site": "Qiita",
