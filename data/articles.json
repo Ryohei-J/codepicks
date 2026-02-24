@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "はてな匿名ダイアリーのログイン方式を変更しました - はてラボ 開発者ブログ",
-    "link": "https://labo.hatenastaff.com/entry/2026/02/24/113231",
-    "pubDate": "2026-02-24T03:33:00.000Z"
+    "title": "GPUなしで動作する軽量なAI OCRツール「NDLOCR-Lite」、国会図書館のラボから無償公開／コマンドライン版に加えWindows/Mac/Linux対応のデスクトップ版を用意",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2088188.html",
+    "pubDate": "2026-02-24T08:00:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "令和8年度（2026年度）応用情報技術者試験、高度試験及び情報処理安全確保支援士試験の実施予定について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_yotei.html",
+    "pubDate": "2026-02-24T07:19:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NDLOCR-Liteの公開について | NDLラボ",
+    "link": "https://lab.ndl.go.jp/news/2025/2026-02-24/",
+    "pubDate": "2026-02-24T06:41:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまPC Watch】 ChatGPTに恋してしまうのも無理はない。超リアルな自撮りをさせる呪文が流行中",
+    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2088113.html",
+    "pubDate": "2026-02-24T06:22:41.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +30,22 @@
     "pubDate": "2026-02-24T03:08:22.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Dockerの名前付きボリュームの落とし穴",
+    "link": "https://qiita.com/kuma_3838/items/a116aa00af0884675b25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-24T01:04:48.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "世界屈指の「ランサムウェアに金を払わない国」なはずの日本にサイバー攻撃が増えている理由【上原哲太郎＆増田幸美】 レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/focus/detail_809/",
     "pubDate": "2026-02-24T00:40:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "地方で技術カンファレンスをやりたい人へ〜Go Conference mini in Sendai 2026 を終えて伝えたいこと〜",
+    "link": "https://zenn.dev/senoue/articles/71397b1f651518",
+    "pubDate": "Mon, 23 Feb 2026 23:46:33 GMT"
   },
   {
     "site": "Hatena",
@@ -30,10 +60,28 @@
     "pubDate": "2026-02-23T22:23:08.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "FastAPIのJSONレスポンスに型を書くだけでレスポンスが速くなるらしい",
+    "link": "https://zenn.dev/maguro_alterna/articles/ee730afa94f52e",
+    "pubDate": "Mon, 23 Feb 2026 22:15:04 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "LANケーブルの”ややこしい”話　「カテゴリー8」ってどうなの？【イニシャルB】",
     "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2086089.html",
     "pubDate": "2026-02-23T22:01:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeのSkillsを作成例から徹底理解する",
+    "link": "https://zenn.dev/acntechjp/articles/554765e5a0d0be",
+    "pubDate": "Mon, 23 Feb 2026 15:44:17 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIをいつでもどこでも動かそうとしたら、気づけば自宅インフラ沼にはまっていた話 【ミニPC/Proxmox/Tailscale】",
+    "link": "https://qiita.com/endo-ly/items/167c80b277b4850c4869?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-23T15:02:51.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +90,10 @@
     "pubDate": "2026-02-23T13:54:27.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【AI駆動開発】Cursorに設計から考えさせたら、コードの品質が別次元になった話（プロンプトテンプレートあり） - Qiita",
-    "link": "https://qiita.com/YushiYamamoto/items/0aea29339d073829cb26",
-    "pubDate": "2026-02-23T12:17:53.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeからシークレットが漏れる前に守る——sensitive-canary",
+    "link": "https://zenn.dev/chataclaw/articles/dcb866d5d10d02",
+    "pubDate": "Mon, 23 Feb 2026 11:43:30 GMT"
   },
   {
     "site": "Zenn",
@@ -66,6 +114,12 @@
     "pubDate": "Mon, 23 Feb 2026 09:58:20 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "OpenClawでUnity自律開発を試したが、正直まだ厳しいと感じた話",
+    "link": "https://zenn.dev/omori432/articles/open-claw-unity-hackathon-2026",
+    "pubDate": "Mon, 23 Feb 2026 09:00:45 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "OpenClaw チートシート｜これだけ覚えればOKなコマンド・設定・ワークフロー集",
     "link": "https://qiita.com/akira_papa_AI/items/f3d52c314329127b3bba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -78,16 +132,16 @@
     "pubDate": "Mon, 23 Feb 2026 01:59:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Opus 4.6で作る、PowerPointでそのまま編集できる高品質スライド｜IT navi",
-    "link": "https://note.com/it_navi/n/ne26d4d078386",
-    "pubDate": "2026-02-23T01:15:53.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AI、今そんな一生懸命キャッチアップしなくてもいいのよね",
     "link": "https://zenn.dev/tesla/articles/27e0834d429c66",
     "pubDate": "Mon, 23 Feb 2026 00:55:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AntigravityのGemini3.1Proが使えなくなった？？？",
+    "link": "https://zenn.dev/rucco/articles/3b4663d9d8734f",
+    "pubDate": "Mon, 23 Feb 2026 00:34:13 GMT"
   },
   {
     "site": "Qiita",
@@ -96,58 +150,16 @@
     "pubDate": "2026-02-22T21:07:14.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【ハッカソンでClean Architecture】4人対戦ババ抜きWebSocketサーバーの設計と7つのこだわり",
-    "link": "https://zenn.dev/teba_eleven/articles/1765035114d00b",
-    "pubDate": "Sun, 22 Feb 2026 14:43:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Figma MCP × Claude Codeで1ページ8時間の作業が20分になった話",
-    "link": "https://zenn.dev/kimmaru/articles/6c0f67f6003b94",
-    "pubDate": "2026-02-22T12:06:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【個人開発】1週間で5万PV突破！Vercel無料枠の限界に挑みながら「エンジニアの物欲を刺激する新サイト」を作った話",
-    "link": "https://zenn.dev/codaccu/articles/3be11d2dc84b94",
-    "pubDate": "Sun, 22 Feb 2026 09:21:17 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【AWS】Cognitoを利用したシンプルな認証機能付きのWebページの作成",
     "link": "https://qiita.com/yakumo_09/items/dee0d94ba53fac725c7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-22T08:40:13.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "個人開発・電子工作で使えそうなクラウドサービスまとめ",
-    "link": "https://zenn.dev/tboy/articles/0c42696e56ceed",
-    "pubDate": "Sun, 22 Feb 2026 04:35:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードを理解する超軽量MCPを作った — トークン70%削減、1分でセットアップ",
-    "link": "https://zenn.dev/badmonster/articles/92338955317115",
-    "pubDate": "Sun, 22 Feb 2026 04:22:16 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）",
     "link": "https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-22T02:55:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "支援先のQAチームにClaude Codeを導入してテストケース生成を自動化した話",
-    "link": "https://zenn.dev/neurostack_0001/articles/claude-code-qa-sprint-testcase-generation",
-    "pubDate": "Sun, 22 Feb 2026 02:48:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Figma MCP × Claude Codeで1ページ8時間の作業が20分になった話",
-    "link": "https://zenn.dev/kimmaru/articles/6c0f67f6003b94",
-    "pubDate": "Sun, 22 Feb 2026 02:22:40 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": " AWSネットワーク関連サービスの外部接続リスク分類：意図しない外部通信を防ぐための体系整理",
     "link": "https://qiita.com/fsitlab/items/f917292498925c99fe8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-21T14:36:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "async/awaitはなぜ生まれたのか ~ 非同期処理の歴史を辿る ~",
-    "link": "https://qiita.com/MoriP-K/items/c9590934c7e72638107b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-21T06:19:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ログインシェルをPowerShellにして .NET を消したら SSH が死んだ話（オワタ → 復活）",
-    "link": "https://qiita.com/noobow/items/eaba05326aa795d9d7ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-21T04:23:30.000Z"
   }
 ]
