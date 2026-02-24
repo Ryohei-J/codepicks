@@ -1,15 +1,57 @@
 [
   {
     "site": "Hatena",
-    "title": "Claude Code デスクトップで Worktree を作成するとき .worktreeinclude で .gitignore で除外されているファイルを含める",
-    "link": "https://azukiazusa.dev/blog/claude-code-worktree-worktreeinclude-gitignore/",
-    "pubDate": "2026-02-23T09:00:35.000Z"
+    "title": "米IBM株13%急落　アンソロピックAIが「COBOL」事業の脅威に - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN2404D0U6A220C2000000/",
+    "pubDate": "2026-02-23T23:05:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LANケーブルの”ややこしい”話　「カテゴリー8」ってどうなの？【イニシャルB】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2086089.html",
+    "pubDate": "2026-02-23T22:01:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "オープンソースのクロスプラットフォーム監視ツール「Glances」、CPU・メモリ・ディスク・ネットワーク使用量などをターミナルだけでなくウェブサーバーモードで監視可能",
+    "link": "https://gigazine.net/news/20260223-glances/",
+    "pubDate": "2026-02-23T15:33:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、ルールベースではなく、コード分析により複雑な脆弱性も発見できる新機能「Claude Code Security」を提供開始",
+    "link": "https://www.publickey1.jp/blog/26/anthropicclaude_code_security.html",
+    "pubDate": "2026-02-23T13:54:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AI駆動開発】Cursorに設計から考えさせたら、コードの品質が別次元になった話（プロンプトテンプレートあり） - Qiita",
+    "link": "https://qiita.com/YushiYamamoto/items/0aea29339d073829cb26",
+    "pubDate": "2026-02-23T12:17:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "アンケートデータから目標指標の改善につながる打ち手を見つける方法",
+    "link": "https://qiita.com/IkuyaM/items/8ce2d6eea5413d690122?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-23T10:23:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "bit + bit-relay で P2P でのコラボレーション開発を実現する",
+    "link": "https://zenn.dev/mizchi/articles/decentrized-git-for-agents",
+    "pubDate": "Mon, 23 Feb 2026 09:58:20 GMT"
   },
   {
     "site": "Hatena",
     "title": "開業1年目に心がけた100箇条 - 下町柚子黄昏記 by @yuzutas0",
     "link": "https://yuzutas0.hatenablog.com/entry/2026/02/23/100000",
     "pubDate": "2026-02-23T08:46:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "OpenClaw チートシート｜これだけ覚えればOKなコマンド・設定・ワークフロー集",
+    "link": "https://qiita.com/akira_papa_AI/items/f3d52c314329127b3bba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-23T02:39:05.000Z"
   },
   {
     "site": "Hatena",
@@ -36,16 +78,10 @@
     "pubDate": "Mon, 23 Feb 2026 00:55:54 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "コードを理解する超軽量MCPを作った — トークン70%削減、1分でセットアップ",
-    "link": "https://zenn.dev/badmonster/articles/92338955317115",
-    "pubDate": "2026-02-23T00:38:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "最近のAIに関する所感｜catatsuy",
-    "link": "https://sizu.me/catatsuy/posts/6hcooh41ni4c",
-    "pubDate": "2026-02-22T16:12:06.000Z"
+    "site": "Qiita",
+    "title": "JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件",
+    "link": "https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-22T21:07:14.000Z"
   },
   {
     "site": "Zenn",
@@ -55,39 +91,15 @@
   },
   {
     "site": "Zenn",
-    "title": "この先生きのこるには",
-    "link": "https://zenn.dev/kaiware0x/articles/to-be-or-not-to-be",
-    "pubDate": "2026-02-22T12:55:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年2月22日】GitHub日次トレンドTop9──AIセキュリティから金融データ基盤まで",
-    "link": "https://qiita.com/nogataka/items/846d8931b6f36dea5d6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-22T12:08:57.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "Figma MCP × Claude Codeで1ページ8時間の作業が20分になった話",
     "link": "https://zenn.dev/kimmaru/articles/6c0f67f6003b94",
     "pubDate": "2026-02-22T12:06:56.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Goツールチェイン(golang/go)を快適に開くための設定",
-    "link": "https://zenn.dev/haruyama480/articles/6315d4b50485f3",
-    "pubDate": "Sun, 22 Feb 2026 11:10:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発環境現状確認 2026 - 交換ブログvol.17",
-    "link": "https://zenn.dev/soramarjr/articles/7ea5b05c7ada4d",
-    "pubDate": "Sun, 22 Feb 2026 11:02:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "確定申告を自動化する Agent Skill \"shinkoku\" を OSS にした",
-    "link": "https://zenn.dev/kazukinagata/articles/83fe82191db01b",
-    "pubDate": "2026-02-22T10:44:48.000Z"
+    "title": "【個人開発】1週間で5万PV突破！Vercel無料枠の限界に挑みながら「エンジニアの物欲を刺激する新サイト」を作った話",
+    "link": "https://zenn.dev/codaccu/articles/3be11d2dc84b94",
+    "pubDate": "Sun, 22 Feb 2026 09:21:17 GMT"
   },
   {
     "site": "Qiita",
@@ -106,6 +118,12 @@
     "title": "コードを理解する超軽量MCPを作った — トークン70%削減、1分でセットアップ",
     "link": "https://zenn.dev/badmonster/articles/92338955317115",
     "pubDate": "Sun, 22 Feb 2026 04:22:16 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "[読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号）",
+    "link": "https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-22T02:55:42.000Z"
   },
   {
     "site": "Zenn",
@@ -151,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【眺めるメモ帳】情報を浴びれるwebアプリを開発しました。",
-    "link": "https://qiita.com/nakau0605/items/d6c9735ce0f7426a4fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-21T08:38:16.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "async/awaitはなぜ生まれたのか ~ 非同期処理の歴史を辿る ~",
     "link": "https://qiita.com/MoriP-K/items/c9590934c7e72638107b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-21T06:19:50.000Z"
@@ -166,17 +178,5 @@
     "title": "ログインシェルをPowerShellにして .NET を消したら SSH が死んだ話（オワタ → 復活）",
     "link": "https://qiita.com/noobow/items/eaba05326aa795d9d7ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-21T04:23:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【完全無料・広告なし】AWS認定の学習支援サイトを公開しました。確かな実力を身につけて「資格取ったけど実務に活かせない」を終わらせよう。",
-    "link": "https://qiita.com/kenken38/items/8082c999a78137c7cc10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-20T17:16:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "数十行の箇条書きから49枚の提案スライドへ — Claude Opus 4.6 × Slidev【プロンプト全文公開】",
-    "link": "https://qiita.com/ntaka329/items/a2b936b3796ed1ba7373?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-20T12:04:17.000Z"
   }
 ]
