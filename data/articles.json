@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "YouTube、月額780円の「Puremium Lite」プランでもバックグラウンド、オフライン再生が一部可能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/25/news072.html",
+    "pubDate": "2026-02-25T00:02:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「今日はなんだか頭が冴えない」は仕方なかった？　脳にある“コンディションの波”　1日の目標達成に影響",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/25/news035.html",
+    "pubDate": "2026-02-24T23:46:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "米国防総省高官、アンソロピック従わぬなら「法律で強制」　AI軍事利用 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN2507D0V20C26A2000000/",
     "pubDate": "2026-02-24T22:51:24.000Z"
@@ -25,21 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "生成AIでJavaScript/TypeScriptを扱うときに設定しておきたい ESLintルール - プププなテクブ",
-    "link": "https://blog.inorinrinrin.com/entry/2026/02/24/194907",
-    "pubDate": "2026-02-24T10:57:20.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "GPUなしで動作する軽量なAI OCRツール「NDLOCR-Lite」、国会図書館のラボから無償公開／コマンドライン版に加えWindows/Mac/Linux対応のデスクトップ版を用意",
     "link": "https://forest.watch.impress.co.jp/docs/news/2088188.html",
     "pubDate": "2026-02-24T08:00:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "仏教対話できる生成AIロボット「ブッダロイド」　京大教授ら発表 | 毎日新聞",
-    "link": "https://mainichi.jp/articles/20260224/k00/00m/040/020000c",
-    "pubDate": "2026-02-24T07:51:36.000Z"
   },
   {
     "site": "Hatena",
@@ -60,10 +60,22 @@
     "pubDate": "2026-02-24T05:39:29.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "そのMarkdown、Webサイトに進化します。",
+    "link": "https://zenn.dev/kyome/articles/b45c9c7d6eaa76",
+    "pubDate": "Tue, 24 Feb 2026 03:35:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Envoy AI Gateway入門：ローカルKubernetes上でテスト用 LLM のモデル切り替えを試してみた",
     "link": "https://qiita.com/amiyamamoto/items/cd52acfce8c80dd764fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-24T01:46:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoftの提案するLLM向け記憶管理手法",
+    "link": "https://zenn.dev/knowledgesense/articles/7d5fed819d2f8e",
+    "pubDate": "Tue, 24 Feb 2026 01:14:50 GMT"
   },
   {
     "site": "Qiita",
@@ -82,6 +94,12 @@
     "title": "【AI性能比較】LLM 評価指標をざっくり解説｜Artificial Analysis の歩き方",
     "link": "https://qiita.com/Ryo-Nakano/items/f1da76e039071d7b5ebc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-23T23:09:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.jsはもう要らない？次世代フレームワークTanstack Startに入門してみた",
+    "link": "https://zenn.dev/ashunar0/articles/8c6cbedde44a89",
+    "pubDate": "Mon, 23 Feb 2026 23:00:01 GMT"
   },
   {
     "site": "Hatena",
@@ -121,6 +139,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeからシークレットが漏れる前に守る——sensitive-canary",
+    "link": "https://zenn.dev/chataclaw/articles/dcb866d5d10d02",
+    "pubDate": "Mon, 23 Feb 2026 11:43:30 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AWS システム構築 非機能要件ヒアリングシートを5年ぶりに全面更新しました（生成AI・サステナビリティ対応）",
     "link": "https://zenn.dev/ryoyoshii/articles/542613afc6534e",
     "pubDate": "Mon, 23 Feb 2026 11:40:47 GMT"
@@ -136,30 +160,6 @@
     "title": "bit + bit-relay で P2P でのコラボレーション開発を実現する",
     "link": "https://zenn.dev/mizchi/articles/decentrized-git-for-agents",
     "pubDate": "Mon, 23 Feb 2026 09:58:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenClawでUnity自律開発を試したが、正直まだ厳しいと感じた話",
-    "link": "https://zenn.dev/omori432/articles/open-claw-unity-hackathon-2026",
-    "pubDate": "Mon, 23 Feb 2026 09:00:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "NVIDIA-Nemotron-Nano-9B-v2-Japanese から Embedding モデルを作る",
-    "link": "https://zenn.dev/yner/articles/nemotron_nano_embedding",
-    "pubDate": "Mon, 23 Feb 2026 08:57:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIのテストコードは信用するな🙅‍♂️",
-    "link": "https://zenn.dev/tko_kasai/articles/3f5863e3407891",
-    "pubDate": "Mon, 23 Feb 2026 01:59:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI、今そんな一生懸命キャッチアップしなくてもいいのよね",
-    "link": "https://zenn.dev/tesla/articles/27e0834d429c66",
-    "pubDate": "Mon, 23 Feb 2026 00:55:54 GMT"
   },
   {
     "site": "Qiita",
