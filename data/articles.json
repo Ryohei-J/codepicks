@@ -1,27 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "XSS攻撃の温床「innerHTML」はもう終わり、「Firefox 148」に「setHTML()」が導入／入力を自動でサニタイズしてくれる「Sanitizer API」が実装",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2088615.html",
+    "pubDate": "2026-02-25T22:57:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "TerraformをClaude Codeで書く技術 | ドクセル",
+    "link": "https://www.docswell.com/s/mozumasu/KEY6MD-2026-02-25-claude-code-terraform",
+    "pubDate": "2026-02-25T14:06:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TypeScript 7はなぜGoで書き直されたのか — 10倍高速化の技術的背景",
+    "link": "https://zenn.dev/kg_filled/articles/db6e8b228911d0",
+    "pubDate": "2026-02-25T12:59:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeのOSS版 OpenCodeの内部挙動を理解する",
+    "link": "https://zenn.dev/epicai_techblog/articles/20b78066cac63f",
+    "pubDate": "Wed, 25 Feb 2026 09:43:30 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "【悲報】激安中華タブレットでマルウェア「Keenadu」混入が話題に",
     "link": "https://garumax.com/keenadu",
     "pubDate": "2026-02-25T09:05:07.000Z"
   },
   {
     "site": "Hatena",
-    "title": "おそらく開発者環境が侵害されていて、正規署名されてAndroidファームウェアレベルで存在するバックドア「Keenadu」 - Slapdash Safeguards",
-    "link": "https://www.sdsg.moe/entry/2026/02/20/135709",
-    "pubDate": "2026-02-25T08:18:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マイクロソフト日本法人 公取委が立ち入り検査 独禁法違反疑い | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015060481000",
-    "pubDate": "2026-02-25T08:04:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ありえない検索をすると AI が必死に止めてきて面白い「案外優しい」「これハマりそう」いろいろ試してみる人々",
-    "link": "https://togetter.com/li/2668069",
-    "pubDate": "2026-02-25T08:04:31.000Z"
+    "title": "商用利用可能な同時双方向日本語音声対話モデル「LLM-jp-Moshi-v1」の公開 - 国立情報学研究所 / National Institute of Informatics",
+    "link": "https://www.nii.ac.jp/news/release/2026/0225.html",
+    "pubDate": "2026-02-25T06:50:41.000Z"
   },
   {
     "site": "Zenn",
@@ -37,9 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "大家の知人が家賃の値上げ交渉の話で借主がクーラー壊れても直さないなどの嫌がらせをする話をしていた→こういう嫌がらせをすると家賃が減額されるだけで逆効果",
-    "link": "https://togetter.com/li/2668002",
-    "pubDate": "2026-02-25T03:54:08.000Z"
+    "title": "Anthropic、「Claude Code」の新機能「Remote Control」を発表／PCのターミナルで開始した「Claude Code」セッションを出先のスマホなどから遠隔操作",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2088383.html",
+    "pubDate": "2026-02-25T04:59:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "西友をのみ込んだトライアルが1兆円企業へ! 決算から今後を読み解く",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2087391.html",
+    "pubDate": "2026-02-25T04:50:57.000Z"
   },
   {
     "site": "Zenn",
@@ -49,27 +67,21 @@
   },
   {
     "site": "Hatena",
-    "title": "えっ!?ビルの中で？中国・養豚業界に起きている「革命」、最新技術で超えた“しがらみ”、「養豚ビル」の実力、中国農業の近未来",
-    "link": "https://wedge.ismedia.jp/articles/-/40264",
-    "pubDate": "2026-02-25T02:37:42.000Z"
+    "title": "大規模な組織におけるAI Agent活用の促進と課題",
+    "link": "https://speakerdeck.com/lycorptech_jp/20260218c",
+    "pubDate": "2026-02-25T02:39:11.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GPU不要。国立国会図書館がノートPCで動くOCRソフト公開",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2088346.html",
-    "pubDate": "2026-02-25T01:36:50.000Z"
+    "title": "えっ!?ビルの中で？中国・養豚業界に起きている「革命」、最新技術で超えた“しがらみ”、「養豚ビル」の実力、中国農業の近未来",
+    "link": "https://wedge.ismedia.jp/articles/-/40264",
+    "pubDate": "2026-02-25T02:37:42.000Z"
   },
   {
     "site": "Qiita",
     "title": "個人開発でClaudeCodeに画面操作付きPR動画を生成させてXに自動投稿してる話",
     "link": "https://qiita.com/akachiryo/items/2777af8e9912d6bbbbb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-25T01:23:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "人生3回目のCSVエディタ開発をしている理由。SmoothCSV作者がビルド不能から再起するまで【フォーカス】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/focus/detail_812/",
-    "pubDate": "2026-02-25T01:15:48.000Z"
   },
   {
     "site": "Qiita",
@@ -79,21 +91,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Go conf mini in Sendai2026に参加したンゴについて",
-    "link": "https://zenn.dev/jo1106/articles/2785a393827627",
-    "pubDate": "Tue, 24 Feb 2026 14:45:30 GMT"
+    "title": "GitHub CopilotのSkillsは手順書だ：3桁行差分の大規模Terraform移行に使い回す",
+    "link": "https://zenn.dev/aeonpeople/articles/morihaya-20260224-copilot-skills-is-tetsuzukisho",
+    "pubDate": "Tue, 24 Feb 2026 23:00:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "OpenAI独走崩壊か…アンソロピック4.6兆円・グーグル3兆円調達で業界再編へ",
-    "link": "https://biz-journal.jp/company/post_393567.html",
-    "pubDate": "2026-02-24T11:45:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "VS Code開発効率を最大化するキーボード操作術 第2弾【Mac編】",
-    "link": "https://qiita.com/Yamashita_Sosuke/items/362517e59d8eab1b6054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-24T05:39:29.000Z"
+    "site": "Zenn",
+    "title": "Cloudflare無料プランの「Basic Features」ボタン一発で有効になる11機能を全解説",
+    "link": "https://zenn.dev/yostos/articles/cloudflare-security2",
+    "pubDate": "Tue, 24 Feb 2026 13:46:27 GMT"
   },
   {
     "site": "Qiita",
@@ -103,9 +109,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeを\"優秀な新卒部下\"として使い倒す：個人開発爆速化の全ワークフロー",
+    "link": "https://zenn.dev/yoshiaki0217/articles/9dd7a3666d475f",
+    "pubDate": "Tue, 24 Feb 2026 04:29:07 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "そのMarkdown、Webサイトに進化します。",
     "link": "https://zenn.dev/kyome/articles/b45c9c7d6eaa76",
     "pubDate": "Tue, 24 Feb 2026 03:35:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "@vercel/agent-evalでCLAUDE.mdの効果を検証する",
+    "link": "https://zenn.dev/edash_tech_blog/articles/84f0cd8567646b",
+    "pubDate": "Tue, 24 Feb 2026 01:50:21 GMT"
   },
   {
     "site": "Zenn",
@@ -127,33 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【ちゃんと業務で使えるようになるための】npmまとめ",
-    "link": "https://qiita.com/kyuko/items/57116c85e990fecd6f6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-23T23:35:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsはもう要らない？次世代フレームワークTanstack Startに入門してみた",
-    "link": "https://zenn.dev/ashunar0/articles/8c6cbedde44a89",
-    "pubDate": "Mon, 23 Feb 2026 23:00:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "FastAPIのJSONレスポンスに型を書くだけでレスポンスが速くなるらしい",
-    "link": "https://zenn.dev/maguro_alterna/articles/ee730afa94f52e",
-    "pubDate": "Mon, 23 Feb 2026 22:15:04 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "技術記事、硬すぎ問題。だからギャルに読ませてみた",
     "link": "https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-23T21:23:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeのSkillsを作成例から徹底理解する",
-    "link": "https://zenn.dev/acntechjp/articles/554765e5a0d0be",
-    "pubDate": "Mon, 23 Feb 2026 15:44:17 GMT"
   },
   {
     "site": "Qiita",
@@ -168,10 +162,16 @@
     "pubDate": "2026-02-23T13:51:41.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Rust+WebGPUでタイルベースのベクターグラフィックスレンダラーを実装している",
-    "link": "https://zenn.dev/yayo1/articles/0dbe7fcc59f790",
-    "pubDate": "Mon, 23 Feb 2026 11:50:39 GMT"
+    "site": "Qiita",
+    "title": "Anthropic公式Cookbookを全解剖 — Claude APIの実践レシピ65本を徹底解説",
+    "link": "https://qiita.com/nogataka/items/c5c6a0eb93ae6bc6b791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-23T02:22:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "生成AIには興味を持て、そしてWantを大切に",
+    "link": "https://qiita.com/indigonightism/items/c9e389a1f9e868c96d16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-22T22:55:11.000Z"
   },
   {
     "site": "Qiita",
