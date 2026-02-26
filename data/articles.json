@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "とあるカレー屋のポスター、AI使うのはもういいけどせめてもう少しちゃんとした絵にして欲しい→忠実に再現されていた",
+    "link": "https://togetter.com/li/2668409",
+    "pubDate": "2026-02-26T06:56:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「SaaSは死ぬ」は雑すぎる",
+    "link": "https://zenn.dev/mi_01_24fu/articles/saas-is-dead",
+    "pubDate": "Thu, 26 Feb 2026 05:57:24 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "バッファロー、ブルーレイドライブ販売終了、7月予定。「後継機種はない」",
     "link": "https://av.watch.impress.co.jp/docs/news/2088742.html",
     "pubDate": "2026-02-26T02:10:55.000Z"
@@ -10,6 +22,12 @@
     "title": "【スゴ本】知らないと現場が燃え尽きる。システム障害対応で本当に優先すべき5つのこと | レバテックラボ（レバテックLAB）",
     "link": "https://levtech.jp/media/article/column/detail_813/",
     "pubDate": "2026-02-26T01:17:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Boris Cherny氏がシェアした、CLAUDE.mdを理解する - Qiita",
+    "link": "https://qiita.com/uno_ha07/items/5820d195510861b5be71",
+    "pubDate": "2026-02-25T23:38:44.000Z"
   },
   {
     "site": "Hatena",
@@ -24,16 +42,22 @@
     "pubDate": "2026-02-25T22:52:38.000Z"
   },
   {
+    "site": "Qiita",
+    "title": " MinIO、知らないうちに終了していた",
+    "link": "https://qiita.com/kuma_3838/items/b9073cce25766508485a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-25T16:27:19.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "1つのアカウントからドメイン全体を掌握！ Active Directoryハッキングの全手順を再現してみた",
     "link": "https://zenn.dev/k_ing/articles/18797f131c9f92",
     "pubDate": "Wed, 25 Feb 2026 14:54:04 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "TypeScript 7はなぜGoで書き直されたのか — 10倍高速化の技術的背景",
-    "link": "https://zenn.dev/kg_filled/articles/db6e8b228911d0",
-    "pubDate": "2026-02-25T12:59:02.000Z"
+    "site": "Qiita",
+    "title": "Select AI を利用するまでの各ステップの意味を理解する",
+    "link": "https://qiita.com/jun110/items/32f6df62ec9676626df9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-25T13:21:22.000Z"
   },
   {
     "site": "Hatena",
@@ -54,6 +78,12 @@
     "pubDate": "Wed, 25 Feb 2026 09:43:30 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "「生成AIでWebデザインできるか調べて」と振られたので Pencil + Claude Code を試した話",
+    "link": "https://qiita.com/tetsuko_room/items/835a22e52d1d6f5497ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-25T08:39:35.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "政策議事録をLLMで分析する設計：RAG（ベクトル検索）で精度が出なかった理由と多段階圧縮",
     "link": "https://zenn.dev/polipoli/articles/4498643487aa68",
@@ -64,12 +94,6 @@
     "title": "git の次の時代のバージョン管理システム jj (jujutsu)",
     "link": "https://zenn.dev/nttdata_tech/articles/33ec2c7972373e",
     "pubDate": "Wed, 25 Feb 2026 07:35:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "商用利用可能な同時双方向日本語音声対話モデル「LLM-jp-Moshi-v1」の公開 - 国立情報学研究所 / National Institute of Informatics",
-    "link": "https://www.nii.ac.jp/news/release/2026/0225.html",
-    "pubDate": "2026-02-25T06:50:41.000Z"
   },
   {
     "site": "Zenn",
@@ -108,12 +132,6 @@
     "pubDate": "2026-02-25T01:23:36.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "選んだ技術を、自分たちで正解にする。SchooがVueエコシステムと共に歩む理由 #fe_stack_choice",
-    "link": "https://qiita.com/okuto_oyama/items/a981c84dbcf90edd9b62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-24T23:20:06.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "GitHub CopilotのSkillsは手順書だ：3桁行差分の大規模Terraform移行に使い回す",
     "link": "https://zenn.dev/aeonpeople/articles/morihaya-20260224-copilot-skills-is-tetsuzukisho",
@@ -126,12 +144,6 @@
     "pubDate": "Tue, 24 Feb 2026 13:46:27 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "IBMが組み込んだClaude、IBMを撃つ ── メインフレーム・モダナイゼーションは誰にも解けない",
-    "link": "https://zenn.dev/yostos/articles/ibm-cobol-claude-irony",
-    "pubDate": "Tue, 24 Feb 2026 08:30:01 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "反省会が止まらない人へ。アドラー心理学で“心の負荷”を減らす3つの考え",
     "link": "https://qiita.com/mnomoto/items/539e775adb35195feecd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -142,6 +154,12 @@
     "title": "Claude Codeを\"優秀な新卒部下\"として使い倒す：個人開発爆速化の全ワークフロー",
     "link": "https://zenn.dev/yoshiaki0217/articles/9dd7a3666d475f",
     "pubDate": "Tue, 24 Feb 2026 04:29:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ちゃんと業務で使えるようになるための】npmまとめ",
+    "link": "https://qiita.com/kyuko/items/57116c85e990fecd6f6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-23T23:35:27.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "Boris Cherny氏がシェアした、CLAUDE.mdを理解する",
     "link": "https://qiita.com/uno_ha07/items/5820d195510861b5be71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-23T13:51:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Anthropic公式Cookbookを全解剖 — Claude APIの実践レシピ65本を徹底解説",
-    "link": "https://qiita.com/nogataka/items/c5c6a0eb93ae6bc6b791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-23T02:22:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成AIには興味を持て、そしてWantを大切に",
-    "link": "https://qiita.com/indigonightism/items/c9e389a1f9e868c96d16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-22T22:55:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JavaScriptの async/await はどこから来たのか？ C#、F#、Haskell……源流を辿ったら1958年にたどり着いた件",
-    "link": "https://qiita.com/Maki-Daisuke/items/1da25e18c1bcb68880a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-22T21:07:14.000Z"
   }
 ]
