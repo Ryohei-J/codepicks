@@ -1,15 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "拡張機能や Selenium に頼らない、LLM ネイティブなブラウザ開発入門",
+    "link": "https://zenn.dev/surapunoyousei/articles/ac6af129c8ee70",
+    "pubDate": "Fri, 27 Feb 2026 06:08:48 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "話題のニンジャマイルズについて調査してみた｜okash1n",
+    "link": "https://note.com/okash1n/n/nf86a486bee10",
+    "pubDate": "2026-02-27T05:13:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "git worktreeを使用した開発の個人的詰まりポイント",
+    "link": "https://qiita.com/I635230/items/c23d334cc5adb9e8efd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-27T03:14:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "取得元と適用先でDB構造が違うときのdumpファイルの適用方法",
+    "link": "https://qiita.com/I635230/items/b1385e17de52a4637f47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-27T03:13:12.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "一枚岩の「巨大SQL」から脱却するために。Airペイ新機能のデータ基盤を支える、ニジボックスの技術力 - はてなニュース",
     "link": "https://hatenanews.com/articles/2026/02/27/103000",
     "pubDate": "2026-02-27T02:00:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "家で作業していたら勝手にプリンターが動き出してどこかの会社の入社試験の解答用紙が出てきた...一体何が起きた？→「情シスが泡吹いて卒倒するやつだ」",
-    "link": "https://togetter.com/li/2668658",
-    "pubDate": "2026-02-27T00:35:35.000Z"
+    "site": "Zenn",
+    "title": "仕事でObsidianをどのように使っているか",
+    "link": "https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136",
+    "pubDate": "2026-02-27T01:38:52.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +48,22 @@
     "pubDate": "2026-02-26T21:40:18.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIの時代にエンジニアとして何を磨くか",
+    "link": "https://zenn.dev/airiswim/articles/78d5e95bed7be0",
+    "pubDate": "Thu, 26 Feb 2026 14:34:27 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "なぜAIは組織を速くしないのか 令和の腑分け",
     "link": "https://speakerdeck.com/sugino/nazeaihazu-zhi-wosu-kusinainoka-ling-he-nofu-fen-ke",
     "pubDate": "2026-02-26T14:32:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIでUdonSharpをそれなりに上手く書けるSkillsを公開しました",
+    "link": "https://zenn.dev/nayushi/articles/ai-udonsharp-agent-skills",
+    "pubDate": "Thu, 26 Feb 2026 13:31:49 GMT"
   },
   {
     "site": "Hatena",
@@ -49,21 +85,27 @@
   },
   {
     "site": "Hatena",
-    "title": "SwitchBot AIハブ、AIエージェント「OpenClaw」に対応　単体の実行環境に",
-    "link": "https://www.watch.impress.co.jp/docs/news/2089038.html",
-    "pubDate": "2026-02-26T12:21:32.000Z"
+    "title": "Claude Codeマルチエージェント実践ガイド — 1つの指示で16プロセスが動く世界｜シュン｜AI実務で副業時給2倍にした人",
+    "link": "https://note.com/ai_dev_notes/n/n0a4ae317a942",
+    "pubDate": "2026-02-26T12:20:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.jsの書き方そのままで、ビルド4倍速・バンドル57%減。Vinextの仕組みを全部調べた",
+    "link": "https://zenn.dev/ashunar0/articles/8b1aa6fb3b9421",
+    "pubDate": "Thu, 26 Feb 2026 11:18:22 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "git-wtとbareリポジトリの組み合わせがClaudeCodeに馴染む",
+    "link": "https://zenn.dev/maruloop/articles/acdd949906a4d7",
+    "pubDate": "Thu, 26 Feb 2026 10:35:31 GMT"
   },
   {
     "site": "Zenn",
     "title": "WSL内で起動したClaude Codeの動作を高速化する簡単な設定",
     "link": "https://zenn.dev/momonga/articles/ee5b114e038938",
     "pubDate": "Thu, 26 Feb 2026 08:10:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "EAGLE-3 を用いた gpt-oss-120b の推論高速化",
-    "link": "https://zenn.dev/fixstars/articles/eagle3_gptoss120b",
-    "pubDate": "Thu, 26 Feb 2026 08:02:18 GMT"
   },
   {
     "site": "Hatena",
@@ -73,9 +115,15 @@
   },
   {
     "site": "Qiita",
-    "title": "OpenClawで失敗する人の共通点：Skill依存という落とし穴",
-    "link": "https://qiita.com/Yuuto127/items/be7275bf10d1e43adb6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-26T07:12:14.000Z"
+    "title": "技術力だけでは防げない「デスマーチへの片道切符」",
+    "link": "https://qiita.com/gmo-co-kitaura/items/cacb08715579370ceeda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T07:43:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った",
+    "link": "https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T06:55:00.000Z"
   },
   {
     "site": "Zenn",
@@ -85,9 +133,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Boris Cherny氏がシェアした、CLAUDE.mdを理解する - Qiita",
-    "link": "https://qiita.com/uno_ha07/items/5820d195510861b5be71",
-    "pubDate": "2026-02-25T23:38:44.000Z"
+    "title": "Claude Sonnet 4.6 vs Opus 4.6 徹底比較──ベンチマーク・コスト・速度のデータで読む「どちらを使うべきか」",
+    "link": "https://qiita.com/nogataka/items/59f192451813d611d662?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T05:51:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Remote Control は外部からローカルへの穴を開けるのか？通信を観察して確かめた",
+    "link": "https://zenn.dev/aromarious/articles/20260226-claude-code-remote-control-security",
+    "pubDate": "Thu, 26 Feb 2026 00:51:45 GMT"
   },
   {
     "site": "Qiita",
@@ -97,45 +151,15 @@
   },
   {
     "site": "Zenn",
-    "title": "1つのアカウントからドメイン全体を掌握！ Active Directoryハッキングの全手順を再現してみた",
-    "link": "https://zenn.dev/k_ing/articles/18797f131c9f92",
-    "pubDate": "Wed, 25 Feb 2026 14:54:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "202602個人的claude code設定",
-    "link": "https://zenn.dev/kawarimidoll/articles/7da5fd40f19fb1",
-    "pubDate": "Wed, 25 Feb 2026 12:45:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeのOSS版 OpenCodeの内部挙動を理解する",
-    "link": "https://zenn.dev/epicai_techblog/articles/20b78066cac63f",
-    "pubDate": "Wed, 25 Feb 2026 09:43:30 GMT"
+    "title": "Qwen3.5-27B-Q4 をローカルで動かしてみた",
+    "link": "https://zenn.dev/monjofight/articles/a70692fb752603",
+    "pubDate": "Wed, 25 Feb 2026 15:21:36 GMT"
   },
   {
     "site": "Qiita",
     "title": "「生成AIでWebデザインできるか調べて」と振られたので Pencil + Claude Code を試した話",
     "link": "https://qiita.com/tetsuko_room/items/835a22e52d1d6f5497ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-25T08:39:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "政策議事録をLLMで分析する設計：RAG（ベクトル検索）で精度が出なかった理由と多段階圧縮",
-    "link": "https://zenn.dev/polipoli/articles/4498643487aa68",
-    "pubDate": "Wed, 25 Feb 2026 08:14:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "git の次の時代のバージョン管理システム jj (jujutsu)",
-    "link": "https://zenn.dev/nttdata_tech/articles/33ec2c7972373e",
-    "pubDate": "Wed, 25 Feb 2026 07:35:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI駆動開発で個人開発してみた — Gemini × Antigravity × Google AI Studio で挑む効率開発",
-    "link": "https://zenn.dev/cloud_ace/articles/7e55bc3956cd80",
-    "pubDate": "Wed, 25 Feb 2026 06:40:48 GMT"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "Claude Code × Obsidianで実現！Qiita記事執筆を完全自動化したら、記事が書くのが楽しくなった話",
     "link": "https://qiita.com/hoge_kawamuro/items/20a91a58680ed93326ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-24T11:59:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ちゃんと業務で使えるようになるための】npmまとめ",
-    "link": "https://qiita.com/kyuko/items/57116c85e990fecd6f6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-23T23:35:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "通常の50倍、2日間で約1000人が登録したWEBアプリの話",
-    "link": "https://qiita.com/hisuzuya/items/89b58fe5a399cd284098?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-23T23:13:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AI性能比較】LLM 評価指標をざっくり解説｜Artificial Analysis の歩き方",
-    "link": "https://qiita.com/Ryo-Nakano/items/f1da76e039071d7b5ebc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-23T23:09:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "技術記事、硬すぎ問題。だからギャルに読ませてみた",
-    "link": "https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-23T21:23:54.000Z"
   }
 ]
