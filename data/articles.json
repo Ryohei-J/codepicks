@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "SwitchBot AI Hubレビュー。お前が誇るべきはAIだけじゃない、いろいろ詰め込んだ画期的な司令塔 - すまほん!!",
+    "link": "https://smhn.info/202602-switchbot-ai-hub-review",
+    "pubDate": "2026-02-28T10:55:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "チームメンバー迷わないIaC設計",
+    "link": "https://speakerdeck.com/hayama17/timumenbami-wanaiiacshe-ji",
+    "pubDate": "2026-02-28T07:36:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、国防総省とAIモデル提供合意　アンソロピック決裂後に表明 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN2815L0Y6A220C2000000/",
+    "pubDate": "2026-02-28T06:48:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ついにローカルLLMで安心して仕事が出来る！― Qwen3.5-27B 採用レポート (2026/02/27)",
+    "link": "https://zenn.dev/rna4219/articles/b945d175cde87c",
+    "pubDate": "2026-02-28T04:53:09.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "もうポート番号は覚えない ── Docker Compose のポート競合を消す CLI「tug」を作った",
     "link": "https://zenn.dev/mickamy/articles/e4bb206db564a5",
@@ -24,18 +48,6 @@
     "pubDate": "2026-02-27T22:40:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "トランプ氏、アンソロピックのAI「連邦政府全体で使用停止」 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN2804A0Y6A220C2000000/",
-    "pubDate": "2026-02-27T22:39:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "中には誰もいなかった—— コカイン密輸組織が作った 「自律潜水ドローン」の脅威",
-    "link": "https://www.technologyreview.jp/s/378349/how-uncrewed-narco-subs-could-transform-the-colombian-drug-trade/",
-    "pubDate": "2026-02-27T19:09:09.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code のリモートコントロールとスマホ通知の始め方",
     "link": "https://zenn.dev/schroneko/articles/claude-code-remote-control-and-mobile-notification",
@@ -48,10 +60,22 @@
     "pubDate": "2026-02-27T17:35:05.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "壊れやすいテストとは？ 「単体テストの考え方/使い方」(古典学派)と「実践テスト駆動開発」(ロンドン学派)を読んで考える",
+    "link": "https://zenn.dev/jy8752/articles/3653cfad23a0bc",
+    "pubDate": "Fri, 27 Feb 2026 14:50:29 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話",
     "link": "https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-27T14:01:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ついにローカルLLMで安心して仕事が出来る！― Qwen3.5-27B 採用レポート (2026/02/27)",
+    "link": "https://zenn.dev/rna4219/articles/b945d175cde87c",
+    "pubDate": "Fri, 27 Feb 2026 12:00:53 GMT"
   },
   {
     "site": "Hatena",
@@ -67,15 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "拡張機能や Selenium に頼らない、LLM ネイティブなブラウザ開発入門",
-    "link": "https://zenn.dev/surapunoyousei/articles/ac6af129c8ee70",
-    "pubDate": "Fri, 27 Feb 2026 06:08:48 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Agentワークフローで人間がボトルネックにならないためのSkill設計",
-    "link": "https://nyosegawa.github.io/posts/claude-code-verify-command/",
-    "pubDate": "2026-02-27T06:01:38.000Z"
+    "title": "もうポート番号は覚えない ── Docker Compose のポート競合を消す CLI「tug」を作った",
+    "link": "https://zenn.dev/mickamy/articles/e4bb206db564a5",
+    "pubDate": "Fri, 27 Feb 2026 07:50:43 GMT"
   },
   {
     "site": "Zenn",
@@ -120,28 +138,10 @@
     "pubDate": "Thu, 26 Feb 2026 14:34:27 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "仕事でObsidianをどのように使っているか",
-    "link": "https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136",
-    "pubDate": "Thu, 26 Feb 2026 13:16:27 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話",
     "link": "https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-26T13:02:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "スマホからスキマ時間で開発するためにClaude Code専用のSSHターミナルアプリを作った話",
-    "link": "https://zenn.dev/hagakun_dev/articles/ba887b4f652b69",
-    "pubDate": "2026-02-26T12:20:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsの書き方そのままで、ビルド4倍速・バンドル57%減。Vinextの仕組みを全部調べた",
-    "link": "https://zenn.dev/ashunar0/articles/8b1aa6fb3b9421",
-    "pubDate": "Thu, 26 Feb 2026 11:18:22 GMT"
   },
   {
     "site": "Qiita",
