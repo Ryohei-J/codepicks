@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "トランプ大統領、Anthropicを「極左の意識高い系企業」と非難し　政府機関での製品使用を即時停止",
+    "link": "https://www.itmedia.co.jp/news/articles/2602/28/news030.html",
+    "pubDate": "2026-02-27T22:40:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トランプ氏、アンソロピックのAI「連邦政府全体で使用停止」 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN2804A0Y6A220C2000000/",
+    "pubDate": "2026-02-27T22:39:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はじめてのにき(2026-02-28)",
+    "link": "https://shinh.skr.jp/m/?date=20260228",
+    "pubDate": "2026-02-27T20:38:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話",
+    "link": "https://zenn.dev/nrs/articles/db4120beb0e601",
+    "pubDate": "2026-02-27T17:35:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Googleが「公開してOK」と案内していたAPIキーがGeminiの認証キーにもなっているせいで個人情報垂れ流し状態のウェブサイトが大量に存在",
     "link": "https://gigazine.net/news/20260227-google-api-key-gemini/",
     "pubDate": "2026-02-27T12:21:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "portless が便利なら、Docker Compose には Traefik がある",
+    "link": "https://zenn.dev/mickamy/articles/9a251e7cf51b9c",
+    "pubDate": "2026-02-27T11:42:02.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "伊藤穰一氏、デジタルガレージの専務執行役員を退任　理由は明かさず",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/27/news128.html",
-    "pubDate": "2026-02-27T09:36:02.000Z"
+    "title": "AIはプロジェクトを始めさせすぎる - ABAの日誌",
+    "link": "https://aba.hatenablog.com/entry/2026/02/27/195308",
+    "pubDate": "2026-02-27T10:55:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話",
+    "link": "https://zenn.dev/nrs/articles/db4120beb0e601",
+    "pubDate": "Fri, 27 Feb 2026 09:56:25 GMT"
   },
   {
     "site": "Hatena",
@@ -30,22 +66,22 @@
     "pubDate": "Fri, 27 Feb 2026 06:08:48 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った - Qiita",
-    "link": "https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b",
-    "pubDate": "2026-02-27T06:00:45.000Z"
+    "site": "Hatena",
+    "title": "Agentワークフローで人間がボトルネックにならないためのSkill設計",
+    "link": "https://nyosegawa.github.io/posts/claude-code-verify-command/",
+    "pubDate": "2026-02-27T06:01:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "新しい時代の開発と組織について",
-    "link": "https://nyosegawa.github.io/posts/development-and-organization-in-agent-era/",
-    "pubDate": "2026-02-27T05:30:17.000Z"
+    "site": "Zenn",
+    "title": "「全エンジニアが Claude Code を 100% 活用する」を目指してダッシュボードを作った",
+    "link": "https://zenn.dev/dinii/articles/28c8fcd041837d",
+    "pubDate": "Fri, 27 Feb 2026 05:57:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "話題のニンジャマイルズについて調査してみた｜okash1n",
-    "link": "https://note.com/okash1n/n/nf86a486bee10",
-    "pubDate": "2026-02-27T05:13:45.000Z"
+    "site": "Zenn",
+    "title": "Codex CLI で音声入力を試す",
+    "link": "https://zenn.dev/schroneko/articles/codex-cli-voice-input",
+    "pubDate": "Fri, 27 Feb 2026 04:41:37 GMT"
   },
   {
     "site": "Qiita",
@@ -54,16 +90,10 @@
     "pubDate": "2026-02-27T03:14:30.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "取得元と適用先でDB構造が違うときのdumpファイルの適用方法",
-    "link": "https://qiita.com/I635230/items/b1385e17de52a4637f47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-27T03:13:12.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "仕事でObsidianをどのように使っているか",
-    "link": "https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136",
-    "pubDate": "2026-02-27T01:38:52.000Z"
+    "title": "静的解析からみるGoの過去と未来",
+    "link": "https://zenn.dev/knowledgework/articles/1e176605a3c6e3",
+    "pubDate": "Fri, 27 Feb 2026 03:00:03 GMT"
   },
   {
     "site": "Zenn",
@@ -73,39 +103,15 @@
   },
   {
     "site": "Zenn",
-    "title": "AIでUdonSharpをそれなりに上手く書けるSkillsを公開しました",
-    "link": "https://zenn.dev/nayushi/articles/ai-udonsharp-agent-skills",
-    "pubDate": "Thu, 26 Feb 2026 13:31:49 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "生成AIの「それっぽい嘘」に 疲弊するアカデミア【平山 優】",
-    "link": "https://koken-publication.com/archives/4191",
-    "pubDate": "2026-02-26T13:28:40.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "仕事でObsidianをどのように使っているか",
     "link": "https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136",
     "pubDate": "Thu, 26 Feb 2026 13:16:27 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeマルチエージェント実践ガイド — 1つの指示で16プロセスが動く世界｜シュン｜AI実務で副業時給2倍にした人",
-    "link": "https://note.com/ai_dev_notes/n/n0a4ae317a942",
-    "pubDate": "2026-02-26T12:20:25.000Z"
   },
   {
     "site": "Zenn",
     "title": "Next.jsの書き方そのままで、ビルド4倍速・バンドル57%減。Vinextの仕組みを全部調べた",
     "link": "https://zenn.dev/ashunar0/articles/8b1aa6fb3b9421",
     "pubDate": "Thu, 26 Feb 2026 11:18:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "git-wtとbareリポジトリの組み合わせがClaudeCodeに馴染む",
-    "link": "https://zenn.dev/maruloop/articles/acdd949906a4d7",
-    "pubDate": "Thu, 26 Feb 2026 10:35:31 GMT"
   },
   {
     "site": "Zenn",
@@ -121,15 +127,21 @@
   },
   {
     "site": "Qiita",
-    "title": "Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った",
-    "link": "https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-26T06:55:00.000Z"
+    "title": "【無料】ブラウザ上で電子工作をシミュレートできる”Tinkercad”が便利すぎてヤバい",
+    "link": "https://qiita.com/horyyyyyy/items/5befc1eeffa01cab45d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T07:38:52.000Z"
   },
   {
     "site": "Zenn",
-    "title": "「SaaSは死ぬ」は雑すぎる",
-    "link": "https://zenn.dev/mi_01_24fu/articles/saas-is-dead",
-    "pubDate": "Thu, 26 Feb 2026 05:57:24 GMT"
+    "title": "Claude Codeで毎日育てる、完全オフラインのMarkdown/Mermaidエディタを作った",
+    "link": "https://zenn.dev/acntechjp/articles/5a8b7b334b15bc",
+    "pubDate": "Thu, 26 Feb 2026 07:15:27 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Markdownを日本の伝統的な雰囲気のあるWordファイルに変換するCLIツール「md2docx」を作った",
+    "link": "https://qiita.com/nokonoko_1203/items/87a71916c155d69a336b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T06:55:00.000Z"
   },
   {
     "site": "Qiita",
@@ -138,22 +150,16 @@
     "pubDate": "2026-02-26T05:51:03.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code Remote Control は外部からローカルへの穴を開けるのか？通信を観察して確かめた",
-    "link": "https://zenn.dev/aromarious/articles/20260226-claude-code-remote-control-security",
-    "pubDate": "Thu, 26 Feb 2026 00:51:45 GMT"
+    "site": "Qiita",
+    "title": "Fisher情報量と共分散行列",
+    "link": "https://qiita.com/nekokaitaiyo_ne/items/aee3f7152b984b3644bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T05:38:11.000Z"
   },
   {
     "site": "Qiita",
     "title": " MinIO、知らないうちに終了していた",
     "link": "https://qiita.com/kuma_3838/items/b9073cce25766508485a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-25T16:27:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Qwen3.5-27B-Q4 をローカルで動かしてみた",
-    "link": "https://zenn.dev/monjofight/articles/a70692fb752603",
-    "pubDate": "Wed, 25 Feb 2026 15:21:36 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "個人開発でClaudeCodeに画面操作付きPR動画を生成させてXに自動投稿してる話",
     "link": "https://qiita.com/akachiryo/items/2777af8e9912d6bbbbb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-25T01:23:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code × Obsidianで実現！Qiita記事執筆を完全自動化したら、記事が書くのが楽しくなった話",
-    "link": "https://qiita.com/hoge_kawamuro/items/20a91a58680ed93326ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-24T11:59:08.000Z"
   }
 ]
