@@ -1,5 +1,23 @@
 [
   {
+    "site": "Zenn",
+    "title": "もうポート番号は覚えない ── Docker Compose のポート競合を消す CLI「tug」を作った",
+    "link": "https://zenn.dev/mickamy/articles/e4bb206db564a5",
+    "pubDate": "2026-02-28T00:40:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「全エンジニアが Claude Code を 100% 活用する」を目指してダッシュボードを作った",
+    "link": "https://zenn.dev/dinii/articles/28c8fcd041837d",
+    "pubDate": "2026-02-28T00:07:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Ubuntu日和】 【第85回】絶対にアカウントがBANされないオンラインストレージサービスをノーメンテナンスで運用する",
+    "link": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2089051.html",
+    "pubDate": "2026-02-27T23:08:12.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "トランプ大統領、Anthropicを「極左の意識高い系企業」と非難し　政府機関での製品使用を即時停止",
     "link": "https://www.itmedia.co.jp/news/articles/2602/28/news030.html",
@@ -13,21 +31,21 @@
   },
   {
     "site": "Hatena",
-    "title": "はじめてのにき(2026-02-28)",
-    "link": "https://shinh.skr.jp/m/?date=20260228",
-    "pubDate": "2026-02-27T20:38:50.000Z"
+    "title": "中には誰もいなかった—— コカイン密輸組織が作った 「自律潜水ドローン」の脅威",
+    "link": "https://www.technologyreview.jp/s/378349/how-uncrewed-narco-subs-could-transform-the-colombian-drug-trade/",
+    "pubDate": "2026-02-27T19:09:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code のリモートコントロールとスマホ通知の始め方",
+    "link": "https://zenn.dev/schroneko/articles/claude-code-remote-control-and-mobile-notification",
+    "pubDate": "Fri, 27 Feb 2026 18:04:59 GMT"
   },
   {
     "site": "Zenn",
     "title": "Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話",
     "link": "https://zenn.dev/nrs/articles/db4120beb0e601",
     "pubDate": "2026-02-27T17:35:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Googleが「公開してOK」と案内していたAPIキーがGeminiの認証キーにもなっているせいで個人情報垂れ流し状態のウェブサイトが大量に存在",
-    "link": "https://gigazine.net/news/20260227-google-api-key-gemini/",
-    "pubDate": "2026-02-27T12:21:38.000Z"
   },
   {
     "site": "Zenn",
@@ -42,22 +60,10 @@
     "pubDate": "2026-02-27T11:01:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIはプロジェクトを始めさせすぎる - ABAの日誌",
-    "link": "https://aba.hatenablog.com/entry/2026/02/27/195308",
-    "pubDate": "2026-02-27T10:55:00.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話",
     "link": "https://zenn.dev/nrs/articles/db4120beb0e601",
     "pubDate": "Fri, 27 Feb 2026 09:56:25 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Markdownからずんだもん動画を作成するツールを作った - 詩と創作・思索のひろば",
-    "link": "https://motemen.hatenablog.com/entry/2026/02/markdown-to-zundamon",
-    "pubDate": "2026-02-27T08:46:48.000Z"
   },
   {
     "site": "Zenn",
@@ -97,6 +103,12 @@
   },
   {
     "site": "Zenn",
+    "title": "portless が便利なら、Docker Compose には Traefik がある",
+    "link": "https://zenn.dev/mickamy/articles/9a251e7cf51b9c",
+    "pubDate": "Fri, 27 Feb 2026 01:31:53 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIの時代にエンジニアとして何を磨くか",
     "link": "https://zenn.dev/airiswim/articles/78d5e95bed7be0",
     "pubDate": "Thu, 26 Feb 2026 14:34:27 GMT"
@@ -114,12 +126,6 @@
     "pubDate": "Thu, 26 Feb 2026 11:18:22 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "WSL内で起動したClaude Codeの動作を高速化する簡単な設定",
-    "link": "https://zenn.dev/momonga/articles/ee5b114e038938",
-    "pubDate": "Thu, 26 Feb 2026 08:10:09 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "技術力だけでは防げない「デスマーチへの片道切符」",
     "link": "https://qiita.com/gmo-co-kitaura/items/cacb08715579370ceeda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -130,12 +136,6 @@
     "title": "【無料】ブラウザ上で電子工作をシミュレートできる”Tinkercad”が便利すぎてヤバい",
     "link": "https://qiita.com/horyyyyyy/items/5befc1eeffa01cab45d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-26T07:38:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで毎日育てる、完全オフラインのMarkdown/Mermaidエディタを作った",
-    "link": "https://zenn.dev/acntechjp/articles/5a8b7b334b15bc",
-    "pubDate": "Thu, 26 Feb 2026 07:15:27 GMT"
   },
   {
     "site": "Qiita",
