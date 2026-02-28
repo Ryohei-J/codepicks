@@ -48,10 +48,10 @@
     "pubDate": "2026-02-27T17:35:05.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "portless が便利なら、Docker Compose には Traefik がある",
-    "link": "https://zenn.dev/mickamy/articles/9a251e7cf51b9c",
-    "pubDate": "2026-02-27T11:42:02.000Z"
+    "site": "Qiita",
+    "title": "AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話",
+    "link": "https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-27T14:01:50.000Z"
   },
   {
     "site": "Hatena",
@@ -90,12 +90,6 @@
     "pubDate": "Fri, 27 Feb 2026 04:41:37 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "git worktreeを使用した開発の個人的詰まりポイント",
-    "link": "https://qiita.com/I635230/items/c23d334cc5adb9e8efd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-27T03:14:30.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "静的解析からみるGoの過去と未来",
     "link": "https://zenn.dev/knowledgework/articles/1e176605a3c6e3",
@@ -108,6 +102,18 @@
     "pubDate": "Fri, 27 Feb 2026 01:31:53 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "GitHub Copilot CLIの/researchが強い",
+    "link": "https://qiita.com/shyamagu/items/4e2d30a24594c005a02f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-27T00:52:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "通信会社はどうやってあなたのSIMを認証しているのか？",
+    "link": "https://qiita.com/K3NLatte/items/f43cf45a02a2bda18079?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T18:17:58.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AIの時代にエンジニアとして何を磨くか",
     "link": "https://zenn.dev/airiswim/articles/78d5e95bed7be0",
@@ -118,6 +124,18 @@
     "title": "仕事でObsidianをどのように使っているか",
     "link": "https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136",
     "pubDate": "Thu, 26 Feb 2026 13:16:27 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話",
+    "link": "https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T13:02:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "スマホからスキマ時間で開発するためにClaude Code専用のSSHターミナルアプリを作った話",
+    "link": "https://zenn.dev/hagakun_dev/articles/ba887b4f652b69",
+    "pubDate": "2026-02-26T12:20:27.000Z"
   },
   {
     "site": "Zenn",
@@ -145,38 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Sonnet 4.6 vs Opus 4.6 徹底比較──ベンチマーク・コスト・速度のデータで読む「どちらを使うべきか」",
-    "link": "https://qiita.com/nogataka/items/59f192451813d611d662?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-26T05:51:03.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Fisher情報量と共分散行列",
     "link": "https://qiita.com/nekokaitaiyo_ne/items/aee3f7152b984b3644bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-26T05:38:11.000Z"
   },
   {
     "site": "Qiita",
+    "title": "ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜",
+    "link": "https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T00:52:17.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": " MinIO、知らないうちに終了していた",
     "link": "https://qiita.com/kuma_3838/items/b9073cce25766508485a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-25T16:27:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「生成AIでWebデザインできるか調べて」と振られたので Pencil + Claude Code を試した話",
-    "link": "https://qiita.com/tetsuko_room/items/835a22e52d1d6f5497ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-25T08:39:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【後編】「で、\"結局\"今どんな状況なの？」と言われたとき、あなたの報告はまだ“報告”になっていない",
-    "link": "https://qiita.com/hitomin_poke/items/c66354eda2dbb749207f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-25T05:36:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発でClaudeCodeに画面操作付きPR動画を生成させてXに自動投稿してる話",
-    "link": "https://qiita.com/akachiryo/items/2777af8e9912d6bbbbb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-25T01:23:36.000Z"
   }
 ]
