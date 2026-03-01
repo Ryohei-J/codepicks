@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "SwitchBot AI Hubレビュー。お前が誇るべきはAIだけじゃない、いろいろ詰め込んだ画期的な司令塔 - すまほん!!",
-    "link": "https://smhn.info/202602-switchbot-ai-hub-review",
-    "pubDate": "2026-02-28T10:55:46.000Z"
+    "title": "OpenAI、米国防総省とAI導入で合意　Anthropicへの強硬措置の沈静化を要請",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/01/news019.html",
+    "pubDate": "2026-02-28T22:36:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本一高いビルになる予定の『Torch Tower』は特殊な構造をしているが関東の溶接工の約5人に1人(120人)を集め作業をしている「溶接工ってそれしかいないの！？」",
+    "link": "https://togetter.com/li/2669397",
+    "pubDate": "2026-02-28T16:34:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "React不要論2026",
+    "link": "https://zenn.dev/shuent/articles/9fb5b1e18edace",
+    "pubDate": "2026-02-28T15:23:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "読みにくいExcelやCSVはなぜ日本で定着したのか",
+    "link": "https://zenn.dev/tonbi_attack/articles/7307ce93b6c5d3",
+    "pubDate": "2026-02-28T12:37:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "壊れやすいテストとは？ 「単体テストの考え方/使い方」(古典学派)と「実践テスト駆動開発」(ロンドン学派)を読んで考える",
+    "link": "https://zenn.dev/jy8752/articles/3653cfad23a0bc",
+    "pubDate": "2026-02-28T09:14:23.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "OpenAI、国防総省とAIモデル提供合意　アンソロピック決裂後に表明 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN2815L0Y6A220C2000000/",
-    "pubDate": "2026-02-28T06:48:34.000Z"
+    "title": "3000万コミットの逆説——AIを最も使う者が、最も報われない｜川崎 裕一 / マネタイズおじさん",
+    "link": "https://comemo.nikkei.com/n/nc79e1cbc469f",
+    "pubDate": "2026-02-28T06:31:49.000Z"
   },
   {
     "site": "Zenn",
@@ -25,27 +49,15 @@
   },
   {
     "site": "Zenn",
-    "title": "もうポート番号は覚えない ── Docker Compose のポート競合を消す CLI「tug」を作った",
-    "link": "https://zenn.dev/mickamy/articles/e4bb206db564a5",
-    "pubDate": "2026-02-28T00:40:49.000Z"
+    "title": "React不要論2026",
+    "link": "https://zenn.dev/shuent/articles/9fb5b1e18edace",
+    "pubDate": "Sat, 28 Feb 2026 04:01:59 GMT"
   },
   {
     "site": "Zenn",
     "title": "「全エンジニアが Claude Code を 100% 活用する」を目指してダッシュボードを作った",
     "link": "https://zenn.dev/dinii/articles/28c8fcd041837d",
     "pubDate": "2026-02-28T00:07:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【Ubuntu日和】 【第85回】絶対にアカウントがBANされないオンラインストレージサービスをノーメンテナンスで運用する",
-    "link": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2089051.html",
-    "pubDate": "2026-02-27T23:08:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "トランプ大統領、Anthropicを「極左の意識高い系企業」と非難し　政府機関での製品使用を即時停止",
-    "link": "https://www.itmedia.co.jp/news/articles/2602/28/news030.html",
-    "pubDate": "2026-02-27T22:40:58.000Z"
   },
   {
     "site": "Zenn",
@@ -55,9 +67,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話",
-    "link": "https://zenn.dev/nrs/articles/db4120beb0e601",
-    "pubDate": "2026-02-27T17:35:05.000Z"
+    "title": "読みにくいExcelやCSVはなぜ日本で定着したのか",
+    "link": "https://zenn.dev/tonbi_attack/articles/7307ce93b6c5d3",
+    "pubDate": "Fri, 27 Feb 2026 15:15:30 GMT"
   },
   {
     "site": "Zenn",
@@ -78,12 +90,6 @@
     "pubDate": "Fri, 27 Feb 2026 12:00:53 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Plurality",
-    "link": "https://plurality.net/ja/",
-    "pubDate": "2026-02-27T11:01:42.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code や Codex をオーケストレーションして自動でレビュー FB ループを回して洗い物をしてる話",
     "link": "https://zenn.dev/nrs/articles/db4120beb0e601",
@@ -94,6 +100,18 @@
     "title": "もうポート番号は覚えない ── Docker Compose のポート競合を消す CLI「tug」を作った",
     "link": "https://zenn.dev/mickamy/articles/e4bb206db564a5",
     "pubDate": "Fri, 27 Feb 2026 07:50:43 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code を Pro プランで2週間使ってみた",
+    "link": "https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-27T06:51:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "拡張機能や Selenium に頼らない、LLM ネイティブなブラウザ開発入門",
+    "link": "https://zenn.dev/surapunoyousei/articles/ac6af129c8ee70",
+    "pubDate": "Fri, 27 Feb 2026 06:08:48 GMT"
   },
   {
     "site": "Zenn",
@@ -108,34 +126,28 @@
     "pubDate": "Fri, 27 Feb 2026 04:41:37 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "静的解析からみるGoの過去と未来",
-    "link": "https://zenn.dev/knowledgework/articles/1e176605a3c6e3",
-    "pubDate": "Fri, 27 Feb 2026 03:00:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "portless が便利なら、Docker Compose には Traefik がある",
-    "link": "https://zenn.dev/mickamy/articles/9a251e7cf51b9c",
-    "pubDate": "Fri, 27 Feb 2026 01:31:53 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "GitHub Copilot CLIの/researchが強い",
     "link": "https://qiita.com/shyamagu/items/4e2d30a24594c005a02f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-27T00:52:25.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "通信会社はどうやってあなたのSIMを認証しているのか？",
-    "link": "https://qiita.com/K3NLatte/items/f43cf45a02a2bda18079?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-26T18:17:58.000Z"
+    "site": "Hatena",
+    "title": "【Excel新機能】データが増えるたびに数式を直すのはもう終わり。動的配列関数とスピル演算子（#）の威力とは",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news029.html",
+    "pubDate": "2026-02-26T23:28:55.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIの時代にエンジニアとして何を磨くか",
-    "link": "https://zenn.dev/airiswim/articles/78d5e95bed7be0",
-    "pubDate": "Thu, 26 Feb 2026 14:34:27 GMT"
+    "site": "Qiita",
+    "title": "ChatGPTやGeminiの回答、毎回コピペして編集するの手間じゃないですか？",
+    "link": "https://qiita.com/takaya787/items/ff34b84c88ec4646a20c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T14:32:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code 初学者ロードマップ",
+    "link": "https://qiita.com/marugame/items/8b870661f80d63499336?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-26T14:05:52.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Fisher情報量と共分散行列",
-    "link": "https://qiita.com/nekokaitaiyo_ne/items/aee3f7152b984b3644bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-26T05:38:11.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜",
     "link": "https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-26T00:52:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " MinIO、知らないうちに終了していた",
-    "link": "https://qiita.com/kuma_3838/items/b9073cce25766508485a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-25T16:27:19.000Z"
   }
 ]
