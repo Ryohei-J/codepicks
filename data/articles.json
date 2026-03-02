@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "無料のDTM向けAI音源分離ツール「Go-Splitter」がWindowsに対応／WAVE/MP3/FLAC/M4A/AACなどのファイルをボーカル・ベース・ドラム・その他に分離",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2089397.html",
+    "pubDate": "2026-03-02T04:02:08.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "🤣 b:id:pico-banana-app 🥹 b:id:nguyen-oi (グエン) を探究したら深淵が見えた",
     "link": "https://anond.hatelabo.jp/20260302124715",
     "pubDate": "2026-03-02T03:55:46.000Z"
@@ -18,10 +24,28 @@
     "pubDate": "2026-03-02T02:36:50.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "[AI音痴に告ぐ。これを読んだら skills を使わずにはいられない] skills 使用有無での違いを検証してみた。",
+    "link": "https://qiita.com/taka_xin/items/b7b3e0e79ac9480278ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-02T02:17:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "追加コストゼロでClaude Codeの個人サブスクでGitHub Actions自動化",
+    "link": "https://qiita.com/sapeet-lin/items/d93e4fbc1c1ddda02a53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-02T01:53:34.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "あなたはEntra IDを理解できる",
     "link": "https://zenn.dev/headwaters/articles/64e6aad7acdff9",
     "pubDate": "Mon, 02 Mar 2026 01:02:43 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "文字通り変態！Lenovo、第2ディスプレイやキーボードなどを着脱できるノートを公開",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2089511.html",
+    "pubDate": "2026-03-01T23:44:46.000Z"
   },
   {
     "site": "Qiita",
@@ -36,6 +60,24 @@
     "pubDate": "2026-03-01T23:28:55.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Claude Codeですべての日常業務を爆速化しよう！",
+    "link": "https://qiita.com/minorun365/items/114f53def8cb0db60f47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-01T23:03:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "上場企業のメールセキュリティを調べてみた – DMARC・SPF設定の実態",
+    "link": "https://zenn.dev/ext0mmy/articles/700c30ca00b7f5",
+    "pubDate": "Sun, 01 Mar 2026 23:00:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "アンケートの集計分析がいつも「それで？」で終わる理由 — 対応分析が変える、データの読み方",
+    "link": "https://qiita.com/IkuyaM/items/5692bf34288753f4ee44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-01T22:59:14.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "中年男性って仕組みや構造の話はするけど、個人の感情や感覚の話をしない..",
     "link": "https://anond.hatelabo.jp/20260301234914",
@@ -46,12 +88,6 @@
     "title": "Decision Trees",
     "link": "https://mlu-explain.github.io/decision-tree/",
     "pubDate": "2026-03-01T13:39:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【朗報】Microsoft TeamsのEnter キーによる誤送信防止機能がいよいよロールアウトされていた「これは助かる！」「なんでこれまで放置されていた…」",
-    "link": "https://togetter.com/li/2669795",
-    "pubDate": "2026-03-01T11:57:00.000Z"
   },
   {
     "site": "Zenn",
@@ -84,12 +120,6 @@
     "pubDate": "Sun, 01 Mar 2026 04:39:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Qwen3-TTSで10秒の音声で自分の声をクローン",
-    "link": "https://zenn.dev/karaage0703/articles/97f8a01cbb9c49",
-    "pubDate": "Sun, 01 Mar 2026 04:38:51 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選",
     "link": "https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -103,9 +133,21 @@
   },
   {
     "site": "Zenn",
+    "title": "GitHub Actionsのアーティファクトがzip化不要に。既存ジョブ移行のポイントとハマりどころ",
+    "link": "https://zenn.dev/korosuke613/articles/github-actions-use-archive-artifact",
+    "pubDate": "Sun, 01 Mar 2026 01:00:00 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "あなたはEntra IDを理解できる",
     "link": "https://zenn.dev/headwaters/articles/64e6aad7acdff9",
     "pubDate": "2026-02-28T23:31:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code の会話を全自動で Obsidian に記録する、または、車輪の再発明について",
+    "link": "https://qiita.com/delphinus/items/9325c8dd750c85bac944?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-02-28T12:42:43.000Z"
   },
   {
     "site": "Zenn",
@@ -121,27 +163,9 @@
   },
   {
     "site": "Zenn",
-    "title": "GoとRustのざっくり性能比較",
-    "link": "https://zenn.dev/ponyo877/articles/ae398e081464ff",
-    "pubDate": "Sat, 28 Feb 2026 10:57:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIに1円稼いでと言ったら何が起きたか",
-    "link": "https://zenn.dev/agent_workshop/articles/note-n74300b556a8d",
-    "pubDate": "Sat, 28 Feb 2026 09:43:14 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIがOpenSSLのゼロデイを12個見つけた話〜20年以上見つからなかった脆弱性をAIが暴く〜",
-    "link": "https://qiita.com/GeneLab_999/items/272ced478f770a327b99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-28T09:01:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "NDL古典籍OCR-Lite で楽々古文書読み",
-    "link": "https://qiita.com/ishiijunpei/items/25ae54893bdaf864b910?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-28T07:57:51.000Z"
+    "title": "Rustの型システムの好きな使い方",
+    "link": "https://zenn.dev/northward/articles/my-favorite-type-system-usage-in-rust",
+    "pubDate": "Sat, 28 Feb 2026 12:00:00 GMT"
   },
   {
     "site": "Qiita",
@@ -151,32 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "OpenClawの登場で何が変わったのか？10の注目ツールで見るAIの「実行力」",
-    "link": "https://qiita.com/yamamoto0/items/c47ce205344b95bb26df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-28T04:22:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成AIで情報漏えいが増える本当の理由",
-    "link": "https://qiita.com/mhamadajp/items/e44c38f59ec03dea96e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-27T19:19:35.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話",
     "link": "https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-27T14:01:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜 - Qiita",
-    "link": "https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c",
-    "pubDate": "2026-02-27T13:29:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code を Pro プランで2週間使ってみた",
-    "link": "https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-02-27T06:51:19.000Z"
   }
 ]
