@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "🤣 b:id:pico-banana-app 🥹 b:id:nguyen-oi (グエン) を探究したら深淵が見えた",
+    "link": "https://anond.hatelabo.jp/20260302124715",
+    "pubDate": "2026-03-02T03:55:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PdMがClaude Codeを使い始めて変わったこと - enechain Tech Blog",
+    "link": "https://techblog.enechain.com/entry/pdm-claude-code-impact",
+    "pubDate": "2026-03-02T03:10:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWSのドバイ拠点に「物体が衝突」し火災、サービス停止に",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/02/news071.html",
+    "pubDate": "2026-03-02T02:36:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "あなたはEntra IDを理解できる",
+    "link": "https://zenn.dev/headwaters/articles/64e6aad7acdff9",
+    "pubDate": "Mon, 02 Mar 2026 01:02:43 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Codeですべての日常業務を爆速化しよう！ - Qiita",
     "link": "https://qiita.com/minorun365/items/114f53def8cb0db60f47",
@@ -31,9 +55,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Skillsで実現する軽量パーソナルRAG",
-    "link": "https://zenn.dev/karaage0703/articles/d7eaf62437185d",
-    "pubDate": "2026-03-01T10:52:51.000Z"
+    "title": "もう.envにAPIキーを平文で置くのはやめた — macOS Keychain管理CLI「LLM Key Ring」",
+    "link": "https://zenn.dev/yottayoshida/articles/llm-key-ring-secure-api-key-management",
+    "pubDate": "Sun, 01 Mar 2026 09:05:14 GMT"
   },
   {
     "site": "Zenn",
@@ -46,6 +70,12 @@
     "title": "【個人開発】オフラインでも地図と現在地をすぐ確認できる、待ち合わせアプリを作りました【React x TypeScript x Service Worker】",
     "link": "https://qiita.com/shun123/items/91a65bfbe41aea8dbbda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-01T07:54:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "壊れにくいUIテストの設計を考える（Playwright + Storybook + React + GitHub Actions）",
+    "link": "https://zenn.dev/ohimusdev46301/articles/be70f58bf82926",
+    "pubDate": "Sun, 01 Mar 2026 04:51:21 GMT"
   },
   {
     "site": "Zenn",
@@ -79,18 +109,6 @@
   },
   {
     "site": "Zenn",
-    "title": "React Tokyo フェス2026 参加レポート",
-    "link": "https://zenn.dev/polipoli/articles/react-tokyo-fes-2026-report",
-    "pubDate": "Sat, 28 Feb 2026 13:49:57 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "衝撃！NotebookLMの「隠し機能」を解放する自動化ツール｜tyo",
-    "link": "https://note.com/humble_dog9839/n/n896e285ad324",
-    "pubDate": "2026-02-28T13:25:36.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "例を増やしたらLLMの性能が下がる ── few-shot collapseの発見と検出方法",
     "link": "https://zenn.dev/okuma/articles/few_shot_collapse",
     "pubDate": "Sat, 28 Feb 2026 12:29:00 GMT"
@@ -112,12 +130,6 @@
     "title": "AIに1円稼いでと言ったら何が起きたか",
     "link": "https://zenn.dev/agent_workshop/articles/note-n74300b556a8d",
     "pubDate": "Sat, 28 Feb 2026 09:43:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代におけるソフトウェアアーキテクチャを考える",
-    "link": "https://zenn.dev/neko3cs/articles/software-architecture-for-the-ai-era",
-    "pubDate": "Sat, 28 Feb 2026 09:12:01 GMT"
   },
   {
     "site": "Qiita",
@@ -144,12 +156,6 @@
     "pubDate": "2026-02-28T04:22:06.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "React不要論2026",
-    "link": "https://zenn.dev/shuent/articles/9fb5b1e18edace",
-    "pubDate": "Sat, 28 Feb 2026 04:01:59 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "生成AIで情報漏えいが増える本当の理由",
     "link": "https://qiita.com/mhamadajp/items/e44c38f59ec03dea96e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "Claude Code を Pro プランで2週間使ってみた",
     "link": "https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-02-27T06:51:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code 初学者ロードマップ - Qiita",
-    "link": "https://qiita.com/marugame/items/8b870661f80d63499336",
-    "pubDate": "2026-02-27T04:12:02.000Z"
   }
 ]
