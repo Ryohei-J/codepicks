@@ -1,9 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "マネージャー版 \"提案のレベル\" を上げる",
+    "link": "https://speakerdeck.com/konifar/maneziyaban-ti-an-noreberu-woshang-geru",
+    "pubDate": "2026-03-04T07:02:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ビオレ「おうちdeエステ」から「隠れ角栓まで自己崩壊させる新技術」を使った洗顔料が発表…先行販売は売り切れ続出「ここまでのビフォアフ写真載せるのすごい」",
+    "link": "https://togetter.com/li/2670836",
+    "pubDate": "2026-03-04T06:38:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "人生で一度もプログラムをしたことのない人間が最近はchatGPTを使って小さいプログラムを作っている - orangestar2",
+    "link": "https://orangestar2.hatenadiary.com/entry/2026/03/04/143108",
+    "pubDate": "2026-03-04T05:47:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新人向け「読むだけじゃ作れない」問題を解決するオンボーディングSkillとフロー",
+    "link": "https://qiita.com/WdknWdkn/items/8fdb5a85d5d78a73b6ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-04T03:23:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "状態と性質を区別して考える",
+    "link": "https://zenn.dev/knowledgework/articles/95f30cfd155b5d",
+    "pubDate": "Wed, 04 Mar 2026 03:00:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "MediaPipeのランドマーク検出でマスクをした人の顔がどのように判定されるか調べてみた",
+    "link": "https://qiita.com/ssc-karasawa/items/70991a5ac68ad1f6dc61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-04T00:33:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "要求定義・仕様記述・設計・検証の手引き - 理論から学ぶ明確で統一された成果物定義",
+    "link": "https://speakerdeck.com/orgachem/guidelines-for-requirements-definition-specification-writing-design-and-verification",
+    "pubDate": "2026-03-04T00:19:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【狂気】2026年、PS3を開発する——1行もコードを書けない人間が、AIと組んで「開発地獄」と呼ばれたPS3に挑み、15年間誰も開けられなかった扉をこじ開けた1週間の記録。｜田中",
     "link": "https://note.com/tanakaps/n/n410dbceb8c8d",
     "pubDate": "2026-03-04T00:03:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "OCIでApache Iceberg入門：Object StorageとData Flowで動かしてみる",
+    "link": "https://qiita.com/yushibats/items/41fcbf0504dbd74a782b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-03T23:58:41.000Z"
   },
   {
     "site": "Hatena",
@@ -25,27 +73,33 @@
   },
   {
     "site": "Zenn",
+    "title": "わざと汚く書いたコードを /simplify に渡したら半分以下になった",
+    "link": "https://zenn.dev/maniizu3110/articles/010-claude-code-simplify-auto-refactor",
+    "pubDate": "Tue, 03 Mar 2026 21:25:26 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Rustの仕事が増えていく理由",
     "link": "https://zenn.dev/yukinarit/articles/e3fd03a62c3da0",
     "pubDate": "Tue, 03 Mar 2026 18:29:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Apple、まったく新しいM5 ProとM5 Maxを搭載したMacBook Proを発表",
-    "link": "https://www.apple.com/jp/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-    "pubDate": "2026-03-03T14:33:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS、中東でデータセンター施設がドローンの直接攻撃を受けたことを公表。3つのアベイラビリティゾーンのうち2つが著しく損傷",
-    "link": "https://www.publickey1.jp/blog/26/aws32.html",
-    "pubDate": "2026-03-03T13:55:04.000Z"
+    "site": "Zenn",
+    "title": "koji-1009/setup-flutterを作った",
+    "link": "https://zenn.dev/koji_1009/articles/acaff740d44047",
+    "pubDate": "Tue, 03 Mar 2026 12:30:05 GMT"
   },
   {
     "site": "Hatena",
     "title": "OpenAIのアルトマンCEO「私は間違いを犯した」と釈明。「ChatGPT解約運動」激化を受け、国防総省との契約内容を修正へ | Business Insider Japan",
     "link": "https://www.businessinsider.jp/article/2603-openai-amending-contract-with-pentagon-amid-backlash-mass-surveillance-anthropic/",
     "pubDate": "2026-03-03T12:24:31.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "OpenFangとは？OpenClawからの進化と特徴",
+    "link": "https://qiita.com/Yuuto127/items/a574a91f87d8231534b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-03T05:51:49.000Z"
   },
   {
     "site": "Hatena",
@@ -55,21 +109,9 @@
   },
   {
     "site": "Qiita",
-    "title": "LLM出力の精度90%→98%に。LLM-as-judgeとClaude Codeで自律チューニング",
-    "link": "https://qiita.com/ntaka329/items/ecc075eed19afedbc8d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-03T04:26:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI生成の「CLAUDE .md」、逆に精度が下がるという研究",
-    "link": "https://zenn.dev/knowledgesense/articles/7210292cbe6838",
-    "pubDate": "2026-03-03T03:34:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話 - Qiita",
-    "link": "https://qiita.com/yamapiiii/items/cc2450f410b64329d275",
-    "pubDate": "2026-03-03T03:27:01.000Z"
+    "title": "Claude Codeのセッション記憶喪失問題を解決し続けたら、開発が劇的に変わった話",
+    "link": "https://qiita.com/ProgrammingForEver/items/ee68fc621f7d1c53ffe1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-03T02:17:53.000Z"
   },
   {
     "site": "Zenn",
@@ -79,9 +121,27 @@
   },
   {
     "site": "Zenn",
+    "title": "【RAG ベストプラクティス探索】Reranker用のモデル比較とコスト削減実験",
+    "link": "https://zenn.dev/elyza/articles/2642fd1b964fd2",
+    "pubDate": "Tue, 03 Mar 2026 01:31:15 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)",
     "link": "https://zenn.dev/aeyesec/articles/417578718dcced",
     "pubDate": "Tue, 03 Mar 2026 00:37:27 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "障害対応の認知負荷を下げるCriteriaパターンとDDD",
+    "link": "https://zenn.dev/panda728/books/criteria-pattern-ddd",
+    "pubDate": "Mon, 02 Mar 2026 23:50:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ソースコードを読まずに「なぜ」を特定する ―― 可視化の解像度を上げる方法とは",
+    "link": "https://zenn.dev/panda728/articles/09b3d5e9377122",
+    "pubDate": "Mon, 02 Mar 2026 23:50:52 GMT"
   },
   {
     "site": "Zenn",
@@ -90,46 +150,10 @@
     "pubDate": "Mon, 02 Mar 2026 15:10:48 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code / MCP を安全に使うための実践ガイド ── 8桁後半の被害事例から学ぶ",
-    "link": "https://zenn.dev/ytksato/articles/057dc7c981d304",
-    "pubDate": "Mon, 02 Mar 2026 13:31:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人開発に無料の日本語全文検索を - Cloudflare D1 と Web Component でつくる検索 API",
-    "link": "https://zenn.dev/coji/articles/cloudflare-d1-fts5-japanese-search-api",
-    "pubDate": "Mon, 02 Mar 2026 12:19:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【TypeScriptよりいいもの】未だ応用されきっていない、型システム本来の力の簡単紹介【読み物】",
-    "link": "https://zenn.dev/aiya000/articles/93b397859c6fda",
-    "pubDate": "Mon, 02 Mar 2026 11:07:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Contextを引数でバケツリレーするのはもう辞めよう",
-    "link": "https://zenn.dev/praha/articles/9aa56e6ca4ad40",
-    "pubDate": "Mon, 02 Mar 2026 11:05:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "運用まで考えたUI構築！デザインシステム導入の手引き",
-    "link": "https://zenn.dev/takumishimizu/articles/isolate-design-system-to-avoid-debt",
-    "pubDate": "Mon, 02 Mar 2026 10:02:25 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【公式】VS Codeでレトロゲーム開発が完結！Pyxel VS Code拡張機能のご紹介",
     "link": "https://qiita.com/kitao/items/04b6ab72d957de10f9a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-02T09:12:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "自身の経験とRustへの思い",
-    "link": "https://zenn.dev/aq2r/articles/746b6ab98bf7d1",
-    "pubDate": "Mon, 02 Mar 2026 08:48:06 GMT"
   },
   {
     "site": "Qiita",
@@ -139,21 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【色変記事】緑になってから約2か月で入水しました！",
-    "link": "https://qiita.com/Un_titled/items/a7ed6f6da64d6b0d19f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-02T05:30:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "追加コストゼロでClaude Codeの個人サブスクでGitHub Actions自動化",
-    "link": "https://qiita.com/sapeet-lin/items/d93e4fbc1c1ddda02a53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-02T01:53:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Raspberry Pi で レトロ Mac を 動かす",
-    "link": "https://qiita.com/nak435/items/ee536b02747dc93ff57a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-02T00:23:03.000Z"
+    "title": "新メンバーが入った瞬間、チームのアジャイル度は試される",
+    "link": "https://qiita.com/kimdev/items/05e66bd57148b4909d90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-02T03:14:02.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "NotebookLMの神アプデを試さずにいられなかった",
-    "link": "https://qiita.com/apteryx-nz/items/3a12c5f1258db8d81a78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-01T10:44:47.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude Codeベストプラクティス -- 成果を安定させる7つの鉄則",
     "link": "https://qiita.com/nogataka/items/392934f79e943e8b9228?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-01T08:38:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者向け】プログラミング初心者が知っておきたい有名な原則・考え方 10選",
-    "link": "https://qiita.com/ktdatascience/items/8a159a81a9c5531c985c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-01T03:30:36.000Z"
   }
 ]
