@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "【狂気】2026年、PS3を開発する——1行もコードを書けない人間が、AIと組んで「開発地獄」と呼ばれたPS3に挑み、15年間誰も開けられなかった扉をこじ開けた1週間の記録。｜田中",
+    "link": "https://note.com/tanakaps/n/n410dbceb8c8d",
+    "pubDate": "2026-03-04T00:03:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "VポイントPayの残高失効がなぜ起きたのか　三井住友カードの対応は?",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2090233.html",
+    "pubDate": "2026-03-03T23:45:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「AIにもちゃんと聞けない人」に足りない視点の話",
     "link": "https://blog.tinect.jp/?p=90819",
     "pubDate": "2026-03-03T22:41:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【PC Watchのキーボード黙示録】 数十のキーボードを渡り歩き、辿り着いたのは30年物のレトロモデル【編集者上田の場合】",
+    "link": "https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2089979.html",
+    "pubDate": "2026-03-03T22:27:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rustの仕事が増えていく理由",
+    "link": "https://zenn.dev/yukinarit/articles/e3fd03a62c3da0",
+    "pubDate": "Tue, 03 Mar 2026 18:29:57 GMT"
   },
   {
     "site": "Hatena",
@@ -25,12 +49,6 @@
   },
   {
     "site": "Hatena",
-    "title": "How to Kill the Code Review",
-    "link": "https://www.latent.space/p/reviews-dead",
-    "pubDate": "2026-03-03T10:27:26.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "退去費用",
     "link": "https://anond.hatelabo.jp/20260303135010",
     "pubDate": "2026-03-03T05:03:40.000Z"
@@ -40,12 +58,6 @@
     "title": "LLM出力の精度90%→98%に。LLM-as-judgeとClaude Codeで自律チューニング",
     "link": "https://qiita.com/ntaka329/items/ecc075eed19afedbc8d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-03T04:26:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code Agent Teamsの衝撃と実際 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/02/get-started-claude-code-07",
-    "pubDate": "2026-03-03T04:00:12.000Z"
   },
   {
     "site": "Zenn",
@@ -67,21 +79,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【RAG ベストプラクティス探索】Reranker用のモデル比較とコスト削減実験",
-    "link": "https://zenn.dev/elyza/articles/2642fd1b964fd2",
-    "pubDate": "Tue, 03 Mar 2026 01:31:15 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)",
     "link": "https://zenn.dev/aeyesec/articles/417578718dcced",
     "pubDate": "Tue, 03 Mar 2026 00:37:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "初めてのMac環境構築。モダンな次世代ツール群でターミナルを染め上げた話",
-    "link": "https://zenn.dev/108_twil3akine/articles/mac-setup-263",
-    "pubDate": "2026-03-02T23:39:25.000Z"
   },
   {
     "site": "Zenn",
@@ -97,6 +97,18 @@
   },
   {
     "site": "Zenn",
+    "title": "個人開発に無料の日本語全文検索を - Cloudflare D1 と Web Component でつくる検索 API",
+    "link": "https://zenn.dev/coji/articles/cloudflare-d1-fts5-japanese-search-api",
+    "pubDate": "Mon, 02 Mar 2026 12:19:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【TypeScriptよりいいもの】未だ応用されきっていない、型システム本来の力の簡単紹介【読み物】",
+    "link": "https://zenn.dev/aiya000/articles/93b397859c6fda",
+    "pubDate": "Mon, 02 Mar 2026 11:07:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Contextを引数でバケツリレーするのはもう辞めよう",
     "link": "https://zenn.dev/praha/articles/9aa56e6ca4ad40",
     "pubDate": "Mon, 02 Mar 2026 11:05:50 GMT"
@@ -106,12 +118,6 @@
     "title": "運用まで考えたUI構築！デザインシステム導入の手引き",
     "link": "https://zenn.dev/takumishimizu/articles/isolate-design-system-to-avoid-debt",
     "pubDate": "Mon, 02 Mar 2026 10:02:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "予測市場のオッズはニュースより速い？Polymarket CLIで変動監視を作った話",
-    "link": "https://zenn.dev/komlock_lab/articles/polymarket-cli-terminal-2026",
-    "pubDate": "Mon, 02 Mar 2026 10:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -130,12 +136,6 @@
     "title": "Claude Code 最新アップデートまとめ（2026年2月時点）",
     "link": "https://qiita.com/gawa32/items/4d0737f8e07dd5fb8a48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-02T08:30:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "運転動画を検索可能にする 〜Cosmos-Embed1とDatabricksで〜",
-    "link": "https://zenn.dev/turing_motors/articles/cf86e1bf0e41ca",
-    "pubDate": "Mon, 02 Mar 2026 06:00:01 GMT"
   },
   {
     "site": "Qiita",
