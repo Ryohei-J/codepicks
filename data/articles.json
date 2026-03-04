@@ -1,27 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "「AIにもちゃんと聞けない人」に足りない視点の話",
+    "link": "https://blog.tinect.jp/?p=90819",
+    "pubDate": "2026-03-03T22:41:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple、まったく新しいM5 ProとM5 Maxを搭載したMacBook Proを発表",
+    "link": "https://www.apple.com/jp/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+    "pubDate": "2026-03-03T14:33:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS、中東でデータセンター施設がドローンの直接攻撃を受けたことを公表。3つのアベイラビリティゾーンのうち2つが著しく損傷",
+    "link": "https://www.publickey1.jp/blog/26/aws32.html",
+    "pubDate": "2026-03-03T13:55:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAIのアルトマンCEO「私は間違いを犯した」と釈明。「ChatGPT解約運動」激化を受け、国防総省との契約内容を修正へ | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2603-openai-amending-contract-with-pentagon-amid-backlash-mass-surveillance-anthropic/",
+    "pubDate": "2026-03-03T12:24:31.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "How to Kill the Code Review",
     "link": "https://www.latent.space/p/reviews-dead",
     "pubDate": "2026-03-03T10:27:26.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ドンキ、スーパーと融合した新業態「ロビン・フッド」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2090152.html",
-    "pubDate": "2026-03-03T08:45:42.000Z"
+    "title": "退去費用",
+    "link": "https://anond.hatelabo.jp/20260303135010",
+    "pubDate": "2026-03-03T05:03:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "近所の飲食店で店員を大声で恫喝し続けている男がいた→恐怖を覚えた一般客として警察に通報するまでの流れがこちら",
-    "link": "https://togetter.com/li/2670455",
-    "pubDate": "2026-03-03T07:01:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "リチウム不使用で発火リスクを抑えた単3形充電池。USB Type-Cで直接充電",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2089982.html",
-    "pubDate": "2026-03-03T05:59:41.000Z"
+    "site": "Qiita",
+    "title": "LLM出力の精度90%→98%に。LLM-as-judgeとClaude Codeで自律チューニング",
+    "link": "https://qiita.com/ntaka329/items/ecc075eed19afedbc8d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-03T04:26:48.000Z"
   },
   {
     "site": "Hatena",
@@ -30,16 +48,28 @@
     "pubDate": "2026-03-03T04:00:12.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AI生成の「CLAUDE .md」、逆に精度が下がるという研究",
+    "link": "https://zenn.dev/knowledgesense/articles/7210292cbe6838",
+    "pubDate": "2026-03-03T03:34:22.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話 - Qiita",
     "link": "https://qiita.com/yamapiiii/items/cc2450f410b64329d275",
     "pubDate": "2026-03-03T03:27:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "東芝、ベジータに続きフリーザ登場　冷凍室が真ん中で大容量 - 家電 Watch",
-    "link": "https://kaden.watch.impress.co.jp/docs/news/2089918.html",
-    "pubDate": "2026-03-03T02:40:53.000Z"
+    "site": "Zenn",
+    "title": "AI生成の「CLAUDE .md」、逆に精度が下がるという研究",
+    "link": "https://zenn.dev/knowledgesense/articles/7210292cbe6838",
+    "pubDate": "Tue, 03 Mar 2026 02:16:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【RAG ベストプラクティス探索】Reranker用のモデル比較とコスト削減実験",
+    "link": "https://zenn.dev/elyza/articles/2642fd1b964fd2",
+    "pubDate": "Tue, 03 Mar 2026 01:31:15 GMT"
   },
   {
     "site": "Zenn",
@@ -48,22 +78,10 @@
     "pubDate": "Tue, 03 Mar 2026 00:37:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 「注意事項は読みました」という大嘘の代償。フレッツ光クロスで爆速10G化のはずがネット断絶状態に",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2089893.html",
-    "pubDate": "2026-03-02T21:54:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アンソロピック「前例ない需要」でAIに障害　ChatGPT抜き首位に - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN02B0X0S6A300C2000000/",
-    "pubDate": "2026-03-02T20:42:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "クラウドストレージ vs 自前NAS運用的な話についての私見 - polamjaggy",
-    "link": "https://polamjag.hatenablog.jp/entry/2026/03/03/001250",
-    "pubDate": "2026-03-02T15:25:35.000Z"
+    "site": "Zenn",
+    "title": "初めてのMac環境構築。モダンな次世代ツール群でターミナルを染め上げた話",
+    "link": "https://zenn.dev/108_twil3akine/articles/mac-setup-263",
+    "pubDate": "2026-03-02T23:39:25.000Z"
   },
   {
     "site": "Zenn",
@@ -73,21 +91,15 @@
   },
   {
     "site": "Zenn",
-    "title": "個人開発に無料の日本語全文検索を - Cloudflare D1 と Web Component でつくる検索 API",
-    "link": "https://zenn.dev/coji/articles/cloudflare-d1-fts5-japanese-search-api",
-    "pubDate": "Mon, 02 Mar 2026 12:19:49 GMT"
+    "title": "Claude Code / MCP を安全に使うための実践ガイド ── 8桁後半の被害事例から学ぶ",
+    "link": "https://zenn.dev/ytksato/articles/057dc7c981d304",
+    "pubDate": "Mon, 02 Mar 2026 13:31:11 GMT"
   },
   {
     "site": "Zenn",
     "title": "Contextを引数でバケツリレーするのはもう辞めよう",
     "link": "https://zenn.dev/praha/articles/9aa56e6ca4ad40",
     "pubDate": "Mon, 02 Mar 2026 11:05:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Hono 上で最小構成の React Server Components を実現する",
-    "link": "https://zenn.dev/pepabo/articles/hono-minimal-rsc",
-    "pubDate": "Mon, 02 Mar 2026 10:52:43 GMT"
   },
   {
     "site": "Zenn",
@@ -106,6 +118,12 @@
     "title": "【公式】VS Codeでレトロゲーム開発が完結！Pyxel VS Code拡張機能のご紹介",
     "link": "https://qiita.com/kitao/items/04b6ab72d957de10f9a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-02T09:12:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自身の経験とRustへの思い",
+    "link": "https://zenn.dev/aq2r/articles/746b6ab98bf7d1",
+    "pubDate": "Mon, 02 Mar 2026 08:48:06 GMT"
   },
   {
     "site": "Qiita",
@@ -127,27 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Claudeが社内に広がるほど、.envが危ない。Cowork時代に必要なのは「便利さ」より秘密情報の置き場所",
-    "link": "https://qiita.com/taketsuyo/items/4e158dbe22bc4c8d4e0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-02T04:17:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "大規模モノレポでVite 8（Rolldown）移行に挑戦中！",
-    "link": "https://zenn.dev/knowledgework/articles/cab7ec2ca27b0a",
-    "pubDate": "Mon, 02 Mar 2026 03:00:01 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "追加コストゼロでClaude Codeの個人サブスクでGitHub Actions自動化",
     "link": "https://qiita.com/sapeet-lin/items/d93e4fbc1c1ddda02a53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-02T01:53:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "あなたはEntra IDを理解できる",
-    "link": "https://zenn.dev/headwaters/articles/64e6aad7acdff9",
-    "pubDate": "Mon, 02 Mar 2026 01:02:43 GMT"
   },
   {
     "site": "Qiita",
