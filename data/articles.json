@@ -1,5 +1,35 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Code に向いているプログラミング言語",
+    "link": "https://zenn.dev/mametter/articles/3e8580ec034201",
+    "pubDate": "2026-03-05T01:05:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code に向いているプログラミング言語",
+    "link": "https://zenn.dev/mametter/articles/3e8580ec034201",
+    "pubDate": "Thu, 05 Mar 2026 00:22:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人的 AI情報の追い方",
+    "link": "https://zenn.dev/knowledgework/articles/my-ai-catchup",
+    "pubDate": "Wed, 04 Mar 2026 23:04:07 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【西川和久の不定期コラム】 さらばgpt-oss。VRAM 16GBあれば動作し、画像も理解してくれる「Qwen3.5」登場！",
+    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2090406.html",
+    "pubDate": "2026-03-04T22:48:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『ソフトウェアアーキテクチャの基礎 第2版 ― エンジニアリングに基づく体系的アプローチ』 - snoozer05's blog",
+    "link": "https://snoozer05.hatenablog.jp/entry/2026/03/05/070945",
+    "pubDate": "2026-03-04T22:35:34.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "GitHub - googleworkspace/cli: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
     "link": "https://github.com/googleworkspace/cli",
@@ -13,6 +43,12 @@
   },
   {
     "site": "Zenn",
+    "title": "既存のECSが辛すぎたので、ゲーム専用プログラミング言語『Enaga』をコンパイラから自作した話",
+    "link": "https://zenn.dev/shimaenaga_1/articles/6272bc960a0def",
+    "pubDate": "Wed, 04 Mar 2026 14:24:12 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "CLAUDE.mdに本当は何を書くべきなのか",
     "link": "https://zenn.dev/cureapp/articles/65b9a99d22ce2b",
     "pubDate": "2026-03-04T13:47:42.000Z"
@@ -22,6 +58,24 @@
     "title": "なぜMetaは詐欺広告を野放しにし、そこから莫大な金を稼ぎ続けられたのか » p2ptk[.]org",
     "link": "https://p2ptk.org/monopoly/5443",
     "pubDate": "2026-03-04T12:53:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude's Cycles』を読み解く - Qiita",
+    "link": "https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2",
+    "pubDate": "2026-03-04T11:07:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【GitHub Actions】スクリプトインジェクションの実践例",
+    "link": "https://zenn.dev/kou_pg_0131/articles/gha-script-injection",
+    "pubDate": "Wed, 04 Mar 2026 09:20:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "動的型付け言語はそろそろ淘汰されるべき",
+    "link": "https://zenn.dev/headwaters/articles/53f51eb428dab6",
+    "pubDate": "Wed, 04 Mar 2026 09:15:26 GMT"
   },
   {
     "site": "Hatena",
@@ -40,18 +94,6 @@
     "title": "マネージャー版 \"提案のレベル\" を上げる",
     "link": "https://speakerdeck.com/konifar/maneziyaban-ti-an-noreberu-woshang-geru",
     "pubDate": "2026-03-04T07:02:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ビオレ「おうちdeエステ」から「隠れ角栓まで自己崩壊させる新技術」を使った洗顔料が発表…先行販売は売り切れ続出「ここまでのビフォアフ写真載せるのすごい」",
-    "link": "https://togetter.com/li/2670836",
-    "pubDate": "2026-03-04T06:38:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "人生で一度もプログラムをしたことのない人間が最近はchatGPTを使って小さいプログラムを作っている - orangestar2",
-    "link": "https://orangestar2.hatenadiary.com/entry/2026/03/04/143108",
-    "pubDate": "2026-03-04T05:47:47.000Z"
   },
   {
     "site": "Qiita",
@@ -85,15 +127,15 @@
   },
   {
     "site": "Zenn",
-    "title": "備忘録 : CodeXでいくつか機能が追加された",
+    "title": "備忘録 : Codexでいくつか機能が追加された",
     "link": "https://zenn.dev/tech_discovery/articles/263d67ac5df0d3",
     "pubDate": "Wed, 04 Mar 2026 00:30:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "要求定義・仕様記述・設計・検証の手引き - 理論から学ぶ明確で統一された成果物定義",
-    "link": "https://speakerdeck.com/orgachem/guidelines-for-requirements-definition-specification-writing-design-and-verification",
-    "pubDate": "2026-03-04T00:19:52.000Z"
+    "site": "Zenn",
+    "title": "OpenClawは便利だけど危険すぎるので代替案を試してみた",
+    "link": "https://zenn.dev/leverages/articles/4166d2f0610a5f",
+    "pubDate": "Wed, 04 Mar 2026 00:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -102,52 +144,10 @@
     "pubDate": "2026-03-03T23:58:41.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "わざと汚く書いたコードを /simplify に渡したら半分以下になった",
-    "link": "https://zenn.dev/maniizu3110/articles/010-claude-code-simplify-auto-refactor",
-    "pubDate": "Tue, 03 Mar 2026 21:25:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustの仕事が増えていく理由",
-    "link": "https://zenn.dev/yukinarit/articles/e3fd03a62c3da0",
-    "pubDate": "Tue, 03 Mar 2026 18:29:57 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "MacBook Neo",
-    "link": "https://www.apple.com/jp/macbook-neo/",
-    "pubDate": "2026-03-03T15:20:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CLAUDE.mdに本当は何を書くべきなのか",
-    "link": "https://zenn.dev/cureapp/articles/65b9a99d22ce2b",
-    "pubDate": "Tue, 03 Mar 2026 02:28:58 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Codeのセッション記憶喪失問題を解決し続けたら、開発が劇的に変わった話",
     "link": "https://qiita.com/ProgrammingForEver/items/ee68fc621f7d1c53ffe1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-03T02:17:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI生成の「CLAUDE .md」、逆に精度が下がるという研究",
-    "link": "https://zenn.dev/knowledgesense/articles/7210292cbe6838",
-    "pubDate": "Tue, 03 Mar 2026 02:16:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【RAG ベストプラクティス探索】Reranker用のモデル比較とコスト削減実験",
-    "link": "https://zenn.dev/elyza/articles/2642fd1b964fd2",
-    "pubDate": "Tue, 03 Mar 2026 01:31:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)",
-    "link": "https://zenn.dev/aeyesec/articles/417578718dcced",
-    "pubDate": "Tue, 03 Mar 2026 00:37:27 GMT"
   },
   {
     "site": "Qiita",
