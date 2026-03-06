@@ -1,15 +1,45 @@
 [
   {
+    "site": "Zenn",
+    "title": "Claude Codeを組織導入するためのプラン選定ガイド",
+    "link": "https://zenn.dev/knowledgework/articles/claude-code-organization-plan-guide",
+    "pubDate": "2026-03-06T00:09:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ノートPCみたいな｢持ち歩けるクルマ｣。今度は公道も走れるぞ",
+    "link": "https://www.gizmodo.jp/2026/03/walkcar-2-ysb.html",
+    "pubDate": "2026-03-05T23:07:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本生命、米国でOpenAIを提訴　「ChatGPTが非弁行為」 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN060800W6A300C2000000/",
+    "pubDate": "2026-03-05T23:07:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "私を構成する9つのアニメ",
+    "link": "https://tlpt-telepath.github.io/9-animes/",
+    "pubDate": "2026-03-05T15:07:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Workspaceをコマンドラインで操作する「gws」、Googleがオープンソースで公開。Agent Skillsファイルも提供し、AIエージェントによる適切な操作実現",
+    "link": "https://www.publickey1.jp/blog/26/google_workspacegwsgoogleagent_skillsai.html",
+    "pubDate": "2026-03-05T14:24:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MCPはなぜCLIに負けたのか —— 経緯と構造を整理する",
+    "link": "https://zenn.dev/hiraly/articles/3409b886607274",
+    "pubDate": "2026-03-05T13:13:39.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ネットワーク不要・サブスク不要！ 落合陽一氏の「vibe-local」でオフラインAIコーディングを体験してみた【生成AIストリーム】",
     "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2090895.html",
     "pubDate": "2026-03-05T08:17:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "図書館とかいうシステムってすごいよね、作る時に反対されなかったのか気になる→むしろ図書館の方が先に出来ていて、圧倒的に歴史が長い",
-    "link": "https://togetter.com/li/2671126",
-    "pubDate": "2026-03-05T07:21:38.000Z"
   },
   {
     "site": "Zenn",
@@ -18,34 +48,28 @@
     "pubDate": "2026-03-05T06:29:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ラブホテルに同意して入ったことを明確にするために「二人同時にドアノブを回さないと入れないダブルエントリーシステム」にしよう…2つの入口から入るシステムの提案も",
-    "link": "https://togetter.com/li/2671135",
-    "pubDate": "2026-03-05T05:14:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "PixelスマホがPCになる「Desktop mode」実装。Pixel 8以降に対応",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2090781.html",
-    "pubDate": "2026-03-05T04:32:39.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【前編】「また指摘されてしまった...」と思った新人エンジニアへ。 レビューはあなたを強くする",
     "link": "https://qiita.com/hitomin_poke/items/3f14e17314941930ec5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T04:15:52.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AI エージェント基盤を、OS を作るように設計する",
+    "link": "https://zenn.dev/r_kawaiimura/articles/addf6348bf064b",
+    "pubDate": "Thu, 05 Mar 2026 02:57:07 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Workspace CLI（gws）が登場！早速インストールしてClaude Codeから操作してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/google-workspace-cli-gws-launch-try-claude-code/",
+    "pubDate": "2026-03-05T02:33:01.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法",
     "link": "https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T02:31:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code に向いているプログラミング言語",
-    "link": "https://zenn.dev/mametter/articles/3e8580ec034201",
-    "pubDate": "2026-03-05T01:05:25.000Z"
   },
   {
     "site": "Zenn",
@@ -66,16 +90,10 @@
     "pubDate": "Wed, 04 Mar 2026 23:04:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "『ソフトウェアアーキテクチャの基礎 第2版 ― エンジニアリングに基づく体系的アプローチ』 - snoozer05's blog",
-    "link": "https://snoozer05.hatenablog.jp/entry/2026/03/05/070945",
-    "pubDate": "2026-03-04T22:35:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MacBook Neoがアンダー10万円を実現するために切り捨てたもの",
-    "link": "https://www.gizmodo.jp/2026/03/macbook-neo-price.html",
-    "pubDate": "2026-03-04T18:01:12.000Z"
+    "site": "Zenn",
+    "title": "久々にOllamaを触ったら、量子化で別物になってた",
+    "link": "https://zenn.dev/dassimen/articles/fb7c9c893479ee",
+    "pubDate": "Wed, 04 Mar 2026 16:25:15 GMT"
   },
   {
     "site": "Zenn",
@@ -91,9 +109,9 @@
   },
   {
     "site": "Qiita",
-    "title": "コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude's Cycles』を読み解く - Qiita",
-    "link": "https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2",
-    "pubDate": "2026-03-04T11:07:54.000Z"
+    "title": "「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話",
+    "link": "https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-04T11:12:41.000Z"
   },
   {
     "site": "Zenn",
@@ -126,34 +144,22 @@
     "pubDate": "2026-03-04T03:28:56.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "状態と性質を区別して考える",
-    "link": "https://zenn.dev/knowledgework/articles/95f30cfd155b5d",
-    "pubDate": "Wed, 04 Mar 2026 03:00:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアが「事業を動かせる人」になるための4要素",
     "link": "https://qiita.com/yamapiiii/items/0dd4fc68180aa8526678?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-04T01:18:28.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ハーネスエンジニアリング整理",
-    "link": "https://zenn.dev/hiruno_tarte/articles/agent-harness-engineering",
-    "pubDate": "Wed, 04 Mar 2026 00:50:29 GMT"
+    "site": "Qiita",
+    "title": "Claude Code Skills で「使うほど賢くなる」投資分析AIを作った話 Vol.2【Neo4j × 個人開発】",
+    "link": "https://qiita.com/okikusan-public/items/405949f83e8a39a49566?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-03T23:40:40.000Z"
   },
   {
     "site": "Qiita",
     "title": "Gemini CLIで、散らかったGoogle Driveを一瞬で整理してみた。",
     "link": "https://qiita.com/hiroki2712/items/6b7a4c6125401327fe80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-03T11:14:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " ローカルLLMで動くAIコーディングエージェントをPySide6で作った話",
-    "link": "https://qiita.com/rikiza1989/items/e9f3a26e21792ae6db2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-03T08:25:27.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "中学生がAIと作った関数型言語「Zenith」",
     "link": "https://qiita.com/nezumickey/items/d7e494d8657fb0fc65fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-03T01:34:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【公式】VS Codeでレトロゲーム開発が完結！Pyxel VS Code拡張機能のご紹介",
-    "link": "https://qiita.com/kitao/items/04b6ab72d957de10f9a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-02T09:12:06.000Z"
   }
 ]
