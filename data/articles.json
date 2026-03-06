@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "ブクマがほしい",
+    "link": "https://anond.hatelabo.jp/20260306142231",
+    "pubDate": "2026-03-06T05:38:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "友達の娘が「会わせたい人がいる」と彼氏を連れてきたが耳にずっとイヤホンをつけたままで時代を感じた話…「補聴器かもしれない」「だとしても彼氏が言うべき」など",
+    "link": "https://togetter.com/li/2671476",
+    "pubDate": "2026-03-06T03:59:07.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeを組織導入するためのプラン選定ガイド",
     "link": "https://zenn.dev/knowledgework/articles/claude-code-organization-plan-guide",
@@ -19,9 +31,15 @@
   },
   {
     "site": "Hatena",
-    "title": "私を構成する9つのアニメ",
-    "link": "https://tlpt-telepath.github.io/9-animes/",
-    "pubDate": "2026-03-05T15:07:01.000Z"
+    "title": "5ch.netのドメインがレジストラからBANされたらしい",
+    "link": "https://anond.hatelabo.jp/20260306075728",
+    "pubDate": "2026-03-05T22:58:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeを組織導入するためのプラン選定ガイド",
+    "link": "https://zenn.dev/knowledgework/articles/claude-code-organization-plan-guide",
+    "pubDate": "Thu, 05 Mar 2026 22:00:00 GMT"
   },
   {
     "site": "Hatena",
@@ -37,15 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "ネットワーク不要・サブスク不要！ 落合陽一氏の「vibe-local」でオフラインAIコーディングを体験してみた【生成AIストリーム】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2090895.html",
-    "pubDate": "2026-03-05T08:17:06.000Z"
+    "title": "【保存版】Claude課金すべき？Cowrok・Skills・Claude Codeの使い方全解説",
+    "link": "https://newspicks.com/news/16173894/body/",
+    "pubDate": "2026-03-05T12:45:10.000Z"
   },
   {
     "site": "Zenn",
-    "title": "デザイナーのためのコンポーネント設計論",
-    "link": "https://zenn.dev/yy/books/b62994c6b0b1e9",
-    "pubDate": "2026-03-05T06:29:21.000Z"
+    "title": "Figma不要論はまだ早い。かもしれない。AIは「りんご」の味を知らないから。",
+    "link": "https://zenn.dev/kazhack/articles/ca8dcebdd9f10b",
+    "pubDate": "Thu, 05 Mar 2026 09:38:00 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ネットワーク不要・サブスク不要！ 落合陽一氏の「vibe-local」でオフラインAIコーディングを体験してみた【生成AIストリーム】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2090895.html",
+    "pubDate": "2026-03-05T08:17:06.000Z"
   },
   {
     "site": "Qiita",
@@ -54,28 +78,10 @@
     "pubDate": "2026-03-05T04:15:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI エージェント基盤を、OS を作るように設計する",
-    "link": "https://zenn.dev/r_kawaiimura/articles/addf6348bf064b",
-    "pubDate": "Thu, 05 Mar 2026 02:57:07 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google Workspace CLI（gws）が登場！早速インストールしてClaude Codeから操作してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/google-workspace-cli-gws-launch-try-claude-code/",
-    "pubDate": "2026-03-05T02:33:01.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法",
     "link": "https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T02:31:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人的 AI情報の追い方",
-    "link": "https://zenn.dev/knowledgework/articles/my-ai-catchup",
-    "pubDate": "2026-03-05T01:02:11.000Z"
   },
   {
     "site": "Zenn",
@@ -108,6 +114,12 @@
     "pubDate": "Wed, 04 Mar 2026 14:01:55 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Tauri v2 + React でローカルファーストなMarkdownノートアプリを作った",
+    "link": "https://zenn.dev/bookamasedo/articles/146a0090b53ceb",
+    "pubDate": "Wed, 04 Mar 2026 12:10:29 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話",
     "link": "https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -124,18 +136,6 @@
     "title": "動的型付け言語はそろそろ淘汰されるべき",
     "link": "https://zenn.dev/headwaters/articles/53f51eb428dab6",
     "pubDate": "Wed, 04 Mar 2026 09:15:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "デザイナーのためのコンポーネント設計論",
-    "link": "https://zenn.dev/yy/books/b62994c6b0b1e9",
-    "pubDate": "Wed, 04 Mar 2026 07:20:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 標準動向 2026年2月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202602",
-    "pubDate": "Wed, 04 Mar 2026 07:17:47 GMT"
   },
   {
     "site": "Qiita",
