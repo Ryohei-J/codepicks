@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "us-east-1 に障害が起きた時に、 ap-northeast-1 にどんな影響があるか 説明できるようになろう！",
+    "link": "https://speakerdeck.com/miu_crescent/us-east-1-nizhang-hai-gaqi-kitashi-ni-ap-northeast-1-nidonnaying-xiang-gaaruka-shuo-ming-dekiruyouninarou",
+    "pubDate": "2026-03-07T07:18:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AI時代の開発と運用 / Dev and Ops in Gen AI era",
+    "link": "https://speakerdeck.com/ymotongpoo/dev-and-ops-in-gen-ai-era",
+    "pubDate": "2026-03-07T06:08:21.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "「.env見るな」は通じない－AI時代のシークレット管理術",
     "link": "https://zenn.dev/76hata/articles/d6d9de62d001a8",
@@ -30,22 +42,10 @@
     "pubDate": "2026-03-06T14:02:53.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Symphony - OpenAIが発表したチケット駆動AI開発ツールについて",
-    "link": "https://zenn.dev/komlock_lab/articles/openai-symphony",
-    "pubDate": "2026-03-06T12:00:27.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "日本の大手携帯キャリア販売スマホには、怪しいアプリが混入・蔓延。「削除不可能なスパイウェア」との批判も - すまほん!!",
     "link": "https://smhn.info/202603-appcloud-android-bloatware",
     "pubDate": "2026-03-06T11:26:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ドメインサービスでrepositoryの実行は必要か？",
-    "link": "https://zenn.dev/marimoofficial/articles/fbefcb13c5cf9b",
-    "pubDate": "2026-03-06T11:06:22.000Z"
   },
   {
     "site": "Zenn",
@@ -55,9 +55,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【Rails 7】cookies. の後に繋げるメソッド完全ガイド（signed / encrypted / permanent の使い分け）",
-    "link": "https://qiita.com/shibata1111/items/bb3306a3c8f33a438cd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-06T06:29:19.000Z"
+    "title": "Unity MCP + CodexでAIにUnityを操作させてキャラクターを踊らせてみた",
+    "link": "https://qiita.com/kumi0708/items/e4e5d864219d1693d0d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-06T07:24:18.000Z"
   },
   {
     "site": "Zenn",
@@ -85,9 +85,9 @@
   },
   {
     "site": "Qiita",
-    "title": "E2Eを回してCopilotの不確実性を抑える開発フローのPoC",
-    "link": "https://qiita.com/babaakihiro/items/f72bb13c0081c98f3851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-06T01:25:19.000Z"
+    "title": "【セキュリティ】なぜAPIキーは流出するのか？2026年最新データと実例から学ぶ原因と対策",
+    "link": "https://qiita.com/ktdatascience/items/588b63bcae18cd1f5f16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-06T01:37:09.000Z"
   },
   {
     "site": "Zenn",
@@ -151,6 +151,12 @@
   },
   {
     "site": "Qiita",
+    "title": "できるだけ無料でサービスを運用するための個人開発オススメデプロイ先",
+    "link": "https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-05T06:09:40.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "結局プログラミングを理解したけりゃオブジェクト指向を学べばいいじゃん",
     "link": "https://qiita.com/renly/items/d6a7f12c2a472bef58bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T05:28:10.000Z"
@@ -172,11 +178,5 @@
     "title": "「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話",
     "link": "https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-04T11:12:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude's Cycles』を読み解く",
-    "link": "https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-04T03:28:56.000Z"
   }
 ]
