@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "3分で学ぶ GitHub Copilot CLI の基本とベストプラクティス - プププなテクブ",
+    "link": "https://blog.inorinrinrin.com/entry/2026/03/07/180419",
+    "pubDate": "2026-03-07T09:47:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "us-east-1 に障害が起きた時に、 ap-northeast-1 にどんな影響があるか 説明できるようになろう！",
     "link": "https://speakerdeck.com/miu_crescent/us-east-1-nizhang-hai-gaqi-kitashi-ni-ap-northeast-1-nidonnaying-xiang-gaaruka-shuo-ming-dekiruyouninarou",
     "pubDate": "2026-03-07T07:18:27.000Z"
@@ -10,6 +16,12 @@
     "title": "生成AI時代の開発と運用 / Dev and Ops in Gen AI era",
     "link": "https://speakerdeck.com/ymotongpoo/dev-and-ops-in-gen-ai-era",
     "pubDate": "2026-03-07T06:08:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "できるだけ無料でサービスを運用するための個人開発オススメデプロイ先 - Qiita",
+    "link": "https://qiita.com/Hiru-ge/items/262e0645fbfb024ecd4b",
+    "pubDate": "2026-03-07T04:24:04.000Z"
   },
   {
     "site": "Zenn",
@@ -31,21 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "スマホをモニター接続→PCみたいに操作できる「デスクトップモード」　一部のPixel・Galaxyに提供開始",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/06/news140.html",
-    "pubDate": "2026-03-06T14:02:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアの先輩が「結婚は人生の一大プロジェクトだからちゃんと嫁の要件定義から始めた」と言ってて怖かったわ要するに「嫁にどんな機能が欲しいか」を全て言語化した上でそれに当てはまる人と結婚したと今は幸せらしい",
-    "link": "https://posfie.com/@kalofollow/p/uN55hH2",
-    "pubDate": "2026-03-06T14:02:53.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "日本の大手携帯キャリア販売スマホには、怪しいアプリが混入・蔓延。「削除不可能なスパイウェア」との批判も - すまほん!!",
     "link": "https://smhn.info/202603-appcloud-android-bloatware",
     "pubDate": "2026-03-06T11:26:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code の 便利コマンド5選",
+    "link": "https://zenn.dev/kusaaagi/articles/claude-code-hidden-commands",
+    "pubDate": "Fri, 06 Mar 2026 08:50:28 GMT"
   },
   {
     "site": "Zenn",
@@ -126,28 +132,16 @@
     "pubDate": "Thu, 05 Mar 2026 13:35:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "コードレビューにClaude Code subagentsを導入したら、レビューレベルが改善した話",
-    "link": "https://zenn.dev/mgdx_blog/articles/8f7994ad84151d",
-    "pubDate": "2026-03-05T10:57:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Figma不要論はまだ早い。かもしれない。AIは「りんご」の味を知らないから。",
-    "link": "https://zenn.dev/kazhack/articles/ca8dcebdd9f10b",
-    "pubDate": "Thu, 05 Mar 2026 09:38:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ドメインサービスでrepositoryの実行は必要か？",
-    "link": "https://zenn.dev/marimoofficial/articles/fbefcb13c5cf9b",
-    "pubDate": "Thu, 05 Mar 2026 09:24:28 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "フロントエンドにおけるキャッシュの全レベルを理解する",
     "link": "https://qiita.com/NXD139/items/e1eef1c2735083b7e6e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T08:14:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コードレビューにClaude Code subagentsを導入したら、レビューレベルが改善した話",
+    "link": "https://zenn.dev/mgdx_blog/articles/8f7994ad84151d",
+    "pubDate": "Thu, 05 Mar 2026 06:45:46 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話",
     "link": "https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-04T11:12:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「人間はコードを1行も書かない」という縛りで5ヶ月間プロダクトを作り続けた結果 ― ハーネスエンジニアリング - Qiita",
+    "link": "https://qiita.com/nogataka/items/43c01957fa1e54d9a079",
+    "pubDate": "2026-03-03T12:24:16.000Z"
   }
 ]
