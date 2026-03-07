@@ -1,5 +1,11 @@
 [
   {
+    "site": "Zenn",
+    "title": "「.env見るな」は通じない－AI時代のシークレット管理術",
+    "link": "https://zenn.dev/76hata/articles/d6d9de62d001a8",
+    "pubDate": "2026-03-07T02:15:12.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ChatGPT5.4Proに小説を書かせたら「AIが書いたにしては面白い」というレベルをはるかに超えてて、仰天した｜ふろむだ",
     "link": "https://note.com/fromdusktildawn/n/n36b18b002010",
@@ -60,10 +66,10 @@
     "pubDate": "Fri, 06 Mar 2026 06:00:37 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ClawX - Open Source AI Research Assistant",
-    "link": "https://claw-x.com/?lang=en",
-    "pubDate": "2026-03-06T05:11:21.000Z"
+    "site": "Zenn",
+    "title": "Claude Code Action のプロンプトを GitHub Issue で柔軟に管理する",
+    "link": "https://zenn.dev/knowledgework/articles/claude-code-action-issue-prompt",
+    "pubDate": "Fri, 06 Mar 2026 04:16:49 GMT"
   },
   {
     "site": "Zenn",
@@ -72,10 +78,22 @@
     "pubDate": "Fri, 06 Mar 2026 03:51:29 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Vibe Codingは実プロジェクトで通用するのか？ 約6ヶ月試してわかったことと必要なスキル",
+    "link": "https://zenn.dev/mkj/articles/9827c9d7686a73",
+    "pubDate": "Fri, 06 Mar 2026 02:50:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "E2Eを回してCopilotの不確実性を抑える開発フローのPoC",
     "link": "https://qiita.com/babaakihiro/items/f72bb13c0081c98f3851?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-06T01:25:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コミットメッセージを自分で書かない",
+    "link": "https://zenn.dev/hfm/articles/commit-message-generated-by-ai",
+    "pubDate": "2026-03-06T00:13:02.000Z"
   },
   {
     "site": "Qiita",
@@ -90,16 +108,22 @@
     "pubDate": "Thu, 05 Mar 2026 22:00:00 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ブラウザだけで完結する日本語OCR＋透視変換（台形補正）を作ってみた",
+    "link": "https://zenn.dev/lecto/articles/dea43a2dfa52ad",
+    "pubDate": "Thu, 05 Mar 2026 14:58:19 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた",
     "link": "https://qiita.com/NF0000/items/6743216583b66168ec12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T14:54:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【保存版】Claude課金すべき？Cowrok・Skills・Claude Codeの使い方全解説",
-    "link": "https://newspicks.com/news/16173894/body/",
-    "pubDate": "2026-03-05T12:45:10.000Z"
+    "site": "Zenn",
+    "title": "Claude Code に `cc` というエイリアスをつけたら PC がハングした話",
+    "link": "https://zenn.dev/owayo/articles/6190821ac1dd1e",
+    "pubDate": "Thu, 05 Mar 2026 13:35:36 GMT"
   },
   {
     "site": "Zenn",
@@ -114,6 +138,12 @@
     "pubDate": "Thu, 05 Mar 2026 09:38:00 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ドメインサービスでrepositoryの実行は必要か？",
+    "link": "https://zenn.dev/marimoofficial/articles/fbefcb13c5cf9b",
+    "pubDate": "Thu, 05 Mar 2026 09:24:28 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "フロントエンドにおけるキャッシュの全レベルを理解する",
     "link": "https://qiita.com/NXD139/items/e1eef1c2735083b7e6e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -126,40 +156,10 @@
     "pubDate": "2026-03-05T05:28:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI エージェント基盤を、OS を作るように設計する",
-    "link": "https://zenn.dev/r_kawaiimura/articles/addf6348bf064b",
-    "pubDate": "Thu, 05 Mar 2026 02:57:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code】Excel方眼紙の詳細設計書とどう向き合うか",
-    "link": "https://zenn.dev/acntechjp/articles/35b8608e72dd4f",
-    "pubDate": "Thu, 05 Mar 2026 02:54:14 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法",
     "link": "https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T02:31:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code に向いているプログラミング言語",
-    "link": "https://zenn.dev/mametter/articles/3e8580ec034201",
-    "pubDate": "Thu, 05 Mar 2026 00:22:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人的 AI情報の追い方",
-    "link": "https://zenn.dev/knowledgework/articles/my-ai-catchup",
-    "pubDate": "Wed, 04 Mar 2026 23:04:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ブラウザ操作を自動キャプチャして手順書を作るChrome拡張機能を作った",
-    "link": "https://zenn.dev/ktg/articles/55b63d68ac2ddb",
-    "pubDate": "Wed, 04 Mar 2026 22:55:01 GMT"
   },
   {
     "site": "Qiita",
