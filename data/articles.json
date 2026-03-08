@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "まだAIコードをレビューするか、しないかで言い争ってるの？",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code",
+    "pubDate": "2026-03-08T02:20:26.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "Skill Create スキルを使用したスキルの作成と改善",
-    "link": "https://azukiazusa.dev/blog/skill-create-skill-creation-and-improvement/",
-    "pubDate": "2026-03-07T11:32:08.000Z"
+    "title": "南場智子「ますます“速さ”が命題に」DeNA AI Day2026全文書き起こし - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/30605/",
+    "pubDate": "2026-03-08T01:48:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "噂のノートPCのBIOSを調べた - えぬえす工房",
+    "link": "https://www.ns-koubou.com/blog/2026/03/07/7430u-notebook/",
+    "pubDate": "2026-03-07T15:44:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIで男女格差に拡大リスク　国際労働機関、報告書で警鐘（共同通信） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/e1b3ab0575f7c5fe59f6470e1668cbbce4c763dd",
+    "pubDate": "2026-03-07T13:18:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「アーキテクチャ図はもう要らない」は本当か？ ── LLM時代のC4モデル再考",
+    "link": "https://zenn.dev/uniquevision/articles/1ddf3a6ecb0ad7",
+    "pubDate": "2026-03-07T12:12:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "超音波で高速振動。電動アシストで切れ味倍増するとんでもない包丁",
+    "link": "https://www.gizmodo.jp/2026/03/seattle-ultrasonics-c200-kitchen-knife-94t.html",
+    "pubDate": "2026-03-07T12:05:29.000Z"
   },
   {
     "site": "Hatena",
@@ -18,12 +48,6 @@
     "pubDate": "2026-03-07T08:07:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "us-east-1 に障害が起きた時に、 ap-northeast-1 にどんな影響があるか 説明できるようになろう！",
-    "link": "https://speakerdeck.com/miu_crescent/us-east-1-nizhang-hai-gaqi-kitashi-ni-ap-northeast-1-nidonnaying-xiang-gaaruka-shuo-ming-dekiruyouninarou",
-    "pubDate": "2026-03-07T07:18:27.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアがChatGPTを使いこなせていないかもしれない話 - Qiita",
     "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
@@ -31,21 +55,9 @@
   },
   {
     "site": "Hatena",
-    "title": "生成AI時代の開発と運用 / Dev and Ops in Gen AI era",
-    "link": "https://speakerdeck.com/ymotongpoo/dev-and-ops-in-gen-ai-era",
-    "pubDate": "2026-03-07T06:08:21.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Firefoxがデザインの大幅な刷新を計画中：「Nova」が提示するUIの転換点とMozillaの決定的な焦燥 | XenoSpectrum",
     "link": "https://xenospectrum.com/firefox-nova-redesign-ui-strategy/",
     "pubDate": "2026-03-07T04:35:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AntigravityとClaude Code/Codexの使い分け指針｜hirokaji",
-    "link": "https://note.com/tasty_dunlin998/n/ne414fd7d60a2",
-    "pubDate": "2026-03-07T04:27:11.000Z"
   },
   {
     "site": "Qiita",
@@ -58,12 +70,6 @@
     "title": "5分でできる！PicoClawでClaude CodeをClaw化してみた",
     "link": "https://qiita.com/nogataka/items/d4b6bdea821f1c43bc24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-07T03:22:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「.env見るな」は通じない－AI時代のシークレット管理術",
-    "link": "https://zenn.dev/76hata/articles/d6d9de62d001a8",
-    "pubDate": "2026-03-07T02:15:12.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法",
     "link": "https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T02:31:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「人間はコードを1行も書かない」という縛りで5ヶ月間プロダクトを作り続けた結果 ― ハーネスエンジニアリング - Qiita",
-    "link": "https://qiita.com/nogataka/items/43c01957fa1e54d9a079",
-    "pubDate": "2026-03-03T12:24:16.000Z"
   }
 ]
