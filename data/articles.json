@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "Skill Create スキルを使用したスキルの作成と改善",
+    "link": "https://azukiazusa.dev/blog/skill-create-skill-creation-and-improvement/",
+    "pubDate": "2026-03-07T11:32:08.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "3分で学ぶ GitHub Copilot CLI の基本とベストプラクティス - プププなテクブ",
     "link": "https://blog.inorinrinrin.com/entry/2026/03/07/180419",
     "pubDate": "2026-03-07T09:47:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【学生エンジニア必見】27卒就活でメガベンチャーから内定をもらうためにやったことを全て書く",
+    "link": "https://qiita.com/bisketoriba/items/8aa17810306d02490260?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-07T08:07:54.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +24,28 @@
     "pubDate": "2026-03-07T07:18:27.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "エンジニアがChatGPTを使いこなせていないかもしれない話 - Qiita",
+    "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
+    "pubDate": "2026-03-07T07:07:36.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "生成AI時代の開発と運用 / Dev and Ops in Gen AI era",
     "link": "https://speakerdeck.com/ymotongpoo/dev-and-ops-in-gen-ai-era",
     "pubDate": "2026-03-07T06:08:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Firefoxがデザインの大幅な刷新を計画中：「Nova」が提示するUIの転換点とMozillaの決定的な焦燥 | XenoSpectrum",
+    "link": "https://xenospectrum.com/firefox-nova-redesign-ui-strategy/",
+    "pubDate": "2026-03-07T04:35:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AntigravityとClaude Code/Codexの使い分け指針｜hirokaji",
+    "link": "https://note.com/tasty_dunlin998/n/ne414fd7d60a2",
+    "pubDate": "2026-03-07T04:27:11.000Z"
   },
   {
     "site": "Qiita",
@@ -24,28 +54,16 @@
     "pubDate": "2026-03-07T04:24:04.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "5分でできる！PicoClawでClaude CodeをClaw化してみた",
+    "link": "https://qiita.com/nogataka/items/d4b6bdea821f1c43bc24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-07T03:22:42.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "「.env見るな」は通じない－AI時代のシークレット管理術",
     "link": "https://zenn.dev/76hata/articles/d6d9de62d001a8",
     "pubDate": "2026-03-07T02:15:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPT5.4Proに小説を書かせたら「AIが書いたにしては面白い」というレベルをはるかに超えてて、仰天した｜ふろむだ",
-    "link": "https://note.com/fromdusktildawn/n/n36b18b002010",
-    "pubDate": "2026-03-06T23:56:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【Ubuntu日和】 メモリ消費800MB以下。脱GUIで省メモリな日本語環境の可能性を探る",
-    "link": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2091326.html",
-    "pubDate": "2026-03-06T21:50:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本の大手携帯キャリア販売スマホには、怪しいアプリが混入・蔓延。「削除不可能なスパイウェア」との批判も - すまほん!!",
-    "link": "https://smhn.info/202603-appcloud-android-bloatware",
-    "pubDate": "2026-03-06T11:26:25.000Z"
   },
   {
     "site": "Zenn",
@@ -73,6 +91,12 @@
   },
   {
     "site": "Zenn",
+    "title": "【2026年版】大阪公立大学の学生システム開発チームで使用している技術スタック",
+    "link": "https://zenn.dev/omu_tryangle/articles/29115afcef04eb",
+    "pubDate": "Fri, 06 Mar 2026 04:41:55 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Code Action のプロンプトを GitHub Issue で柔軟に管理する",
     "link": "https://zenn.dev/knowledgework/articles/claude-code-action-issue-prompt",
     "pubDate": "Fri, 06 Mar 2026 04:16:49 GMT"
@@ -85,21 +109,27 @@
   },
   {
     "site": "Zenn",
+    "title": "スピードも品質も諦めたくない！そんな願いを叶える「仕様駆動開発」のススメ",
+    "link": "https://zenn.dev/securenavi_tech/articles/20260301-sdd-introduction",
+    "pubDate": "Fri, 06 Mar 2026 03:00:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Vibe Codingは実プロジェクトで通用するのか？ 約6ヶ月試してわかったことと必要なスキル",
     "link": "https://zenn.dev/mkj/articles/9827c9d7686a73",
     "pubDate": "Fri, 06 Mar 2026 02:50:05 GMT"
   },
   {
     "site": "Qiita",
-    "title": "【セキュリティ】なぜAPIキーは流出するのか？2026年最新データと実例から学ぶ原因と対策",
-    "link": "https://qiita.com/ktdatascience/items/588b63bcae18cd1f5f16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-06T01:37:09.000Z"
+    "title": "現役ソフトウェアエンジニアが感じる開発現場の変化",
+    "link": "https://qiita.com/you_13/items/8d3e9c0237c075e49353?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-06T00:28:11.000Z"
   },
   {
     "site": "Zenn",
-    "title": "コミットメッセージを自分で書かない",
-    "link": "https://zenn.dev/hfm/articles/commit-message-generated-by-ai",
-    "pubDate": "2026-03-06T00:13:02.000Z"
+    "title": "続【Claude Code】Wordの詳細設計書とどう向き合うか",
+    "link": "https://zenn.dev/acntechjp/articles/a7ee3dc65bc4a7",
+    "pubDate": "Fri, 06 Mar 2026 00:08:59 GMT"
   },
   {
     "site": "Qiita",
@@ -109,15 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeを組織導入するためのプラン選定ガイド",
-    "link": "https://zenn.dev/knowledgework/articles/claude-code-organization-plan-guide",
-    "pubDate": "Thu, 05 Mar 2026 22:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ブラウザだけで完結する日本語OCR＋透視変換（台形補正）を作ってみた",
-    "link": "https://zenn.dev/lecto/articles/dea43a2dfa52ad",
-    "pubDate": "Thu, 05 Mar 2026 14:58:19 GMT"
+    "title": "GitHub Actions の式構文はスクリプトインジェクションの温床になる",
+    "link": "https://zenn.dev/135yshr/articles/7c5d99d5f45ed7",
+    "pubDate": "Thu, 05 Mar 2026 23:24:49 GMT"
   },
   {
     "site": "Qiita",
@@ -126,22 +150,10 @@
     "pubDate": "2026-03-05T14:54:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code に `cc` というエイリアスをつけたら PC がハングした話",
-    "link": "https://zenn.dev/owayo/articles/6190821ac1dd1e",
-    "pubDate": "Thu, 05 Mar 2026 13:35:36 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "フロントエンドにおけるキャッシュの全レベルを理解する",
     "link": "https://qiita.com/NXD139/items/e1eef1c2735083b7e6e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T08:14:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードレビューにClaude Code subagentsを導入したら、レビューレベルが改善した話",
-    "link": "https://zenn.dev/mgdx_blog/articles/8f7994ad84151d",
-    "pubDate": "Thu, 05 Mar 2026 06:45:46 GMT"
   },
   {
     "site": "Qiita",
@@ -160,18 +172,6 @@
     "title": "リグレッションテストとは？Playwrightで効率的に回帰テストを自動化する方法",
     "link": "https://qiita.com/ShotaFukuyama/items/62519da65ca2dc391f0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-05T02:31:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初参加向け】JAWS DAYS 2026 の回り方 〜当日の動線・セッション選び・交流のコツ〜",
-    "link": "https://qiita.com/yosimitu/items/041340a0e241f6c44eb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-04T17:11:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話",
-    "link": "https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-04T11:12:41.000Z"
   },
   {
     "site": "Qiita",
