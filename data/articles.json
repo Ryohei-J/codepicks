@@ -1,15 +1,51 @@
 [
   {
     "site": "Zenn",
+    "title": "プログラマの抱いている不動産データについての誤謬",
+    "link": "https://zenn.dev/estie/articles/39efe1ebf6b188",
+    "pubDate": "2026-03-12T09:33:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "[はてブ統計] はてなブックマークは衰退しているのか？",
+    "link": "https://anond.hatelabo.jp/20260312180747",
+    "pubDate": "2026-03-12T09:08:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "モバイルバッテリーなどが「小型家電リサイクル法」対象に",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2092857.html",
+    "pubDate": "2026-03-12T08:11:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ゲーム中の\"ネコハラ\"を防ぐ「猫ハウスデスク」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2092801.html",
+    "pubDate": "2026-03-12T08:00:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "イオンの金融アプリが「イオンペイ」にブランド統一　決済・ウォレット集約",
+    "link": "https://www.watch.impress.co.jp/docs/news/2092710.html",
+    "pubDate": "2026-03-12T06:57:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "チームで本格的に Docs as Code を運用しているので紹介します - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2026/03/12/115110",
+    "pubDate": "2026-03-12T03:40:58.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "MySQLが好きな私が、今はPostgreSQLを勧めたい理由",
     "link": "https://zenn.dev/catatsuy/articles/f3721135c6f8f6",
     "pubDate": "2026-03-12T01:38:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「他人にお金を配りたくなるスイッチ」発見？　脳への電気刺激で“利他的行動”増大　スイスチームが報告",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/12/news039.html",
-    "pubDate": "2026-03-11T23:56:49.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeで仕様駆動開発、tsumikiが良かった",
+    "link": "https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki",
+    "pubDate": "2026-03-12T00:39:19.000Z"
   },
   {
     "site": "Hatena",
@@ -18,40 +54,28 @@
     "pubDate": "2026-03-11T23:54:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "広告で「2秒でぽかぽか」「3分で部屋中涼しく」、実際は冷暖房能力を持たず　国民生活センターが“偽空調”に注意喚起",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/11/news103.html",
-    "pubDate": "2026-03-11T21:48:24.000Z"
+    "site": "Zenn",
+    "title": "Vibe-Codingでアプリを作ってみたけど、結局やめた話",
+    "link": "https://zenn.dev/mato/articles/65cf1b36537cca",
+    "pubDate": "Wed, 11 Mar 2026 12:49:20 GMT"
   },
   {
     "site": "Zenn",
-    "title": "WebGPUのシェーダーの文法がほぼRustな理由",
-    "link": "https://zenn.dev/ihasq/articles/85ff98c0c291ec",
-    "pubDate": "2026-03-11T21:31:04.000Z"
+    "title": "なぜ Unity は C# を選び、Unreal は選ばなかったのかについての個人の考察",
+    "link": "https://zenn.dev/wuyukwi/articles/97b70df23bd792",
+    "pubDate": "Wed, 11 Mar 2026 10:31:51 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeを加速させる私の推しスキル・ツール・設定（Findyイベント登壇資料）",
-    "link": "https://share.google/CROCkWfh4j5sV8PkO",
-    "pubDate": "2026-03-11T12:41:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MIXI、部長級なら最低年収840→1260万円に　報酬下限を2〜5割引き上げ　",
-    "link": "https://japan.cnet.com/article/35244875/",
-    "pubDate": "2026-03-11T07:28:43.000Z"
+    "site": "Zenn",
+    "title": "MySQLが好きな私が、今はPostgreSQLを勧めたい理由",
+    "link": "https://zenn.dev/catatsuy/articles/f3721135c6f8f6",
+    "pubDate": "Wed, 11 Mar 2026 10:29:39 GMT"
   },
   {
     "site": "Zenn",
     "title": "Claude Codeで自分好みの朝刊が届く仕組みを作った",
     "link": "https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9",
     "pubDate": "2026-03-11T07:11:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude に jq の JIT コンパイラを作らせたらめちゃくちゃ速くなった - Qiita",
-    "link": "https://qiita.com/m5d215/items/6b814078a0ad47654b42",
-    "pubDate": "2026-03-11T04:10:25.000Z"
   },
   {
     "site": "Zenn",
@@ -72,28 +96,10 @@
     "pubDate": "Wed, 11 Mar 2026 02:49:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code Skills (Agent Skills) 入門【社内勉強会スライド】 | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/claude-code-skills-for-cloud-bu-consulting-members/",
-    "pubDate": "2026-03-11T02:13:54.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【deepwiki-open】いいパソコンはもってないけど、ローカルLLMで社内Wikiをつくりたい",
     "link": "https://qiita.com/melhts/items/6e5bc00f8426194d0978?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-11T01:13:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Microsoft365に別ドメインを追加してメールエイリアスを設定する",
-    "link": "https://qiita.com/t_morimoto/items/f52b8a00f89695989dbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-11T00:32:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Microsoft 365 Copilot Wave 3まとめ―Frontier Firm実現への大きな一歩―",
-    "link": "https://qiita.com/sadabon444/items/809fa2aa5b52c6c29166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-11T00:11:03.000Z"
   },
   {
     "site": "Qiita",
@@ -109,15 +115,39 @@
   },
   {
     "site": "Qiita",
-    "title": "AWS Community Builderに選出されたので活動を振り返る",
-    "link": "https://qiita.com/ry-harada/items/d2072de63ac3cfdd4603?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-10T22:27:15.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "SES3年・30代でWeb系自社開発企業に転職するまで（応募117社 / 学習922時間）",
     "link": "https://qiita.com/ngimixin/items/3825da22d42572aee59c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-10T22:21:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
+    "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-10T22:06:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで仕様駆動開発、tsumikiが良かった",
+    "link": "https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki",
+    "pubDate": "Tue, 10 Mar 2026 17:09:51 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった",
+    "link": "https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-10T14:12:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHubで見つけた「便利ツール」を解析したらマルウェアだった話",
+    "link": "https://zenn.dev/hiyoko_sauna/articles/74dd12a7cabafa",
+    "pubDate": "Tue, 10 Mar 2026 13:36:29 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS初心者がCommunity Buildersに落選した話",
+    "link": "https://qiita.com/tks_1128/items/a77dcd725aeda22854f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-10T13:04:09.000Z"
   },
   {
     "site": "Zenn",
@@ -126,34 +156,10 @@
     "pubDate": "Tue, 10 Mar 2026 12:35:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【2026/3/9最新】Claude Code新機能『Code Review』、早速使ったら2つのPRで$100超かかった話",
-    "link": "https://zenn.dev/canly/articles/1535fde47ca866",
-    "pubDate": "Tue, 10 Mar 2026 11:17:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub CopilotはCLIも便利だった：VSCodeと併用する実践メモ",
-    "link": "https://zenn.dev/suusanex/articles/8ce18cfbe114ea",
-    "pubDate": "Tue, 10 Mar 2026 10:42:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件",
-    "link": "https://zenn.dev/acntechjp/articles/4ab4491afd5a8b",
-    "pubDate": "Tue, 10 Mar 2026 09:18:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMに長期記憶を実装する",
-    "link": "https://zenn.dev/acntechjp/articles/efcc4f224cc8ca",
-    "pubDate": "Tue, 10 Mar 2026 04:50:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "時計アイコンを精密につくるツールを開発した（迫真）",
-    "link": "https://zenn.dev/rollpie/articles/a3ba230583e223",
-    "pubDate": "Tue, 10 Mar 2026 02:31:15 GMT"
+    "site": "Qiita",
+    "title": "WordPressはAI時代に終わる？エンジニア目線で本音を書く",
+    "link": "https://qiita.com/gmo-connect-ogawa/items/009c8b85ddd49ffb47c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-10T08:24:19.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中",
     "link": "https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-09T10:28:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）",
-    "link": "https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-09T05:15:52.000Z"
   }
 ]
