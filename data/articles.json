@@ -1,5 +1,17 @@
 [
   {
+    "site": "Zenn",
+    "title": "MySQLが好きな私が、今はPostgreSQLを勧めたい理由",
+    "link": "https://zenn.dev/catatsuy/articles/f3721135c6f8f6",
+    "pubDate": "2026-03-12T01:38:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「他人にお金を配りたくなるスイッチ」発見？　脳への電気刺激で“利他的行動”増大　スイスチームが報告",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/12/news039.html",
+    "pubDate": "2026-03-11T23:56:49.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "AIコーディングはなぜ後から苦しくなるのか？　技術負債に続く「理解負債」「認知負債」という新たな落とし穴",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/12/news016.html",
@@ -12,10 +24,10 @@
     "pubDate": "2026-03-11T21:48:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Google PlayのGoogleの取り分が20％以下に値下げへ。独自課金システムや外部Webサイトに誘導しての課金も可能に",
-    "link": "https://www.publickey1.jp/blog/26/google_playgoogle20web.html",
-    "pubDate": "2026-03-11T14:31:35.000Z"
+    "site": "Zenn",
+    "title": "WebGPUのシェーダーの文法がほぼRustな理由",
+    "link": "https://zenn.dev/ihasq/articles/85ff98c0c291ec",
+    "pubDate": "2026-03-11T21:31:04.000Z"
   },
   {
     "site": "Hatena",
@@ -42,16 +54,16 @@
     "pubDate": "2026-03-11T04:10:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "社内研修でも使える「生成AIはじめの一歩」　総務省が資料を無償公開",
-    "link": "https://smbiz.asahi.com/article/16406076",
-    "pubDate": "2026-03-11T03:58:21.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Reactでsignalsは必要ない、Jotaiがあるから",
     "link": "https://zenn.dev/dai_shi/articles/47c729ee33faa5",
     "pubDate": "Wed, 11 Mar 2026 03:54:20 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "証券システムと、それを取り巻く世界",
+    "link": "https://zenn.dev/mi_01_24fu/books/securities-system-flow",
+    "pubDate": "Wed, 11 Mar 2026 03:28:32 GMT"
   },
   {
     "site": "Zenn",
@@ -144,12 +156,6 @@
     "pubDate": "Tue, 10 Mar 2026 02:31:15 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "t-SNEを理解せずに使っている人へ",
-    "link": "https://zenn.dev/green_tea/articles/576d36f7a8c993",
-    "pubDate": "Tue, 10 Mar 2026 02:25:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう",
     "link": "https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "「Vite + Reactでいい」と言う人に突きつけられた現実と2つの選択肢（宣伝記事です）",
     "link": "https://qiita.com/uhyo/items/2ad32fc119d5b5e1bb98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-09T05:15:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？ - Qiita",
-    "link": "https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f",
-    "pubDate": "2026-03-09T02:32:27.000Z"
   }
 ]
