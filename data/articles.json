@@ -1,45 +1,57 @@
 [
   {
     "site": "Hatena",
-    "title": "カズオ・イシグロら約1万人の作家が「この本を盗むな」という「中身のない本」を出版、AI企業が作品を一方的に利用する現状に抗議するため",
-    "link": "https://gigazine.net/news/20260311-dont-steal-this-book/",
-    "pubDate": "2026-03-11T11:58:13.000Z"
+    "title": "AIコーディングはなぜ後から苦しくなるのか？　技術負債に続く「理解負債」「認知負債」という新たな落とし穴",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/12/news016.html",
+    "pubDate": "2026-03-11T23:54:12.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ITに強いと主張してる新しい部下の得意ソフトが「一太郎」と聞いて、とんでもないポンコツか、はたまたすさまじぃ能力者かとハラハラドキドキしてる⇒一太郎か…",
-    "link": "https://posfie.com/@kalofollow/p/wHAGGOL",
-    "pubDate": "2026-03-11T11:38:31.000Z"
+    "title": "広告で「2秒でぽかぽか」「3分で部屋中涼しく」、実際は冷暖房能力を持たず　国民生活センターが“偽空調”に注意喚起",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/11/news103.html",
+    "pubDate": "2026-03-11T21:48:24.000Z"
   },
   {
     "site": "Hatena",
-    "title": "鹿や猪を追い払う目的の四足歩行ロボットだが数週間で馴れてしまった、なので追跡させて行動範囲を記録してハンターに共有するSFチックな試みに移行",
-    "link": "https://togetter.com/li/2673486",
-    "pubDate": "2026-03-11T09:53:30.000Z"
+    "title": "Google PlayのGoogleの取り分が20％以下に値下げへ。独自課金システムや外部Webサイトに誘導しての課金も可能に",
+    "link": "https://www.publickey1.jp/blog/26/google_playgoogle20web.html",
+    "pubDate": "2026-03-11T14:31:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeを加速させる私の推しスキル・ツール・設定（Findyイベント登壇資料）",
+    "link": "https://share.google/CROCkWfh4j5sV8PkO",
+    "pubDate": "2026-03-11T12:41:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MIXI、部長級なら最低年収840→1260万円に　報酬下限を2〜5割引き上げ　",
+    "link": "https://japan.cnet.com/article/35244875/",
+    "pubDate": "2026-03-11T07:28:43.000Z"
   },
   {
     "site": "Zenn",
-    "title": "VS CodeでMarkdownプレビューのまま編集したくて拡張機能を作った",
-    "link": "https://zenn.dev/jishii/articles/5b9d2eb8f9ec9a",
-    "pubDate": "2026-03-11T07:06:17.000Z"
+    "title": "Claude Codeで自分好みの朝刊が届く仕組みを作った",
+    "link": "https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9",
+    "pubDate": "2026-03-11T07:11:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "サンワサプライ、ごろ寝でPC操作できる多機能ハンディマウス",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2092392.html",
-    "pubDate": "2026-03-11T05:44:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "10万円で200円余るMacBook NeoでAI音楽制作は成立するのか。 Logic ProとSunoで検証してみた（CloseBox） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/03/11/4916.html",
-    "pubDate": "2026-03-11T04:23:10.000Z"
+    "site": "Qiita",
+    "title": "Claude に jq の JIT コンパイラを作らせたらめちゃくちゃ速くなった - Qiita",
+    "link": "https://qiita.com/m5d215/items/6b814078a0ad47654b42",
+    "pubDate": "2026-03-11T04:10:25.000Z"
   },
   {
     "site": "Hatena",
     "title": "社内研修でも使える「生成AIはじめの一歩」　総務省が資料を無償公開",
     "link": "https://smbiz.asahi.com/article/16406076",
     "pubDate": "2026-03-11T03:58:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Reactでsignalsは必要ない、Jotaiがあるから",
+    "link": "https://zenn.dev/dai_shi/articles/47c729ee33faa5",
+    "pubDate": "Wed, 11 Mar 2026 03:54:20 GMT"
   },
   {
     "site": "Zenn",
@@ -55,9 +67,21 @@
   },
   {
     "site": "Qiita",
+    "title": "【deepwiki-open】いいパソコンはもってないけど、ローカルLLMで社内Wikiをつくりたい",
+    "link": "https://qiita.com/melhts/items/6e5bc00f8426194d0978?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-11T01:13:16.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Microsoft365に別ドメインを追加してメールエイリアスを設定する",
     "link": "https://qiita.com/t_morimoto/items/f52b8a00f89695989dbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-11T00:32:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Microsoft 365 Copilot Wave 3まとめ―Frontier Firm実現への大きな一歩―",
+    "link": "https://qiita.com/sadabon444/items/809fa2aa5b52c6c29166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-11T00:11:03.000Z"
   },
   {
     "site": "Qiita",
@@ -66,28 +90,22 @@
     "pubDate": "2026-03-11T00:08:52.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "データエンジニア・LLM エンジニア採用のスキルテストをリニューアルしました",
+    "link": "https://zenn.dev/finatext/articles/skill-test-renewal-data-llm-engineer",
+    "pubDate": "Wed, 11 Mar 2026 00:00:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AWS Community Builderに選出されたので活動を振り返る",
     "link": "https://qiita.com/ry-harada/items/d2072de63ac3cfdd4603?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-10T22:27:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "お気に入りの配信者が死んじゃうかも",
-    "link": "https://anond.hatelabo.jp/20260310120251",
-    "pubDate": "2026-03-10T21:52:27.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "【2026年最新】100ページ超の要件定義書も楽勝！Antigravity × NotebookLMでドキュメント作成を爆速化 - Qiita",
-    "link": "https://qiita.com/hitotch/items/411bfd2be559b82d156d",
-    "pubDate": "2026-03-10T20:06:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS初心者がCommunity Buildersに落選した話",
-    "link": "https://qiita.com/tks_1128/items/a77dcd725aeda22854f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-10T13:04:09.000Z"
+    "title": "SES3年・30代でWeb系自社開発企業に転職するまで（応募117社 / 学習922時間）",
+    "link": "https://qiita.com/ngimixin/items/3825da22d42572aee59c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-10T22:21:50.000Z"
   },
   {
     "site": "Zenn",
@@ -103,9 +121,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code の PR Review は「念の為」：念の為になるレビューと任せられるレビューの違いについて",
-    "link": "https://zenn.dev/nrs/articles/bf0e68a1ab75bd",
-    "pubDate": "Tue, 10 Mar 2026 10:54:38 GMT"
+    "title": "GitHub CopilotはCLIも便利だった：VSCodeと併用する実践メモ",
+    "link": "https://zenn.dev/suusanex/articles/8ce18cfbe114ea",
+    "pubDate": "Tue, 10 Mar 2026 10:42:26 GMT"
   },
   {
     "site": "Zenn",
@@ -121,9 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "散らばった E2E テストのガイドラインをリポジトリに一本化する",
-    "link": "https://zenn.dev/knowledgework/articles/0199eb40d47bc1",
-    "pubDate": "Tue, 10 Mar 2026 03:00:09 GMT"
+    "title": "時計アイコンを精密につくるツールを開発した（迫真）",
+    "link": "https://zenn.dev/rollpie/articles/a3ba230583e223",
+    "pubDate": "Tue, 10 Mar 2026 02:31:15 GMT"
   },
   {
     "site": "Zenn",
@@ -132,22 +150,16 @@
     "pubDate": "Tue, 10 Mar 2026 02:25:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "LLVMに対する32ビット定数除算の改善",
-    "link": "https://zenn.dev/herumi/articles/const-div-revised5",
-    "pubDate": "Tue, 10 Mar 2026 02:00:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "VS CodeでMarkdownプレビューのまま編集したくて拡張機能を作った",
-    "link": "https://zenn.dev/jishii/articles/5b9d2eb8f9ec9a",
-    "pubDate": "Tue, 10 Mar 2026 01:02:42 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう",
     "link": "https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-09T21:58:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2026年最新】100ページ超の要件定義書も楽勝！Antigravity × NotebookLMでドキュメント作成を爆速化",
+    "link": "https://qiita.com/hitotch/items/411bfd2be559b82d156d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-09T17:59:32.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "試験まで1週間!?「やっべ、全然勉強してない」を救うGemini爆速学習法",
-    "link": "https://qiita.com/esukei_8876/items/4997156bbe8c304231b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-08T12:19:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本",
-    "link": "https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-08T09:02:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した",
-    "link": "https://qiita.com/NF0000/items/66510f959b1c22f011a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-08T08:26:59.000Z"
+    "title": "BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？ - Qiita",
+    "link": "https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f",
+    "pubDate": "2026-03-09T02:32:27.000Z"
   }
 ]
