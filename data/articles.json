@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "50 Years of Thinking Different",
+    "link": "https://www.apple.com/jp/50-years-of-thinking-different/",
+    "pubDate": "2026-03-12T13:32:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "WordPressが「My WordPress」リリース、ウェブブラウザだけで完全に動作しプラグインが使えるWordPressを構築可能でバックアップしてどこにでも復元可能でRSSリーダー化も可能",
+    "link": "https://gigazine.net/news/20260312-my-wordpress/",
+    "pubDate": "2026-03-12T12:11:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleアカウントを奪われてしまった可哀想なキモオタの話｜非耶部（ヒジャベ）",
+    "link": "https://note.com/subete_0hana4/n/nc2ed571d3dc5",
+    "pubDate": "2026-03-12T10:56:41.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "プログラマの抱いている不動産データについての誤謬",
     "link": "https://zenn.dev/estie/articles/39efe1ebf6b188",
@@ -24,16 +42,10 @@
     "pubDate": "2026-03-12T08:00:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "イオンの金融アプリが「イオンペイ」にブランド統一　決済・ウォレット集約",
-    "link": "https://www.watch.impress.co.jp/docs/news/2092710.html",
-    "pubDate": "2026-03-12T06:57:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "チームで本格的に Docs as Code を運用しているので紹介します - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2026/03/12/115110",
-    "pubDate": "2026-03-12T03:40:58.000Z"
+    "site": "Qiita",
+    "title": "メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった - Qiita",
+    "link": "https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9",
+    "pubDate": "2026-03-12T04:27:15.000Z"
   },
   {
     "site": "Zenn",
@@ -46,12 +58,6 @@
     "title": "Claude Codeで仕様駆動開発、tsumikiが良かった",
     "link": "https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki",
     "pubDate": "2026-03-12T00:39:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIコーディングはなぜ後から苦しくなるのか？　技術負債に続く「理解負債」「認知負債」という新たな落とし穴",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/12/news016.html",
-    "pubDate": "2026-03-11T23:54:12.000Z"
   },
   {
     "site": "Zenn",
@@ -70,12 +76,6 @@
     "title": "MySQLが好きな私が、今はPostgreSQLを勧めたい理由",
     "link": "https://zenn.dev/catatsuy/articles/f3721135c6f8f6",
     "pubDate": "Wed, 11 Mar 2026 10:29:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで自分好みの朝刊が届く仕組みを作った",
-    "link": "https://zenn.dev/aoi_umigishi/articles/936073d8dd16e9",
-    "pubDate": "2026-03-11T07:11:37.000Z"
   },
   {
     "site": "Zenn",
@@ -163,7 +163,7 @@
   },
   {
     "site": "Qiita",
-    "title": "Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう",
+    "title": "Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう ＋追記 Antigravity０％問題",
     "link": "https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-09T21:58:30.000Z"
   },
