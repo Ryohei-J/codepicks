@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "1万4000台のルーターが削除に強いマルウェアに感染している",
+    "link": "https://gigazine.net/news/20260313-kadnap-malware-turning-asus-routers-botnets/",
+    "pubDate": "2026-03-13T10:59:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWSを退職しました - YAMAGUCHI::weblog",
+    "link": "https://ymotongpoo.hatenablog.com/entry/leaving-aws",
+    "pubDate": "2026-03-13T08:13:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMの体感比較",
+    "link": "https://anond.hatelabo.jp/20260313165615",
+    "pubDate": "2026-03-13T08:06:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gojang Framework - Modern Go Web Framework | Gojang Framework",
+    "link": "https://gojang.io/",
+    "pubDate": "2026-03-13T06:42:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "社員に何もさせずにClaude Code利用ログを集める ── 数百名規模のOpenTelemetry収集基盤の構築 - ZOZO TECH BLOG",
     "link": "https://techblog.zozo.com/entry/claudecode-otel",
     "pubDate": "2026-03-13T04:01:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Pixelを、仕事特化スマホに改良したら、こうなった",
+    "link": "https://www.gizmodo.jp/2026/03/google-pixel-use-as-job-phone-zq5.html",
+    "pubDate": "2026-03-13T03:28:36.000Z"
   },
   {
     "site": "Zenn",
@@ -12,10 +42,10 @@
     "pubDate": "2026-03-13T03:07:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Findyの爆速開発を支えるセルフレビュー自動化の仕組み - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2026/03/13/070000",
-    "pubDate": "2026-03-13T00:13:15.000Z"
+    "site": "Qiita",
+    "title": "エンジニア初学者へ伝えたい。現場を通して思ったこれからのエンジニアになるために必要な考え方と姿勢",
+    "link": "https://qiita.com/masa20057/items/0ba6853020a40edc97da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-13T02:41:08.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +54,10 @@
     "pubDate": "2026-03-12T22:41:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Bokuchi - Free Lightweight Markdown Editor for macOS, Windows & Linux",
-    "link": "https://bokuchi.com/",
-    "pubDate": "2026-03-12T16:33:58.000Z"
+    "site": "Qiita",
+    "title": "Antigravity クオータ0%枯渇問題 (Proプラン向け)",
+    "link": "https://qiita.com/masakinihirota/items/fdb955deb0eff36f263f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-12T19:03:42.000Z"
   },
   {
     "site": "Hatena",
@@ -36,16 +66,10 @@
     "pubDate": "2026-03-12T15:02:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeのセッション履歴が30日で消えると知って9999日に変えた話｜cute_agapan9087",
-    "link": "https://note.com/cute_agapan9087/n/nf54c17fc5f43",
-    "pubDate": "2026-03-12T14:12:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code 2026年 最新アップデート",
-    "link": "https://speakerdeck.com/oikon48/claude-code-0312",
-    "pubDate": "2026-03-12T13:48:58.000Z"
+    "site": "Zenn",
+    "title": "Claude CodeやCodexのスキルの管理を楽にするツール「faceted-prompting」",
+    "link": "https://zenn.dev/nrs/articles/88f158aca0505b",
+    "pubDate": "Thu, 12 Mar 2026 11:15:06 GMT"
   },
   {
     "site": "Hatena",
@@ -66,18 +90,6 @@
     "pubDate": "Thu, 12 Mar 2026 06:10:53 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「テストコードは仕様書になる」クリーンアーキテクチャの各層で「振る舞い」をテストするべき理由",
-    "link": "https://qiita.com/takishun_schoo/items/5b5fd06d488119daa899?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-12T05:48:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【AIエージェントの内部構造】長時間タスクを完遂させる「エージェントハーネス」の概要と設計・実装",
-    "link": "https://codezine.jp/article/detail/23340",
-    "pubDate": "2026-03-12T05:21:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "プログラマの抱いている不動産データについての誤謬",
     "link": "https://zenn.dev/estie/articles/39efe1ebf6b188",
@@ -85,15 +97,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Copilot Studio の自律型エージェントでファイルアップロードトリガーを試してみた",
-    "link": "https://qiita.com/Takashi_Masumori/items/1689535e7ae6e5b2ea25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-12T02:51:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude CodeをBedrockに切り替える簡易手順",
-    "link": "https://qiita.com/minorun365/items/4caaaab2b376c063d97f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-11T17:34:33.000Z"
+    "title": "1年目の未経験エンジニアが失敗から得た学び、身につけてよかった習慣",
+    "link": "https://qiita.com/Tsurukawauchi_Jin/items/d83a1852cc72d8112094?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-12T00:47:48.000Z"
   },
   {
     "site": "Zenn",
@@ -127,15 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "なぜ Unity は C# を選び、Unreal は選ばなかったのかについての個人の考察",
-    "link": "https://zenn.dev/wuyukwi/articles/97b70df23bd792",
-    "pubDate": "Wed, 11 Mar 2026 10:31:51 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MySQLが好きな私が、今はPostgreSQLを勧めたい理由",
-    "link": "https://zenn.dev/catatsuy/articles/f3721135c6f8f6",
-    "pubDate": "Wed, 11 Mar 2026 10:29:39 GMT"
+    "title": "日曜バイブコーダーがゲーム制作に行き詰まったその後の話",
+    "link": "https://zenn.dev/kemogamer_nu/articles/3f047c54657094",
+    "pubDate": "Wed, 11 Mar 2026 12:48:17 GMT"
   },
   {
     "site": "Qiita",
@@ -163,6 +163,12 @@
   },
   {
     "site": "Qiita",
+    "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
+    "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-10T22:06:34.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった",
     "link": "https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-10T14:12:38.000Z"
@@ -172,11 +178,5 @@
     "title": "WordPressはAI時代に終わる？エンジニア目線で本音を書く",
     "link": "https://qiita.com/gmo-connect-ogawa/items/009c8b85ddd49ffb47c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-10T08:24:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう ＋追記 Antigravity０％問題",
-    "link": "https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-09T21:58:30.000Z"
   }
 ]
