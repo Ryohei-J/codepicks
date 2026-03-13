@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "ネット詐欺のターゲットは人間ではなく、AIエージェントに？　F-Secureの予測を紹介【読めば身に付くネットリテラシー】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2091933.html",
-    "pubDate": "2026-03-12T21:56:45.000Z"
+    "title": "社員に何もさせずにClaude Code利用ログを集める ── 数百名規模のOpenTelemetry収集基盤の構築 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/claudecode-otel",
+    "pubDate": "2026-03-13T04:01:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Anthropic公式が33ページのスキル設計書を出したので、将軍のスキルクリエイターと答え合わせしたら先を行ってた",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-skill-creator-v2",
+    "pubDate": "2026-03-13T03:07:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Findyの爆速開発を支えるセルフレビュー自動化の仕組み - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2026/03/13/070000",
+    "pubDate": "2026-03-13T00:13:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまミニレビュー】 PixelスマホがPCになる「デスクトップモード」を試してみた",
+    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2092881.html",
+    "pubDate": "2026-03-12T22:41:42.000Z"
   },
   {
     "site": "Hatena",
@@ -31,18 +49,6 @@
   },
   {
     "site": "Hatena",
-    "title": "横浜・関内駅前の大規模街区「BASEGATE」を見てきた　充実のエンタメ・飲食",
-    "link": "https://www.watch.impress.co.jp/docs/news/2093036.html",
-    "pubDate": "2026-03-12T12:29:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "[はてブ統計] はてなブックマークは衰退しているのか？",
-    "link": "https://anond.hatelabo.jp/20260312180747",
-    "pubDate": "2026-03-12T09:08:08.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Anthropic公式のClaude Code Pluginが増えてたので、改めて眺める（2026年3月） | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/claude-plugins-official-view-2026-03/",
     "pubDate": "2026-03-12T08:00:19.000Z"
@@ -52,6 +58,12 @@
     "title": "バグチケットに気づく頃にはもう直っている仕組みを作った",
     "link": "https://zenn.dev/notahotel/articles/399fc929f48d01",
     "pubDate": "Thu, 12 Mar 2026 07:09:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code 全社導入までの意思決定と歴史",
+    "link": "https://zenn.dev/gemcook/articles/claude-code-company-wide",
+    "pubDate": "Thu, 12 Mar 2026 06:10:53 GMT"
   },
   {
     "site": "Qiita",
@@ -64,12 +76,6 @@
     "title": "【AIエージェントの内部構造】長時間タスクを完遂させる「エージェントハーネス」の概要と設計・実装",
     "link": "https://codezine.jp/article/detail/23340",
     "pubDate": "2026-03-12T05:21:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった - Qiita",
-    "link": "https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9",
-    "pubDate": "2026-03-12T04:27:15.000Z"
   },
   {
     "site": "Zenn",
@@ -91,9 +97,21 @@
   },
   {
     "site": "Zenn",
+    "title": "中古PC3台で自宅スパコン（もどき）を構築した話",
+    "link": "https://zenn.dev/hosoyayusaku/articles/f2b948436f4723",
+    "pubDate": "Wed, 11 Mar 2026 15:06:35 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Go言語 基礎から始める完全ガイド 2026",
     "link": "https://zenn.dev/gaku1234/books/go-basics-complete-guide-2026",
     "pubDate": "Wed, 11 Mar 2026 14:06:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "インターン先でCI/CDパイプラインをゼロから構築し、リリース頻度を110倍にした話",
+    "link": "https://zenn.dev/satotakahumi/articles/3f950feea0d8b2",
+    "pubDate": "Wed, 11 Mar 2026 13:54:40 GMT"
   },
   {
     "site": "Zenn",
@@ -118,24 +136,6 @@
     "title": "MySQLが好きな私が、今はPostgreSQLを勧めたい理由",
     "link": "https://zenn.dev/catatsuy/articles/f3721135c6f8f6",
     "pubDate": "Wed, 11 Mar 2026 10:29:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Reactでsignalsは必要ない、Jotaiがあるから",
-    "link": "https://zenn.dev/dai_shi/articles/47c729ee33faa5",
-    "pubDate": "Wed, 11 Mar 2026 03:54:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "証券システムと、それを取り巻く世界",
-    "link": "https://zenn.dev/mi_01_24fu/books/securities-system-flow",
-    "pubDate": "Wed, 11 Mar 2026 03:28:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Ghostty 1.3.0で追加されたAppleScript対応で、Zellij風ペイン自動分割＆自動コマンド実行を試してみた",
-    "link": "https://zenn.dev/meijin/articles/ghostty-1_3-apple-script",
-    "pubDate": "Wed, 11 Mar 2026 02:53:17 GMT"
   },
   {
     "site": "Qiita",
