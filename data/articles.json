@@ -1,27 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "50 Years of Thinking Different",
-    "link": "https://www.apple.com/jp/50-years-of-thinking-different/",
-    "pubDate": "2026-03-12T13:32:36.000Z"
+    "title": "ネット詐欺のターゲットは人間ではなく、AIエージェントに？　F-Secureの予測を紹介【読めば身に付くネットリテラシー】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2091933.html",
+    "pubDate": "2026-03-12T21:56:45.000Z"
   },
   {
     "site": "Hatena",
-    "title": "WordPressが「My WordPress」リリース、ウェブブラウザだけで完全に動作しプラグインが使えるWordPressを構築可能でバックアップしてどこにでも復元可能でRSSリーダー化も可能",
-    "link": "https://gigazine.net/news/20260312-my-wordpress/",
-    "pubDate": "2026-03-12T12:11:09.000Z"
+    "title": "Bokuchi - Free Lightweight Markdown Editor for macOS, Windows & Linux",
+    "link": "https://bokuchi.com/",
+    "pubDate": "2026-03-12T16:33:58.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Googleアカウントを奪われてしまった可哀想なキモオタの話｜非耶部（ヒジャベ）",
-    "link": "https://note.com/subete_0hana4/n/nc2ed571d3dc5",
-    "pubDate": "2026-03-12T10:56:41.000Z"
+    "title": "「Google マップ」が大幅アップデート、Geminiと融合",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2093079.html",
+    "pubDate": "2026-03-12T15:02:55.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "プログラマの抱いている不動産データについての誤謬",
-    "link": "https://zenn.dev/estie/articles/39efe1ebf6b188",
-    "pubDate": "2026-03-12T09:33:58.000Z"
+    "site": "Hatena",
+    "title": "Claude Codeのセッション履歴が30日で消えると知って9999日に変えた話｜cute_agapan9087",
+    "link": "https://note.com/cute_agapan9087/n/nf54c17fc5f43",
+    "pubDate": "2026-03-12T14:12:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code 2026年 最新アップデート",
+    "link": "https://speakerdeck.com/oikon48/claude-code-0312",
+    "pubDate": "2026-03-12T13:48:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "横浜・関内駅前の大規模街区「BASEGATE」を見てきた　充実のエンタメ・飲食",
+    "link": "https://www.watch.impress.co.jp/docs/news/2093036.html",
+    "pubDate": "2026-03-12T12:29:50.000Z"
   },
   {
     "site": "Hatena",
@@ -31,15 +43,27 @@
   },
   {
     "site": "Hatena",
-    "title": "モバイルバッテリーなどが「小型家電リサイクル法」対象に",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2092857.html",
-    "pubDate": "2026-03-12T08:11:31.000Z"
+    "title": "Anthropic公式のClaude Code Pluginが増えてたので、改めて眺める（2026年3月） | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claude-plugins-official-view-2026-03/",
+    "pubDate": "2026-03-12T08:00:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "バグチケットに気づく頃にはもう直っている仕組みを作った",
+    "link": "https://zenn.dev/notahotel/articles/399fc929f48d01",
+    "pubDate": "Thu, 12 Mar 2026 07:09:48 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "「テストコードは仕様書になる」クリーンアーキテクチャの各層で「振る舞い」をテストするべき理由",
+    "link": "https://qiita.com/takishun_schoo/items/5b5fd06d488119daa899?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-12T05:48:28.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ゲーム中の\"ネコハラ\"を防ぐ「猫ハウスデスク」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2092801.html",
-    "pubDate": "2026-03-12T08:00:21.000Z"
+    "title": "【AIエージェントの内部構造】長時間タスクを完遂させる「エージェントハーネス」の概要と設計・実装",
+    "link": "https://codezine.jp/article/detail/23340",
+    "pubDate": "2026-03-12T05:21:13.000Z"
   },
   {
     "site": "Qiita",
@@ -49,15 +73,33 @@
   },
   {
     "site": "Zenn",
-    "title": "MySQLが好きな私が、今はPostgreSQLを勧めたい理由",
-    "link": "https://zenn.dev/catatsuy/articles/f3721135c6f8f6",
-    "pubDate": "2026-03-12T01:38:23.000Z"
+    "title": "プログラマの抱いている不動産データについての誤謬",
+    "link": "https://zenn.dev/estie/articles/39efe1ebf6b188",
+    "pubDate": "Thu, 12 Mar 2026 03:00:06 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Copilot Studio の自律型エージェントでファイルアップロードトリガーを試してみた",
+    "link": "https://qiita.com/Takashi_Masumori/items/1689535e7ae6e5b2ea25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-12T02:51:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude CodeをBedrockに切り替える簡易手順",
+    "link": "https://qiita.com/minorun365/items/4caaaab2b376c063d97f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-11T17:34:33.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeで仕様駆動開発、tsumikiが良かった",
-    "link": "https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki",
-    "pubDate": "2026-03-12T00:39:19.000Z"
+    "title": "Go言語 基礎から始める完全ガイド 2026",
+    "link": "https://zenn.dev/gaku1234/books/go-basics-complete-guide-2026",
+    "pubDate": "Wed, 11 Mar 2026 14:06:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Geminiと暮らす GeminiClaw 🦀",
+    "link": "https://zenn.dev/emonn/articles/e2a71108b39360",
+    "pubDate": "Wed, 11 Mar 2026 13:36:47 GMT"
   },
   {
     "site": "Zenn",
@@ -91,9 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeを加速させる私の推しスキル・ツール・設定（Findyイベント登壇資料）",
-    "link": "https://zenn.dev/ubie_dev/articles/claude-code-tips-findy-2026",
-    "pubDate": "Wed, 11 Mar 2026 02:49:52 GMT"
+    "title": "Ghostty 1.3.0で追加されたAppleScript対応で、Zellij風ペイン自動分割＆自動コマンド実行を試してみた",
+    "link": "https://zenn.dev/meijin/articles/ghostty-1_3-apple-script",
+    "pubDate": "Wed, 11 Mar 2026 02:53:17 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ハーネスエンジニアリングを自分のプロジェクトで実装してみた",
+    "link": "https://qiita.com/nogataka/items/a8306067788798975fa7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-11T01:19:26.000Z"
   },
   {
     "site": "Qiita",
@@ -108,12 +156,6 @@
     "pubDate": "2026-03-11T00:08:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "データエンジニア・LLM エンジニア採用のスキルテストをリニューアルしました",
-    "link": "https://zenn.dev/finatext/articles/skill-test-renewal-data-llm-engineer",
-    "pubDate": "Wed, 11 Mar 2026 00:00:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "SES3年・30代でWeb系自社開発企業に転職するまで（応募117社 / 学習922時間）",
     "link": "https://qiita.com/ngimixin/items/3825da22d42572aee59c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -121,39 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
-    "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-10T22:06:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで仕様駆動開発、tsumikiが良かった",
-    "link": "https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki",
-    "pubDate": "Tue, 10 Mar 2026 17:09:51 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった",
     "link": "https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-10T14:12:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHubで見つけた「便利ツール」を解析したらマルウェアだった話",
-    "link": "https://zenn.dev/hiyoko_sauna/articles/74dd12a7cabafa",
-    "pubDate": "Tue, 10 Mar 2026 13:36:29 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS初心者がCommunity Buildersに落選した話",
-    "link": "https://qiita.com/tks_1128/items/a77dcd725aeda22854f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-10T13:04:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ私はゲーム開発で「疎結合」と「コンポーネント指向」に異常なほどこだわるのか",
-    "link": "https://zenn.dev/munimaru62o/articles/c6ed730c6e4c61",
-    "pubDate": "Tue, 10 Mar 2026 12:35:36 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう ＋追記 Antigravity０％問題",
     "link": "https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-09T21:58:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年最新】100ページ超の要件定義書も楽勝！Antigravity × NotebookLMでドキュメント作成を爆速化",
-    "link": "https://qiita.com/hitotch/items/411bfd2be559b82d156d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-09T17:59:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【GitHub】GitHubは低品質なユーザによるContributeを拒否する仕様を検討・実装中",
-    "link": "https://qiita.com/rana_kualu/items/78fdef38b201985cb0d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-09T10:28:32.000Z"
   }
 ]
