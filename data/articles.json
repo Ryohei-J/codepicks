@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Coding Agent時代の開発ワークフローについてのまとめ",
+    "link": "https://nyosegawa.github.io/posts/coding-agent-workflow-2026/",
+    "pubDate": "2026-03-14T13:01:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MacBookで動くし、ぶっ壊れ性能。いま最強のローカルLLM｢Qwen3.5｣を解説しちゃう",
+    "link": "https://www.gizmodo.jp/2026/03/qwen_3_5_9b_4b.html",
+    "pubDate": "2026-03-14T12:12:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MicroGPT explained interactively",
+    "link": "https://growingswe.com/blog/microgpt",
+    "pubDate": "2026-03-14T11:18:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アマゾンからの「重要なお知らせ」　報酬変更、「一方的」嘆く配達員：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASV3G1SM9V3GUTIL019M.html",
+    "pubDate": "2026-03-14T11:12:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "グーグル、35億人のChromeユーザーにゼロデイ警告──攻撃はすでに進行中 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "link": "https://forbesjapan.com/articles/detail/93724",
     "pubDate": "2026-03-14T09:33:13.000Z"
@@ -19,21 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "メールやサーバ権限などを与えた自律AIによる実環境2週間の大暴走実録、「情報漏洩」「DoS状態」「リソース大量消費」など11の失態発覚。生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/03/14/4925.html",
-    "pubDate": "2026-03-14T03:30:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIについて考えるべきは「AIをどう使うか？」ではなく「AIを使うべき場面かどうか」という点だとの主張",
-    "link": "https://gigazine.net/news/20260314-using-ai-responsibly-critical-literacy/",
-    "pubDate": "2026-03-14T02:22:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Playwright + OWASP ZAP + Claude Code で E2E テストから脆弱性診断まで一気通貫でできるかやってみた",
-    "link": "https://zenn.dev/rescuenow/articles/7192f8ca6ebe48",
-    "pubDate": "2026-03-13T14:29:04.000Z"
+    "title": "スマホの画面保護フィルム、実はもういらない説",
+    "link": "https://www.gizmodo.jp/2026/03/your-screen-protector-is-not-all-it-s-cracked-up-to-be-xzk.html",
+    "pubDate": "2026-03-14T03:15:15.000Z"
   },
   {
     "site": "Qiita",
@@ -55,12 +67,6 @@
   },
   {
     "site": "Qiita",
-    "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた - Qiita",
-    "link": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
-    "pubDate": "2026-03-13T10:05:15.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた",
     "link": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-13T09:21:20.000Z"
@@ -79,6 +85,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeのエージェントチームを使うだけで大抵のことが出来るようになった",
+    "link": "https://zenn.dev/n314/articles/e06f189f093902",
+    "pubDate": "2026-03-13T07:06:52.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "最初に伝えるべきは「結論」ではなく「要約」",
     "link": "https://zenn.dev/knowledgework/articles/2bee3329c16bc1",
     "pubDate": "Fri, 13 Mar 2026 03:00:20 GMT"
@@ -88,12 +100,6 @@
     "title": "エンジニア初学者へ伝えたい。現場を通して思ったこれからのエンジニアになるために必要な考え方と姿勢",
     "link": "https://qiita.com/masa20057/items/0ba6853020a40edc97da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-13T02:41:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「色相・彩度・明度」の前提覆る　シュレーディンガー色彩理論の欠陥、100年越しに数学的修正【研究紹介】 レバテックラボ（レバテックLAB）",
-    "link": "https://levtech.jp/media/article/column/detail_826/",
-    "pubDate": "2026-03-13T00:31:31.000Z"
   },
   {
     "site": "Qiita",
@@ -154,12 +160,6 @@
     "title": "Anthropic公式が33ページのスキル設計書を出したので、将軍のスキルクリエイターと答え合わせしたら先を行ってた",
     "link": "https://zenn.dev/shio_shoppaize/articles/shogun-skill-creator-v2",
     "pubDate": "Wed, 11 Mar 2026 23:56:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "証券システムと、それを取り巻く世界",
-    "link": "https://zenn.dev/mi_01_24fu/books/securities-system-flow",
-    "pubDate": "2026-03-11T22:31:26.000Z"
   },
   {
     "site": "Zenn",
