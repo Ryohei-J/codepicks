@@ -6,34 +6,28 @@
     "pubDate": "2026-03-13T22:40:53.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Playwright + OWASP ZAP + Claude Code で E2E テストから脆弱性診断まで一気通貫でできるかやってみた",
+    "link": "https://zenn.dev/rescuenow/articles/7192f8ca6ebe48",
+    "pubDate": "2026-03-13T14:29:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenClawライクなソフトをまとめてみた",
+    "link": "https://zenn.dev/karaage0703/articles/0e2e3484169db2",
+    "pubDate": "2026-03-13T14:21:06.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "米国で話題のRAGのセキュリティ脅威についてまとめてみた - Qiita",
     "link": "https://qiita.com/miruky/items/3c98999786c7dbd2b26a",
     "pubDate": "2026-03-13T10:05:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "IPA、システム移行に苦戦中？　CBTのITパスポート試験の休止時期が後ろ倒し　26年4月→27年1月以降に",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/13/news112.html",
-    "pubDate": "2026-03-13T10:02:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "外部ディスプレイ出力が1台という制限がある「MacBook Neo」でもDisplayLinkチップ搭載のUSBグラフィックスアダプタを利用することでデュアルディスプレイ以上の出力が可能に。",
-    "link": "https://applech2.com/archives/20260313-macbook-neo-support-displaylink-display.html",
-    "pubDate": "2026-03-13T07:05:34.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "ハーネスエンジニアリングを自分のプロジェクトで実装してみた - Qiita",
     "link": "https://qiita.com/nogataka/items/a8306067788798975fa7",
     "pubDate": "2026-03-13T05:38:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "スタートアップのマーケターがClaude Codeを使い倒したら、事業が4ヶ月で300%成長した話｜tsukky",
-    "link": "https://note.com/tsukky739/n/n40f4ec2b506a",
-    "pubDate": "2026-03-13T03:31:22.000Z"
   },
   {
     "site": "Zenn",
@@ -61,7 +55,7 @@
   },
   {
     "site": "Qiita",
-    "title": "Antigravity クオータ0%枯渇問題 (Proプラン向け)",
+    "title": "Antigravity クオータ0%枯渇問題 (Proプラン向け) (クレジットに関して修正)",
     "link": "https://qiita.com/masakinihirota/items/fdb955deb0eff36f263f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-12T19:03:42.000Z"
   },
@@ -174,9 +168,15 @@
     "pubDate": "2026-03-10T22:06:34.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIを使い始めてから、ものを作るのが楽しくてたまらない",
+    "link": "https://zenn.dev/kiakiraki/articles/e35b4c63ac77f7",
+    "pubDate": "2026-02-18T00:32:01.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "顔認識AIの誤検知のせいで約半年も無実の罪で勾留され家も車も愛犬も失ってしまった女性",
-    "link": "https://gigazine.net/news/20260313-ai-error-jails-innocent-grandmother/",
-    "pubDate": "2016-02-17T14:49:28.000Z"
+    "title": "[PDF] The Complete Guide to Building Skills for Claude",
+    "link": "https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+    "pubDate": "2026-02-14T20:30:46.000Z"
   }
 ]
