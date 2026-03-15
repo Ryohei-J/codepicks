@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「いずれAIに使い潰される人」のためのAI批判ガイド » p2ptk[.]org",
+    "link": "https://p2ptk.org/ai/5439",
+    "pubDate": "2026-03-14T19:04:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“AIの知ったかぶり”相次ぐ 営業被害やひぼう中傷のリスクも | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015074431000",
+    "pubDate": "2026-03-14T14:50:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選 - Qiita",
+    "link": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d",
+    "pubDate": "2026-03-14T14:41:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Coding Agent時代の開発ワークフローについてのまとめ",
     "link": "https://nyosegawa.github.io/posts/coding-agent-workflow-2026/",
     "pubDate": "2026-03-14T13:01:21.000Z"
@@ -13,45 +31,57 @@
   },
   {
     "site": "Hatena",
-    "title": "MicroGPT explained interactively",
-    "link": "https://growingswe.com/blog/microgpt",
-    "pubDate": "2026-03-14T11:18:38.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "アマゾンからの「重要なお知らせ」　報酬変更、「一方的」嘆く配達員：朝日新聞",
     "link": "https://www.asahi.com/articles/ASV3G1SM9V3GUTIL019M.html",
     "pubDate": "2026-03-14T11:12:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグル、35億人のChromeユーザーにゼロデイ警告──攻撃はすでに進行中 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/93724",
-    "pubDate": "2026-03-14T09:33:13.000Z"
+    "site": "Zenn",
+    "title": "Coding Agent に loop して欲しいのは prdじゃない skill だ",
+    "link": "https://zenn.dev/takumiyoshikawa/articles/6930a0e58bc196",
+    "pubDate": "Sat, 14 Mar 2026 09:38:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "たった200行の純粋なPythonコードだけで構成されGPTの学習と推論を実行できる「MicroGPT」をインタラクティブに解説",
-    "link": "https://gigazine.net/news/20260314-microgpt-explained-interactively/",
-    "pubDate": "2026-03-14T09:08:33.000Z"
+    "site": "Zenn",
+    "title": "ネットワーク何もわからん！そんな私がネスペ合格までに役立った本まとめ",
+    "link": "https://zenn.dev/collabostyle/articles/843a1b7479c930",
+    "pubDate": "Sat, 14 Mar 2026 09:04:53 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "プログラマーを引退します - うみさまより。",
-    "link": "https://umisama.hatenablog.com/entry/2026/03/14/131453",
-    "pubDate": "2026-03-14T08:35:23.000Z"
+    "site": "Zenn",
+    "title": "O'Reilly Online Learningで始める技術書多読という読み方",
+    "link": "https://zenn.dev/penginpenguin/articles/83da148f861840",
+    "pubDate": "2026-03-14T05:37:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スマホの画面保護フィルム、実はもういらない説",
-    "link": "https://www.gizmodo.jp/2026/03/your-screen-protector-is-not-all-it-s-cracked-up-to-be-xzk.html",
-    "pubDate": "2026-03-14T03:15:15.000Z"
+    "site": "Zenn",
+    "title": "生成AIでパワポを作る方法一覧【2026年3月版】",
+    "link": "https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026",
+    "pubDate": "Sat, 14 Mar 2026 00:14:58 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "懇親会でぼっちにならないテクニック",
+    "link": "https://zenn.dev/philosophum/articles/4bdf97acbb2299",
+    "pubDate": "Fri, 13 Mar 2026 15:34:52 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "O'Reilly Online Learningで始める技術書多読という読み方",
+    "link": "https://zenn.dev/penginpenguin/articles/83da148f861840",
+    "pubDate": "Fri, 13 Mar 2026 14:28:22 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "新登場したVite+が速すぎる！— ESLint 100倍、しかも Next.js でも動く",
+    "link": "https://zenn.dev/ashunar0/articles/26d33059997e38",
+    "pubDate": "Fri, 13 Mar 2026 14:01:21 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Strands AgentsにAgent Skillsがきたぞ～",
-    "link": "https://qiita.com/moritalous/items/5100aae89b9686865810?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-13T13:05:58.000Z"
+    "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください - Qiita",
+    "link": "https://qiita.com/K5K/items/72cc4282819ace823524",
+    "pubDate": "2026-03-13T13:42:52.000Z"
   },
   {
     "site": "Zenn",
@@ -64,6 +94,12 @@
     "title": "【Flutter】API トークンを「適切」に管理する",
     "link": "https://zenn.dev/chooyan/articles/2eddee6e2f5eac",
     "pubDate": "Fri, 13 Mar 2026 11:00:14 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "学生プランでGithub CopilotでOpusとかGPT5.4が使えなくなった",
+    "link": "https://qiita.com/hokutoh/items/3b074137a6f372776ec5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-13T09:26:11.000Z"
   },
   {
     "site": "Qiita",
@@ -88,6 +124,12 @@
     "title": "Claude Codeのエージェントチームを使うだけで大抵のことが出来るようになった",
     "link": "https://zenn.dev/n314/articles/e06f189f093902",
     "pubDate": "2026-03-13T07:06:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
+    "link": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-13T05:18:42.000Z"
   },
   {
     "site": "Zenn",
@@ -126,57 +168,15 @@
     "pubDate": "2026-03-12T11:29:47.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude CodeやCodexのスキルの管理を楽にするツール「faceted-prompting」",
-    "link": "https://zenn.dev/nrs/articles/88f158aca0505b",
-    "pubDate": "Thu, 12 Mar 2026 11:15:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バグチケットに気づく頃にはもう直っている仕組みを作った",
-    "link": "https://zenn.dev/notahotel/articles/399fc929f48d01",
-    "pubDate": "Thu, 12 Mar 2026 07:09:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code 全社導入までの意思決定と歴史",
-    "link": "https://zenn.dev/gemcook/articles/claude-code-company-wide",
-    "pubDate": "Thu, 12 Mar 2026 06:10:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プログラマの抱いている不動産データについての誤謬",
-    "link": "https://zenn.dev/estie/articles/39efe1ebf6b188",
-    "pubDate": "Thu, 12 Mar 2026 03:00:06 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "1年目の未経験エンジニアが失敗から得た学び、身につけてよかった習慣",
     "link": "https://qiita.com/Tsurukawauchi_Jin/items/d83a1852cc72d8112094?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-12T00:47:48.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Anthropic公式が33ページのスキル設計書を出したので、将軍のスキルクリエイターと答え合わせしたら先を行ってた",
-    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-skill-creator-v2",
-    "pubDate": "Wed, 11 Mar 2026 23:56:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "中古PC3台で自宅スパコン（もどき）を構築した話",
-    "link": "https://zenn.dev/hosoyayusaku/articles/f2b948436f4723",
-    "pubDate": "Wed, 11 Mar 2026 15:06:35 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ",
-    "link": "https://qiita.com/d94231/items/0bf79993886f7d73a81b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-11T14:29:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIを使い始めてから、ものを作るのが楽しくてたまらない",
-    "link": "https://zenn.dev/kiakiraki/articles/e35b4c63ac77f7",
-    "pubDate": "2026-02-18T00:32:01.000Z"
+    "site": "Hatena",
+    "title": "一般社団法人日本サイバーセキュリティ・イノベーション委員会",
+    "link": "https://www.j-cic.com/reports.html",
+    "pubDate": "2019-01-20T22:36:56.000Z"
   }
 ]
