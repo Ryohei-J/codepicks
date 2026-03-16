@@ -1,9 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "ちいさくはじめる Nix",
+    "link": "https://zenn.dev/trifolium/books/1c0373f3570334",
+    "pubDate": "Mon, 16 Mar 2026 15:01:17 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "OSセットアップ時の年齢確認を求める法律にわざと違反している「Ageless Linux」とは？",
+    "link": "https://gigazine.net/news/20260316-agelesslinux-noncompliance-age-verification/",
+    "pubDate": "2026-03-16T12:00:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ユナイテッドアローズ、元従業員が約1万人分の個人情報を無断持ち出し　退職後に社内サーバに侵入、外部PCへダウンロード",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/16/news113.html",
+    "pubDate": "2026-03-16T11:38:26.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Cドライブが壊れる問題、Windows Updateは無実 ～Microsoftが声明を発表／原因と判明したSamsungアプリを一時的にストアで公開停止",
     "link": "https://forest.watch.impress.co.jp/docs/news/2093582.html",
     "pubDate": "2026-03-16T10:32:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自分のPCで実行可能なローカルAIが一発で分かる便利サイト「CanIRun.ai」、比較機能もあってグラボの買い替え検討にも有用",
+    "link": "https://gigazine.net/news/20260316-pc-ai-run/",
+    "pubDate": "2026-03-16T08:43:06.000Z"
   },
   {
     "site": "Hatena",
@@ -13,7 +37,7 @@
   },
   {
     "site": "Hatena",
-    "title": "3COINS、スマートフォンに測定記録が転送される「温湿度計」発売",
+    "title": "https://k-tai.watch.impress.co.jp/docs/news/2093720.html",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2093720.html",
     "pubDate": "2026-03-16T06:44:40.000Z"
   },
@@ -43,15 +67,9 @@
   },
   {
     "site": "Zenn",
-    "title": "仕様駆動開発(SDD)って、本当に不要なの？",
-    "link": "https://zenn.dev/karamage/articles/a0b7111698ecb2",
-    "pubDate": "2026-03-16T02:29:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code / CodexでKaggle金メダルを取った話",
-    "link": "https://zenn.dev/chiman/articles/b233cc808d6af3",
-    "pubDate": "2026-03-16T01:43:18.000Z"
+    "title": "もし、勤めている会社がM&Aされたらエンジニアはどう行動するか？",
+    "link": "https://zenn.dev/knowledgework/articles/0160b8d008d1e9",
+    "pubDate": "Mon, 16 Mar 2026 03:00:07 GMT"
   },
   {
     "site": "Zenn",
@@ -64,12 +82,6 @@
     "title": "Claude Code / CodexでKaggle金メダルを取った話",
     "link": "https://zenn.dev/chiman/articles/b233cc808d6af3",
     "pubDate": "Mon, 16 Mar 2026 00:04:33 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "我々の知るコンピュータープログラミングの終焉、そしてその後コーダーはどうなるか - YAMDAS現更新履歴",
-    "link": "https://yamdas.hatenablog.com/entry/20260316/coding-after-coders",
-    "pubDate": "2026-03-15T22:50:57.000Z"
   },
   {
     "site": "Zenn",
@@ -88,6 +100,12 @@
     "title": "GitHub Copilotのスラッシュコマンドやサブエージェントを使って、簡易レビュー実装",
     "link": "https://zenn.dev/peishim/articles/f1030e6102946c",
     "pubDate": "Sun, 15 Mar 2026 14:20:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Dockerイメージを深掘りしてみる",
+    "link": "https://zenn.dev/wakaka23/articles/20ad423456bb8f",
+    "pubDate": "Sun, 15 Mar 2026 12:10:33 GMT"
   },
   {
     "site": "Zenn",
@@ -114,12 +132,6 @@
     "pubDate": "2026-03-15T08:00:12.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "マイクラの新しい常識へ。無駄を無くして、UXで解決する Hikyou Project",
-    "link": "https://zenn.dev/hikyousmp/articles/ae02eba1570288",
-    "pubDate": "Sun, 15 Mar 2026 07:52:40 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "初めてAWSでインフラを構築したらRDSの料金が高すぎてビビった話",
     "link": "https://qiita.com/nayuta_se/items/6d84839f530b8dfe447e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -130,18 +142,6 @@
     "title": "コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。",
     "link": "https://zenn.dev/nnze/articles/e3f648e335a947",
     "pubDate": "2026-03-15T04:55:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "私のOSS活動元年を振り返ったらAIと下心が原動力だった",
-    "link": "https://zenn.dev/jackchuka/articles/473ef7cc70efbc",
-    "pubDate": "Sun, 15 Mar 2026 04:15:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。",
-    "link": "https://zenn.dev/nnze/articles/e3f648e335a947",
-    "pubDate": "Sun, 15 Mar 2026 02:05:29 GMT"
   },
   {
     "site": "Qiita",
