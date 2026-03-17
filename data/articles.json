@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "オートロック付き女性専用マンションの部屋の前に「水道点検にきた」という男が→ついドアを開けてしまった結果がこちら",
+    "link": "https://togetter.com/li/2675733",
+    "pubDate": "2026-03-17T07:41:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本語の手書きメモを書き起こせるOCRを探すために18モデルを片っ端から試した話",
+    "link": "https://nyosegawa.github.io/posts/japanese-handwriting-ocr-comparison/",
+    "pubDate": "2026-03-17T06:34:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhoneの電源ボタンが急に押せなくなったのでAppleストアに持ち込んだら、ベテランらしき風格の店員が秒で解決して魔法かな？「謎の濡れたシートとは？」",
+    "link": "https://togetter.com/li/2675729",
+    "pubDate": "2026-03-17T05:48:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "古いガジェットのACアダプター電源をUSB Type-Cで代替　任意の電圧に設定できる小型変換器「VFLEX」が一般発売へ",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2603/17/news092.html",
+    "pubDate": "2026-03-17T05:47:10.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "日本語特化LLM「Rakuten AI 3.0」提供開始",
     "link": "https://www.watch.impress.co.jp/docs/news/2093980.html",
     "pubDate": "2026-03-17T03:56:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スマートウォッチ「wena」復活、「wena X」発表　腕時計とバンドをワンタッチ切り替え、先代から全長8.5％小さく",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2603/17/news049.html",
-    "pubDate": "2026-03-17T02:59:42.000Z"
+    "site": "Qiita",
+    "title": "エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針",
+    "link": "https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-17T02:56:17.000Z"
   },
   {
     "site": "Hatena",
@@ -22,12 +46,6 @@
     "title": "Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで - Qiita",
     "link": "https://qiita.com/LostMyCode/items/7597edb999821efd2d8b",
     "pubDate": "2026-03-16T23:33:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ゲームがまるで実写に　NVIDIA、AI活用「DLSS 5」発表　「リアルタイムレイトレ以来の技術革新」",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/17/news057.html",
-    "pubDate": "2026-03-16T23:03:53.000Z"
   },
   {
     "site": "Hatena",
@@ -48,12 +66,6 @@
     "pubDate": "Mon, 16 Mar 2026 15:01:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Apple、AirPods Max 2を発表",
-    "link": "https://www.apple.com/jp/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/",
-    "pubDate": "2026-03-16T14:59:52.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "GitHub Actions 互換のローカルタスクランナーを作った",
     "link": "https://zenn.dev/mizchi/articles/introduce-actrun",
@@ -64,6 +76,18 @@
     "title": "AI機能搭載のRSSリーダーを作った",
     "link": "https://zenn.dev/babarot/articles/ai-rss-reader-oksskolten",
     "pubDate": "2026-03-16T13:22:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "今更ですが、Claude Codeで、ミュージックプレイヤーみたいなものを作ってみた",
+    "link": "https://zenn.dev/churadata/articles/3a1382e4f6990f",
+    "pubDate": "Mon, 16 Mar 2026 13:00:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "queryOptions の型推論を支える DataTag、その裏側の unique symbol — TanStack Query",
+    "link": "https://zenn.dev/tsuboi/articles/tanstack-query-options-unique-symbol",
+    "pubDate": "Mon, 16 Mar 2026 10:37:31 GMT"
   },
   {
     "site": "Qiita",
@@ -78,16 +102,28 @@
     "pubDate": "Mon, 16 Mar 2026 09:45:35 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "LLM Architecture Gallery",
-    "link": "https://sebastianraschka.com/llm-architecture-gallery/",
-    "pubDate": "2026-03-16T07:48:19.000Z"
+    "site": "Qiita",
+    "title": "【感想文】Qiita 週1投稿を1年間完走した感想",
+    "link": "https://qiita.com/ryu-ki/items/03a8ca234f9461cac2e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-16T09:39:43.000Z"
   },
   {
     "site": "Zenn",
     "title": "Apple Neural Engine の Private API を叩いて LLM 推論を高速化しようとした話",
     "link": "https://zenn.dev/salescore/articles/776dff7a85f781",
     "pubDate": "Mon, 16 Mar 2026 06:10:00 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "[DGX Spark] 卓上スパコン2台をケーブル1本で繋いで、Qwen3.5-397Bのモンスターモデルを動かしてみた",
+    "link": "https://qiita.com/Humanophilic_development/items/1747a9a07be57e8ecf6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-16T05:12:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code 知らないと損する隠しコマンド・時短術 20選",
+    "link": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-16T04:00:11.000Z"
   },
   {
     "site": "Qiita",
@@ -100,12 +136,6 @@
     "title": "もし、勤めている会社がM&Aされたらエンジニアはどう行動するか？",
     "link": "https://zenn.dev/knowledgework/articles/0160b8d008d1e9",
     "pubDate": "Mon, 16 Mar 2026 03:00:07 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "競技プログラミング　atcoderで黄色になった話",
-    "link": "https://qiita.com/edon8618/items/16d23d247c9cad158c2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-16T02:17:53.000Z"
   },
   {
     "site": "Zenn",
@@ -121,33 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで",
-    "link": "https://qiita.com/LostMyCode/items/7597edb999821efd2d8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-15T22:38:27.000Z"
+    "title": " 【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った",
+    "link": "https://qiita.com/morishift/items/a2c5012d496312358323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-15T21:56:43.000Z"
   },
   {
     "site": "Zenn",
     "title": "音楽の生成・編集が可能な高性能ローカル音楽生成AI【ACE-Step-1.5】から音楽生成AIの仕組みを完全に理解する",
     "link": "https://zenn.dev/asap/articles/6a717d7a68ec02",
     "pubDate": "Sun, 15 Mar 2026 16:21:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeのReact習熟度を測る",
-    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-1",
-    "pubDate": "Sun, 15 Mar 2026 15:23:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Playwright Test Agents活用に向けた改善計画 (1)",
-    "link": "https://zenn.dev/babyjob/articles/e2e-test-automation-plan",
-    "pubDate": "Sun, 15 Mar 2026 15:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Rust バックエンドで htmx を使ってみた",
-    "link": "https://qiita.com/nakamura-yzrh/items/8793a51e71ef76b0f5d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-15T14:07:06.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【2026年最新版】Claude Codeで行うべきセキュリティ設定 10選",
     "link": "https://qiita.com/miruky/items/51db293a7a7d0d277a5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-14T13:06:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "144人のAI専門家チームが無料で手に入る時代 ── agency-agentsの急成長が示すエージェント専門化の潮流",
-    "link": "https://qiita.com/nogataka/items/f3b92f07929f1ab9d67e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-14T06:04:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす",
-    "link": "https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-14T06:04:10.000Z"
   }
 ]
