@@ -1,21 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "オートロック付き女性専用マンションの部屋の前に「水道点検にきた」という男が→ついドアを開けてしまった結果がこちら",
-    "link": "https://togetter.com/li/2675733",
-    "pubDate": "2026-03-17T07:41:36.000Z"
+    "title": "NVIDIAのAI特化CPU「Vera CPU」は一体どれだけ高性能なのか？",
+    "link": "https://gigazine.net/news/20260317-nvidia-vera-cpu/",
+    "pubDate": "2026-03-17T09:00:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エレコム、外付けBlu-rayドライブの販売を6月30日終了",
+    "link": "https://av.watch.impress.co.jp/docs/news/2094062.html",
+    "pubDate": "2026-03-17T08:03:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2026年版 エンジニアのキャリアについて【SmartHRの場合】 - SmartHR Tech Blog",
+    "link": "https://tech.smarthr.jp/entry/2026/03/17/154014",
+    "pubDate": "2026-03-17T07:43:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「FFmpeg 8.1」リリース、VulkanとD3D12を中心にGPU活用をさらに拡大したバージョンで開発元もアップデートを推奨",
+    "link": "https://gigazine.net/news/20260317-ffmpeg-8-1-hoare/",
+    "pubDate": "2026-03-17T07:32:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソニーから商標・特許を継承して独立。日本発・世界最小スマートウォッチ「wena X」",
+    "link": "https://av.watch.impress.co.jp/docs/news/2094089.html",
+    "pubDate": "2026-03-17T06:48:22.000Z"
   },
   {
     "site": "Hatena",
     "title": "日本語の手書きメモを書き起こせるOCRを探すために18モデルを片っ端から試した話",
     "link": "https://nyosegawa.github.io/posts/japanese-handwriting-ocr-comparison/",
     "pubDate": "2026-03-17T06:34:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhoneの電源ボタンが急に押せなくなったのでAppleストアに持ち込んだら、ベテランらしき風格の店員が秒で解決して魔法かな？「謎の濡れたシートとは？」",
-    "link": "https://togetter.com/li/2675729",
-    "pubDate": "2026-03-17T05:48:56.000Z"
   },
   {
     "site": "Hatena",
@@ -30,6 +48,12 @@
     "pubDate": "2026-03-17T03:56:38.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "製品レビューの「AIによるポジティブな要約」を読んだ人は購入する可能性が高くなる、AIのニュアンス改変が問題に",
+    "link": "https://gigazine.net/news/20260317-reading-ai-summaries-more-buy/",
+    "pubDate": "2026-03-17T03:41:07.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針",
     "link": "https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -37,27 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "1時間を5分に短縮！Claude Code × Notion MCPで実現した業務自動化の全貌 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2026/03/17/070000",
-    "pubDate": "2026-03-17T01:23:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code で20年前の商用ゲームをほぼ書き直さずにブラウザ移植するまで - Qiita",
-    "link": "https://qiita.com/LostMyCode/items/7597edb999821efd2d8b",
-    "pubDate": "2026-03-16T23:33:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Lhaplus」がついに圧縮・解凍ソフトの人気No.1から陥落 ～抜いたのはあの定番ソフト／窓の杜の圧縮・解凍ソフトの中でPV数を逆転された話【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2093432.html",
-    "pubDate": "2026-03-16T21:55:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "[みんなのケータイ]いやあ、Claude Code Remote Controlって本当にいいもんですね",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2093834.html",
-    "pubDate": "2026-03-16T15:05:31.000Z"
+    "title": "ユーザーフォルダーに好みの名前をつける機能に進展、新しいWindows 11プレビューが展開中／同梱アプリの削除、OS復旧機能「ポイントインタイム リストア」などにも改善",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2093865.html",
+    "pubDate": "2026-03-17T02:49:40.000Z"
   },
   {
     "site": "Zenn",
@@ -70,12 +76,6 @@
     "title": "GitHub Actions 互換のローカルタスクランナーを作った",
     "link": "https://zenn.dev/mizchi/articles/introduce-actrun",
     "pubDate": "Mon, 16 Mar 2026 14:34:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI機能搭載のRSSリーダーを作った",
-    "link": "https://zenn.dev/babarot/articles/ai-rss-reader-oksskolten",
-    "pubDate": "2026-03-16T13:22:38.000Z"
   },
   {
     "site": "Zenn",
