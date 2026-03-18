@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "要約しようにも素人専門家だらけ？ Google、健康情報をAIが要約する機能をひっそり廃止【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2094301.html",
-    "pubDate": "2026-03-18T03:40:44.000Z"
+    "title": "Coding Agent時代のドキュメントについて考えていること",
+    "link": "https://nyosegawa.com/posts/docs-in-agent-era/",
+    "pubDate": "2026-03-18T10:16:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【令和最新版】生成AIは間違い探しをどれだけ解けるのか？GPT5.4 VS Gemini3.1 pro VS Opus4.6｜朝日新聞社 メディア研究開発センター",
+    "link": "https://note.com/asahi_ictrad/n/n8d23fb9a1640",
+    "pubDate": "2026-03-18T08:46:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "カメラのいらないテレビ電話アプリ「POPOPO」　”見られ感”がない国産SNS",
+    "link": "https://www.watch.impress.co.jp/docs/news/2094495.html",
+    "pubDate": "2026-03-18T08:09:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ブラウザ自動化」の限界を解消？　Googleが新標準「WebMCP」早期プレビュー公開",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/18/news058.html",
+    "pubDate": "2026-03-18T06:42:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―",
+    "link": "https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-18T03:30:10.000Z"
   },
   {
     "site": "Hatena",
@@ -18,10 +42,10 @@
     "pubDate": "2026-03-18T02:42:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "40,000行のAPIテスト作成で学んだClaude Code Skillsの育て方 - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/claude-code-api-test-skills",
-    "pubDate": "2026-03-17T23:46:29.000Z"
+    "site": "Qiita",
+    "title": "vLLMを用いたモデル並列化手法の性能評価",
+    "link": "https://qiita.com/kikasas/items/2f441869b5937d7cca4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-18T01:14:20.000Z"
   },
   {
     "site": "Hatena",
@@ -30,10 +54,16 @@
     "pubDate": "2026-03-17T23:43:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "DNSには3種類の登場人物がいる。それぞれの役割とは？　Internet Weekで受講した「座学」が良かったので簡単に紹介したい＜1＞",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2093806.html",
-    "pubDate": "2026-03-17T22:02:22.000Z"
+    "site": "Qiita",
+    "title": "Oracle Exadata Cloud Service: Oracle Advanced Cluster File System (ACFS)  を設定してみてみた",
+    "link": "https://qiita.com/shirok/items/d77db1a51bd2b56bf862?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-17T21:51:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeでのふるまいから隠れたSkillを見つける",
+    "link": "https://zenn.dev/chigichan24/articles/eed4a60d102997",
+    "pubDate": "Tue, 17 Mar 2026 19:23:43 GMT"
   },
   {
     "site": "Hatena",
@@ -42,10 +72,22 @@
     "pubDate": "2026-03-17T17:07:05.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "DGX SparkでNemoClawをローカル実行",
+    "link": "https://zenn.dev/karaage0703/articles/8bf663501cd4bc",
+    "pubDate": "Tue, 17 Mar 2026 14:11:41 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Google Cloud が推奨セキュリティチェックリストを公開しました | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/google-cloud-recommended-security-checklist/",
     "pubDate": "2026-03-17T13:47:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【JAWS DAYS 2026】基礎こそ至高。歴戦の勇士が仕掛けた「入門」という名のプレゼンバトル",
+    "link": "https://qiita.com/s_hiroi/items/5c6a9cfef9687d090484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-17T11:01:36.000Z"
   },
   {
     "site": "Zenn",
@@ -66,12 +108,6 @@
     "pubDate": "Tue, 17 Mar 2026 06:00:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "プッツンした人間が AI にダメ出しし続けたら flaky テストが全滅した | BLOG - DeNA Engineering",
-    "link": "https://engineering.dena.com/blog/2026/03/flaky-test-elimination-with-ai/",
-    "pubDate": "2026-03-17T05:14:54.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "システム設計における妥協案の作り方: 理想像の STEP1 として妥協案を設計する",
     "link": "https://zenn.dev/knowledgework/articles/c3f2f5986a24a6",
@@ -84,28 +120,16 @@
     "pubDate": "2026-03-17T02:56:17.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "[小ネタ] 生成されたファイル類(package-lock.json など)がコンフリクトしたら真面目にマージしないで",
-    "link": "https://qiita.com/ssc-ksaitou/items/667ef87273d3aa78bfae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-17T01:49:49.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIコードレビューを「単一責任の原則」で育てた話",
     "link": "https://zenn.dev/globis/articles/d0c73d2b176ba5",
     "pubDate": "Tue, 17 Mar 2026 00:42:42 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【AWS】おすすめのAWS認定取得順序と勉強方法について",
-    "link": "https://qiita.com/coco_co/items/d3cb1dfc661f9e8ef6f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-16T22:37:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "量子×クラウドはなぜ難しい？第3の壁：量子時代のセキュリティ問題",
-    "link": "https://qiita.com/imh1104/items/36c1344ae17b62086aba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-16T22:18:44.000Z"
+    "site": "Zenn",
+    "title": "URLの代わりに「距離」を返すサーバーを作った",
+    "link": "https://zenn.dev/gold/articles/ada62ecdf10526",
+    "pubDate": "Mon, 16 Mar 2026 20:47:22 GMT"
   },
   {
     "site": "Zenn",
@@ -126,24 +150,6 @@
     "pubDate": "2026-03-16T13:31:03.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "今更ですが、Claude Codeで、ミュージックプレイヤーみたいなものを作ってみた",
-    "link": "https://zenn.dev/churadata/articles/3a1382e4f6990f",
-    "pubDate": "Mon, 16 Mar 2026 13:00:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "rmの代わりにtrashを使ってCoding Agentに安全にファイルを削除させる",
-    "link": "https://zenn.dev/lef237/articles/23f77b0dade38f",
-    "pubDate": "Mon, 16 Mar 2026 10:49:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "queryOptions の型推論を支える DataTag、その裏側の unique symbol — TanStack Query",
-    "link": "https://zenn.dev/tsuboi/articles/tanstack-query-options-unique-symbol",
-    "pubDate": "Mon, 16 Mar 2026 10:37:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "生成AIで古（いにしえ）のFORTRANコードに挑戦する",
     "link": "https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -154,12 +160,6 @@
     "title": "Claude Code 知らないと損する隠しコマンド・時短術 20選",
     "link": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-16T04:00:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「やりたいこと」がなくてもいい！ - Canから始めるエンジニアのキャリア戦略 -",
-    "link": "https://qiita.com/prum_hitomi/items/67d68b074c45d10f0307?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-16T03:41:03.000Z"
   },
   {
     "site": "Qiita",
