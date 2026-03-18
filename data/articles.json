@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
-    "title": "ソフトウェアアーキテクトのための意思決定術 - Findy Media",
-    "link": "https://findy-code.io/media/articles/event-snoozer05-260226",
-    "pubDate": "2026-03-17T23:57:26.000Z"
+    "title": "要約しようにも素人専門家だらけ？ Google、健康情報をAIが要約する機能をひっそり廃止【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2094301.html",
+    "pubDate": "2026-03-18T03:40:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "伊藤直也が「技術の原点」として読んだ3冊",
+    "link": "https://bookplus.nikkei.com/atcl/column/070300541/030400009/",
+    "pubDate": "2026-03-18T02:43:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "裁判官2500人を可視化「裁判官マップ」公開、口コミ投稿に「圧力になる」と懸念も…開発者の弁護士に聞く - 弁護士ドットコムニュース",
+    "link": "https://www.bengo4.com/c_18/n_20136/",
+    "pubDate": "2026-03-18T02:42:47.000Z"
   },
   {
     "site": "Hatena",
@@ -19,12 +31,6 @@
   },
   {
     "site": "Hatena",
-    "title": "スマートウォッチ「wena」復活　ソニーから学び、独立したaugment AIが目指す“ものづくり”とは",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/18/news056.html",
-    "pubDate": "2026-03-17T23:32:52.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "DNSには3種類の登場人物がいる。それぞれの役割とは？　Internet Weekで受講した「座学」が良かったので簡単に紹介したい＜1＞",
     "link": "https://internet.watch.impress.co.jp/docs/special/2093806.html",
     "pubDate": "2026-03-17T22:02:22.000Z"
@@ -37,15 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「Java 26」正式リリース。HotSpotの起動高速化、HTTP/3クライアント対応など新機能",
-    "link": "https://www.publickey1.jp/blog/26/java_26hotspothttp3.html",
-    "pubDate": "2026-03-17T15:41:52.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Google Cloud が推奨セキュリティチェックリストを公開しました | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/google-cloud-recommended-security-checklist/",
     "pubDate": "2026-03-17T13:47:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「AIっぽい」の正体は文体じゃない — 全業務をAIエージェントで回して気づいたこと",
+    "link": "https://zenn.dev/omori432/articles/ai-likeness-not-about-writing-style",
+    "pubDate": "Tue, 17 Mar 2026 10:41:31 GMT"
   },
   {
     "site": "Zenn",
@@ -70,12 +76,6 @@
     "title": "システム設計における妥協案の作り方: 理想像の STEP1 として妥協案を設計する",
     "link": "https://zenn.dev/knowledgework/articles/c3f2f5986a24a6",
     "pubDate": "Tue, 17 Mar 2026 03:59:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GPTのReact習熟度も測る",
-    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-2",
-    "pubDate": "Tue, 17 Mar 2026 03:27:15 GMT"
   },
   {
     "site": "Qiita",
@@ -133,6 +133,12 @@
   },
   {
     "site": "Zenn",
+    "title": "rmの代わりにtrashを使ってCoding Agentに安全にファイルを削除させる",
+    "link": "https://zenn.dev/lef237/articles/23f77b0dade38f",
+    "pubDate": "Mon, 16 Mar 2026 10:49:58 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "queryOptions の型推論を支える DataTag、その裏側の unique symbol — TanStack Query",
     "link": "https://zenn.dev/tsuboi/articles/tanstack-query-options-unique-symbol",
     "pubDate": "Mon, 16 Mar 2026 10:37:31 GMT"
@@ -142,12 +148,6 @@
     "title": "生成AIで古（いにしえ）のFORTRANコードに挑戦する",
     "link": "https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-16T10:12:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI機能搭載のRSSリーダーを作った",
-    "link": "https://zenn.dev/babarot/articles/ai-rss-reader-oksskolten",
-    "pubDate": "Mon, 16 Mar 2026 09:45:35 GMT"
   },
   {
     "site": "Qiita",
