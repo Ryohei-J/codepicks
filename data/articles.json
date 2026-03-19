@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "無料でローカルAIモデルのメモリ使用量を最大80％削減し処理速度を2倍に向上させる「Unsloth Studio」、Windows・macOS・Linux対応でチャットだけならCPUのみでもOKでスマホでも動作可能",
-    "link": "https://gigazine.net/news/20260318-unsloth-studio/",
-    "pubDate": "2026-03-18T13:13:19.000Z"
+    "title": "追加料金なしでの「Copilot」提供が縮小、Microsoftが2026年4月15日より仕様変更へ／大規模組織では「Microsoft 365 Copilot」追加ライセンスの購入が必要に",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2094446.html",
+    "pubDate": "2026-03-18T23:38:51.000Z"
   },
   {
     "site": "Hatena",
-    "title": "CHUWIのCPU偽装、AMD「黙認も関与もしていない」と声明",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2094593.html",
-    "pubDate": "2026-03-18T12:32:07.000Z"
+    "title": "OpenAIも、ついにChatGPTの料金を見直し。「使い放題プラン」廃止も示唆 | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2603-openai-may-drop-unlimited-chatgpt-plans-exec-says/",
+    "pubDate": "2026-03-18T15:56:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "A18 Proチップを搭載したMacBook NeoのXcodeベンチマーク。",
+    "link": "https://applech2.com/archives/20260318-xcode-benchmark-macbook-neo-a18-pro.html",
+    "pubDate": "2026-03-18T13:46:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ極寒の宇宙にデータセンターを置くと「冷えない」が課題となるのか--NVIDIAのCEOも言及",
+    "link": "https://japan.cnet.com/article/35245196/",
+    "pubDate": "2026-03-18T11:46:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「PowerToys 0.98」が公開、新しいキーマップエディターや「CursorWrap」のマルチモニター改善など／",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2094252.html",
+    "pubDate": "2026-03-18T11:21:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまPC Watch】 バルミューダ、光で時刻を示す、針のない時計。お値段約6万円",
+    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2094513.html",
+    "pubDate": "2026-03-18T10:44:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章) - Qiita",
+    "link": "https://qiita.com/chomado/items/6d26b6ffc11d163dfd71",
+    "pubDate": "2026-03-18T10:42:48.000Z"
   },
   {
     "site": "Hatena",
@@ -19,33 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "ロシアが改良ドローンをイランに逆輸出か　衛星画像データも提供し攻撃支援、米報道",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/18/news128.html",
-    "pubDate": "2026-03-18T10:04:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【令和最新版】生成AIは間違い探しをどれだけ解けるのか？GPT5.4 VS Gemini3.1 pro VS Opus4.6｜朝日新聞社 メディア研究開発センター",
-    "link": "https://note.com/asahi_ictrad/n/n8d23fb9a1640",
-    "pubDate": "2026-03-18T08:46:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "カメラのいらないテレビ電話アプリ「POPOPO」　”見られ感”がない国産SNS",
-    "link": "https://www.watch.impress.co.jp/docs/news/2094495.html",
-    "pubDate": "2026-03-18T08:09:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ブラウザ自動化」の限界を解消？　Googleが新標準「WebMCP」早期プレビュー公開",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/18/news058.html",
-    "pubDate": "2026-03-18T06:42:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "無料の国交省、中小企業庁、総務省データ用「リモートMCPサーバー」公開",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/18/news055.html",
-    "pubDate": "2026-03-18T06:11:58.000Z"
+    "title": "Edge.js - Run Node.js safely, anywhere, with any JS engine",
+    "link": "https://edgejs.org/",
+    "pubDate": "2026-03-18T07:52:08.000Z"
   },
   {
     "site": "Qiita",
@@ -54,22 +60,34 @@
     "pubDate": "2026-03-18T03:30:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "伊藤直也が「技術の原点」として読んだ3冊",
-    "link": "https://bookplus.nikkei.com/atcl/column/070300541/030400009/",
-    "pubDate": "2026-03-18T02:43:43.000Z"
+    "site": "Qiita",
+    "title": "GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)",
+    "link": "https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-18T03:18:06.000Z"
   },
   {
     "site": "Hatena",
-    "title": "裁判官2500人を可視化「裁判官マップ」公開、口コミ投稿に「圧力になる」と懸念も…開発者の弁護士に聞く - 弁護士ドットコムニュース",
-    "link": "https://www.bengo4.com/c_18/n_20136/",
-    "pubDate": "2026-03-18T02:42:47.000Z"
+    "title": "Google Home アプリ、Gemini 機能が日本でも順次展開へ。音声操作の遅延も40%改善など | HelenTech",
+    "link": "https://helentech.jp/news-83442/",
+    "pubDate": "2026-03-18T02:33:52.000Z"
   },
   {
     "site": "Qiita",
     "title": "vLLMを用いたモデル並列化手法の性能評価",
     "link": "https://qiita.com/kikasas/items/2f441869b5937d7cca4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-18T01:14:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "コンテナ向けセキュリティプロファイル生成ツールの紹介",
+    "link": "https://qiita.com/kikasas/items/58ebc0da27b2eb7040a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-18T00:34:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "手動 ER 図メンテから卒業する── GitHub Actions × DBML 自動生成の実践",
+    "link": "https://zenn.dev/finatext/articles/auto-generate-dbml-from-orm",
+    "pubDate": "Wed, 18 Mar 2026 00:00:13 GMT"
   },
   {
     "site": "Qiita",
@@ -85,15 +103,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Antigravityは(バックエンドでは)使い物にならない",
+    "link": "https://zenn.dev/beadiest_star64/articles/7e2de21fe1cfde",
+    "pubDate": "Tue, 17 Mar 2026 17:25:18 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "DGX SparkでNemoClawをローカル実行",
     "link": "https://zenn.dev/karaage0703/articles/8bf663501cd4bc",
     "pubDate": "Tue, 17 Mar 2026 14:11:41 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【JAWS DAYS 2026】基礎こそ至高。歴戦の勇士が仕掛けた「入門」という名のプレゼンバトル",
-    "link": "https://qiita.com/s_hiroi/items/5c6a9cfef9687d090484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-17T11:01:36.000Z"
   },
   {
     "site": "Zenn",
@@ -102,10 +120,22 @@
     "pubDate": "Tue, 17 Mar 2026 10:41:31 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "なぜ「改善提案3件出す」はダメなのか？〜目標設定を「Why→What→How→Feedback」で考える〜",
+    "link": "https://qiita.com/Nao52/items/5b62c8047de13585e881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-17T10:14:41.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Vite+ の異常なタスクランナー: vite-task は如何にしてキャッシュの手動依存管理をなくしたか",
     "link": "https://zenn.dev/herp_inc/articles/strange-task-runner",
     "pubDate": "Tue, 17 Mar 2026 09:05:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "43サイトの専用パーサーを実装して分かった、日本のWebサイトの「闇」と「光」",
+    "link": "https://zenn.dev/bitsap/articles/e3701908b475f1",
+    "pubDate": "Tue, 17 Mar 2026 07:55:29 GMT"
   },
   {
     "site": "Zenn",
@@ -132,24 +162,6 @@
     "pubDate": "Tue, 17 Mar 2026 00:42:42 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "URLの代わりに「距離」を返すサーバーを作った",
-    "link": "https://zenn.dev/gold/articles/ada62ecdf10526",
-    "pubDate": "Mon, 16 Mar 2026 20:47:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ちいさくはじめる Nix",
-    "link": "https://zenn.dev/trifolium/books/1c0373f3570334",
-    "pubDate": "Mon, 16 Mar 2026 15:01:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Actions 互換のローカルタスクランナーを作った",
-    "link": "https://zenn.dev/mizchi/articles/introduce-actrun",
-    "pubDate": "Mon, 16 Mar 2026 14:34:47 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "生成AIで古（いにしえ）のFORTRANコードに挑戦する",
     "link": "https://qiita.com/cometscome_phys/items/76a4d9dac74e70bceebb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,17 +178,5 @@
     "title": " 【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った",
     "link": "https://qiita.com/morishift/items/a2c5012d496312358323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-15T21:56:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった",
-    "link": "https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-15T08:03:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】最寄り駅から徒歩X分以内の物件を地図上に列挙できるアプリを作ってみた【React,TS,supabase,leaflet】",
-    "link": "https://qiita.com/nu197ma/items/bc9aee9c5951e01ad13b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-15T08:00:12.000Z"
   }
 ]
