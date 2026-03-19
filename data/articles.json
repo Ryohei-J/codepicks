@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Astral to join OpenAI",
+    "link": "https://astral.sh/blog/openai",
+    "pubDate": "2026-03-19T14:05:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIバグ発見システム「Sashiko」がGoogle社員によって開発される、日本の「刺し子」に由来する名前でLinuxカーネルの未発見バグを次々に検出",
+    "link": "https://gigazine.net/news/20260319-sashiko-linux-bug-ai/",
+    "pubDate": "2026-03-19T14:01:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "労働しなくてよさそうな人の飲食店の話は生成AIが書きました",
+    "link": "https://anond.hatelabo.jp/20260319220620",
+    "pubDate": "2026-03-19T13:34:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "とある銭湯、常に100円硬貨不足で困っていたけれど、AI が優秀な提案をしてくれて遂に悩みが解決「有益すぎる」",
+    "link": "https://togetter.com/li/2676547",
+    "pubDate": "2026-03-19T13:24:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "新種「トカラムシクイ」発見　鳥類は「ヤンバルクイナ」以来45年ぶり",
     "link": "https://www.itmedia.co.jp/news/articles/2603/19/news123.html",
     "pubDate": "2026-03-19T11:15:09.000Z"
@@ -12,22 +36,16 @@
     "pubDate": "2026-03-19T10:40:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "楽天の最新AI、ベースは“中国DeepSeek製”？　担当者に聞いた",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2603/19/news099.html",
-    "pubDate": "2026-03-19T06:19:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "生成AI時代のドキュメント基盤",
     "link": "https://zenn.dev/nuits_jp/articles/2026-03-19-genai-documentation-foundation",
     "pubDate": "2026-03-19T05:58:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "CPU-Z、CPU偽装に対応。正しい情報が表示されるように",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2094710.html",
-    "pubDate": "2026-03-19T03:51:27.000Z"
+    "site": "Zenn",
+    "title": "生成AI時代のドキュメント基盤",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-03-19-genai-documentation-foundation",
+    "pubDate": "Thu, 19 Mar 2026 03:34:48 GMT"
   },
   {
     "site": "Qiita",
@@ -61,18 +79,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Mozilla、「Firefox」の新しいマスコットキャラクター「Kit」を発表／Webブラウジングに温かみと親しみをもたらす相棒",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2094474.html",
-    "pubDate": "2026-03-19T00:00:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エアコン取り付け工事の人が作業してる間、寝そべってYouTube見るわけにはいかず所在なく立ち尽くしてしまう…共感の声や業者側からの意見が集まる",
-    "link": "https://togetter.com/li/2676312",
-    "pubDate": "2026-03-18T23:19:12.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【完全版】唸るほど凄い「Claude Cowork」活用法、最強すぎた「ChatGPT使い分け術」",
     "link": "https://www.sbbit.jp/article/cont1/182054",
     "pubDate": "2026-03-18T22:46:45.000Z"
@@ -90,6 +96,12 @@
     "pubDate": "2026-03-18T12:04:26.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeをフル活用！本気で使える厳選Skills/Plugin 8選",
+    "link": "https://zenn.dev/itsuki_y/articles/0eb054f14523d7",
+    "pubDate": "Wed, 18 Mar 2026 06:39:42 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―",
     "link": "https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,6 +112,12 @@
     "title": "GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)",
     "link": "https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-18T03:18:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLM人格を14日運用して見えた設計パターン — 固定プロンプトの先へ",
+    "link": "https://zenn.dev/nabaaatee/articles/b4e90b7ef39026",
+    "pubDate": "Wed, 18 Mar 2026 02:45:05 GMT"
   },
   {
     "site": "Zenn",
@@ -142,24 +160,6 @@
     "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする",
     "link": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-17T09:30:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Vite+ の異常なタスクランナー: vite-task は如何にしてキャッシュの手動依存管理をなくしたか",
-    "link": "https://zenn.dev/herp_inc/articles/strange-task-runner",
-    "pubDate": "Tue, 17 Mar 2026 09:05:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "43サイトの専用パーサーを実装して分かった、日本のWebサイトの「闇」と「光」",
-    "link": "https://zenn.dev/bitsap/articles/e3701908b475f1",
-    "pubDate": "Tue, 17 Mar 2026 07:55:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドのディレクトリ構成で再帰的な features 構成を推したい",
-    "link": "https://zenn.dev/pksha/articles/recursive-features-directory-structure",
-    "pubDate": "Tue, 17 Mar 2026 06:00:17 GMT"
   },
   {
     "site": "Qiita",
