@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Codeの使用率がステータスラインに表示できるようになったので表示用のスクリプトを作った話",
+    "link": "https://nyosegawa.com/posts/claude-code-statusline-rate-limits/",
+    "pubDate": "2026-03-20T01:29:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【特集】 Raspberry PiがレトロPCの光学ドライブに早変わり！USBODE導入ガイド",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2094459.html",
     "pubDate": "2026-03-19T23:34:31.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "令和最新版 GoでのDockerfile / Docker Composeの書き方",
+    "link": "https://zenn.dev/yashikota/articles/cb4a49553bd368",
+    "pubDate": "2026-03-19T23:07:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "業務アプリのフロントエンド負債と向き合い、Tailwind CSS から Panda CSS への移行を決めた話",
+    "link": "https://zenn.dev/levtech/articles/frontend-kaizen-pandacss",
+    "pubDate": "2026-03-19T23:04:23.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "AIバグ発見システム「Sashiko」がGoogle社員によって開発される、日本の「刺し子」に由来する名前でLinuxカーネルの未発見バグを次々に検出",
-    "link": "https://gigazine.net/news/20260319-sashiko-linux-bug-ai/",
-    "pubDate": "2026-03-19T14:01:54.000Z"
+    "title": "GoogleのUIデザインツール「Stitch」がアップデートされてAIと話しながら高品質UIをサクッと作成可能に、Figmaの株価は下落",
+    "link": "https://gigazine.net/news/20260320-google-ai-stitch-ui-design/",
+    "pubDate": "2026-03-19T21:59:04.000Z"
   },
   {
     "site": "Qiita",
@@ -19,21 +37,15 @@
   },
   {
     "site": "Hatena",
-    "title": "労働しなくてよさそうな人の飲食店の話は生成AIが書きました",
-    "link": "https://anond.hatelabo.jp/20260319220620",
-    "pubDate": "2026-03-19T13:34:52.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "結局、Appleも邪悪だった » p2ptk[.]org",
     "link": "https://p2ptk.org/monopoly/5490",
     "pubDate": "2026-03-19T13:34:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "とある銭湯、常に100円硬貨不足で困っていたけれど、AI が優秀な提案をしてくれて遂に悩みが解決「有益すぎる」",
-    "link": "https://togetter.com/li/2676547",
-    "pubDate": "2026-03-19T13:24:54.000Z"
+    "site": "Zenn",
+    "title": "個人的開発環境 2026春",
+    "link": "https://zenn.dev/nokogiri/articles/2026-dev-environment",
+    "pubDate": "2026-03-19T13:05:17.000Z"
   },
   {
     "site": "Zenn",
@@ -46,12 +58,6 @@
     "title": "90分で学び直すDNSとDNSSECの基本",
     "link": "https://www.nic.ad.jp/ja/materials/iw/2025/proceedings/o1/o1-kaji-kuramochi-morishita.pdf",
     "pubDate": "2026-03-19T07:55:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "全Notion利用者のための、Coding Agentに対応したCLIを作った話",
-    "link": "https://nyosegawa.com/posts/notion-cli-for-coding-agent/",
-    "pubDate": "2026-03-19T06:19:31.000Z"
   },
   {
     "site": "Zenn",
@@ -82,12 +88,6 @@
     "title": "新機能を追加するために3,000行削除した話 — AIが書いたコードの技術負債とどう向き合うか",
     "link": "https://zenn.dev/shigerufukada/articles/ccf7cb56eb7b46",
     "pubDate": "Thu, 19 Mar 2026 02:39:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開 - Qiita",
-    "link": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0",
-    "pubDate": "2026-03-19T02:21:02.000Z"
   },
   {
     "site": "Zenn",
