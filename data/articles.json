@@ -1,27 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "Claude Codeの使用率がステータスラインに表示できるようになったので表示用のスクリプトを作った話",
-    "link": "https://nyosegawa.com/posts/claude-code-statusline-rate-limits/",
-    "pubDate": "2026-03-20T01:29:43.000Z"
+    "title": "研究者のための生成AI活用",
+    "link": "https://www.cc.mie-u.ac.jp/~shirai/jp/doc/Shirai_GenAI_slide_2026_03_pub.html",
+    "pubDate": "2026-03-20T10:27:23.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【特集】 Raspberry PiがレトロPCの光学ドライブに早変わり！USBODE導入ガイド",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2094459.html",
-    "pubDate": "2026-03-19T23:34:31.000Z"
+    "title": "仕様漏れ実装漏れをなくすトレーサビリティAI基盤のご紹介",
+    "link": "https://speakerdeck.com/orgachem/introduction-to-a-traceability-ai-platform",
+    "pubDate": "2026-03-20T04:56:04.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "令和最新版 GoでのDockerfile / Docker Composeの書き方",
-    "link": "https://zenn.dev/yashikota/articles/cb4a49553bd368",
-    "pubDate": "2026-03-19T23:07:19.000Z"
+    "site": "Qiita",
+    "title": "GitHubリポジトリが静かに書き換えられる ── GlassWormサプライチェーン攻撃の全容と防御策 - Qiita",
+    "link": "https://qiita.com/nogataka/items/9952280fe6fddfd14ddf",
+    "pubDate": "2026-03-20T04:23:05.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "業務アプリのフロントエンド負債と向き合い、Tailwind CSS から Panda CSS への移行を決めた話",
-    "link": "https://zenn.dev/levtech/articles/frontend-kaizen-pandacss",
-    "pubDate": "2026-03-19T23:04:23.000Z"
+    "site": "Hatena",
+    "title": "楽天がGPT-4o超えの「Rakuten AI 3.0」を無償公開！日本語性能で世界最高峰を圧倒 | DXマガジン",
+    "link": "https://dxmagazine.jp/news/2611mm16/",
+    "pubDate": "2026-03-20T03:25:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeの使用率がステータスラインに表示できるようになったので表示用のスクリプトを作った話",
+    "link": "https://nyosegawa.com/posts/claude-code-statusline-rate-limits/",
+    "pubDate": "2026-03-20T01:29:43.000Z"
   },
   {
     "site": "Hatena",
@@ -43,9 +49,9 @@
   },
   {
     "site": "Zenn",
-    "title": "個人的開発環境 2026春",
-    "link": "https://zenn.dev/nokogiri/articles/2026-dev-environment",
-    "pubDate": "2026-03-19T13:05:17.000Z"
+    "title": "React Native開発が変わる。RozeniteでCoding Agentに「目と手」を与えた話",
+    "link": "https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb",
+    "pubDate": "Thu, 19 Mar 2026 11:20:43 GMT"
   },
   {
     "site": "Zenn",
@@ -54,10 +60,34 @@
     "pubDate": "2026-03-19T10:25:21.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "タスク管理もミーティングメモも Obsidian に自動で集まる仕組みを作った",
+    "link": "https://zenn.dev/fukurou_labo/articles/obsidian_google_calendar",
+    "pubDate": "Thu, 19 Mar 2026 09:00:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "CodexのBestPracticeを学ぶ会",
+    "link": "https://zenn.dev/microsoft/articles/codex_best_practice",
+    "pubDate": "2026-03-19T08:37:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Flutter】デバッグ画面のソースコード、ちゃんとリリースビルドから除外していますか？",
+    "link": "https://zenn.dev/chooyan/articles/ce5eafe02439c5",
+    "pubDate": "Thu, 19 Mar 2026 08:27:37 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "90分で学び直すDNSとDNSSECの基本",
     "link": "https://www.nic.ad.jp/ja/materials/iw/2025/proceedings/o1/o1-kaji-kuramochi-morishita.pdf",
     "pubDate": "2026-03-19T07:55:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Java歴21年のエンジニアが同じAPIをJava・Go・Rust・Kotlinで実装して徹底比較した",
+    "link": "https://zenn.dev/netfishx/articles/4ee8f57d8a8ec7",
+    "pubDate": "Thu, 19 Mar 2026 05:44:43 GMT"
   },
   {
     "site": "Zenn",
@@ -72,6 +102,12 @@
     "pubDate": "Thu, 19 Mar 2026 04:15:04 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話",
+    "link": "https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-19T03:57:17.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "生成AI時代のドキュメント基盤",
     "link": "https://zenn.dev/nuits_jp/articles/2026-03-19-genai-documentation-foundation",
@@ -79,9 +115,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Chrome拡張で複数AIを統合し、コンテンツ活用の生産性を向上させる",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/3a3885508f734bb8eefd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-19T03:19:28.000Z"
+    "title": "AI時代の新人エンジニアへ。生成コードに頼りすぎず「自力で読み解く力」を養うためのMermaid活用術",
+    "link": "https://qiita.com/keishin_nishiura/items/f907145eddb32ef0a86a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-19T03:12:34.000Z"
   },
   {
     "site": "Zenn",
@@ -96,34 +132,16 @@
     "pubDate": "Thu, 19 Mar 2026 02:14:59 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【コピペでOK】JavaScriptを使わないアコーディオンメニュー",
-    "link": "https://qiita.com/hrel11/items/9dbe5350739314697b80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-19T01:01:46.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "「AIに言われてウザかったフレーズ選手権」をアプリにした",
     "link": "https://zenn.dev/acntechjp/articles/ba13495f3c8c0d",
     "pubDate": "Thu, 19 Mar 2026 00:07:13 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "検索エンジンをチューニングしていたら、ニューラルネットを再解釈していた話：Bayesian BM25",
-    "link": "https://zenn.dev/knowledgework/articles/a15addfdfcfcd2",
-    "pubDate": "Thu, 19 Mar 2026 00:00:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Reactをやめて MoonBit で50ページの業務システムを作った",
-    "link": "https://zenn.dev/lehti/articles/c4b813a9192701",
-    "pubDate": "Wed, 18 Mar 2026 22:00:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕様駆動開発(SDD)から、意図駆動開発(IDD)へ",
-    "link": "https://zenn.dev/yamaken0107/articles/2b3d2a0b059aa0",
-    "pubDate": "Wed, 18 Mar 2026 14:44:16 GMT"
+    "site": "Qiita",
+    "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第1章/7章)",
+    "link": "https://qiita.com/chomado/items/51d0727a80a14826e036?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-18T15:03:31.000Z"
   },
   {
     "site": "Qiita",
@@ -139,18 +157,6 @@
   },
   {
     "site": "Qiita",
-    "title": "エンジニアのための AI 基礎 - ベクトル埋め込みと仲良くなりたい！",
-    "link": "https://qiita.com/yuji-arakawa/items/14a26f038740e7b89f3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-18T07:12:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Radix UIを活かすCompound Components設計",
-    "link": "https://zenn.dev/microcms/articles/3d25e5b24574a1",
-    "pubDate": "Wed, 18 Mar 2026 06:57:58 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―",
     "link": "https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-18T03:30:10.000Z"
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする",
-    "link": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-17T09:30:33.000Z"
+    "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
+    "link": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-18T03:12:26.000Z"
   },
   {
     "site": "Qiita",
-    "title": "エンジニア初学者に知ってほしい。プログラミングすることより大切な成長を加速させる4つの指針",
-    "link": "https://qiita.com/masa20057/items/838bc1b59a84b16820a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-17T02:56:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeに特化したデザインシステムを作って工夫したこと｜坪田 朋",
-    "link": "https://blog.tsubotax.com/n/n6f3701611d98",
-    "pubDate": "2026-03-16T07:10:23.000Z"
+    "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする",
+    "link": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-17T09:30:33.000Z"
   }
 ]
