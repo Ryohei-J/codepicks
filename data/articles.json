@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "2026年3月19日の Trivy 再侵害の概要と対応指針",
+    "link": "https://diary.shift-js.info/trivy-compromise/",
+    "pubDate": "2026-03-20T12:22:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話",
+    "link": "https://zenn.dev/m0370/articles/205c9340a418c3",
+    "pubDate": "2026-03-20T11:32:14.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "研究者のための生成AI活用",
     "link": "https://www.cc.mie-u.ac.jp/~shirai/jp/doc/Shirai_GenAI_slide_2026_03_pub.html",
     "pubDate": "2026-03-20T10:27:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "チャットGPTは同じ質問を繰り返すと答えが二転三転する。一貫性に欠けることが判明",
+    "link": "https://karapaia.com/archives/591726.html",
+    "pubDate": "2026-03-20T10:19:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "9Bなのに120B超え!?　Qwen3.5-9BがローカルAIの常識を変えた (1/5)",
+    "link": "https://ascii.jp/elem/000/004/378/4378807/",
+    "pubDate": "2026-03-20T10:16:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Product management on the AI exponential | Claude",
+    "link": "https://claude.com/blog/product-management-on-the-ai-exponential",
+    "pubDate": "2026-03-20T08:56:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策 - Qiita",
+    "link": "https://qiita.com/sarubot/items/df077776b293163e0a42",
+    "pubDate": "2026-03-20T07:46:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "3日50万円で作れるシステムに4ヵ月800万円かけれなくなっている - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2026/03/20/153412",
+    "pubDate": "2026-03-20T07:16:10.000Z"
   },
   {
     "site": "Hatena",
@@ -13,39 +55,9 @@
   },
   {
     "site": "Qiita",
-    "title": "GitHubリポジトリが静かに書き換えられる ── GlassWormサプライチェーン攻撃の全容と防御策 - Qiita",
-    "link": "https://qiita.com/nogataka/items/9952280fe6fddfd14ddf",
-    "pubDate": "2026-03-20T04:23:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "楽天がGPT-4o超えの「Rakuten AI 3.0」を無償公開！日本語性能で世界最高峰を圧倒 | DXマガジン",
-    "link": "https://dxmagazine.jp/news/2611mm16/",
-    "pubDate": "2026-03-20T03:25:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeの使用率がステータスラインに表示できるようになったので表示用のスクリプトを作った話",
-    "link": "https://nyosegawa.com/posts/claude-code-statusline-rate-limits/",
-    "pubDate": "2026-03-20T01:29:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GoogleのUIデザインツール「Stitch」がアップデートされてAIと話しながら高品質UIをサクッと作成可能に、Figmaの株価は下落",
-    "link": "https://gigazine.net/news/20260320-google-ai-stitch-ui-design/",
-    "pubDate": "2026-03-19T21:59:04.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AWS Community Builders（Serverless）に選出されました",
     "link": "https://qiita.com/tetutetu214/items/ed8662412cc98a0d5868?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-19T13:45:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "結局、Appleも邪悪だった » p2ptk[.]org",
-    "link": "https://p2ptk.org/monopoly/5490",
-    "pubDate": "2026-03-19T13:34:24.000Z"
   },
   {
     "site": "Zenn",
@@ -55,33 +67,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Anthropic社員のClaude Code活用術8選 — 公式情報から読み解く実践テクニック",
-    "link": "https://zenn.dev/happy_elements/articles/046faa4f61d98f",
-    "pubDate": "2026-03-19T10:25:21.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "タスク管理もミーティングメモも Obsidian に自動で集まる仕組みを作った",
     "link": "https://zenn.dev/fukurou_labo/articles/obsidian_google_calendar",
     "pubDate": "Thu, 19 Mar 2026 09:00:02 GMT"
   },
   {
     "site": "Zenn",
-    "title": "CodexのBestPracticeを学ぶ会",
-    "link": "https://zenn.dev/microsoft/articles/codex_best_practice",
-    "pubDate": "2026-03-19T08:37:05.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "【Flutter】デバッグ画面のソースコード、ちゃんとリリースビルドから除外していますか？",
     "link": "https://zenn.dev/chooyan/articles/ce5eafe02439c5",
     "pubDate": "Thu, 19 Mar 2026 08:27:37 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "90分で学び直すDNSとDNSSECの基本",
-    "link": "https://www.nic.ad.jp/ja/materials/iw/2025/proceedings/o1/o1-kaji-kuramochi-morishita.pdf",
-    "pubDate": "2026-03-19T07:55:38.000Z"
   },
   {
     "site": "Zenn",
@@ -130,6 +124,12 @@
     "title": "LLMをもっと賢くする：ナレッジグラフ実践入門",
     "link": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide",
     "pubDate": "Thu, 19 Mar 2026 02:14:59 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "RubyGems/Bundler における Cooldown 機能の議論と現状 - ANDPAD Tech Blog",
+    "link": "https://tech.andpad.co.jp/entry/2026/03/19/100000",
+    "pubDate": "2026-03-19T01:34:26.000Z"
   },
   {
     "site": "Zenn",
