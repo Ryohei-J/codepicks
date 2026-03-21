@@ -1,9 +1,15 @@
 [
   {
     "site": "Hatena",
-    "title": "2026年3月19日の Trivy 再侵害の概要と対応指針",
-    "link": "https://diary.shift-js.info/trivy-compromise/",
-    "pubDate": "2026-03-20T12:22:38.000Z"
+    "title": "待望のタスクバー移動が復活。Windows 11でUIや更新制御など大幅刷新",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2095118.html",
+    "pubDate": "2026-03-21T00:30:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoft、「Windows 11」のタスクバー移動機能復活や「Copilot」統合見直しを計画",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/21/news021.html",
+    "pubDate": "2026-03-20T23:03:10.000Z"
   },
   {
     "site": "Zenn",
@@ -13,15 +19,9 @@
   },
   {
     "site": "Hatena",
-    "title": "研究者のための生成AI活用",
-    "link": "https://www.cc.mie-u.ac.jp/~shirai/jp/doc/Shirai_GenAI_slide_2026_03_pub.html",
-    "pubDate": "2026-03-20T10:27:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "チャットGPTは同じ質問を繰り返すと答えが二転三転する。一貫性に欠けることが判明",
-    "link": "https://karapaia.com/archives/591726.html",
-    "pubDate": "2026-03-20T10:19:19.000Z"
+    "title": "CO2は｢服の原料｣にしちゃえばいい。発想がスゴすぎる環境テクノロジー",
+    "link": "https://www.gizmodo.jp/2026/03/rubi_carbon_transformation_technology.html",
+    "pubDate": "2026-03-20T11:00:43.000Z"
   },
   {
     "site": "Hatena",
@@ -31,15 +31,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Product management on the AI exponential | Claude",
-    "link": "https://claude.com/blog/product-management-on-the-ai-exponential",
-    "pubDate": "2026-03-20T08:56:33.000Z"
+    "title": "iOS 27 / Xcode 27 の破壊的変更に備えて今から準備すべきこと | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/ios27-xcode27-migration-preparation-guide/",
+    "pubDate": "2026-03-20T09:53:41.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策 - Qiita",
-    "link": "https://qiita.com/sarubot/items/df077776b293163e0a42",
-    "pubDate": "2026-03-20T07:46:27.000Z"
+    "site": "Hatena",
+    "title": "イスラエル",
+    "link": "https://anond.hatelabo.jp/20260320180826",
+    "pubDate": "2026-03-20T09:09:59.000Z"
   },
   {
     "site": "Hatena",
@@ -48,10 +48,34 @@
     "pubDate": "2026-03-20T07:16:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "仕様漏れ実装漏れをなくすトレーサビリティAI基盤のご紹介",
-    "link": "https://speakerdeck.com/orgachem/introduction-to-a-traceability-ai-platform",
-    "pubDate": "2026-03-20T04:56:04.000Z"
+    "site": "Qiita",
+    "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
+    "link": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-20T06:43:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JAWS DAYS 2026 実行委員をやってみた ─ 舞台裏で見た景色と、まだ見ぬ誰かへのバトン",
+    "link": "https://qiita.com/sh_fukatsu/items/0b0a8a78fdb815c792c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-20T06:06:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【比較実験】AIにやさしいFigmaデザインとは？Claude Code×Figma MCPによるAIフロントコーディング「はじめの一歩」 - Qiita",
+    "link": "https://qiita.com/ta09nak/items/1190ec5575692f84e8cb",
+    "pubDate": "2026-03-20T04:24:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "もう英語の勉強しなくていいんじゃないかと錯覚するAndroidの便利機能",
+    "link": "https://qiita.com/moritalous/items/2838b87203f74fddfc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-20T02:50:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話",
+    "link": "https://zenn.dev/m0370/articles/205c9340a418c3",
+    "pubDate": "Thu, 19 Mar 2026 23:07:00 GMT"
   },
   {
     "site": "Qiita",
@@ -61,9 +85,15 @@
   },
   {
     "site": "Zenn",
-    "title": "React Native開発が変わる。RozeniteでCoding Agentに「目と手」を与えた話",
-    "link": "https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb",
-    "pubDate": "Thu, 19 Mar 2026 11:20:43 GMT"
+    "title": "「ポインタ渡し」なんてものは存在しません！【C言語入門】",
+    "link": "https://zenn.dev/menndouyukkuri/articles/db317dc8168658",
+    "pubDate": "Thu, 19 Mar 2026 11:39:54 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする - Qiita",
+    "link": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69",
+    "pubDate": "2026-03-19T10:23:28.000Z"
   },
   {
     "site": "Zenn",
@@ -126,30 +156,6 @@
     "pubDate": "Thu, 19 Mar 2026 02:14:59 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "RubyGems/Bundler における Cooldown 機能の議論と現状 - ANDPAD Tech Blog",
-    "link": "https://tech.andpad.co.jp/entry/2026/03/19/100000",
-    "pubDate": "2026-03-19T01:34:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「AIに言われてウザかったフレーズ選手権」をアプリにした",
-    "link": "https://zenn.dev/acntechjp/articles/ba13495f3c8c0d",
-    "pubDate": "Thu, 19 Mar 2026 00:07:13 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第1章/7章)",
-    "link": "https://qiita.com/chomado/items/51d0727a80a14826e036?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-18T15:03:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHubリポジトリが静かに書き換えられる ── GlassWormサプライチェーン攻撃の全容と防御策",
-    "link": "https://qiita.com/nogataka/items/9952280fe6fddfd14ddf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-18T12:04:53.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開",
     "link": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
     "link": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-18T03:12:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする",
-    "link": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-17T09:30:33.000Z"
   }
 ]
