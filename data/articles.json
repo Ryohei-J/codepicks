@@ -1,21 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "毎日がちょっと便利で楽になるChatGPTの使い方10選",
+    "link": "https://www.gizmodo.jp/2026/03/10-practical-uses-chatgpt-improve-your-life-bk9.html",
+    "pubDate": "2026-03-21T08:03:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米国防総省、パランティアのＡＩを指揮統制システムに採用へ",
+    "link": "https://jp.reuters.com/world/security/OQHNHWUCG5NHVIGKCT2INXQ6VU-2026-03-21/",
+    "pubDate": "2026-03-21T07:24:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「このマシュマロが届いても絶対に回答しないように...」大量の質問を送り付けて”秘密の質問”の答えを聞き出そうとする手口が流行っているらしい",
+    "link": "https://togetter.com/li/2677088",
+    "pubDate": "2026-03-21T06:32:23.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "新人に「AI使用禁止令」は是か非か？「仕事の8割はAIに」という活用派 言語脳科学の権威は警鐘「ものを考える人間に一番大事なものを手放している」（ABEMA TIMES） - Yahoo!ニュース",
     "link": "https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3",
     "pubDate": "2026-03-21T03:46:56.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「え、たった2か月で!?」 三菱重工の無人機AI開発が“爆速”だったワケ 自衛隊も関係大アリな米企業とタッグ | 乗りものニュース",
-    "link": "https://trafficnews.jp/post/646676",
-    "pubDate": "2026-03-21T02:25:27.000Z"
+    "title": "[2026年版] Claude Code を知る。 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/shoma-2026-claude-code-know-use-leverage/",
+    "pubDate": "2026-03-21T03:11:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "codexでスパコンを壊してしまった話",
+    "link": "https://zenn.dev/chizuchizu/articles/a991c61ff0d073",
+    "pubDate": "Sat, 21 Mar 2026 02:29:00 GMT"
   },
   {
     "site": "Hatena",
-    "title": "ソフトバンクG、米オハイオ州に巨大AI拠点－ガス火力で電力確保（Bloomberg） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/e4fc2f08b919f697ab3d26c821990e9766446b90",
-    "pubDate": "2026-03-21T00:53:28.000Z"
+    "title": "「え、たった2か月で!?」 三菱重工の無人機AI開発が“爆速”だったワケ 自衛隊も関係大アリな米企業とタッグ | 乗りものニュース",
+    "link": "https://trafficnews.jp/post/646676",
+    "pubDate": "2026-03-21T02:25:27.000Z"
   },
   {
     "site": "Hatena",
@@ -30,22 +54,34 @@
     "pubDate": "2026-03-20T23:22:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoft、「Windows 11」のタスクバー移動機能復活や「Copilot」統合見直しを計画",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/21/news021.html",
-    "pubDate": "2026-03-20T23:03:10.000Z"
+    "site": "Zenn",
+    "title": "古いPCをChromeOS Flexで蘇らせる（ChromeOS FlexのちLinux開発環境の立ち上げ、時々Gemini CLI）",
+    "link": "https://zenn.dev/gidajun/articles/bf4d9b493d5e9a",
+    "pubDate": "Fri, 20 Mar 2026 17:41:44 GMT"
   },
   {
     "site": "Hatena",
-    "title": "iOS 27 / Xcode 27 の破壊的変更に備えて今から準備すべきこと | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/ios27-xcode27-migration-preparation-guide/",
-    "pubDate": "2026-03-20T09:53:41.000Z"
+    "title": "自作OSでLinuxコンテナを動かす",
+    "link": "https://speakerdeck.com/n4mlz/zi-zuo-osdelinuxkontenawodong-kasu",
+    "pubDate": "2026-03-20T14:51:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "3日50万円で作れるシステムに4ヵ月800万円かけれなくなっている - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/03/20/153412",
-    "pubDate": "2026-03-20T07:16:10.000Z"
+    "site": "Zenn",
+    "title": "方眼紙Excel→Markdown変換、結局LLMしか勝たん話【全手法比較】",
+    "link": "https://zenn.dev/ougotti/articles/houganshi-excel-to-markdown",
+    "pubDate": "Fri, 20 Mar 2026 13:28:10 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill",
+    "link": "https://qiita.com/nogataka/items/1e35dd4f573547626aff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-20T08:40:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人開発サイトにBOTが大量アクセス → Cloudflare無料プランで撃退した話🛡️",
+    "link": "https://zenn.dev/ausssxi/articles/646f7078117847",
+    "pubDate": "Fri, 20 Mar 2026 08:06:19 GMT"
   },
   {
     "site": "Qiita",
@@ -60,16 +96,22 @@
     "pubDate": "2026-03-20T06:06:27.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【比較実験】AIにやさしいFigmaデザインとは？Claude Code×Figma MCPによるAIフロントコーディング「はじめの一歩」 - Qiita",
-    "link": "https://qiita.com/ta09nak/items/1190ec5575692f84e8cb",
-    "pubDate": "2026-03-20T04:24:12.000Z"
+    "site": "Zenn",
+    "title": "「技術のキャッチアップをやめる勇気」作りながら学び、届ける",
+    "link": "https://zenn.dev/perksh/articles/8698f63c956bbf",
+    "pubDate": "Fri, 20 Mar 2026 04:06:59 GMT"
   },
   {
     "site": "Qiita",
     "title": "もう英語の勉強しなくていいんじゃないかと錯覚するAndroidの便利機能",
     "link": "https://qiita.com/moritalous/items/2838b87203f74fddfc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-20T02:50:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました",
+    "link": "https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-20T01:49:55.000Z"
   },
   {
     "site": "Zenn",
@@ -96,10 +138,10 @@
     "pubDate": "Thu, 19 Mar 2026 11:20:43 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする - Qiita",
-    "link": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69",
-    "pubDate": "2026-03-19T10:23:28.000Z"
+    "site": "Hatena",
+    "title": "日本のボールペンはサラサラ、中国はガリガリ。技術開発には成功したものの、ビジネスベースに乗せられない中国 - 中華IT最新事情",
+    "link": "https://tamakino.hatenablog.com/entry/2026/03/19/080000",
+    "pubDate": "2026-03-19T10:26:55.000Z"
   },
   {
     "site": "Zenn",
@@ -109,45 +151,21 @@
   },
   {
     "site": "Zenn",
-    "title": "タスク管理もミーティングメモも Obsidian に自動で集まる仕組みを作った",
-    "link": "https://zenn.dev/fukurou_labo/articles/obsidian_google_calendar",
-    "pubDate": "Thu, 19 Mar 2026 09:00:02 GMT"
+    "title": "ToastUIって邪魔じゃね？",
+    "link": "https://zenn.dev/miyabitti/articles/c7a6591d3317b9",
+    "pubDate": "Thu, 19 Mar 2026 09:51:55 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【Flutter】デバッグ画面のソースコード、ちゃんとリリースビルドから除外していますか？",
-    "link": "https://zenn.dev/chooyan/articles/ce5eafe02439c5",
-    "pubDate": "Thu, 19 Mar 2026 08:27:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Java歴21年のエンジニアが同じAPIをJava・Go・Rust・Kotlinで実装して徹底比較した",
-    "link": "https://zenn.dev/netfishx/articles/4ee8f57d8a8ec7",
-    "pubDate": "Thu, 19 Mar 2026 05:44:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code × GitHubでプロダクトマネジメントを再設計した話",
-    "link": "https://zenn.dev/tsubotax/articles/7fe5f02061ccb9",
-    "pubDate": "Thu, 19 Mar 2026 05:38:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "業務アプリのフロントエンド負債と向き合い、Tailwind CSS から Panda CSS への移行を決めた話",
-    "link": "https://zenn.dev/levtech/articles/frontend-kaizen-pandacss",
-    "pubDate": "Thu, 19 Mar 2026 04:15:04 GMT"
+    "site": "Qiita",
+    "title": "Copilot Studioで実現する「AIチーム」の作り方。マルチエージェント開発入門 ",
+    "link": "https://qiita.com/TND_mi/items/0fe0e777053eb52c6f5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-19T07:18:50.000Z"
   },
   {
     "site": "Qiita",
     "title": "「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話",
     "link": "https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-19T03:57:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "生成AI時代のドキュメント基盤",
-    "link": "https://zenn.dev/nuits_jp/articles/2026-03-19-genai-documentation-foundation",
-    "pubDate": "Thu, 19 Mar 2026 03:34:48 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開",
     "link": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-18T12:04:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―",
-    "link": "https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-18T03:30:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub Copilot CLI の公式ハンズオンやってみた (第0章/7章)",
-    "link": "https://qiita.com/chomado/items/6d26b6ffc11d163dfd71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-18T03:18:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
-    "link": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-18T03:12:26.000Z"
   }
 ]
