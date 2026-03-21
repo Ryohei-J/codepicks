@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "新人に「AI使用禁止令」は是か非か？「仕事の8割はAIに」という活用派 言語脳科学の権威は警鐘「ものを考える人間に一番大事なものを手放している」（ABEMA TIMES） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3",
+    "pubDate": "2026-03-21T03:46:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「え、たった2か月で!?」 三菱重工の無人機AI開発が“爆速”だったワケ 自衛隊も関係大アリな米企業とタッグ | 乗りものニュース",
+    "link": "https://trafficnews.jp/post/646676",
+    "pubDate": "2026-03-21T02:25:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソフトバンクG、米オハイオ州に巨大AI拠点－ガス火力で電力確保（Bloomberg） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/e4fc2f08b919f697ab3d26c821990e9766446b90",
+    "pubDate": "2026-03-21T00:53:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "待望のタスクバー移動が復活。Windows 11でUIや更新制御など大幅刷新",
     "link": "https://pc.watch.impress.co.jp/docs/news/2095118.html",
     "pubDate": "2026-03-21T00:30:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "非エンジニア向け、ClaudeCodeで業務Skillsを作る方法｜すぅ | AI駆動PM",
+    "link": "https://note.com/suh_sunaneko/n/n7b2108779bf6",
+    "pubDate": "2026-03-20T23:22:26.000Z"
   },
   {
     "site": "Hatena",
@@ -12,34 +36,10 @@
     "pubDate": "2026-03-20T23:03:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話",
-    "link": "https://zenn.dev/m0370/articles/205c9340a418c3",
-    "pubDate": "2026-03-20T11:32:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "CO2は｢服の原料｣にしちゃえばいい。発想がスゴすぎる環境テクノロジー",
-    "link": "https://www.gizmodo.jp/2026/03/rubi_carbon_transformation_technology.html",
-    "pubDate": "2026-03-20T11:00:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "9Bなのに120B超え!?　Qwen3.5-9BがローカルAIの常識を変えた (1/5)",
-    "link": "https://ascii.jp/elem/000/004/378/4378807/",
-    "pubDate": "2026-03-20T10:16:35.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "iOS 27 / Xcode 27 の破壊的変更に備えて今から準備すべきこと | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/ios27-xcode27-migration-preparation-guide/",
     "pubDate": "2026-03-20T09:53:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "イスラエル",
-    "link": "https://anond.hatelabo.jp/20260320180826",
-    "pubDate": "2026-03-20T09:09:59.000Z"
   },
   {
     "site": "Hatena",
@@ -90,10 +90,22 @@
     "pubDate": "Thu, 19 Mar 2026 11:39:54 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "React Native開発が変わる。RozeniteでCoding Agentに「目と手」を与えた話",
+    "link": "https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb",
+    "pubDate": "Thu, 19 Mar 2026 11:20:43 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "BIツールの進化先？！ DBを業務分析用のMCPサーバにしてBIを次世代にする - Qiita",
     "link": "https://qiita.com/ssc-ksaitou/items/784cd48a88e4ab166f69",
     "pubDate": "2026-03-19T10:23:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "図を描いて理解するRustの所有権",
+    "link": "https://zenn.dev/northward/articles/rust-feeling-of-ownership",
+    "pubDate": "Thu, 19 Mar 2026 10:00:07 GMT"
   },
   {
     "site": "Zenn",
@@ -142,18 +154,6 @@
     "title": "AI時代の新人エンジニアへ。生成コードに頼りすぎず「自力で読み解く力」を養うためのMermaid活用術",
     "link": "https://qiita.com/keishin_nishiura/items/f907145eddb32ef0a86a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-19T03:12:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "新機能を追加するために3,000行削除した話 — AIが書いたコードの技術負債とどう向き合うか",
-    "link": "https://zenn.dev/shigerufukada/articles/ccf7cb56eb7b46",
-    "pubDate": "Thu, 19 Mar 2026 02:39:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMをもっと賢くする：ナレッジグラフ実践入門",
-    "link": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide",
-    "pubDate": "Thu, 19 Mar 2026 02:14:59 GMT"
   },
   {
     "site": "Qiita",
