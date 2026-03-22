@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "新卒で入って8ヶ月でGPIFやめますた | barabara diary",
+    "link": "https://diohabara.github.io/blog/quit-gpif/",
+    "pubDate": "2026-03-22T08:57:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "仕様駆動開発スターターキットを公開しました",
+    "link": "https://zenn.dev/sakamotchi8/articles/spec-driven-starter-introduction",
+    "pubDate": "2026-03-22T07:11:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Everything Claude Codeを眺めてみる | oikon48",
+    "link": "https://oikon48.dev/ja/blog/everything-claude-code/",
+    "pubDate": "2026-03-22T03:35:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI「愛国美女兵士」に100万人が騙された話｜情報の灯台",
+    "link": "https://note.com/joho_no_todai/n/n1800240e1a50",
+    "pubDate": "2026-03-22T03:31:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - hectorvent/floci: Light, fluffy, and always free - AWS Local Emulator",
+    "link": "https://github.com/hectorvent/floci",
+    "pubDate": "2026-03-22T01:22:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "公務員の離職に関する分析｜某市情シス@標準化担当",
     "link": "https://note.com/rich_ruff7154/n/n3510da91605a",
     "pubDate": "2026-03-22T00:56:19.000Z"
@@ -12,28 +42,46 @@
     "pubDate": "2026-03-21T22:59:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スクエニ、ドラクエ10にGoogle「Gemini」搭載　AIキャラ自然な会話 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC212HX0R20C26A3000000/",
-    "pubDate": "2026-03-21T15:26:23.000Z"
+    "site": "Zenn",
+    "title": "cmuxで変わるClaude Codeのマルチプロジェクト開発体験",
+    "link": "https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code",
+    "pubDate": "Sat, 21 Mar 2026 16:44:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIバグ発見システム「Sashiko」をJS/TS用にカスタマイズして使ってみる - プププなテクブ",
-    "link": "https://blog.inorinrinrin.com/entry/2026/03/21/212624",
-    "pubDate": "2026-03-21T14:29:30.000Z"
+    "site": "Zenn",
+    "title": "DGX Sparkで色々なローカルLLMを動かした比較結果",
+    "link": "https://zenn.dev/karaage0703/articles/fcca40c614dffd",
+    "pubDate": "Sat, 21 Mar 2026 16:18:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "行方不明のペットのAI生成画像を送りつける詐欺事件が発生（アメリカ）",
-    "link": "https://karapaia.com/archives/591718.html",
-    "pubDate": "2026-03-21T13:29:09.000Z"
+    "site": "Zenn",
+    "title": "普段コード書かない奴が落合陽一に触発されてCLIツールを作った話",
+    "link": "https://zenn.dev/sonicmoov/articles/b2ec3f6a8ade39",
+    "pubDate": "Sat, 21 Mar 2026 15:44:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "コードレビューとは何か",
+    "link": "https://zenn.dev/takekazuomi/articles/what-is-a-code-review",
+    "pubDate": "Sat, 21 Mar 2026 13:37:24 GMT"
   },
   {
     "site": "Zenn",
     "title": "方眼紙Excel→Markdown変換、結局LLMしか勝たん話【全手法比較】",
     "link": "https://zenn.dev/ougotti/articles/houganshi-excel-to-markdown",
     "pubDate": "2026-03-21T13:19:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "NFCタグの使い方とWeb NFC API",
+    "link": "https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers",
+    "pubDate": "Sat, 21 Mar 2026 12:19:56 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介",
+    "link": "https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-21T11:04:06.000Z"
   },
   {
     "site": "Qiita",
@@ -43,9 +91,9 @@
   },
   {
     "site": "Qiita",
-    "title": "AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド - Qiita",
-    "link": "https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50",
-    "pubDate": "2026-03-21T06:59:19.000Z"
+    "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
+    "link": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-21T09:19:07.000Z"
   },
   {
     "site": "Hatena",
@@ -55,9 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "レポ：CA Go Collegeに参加しました！",
-    "link": "https://zenn.dev/riochin/articles/6b4099bd6cce6d",
-    "pubDate": "Sat, 21 Mar 2026 03:48:03 GMT"
+    "title": "仕様駆動開発スターターキットを公開しました",
+    "link": "https://zenn.dev/sakamotchi8/articles/spec-driven-starter-introduction",
+    "pubDate": "Sat, 21 Mar 2026 04:32:52 GMT"
   },
   {
     "site": "Zenn",
@@ -72,6 +120,12 @@
     "pubDate": "Sat, 21 Mar 2026 01:22:23 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "RAG パイプラインを捨てて claude -p に Grep させたら3時間で社内ナレッジ Bot が動いた",
+    "link": "https://zenn.dev/kok1eeeee/articles/knowledge-chatbot-agentic-search",
+    "pubDate": "2026-03-21T01:14:41.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド",
     "link": "https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,9 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "ナレッジグラフとは何か：知識をつながりで表現する｜LLMをもっと賢くする：ナレッジグラフ実践入門",
-    "link": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide/viewer/what-is-knowledge-graph",
-    "pubDate": "2026-03-20T19:01:10.000Z"
+    "title": "AIを使うほど、判断力が落ちる人がいる理由",
+    "link": "https://zenn.dev/cognitiveosmdl/articles/231033371a6735",
+    "pubDate": "Sat, 21 Mar 2026 00:00:08 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenSpecを実際に使ってみた — AIコーディング時代に設計書は必要か？",
+    "link": "https://zenn.dev/okikusan/articles/e8d74abf524d65",
+    "pubDate": "Fri, 20 Mar 2026 20:38:50 GMT"
   },
   {
     "site": "Qiita",
@@ -90,16 +150,10 @@
     "pubDate": "2026-03-20T14:33:44.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "久しぶりにホストを Linux にしたメモ",
-    "link": "https://zenn.dev/yasumichi/articles/980cc4ce82eac2",
-    "pubDate": "Fri, 20 Mar 2026 14:07:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "方眼紙Excel→Markdown変換、結局LLMしか勝たん話【全手法比較】",
-    "link": "https://zenn.dev/ougotti/articles/houganshi-excel-to-markdown",
-    "pubDate": "Fri, 20 Mar 2026 13:28:10 GMT"
+    "site": "Qiita",
+    "title": "おうちで通信キャリアを再現してみた",
+    "link": "https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-20T12:25:38.000Z"
   },
   {
     "site": "Qiita",
@@ -108,34 +162,10 @@
     "pubDate": "2026-03-20T08:40:27.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Rust の DI を試す / entrait",
-    "link": "https://zenn.dev/hideyuki_hori/articles/c794dcb1a0207e",
-    "pubDate": "Fri, 20 Mar 2026 08:31:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人開発サイトにBOTが大量アクセス → Cloudflare無料プランで撃退した話🛡️",
-    "link": "https://zenn.dev/ausssxi/articles/646f7078117847",
-    "pubDate": "Fri, 20 Mar 2026 08:06:19 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
     "link": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-20T06:43:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「技術のキャッチアップをやめる勇気」作りながら学び、届ける",
-    "link": "https://zenn.dev/perksh/articles/8698f63c956bbf",
-    "pubDate": "Fri, 20 Mar 2026 04:06:59 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "もう英語の勉強しなくていいんじゃないかと錯覚するAndroidの便利機能",
-    "link": "https://qiita.com/moritalous/items/2838b87203f74fddfc73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-20T02:50:17.000Z"
   },
   {
     "site": "Qiita",
@@ -144,39 +174,9 @@
     "pubDate": "2026-03-20T01:49:55.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話",
-    "link": "https://zenn.dev/m0370/articles/205c9340a418c3",
-    "pubDate": "Thu, 19 Mar 2026 23:07:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMをもっと賢くする：ナレッジグラフ実践入門",
-    "link": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide",
-    "pubDate": "2026-03-19T20:15:22.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話",
     "link": "https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-19T19:24:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「ポインタ渡し」なんてものは存在しません！【C言語入門】",
-    "link": "https://zenn.dev/menndouyukkuri/articles/db317dc8168658",
-    "pubDate": "Thu, 19 Mar 2026 11:39:54 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilot Studioで実現する「AIチーム」の作り方。マルチエージェント開発入門 ",
-    "link": "https://qiita.com/TND_mi/items/0fe0e777053eb52c6f5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-19T07:18:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話",
-    "link": "https://qiita.com/GeneLab_999/items/04ff280edc3178b60104?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-19T03:57:17.000Z"
   }
 ]
