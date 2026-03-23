@@ -1,57 +1,105 @@
 [
   {
     "site": "Hatena",
-    "title": "裁判にAI、活用は可能？　最高裁で議論本格化（共同通信） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/18ccb05e6341fdf68f83d05da47c66d500f73f42",
-    "pubDate": "2026-03-22T14:56:08.000Z"
+    "title": "エンジニアの「棚卸し」─技術・思考・行動から振り返る記事6選 - Findy Media",
+    "link": "https://findy-code.io/media/articles/feature-2603",
+    "pubDate": "2026-03-23T00:03:06.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「お金で解決」が全てではない！大規模WebアプリのCI高速化 #phperkaigi",
-    "link": "https://speakerdeck.com/stefafafan/gha-ci-performance-tuning",
-    "pubDate": "2026-03-22T11:49:46.000Z"
+    "title": "Git worktreeの運用をスキルに委ねる ―複雑さを隠蔽するClaude Codeスキル設計の実践― - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2026/03/23/070000",
+    "pubDate": "2026-03-22T23:25:05.000Z"
   },
   {
     "site": "Hatena",
-    "title": "新卒で入って8ヶ月でGPIFやめますた | barabara diary",
-    "link": "https://diohabara.github.io/blog/quit-gpif/",
-    "pubDate": "2026-03-22T08:57:17.000Z"
+    "title": "GitHub - ogwata/ndlocr-lite-web-ai: NDLOCRLite Web: ブラウザ完結型日本語OCRツール（ONNX Web Runtime使用）",
+    "link": "https://github.com/ogwata/ndlocr-lite-web-ai",
+    "pubDate": "2026-03-22T23:15:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "見た目はNASだが中身は別もの!!　ランサムウェアにも耐えるバックアップを実現するSynology ActiveProtectアプライアンス「DP340」の正体【イニシャルB【特別編】】[Sponsored]",
+    "link": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2087324.html",
+    "pubDate": "2026-03-22T22:25:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マスク氏、次世代半導体工場「Terafab」発表　計算リソースは宇宙空間へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/23/news053.html",
+    "pubDate": "2026-03-22T21:46:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【2003年のINTERNET Watch】「Winny」流行、トラフィック増加が問題になったうえに逮捕者も。「ブログ」が話題になり国内で広がる　",
+    "link": "https://internet.watch.impress.co.jp/docs/special/30th/2091414.html",
+    "pubDate": "2026-03-22T21:38:15.000Z"
   },
   {
     "site": "Zenn",
-    "title": "仕様駆動開発スターターキットを公開しました",
-    "link": "https://zenn.dev/sakamotchi8/articles/spec-driven-starter-introduction",
-    "pubDate": "2026-03-22T07:11:31.000Z"
+    "title": "UUIDはなぜ重複しないのか？",
+    "link": "https://zenn.dev/kinniku_coder/articles/2025-08-19-uuid_algorithm",
+    "pubDate": "2026-03-22T15:57:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエージェントがコマンドラインでブラウザを自動操作できる「Browser Use CLI 2.0」リリース。Chrome DevToolsへの接続などで操作速度が2倍に",
+    "link": "https://www.publickey1.jp/blog/26/aibrowser_use_cli_20chrome_devtools2.html",
+    "pubDate": "2026-03-22T14:18:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トランプ支持者100万人を熱狂させる“夢の女性”　そのAI詐欺の手口 | 愛国美女を装ってフォロワーを獲得",
+    "link": "https://courrier.jp/news/archives/439359/",
+    "pubDate": "2026-03-22T14:02:11.000Z"
   },
   {
     "site": "Zenn",
-    "title": "cmuxで変わるClaude Codeのマルチプロジェクト開発体験",
-    "link": "https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code",
-    "pubDate": "2026-03-22T04:23:31.000Z"
+    "title": "AI 駆動開発全盛期を生き抜くために Markdown を「読む」ためだけのアプリ Arto を作った",
+    "link": "https://zenn.dev/lambdalisue/articles/introduce-arto-markdown-reader",
+    "pubDate": "Sun, 22 Mar 2026 11:28:24 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Everything Claude Codeを眺めてみる | oikon48",
-    "link": "https://oikon48.dev/ja/blog/everything-claude-code/",
-    "pubDate": "2026-03-22T03:35:42.000Z"
+    "site": "Zenn",
+    "title": "Coding Agentなどについて最近書いた/作ったもののまとめ",
+    "link": "https://zenn.dev/sakasegawa/articles/cc648c792823ea",
+    "pubDate": "Sun, 22 Mar 2026 10:50:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI「愛国美女兵士」に100万人が騙された話｜情報の灯台",
-    "link": "https://note.com/joho_no_todai/n/n1800240e1a50",
-    "pubDate": "2026-03-22T03:31:11.000Z"
+    "site": "Zenn",
+    "title": "Unity: ECS の性能を引き出すデータ設計の勘所",
+    "link": "https://zenn.dev/ruccho/articles/unity-ecs-data-optimization",
+    "pubDate": "Sun, 22 Mar 2026 10:37:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIで「他者の企画」を盗み、3万ビューを稼ぐ ― Unityroomで起きているAI盗用問題｜ゲーマーじゃない",
-    "link": "https://note.com/right_orchid4615/n/n3960d5b51eb2",
-    "pubDate": "2026-03-22T02:21:21.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeの動きをOpenTelemetryで可視化したら「何してたか分からない」が消えた",
+    "link": "https://zenn.dev/seeda_yuto/articles/otel-ai-agent-observability",
+    "pubDate": "2026-03-22T06:50:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot CLIでSuperpowersスキルを導入してみた",
+    "link": "https://zenn.dev/jodycraft/articles/copilot-cli-superpowers-guide",
+    "pubDate": "Sun, 22 Mar 2026 00:06:32 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜ「社外秘」がAIの回答に出てくるのか  ――生成AIの情報漏洩メカニズムをエンジニア目線で分解する",
+    "link": "https://qiita.com/mhamadajp/items/98efbdadd8612c142574?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-21T23:09:45.000Z"
   },
   {
     "site": "Zenn",
     "title": "cmuxで変わるClaude Codeのマルチプロジェクト開発体験",
     "link": "https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code",
     "pubDate": "Sat, 21 Mar 2026 16:44:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMの文体について",
+    "link": "https://zenn.dev/acntechjp/articles/dba4be5c018925",
+    "pubDate": "Sat, 21 Mar 2026 16:39:06 GMT"
   },
   {
     "site": "Zenn",
@@ -73,12 +121,6 @@
   },
   {
     "site": "Zenn",
-    "title": "方眼紙Excel→Markdown変換、結局LLMしか勝たん話【全手法比較】",
-    "link": "https://zenn.dev/ougotti/articles/houganshi-excel-to-markdown",
-    "pubDate": "2026-03-21T13:19:00.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "NFCタグの使い方とWeb NFC API",
     "link": "https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers",
     "pubDate": "Sat, 21 Mar 2026 12:19:56 GMT"
@@ -91,57 +133,21 @@
   },
   {
     "site": "Qiita",
-    "title": "「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか",
-    "link": "https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-21T11:00:27.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
     "link": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-21T09:19:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "仕様駆動開発スターターキットを公開しました",
-    "link": "https://zenn.dev/sakamotchi8/articles/spec-driven-starter-introduction",
-    "pubDate": "Sat, 21 Mar 2026 04:32:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "codexでスパコンを壊してしまった話",
-    "link": "https://zenn.dev/chizuchizu/articles/a991c61ff0d073",
-    "pubDate": "Sat, 21 Mar 2026 02:29:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Ghostty 1.3が来たぞ",
-    "link": "https://zenn.dev/kawarimidoll/articles/5382959edf38fc",
-    "pubDate": "Sat, 21 Mar 2026 01:22:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAG パイプラインを捨てて claude -p に Grep させたら3時間で社内ナレッジ Bot が動いた",
-    "link": "https://zenn.dev/kok1eeeee/articles/knowledge-chatbot-agentic-search",
-    "pubDate": "2026-03-21T01:14:41.000Z"
+    "site": "Qiita",
+    "title": "LLM の次に来るものは「心」かもしれない",
+    "link": "https://qiita.com/haystacker/items/7aa47c764f4f70394bed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-21T04:20:47.000Z"
   },
   {
     "site": "Qiita",
     "title": "AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド",
     "link": "https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-21T00:01:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIを使うほど、判断力が落ちる人がいる理由",
-    "link": "https://zenn.dev/cognitiveosmdl/articles/231033371a6735",
-    "pubDate": "Sat, 21 Mar 2026 00:00:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenSpecを実際に使ってみた — AIコーディング時代に設計書は必要か？",
-    "link": "https://zenn.dev/okikusan/articles/e8d74abf524d65",
-    "pubDate": "Fri, 20 Mar 2026 20:38:50 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました",
     "link": "https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-20T01:49:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話",
-    "link": "https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-19T19:24:06.000Z"
   }
 ]
