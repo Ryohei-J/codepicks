@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "東急大井町線高架下にデータセンター　都市型DC実証実験",
+    "link": "https://www.watch.impress.co.jp/docs/news/2095405.html",
+    "pubDate": "2026-03-23T08:07:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "HTTPS 証明書クロニクル | blog.jxck.io",
+    "link": "https://blog.jxck.io/entries/2026-03-23/https-certificate-chronicle.html",
+    "pubDate": "2026-03-23T08:06:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる",
+    "link": "https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-23T05:57:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ナイジェリアの石油施設で、セキュリティ主任として勤務していた頃、当時同国で暴れ回り、市民を殺しまくっていた国際テロ組織「ボコハラム」がなぜ、あれだけ強力で、高価な最新の兵器で重武装し、ナイジェリア軍の動きをまるで手に取るように把握できるのかがとても不思議だった話",
+    "link": "https://posfie.com/@taimport/p/b1aRvFj",
+    "pubDate": "2026-03-23T04:36:39.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった",
     "link": "https://zenn.dev/noprogllama/articles/7c24b2c2410213",
@@ -10,6 +34,12 @@
     "title": "「クックパッドの新機能ひどい」外部レシピ取り込みに料理家ら反発、機能見直しへ……　一方「Notionなどと同じでは？」の声も",
     "link": "https://www.itmedia.co.jp/news/articles/2603/23/news065.html",
     "pubDate": "2026-03-23T03:05:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Geminiより優秀」の声も。NotebookLMを200%使い倒す裏ワザ10選 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2603best-notebooklm-hacks/",
+    "pubDate": "2026-03-23T02:36:58.000Z"
   },
   {
     "site": "Hatena",
@@ -30,10 +60,10 @@
     "pubDate": "2026-03-23T01:55:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マスク氏、次世代半導体工場「Terafab」発表　計算リソースは宇宙空間へ",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/23/news053.html",
-    "pubDate": "2026-03-22T21:46:36.000Z"
+    "site": "Qiita",
+    "title": "AIレビューがあっても人がコードを読む理由",
+    "link": "https://qiita.com/autotaker1984/items/77d1e3bd0853b5f853b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-22T23:17:39.000Z"
   },
   {
     "site": "Zenn",
@@ -42,16 +72,16 @@
     "pubDate": "2026-03-22T15:57:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIエージェントがコマンドラインでブラウザを自動操作できる「Browser Use CLI 2.0」リリース。Chrome DevToolsへの接続などで操作速度が2倍に",
-    "link": "https://www.publickey1.jp/blog/26/aibrowser_use_cli_20chrome_devtools2.html",
-    "pubDate": "2026-03-22T14:18:00.000Z"
+    "site": "Zenn",
+    "title": "PO・PdMが感じるスクラムの限界",
+    "link": "https://zenn.dev/dp_techblog/articles/5ab783ef029d44",
+    "pubDate": "Sun, 22 Mar 2026 15:24:19 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "無知のObsidian",
-    "link": "https://anond.hatelabo.jp/20260322215826",
-    "pubDate": "2026-03-22T12:59:48.000Z"
+    "site": "Zenn",
+    "title": "適用されていないCSSを検出するChrome拡張を作った",
+    "link": "https://zenn.dev/purupurupu/articles/css-noop-checker",
+    "pubDate": "Sun, 22 Mar 2026 13:16:02 GMT"
   },
   {
     "site": "Zenn",
@@ -70,12 +100,6 @@
     "title": "Unity: ECS の性能を引き出すデータ設計の勘所",
     "link": "https://zenn.dev/ruccho/articles/unity-ecs-data-optimization",
     "pubDate": "Sun, 22 Mar 2026 10:37:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの動きをOpenTelemetryで可視化したら「何してたか分からない」が消えた",
-    "link": "https://zenn.dev/seeda_yuto/articles/otel-ai-agent-observability",
-    "pubDate": "2026-03-22T06:50:38.000Z"
   },
   {
     "site": "Zenn",
@@ -114,22 +138,22 @@
     "pubDate": "Sat, 21 Mar 2026 15:44:30 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "コードレビューとは何か",
-    "link": "https://zenn.dev/takekazuomi/articles/what-is-a-code-review",
-    "pubDate": "Sat, 21 Mar 2026 13:37:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "NFCタグの使い方とWeb NFC API",
-    "link": "https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers",
-    "pubDate": "Sat, 21 Mar 2026 12:19:56 GMT"
+    "site": "Qiita",
+    "title": "Proxmox + Ollama + Continueで作るAIアシスタント基盤",
+    "link": "https://qiita.com/ohtsuka-shota/items/48a51c38ae5a87788954?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-21T13:25:30.000Z"
   },
   {
     "site": "Qiita",
     "title": "【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介",
     "link": "https://qiita.com/kenken38/items/1d6e71aed59920c642a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-21T11:04:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか",
+    "link": "https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-21T11:00:27.000Z"
   },
   {
     "site": "Qiita",
@@ -151,32 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Codeでひとりチーム開発を回すための設定とワークフロー",
-    "link": "https://qiita.com/kei1-dev/items/c045233e1c4fb497c25d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-20T14:33:44.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "おうちで通信キャリアを再現してみた",
     "link": "https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-20T12:25:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill",
-    "link": "https://qiita.com/nogataka/items/1e35dd4f573547626aff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-20T08:40:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
-    "link": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-20T06:43:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました",
-    "link": "https://qiita.com/igapyon/items/cfbbc0d6112059b26522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-20T01:49:55.000Z"
   }
 ]
