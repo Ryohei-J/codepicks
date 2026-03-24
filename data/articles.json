@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "Sonova、ゼンハイザーを含むコンシューマ事業を売却へ",
+    "link": "https://av.watch.impress.co.jp/docs/news/2095827.html",
+    "pubDate": "2026-03-24T08:56:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマホ機種変更で「セットアップを完了させてください」と出たら、不要なアプリを大量に強制インストさせる極悪アプリだから気を付けて",
+    "link": "https://togetter.com/li/2678205",
+    "pubDate": "2026-03-24T08:13:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“サービス終了危機”だったゲームの開発元、「チームを約25人→3人に減らして生成AI導入で危機を脱した」手法を明かす。レイオフをせず、サービス終了もしないピンチ脱出術 - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20260324-431748/",
+    "pubDate": "2026-03-24T06:10:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ある神社の巫女さんが内職でCAT6AのLANケーブルを自作する光景「原因不明の通信障害に強そう」「加護欲しい」と話題になる",
+    "link": "https://togetter.com/li/2678165",
+    "pubDate": "2026-03-24T03:59:19.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "WindowsはMacに比べて同一タスクの処理に約4倍ものメモリが必要？ 海外の検証結果が話題に【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2095627.html",
     "pubDate": "2026-03-24T02:49:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ",
+    "link": "https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-24T02:49:31.000Z"
   },
   {
     "site": "Hatena",
@@ -19,12 +49,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Sakana AI、新AIモデル「Namazu」発表　AIチャット「Sakana Chat」も公開",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/24/news071.html",
-    "pubDate": "2026-03-24T01:41:51.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Sakana Chat",
     "link": "https://chat.sakana.ai/",
     "pubDate": "2026-03-24T01:09:10.000Z"
@@ -36,10 +60,10 @@
     "pubDate": "2026-03-24T00:25:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【悲報】AIに仕事を奪われた話を書いた連載、終わる",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news010.html",
-    "pubDate": "2026-03-23T23:10:56.000Z"
+    "site": "Qiita",
+    "title": "GitHub Issues からリリースノートをAIで自動生成する方法",
+    "link": "https://qiita.com/KanNishida/items/a8b2171ea5ee719befb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-23T13:25:44.000Z"
   },
   {
     "site": "Hatena",
@@ -52,12 +76,6 @@
     "title": "【Claude Code】Kaggle上位勢が設定するClaude Codeのskillsとagentsをチェックする",
     "link": "https://zenn.dev/nakakiiro/articles/kaggle_claude_code_boilerplate",
     "pubDate": "Mon, 23 Mar 2026 11:13:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "NFCタグの使い方とWeb NFC API",
-    "link": "https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers",
-    "pubDate": "2026-03-23T10:24:17.000Z"
   },
   {
     "site": "Zenn",
@@ -103,9 +121,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Webアプリで扱う画像をWebP/AVIFに変換すべきか？ S3･CloudFront･Lambdaのコストから検証する",
-    "link": "https://qiita.com/Suemura/items/a63d1b3a8849c53538e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-23T02:07:44.000Z"
+    "title": "LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか",
+    "link": "https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-23T03:04:01.000Z"
   },
   {
     "site": "Zenn",
@@ -118,12 +136,6 @@
     "title": "【2026年版】Claude Code フロントエンド特化の設定・ツールまとめ",
     "link": "https://zenn.dev/enechange_blog/articles/9288d67beed7b4",
     "pubDate": "Mon, 23 Mar 2026 01:13:54 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIレビューがあっても人がコードを読む理由",
-    "link": "https://qiita.com/autotaker1984/items/77d1e3bd0853b5f853b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-22T23:17:39.000Z"
   },
   {
     "site": "Zenn",
@@ -145,9 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Proxmox + Ollama + Continueで作るAIアシスタント基盤",
-    "link": "https://qiita.com/ohtsuka-shota/items/48a51c38ae5a87788954?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-21T13:25:30.000Z"
+    "title": "Rust・Kotlin・Go・TypeScriptで再考するGoFデザインパターン：モダン言語機能が変えた設計の常識",
+    "link": "https://qiita.com/0h-n0/items/0fd6048b1fb3927d03aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-21T12:26:10.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
     "link": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-21T09:19:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド",
-    "link": "https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-21T00:01:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "DQ1の「ふっかつのじゅもん」の仕組みを全解説 - Qiita",
-    "link": "https://qiita.com/musemyuzu/items/eb08f7790df356434e0f",
-    "pubDate": "2025-08-06T12:02:52.000Z"
   }
 ]
