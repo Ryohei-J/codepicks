@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "20人分の効率化。Y Combinator CEO独自開発のClaude Code用カスタムスキル「gstack」が無料公開。本業の傍ら1日1万行以上の実用的なコードを出力（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/03/24/4951.html",
+    "pubDate": "2026-03-24T00:25:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Announcing TypeScript 6.0 - TypeScript",
+    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/",
+    "pubDate": "2026-03-23T16:42:08.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AWS、Claude Codeにアーキテクチャ設計、コスト見積もり、構成コード生成、デプロイ実行などの能力を組み込む「Agent Plugins for AWS」公開",
     "link": "https://www.publickey1.jp/blog/26/awsclaude_codeagent_plugins_for_aws.html",
     "pubDate": "2026-03-23T13:22:54.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AIに「道徳を学ぶ上で最も適している話を教えて」といったら",
-    "link": "https://anond.hatelabo.jp/20260323202408",
-    "pubDate": "2026-03-23T11:35:19.000Z"
+    "title": "【社内勉強会】新年度からコーディングエージェントを使いこなす - 構造と制約で引き出すClaude Codeの実践知",
+    "link": "https://speakerdeck.com/nwiizo/she-nei-mian-qiang-hui-xin-nian-du-karakodeinguezientowoshi-ikonasu-gou-zao-tozhi-yue-deyin-kichu-suclaude-codenoshi-jian-zhi",
+    "pubDate": "2026-03-23T11:31:36.000Z"
   },
   {
     "site": "Hatena",
@@ -18,10 +30,16 @@
     "pubDate": "2026-03-23T11:00:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "東急大井町線高架下にデータセンター　都市型DC実証実験",
-    "link": "https://www.watch.impress.co.jp/docs/news/2095405.html",
-    "pubDate": "2026-03-23T08:07:14.000Z"
+    "site": "Zenn",
+    "title": "NFCタグの使い方とWeb NFC API",
+    "link": "https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers",
+    "pubDate": "2026-03-23T10:24:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "技育祭で引いた文字化けおみくじを解読してみた",
+    "link": "https://zenn.dev/toramutton/articles/garbled-omikuji",
+    "pubDate": "Mon, 23 Mar 2026 09:51:12 GMT"
   },
   {
     "site": "Hatena",
@@ -36,28 +54,28 @@
     "pubDate": "2026-03-23T05:57:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ナイジェリアの石油施設で、セキュリティ主任として勤務していた頃、当時同国で暴れ回り、市民を殺しまくっていた国際テロ組織「ボコハラム」がなぜ、あれだけ強力で、高価な最新の兵器で重武装し、ナイジェリア軍の動きをまるで手に取るように把握できるのかがとても不思議だった話",
-    "link": "https://posfie.com/@taimport/p/b1aRvFj",
-    "pubDate": "2026-03-23T04:36:39.000Z"
+    "site": "Qiita",
+    "title": "Figmaから Pencil.dev に乗り換えを検討してみた【検証編】",
+    "link": "https://qiita.com/kobayashimakoto/items/b11ebbcf7e14ff251b76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-23T04:57:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Webアプリで扱う画像をWebP/AVIFに変換すべきか？ S3･CloudFront･Lambdaのコストから検証する",
+    "link": "https://qiita.com/Suemura/items/a63d1b3a8849c53538e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-23T02:07:44.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった",
-    "link": "https://zenn.dev/noprogllama/articles/7c24b2c2410213",
-    "pubDate": "2026-03-23T03:07:07.000Z"
+    "title": "人間のコードレビュー辞めにしたくてコードレビューエージェント作ってみた",
+    "link": "https://zenn.dev/gvatech_blog/articles/8f0be815036eaa",
+    "pubDate": "Mon, 23 Mar 2026 01:27:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Geminiより優秀」の声も。NotebookLMを200%使い倒す裏ワザ10選 | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2603best-notebooklm-hacks/",
-    "pubDate": "2026-03-23T02:36:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11の大改革。メモリ削減やMicrosoftアカウント不要化へ",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2095245.html",
-    "pubDate": "2026-03-23T01:56:42.000Z"
+    "site": "Zenn",
+    "title": "【2026年版】Claude Code フロントエンド特化の設定・ツールまとめ",
+    "link": "https://zenn.dev/enechange_blog/articles/9288d67beed7b4",
+    "pubDate": "Mon, 23 Mar 2026 01:13:54 GMT"
   },
   {
     "site": "Qiita",
@@ -102,6 +120,12 @@
     "pubDate": "Sun, 22 Mar 2026 10:37:07 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する",
+    "link": "https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-22T09:36:28.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった",
     "link": "https://zenn.dev/noprogllama/articles/7c24b2c2410213",
@@ -109,33 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "GitHub Copilot CLIでSuperpowersスキルを導入してみた",
-    "link": "https://zenn.dev/jodycraft/articles/copilot-cli-superpowers-guide",
-    "pubDate": "Sun, 22 Mar 2026 00:06:32 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜ「社外秘」がAIの回答に出てくるのか  ――生成AIの情報漏洩メカニズムをエンジニア目線で分解する",
-    "link": "https://qiita.com/mhamadajp/items/98efbdadd8612c142574?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-21T23:09:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "cmuxで変わるClaude Codeのマルチプロジェクト開発体験",
-    "link": "https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code",
-    "pubDate": "Sat, 21 Mar 2026 16:44:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMの文体について",
-    "link": "https://zenn.dev/acntechjp/articles/dba4be5c018925",
-    "pubDate": "Sat, 21 Mar 2026 16:39:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "DGX Sparkで色々なローカルLLMを動かした比較結果",
-    "link": "https://zenn.dev/karaage0703/articles/fcca40c614dffd",
-    "pubDate": "Sat, 21 Mar 2026 16:18:04 GMT"
+    "title": "個人的開発環境 2026春 — chezmoiで管理するモダンzsh環境",
+    "link": "https://zenn.dev/pepabo/articles/dev-environment-2026-spring",
+    "pubDate": "Sun, 22 Mar 2026 03:36:21 GMT"
   },
   {
     "site": "Qiita",
@@ -162,10 +162,10 @@
     "pubDate": "2026-03-21T09:19:07.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "LLM の次に来るものは「心」かもしれない",
-    "link": "https://qiita.com/haystacker/items/7aa47c764f4f70394bed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-21T04:20:47.000Z"
+    "site": "Zenn",
+    "title": "ToastUIって邪魔じゃね？",
+    "link": "https://zenn.dev/miyabitti/articles/c7a6591d3317b9",
+    "pubDate": "2026-03-21T05:31:51.000Z"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "おうちで通信キャリアを再現してみた",
-    "link": "https://qiita.com/takuteh/items/4d04c2691c788d1781e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-20T12:25:38.000Z"
+    "title": "DQ1の「ふっかつのじゅもん」の仕組みを全解説 - Qiita",
+    "link": "https://qiita.com/musemyuzu/items/eb08f7790df356434e0f",
+    "pubDate": "2025-08-06T12:02:52.000Z"
   }
 ]
