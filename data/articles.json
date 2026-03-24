@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "DGX Spark を 2 か月使って見えた「向いている仕事」 と 「向いていない仕事」 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/dgx-spark-use-case-guide/",
+    "pubDate": "2026-03-24T11:36:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "お客様のDMARC強化対応で「SPF/DKIM認証失敗」の調査依頼が来た話 - サーバーワークスエンジニアブログ",
+    "link": "https://blog.serverworks.co.jp/dmarc-alignment-forwarding",
+    "pubDate": "2026-03-24T10:11:36.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Sonova、ゼンハイザーを含むコンシューマ事業を売却へ",
     "link": "https://av.watch.impress.co.jp/docs/news/2095827.html",
     "pubDate": "2026-03-24T08:56:14.000Z"
@@ -13,15 +25,27 @@
   },
   {
     "site": "Hatena",
+    "title": "高校教科書検定、令和書籍以外は合格　AI活用前提の記載少なく | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20260324/k00/00m/100/119000c",
+    "pubDate": "2026-03-24T06:11:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "“サービス終了危機”だったゲームの開発元、「チームを約25人→3人に減らして生成AI導入で危機を脱した」手法を明かす。レイオフをせず、サービス終了もしないピンチ脱出術 - AUTOMATON",
     "link": "https://automaton-media.com/articles/newsjp/20260324-431748/",
     "pubDate": "2026-03-24T06:10:50.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ある神社の巫女さんが内職でCAT6AのLANケーブルを自作する光景「原因不明の通信障害に強そう」「加護欲しい」と話題になる",
-    "link": "https://togetter.com/li/2678165",
-    "pubDate": "2026-03-24T03:59:19.000Z"
+    "title": "Linuxカーネルの内部を知ると、エンジニアリングはもっと面白くなる── インフラ話題8選 - Findy Media",
+    "link": "https://findy-code.io/media/articles/modoku-netmarkjp-202603",
+    "pubDate": "2026-03-24T03:44:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ナレッジワークにカムバック入社して1ヶ月半経って感じたこと",
+    "link": "https://zenn.dev/knowledgework/articles/b7b9cf7bb68653",
+    "pubDate": "Tue, 24 Mar 2026 03:00:06 GMT"
   },
   {
     "site": "Hatena",
@@ -42,34 +66,22 @@
     "pubDate": "2026-03-24T02:05:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "iPhoneの裏をトントンするだけでここまでできる！知ってると超得な「背面タップ」便利ワザ | iPhone修理・ipad修理・スマホ修理やスイッチ修理のお役立ち総合情報サイト「スマテクマガジン」",
-    "link": "https://smartcool-group.com/media/iphone-back-tap-custom/",
-    "pubDate": "2026-03-24T02:00:06.000Z"
+    "site": "Zenn",
+    "title": "JavaScriptとTypeScriptのpolyglot",
+    "link": "https://zenn.dev/qnighy/articles/e65e0995161ade",
+    "pubDate": "Mon, 23 Mar 2026 13:50:30 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Sakana Chat",
-    "link": "https://chat.sakana.ai/",
-    "pubDate": "2026-03-24T01:09:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "20人分の効率化。Y Combinator CEO独自開発のClaude Code用カスタムスキル「gstack」が無料公開。本業の傍ら1日1万行以上の実用的なコードを出力（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/03/24/4951.html",
-    "pubDate": "2026-03-24T00:25:19.000Z"
+    "site": "Zenn",
+    "title": "究極のマルチパラダイム次世代プログラミング言語Flix",
+    "link": "https://zenn.dev/ababup1192/articles/cf73b13eae82da",
+    "pubDate": "Mon, 23 Mar 2026 13:28:08 GMT"
   },
   {
     "site": "Qiita",
     "title": "GitHub Issues からリリースノートをAIで自動生成する方法",
     "link": "https://qiita.com/KanNishida/items/a8b2171ea5ee719befb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-23T13:25:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【社内勉強会】新年度からコーディングエージェントを使いこなす - 構造と制約で引き出すClaude Codeの実践知",
-    "link": "https://speakerdeck.com/nwiizo/she-nei-mian-qiang-hui-xin-nian-du-karakodeinguezientowoshi-ikonasu-gou-zao-tozhi-yue-deyin-kichu-suclaude-codenoshi-jian-zhi",
-    "pubDate": "2026-03-23T11:31:36.000Z"
   },
   {
     "site": "Zenn",
@@ -82,6 +94,12 @@
     "title": "Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）",
     "link": "https://zenn.dev/murasanlab/books/10b6b15e557685",
     "pubDate": "Mon, 23 Mar 2026 10:21:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code を使いこなすために意識している 5つのこと",
+    "link": "https://zenn.dev/sunagaku/articles/claude-code-usage-mindset",
+    "pubDate": "Mon, 23 Mar 2026 10:08:18 GMT"
   },
   {
     "site": "Zenn",
@@ -100,12 +118,6 @@
     "title": "IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる",
     "link": "https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-23T05:57:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "starshipより速いzsh向けshell promptをコーディングエージェントだけで作った",
-    "link": "https://zenn.dev/shuymn/articles/bda1b7b51cccbf",
-    "pubDate": "Mon, 23 Mar 2026 05:53:43 GMT"
   },
   {
     "site": "Zenn",
@@ -130,24 +142,6 @@
     "title": "人間のコードレビュー辞めにしたくてコードレビューエージェント作ってみた",
     "link": "https://zenn.dev/gvatech_blog/articles/8f0be815036eaa",
     "pubDate": "Mon, 23 Mar 2026 01:27:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【2026年版】Claude Code フロントエンド特化の設定・ツールまとめ",
-    "link": "https://zenn.dev/enechange_blog/articles/9288d67beed7b4",
-    "pubDate": "Mon, 23 Mar 2026 01:13:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "PO・PdMが感じるスクラムの限界",
-    "link": "https://zenn.dev/dp_techblog/articles/5ab783ef029d44",
-    "pubDate": "Sun, 22 Mar 2026 15:24:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "適用されていないCSSを検出するChrome拡張を作った",
-    "link": "https://zenn.dev/purupurupu/articles/css-noop-checker",
-    "pubDate": "Sun, 22 Mar 2026 13:16:02 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
     "link": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-21T09:19:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - k1LoW/mo: mo is a Markdown viewer that opens .md files in a browser.",
+    "link": "https://github.com/k1LoW/mo",
+    "pubDate": "2026-02-28T01:27:16.000Z"
   }
 ]
