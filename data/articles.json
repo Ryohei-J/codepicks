@@ -1,27 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "Wi-Fiルーターの寿命は最長で6年。エレコムが注意を呼びかけ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2096230.html",
+    "pubDate": "2026-03-25T09:37:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "洋上に浮かぶデータセンター　日本郵船やNTT系など5者が実証実験　100％再エネで稼働",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/25/news118.html",
+    "pubDate": "2026-03-25T09:03:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "シークレットと環境変数とAI - ぐるなびをちょっと良くするエンジニアブログ",
+    "link": "https://developers.gnavi.co.jp/entry/secret-ai-coding-agent/",
+    "pubDate": "2026-03-25T08:06:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ＮＨＫ世論調査“日本の侵略だった” 半数近く「わからない」 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nb-5090034529",
+    "pubDate": "2026-03-25T07:12:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "初診でChatGPTとのやり取りを50Pくらい印刷して『次回まででいいのでこれを読み込んで私に最適な治療を考えてください』と言ってきた患者が来た",
+    "link": "https://togetter.com/li/2678503",
+    "pubDate": "2026-03-25T05:54:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【後編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―",
+    "link": "https://qiita.com/hitomin_poke/items/114b2fdc1b50e3676ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-25T03:49:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "CPU偽装で物議のCHUWI、返品で全額返金へ。誤ったCPUが搭載されたと説明",
     "link": "https://pc.watch.impress.co.jp/docs/news/2096019.html",
     "pubDate": "2026-03-25T02:56:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "金融機関どうし資金やりとりの「全銀ネット」新システム構築へ | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015083361000",
-    "pubDate": "2026-03-24T23:22:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "INTERNET Watchの30年は、インターネット地図サービス進化の30年でもあった――本誌記事で振り返る【地図ウォッチ】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/chizu/2095872.html",
-    "pubDate": "2026-03-24T22:00:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAI、動画生成アプリ「Sora」を終了へ ～公開から半年足らずで撤退／",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2095940.html",
-    "pubDate": "2026-03-24T21:52:57.000Z"
+    "site": "Qiita",
+    "title": "【参加レポート】JaSST'26 Tokyoに参加しました！",
+    "link": "https://qiita.com/ayshiina/items/cda51da8f56bc56103c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-25T01:00:34.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +66,16 @@
     "pubDate": "2026-03-24T14:12:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTからClaudeへ乗り換えるユーザーが1487%急増　仕事はどう変わる？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/94341",
-    "pubDate": "2026-03-24T06:59:02.000Z"
+    "site": "Zenn",
+    "title": "Microsoft Learn参照させるAgent Skillsあるじゃん！",
+    "link": "https://zenn.dev/headwaters/articles/d4417cd67f7935",
+    "pubDate": "Tue, 24 Mar 2026 10:32:04 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "プロが毎日使ってるClaude Codeの隠しコマンド＆ショートカットキー",
+    "link": "https://qiita.com/Yuuto127/items/f6b1680ede88de76d372?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-24T08:36:54.000Z"
   },
   {
     "site": "Zenn",
@@ -61,12 +91,6 @@
   },
   {
     "site": "Zenn",
-    "title": "NVIDIA RTX PRO 6000 Blackwell Max-Q 上で尾崎スキーム I を動かしてみる",
-    "link": "https://zenn.dev/fixstars/articles/6000-max-q-ozaki-i-scheme",
-    "pubDate": "Tue, 24 Mar 2026 05:26:10 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "ナレッジワークにカムバック入社して1ヶ月半経って感じたこと",
     "link": "https://zenn.dev/knowledgework/articles/b7b9cf7bb68653",
     "pubDate": "Tue, 24 Mar 2026 03:00:06 GMT"
@@ -78,22 +102,16 @@
     "pubDate": "2026-03-24T02:49:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude、ついにMacを直接操作　「OpenClawじゃん」の声も",
-    "link": "https://ascii.jp/elem/000/004/383/4383468/",
-    "pubDate": "2026-03-24T02:28:24.000Z"
+    "site": "Qiita",
+    "title": "AI駆動開発でETH/JPY自動売買ボットを作って不労所得ｶﾞｯﾎﾟｶﾞｯﾎﾟ",
+    "link": "https://qiita.com/bakuchiku/items/4dcb7c27c053b28543b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-24T02:28:29.000Z"
   },
   {
     "site": "Qiita",
     "title": "ナレッジグラフ×LLM実践入門 ── RAGの次のアーキテクチャを理解する",
     "link": "https://qiita.com/nogataka/items/9eedb6b88eb84042e699?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-24T01:36:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "もう手作業に戻れない。IBM Bob で Liberty 開発を効率化するコマンドアセットを公開しました",
-    "link": "https://qiita.com/ktgr/items/8eb67fbaec8d28efb24e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-24T01:23:30.000Z"
   },
   {
     "site": "Zenn",
@@ -106,12 +124,6 @@
     "title": "仕事はすべてSkillに書け - それ、Skill にしない？",
     "link": "https://zenn.dev/jackchuka/articles/e2b6daa978a6c5",
     "pubDate": "2026-03-24T01:13:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
-    "link": "https://qiita.com/miruky/items/726d9210cc8666866f86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-24T00:40:53.000Z"
   },
   {
     "site": "Zenn",
@@ -157,21 +169,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Figmaから Pencil.dev に乗り換えを検討してみた Part.1【検証編】",
-    "link": "https://qiita.com/kobayashimakoto/items/b11ebbcf7e14ff251b76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-23T04:57:07.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか",
     "link": "https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-23T03:04:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "データ分析初学者が陥りやすい落とし穴",
-    "link": "https://qiita.com/obx_y_ueno/items/ee6526acf18e844ed897?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-22T22:47:33.000Z"
   },
   {
     "site": "Qiita",
