@@ -1,27 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "人間のコードレビューに残された仕事は、どんな未来に進みたいかを編集すること - hitode909の日記",
-    "link": "https://blog.sushi.money/entry/2026/03/25/235900",
-    "pubDate": "2026-03-25T15:06:51.000Z"
+    "title": "【特集】 眠っているIntelのNPUをLLMで叩き起こしてみた",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2096319.html",
+    "pubDate": "2026-03-25T22:50:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる - Qiita",
+    "link": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
+    "pubDate": "2026-03-25T22:19:02.000Z"
   },
   {
     "site": "Hatena",
-    "title": "漫画家の士郎正宗さんがデザインしたマウス、エレコムが24年ぶりに復刻",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/25/news137.html",
-    "pubDate": "2026-03-25T10:08:19.000Z"
+    "title": "1Passwordが人間とAIエージェントのアイデンティティを統一管理する「Unified Access 」発表",
+    "link": "https://www.publickey1.jp/blog/26/1passwordaiunified_access.html",
+    "pubDate": "2026-03-25T17:39:10.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Wi-Fiルーターの寿命は最長で6年。エレコムが注意を呼びかけ",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2096230.html",
-    "pubDate": "2026-03-25T09:37:43.000Z"
+    "title": "Storybook MCP を試してみた",
+    "link": "https://azukiazusa.dev/blog/storybook-mcp/",
+    "pubDate": "2026-03-25T14:11:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "洋上に浮かぶデータセンター　日本郵船やNTT系など5者が実証実験　100％再エネで稼働",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/25/news118.html",
-    "pubDate": "2026-03-25T09:03:00.000Z"
+    "site": "Qiita",
+    "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド - Qiita",
+    "link": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132",
+    "pubDate": "2026-03-25T14:00:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド - Qiita",
+    "link": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-25T10:11:09.000Z"
   },
   {
     "site": "Hatena",
@@ -36,22 +48,16 @@
     "pubDate": "2026-03-25T07:07:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "西武渋谷店、9月末で営業終了　約60年の歴史に幕",
-    "link": "https://www.watch.impress.co.jp/docs/news/2096152.html",
-    "pubDate": "2026-03-25T06:28:14.000Z"
+    "site": "Qiita",
+    "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド",
+    "link": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-25T06:03:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "初診でChatGPTとのやり取りを50Pくらい印刷して『次回まででいいのでこれを読み込んで私に最適な治療を考えてください』と言ってきた患者が来た",
-    "link": "https://togetter.com/li/2678503",
-    "pubDate": "2026-03-25T05:54:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アーキテクチャデシジョンレコード - Martin Fowler's Bliki (ja)",
-    "link": "https://bliki-ja.github.io/ArchitectureDecisionRecord",
-    "pubDate": "2026-03-25T04:41:18.000Z"
+    "site": "Zenn",
+    "title": "Webサービスを作る上でRustを採用する必要ってほぼないよね",
+    "link": "https://zenn.dev/miyabitti/articles/9d8e2ab63379ad",
+    "pubDate": "Wed, 25 Mar 2026 04:48:18 GMT"
   },
   {
     "site": "Qiita",
@@ -60,10 +66,16 @@
     "pubDate": "2026-03-25T03:49:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "1枚数万円→5枚320円で納期3日——「個人が基板を発注できる」時代はこうして作られた - FabScene（ファブシーン）",
-    "link": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
-    "pubDate": "2026-03-25T03:33:41.000Z"
+    "site": "Zenn",
+    "title": "外部サービスの利用ガイドラインを作ってわかった、エンジニアが見落としがちな法的観点",
+    "link": "https://zenn.dev/knowledgework/articles/19e7bfba76582f",
+    "pubDate": "Wed, 25 Mar 2026 03:00:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "NLP2026の最優秀賞・優秀賞から見る言語処理最前線",
+    "link": "https://zenn.dev/mkj/articles/nlp_20260208",
+    "pubDate": "Wed, 25 Mar 2026 02:50:05 GMT"
   },
   {
     "site": "Qiita",
@@ -73,9 +85,45 @@
   },
   {
     "site": "Zenn",
+    "title": "8,706回のINSERTがCIを殺していた — Rails CI 55%短縮の全手順",
+    "link": "https://zenn.dev/pepabo/articles/ci-speedup-rails-infra-and-app",
+    "pubDate": "Tue, 24 Mar 2026 23:22:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIでヤバい…次はどう稼ぐ？SaaS・SIer・コンサルの「新ビジネスモデル」超解説",
+    "link": "https://www.sbbit.jp/article/cont1/182492",
+    "pubDate": "2026-03-24T22:29:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
+    "link": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-24T17:51:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeとの壁打ちが「積み上げ型」に変わった。長期記憶MCPサーバーの開発記",
+    "link": "https://zenn.dev/kimmaru/articles/3dbd92dea9ede8",
+    "pubDate": "Tue, 24 Mar 2026 15:40:45 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Microsoft Learn参照させるAgent Skillsあるじゃん！",
     "link": "https://zenn.dev/headwaters/articles/d4417cd67f7935",
     "pubDate": "Tue, 24 Mar 2026 10:32:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Webアプリケーションにおけるキャッシュ戦略",
+    "link": "https://zenn.dev/catatsuy/articles/8e2c1cf3d8083c",
+    "pubDate": "Tue, 24 Mar 2026 09:36:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "UUID は衝突する。なぜなら人間は愚かだから。",
+    "link": "https://zenn.dev/wsuzume/articles/619fb049097c58",
+    "pubDate": "Tue, 24 Mar 2026 09:07:02 GMT"
   },
   {
     "site": "Qiita",
@@ -96,12 +144,6 @@
     "pubDate": "Tue, 24 Mar 2026 05:44:34 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ナレッジワークにカムバック入社して1ヶ月半経って感じたこと",
-    "link": "https://zenn.dev/knowledgework/articles/b7b9cf7bb68653",
-    "pubDate": "Tue, 24 Mar 2026 03:00:06 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ",
     "link": "https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,21 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "ナレッジグラフ×LLM実践入門 ── RAGの次のアーキテクチャを理解する",
-    "link": "https://qiita.com/nogataka/items/9eedb6b88eb84042e699?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-24T01:36:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【RAG】1000万文字の会話を理解させる手法",
-    "link": "https://zenn.dev/knowledgesense/articles/9b21b1868f588b",
-    "pubDate": "Tue, 24 Mar 2026 01:14:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "JavaScriptとTypeScriptのpolyglot",
-    "link": "https://zenn.dev/qnighy/articles/e65e0995161ade",
-    "pubDate": "Mon, 23 Mar 2026 13:50:30 GMT"
+    "title": "AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット",
+    "link": "https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-24T01:35:47.000Z"
   },
   {
     "site": "Qiita",
@@ -139,44 +169,14 @@
   },
   {
     "site": "Zenn",
-    "title": "究極のマルチパラダイム次世代プログラミング言語Flix",
-    "link": "https://zenn.dev/ababup1192/articles/cf73b13eae82da",
-    "pubDate": "Mon, 23 Mar 2026 13:28:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code】Kaggle上位勢が設定するClaude Codeのskillsとagentsをチェックする",
-    "link": "https://zenn.dev/nakakiiro/articles/kaggle_claude_code_boilerplate",
-    "pubDate": "Mon, 23 Mar 2026 11:13:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）",
-    "link": "https://zenn.dev/murasanlab/books/10b6b15e557685",
-    "pubDate": "Mon, 23 Mar 2026 10:21:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code を使いこなすために意識している 5つのこと",
-    "link": "https://zenn.dev/sunagaku/articles/claude-code-usage-mindset",
-    "pubDate": "Mon, 23 Mar 2026 10:08:18 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "IT業界って結局どんな世界？未経験向けにざっくり全体像を整理してみる",
-    "link": "https://qiita.com/prum_iha/items/2130c606657942d4e3f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-23T05:57:16.000Z"
+    "title": "Claude Code同士がリアルタイムに会話できる「claude-peers-mcp」クイックスタートガイド",
+    "link": "https://zenn.dev/ait/articles/claude-peers-mcp-quickstart",
+    "pubDate": "2026-03-23T08:30:13.000Z"
   },
   {
     "site": "Qiita",
     "title": "LinuxエンジニアのためのWindowsセキュリティ再入門 〜 第1回：はじめに —— なぜ今、LinuxエンジニアがWindowsセキュリティを学ぶのか",
     "link": "https://qiita.com/555hamano/items/e9e1dce9e2dbc574a93f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-23T03:04:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する",
-    "link": "https://qiita.com/yut-nagase/items/21703af242e7ebfc37a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-22T09:36:28.000Z"
   }
 ]
