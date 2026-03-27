@@ -1,15 +1,21 @@
 [
   {
     "site": "Hatena",
-    "title": "OSSは境界設計で強くなる ― 隙間家具OSSという設計思想 - Findy Media",
-    "link": "https://findy-code.io/media/articles/codesidechat-fujiwara",
-    "pubDate": "2026-03-26T23:59:45.000Z"
+    "title": "さくらインターネット、令和5年度および令和8年度 ガバメントクラウドサービス提供事業者に採択 | さくらインターネット",
+    "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/03/27/1968224087/",
+    "pubDate": "2026-03-27T02:26:22.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Apple、「Mac Pro」の販売を終了　20年の歴史に幕",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/27/news065.html",
-    "pubDate": "2026-03-26T22:33:39.000Z"
+    "title": "新サービス「The Tower」をはてラボでリリースしました - はてラボ 開発者ブログ",
+    "link": "https://labo.hatenastaff.com/entry/tower",
+    "pubDate": "2026-03-27T01:51:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、LLMのメモリ消費を6分の1に削減する新技術「TurboQuant」発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/27/news067.html",
+    "pubDate": "2026-03-26T23:04:10.000Z"
   },
   {
     "site": "Hatena",
@@ -37,15 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "より巧妙化した偽SSDが出現！990 PRO風でベンチマーク速度は出てしまう悪質な模造品が流通[Sponsored]",
-    "link": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2093885.html",
-    "pubDate": "2026-03-26T15:22:36.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "MacBook Neoの冷却改造でゲーム性能が倍増──銅板1枚が暴いたAppleの設計判断",
     "link": "https://joho-todai.com/macbook-neonoleng-que-gai-zao-degemuxing-neng-gabei-zeng-tong-ban-1mei-gabao-itaapplenoshe-ji-pan-duan/",
     "pubDate": "2026-03-26T14:03:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "takt で Codex・Cursor・Claude Code を協調させてみた ― 5回 ABORT して気づいた設計の急所",
+    "link": "https://zenn.dev/coji/articles/takt-multi-agent-coding-experience",
+    "pubDate": "Thu, 26 Mar 2026 13:05:36 GMT"
   },
   {
     "site": "Zenn",
@@ -76,6 +82,12 @@
     "title": "100ms以内で動作するVLAモデルの実車適用",
     "link": "https://zenn.dev/turing_motors/articles/f5e44178d78153",
     "pubDate": "Thu, 26 Mar 2026 02:00:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "git worktree を Worktrunk で管理したら手放せなくなった",
+    "link": "https://zenn.dev/edash_tech_blog/articles/69d01f875dcccd",
+    "pubDate": "Thu, 26 Mar 2026 01:30:10 GMT"
   },
   {
     "site": "Zenn",
@@ -120,24 +132,6 @@
     "pubDate": "Wed, 25 Mar 2026 11:21:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "なぜ最近のWEB開発は毎回アプリケーション基盤を作り直してしまうのか",
-    "link": "https://zenn.dev/o_sup/articles/49d0c7f8d1ebc4",
-    "pubDate": "Wed, 25 Mar 2026 11:03:27 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「実践的データサイエンス演習」2025年度講義資料の公開",
-    "link": "https://qiita.com/Hidetoshi_Kawaguchi/items/3bbdb77935bd4982b0c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-25T09:21:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[技術書典20]技術同人誌を書く技術",
-    "link": "https://zenn.dev/churadata/articles/2a222f36ad325b",
-    "pubDate": "Wed, 25 Mar 2026 08:32:17 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド",
     "link": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット",
     "link": "https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-24T01:35:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ポートフォリオ用の綺麗なGitHubリポジトリの作り方 ―すぐに使えるテンプレート付き",
+    "link": "https://qiita.com/miruky/items/726d9210cc8666866f86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-24T00:40:53.000Z"
   }
 ]
