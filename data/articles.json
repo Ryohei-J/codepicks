@@ -1,39 +1,51 @@
 [
   {
+    "site": "Hatena",
+    "title": "無料でネットワーク構成図を自動的に更新するツール「Scanopy」、一度設定すればメンテナンスは不要でネットワークをスキャンしてホストやサービスを検出し接続関係をインタラクティブに可視化、オープンソースでセルフホスト可能",
+    "link": "https://gigazine.net/news/20260328-scanopy/",
+    "pubDate": "2026-03-28T13:39:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows 11のUIが本当にヒドイ、存在するべきスライダーが消え去り「0」と「3」しか選択できず項目名も意味不明",
+    "link": "https://gigazine.net/news/20260328-windows-11-ui/",
+    "pubDate": "2026-03-28T13:34:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コンセントに挿すだけの「プラグイン式ソーラーパネル」普及に電力会社が懸念を表明",
+    "link": "https://gigazine.net/news/20260328-plug-in-solar-utility-concerns/",
+    "pubDate": "2026-03-28T13:22:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」 - Qiita",
+    "link": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179",
+    "pubDate": "2026-03-28T10:20:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "やさしいとこから始めるGitHubリポジトリのセキュリティ",
+    "link": "https://speakerdeck.com/tsubakimoto_s/yasasiitokokarashi-merugithubripozitorinosekiyuritei",
+    "pubDate": "2026-03-28T09:19:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで） - Qiita",
+    "link": "https://qiita.com/Milab_honda/items/8577b96433491173bf4e",
+    "pubDate": "2026-03-28T09:11:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code同士が会話できるようになったらしいので試してみた",
+    "link": "https://zenn.dev/acntechjp/articles/7bb9f418be6e68",
+    "pubDate": "2026-03-28T02:12:43.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "React CompilerはどのようにReact.memoを不要にしているのか",
     "link": "https://qiita.com/uhyo/items/43d4aafae2c87a12e5ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-28T01:20:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "キリスト教政治関与の歴史的背景",
-    "link": "https://anond.hatelabo.jp/20260328093005",
-    "pubDate": "2026-03-28T00:33:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【山田祥平のRe:config.sys】 ローコードののちノーコード、そして、ときどきノーアプリ",
-    "link": "https://pc.watch.impress.co.jp/docs/column/config/2097146.html",
-    "pubDate": "2026-03-27T22:53:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「あなたは専門家です」プロンプトの罠：役割を与えることが人工知能の知識精度を破壊する | XenoSpectrum",
-    "link": "https://xenospectrum.com/ai-expert-persona-prompt-accuracy-drop/",
-    "pubDate": "2026-03-27T20:57:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone19 Proに2億画素カメラ搭載？センサーはソニー LYTIA 901か - iPhone Mania",
-    "link": "https://iphone-mania.jp/iphone18-601090/",
-    "pubDate": "2026-03-27T19:11:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "社内問い合わせをAIエージェント化して爆速で解決できるようにした",
-    "link": "https://zenn.dev/dinii/articles/18128bd1685e2a",
-    "pubDate": "2026-03-27T16:20:11.000Z"
   },
   {
     "site": "Zenn",
@@ -102,12 +114,6 @@
     "pubDate": "Fri, 27 Mar 2026 01:01:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeを「最小構成」で飼い慣らす — CLAUDE.md + Skills + Hooks のハーネス設計｜ミーツ｜m2AI",
-    "link": "https://note.com/m2ai_jp/n/na3869c615096",
-    "pubDate": "2026-03-26T23:38:15.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Opus 4.6と同等のAIをローカルで動かすにはいくらかかるか？ローカルLLMを構築してわかったこと",
     "link": "https://zenn.dev/suit9/articles/a1bf8f7c46ef3b",
@@ -172,11 +178,5 @@
     "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
     "link": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-25T15:01:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub Actions Is Slowly Killing Your Engineering Team - Ian Duncan",
-    "link": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
-    "pubDate": "2026-02-06T09:14:29.000Z"
   }
 ]
