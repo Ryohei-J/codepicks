@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "スラムダンク“聖地”踏切でAIカメラ実証実験 迷惑行為を記録 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015086561000",
+    "pubDate": "2026-03-28T03:27:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「あなたは専門家です」プロンプトの罠：役割を与えることが人工知能の知識精度を破壊する | XenoSpectrum",
+    "link": "https://xenospectrum.com/ai-expert-persona-prompt-accuracy-drop/",
+    "pubDate": "2026-03-27T20:57:08.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "社内問い合わせをAIエージェント化して爆速で解決できるようにした",
     "link": "https://zenn.dev/dinii/articles/18128bd1685e2a",
@@ -12,28 +24,22 @@
     "pubDate": "2026-03-27T16:12:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "TurboQuant と RotorQuant を DGX Spark で試してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/dgx-spark-turboquant-kv-cache/",
-    "pubDate": "2026-03-27T15:21:55.000Z"
+    "site": "Zenn",
+    "title": "電磁気学っぽい理論は電磁気学しかない？",
+    "link": "https://zenn.dev/phykm/articles/9b18faddcbe0f2",
+    "pubDate": "Fri, 27 Mar 2026 15:07:04 GMT"
   },
   {
     "site": "Hatena",
-    "title": "複製不可能なSSH鍵運用のススメ | ドクセル",
-    "link": "https://www.docswell.com/s/matsuu/ZJWLMG-secure-ssh-key-management-guide",
-    "pubDate": "2026-03-27T13:59:34.000Z"
+    "title": "初の国産クラウドに「さくら」選定、これまではアマゾンなど米ＩＴ大手のみ…デジタル相「国民の安心感にもつながる」",
+    "link": "https://www.yomiuri.co.jp/economy/20260327-GYT1T00397/",
+    "pubDate": "2026-03-27T14:38:58.000Z"
   },
   {
     "site": "Hatena",
-    "title": "透析患者1人の年間コストは500万円ぐらいで、全部で30万人ぐらいいる。年間で150億円。透析開始すると自動的に身体障害者認定されるので、公費負担の範囲が大きいという話",
-    "link": "https://posfie.com/@taimport/p/avH6Rmz",
-    "pubDate": "2026-03-27T12:40:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "一日でできる！ オリジナルのローカルLLMの作り方【データ合成からLM Studioまで】｜Holy_fox",
-    "link": "https://note.com/holy_fox/n/n8d309d359f39",
-    "pubDate": "2026-03-27T10:19:06.000Z"
+    "title": "「Excelの技能を確かめるのでこのファイルを開いてください」「これCSVですがExcelで開いていいんですか？」→CSVをExcelでそのまま開くと大変なことになりがち",
+    "link": "https://togetter.com/li/2679274",
+    "pubDate": "2026-03-27T13:05:45.000Z"
   },
   {
     "site": "Zenn",
@@ -78,16 +84,16 @@
     "pubDate": "Fri, 27 Mar 2026 01:01:07 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "開発環境現状確認 2026/03",
+    "link": "https://zenn.dev/smartcamp/articles/e104f311d6eaee",
+    "pubDate": "Fri, 27 Mar 2026 01:00:08 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化 - Qiita",
     "link": "https://qiita.com/kai_kou/items/a411215806322af68a73",
     "pubDate": "2026-03-27T00:17:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ルーブリックに基づく主観的な判定を取り入れたGRPO学習",
-    "link": "https://zenn.dev/elyza/articles/84c897de6fb26d",
-    "pubDate": "Fri, 27 Mar 2026 00:07:44 GMT"
   },
   {
     "site": "Hatena",
@@ -100,6 +106,12 @@
     "title": "Claude Opus 4.6と同等のAIをローカルで動かすにはいくらかかるか？ローカルLLMを構築してわかったこと",
     "link": "https://zenn.dev/suit9/articles/a1bf8f7c46ef3b",
     "pubDate": "Thu, 26 Mar 2026 23:30:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code同士が会話できるようになったらしいので試してみた",
+    "link": "https://zenn.dev/acntechjp/articles/7bb9f418be6e68",
+    "pubDate": "Thu, 26 Mar 2026 23:02:21 GMT"
   },
   {
     "site": "Qiita",
@@ -138,22 +150,16 @@
     "pubDate": "Thu, 26 Mar 2026 10:43:40 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "「誰かがやるだろう」をやめた1年間の記録 - KAKEHASHI Tech Blog",
+    "link": "https://kakehashi-dev.hatenablog.com/entry/2026/03/26/090000",
+    "pubDate": "2026-03-26T08:00:31.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "実務1年目の僕に伝えたい。完璧主義を捨てて「プロ」になるための行動4選",
     "link": "https://qiita.com/masa20057/items/747faa3de771373a3e4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-26T02:28:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "100ms以内で動作するVLAモデルの実車適用",
-    "link": "https://zenn.dev/turing_motors/articles/f5e44178d78153",
-    "pubDate": "Thu, 26 Mar 2026 02:00:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "git worktree を Worktrunk で管理したら手放せなくなった",
-    "link": "https://zenn.dev/edash_tech_blog/articles/69d01f875dcccd",
-    "pubDate": "Thu, 26 Mar 2026 01:30:10 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【Claude Code】Agentに入れるべきSkills 20選｜skills.sh活用ガイド",
     "link": "https://qiita.com/yamamoto0/items/17817dc09a78078fa132?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-25T06:03:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AnthropicがAI SREの限界を公式認定。「相関関係を因果関係と誤認し続ける」",
-    "link": "https://zenn.dev/tenormusica/articles/anthropic-ai-sre-limits-qcon-2026",
-    "pubDate": "2026-03-25T01:39:41.000Z"
   }
 ]
