@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
-    "title": "無料でネットワーク構成図を自動的に更新するツール「Scanopy」、一度設定すればメンテナンスは不要でネットワークをスキャンしてホストやサービスを検出し接続関係をインタラクティブに可視化、オープンソースでセルフホスト可能",
-    "link": "https://gigazine.net/news/20260328-scanopy/",
-    "pubDate": "2026-03-28T13:39:11.000Z"
+    "title": "お前らの正義の話をしよう - megamouthの葬列",
+    "link": "https://www.megamouth.info/entry/2026/03/29/010701",
+    "pubDate": "2026-03-28T16:48:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「SLAMDUNK」のあるセリフを流川が言ったのか桜木が言ってのかをAIと話していて間違いを指摘したらまったく間違いを認めず延々口論した話…同じような経験をした人が続々",
+    "link": "https://togetter.com/li/2679552",
+    "pubDate": "2026-03-28T15:26:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ハーネスエンジニアリング、それGit Workflowをbashで書き直してるだけでは",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-harness-engineering",
+    "pubDate": "2026-03-28T14:51:16.000Z"
   },
   {
     "site": "Hatena",
@@ -13,21 +25,15 @@
   },
   {
     "site": "Hatena",
-    "title": "コンセントに挿すだけの「プラグイン式ソーラーパネル」普及に電力会社が懸念を表明",
-    "link": "https://gigazine.net/news/20260328-plug-in-solar-utility-concerns/",
-    "pubDate": "2026-03-28T13:22:29.000Z"
+    "title": "Claude Codeのサブスクリプションで動くSlack常駐AIエージェントを作った",
+    "link": "https://tubone-project24.xyz/2026/03/27/mugi-claw-slack-personal-ai-agent/",
+    "pubDate": "2026-03-28T10:33:38.000Z"
   },
   {
     "site": "Qiita",
     "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」 - Qiita",
     "link": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179",
     "pubDate": "2026-03-28T10:20:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "やさしいとこから始めるGitHubリポジトリのセキュリティ",
-    "link": "https://speakerdeck.com/tsubakimoto_s/yasasiitokokarashi-merugithubripozitorinosekiyuritei",
-    "pubDate": "2026-03-28T09:19:59.000Z"
   },
   {
     "site": "Qiita",
@@ -37,9 +43,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code同士が会話できるようになったらしいので試してみた",
-    "link": "https://zenn.dev/acntechjp/articles/7bb9f418be6e68",
-    "pubDate": "2026-03-28T02:12:43.000Z"
+    "title": "国産LLMは作れるのか？ - RakutenAI 3.0の炎上から考える",
+    "link": "https://zenn.dev/jun1013/articles/e2e331dea0c616",
+    "pubDate": "2026-03-28T06:09:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cursorからcmux/Claude Codeに移行するときにやったこと",
+    "link": "https://zenn.dev/d0ne1s/articles/7adbd3a3d54b1d",
+    "pubDate": "Sat, 28 Mar 2026 05:03:36 GMT"
   },
   {
     "site": "Qiita",
@@ -49,21 +61,9 @@
   },
   {
     "site": "Zenn",
-    "title": "電磁気学っぽい理論は電磁気学しかない？",
-    "link": "https://zenn.dev/phykm/articles/9b18faddcbe0f2",
-    "pubDate": "Fri, 27 Mar 2026 15:07:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Opus 4.6と同等のAIをローカルで動かすにはいくらかかるか？ローカルLLMを構築してわかったこと",
-    "link": "https://zenn.dev/suit9/articles/a1bf8f7c46ef3b",
-    "pubDate": "2026-03-27T14:07:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code on Amazon Bedrock のデプロイパターンとベストプラクティス | Amazon Web Services",
-    "link": "https://aws.amazon.com/jp/blogs/news/claude-code-deployment-patterns-and-best-practices-with-amazon-bedrock/",
-    "pubDate": "2026-03-27T14:02:53.000Z"
+    "title": "サプライチェーン攻撃対策の社内展開したやつの抜粋(SHA pinning必須化/min-release-age/Takumi Guard)",
+    "link": "https://zenn.dev/primenumber/articles/d966cc3e2ed441",
+    "pubDate": "Fri, 27 Mar 2026 15:45:36 GMT"
   },
   {
     "site": "Zenn",
@@ -73,9 +73,21 @@
   },
   {
     "site": "Qiita",
-    "title": "スマホから指示、AIが調査・修正・検証。Claude 3つの新機能が作る開発の新しいかたち",
-    "link": "https://qiita.com/nogataka/items/20d9f181ce111f67e084?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-27T08:11:59.000Z"
+    "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
+    "link": "https://qiita.com/N_H_tennis/items/48f13332305338720524?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-27T12:23:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Docling で PDF を Markdown に変換してみる",
+    "link": "https://zenn.dev/fukurou_labo/articles/f523b8c34fcf43",
+    "pubDate": "Fri, 27 Mar 2026 11:18:52 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」",
+    "link": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-27T07:24:29.000Z"
   },
   {
     "site": "Zenn",
@@ -90,6 +102,12 @@
     "pubDate": "2026-03-27T06:55:11.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "同人作品ビューアの自作と要件定義",
+    "link": "https://zenn.dev/amane/articles/ea52610ce17c8b",
+    "pubDate": "Fri, 27 Mar 2026 03:20:28 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「エンジニアは難しい」は本当か？― 未経験の自分が勘違いしていた“難しさ”の正体 ―",
     "link": "https://qiita.com/prum_hitomi/items/07b7926408a3447b6665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,6 +118,18 @@
     "title": "コーディングエージェントのサンドボックス技術を理解する",
     "link": "https://zenn.dev/mkj/articles/3ec9d2d39f446b",
     "pubDate": "Fri, 27 Mar 2026 03:10:50 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "2019年に「HTMLとCSSだけでリアルな眼球を描いた」先輩の職人技を、2026年のAI駆動開発で再現してみた",
+    "link": "https://qiita.com/semba_yui/items/c2b47d27428c2008933b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-27T02:24:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake Managed MCP Server × Claude Codeでデータの仕事を全部Agenticにやりきれそう",
+    "link": "https://zenn.dev/dely_jp/articles/snowflake-managed-mcp-claude-code-agentic-dataops",
+    "pubDate": "Fri, 27 Mar 2026 01:45:52 GMT"
   },
   {
     "site": "Zenn",
@@ -114,18 +144,6 @@
     "pubDate": "Fri, 27 Mar 2026 01:01:07 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Opus 4.6と同等のAIをローカルで動かすにはいくらかかるか？ローカルLLMを構築してわかったこと",
-    "link": "https://zenn.dev/suit9/articles/a1bf8f7c46ef3b",
-    "pubDate": "Thu, 26 Mar 2026 23:30:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code同士が会話できるようになったらしいので試してみた",
-    "link": "https://zenn.dev/acntechjp/articles/7bb9f418be6e68",
-    "pubDate": "Thu, 26 Mar 2026 23:02:21 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
     "link": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -138,22 +156,16 @@
     "pubDate": "2026-03-26T15:01:05.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ソフトウェアテストの古典から現在まで",
-    "link": "https://zenn.dev/mima_ita/articles/79a98d9b9c97b6",
-    "pubDate": "Thu, 26 Mar 2026 14:47:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ベクトルDB不要！Pythonで構築する軽量セマンティック検索『concept-file、concept-grep』",
-    "link": "https://zenn.dev/kiyoka/articles/concept-file-1",
-    "pubDate": "Thu, 26 Mar 2026 14:31:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",
     "link": "https://qiita.com/kai_kou/items/a411215806322af68a73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-26T14:26:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Skillにアプリケーションを組み込んでみる",
+    "link": "https://nyosegawa.com/posts/skill-with-app/",
+    "pubDate": "2026-03-26T14:04:22.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "2026-03-26T02:28:51.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "生成AIで誰でもオシャレなパワポを作る方法",
-    "link": "https://qiita.com/yamazombie/items/d2694937d2ebcd442060?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-25T22:31:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について - Qiita",
-    "link": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
-    "pubDate": "2026-03-25T16:05:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
-    "link": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-25T15:01:52.000Z"
+    "site": "Hatena",
+    "title": "コンセントに挿すだけの「プラグイン式ソーラーパネル」普及に電力会社が懸念を表明",
+    "link": "https://gigazine.net/news/20260328-plug-in-solar-utility-concerns/",
+    "pubDate": "2013-03-01T12:31:13.000Z"
   }
 ]
