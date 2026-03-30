@@ -1,21 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "テレメトリをまるっと比較するE2Eテスト - ともにかける",
-    "link": "https://paper2.hatenablog.com/entry/2026/03/28/135120",
-    "pubDate": "2026-03-29T11:50:57.000Z"
+    "title": "デジタル庁、さくらのクラウドがガバメントクラウドのすべての技術要件を満たしたと発表。ガバメントクラウドに正式決定",
+    "link": "https://www.publickey1.jp/blog/26/post_309.html",
+    "pubDate": "2026-03-29T14:39:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIネイティブな時代への準備",
+    "link": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-29T13:37:15.000Z"
   },
   {
     "site": "Hatena",
-    "title": "高市総理がホワイトハウスでダブルピースしている写真は生成AIで作られた存在しない写真だよ - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2026/03/29/160505",
-    "pubDate": "2026-03-29T07:31:25.000Z"
+    "title": "楽天が方針転換？　「Rakuten AI 3.0はDeepSeekベース」と認める（山口健太） - エキスパート - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/expert/articles/d014ddc69f3bbec265b5e5f74efca652937a8ba7",
+    "pubDate": "2026-03-29T11:32:09.000Z"
   },
   {
     "site": "Zenn",
-    "title": "なぜステータスが混在するテーブル設計が生まれるのか",
-    "link": "https://zenn.dev/tonbi_attack/articles/9cf02af8c2a4b5",
-    "pubDate": "2026-03-29T07:19:37.000Z"
+    "title": "ここんところのWeb界隈についての主観的記録",
+    "link": "https://zenn.dev/crayfisher_zari/articles/e3dfa8ca8a4a79",
+    "pubDate": "2026-03-29T10:48:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Prompt→Context→Harness、全部やった。要件だけ渡す、変わっても壊れない。整合性駆動開発CoDD爆誕",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-codd-coherence",
+    "pubDate": "2026-03-29T09:16:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "iOS26からSampleBufferへ安全なアクセスが可能に",
+    "link": "https://zenn.dev/noppe/articles/f6d41c3e87c433",
+    "pubDate": "Sun, 29 Mar 2026 09:05:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "妻のパン屋のために作ったERP「Craftplan」、小ロットの受注生産を念頭にワークフローが設計されておりオープンソースでセルフホスト可能",
+    "link": "https://gigazine.net/news/20260329-craftplan/",
+    "pubDate": "2026-03-29T09:03:28.000Z"
   },
   {
     "site": "Zenn",
@@ -24,22 +48,28 @@
     "pubDate": "2026-03-29T06:26:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "数学はもうかる　AI時代の人材争奪戦、米国で平均年収2400万円 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOSG024JL0S6A200C2000000/",
-    "pubDate": "2026-03-29T03:04:44.000Z"
+    "site": "Zenn",
+    "title": "Chromeの垂直タブ機能を有効化する",
+    "link": "https://zenn.dev/naopusyu/articles/f1381ed7341574",
+    "pubDate": "Sun, 29 Mar 2026 01:30:00 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話 - Qiita",
-    "link": "https://qiita.com/N_H_tennis/items/48f13332305338720524",
-    "pubDate": "2026-03-29T00:41:08.000Z"
+    "site": "Zenn",
+    "title": "ここんところのWeb界隈についての主観的記録",
+    "link": "https://zenn.dev/crayfisher_zari/articles/e3dfa8ca8a4a79",
+    "pubDate": "Sat, 28 Mar 2026 23:30:05 GMT"
   },
   {
     "site": "Zenn",
     "title": "AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた",
     "link": "https://zenn.dev/nao_u/articles/92ac9436844a16",
     "pubDate": "Sat, 28 Mar 2026 17:43:34 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "新人プログラマがLLM APIを使う前に知っておくべきセキュリティの基本 🔐",
+    "link": "https://qiita.com/zivuch/items/30b92fbe4eae72f99b69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-28T17:16:11.000Z"
   },
   {
     "site": "Qiita",
@@ -54,22 +84,16 @@
     "pubDate": "Sat, 28 Mar 2026 16:26:47 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIエージェント導入で「セキュリティどうするの？」と聞かれたときの技術的な答え方",
-    "link": "https://zenn.dev/sharu389no/articles/e07c926d87ac57",
-    "pubDate": "2026-03-28T16:08:05.000Z"
+    "site": "Hatena",
+    "title": "LLM に足りないのは能力ではない。あなたの事情だ - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/03/28/202554",
+    "pubDate": "2026-03-28T16:06:00.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Docling で PDF を Markdown に変換してみる",
-    "link": "https://zenn.dev/fukurou_labo/articles/f523b8c34fcf43",
-    "pubDate": "2026-03-28T15:23:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "本棚Webアプリ「BiblioCanvas」をCLI+スキルでAIから使いやすくしました",
-    "link": "https://zenn.dev/karaage0703/articles/8daffce3c7391f",
-    "pubDate": "Sat, 28 Mar 2026 11:12:43 GMT"
+    "title": "Claude Codeで100個のSkillを育てた全記録 ── コンテキストエンジニアリング実践4ヶ月の軌跡",
+    "link": "https://zenn.dev/takuyanagai0213/articles/claude-code-100-skills-full-record",
+    "pubDate": "Sat, 28 Mar 2026 09:24:07 GMT"
   },
   {
     "site": "Zenn",
@@ -85,9 +109,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Cursorからcmux/Claude Codeに移行するときにやったこと",
-    "link": "https://zenn.dev/d0ne1s/articles/7adbd3a3d54b1d",
-    "pubDate": "Sat, 28 Mar 2026 05:03:36 GMT"
+    "title": "Androidの基礎",
+    "link": "https://zenn.dev/yt_hsgw/books/android-basics",
+    "pubDate": "Sat, 28 Mar 2026 08:06:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカルLLM",
+    "link": "https://zenn.dev/logbii/articles/10a0bd6eec8707",
+    "pubDate": "Sat, 28 Mar 2026 06:28:39 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Draw.ioをプロンプトとして実行すると便利かもしれない",
+    "link": "https://qiita.com/ShotaOki/items/ae0f16a088f71639e50f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-28T03:55:07.000Z"
   },
   {
     "site": "Qiita",
@@ -96,34 +132,16 @@
     "pubDate": "2026-03-28T01:20:16.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ハーネスエンジニアリング、それGit Workflowをbashで書き直してるだけでは",
-    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-harness-engineering",
-    "pubDate": "Sat, 28 Mar 2026 00:43:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Reactのフラグ地獄を状態遷移テーブルで解消する — Discriminated Union×テーブル駆動設計の実践",
-    "link": "https://zenn.dev/okamyuji/articles/react-state-pattern-finite-state-machine",
-    "pubDate": "Fri, 27 Mar 2026 23:30:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "サプライチェーン攻撃対策の社内展開したやつの抜粋(SHA pinning必須化/min-release-age/Takumi Guard)",
-    "link": "https://zenn.dev/primenumber/articles/d966cc3e2ed441",
-    "pubDate": "Fri, 27 Mar 2026 15:45:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "電磁気学っぽい理論は電磁気学しかない？",
-    "link": "https://zenn.dev/phykm/articles/9b18faddcbe0f2",
-    "pubDate": "Fri, 27 Mar 2026 15:07:04 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
     "link": "https://qiita.com/N_H_tennis/items/48f13332305338720524?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-27T12:23:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選 - Qiita",
+    "link": "https://qiita.com/miruky/items/b996e374c91923141178?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it",
+    "pubDate": "2026-03-27T10:43:49.000Z"
   },
   {
     "site": "Qiita",
@@ -139,33 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "「エンジニアは難しい」は本当か？― 未経験の自分が勘違いしていた“難しさ”の正体 ―",
-    "link": "https://qiita.com/prum_hitomi/items/07b7926408a3447b6665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-27T03:18:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2019年に「HTMLとCSSだけでリアルな眼球を描いた」先輩の職人技を、2026年のAI駆動開発で再現してみた",
-    "link": "https://qiita.com/semba_yui/items/c2b47d27428c2008933b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-27T02:24:16.000Z"
+    "title": " 【Claude Code】ralph-loop で寝てる間に約700ファイルもの大規模ライブラリ移行を終わらせてわかった AI の真価【Jest → Vitest】",
+    "link": "https://qiita.com/semba_yui/items/8c7125722844cf426e12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-27T02:25:38.000Z"
   },
   {
     "site": "Qiita",
     "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
     "link": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-26T22:52:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選",
-    "link": "https://qiita.com/miruky/items/b996e374c91923141178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-26T15:01:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",
-    "link": "https://qiita.com/kai_kou/items/a411215806322af68a73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-26T14:26:15.000Z"
   },
   {
     "site": "Zenn",
