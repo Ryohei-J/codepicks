@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "【特集】 AndroidでSteamライブラリのゲームが遊べる「GameHub」を徹底検証",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2097271.html",
+    "pubDate": "2026-03-30T01:59:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleも「リアルタイム翻訳」、イヤホンを通じて英語→日本語に",
+    "link": "https://japan.cnet.com/article/35245775/",
+    "pubDate": "2026-03-29T22:23:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "デジタル庁、さくらのクラウドがガバメントクラウドのすべての技術要件を満たしたと発表。ガバメントクラウドに正式決定",
     "link": "https://www.publickey1.jp/blog/26/post_309.html",
     "pubDate": "2026-03-29T14:39:06.000Z"
@@ -10,6 +22,12 @@
     "title": "AIネイティブな時代への準備",
     "link": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-29T13:37:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "React やだ 2026",
+    "link": "https://zenn.dev/mnonamer/articles/react-yada-2026",
+    "pubDate": "Sun, 29 Mar 2026 13:30:11 GMT"
   },
   {
     "site": "Hatena",
@@ -22,6 +40,12 @@
     "title": "ここんところのWeb界隈についての主観的記録",
     "link": "https://zenn.dev/crayfisher_zari/articles/e3dfa8ca8a4a79",
     "pubDate": "2026-03-29T10:48:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "エージェントが払う仕組み — AIエージェント決済の6層構造",
+    "link": "https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026",
+    "pubDate": "Sun, 29 Mar 2026 10:45:38 GMT"
   },
   {
     "site": "Zenn",
@@ -43,15 +67,15 @@
   },
   {
     "site": "Zenn",
-    "title": "AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた",
-    "link": "https://zenn.dev/nao_u/articles/92ac9436844a16",
-    "pubDate": "2026-03-29T06:26:16.000Z"
+    "title": "青空文庫書式をRustで遊ぼうと思ったら未踏領域だったのでパーサーを書いた話",
+    "link": "https://zenn.dev/kinokov/articles/4aa1daa7839515",
+    "pubDate": "Sun, 29 Mar 2026 04:57:55 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Chromeの垂直タブ機能を有効化する",
-    "link": "https://zenn.dev/naopusyu/articles/f1381ed7341574",
-    "pubDate": "Sun, 29 Mar 2026 01:30:00 GMT"
+    "title": "Prompt→Context→Harness、全部やった。要件だけ渡す、変わっても壊れない。整合性駆動開発CoDD爆誕",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-codd-coherence",
+    "pubDate": "Sun, 29 Mar 2026 02:52:29 GMT"
   },
   {
     "site": "Zenn",
@@ -91,33 +115,15 @@
   },
   {
     "site": "Zenn",
+    "title": "ユーザーストーリーを書くのがかったるいので「背景・目的・対応内容」に落ち着いた話",
+    "link": "https://zenn.dev/yuichi_dev/articles/5da9509fe04c2d",
+    "pubDate": "Sat, 28 Mar 2026 14:15:22 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Codeで100個のSkillを育てた全記録 ── コンテキストエンジニアリング実践4ヶ月の軌跡",
     "link": "https://zenn.dev/takuyanagai0213/articles/claude-code-100-skills-full-record",
     "pubDate": "Sat, 28 Mar 2026 09:24:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "図形入りの PowerPoint を Markdown に変換",
-    "link": "https://zenn.dev/headwaters/articles/convert-pptx-with-shapes-to-markdown",
-    "pubDate": "Sat, 28 Mar 2026 09:04:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェント導入で「セキュリティどうするの？」と聞かれたときの技術的な答え方",
-    "link": "https://zenn.dev/sharu389no/articles/e07c926d87ac57",
-    "pubDate": "Sat, 28 Mar 2026 08:19:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Androidの基礎",
-    "link": "https://zenn.dev/yt_hsgw/books/android-basics",
-    "pubDate": "Sat, 28 Mar 2026 08:06:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルLLM",
-    "link": "https://zenn.dev/logbii/articles/10a0bd6eec8707",
-    "pubDate": "Sat, 28 Mar 2026 06:28:39 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "懇親会でぼっちにならないテクニック",
     "link": "https://zenn.dev/philosophum/articles/4bdf97acbb2299",
     "pubDate": "2026-03-14T18:41:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code のベストプラクティス - Claude Code Docs",
-    "link": "https://code.claude.com/docs/ja/best-practices",
-    "pubDate": "2026-02-06T23:31:00.000Z"
   }
 ]
