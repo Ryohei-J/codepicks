@@ -1,45 +1,51 @@
 [
   {
+    "site": "Hatena",
+    "title": "情報処理技術者試験及び情報処理安全確保支援士試験の見直しの検討状況について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/shiken/syllabus/henkou/2025/20260331.html",
+    "pubDate": "2026-03-31T05:38:45.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "宣言的スキーマ管理のためのデータマイグレーション",
-    "link": "https://zenn.dev/kanmu_dev/articles/fadd12ece9fbac",
-    "pubDate": "2026-03-31T01:14:12.000Z"
+    "title": "【緊急】axios がサプライチェーン攻撃 2026.03.31",
+    "link": "https://zenn.dev/gunta/articles/0152eadf05d173",
+    "pubDate": "2026-03-31T04:51:44.000Z"
   },
   {
     "site": "Hatena",
-    "title": "“通信していることを悟られない”は実現可能か？　赤外線での秘匿通信、豪州チームが実験　着目したのは「負の発光」",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/31/news021.html",
-    "pubDate": "2026-03-30T23:25:40.000Z"
+    "title": "実証実験中のAIバス、赤字膨らみ廃止　不可解な運営も　神奈川 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20260331/k00/00m/040/013000c",
+    "pubDate": "2026-03-31T03:38:50.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Inertia.js (inertia-rails) を触っているので所感を書いておく - id:onk のはてなブログ",
-    "link": "https://onk.hatenablog.jp/entry/2026/03/31/052250",
-    "pubDate": "2026-03-30T22:03:08.000Z"
+    "title": "axios Compromised on npm - Malicious Versions Drop Remote Access Trojan - StepSecurity",
+    "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+    "pubDate": "2026-03-31T03:15:18.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GitHub - openai/codex-plugin-cc: Use Codex from Claude Code to review code or delegate tasks.",
-    "link": "https://github.com/openai/codex-plugin-cc",
-    "pubDate": "2026-03-30T21:32:00.000Z"
+    "title": "日本人を安売りしてる奴らへ | blog",
+    "link": "https://ryoppippi.com/blog/2026-03-30-japan-engineer-ja",
+    "pubDate": "2026-03-31T00:31:15.000Z"
   },
   {
     "site": "Hatena",
-    "title": "X、英語から日本語に自動翻訳開始　「歴史上最大の文化交流」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2097609.html",
-    "pubDate": "2026-03-30T15:17:43.000Z"
+    "title": "非エンジニアでもできる「OpenClaw」のセットアップ方法 ～社会現象化する“ロブスター”と大ブームの裏に潜むセキュリティリスク【柳谷智宣のAI ウォッチ！】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2097395.html",
+    "pubDate": "2026-03-31T00:27:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代におけるタスク管理を考える",
+    "link": "https://zenn.dev/mkj/articles/geminitask_20260325",
+    "pubDate": "2026-03-30T23:53:56.000Z"
   },
   {
     "site": "Hatena",
     "title": "ドコモの3G「FOMA」と「iモード」が本日31日終了――歴史に残るサービスはどう始まったのか",
     "link": "https://k-tai.watch.impress.co.jp/docs/interview/2097249.html",
     "pubDate": "2026-03-30T15:15:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Xの自動翻訳で「言葉の壁」崩れる　開発者「史上最大規模の文化交流が始まった」　ただし誤解を危惧する声も",
-    "link": "https://www.itmedia.co.jp/news/articles/2603/30/news142.html",
-    "pubDate": "2026-03-30T13:22:34.000Z"
   },
   {
     "site": "Hatena",
@@ -54,10 +60,10 @@
     "pubDate": "2026-03-30T10:16:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIを使ったゲームボーイカラー用アドベンチャー「Daydream」が登場、Wi-Fi経由で生成AIに接続",
-    "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2097198.html",
-    "pubDate": "2026-03-30T07:10:25.000Z"
+    "site": "Zenn",
+    "title": "ClaudeCodeと弱者の戦略",
+    "link": "https://zenn.dev/akatuki_me/articles/43eb4604d0675d",
+    "pubDate": "Mon, 30 Mar 2026 10:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -73,6 +79,12 @@
   },
   {
     "site": "Zenn",
+    "title": "完全自律のコーディングパイプラインを作った",
+    "link": "https://zenn.dev/theaktky/articles/5f9f18c34950c1",
+    "pubDate": "Mon, 30 Mar 2026 04:06:52 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AI時代におけるタスク管理を考える",
     "link": "https://zenn.dev/mkj/articles/geminitask_20260325",
     "pubDate": "Mon, 30 Mar 2026 02:50:05 GMT"
@@ -84,10 +96,22 @@
     "pubDate": "Mon, 30 Mar 2026 01:28:47 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Goにはなぜ例外がないのか",
+    "link": "https://zenn.dev/tokium_dev/articles/2026-03-30-go-errors",
+    "pubDate": "Mon, 30 Mar 2026 00:00:07 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "ADBとPythonでお手軽AIエージェントアプリ構築 (SELECT AI for Python＋Streamlit)",
     "link": "https://qiita.com/ssfujita/items/83fc90d846f941ee6f4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-29T23:48:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ユニットテストは2種類ある。AI時代に壊れないテスト設計",
+    "link": "https://zenn.dev/headwaters/articles/579d5f94907dcd",
+    "pubDate": "Sun, 29 Mar 2026 22:40:05 GMT"
   },
   {
     "site": "Qiita",
@@ -112,12 +136,6 @@
     "title": "React やだ 2026",
     "link": "https://zenn.dev/mnonamer/articles/react-yada-2026",
     "pubDate": "Sun, 29 Mar 2026 13:30:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エージェントが払う仕組み — AIエージェント決済の6層構造",
-    "link": "https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026",
-    "pubDate": "Sun, 29 Mar 2026 10:45:38 GMT"
   },
   {
     "site": "Zenn",
@@ -148,24 +166,6 @@
     "title": "データアナリスト3年目が語る「教科書に載ってない」現場のリアル",
     "link": "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-29T03:48:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Prompt→Context→Harness、全部やった。要件だけ渡す、変わっても壊れない。整合性駆動開発CoDD爆誕",
-    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-codd-coherence",
-    "pubDate": "Sun, 29 Mar 2026 02:52:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Chromeの垂直タブ機能を有効化する",
-    "link": "https://zenn.dev/naopusyu/articles/f1381ed7341574",
-    "pubDate": "Sun, 29 Mar 2026 01:30:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ここんところのWeb界隈についての主観的記録",
-    "link": "https://zenn.dev/crayfisher_zari/articles/e3dfa8ca8a4a79",
-    "pubDate": "Sat, 28 Mar 2026 23:30:05 GMT"
   },
   {
     "site": "Qiita",
