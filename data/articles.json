@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "はてな匿名ダイアリーに「あいまい検索」「関連エントリ」機能を追加しました - はてラボ 開発者ブログ",
+    "link": "https://labo.hatenastaff.com/entry/2026/04/01/000000",
+    "pubDate": "2026-03-31T15:06:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "総務省、老舗ISP「hi-ho」に指導　一部集合住宅のVDSL終了を居住者に知らせず",
+    "link": "https://www.itmedia.co.jp/news/articles/2603/31/news153.html",
+    "pubDate": "2026-03-31T13:53:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "パナソニックの電動工具、マキタに移管 - 家電 Watch",
     "link": "https://kaden.watch.impress.co.jp/docs/news/2097874.html",
     "pubDate": "2026-03-31T09:33:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "サプライチェーン攻撃から身を守るために最低限設定しておきたいこと",
+    "link": "https://zenn.dev/dely_jp/articles/supply-chain-kowai",
+    "pubDate": "2026-03-31T09:25:22.000Z"
   },
   {
     "site": "Hatena",
@@ -48,40 +66,22 @@
     "pubDate": "Tue, 31 Mar 2026 04:06:25 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "実証実験中のAIバス、赤字膨らみ廃止　不可解な運営も　神奈川 | 毎日新聞",
-    "link": "https://mainichi.jp/articles/20260331/k00/00m/040/013000c",
-    "pubDate": "2026-03-31T03:38:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【35歳未経験でも理解できた】破綻しないCSS設計の基本",
     "link": "https://qiita.com/wata-sho/items/81ddcadc785a6498d10f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-31T03:23:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "日本人を安売りしてる奴らへ | blog",
-    "link": "https://ryoppippi.com/blog/2026-03-30-japan-engineer-ja",
-    "pubDate": "2026-03-31T00:31:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "非エンジニアでもできる「OpenClaw」のセットアップ方法 ～社会現象化する“ロブスター”と大ブームの裏に潜むセキュリティリスク【柳谷智宣のAI ウォッチ！】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2097395.html",
-    "pubDate": "2026-03-31T00:27:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代におけるタスク管理を考える",
-    "link": "https://zenn.dev/mkj/articles/geminitask_20260325",
-    "pubDate": "2026-03-30T23:53:56.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Ubieにおける一年間のセキュリティ分析AIエージェントの運用",
     "link": "https://zenn.dev/ubie_dev/articles/ai-sec-alert-ops",
     "pubDate": "Mon, 30 Mar 2026 22:35:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ログ設計：基礎から応用まで",
+    "link": "https://zenn.dev/sun_asterisk/articles/665f05f1b584dd",
+    "pubDate": "2026-03-30T22:32:43.000Z"
   },
   {
     "site": "Zenn",
@@ -112,12 +112,6 @@
     "title": "Pythonで実装して理解する RDBパフォーマンスチューニング入門 ─ フルスキャンとインデックスの仕組み",
     "link": "https://qiita.com/take-yoda/items/ecc6e9b174b2e5e97406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-30T08:00:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "よう若いの。Linuxってのはだな。",
-    "link": "https://zenn.dev/acntechjp/articles/20260329_linux",
-    "pubDate": "2026-03-30T07:09:38.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "データアナリスト3年目が語る「教科書に載ってない」現場のリアル",
     "link": "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-29T03:48:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code 開発者のための完全ガイド",
+    "link": "https://zenn.dev/417/articles/c15af4f4106a9f",
+    "pubDate": "2026-03-25T07:55:35.000Z"
   }
 ]
