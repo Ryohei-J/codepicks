@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "パナソニックの電動工具、マキタに移管 - 家電 Watch",
+    "link": "https://kaden.watch.impress.co.jp/docs/news/2097874.html",
+    "pubDate": "2026-03-31T09:33:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "axios ソフトウェアサプライチェーン攻撃の概要と対応指針 - GMO Flatt Security Blog",
+    "link": "https://blog.flatt.tech/entry/axios_compromise",
+    "pubDate": "2026-03-31T07:46:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "SPFへのinclude追加、本当に必要ですか？ envelope-fromとキャリアメールの話 - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/spf-vs-senderid",
+    "pubDate": "2026-03-31T07:44:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "未経験からITエンジニアを目指しているけど、内定先を決めきれない人へ。後悔しにくい考え方を整理してみる",
+    "link": "https://qiita.com/prum_iha/items/1592158be6ca86837429?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-31T07:31:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "あつあつ流！学生団体の組織論",
+    "link": "https://zenn.dev/atsuatsu0120/books/132d3d1b3ca579",
+    "pubDate": "Tue, 31 Mar 2026 05:57:35 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "情報処理技術者試験及び情報処理安全確保支援士試験の見直しの検討状況について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
     "link": "https://www.ipa.go.jp/shiken/syllabus/henkou/2025/20260331.html",
     "pubDate": "2026-03-31T05:38:45.000Z"
@@ -12,16 +42,22 @@
     "pubDate": "2026-03-31T04:51:44.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【緊急】axios がサプライチェーン攻撃 2026.03.31",
+    "link": "https://zenn.dev/gunta/articles/0152eadf05d173",
+    "pubDate": "Tue, 31 Mar 2026 04:06:25 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "実証実験中のAIバス、赤字膨らみ廃止　不可解な運営も　神奈川 | 毎日新聞",
     "link": "https://mainichi.jp/articles/20260331/k00/00m/040/013000c",
     "pubDate": "2026-03-31T03:38:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "axios Compromised on npm - Malicious Versions Drop Remote Access Trojan - StepSecurity",
-    "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-    "pubDate": "2026-03-31T03:15:18.000Z"
+    "site": "Qiita",
+    "title": "【35歳未経験でも理解できた】破綻しないCSS設計の基本",
+    "link": "https://qiita.com/wata-sho/items/81ddcadc785a6498d10f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-31T03:23:56.000Z"
   },
   {
     "site": "Hatena",
@@ -42,16 +78,16 @@
     "pubDate": "2026-03-30T23:53:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ドコモの3G「FOMA」と「iモード」が本日31日終了――歴史に残るサービスはどう始まったのか",
-    "link": "https://k-tai.watch.impress.co.jp/docs/interview/2097249.html",
-    "pubDate": "2026-03-30T15:15:25.000Z"
+    "site": "Zenn",
+    "title": "Ubieにおける一年間のセキュリティ分析AIエージェントの運用",
+    "link": "https://zenn.dev/ubie_dev/articles/ai-sec-alert-ops",
+    "pubDate": "Mon, 30 Mar 2026 22:35:49 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "不動産会社から出される契約書は、すべて写真撮ってGeminiに投げて、「私は契約当事者（甲）です。私にとって不利になる状況を全て教えてください。」で大体解決します。売買契約書、管理委託契約書、賃貸借契約書、全部に使える。",
-    "link": "https://posfie.com/@TElZiBwoGn32797/p/tTIX17c",
-    "pubDate": "2026-03-30T10:41:22.000Z"
+    "site": "Zenn",
+    "title": "Kiroの仕様駆動開発を2案件回して辿り着いた運用設計",
+    "link": "https://zenn.dev/fusic/articles/ae90127245999a",
+    "pubDate": "Mon, 30 Mar 2026 11:04:36 GMT"
   },
   {
     "site": "Qiita",
@@ -67,6 +103,18 @@
   },
   {
     "site": "Zenn",
+    "title": "セキュリティ重視の GitHub Actions 静的解析ツール「ghasec」の紹介",
+    "link": "https://zenn.dev/kou_pg_0131/articles/ghasec-introduction",
+    "pubDate": "Mon, 30 Mar 2026 09:00:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Pythonで実装して理解する RDBパフォーマンスチューニング入門 ─ フルスキャンとインデックスの仕組み",
+    "link": "https://qiita.com/take-yoda/items/ecc6e9b174b2e5e97406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-30T08:00:46.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "よう若いの。Linuxってのはだな。",
     "link": "https://zenn.dev/acntechjp/articles/20260329_linux",
     "pubDate": "2026-03-30T07:09:38.000Z"
@@ -76,6 +124,18 @@
     "title": "未経験から3年で感じたこれからのキャリアを築くための行動3選",
     "link": "https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-30T04:25:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Skillsで開発ワークフローを効率化している話",
+    "link": "https://zenn.dev/berry_blog/articles/8d1b2c9216b4e9",
+    "pubDate": "Mon, 30 Mar 2026 04:21:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "自己進化する運用エージェントの設計と実装 〜 3層メモリで AI が AI を育てる AIOps の世界 〜",
+    "link": "https://zenn.dev/aws_japan/articles/self-evolving-ops-agent-multi-layer-memory",
+    "pubDate": "Mon, 30 Mar 2026 04:09:31 GMT"
   },
   {
     "site": "Zenn",
@@ -90,58 +150,16 @@
     "pubDate": "Mon, 30 Mar 2026 02:50:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "定常業務を自動操縦にする — Claude Code スケジューラーの育て方",
-    "link": "https://zenn.dev/dely_jp/articles/cf19634b63015b",
-    "pubDate": "Mon, 30 Mar 2026 01:28:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Goにはなぜ例外がないのか",
-    "link": "https://zenn.dev/tokium_dev/articles/2026-03-30-go-errors",
-    "pubDate": "Mon, 30 Mar 2026 00:00:07 GMT"
+    "site": "Qiita",
+    "title": "Power Automate から Copilot Studio のエージェントを多重実行させる",
+    "link": "https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-29T23:25:50.000Z"
   },
   {
     "site": "Qiita",
-    "title": "ADBとPythonでお手軽AIエージェントアプリ構築 (SELECT AI for Python＋Streamlit)",
-    "link": "https://qiita.com/ssfujita/items/83fc90d846f941ee6f4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-29T23:48:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ユニットテストは2種類ある。AI時代に壊れないテスト設計",
-    "link": "https://zenn.dev/headwaters/articles/579d5f94907dcd",
-    "pubDate": "Sun, 29 Mar 2026 22:40:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "入緑したのでいろいろ書いた",
-    "link": "https://qiita.com/siooisi/items/9fe844e4be3559a8944f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-29T21:26:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "よう若いの。Linuxってのはだな。",
-    "link": "https://zenn.dev/acntechjp/articles/20260329_linux",
-    "pubDate": "Sun, 29 Mar 2026 16:12:04 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "まずは無料で触ってみる！Oracle「Private Agent Factory」でAIエージェントを作ってみた",
-    "link": "https://qiita.com/yushibats/items/74ecee18742efbd4ad36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-29T15:03:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React やだ 2026",
-    "link": "https://zenn.dev/mnonamer/articles/react-yada-2026",
-    "pubDate": "Sun, 29 Mar 2026 13:30:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenClaw × OllamaをMacBook 16GBで動かす - ローカルLLM入門",
-    "link": "https://zenn.dev/komlock_lab/articles/openclaw-local-llm",
-    "pubDate": "Sun, 29 Mar 2026 07:51:27 GMT"
+    "title": "AIネイティブな時代への準備",
+    "link": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-29T13:37:15.000Z"
   },
   {
     "site": "Qiita",
@@ -156,27 +174,9 @@
     "pubDate": "2026-03-29T06:12:57.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "青空文庫書式をRustで遊ぼうと思ったら未踏領域だったのでパーサーを書いた話",
-    "link": "https://zenn.dev/kinokov/articles/4aa1daa7839515",
-    "pubDate": "Sun, 29 Mar 2026 04:57:55 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "データアナリスト3年目が語る「教科書に載ってない」現場のリアル",
     "link": "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-29T03:48:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "まだ使ったことのないCopilot Coworkのユースケースを考える",
-    "link": "https://qiita.com/Oyu3m/items/80cf565c7e1dc52c25f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-28T16:41:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Draw.ioをプロンプトとして実行すると便利かもしれない",
-    "link": "https://qiita.com/ShotaOki/items/ae0f16a088f71639e50f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-28T03:55:07.000Z"
   }
 ]
