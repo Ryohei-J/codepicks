@@ -1,27 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "LINEヤフー、出社を「原則週3回」に引き上げへ　新「赤坂オフィス」開設",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/01/news075.html",
+    "pubDate": "2026-04-01T04:03:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "頭の中にAI入れて、そいつに全部任せたい！なぜなら俺が無能だから！",
+    "link": "https://anond.hatelabo.jp/20260331223052",
+    "pubDate": "2026-04-01T03:20:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「人間用ホームページやめました」、インターリンクがコーポレートサイトをMarkdown記法に　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2098077.html",
+    "pubDate": "2026-04-01T02:24:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "恥ずかしいGmailアドレス、ついに変更可能に--Googleが新機能を順次提供",
     "link": "https://japan.cnet.com/article/35245860/",
     "pubDate": "2026-03-31T23:57:17.000Z"
   },
   {
     "site": "Hatena",
-    "title": "アップル創業50周年　変わり続けたアップルが変えなかったもの",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2097611.html",
-    "pubDate": "2026-03-31T23:45:33.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【30周年記念】 PC Watchは創刊30周年を迎えました。編集長よりご挨拶と今後の展望",
     "link": "https://pc.watch.impress.co.jp/docs/column/30th/2097385.html",
     "pubDate": "2026-03-31T23:28:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Maze Ad",
-    "link": "https://uhyo.github.io/maze-ad/",
-    "pubDate": "2026-03-31T15:48:21.000Z"
   },
   {
     "site": "Hatena",
@@ -43,21 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "2400億円超の架空取引はなぜ起きた、KDDIがビッグローブらの不正実態と再発防止策を説明",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2097996.html",
-    "pubDate": "2026-03-31T12:23:51.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "メルカリグループ AI活用基本ポリシー",
     "link": "https://about.mercari.com/ai-policy/",
     "pubDate": "2026-03-31T12:06:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "サプライチェーン攻撃から身を守るために最低限設定しておきたいこと",
-    "link": "https://zenn.dev/dely_jp/articles/supply-chain-kowai",
-    "pubDate": "Tue, 31 Mar 2026 08:41:07 GMT"
   },
   {
     "site": "Qiita",
@@ -67,15 +61,33 @@
   },
   {
     "site": "Zenn",
+    "title": "axiosにサプライチェーン攻撃が発生した話と、担当プロジェクトでやっていた備え",
+    "link": "https://zenn.dev/rescuenow/articles/880bf865235aaf",
+    "pubDate": "Tue, 31 Mar 2026 06:54:31 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "あつあつ流！学生団体の組織論",
     "link": "https://zenn.dev/atsuatsu0120/books/132d3d1b3ca579",
     "pubDate": "Tue, 31 Mar 2026 05:57:35 GMT"
   },
   {
     "site": "Zenn",
+    "title": "Claude Code を「何となく使っている」から抜け出す——『実践 Claude Code 入門』で得た気づき",
+    "link": "https://zenn.dev/nextbeat/articles/practical-claude-code-introduction",
+    "pubDate": "Tue, 31 Mar 2026 05:52:00 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "【緊急】axios がサプライチェーン攻撃 2026.03.31",
     "link": "https://zenn.dev/gunta/articles/0152eadf05d173",
     "pubDate": "Tue, 31 Mar 2026 04:06:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "自己流「ハーネスエンジニアリング」からの脱却",
+    "link": "https://zenn.dev/knowledgesense/articles/22eac0ba8cada3",
+    "pubDate": "Tue, 31 Mar 2026 03:50:36 GMT"
   },
   {
     "site": "Qiita",
@@ -91,12 +103,6 @@
   },
   {
     "site": "Zenn",
-    "title": "宣言的スキーマ管理のためのデータマイグレーション",
-    "link": "https://zenn.dev/kanmu_dev/articles/fadd12ece9fbac",
-    "pubDate": "Tue, 31 Mar 2026 01:10:21 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Ubieにおける一年間のセキュリティ分析AIエージェントの運用",
     "link": "https://zenn.dev/ubie_dev/articles/ai-sec-alert-ops",
     "pubDate": "Mon, 30 Mar 2026 22:35:49 GMT"
@@ -106,6 +112,12 @@
     "title": "Claude Code の「完了待ち」から解放されるターミナル開発環境",
     "link": "https://zenn.dev/maeken/articles/claude-code-terminal-setup",
     "pubDate": "Mon, 30 Mar 2026 15:28:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kiroの仕様駆動開発を2案件回して辿り着いた運用設計",
+    "link": "https://zenn.dev/fusic/articles/ae90127245999a",
+    "pubDate": "Mon, 30 Mar 2026 11:04:36 GMT"
   },
   {
     "site": "Qiita",
@@ -121,27 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "ログ設計：基礎から応用まで",
-    "link": "https://zenn.dev/sun_asterisk/articles/665f05f1b584dd",
-    "pubDate": "Mon, 30 Mar 2026 05:45:52 GMT"
+    "title": "セキュリティ重視の GitHub Actions 静的解析ツール「ghasec」の紹介",
+    "link": "https://zenn.dev/kou_pg_0131/articles/ghasec-introduction",
+    "pubDate": "Mon, 30 Mar 2026 09:00:07 GMT"
   },
   {
     "site": "Qiita",
     "title": "未経験から3年で感じたこれからのキャリアを築くための行動3選",
     "link": "https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-30T04:25:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code Skillsで開発ワークフローを効率化している話",
-    "link": "https://zenn.dev/berry_blog/articles/8d1b2c9216b4e9",
-    "pubDate": "Mon, 30 Mar 2026 04:21:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自己進化する運用エージェントの設計と実装 〜 3層メモリで AI が AI を育てる AIOps の世界 〜",
-    "link": "https://zenn.dev/aws_japan/articles/self-evolving-ops-agent-multi-layer-memory",
-    "pubDate": "Mon, 30 Mar 2026 04:09:31 GMT"
   },
   {
     "site": "Qiita",
