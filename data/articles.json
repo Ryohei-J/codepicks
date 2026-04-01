@@ -1,5 +1,35 @@
 [
   {
+    "site": "Zenn",
+    "title": "npm をセキュアな挙動にするために .npmrc に記述する最小設定",
+    "link": "https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb",
+    "pubDate": "2026-04-01T11:07:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【朗報】スレタイと1コメを書く→AIがレスを生成する匿名掲示板シミュレーター登場　想像以上に「おまいら」だった件",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/01/news096.html",
+    "pubDate": "2026-04-01T07:04:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "薄給ではたらく看護師さん、イーロンの自動翻訳機能のお陰でオーストラリアの看護師さんと話をした結果、月収の圧倒的な差を思い知らされてしまう",
+    "link": "https://togetter.com/li/2681043",
+    "pubDate": "2026-04-01T06:22:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": " 【前編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴",
+    "link": "https://qiita.com/hitomin_poke/items/094edffe1d7961bb6395?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-01T04:18:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エージェントハーネスとAIマネージドサービス｜福島良典 | LayerX",
+    "link": "https://note.com/fukkyy/n/n1d8fce44e67a",
+    "pubDate": "2026-04-01T04:08:46.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "LINEヤフー、出社を「原則週3回」に引き上げへ　新「赤坂オフィス」開設",
     "link": "https://www.itmedia.co.jp/news/articles/2604/01/news075.html",
@@ -18,16 +48,40 @@
     "pubDate": "2026-04-01T02:24:43.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ - Qiita",
+    "link": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146",
+    "pubDate": "2026-04-01T01:41:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【35歳未経験でも理解できた】「現代の技術の学び方」",
+    "link": "https://qiita.com/wata-sho/items/ff44f2069e3331ab9c0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-01T01:26:15.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "恥ずかしいGmailアドレス、ついに変更可能に--Googleが新機能を順次提供",
     "link": "https://japan.cnet.com/article/35245860/",
     "pubDate": "2026-03-31T23:57:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【30周年記念】 PC Watchは創刊30周年を迎えました。編集長よりご挨拶と今後の展望",
-    "link": "https://pc.watch.impress.co.jp/docs/column/30th/2097385.html",
-    "pubDate": "2026-03-31T23:28:06.000Z"
+    "site": "Qiita",
+    "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
+    "link": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-31T22:50:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "逆引き Rust Web API 開発: Axum で学ぶ実践パターン",
+    "link": "https://zenn.dev/sbk0716/books/70b401fac4005d",
+    "pubDate": "Tue, 31 Mar 2026 18:54:31 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Windows TerminalでDBに接続する時に色変えたい",
+    "link": "https://qiita.com/ynaru-yzrh/items/4b7a87438b4c3ff674f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-31T16:32:28.000Z"
   },
   {
     "site": "Hatena",
@@ -36,22 +90,10 @@
     "pubDate": "2026-03-31T13:39:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ローカルAIを活用したら、大量のサブスクが解約できたぞ！ | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2603-gave-local-llm-access-to-files-replaced-three-apps/",
-    "pubDate": "2026-03-31T13:12:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeのソースコード流出、npmソースマップに51万行が丸見えだった件",
-    "link": "https://ai-heartland.com/news/claude-code-source-leak/",
-    "pubDate": "2026-03-31T12:56:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "メルカリグループ AI活用基本ポリシー",
-    "link": "https://about.mercari.com/ai-policy/",
-    "pubDate": "2026-03-31T12:06:47.000Z"
+    "site": "Zenn",
+    "title": "サプライチェーン攻撃から身を守るために最低限設定しておきたいこと",
+    "link": "https://zenn.dev/dely_jp/articles/supply-chain-kowai",
+    "pubDate": "Tue, 31 Mar 2026 08:41:07 GMT"
   },
   {
     "site": "Qiita",
@@ -96,10 +138,28 @@
     "pubDate": "2026-03-31T03:23:56.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "モノレポのローカル開発環境をDockerからmiseに移行して起動速度を75%改善した",
+    "link": "https://zenn.dev/hrbrain/articles/local-development-docker-to-mise",
+    "pubDate": "Tue, 31 Mar 2026 03:00:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Web 標準動向 2026年3月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202603",
+    "pubDate": "Tue, 31 Mar 2026 03:00:00 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Geminiで学会発表レベルの綺麗なスライド資料を作ろう",
     "link": "https://qiita.com/zakuro/items/6bb67ea89fb6e2074203?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-31T01:27:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化",
+    "link": "https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-03-31T00:18:35.000Z"
   },
   {
     "site": "Zenn",
@@ -108,75 +168,15 @@
     "pubDate": "Mon, 30 Mar 2026 22:35:49 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code の「完了待ち」から解放されるターミナル開発環境",
-    "link": "https://zenn.dev/maeken/articles/claude-code-terminal-setup",
-    "pubDate": "Mon, 30 Mar 2026 15:28:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiroの仕様駆動開発を2案件回して辿り着いた運用設計",
-    "link": "https://zenn.dev/fusic/articles/ae90127245999a",
-    "pubDate": "Mon, 30 Mar 2026 11:04:36 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "新卒、焦らなくていいよ。不出来と思われたくなくて空回りした私より。",
     "link": "https://qiita.com/kimuchi_a/items/2e018c98e35752dae179?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-30T10:16:12.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ClaudeCodeと弱者の戦略",
-    "link": "https://zenn.dev/akatuki_me/articles/43eb4604d0675d",
-    "pubDate": "Mon, 30 Mar 2026 10:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "セキュリティ重視の GitHub Actions 静的解析ツール「ghasec」の紹介",
-    "link": "https://zenn.dev/kou_pg_0131/articles/ghasec-introduction",
-    "pubDate": "Mon, 30 Mar 2026 09:00:07 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "未経験から3年で感じたこれからのキャリアを築くための行動3選",
     "link": "https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-30T04:25:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Power Automate から Copilot Studio のエージェントを多重実行させる",
-    "link": "https://qiita.com/Takashi_Masumori/items/54e88055dc5fe22c0e1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-29T23:25:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIネイティブな時代への準備",
-    "link": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-29T13:37:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話",
-    "link": "https://qiita.com/yuyanz/items/5d2087dd5500d0689d7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-29T06:25:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアが「人に会う」だけでキャリアが加速する理由｜勉強会のすすめ",
-    "link": "https://qiita.com/ktdatascience/items/9138dff381709bce3ea8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-29T06:12:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "データアナリスト3年目が語る「教科書に載ってない」現場のリアル",
-    "link": "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-29T03:48:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code 開発者のための完全ガイド",
-    "link": "https://zenn.dev/417/articles/c15af4f4106a9f",
-    "pubDate": "2026-03-25T07:55:35.000Z"
   }
 ]
