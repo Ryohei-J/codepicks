@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "WordPress後継CMS「EmDash」を触ってみる",
+    "link": "https://zenn.dev/z4ck_key/articles/try-emdash-cms",
+    "pubDate": "2026-04-02T13:10:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【注意喚起】生成AIを使用した巧妙な詐欺の電話に引っかかってしまったので交番で話したら「こいつら悪すぎる」「こんなの俺も騙される」と警察官も驚いていた",
+    "link": "https://togetter.com/li/2681477",
+    "pubDate": "2026-04-02T12:01:57.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「VS Code」でMarkdownの編集とプレビューの行き来を減らす「Markdown Live Editor」／エディターとプレビューを融合させたWYSIWYGスタイルの編集を実現【レビュー】",
     "link": "https://forest.watch.impress.co.jp/docs/review/2098651.html",
     "pubDate": "2026-04-02T10:36:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最大3万人の従業員をOracleが解雇、従業員への事前通知はなく朝に届いたメール1通で職を失う",
+    "link": "https://gigazine.net/news/20260402-oracle-layoff-30000/",
+    "pubDate": "2026-04-02T10:32:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code、最初にこれやっとき｜7つの設定で世界変わるで",
+    "link": "https://zenn.dev/masayan1126/books/claude-code-initial-settings",
+    "pubDate": "Thu, 02 Apr 2026 08:41:59 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cloudflare、WordPressの機能をTypeScriptで再構築した「EmDash」をオープンソースとしてプレビューリリース ―WordPressプラグインのセキュリティ問題を解消 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/04/emdash",
+    "pubDate": "2026-04-02T07:23:10.000Z"
   },
   {
     "site": "Hatena",
@@ -42,24 +72,6 @@
     "pubDate": "Thu, 02 Apr 2026 01:25:28 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeに仕様書を丸ごと渡すな ── 「要件を伝える」との決定的な違い",
-    "link": "https://zenn.dev/bookamasedo/articles/c264a26dafe55b",
-    "pubDate": "2026-04-02T00:37:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "CloudflareがAstroベースのオープンソースCMS「EmDash」を公開したので早速Workersにデプロイしてみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/tried-emdash-astro-based-oss-cms-by-cloudflare/",
-    "pubDate": "2026-04-02T00:25:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ジョブズの別れのアドバイスは｢Appleをディズニーみたいにしてはいけない｣",
-    "link": "https://www.gizmodo.jp/2026/04/steve-jobs_advice.html",
-    "pubDate": "2026-04-01T23:54:34.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "制約を読まないエンジニアへ - 弁護士ドットコム株式会社 Creators’ blog",
     "link": "https://creators.bengo4.com/entry/2026/04/02/080000",
@@ -70,12 +82,6 @@
     "title": "Copilot Studio エージェントの展開先はどこがベスト？4つのチャネルをライセンス・機能面で比較してみた (2026 年 4 月時点)",
     "link": "https://qiita.com/Takashi_Masumori/items/acdedf5f62ce776a83ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-01T23:08:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化 - Qiita",
-    "link": "https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c",
-    "pubDate": "2026-04-01T13:18:16.000Z"
   },
   {
     "site": "Zenn",
@@ -154,12 +160,6 @@
     "title": "ユーザーが使うほど成長するAIエージェントを作る（最適化パイプライン編）",
     "link": "https://zenn.dev/porche1223/articles/90287ab85bba43",
     "pubDate": "Tue, 31 Mar 2026 14:59:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "サプライチェーン攻撃から身を守るために最低限設定しておきたいこと",
-    "link": "https://zenn.dev/dely_jp/articles/supply-chain-kowai",
-    "pubDate": "Tue, 31 Mar 2026 08:41:07 GMT"
   },
   {
     "site": "Qiita",
