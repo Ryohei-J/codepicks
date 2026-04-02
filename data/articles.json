@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "23歳、平凡なエンジニアワイ。AIと不安で眠れない夜。決意の朝に。 - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/04/02/085835",
-    "pubDate": "2026-04-02T00:07:54.000Z"
+    "title": "ドコモ、スマホと衛星が直接つながる「Starlink Direct」4月27日開始　当面無料",
+    "link": "https://www.watch.impress.co.jp/docs/news/2098458.html",
+    "pubDate": "2026-04-02T03:54:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Adobe CCがhostsファイルを無断で変更か。批判の声相次ぐ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2098494.html",
+    "pubDate": "2026-04-02T03:48:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeに仕様書を丸ごと渡すな ── 「要件を伝える」との決定的な違い",
+    "link": "https://zenn.dev/bookamasedo/articles/c264a26dafe55b",
+    "pubDate": "2026-04-02T00:37:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "CloudflareがAstroベースのオープンソースCMS「EmDash」を公開したので早速Workersにデプロイしてみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/tried-emdash-astro-based-oss-cms-by-cloudflare/",
+    "pubDate": "2026-04-02T00:25:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ジョブズの別れのアドバイスは｢Appleをディズニーみたいにしてはいけない｣",
+    "link": "https://www.gizmodo.jp/2026/04/steve-jobs_advice.html",
+    "pubDate": "2026-04-01T23:54:34.000Z"
   },
   {
     "site": "Hatena",
@@ -18,34 +42,10 @@
     "pubDate": "2026-04-01T16:13:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "2030年までに、1兆個のパラメータを持つLLMの推論コストが90％以上削減される、ガートナーが予想",
-    "link": "https://www.publickey1.jp/blog/26/20301llm90.html",
-    "pubDate": "2026-04-01T14:57:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "dockerfile-pin: DockerfileやComposeのイメージをSHA256でピン留めするCLIツールを作った",
-    "link": "https://efcl.info/2026/04/01/dockerfile-pin/",
-    "pubDate": "2026-04-01T14:40:46.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化 - Qiita",
     "link": "https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c",
     "pubDate": "2026-04-01T13:18:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【動画】マッコウクジラの出産で驚きの発見、非血縁者も協力",
-    "link": "https://natgeo.nikkeibp.co.jp/atcl/news/26/033100182/",
-    "pubDate": "2026-04-01T12:11:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIエージェントのHuman-in-the-Loop評価を深化させる - LayerX エンジニアブログ",
-    "link": "https://tech.layerx.co.jp/entry/2026/04/01/150000",
-    "pubDate": "2026-04-01T10:08:20.000Z"
   },
   {
     "site": "Zenn",
@@ -64,6 +64,12 @@
     "title": "REST API と GraphQL の違いをフロントエンド目線で整理する",
     "link": "https://qiita.com/ryo_sh/items/18a4ddd39ada54c58b12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-01T06:43:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ReAct (Reason+Act) パターンを TypeScript だけで実装する",
+    "link": "https://zenn.dev/kt3k/articles/74785af8436b1e",
+    "pubDate": "Wed, 01 Apr 2026 05:14:52 GMT"
   },
   {
     "site": "Zenn",
@@ -90,6 +96,12 @@
     "pubDate": "Wed, 01 Apr 2026 02:48:18 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeに仕様書を丸ごと渡すな ── 「要件を伝える」との決定的な違い",
+    "link": "https://zenn.dev/bookamasedo/articles/c264a26dafe55b",
+    "pubDate": "Wed, 01 Apr 2026 01:37:45 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【35歳未経験でも理解できた】「現代の技術の学び方」",
     "link": "https://qiita.com/wata-sho/items/ff44f2069e3331ab9c0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -109,9 +121,21 @@
   },
   {
     "site": "Zenn",
+    "title": "MarkdownだけでWikiを作ろう",
+    "link": "https://zenn.dev/kyome/articles/9937ce78b948bc",
+    "pubDate": "Tue, 31 Mar 2026 18:45:49 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "サプライチェーン攻撃から身を守るために最低限設定しておきたいこと",
     "link": "https://zenn.dev/dely_jp/articles/supply-chain-kowai",
     "pubDate": "Tue, 31 Mar 2026 08:41:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "セキュリティ採用で混同される6職種を、採用コンサルが現場目線で整理する",
+    "link": "https://zenn.dev/shotakada/articles/e94e3d7fc88463",
+    "pubDate": "Tue, 31 Mar 2026 08:32:41 GMT"
   },
   {
     "site": "Qiita",
@@ -124,30 +148,6 @@
     "title": "axiosにサプライチェーン攻撃が発生した話と、担当プロジェクトでやっていた備え",
     "link": "https://zenn.dev/rescuenow/articles/880bf865235aaf",
     "pubDate": "Tue, 31 Mar 2026 06:54:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "あつあつ流！学生団体の組織論",
-    "link": "https://zenn.dev/atsuatsu0120/books/132d3d1b3ca579",
-    "pubDate": "Tue, 31 Mar 2026 05:57:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code を「何となく使っている」から抜け出す——『実践 Claude Code 入門』で得た気づき",
-    "link": "https://zenn.dev/nextbeat/articles/practical-claude-code-introduction",
-    "pubDate": "Tue, 31 Mar 2026 05:52:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【緊急】axios がサプライチェーン攻撃 2026.03.31",
-    "link": "https://zenn.dev/gunta/articles/0152eadf05d173",
-    "pubDate": "Tue, 31 Mar 2026 04:06:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自己流「ハーネスエンジニアリング」からの脱却",
-    "link": "https://zenn.dev/knowledgesense/articles/22eac0ba8cada3",
-    "pubDate": "Tue, 31 Mar 2026 03:50:36 GMT"
   },
   {
     "site": "Qiita",
