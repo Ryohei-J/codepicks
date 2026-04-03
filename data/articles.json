@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "マイクロソフト 日本国内でのAI開発に約1兆6000億円投資 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015091261000",
+    "pubDate": "2026-04-03T03:03:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AI Watch」創刊のご挨拶",
+    "link": "https://ai.watch.impress.co.jp/docs/common/2098784.html",
+    "pubDate": "2026-04-03T02:11:56.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "山下清悟監督・プロデュース陣に聞く『超かぐや姫！』ヒットの秘密【西田宗千佳のRandomTracking】",
     "link": "https://av.watch.impress.co.jp/docs/series/rt/2096229.html",
     "pubDate": "2026-04-02T23:28:14.000Z"
@@ -25,15 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "このバックアップデータからリストアして本当に大丈夫なんだっけ？ ランサムウェア攻撃がもたらした「復旧長期化」という現実【Security Days Spring 2026】",
-    "link": "https://internet.watch.impress.co.jp/docs/event/2098485.html",
-    "pubDate": "2026-04-02T22:00:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "difit-review スキルでエージェント自身に変更点をコメントしてもらおう",
-    "link": "https://azukiazusa.dev/blog/difit-review-agent-comment/",
-    "pubDate": "2026-04-02T15:25:55.000Z"
+    "title": "Post Mortem: axios npm supply chain compromise · Issue #10636 · axios/axios",
+    "link": "https://github.com/axios/axios/issues/10636",
+    "pubDate": "2026-04-02T16:48:25.000Z"
   },
   {
     "site": "Zenn",
@@ -55,15 +61,33 @@
   },
   {
     "site": "Zenn",
+    "title": "GitHub Copilot のカスタマイズに疲弊した人に: Copilot Chat のビルトイン スキルがすごい",
+    "link": "https://zenn.dev/microsoft/articles/88253e369ae8ea",
+    "pubDate": "Thu, 02 Apr 2026 09:36:43 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Code、最初にこれやっとき｜7つの設定で世界変わるで",
     "link": "https://zenn.dev/masayan1126/books/claude-code-initial-settings",
     "pubDate": "Thu, 02 Apr 2026 08:41:59 GMT"
   },
   {
     "site": "Zenn",
+    "title": "遺産であるCOBOLを現代化し、その正確性を自ら証明するAIを開発した話",
+    "link": "https://zenn.dev/y_watanabe11/articles/df0a334e0f751c",
+    "pubDate": "Thu, 02 Apr 2026 06:39:28 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "とりあえず ralph loopからはじめるハーネスエンジニアリング",
     "link": "https://zenn.dev/explaza/articles/100d753df57fa7",
     "pubDate": "Thu, 02 Apr 2026 06:36:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vite 8にアップデートしたら10倍早いは本当だった",
+    "link": "https://zenn.dev/cariot_dev/articles/3040b4cf8927c1",
+    "pubDate": "Thu, 02 Apr 2026 06:00:49 GMT"
   },
   {
     "site": "Qiita",
@@ -96,12 +120,6 @@
     "pubDate": "2026-04-01T23:08:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "料金を払えばAIが任意のGPLソフトを合法的に再実装するサービス「malus.sh」が登場：著作権法が想定しなかった抜け穴 | XenoSpectrum",
-    "link": "https://xenospectrum.com/ai-clean-room-opensource-copyright-malus/",
-    "pubDate": "2026-04-01T22:24:51.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AWS Security Agentを組織で活用していく上での考慮点を考えてみた",
     "link": "https://zenn.dev/cscloud_blog/articles/securty-agent-ga-organization-how-to",
@@ -115,27 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった",
-    "link": "https://zenn.dev/aicon_kato/articles/harness-engineering-startup",
-    "pubDate": "Wed, 01 Apr 2026 11:51:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "npm をセキュアな挙動にするために .npmrc に記述する最小設定",
-    "link": "https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb",
-    "pubDate": "Wed, 01 Apr 2026 07:30:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ReAct (Reason+Act) パターンを TypeScript だけで実装する",
-    "link": "https://zenn.dev/kt3k/articles/74785af8436b1e",
-    "pubDate": "Wed, 01 Apr 2026 05:14:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "主キーはもう「UUIDv7」一択なのか？ 〜 ID技術の歴史的変遷と現時点の最適解 〜",
-    "link": "https://zenn.dev/loglass/articles/c2db7e85702571",
-    "pubDate": "Wed, 01 Apr 2026 04:46:05 GMT"
+    "title": "【MarkItDown】Office/PDFをMarkdown化してRAG前処理に使う",
+    "link": "https://zenn.dev/michy/articles/db76efae494691",
+    "pubDate": "Wed, 01 Apr 2026 12:25:48 GMT"
   },
   {
     "site": "Qiita",
