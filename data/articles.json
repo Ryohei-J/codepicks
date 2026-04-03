@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "マイクロソフト 日本国内でのAI開発に約1兆6000億円投資 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015091261000",
-    "pubDate": "2026-04-03T03:03:52.000Z"
+    "title": "GigaViewer の配信基盤を支えるマルチテナントアーキテクチャ - Hatena Developer Blog",
+    "link": "https://developer.hatenastaff.com/entry/2026/04/03/200000",
+    "pubDate": "2026-04-03T11:04:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "遺産であるCOBOLを現代化し、その正確性を自ら証明するAIを開発した話",
+    "link": "https://zenn.dev/y_watanabe11/articles/df0a334e0f751c",
+    "pubDate": "2026-04-03T09:11:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マイクロソフトとさくらインターネットが国内 AIインフラの選択肢拡大に向けて協業 | さくらインターネット",
+    "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/04/03/1968224185/",
+    "pubDate": "2026-04-03T07:53:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "約12兆トークンの良質なコーパスで学習した新たな国産LLM「LLM-jp-4 8Bモデル」「LLM-jp-4 32B-A3Bモデル」をオープンソースライセンスで公開～一部ベンチマークでGPT-4oやQwen3-8Bを上回る性能を達成～ - 国立情報学研究所 / National Institute of Informatics",
+    "link": "https://www.nii.ac.jp/news/release/2026/0403.html",
+    "pubDate": "2026-04-03T06:12:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GoogleがオープンAIモデル「Gemma 4」を発表、ライセンスをApache 2.0に変更",
+    "link": "https://gigazine.net/news/20260403-google-released-gemma-4/",
+    "pubDate": "2026-04-03T04:52:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方",
+    "link": "https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T03:28:56.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +42,16 @@
     "pubDate": "2026-04-03T02:11:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "山下清悟監督・プロデュース陣に聞く『超かぐや姫！』ヒットの秘密【西田宗千佳のRandomTracking】",
-    "link": "https://av.watch.impress.co.jp/docs/series/rt/2096229.html",
-    "pubDate": "2026-04-02T23:28:14.000Z"
+    "site": "Qiita",
+    "title": "【35歳未経験でも理解できた】WWWの基礎",
+    "link": "https://qiita.com/wata-sho/items/1c443b123080dcd994f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T01:21:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Ruby 4.0 にアップデートする前に Bundler 4.0 と Dependabot について深掘り調査してみた",
+    "link": "https://zenn.dev/leaner_dev/articles/deep-dive-bundler-4-0-and-dependabot",
+    "pubDate": "Thu, 02 Apr 2026 23:35:52 GMT"
   },
   {
     "site": "Hatena",
@@ -30,18 +66,6 @@
     "pubDate": "2026-04-02T22:46:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "打ち上げ成功も「宇宙でトイレ故障」--月へ飛行中のアルテミスII乗組員、自力で修理",
-    "link": "https://japan.cnet.com/article/35245976/",
-    "pubDate": "2026-04-02T22:16:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Post Mortem: axios npm supply chain compromise · Issue #10636 · axios/axios",
-    "link": "https://github.com/axios/axios/issues/10636",
-    "pubDate": "2026-04-02T16:48:25.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった",
     "link": "https://zenn.dev/aicon_kato/articles/harness-engineering-startup",
@@ -54,6 +78,12 @@
     "pubDate": "Thu, 02 Apr 2026 12:56:56 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "よくわからないで使っていたPHPの復習",
+    "link": "https://zenn.dev/mima_ita/articles/7bfbab47e93860",
+    "pubDate": "Thu, 02 Apr 2026 11:52:34 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10 - Qiita",
     "link": "https://qiita.com/nogataka/items/5e64037cc452c5d497fa",
@@ -61,9 +91,33 @@
   },
   {
     "site": "Zenn",
+    "title": "ハーネスエンジニアリングの先へ — VSDD × CoDDで「実装品質」と「変更時の整合性」を両立させてみた",
+    "link": "https://zenn.dev/sc30gsw/articles/bbb8b3c2fff1f6",
+    "pubDate": "Thu, 02 Apr 2026 10:37:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Stitch × Figma Make × Claude Code で個人サイトがすんなり完成した話",
+    "link": "https://zenn.dev/sunagaku/articles/stitch-figmamake-design-flow",
+    "pubDate": "Thu, 02 Apr 2026 09:47:35 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "GitHub Copilot のカスタマイズに疲弊した人に: Copilot Chat のビルトイン スキルがすごい",
     "link": "https://zenn.dev/microsoft/articles/88253e369ae8ea",
     "pubDate": "Thu, 02 Apr 2026 09:36:43 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "「動くコード」と「読めるコード」の違いをBefore/Afterで見る",
+    "link": "https://qiita.com/S_kamon/items/06c50c5a2eed33b96a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-02T09:18:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Excel】よく使う便利な関数まとめ（初級編）",
+    "link": "https://qiita.com/yuto-vj/items/0a7546befe9091348d40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-02T09:04:39.000Z"
   },
   {
     "site": "Zenn",
@@ -108,52 +162,10 @@
     "pubDate": "2026-04-02T01:31:49.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "WordPress後継CMS「EmDash」を触ってみる",
-    "link": "https://zenn.dev/z4ck_key/articles/try-emdash-cms",
-    "pubDate": "Thu, 02 Apr 2026 01:25:28 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Copilot Studio エージェントの展開先はどこがベスト？4つのチャネルをライセンス・機能面で比較してみた (2026 年 4 月時点)",
-    "link": "https://qiita.com/Takashi_Masumori/items/acdedf5f62ce776a83ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-01T23:08:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS Security Agentを組織で活用していく上での考慮点を考えてみた",
-    "link": "https://zenn.dev/cscloud_blog/articles/securty-agent-ga-organization-how-to",
-    "pubDate": "Wed, 01 Apr 2026 22:00:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "書籍の学びを Agent Skills にする ～現場で役立つシステム設計の原則編～",
-    "link": "https://zenn.dev/eda_sann/articles/fd3beee3aa610d",
-    "pubDate": "Wed, 01 Apr 2026 13:56:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【MarkItDown】Office/PDFをMarkdown化してRAG前処理に使う",
-    "link": "https://zenn.dev/michy/articles/db76efae494691",
-    "pubDate": "Wed, 01 Apr 2026 12:25:48 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": " 【前編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴",
-    "link": "https://qiita.com/hitomin_poke/items/094edffe1d7961bb6395?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-01T04:18:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年最新版】エンジニアが知っておくべきセキュリティインシデント8選 - Qiita",
-    "link": "https://qiita.com/kawabe0201/items/d698429413a1c9703b76",
-    "pubDate": "2026-04-01T04:18:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【35歳未経験でも理解できた】「現代の技術の学び方」",
-    "link": "https://qiita.com/wata-sho/items/ff44f2069e3331ab9c0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-01T01:26:15.000Z"
+    "title": "Claude Codeのコード流出から考える開発者の倫理",
+    "link": "https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-01T10:35:29.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "AIの情報を追うこと自体が非効率になっている気がする",
     "link": "https://qiita.com/tmaru-eng/items/c78839d3f58ae8db3a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-31T08:32:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Geminiで学会発表レベルの綺麗なスライド資料を作ろう",
-    "link": "https://qiita.com/zakuro/items/6bb67ea89fb6e2074203?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-31T01:27:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化",
-    "link": "https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-31T00:18:35.000Z"
   }
 ]
