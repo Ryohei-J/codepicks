@@ -1,27 +1,57 @@
 [
   {
+    "site": "Hatena",
+    "title": "山下清悟監督・プロデュース陣に聞く『超かぐや姫！』ヒットの秘密【西田宗千佳のRandomTracking】",
+    "link": "https://av.watch.impress.co.jp/docs/series/rt/2096229.html",
+    "pubDate": "2026-04-02T23:28:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "息子のスマホを新規契約しに行ったら、娘と息子が機種は「iPhone」と言うので『高いからAndroidでええやろ』と返すと、「iPhoneじゃないといじめられる」と言われた",
+    "link": "https://togetter.com/li/2681676",
+    "pubDate": "2026-04-02T23:17:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "探すより作った方が早いかも？　「Google AI Studio」でミニアプリを作ってみよう [てっぱんアプリ！]",
+    "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2098561.html",
+    "pubDate": "2026-04-02T22:46:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "打ち上げ成功も「宇宙でトイレ故障」--月へ飛行中のアルテミスII乗組員、自力で修理",
+    "link": "https://japan.cnet.com/article/35245976/",
+    "pubDate": "2026-04-02T22:16:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "このバックアップデータからリストアして本当に大丈夫なんだっけ？ ランサムウェア攻撃がもたらした「復旧長期化」という現実【Security Days Spring 2026】",
+    "link": "https://internet.watch.impress.co.jp/docs/event/2098485.html",
+    "pubDate": "2026-04-02T22:00:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "difit-review スキルでエージェント自身に変更点をコメントしてもらおう",
+    "link": "https://azukiazusa.dev/blog/difit-review-agent-comment/",
+    "pubDate": "2026-04-02T15:25:55.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "WordPress後継CMS「EmDash」を触ってみる",
-    "link": "https://zenn.dev/z4ck_key/articles/try-emdash-cms",
-    "pubDate": "2026-04-02T13:10:33.000Z"
+    "title": "ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった",
+    "link": "https://zenn.dev/aicon_kato/articles/harness-engineering-startup",
+    "pubDate": "2026-04-02T14:53:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【注意喚起】生成AIを使用した巧妙な詐欺の電話に引っかかってしまったので交番で話したら「こいつら悪すぎる」「こんなの俺も騙される」と警察官も驚いていた",
-    "link": "https://togetter.com/li/2681477",
-    "pubDate": "2026-04-02T12:01:57.000Z"
+    "site": "Zenn",
+    "title": "パラメータ4個で710M超えのFoundation Modelに勝った時系列予測手法FLAIRの全貌",
+    "link": "https://zenn.dev/t_honda/articles/flair-time-series-forecasting",
+    "pubDate": "Thu, 02 Apr 2026 12:56:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「VS Code」でMarkdownの編集とプレビューの行き来を減らす「Markdown Live Editor」／エディターとプレビューを融合させたWYSIWYGスタイルの編集を実現【レビュー】",
-    "link": "https://forest.watch.impress.co.jp/docs/review/2098651.html",
-    "pubDate": "2026-04-02T10:36:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "最大3万人の従業員をOracleが解雇、従業員への事前通知はなく朝に届いたメール1通で職を失う",
-    "link": "https://gigazine.net/news/20260402-oracle-layoff-30000/",
-    "pubDate": "2026-04-02T10:32:49.000Z"
+    "site": "Qiita",
+    "title": "Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10 - Qiita",
+    "link": "https://qiita.com/nogataka/items/5e64037cc452c5d497fa",
+    "pubDate": "2026-04-02T11:04:38.000Z"
   },
   {
     "site": "Zenn",
@@ -30,16 +60,10 @@
     "pubDate": "Thu, 02 Apr 2026 08:41:59 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Cloudflare、WordPressの機能をTypeScriptで再構築した「EmDash」をオープンソースとしてプレビューリリース ―WordPressプラグインのセキュリティ問題を解消 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/04/emdash",
-    "pubDate": "2026-04-02T07:23:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「女性ドライバーは死角が狭い」って言い方、正直かなり雑。指導員目線で言うと、問題は性別じゃなくて“運転姿勢と確認の甘さ”。運転に大切なのは性別ではなく「確認の質」という話",
-    "link": "https://posfie.com/@taimport/p/jZi74mv",
-    "pubDate": "2026-04-02T06:48:51.000Z"
+    "site": "Zenn",
+    "title": "とりあえず ralph loopからはじめるハーネスエンジニアリング",
+    "link": "https://zenn.dev/explaza/articles/100d753df57fa7",
+    "pubDate": "Thu, 02 Apr 2026 06:36:10 GMT"
   },
   {
     "site": "Qiita",
@@ -48,16 +72,10 @@
     "pubDate": "2026-04-02T04:19:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Adobe CCがhostsファイルを無断で変更か。批判の声相次ぐ",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2098494.html",
-    "pubDate": "2026-04-02T03:48:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "NotebookLMに他人の著作物をアップロードしたら著作権侵害？｜知的財産・IT・人工知能・ベンチャービジネスの法律相談なら【STORIA法律事務所】",
-    "link": "https://storialaw.jp/blog/12980",
-    "pubDate": "2026-04-02T03:36:43.000Z"
+    "site": "Qiita",
+    "title": "Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10",
+    "link": "https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-02T03:17:55.000Z"
   },
   {
     "site": "Qiita",
@@ -72,22 +90,28 @@
     "pubDate": "Thu, 02 Apr 2026 01:25:28 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "制約を読まないエンジニアへ - 弁護士ドットコム株式会社 Creators’ blog",
-    "link": "https://creators.bengo4.com/entry/2026/04/02/080000",
-    "pubDate": "2026-04-01T23:46:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Copilot Studio エージェントの展開先はどこがベスト？4つのチャネルをライセンス・機能面で比較してみた (2026 年 4 月時点)",
     "link": "https://qiita.com/Takashi_Masumori/items/acdedf5f62ce776a83ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-01T23:08:46.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "料金を払えばAIが任意のGPLソフトを合法的に再実装するサービス「malus.sh」が登場：著作権法が想定しなかった抜け穴 | XenoSpectrum",
+    "link": "https://xenospectrum.com/ai-clean-room-opensource-copyright-malus/",
+    "pubDate": "2026-04-01T22:24:51.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "主キーはもう「UUIDv7」一択なのか？ 〜 ID技術の歴史的変遷と現時点の最適解 〜",
-    "link": "https://zenn.dev/loglass/articles/c2db7e85702571",
-    "pubDate": "2026-04-01T12:52:49.000Z"
+    "title": "AWS Security Agentを組織で活用していく上での考慮点を考えてみた",
+    "link": "https://zenn.dev/cscloud_blog/articles/securty-agent-ga-organization-how-to",
+    "pubDate": "Wed, 01 Apr 2026 22:00:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "書籍の学びを Agent Skills にする ～現場で役立つシステム設計の原則編～",
+    "link": "https://zenn.dev/eda_sann/articles/fd3beee3aa610d",
+    "pubDate": "Wed, 01 Apr 2026 13:56:49 GMT"
   },
   {
     "site": "Zenn",
@@ -96,16 +120,16 @@
     "pubDate": "Wed, 01 Apr 2026 11:51:41 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Claude Codeのコード流出から考える開発者の倫理",
-    "link": "https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-01T10:35:29.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "npm をセキュアな挙動にするために .npmrc に記述する最小設定",
     "link": "https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb",
     "pubDate": "Wed, 01 Apr 2026 07:30:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ReAct (Reason+Act) パターンを TypeScript だけで実装する",
+    "link": "https://zenn.dev/kt3k/articles/74785af8436b1e",
+    "pubDate": "Wed, 01 Apr 2026 05:14:52 GMT"
   },
   {
     "site": "Zenn",
@@ -120,16 +144,10 @@
     "pubDate": "2026-04-01T04:18:17.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeソースコード流出事件｜何が起きたか＆今すぐやるべき対策",
-    "link": "https://zenn.dev/junko_ai/articles/3123badb508b5d",
-    "pubDate": "Wed, 01 Apr 2026 02:48:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeに仕様書を丸ごと渡すな ── 「要件を伝える」との決定的な違い",
-    "link": "https://zenn.dev/bookamasedo/articles/c264a26dafe55b",
-    "pubDate": "Wed, 01 Apr 2026 01:37:45 GMT"
+    "site": "Qiita",
+    "title": "【2026年最新版】エンジニアが知っておくべきセキュリティインシデント8選 - Qiita",
+    "link": "https://qiita.com/kawabe0201/items/d698429413a1c9703b76",
+    "pubDate": "2026-04-01T04:18:04.000Z"
   },
   {
     "site": "Qiita",
@@ -142,24 +160,6 @@
     "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
     "link": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-03-31T22:50:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "逆引き Rust Web API 開発: Axum で学ぶ実践パターン",
-    "link": "https://zenn.dev/sbk0716/books/70b401fac4005d",
-    "pubDate": "Tue, 31 Mar 2026 18:54:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "MarkdownだけでWikiを作ろう",
-    "link": "https://zenn.dev/kyome/articles/9937ce78b948bc",
-    "pubDate": "Tue, 31 Mar 2026 18:45:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ユーザーが使うほど成長するAIエージェントを作る（最適化パイプライン編）",
-    "link": "https://zenn.dev/porche1223/articles/90287ab85bba43",
-    "pubDate": "Tue, 31 Mar 2026 14:59:28 GMT"
   },
   {
     "site": "Qiita",
