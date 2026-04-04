@@ -1,21 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "distrolessコンテナイメージの中を覗いて「なんか軽くてセキュアらしい」より理解を深める - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2026/04/03/180000",
-    "pubDate": "2026-04-03T14:39:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "遺産であるCOBOLを現代化し、その正確性を自ら証明するAIを開発した話",
-    "link": "https://zenn.dev/y_watanabe11/articles/df0a334e0f751c",
-    "pubDate": "2026-04-03T09:11:37.000Z"
+    "title": "Claude Codeの「ソースコード流出」をどう見るのか",
+    "link": "https://blog.lai.so/leak-claude-code/",
+    "pubDate": "2026-04-04T02:52:51.000Z"
   },
   {
     "site": "Hatena",
-    "title": "スマホの背面に装着可能。E-ink端末「Xteink X3」が登場！3.7インチで58gという薄型軽量ボディと向上した画素数が魅力。",
-    "link": "https://daily-gadget.net/smartphone_tablet/111881/",
-    "pubDate": "2026-04-03T08:53:31.000Z"
+    "title": "NEC Atermのサポート内容に疑問",
+    "link": "https://anond.hatelabo.jp/20260404103515",
+    "pubDate": "2026-04-04T01:45:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "思いつきを手軽にメモ。Claudeでアイデアを残し、広げる仕組みを作ってみた。 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claudememo-20260403/",
+    "pubDate": "2026-04-04T00:36:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【レビュー】10万円以下のMacは意外とアリ?　「MacBook Neo」を普段使いした",
+    "link": "https://www.watch.impress.co.jp/docs/review/review/2098562.html",
+    "pubDate": "2026-04-04T00:33:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "apfel - Free AI on Your Mac",
+    "link": "https://apfel.franzai.com/",
+    "pubDate": "2026-04-03T17:17:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub を Terraform でリポジトリ管理しようとしたが断念した話",
+    "link": "https://zenn.dev/safie_inc/articles/3d6e800f2487fc",
+    "pubDate": "2026-04-03T16:58:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIクローラーにだけ課金する。Hono + x402で実現するCloudflare Workers上のAIペイウォール",
+    "link": "https://zenn.dev/jphfa/articles/x402-ai-crawler-monetization",
+    "pubDate": "Fri, 03 Apr 2026 13:17:22 GMT"
   },
   {
     "site": "Hatena",
@@ -37,15 +61,21 @@
   },
   {
     "site": "Hatena",
-    "title": "約12兆トークンの良質なコーパスで学習した新たな国産LLM「LLM-jp-4 8Bモデル」「LLM-jp-4 32B-A3Bモデル」をオープンソースライセンスで公開～一部ベンチマークでGPT-4oやQwen3-8Bを上回る性能を達成～ - 国立情報学研究所 / National Institute of Informatics",
-    "link": "https://www.nii.ac.jp/news/release/2026/0403.html",
-    "pubDate": "2026-04-03T06:12:45.000Z"
+    "title": "なぜ検知できなかったのか？ Axiosを襲った「遅延型」サプライチェーン攻撃の技術的解析",
+    "link": "https://codezine.jp/article/detail/23847",
+    "pubDate": "2026-04-03T06:37:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグルとBack Marketが米欧で「ChromeOS Flex USBキット」発売、古いPCに無料OS導入しやすく",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2098858.html",
-    "pubDate": "2026-04-03T04:55:10.000Z"
+    "site": "Zenn",
+    "title": "図面解析におけるマルチモーダル Graph RAG の有効性検証とデモアプリ開発",
+    "link": "https://zenn.dev/exwzd/articles/20260324_graphrag_vs_standardrag",
+    "pubDate": "Fri, 03 Apr 2026 05:15:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「直す圧力」に気づいてから変わった、ポストモーテムへの向き合い方",
+    "link": "https://zenn.dev/loglass/articles/pressure-to-fix-postmortem-redesign",
+    "pubDate": "Fri, 03 Apr 2026 04:17:28 GMT"
   },
   {
     "site": "Qiita",
@@ -67,21 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Ruby 4.0 にアップデートする前に Bundler 4.0 と Dependabot について深掘り調査してみた",
-    "link": "https://zenn.dev/leaner_dev/articles/deep-dive-bundler-4-0-and-dependabot",
-    "pubDate": "Thu, 02 Apr 2026 23:35:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code、最初にこれやっとき｜7つの設定で世界変わるで",
-    "link": "https://zenn.dev/masayan1126/books/claude-code-initial-settings",
-    "pubDate": "2026-04-02T23:28:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React の Container/Presentational × Hooks を関数型アーキテクチャで再設計する",
-    "link": "https://zenn.dev/appleworld/articles/advanced-container-presentational-pattern",
-    "pubDate": "Thu, 02 Apr 2026 22:00:07 GMT"
+    "title": "多くの人にとってGitが難しいという課題をスキルでなんとかしたい",
+    "link": "https://zenn.dev/musoukun/articles/05ca5a6e817d88",
+    "pubDate": "Thu, 02 Apr 2026 18:16:37 GMT"
   },
   {
     "site": "Qiita",
@@ -94,12 +112,6 @@
     "title": "パラメータ4個で710M超えのFoundation Modelに勝った時系列予測手法FLAIRの全貌",
     "link": "https://zenn.dev/t_honda/articles/flair-time-series-forecasting",
     "pubDate": "Thu, 02 Apr 2026 12:56:56 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "日テレもBS4K撤退を決定　新たに免許申請せず　「頑張ってきたが、難しい状況」",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/02/news127.html",
-    "pubDate": "2026-04-02T10:59:33.000Z"
   },
   {
     "site": "Zenn",
@@ -130,18 +142,6 @@
     "title": "Claude Code、最初にこれやっとき｜7つの設定で世界変わるで",
     "link": "https://zenn.dev/masayan1126/books/claude-code-initial-settings",
     "pubDate": "Thu, 02 Apr 2026 08:41:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "遺産であるCOBOLを現代化し、その正確性を自ら証明するAIを開発した話",
-    "link": "https://zenn.dev/y_watanabe11/articles/df0a334e0f751c",
-    "pubDate": "Thu, 02 Apr 2026 06:39:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "とりあえず ralph loopからはじめるハーネスエンジニアリング",
-    "link": "https://zenn.dev/explaza/articles/100d753df57fa7",
-    "pubDate": "Thu, 02 Apr 2026 06:36:10 GMT"
   },
   {
     "site": "Qiita",
