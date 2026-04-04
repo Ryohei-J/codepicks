@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "参考書代も受講料もかからない…独学の資格勉強を根本から変える｢Googleの最新無料ツール｣のスゴい使い方",
+    "link": "https://president.jp/articles/-/110970",
+    "pubDate": "2026-04-04T10:25:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「メモリは8ギガで十分ですよ。勘弁してくださいよ」時代の到来。1ビットLLM「Bonsai 8B」を8GBのMacBook Neoで動かしてみたら爆速だった。1.1GBに8Bパラメータが入る驚き（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/04/04/4971.html",
+    "pubDate": "2026-04-04T08:46:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "リップシンクする妻のAIアバターをClaude Codeと開発した。iPhoneでアクセスして音声対話ができる、その作り方（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/04/04/4970.html",
+    "pubDate": "2026-04-04T05:38:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Codeの「ソースコード流出」をどう見るのか",
     "link": "https://blog.lai.so/leak-claude-code/",
     "pubDate": "2026-04-04T02:52:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～ - Qiita",
+    "link": "https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103",
+    "pubDate": "2026-04-04T01:51:14.000Z"
   },
   {
     "site": "Hatena",
@@ -31,15 +55,51 @@
   },
   {
     "site": "Zenn",
-    "title": "GitHub を Terraform でリポジトリ管理しようとしたが断念した話",
-    "link": "https://zenn.dev/safie_inc/articles/3d6e800f2487fc",
-    "pubDate": "2026-04-03T16:58:50.000Z"
+    "title": "日本語対応オープンソースOCRの比較 その３",
+    "link": "https://zenn.dev/piment/articles/53710c5f3ed756",
+    "pubDate": "Fri, 03 Apr 2026 14:30:05 GMT"
   },
   {
     "site": "Zenn",
     "title": "AIクローラーにだけ課金する。Hono + x402で実現するCloudflare Workers上のAIペイウォール",
     "link": "https://zenn.dev/jphfa/articles/x402-ai-crawler-monetization",
     "pubDate": "Fri, 03 Apr 2026 13:17:22 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "C#で設計原則をどこまで適用するか — 規模別の線引きガイド",
+    "link": "https://zenn.dev/jodycraft/articles/csharp-design-principles-scale-guide",
+    "pubDate": "Fri, 03 Apr 2026 13:06:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Axiosサプライチェーン攻撃の手口をPostmortemで読んだら、まるでルパン三世だった",
+    "link": "https://qiita.com/WdknWdkn/items/c787ccd02775613f6f13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T12:58:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot CLI も OTel で観測する",
+    "link": "https://zenn.dev/microsoft/articles/f439e06d07123e",
+    "pubDate": "Fri, 03 Apr 2026 11:11:06 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "useEffectを何となく使っていた自分が、React公式を読んで正しい使い方を学び直した",
+    "link": "https://qiita.com/ryo_sh/items/330a378b024562c9e097?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T09:43:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「聞きにくい」を減らすための質問の仕方",
+    "link": "https://qiita.com/S_kamon/items/f22d3237bf6d1a9e3071?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T09:34:26.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Excel】よく使う便利な関数まとめ（中級編）",
+    "link": "https://qiita.com/yuto-vj/items/ad4b2fa1b6554257ac33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T09:06:11.000Z"
   },
   {
     "site": "Hatena",
@@ -60,10 +120,10 @@
     "pubDate": "2026-04-03T06:38:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜ検知できなかったのか？ Axiosを襲った「遅延型」サプライチェーン攻撃の技術的解析",
-    "link": "https://codezine.jp/article/detail/23847",
-    "pubDate": "2026-04-03T06:37:05.000Z"
+    "site": "Zenn",
+    "title": "V1 リリース！ - Microsoft Agent Framework (C#) V1 その1",
+    "link": "https://zenn.dev/microsoft/articles/agentframework-v1-001",
+    "pubDate": "Fri, 03 Apr 2026 05:58:13 GMT"
   },
   {
     "site": "Zenn",
@@ -72,22 +132,16 @@
     "pubDate": "Fri, 03 Apr 2026 05:15:34 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「直す圧力」に気づいてから変わった、ポストモーテムへの向き合い方",
-    "link": "https://zenn.dev/loglass/articles/pressure-to-fix-postmortem-redesign",
-    "pubDate": "Fri, 03 Apr 2026 04:17:28 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方",
     "link": "https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-03T03:28:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "HiBy Music、BluetoothでもUSBでも使える小型DAC。MagSafe対応アクセサリも",
-    "link": "https://av.watch.impress.co.jp/docs/news/2098640.html",
-    "pubDate": "2026-04-03T02:30:39.000Z"
+    "site": "Zenn",
+    "title": "Claude Code × Obsidian によってインフラ管理が拡がる価値を考える",
+    "link": "https://zenn.dev/sprix_it/articles/2470286c5ca1e9",
+    "pubDate": "Fri, 03 Apr 2026 03:01:30 GMT"
   },
   {
     "site": "Qiita",
@@ -120,63 +174,9 @@
     "pubDate": "Thu, 02 Apr 2026 10:37:14 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude CodeでAI RSSリーダーを作ったら、その日にInoreaderを解約した",
-    "link": "https://zenn.dev/caphtech/articles/feed-curator-ai-rss-with-claude-code",
-    "pubDate": "Thu, 02 Apr 2026 10:20:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Stitch × Figma Make × Claude Code で個人サイトがすんなり完成した話",
-    "link": "https://zenn.dev/sunagaku/articles/stitch-figmamake-design-flow",
-    "pubDate": "Thu, 02 Apr 2026 09:47:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot のカスタマイズに疲弊した人に: Copilot Chat のビルトイン スキルがすごい",
-    "link": "https://zenn.dev/microsoft/articles/88253e369ae8ea",
-    "pubDate": "Thu, 02 Apr 2026 09:36:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code、最初にこれやっとき｜7つの設定で世界変わるで",
-    "link": "https://zenn.dev/masayan1126/books/claude-code-initial-settings",
-    "pubDate": "Thu, 02 Apr 2026 08:41:59 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "現場で折れないマインドを作る3つのコツ",
-    "link": "https://qiita.com/masa20057/items/3a979c3041ea36c05f41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-02T04:19:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "LLMの学習データ「枯渇元年」にどう立ち向かうか　国・組織を横断したデータ連携の仕組み実現へ、IPAが成果物公開",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/02/news085.html",
-    "pubDate": "2026-04-02T04:11:48.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10",
     "link": "https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-02T03:17:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " 【35歳未経験でも理解できた】Webシステムの全体像",
-    "link": "https://qiita.com/wata-sho/items/a185ecd13bf4be6cf65c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-02T01:31:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeのコード流出から考える開発者の倫理",
-    "link": "https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-01T10:35:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
-    "link": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-03-31T22:50:49.000Z"
   }
 ]
