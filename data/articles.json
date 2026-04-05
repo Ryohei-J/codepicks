@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Linux 7.0のプリエンプション変更でPostgreSQLが大きな性能低下：AWSは既定値差し戻しを提案 | XenoSpectrum",
+    "link": "https://xenospectrum.com/linux-7-postgresql-regression/",
+    "pubDate": "2026-04-05T11:51:10.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "最近いらすとやの絵を本当に見かけなくなってしまった...→「生成AIの影響を一番受けたと言っても過言ではない」「みんな絵なんて何でもいいんだな...」",
     "link": "https://togetter.com/li/2682502",
     "pubDate": "2026-04-05T04:04:55.000Z"
@@ -13,9 +19,39 @@
   },
   {
     "site": "Zenn",
+    "title": "なぜ、DRY原則 vs 単一責務原則(SRP)の優先度判断は死ぬほど難しいのか？",
+    "link": "https://zenn.dev/pdfractal/articles/5ecb13a015d2b4",
+    "pubDate": "2026-04-05T03:16:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "nvim-treesitterが消えた今、その役割を改めて整理する",
+    "link": "https://zenn.dev/glmlm/articles/neovim-treesitter-archived-20260406",
+    "pubDate": "Sun, 05 Apr 2026 02:53:59 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Metaのスマートグラス規制を求める声が全米で噴出。もはや無視できないレベルに",
+    "link": "https://www.gizmodo.jp/2026/04/calls-to-regulate-smart-glasses-are-officially-deafening.html",
+    "pubDate": "2026-04-05T02:30:03.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "ハーネスエンジニアリング、全員が違うことを言っている — 5社の解釈を並べてみた",
     "link": "https://zenn.dev/kenimo49/articles/harness-engineering-interpretations-2026",
     "pubDate": "2026-04-05T02:23:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeで分析エージェントを作って3か月運用した話｜田口 信元",
+    "link": "https://note.com/guchey/n/n9eb66dd5d470",
+    "pubDate": "2026-04-05T02:14:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース",
+    "link": "https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-05T01:00:29.000Z"
   },
   {
     "site": "Hatena",
@@ -30,22 +66,34 @@
     "pubDate": "2026-04-05T00:16:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoftがエンジニア全員にストップウォッチを配っていた時代の教訓",
-    "link": "https://joho-todai.com/microsoft-engineers-stopwatch-lessons-productivity-era/",
-    "pubDate": "2026-04-04T15:22:30.000Z"
+    "site": "Zenn",
+    "title": "コーディング規約のAgent Skillを作って実装時の手戻りを減らそう",
+    "link": "https://zenn.dev/j____takumi/articles/create_agent_skill",
+    "pubDate": "Sat, 04 Apr 2026 16:33:25 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "YAMLの変更点を見落とさない！diffより強力なYAML差分確認ツール『dyff』のすすめ | SIOS Tech Lab",
-    "link": "https://tech-lab.sios.jp/archives/52303",
-    "pubDate": "2026-04-04T14:28:21.000Z"
+    "site": "Zenn",
+    "title": "RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた",
+    "link": "https://zenn.dev/nagi98/articles/260405-rag-optimization-overview",
+    "pubDate": "Sat, 04 Apr 2026 15:36:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ScriptableObject×関数型設計のススメ【Unity】",
+    "link": "https://zenn.dev/neriame_code/articles/1e318efdcee9de",
+    "pubDate": "Sat, 04 Apr 2026 13:46:26 GMT"
   },
   {
     "site": "Zenn",
     "title": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawから使う",
     "link": "https://zenn.dev/beef_and_rice/articles/cdb8b3f77f0704",
     "pubDate": "Sat, 04 Apr 2026 12:36:58 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
+    "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-04T11:24:53.000Z"
   },
   {
     "site": "Hatena",
@@ -60,22 +108,16 @@
     "pubDate": "Sat, 04 Apr 2026 10:52:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "無料・高速・多機能でクロスプラットフォーム対応のターミナルエミュレータ「Ghostty」が魅力的な理由",
-    "link": "https://gigazine.net/news/20260404-ghostty-ui/",
-    "pubDate": "2026-04-04T08:31:53.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeスラッシュコマンド、Tier別に全部解説するで｜S〜分析まで完全攻略",
     "link": "https://zenn.dev/masayan1126/books/claude-code-slash-commands",
     "pubDate": "Sat, 04 Apr 2026 05:52:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "基本情報技術者試験に合格したので、勉強法と実際の試験についてまとめました",
-    "link": "https://zenn.dev/hiruma_devlog/articles/c5f18ee690c2bc",
-    "pubDate": "Sat, 04 Apr 2026 04:17:09 GMT"
+    "site": "Qiita",
+    "title": "CORSとプリフライトリクエストについて",
+    "link": "https://qiita.com/yakumo_09/items/66c8065e7caf1c5e9a16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-04T05:42:06.000Z"
   },
   {
     "site": "Zenn",
@@ -90,6 +132,12 @@
     "pubDate": "Sat, 04 Apr 2026 00:12:46 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【備忘録】Microsoft 365 Copilot Coworkとは何か ― Work IQを基盤としたエージェント実行機能として整理する",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/a6c39eebdd3c62d9e35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T21:26:06.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AIエージェント開発の新標準「ADLC」を読み解く — IBM×Anthropicのガイドへの共感と、本番運用からの実践的フィードバック",
     "link": "https://zenn.dev/dxclab/articles/9f015ee80cd809",
@@ -102,22 +150,10 @@
     "pubDate": "2026-04-03T15:17:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "日本語対応オープンソースOCRの比較 その３",
-    "link": "https://zenn.dev/piment/articles/53710c5f3ed756",
-    "pubDate": "Fri, 03 Apr 2026 14:30:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code向けの著名なSkillsを合成して「Super Skills」を作ってみた",
     "link": "https://qiita.com/takurot/items/98472032a3f4535c66b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-03T14:01:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIクローラーにだけ課金する。Hono + x402で実現するCloudflare Workers上のAIペイウォール",
-    "link": "https://zenn.dev/jphfa/articles/x402-ai-crawler-monetization",
-    "pubDate": "Fri, 03 Apr 2026 13:17:22 GMT"
   },
   {
     "site": "Qiita",
@@ -126,28 +162,10 @@
     "pubDate": "2026-04-03T12:58:18.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIが書いたコードをレビューするな",
-    "link": "https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9",
-    "pubDate": "Fri, 03 Apr 2026 09:30:05 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Gemma 4 徹底解説：Googleのオープンモデル最新版で何ができるのか",
-    "link": "https://qiita.com/TaichiEndoh/items/0b06c96326e0f41912b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T07:18:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【非エンジニアのためのClaude/ClaudeCodeシリーズ】　Cowork活用1　Coworkで業務時間外の情報整理を自動化した話 | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/cowork-morning-sales-automation/",
-    "pubDate": "2026-04-03T04:01:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方",
-    "link": "https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T03:28:56.000Z"
+    "title": "バイブコーディングの光と影 — 工数87%削減の裏にあるバグ密度1.7倍問題",
+    "link": "https://qiita.com/nogataka/items/e619153909786c432314?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T03:29:36.000Z"
   },
   {
     "site": "Qiita",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "GitHub Copilotの『SKILL.md育成RPG』— Lv.0の村人がLv.7の伝説の勇者になるまで鍛えたらコードレビューはどう変わるのか",
-    "link": "https://qiita.com/yukurash/items/d8971bdf08f8416ad7dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-02T09:23:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「動くコード」と「読めるコード」の違いをBefore/Afterで見る",
-    "link": "https://qiita.com/S_kamon/items/06c50c5a2eed33b96a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-02T09:18:29.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "新人プログラマーは、全部を覚えなくていい。～ 最初に身につけたい3つの土台 ～",
     "link": "https://qiita.com/Fujiwo/items/792a3dc35ec04ee24da9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-02T08:09:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10",
-    "link": "https://qiita.com/nogataka/items/5e64037cc452c5d497fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-02T03:17:55.000Z"
   }
 ]
