@@ -1,21 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "最近いらすとやの絵を本当に見かけなくなってしまった...→「生成AIの影響を一番受けたと言っても過言ではない」「みんな絵なんて何でもいいんだな...」",
+    "link": "https://togetter.com/li/2682502",
+    "pubDate": "2026-04-05T04:04:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude",
+    "link": "https://claude.com/blog/harnessing-claudes-intelligence",
+    "pubDate": "2026-04-05T03:47:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ハーネスエンジニアリング、全員が違うことを言っている — 5社の解釈を並べてみた",
+    "link": "https://zenn.dev/kenimo49/articles/harness-engineering-interpretations-2026",
+    "pubDate": "2026-04-05T02:23:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Linux 7.0でPostgreSQL性能半減、修正困難か",
     "link": "https://joho-todai.com/linux-7-postgresql-performance-halved/",
     "pubDate": "2026-04-05T00:44:06.000Z"
   },
   {
     "site": "Hatena",
-    "title": "参考書代も受講料もかからない…独学の資格勉強を根本から変える｢Googleの最新無料ツール｣のスゴい使い方 (2ページ目)",
-    "link": "https://president.jp/articles/-/110970?page=2",
-    "pubDate": "2026-04-04T17:53:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "llm-wiki",
-    "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "pubDate": "2026-04-04T17:05:43.000Z"
+    "title": "突如実用化した1ビットLLM Bonai-8B もう推論にGPUはほぼ不要になる。その先に何が起きるか",
+    "link": "https://wirelesswire.jp/2026/04/93202/",
+    "pubDate": "2026-04-05T00:16:59.000Z"
   },
   {
     "site": "Hatena",
@@ -30,22 +42,40 @@
     "pubDate": "2026-04-04T14:28:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIデータセンター建設計画の半数は変圧器やバッテリー不足で延期または取り消しになる見込み",
-    "link": "https://gigazine.net/news/20260404-ai-data-center-delayed-canceled/",
-    "pubDate": "2026-04-04T13:01:57.000Z"
+    "site": "Zenn",
+    "title": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawから使う",
+    "link": "https://zenn.dev/beef_and_rice/articles/cdb8b3f77f0704",
+    "pubDate": "Sat, 04 Apr 2026 12:36:58 GMT"
   },
   {
     "site": "Hatena",
-    "title": "参考書代も受講料もかからない…独学の資格勉強を根本から変える｢Googleの最新無料ツール｣のスゴい使い方",
-    "link": "https://president.jp/articles/-/110970",
-    "pubDate": "2026-04-04T10:25:57.000Z"
+    "title": "ChatGPT「使いこなしている人」だけが知っている、一歩先の活用テクニック10選 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2604-10-hacks-every-chatgpt-user-should-know/",
+    "pubDate": "2026-04-04T11:19:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「ハーネスエンジニアリングやってます」と言いたくない理由",
+    "link": "https://zenn.dev/karamage/articles/4788b0b791ef2d",
+    "pubDate": "Sat, 04 Apr 2026 10:52:04 GMT"
   },
   {
     "site": "Hatena",
     "title": "無料・高速・多機能でクロスプラットフォーム対応のターミナルエミュレータ「Ghostty」が魅力的な理由",
     "link": "https://gigazine.net/news/20260404-ghostty-ui/",
     "pubDate": "2026-04-04T08:31:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeスラッシュコマンド、Tier別に全部解説するで｜S〜分析まで完全攻略",
+    "link": "https://zenn.dev/masayan1126/books/claude-code-slash-commands",
+    "pubDate": "Sat, 04 Apr 2026 05:52:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "基本情報技術者試験に合格したので、勉強法と実際の試験についてまとめました",
+    "link": "https://zenn.dev/hiruma_devlog/articles/c5f18ee690c2bc",
+    "pubDate": "Sat, 04 Apr 2026 04:17:09 GMT"
   },
   {
     "site": "Zenn",
@@ -60,16 +90,22 @@
     "pubDate": "Sat, 04 Apr 2026 00:12:46 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "AIエージェント開発の新標準「ADLC」を読み解く — IBM×Anthropicのガイドへの共感と、本番運用からの実践的フィードバック",
+    "link": "https://zenn.dev/dxclab/articles/9f015ee80cd809",
+    "pubDate": "Fri, 03 Apr 2026 16:12:51 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～",
     "link": "https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-03T15:17:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Ubuntu 26.04 LTSの最低メモリ要件が6GBに引き上げ。4GBからの変更は8年ぶり",
-    "link": "https://gazlog.com/entry/ubuntu-26-04-lts-memory-up/",
-    "pubDate": "2026-04-03T14:47:13.000Z"
+    "site": "Zenn",
+    "title": "日本語対応オープンソースOCRの比較 その３",
+    "link": "https://zenn.dev/piment/articles/53710c5f3ed756",
+    "pubDate": "Fri, 03 Apr 2026 14:30:05 GMT"
   },
   {
     "site": "Qiita",
@@ -82,12 +118,6 @@
     "title": "AIクローラーにだけ課金する。Hono + x402で実現するCloudflare Workers上のAIペイウォール",
     "link": "https://zenn.dev/jphfa/articles/x402-ai-crawler-monetization",
     "pubDate": "Fri, 03 Apr 2026 13:17:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "C#で設計原則をどこまで適用するか — 規模別の線引きガイド",
-    "link": "https://zenn.dev/jodycraft/articles/csharp-design-principles-scale-guide",
-    "pubDate": "Fri, 03 Apr 2026 13:06:05 GMT"
   },
   {
     "site": "Qiita",
@@ -108,24 +138,6 @@
     "pubDate": "2026-04-03T07:18:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "自律的に深掘りするデータ分析エージェントの設計 〜並列処理による高速化アプローチ〜",
-    "link": "https://zenn.dev/nttdata_tech/articles/a902c2d5289f3f",
-    "pubDate": "Fri, 03 Apr 2026 06:00:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "V1 リリース！ - Microsoft Agent Framework (C#) V1 その1",
-    "link": "https://zenn.dev/microsoft/articles/agentframework-v1-001",
-    "pubDate": "Fri, 03 Apr 2026 05:58:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "図面解析におけるマルチモーダル Graph RAG の有効性検証とデモアプリ開発",
-    "link": "https://zenn.dev/exwzd/articles/20260324_graphrag_vs_standardrag",
-    "pubDate": "Fri, 03 Apr 2026 05:15:34 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "【非エンジニアのためのClaude/ClaudeCodeシリーズ】　Cowork活用1　Coworkで業務時間外の情報整理を自動化した話 | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/cowork-morning-sales-automation/",
@@ -136,18 +148,6 @@
     "title": "“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方",
     "link": "https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-03T03:28:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code × Obsidian によってインフラ管理が拡がる価値を考える",
-    "link": "https://zenn.dev/sprix_it/articles/2470286c5ca1e9",
-    "pubDate": "Fri, 03 Apr 2026 03:01:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Ruby 4.0 にアップデートする前に Bundler 4.0 と Dependabot について深掘り調査してみた",
-    "link": "https://zenn.dev/leaner_dev/articles/deep-dive-bundler-4-0-and-dependabot",
-    "pubDate": "Thu, 02 Apr 2026 23:35:52 GMT"
   },
   {
     "site": "Qiita",
