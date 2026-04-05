@@ -1,21 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "PDF読書アプリshelffをリリースしました",
+    "link": "https://skoji.jp/blog/2026/04/shelff.html",
+    "pubDate": "2026-04-05T12:12:17.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Linux 7.0のプリエンプション変更でPostgreSQLが大きな性能低下：AWSは既定値差し戻しを提案 | XenoSpectrum",
     "link": "https://xenospectrum.com/linux-7-postgresql-regression/",
     "pubDate": "2026-04-05T11:51:10.000Z"
   },
   {
     "site": "Hatena",
-    "title": "最近いらすとやの絵を本当に見かけなくなってしまった...→「生成AIの影響を一番受けたと言っても過言ではない」「みんな絵なんて何でもいいんだな...」",
-    "link": "https://togetter.com/li/2682502",
-    "pubDate": "2026-04-05T04:04:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps | Claude",
-    "link": "https://claude.com/blog/harnessing-claudes-intelligence",
-    "pubDate": "2026-04-05T03:47:42.000Z"
+    "title": "技術広報は「広報」より「技術」が先にある - 941::blog",
+    "link": "https://blog.kushii.net/archives/2026/04/05/183847",
+    "pubDate": "2026-04-05T09:40:05.000Z"
   },
   {
     "site": "Zenn",
@@ -61,7 +61,7 @@
   },
   {
     "site": "Hatena",
-    "title": "突如実用化した1ビットLLM Bonai-8B もう推論にGPUはほぼ不要になる。その先に何が起きるか",
+    "title": "突如実用化した1ビットLLM Bonsai-8B もう推論にGPUはほぼ不要になる。その先に何が起きるか",
     "link": "https://wirelesswire.jp/2026/04/93202/",
     "pubDate": "2026-04-05T00:16:59.000Z"
   },
@@ -94,12 +94,6 @@
     "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
     "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-04T11:24:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPT「使いこなしている人」だけが知っている、一歩先の活用テクニック10選 | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2604-10-hacks-every-chatgpt-user-should-know/",
-    "pubDate": "2026-04-04T11:19:10.000Z"
   },
   {
     "site": "Zenn",
@@ -160,6 +154,12 @@
     "title": "Axiosサプライチェーン攻撃の手口をPostmortemで読んだら、まるでルパン三世だった",
     "link": "https://qiita.com/WdknWdkn/items/c787ccd02775613f6f13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-03T12:58:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeを使い始めた私が最初に押さえた設定と機能まとめ | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claude-code-getting-started-01/",
+    "pubDate": "2026-04-03T11:07:32.000Z"
   },
   {
     "site": "Qiita",
