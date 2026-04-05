@@ -1,63 +1,81 @@
 [
   {
     "site": "Hatena",
+    "title": "Linux 7.0でPostgreSQL性能半減、修正困難か",
+    "link": "https://joho-todai.com/linux-7-postgresql-performance-halved/",
+    "pubDate": "2026-04-05T00:44:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "参考書代も受講料もかからない…独学の資格勉強を根本から変える｢Googleの最新無料ツール｣のスゴい使い方 (2ページ目)",
+    "link": "https://president.jp/articles/-/110970?page=2",
+    "pubDate": "2026-04-04T17:53:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "llm-wiki",
+    "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "pubDate": "2026-04-04T17:05:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoftがエンジニア全員にストップウォッチを配っていた時代の教訓",
+    "link": "https://joho-todai.com/microsoft-engineers-stopwatch-lessons-productivity-era/",
+    "pubDate": "2026-04-04T15:22:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "YAMLの変更点を見落とさない！diffより強力なYAML差分確認ツール『dyff』のすすめ | SIOS Tech Lab",
+    "link": "https://tech-lab.sios.jp/archives/52303",
+    "pubDate": "2026-04-04T14:28:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIデータセンター建設計画の半数は変圧器やバッテリー不足で延期または取り消しになる見込み",
+    "link": "https://gigazine.net/news/20260404-ai-data-center-delayed-canceled/",
+    "pubDate": "2026-04-04T13:01:57.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "参考書代も受講料もかからない…独学の資格勉強を根本から変える｢Googleの最新無料ツール｣のスゴい使い方",
     "link": "https://president.jp/articles/-/110970",
     "pubDate": "2026-04-04T10:25:57.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "無料・高速・多機能でクロスプラットフォーム対応のターミナルエミュレータ「Ghostty」が魅力的な理由",
+    "link": "https://gigazine.net/news/20260404-ghostty-ui/",
+    "pubDate": "2026-04-04T08:31:53.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "terraform applyする前にインフラの耐障害性をスコアリングするOSSを作った",
-    "link": "https://zenn.dev/zenny8/articles/faultray-release-v11-terraform-resilience",
-    "pubDate": "2026-04-04T09:59:24.000Z"
+    "title": "GitHub Copilot CLI の /fleet が面白い",
+    "link": "https://zenn.dev/poipoionigiri/articles/73eb2b803b10d7",
+    "pubDate": "Sat, 04 Apr 2026 01:00:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「メモリは8ギガで十分ですよ。勘弁してくださいよ」時代の到来。1ビットLLM「Bonsai 8B」を8GBのMacBook Neoで動かしてみたら爆速だった。1.1GBに8Bパラメータが入る驚き（CloseBox） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/04/04/4971.html",
-    "pubDate": "2026-04-04T08:46:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "リップシンクする妻のAIアバターをClaude Codeと開発した。iPhoneでアクセスして音声対話ができる、その作り方（CloseBox） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/04/04/4970.html",
-    "pubDate": "2026-04-04T05:38:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "EMにはチームを強くして欲しい - pospomeのプログラミング日記",
-    "link": "https://www.pospome.work/entry/2026/04/04/134713",
-    "pubDate": "2026-04-04T04:56:53.000Z"
+    "site": "Zenn",
+    "title": "WinUI 3 の悪いところ",
+    "link": "https://zenn.dev/shinta0806/articles/winui3-disadvantages",
+    "pubDate": "Sat, 04 Apr 2026 00:12:46 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～ - Qiita",
-    "link": "https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103",
-    "pubDate": "2026-04-04T01:51:14.000Z"
+    "title": "Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～",
+    "link": "https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T15:17:52.000Z"
   },
   {
     "site": "Hatena",
-    "title": "NEC Atermのサポート内容に疑問",
-    "link": "https://anond.hatelabo.jp/20260404103515",
-    "pubDate": "2026-04-04T01:45:30.000Z"
+    "title": "Ubuntu 26.04 LTSの最低メモリ要件が6GBに引き上げ。4GBからの変更は8年ぶり",
+    "link": "https://gazlog.com/entry/ubuntu-26-04-lts-memory-up/",
+    "pubDate": "2026-04-03T14:47:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "思いつきを手軽にメモ。Claudeでアイデアを残し、広げる仕組みを作ってみた。 | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/claudememo-20260403/",
-    "pubDate": "2026-04-04T00:36:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【レビュー】10万円以下のMacは意外とアリ?　「MacBook Neo」を普段使いした",
-    "link": "https://www.watch.impress.co.jp/docs/review/review/2098562.html",
-    "pubDate": "2026-04-04T00:33:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "日本語対応オープンソースOCRの比較 その３",
-    "link": "https://zenn.dev/piment/articles/53710c5f3ed756",
-    "pubDate": "Fri, 03 Apr 2026 14:30:05 GMT"
+    "site": "Qiita",
+    "title": "Claude Code向けの著名なSkillsを合成して「Super Skills」を作ってみた",
+    "link": "https://qiita.com/takurot/items/98472032a3f4535c66b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T14:01:54.000Z"
   },
   {
     "site": "Zenn",
@@ -79,45 +97,21 @@
   },
   {
     "site": "Zenn",
-    "title": "GitHub Copilot CLI も OTel で観測する",
-    "link": "https://zenn.dev/microsoft/articles/f439e06d07123e",
-    "pubDate": "Fri, 03 Apr 2026 11:11:06 GMT"
+    "title": "AIが書いたコードをレビューするな",
+    "link": "https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9",
+    "pubDate": "Fri, 03 Apr 2026 09:30:05 GMT"
   },
   {
     "site": "Qiita",
-    "title": "useEffectを何となく使っていた自分が、React公式を読んで正しい使い方を学び直した",
-    "link": "https://qiita.com/ryo_sh/items/330a378b024562c9e097?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T09:43:52.000Z"
+    "title": "Gemma 4 徹底解説：Googleのオープンモデル最新版で何ができるのか",
+    "link": "https://qiita.com/TaichiEndoh/items/0b06c96326e0f41912b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T07:18:52.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "「聞きにくい」を減らすための質問の仕方",
-    "link": "https://qiita.com/S_kamon/items/f22d3237bf6d1a9e3071?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T09:34:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Excel】よく使う便利な関数まとめ（中級編）",
-    "link": "https://qiita.com/yuto-vj/items/ad4b2fa1b6554257ac33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T09:06:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "NEC「Aterm」シリーズに複数の脆弱性　アップデートまたは買い換えを推奨",
-    "link": "https://ascii.jp/elem/000/004/387/4387155/",
-    "pubDate": "2026-04-03T08:52:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "はじめての Git 実務ガイド：ブランチ運用からトラブル対処まで",
-    "link": "https://qiita.com/hiroki_notes/items/6358c8f99b66baba8655?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T07:25:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Struts1入門まとめ｜基本構造・つまずきポイント",
-    "link": "https://qiita.com/w_pechi/items/55647422c8ba22bbdab5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T06:38:27.000Z"
+    "site": "Zenn",
+    "title": "自律的に深掘りするデータ分析エージェントの設計 〜並列処理による高速化アプローチ〜",
+    "link": "https://zenn.dev/nttdata_tech/articles/a902c2d5289f3f",
+    "pubDate": "Fri, 03 Apr 2026 06:00:11 GMT"
   },
   {
     "site": "Zenn",
@@ -132,6 +126,12 @@
     "pubDate": "Fri, 03 Apr 2026 05:15:34 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "【非エンジニアのためのClaude/ClaudeCodeシリーズ】　Cowork活用1　Coworkで業務時間外の情報整理を自動化した話 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/cowork-morning-sales-automation/",
+    "pubDate": "2026-04-03T04:01:56.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方",
     "link": "https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -144,16 +144,10 @@
     "pubDate": "Fri, 03 Apr 2026 03:01:30 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【35歳未経験でも理解できた】WWWの基礎",
-    "link": "https://qiita.com/wata-sho/items/1c443b123080dcd994f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T01:21:16.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "多くの人にとってGitが難しいという課題をスキルでなんとかしたい",
-    "link": "https://zenn.dev/musoukun/articles/05ca5a6e817d88",
-    "pubDate": "Thu, 02 Apr 2026 18:16:37 GMT"
+    "title": "Ruby 4.0 にアップデートする前に Bundler 4.0 と Dependabot について深掘り調査してみた",
+    "link": "https://zenn.dev/leaner_dev/articles/deep-dive-bundler-4-0-and-dependabot",
+    "pubDate": "Thu, 02 Apr 2026 23:35:52 GMT"
   },
   {
     "site": "Qiita",
@@ -162,16 +156,22 @@
     "pubDate": "2026-04-02T14:57:33.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "パラメータ4個で710M超えのFoundation Modelに勝った時系列予測手法FLAIRの全貌",
-    "link": "https://zenn.dev/t_honda/articles/flair-time-series-forecasting",
-    "pubDate": "Thu, 02 Apr 2026 12:56:56 GMT"
+    "site": "Qiita",
+    "title": "GitHub Copilotの『SKILL.md育成RPG』— Lv.0の村人がLv.7の伝説の勇者になるまで鍛えたらコードレビューはどう変わるのか",
+    "link": "https://qiita.com/yukurash/items/d8971bdf08f8416ad7dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-02T09:23:35.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ハーネスエンジニアリングの先へ — VSDD × CoDDで「実装品質」と「変更時の整合性」を両立させてみた",
-    "link": "https://zenn.dev/sc30gsw/articles/bbb8b3c2fff1f6",
-    "pubDate": "Thu, 02 Apr 2026 10:37:14 GMT"
+    "site": "Qiita",
+    "title": "「動くコード」と「読めるコード」の違いをBefore/Afterで見る",
+    "link": "https://qiita.com/S_kamon/items/06c50c5a2eed33b96a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-02T09:18:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新人プログラマーは、全部を覚えなくていい。～ 最初に身につけたい3つの土台 ～",
+    "link": "https://qiita.com/Fujiwo/items/792a3dc35ec04ee24da9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-02T08:09:21.000Z"
   },
   {
     "site": "Qiita",
