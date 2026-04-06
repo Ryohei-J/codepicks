@@ -1,27 +1,75 @@
 [
   {
     "site": "Hatena",
-    "title": "PDF読書アプリshelffをリリースしました",
-    "link": "https://skoji.jp/blog/2026/04/shelff.html",
-    "pubDate": "2026-04-05T12:12:17.000Z"
+    "title": "【2005年のINTERNET Watch】ネット発「恋のマイアヒ」ヒットも「のまネコ」が問題化。Web 2.0、私的録音保証金の議論も話題に　",
+    "link": "https://internet.watch.impress.co.jp/docs/special/30th/2095362.html",
+    "pubDate": "2026-04-05T21:47:11.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Linux 7.0のプリエンプション変更でPostgreSQLが大きな性能低下：AWSは既定値差し戻しを提案 | XenoSpectrum",
-    "link": "https://xenospectrum.com/linux-7-postgresql-regression/",
-    "pubDate": "2026-04-05T11:51:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "技術広報は「広報」より「技術」が先にある - 941::blog",
-    "link": "https://blog.kushii.net/archives/2026/04/05/183847",
-    "pubDate": "2026-04-05T09:40:05.000Z"
+    "title": "AITuber奮闘記：ローカルLLMでゲーム実況、モデル選定と配信テストの記録｜与野",
+    "link": "https://note.com/yono_f4ll/n/n2834a3ac77f6",
+    "pubDate": "2026-04-05T14:27:44.000Z"
   },
   {
     "site": "Zenn",
-    "title": "なぜ、DRY原則 vs 単一責務原則(SRP)の優先度判断は死ぬほど難しいのか？",
-    "link": "https://zenn.dev/pdfractal/articles/5ecb13a015d2b4",
-    "pubDate": "2026-04-05T03:16:19.000Z"
+    "title": "GitHub Copilot は自ら学ぶ: Copilot Memory 入門",
+    "link": "https://zenn.dev/microsoft/articles/50863342150992",
+    "pubDate": "Sun, 05 Apr 2026 14:25:14 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【朗報】国土交通省、MCPサーバー公開 - すまほん!!",
+    "link": "https://smhn.info/202604-mlit-geospatial-mcp-server",
+    "pubDate": "2026-04-05T13:49:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "agent-browserがRustネイティブになった今、playwright-cliとどちらを選ぶべきか | sui Tech Blog",
+    "link": "https://suntory-n-water.com/blog/agent-browser-vs-playwright-cli-revisit",
+    "pubDate": "2026-04-05T11:04:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ホロスターズ縮小は、なぜ避けられなかったのか｜VSTATS・ジェネリック集計人(Holoデータ分析)",
+    "link": "https://note.com/vstats/n/n363b54cfa640",
+    "pubDate": "2026-04-05T09:52:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemma 4で自律エージェントを作る — LangGraph + Podman",
+    "link": "https://zenn.dev/nekoroko/articles/7f22e9c8557aea",
+    "pubDate": "Sun, 05 Apr 2026 08:32:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIが書いたコードをレビューするな",
+    "link": "https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9",
+    "pubDate": "2026-04-05T08:21:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
+    "link": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-05T08:00:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発】泳げば泳ぐほどモテる。水泳×マッチングアプリ「スイモテ」を作りました【React × Supabase × Firebase】",
+    "link": "https://qiita.com/jota9613/items/73b1a59a513a5eee98c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-05T07:56:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust向けのECS駆動な双方向通信サーバーフレームワークをリリースしました",
+    "link": "https://zenn.dev/hino_rs/articles/73f711641e34df",
+    "pubDate": "Sun, 05 Apr 2026 02:56:52 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【セキュリティ】JWTの署名を信頼していたら `alg: none` で管理者権限を奪取された話",
+    "link": "https://qiita.com/fe1ix/items/0b1ec01a6a41de94efa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-05T02:55:39.000Z"
   },
   {
     "site": "Zenn",
@@ -30,46 +78,34 @@
     "pubDate": "Sun, 05 Apr 2026 02:53:59 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Metaのスマートグラス規制を求める声が全米で噴出。もはや無視できないレベルに",
-    "link": "https://www.gizmodo.jp/2026/04/calls-to-regulate-smart-glasses-are-officially-deafening.html",
-    "pubDate": "2026-04-05T02:30:03.000Z"
+    "site": "Qiita",
+    "title": "FPGAの入出力タイミング制約を可視化するシミュレータを作った",
+    "link": "https://qiita.com/MameMame777/items/9d6e19d36a3f49dc0dae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-05T02:16:11.000Z"
   },
   {
     "site": "Zenn",
-    "title": "ハーネスエンジニアリング、全員が違うことを言っている — 5社の解釈を並べてみた",
-    "link": "https://zenn.dev/kenimo49/articles/harness-engineering-interpretations-2026",
-    "pubDate": "2026-04-05T02:23:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeで分析エージェントを作って3か月運用した話｜田口 信元",
-    "link": "https://note.com/guchey/n/n9eb66dd5d470",
-    "pubDate": "2026-04-05T02:14:53.000Z"
+    "title": "Claude Code & Google Analytics(GA4)のMCPサーバ連携を色々試してみた",
+    "link": "https://zenn.dev/shinyaa31/articles/e3a1bdf4d99d80",
+    "pubDate": "Sun, 05 Apr 2026 02:09:13 GMT"
   },
   {
     "site": "Qiita",
-    "title": "「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース",
+    "title": "【Webアプリ】「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース【Next.js✖️Chrome拡張機能】",
     "link": "https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-05T01:00:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Linux 7.0でPostgreSQL性能半減、修正困難か",
-    "link": "https://joho-todai.com/linux-7-postgresql-performance-halved/",
-    "pubDate": "2026-04-05T00:44:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "突如実用化した1ビットLLM Bonsai-8B もう推論にGPUはほぼ不要になる。その先に何が起きるか",
-    "link": "https://wirelesswire.jp/2026/04/93202/",
-    "pubDate": "2026-04-05T00:16:59.000Z"
+    "site": "Zenn",
+    "title": "脱CDKしてTerraformに移行すべきn個の理由(または私はなぜCDKをやめたか)",
+    "link": "https://zenn.dev/okazu_dm/articles/d35f863365cabf",
+    "pubDate": "Sun, 05 Apr 2026 01:00:07 GMT"
   },
   {
     "site": "Zenn",
-    "title": "コーディング規約のAgent Skillを作って実装時の手戻りを減らそう",
-    "link": "https://zenn.dev/j____takumi/articles/create_agent_skill",
-    "pubDate": "Sat, 04 Apr 2026 16:33:25 GMT"
+    "title": "【Nix奮闘記】農学部生が0からNixOSの設定をして分かったNixの特徴",
+    "link": "https://zenn.dev/hirose_suguru/articles/73054970bafecb",
+    "pubDate": "Sun, 05 Apr 2026 01:00:07 GMT"
   },
   {
     "site": "Zenn",
@@ -79,21 +115,9 @@
   },
   {
     "site": "Zenn",
-    "title": "ScriptableObject×関数型設計のススメ【Unity】",
-    "link": "https://zenn.dev/neriame_code/articles/1e318efdcee9de",
-    "pubDate": "Sat, 04 Apr 2026 13:46:26 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawから使う",
     "link": "https://zenn.dev/beef_and_rice/articles/cdb8b3f77f0704",
     "pubDate": "Sat, 04 Apr 2026 12:36:58 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
-    "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-04T11:24:53.000Z"
   },
   {
     "site": "Zenn",
@@ -102,40 +126,16 @@
     "pubDate": "Sat, 04 Apr 2026 10:52:04 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeスラッシュコマンド、Tier別に全部解説するで｜S〜分析まで完全攻略",
-    "link": "https://zenn.dev/masayan1126/books/claude-code-slash-commands",
-    "pubDate": "Sat, 04 Apr 2026 05:52:06 GMT"
+    "site": "Hatena",
+    "title": "Windows 11標準のコマンドプロンプトが大幅刷新、Windows Terminalの機能を統合へ",
+    "link": "https://news.mynavi.jp/techplus/article/20260404-4288697/",
+    "pubDate": "2026-04-04T09:42:20.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "CORSとプリフライトリクエストについて",
-    "link": "https://qiita.com/yakumo_09/items/66c8065e7caf1c5e9a16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-04T05:42:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot CLI の /fleet が面白い",
-    "link": "https://zenn.dev/poipoionigiri/articles/73eb2b803b10d7",
-    "pubDate": "Sat, 04 Apr 2026 01:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "WinUI 3 の悪いところ",
-    "link": "https://zenn.dev/shinta0806/articles/winui3-disadvantages",
-    "pubDate": "Sat, 04 Apr 2026 00:12:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【備忘録】Microsoft 365 Copilot Coworkとは何か ― Work IQを基盤としたエージェント実行機能として整理する",
-    "link": "https://qiita.com/Tadataka_Takahashi/items/a6c39eebdd3c62d9e35f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T21:26:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェント開発の新標準「ADLC」を読み解く — IBM×Anthropicのガイドへの共感と、本番運用からの実践的フィードバック",
-    "link": "https://zenn.dev/dxclab/articles/9f015ee80cd809",
-    "pubDate": "Fri, 03 Apr 2026 16:12:51 GMT"
+    "site": "Hatena",
+    "title": "Gemma 4 - ローカル実行方法 | Unsloth Documentation",
+    "link": "https://unsloth.ai/docs/jp/moderu/gemma-4",
+    "pubDate": "2026-04-03T23:27:08.000Z"
   },
   {
     "site": "Qiita",
@@ -156,10 +156,10 @@
     "pubDate": "2026-04-03T12:58:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeを使い始めた私が最初に押さえた設定と機能まとめ | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/claude-code-getting-started-01/",
-    "pubDate": "2026-04-03T11:07:32.000Z"
+    "site": "Qiita",
+    "title": "axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策 - Qiita",
+    "link": "https://qiita.com/nogataka/items/17c497375ed2c6c3d054",
+    "pubDate": "2026-04-03T04:04:37.000Z"
   },
   {
     "site": "Qiita",
@@ -169,14 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "Vibe Coding、最初は速い。でも後半で急にしんどくなる",
-    "link": "https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-02T14:57:33.000Z"
+    "title": "axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策",
+    "link": "https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-03T03:28:33.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "新人プログラマーは、全部を覚えなくていい。～ 最初に身につけたい3つの土台 ～",
-    "link": "https://qiita.com/Fujiwo/items/792a3dc35ec04ee24da9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-02T08:09:21.000Z"
+    "site": "Hatena",
+    "title": "地理空間情報：地理空間MCP Server - MLIT Geospatial MCP Server - （α版） - 国土交通省",
+    "link": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr17_000001_00047.html",
+    "pubDate": "2026-02-27T00:43:07.000Z"
   }
 ]
