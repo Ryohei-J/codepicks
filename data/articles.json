@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "【2005年のINTERNET Watch】ネット発「恋のマイアヒ」ヒットも「のまネコ」が問題化。Web 2.0、私的録音保証金の議論も話題に　",
-    "link": "https://internet.watch.impress.co.jp/docs/special/30th/2095362.html",
-    "pubDate": "2026-04-05T21:47:11.000Z"
+    "title": "かつてはパクリ、隠蔽のイメージだった中国...中央官庁の役人の中にも同じイメージを抱く者はいたが、実態は違った「経済も技術も軍事も進んだ超大国で脅威」",
+    "link": "https://togetter.com/li/2682923",
+    "pubDate": "2026-04-06T06:53:27.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AITuber奮闘記：ローカルLLMでゲーム実況、モデル選定と配信テストの記録｜与野",
-    "link": "https://note.com/yono_f4ll/n/n2834a3ac77f6",
-    "pubDate": "2026-04-05T14:27:44.000Z"
+    "title": "イーロンが言語の壁を取り払ってから自称海外済の日本人が静かになった…アメリカ人がやる気満々で素振りをする姿も",
+    "link": "https://togetter.com/li/2682884",
+    "pubDate": "2026-04-06T04:21:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日テレ系の制作会社、三菱電機の子会社、NTT東日本の新入社員が情報漏洩、更に外資系コンサルの社員は美容院で仕事....どんな研修よりも身が引き締まる",
+    "link": "https://togetter.com/li/2682871",
+    "pubDate": "2026-04-06T03:53:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「子供のマイナカードむずすぎ」問題　成長で顔認証も通らない？",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/06/news062.html",
+    "pubDate": "2026-04-06T03:03:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "画像・動画生成AIの常識が変わる、Claude Codeに全部やらせる方法論 (1/4)",
+    "link": "https://ascii.jp/elem/000/004/387/4387306/",
+    "pubDate": "2026-04-06T01:24:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "注射1回で「脳内のごみ」大掃除に成功　米大学がアルツハイマー病の新治療をScienceで発表　マウスで実証",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/03/news026.html",
+    "pubDate": "2026-04-05T23:52:26.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「あいつには関わりたくない」と思われていた2年間の話をする - Qiita",
+    "link": "https://qiita.com/kentawata/items/f1596bda2d07cdb2637d",
+    "pubDate": "2026-04-05T22:52:10.000Z"
   },
   {
     "site": "Zenn",
@@ -24,16 +54,16 @@
     "pubDate": "2026-04-05T13:49:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "agent-browserがRustネイティブになった今、playwright-cliとどちらを選ぶべきか | sui Tech Blog",
-    "link": "https://suntory-n-water.com/blog/agent-browser-vs-playwright-cli-revisit",
-    "pubDate": "2026-04-05T11:04:37.000Z"
+    "site": "Zenn",
+    "title": "AIがコードを書くほど、要件定義は上に移動する――Spec・Context・Harness三層設計",
+    "link": "https://zenn.dev/gvatech_blog/articles/30f79910d111bb",
+    "pubDate": "Sun, 05 Apr 2026 11:39:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ホロスターズ縮小は、なぜ避けられなかったのか｜VSTATS・ジェネリック集計人(Holoデータ分析)",
-    "link": "https://note.com/vstats/n/n363b54cfa640",
-    "pubDate": "2026-04-05T09:52:09.000Z"
+    "site": "Zenn",
+    "title": "データエンジニアのためのオントロジー入門 ― Semantic Layer との違いと役割分担",
+    "link": "https://zenn.dev/bare64/articles/ecac1bbf510ce4",
+    "pubDate": "Sun, 05 Apr 2026 11:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -78,16 +108,16 @@
     "pubDate": "Sun, 05 Apr 2026 02:53:59 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点",
+    "link": "https://zenn.dev/junko_ai/articles/721d89181b844f",
+    "pubDate": "Sun, 05 Apr 2026 02:40:03 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "FPGAの入出力タイミング制約を可視化するシミュレータを作った",
     "link": "https://qiita.com/MameMame777/items/9d6e19d36a3f49dc0dae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-05T02:16:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code & Google Analytics(GA4)のMCPサーバ連携を色々試してみた",
-    "link": "https://zenn.dev/shinyaa31/articles/e3a1bdf4d99d80",
-    "pubDate": "Sun, 05 Apr 2026 02:09:13 GMT"
   },
   {
     "site": "Qiita",
@@ -109,33 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた",
-    "link": "https://zenn.dev/nagi98/articles/260405-rag-optimization-overview",
-    "pubDate": "Sat, 04 Apr 2026 15:36:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawから使う",
-    "link": "https://zenn.dev/beef_and_rice/articles/cdb8b3f77f0704",
-    "pubDate": "Sat, 04 Apr 2026 12:36:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「ハーネスエンジニアリングやってます」と言いたくない理由",
-    "link": "https://zenn.dev/karamage/articles/4788b0b791ef2d",
-    "pubDate": "Sat, 04 Apr 2026 10:52:04 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11標準のコマンドプロンプトが大幅刷新、Windows Terminalの機能を統合へ",
-    "link": "https://news.mynavi.jp/techplus/article/20260404-4288697/",
-    "pubDate": "2026-04-04T09:42:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemma 4 - ローカル実行方法 | Unsloth Documentation",
-    "link": "https://unsloth.ai/docs/jp/moderu/gemma-4",
-    "pubDate": "2026-04-03T23:27:08.000Z"
+    "title": "誰もがGitを触る時代に、やさしい入門サイトを作った",
+    "link": "https://zenn.dev/nabewata/articles/d5261127bdd3c5",
+    "pubDate": "Sun, 05 Apr 2026 00:12:59 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "axios乗っ取り事件の全容 — 39分間で何が起きたか、そして今すぐやるべき防御策",
     "link": "https://qiita.com/nogataka/items/17c497375ed2c6c3d054?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-03T03:28:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "地理空間情報：地理空間MCP Server - MLIT Geospatial MCP Server - （α版） - 国土交通省",
-    "link": "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr17_000001_00047.html",
-    "pubDate": "2026-02-27T00:43:07.000Z"
   }
 ]
