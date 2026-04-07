@@ -1,33 +1,63 @@
 [
   {
     "site": "Hatena",
-    "title": "MMOの“タンクだけ”を気軽に体験できる1人用アクションローグライト『Don't Lose Aggro』4月15日に早期アクセス開始。仲間はAIなので、ミスしてもギスギスしない安心設計",
-    "link": "https://news.denfaminicogamer.jp/news/2604062h",
-    "pubDate": "2026-04-06T08:55:32.000Z"
+    "title": "長年の悩みがこれで解決！ CSSのposition: stickyの仕様が変わり、上部固定と左端固定が同時に実装できるようなります",
+    "link": "https://coliss.com/articles/build-websites/operation/css/css-sticky-per-axis-basis.html",
+    "pubDate": "2026-04-07T01:02:31.000Z"
   },
   {
     "site": "Hatena",
-    "title": "オープンイヤーなのにノイキャンが使えるイヤフォン「OpenFit Pro」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2099410.html",
-    "pubDate": "2026-04-06T08:50:38.000Z"
+    "title": "「Google Pixel 10a」発表、約8万円～　日本限定モデル「Isai Blue」も登場",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2099422.html",
+    "pubDate": "2026-04-07T00:34:27.000Z"
   },
   {
     "site": "Hatena",
-    "title": "高校時代、電子機器を触るとメモリーの中が勝手に書き変わる→似た体験談が続々と集まり「何もしていないのに壊れた」が真実の可能性が出てきた？",
-    "link": "https://togetter.com/li/2682938",
-    "pubDate": "2026-04-06T07:10:05.000Z"
+    "title": "AI Engineering Summit Tokyo 2026 公式サイト | OpenAI登壇！AIエンジニアリングの最前線",
+    "link": "https://ai-engineering-summit-tokyo.findy-tools.io/2026-summer",
+    "pubDate": "2026-04-07T00:02:52.000Z"
   },
   {
     "site": "Hatena",
-    "title": "かつてはパクリ、隠蔽のイメージだった中国...中央官庁の役人の中にも同じイメージを抱く者はいたが、実態は違った「経済も技術も軍事も進んだ超大国で脅威」",
-    "link": "https://togetter.com/li/2682923",
-    "pubDate": "2026-04-06T06:53:27.000Z"
+    "title": "通勤「44分」がメンタルヘルスの分岐点　それ以上は苦痛、それ以下は息抜き効果　共働き労働者500人以上を調査　米国チームが研究発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/07/news018.html",
+    "pubDate": "2026-04-06T23:56:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ローカルLLM（Gemma4）× AIVIS Speech で音声チャットの応答を「1秒未満」にした話 - Qiita",
+    "link": "https://qiita.com/kikuziro/items/35f8fd0f56e63b25854f",
+    "pubDate": "2026-04-06T22:52:37.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Git Ready - Git・GitHub の教科書",
-    "link": "https://git-ready.easegis.jp/",
-    "pubDate": "2026-04-06T04:55:21.000Z"
+    "title": "AIに個人情報を入れまくってたら人生が終わりかけた話",
+    "link": "https://anond.hatelabo.jp/20260407065857",
+    "pubDate": "2026-04-06T22:09:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Ray-Ban Metaは82500円から。Metaストアに価格表記",
+    "link": "https://av.watch.impress.co.jp/docs/news/2099282.html",
+    "pubDate": "2026-04-06T10:18:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "商品棚ユニットで構成する「オフィスローソン」27年度事業化へ",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2099469.html",
+    "pubDate": "2026-04-06T08:53:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ラムダ式に戸惑った時の備忘録",
+    "link": "https://qiita.com/aito1234/items/1506a98b6cb2d05a12c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-06T08:02:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "🎯 初めての C# 非同期処理：実務で使う async/await の基本と注意点",
+    "link": "https://qiita.com/hiroki_notes/items/9733cd3214355e0c3e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-06T07:41:35.000Z"
   },
   {
     "site": "Zenn",
@@ -36,10 +66,22 @@
     "pubDate": "2026-04-06T03:07:42.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Gemma 4 vs Qwen 3.5 — DGX Spark × llama.cpp でMoEモデル対決ベンチマーク",
+    "link": "https://zenn.dev/nabe2030/articles/26e3855bbb70a5",
+    "pubDate": "Mon, 06 Apr 2026 03:01:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル",
     "link": "https://qiita.com/KanNishida/items/565941faee9c67b64e14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-06T02:34:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vanilla CSSでもデザインシステムを構築したい！：css-var-kitによるtype-awareな補完とLint",
+    "link": "https://zenn.dev/jo16oh/articles/fa8080edc388b3",
+    "pubDate": "Mon, 06 Apr 2026 02:14:43 GMT"
   },
   {
     "site": "Qiita",
@@ -48,22 +90,16 @@
     "pubDate": "2026-04-06T01:31:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "画像・動画生成AIの常識が変わる、Claude Codeに全部やらせる方法論 (1/4)",
-    "link": "https://ascii.jp/elem/000/004/387/4387306/",
-    "pubDate": "2026-04-06T01:24:55.000Z"
+    "site": "Zenn",
+    "title": "Claude CodeにCLIツールを渡して精度と効率を上げる",
+    "link": "https://zenn.dev/chot/articles/d0cd0425edd869",
+    "pubDate": "Mon, 06 Apr 2026 01:00:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "注射1回で「脳内のごみ」大掃除に成功　米大学がアルツハイマー病の新治療をScienceで発表　マウスで実証",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/03/news026.html",
-    "pubDate": "2026-04-05T23:52:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ブラウザ上で完結するAI校正付き無料OCRツール「NDLOCR-Lite Web AI」登場。国立国会図書館「NDLOCR-Lite」を活用（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/04/06/4972.html",
-    "pubDate": "2026-04-05T23:31:03.000Z"
+    "site": "Zenn",
+    "title": "Claude Agent SDK でつくる！対話型AIエージェント開発",
+    "link": "https://zenn.dev/ml_bear/books/f2d52a3bc0b33c",
+    "pubDate": "Mon, 06 Apr 2026 00:27:23 GMT"
   },
   {
     "site": "Zenn",
@@ -72,16 +108,16 @@
     "pubDate": "Sun, 05 Apr 2026 23:06:48 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「あいつには関わりたくない」と思われていた2年間の話をする - Qiita",
-    "link": "https://qiita.com/kentawata/items/f1596bda2d07cdb2637d",
-    "pubDate": "2026-04-05T22:52:10.000Z"
+    "site": "Zenn",
+    "title": "AIがコードを書くほど、要件定義は上に移動する――Spec・Context・Harness三層設計",
+    "link": "https://zenn.dev/gvatech_blog/articles/30f79910d111bb",
+    "pubDate": "2026-04-05T22:49:10.000Z"
   },
   {
     "site": "Zenn",
-    "title": "SEなら知っておきたい、OSの\"ルーツ\"の話――Windows / macOS / Linuxの設計思想と歴史【前編】",
-    "link": "https://zenn.dev/kirilab/articles/os-roots-windows-macos-linux",
-    "pubDate": "Sun, 05 Apr 2026 15:57:54 GMT"
+    "title": "Claude Codeのセキュリティ設定を本気で固めた話【2026年版】",
+    "link": "https://zenn.dev/momozaki/articles/10cf58b08de335",
+    "pubDate": "Sun, 05 Apr 2026 19:52:17 GMT"
   },
   {
     "site": "Zenn",
@@ -97,12 +133,6 @@
   },
   {
     "site": "Zenn",
-    "title": "git diff --color-wordsが日本語だと見づらい問題への対処",
-    "link": "https://zenn.dev/hnw/articles/e0168f5b2c8115",
-    "pubDate": "Sun, 05 Apr 2026 11:23:13 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "データエンジニアのためのオントロジー入門 ― Semantic Layer との違いと役割分担",
     "link": "https://zenn.dev/bare64/articles/ecac1bbf510ce4",
     "pubDate": "Sun, 05 Apr 2026 11:00:05 GMT"
@@ -112,12 +142,6 @@
     "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
     "link": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-05T08:00:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】泳げば泳ぐほどモテる。水泳×マッチングアプリ「スイモテ」を作りました【React × Supabase × Firebase】",
-    "link": "https://qiita.com/jota9613/items/73b1a59a513a5eee98c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-05T07:56:02.000Z"
   },
   {
     "site": "Qiita",
@@ -138,24 +162,6 @@
     "pubDate": "Sun, 05 Apr 2026 02:56:52 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "nvim-treesitterが消えた今、その役割を改めて整理する",
-    "link": "https://zenn.dev/glmlm/articles/neovim-treesitter-archived-20260406",
-    "pubDate": "Sun, 05 Apr 2026 02:53:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点",
-    "link": "https://zenn.dev/junko_ai/articles/721d89181b844f",
-    "pubDate": "Sun, 05 Apr 2026 02:40:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Nix奮闘記】農学部生が0からNixOSの設定をして分かったNixの特徴",
-    "link": "https://zenn.dev/hirose_suguru/articles/73054970bafecb",
-    "pubDate": "Sun, 05 Apr 2026 01:00:07 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Bonsai-8B考察 — 1-bit LLMは使い物になるのか",
     "link": "https://qiita.com/y0kud4/items/3f7faeea52d7eec01b0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
+    "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-04T11:24:53.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "ODBCドライバーは何をしているのか？ ─ DB接続の「見えない翻訳者」を理解する",
     "link": "https://qiita.com/ktdatascience/items/6fff369a0f20223a821f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-04T03:15:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeの首位陥落。CodexがシェアNo.1へ。 ～データで見る2026年3月のAI Codingの動向まとめ～",
-    "link": "https://qiita.com/kotauchisunsun/items/ab78bb338500b4c71103?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T15:17:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Axiosサプライチェーン攻撃の手口をPostmortemで読んだら、まるでルパン三世だった",
-    "link": "https://qiita.com/WdknWdkn/items/c787ccd02775613f6f13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-03T12:58:18.000Z"
   }
 ]
