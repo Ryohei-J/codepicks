@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "Windows 11、コントロールパネル廃止へ　設定アプリに完全移行",
+    "link": "https://ascii.jp/elem/000/004/388/4388318/",
+    "pubDate": "2026-04-08T11:35:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude次世代モデル「Mythos」が一般公開されないワケ　セキュリティ能力高すぎて「ゼロデイ攻撃自律開発」「出られないはずのサンドボックスから脱出」",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/08/news092.html",
+    "pubDate": "2026-04-08T06:46:10.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "50年以上前のコンピューターで月面着陸して無事に帰ってきたアポロってどうなってんの？→当時のド根性すぎるシステムに唖然",
     "link": "https://togetter.com/li/2683648",
     "pubDate": "2026-04-08T05:22:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "デザインシステムを丸ごと Skills にする",
+    "link": "https://zenn.dev/cybozu_frontend/articles/design-system-skills",
+    "pubDate": "2026-04-08T04:11:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【後編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴",
+    "link": "https://qiita.com/hitomin_poke/items/eb731b9d753ca7cda3c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-08T03:50:48.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +36,34 @@
     "pubDate": "2026-04-08T03:27:01.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "RAGとAgentic Searchの戦争を 終わらせに来た!!!",
+    "link": "https://zenn.dev/microsoft/articles/d1aa5068b432f9",
+    "pubDate": "Wed, 08 Apr 2026 01:47:31 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic「Claude Mythos」凄すぎて一般公開見送り",
+    "link": "https://ascii.jp/elem/000/004/388/4388019/",
+    "pubDate": "2026-04-08T01:40:19.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "セキュリティエンジニアはこう見る。開発時に認可制御不備を怪しむべき実装パターン10選 - GMO Flatt Security Blog",
     "link": "https://blog.flatt.tech/entry/authz_assessment_view",
     "pubDate": "2026-04-08T01:35:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "離れて暮らす家族を自然に見守る「そっと見守るWi-Fiセンシングプラグ」、サイチが発売　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2099808.html",
-    "pubDate": "2026-04-08T01:12:44.000Z"
+    "site": "Qiita",
+    "title": "【35歳未経験でも理解できた】従来型のアプリケーション",
+    "link": "https://qiita.com/wata-sho/items/34d20cd39006cce775d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-08T01:26:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "デザインシステムを丸ごと Skills にする",
+    "link": "https://zenn.dev/cybozu_frontend/articles/design-system-skills",
+    "pubDate": "Wed, 08 Apr 2026 01:09:54 GMT"
   },
   {
     "site": "Hatena",
@@ -37,27 +79,33 @@
   },
   {
     "site": "Hatena",
-    "title": "【西川和久の不定期コラム】 iPhoneと同じプロセッサ、今どきメモリ8GBしかない「MacBook Neo」って使える？",
-    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2099857.html",
-    "pubDate": "2026-04-07T21:12:37.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「メルカリがやばいとか色々言われているけどフリマの中だと一番マシだと思います。私の中だと一番やばいのは【ラクマ】。あそこは犯罪の臭いしかない」",
     "link": "https://posfie.com/@golden_haniwa/p/3EE9noj",
     "pubDate": "2026-04-07T18:17:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIのお世話が辛いのでUsecase Design Docを書く - CADDi Tech Blog",
-    "link": "https://caddi.tech/2026/04/07/110000",
-    "pubDate": "2026-04-07T11:16:57.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilot CLIを\"タダ\"で体系的に学べるコースをやってみた",
+    "link": "https://zenn.dev/microsoft/articles/9fb85cdca2fb84",
+    "pubDate": "Tue, 07 Apr 2026 18:06:02 GMT"
   },
   {
     "site": "Qiita",
-    "title": "【Git】実務でよく使うGitコマンドまとめ",
-    "link": "https://qiita.com/yuto-vj/items/0752494aae131cc07359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-07T09:35:04.000Z"
+    "title": "自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された",
+    "link": "https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-07T13:28:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "C# で MVVM を学ぶならまずこれ！CommunityToolkit.Mvvm で理解する基本の流れ",
+    "link": "https://qiita.com/hiroki_notes/items/45b5847e30b2cd61a756?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-07T11:24:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Java Stream APIをfor文と比較【初心者向け】",
+    "link": "https://qiita.com/w_pechi/items/27ca37ee66931f3a39b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-07T10:07:34.000Z"
   },
   {
     "site": "Zenn",
@@ -76,12 +124,6 @@
     "title": "こんなAI時代に、新しいCSS設計フレームワークを作る理由",
     "link": "https://zenn.dev/ddryo_loos/articles/why-create-new-css-framework-in-ai-era",
     "pubDate": "Tue, 07 Apr 2026 04:25:57 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【参加レポート】 Security Days Spring 2026 Tokyoに参加しました！",
-    "link": "https://qiita.com/skoda007/items/651d9dc904aefe4f411f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-07T03:55:27.000Z"
   },
   {
     "site": "Zenn",
@@ -121,42 +163,6 @@
   },
   {
     "site": "Qiita",
-    "title": "「提案力」のあるエンジニアになろう！",
-    "link": "https://qiita.com/Terao-Takumi/items/73b6116174279541f601?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-07T00:57:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "仕様駆動開発は、ウォーターフォールへの回帰ではない。",
-    "link": "https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-07T00:41:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "WASM×グラフDB — ブラウザで動くグラフデータベース",
-    "link": "https://zenn.dev/toyb0x/articles/d9288185baecdc",
-    "pubDate": "Tue, 07 Apr 2026 00:28:29 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - kzhrknt/awesome-design-md-jp: 日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.",
-    "link": "https://github.com/kzhrknt/awesome-design-md-jp",
-    "pubDate": "2026-04-06T23:12:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "1年で 1,000 GitHub Starまで育てた秘訣、全部書きました",
-    "link": "https://zenn.dev/yutasato/articles/0b0fbc69066f0a",
-    "pubDate": "Mon, 06 Apr 2026 22:59:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "誰も教えてくれないソフトウェアの社会学",
-    "link": "https://zenn.dev/acntechjp/articles/20260406_software_sociology",
-    "pubDate": "Mon, 06 Apr 2026 12:08:14 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "【35歳未経験でも理解できた】HTTPクライアントとHTTPサーバー",
     "link": "https://qiita.com/wata-sho/items/6856459c6e8f3decbba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-06T01:31:43.000Z"
@@ -172,11 +178,5 @@
     "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
     "link": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-05T08:00:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI に「デザインの判断力」を与えるスキル `ui-ux-pro-max-skill` を徹底解説してみた — Codex CLI 実践編",
-    "link": "https://qiita.com/engchina/items/021eaec14a0970ee1c0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-05T06:20:50.000Z"
   }
 ]
