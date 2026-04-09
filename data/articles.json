@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "AIがバラバラなUIを作る問題、これで解決？　Google提唱の新標準「DESIGN.md」とは",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/09/news014.html",
+    "pubDate": "2026-04-08T21:21:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "SUUMO, CHINTAI, At Home, HOME'S Suffer Data Breach - Daily Dark Web",
     "link": "https://dailydarkweb.net/suumo-chintai-at-home-homes-suffer-data-breach/",
     "pubDate": "2026-04-08T16:03:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Amazon S3がファイルシステムとしてアクセス可能になる「Amazon S3 Files」、AWSが提供開始",
+    "link": "https://www.publickey1.jp/blog/26/amazon_s3amazon_s3_filesaws.html",
+    "pubDate": "2026-04-08T14:55:12.000Z"
   },
   {
     "site": "Hatena",
@@ -13,39 +25,39 @@
   },
   {
     "site": "Hatena",
-    "title": "Windows 11、コントロールパネル廃止へ　設定アプリに完全移行",
-    "link": "https://ascii.jp/elem/000/004/388/4388318/",
-    "pubDate": "2026-04-08T11:35:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "DuckDBとTaskfileで作るBQ×スプレッドシートの使い捨てEDA環境 - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2026/04/08/101840",
-    "pubDate": "2026-04-08T09:21:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gemini for Home の早期アクセスを開始：AI でご自宅をより便利に",
-    "link": "https://blog.google/intl/ja-jp/products/devices-services/gemini-for-home/",
-    "pubDate": "2026-04-08T08:06:42.000Z"
+    "title": "AWSが「Amazon S3 Files」を発表、S3バケットをファイルシステムとして利用可能に",
+    "link": "https://codezine.jp/news/detail/23899",
+    "pubDate": "2026-04-08T12:23:52.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeくんのデフォルトeffort levelをmaxに固定する",
-    "link": "https://zenn.dev/madebyjun/articles/8f7d6bb9286b95",
-    "pubDate": "2026-04-08T06:21:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "50年以上前のコンピューターで月面着陸して無事に帰ってきたアポロってどうなってんの？→当時のド根性すぎるシステムに唖然",
-    "link": "https://togetter.com/li/2683648",
-    "pubDate": "2026-04-08T05:22:48.000Z"
+    "title": "Terraformを使わずにGitHubをコードで管理する",
+    "link": "https://zenn.dev/babarot/articles/github-as-code-with-gh-infra",
+    "pubDate": "Wed, 08 Apr 2026 11:51:11 GMT"
   },
   {
     "site": "Zenn",
-    "title": "デザインシステムを丸ごと Skills にする",
-    "link": "https://zenn.dev/cybozu_frontend/articles/design-system-skills",
-    "pubDate": "2026-04-08T04:11:36.000Z"
+    "title": "社内業務をAIに開放 — 自社MCPサーバー群一挙公開！",
+    "link": "https://zenn.dev/aircloset/articles/d9fc317c1336c2",
+    "pubDate": "2026-04-08T11:05:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「フラップや方向舵なし！」“空気の穴”だけで制御する“異質”な機体　初飛行に向け胴体公開 | 乗りものニュース",
+    "link": "https://trafficnews.jp/post/652839",
+    "pubDate": "2026-04-08T08:37:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code を並列で回す WezTerm ターミナル構成",
+    "link": "https://zenn.dev/dely_jp/articles/5d4e89c275789f",
+    "pubDate": "2026-04-08T04:34:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vim の春コーデ — 透け見せの着こなし",
+    "link": "https://zenn.dev/mattn/articles/9f95d185fe356d",
+    "pubDate": "Wed, 08 Apr 2026 04:24:37 GMT"
   },
   {
     "site": "Qiita",
@@ -54,10 +66,22 @@
     "pubDate": "2026-04-08T03:50:48.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "前編：Claude Codeで便利だと感じた点（概要・考え方）",
+    "link": "https://qiita.com/aito1234/items/e79011def2d0437f30e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-08T03:30:04.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "「BDドライブとBDの提供継続に尽力」。アイ・オーとVerbatim共同声明",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2099966.html",
-    "pubDate": "2026-04-08T03:27:01.000Z"
+    "title": "Windows 11でClaude Codeのマルチエージェント開発環境をホントの1から構築してみた 〜WSL + Arch Linux + tmuxで画面分割表示まで～ | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claude-code-multi-agent-on-windows11-wsl-tmux/",
+    "pubDate": "2026-04-08T03:05:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Spring Bootのステレオタイプアノテーションを整理する",
+    "link": "https://qiita.com/S_kamon/items/5768fdeeaca34f1cb5b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-08T02:18:52.000Z"
   },
   {
     "site": "Zenn",
@@ -78,10 +102,22 @@
     "pubDate": "Wed, 08 Apr 2026 01:09:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Googleに課金するときどれ選べばいいんだよ問題・AI対応 2026年版（Google One / Google AI / Google Workspace の比較） - nomolkのブログ",
-    "link": "https://nomolk.hatenablog.com/entry/2026/04/07/211801",
-    "pubDate": "2026-04-07T22:48:30.000Z"
+    "site": "Qiita",
+    "title": "(新機能)S3 Filesリリース",
+    "link": "https://qiita.com/yama3133/items/61d8ae75d65f8ef873d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-08T00:23:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
+    "link": "https://qiita.com/shirok/items/b05b23fb02ae1a9a7349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-07T23:45:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「あいつには関わりたくない」と思われていた2年間の話をする - Qiita",
+    "link": "https://qiita.com/kentawata/items/f1596bda2d07cdb2637d?utm_content=buffera6b15&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+    "pubDate": "2026-04-07T23:11:42.000Z"
   },
   {
     "site": "Zenn",
@@ -94,18 +130,6 @@
     "title": "自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された",
     "link": "https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-07T13:28:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "C# で MVVM を学ぶならまずこれ！CommunityToolkit.Mvvm で理解する基本の流れ",
-    "link": "https://qiita.com/hiroki_notes/items/45b5847e30b2cd61a756?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-07T11:24:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Java Stream APIをfor文と比較【初心者向け】",
-    "link": "https://qiita.com/w_pechi/items/27ca37ee66931f3a39b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-07T10:07:34.000Z"
   },
   {
     "site": "Zenn",
@@ -132,28 +156,10 @@
     "pubDate": "Tue, 07 Apr 2026 03:37:22 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "エンジニア未経験でも一目置かれるポートフォリオ。ビジネス視点で顧客に価値を届ける。",
-    "link": "https://qiita.com/masa20057/items/3237a14437fbaad63f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-07T02:50:11.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Prime Intellect Labで始めるAgentic RL ―― 4BモデルでGPT-5を超える",
-    "link": "https://zenn.dev/mkj/articles/prime-rl-20260401",
-    "pubDate": "Tue, 07 Apr 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "1件の問い合わせから、3万件/日のユーザ体験を改善したCREの取り組み",
-    "link": "https://zenn.dev/mitene/articles/37670f812485b3",
-    "pubDate": "Tue, 07 Apr 2026 01:59:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "全PRの83%をAIレビューだけでマージできるようにした",
-    "link": "https://zenn.dev/kauche/articles/e051583461c181",
-    "pubDate": "Tue, 07 Apr 2026 01:33:39 GMT"
+    "title": "その開発、本当にアジャイルですか？「ビルド＆フィックス」を避ける仕組みと習慣",
+    "link": "https://zenn.dev/loglass/articles/54a2f2c8823ba2",
+    "pubDate": "Tue, 07 Apr 2026 03:20:05 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "【35歳未経験でも理解できた】HTTPクライアントとHTTPサーバー",
-    "link": "https://qiita.com/wata-sho/items/6856459c6e8f3decbba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-06T01:31:43.000Z"
+    "title": "仕様駆動開発は、ウォーターフォールへの回帰ではない。",
+    "link": "https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-07T00:41:36.000Z"
   },
   {
     "site": "Qiita",
     "title": "ローカルLLM（Gemma4）× AIVIS Speech で音声チャットの応答を「1秒未満」にした話",
     "link": "https://qiita.com/kikuziro/items/35f8fd0f56e63b25854f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-05T21:13:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
-    "link": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-05T08:00:09.000Z"
   }
 ]
