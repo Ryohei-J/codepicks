@@ -1,27 +1,33 @@
 [
   {
     "site": "Zenn",
-    "title": "Typelessで音声入力や ── タイピング不要のAI時代がきたで",
-    "link": "https://zenn.dev/masayan1126/books/typeless-voice-input",
-    "pubDate": "Sat, 11 Apr 2026 09:22:10 GMT"
+    "title": "Claudeトークン消費を抑えて５倍使う: 「原始人」口調が80%削減",
+    "link": "https://zenn.dev/mikana0918/articles/7ad57493a04f88",
+    "pubDate": "2026-04-11T13:19:48.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「CPU-Z」と「HWMonitor」にマルウェアが混入、配布サイトのCPUIDがハッキング被害を表明",
-    "link": "https://gigazine.net/news/20260411-cpuid-flagged-for-malware/",
-    "pubDate": "2026-04-11T06:51:43.000Z"
+    "title": "fence - AI AgentをOSサンドボックスの中で動かす | おそらくはそれさえも平凡な日々",
+    "link": "https://songmu.jp/riji/entry/2026-04-11-ai-agent-inside-the-fence.html",
+    "pubDate": "2026-04-11T12:27:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "DESIGN.md + 壊れたら気づくハーネス - AI向けデザインシステムを「維持できる仕組み」にした記録",
+    "link": "https://zenn.dev/tsubotax/articles/7f0d3693f70e2f",
+    "pubDate": "2026-04-11T12:04:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Typelessで音声入力や ── タイピング不要のAI時代がきたで",
+    "link": "https://zenn.dev/masayan1126/books/typeless-voice-input",
+    "pubDate": "Sat, 11 Apr 2026 09:22:10 GMT"
   },
   {
     "site": "Zenn",
     "title": "Claude Managed Agents を試してみた",
     "link": "https://zenn.dev/kumamo_tone/articles/365845d65e6cf4",
     "pubDate": "Sat, 11 Apr 2026 05:47:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "アルテミスII、地球帰還の一部始終　YouTubeでは320万人超が見守る",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/11/news025.html",
-    "pubDate": "2026-04-11T01:50:32.000Z"
   },
   {
     "site": "Zenn",
@@ -40,6 +46,12 @@
     "title": "アーキテクチャモダナイゼーションとは何か",
     "link": "https://speakerdeck.com/nwiizo/akitekutiyamodanaizesiyontohahe-ka",
     "pubDate": "2026-04-10T15:26:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Introduction to Agents",
+    "link": "https://www.kaggle.com/whitepaper-introduction-to-agents",
+    "pubDate": "2026-04-10T14:16:09.000Z"
   },
   {
     "site": "Zenn",
@@ -78,12 +90,6 @@
     "pubDate": "2026-04-10T07:59:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code × draw.io公式Skillで、AWSアーキテクチャ図の生成を自動化してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/claude-code-trying-out-drawio-skill-for-aws-architecture/",
-    "pubDate": "2026-04-10T07:23:54.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Jujutsu はなぜ AI 時代に急に評価され始めたのか",
     "link": "https://zenn.dev/oukayuka/books/353ad112b88613",
@@ -94,12 +100,6 @@
     "title": "“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話",
     "link": "https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-10T04:17:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "自作OS 超軽量10KB！MQTT/TLS/Shell完備の「TinyOS」を開発しました！",
-    "link": "https://zenn.dev/knbzyh/articles/9fe23dd9486175",
-    "pubDate": "2026-04-10T03:05:21.000Z"
   },
   {
     "site": "Zenn",
@@ -139,15 +139,15 @@
   },
   {
     "site": "Qiita",
-    "title": "バックエンドをLambdaにするかECS（Fargate）にするかの判断基準 - Qiita",
-    "link": "https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38",
-    "pubDate": "2026-04-09T10:07:20.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "バックエンドをLambdaにするかECS（Fargate）にするかの判断基準",
     "link": "https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-09T09:32:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【神アプデ】Geminiに、NotebookLMが統合「Notebooks」が利用可能に",
+    "link": "https://www.sbbit.jp/article/cont1/184157",
+    "pubDate": "2026-04-09T08:04:24.000Z"
   },
   {
     "site": "Qiita",
