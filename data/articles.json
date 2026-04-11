@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "MLSharp ヘルプ - 3DGS ビューアー & 生成アプリ",
+    "link": "https://suto.bex.jp/mac/mlsharp/indexj.html",
+    "pubDate": "2026-04-11T02:30:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "メルカリのClaude Codeセキュリティ設定の組織配布戦略 - Claude Code Meetup Japan #4",
+    "link": "https://speakerdeck.com/hi120ki/claude-code-organization-settings",
+    "pubDate": "2026-04-11T00:38:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "米金融界が震える非公開AI「Mythos」　銀行システムの弱点突く - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN10CK20Q6A410C2000000/",
     "pubDate": "2026-04-10T21:03:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "月間7000万PV*の「PR TIMES」がサービスドメインを「prtimes.com」へ今秋移行",
+    "link": "https://prtimes.jp/main/html/rd/p/000001644.000000112.html",
+    "pubDate": "2026-04-10T16:04:14.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +30,10 @@
     "pubDate": "2026-04-10T14:35:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "病院でマイナンバーカードを読み取るやつをLinuxから叩く - 点と接線。",
-    "link": "https://riq0h.jp/2026/04/10/170921/",
-    "pubDate": "2026-04-10T13:23:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ひたすら無言でブクマするブクマカこそ、真のブクマカだ",
-    "link": "https://anond.hatelabo.jp/20260410213119",
-    "pubDate": "2026-04-10T12:40:33.000Z"
+    "site": "Zenn",
+    "title": "関数型って結局なんやねん！どないして活用せえっちゅうねん！",
+    "link": "https://zenn.dev/sonneko/articles/004b051a805687",
+    "pubDate": "Fri, 10 Apr 2026 13:40:55 GMT"
   },
   {
     "site": "Hatena",
@@ -30,10 +42,10 @@
     "pubDate": "2026-04-10T10:33:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIエージェントの「スキル」の品質低下を防ぐ？　テストと検証機能を強化",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/10/news060.html",
-    "pubDate": "2026-04-10T08:14:28.000Z"
+    "site": "Zenn",
+    "title": "Claude Code + Obsidian — Daily Note の下書きを自動生成し、週次・月次レビューまで積み上げる仕組みを作った",
+    "link": "https://zenn.dev/dely_jp/articles/b8da42a57bbc39",
+    "pubDate": "Fri, 10 Apr 2026 09:32:22 GMT"
   },
   {
     "site": "Hatena",
@@ -42,10 +54,16 @@
     "pubDate": "2026-04-10T07:23:54.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Jujutsu はなぜ AI 時代に急に評価され始めたのか",
+    "link": "https://zenn.dev/oukayuka/books/353ad112b88613",
+    "pubDate": "Fri, 10 Apr 2026 04:35:15 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開　基礎から本番実装まで学べる",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/10/news057.html",
-    "pubDate": "2026-04-10T04:55:25.000Z"
+    "title": "あらゆるAIの脆弱性をスキャンするツール「0DIN AI Scanner」をMozillaがオープンソースでリリース",
+    "link": "https://gigazine.net/news/20260410-mozilla-0din-ai-scanner/",
+    "pubDate": "2026-04-10T04:17:50.000Z"
   },
   {
     "site": "Qiita",
@@ -73,9 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code Skillsは作って終わりじゃない — 事後ログで改善サイクルを回す",
-    "link": "https://zenn.dev/tre_conigli/articles/claude-code-skill-improvement-cycle",
-    "pubDate": "Fri, 10 Apr 2026 01:48:46 GMT"
+    "title": "世は大環境時代 - エージェントハーネスとRL環境の展開から見えてくるもの",
+    "link": "https://zenn.dev/mkj/articles/d700c07675d7b1",
+    "pubDate": "Fri, 10 Apr 2026 02:50:05 GMT"
   },
   {
     "site": "Qiita",
@@ -109,6 +127,12 @@
   },
   {
     "site": "Qiita",
+    "title": "バックエンドをLambdaにするかECS（Fargate）にするかの判断基準 - Qiita",
+    "link": "https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38",
+    "pubDate": "2026-04-09T10:07:20.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【Git】実務で使うGitブランチ運用ルールまとめ",
     "link": "https://qiita.com/yuto-vj/items/9fea43402728d5e4d9de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-09T09:55:58.000Z"
@@ -130,30 +154,6 @@
     "title": "転職してエクセルファイルを読み解いてHTMLに変換する仕事をしていたが、悪役令嬢は出てこないし、勇者パーティーも追放されなかった話",
     "link": "https://zenn.dev/aldagram_tech/articles/c472e358412864",
     "pubDate": "Thu, 09 Apr 2026 09:00:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Teamプラン完全ガイド【2026/4最新】",
-    "link": "https://zenn.dev/canly/articles/e7300b4d758119",
-    "pubDate": "Thu, 09 Apr 2026 08:40:19 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "グーグルのスマートホームがGeminiベースに　「Gemini for Home」が日本対応開始",
-    "link": "https://www.watch.impress.co.jp/docs/news/2100364.html",
-    "pubDate": "2026-04-09T06:55:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "S3 Filesで消えるアーキテクチャ層、生まれるアーキテクチャ",
-    "link": "https://zenn.dev/genda_jp/articles/b6ff5ea33c7a71",
-    "pubDate": "Thu, 09 Apr 2026 06:00:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードはAIが書ける時代に、設計力はどう鍛えるか - CleanArch Masterという形にした理由",
-    "link": "https://zenn.dev/more_tech_blog/articles/bf6bf96c05bb9f",
-    "pubDate": "Thu, 09 Apr 2026 03:56:25 GMT"
   },
   {
     "site": "Qiita",
