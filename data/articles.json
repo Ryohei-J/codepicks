@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "8歳の次男が「にゃんこ大戦争」に90万課金してた",
+    "link": "https://togetter.com/li/2685069",
+    "pubDate": "2026-04-12T04:23:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "未開封のまま約30年保管された黒いツアーTシャツを開封し洗濯したら粉々に…「ここまでボロボロになるのか」→ドライロットという劣化現象らしい",
+    "link": "https://togetter.com/li/2685050",
+    "pubDate": "2026-04-12T03:33:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "人間かロボットか判別するやつ、楽天のやつだけ異常に難しすぎて10回ぐらい間違えてるんだけど逆に対策になってないのでは？「どこが間違ってるんや…？」",
     "link": "https://togetter.com/li/2685014",
     "pubDate": "2026-04-12T01:15:46.000Z"
@@ -16,18 +28,6 @@
     "title": "Claudeトークン消費を抑えて５倍使う: 「原始人」口調が80%削減",
     "link": "https://zenn.dev/mikana0918/articles/7ad57493a04f88",
     "pubDate": "2026-04-11T13:19:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code 2.1.101 で追加された `/team-onboarding` コマンドをValibotで試してみる - プププなテクブ",
-    "link": "https://blog.inorinrinrin.com/entry/2026/04/11/204253",
-    "pubDate": "2026-04-11T12:48:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "自己評価をGitHub Copilotで半自動化したら、忘れていた貢献まで掘り起こされた",
-    "link": "https://zenn.dev/headwaters/articles/953017b188a710",
-    "pubDate": "2026-04-11T10:38:51.000Z"
   },
   {
     "site": "Zenn",
@@ -61,12 +61,6 @@
   },
   {
     "site": "Hatena",
-    "title": "認知科学でAI秘書の記憶を再設計したら別人になった話【プロンプト付き】｜はたけ",
-    "link": "https://note.com/hatakejp/n/naae38195e8d8",
-    "pubDate": "2026-04-11T05:25:07.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "どうしても子連れに優しくできない",
     "link": "https://anond.hatelabo.jp/20260411135011",
     "pubDate": "2026-04-11T05:12:25.000Z"
@@ -88,12 +82,6 @@
     "title": "Claude Code Web版でスマホ開発できる時代が来たで｜実践レビューまるっと解説",
     "link": "https://zenn.dev/masayan1126/books/claude-code-web-guide",
     "pubDate": "Sat, 11 Apr 2026 02:22:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ベクトル検索は不要なのか",
-    "link": "https://zenn.dev/nttdata_tech/articles/694e39ceff58b7",
-    "pubDate": "2026-04-10T21:57:22.000Z"
   },
   {
     "site": "Zenn",
@@ -124,6 +112,12 @@
     "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
     "link": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-10T07:59:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Jujutsu はなぜ AI 時代に急に評価され始めたのか",
+    "link": "https://zenn.dev/oukayuka/books/353ad112b88613",
+    "pubDate": "2026-04-10T04:40:02.000Z"
   },
   {
     "site": "Zenn",
@@ -178,5 +172,11 @@
     "title": "n8nで「三権分立AIエージェント」を構築したら、寝ている間にバグのないコードが勝手に完成した話",
     "link": "https://qiita.com/YushiYamamoto/items/9a53b6f957f809089881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-09T02:31:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「ドキュメント書いて」はもう古い。AIに4種類のドキュメントを「コードから自動生成」させる実践ガイド - Qiita",
+    "link": "https://qiita.com/akira_papa_AI/items/d46a6629b1aae835491d",
+    "pubDate": "2026-04-08T22:44:23.000Z"
   }
 ]
