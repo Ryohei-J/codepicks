@@ -13,15 +13,33 @@
   },
   {
     "site": "Hatena",
-    "title": "人間かロボットか判別するやつ、楽天のやつだけ異常に難しすぎて10回ぐらい間違えてるんだけど逆に対策になってないのでは？「どこが間違ってるんや…？」",
-    "link": "https://togetter.com/li/2685014",
-    "pubDate": "2026-04-12T01:15:46.000Z"
+    "title": "Claude Codeを入れた直後にやるべき2つのこと【設定全消失からの再構築】｜KAWAI",
+    "link": "https://note.com/kawaidesign/n/n4cfaf6394b8c",
+    "pubDate": "2026-04-12T00:27:15.000Z"
   },
   {
     "site": "Qiita",
     "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す - Qiita",
     "link": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b",
     "pubDate": "2026-04-11T16:20:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する - Qiita",
+    "link": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d",
+    "pubDate": "2026-04-11T16:03:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
+    "link": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-11T15:53:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える",
+    "link": "https://zenn.dev/acntechjp/articles/ac59a66d0e58d6",
+    "pubDate": "Sat, 11 Apr 2026 15:37:00 GMT"
   },
   {
     "site": "Zenn",
@@ -31,9 +49,21 @@
   },
   {
     "site": "Zenn",
+    "title": "【CTF】cryptoの始め方（入門）",
+    "link": "https://zenn.dev/kurenaif/articles/d316c2ffa784f8",
+    "pubDate": "Sat, 11 Apr 2026 11:43:08 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Typelessで音声入力や ── タイピング不要のAI時代がきたで",
     "link": "https://zenn.dev/masayan1126/books/typeless-voice-input",
     "pubDate": "Sat, 11 Apr 2026 09:22:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "agent-browser入門：Claude Codeからブラウザを自在に操る！導入＆他ツール使い分けガイド",
+    "link": "https://zenn.dev/shinyaa31/articles/082457e115885c",
+    "pubDate": "Sat, 11 Apr 2026 07:19:21 GMT"
   },
   {
     "site": "Zenn",
@@ -49,6 +79,12 @@
   },
   {
     "site": "Zenn",
+    "title": "CDNを活用した画像配信の設計と最適化",
+    "link": "https://zenn.dev/catatsuy/articles/43b5cf583fac76",
+    "pubDate": "Sat, 11 Apr 2026 06:23:48 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Managed Agents を試してみた",
     "link": "https://zenn.dev/kumamo_tone/articles/365845d65e6cf4",
     "pubDate": "Sat, 11 Apr 2026 05:47:45 GMT"
@@ -58,12 +94,6 @@
     "title": "マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術 - Qiita",
     "link": "https://qiita.com/teppei19980914/items/36404f9ec9c786cde671",
     "pubDate": "2026-04-11T05:26:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "どうしても子連れに優しくできない",
-    "link": "https://anond.hatelabo.jp/20260411135011",
-    "pubDate": "2026-04-11T05:12:25.000Z"
   },
   {
     "site": "Qiita",
@@ -78,6 +108,18 @@
     "pubDate": "2026-04-11T04:53:43.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【ズバッと解説】データメッシュとは？背景と考え方・4原則・関連ワードを整理",
+    "link": "https://qiita.com/yushibats/items/fa3789c26e832c80ada0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-11T04:32:55.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "EDRは有効だが万能ではない : SOC運用の視点で整理する",
+    "link": "https://qiita.com/yasuo-dev/items/e071ed4fa444e12686da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-11T03:36:11.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Code Web版でスマホ開発できる時代が来たで｜実践レビューまるっと解説",
     "link": "https://zenn.dev/masayan1126/books/claude-code-web-guide",
@@ -85,27 +127,21 @@
   },
   {
     "site": "Zenn",
-    "title": "関数型って結局なんやねん！どないして活用せえっちゅうねん！",
-    "link": "https://zenn.dev/sonneko/articles/004b051a805687",
-    "pubDate": "Fri, 10 Apr 2026 13:40:55 GMT"
+    "title": "EmDashに触発されてWordpressの後継CMSを本気で考えぬいたらどうしても詰んでしまった話",
+    "link": "https://zenn.dev/kusuke/articles/fd4229b84c57da",
+    "pubDate": "Sat, 11 Apr 2026 02:20:47 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
+    "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-10T15:49:30.000Z"
   },
   {
     "site": "Qiita",
     "title": "マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術",
     "link": "https://qiita.com/teppei19980914/items/36404f9ec9c786cde671?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-10T09:34:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code + Obsidian — Daily Note の下書きを自動生成し、週次・月次レビューまで積み上げる仕組みを作った",
-    "link": "https://zenn.dev/dely_jp/articles/b8da42a57bbc39",
-    "pubDate": "Fri, 10 Apr 2026 09:32:22 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Unityメモリ＆GCの完全理解",
-    "link": "https://qiita.com/nekoya404/items/1ba7c598ef69b5595de5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-10T08:32:48.000Z"
   },
   {
     "site": "Qiita",
@@ -120,58 +156,22 @@
     "pubDate": "2026-04-10T04:40:02.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Jujutsu はなぜ AI 時代に急に評価され始めたのか",
-    "link": "https://zenn.dev/oukayuka/books/353ad112b88613",
-    "pubDate": "Fri, 10 Apr 2026 04:35:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ベクトル検索は不要なのか",
-    "link": "https://zenn.dev/nttdata_tech/articles/694e39ceff58b7",
-    "pubDate": "Fri, 10 Apr 2026 04:22:55 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話",
     "link": "https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-10T04:17:40.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "お父さん、ゲーム作れるの？",
-    "link": "https://zenn.dev/sonicmoov/articles/76a5098905c978",
-    "pubDate": "Fri, 10 Apr 2026 03:00:10 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "【35歳未経験でも理解できた】Web API",
-    "link": "https://qiita.com/wata-sho/items/d3f222758833cb694672?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-10T01:22:05.000Z"
+    "title": "有名なプロジェクト管理ツールについてまとめてみた",
+    "link": "https://qiita.com/MetroOsamu/items/d7df93f2c70af788d9b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-09T10:27:13.000Z"
   },
   {
     "site": "Qiita",
     "title": "バックエンドをLambdaにするかECS（Fargate）にするかの判断基準",
     "link": "https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-09T09:32:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "DI教えようとしたら難しすぎたので整理した",
-    "link": "https://qiita.com/wataru-nakamura6/items/72c046eb11eb0eedec22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-09T05:29:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」",
-    "link": "https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-09T02:44:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "n8nで「三権分立AIエージェント」を構築したら、寝ている間にバグのないコードが勝手に完成した話",
-    "link": "https://qiita.com/YushiYamamoto/items/9a53b6f957f809089881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-09T02:31:29.000Z"
   },
   {
     "site": "Qiita",
