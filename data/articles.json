@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "水素コンロの燃費がエグい。100mlの水と1kWhの電力で6時間調理",
+    "link": "https://www.gizmodo.jp/2026/04/greenvize-hydrogen-cooking-unit.html",
+    "pubDate": "2026-04-12T09:27:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【速報】ソフトバンクやNECが国産AI新会社設立",
+    "link": "https://www.47news.jp/14140411.html",
+    "pubDate": "2026-04-12T07:31:09.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "8歳の次男が「にゃんこ大戦争」に90万課金してた",
     "link": "https://togetter.com/li/2685069",
     "pubDate": "2026-04-12T04:23:22.000Z"
@@ -40,12 +52,6 @@
     "title": "「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える",
     "link": "https://zenn.dev/acntechjp/articles/ac59a66d0e58d6",
     "pubDate": "Sat, 11 Apr 2026 15:37:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claudeトークン消費を抑えて５倍使う: 「原始人」口調が80%削減",
-    "link": "https://zenn.dev/mikana0918/articles/7ad57493a04f88",
-    "pubDate": "2026-04-11T13:19:48.000Z"
   },
   {
     "site": "Zenn",
@@ -91,18 +97,6 @@
   },
   {
     "site": "Qiita",
-    "title": "マークダウン記法は奥深く、楽しい — テキストだけで「伝わるドキュメント」を作る技術 - Qiita",
-    "link": "https://qiita.com/teppei19980914/items/36404f9ec9c786cde671",
-    "pubDate": "2026-04-11T05:26:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選 - Qiita",
-    "link": "https://qiita.com/miruky/items/fcab851c5351f79b481d",
-    "pubDate": "2026-04-11T05:02:54.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
     "link": "https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-11T04:53:43.000Z"
@@ -132,6 +126,12 @@
     "pubDate": "Sat, 11 Apr 2026 02:20:47 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "分析エージェントの問題点と、セマンティックレイヤーという打ち手──AIにSQLを書かせない設計",
+    "link": "https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery",
+    "pubDate": "2026-04-11T02:07:24.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
     "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -150,16 +150,16 @@
     "pubDate": "2026-04-10T07:59:36.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Jujutsu はなぜ AI 時代に急に評価され始めたのか",
-    "link": "https://zenn.dev/oukayuka/books/353ad112b88613",
-    "pubDate": "2026-04-10T04:40:02.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話",
     "link": "https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-10T04:17:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「AI臭い」と言われるけど、AIだし、どうすりゃいいんだよ――Claudeが自分で調べて、考えてみた",
+    "link": "https://zenn.dev/acntechjp/articles/c0591c4a642502",
+    "pubDate": "2026-04-09T15:12:50.000Z"
   },
   {
     "site": "Qiita",
