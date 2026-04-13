@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "「もう開発者はシークレットを使うな」　GitHubが「今日できる」4つのセキュリティ対策を紹介",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news057.html",
-    "pubDate": "2026-04-13T08:11:44.000Z"
+    "title": "Building a CLI for all of Cloudflare",
+    "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+    "pubDate": "2026-04-13T15:46:31.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GitHub の設定を増やすより、運用の曖昧さを減らしたかった — ぐるなびウエディングで見直した GitHub 運用 - ぐるなびをちょっと良くするエンジニアブログ",
-    "link": "https://developers.gnavi.co.jp/entry/github-operation/",
-    "pubDate": "2026-04-13T08:07:56.000Z"
+    "title": "ChatGPTから乗り換え急増中。「Claude」を専属エージェントにして仕事を自動化するコツ3選 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2604-matome-chatgpt-claude/",
+    "pubDate": "2026-04-13T14:11:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ニトリが通年採用に完全移行する。この意味を、採用担当者も経営者もまだ本当にわかっていないと思う。日本の新卒一括採用は、学生のためではなく企業の都合で設計されたシステムという話",
+    "link": "https://posfie.com/@taimport/p/7bvKgTm",
+    "pubDate": "2026-04-13T11:21:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS Frontier Agentsで変わるSREの仕事、変わらないSREの仕事",
+    "link": "https://zenn.dev/genda_jp/articles/349257b6d83fd2",
+    "pubDate": "2026-04-13T09:48:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「もう開発者はシークレットを使うな」　GitHubが「今日できる」4つのセキュリティ対策を紹介",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news057.html",
+    "pubDate": "2026-04-13T08:11:44.000Z"
   },
   {
     "site": "Hatena",
@@ -36,12 +54,6 @@
     "pubDate": "2026-04-13T04:41:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Macを49.7日連続稼働させるとネットワークに接続できなくなるバグ見つかる。ユーザーへの影響は？【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2101090.html",
-    "pubDate": "2026-04-13T03:00:17.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "SREを「努力」から「仕組み」へ — Platform Engineeringという選択",
     "link": "https://zenn.dev/loglass/articles/f4dda877788337",
@@ -58,12 +70,6 @@
     "title": "【35歳未経験でも理解できた】サーバープッシュ技術",
     "link": "https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-13T01:22:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "翻訳記事「AIコーディングツールによって加速するコード生成に品質保証活動はどう立ち向かうか」 - ブロッコリーのブログ",
-    "link": "https://nihonbuson.hatenadiary.jp/entry/QA-activities-in-response-to-generated-code",
-    "pubDate": "2026-04-13T00:18:18.000Z"
   },
   {
     "site": "Zenn",
@@ -114,12 +120,6 @@
     "pubDate": "Sun, 12 Apr 2026 06:50:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "DESIGN.mdを日本語UIで本当に使える形へ｜hirokaji",
-    "link": "https://note.com/tasty_dunlin998/n/nf1b04ebc7600",
-    "pubDate": "2026-04-12T06:43:04.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】",
     "link": "https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,12 +136,6 @@
     "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
     "link": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-11T02:24:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「日本の農業は非効率」「AIやセンサーに置き換えればいい」と叫ぶ人が知らない農業の本質",
-    "link": "https://diamond.jp/articles/-/387171",
-    "pubDate": "2026-04-10T23:09:08.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "Javaの例外処理を正しく理解する — 検査例外・非検査例外・throwsの使いどころ",
     "link": "https://qiita.com/S_kamon/items/231a8cdee9dc01d45ed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-10T08:49:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "0秒読書｜AIに読ませるPDFの作成に",
+    "link": "https://www.sourcenext.com/product/0000014988/",
+    "pubDate": "2026-02-15T15:25:10.000Z"
   }
 ]
