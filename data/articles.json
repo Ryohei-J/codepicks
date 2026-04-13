@@ -1,21 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "Macを49.7日連続稼働させるとネットワークに接続できなくなるバグ見つかる。ユーザーへの影響は？【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2101090.html",
+    "pubDate": "2026-04-13T03:00:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Brynhildr】FF11廃人になりかけて以来20年以上リモートデスクトップツールを作っている理由【フォーカス】 - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_844/",
+    "pubDate": "2026-04-13T00:59:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "さくらインターネット入社から1年半が経ってクラウドサービスのプロダクト責任者になった - たごもりすメモ",
+    "link": "https://tagomoris.hatenablog.com/entry/2026/04/13/095426",
+    "pubDate": "2026-04-13T00:55:08.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "翻訳記事「AIコーディングツールによって加速するコード生成に品質保証活動はどう立ち向かうか」 - ブロッコリーのブログ",
     "link": "https://nihonbuson.hatenadiary.jp/entry/QA-activities-in-response-to-generated-code",
     "pubDate": "2026-04-13T00:18:18.000Z"
   },
   {
     "site": "Hatena",
+    "title": "VRAM消費60%減の衝撃。App ModeとGeForce RTXでComfyUIがさらに身近に ～初級者もつまずかないComfyUI完全導入ガイド[Sponsored]",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/special/2098901.html",
+    "pubDate": "2026-04-12T22:55:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【西川和久の不定期コラム】 ブラウザだけで即ローカルLLM。WebGPUでGemma-4やQwen 3.5を試す",
     "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2100827.html",
     "pubDate": "2026-04-12T21:51:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【前編】PowerPointの中身は「入れ子の箱」だった ── python-pptxでスライド構造を丸裸にする",
-    "link": "https://zenn.dev/investaitech/articles/16d21fdd32e730",
-    "pubDate": "2026-04-12T21:47:51.000Z"
   },
   {
     "site": "Hatena",
@@ -25,21 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Bun、コマンドラインからヘッドレスブラウザの操作を行える新機能「Headless Browser Automation」搭載",
-    "link": "https://www.publickey1.jp/blog/26/bunheadless_brwoser_automation.html",
-    "pubDate": "2026-04-12T15:29:27.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "USB-C直挿し充電できる単3電池、ダイソーから登場。アウトドアの必需品だ",
     "link": "https://www.gizmodo.jp/2026/04/daiso-type-c_rechargeable-battery_review.html",
     "pubDate": "2026-04-12T13:34:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【後編】PowerPointをJSONに変換してLLMに読ませる ── 実装コードで理解するAIスライド編集",
-    "link": "https://zenn.dev/investaitech/articles/2d4613ed796b90",
-    "pubDate": "2026-04-12T12:39:32.000Z"
   },
   {
     "site": "Zenn",
@@ -78,16 +84,22 @@
     "pubDate": "Sat, 11 Apr 2026 15:56:24 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
-    "link": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-11T15:53:24.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える",
     "link": "https://zenn.dev/acntechjp/articles/ac59a66d0e58d6",
     "pubDate": "Sat, 11 Apr 2026 15:37:00 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
+    "link": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-11T14:51:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Terraformインフラ管理の設計観点と選択肢の比較",
+    "link": "https://zenn.dev/toutou/articles/terraform-infra-design-overview",
+    "pubDate": "Sat, 11 Apr 2026 11:41:12 GMT"
   },
   {
     "site": "Zenn",
@@ -118,12 +130,6 @@
     "title": "CDNを活用した画像配信の設計と最適化",
     "link": "https://zenn.dev/catatsuy/articles/43b5cf583fac76",
     "pubDate": "Sat, 11 Apr 2026 06:23:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Managed Agents を試してみた",
-    "link": "https://zenn.dev/kumamo_tone/articles/365845d65e6cf4",
-    "pubDate": "Sat, 11 Apr 2026 05:47:45 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話",
     "link": "https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-10T04:17:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "はてなのNGフィルタまとめ",
-    "link": "https://anond.hatelabo.jp/20251209231303",
-    "pubDate": "2025-12-09T14:13:32.000Z"
   }
 ]
