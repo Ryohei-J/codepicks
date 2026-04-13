@@ -1,45 +1,81 @@
 [
   {
     "site": "Hatena",
-    "title": "水素コンロの燃費がエグい。100mlの水と1kWhの電力で6時間調理",
-    "link": "https://www.gizmodo.jp/2026/04/greenvize-hydrogen-cooking-unit.html",
-    "pubDate": "2026-04-12T09:27:05.000Z"
+    "title": "翻訳記事「AIコーディングツールによって加速するコード生成に品質保証活動はどう立ち向かうか」 - ブロッコリーのブログ",
+    "link": "https://nihonbuson.hatenadiary.jp/entry/QA-activities-in-response-to-generated-code",
+    "pubDate": "2026-04-13T00:18:18.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【速報】ソフトバンクやNECが国産AI新会社設立",
-    "link": "https://www.47news.jp/14140411.html",
-    "pubDate": "2026-04-12T07:31:09.000Z"
+    "title": "【西川和久の不定期コラム】 ブラウザだけで即ローカルLLM。WebGPUでGemma-4やQwen 3.5を試す",
+    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2100827.html",
+    "pubDate": "2026-04-12T21:51:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【前編】PowerPointの中身は「入れ子の箱」だった ── python-pptxでスライド構造を丸裸にする",
+    "link": "https://zenn.dev/investaitech/articles/16d21fdd32e730",
+    "pubDate": "2026-04-12T21:47:51.000Z"
   },
   {
     "site": "Hatena",
-    "title": "8歳の次男が「にゃんこ大戦争」に90万課金してた",
-    "link": "https://togetter.com/li/2685069",
-    "pubDate": "2026-04-12T04:23:22.000Z"
+    "title": "マイクロソフト、ローカルAI環境をインストーラで配布できる「Foundry Local」正式リリース。MacやLinuxにも対応",
+    "link": "https://www.publickey1.jp/blog/26/aifoundry_localmaclinux.html",
+    "pubDate": "2026-04-12T18:10:52.000Z"
   },
   {
     "site": "Hatena",
-    "title": "未開封のまま約30年保管された黒いツアーTシャツを開封し洗濯したら粉々に…「ここまでボロボロになるのか」→ドライロットという劣化現象らしい",
-    "link": "https://togetter.com/li/2685050",
-    "pubDate": "2026-04-12T03:33:37.000Z"
+    "title": "Bun、コマンドラインからヘッドレスブラウザの操作を行える新機能「Headless Browser Automation」搭載",
+    "link": "https://www.publickey1.jp/blog/26/bunheadless_brwoser_automation.html",
+    "pubDate": "2026-04-12T15:29:27.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeを入れた直後にやるべき2つのこと【設定全消失からの再構築】｜KAWAI",
-    "link": "https://note.com/kawaidesign/n/n4cfaf6394b8c",
-    "pubDate": "2026-04-12T00:27:15.000Z"
+    "title": "USB-C直挿し充電できる単3電池、ダイソーから登場。アウトドアの必需品だ",
+    "link": "https://www.gizmodo.jp/2026/04/daiso-type-c_rechargeable-battery_review.html",
+    "pubDate": "2026-04-12T13:34:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【後編】PowerPointをJSONに変換してLLMに読ませる ── 実装コードで理解するAIスライド編集",
+    "link": "https://zenn.dev/investaitech/articles/2d4613ed796b90",
+    "pubDate": "2026-04-12T12:39:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GHSA-fvcv-3m26-pcqx (Axios の脆弱性) がなんか変",
+    "link": "https://zenn.dev/masakura/articles/bc88704f8af091",
+    "pubDate": "Sun, 12 Apr 2026 09:19:12 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeのマルチセッション管理にジョブキューの概念を取り入れる",
+    "link": "https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue",
+    "pubDate": "Sun, 12 Apr 2026 06:50:38 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "DESIGN.mdを日本語UIで本当に使える形へ｜hirokaji",
+    "link": "https://note.com/tasty_dunlin998/n/nf1b04ebc7600",
+    "pubDate": "2026-04-12T06:43:04.000Z"
   },
   {
     "site": "Qiita",
-    "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す - Qiita",
-    "link": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b",
-    "pubDate": "2026-04-11T16:20:33.000Z"
+    "title": "2026/04/12 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "link": "https://qiita.com/ennagara128/items/c56aa243e1fef118cfe2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-12T03:05:27.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する - Qiita",
-    "link": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d",
-    "pubDate": "2026-04-11T16:03:27.000Z"
+    "title": "draw.ioのMCPサーバーのかっこいいUXを模倣しようとしたらなかなか複雑だった件",
+    "link": "https://qiita.com/moritalous/items/88ed3c88e72eb7b8e870?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-12T02:04:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Laravelで安易にRepositoryやServiceを作らない方が良いと思う",
+    "link": "https://zenn.dev/condy/articles/2b44f40bb58ad1",
+    "pubDate": "Sat, 11 Apr 2026 15:56:24 GMT"
   },
   {
     "site": "Qiita",
@@ -52,12 +88,6 @@
     "title": "「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える",
     "link": "https://zenn.dev/acntechjp/articles/ac59a66d0e58d6",
     "pubDate": "Sat, 11 Apr 2026 15:37:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【CTF】cryptoの始め方（入門）",
-    "link": "https://zenn.dev/kurenaif/articles/d316c2ffa784f8",
-    "pubDate": "Sat, 11 Apr 2026 11:43:08 GMT"
   },
   {
     "site": "Zenn",
@@ -109,27 +139,15 @@
   },
   {
     "site": "Qiita",
-    "title": "EDRは有効だが万能ではない : SOC運用の視点で整理する",
-    "link": "https://qiita.com/yasuo-dev/items/e071ed4fa444e12686da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-11T03:36:11.000Z"
+    "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
+    "link": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-11T02:24:21.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code Web版でスマホ開発できる時代が来たで｜実践レビューまるっと解説",
-    "link": "https://zenn.dev/masayan1126/books/claude-code-web-guide",
-    "pubDate": "Sat, 11 Apr 2026 02:22:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "EmDashに触発されてWordpressの後継CMSを本気で考えぬいたらどうしても詰んでしまった話",
-    "link": "https://zenn.dev/kusuke/articles/fd4229b84c57da",
-    "pubDate": "Sat, 11 Apr 2026 02:20:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "分析エージェントの問題点と、セマンティックレイヤーという打ち手──AIにSQLを書かせない設計",
-    "link": "https://zenn.dev/gixo/articles/semantic-layer-agent-bigquery",
-    "pubDate": "2026-04-11T02:07:24.000Z"
+    "site": "Hatena",
+    "title": "「日本の農業は非効率」「AIやセンサーに置き換えればいい」と叫ぶ人が知らない農業の本質",
+    "link": "https://diamond.jp/articles/-/387171",
+    "pubDate": "2026-04-10T23:09:08.000Z"
   },
   {
     "site": "Qiita",
@@ -156,27 +174,9 @@
     "pubDate": "2026-04-10T04:17:40.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "「AI臭い」と言われるけど、AIだし、どうすりゃいいんだよ――Claudeが自分で調べて、考えてみた",
-    "link": "https://zenn.dev/acntechjp/articles/c0591c4a642502",
-    "pubDate": "2026-04-09T15:12:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "有名なプロジェクト管理ツールについてまとめてみた",
-    "link": "https://qiita.com/MetroOsamu/items/d7df93f2c70af788d9b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-09T10:27:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "バックエンドをLambdaにするかECS（Fargate）にするかの判断基準",
-    "link": "https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-09T09:32:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「ドキュメント書いて」はもう古い。AIに4種類のドキュメントを「コードから自動生成」させる実践ガイド - Qiita",
-    "link": "https://qiita.com/akira_papa_AI/items/d46a6629b1aae835491d",
-    "pubDate": "2026-04-08T22:44:23.000Z"
+    "site": "Hatena",
+    "title": "はてなのNGフィルタまとめ",
+    "link": "https://anond.hatelabo.jp/20251209231303",
+    "pubDate": "2025-12-09T14:13:32.000Z"
   }
 ]
