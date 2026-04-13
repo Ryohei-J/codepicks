@@ -1,21 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "「もう開発者はシークレットを使うな」　GitHubが「今日できる」4つのセキュリティ対策を紹介",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news057.html",
+    "pubDate": "2026-04-13T08:11:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub の設定を増やすより、運用の曖昧さを減らしたかった — ぐるなびウエディングで見直した GitHub 運用 - ぐるなびをちょっと良くするエンジニアブログ",
+    "link": "https://developers.gnavi.co.jp/entry/github-operation/",
+    "pubDate": "2026-04-13T08:07:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Claude Code」全社員に義務づけたら……コーディング経験ゼロの86％がデプロイ達成　グッドパッチが成果を公開",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/13/news089.html",
+    "pubDate": "2026-04-13T06:35:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アクリル板の注意書きなどでよく見かけるあの独特なフォント、「f.k 機械彫刻」が更新／「機械彫刻用標準書体」から改名、収録文字種を2,663にまで拡充",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2101044.html",
+    "pubDate": "2026-04-13T06:17:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Unitreeの人型ロボットH1が秒速10mを達成、ウサイン・ボルトの人類最速記録に迫る",
+    "link": "https://gigazine.net/news/20260413-unitree-h1-10m-s/",
+    "pubDate": "2026-04-13T05:43:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "個人サイト“懸垂と私ドットコム”が圧巻　全国1万以上の「懸垂できる公園」をマッピング",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/13/news068.html",
+    "pubDate": "2026-04-13T04:41:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Macを49.7日連続稼働させるとネットワークに接続できなくなるバグ見つかる。ユーザーへの影響は？【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2101090.html",
     "pubDate": "2026-04-13T03:00:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【Brynhildr】FF11廃人になりかけて以来20年以上リモートデスクトップツールを作っている理由【フォーカス】 - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_844/",
-    "pubDate": "2026-04-13T00:59:35.000Z"
+    "site": "Zenn",
+    "title": "SREを「努力」から「仕組み」へ — Platform Engineeringという選択",
+    "link": "https://zenn.dev/loglass/articles/f4dda877788337",
+    "pubDate": "Mon, 13 Apr 2026 02:48:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "さくらインターネット入社から1年半が経ってクラウドサービスのプロダクト責任者になった - たごもりすメモ",
-    "link": "https://tagomoris.hatenablog.com/entry/2026/04/13/095426",
-    "pubDate": "2026-04-13T00:55:08.000Z"
+    "site": "Zenn",
+    "title": "try! Swift Tokyo 2026 Day1 Workshop｜High-Performance Swift 参加レポート",
+    "link": "https://zenn.dev/miharun/articles/8f17dc140bd244",
+    "pubDate": "Mon, 13 Apr 2026 02:08:01 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【35歳未経験でも理解できた】サーバープッシュ技術",
+    "link": "https://qiita.com/wata-sho/items/417ec32f3b19185a7ca4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-13T01:22:30.000Z"
   },
   {
     "site": "Hatena",
@@ -24,28 +66,40 @@
     "pubDate": "2026-04-13T00:18:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "VRAM消費60%減の衝撃。App ModeとGeForce RTXでComfyUIがさらに身近に ～初級者もつまずかないComfyUI完全導入ガイド[Sponsored]",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/special/2098901.html",
-    "pubDate": "2026-04-12T22:55:07.000Z"
+    "site": "Zenn",
+    "title": "Claude Max 20xプランでも足りないので、トークン節約のためにやったこと8選",
+    "link": "https://zenn.dev/acntechjp/articles/1396e20b5167ce",
+    "pubDate": "Sun, 12 Apr 2026 23:00:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【西川和久の不定期コラム】 ブラウザだけで即ローカルLLM。WebGPUでGemma-4やQwen 3.5を試す",
-    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2100827.html",
-    "pubDate": "2026-04-12T21:51:18.000Z"
+    "site": "Zenn",
+    "title": "DevContainerで完結！Claude Code + Playwright MCPを使ったブラウザ操作自動化の構築手順",
+    "link": "https://zenn.dev/secondselection/articles/claude_playwright",
+    "pubDate": "Sun, 12 Apr 2026 21:00:12 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "マイクロソフト、ローカルAI環境をインストーラで配布できる「Foundry Local」正式リリース。MacやLinuxにも対応",
-    "link": "https://www.publickey1.jp/blog/26/aifoundry_localmaclinux.html",
-    "pubDate": "2026-04-12T18:10:52.000Z"
+    "site": "Zenn",
+    "title": "2026年3月のIMEに関するできごと",
+    "link": "https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_03",
+    "pubDate": "Sun, 12 Apr 2026 17:30:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "USB-C直挿し充電できる単3電池、ダイソーから登場。アウトドアの必需品だ",
-    "link": "https://www.gizmodo.jp/2026/04/daiso-type-c_rechargeable-battery_review.html",
-    "pubDate": "2026-04-12T13:34:30.000Z"
+    "site": "Zenn",
+    "title": "axiosで発見された重大な脆弱性 - 2026.04.12",
+    "link": "https://zenn.dev/ashunar0/articles/108d06e3f99efb",
+    "pubDate": "Sun, 12 Apr 2026 15:15:55 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "仕様駆動開発のための軽量デスクトップアプリを作った",
+    "link": "https://zenn.dev/third_tech/articles/spec-prompt-introduction",
+    "pubDate": "Sun, 12 Apr 2026 13:13:23 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Laravel Starter Kit が 21 種類に増えて破綻しかけたので「Maestro」が導入された話",
+    "link": "https://zenn.dev/catatsumuri/articles/ed872ea1d650b9",
+    "pubDate": "Sun, 12 Apr 2026 12:58:21 GMT"
   },
   {
     "site": "Zenn",
@@ -67,81 +121,15 @@
   },
   {
     "site": "Qiita",
-    "title": "2026/04/12 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "link": "https://qiita.com/ennagara128/items/c56aa243e1fef118cfe2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-12T03:05:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "draw.ioのMCPサーバーのかっこいいUXを模倣しようとしたらなかなか複雑だった件",
-    "link": "https://qiita.com/moritalous/items/88ed3c88e72eb7b8e870?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-12T02:04:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Laravelで安易にRepositoryやServiceを作らない方が良いと思う",
-    "link": "https://zenn.dev/condy/articles/2b44f40bb58ad1",
-    "pubDate": "Sat, 11 Apr 2026 15:56:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える",
-    "link": "https://zenn.dev/acntechjp/articles/ac59a66d0e58d6",
-    "pubDate": "Sat, 11 Apr 2026 15:37:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
-    "link": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-11T14:51:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Terraformインフラ管理の設計観点と選択肢の比較",
-    "link": "https://zenn.dev/toutou/articles/terraform-infra-design-overview",
-    "pubDate": "Sat, 11 Apr 2026 11:41:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Typelessで音声入力や ── タイピング不要のAI時代がきたで",
-    "link": "https://zenn.dev/masayan1126/books/typeless-voice-input",
-    "pubDate": "Sat, 11 Apr 2026 09:22:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "agent-browser入門：Claude Codeからブラウザを自在に操る！導入＆他ツール使い分けガイド",
-    "link": "https://zenn.dev/shinyaa31/articles/082457e115885c",
-    "pubDate": "Sat, 11 Apr 2026 07:19:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "DESIGN.md + 壊れたら気づくハーネス - AI向けデザインシステムを「維持できる仕組み」にした記録",
-    "link": "https://zenn.dev/tsubotax/articles/7f0d3693f70e2f",
-    "pubDate": "Sat, 11 Apr 2026 07:06:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot CLI で個人タスク管理をやってみる",
-    "link": "https://zenn.dev/microsoft/articles/copilot-task-management",
-    "pubDate": "Sat, 11 Apr 2026 06:55:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CDNを活用した画像配信の設計と最適化",
-    "link": "https://zenn.dev/catatsuy/articles/43b5cf583fac76",
-    "pubDate": "Sat, 11 Apr 2026 06:23:48 GMT"
+    "title": "エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】",
+    "link": "https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-12T06:23:30.000Z"
   },
   {
     "site": "Qiita",
     "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
     "link": "https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-11T04:53:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ズバッと解説】データメッシュとは？背景と考え方・4原則・関連ワードを整理",
-    "link": "https://qiita.com/yushibats/items/fa3789c26e832c80ada0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-11T04:32:55.000Z"
   },
   {
     "site": "Qiita",
@@ -157,9 +145,21 @@
   },
   {
     "site": "Qiita",
-    "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
-    "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-10T15:49:30.000Z"
+    "title": "【n8n】毎朝7時にQiita人気記事TOP5をLINEに自動通知する仕組みを作ってみた",
+    "link": "https://qiita.com/wan-code/items/fbca13aa136ed9f76979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-10T09:55:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Git】実務で使うPull Request運用ルールまとめ",
+    "link": "https://qiita.com/yuto-vj/items/9631a596b5590e9ee7b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-10T09:45:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "TypeScript における any と unknown の使い分け",
+    "link": "https://qiita.com/ryo_sh/items/8c5953b7c9d11979b320?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-10T09:39:43.000Z"
   },
   {
     "site": "Qiita",
@@ -169,14 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
-    "link": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-10T07:59:36.000Z"
+    "title": "Claudeの概要と設計思想から学んだこと",
+    "link": "https://qiita.com/aito1234/items/c3ef3c71aad13fc78daf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-10T09:28:31.000Z"
   },
   {
     "site": "Qiita",
-    "title": "“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話",
-    "link": "https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-10T04:17:40.000Z"
+    "title": "Javaの例外処理を正しく理解する — 検査例外・非検査例外・throwsの使いどころ",
+    "link": "https://qiita.com/S_kamon/items/231a8cdee9dc01d45ed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-10T08:49:25.000Z"
   }
 ]
