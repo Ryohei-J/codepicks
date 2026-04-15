@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "後輩へ…質問してくるのは良いけど、貴方の席のマウスを私は使いこなせません。普通のマウスにしてください…ババアSEより",
+    "link": "https://togetter.com/li/2686166",
+    "pubDate": "2026-04-15T03:36:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Twitterの“青い鳥”生みの親　サイモン・オクスリー氏死去、56歳　GitHubの“半ネコ半タコ”もデザイン",
     "link": "https://www.itmedia.co.jp/news/articles/2604/15/news073.html",
     "pubDate": "2026-04-15T00:33:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "セキュリティ分析AIエージェント実装にみるハーネスエンジニアリング",
+    "link": "https://zenn.dev/ubie_dev/articles/sec-agent-harness-eng",
+    "pubDate": "Tue, 14 Apr 2026 23:24:32 GMT"
   },
   {
     "site": "Hatena",
@@ -19,21 +31,21 @@
   },
   {
     "site": "Hatena",
-    "title": "光ファイバーを“マイク化”する盗聴攻撃　振動センサーとして悪用し会話を盗み聞き　中国の研究者らが発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news029.html",
-    "pubDate": "2026-04-14T22:43:30.000Z"
+    "title": "これなら分かる「LLM Wiki」　メモや資料をAIで整理し、使える知識に育てる新しい発想",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/15/news011.html",
+    "pubDate": "2026-04-14T22:43:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自閉スペクトラム症（ASD）の発症メカニズムを新たに解明　東海大などがNature系列誌で発表　治療戦略に一石",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news028.html",
+    "pubDate": "2026-04-14T22:35:58.000Z"
   },
   {
     "site": "Hatena",
     "title": "デスクトップ版「Google」アプリが正式公開、Windows 10/11を対象に英語でグローバル提供／「Google 検索」とアプリランチャー、ローカルファイルの検索がひとまとめに",
     "link": "https://forest.watch.impress.co.jp/docs/news/2101472.html",
     "pubDate": "2026-04-14T21:55:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "[みんなのケータイ]スマホに載せたローカルAI「Gemma4」に未来を感じる",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2101682.html",
-    "pubDate": "2026-04-14T15:19:56.000Z"
   },
   {
     "site": "Hatena",
@@ -48,10 +60,10 @@
     "pubDate": "Tue, 14 Apr 2026 12:36:48 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
-    "link": "https://archive.org/details/aadamjacobs?tab=collection",
-    "pubDate": "2026-04-14T09:43:14.000Z"
+    "site": "Zenn",
+    "title": "エフェクトイベントとは何か？useEffectEventを理解する",
+    "link": "https://zenn.dev/yend724/articles/20260414-195637896vp2b6jp",
+    "pubDate": "Tue, 14 Apr 2026 09:02:49 GMT"
   },
   {
     "site": "Zenn",
@@ -82,6 +94,12 @@
     "title": "書類を撮影→テキストを抽出して「メモ」に保存。iPhoneの「ショートカット」便利レシピ。Apple Intelligenceのアクションを活用しよう– iPhone AI Hack 第3回",
     "link": "https://macfan.book.mynavi.jp/article/99605/",
     "pubDate": "2026-04-14T07:14:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Linuxに移行してもう1年、戻れなくなった話",
+    "link": "https://zenn.dev/digeon/articles/42f4788894cfb4",
+    "pubDate": "Tue, 14 Apr 2026 06:09:04 GMT"
   },
   {
     "site": "Zenn",
@@ -132,28 +150,10 @@
     "pubDate": "2026-04-13T11:58:28.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "技術書典に初参加して3冊しか売れなかったので、AIと振り返りした",
-    "link": "https://zenn.dev/ma_me/articles/909e4eece32175",
-    "pubDate": "Mon, 13 Apr 2026 11:27:34 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Linuxコマンド】実務でよく使うLinuxコマンドまとめ",
     "link": "https://qiita.com/yuto-vj/items/4face78fad72275d820f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-13T09:06:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "予測市場を見るために最低限知っておきたい金融知識",
-    "link": "https://zenn.dev/komlock_lab/articles/prediction-market-finance-basics-2026",
-    "pubDate": "Mon, 13 Apr 2026 08:38:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Coding AgentをRustで自作してみた",
-    "link": "https://zenn.dev/epicai_techblog/articles/0fb630fc14af7e",
-    "pubDate": "Mon, 13 Apr 2026 08:30:05 GMT"
   },
   {
     "site": "Qiita",
