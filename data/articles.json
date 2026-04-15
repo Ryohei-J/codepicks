@@ -1,63 +1,93 @@
 [
   {
     "site": "Hatena",
+    "title": "Twitterの“青い鳥”生みの親　サイモン・オクスリー氏死去、56歳　GitHubの“半ネコ半タコ”もデザイン",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news073.html",
+    "pubDate": "2026-04-15T00:33:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Pull Requestごとにバックエンドも含めたプレビュー環境を自動構築する仕組みを作った - Sweet Escape",
+    "link": "https://www.keisuke69.net/entry/2026/04/15/081353",
+    "pubDate": "2026-04-14T23:15:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "テレワークを導入している企業の過半数が「今後も維持または拡大したい」と回答～厚労省調査　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2101650.html",
+    "pubDate": "2026-04-14T23:12:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "光ファイバーを“マイク化”する盗聴攻撃　振動センサーとして悪用し会話を盗み聞き　中国の研究者らが発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/15/news029.html",
+    "pubDate": "2026-04-14T22:43:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "デスクトップ版「Google」アプリが正式公開、Windows 10/11を対象に英語でグローバル提供／「Google 検索」とアプリランチャー、ローカルファイルの検索がひとまとめに",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2101472.html",
+    "pubDate": "2026-04-14T21:55:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "[みんなのケータイ]スマホに載せたローカルAI「Gemma4」に未来を感じる",
     "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2101682.html",
     "pubDate": "2026-04-14T15:19:56.000Z"
   },
   {
     "site": "Hatena",
-    "title": "人手のリサーチをデータパイプラインに。dbt Python model × LLM Web Searchで公開情報をSnowflakeに載せるまで - LayerX エンジニアブログ",
-    "link": "https://tech.layerx.co.jp/entry/dbt-python-model-llm-web-search-to-snowflake",
-    "pubDate": "2026-04-14T13:06:05.000Z"
+    "title": "ソフトウェアや知能が安くなったときに起きること - 🐴 (馬)",
+    "link": "https://blog.takaumada.com/entry/ai-and-deeptech",
+    "pubDate": "2026-04-14T13:13:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "VRAM(ビデオメモリ)32GBのローカルLLM環境(AI PC)をコスパ重視で構築してみる",
+    "link": "https://zenn.dev/playree/articles/2376eee1d9d24d",
+    "pubDate": "Tue, 14 Apr 2026 12:36:48 GMT"
   },
   {
     "site": "Hatena",
-    "title": "WordPressのプラグイン31個にバックドアの存在が発覚、所有権移転後のアップデートで追加",
-    "link": "https://gigazine.net/news/20260414-wordpress-plugin-backdoor/",
-    "pubDate": "2026-04-14T12:20:49.000Z"
+    "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+    "link": "https://archive.org/details/aadamjacobs?tab=collection",
+    "pubDate": "2026-04-14T09:43:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "手元のGPUを遊ばせないためのジョブスケジューラ入門",
+    "link": "https://zenn.dev/turing_motors/articles/0d528e31b9d8d7",
+    "pubDate": "Tue, 14 Apr 2026 09:00:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI時代に実装だけでは足りないと気づいた話",
+    "link": "https://qiita.com/aito1234/items/4b685e45dfdb4779392f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-14T08:10:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【RAG】企業のナレッジを、AIで書き直す。",
+    "link": "https://zenn.dev/knowledgesense/articles/5a50d06fce072d",
+    "pubDate": "2026-04-14T07:41:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "遠隔で GitHub Copilot CLI を操作する - リモートコントロール機能を試してみた",
+    "link": "https://zenn.dev/microsoft/articles/github-copilot-cli-remote-session",
+    "pubDate": "Tue, 14 Apr 2026 07:26:51 GMT"
   },
   {
     "site": "Hatena",
-    "title": "数学研究におけるAI革命が到来、数学者たちは「これはまだ始まりに過ぎない」と考えている",
-    "link": "https://gigazine.net/news/20260414-ai-revolution-in-math/",
-    "pubDate": "2026-04-14T11:28:42.000Z"
+    "title": "書類を撮影→テキストを抽出して「メモ」に保存。iPhoneの「ショートカット」便利レシピ。Apple Intelligenceのアクションを活用しよう– iPhone AI Hack 第3回",
+    "link": "https://macfan.book.mynavi.jp/article/99605/",
+    "pubDate": "2026-04-14T07:14:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ブラウザの「戻るボタン」“乗っ取り”はスパム、グーグルが新方針",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2101639.html",
-    "pubDate": "2026-04-14T10:24:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "やばい研究が出た。ペンシルベニア大＋ボストン大のゲーム理論論文が「AIリストラが経済を崩壊させる」ことを数学的に証明した「2025年、テック系だけで10万人超がレイオフ」「アメリカの労働者の80%が影響圏内」「これを止める「市場の力」は存在しない」",
-    "link": "https://posfie.com/@taimport/p/YYl24fk",
-    "pubDate": "2026-04-14T09:15:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "NHK ONEのアカウント数、約半年で360万超え。UIやNHKオンデマンドとの連携強化へ",
-    "link": "https://av.watch.impress.co.jp/docs/news/2101604.html",
-    "pubDate": "2026-04-14T08:49:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ブラウザの戻るボタン→広告表示」がスパム扱いに　Google、6月にポリシー変更　違反で検索冷遇も",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/14/news109.html",
-    "pubDate": "2026-04-14T08:07:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "国土交通省、2026年4月24日より機内においてモバイルバッテリー充電を禁止 | NEWS | Mac OTAKARA",
-    "link": "https://www.macotakara.jp/news/entry-50915.html",
-    "pubDate": "2026-04-14T06:03:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Yahoo! JAPAN ID、ログインを「パスキー」に一本化",
-    "link": "https://www.watch.impress.co.jp/docs/news/2101533.html",
-    "pubDate": "2026-04-14T05:43:40.000Z"
+    "site": "Zenn",
+    "title": "仕様駆動開発を「やめる」タイミング",
+    "link": "https://zenn.dev/acntechjp/articles/031acfe6379ebe",
+    "pubDate": "Tue, 14 Apr 2026 05:40:33 GMT"
   },
   {
     "site": "Qiita",
@@ -67,9 +97,21 @@
   },
   {
     "site": "Zenn",
+    "title": "プロンプト改善は後回し: LangGraphでさっさと実装、MLflowで誤りから暗黙知を吸収&改善",
+    "link": "https://zenn.dev/nttdata_tech/articles/11f406b0f1cfd4",
+    "pubDate": "Tue, 14 Apr 2026 02:23:52 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "データプロダクトマネジメント始めました。SWEの原則でAI時代のデータ品質に向き合う",
     "link": "https://zenn.dev/ubie_dev/articles/ad3f556639d44e",
     "pubDate": "Tue, 14 Apr 2026 00:49:45 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "受託開発・SIer・自社サービスを経験してわかった、どこでも役立つスキルの話",
+    "link": "https://qiita.com/Kumacchiino/items/43582fefbce18b66835f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-13T22:48:16.000Z"
   },
   {
     "site": "Zenn",
@@ -78,10 +120,10 @@
     "pubDate": "Mon, 13 Apr 2026 15:24:43 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIエージェントと組んだら、データサイエンスプロジェクトはどう変わる？実験してみた（前半戦）",
-    "link": "https://zenn.dev/mimochiz/articles/2c27b16a3e03fd",
-    "pubDate": "Mon, 13 Apr 2026 12:26:13 GMT"
+    "site": "Qiita",
+    "title": "AIコーディング時代に必要なプログラミングスキル",
+    "link": "https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-13T14:11:23.000Z"
   },
   {
     "site": "Qiita",
@@ -94,24 +136,6 @@
     "title": "技術書典に初参加して3冊しか売れなかったので、AIと振り返りした",
     "link": "https://zenn.dev/ma_me/articles/909e4eece32175",
     "pubDate": "Mon, 13 Apr 2026 11:27:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【週末2日】Claude Codeでコミュニティポータルサイトを構築・リリースするまでの全記録",
-    "link": "https://zenn.dev/easy_easy/articles/89318e4d0acb4f",
-    "pubDate": "Mon, 13 Apr 2026 11:23:12 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "HTTPSの仕組み — TLSハンドシェイクを順番に追う",
-    "link": "https://qiita.com/S_kamon/items/f12b037d7adbe824ac0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-13T09:49:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " n8nで「あとで読む/見る」をLINEで管理する仕組みを作ってみた",
-    "link": "https://qiita.com/wan-code/items/cc1620cf38e2363b4bde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-13T09:43:52.000Z"
   },
   {
     "site": "Qiita",
@@ -130,30 +154,6 @@
     "title": "Coding AgentをRustで自作してみた",
     "link": "https://zenn.dev/epicai_techblog/articles/0fb630fc14af7e",
     "pubDate": "Mon, 13 Apr 2026 08:30:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "C#で理解するデザインパターン入門：Strategy / Decorator / Adapter / Singleton",
-    "link": "https://qiita.com/hiroki_notes/items/50d81c7d7c3871b95d9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-13T07:40:45.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "FlutterからReact Nativeへ。物流アプリのリプレイスに挑んでいる話",
-    "link": "https://zenn.dev/hacobu/articles/d1a97a77b94766",
-    "pubDate": "Mon, 13 Apr 2026 07:02:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS Frontier Agentsで変わるSREの仕事、変わらないSREの仕事",
-    "link": "https://zenn.dev/genda_jp/articles/349257b6d83fd2",
-    "pubDate": "Mon, 13 Apr 2026 06:57:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "東京都の団体用宿泊施設が一ヶ月に倍に？パブリックデータの扱いからデータエンジニアリングを学ぶ",
-    "link": "https://zenn.dev/estie/articles/2ac12b0f52c44c",
-    "pubDate": "Mon, 13 Apr 2026 04:49:15 GMT"
   },
   {
     "site": "Qiita",
