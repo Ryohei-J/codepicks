@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "ロボットに犬の散歩をさせる実験中、あることがきっかけで大失敗してしまった！→色んな国の飼い主たち「あのな、ハスキーを選ぶなよ」",
+    "link": "https://togetter.com/li/2686542",
+    "pubDate": "2026-04-16T04:29:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントの″ハーネス″に関わる混乱と私見",
+    "link": "https://zenn.dev/watany/articles/d8b692bbca65a3",
+    "pubDate": "2026-04-16T03:44:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "クラファン「うぶごえ」が閲覧できない状態に　支払い遅延の指摘も",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/16/news072.html",
+    "pubDate": "2026-04-16T02:39:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【スゴ本】開発現場で使える「良い問い」集｜レバテックLAB - レバテックLAB",
     "link": "https://levtech.jp/media/detail_845/",
     "pubDate": "2026-04-16T01:20:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "若者よ，インターネットを荒らせ",
+    "link": "https://wtrclred.io/ja/posts/20",
+    "pubDate": "2026-04-15T22:36:16.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +36,16 @@
     "pubDate": "2026-04-15T15:39:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マイクロソフト、PostgreSQL/MySQL/SQL Serverなどへの同時接続に対応した「SQL MCP Server」オープンソースで公開",
-    "link": "https://www.publickey1.jp/blog/26/postgresqlmysqlsql_serversql_mcp_server.html",
-    "pubDate": "2026-04-15T15:06:58.000Z"
+    "site": "Zenn",
+    "title": "PRを出すだけでスクショ付き動作確認レポートが自動生成される仕組みを作る（Claude × Playwright）",
+    "link": "https://zenn.dev/datum_studio/articles/ebefce70f39a0d",
+    "pubDate": "2026-04-15T14:35:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Amazon、隣のHDMIに干渉しない「Fire TV Stick HD」6980円。高速化、給電はUSB-Cに",
-    "link": "https://av.watch.impress.co.jp/docs/news/2101925.html",
-    "pubDate": "2026-04-15T13:08:54.000Z"
+    "site": "Zenn",
+    "title": "AHC063参加記 (最終4位)",
+    "link": "https://zenn.dev/through/articles/d95a7007ea77ce",
+    "pubDate": "Wed, 15 Apr 2026 12:08:44 GMT"
   },
   {
     "site": "Qiita",
@@ -43,15 +67,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Linuxに移行してもう1年、戻れなくなった話",
-    "link": "https://zenn.dev/digeon/articles/42f4788894cfb4",
-    "pubDate": "2026-04-15T07:09:00.000Z"
+    "title": "コーディングエージェントは請負案件と相容れるか",
+    "link": "https://zenn.dev/acntechjp/articles/0162731f267e8d",
+    "pubDate": "Wed, 15 Apr 2026 06:26:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "OllamaとOpenCodeでローカルAIコーディング環境を構築してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/ollama-opencode-setup/",
-    "pubDate": "2026-04-15T05:04:26.000Z"
+    "site": "Zenn",
+    "title": "takt 入門 - AI マルチエージェントオーケストレーションで開発ワークフローを自動化する",
+    "link": "https://zenn.dev/rasshii/articles/dc19793edab99a",
+    "pubDate": "Wed, 15 Apr 2026 06:03:08 GMT"
   },
   {
     "site": "Zenn",
@@ -114,12 +138,6 @@
     "pubDate": "2026-04-14T11:57:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Hmhm - AIがサービスを即座に分析 | Wicle",
-    "link": "https://hmhm.wicle.io/",
-    "pubDate": "2026-04-14T10:24:40.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "エフェクトイベントとは何か？useEffectEventを理解する",
     "link": "https://zenn.dev/yend724/articles/20260414-195637896vp2b6jp",
@@ -130,24 +148,6 @@
     "title": "手元のGPUを遊ばせないためのジョブスケジューラ入門",
     "link": "https://zenn.dev/turing_motors/articles/0d528e31b9d8d7",
     "pubDate": "Tue, 14 Apr 2026 09:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "遠隔で GitHub Copilot CLI を操作する - リモートコントロール機能を試してみた",
-    "link": "https://zenn.dev/microsoft/articles/github-copilot-cli-remote-session",
-    "pubDate": "Tue, 14 Apr 2026 07:26:51 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Linuxに移行してもう1年、戻れなくなった話",
-    "link": "https://zenn.dev/digeon/articles/42f4788894cfb4",
-    "pubDate": "Tue, 14 Apr 2026 06:09:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕様駆動開発を「やめる」タイミング",
-    "link": "https://zenn.dev/acntechjp/articles/031acfe6379ebe",
-    "pubDate": "Tue, 14 Apr 2026 05:40:33 GMT"
   },
   {
     "site": "Qiita",
