@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "GitHub - microsoft/apm: Agent Package Manager",
+    "link": "https://github.com/microsoft/apm",
+    "pubDate": "2026-04-16T07:32:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまPC Watch】 今のPCでローカルLLMがどの程度動くのか、ブラウザで自動判定するサイト",
+    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2102148.html",
+    "pubDate": "2026-04-16T05:56:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Baiduがイラストも実写風も生成できる画像生成AI「ERNIE-Image」を公開、ローカルで実行可能＆ユーザーの入力に自動追記して高品質プロンプトを作る機能も",
+    "link": "https://gigazine.net/news/20260416-baidu-ernie-image/",
+    "pubDate": "2026-04-16T05:51:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "中国が水深3500mで海底ケーブルを切断できる電気静油圧式アクチュエータのテストを実施",
+    "link": "https://gigazine.net/news/20260416-china-submarine-cable-cutter-3500-meter/",
+    "pubDate": "2026-04-16T05:13:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "東プレ製「万」「円」「訂正」キーストラップ、セブン銀がプレゼントへ　ATMの打鍵感再現",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/16/news078.html",
+    "pubDate": "2026-04-16T04:52:21.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ロボットに犬の散歩をさせる実験中、あることがきっかけで大失敗してしまった！→色んな国の飼い主たち「あのな、ハスキーを選ぶなよ」",
     "link": "https://togetter.com/li/2686542",
     "pubDate": "2026-04-16T04:29:20.000Z"
@@ -12,16 +42,28 @@
     "pubDate": "2026-04-16T03:44:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "クラファン「うぶごえ」が閲覧できない状態に　支払い遅延の指摘も",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/16/news072.html",
-    "pubDate": "2026-04-16T02:39:40.000Z"
+    "site": "Zenn",
+    "title": "AIエージェントの″ハーネス″に関わる混乱と私見",
+    "link": "https://zenn.dev/watany/articles/d8b692bbca65a3",
+    "pubDate": "Thu, 16 Apr 2026 02:45:20 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "プログラミング初学者の方が見落としがちなプロダクトを見る視点",
+    "link": "https://qiita.com/masa20057/items/73bd88b401ecab0cc4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-16T02:15:55.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【35歳未経験でも理解できた】SQL 基礎コマンド",
+    "link": "https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-16T01:18:18.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【スゴ本】開発現場で使える「良い問い」集｜レバテックLAB - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_845/",
-    "pubDate": "2026-04-16T01:20:19.000Z"
+    "title": "macOS 版 Gemini - あなた専用の AI を備えたネイティブ デスクトップ アプリ",
+    "link": "https://gemini.google/mac/",
+    "pubDate": "2026-04-16T00:45:26.000Z"
   },
   {
     "site": "Hatena",
@@ -30,22 +72,40 @@
     "pubDate": "2026-04-15T22:36:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ClaudeがWindowsで壊れ続けている──Anthropicの死角",
-    "link": "https://joho-todai.com/claude-windows-breaking-anthropic-blind-spot/",
-    "pubDate": "2026-04-15T15:39:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "PRを出すだけでスクショ付き動作確認レポートが自動生成される仕組みを作る（Claude × Playwright）",
-    "link": "https://zenn.dev/datum_studio/articles/ebefce70f39a0d",
-    "pubDate": "2026-04-15T14:35:36.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AHC063参加記 (最終4位)",
     "link": "https://zenn.dev/through/articles/d95a7007ea77ce",
     "pubDate": "Wed, 15 Apr 2026 12:08:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "境界値に対してのテスト実装状況を検証する静的解析ツールを作った",
+    "link": "https://zenn.dev/tsubasa_m/articles/173d01c0572068",
+    "pubDate": "Wed, 15 Apr 2026 12:06:53 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ClaudeでSEOチェッカーとQiita自動いいねツールを作ってみた",
+    "link": "https://qiita.com/aito1234/items/3fdc666366cf99fd1116?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-15T12:03:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "要件定義書の成果物を1枚ずつ解説する記事がなかったので、架空のプロジェクトで自分でつくって解説します",
+    "link": "https://zenn.dev/h4gi/articles/612cff3d96b3c0",
+    "pubDate": "Wed, 15 Apr 2026 12:00:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "CODEOWNERSとpalantir/policy-botを比較する",
+    "link": "https://zenn.dev/babarot/articles/codeowners-vs-policy-bot",
+    "pubDate": "Wed, 15 Apr 2026 10:26:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code ルーチン を触ってみた: 既存スケジューリング手段との差分とナレッジワーカー向け3サンプル設計",
+    "link": "https://zenn.dev/canly/articles/ed403b2b3d3bb3",
+    "pubDate": "Wed, 15 Apr 2026 10:17:13 GMT"
   },
   {
     "site": "Qiita",
@@ -54,10 +114,16 @@
     "pubDate": "2026-04-15T09:59:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Claude Code」デスクトップ版、めちゃ変わる　“並列エージェント時代”に合わせて再設計",
-    "link": "https://ascii.jp/elem/000/004/395/4395128/",
-    "pubDate": "2026-04-15T09:53:08.000Z"
+    "site": "Qiita",
+    "title": "冷蔵庫の食材リストから自動でレシピ提案するLINE Botを作った（n8n × LLM）",
+    "link": "https://qiita.com/wan-code/items/45c3cde50a17791a7a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-15T09:52:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JavaのListとMapの種類を整理する",
+    "link": "https://qiita.com/S_kamon/items/88a5c930ecdf63bd2248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-15T08:07:50.000Z"
   },
   {
     "site": "Qiita",
@@ -67,21 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "コーディングエージェントは請負案件と相容れるか",
-    "link": "https://zenn.dev/acntechjp/articles/0162731f267e8d",
-    "pubDate": "Wed, 15 Apr 2026 06:26:06 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "takt 入門 - AI マルチエージェントオーケストレーションで開発ワークフローを自動化する",
     "link": "https://zenn.dev/rasshii/articles/dc19793edab99a",
     "pubDate": "Wed, 15 Apr 2026 06:03:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？",
-    "link": "https://zenn.dev/pdfractal/articles/3cba58622f7be6",
-    "pubDate": "2026-04-15T04:43:47.000Z"
   },
   {
     "site": "Qiita",
@@ -102,58 +156,16 @@
     "pubDate": "Tue, 14 Apr 2026 23:24:32 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【初心者〜中級者向け】関心の分離・カプセル化・インターフェイス設計をコードで理解する",
-    "link": "https://qiita.com/Nao52/items/41194161552d2150c4a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-14T22:00:43.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Cloudflare Workers Python を楽に書きたい！！",
     "link": "https://zenn.dev/t3tra/articles/96019c46972bda",
     "pubDate": "Tue, 14 Apr 2026 21:47:45 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "\"use server\" も \"use client\" も要らない —TanStack Start が示す新しいRSCの形",
-    "link": "https://zenn.dev/sc30gsw/articles/e656fa295deb3f",
-    "pubDate": "Tue, 14 Apr 2026 14:55:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "VRAM(ビデオメモリ)32GBのローカルLLM環境(AI PC)をコスパ重視で構築してみる",
-    "link": "https://zenn.dev/playree/articles/2376eee1d9d24d",
-    "pubDate": "Tue, 14 Apr 2026 12:36:48 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "htmxとAPIで爆速Webアプリ開発 — ReactもNext.jsも要らない時代が来た？",
-    "link": "https://qiita.com/okadada/items/5dde0a7259d142d88551?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-14T11:58:15.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説",
     "link": "https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-14T11:57:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "エフェクトイベントとは何か？useEffectEventを理解する",
-    "link": "https://zenn.dev/yend724/articles/20260414-195637896vp2b6jp",
-    "pubDate": "Tue, 14 Apr 2026 09:02:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "手元のGPUを遊ばせないためのジョブスケジューラ入門",
-    "link": "https://zenn.dev/turing_motors/articles/0d528e31b9d8d7",
-    "pubDate": "Tue, 14 Apr 2026 09:00:07 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "プログラミング前後の工程がプロダクト品質を決める",
-    "link": "https://qiita.com/masa20057/items/44b4b16a441f494a2307?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-14T04:03:58.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【Qiita】いいかげん一日3記事までに制限すべきでは",
     "link": "https://qiita.com/rana_kualu/items/a359bfcd179777761e4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-13T12:02:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeソースコード流出から学ぶハーネスパターン10選 ── 50万行のTypeScriptが明かした設計思想",
-    "link": "https://qiita.com/nogataka/items/ebbbe74649eb441a34db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-13T02:27:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【体験談】「うちは大丈夫」と思っていた個人開発サービスが攻撃された話 ─ 対策と教訓5つ",
-    "link": "https://qiita.com/kawabe0201/items/92da5ce86236a711e786?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-13T01:40:50.000Z"
   }
 ]
