@@ -1,39 +1,63 @@
 [
   {
     "site": "Hatena",
-    "title": "母の観たプロジェクト・ヘイル・メアリ― - farsite / 圏外日誌",
-    "link": "https://farsite.hatenablog.com/entry/2026/04/15/231144",
-    "pubDate": "2026-04-15T14:12:21.000Z"
+    "title": "【スゴ本】開発現場で使える「良い問い」集｜レバテックLAB - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_845/",
+    "pubDate": "2026-04-16T01:20:19.000Z"
   },
   {
     "site": "Hatena",
-    "title": "SoRの復権とSoIの時代の到来 - Nothing ventured, nothing gained.",
-    "link": "https://takoratta.hatenablog.com/entry/2026/04/15/183643",
-    "pubDate": "2026-04-15T10:59:16.000Z"
+    "title": "ClaudeがWindowsで壊れ続けている──Anthropicの死角",
+    "link": "https://joho-todai.com/claude-windows-breaking-anthropic-blind-spot/",
+    "pubDate": "2026-04-15T15:39:23.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Anthropic、デスクトップ版「Claude Code」を刷新 ～複数エージェントを前提としたUIに／フィルタリング可能なセッションリスト、サイドパネルツール、画面分割などに対応",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2101936.html",
-    "pubDate": "2026-04-15T08:49:04.000Z"
+    "title": "マイクロソフト、PostgreSQL/MySQL/SQL Serverなどへの同時接続に対応した「SQL MCP Server」オープンソースで公開",
+    "link": "https://www.publickey1.jp/blog/26/postgresqlmysqlsql_serversql_mcp_server.html",
+    "pubDate": "2026-04-15T15:06:58.000Z"
   },
   {
     "site": "Hatena",
-    "title": "民放5社すべてが4K放送撤退へ。BS-TBSも4K放送終了",
-    "link": "https://av.watch.impress.co.jp/docs/news/2101914.html",
-    "pubDate": "2026-04-15T07:37:02.000Z"
+    "title": "Amazon、隣のHDMIに干渉しない「Fire TV Stick HD」6980円。高速化、給電はUSB-Cに",
+    "link": "https://av.watch.impress.co.jp/docs/news/2101925.html",
+    "pubDate": "2026-04-15T13:08:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita",
+    "link": "https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2",
+    "pubDate": "2026-04-15T09:59:34.000Z"
   },
   {
     "site": "Hatena",
-    "title": "23年続くOSSの、9年越しのバグが直るまで - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2026/04/15/150000",
-    "pubDate": "2026-04-15T06:15:55.000Z"
+    "title": "「Claude Code」デスクトップ版、めちゃ変わる　“並列エージェント時代”に合わせて再設計",
+    "link": "https://ascii.jp/elem/000/004/395/4395128/",
+    "pubDate": "2026-04-15T09:53:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "C#で理解するSOLID原則まとめ：実務で使える設計の考え方とコード例",
+    "link": "https://qiita.com/hiroki_notes/items/3a04f05a186b29da9a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-15T07:56:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Linuxに移行してもう1年、戻れなくなった話",
+    "link": "https://zenn.dev/digeon/articles/42f4788894cfb4",
+    "pubDate": "2026-04-15T07:09:00.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Internet Protocol Version 8 (IPv8)",
-    "link": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
-    "pubDate": "2026-04-15T05:16:59.000Z"
+    "title": "OllamaとOpenCodeでローカルAIコーディング環境を構築してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/ollama-opencode-setup/",
+    "pubDate": "2026-04-15T05:04:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？",
+    "link": "https://zenn.dev/pdfractal/articles/3cba58622f7be6",
+    "pubDate": "2026-04-15T04:43:47.000Z"
   },
   {
     "site": "Qiita",
@@ -42,28 +66,10 @@
     "pubDate": "2026-04-15T03:49:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "後輩へ…質問してくるのは良いけど、貴方の席のマウスを私は使いこなせません。普通のマウスにしてください…ババアSEより",
-    "link": "https://togetter.com/li/2686166",
-    "pubDate": "2026-04-15T03:36:29.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AI×乗換案内！基礎から学ぶMCPサーバー入門 - 「駅すぱあと API MCPサーバー」ハンズオン",
     "link": "https://zenn.dev/val_api_team/books/ekispert-api-mcp-server-handson",
     "pubDate": "Wed, 15 Apr 2026 02:36:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 格ゲーの入力革命「レバーレス」、歴史と今選ぶべき7製品",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2101336.html",
-    "pubDate": "2026-04-15T02:01:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Cloudflare、こんなに無料でいいんだろうか ― 「クラウド」の定義が書き換わったことに気づかない人々へ｜白井暁彦 aka しらいはかせ",
-    "link": "https://note.com/o_ob/n/ndadf268735f4",
-    "pubDate": "2026-04-15T00:15:03.000Z"
   },
   {
     "site": "Zenn",
@@ -72,16 +78,22 @@
     "pubDate": "Tue, 14 Apr 2026 23:24:32 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【初心者〜中級者向け】関心の分離・カプセル化・インターフェイス設計をコードで理解する",
+    "link": "https://qiita.com/Nao52/items/41194161552d2150c4a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-14T22:00:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cloudflare Workers Python を楽に書きたい！！",
+    "link": "https://zenn.dev/t3tra/articles/96019c46972bda",
+    "pubDate": "Tue, 14 Apr 2026 21:47:45 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "\"use server\" も \"use client\" も要らない —TanStack Start が示す新しいRSCの形",
     "link": "https://zenn.dev/sc30gsw/articles/e656fa295deb3f",
     "pubDate": "Tue, 14 Apr 2026 14:55:20 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソフトウェアや知能が安くなったときに起きること - 🐴 (馬)",
-    "link": "https://blog.takaumada.com/entry/ai-and-deeptech",
-    "pubDate": "2026-04-14T13:13:58.000Z"
   },
   {
     "site": "Zenn",
@@ -91,21 +103,21 @@
   },
   {
     "site": "Qiita",
+    "title": "htmxとAPIで爆速Webアプリ開発 — ReactもNext.jsも要らない時代が来た？",
+    "link": "https://qiita.com/okadada/items/5dde0a7259d142d88551?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-14T11:58:15.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説",
     "link": "https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-14T11:57:13.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【Docker】実務でよく使うDockerコマンドまとめ + よくあるエラーと対処法",
-    "link": "https://qiita.com/yuto-vj/items/8d46a3f1ef3fc329b8fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-14T09:57:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "技術書典20 初出展レポート",
-    "link": "https://zenn.dev/yuduru/articles/6aa49514d4cb9b",
-    "pubDate": "Tue, 14 Apr 2026 09:48:31 GMT"
+    "site": "Hatena",
+    "title": "Hmhm - AIがサービスを即座に分析 | Wicle",
+    "link": "https://hmhm.wicle.io/",
+    "pubDate": "2026-04-14T10:24:40.000Z"
   },
   {
     "site": "Zenn",
@@ -118,18 +130,6 @@
     "title": "手元のGPUを遊ばせないためのジョブスケジューラ入門",
     "link": "https://zenn.dev/turing_motors/articles/0d528e31b9d8d7",
     "pubDate": "Tue, 14 Apr 2026 09:00:07 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代に実装だけでは足りないと気づいた話",
-    "link": "https://qiita.com/aito1234/items/4b685e45dfdb4779392f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-14T08:10:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "はじめての Markdown 記法まとめ",
-    "link": "https://qiita.com/hiroki_notes/items/40a7234503ab8fdddc1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-14T07:43:00.000Z"
   },
   {
     "site": "Zenn",
