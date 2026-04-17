@@ -1,5 +1,23 @@
 [
   {
+    "site": "Zenn",
+    "title": "古典ドメインモデルパターンの解脱",
+    "link": "https://zenn.dev/kawasima/books/ddd-detachment",
+    "pubDate": "Fri, 17 Apr 2026 04:14:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "IPv4と完全下位互換の「IPv8」ドラフトが投稿。IPv6の課題を克服",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2102469.html",
+    "pubDate": "2026-04-17T03:26:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "月間150億トークンを使う私が、自分では“やらないこと” - Findy Media",
+    "link": "https://findy-code.io/media/articles/list-hiroki_daichi",
+    "pubDate": "2026-04-17T01:30:36.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「1.58ビットに進化したから8GBで十分ですよ。任せてくださいよ」とBonsaiが言うのでMacBook Neoに組み込んでその性能差を体感。iPhoneでも楽々動くしで、ローカルAIが超進化中（CloseBox） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2026/04/17/4997.html",
@@ -7,15 +25,21 @@
   },
   {
     "site": "Hatena",
-    "title": "【やじうまPC Watch】 早稲田大ら、極超音速実験機のマッハ5飛行を想定した燃焼実験に成功",
-    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2102318.html",
-    "pubDate": "2026-04-16T22:44:50.000Z"
+    "title": "NIST、ついに“脆弱性の全件分析”を断念　CVE爆増でパンク状態、方針転換",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/17/news034.html",
+    "pubDate": "2026-04-16T23:16:24.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「Claude Opus 4.7」登場　難関コーディングを「任せきれる」レベルに、画像認識は解像度3倍超",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news064.html",
-    "pubDate": "2026-04-16T22:43:25.000Z"
+    "title": "ブクマカ「なんで高市が支持されているのかわからない！なんで株価が上がるのかわからない！三権分立わからない！」",
+    "link": "https://anond.hatelabo.jp/20260417060134",
+    "pubDate": "2026-04-16T22:59:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "みんな、はてなブックマークしてくれ - nomolkのブログ",
+    "link": "https://nomolk.hatenablog.com/entry/2026/04/17/021654",
+    "pubDate": "2026-04-16T22:47:56.000Z"
   },
   {
     "site": "Zenn",
@@ -25,21 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AI エージェント向けのパッケージマネージャー apm",
-    "link": "https://azukiazusa.dev/blog/apm-package-manager/",
-    "pubDate": "2026-04-16T17:11:37.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ログイン用の認証コードが絵文字なの本当にありえない「機種で表示が違いすぎて混乱」「迷ってたらタイムオーバー」「ロックされたら責任取ってくれんの？」",
     "link": "https://togetter.com/li/2686741",
     "pubDate": "2026-04-16T15:35:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Claude Opus 4.7」公開　指示追従性や画像認識を高めた上位モデル",
-    "link": "https://www.watch.impress.co.jp/docs/news/2102378.html",
-    "pubDate": "2026-04-16T15:27:31.000Z"
   },
   {
     "site": "Zenn",
@@ -52,6 +64,30 @@
     "title": "俺が生きてるうちに不老不死の技術ができてほしい",
     "link": "https://anond.hatelabo.jp/20260416220849",
     "pubDate": "2026-04-16T13:11:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "そのAI臭を消す努力は、誰のためにやっているのか",
+    "link": "https://zenn.dev/acntechjp/articles/54ab3f84e567a6",
+    "pubDate": "Thu, 16 Apr 2026 11:23:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeのトークン消費が$40/日から1週間でも余裕になった全手法",
+    "link": "https://zenn.dev/okamyuji/articles/claude-code-max-x20-token-savings",
+    "pubDate": "Thu, 16 Apr 2026 11:18:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "いいですよね、コミュニケーション。わたしもだいすきです。今日から変わるコミュニケーション術",
+    "link": "https://zenn.dev/coconala/articles/8b214521aa1ed8",
+    "pubDate": "Thu, 16 Apr 2026 10:33:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "deleted_atにインデックスを雑に貼ったら本番DBが死んだ",
+    "link": "https://zenn.dev/ukkyon/articles/mysql-deleted-at-index-optimizer-trap",
+    "pubDate": "Thu, 16 Apr 2026 09:30:06 GMT"
   },
   {
     "site": "Qiita",
@@ -70,6 +106,18 @@
     "title": "シニアエンジニアリングリーダーのしごと",
     "link": "https://www.oreilly.co.jp//books/9784814401680/",
     "pubDate": "2026-04-16T05:38:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemma 4の音声認識機能でリアルタイム文字起こしを試してみた",
+    "link": "https://zenn.dev/kozoka_ai/articles/3c17156f9f660e",
+    "pubDate": "Thu, 16 Apr 2026 05:06:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "QAチームのナレッジを「ハーネス」にする — Claude Codeでテスト設計を自動化した話",
+    "link": "https://zenn.dev/tokium_dev/articles/705334e2f6ac10",
+    "pubDate": "Thu, 16 Apr 2026 04:35:42 GMT"
   },
   {
     "site": "Zenn",
@@ -102,18 +150,6 @@
     "pubDate": "2026-04-15T12:03:08.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "要件定義書の成果物を1枚ずつ解説する記事がなかったので、架空のプロジェクトで自分でつくって解説します",
-    "link": "https://zenn.dev/h4gi/articles/612cff3d96b3c0",
-    "pubDate": "Wed, 15 Apr 2026 12:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code ルーチン を触ってみた: 既存スケジューリング手段との差分とナレッジワーカー向け3サンプル設計",
-    "link": "https://zenn.dev/canly/articles/ed403b2b3d3bb3",
-    "pubDate": "Wed, 15 Apr 2026 10:17:13 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "JavaのListとMapの種類を整理する",
     "link": "https://qiita.com/S_kamon/items/88a5c930ecdf63bd2248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -126,46 +162,10 @@
     "pubDate": "2026-04-15T07:56:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "PATも秘密鍵も管理せずにGoogle CloudからGitHub APIにアクセスする - 10X Product Blog",
-    "link": "https://product.10x.co.jp/entry/2026/04/15/163802",
-    "pubDate": "2026-04-15T07:47:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "takt 入門 - AI マルチエージェントオーケストレーションで開発ワークフローを自動化する",
-    "link": "https://zenn.dev/rasshii/articles/dc19793edab99a",
-    "pubDate": "Wed, 15 Apr 2026 06:03:08 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "新人エンジニアが言いがちな「明日中に終わります」が危ない理由",
     "link": "https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-15T03:49:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI×乗換案内！基礎から学ぶMCPサーバー入門 - 「駅すぱあと API MCPサーバー」ハンズオン",
-    "link": "https://zenn.dev/val_api_team/books/ekispert-api-mcp-server-handson",
-    "pubDate": "Wed, 15 Apr 2026 02:36:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026年4月 Agentic Engineering現在地",
-    "link": "https://zenn.dev/murasaki/articles/d9fea8b4e730ce",
-    "pubDate": "Wed, 15 Apr 2026 01:00:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeでハーネスエンジニアリングを実践する — 5層の設計パターン",
-    "link": "https://zenn.dev/sasadango28/articles/claude-code-harness-engineering-20260415",
-    "pubDate": "Wed, 15 Apr 2026 00:00:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "結局OpenClawとClaude Code、どっちを使えばいいの？に自分なりの結論を出した",
-    "link": "https://zenn.dev/masarufuruya/articles/0f72fa7b765888",
-    "pubDate": "Tue, 14 Apr 2026 23:53:12 GMT"
   },
   {
     "site": "Qiita",
