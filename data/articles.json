@@ -1,5 +1,53 @@
 [
   {
+    "site": "Hatena",
+    "title": "Xiaomiがタブレットを値上げ。最大1万円アップ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2102615.html",
+    "pubDate": "2026-04-17T08:41:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "古典ドメインモデルパターンの解脱",
+    "link": "https://zenn.dev/kawasima/books/ddd-detachment",
+    "pubDate": "2026-04-17T06:54:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claudeに原始時代に行ってもらっては困る話",
+    "link": "https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6",
+    "pubDate": "Fri, 17 Apr 2026 06:53:17 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "IETF提出のIPv8ドラフト、文書の76%が AI生成と判定：専門家が指摘する根本的な設計ミスも判明 — XenoSpectrum",
+    "link": "https://xenospectrum.com/ipv8-draft-ai-generated-expert-criticism/",
+    "pubDate": "2026-04-17T06:15:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "60分で学ぶ最新Webフロントエンド",
+    "link": "https://speakerdeck.com/mizdra/geek-camp-2026-frontend",
+    "pubDate": "2026-04-17T06:14:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「その仕様、イケてないと思ってない？」-エンジニアがハマりがちな勘違いの話-",
+    "link": "https://qiita.com/prum_hitomi/items/1bb8894c149a3af9944d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T05:37:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "会議が時間通りに始まらないのは、スキルじゃなくて“習慣”の問題です。",
+    "link": "https://qiita.com/hitomin_poke/items/24aa3a6728220a112716?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T05:36:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "設計書・コード・テストを全部AIに書かせて半年間開発してみたよ",
+    "link": "https://zenn.dev/nttdata_tech/articles/8a010aff542625",
+    "pubDate": "Fri, 17 Apr 2026 04:26:19 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "古典ドメインモデルパターンの解脱",
     "link": "https://zenn.dev/kawasima/books/ddd-detachment",
@@ -10,6 +58,18 @@
     "title": "IPv4と完全下位互換の「IPv8」ドラフトが投稿。IPv6の課題を克服",
     "link": "https://pc.watch.impress.co.jp/docs/news/2102469.html",
     "pubDate": "2026-04-17T03:26:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Opus 4.7のReact習熟度をさっそく測る",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-4",
+    "pubDate": "Fri, 17 Apr 2026 03:23:47 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "HonoのNode.jsアダプタが最大2.3倍速くなります",
+    "link": "https://zenn.dev/yusukebe/articles/9dce6cf7dc6e41",
+    "pubDate": "Fri, 17 Apr 2026 03:07:25 GMT"
   },
   {
     "site": "Hatena",
@@ -31,33 +91,27 @@
   },
   {
     "site": "Hatena",
-    "title": "ブクマカ「なんで高市が支持されているのかわからない！なんで株価が上がるのかわからない！三権分立わからない！」",
-    "link": "https://anond.hatelabo.jp/20260417060134",
-    "pubDate": "2026-04-16T22:59:15.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "みんな、はてなブックマークしてくれ - nomolkのブログ",
     "link": "https://nomolk.hatenablog.com/entry/2026/04/17/021654",
     "pubDate": "2026-04-16T22:47:56.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude in Chromeが便利すぎて不満だったので、自分専用のChrome拡張を作った",
-    "link": "https://zenn.dev/sonicmoov/articles/d7703ab8c16515",
-    "pubDate": "2026-04-16T21:28:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ログイン用の認証コードが絵文字なの本当にありえない「機種で表示が違いすぎて混乱」「迷ってたらタイムオーバー」「ロックされたら責任取ってくれんの？」",
-    "link": "https://togetter.com/li/2686741",
-    "pubDate": "2026-04-16T15:35:21.000Z"
+    "title": "個人開発で掲示板とSNSの融合サービス『Pomate』を作ったよー",
+    "link": "https://zenn.dev/pomate/articles/a1ea6685d1e7d3",
+    "pubDate": "Thu, 16 Apr 2026 14:25:56 GMT"
   },
   {
     "site": "Zenn",
     "title": "こういうのでいいんだよ ── AI活用はシンプルにいこか",
     "link": "https://zenn.dev/masayan1126/books/simple-ai-workflow-guide",
     "pubDate": "Thu, 16 Apr 2026 13:50:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "非エンジニアでもできるC# WinForms入門 — 製造業の社内ツールを自分で作る",
+    "link": "https://zenn.dev/jodycraft/articles/csharp-winforms-for-non-engineers",
+    "pubDate": "Thu, 16 Apr 2026 13:36:00 GMT"
   },
   {
     "site": "Hatena",
@@ -67,21 +121,21 @@
   },
   {
     "site": "Zenn",
-    "title": "そのAI臭を消す努力は、誰のためにやっているのか",
-    "link": "https://zenn.dev/acntechjp/articles/54ab3f84e567a6",
-    "pubDate": "Thu, 16 Apr 2026 11:23:44 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Claude Codeのトークン消費が$40/日から1週間でも余裕になった全手法",
     "link": "https://zenn.dev/okamyuji/articles/claude-code-max-x20-token-savings",
     "pubDate": "Thu, 16 Apr 2026 11:18:19 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "いいですよね、コミュニケーション。わたしもだいすきです。今日から変わるコミュニケーション術",
-    "link": "https://zenn.dev/coconala/articles/8b214521aa1ed8",
-    "pubDate": "Thu, 16 Apr 2026 10:33:16 GMT"
+    "site": "Qiita",
+    "title": "Claude Codeでラッコツールズ風ツールを6機能実装して分かったこと",
+    "link": "https://qiita.com/aito1234/items/9650afd183ce0ea09e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-16T10:49:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【n8n】YouTubeの新着動画を自動収集して「質の高い動画だけLINE通知」する仕組みを作ってみた",
+    "link": "https://qiita.com/wan-code/items/493ddeeb8658ada703fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-16T09:48:29.000Z"
   },
   {
     "site": "Zenn",
@@ -97,33 +151,15 @@
   },
   {
     "site": "Qiita",
+    "title": " AIがコードを書いている間、エンジニアはどこを見るべきか",
+    "link": "https://qiita.com/autotaker1984/items/c953c044c505605daa3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-16T08:23:21.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ",
     "link": "https://qiita.com/hiroki_notes/items/893660ef56844d62729e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-16T07:44:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "シニアエンジニアリングリーダーのしごと",
-    "link": "https://www.oreilly.co.jp//books/9784814401680/",
-    "pubDate": "2026-04-16T05:38:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemma 4の音声認識機能でリアルタイム文字起こしを試してみた",
-    "link": "https://zenn.dev/kozoka_ai/articles/3c17156f9f660e",
-    "pubDate": "Thu, 16 Apr 2026 05:06:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "QAチームのナレッジを「ハーネス」にする — Claude Codeでテスト設計を自動化した話",
-    "link": "https://zenn.dev/tokium_dev/articles/705334e2f6ac10",
-    "pubDate": "Thu, 16 Apr 2026 04:35:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントの″ハーネス″に関わる混乱と私見",
-    "link": "https://zenn.dev/watany/articles/d8b692bbca65a3",
-    "pubDate": "Thu, 16 Apr 2026 02:45:20 GMT"
   },
   {
     "site": "Qiita",
@@ -136,42 +172,6 @@
     "title": "【35歳未経験でも理解できた】SQL 基礎コマンド",
     "link": "https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-16T01:18:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude in Chromeが便利すぎて不満だったので、自分専用のChrome拡張を作った",
-    "link": "https://zenn.dev/sonicmoov/articles/d7703ab8c16515",
-    "pubDate": "Thu, 16 Apr 2026 00:28:26 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ClaudeでSEOチェッカーとQiita自動いいねツールを作ってみた",
-    "link": "https://qiita.com/aito1234/items/3fdc666366cf99fd1116?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-15T12:03:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JavaのListとMapの種類を整理する",
-    "link": "https://qiita.com/S_kamon/items/88a5c930ecdf63bd2248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-15T08:07:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "C#で理解するSOLID原則まとめ：実務で使える設計の考え方とコード例",
-    "link": "https://qiita.com/hiroki_notes/items/3a04f05a186b29da9a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-15T07:56:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人エンジニアが言いがちな「明日中に終わります」が危ない理由",
-    "link": "https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-15T03:49:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "htmxとAPIで爆速Webアプリ開発 — ReactもNext.jsも要らない時代が来た？",
-    "link": "https://qiita.com/okadada/items/5dde0a7259d142d88551?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-14T11:58:15.000Z"
   },
   {
     "site": "Qiita",
