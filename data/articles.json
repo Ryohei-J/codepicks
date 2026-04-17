@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "Cloudflare Email Service: now in public beta. Ready for your agents",
-    "link": "https://blog.cloudflare.com/email-for-agents/",
-    "pubDate": "2026-04-16T14:11:06.000Z"
+    "title": "「1.58ビットに進化したから8GBで十分ですよ。任せてくださいよ」とBonsaiが言うのでMacBook Neoに組み込んでその性能差を体感。iPhoneでも楽々動くしで、ローカルAIが超進化中（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/04/17/4997.html",
+    "pubDate": "2026-04-16T23:25:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまPC Watch】 早稲田大ら、極超音速実験機のマッハ5飛行を想定した燃焼実験に成功",
+    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2102318.html",
+    "pubDate": "2026-04-16T22:44:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Claude Opus 4.7」登場　難関コーディングを「任せきれる」レベルに、画像認識は解像度3倍超",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news064.html",
+    "pubDate": "2026-04-16T22:43:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude in Chromeが便利すぎて不満だったので、自分専用のChrome拡張を作った",
+    "link": "https://zenn.dev/sonicmoov/articles/d7703ab8c16515",
+    "pubDate": "2026-04-16T21:28:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI エージェント向けのパッケージマネージャー apm",
+    "link": "https://azukiazusa.dev/blog/apm-package-manager/",
+    "pubDate": "2026-04-16T17:11:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ログイン用の認証コードが絵文字なの本当にありえない「機種で表示が違いすぎて混乱」「迷ってたらタイムオーバー」「ロックされたら責任取ってくれんの？」",
+    "link": "https://togetter.com/li/2686741",
+    "pubDate": "2026-04-16T15:35:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Claude Opus 4.7」公開　指示追従性や画像認識を高めた上位モデル",
+    "link": "https://www.watch.impress.co.jp/docs/news/2102378.html",
+    "pubDate": "2026-04-16T15:27:31.000Z"
   },
   {
     "site": "Zenn",
@@ -13,51 +49,27 @@
   },
   {
     "site": "Hatena",
-    "title": "Artifacts: Versioned storage that speaks Git",
-    "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-    "pubDate": "2026-04-16T13:39:56.000Z"
+    "title": "俺が生きてるうちに不老不死の技術ができてほしい",
+    "link": "https://anond.hatelabo.jp/20260416220849",
+    "pubDate": "2026-04-16T13:11:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Chromeで特定のサイトにアクセスできなくなったので原因を調査してみた",
+    "link": "https://qiita.com/S_kamon/items/4a344d4cd78df4c96f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-16T09:08:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ",
+    "link": "https://qiita.com/hiroki_notes/items/893660ef56844d62729e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-16T07:44:21.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「ハンディカム」唯一の現行モデルが生産完了に　ソニー「後継は未定」",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/16/news111.html",
-    "pubDate": "2026-04-16T11:02:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - microsoft/apm: Agent Package Manager",
-    "link": "https://github.com/microsoft/apm",
-    "pubDate": "2026-04-16T07:32:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - vercel-labs/wterm: A terminal emulator for the web",
-    "link": "https://github.com/vercel-labs/wterm",
-    "pubDate": "2026-04-16T06:56:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【やじうまPC Watch】 今のPCでローカルLLMがどの程度動くのか、ブラウザで自動判定するサイト",
-    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2102148.html",
-    "pubDate": "2026-04-16T05:56:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "中国が水深3500mで海底ケーブルを切断できる電気静油圧式アクチュエータのテストを実施",
-    "link": "https://gigazine.net/news/20260416-china-submarine-cable-cutter-3500-meter/",
-    "pubDate": "2026-04-16T05:13:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東プレ製「万」「円」「訂正」キーストラップ、セブン銀がプレゼントへ　ATMの打鍵感再現",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/16/news078.html",
-    "pubDate": "2026-04-16T04:52:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントの″ハーネス″に関わる混乱と私見",
-    "link": "https://zenn.dev/watany/articles/d8b692bbca65a3",
-    "pubDate": "2026-04-16T03:44:56.000Z"
+    "title": "シニアエンジニアリングリーダーのしごと",
+    "link": "https://www.oreilly.co.jp//books/9784814401680/",
+    "pubDate": "2026-04-16T05:38:10.000Z"
   },
   {
     "site": "Zenn",
@@ -79,15 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AHC063参加記 (最終4位)",
-    "link": "https://zenn.dev/through/articles/d95a7007ea77ce",
-    "pubDate": "Wed, 15 Apr 2026 12:08:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "境界値に対してのテスト実装状況を検証する静的解析ツールを作った",
-    "link": "https://zenn.dev/tsubasa_m/articles/173d01c0572068",
-    "pubDate": "Wed, 15 Apr 2026 12:06:53 GMT"
+    "title": "Claude in Chromeが便利すぎて不満だったので、自分専用のChrome拡張を作った",
+    "link": "https://zenn.dev/sonicmoov/articles/d7703ab8c16515",
+    "pubDate": "Thu, 16 Apr 2026 00:28:26 GMT"
   },
   {
     "site": "Qiita",
@@ -103,21 +109,9 @@
   },
   {
     "site": "Zenn",
-    "title": "CODEOWNERSとpalantir/policy-botを比較する",
-    "link": "https://zenn.dev/babarot/articles/codeowners-vs-policy-bot",
-    "pubDate": "Wed, 15 Apr 2026 10:26:41 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Claude Code ルーチン を触ってみた: 既存スケジューリング手段との差分とナレッジワーカー向け3サンプル設計",
     "link": "https://zenn.dev/canly/articles/ed403b2b3d3bb3",
     "pubDate": "Wed, 15 Apr 2026 10:17:13 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "冷蔵庫の食材リストから自動でレシピ提案するLINE Botを作った（n8n × LLM）",
-    "link": "https://qiita.com/wan-code/items/45c3cde50a17791a7a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-15T09:52:20.000Z"
   },
   {
     "site": "Qiita",
@@ -130,6 +124,12 @@
     "title": "C#で理解するSOLID原則まとめ：実務で使える設計の考え方とコード例",
     "link": "https://qiita.com/hiroki_notes/items/3a04f05a186b29da9a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-15T07:56:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PATも秘密鍵も管理せずにGoogle CloudからGitHub APIにアクセスする - 10X Product Blog",
+    "link": "https://product.10x.co.jp/entry/2026/04/15/163802",
+    "pubDate": "2026-04-15T07:47:24.000Z"
   },
   {
     "site": "Zenn",
@@ -151,32 +151,32 @@
   },
   {
     "site": "Zenn",
-    "title": "セキュリティ分析AIエージェント実装にみるハーネスエンジニアリング",
-    "link": "https://zenn.dev/ubie_dev/articles/sec-agent-harness-eng",
-    "pubDate": "Tue, 14 Apr 2026 23:24:32 GMT"
+    "title": "2026年4月 Agentic Engineering現在地",
+    "link": "https://zenn.dev/murasaki/articles/d9fea8b4e730ce",
+    "pubDate": "Wed, 15 Apr 2026 01:00:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeでハーネスエンジニアリングを実践する — 5層の設計パターン",
+    "link": "https://zenn.dev/sasadango28/articles/claude-code-harness-engineering-20260415",
+    "pubDate": "Wed, 15 Apr 2026 00:00:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "結局OpenClawとClaude Code、どっちを使えばいいの？に自分なりの結論を出した",
+    "link": "https://zenn.dev/masarufuruya/articles/0f72fa7b765888",
+    "pubDate": "Tue, 14 Apr 2026 23:53:12 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "htmxとAPIで爆速Webアプリ開発 — ReactもNext.jsも要らない時代が来た？",
+    "link": "https://qiita.com/okadada/items/5dde0a7259d142d88551?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-14T11:58:15.000Z"
   },
   {
     "site": "Qiita",
     "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説",
     "link": "https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-14T11:57:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIコーディング時代に必要なプログラミングスキル",
-    "link": "https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-13T14:11:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Qiita】いいかげん一日3記事までに制限すべきでは",
-    "link": "https://qiita.com/rana_kualu/items/a359bfcd179777761e4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-13T12:02:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Hardening GitHub Actions: Lessons from Recent Attacks | Wiz Blog",
-    "link": "https://www.wiz.io/blog/github-actions-security-guide",
-    "pubDate": "2025-05-12T01:30:55.000Z"
   }
 ]
