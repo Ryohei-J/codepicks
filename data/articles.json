@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "一蘭って食ったらそのまま退店してもいいんだよな？前払い制だしほとんど店員さんとも絡まないシステムだから誰にも何も言われなくてずっと不安…",
+    "link": "https://togetter.com/li/2687213",
+    "pubDate": "2026-04-18T01:06:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、AIデザインツール「Claude Design」プレビュー公開──「Opus 4.7」搭載でコーディングツールとの連携も",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
+    "pubDate": "2026-04-18T00:44:47.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "岸田元首相、公式YouTubeで自身のディープフェイク映像をセルフパロディー　「この画像は公式です」",
     "link": "https://www.itmedia.co.jp/news/articles/2604/17/news137.html",
     "pubDate": "2026-04-17T23:46:58.000Z"
@@ -10,6 +22,12 @@
     "title": "Anthropic、「Opus 4.7」ベースのAIデザインツール「Claude Design」発表　Canvaとの連携も可能",
     "link": "https://www.itmedia.co.jp/news/articles/2604/18/news023.html",
     "pubDate": "2026-04-17T23:46:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アルトマン氏宅放火犯は標的リスト所持　「反AI思想」先鋭化の闇 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN14CNJ0U6A410C2000000/",
+    "pubDate": "2026-04-17T23:31:26.000Z"
   },
   {
     "site": "Hatena",
@@ -25,27 +43,21 @@
   },
   {
     "site": "Zenn",
+    "title": "そのAI臭を消す努力は、誰のためにやっているのか",
+    "link": "https://zenn.dev/acntechjp/articles/54ab3f84e567a6",
+    "pubDate": "2026-04-17T12:59:24.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "gh skillが登場。GitHub公式のスキル管理ツールにnpx skillsから乗り換えた",
     "link": "https://zenn.dev/ubie_dev/articles/gh-skill-install-agent-skills",
     "pubDate": "Fri, 17 Apr 2026 12:48:49 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策 - Qiita",
-    "link": "https://qiita.com/miruky/items/fde2d0747358cd7870d7",
-    "pubDate": "2026-04-17T11:06:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeで実際に起きたセキュリティ事故7選と防止策 - Qiita",
-    "link": "https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc",
-    "pubDate": "2026-04-17T10:56:40.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "deleted_atにインデックスを雑に貼ったら本番DBが死んだ",
-    "link": "https://zenn.dev/ukkyon/articles/mysql-deleted-at-index-optimizer-trap",
-    "pubDate": "2026-04-17T10:52:37.000Z"
+    "title": "Claudeに原始時代に行ってもらっては困る話",
+    "link": "https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6",
+    "pubDate": "2026-04-17T12:19:56.000Z"
   },
   {
     "site": "Qiita",
@@ -54,10 +66,10 @@
     "pubDate": "2026-04-17T10:29:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【無料ローカルAI】音声付き動画を生成できる「LTX-2.3」ComfyUIでの使い方をわかりやすく解説！ (1/4)",
-    "link": "https://ascii.jp/elem/000/004/387/4387092/",
-    "pubDate": "2026-04-17T08:21:09.000Z"
+    "site": "Zenn",
+    "title": "AIの素敵なプランに「ズン」とハンコを押したい",
+    "link": "https://zenn.dev/sangun/articles/159e7676a2e949",
+    "pubDate": "Fri, 17 Apr 2026 08:32:09 GMT"
   },
   {
     "site": "Zenn",
@@ -97,6 +109,18 @@
   },
   {
     "site": "Zenn",
+    "title": "社内SQLチューニングコンテストの開催にあたって得られた知見",
+    "link": "https://zenn.dev/forcia_tech/articles/202604_devsemi_sql",
+    "pubDate": "Fri, 17 Apr 2026 04:00:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "モダンCSSでWebの課題をスマートに解決！一歩進んだアクセシビリティ対応テクニック3選",
+    "link": "https://zenn.dev/gemcook/articles/css-accessibility-tips3",
+    "pubDate": "Fri, 17 Apr 2026 03:30:43 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Opus 4.7のReact習熟度をさっそく測る",
     "link": "https://zenn.dev/uhyo/articles/react-profession-bench-4",
     "pubDate": "Fri, 17 Apr 2026 03:23:47 GMT"
@@ -120,24 +144,6 @@
     "pubDate": "Thu, 16 Apr 2026 14:25:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "こういうのでいいんだよ ── AI活用はシンプルにいこか",
-    "link": "https://zenn.dev/masayan1126/books/simple-ai-workflow-guide",
-    "pubDate": "Thu, 16 Apr 2026 13:50:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "そのAI臭を消す努力は、誰のためにやっているのか",
-    "link": "https://zenn.dev/acntechjp/articles/54ab3f84e567a6",
-    "pubDate": "Thu, 16 Apr 2026 11:23:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeのトークン消費が$40/日から1週間でも余裕になった全手法",
-    "link": "https://zenn.dev/okamyuji/articles/claude-code-max-x20-token-savings",
-    "pubDate": "Thu, 16 Apr 2026 11:18:19 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【n8n】YouTubeの新着動画を自動収集して「質の高い動画だけLINE通知」する仕組みを作ってみた",
     "link": "https://qiita.com/wan-code/items/493ddeeb8658ada703fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -154,12 +160,6 @@
     "title": "DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ",
     "link": "https://qiita.com/hiroki_notes/items/893660ef56844d62729e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-16T07:44:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Microsoft 365 Copilot ライセンスがなくてもヌルっと Word ／ Excel ／ PowerPoint エージェントが利用できるようになっていた",
-    "link": "https://art-break.net/tech/?p=25106",
-    "pubDate": "2026-04-16T05:54:02.000Z"
   },
   {
     "site": "Qiita",
