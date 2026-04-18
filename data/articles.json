@@ -1,21 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "一蘭って食ったらそのまま退店してもいいんだよな？前払い制だしほとんど店員さんとも絡まないシステムだから誰にも何も言われなくてずっと不安…",
-    "link": "https://togetter.com/li/2687213",
-    "pubDate": "2026-04-18T01:06:53.000Z"
+    "title": "はてなブックマークもいいけれど、ブログのリンクを貼ったり引用することにしている。 - ねじまき日記",
+    "link": "https://nejimakinikki.hatenablog.com/entry/hatena-bookmark-blog-kojin-link-quote",
+    "pubDate": "2026-04-18T09:25:00.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Anthropic、AIデザインツール「Claude Design」プレビュー公開──「Opus 4.7」搭載でコーディングツールとの連携も",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/18/news022.html",
-    "pubDate": "2026-04-18T00:44:47.000Z"
+    "title": "川崎重工、四足歩行のAI造船ロボット開発へ　溶接技術者不足で対策 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC041ED0U6A400C2000000/",
+    "pubDate": "2026-04-18T08:54:01.000Z"
   },
   {
     "site": "Hatena",
-    "title": "岸田元首相、公式YouTubeで自身のディープフェイク映像をセルフパロディー　「この画像は公式です」",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/17/news137.html",
-    "pubDate": "2026-04-17T23:46:58.000Z"
+    "title": "2026年、知っておくべき最新 サーバレスTips10選/serverless-10-tips",
+    "link": "https://speakerdeck.com/slsops/serverless-10-tips",
+    "pubDate": "2026-04-18T07:17:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "SwiftのStringのAllocationsの最適化とストレージ選択の仕組み",
+    "link": "https://zenn.dev/hinakko/articles/bfc446a24d0de0",
+    "pubDate": "Sat, 18 Apr 2026 02:17:06 GMT"
   },
   {
     "site": "Hatena",
@@ -24,16 +30,10 @@
     "pubDate": "2026-04-17T23:46:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アルトマン氏宅放火犯は標的リスト所持　「反AI思想」先鋭化の闇 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN14CNJ0U6A410C2000000/",
-    "pubDate": "2026-04-17T23:31:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Introducing Claude Design by Anthropic Labs",
-    "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "pubDate": "2026-04-17T15:26:19.000Z"
+    "site": "Zenn",
+    "title": "ざっくりClaude Designを触ってみたので共有する",
+    "link": "https://zenn.dev/yokomachi/articles/202604_claude_design_chottodake",
+    "pubDate": "Fri, 17 Apr 2026 20:18:52 GMT"
   },
   {
     "site": "Zenn",
@@ -60,16 +60,52 @@
     "pubDate": "2026-04-17T12:19:56.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "データを見てみよう【統計学の利用禁止】",
+    "link": "https://zenn.dev/intage_tech/articles/art012-analysis-withoutstat",
+    "pubDate": "Fri, 17 Apr 2026 10:51:31 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
     "link": "https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-17T10:29:09.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIの素敵なプランに「ズン」とハンコを押したい",
-    "link": "https://zenn.dev/sangun/articles/159e7676a2e949",
-    "pubDate": "Fri, 17 Apr 2026 08:32:09 GMT"
+    "site": "Qiita",
+    "title": "【n8n】Gmailの領収書を自動でGoogle Driveに日付別保存する仕組みを作ってみた",
+    "link": "https://qiita.com/wan-code/items/b0984991f051e1ca6d79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T10:01:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Java の static を正しく理解する — クラス変数・インスタンス変数・staticメソッドの違い",
+    "link": "https://qiita.com/S_kamon/items/e0907d360fc1d9a8f032?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T09:12:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "プレス発表 デジタルスキル標準ver.2.0を公開 | プレスリリース | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/pressrelease/2026/press20260416.html",
+    "pubDate": "2026-04-17T08:30:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JaSST’26Tokyo参加を通してQAエンジニアが考えたこと",
+    "link": "https://qiita.com/tonono/items/44c6871f8af8c60f5e65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T08:29:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "CloudflareがAI特化のGit互換ストレージ「Artifacts」発表 — エージェントによる爆発的コード生成に備えるインフラ",
+    "link": "https://techfeed.io/entries/69e14fed74781e8bf4965086",
+    "pubDate": "2026-04-17T08:00:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "C#で理解するオブジェクト指向 ― 概念から実装までを一気に整理する",
+    "link": "https://qiita.com/hiroki_notes/items/badced4338f3f8739372?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T07:46:59.000Z"
   },
   {
     "site": "Zenn",
@@ -126,34 +162,10 @@
     "pubDate": "Fri, 17 Apr 2026 03:23:47 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "HonoのNode.jsアダプタが最大2.3倍速くなります",
-    "link": "https://zenn.dev/yusukebe/articles/9dce6cf7dc6e41",
-    "pubDate": "Fri, 17 Apr 2026 03:07:25 GMT"
-  },
-  {
     "site": "Hatena",
-    "title": "Mac、Windows版の無料2Dアニメーション＆モーショングラフィック制作ソフトウェア | Cavalry",
-    "link": "https://cavalry.studio/ja_jp/",
-    "pubDate": "2026-04-17T01:13:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人開発で掲示板とSNSの融合サービス『Pomate』を作ったよー",
-    "link": "https://zenn.dev/pomate/articles/a1ea6685d1e7d3",
-    "pubDate": "Thu, 16 Apr 2026 14:25:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【n8n】YouTubeの新着動画を自動収集して「質の高い動画だけLINE通知」する仕組みを作ってみた",
-    "link": "https://qiita.com/wan-code/items/493ddeeb8658ada703fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-16T09:48:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Chromeで特定のサイトにアクセスできなくなったので原因を調査してみた",
-    "link": "https://qiita.com/S_kamon/items/4a344d4cd78df4c96f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-16T09:08:05.000Z"
+    "title": "Claude CodeのAWS公式プラグインでdraw.io形式のAWS構成図を自動生成してみた（aws-architecture-diagramスキル） | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claude-code-awslabs-aws-architecture-diagram/",
+    "pubDate": "2026-04-16T22:27:26.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "プログラミング初学者の方が見落としがちなプロダクトを見る視点",
-    "link": "https://qiita.com/masa20057/items/73bd88b401ecab0cc4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-16T02:15:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【35歳未経験でも理解できた】SQL 基礎コマンド",
-    "link": "https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-16T01:18:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "定年間近の60歳エンジニアに『Claude Code 教えてくれ』と頼まれた日の話",
-    "link": "https://qiita.com/kawabe0201/items/e154fc6d887566db7c58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-15T04:20:42.000Z"
+    "title": "Git・GitHub・GitHub Actions の全体像 — 「Git って何？」から CI/CD 自動化まで新卒エンジニアが知りたかったこと",
+    "link": "https://qiita.com/teppei19980914/items/9154f51a239f21974c09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-15T11:56:11.000Z"
   }
 ]
