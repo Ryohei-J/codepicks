@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "はてなブックマークもいいけれど、ブログのリンクを貼ったり引用することにしている。 - ねじまき日記",
-    "link": "https://nejimakinikki.hatenablog.com/entry/hatena-bookmark-blog-kojin-link-quote",
-    "pubDate": "2026-04-18T09:25:00.000Z"
+    "title": "chezmoi-dotfiles/dot_claude/skills/empirical-prompt-tuning/SKILL.md at main · mizchi/chezmoi-dotfiles",
+    "link": "https://github.com/mizchi/chezmoi-dotfiles/blob/main/dot_claude/skills/empirical-prompt-tuning/SKILL.md",
+    "pubDate": "2026-04-18T14:39:20.000Z"
   },
   {
     "site": "Hatena",
-    "title": "川崎重工、四足歩行のAI造船ロボット開発へ　溶接技術者不足で対策 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC041ED0U6A400C2000000/",
-    "pubDate": "2026-04-18T08:54:01.000Z"
+    "title": "無料でデータベースで動くアプリを自作できる「NocoDB」、Airtableの代替になりオープンソースでセルフホスト可能、カンバン・カレンダー・ギャラリー・表・フォームなどの見た目で操作可能",
+    "link": "https://gigazine.net/news/20260418-nocodb/",
+    "pubDate": "2026-04-18T14:07:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "何度も挫折した自分が、LeetCode150問でデータ構造とアルゴリズムをやっと理解できた話 - Yuki Watanabe's Blog",
+    "link": "https://yuki0920.hatenablog.jp/entry/20260418/1776510000",
+    "pubDate": "2026-04-18T13:11:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてなブックマークもいいけれど、ブログのリンクを貼ったり引用することにしている。 - ねじまき日記",
+    "link": "https://nejimakinikki.hatenablog.com/entry/hatena-bookmark-blog-kojin-link-quote",
+    "pubDate": "2026-04-18T09:25:00.000Z"
   },
   {
     "site": "Hatena",
@@ -19,27 +31,21 @@
   },
   {
     "site": "Zenn",
+    "title": "1-bit LLM「Bonsai-8B」をRTX 4080に8台載せて並列推論を試した全記録",
+    "link": "https://zenn.dev/seeda_yuto/articles/bonsai-8b-parallel-inference-rtx4080",
+    "pubDate": "2026-04-18T05:39:18.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "SwiftのStringのAllocationsの最適化とストレージ選択の仕組み",
     "link": "https://zenn.dev/hinakko/articles/bfc446a24d0de0",
     "pubDate": "Sat, 18 Apr 2026 02:17:06 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Anthropic、「Opus 4.7」ベースのAIデザインツール「Claude Design」発表　Canvaとの連携も可能",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/18/news023.html",
-    "pubDate": "2026-04-17T23:46:26.000Z"
   },
   {
     "site": "Zenn",
     "title": "ざっくりClaude Designを触ってみたので共有する",
     "link": "https://zenn.dev/yokomachi/articles/202604_claude_design_chottodake",
     "pubDate": "Fri, 17 Apr 2026 20:18:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "設計書・コード・テストを全部AIに書かせて半年間開発してみたよ",
-    "link": "https://zenn.dev/nttdata_tech/articles/8a010aff542625",
-    "pubDate": "2026-04-17T15:11:32.000Z"
   },
   {
     "site": "Zenn",
@@ -52,12 +58,6 @@
     "title": "gh skillが登場。GitHub公式のスキル管理ツールにnpx skillsから乗り換えた",
     "link": "https://zenn.dev/ubie_dev/articles/gh-skill-install-agent-skills",
     "pubDate": "Fri, 17 Apr 2026 12:48:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claudeに原始時代に行ってもらっては困る話",
-    "link": "https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6",
-    "pubDate": "2026-04-17T12:19:56.000Z"
   },
   {
     "site": "Zenn",
@@ -94,12 +94,6 @@
     "title": "JaSST’26Tokyo参加を通してQAエンジニアが考えたこと",
     "link": "https://qiita.com/tonono/items/44c6871f8af8c60f5e65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-17T08:29:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "CloudflareがAI特化のGit互換ストレージ「Artifacts」発表 — エージェントによる爆発的コード生成に備えるインフラ",
-    "link": "https://techfeed.io/entries/69e14fed74781e8bf4965086",
-    "pubDate": "2026-04-17T08:00:10.000Z"
   },
   {
     "site": "Qiita",
@@ -160,6 +154,12 @@
     "title": "Claude Opus 4.7のReact習熟度をさっそく測る",
     "link": "https://zenn.dev/uhyo/articles/react-profession-bench-4",
     "pubDate": "Fri, 17 Apr 2026 03:23:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "これからのデザインの新しい定番書！ デザインのしっかりした知識とテクニックをかなり深く学べる -デザインの最強原則",
+    "link": "https://coliss.com/articles/book-review/isbn-9784815637095.html",
+    "pubDate": "2026-04-17T01:02:52.000Z"
   },
   {
     "site": "Hatena",
