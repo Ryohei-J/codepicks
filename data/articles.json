@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
+    "link": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
+    "pubDate": "2026-04-19T08:24:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
+    "link": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
+    "pubDate": "Sun, 19 Apr 2026 08:04:42 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "安全なコンテナイメージを作るための新しい業界標準: Docker Hardened Images | ドクセル",
+    "link": "https://www.docswell.com/s/tadashi0713/KR82N3-docker-3shake-webinar",
+    "pubDate": "2026-04-19T07:59:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Spotifyなど、AI乗っ取り問題が深刻化 著名ジャズミュージシャンら相次ぎ被害報告 | Musicman",
+    "link": "https://www.musicman.co.jp/business/721835",
+    "pubDate": "2026-04-19T05:20:05.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "構文認識でGitコンフリクトを自動解決するMergirafが良さげかも | kawarimidoll.com",
     "link": "https://kawarimidoll.com/posts/202604191/",
     "pubDate": "2026-04-19T04:36:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AHC015を強化学習（PPO）で解いてみた",
+    "link": "https://zenn.dev/4eta/articles/610576845e64b0",
+    "pubDate": "Sun, 19 Apr 2026 02:47:18 GMT"
   },
   {
     "site": "Hatena",
@@ -12,16 +42,22 @@
     "pubDate": "2026-04-19T02:35:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "地下鉄に乗るなりノートPCを開いてガンガン仕事しだしたお姉さんが、取引先の人で、かつ超秘密事項と思われる情報を見ていてビビり倒した→「公共交通機関でPC作業してる人本当に怖い」",
-    "link": "https://togetter.com/li/2687456",
-    "pubDate": "2026-04-18T15:43:57.000Z"
+    "site": "Zenn",
+    "title": "自作キーボードに機械学習モデルを仕込む",
+    "link": "https://zenn.dev/bilzard/articles/29e91678ae98c7",
+    "pubDate": "Sun, 19 Apr 2026 00:45:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "実際に飛ぶドローン名刺を作ってみた - fumiLab",
-    "link": "https://fumimaker.net/entry/2026/04/18/202824",
-    "pubDate": "2026-04-18T14:44:48.000Z"
+    "site": "Zenn",
+    "title": "Windows で Ternary Bonsai を動かしてみた",
+    "link": "https://zenn.dev/7shi/articles/20260419-ternary-bonsai",
+    "pubDate": "Sat, 18 Apr 2026 19:34:38 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "C#15.0を試すためにDev Containersを使う【VSCode】",
+    "link": "https://zenn.dev/inuinu/articles/csharp15-with-dev-container",
+    "pubDate": "Sat, 18 Apr 2026 15:48:22 GMT"
   },
   {
     "site": "Hatena",
@@ -30,16 +66,22 @@
     "pubDate": "2026-04-18T14:29:04.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "クソバズワード「ハーネスエンジニアリング」と向き合う - Qiita",
+    "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4",
+    "pubDate": "2026-04-18T12:42:27.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "正しく脆弱性を怖がるために資格の過去問を通して、実際に指標値を確かめてみた",
     "link": "https://zenn.dev/moneyforward/articles/6caab074328d02",
     "pubDate": "Sat, 18 Apr 2026 12:07:19 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "社内SQLチューニングコンテストの開催にあたって得られた知見",
-    "link": "https://zenn.dev/forcia_tech/articles/202604_devsemi_sql",
-    "pubDate": "2026-04-18T10:29:02.000Z"
+    "site": "Qiita",
+    "title": "閉域の AWS 環境からさくらのクラウドのオブジェクトストレージにアクセスする",
+    "link": "https://qiita.com/takeda_h/items/c67eee08b705ec0bdf60?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-18T11:38:48.000Z"
   },
   {
     "site": "Qiita",
@@ -54,10 +96,10 @@
     "pubDate": "Sat, 18 Apr 2026 08:54:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub CopilotはGodot開発でどこまで使える？ 現役高校生がローグライクゲームを作ってみた",
-    "link": "https://zenn.dev/problemedge/articles/f81c4fff5ac2b0",
-    "pubDate": "Sat, 18 Apr 2026 06:13:21 GMT"
+    "site": "Qiita",
+    "title": "Chrome DevTools MCP の全ツールをまとめて理解する",
+    "link": "https://qiita.com/softbase/items/fe445a318846fd6a364d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-18T06:59:33.000Z"
   },
   {
     "site": "Hatena",
@@ -73,6 +115,12 @@
   },
   {
     "site": "Zenn",
+    "title": "リポジトリ層は、あえてインターフェース化しない方が良い場合もある",
+    "link": "https://zenn.dev/kotaroikeda/articles/ea159457ffc587",
+    "pubDate": "Sat, 18 Apr 2026 01:37:17 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Designが来た日 ─ Webデザイナーとフロントエンドの仕事はどこまで削られるのか",
     "link": "https://zenn.dev/akasara/articles/ab24affd00d788",
     "pubDate": "2026-04-18T00:14:04.000Z"
@@ -84,58 +132,16 @@
     "pubDate": "Fri, 17 Apr 2026 20:18:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIコーディングツール1億5000万DLの根幹MCPに設計欠陥：Anthropicは「仕様」と修正を拒否 — XenoSpectrum",
-    "link": "https://xenospectrum.com/mcp-stdio-design-flaw-anthropic/",
-    "pubDate": "2026-04-17T17:20:04.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code モデル別に追加耐性テストをしてみた",
     "link": "https://qiita.com/aito1234/items/11c70a0b2a2362a5c913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-17T13:37:24.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "gh skillが登場。GitHub公式のスキル管理ツールにnpx skillsから乗り換えた",
-    "link": "https://zenn.dev/ubie_dev/articles/gh-skill-install-agent-skills",
-    "pubDate": "Fri, 17 Apr 2026 12:48:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "データを見てみよう【統計学の利用禁止】",
-    "link": "https://zenn.dev/intage_tech/articles/art012-analysis-withoutstat",
-    "pubDate": "Fri, 17 Apr 2026 10:51:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
     "link": "https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-17T10:29:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【n8n】Gmailの領収書を自動でGoogle Driveに日付別保存する仕組みを作ってみた",
-    "link": "https://qiita.com/wan-code/items/b0984991f051e1ca6d79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-17T10:01:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIの素敵なプランに「ズン」とハンコを押したい",
-    "link": "https://zenn.dev/sangun/articles/159e7676a2e949",
-    "pubDate": "Fri, 17 Apr 2026 08:32:09 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "C#で理解するオブジェクト指向 ― 概念から実装までを一気に整理する",
-    "link": "https://qiita.com/hiroki_notes/items/badced4338f3f8739372?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-17T07:46:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claudeに原始時代に行ってもらっては困る話",
-    "link": "https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6",
-    "pubDate": "Fri, 17 Apr 2026 06:53:17 GMT"
   },
   {
     "site": "Qiita",
@@ -151,15 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "会議が時間通りに始まらないのは、スキルじゃなくて“習慣”の問題です。",
-    "link": "https://qiita.com/hitomin_poke/items/24aa3a6728220a112716?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-17T05:36:48.000Z"
+    "title": "【HTML】ボタンの見本市サイトを作った話",
+    "link": "https://qiita.com/uni928/items/968635f6dbc6094d98c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T03:27:30.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "設計書・コード・テストを全部AIに書かせて半年間開発してみたよ",
-    "link": "https://zenn.dev/nttdata_tech/articles/8a010aff542625",
-    "pubDate": "Fri, 17 Apr 2026 04:26:19 GMT"
+    "site": "Qiita",
+    "title": "Claude × Codex × Gemini を\"併用\"する設計 ─ セカンドオピニオン運用フレーム",
+    "link": "https://qiita.com/nogataka/items/b2b4a84ba611ccaf8447?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T02:18:57.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "快適なVSCode生活を!!",
     "link": "https://trap.jp/post/2909/",
     "pubDate": "2026-04-16T23:37:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ",
-    "link": "https://qiita.com/hiroki_notes/items/893660ef56844d62729e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-16T07:44:21.000Z"
   }
 ]
