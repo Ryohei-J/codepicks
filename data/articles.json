@@ -1,6 +1,18 @@
 [
   {
     "site": "Zenn",
+    "title": "Claude Codeで日常のタスクを45個自動化した東大院生の全記録",
+    "link": "https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks",
+    "pubDate": "2026-04-19T12:03:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自作キーボードに機械学習モデルを仕込む",
+    "link": "https://zenn.dev/bilzard/articles/29e91678ae98c7",
+    "pubDate": "2026-04-19T09:00:18.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
     "link": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
     "pubDate": "2026-04-19T08:24:05.000Z"
@@ -19,15 +31,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Spotifyなど、AI乗っ取り問題が深刻化 著名ジャズミュージシャンら相次ぎ被害報告 | Musicman",
-    "link": "https://www.musicman.co.jp/business/721835",
-    "pubDate": "2026-04-19T05:20:05.000Z"
+    "title": "サプライチェーンアタック対策とdependabot活用 | おそらくはそれさえも平凡な日々",
+    "link": "https://songmu.jp/riji/entry/2026-04-19-supply-chain-security-with-dependabot.html",
+    "pubDate": "2026-04-19T06:35:15.000Z"
   },
   {
     "site": "Hatena",
-    "title": "構文認識でGitコンフリクトを自動解決するMergirafが良さげかも | kawarimidoll.com",
-    "link": "https://kawarimidoll.com/posts/202604191/",
-    "pubDate": "2026-04-19T04:36:59.000Z"
+    "title": "Spotifyなど、AI乗っ取り問題が深刻化 著名ジャズミュージシャンら相次ぎ被害報告 | Musicman",
+    "link": "https://www.musicman.co.jp/business/721835",
+    "pubDate": "2026-04-19T05:20:05.000Z"
   },
   {
     "site": "Zenn",
@@ -37,9 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Perry — TypeScript → Native",
-    "link": "https://www.perryts.com/",
-    "pubDate": "2026-04-19T02:35:08.000Z"
+    "title": "アプリで儲けようとしている人に、アプリ開発歴15年から言いたいこと",
+    "link": "https://anond.hatelabo.jp/20260419113552",
+    "pubDate": "2026-04-19T02:36:49.000Z"
   },
   {
     "site": "Zenn",
@@ -58,12 +70,6 @@
     "title": "C#15.0を試すためにDev Containersを使う【VSCode】",
     "link": "https://zenn.dev/inuinu/articles/csharp15-with-dev-container",
     "pubDate": "Sat, 18 Apr 2026 15:48:22 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "｢AIを使えばアプリが作れる｣ってホント？文系が10ヶ月やってみた",
-    "link": "https://www.gizmodo.jp/2026/04/ai_coding_10_month.html",
-    "pubDate": "2026-04-18T14:29:04.000Z"
   },
   {
     "site": "Qiita",
@@ -100,12 +106,6 @@
     "title": "Chrome DevTools MCP の全ツールをまとめて理解する",
     "link": "https://qiita.com/softbase/items/fe445a318846fd6a364d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-18T06:59:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code で仕事しながら英語を学ぶ環境を整えてみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/claude-code-working-in-english-environment-setup/",
-    "pubDate": "2026-04-18T05:40:55.000Z"
   },
   {
     "site": "Zenn",
