@@ -1,15 +1,21 @@
 [
   {
     "site": "Hatena",
-    "title": "地下鉄に乗るなりノートPCを開いてガンガン仕事しだしたお姉さんが、取引先の人で、かつ超秘密事項と思われる情報を見ていてビビり倒した→「公共交通機関でPC作業してる人本当に怖い」",
-    "link": "https://togetter.com/li/2687456",
-    "pubDate": "2026-04-18T15:43:57.000Z"
+    "title": "構文認識でGitコンフリクトを自動解決するMergirafが良さげかも | kawarimidoll.com",
+    "link": "https://kawarimidoll.com/posts/202604191/",
+    "pubDate": "2026-04-19T04:36:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "2026年3月にBaselineになったReporting APIを活用してフロントエンドのObservabilityを高める - プププなテクブ",
-    "link": "https://blog.inorinrinrin.com/entry/2026/04/18/232104",
-    "pubDate": "2026-04-18T14:54:03.000Z"
+    "title": "Perry — TypeScript → Native",
+    "link": "https://www.perryts.com/",
+    "pubDate": "2026-04-19T02:35:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "地下鉄に乗るなりノートPCを開いてガンガン仕事しだしたお姉さんが、取引先の人で、かつ超秘密事項と思われる情報を見ていてビビり倒した→「公共交通機関でPC作業してる人本当に怖い」",
+    "link": "https://togetter.com/li/2687456",
+    "pubDate": "2026-04-18T15:43:57.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +30,16 @@
     "pubDate": "2026-04-18T14:29:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "何度も挫折した自分が、LeetCode150問でデータ構造とアルゴリズムをやっと理解できた話 - Yuki Watanabe's Blog",
-    "link": "https://yuki0920.hatenablog.jp/entry/20260418/1776510000",
-    "pubDate": "2026-04-18T13:11:31.000Z"
+    "site": "Zenn",
+    "title": "正しく脆弱性を怖がるために資格の過去問を通して、実際に指標値を確かめてみた",
+    "link": "https://zenn.dev/moneyforward/articles/6caab074328d02",
+    "pubDate": "Sat, 18 Apr 2026 12:07:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "社内SQLチューニングコンテストの開催にあたって得られた知見",
+    "link": "https://zenn.dev/forcia_tech/articles/202604_devsemi_sql",
+    "pubDate": "2026-04-18T10:29:02.000Z"
   },
   {
     "site": "Qiita",
@@ -40,6 +52,12 @@
     "title": "Async React時代の宣言的UI 2: トランジション対応のuseDebouncedフックを作る",
     "link": "https://zenn.dev/uhyo/articles/async-react-debounce-2",
     "pubDate": "Sat, 18 Apr 2026 08:54:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub CopilotはGodot開発でどこまで使える？ 現役高校生がローグライクゲームを作ってみた",
+    "link": "https://zenn.dev/problemedge/articles/f81c4fff5ac2b0",
+    "pubDate": "Sat, 18 Apr 2026 06:13:21 GMT"
   },
   {
     "site": "Hatena",
@@ -55,9 +73,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Designが来た日 ─ Webデザイナーとフロントエンドの仕事はどこまで削られるのか",
+    "link": "https://zenn.dev/akasara/articles/ab24affd00d788",
+    "pubDate": "2026-04-18T00:14:04.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "ざっくりClaude Designを触ってみたので共有する",
     "link": "https://zenn.dev/yokomachi/articles/202604_claude_design_chottodake",
     "pubDate": "Fri, 17 Apr 2026 20:18:52 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIコーディングツール1億5000万DLの根幹MCPに設計欠陥：Anthropicは「仕様」と修正を拒否 — XenoSpectrum",
+    "link": "https://xenospectrum.com/mcp-stdio-design-flaw-anthropic/",
+    "pubDate": "2026-04-17T17:20:04.000Z"
   },
   {
     "site": "Qiita",
@@ -102,18 +132,6 @@
     "pubDate": "2026-04-17T07:46:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "話題基点で交流できるコミュニティSNSを作った！｜ぽメイト",
-    "link": "https://note.com/pomate_cc/n/n7c34ecf9500e",
-    "pubDate": "2026-04-17T07:31:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "生命科学研究のための推論AIモデル「GPT-Rosalind」をOpenAIが発表",
-    "link": "https://gigazine.net/news/20260417-gpt-rosalind/",
-    "pubDate": "2026-04-17T07:16:18.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claudeに原始時代に行ってもらっては困る話",
     "link": "https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6",
@@ -144,39 +162,21 @@
     "pubDate": "Fri, 17 Apr 2026 04:26:19 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "古典ドメインモデルパターンの解脱",
-    "link": "https://zenn.dev/kawasima/books/ddd-detachment",
-    "pubDate": "Fri, 17 Apr 2026 04:14:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "社内SQLチューニングコンテストの開催にあたって得られた知見",
-    "link": "https://zenn.dev/forcia_tech/articles/202604_devsemi_sql",
-    "pubDate": "Fri, 17 Apr 2026 04:00:10 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "お薦めの「Linux」デスクトップ5選--2026年版",
-    "link": "https://japan.zdnet.com/article/35246327/",
-    "pubDate": "2026-04-17T02:21:33.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code Agent Teams 設計 ─ 役割を分けて複数プロジェクトを並列管理する",
     "link": "https://qiita.com/nogataka/items/4787c956aeb547b1421c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-17T02:18:30.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "快適なVSCode生活を!!",
+    "link": "https://trap.jp/post/2909/",
+    "pubDate": "2026-04-16T23:37:40.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "DRY / KISS / YAGNI をC#で理解する：現場で使えるシンプル設計原則まとめ",
     "link": "https://qiita.com/hiroki_notes/items/893660ef56844d62729e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-16T07:44:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "無料でデータベースで動くアプリを自作できる「NocoDB」、Airtableの代替になりオープンソースでセルフホスト可能、カンバン・カレンダー・ギャラリー・表・フォームなどの見た目で操作可能",
-    "link": "https://gigazine.net/news/20260418-nocodb/",
-    "pubDate": "2022-02-15T12:19:48.000Z"
   }
 ]
