@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "chezmoi-dotfiles/dot_claude/skills/empirical-prompt-tuning/SKILL.md at main · mizchi/chezmoi-dotfiles",
-    "link": "https://github.com/mizchi/chezmoi-dotfiles/blob/main/dot_claude/skills/empirical-prompt-tuning/SKILL.md",
-    "pubDate": "2026-04-18T14:39:20.000Z"
+    "title": "地下鉄に乗るなりノートPCを開いてガンガン仕事しだしたお姉さんが、取引先の人で、かつ超秘密事項と思われる情報を見ていてビビり倒した→「公共交通機関でPC作業してる人本当に怖い」",
+    "link": "https://togetter.com/li/2687456",
+    "pubDate": "2026-04-18T15:43:57.000Z"
   },
   {
     "site": "Hatena",
-    "title": "無料でデータベースで動くアプリを自作できる「NocoDB」、Airtableの代替になりオープンソースでセルフホスト可能、カンバン・カレンダー・ギャラリー・表・フォームなどの見た目で操作可能",
-    "link": "https://gigazine.net/news/20260418-nocodb/",
-    "pubDate": "2026-04-18T14:07:23.000Z"
+    "title": "2026年3月にBaselineになったReporting APIを活用してフロントエンドのObservabilityを高める - プププなテクブ",
+    "link": "https://blog.inorinrinrin.com/entry/2026/04/18/232104",
+    "pubDate": "2026-04-18T14:54:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "実際に飛ぶドローン名刺を作ってみた - fumiLab",
+    "link": "https://fumimaker.net/entry/2026/04/18/202824",
+    "pubDate": "2026-04-18T14:44:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "｢AIを使えばアプリが作れる｣ってホント？文系が10ヶ月やってみた",
+    "link": "https://www.gizmodo.jp/2026/04/ai_coding_10_month.html",
+    "pubDate": "2026-04-18T14:29:04.000Z"
   },
   {
     "site": "Hatena",
@@ -18,22 +30,22 @@
     "pubDate": "2026-04-18T13:11:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "はてなブックマークもいいけれど、ブログのリンクを貼ったり引用することにしている。 - ねじまき日記",
-    "link": "https://nejimakinikki.hatenablog.com/entry/hatena-bookmark-blog-kojin-link-quote",
-    "pubDate": "2026-04-18T09:25:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "2026年、知っておくべき最新 サーバレスTips10選/serverless-10-tips",
-    "link": "https://speakerdeck.com/slsops/serverless-10-tips",
-    "pubDate": "2026-04-18T07:17:49.000Z"
+    "site": "Qiita",
+    "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
+    "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-18T09:17:14.000Z"
   },
   {
     "site": "Zenn",
-    "title": "1-bit LLM「Bonsai-8B」をRTX 4080に8台載せて並列推論を試した全記録",
-    "link": "https://zenn.dev/seeda_yuto/articles/bonsai-8b-parallel-inference-rtx4080",
-    "pubDate": "2026-04-18T05:39:18.000Z"
+    "title": "Async React時代の宣言的UI 2: トランジション対応のuseDebouncedフックを作る",
+    "link": "https://zenn.dev/uhyo/articles/async-react-debounce-2",
+    "pubDate": "Sat, 18 Apr 2026 08:54:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code で仕事しながら英語を学ぶ環境を整えてみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/claude-code-working-in-english-environment-setup/",
+    "pubDate": "2026-04-18T05:40:55.000Z"
   },
   {
     "site": "Zenn",
@@ -48,10 +60,10 @@
     "pubDate": "Fri, 17 Apr 2026 20:18:52 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "そのAI臭を消す努力は、誰のためにやっているのか",
-    "link": "https://zenn.dev/acntechjp/articles/54ab3f84e567a6",
-    "pubDate": "2026-04-17T12:59:24.000Z"
+    "site": "Qiita",
+    "title": "Claude Code モデル別に追加耐性テストをしてみた",
+    "link": "https://qiita.com/aito1234/items/11c70a0b2a2362a5c913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T13:37:24.000Z"
   },
   {
     "site": "Zenn",
@@ -78,28 +90,28 @@
     "pubDate": "2026-04-17T10:01:28.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Java の static を正しく理解する — クラス変数・インスタンス変数・staticメソッドの違い",
-    "link": "https://qiita.com/S_kamon/items/e0907d360fc1d9a8f032?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-17T09:12:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "プレス発表 デジタルスキル標準ver.2.0を公開 | プレスリリース | IPA 独立行政法人 情報処理推進機構",
-    "link": "https://www.ipa.go.jp/pressrelease/2026/press20260416.html",
-    "pubDate": "2026-04-17T08:30:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JaSST’26Tokyo参加を通してQAエンジニアが考えたこと",
-    "link": "https://qiita.com/tonono/items/44c6871f8af8c60f5e65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-17T08:29:16.000Z"
+    "site": "Zenn",
+    "title": "AIの素敵なプランに「ズン」とハンコを押したい",
+    "link": "https://zenn.dev/sangun/articles/159e7676a2e949",
+    "pubDate": "Fri, 17 Apr 2026 08:32:09 GMT"
   },
   {
     "site": "Qiita",
     "title": "C#で理解するオブジェクト指向 ― 概念から実装までを一気に整理する",
     "link": "https://qiita.com/hiroki_notes/items/badced4338f3f8739372?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-17T07:46:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "話題基点で交流できるコミュニティSNSを作った！｜ぽメイト",
+    "link": "https://note.com/pomate_cc/n/n7c34ecf9500e",
+    "pubDate": "2026-04-17T07:31:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生命科学研究のための推論AIモデル「GPT-Rosalind」をOpenAIが発表",
+    "link": "https://gigazine.net/news/20260417-gpt-rosalind/",
+    "pubDate": "2026-04-17T07:16:18.000Z"
   },
   {
     "site": "Zenn",
@@ -144,28 +156,16 @@
     "pubDate": "Fri, 17 Apr 2026 04:00:10 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "モダンCSSでWebの課題をスマートに解決！一歩進んだアクセシビリティ対応テクニック3選",
-    "link": "https://zenn.dev/gemcook/articles/css-accessibility-tips3",
-    "pubDate": "Fri, 17 Apr 2026 03:30:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Opus 4.7のReact習熟度をさっそく測る",
-    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-4",
-    "pubDate": "Fri, 17 Apr 2026 03:23:47 GMT"
-  },
-  {
     "site": "Hatena",
-    "title": "これからのデザインの新しい定番書！ デザインのしっかりした知識とテクニックをかなり深く学べる -デザインの最強原則",
-    "link": "https://coliss.com/articles/book-review/isbn-9784815637095.html",
-    "pubDate": "2026-04-17T01:02:52.000Z"
+    "title": "お薦めの「Linux」デスクトップ5選--2026年版",
+    "link": "https://japan.zdnet.com/article/35246327/",
+    "pubDate": "2026-04-17T02:21:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude CodeのAWS公式プラグインでdraw.io形式のAWS構成図を自動生成してみた（aws-architecture-diagramスキル） | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/claude-code-awslabs-aws-architecture-diagram/",
-    "pubDate": "2026-04-16T22:27:26.000Z"
+    "site": "Qiita",
+    "title": "Claude Code Agent Teams 設計 ─ 役割を分けて複数プロジェクトを並列管理する",
+    "link": "https://qiita.com/nogataka/items/4787c956aeb547b1421c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-17T02:18:30.000Z"
   },
   {
     "site": "Qiita",
@@ -174,9 +174,9 @@
     "pubDate": "2026-04-16T07:44:21.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Git・GitHub・GitHub Actions の全体像 — 「Git って何？」から CI/CD 自動化まで新卒エンジニアが知りたかったこと",
-    "link": "https://qiita.com/teppei19980914/items/9154f51a239f21974c09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-15T11:56:11.000Z"
+    "site": "Hatena",
+    "title": "無料でデータベースで動くアプリを自作できる「NocoDB」、Airtableの代替になりオープンソースでセルフホスト可能、カンバン・カレンダー・ギャラリー・表・フォームなどの見た目で操作可能",
+    "link": "https://gigazine.net/news/20260418-nocodb/",
+    "pubDate": "2022-02-15T12:19:48.000Z"
   }
 ]
