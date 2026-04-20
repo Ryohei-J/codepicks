@@ -1,15 +1,33 @@
 [
   {
+    "site": "Hatena",
+    "title": "おじさん「AIはこう言ってるよ(長文ﾍﾟﾀｯ)」👈️社会問題化していると話題に",
+    "link": "https://anond.hatelabo.jp/20260420121623",
+    "pubDate": "2026-04-20T03:16:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ウクライナが前線兵士を2万5000台の地上ロボットに置き換える計画に着手",
+    "link": "https://gigazine.net/news/20260420-ukraine-replace-robot/",
+    "pubDate": "2026-04-20T02:08:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTの画像生成AIが「Nano Banana」超え？　漫画や動画風カットが実用レベルに (1/4)",
+    "link": "https://ascii.jp/elem/000/004/396/4396252/",
+    "pubDate": "2026-04-20T00:19:47.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
     "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
     "pubDate": "2026-04-19T23:20:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【2007年のINTERNET Watch】「ニコニコ動画」「初音ミク」がデビューして人気に、「ダウンロード違法化」議論は紛糾　",
-    "link": "https://internet.watch.impress.co.jp/docs/special/30th/2096502.html",
-    "pubDate": "2026-04-19T21:36:58.000Z"
+    "site": "Zenn",
+    "title": "1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
+    "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
+    "pubDate": "Sun, 19 Apr 2026 23:00:07 GMT"
   },
   {
     "site": "Zenn",
@@ -28,12 +46,6 @@
     "title": "Claude Codeで日常のタスクを45個自動化した東大院生の全記録",
     "link": "https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks",
     "pubDate": "2026-04-19T12:03:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "思い切った慶應義塾　全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動 (1/2)",
-    "link": "https://ascii.jp/elem/000/004/387/4387875/",
-    "pubDate": "2026-04-19T10:34:38.000Z"
   },
   {
     "site": "Zenn",
@@ -79,18 +91,6 @@
   },
   {
     "site": "Zenn",
-    "title": "GuiguiとGhosttyを組み合わせてターミナルGUIを作ってみた",
-    "link": "https://zenn.dev/rinrin_yuuki/articles/448d45e7df01ee",
-    "pubDate": "Sun, 19 Apr 2026 03:44:11 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Why Japan has such good railways - Works in Progress Magazine",
-    "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-    "pubDate": "2026-04-19T02:04:28.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "AI時代にわざわざRuby on Railsを使う理由",
     "link": "https://zenn.dev/higakijin/articles/730a734b6b9009",
     "pubDate": "Sun, 19 Apr 2026 02:03:46 GMT"
@@ -102,22 +102,28 @@
     "pubDate": "Sun, 19 Apr 2026 00:45:50 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Windows で Ternary Bonsai を動かしてみた",
+    "link": "https://zenn.dev/7shi/articles/20260419-ternary-bonsai",
+    "pubDate": "Sat, 18 Apr 2026 19:34:38 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "DGX Spark で Qwen 3.6 vs 3.5 実測比較",
     "link": "https://qiita.com/nabe2030/items/f61bc3627bb92a0388e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-18T12:26:58.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "正しく脆弱性を怖がるために資格の過去問を通して、実際に指標値を確かめてみた",
+    "link": "https://zenn.dev/moneyforward/articles/6caab074328d02",
+    "pubDate": "Sat, 18 Apr 2026 12:07:19 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
     "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-18T09:17:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Async React時代の宣言的UI 2: トランジション対応のuseDebouncedフックを作る",
-    "link": "https://zenn.dev/uhyo/articles/async-react-debounce-2",
-    "pubDate": "Sat, 18 Apr 2026 08:54:05 GMT"
   },
   {
     "site": "Qiita",
@@ -130,18 +136,6 @@
     "title": "Claude Designでポートフォリオサイトをリデザインしてみた: エンジニアが1時間程度で和モダン化",
     "link": "https://qiita.com/rf_p/items/a8b5929c14367e9dc584?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-18T03:44:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "SwiftのStringのAllocationsの最適化とストレージ選択の仕組み",
-    "link": "https://zenn.dev/hinakko/articles/bfc446a24d0de0",
-    "pubDate": "Sat, 18 Apr 2026 02:17:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code】アップデートされたDesktop版を触ってわかったCLIとの違い",
-    "link": "https://zenn.dev/solvio/articles/901772dcec88cc",
-    "pubDate": "2026-04-17T21:12:44.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "Claude × Codex × Gemini を\"併用\"する設計 ─ セカンドオピニオン運用フレーム",
     "link": "https://qiita.com/nogataka/items/b2b4a84ba611ccaf8447?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-17T02:18:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIに仕様書を書かせるベストプラクティス 2026 - Qiita",
+    "link": "https://qiita.com/YushiYamamoto/items/484792459af3afcba1a8",
+    "pubDate": "2026-04-17T00:52:57.000Z"
   }
 ]
