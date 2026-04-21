@@ -1,45 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "登壇スライドを30分で作る：Claude Codeで壁打ちからGoogle Slides生成までワークフロー化 - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2026/04/21/070000",
+    "pubDate": "2026-04-20T23:58:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Copilot】レポート作成の常識が激変…GPTとClaudeの「合わせ技」が想像を超えた",
+    "link": "https://www.sbbit.jp/article/cont1/184362",
+    "pubDate": "2026-04-20T22:26:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Appleのティム・クックCEO退任、15年ぶりトップ交代　後任にジョン・ターナス氏 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN210250R20C26A4000000/",
+    "pubDate": "2026-04-20T21:30:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO",
+    "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+    "pubDate": "2026-04-20T21:10:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "iPhone11を直す／兄について｜momometro",
     "link": "https://note.com/mmmetro/n/n5be8d79bae66",
     "pubDate": "2026-04-20T13:24:53.000Z"
   },
   {
     "site": "Hatena",
-    "title": "クレジットカードを不正利用され、何が驚いたかって被害に遭ったのは作ってから一度も使わず引出しに入れっぱなしにしているカードだった事",
-    "link": "https://togetter.com/li/2688032",
-    "pubDate": "2026-04-20T11:44:12.000Z"
+    "title": "3月末で終了した「Jigブラウザ」、累計売上65億円超と明かす",
+    "link": "https://japan.cnet.com/article/35246650/",
+    "pubDate": "2026-04-20T09:24:06.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AIの台頭がインターネットのアーカイブ化を妨げているという話 - nomolkのブログ",
-    "link": "https://nomolk.hatenablog.com/entry/2026/04/20/185308",
-    "pubDate": "2026-04-20T10:06:45.000Z"
+    "title": "AIでデザインする「Claude Design」。プロトタイプやプレゼン資料など作成可能",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2102928.html",
+    "pubDate": "2026-04-20T08:42:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "完全無収入、家を失い生活保護を「申請」しようと役所に行ったら「相談」だけで返された→審査をしないのは違法だがどうすればいい？",
-    "link": "https://togetter.com/li/2687967",
-    "pubDate": "2026-04-20T07:19:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "バッテリ非内蔵で最大-17℃、サンコー最軽量140gのペルチェ式ネッククーラー",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2102986.html",
-    "pubDate": "2026-04-20T07:11:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "NHKは4K放送を継続へ。「4K放送と配信を充実させ、視聴者の期待に応えていきたい」",
-    "link": "https://av.watch.impress.co.jp/docs/news/2102853.html",
-    "pubDate": "2026-04-20T06:43:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "DMM GAMES独自のiOS向けストアアプリが6月以降リリース決定。現在運営中のAndroid向けストアアプリと大きな違いはなし",
-    "link": "https://dengekionline.com/article/202604/72400",
-    "pubDate": "2026-04-20T06:12:04.000Z"
+    "site": "Qiita",
+    "title": "React初心者がつまずきやすいJavaScript記法をわかりやすく整理してみた",
+    "link": "https://qiita.com/hiroki_notes/items/3de8503e5f5f9e33e2d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-20T07:23:56.000Z"
   },
   {
     "site": "Qiita",
@@ -55,15 +61,21 @@
   },
   {
     "site": "Hatena",
+    "title": "LINEヤフー、“日常”に寄り添うAIエージェント「Agent i」開始",
+    "link": "https://www.watch.impress.co.jp/docs/news/2102917.html",
+    "pubDate": "2026-04-20T04:08:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Playwright CLI v0.1.8 で普段使いの Chrome にそのまま attach できるようになりました | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/playwright-cli-attach-local-chrome/",
     "pubDate": "2026-04-20T04:05:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "おじさん「AIはこう言ってるよ(長文ﾍﾟﾀｯ)」👈️社会問題化していると話題に",
-    "link": "https://anond.hatelabo.jp/20260420121623",
-    "pubDate": "2026-04-20T03:16:28.000Z"
+    "site": "Qiita",
+    "title": "Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました - Qiita",
+    "link": "https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029",
+    "pubDate": "2026-04-19T23:42:22.000Z"
   },
   {
     "site": "Qiita",
@@ -73,27 +85,39 @@
   },
   {
     "site": "Zenn",
+    "title": "環境が汚れるのが嫌なのでPodmanコンテナの中でSteamを動かした",
+    "link": "https://zenn.dev/headwaters/articles/c4a62943ec50aa",
+    "pubDate": "Sun, 19 Apr 2026 23:40:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話",
+    "link": "https://zenn.dev/tan_go238/articles/002437e923913c",
+    "pubDate": "Sun, 19 Apr 2026 23:00:07 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
     "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
     "pubDate": "Sun, 19 Apr 2026 23:00:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「高性能なWi-Fiルーターは電波が強い」は本当か？　法律と技術から読み解くWi-Fiの現実【イニシャルB】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2101648.html",
-    "pubDate": "2026-04-19T21:20:32.000Z"
+    "site": "Qiita",
+    "title": "記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に",
+    "link": "https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-19T22:39:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cursorで爆速開発、でもセキュリティは爆速で崩壊していた",
+    "link": "https://zenn.dev/nekoai_lab/articles/6b876ab524de84",
+    "pubDate": "Sun, 19 Apr 2026 22:29:56 GMT"
   },
   {
     "site": "Zenn",
     "title": "ブラウザで日本語入力中にIMEが勝手に切り替わると思ったらNeovimのLSPが原因だった",
     "link": "https://zenn.dev/ultimatile/articles/neovim-lsp-ime-switch-autocmd-conflict",
     "pubDate": "Sun, 19 Apr 2026 14:55:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GoのWebフレームワークEcho のコードを読んでみた",
-    "link": "https://zenn.dev/aki_artisan/articles/2ef58663ecf20b",
-    "pubDate": "Sun, 19 Apr 2026 12:27:01 GMT"
   },
   {
     "site": "Zenn",
@@ -126,18 +150,6 @@
     "pubDate": "Sun, 19 Apr 2026 05:56:38 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "管理者目線でGitHub Copilotの方が優れていること",
-    "link": "https://zenn.dev/ncdc/articles/ee35ef7974d279",
-    "pubDate": "Sun, 19 Apr 2026 05:13:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GuiguiとGhosttyを組み合わせてターミナルGUIを作ってみた",
-    "link": "https://zenn.dev/rinrin_yuuki/articles/448d45e7df01ee",
-    "pubDate": "Sun, 19 Apr 2026 03:44:11 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "13時間で900万円請求事件の裏側 - AI生成コードが招くAPIキー漏洩を静的解析で止める",
     "link": "https://qiita.com/pythonista0328/items/f9eb8b7fb6a14087df35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,17 +178,5 @@
     "title": "Claude Designでポートフォリオサイトをリデザインしてみた: エンジニアが1時間程度で和モダン化",
     "link": "https://qiita.com/rf_p/items/a8b5929c14367e9dc584?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-18T03:44:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code モデル別に追加耐性テストをしてみた",
-    "link": "https://qiita.com/aito1234/items/11c70a0b2a2362a5c913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-17T13:37:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
-    "link": "https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-17T10:29:09.000Z"
   }
 ]
