@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "【情シス目線】Claude Team を複数社に導入して気づいたこと｜kaze",
+    "link": "https://note.com/kaze3desu/n/n27008d5c87f5",
+    "pubDate": "2026-04-21T03:26:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeでバックオフィス業務のために「back-officeリポジトリ」を作ったほうがいいよ｜すてぃお",
+    "link": "https://note.com/suthio/n/nf03d4f1df801",
+    "pubDate": "2026-04-21T02:12:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "藤棚の写真を撮っていたら、知らないおじさんが「iPhone？矢印押して。フィルターはビビッド、露出は+1.0」とだけ言い残して去っていった「藤棚の妖精かな？」",
+    "link": "https://togetter.com/li/2688218",
+    "pubDate": "2026-04-21T02:07:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ブラウザで Gemini がもっと身近に。Gemini in Chrome を提供開始",
+    "link": "https://blog.google/intl/ja-jp/products/android-chrome-play/gemini-in-chrome/",
+    "pubDate": "2026-04-21T01:46:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ソーシャルエンジニアリング」の裏側を暴く5冊。技術が進歩しても、騙しの構造は変わらない【IPUSIRON】｜レバテックLAB - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_846/",
+    "pubDate": "2026-04-21T01:25:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "登壇スライドを30分で作る：Claude Codeで壁打ちからGoogle Slides生成までワークフロー化 - Findy Tech Blog",
     "link": "https://tech.findy.co.jp/entry/2026/04/21/070000",
     "pubDate": "2026-04-20T23:58:47.000Z"
@@ -19,27 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO",
-    "link": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-    "pubDate": "2026-04-20T21:10:32.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "iPhone11を直す／兄について｜momometro",
     "link": "https://note.com/mmmetro/n/n5be8d79bae66",
     "pubDate": "2026-04-20T13:24:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "3月末で終了した「Jigブラウザ」、累計売上65億円超と明かす",
-    "link": "https://japan.cnet.com/article/35246650/",
-    "pubDate": "2026-04-20T09:24:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIでデザインする「Claude Design」。プロトタイプやプレゼン資料など作成可能",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2102928.html",
-    "pubDate": "2026-04-20T08:42:28.000Z"
   },
   {
     "site": "Qiita",
@@ -60,16 +72,22 @@
     "pubDate": "2026-04-20T04:40:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "LINEヤフー、“日常”に寄り添うAIエージェント「Agent i」開始",
-    "link": "https://www.watch.impress.co.jp/docs/news/2102917.html",
-    "pubDate": "2026-04-20T04:08:26.000Z"
+    "site": "Zenn",
+    "title": "「いきなり作る」前に考えたいCI/CDパイプラインの設計と運用プラクティス",
+    "link": "https://zenn.dev/acntechjp/articles/da229b919d512a",
+    "pubDate": "Mon, 20 Apr 2026 04:10:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Playwright CLI v0.1.8 で普段使いの Chrome にそのまま attach できるようになりました | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/playwright-cli-attach-local-chrome/",
-    "pubDate": "2026-04-20T04:05:23.000Z"
+    "site": "Zenn",
+    "title": "言語化に苦しむ全ての人(エンジニア？)へ。今日から変わるコミュニケーション術補遺",
+    "link": "https://zenn.dev/coconala/articles/9b1d05be257b90",
+    "pubDate": "Mon, 20 Apr 2026 02:20:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【準委任契約ってマジ？】受託アジャイル開発をやって感じた\"開発以外\"について考える",
+    "link": "https://zenn.dev/bussystem_take/articles/2026-03-18-beyond-code-in-contract-agile",
+    "pubDate": "Mon, 20 Apr 2026 00:59:21 GMT"
   },
   {
     "site": "Qiita",
@@ -91,14 +109,14 @@
   },
   {
     "site": "Zenn",
-    "title": "AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話",
-    "link": "https://zenn.dev/tan_go238/articles/002437e923913c",
+    "title": "1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
+    "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
     "pubDate": "Sun, 19 Apr 2026 23:00:07 GMT"
   },
   {
     "site": "Zenn",
-    "title": "1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
-    "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
+    "title": "AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話",
+    "link": "https://zenn.dev/tan_go238/articles/002437e923913c",
     "pubDate": "Sun, 19 Apr 2026 23:00:07 GMT"
   },
   {
@@ -121,33 +139,15 @@
   },
   {
     "site": "Zenn",
+    "title": "AI エージェント並列化で自分の脳が限界になったので Maestri を試した",
+    "link": "https://zenn.dev/youjinfox/articles/bb3facc650adb1",
+    "pubDate": "Sun, 19 Apr 2026 13:52:30 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
     "link": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
     "pubDate": "Sun, 19 Apr 2026 08:04:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルLLM用の簡易版スキルとしてトリガーという機能を考えてみました",
-    "link": "https://zenn.dev/karaage0703/articles/89631872ca5a86",
-    "pubDate": "Sun, 19 Apr 2026 07:51:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Let’s Encryptの短期証明書はかなり厳しいのでARI対応クライアントを使った方がよい",
-    "link": "https://zenn.dev/catatsuy/articles/2ac24bccb4b7d1",
-    "pubDate": "Sun, 19 Apr 2026 07:20:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rust 製の事前コンパイル型 Neovim プラグインマネージャー rvpm を作った",
-    "link": "https://zenn.dev/yukimemi/articles/2026-04-19-rvpm",
-    "pubDate": "Sun, 19 Apr 2026 06:46:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バージョン管理システム Jujutsu",
-    "link": "https://zenn.dev/usamik26/articles/jj-version-control",
-    "pubDate": "Sun, 19 Apr 2026 05:56:38 GMT"
   },
   {
     "site": "Qiita",
