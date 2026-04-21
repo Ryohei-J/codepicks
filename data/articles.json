@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "TimからAppleコミュニティのみなさんへ",
+    "link": "https://www.apple.com/jp/community-letter-from-tim/",
+    "pubDate": "2026-04-21T11:38:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ローカルでAIを動かすための基礎を学べるコンテンツが「とほほのWWW入門」に追加／誰でもできるローカルAI環境の構築方法を解説した「とほほのローカルAI入門」",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2103365.html",
+    "pubDate": "2026-04-21T10:39:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "30年続く伝説の個人サイト『とほほのＷＷＷ入門』管理人に見る、エンジニアの継続力の正体「どうすればやめられるのか知りたい」 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/30854/",
+    "pubDate": "2026-04-21T09:09:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "西武新宿線 ニューレッドアローが観光特急に　大河原邦男デザイン",
+    "link": "https://www.watch.impress.co.jp/docs/news/2103386.html",
+    "pubDate": "2026-04-21T08:25:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「起動直後に広告を出すなよ」──FamiPay仕様に不満　「ユニクロ」に学べの声も",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2604/21/news104.html",
+    "pubDate": "2026-04-21T06:07:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初心者エンジニア向け】開発を前に進めるための行動3選",
+    "link": "https://qiita.com/masa20057/items/acc90d24eb083dba9462?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-21T03:58:05.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【情シス目線】Claude Team を複数社に導入して気づいたこと｜kaze",
     "link": "https://note.com/kaze3desu/n/n27008d5c87f5",
     "pubDate": "2026-04-21T03:26:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeユーザーのためのプロンプトキャッシュ入門",
+    "link": "https://zenn.dev/lv/articles/302bf552110e67",
+    "pubDate": "Tue, 21 Apr 2026 02:51:31 GMT"
   },
   {
     "site": "Hatena",
@@ -30,28 +72,28 @@
     "pubDate": "2026-04-21T01:25:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "登壇スライドを30分で作る：Claude Codeで壁打ちからGoogle Slides生成までワークフロー化 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2026/04/21/070000",
-    "pubDate": "2026-04-20T23:58:47.000Z"
+    "site": "Zenn",
+    "title": "AIスクラムチームは嘘をつく",
+    "link": "https://zenn.dev/microsoft/articles/2a952ed44e3873",
+    "pubDate": "Mon, 20 Apr 2026 23:15:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【Copilot】レポート作成の常識が激変…GPTとClaudeの「合わせ技」が想像を超えた",
-    "link": "https://www.sbbit.jp/article/cont1/184362",
-    "pubDate": "2026-04-20T22:26:17.000Z"
+    "site": "Qiita",
+    "title": "n8nで植物の水やりリマインドBOTを作ってみた（Discord連携）",
+    "link": "https://qiita.com/wan-code/items/baae3ea02fb98f642ba8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-20T09:55:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Appleのティム・クックCEO退任、15年ぶりトップ交代　後任にジョン・ターナス氏 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN210250R20C26A4000000/",
-    "pubDate": "2026-04-20T21:30:33.000Z"
+    "site": "Qiita",
+    "title": "Claude Codeを使って分かった「開発で詰まるポイントの正体」",
+    "link": "https://qiita.com/aito1234/items/e303cf4765c8d75b61fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-20T09:19:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "iPhone11を直す／兄について｜momometro",
-    "link": "https://note.com/mmmetro/n/n5be8d79bae66",
-    "pubDate": "2026-04-20T13:24:53.000Z"
+    "site": "Qiita",
+    "title": "関数型インターフェース入門 — Function / Predicate / Consumer / Supplier を整理する",
+    "link": "https://qiita.com/S_kamon/items/d4df15743c952e7af31d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-20T08:23:01.000Z"
   },
   {
     "site": "Qiita",
@@ -64,12 +106,6 @@
     "title": "一人で悩み続けてしまう新人エンジニアへ。その時間、無駄かもしれません。",
     "link": "https://qiita.com/hitomin_poke/items/9d91ff5ad51001237a02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-20T05:28:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[TypeScriptシリーズ - Part 1] Conditional Types & infer",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/c4553f452d8457f86060?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-20T04:40:52.000Z"
   },
   {
     "site": "Zenn",
@@ -91,12 +127,6 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました - Qiita",
-    "link": "https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029",
-    "pubDate": "2026-04-19T23:42:22.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude Code × MagicPod MCPでテストケースメンテナンスレビューを自動化してみた",
     "link": "https://qiita.com/s-yoshina/items/321a031ece6bc9c3b460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-19T23:42:15.000Z"
@@ -109,14 +139,20 @@
   },
   {
     "site": "Zenn",
-    "title": "1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
-    "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
-    "pubDate": "Sun, 19 Apr 2026 23:00:07 GMT"
+    "title": "デザインシステムに「顧客」はいたか？ 陥りがちな神話と、リードエンジニアが挑む真のUI/UX再構築",
+    "link": "https://zenn.dev/jinjer_techblog/articles/135644892e77c5",
+    "pubDate": "Sun, 19 Apr 2026 23:30:05 GMT"
   },
   {
     "site": "Zenn",
     "title": "AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話",
     "link": "https://zenn.dev/tan_go238/articles/002437e923913c",
+    "pubDate": "Sun, 19 Apr 2026 23:00:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
+    "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
     "pubDate": "Sun, 19 Apr 2026 23:00:07 GMT"
   },
   {
@@ -132,30 +168,6 @@
     "pubDate": "Sun, 19 Apr 2026 22:29:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ブラウザで日本語入力中にIMEが勝手に切り替わると思ったらNeovimのLSPが原因だった",
-    "link": "https://zenn.dev/ultimatile/articles/neovim-lsp-ime-switch-autocmd-conflict",
-    "pubDate": "Sun, 19 Apr 2026 14:55:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI エージェント並列化で自分の脳が限界になったので Maestri を試した",
-    "link": "https://zenn.dev/youjinfox/articles/bb3facc650adb1",
-    "pubDate": "Sun, 19 Apr 2026 13:52:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
-    "link": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
-    "pubDate": "Sun, 19 Apr 2026 08:04:42 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "13時間で900万円請求事件の裏側 - AI生成コードが招くAPIキー漏洩を静的解析で止める",
-    "link": "https://qiita.com/pythonista0328/items/f9eb8b7fb6a14087df35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-18T19:52:42.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開",
     "link": "https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,17 +178,5 @@
     "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
     "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-18T09:17:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Chrome DevTools MCP の全ツールをまとめて理解する",
-    "link": "https://qiita.com/softbase/items/fe445a318846fd6a364d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-18T06:59:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Designでポートフォリオサイトをリデザインしてみた: エンジニアが1時間程度で和モダン化",
-    "link": "https://qiita.com/rf_p/items/a8b5929c14367e9dc584?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-18T03:44:23.000Z"
   }
 ]
