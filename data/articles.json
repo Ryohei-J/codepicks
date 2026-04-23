@@ -1,9 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "ソフトウェア唯識論",
+    "link": "https://zenn.dev/kawasima/books/software-yogacara",
+    "pubDate": "2026-04-23T09:24:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ソフトウェア唯識論",
+    "link": "https://zenn.dev/kawasima/books/software-yogacara",
+    "pubDate": "Thu, 23 Apr 2026 08:29:13 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "高騰するメモリ(RAM)を自宅の裏庭で一から自作する方法",
+    "link": "https://gigazine.net/news/20260423-make-ram-at-my-home/",
+    "pubDate": "2026-04-23T08:20:57.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "あのイルカが20年ぶりに復活 生成AIで質問に回答 | NHKニュース",
     "link": "https://news.web.nhk/newsweb/na/na-k10015106271000",
     "pubDate": "2026-04-23T04:59:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大AIエージェント時代！AG-UI準拠でアプリを構築する - Taste of Tech Topics",
+    "link": "https://acro-engineer.hatenablog.com/entry/2026/04/23/120000",
+    "pubDate": "2026-04-23T03:31:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初心者エンジニア向け】開発業務の視野を広げる運用のはなし",
+    "link": "https://qiita.com/masa20057/items/5144c0d01539ccd6a881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-23T03:31:49.000Z"
   },
   {
     "site": "Hatena",
@@ -54,16 +84,22 @@
     "pubDate": "2026-04-22T17:44:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開",
-    "link": "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
-    "pubDate": "2026-04-22T17:15:01.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "PMP（Project Management Professional）を取ろうとしている人に読んでほしい、PMPの話",
     "link": "https://zenn.dev/acntechjp/articles/8c99076b93d621",
     "pubDate": "Wed, 22 Apr 2026 16:39:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code のスキルを「中央集権しない」で配る、chezmoi dotfiles スターターキット",
+    "link": "https://qiita.com/kamo-shika/items/6c4e74972eeb0d1a6fb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-22T13:32:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeを24時間常駐させる自宅ホームラボを月500円で運用している話(Ubuntu + Tailscale + tmux)",
+    "link": "https://zenn.dev/marvelousu/articles/claude-code-homelab",
+    "pubDate": "Wed, 22 Apr 2026 12:52:36 GMT"
   },
   {
     "site": "Zenn",
@@ -72,16 +108,16 @@
     "pubDate": "Wed, 22 Apr 2026 12:43:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "［速報］Google、AIエージェントをローコードで作れる「Agent Studio」含むAIエージェント基盤「Gemini Enterprise Agent Platform」発表",
-    "link": "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
-    "pubDate": "2026-04-22T12:05:20.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "優秀なAI専門チームと爆速で高品質に仕上げる要件定義 — PMのためのClaude Code × AIエージェント実践ガイド",
     "link": "https://zenn.dev/medirom_tech/articles/c8d422b940fa6d",
     "pubDate": "Wed, 22 Apr 2026 10:00:43 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【n8n】Google Driveに画像を置くだけで自動リサイズ（1280×720）するワークフロー",
+    "link": "https://qiita.com/wan-code/items/a47924c1d3d5eb58cd2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-22T09:57:07.000Z"
   },
   {
     "site": "Zenn",
@@ -94,6 +130,12 @@
     "title": "Next.js を SSG 化しようとして、最終的に React SPA に落ち着いた理由",
     "link": "https://zenn.dev/ctag/articles/nextjs-ssg-to-react-spa-on-cloudflare",
     "pubDate": "Wed, 22 Apr 2026 09:05:34 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "KotlinのNull安全をJavaのOptionalと比較して理解する",
+    "link": "https://qiita.com/S_kamon/items/a63e0a8ba2f1eeca8357?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-22T08:46:52.000Z"
   },
   {
     "site": "Qiita",
@@ -114,12 +156,6 @@
     "pubDate": "2026-04-22T04:09:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ハーネスエンジニアリングの概要と設計思想",
-    "link": "https://speakerdeck.com/sergicalsix/hanesuenziniaringunogai-yao-toshe-ji-si-xiang",
-    "pubDate": "2026-04-22T03:57:48.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Oracle Exadata@AWS を作成してみてみた",
     "link": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -132,18 +168,6 @@
     "pubDate": "Tue, 21 Apr 2026 23:00:08 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "App Store に配布したアプリのみクラッシュした",
-    "link": "https://zenn.dev/knee/articles/cecb8537dce4e3",
-    "pubDate": "Tue, 21 Apr 2026 16:09:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "C# 開発者のための GitHub Copilot CLI と VS Code Agent Mode の使い分け",
-    "link": "https://zenn.dev/tomokusaba/articles/838cdac8d71e52",
-    "pubDate": "Tue, 21 Apr 2026 11:10:20 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
     "link": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -151,32 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
-    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-21T06:32:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者エンジニア向け】開発を前に進めるための行動3選",
-    "link": "https://qiita.com/masa20057/items/acc90d24eb083dba9462?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-21T03:58:05.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude Codeで開発を自動化するSkills 5選",
     "link": "https://qiita.com/kamome_susume/items/3b9b18e7e54f15721837?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-20T09:23:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Obsidian】作図が簡単にできるプラグイン「Excalidraw」の紹介",
-    "link": "https://qiita.com/shibuya-ys/items/fb94b54ef5f9a7df59fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-20T01:16:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeの利用状況をチームで可視化するダッシュボードをOSSで公開しました",
-    "link": "https://qiita.com/tamepicomaru/items/8f9b238ae28e380e6029?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-19T22:05:49.000Z"
   }
 ]
