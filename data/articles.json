@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "サイバー攻撃疑いの市立奈良病院、初動対応に成功で「感染・漏えいなし」　通常診療再開",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/24/news069.html",
-    "pubDate": "2026-04-23T23:48:40.000Z"
+    "title": "AIがたった12時間で「CPU」を完全設計。219語の仕様書から製造データを出力した新技術の衝撃 | XenoSpectrum",
+    "link": "https://xenospectrum.com/ai-autonomous-agent-designs-risc-v-cpu-in-12-hours-verkor/",
+    "pubDate": "2026-04-24T03:46:49.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Pausing new self-serve signups for GitHub Copilot Business - GitHub Changelog",
-    "link": "https://github.blog/changelog/2026-04-22-pausing-new-self-serve-signups-for-github-copilot-business/",
-    "pubDate": "2026-04-23T23:42:58.000Z"
+    "title": "Amazonでおもちゃの剣を買ったら、届いたのは紙風船だった…筆者も引っ掛かった「別商品発送型詐欺」の手口【読めば身に付くネットリテラシー】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2103306.html",
+    "pubDate": "2026-04-24T03:13:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeの1カ月にわたる品質低下を公式が認め、原因を公表",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2104320.html",
+    "pubDate": "2026-04-24T02:44:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "サイバー攻撃疑いの市立奈良病院、初動対応に成功で「感染・漏えいなし」　通常診療再開",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/24/news069.html",
+    "pubDate": "2026-04-23T23:48:40.000Z"
   },
   {
     "site": "Zenn",
@@ -24,10 +36,10 @@
     "pubDate": "2026-04-23T22:10:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "An update on recent Claude Code quality reports",
-    "link": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "pubDate": "2026-04-23T18:06:11.000Z"
+    "site": "Zenn",
+    "title": "なぜ、2000年代には巷で耳にした「UML」を現在では全く耳にしないのか？",
+    "link": "https://zenn.dev/pdfractal/articles/b6f83bbc319501",
+    "pubDate": "2026-04-23T20:51:15.000Z"
   },
   {
     "site": "Hatena",
@@ -55,15 +67,27 @@
   },
   {
     "site": "Zenn",
+    "title": "現地速報！ RubyKaigi 2026 Day2",
+    "link": "https://zenn.dev/bloomo_tech/articles/057ab51d2e270a",
+    "pubDate": "Thu, 23 Apr 2026 09:01:48 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ソフトウェア唯識論",
     "link": "https://zenn.dev/kawasima/books/software-yogacara",
     "pubDate": "Thu, 23 Apr 2026 08:29:13 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub - YouMind-OpenLab/awesome-gpt-image-2: 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.",
-    "link": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
-    "pubDate": "2026-04-23T04:13:36.000Z"
+    "site": "Zenn",
+    "title": "幾何ブラウン運動(GBM)の解の一意生と存在性について。なぜグラフがかけるのか",
+    "link": "https://zenn.dev/kouno_yuuki_sde/articles/6ca4e362b559e1",
+    "pubDate": "Thu, 23 Apr 2026 05:57:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【DaVinci Resolve】マクロをスクリプトで生成する",
+    "link": "https://zenn.dev/hitsugi_yukana/articles/dvr_create_macro",
+    "pubDate": "Thu, 23 Apr 2026 05:40:12 GMT"
   },
   {
     "site": "Zenn",
@@ -76,12 +100,6 @@
     "title": "【初心者エンジニア向け】開発業務の視野を広げる運用のはなし",
     "link": "https://qiita.com/masa20057/items/5144c0d01539ccd6a881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-23T03:31:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Flipbook",
-    "link": "https://flipbook.page/",
-    "pubDate": "2026-04-23T01:45:59.000Z"
   },
   {
     "site": "Zenn",
@@ -120,28 +138,10 @@
     "pubDate": "Wed, 22 Apr 2026 12:52:36 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Upcoming Features ざっくりまとめ @ Swift6.3",
-    "link": "https://zenn.dev/ryomm/articles/829f21a6e24e05",
-    "pubDate": "Wed, 22 Apr 2026 12:43:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "優秀なAI専門チームと爆速で高品質に仕上げる要件定義 — PMのためのClaude Code × AIエージェント実践ガイド",
-    "link": "https://zenn.dev/medirom_tech/articles/c8d422b940fa6d",
-    "pubDate": "Wed, 22 Apr 2026 10:00:43 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【n8n】Google Driveに画像を置くだけで自動リサイズ（1280×720）するワークフロー",
     "link": "https://qiita.com/wan-code/items/a47924c1d3d5eb58cd2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-22T09:57:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go 1.24からのTLS、気づかぬうちにPQC(耐量子暗号)で動いてるらしい",
-    "link": "https://zenn.dev/kimifan/articles/pqc-kuwashii",
-    "pubDate": "Wed, 22 Apr 2026 09:23:01 GMT"
   },
   {
     "site": "Qiita",
