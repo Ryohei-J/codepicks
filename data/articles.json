@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "在日バングラデシュ人が「日本に入国してしまえばどうにでも働ける（不法滞在の勧め）」といった様な事を述べたというのは、AI翻訳による嘘だよ - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2026/04/25/000000",
-    "pubDate": "2026-04-24T15:31:11.000Z"
+    "title": "「AIが作った戒名でいいじゃん」という提案で、母の戒名は寿司屋でGeminiが作ったものに決まりました",
+    "link": "https://togetter.com/li/2689530",
+    "pubDate": "2026-04-25T03:00:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ハーネスエンジニアリングとは？",
+    "link": "https://speakerdeck.com/kinopeee/hanesuenziniaringutoha",
+    "pubDate": "2026-04-25T02:06:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Metaが、社員の1割である8,000人をクビにすると発表したが、残った社員のパソコンに、新しいソフトを入れ始め、社員のマウスやキーボードの動きを記録し、画面の中身も、ときどきスクショで取り、AIに学習させていた",
+    "link": "https://posfie.com/@taimport/p/QwtRbJO",
+    "pubDate": "2026-04-25T01:56:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米メタ、社員のパソコン操作データを強制収集　AI開発に利用 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN22D3F0S6A420C2000000/",
+    "pubDate": "2026-04-24T23:00:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIコードレビューに\"ディフェンス\"を入れたら、指摘の質が変わった",
+    "link": "https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer",
+    "pubDate": "Fri, 24 Apr 2026 15:24:54 GMT"
   },
   {
     "site": "Zenn",
@@ -18,28 +42,10 @@
     "pubDate": "2026-04-24T12:53:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "はてな、11億円の資金流出　振り込め詐欺か",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
-    "pubDate": "2026-04-24T12:09:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code と二人七脚 DB 設計",
     "link": "https://zenn.dev/techtrain_blog/articles/0991bc406b58e2",
     "pubDate": "Fri, 24 Apr 2026 12:06:07 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「FILCO」「Majestouch」のダイヤテックが閉業",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2104643.html",
-    "pubDate": "2026-04-24T11:44:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "内閣官房から指名停止のIPA、再委託先デロイト傘下の不正な行為見つける",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11698/",
-    "pubDate": "2026-04-24T11:36:07.000Z"
   },
   {
     "site": "Hatena",
@@ -49,9 +55,21 @@
   },
   {
     "site": "Zenn",
+    "title": "【renue】社員全員でClaude Codeを使い、自社のデモECをハッキングしてみた",
+    "link": "https://zenn.dev/renue/articles/4687cb5e5c0031",
+    "pubDate": "Fri, 24 Apr 2026 09:03:39 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "anyhowとthiserrorの内部実装を覗いてみる",
     "link": "https://zenn.dev/uniquevision/articles/f2b75b4109ea14",
     "pubDate": "Fri, 24 Apr 2026 09:01:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "VS Code 拡張機能の Webview での描画性能をテトリスで検証してみた",
+    "link": "https://zenn.dev/nttdata_tech/articles/15290f101cacd2",
+    "pubDate": "Fri, 24 Apr 2026 08:34:33 GMT"
   },
   {
     "site": "Qiita",
@@ -66,10 +84,22 @@
     "pubDate": "2026-04-24T08:15:16.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Anthropicの3エージェントハーネスをRailsに取り入れる",
+    "link": "https://zenn.dev/dely_jp/articles/a45bc3a9e69ab1",
+    "pubDate": "Fri, 24 Apr 2026 07:50:06 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと - Qiita",
     "link": "https://qiita.com/ot12/items/06420caf41a34a910c53",
     "pubDate": "2026-04-24T07:35:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GeminiやChatGPTで画像生成できる時代に、わざわざローカルで動かす理由",
+    "link": "https://zenn.dev/acntechjp/articles/a7c12b3114f56a",
+    "pubDate": "Fri, 24 Apr 2026 06:45:41 GMT"
   },
   {
     "site": "Qiita",
@@ -82,12 +112,6 @@
     "title": "[Frontend Performance - Part 7] Long Task を分解する：なぜ50msがUXを壊すのか？",
     "link": "https://qiita.com/tuanphan/items/ce891e246da988d07f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-24T03:18:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【設計】実録！本当にあった呆れたWebアプリたち",
-    "link": "https://zenn.dev/noranuko13/articles/b9f1b0fb93ce5f",
-    "pubDate": "Fri, 24 Apr 2026 03:03:05 GMT"
   },
   {
     "site": "Hatena",
@@ -126,34 +150,10 @@
     "pubDate": "Thu, 23 Apr 2026 23:00:07 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Managed Agents、ハンズオンでぜんぶ教えたるで｜CLI×Web 2本立てで3層アーキテクチャ完全攻略",
-    "link": "https://zenn.dev/masayan1126/books/claude-managed-agents-handson",
-    "pubDate": "Thu, 23 Apr 2026 22:30:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ、2000年代には巷で耳にした「UML」を現在では全く耳にしないのか？",
-    "link": "https://zenn.dev/pdfractal/articles/b6f83bbc319501",
-    "pubDate": "Thu, 23 Apr 2026 10:53:36 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）",
     "link": "https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-23T09:56:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "人間が寝ている間にClaude CodeがPlaywrightのE2Eテストを直してPRを出す",
-    "link": "https://zenn.dev/yuden/articles/playwright-auto-heal-claude-code",
-    "pubDate": "Thu, 23 Apr 2026 08:34:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ソフトウェア唯識論",
-    "link": "https://zenn.dev/kawasima/books/software-yogacara",
-    "pubDate": "Thu, 23 Apr 2026 08:29:13 GMT"
   },
   {
     "site": "Qiita",
