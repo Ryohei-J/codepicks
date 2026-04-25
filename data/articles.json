@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "FILCOブランドを展開していたダイヤテックが閉業、「Majestouch」キーボードなどを手掛けた老舗",
-    "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2104663.html",
-    "pubDate": "2026-04-24T12:34:19.000Z"
+    "title": "在日バングラデシュ人が「日本に入国してしまえばどうにでも働ける（不法滞在の勧め）」といった様な事を述べたというのは、AI翻訳による嘘だよ - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2026/04/25/000000",
+    "pubDate": "2026-04-24T15:31:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code と二人七脚 DB 設計",
+    "link": "https://zenn.dev/techtrain_blog/articles/0991bc406b58e2",
+    "pubDate": "2026-04-24T13:07:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「プログラマー不要論」にThe Linux Foundationが示した答え",
+    "link": "https://techtarget.itmedia.co.jp/tt/news/2604/24/news09.html",
+    "pubDate": "2026-04-24T12:53:37.000Z"
   },
   {
     "site": "Hatena",
     "title": "はてな、11億円の資金流出　振り込め詐欺か",
     "link": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
     "pubDate": "2026-04-24T12:09:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code と二人七脚 DB 設計",
+    "link": "https://zenn.dev/techtrain_blog/articles/0991bc406b58e2",
+    "pubDate": "Fri, 24 Apr 2026 12:06:07 GMT"
   },
   {
     "site": "Hatena",
@@ -25,39 +43,45 @@
   },
   {
     "site": "Hatena",
-    "title": "〇〇の人と言われたくて〇〇の人になった",
-    "link": "https://anond.hatelabo.jp/20260424185818",
-    "pubDate": "2026-04-24T09:58:49.000Z"
+    "title": "ハーネスエンジニアリングの実践は \"Thin\"と\"Self-healing\" へ｜Seiji Takahashi@ベースマキナ",
+    "link": "https://note.com/timakin/n/nf08e5c07f86f",
+    "pubDate": "2026-04-24T10:39:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "anyhowとthiserrorの内部実装を覗いてみる",
+    "link": "https://zenn.dev/uniquevision/articles/f2b75b4109ea14",
+    "pubDate": "Fri, 24 Apr 2026 09:01:57 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "プッシュ通知の許可フロー設計 ― ブラウザやデバイスごとの違いと実装パターン",
+    "link": "https://qiita.com/Katsushi21/items/9c5fff6f00bcd03b3370?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-24T08:26:56.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【重要】弊社システムへの不正アクセスによる個人情報漏えいの可能性に関するお詫びとご報告",
-    "link": "https://campfire.co.jp/press/2026/04/24/campfire/",
-    "pubDate": "2026-04-24T09:23:46.000Z"
+    "title": "高卒マック店員から32歳で米マイクロソフトのプリンシパルになれた理由「信頼は貯金せず、再投資せよ」 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/30852/",
+    "pubDate": "2026-04-24T08:15:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "セキュリティ監査は死んだ｜gohan",
-    "link": "https://note.com/grandchildrice/n/n871088ba195f",
-    "pubDate": "2026-04-24T08:14:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "How LLMs Work — A Visual Deep Dive",
-    "link": "https://ynarwal.github.io/how-llms-work/",
-    "pubDate": "2026-04-24T08:09:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "政府AI「源内」オープンソース化　GitHubで公開、商用利用もOK　民間と共創へ",
-    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news103.html",
-    "pubDate": "2026-04-24T07:31:27.000Z"
+    "site": "Qiita",
+    "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと - Qiita",
+    "link": "https://qiita.com/ot12/items/06420caf41a34a910c53",
+    "pubDate": "2026-04-24T07:35:57.000Z"
   },
   {
     "site": "Qiita",
     "title": "prisma migrate resolveを使ってRails+Prismaのマイグレーションを共存させる",
     "link": "https://qiita.com/tatsuya582/items/fc215131805b7523c20b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-24T04:06:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "[Frontend Performance - Part 7] Long Task を分解する：なぜ50msがUXを壊すのか？",
+    "link": "https://qiita.com/tuanphan/items/ce891e246da988d07f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-24T03:18:16.000Z"
   },
   {
     "site": "Zenn",
@@ -67,21 +91,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「LAMY safari」×「クルトガ」はシャープペンのひとつの到達点かもしれない【文具知新】",
-    "link": "https://www.watch.impress.co.jp/docs/series/yoshimura/2102135.html",
-    "pubDate": "2026-04-24T01:36:37.000Z"
+    "title": "Opus 4.6に迫るコーディング性能のAI「MiniMax M2.7」がオープン化、日本語セリフが得意で商用利用OKなローカル画像生成AI「ERNIE-Image」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/04/24/5020.html",
+    "pubDate": "2026-04-24T01:59:19.000Z"
   },
   {
     "site": "Qiita",
     "title": "AIがCTOみたいに計画から実装まで進めてくれた話",
     "link": "https://qiita.com/KNR109/items/17aba9efc0de7ceff040?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-24T01:29:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Mujocoにおけるモータ同定(cybergear)",
-    "link": "https://zenn.dev/hossyan/articles/2406675c7d76a3",
-    "pubDate": "Fri, 24 Apr 2026 01:00:40 GMT"
   },
   {
     "site": "Qiita",
@@ -97,6 +115,12 @@
   },
   {
     "site": "Zenn",
+    "title": "AIの成果物に責任を取る方法",
+    "link": "https://zenn.dev/headwaters/articles/68de421c45931b",
+    "pubDate": "Thu, 23 Apr 2026 23:40:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "技術同人誌を作る技術",
     "link": "https://zenn.dev/tokium_dev/articles/techbookfest20-making-of",
     "pubDate": "Thu, 23 Apr 2026 23:00:07 GMT"
@@ -109,15 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Laravel Boost でユーザーハーネス整備を効率化",
-    "link": "https://zenn.dev/aun_phonogram/articles/0f90d52f66508f",
-    "pubDate": "Thu, 23 Apr 2026 22:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【超速報】エージェント、本番へ。Google Cloud Next '26 ラスベガス 1日目参加レポート",
-    "link": "https://zenn.dev/mbk_digital/articles/0b04152f08658f",
-    "pubDate": "Thu, 23 Apr 2026 14:38:56 GMT"
+    "title": "なぜ、2000年代には巷で耳にした「UML」を現在では全く耳にしないのか？",
+    "link": "https://zenn.dev/pdfractal/articles/b6f83bbc319501",
+    "pubDate": "Thu, 23 Apr 2026 10:53:36 GMT"
   },
   {
     "site": "Qiita",
@@ -126,10 +144,10 @@
     "pubDate": "2026-04-23T09:56:20.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "[Frontend Performance - Part 6] メインスレッドとブロッキング：なぜUIは止まるのか",
-    "link": "https://qiita.com/tuanphan/items/20fe25fc0cda3137dba2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-23T09:38:37.000Z"
+    "site": "Zenn",
+    "title": "人間が寝ている間にClaude CodeがPlaywrightのE2Eテストを直してPRを出す",
+    "link": "https://zenn.dev/yuden/articles/playwright-auto-heal-claude-code",
+    "pubDate": "Thu, 23 Apr 2026 08:34:33 GMT"
   },
   {
     "site": "Zenn",
@@ -142,18 +160,6 @@
     "title": "【初心者エンジニア向け】開発業務の視野を広げる運用のはなし",
     "link": "https://qiita.com/masa20057/items/5144c0d01539ccd6a881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-23T03:31:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cursorのモデル選択UIをちゃんと理解する",
-    "link": "https://zenn.dev/knowledgework/articles/f41bdc6ac95b1d",
-    "pubDate": "Thu, 23 Apr 2026 03:23:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js (Turbopack) のバンドルサイズを元の半分まで削減した話",
-    "link": "https://zenn.dev/aldagram_tech/articles/nextjs-bundle-size-reduction",
-    "pubDate": "Thu, 23 Apr 2026 00:00:13 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Neovim で最高の Markdown ビューワーを作る - md-render.nvim",
     "link": "https://qiita.com/delphinus/items/7dab609ef95bf030f217?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-21T23:06:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【徹底解説】DBスペシャリストなりぞこないが教える、データベースの教科書（設計もあるよ）",
-    "link": "https://qiita.com/miruky/items/f67bd754c1f7a5116a7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-21T08:12:46.000Z"
   }
 ]
