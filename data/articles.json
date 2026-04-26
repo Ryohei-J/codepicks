@@ -1,21 +1,33 @@
 [
   {
+    "site": "Qiita",
+    "title": "個人的にjQuery メソッドチートシートまとめた",
+    "link": "https://qiita.com/ryo_sh/items/4a1c1f97932e190db333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-26T03:14:25.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「Python一択ではなくなった」　AIコーディング時代、新人が学んで損しないプログラミング言語は？",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/26/news009.html",
     "pubDate": "2026-04-26T03:03:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OWASP ZAP の finding を Rust/Axum の handler に戻して直す - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2026/04/23/195535",
-    "pubDate": "2026-04-26T01:33:01.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
     "link": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
     "pubDate": "2026-04-25T23:44:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude CodeのVSCode拡張が使いやすいよ - Qiita",
+    "link": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04",
+    "pubDate": "2026-04-25T23:05:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code の設定を Codex にどう対応づけるか",
+    "link": "https://zenn.dev/ryok/articles/claude-code-to-codex-settings",
+    "pubDate": "Sat, 25 Apr 2026 20:11:29 GMT"
   },
   {
     "site": "Zenn",
@@ -36,10 +48,40 @@
     "pubDate": "Sat, 25 Apr 2026 18:32:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Gemini の Gem で 社内 GoogleDrive のチャットボットを作成 | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/gemini-gem-googledrive-chatbot/",
-    "pubDate": "2026-04-25T13:25:33.000Z"
+    "site": "Zenn",
+    "title": "ルールベースでファイルや URL を届ける Rust 製ディスパッチャ todoke を作った",
+    "link": "https://zenn.dev/yukimemi/articles/2026-04-25-todoke",
+    "pubDate": "Sat, 25 Apr 2026 16:10:58 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude CodeのVSCode拡張が使いやすいよ",
+    "link": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-25T15:39:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "探索的テストを進めてくれるAIエージェントを作った",
+    "link": "https://zenn.dev/k_sak/articles/b45763b0cb9434",
+    "pubDate": "Sat, 25 Apr 2026 15:05:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【UE5】NOVA Shaderをチェックしてみる！",
+    "link": "https://zenn.dev/kurie/articles/ace2155fe11215",
+    "pubDate": "Sat, 25 Apr 2026 15:00:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RubyKaigi2026に行ってきました！",
+    "link": "https://zenn.dev/chihaso/articles/6ffd910ea00079",
+    "pubDate": "Sat, 25 Apr 2026 13:55:57 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Direct LiNGAM の原理",
+    "link": "https://qiita.com/bob3bob3/items/d6fb667ae15d51ce8040?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-25T13:43:56.000Z"
   },
   {
     "site": "Zenn",
@@ -48,82 +90,40 @@
     "pubDate": "Sat, 25 Apr 2026 13:16:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ブロックされた時に「効いてて草」って勝ち誇っている人間は、周りからはこう見えている",
-    "link": "https://posfie.com/@golden_haniwa/p/iGD9Gf4",
-    "pubDate": "2026-04-25T12:12:00.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "最近使っている GitHub Copilot CLI + .NET 向けのカスタムエージェントとスキル",
     "link": "https://zenn.dev/microsoft/articles/github-copilot-dotnet-project",
     "pubDate": "Sat, 25 Apr 2026 10:45:03 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeより安く開発できるOpenCodeを使ってみよう",
-    "link": "https://zenn.dev/xxishan/articles/9cb47819f835fa",
-    "pubDate": "Sat, 25 Apr 2026 07:00:17 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "3社そろい踏みの「Starlink Direct」　料金で仕掛けるドコモとソフトバンク、先行するKDDIは“サービス”で差別化",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2604/25/news025.html",
-    "pubDate": "2026-04-25T05:55:32.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "同じ Issue を Claude・Codex・Gemini に同時に解かせるとどうなるか — git worktree × tmux で衝突しない並列 AI 開発",
-    "link": "https://qiita.com/nogataka/items/1156e2d3a40c4dab3398?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-25T03:41:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "gpt-image-2でUIを量産する実務プロンプトテンプレート集：ダッシュボード／LP／モバイル／ロゴ／スライドの5パターン",
-    "link": "https://qiita.com/nogataka/items/fed4cba1439d0073f2d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-25T02:54:24.000Z"
+    "title": "VOICEVOX EngineとLambda Web Adapterでサーバレスずんだもんを開発した話",
+    "link": "https://qiita.com/nasuvitz/items/7c5a21c55c449dde13aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-25T08:57:28.000Z"
   },
   {
     "site": "Zenn",
-    "title": "agents-cliの中身を見てみよう",
-    "link": "https://zenn.dev/makocchan/articles/whats_agents_cli",
-    "pubDate": "Sat, 25 Apr 2026 00:19:15 GMT"
+    "title": "Claude Code Hooks基礎編、活用事例と設定ぜんぶ見せるで",
+    "link": "https://zenn.dev/masayan1126/books/claude-code-hooks-basic",
+    "pubDate": "Sat, 25 Apr 2026 07:23:53 GMT"
   },
   {
     "site": "Zenn",
     "title": "ターミナルで動く開発モニタをRustで作った — Ratatuiで実用TUIを作って見えた5つの設計課題とその解き方",
     "link": "https://zenn.dev/okamyuji/articles/ratatui-real-world-tui-design-patterns",
-    "pubDate": "Fri, 24 Apr 2026 22:19:53 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - h4ckf0r0day/obscura: The headless browser for AI agents and web scraping",
-    "link": "https://github.com/h4ckf0r0day/obscura",
-    "pubDate": "2026-04-24T22:10:26.000Z"
+    "pubDate": "2026-04-25T03:29:14.000Z"
   },
   {
     "site": "Zenn",
-    "title": "AIレビューの「で、これ合ってんの？」を減らす",
-    "link": "https://zenn.dev/nka21/articles/claude-code-multi-agent-reviewer",
-    "pubDate": "Fri, 24 Apr 2026 15:24:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code と二人七脚 DB 設計",
-    "link": "https://zenn.dev/techtrain_blog/articles/0991bc406b58e2",
-    "pubDate": "Fri, 24 Apr 2026 12:06:07 GMT"
+    "title": "Claude Code プラグインおすすめ 2026 — 公式マーケットプレイスから入れるべきプラグイン & MCP サーバー",
+    "link": "https://zenn.dev/ino_h/articles/2026-04-23-claude-code-plugins-ranking",
+    "pubDate": "2026-04-24T21:57:36.000Z"
   },
   {
     "site": "Qiita",
-    "title": "n8n × MacroDroid × LINEで「今から帰る」をワンタップ通知する仕組みを作った",
-    "link": "https://qiita.com/wan-code/items/e83414089713891df1a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-24T09:58:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【renue】社員全員でClaude Codeを使い、自社のデモECをハッキングしてみた",
-    "link": "https://zenn.dev/renue/articles/4687cb5e5c0031",
-    "pubDate": "Fri, 24 Apr 2026 09:03:39 GMT"
+    "title": "PDF4LLM：LLM前処理ドキュメント処理レイヤー",
+    "link": "https://qiita.com/jamie-lemon/items/1b4a5c771cd8c1638915?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-24T15:05:26.000Z"
   },
   {
     "site": "Qiita",
@@ -151,21 +151,21 @@
   },
   {
     "site": "Qiita",
-    "title": "n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）",
-    "link": "https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-23T09:56:20.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
     "link": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-23T08:57:32.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【2026年4月最新】Google Cloud 認定「全冠」達成まとめ 〜今だけ15冠〜",
-    "link": "https://qiita.com/tomokoro/items/eebc8142a85c80873028?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-23T04:03:39.000Z"
+    "site": "Zenn",
+    "title": "インフラ設定は「人の目」に頼るな──Policy as CodeでCIを番人にした話",
+    "link": "https://zenn.dev/solwat/articles/47b7cbdfd03c66",
+    "pubDate": "2026-04-20T00:32:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Rate Limiting Strategies with Valkey/Redis",
+    "link": "https://www.percona.com/blog/rate-limiting-strategies-with-valkey-redis/",
+    "pubDate": "2026-03-19T04:28:05.000Z"
   },
   {
     "site": "Zenn",
