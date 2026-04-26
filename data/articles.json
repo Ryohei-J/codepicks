@@ -1,21 +1,39 @@
 [
   {
+    "site": "Hatena",
+    "title": "Claude Code を安全に使おう勉強会 / Claude Code Security Basics",
+    "link": "https://speakerdeck.com/masahirokawahara/claude-code-security-basics",
+    "pubDate": "2026-04-26T13:10:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PdMの仕事の半分は、AIに奪われた。残り半分で、私は病院に通い始めた｜oyamadashokiti",
+    "link": "https://note.com/oyamadashokiti/n/nb28796592d38",
+    "pubDate": "2026-04-26T11:14:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "200万行のテーブルにDDLを打つ前に知りたかったこと",
+    "link": "https://zenn.dev/shinagawa_web/articles/pm-saas-migration-risks",
+    "pubDate": "2026-04-26T09:46:06.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "個人的にjQuery メソッドチートシートまとめた",
     "link": "https://qiita.com/ryo_sh/items/4a1c1f97932e190db333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-26T03:14:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Python一択ではなくなった」　AIコーディング時代、新人が学んで損しないプログラミング言語は？",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/26/news009.html",
-    "pubDate": "2026-04-26T03:03:26.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
     "link": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
     "pubDate": "2026-04-25T23:44:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CAMPFIRE 22.5万人情報漏えい — GitHub不正アクセスから何を学ぶか",
+    "link": "https://zenn.dev/awesome_kou/articles/campfire-github-breach-2026",
+    "pubDate": "2026-04-25T23:11:46.000Z"
   },
   {
     "site": "Qiita",
@@ -34,12 +52,6 @@
     "title": "GitHub のアップデートを、Youtube ショート感覚でダラダラ見られる動画にしてみた",
     "link": "https://zenn.dev/microsoft/articles/github-update-movie-agent",
     "pubDate": "Sat, 25 Apr 2026 20:02:09 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜLLMは日本文化に夢中なのか？ – LLMに潜む隠れた文化的・地域的バイアス - AIDB",
-    "link": "https://ai-data-base.com/paper/2604-21751",
-    "pubDate": "2026-04-25T18:39:51.000Z"
   },
   {
     "site": "Zenn",
@@ -138,6 +150,12 @@
     "pubDate": "2026-04-24T00:58:45.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "TikTok化が我らを解放する » p2ptk[.]org",
+    "link": "https://p2ptk.org/monopoly/5588",
+    "pubDate": "2026-04-24T00:12:58.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "知らないとヤバい😱 コードレビューしてもらえる最強ツール! CodeRabbitの導入法",
     "link": "https://qiita.com/Hashimoto-Noriaki/items/f1eab565027d84bc9b0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -160,23 +178,5 @@
     "title": "インフラ設定は「人の目」に頼るな──Policy as CodeでCIを番人にした話",
     "link": "https://zenn.dev/solwat/articles/47b7cbdfd03c66",
     "pubDate": "2026-04-20T00:32:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Rate Limiting Strategies with Valkey/Redis",
-    "link": "https://www.percona.com/blog/rate-limiting-strategies-with-valkey-redis/",
-    "pubDate": "2026-03-19T04:28:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "dotfiles管理、miseに全部任せてみた",
-    "link": "https://zenn.dev/boykush/articles/11cfc3e1abc563",
-    "pubDate": "2026-01-21T11:34:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜ人工知能はまだ「人を越えられない」のか？ そびえ立つ「意味の理解」の壁",
-    "link": "https://www.sbbit.jp/article/cont1/34164",
-    "pubDate": "2017-10-20T00:16:15.000Z"
   }
 ]
