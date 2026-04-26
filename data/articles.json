@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "「Python一択ではなくなった」　AIコーディング時代、新人が学んで損しないプログラミング言語は？",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/26/news009.html",
+    "pubDate": "2026-04-26T03:03:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OWASP ZAP の finding を Rust/Axum の handler に戻して直す - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/04/23/195535",
+    "pubDate": "2026-04-26T01:33:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
+    "link": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
+    "pubDate": "2026-04-25T23:44:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub のアップデートを、Youtube ショート感覚でダラダラ見られる動画にしてみた",
+    "link": "https://zenn.dev/microsoft/articles/github-update-movie-agent",
+    "pubDate": "Sat, 25 Apr 2026 20:02:09 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "なぜLLMは日本文化に夢中なのか？ – LLMに潜む隠れた文化的・地域的バイアス - AIDB",
     "link": "https://ai-data-base.com/paper/2604-21751",
     "pubDate": "2026-04-25T18:39:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026年にCGIでWebアプリを作る",
+    "link": "https://zenn.dev/alarky/articles/cgi-modern-web-app-2026",
+    "pubDate": "Sat, 25 Apr 2026 18:32:08 GMT"
   },
   {
     "site": "Hatena",
@@ -24,34 +54,22 @@
     "pubDate": "2026-04-25T12:12:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "米Anthropic調査「プログラマーはAIに職を奪われる、バーテンダーへ転職がおススメ」",
-    "link": "https://www.sbbit.jp/article/cont1/185159",
-    "pubDate": "2026-04-25T09:02:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "“スティック型DAP”再び、CDプレーヤー風など、レトロデザインオーディオ多数。ヘッドフォン祭開幕",
-    "link": "https://av.watch.impress.co.jp/docs/news/2104721.html",
-    "pubDate": "2026-04-25T07:34:00.000Z"
+    "site": "Zenn",
+    "title": "最近使っている GitHub Copilot CLI + .NET 向けのカスタムエージェントとスキル",
+    "link": "https://zenn.dev/microsoft/articles/github-copilot-dotnet-project",
+    "pubDate": "Sat, 25 Apr 2026 10:45:03 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Claude Code Hooks基礎編、活用事例と設定ぜんぶ見せるで",
-    "link": "https://zenn.dev/masayan1126/books/claude-code-hooks-basic",
-    "pubDate": "Sat, 25 Apr 2026 07:23:53 GMT"
+    "title": "Claude Codeより安く開発できるOpenCodeを使ってみよう",
+    "link": "https://zenn.dev/xxishan/articles/9cb47819f835fa",
+    "pubDate": "Sat, 25 Apr 2026 07:00:17 GMT"
   },
   {
     "site": "Hatena",
     "title": "3社そろい踏みの「Starlink Direct」　料金で仕掛けるドコモとソフトバンク、先行するKDDIは“サービス”で差別化",
     "link": "https://www.itmedia.co.jp/mobile/articles/2604/25/news025.html",
     "pubDate": "2026-04-25T05:55:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "髪フェチすぎてリアル求めすぎた2023年の絵柄、今のシンプル塗りが良いとされる時代でも受け入れてもらえるんだろうか→「髪の毛のリアルさが本当にすごい」",
-    "link": "https://posfie.com/@taimport/p/Fj4rbiB",
-    "pubDate": "2026-04-25T05:53:07.000Z"
   },
   {
     "site": "Qiita",
@@ -70,12 +88,6 @@
     "title": "agents-cliの中身を見てみよう",
     "link": "https://zenn.dev/makocchan/articles/whats_agents_cli",
     "pubDate": "Sat, 25 Apr 2026 00:19:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "カスタムエージェントの呼び出し方で考える Copilot CLI と VS Code Agent Mode",
-    "link": "https://zenn.dev/tomokusaba/articles/31e31c57cb051d",
-    "pubDate": "Fri, 24 Apr 2026 22:20:46 GMT"
   },
   {
     "site": "Zenn",
@@ -112,24 +124,6 @@
     "title": "【renue】社員全員でClaude Codeを使い、自社のデモECをハッキングしてみた",
     "link": "https://zenn.dev/renue/articles/4687cb5e5c0031",
     "pubDate": "Fri, 24 Apr 2026 09:03:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "anyhowとthiserrorの内部実装を覗いてみる",
-    "link": "https://zenn.dev/uniquevision/articles/f2b75b4109ea14",
-    "pubDate": "Fri, 24 Apr 2026 09:01:57 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Canonical releases Ubuntu 26.04 LTS Resolute Raccoon | Canonical",
-    "link": "https://canonical.com/blog/canonical-releases-ubuntu-26-04-lts-resolute-raccoon",
-    "pubDate": "2026-04-24T08:54:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "VS Code 拡張機能の Webview での描画性能をテトリスで検証してみた",
-    "link": "https://zenn.dev/nttdata_tech/articles/15290f101cacd2",
-    "pubDate": "Fri, 24 Apr 2026 08:34:33 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "dotfiles管理、miseに全部任せてみた",
     "link": "https://zenn.dev/boykush/articles/11cfc3e1abc563",
     "pubDate": "2026-01-21T11:34:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ人工知能はまだ「人を越えられない」のか？ そびえ立つ「意味の理解」の壁",
+    "link": "https://www.sbbit.jp/article/cont1/34164",
+    "pubDate": "2017-10-20T00:16:15.000Z"
   }
 ]
