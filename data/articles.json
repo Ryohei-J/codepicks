@@ -1,9 +1,63 @@
 [
   {
+    "site": "Qiita",
+    "title": "【初学者向け】「どう並べて、どう取り出すか」で変わる - データ構造の基礎",
+    "link": "https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-28T04:56:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【後編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
+    "link": "https://qiita.com/hitomin_poke/items/018678abdb0267983fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-28T04:04:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門",
+    "link": "https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-28T02:38:06.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "データサイエンスのフォネティックコード: 不毛な議論に陥らないための提案 - ill-identified diary",
-    "link": "https://ill-identified.hatenablog.com/entry/2026/04/27/130805",
-    "pubDate": "2026-04-27T23:59:17.000Z"
+    "title": "発火しにくいナトリウムイオンバッテリも機内持ち込み禁止。エレコムがお詫びと注意喚起",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2105175.html",
+    "pubDate": "2026-04-28T02:24:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIオタクのセキュリティエンジニアが伝えたい、バイブコーディングのセキュリティリスク7選 - GMO Flatt Security Blog",
+    "link": "https://blog.flatt.tech/entry/vibe_coding_security_risk",
+    "pubDate": "2026-04-28T02:05:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "これは便利！？iPhoneが一気に快適になる便利な機能・設定22選 | iPhone修理・ipad修理・スマホ修理やスイッチ修理のお役立ち総合情報サイト「スマテクマガジン」",
+    "link": "https://smartcool-group.com/media/iphone-useful-settings/",
+    "pubDate": "2026-04-28T02:00:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "40%キーボードに移行する前に知っておきたかったこと",
+    "link": "https://zenn.dev/bilzard/articles/b924d7995b28bc",
+    "pubDate": "Tue, 28 Apr 2026 00:00:10 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "API Gateway → Lambda の間で何が行われているかを易しく解説",
+    "link": "https://qiita.com/hosomatu/items/afdd509365a770598fc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-27T23:38:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "非エンジニアの「作りたい」と「安全に公開したい」を両立する Sandbox MCP を作った",
+    "link": "https://zenn.dev/aircloset/articles/65efe9614f8e73",
+    "pubDate": "2026-04-27T23:19:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "非エンジニアの「作りたい」と「安全に公開したい」を両立する Sandbox MCP を作った",
+    "link": "https://zenn.dev/aircloset/articles/65efe9614f8e73",
+    "pubDate": "Mon, 27 Apr 2026 23:02:32 GMT"
   },
   {
     "site": "Hatena",
@@ -13,27 +67,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「LoL」はどれくらい脳機能を向上させる？　5カ月遊んだ68人の脳を分析、他ゲームと比較　学術誌に掲載",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/24/news120.html",
-    "pubDate": "2026-04-27T22:35:51.000Z"
+    "title": "【特別インタビュー】大橋太郎さんが語る『マイコンBASICマガジン』の歴史 - RetroPC NEWS",
+    "link": "https://retropcnews.com/archives/4176",
+    "pubDate": "2026-04-27T22:42:55.000Z"
   },
   {
     "site": "Hatena",
     "title": "「宇宙は極低温だから放熱が楽」は本当か？　宇宙データセンターの実現に欠かせない冷却の話",
     "link": "https://www.itmedia.co.jp/news/articles/2604/23/news048.html",
     "pubDate": "2026-04-27T22:20:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Scribe v2 リアルタイム音声認識 - 150ms低遅延API",
-    "link": "https://elevenlabs.io/ja/realtime-speech-to-text",
-    "pubDate": "2026-04-27T20:39:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub Copilot is moving to usage-based billing",
-    "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-    "pubDate": "2026-04-27T16:19:35.000Z"
   },
   {
     "site": "Zenn",
@@ -46,12 +88,6 @@
     "title": "日本初の“眠れて安い”フルフラット型夜行バス　「許可出ない」「料金高すぎる」業界の常識と闘い苦節10年の開発物語｜FNNプライムオンライン",
     "link": "https://www.fnn.jp/articles/-/1036238",
     "pubDate": "2026-04-27T12:45:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「オーディオで培った技術で、ゲームを快適に」。Switch 2用アクセサリに参入、AZLA、LEPIC GAMINGの挑戦[Sponsored]",
-    "link": "https://av.watch.impress.co.jp/docs/topic/special/2101016.html",
-    "pubDate": "2026-04-27T12:39:12.000Z"
   },
   {
     "site": "Hatena",
@@ -96,12 +132,6 @@
     "pubDate": "Mon, 27 Apr 2026 02:50:05 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "kintoneで確認ダイアログと通知バナーを使って誤操作を防ぐUXを実装してみよう",
-    "link": "https://qiita.com/mu2in/items/022e63a673349826aa38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-27T02:29:56.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "春休みなので脆弱性報告したらCVEついた話 (CVE-2026-32309)",
     "link": "https://zenn.dev/ao9s/articles/cryptomator-hub-http-downgrade",
@@ -114,22 +144,10 @@
     "pubDate": "Mon, 27 Apr 2026 01:20:24 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "MagicPod Autopilotを使ったE2Eテストケース自動作成の実践と注意点",
-    "link": "https://qiita.com/s-yoshina/items/980e60a850b04985e68a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-27T00:51:42.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "コードを1行も書く前にバグを潰す — 生成AIが「理想論」だったシフトレフトを現実にする",
     "link": "https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85",
     "pubDate": "Sun, 26 Apr 2026 23:00:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilot Studio の MCP 利用におけるセキュリティ対策",
-    "link": "https://qiita.com/Takashi_Masumori/items/5045c0d46a756f0a49fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-26T22:58:22.000Z"
   },
   {
     "site": "Zenn",
@@ -150,28 +168,10 @@
     "pubDate": "Sun, 26 Apr 2026 14:34:50 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "今日のUITraitCollection",
-    "link": "https://zenn.dev/tatsube/articles/92ecf68260d2fb",
-    "pubDate": "Sun, 26 Apr 2026 11:21:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LINEをAIエージェントの入口にする現実解",
-    "link": "https://zenn.dev/peintangos/articles/b024c86e672191",
-    "pubDate": "Sun, 26 Apr 2026 11:12:50 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
     "link": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-26T10:08:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人的にjQuery メソッドチートシートまとめた",
-    "link": "https://qiita.com/ryo_sh/items/4a1c1f97932e190db333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-26T03:14:25.000Z"
   },
   {
     "site": "Qiita",
