@@ -1,57 +1,93 @@
 [
   {
     "site": "Hatena",
+    "title": "データサイエンスのフォネティックコード: 不毛な議論に陥らないための提案 - ill-identified diary",
+    "link": "https://ill-identified.hatenablog.com/entry/2026/04/27/130805",
+    "pubDate": "2026-04-27T23:59:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、Microsoftと独占契約終了　Amazon経由でモデル提供 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN27ARC0X20C26A4000000/",
+    "pubDate": "2026-04-27T22:46:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「LoL」はどれくらい脳機能を向上させる？　5カ月遊んだ68人の脳を分析、他ゲームと比較　学術誌に掲載",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/24/news120.html",
+    "pubDate": "2026-04-27T22:35:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「宇宙は極低温だから放熱が楽」は本当か？　宇宙データセンターの実現に欠かせない冷却の話",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/23/news048.html",
+    "pubDate": "2026-04-27T22:20:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Scribe v2 リアルタイム音声認識 - 150ms低遅延API",
+    "link": "https://elevenlabs.io/ja/realtime-speech-to-text",
+    "pubDate": "2026-04-27T20:39:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GitHub Copilot is moving to usage-based billing",
     "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
     "pubDate": "2026-04-27T16:19:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "修理費で13万円超えも　折りたたみスマホに「端末保険」が事実上必須といえる理由",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2604/27/news120.html",
-    "pubDate": "2026-04-27T10:06:08.000Z"
+    "site": "Zenn",
+    "title": "【2026年版】フロントエンド技術選定：React・Vue・Angularの現在地と「AI時代の生存戦略」",
+    "link": "https://zenn.dev/nijima/articles/651ed3c1f2ded5",
+    "pubDate": "2026-04-27T16:14:18.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Canonical、「Ubuntu 26.04 LTS」の一般提供を開始 ～TARベースのWSLパッケージもあり／少なくとも5年間、2031年4月までサポート",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2104789.html",
-    "pubDate": "2026-04-27T08:39:52.000Z"
+    "title": "日本初の“眠れて安い”フルフラット型夜行バス　「許可出ない」「料金高すぎる」業界の常識と闘い苦節10年の開発物語｜FNNプライムオンライン",
+    "link": "https://www.fnn.jp/articles/-/1036238",
+    "pubDate": "2026-04-27T12:45:40.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「新人がAIに聞いたまま資料を出して来る」ことに嘆いている40代社員に対して、「ワークスロップ」という概念を紹介する人が登場する",
-    "link": "https://togetter.com/li/2690339",
-    "pubDate": "2026-04-27T08:22:27.000Z"
+    "title": "「オーディオで培った技術で、ゲームを快適に」。Switch 2用アクセサリに参入、AZLA、LEPIC GAMINGの挑戦[Sponsored]",
+    "link": "https://av.watch.impress.co.jp/docs/topic/special/2101016.html",
+    "pubDate": "2026-04-27T12:39:12.000Z"
   },
   {
     "site": "Hatena",
-    "title": "村田製作所 取引先や従業員の個人情報など約8万8000件流出か | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015109381000",
-    "pubDate": "2026-04-27T08:06:15.000Z"
+    "title": "メッセージキュー型の非同期処理から Temporal 移行へ",
+    "link": "https://speakerdeck.com/shibukazu/metusezikiyuxing-nofei-tong-qi-chu-li-kara-temporal-yi-xing-he",
+    "pubDate": "2026-04-27T11:24:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "はてな株に売り殺到、終日値付かず　“11億円流出”ショックで",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/27/news102.html",
-    "pubDate": "2026-04-27T06:34:57.000Z"
+    "site": "Qiita",
+    "title": "n8nで毎朝「天気×ビタミンD日光時間」をDiscord通知するリマインダーを作ってみた",
+    "link": "https://qiita.com/wan-code/items/7ae3b3ea5b2b4a59332d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-27T09:57:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI「ギュ」時代　プログラミングも文系就活も“ギュられる”って本当？",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/27/news066.html",
-    "pubDate": "2026-04-27T06:03:59.000Z"
+    "site": "Qiita",
+    "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
+    "link": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-27T09:00:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIによってプロダクトマネジメントとMVPの重心が変わった話｜numashi/LayerX バクラクVPoP",
-    "link": "https://note.com/numashi_biz/n/n788072bee61b",
-    "pubDate": "2026-04-27T06:01:35.000Z"
+    "site": "Qiita",
+    "title": "AIデザインツールの台頭とFDE戦略 — 週次キャッチアップまとめ（2026/04/27）",
+    "link": "https://qiita.com/yusuke_ando_vj/items/662a42556d3bb3b5d255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-27T08:48:44.000Z"
   },
   {
     "site": "Qiita",
     "title": "【35歳未経験でも理解できた】SQLのJOIN",
     "link": "https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-27T05:03:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントにユーザーを演じさせて業務をテストする",
+    "link": "https://zenn.dev/bizreach_aps/articles/0d758497357167",
+    "pubDate": "Mon, 27 Apr 2026 03:53:16 GMT"
   },
   {
     "site": "Zenn",
@@ -67,15 +103,15 @@
   },
   {
     "site": "Zenn",
+    "title": "春休みなので脆弱性報告したらCVEついた話 (CVE-2026-32309)",
+    "link": "https://zenn.dev/ao9s/articles/cryptomator-hub-http-downgrade",
+    "pubDate": "Mon, 27 Apr 2026 02:14:55 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "帳票エンジンの会社ですが、4年かけた帳票デザイナーを凍結してAIに全振りしました",
     "link": "https://zenn.dev/yagisan_reports/articles/8a89b77f7106b9",
     "pubDate": "Mon, 27 Apr 2026 01:20:24 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS Organizationsアカウント構成の是正をやってみた",
-    "link": "https://kizawa.info/rebuild-aws-organizations",
-    "pubDate": "2026-04-27T01:14:13.000Z"
   },
   {
     "site": "Qiita",
@@ -84,10 +120,16 @@
     "pubDate": "2026-04-27T00:51:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTの画像生成AIが強すぎる　AI画像が世界中に氾濫する時代へ (1/5)",
-    "link": "https://ascii.jp/elem/000/004/398/4398254/",
-    "pubDate": "2026-04-27T00:49:10.000Z"
+    "site": "Zenn",
+    "title": "コードを1行も書く前にバグを潰す — 生成AIが「理想論」だったシフトレフトを現実にする",
+    "link": "https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85",
+    "pubDate": "Sun, 26 Apr 2026 23:00:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Copilot Studio の MCP 利用におけるセキュリティ対策",
+    "link": "https://qiita.com/Takashi_Masumori/items/5045c0d46a756f0a49fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-26T22:58:22.000Z"
   },
   {
     "site": "Zenn",
@@ -109,12 +151,6 @@
   },
   {
     "site": "Zenn",
-    "title": "音楽の生成・編集が可能な高性能ローカル音楽生成AI【ACE-Step-1.5】はどれほどか？",
-    "link": "https://zenn.dev/asap/articles/d03902a7852a61",
-    "pubDate": "Sun, 26 Apr 2026 13:28:41 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "今日のUITraitCollection",
     "link": "https://zenn.dev/tatsube/articles/92ecf68260d2fb",
     "pubDate": "Sun, 26 Apr 2026 11:21:13 GMT"
@@ -132,36 +168,6 @@
     "pubDate": "2026-04-26T10:08:51.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "QAエンジニアのためのAI時代Playwright実践ガイド",
-    "link": "https://zenn.dev/yuden/books/playwright-pom-fixtures-ai-era",
-    "pubDate": "Sun, 26 Apr 2026 09:52:13 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "GPTとClaudeはどっちがいいのか、Microsoft 365 Copilot（Researcher）に考えてもらった",
-    "link": "https://qiita.com/Oyu3m/items/4ce133a69433d386507d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-26T09:18:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ブラウザだけで完結するCSIRT訓練プラットフォーム「CSIRT Ready」を作った話",
-    "link": "https://qiita.com/masa_py/items/70ddd373616e55ad929f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-26T07:44:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Matz の Ruby AOT コンパイラ Spinel を試してみました",
-    "link": "https://zenn.dev/geeknees/articles/edc3cb36ea251c",
-    "pubDate": "Sun, 26 Apr 2026 06:34:35 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code が途中で議論を忘れる問題 — auto-compact を PreCompact Hook で制御し、Discord から遠隔操作する",
-    "link": "https://qiita.com/nogataka/items/95efda0c7c9ea2405139?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-26T04:14:08.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "個人的にjQuery メソッドチートシートまとめた",
     "link": "https://qiita.com/ryo_sh/items/4a1c1f97932e190db333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "Claude CodeのVSCode拡張が使いやすいよ",
     "link": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-25T15:39:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "n8n × MacroDroid × LINEで「今から帰る」をワンタップ通知する仕組みを作った",
-    "link": "https://qiita.com/wan-code/items/e83414089713891df1a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-24T09:58:09.000Z"
   }
 ]
