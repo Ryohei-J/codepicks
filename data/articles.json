@@ -1,39 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "(次に来るモノ) 眠っていた愛機がAPS-Cで蘇る。フィルムカメラをデジタル化する「I’m Back Roll APS-C」 - エルミタージュ秋葉原",
-    "link": "https://www.gdm.or.jp/crew/2026/0429/632774",
-    "pubDate": "2026-04-29T00:17:02.000Z"
+    "title": "Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo",
+    "link": "https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo",
+    "pubDate": "2026-04-29T10:41:21.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Anthropic joins the Blender Development Fund as Corporate Patron — Blender",
-    "link": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
-    "pubDate": "2026-04-28T23:33:35.000Z"
+    "title": "人間の直感はもう要らない？AIが廃熱から電力を生む効率を8.2倍に跳ね上げた「異形の発電機」を考案 | XenoSpectrum",
+    "link": "https://xenospectrum.com/topology-optimized-thermoelectric-generator-3d-printing/",
+    "pubDate": "2026-04-29T09:56:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code に仕事を譲った日——残ったのは「判断」と「責任」だった",
+    "link": "https://zenn.dev/tokium_dev/articles/ca6f30192f6379",
+    "pubDate": "2026-04-29T07:57:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "エーアイ、3D CAD もやってほしい 2026 - 重力に縋るな",
-    "link": "https://sksat.hatenablog.com/entry/vibe-openscad",
-    "pubDate": "2026-04-28T20:47:23.000Z"
+    "title": "高専は、そもそも日本の大学教育にブチ切れた財界が、まともなエンジニアの供給源として財界主導で作った学校で、卒業生が国際的にどう評価されるなんてそもそも最初から評価の外という話",
+    "link": "https://posfie.com/@taimport/p/eznaHWu",
+    "pubDate": "2026-04-29T01:47:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Ghostty Is Leaving GitHub",
-    "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-    "pubDate": "2026-04-28T20:22:16.000Z"
+    "site": "Zenn",
+    "title": "Deno に DOMMatrix を入れるために Rust で CSS Values and Units の構文解析、計算をした話",
+    "link": "https://zenn.dev/pixiv/articles/69638446455b0d",
+    "pubDate": "Tue, 28 Apr 2026 17:22:24 GMT"
   },
   {
     "site": "Hatena",
     "title": "純国産人型ロボの検証機　京都で公開、故障で動かず | NEWSjp",
     "link": "https://news.jp/i/1421790983352009228",
     "pubDate": "2026-04-28T16:36:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "講演会で高校生たちがスマホをずっと見ているので何しているか聞いたらAIで内容をファクトチェックしていた→質問もハイレベルなものばかりで「もう適当なこと言えない...」",
-    "link": "https://togetter.com/li/2690755",
-    "pubDate": "2026-04-28T15:36:56.000Z"
   },
   {
     "site": "Zenn",
@@ -48,16 +48,16 @@
     "pubDate": "2026-04-28T15:01:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "人間レビューはもう不要？ AI と人間のレビューの線引きを決めた話",
-    "link": "https://ai.acsim.app/articles/introducing-self-merge-policy",
-    "pubDate": "2026-04-28T12:43:47.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Hono公式の Inertia アダプタが来た！Hono × Inertia × React によるSPA新体験",
     "link": "https://zenn.dev/ashunar0/articles/cc351badf8681c",
     "pubDate": "Tue, 28 Apr 2026 10:14:55 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "DIDP の Rust インターフェース RPID で柔軟な数理最適化モデリング + Wasm",
+    "link": "https://zenn.dev/espeon011/articles/3022342eb6f2ba",
+    "pubDate": "Tue, 28 Apr 2026 10:04:54 GMT"
   },
   {
     "site": "Qiita",
@@ -66,16 +66,16 @@
     "pubDate": "2026-04-28T09:48:44.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "【無料】「サーバなんて触ったことないから分からない」人も必見　AWSを題材にサーバとストレージの基礎が学べる電子書籍150ページ",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/28/news012.html",
+    "pubDate": "2026-04-28T09:37:28.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した",
     "link": "https://zenn.dev/layerx/articles/20260428-ccgate",
     "pubDate": "Tue, 28 Apr 2026 09:23:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LM StudioでLLM-jp4を使う",
-    "link": "https://zenn.dev/hi/articles/64f106cd145fa8",
-    "pubDate": "Tue, 28 Apr 2026 07:56:22 GMT"
   },
   {
     "site": "Qiita",
@@ -133,21 +133,15 @@
   },
   {
     "site": "Zenn",
+    "title": "TypeScriptでunknownを扱うの、つらくない？",
+    "link": "https://zenn.dev/nyaomaru/articles/is-kit-updates",
+    "pubDate": "Tue, 28 Apr 2026 01:10:06 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ベクトルDBを使わないRAG。全てのナレッジを階層化する手法",
     "link": "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
     "pubDate": "Tue, 28 Apr 2026 00:01:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "40%キーボードに移行する前に知っておきたかったこと",
-    "link": "https://zenn.dev/bilzard/articles/b924d7995b28bc",
-    "pubDate": "Tue, 28 Apr 2026 00:00:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilotの本当の強み 2",
-    "link": "https://zenn.dev/headwaters/articles/f79b8d64ba1442",
-    "pubDate": "Mon, 27 Apr 2026 23:40:05 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "Claude Code Skills × 投資分析シリーズ — 記事一覧",
     "link": "https://zenn.dev/okikusan/articles/23041c3800a927",
     "pubDate": "2026-04-24T13:45:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "お前のAI、忖度してるぞ",
+    "link": "https://zenn.dev/htakasu/articles/654c3906e86830",
+    "pubDate": "2026-03-28T12:19:41.000Z"
   }
 ]
