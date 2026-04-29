@@ -1,39 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+    "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+    "pubDate": "2026-04-28T22:15:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エーアイ、3D CAD もやってほしい 2026 - 重力に縋るな",
+    "link": "https://sksat.hatenablog.com/entry/vibe-openscad",
+    "pubDate": "2026-04-28T20:47:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Ghostty Is Leaving GitHub",
+    "link": "https://mitchellh.com/writing/ghostty-leaving-github",
+    "pubDate": "2026-04-28T20:22:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "講演会で高校生たちがスマホをずっと見ているので何しているか聞いたらAIで内容をファクトチェックしていた→質問もハイレベルなものばかりで「もう適当なこと言えない...」",
+    "link": "https://togetter.com/li/2690755",
+    "pubDate": "2026-04-28T15:36:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "国立国会図書館のOCR技術を使って、完全オフラインOCRのChrome拡張を作ってみた",
+    "link": "https://zenn.dev/lecto/articles/a2ee65243b02b3",
+    "pubDate": "2026-04-28T15:35:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "20年ぶりに復活したスーパーファミコンエミュレータ「SUPER ZSNES」、完全にゼロから書き直されWindows・Mac・Android対応でiOSも対応予定",
     "link": "https://gigazine.net/news/20260428-super-zsnes/",
     "pubDate": "2026-04-28T14:20:45.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "人間レビューはもう不要？ AI と人間のレビューの線引きを決めた話",
+    "link": "https://ai.acsim.app/articles/introducing-self-merge-policy",
+    "pubDate": "2026-04-28T12:43:47.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Hono公式の Inertia アダプタが来た！Hono × Inertia × React によるSPA新体験",
     "link": "https://zenn.dev/ashunar0/articles/cc351badf8681c",
-    "pubDate": "2026-04-28T13:10:43.000Z"
+    "pubDate": "Tue, 28 Apr 2026 10:14:55 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "n8nでGoogleカレンダーから日報を自動生成してDiscordへ投稿する仕組みを作った",
+    "link": "https://qiita.com/wan-code/items/1ba7e323398808fa74e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-28T09:48:44.000Z"
   },
   {
     "site": "Hatena",
-    "title": "FILCOブランドを台湾の製造パートナーが引き継ぎ",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2105517.html",
-    "pubDate": "2026-04-28T12:45:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "大学で授業をしていて衝撃的だった事…学生達がAIを使ってプレゼン資料を作成していたが、自分の資料の内容を理解していなかった→指摘したところ驚くほどの変化があった",
-    "link": "https://togetter.com/li/2690655",
-    "pubDate": "2026-04-28T09:07:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11の不満解消へ　Microsoftの最優先プロジェクト「Windows K2」とは何か",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2604/28/news065.html",
-    "pubDate": "2026-04-28T06:07:07.000Z"
+    "title": "[レポート公開] そのAIツール、すでに情報を抜かれています。実在インシデントで判明したセキュリティ事故 8選",
+    "link": "https://prtimes.jp/main/html/rd/p/000000068.000118521.html",
+    "pubDate": "2026-04-28T09:44:45.000Z"
   },
   {
     "site": "Zenn",
-    "title": "ベクトルを使わないRAG。全てのナレッジを階層化する手法",
-    "link": "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
-    "pubDate": "2026-04-28T05:10:43.000Z"
+    "title": "97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した",
+    "link": "https://zenn.dev/layerx/articles/20260428-ccgate",
+    "pubDate": "Tue, 28 Apr 2026 09:23:21 GMT"
   },
   {
     "site": "Qiita",
@@ -42,16 +72,28 @@
     "pubDate": "2026-04-28T04:56:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub - Hanqaqa/Easyduino: Easily dive into different PCB KiCad designs of the most popular microcontroller devboards",
-    "link": "https://github.com/Hanqaqa/Easyduino",
-    "pubDate": "2026-04-28T04:09:59.000Z"
+    "site": "Zenn",
+    "title": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
+    "link": "https://zenn.dev/nttdata_tech/articles/bf6b694144e55a",
+    "pubDate": "2026-04-28T04:22:01.000Z"
   },
   {
     "site": "Qiita",
     "title": "【後編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
     "link": "https://qiita.com/hitomin_poke/items/018678abdb0267983fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-28T04:04:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
+    "link": "https://zenn.dev/nttdata_tech/articles/bf6b694144e55a",
+    "pubDate": "Tue, 28 Apr 2026 03:52:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントを安全に動かすための技術——サンドボックスについて調べてみる",
+    "link": "https://zenn.dev/layerx/articles/a99cd11af487fc",
+    "pubDate": "Tue, 28 Apr 2026 03:51:17 GMT"
   },
   {
     "site": "Qiita",
@@ -66,16 +108,10 @@
     "pubDate": "Tue, 28 Apr 2026 02:30:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ZEN Study SRE 10年のインフラ・CI/CDの変遷 - ドワンゴ教育サービス開発者ブログ",
-    "link": "https://blog.nnn.dev/entry/2026/04/28/110000",
-    "pubDate": "2026-04-28T02:04:02.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Hono × Inertia.js が作る新しい型貫通体験に触れてみた",
-    "link": "https://zenn.dev/ashunar0/articles/d4a23d3579331a",
-    "pubDate": "2026-04-28T01:00:02.000Z"
+    "title": "Claude Codeのルーチン機能で定期的にパフォーマンスチューニングをさせている",
+    "link": "https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning",
+    "pubDate": "Tue, 28 Apr 2026 02:16:45 GMT"
   },
   {
     "site": "Zenn",
@@ -121,51 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "AIデザインツールの台頭とFDE戦略 — 週次キャッチアップまとめ（2026/04/27）",
-    "link": "https://qiita.com/yusuke_ando_vj/items/662a42556d3bb3b5d255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-27T08:48:44.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【35歳未経験でも理解できた】SQLのJOIN",
     "link": "https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-27T05:03:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "第1回 AIエージェントを作ってみよう ～Mastraを使って | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/04/AI-agent-development01",
-    "pubDate": "2026-04-27T04:00:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントにユーザーを演じさせて業務をテストする",
-    "link": "https://zenn.dev/bizreach_aps/articles/0d758497357167",
-    "pubDate": "Mon, 27 Apr 2026 03:53:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenClawとHermesの違いを思想から理解する",
-    "link": "https://zenn.dev/mkj/articles/9431e342db202f",
-    "pubDate": "Mon, 27 Apr 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "春休みなので脆弱性報告したらCVEついた話 (CVE-2026-32309)",
-    "link": "https://zenn.dev/ao9s/articles/cryptomator-hub-http-downgrade",
-    "pubDate": "Mon, 27 Apr 2026 02:14:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "帳票エンジンの会社ですが、4年かけた帳票デザイナーを凍結してAIに全振りしました",
-    "link": "https://zenn.dev/yagisan_reports/articles/8a89b77f7106b9",
-    "pubDate": "Mon, 27 Apr 2026 01:20:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードを1行も書く前にバグを潰す — 生成AIが「理想論」だったシフトレフトを現実にする",
-    "link": "https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85",
-    "pubDate": "Sun, 26 Apr 2026 23:00:08 GMT"
+    "site": "Qiita",
+    "title": "SEに必要な説明力",
+    "link": "https://qiita.com/NSS_FS_ENG/items/017c466d2353e602d8ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-26T23:00:04.000Z"
   },
   {
     "site": "Qiita",
@@ -174,9 +174,9 @@
     "pubDate": "2026-04-26T10:08:51.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Claude CodeのVSCode拡張が使いやすいよ",
-    "link": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-25T15:39:30.000Z"
+    "site": "Zenn",
+    "title": "Claude Code Skills × 投資分析シリーズ — 記事一覧",
+    "link": "https://zenn.dev/okikusan/articles/23041c3800a927",
+    "pubDate": "2026-04-24T13:45:35.000Z"
   }
 ]
