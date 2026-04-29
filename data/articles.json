@@ -1,9 +1,15 @@
 [
   {
     "site": "Hatena",
-    "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
-    "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
-    "pubDate": "2026-04-28T22:15:05.000Z"
+    "title": "(次に来るモノ) 眠っていた愛機がAPS-Cで蘇る。フィルムカメラをデジタル化する「I’m Back Roll APS-C」 - エルミタージュ秋葉原",
+    "link": "https://www.gdm.or.jp/crew/2026/0429/632774",
+    "pubDate": "2026-04-29T00:17:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic joins the Blender Development Fund as Corporate Patron — Blender",
+    "link": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
+    "pubDate": "2026-04-28T23:33:35.000Z"
   },
   {
     "site": "Hatena",
@@ -19,6 +25,12 @@
   },
   {
     "site": "Hatena",
+    "title": "純国産人型ロボの検証機　京都で公開、故障で動かず | NEWSjp",
+    "link": "https://news.jp/i/1421790983352009228",
+    "pubDate": "2026-04-28T16:36:59.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "講演会で高校生たちがスマホをずっと見ているので何しているか聞いたらAIで内容をファクトチェックしていた→質問もハイレベルなものばかりで「もう適当なこと言えない...」",
     "link": "https://togetter.com/li/2690755",
     "pubDate": "2026-04-28T15:36:56.000Z"
@@ -30,10 +42,10 @@
     "pubDate": "2026-04-28T15:35:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "20年ぶりに復活したスーパーファミコンエミュレータ「SUPER ZSNES」、完全にゼロから書き直されWindows・Mac・Android対応でiOSも対応予定",
-    "link": "https://gigazine.net/news/20260428-super-zsnes/",
-    "pubDate": "2026-04-28T14:20:45.000Z"
+    "site": "Qiita",
+    "title": "相続税・低賃金・移民政策はどうつながるのか？―欧米の教訓から考える成長と財政の設計 : Pythonで学ぶ マクロ経済学入門 (76)",
+    "link": "https://qiita.com/maskot1977/items/a0e5d60c951f0bd0984a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-28T15:01:53.000Z"
   },
   {
     "site": "Hatena",
@@ -54,16 +66,16 @@
     "pubDate": "2026-04-28T09:48:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "[レポート公開] そのAIツール、すでに情報を抜かれています。実在インシデントで判明したセキュリティ事故 8選",
-    "link": "https://prtimes.jp/main/html/rd/p/000000068.000118521.html",
-    "pubDate": "2026-04-28T09:44:45.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した",
     "link": "https://zenn.dev/layerx/articles/20260428-ccgate",
     "pubDate": "Tue, 28 Apr 2026 09:23:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LM StudioでLLM-jp4を使う",
+    "link": "https://zenn.dev/hi/articles/64f106cd145fa8",
+    "pubDate": "Tue, 28 Apr 2026 07:56:22 GMT"
   },
   {
     "site": "Qiita",
@@ -97,6 +109,12 @@
   },
   {
     "site": "Qiita",
+    "title": "【Claude Code入門】Skills 徹底解説 - 仕組みの解説からハンズオンまで",
+    "link": "https://qiita.com/i-inose/items/14f212258dc350857a94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-28T03:32:01.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門",
     "link": "https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-28T02:38:06.000Z"
@@ -115,7 +133,7 @@
   },
   {
     "site": "Zenn",
-    "title": "ベクトルを使わないRAG。全てのナレッジを階層化する手法",
+    "title": "ベクトルDBを使わないRAG。全てのナレッジを階層化する手法",
     "link": "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
     "pubDate": "Tue, 28 Apr 2026 00:01:05 GMT"
   },
@@ -126,28 +144,22 @@
     "pubDate": "Tue, 28 Apr 2026 00:00:10 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "GitHub Copilotの本当の強み 2",
+    "link": "https://zenn.dev/headwaters/articles/f79b8d64ba1442",
+    "pubDate": "Mon, 27 Apr 2026 23:40:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "API Gateway → Lambda の間で何が行われているかを易しく解説",
     "link": "https://qiita.com/hosomatu/items/afdd509365a770598fc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-27T23:38:36.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "非エンジニアの「作りたい」と「安全に公開したい」を両立する Sandbox MCP を作った",
-    "link": "https://zenn.dev/aircloset/articles/65efe9614f8e73",
-    "pubDate": "Mon, 27 Apr 2026 23:02:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Hono × Inertia.js が作る新しい型貫通体験に触れてみた",
-    "link": "https://zenn.dev/ashunar0/articles/d4a23d3579331a",
-    "pubDate": "Mon, 27 Apr 2026 14:10:54 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "n8nで毎朝「天気×ビタミンD日光時間」をDiscord通知するリマインダーを作ってみた",
-    "link": "https://qiita.com/wan-code/items/7ae3b3ea5b2b4a59332d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-27T09:57:14.000Z"
+    "title": "【書評】Qiita貢献度1位の『技術記事を書く技術』は、エンジニアの机に置いてほしい",
+    "link": "https://qiita.com/ssaita/items/091cb4ef066abfb1e06b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-27T21:39:48.000Z"
   },
   {
     "site": "Qiita",
@@ -157,21 +169,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【35歳未経験でも理解できた】SQLのJOIN",
-    "link": "https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-27T05:03:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SEに必要な説明力",
-    "link": "https://qiita.com/NSS_FS_ENG/items/017c466d2353e602d8ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-26T23:00:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
-    "link": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-26T10:08:51.000Z"
+    "title": "AWS公式スマホゲームでAWSを遊んで学ぼう！(AWS  Card Clash)",
+    "link": "https://qiita.com/tkazuaki0820/items/4b43881baacda337be66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-26T22:39:36.000Z"
   },
   {
     "site": "Zenn",
