@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "無料で個人のタスク管理・大規模なプロジェクト管理・詳細なメモの整理まで効率的に作業を分類・追跡できる「Tududi」、セルフホスト可能でオープンソース",
+    "link": "https://gigazine.net/news/20260429-tududi/",
+    "pubDate": "2026-04-29T11:06:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo",
     "link": "https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo",
     "pubDate": "2026-04-29T10:41:21.000Z"
@@ -18,10 +24,22 @@
     "pubDate": "2026-04-29T07:57:36.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【Claude Code入門】Skills 徹底解説 - 仕組みの解説からハンズオンまで - Qiita",
+    "link": "https://qiita.com/i-inose/items/14f212258dc350857a94",
+    "pubDate": "2026-04-29T03:01:05.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "高専は、そもそも日本の大学教育にブチ切れた財界が、まともなエンジニアの供給源として財界主導で作った学校で、卒業生が国際的にどう評価されるなんてそもそも最初から評価の外という話",
     "link": "https://posfie.com/@taimport/p/eznaHWu",
     "pubDate": "2026-04-29T01:47:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS Lambda が Rust を正式サポートしました　",
+    "link": "https://zenn.dev/kameoncloud/articles/2dfa2970b940ab",
+    "pubDate": "2026-04-28T22:15:50.000Z"
   },
   {
     "site": "Zenn",
@@ -30,22 +48,16 @@
     "pubDate": "Tue, 28 Apr 2026 17:22:24 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "純国産人型ロボの検証機　京都で公開、故障で動かず | NEWSjp",
-    "link": "https://news.jp/i/1421790983352009228",
-    "pubDate": "2026-04-28T16:36:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "国立国会図書館のOCR技術を使って、完全オフラインOCRのChrome拡張を作ってみた",
-    "link": "https://zenn.dev/lecto/articles/a2ee65243b02b3",
-    "pubDate": "2026-04-28T15:35:33.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "相続税・低賃金・移民政策はどうつながるのか？―欧米の教訓から考える成長と財政の設計 : Pythonで学ぶ マクロ経済学入門 (76)",
     "link": "https://qiita.com/maskot1977/items/a0e5d60c951f0bd0984a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-28T15:01:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilotの本当の強み 2",
+    "link": "https://zenn.dev/headwaters/articles/f79b8d64ba1442",
+    "pubDate": "2026-04-28T14:12:41.000Z"
   },
   {
     "site": "Zenn",
@@ -64,12 +76,6 @@
     "title": "n8nでGoogleカレンダーから日報を自動生成してDiscordへ投稿する仕組みを作った",
     "link": "https://qiita.com/wan-code/items/1ba7e323398808fa74e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-28T09:48:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【無料】「サーバなんて触ったことないから分からない」人も必見　AWSを題材にサーバとストレージの基礎が学べる電子書籍150ページ",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/28/news012.html",
-    "pubDate": "2026-04-28T09:37:28.000Z"
   },
   {
     "site": "Zenn",
@@ -166,12 +172,6 @@
     "title": "AWS公式スマホゲームでAWSを遊んで学ぼう！(AWS  Card Clash)",
     "link": "https://qiita.com/tkazuaki0820/items/4b43881baacda337be66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-26T22:39:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code Skills × 投資分析シリーズ — 記事一覧",
-    "link": "https://zenn.dev/okikusan/articles/23041c3800a927",
-    "pubDate": "2026-04-24T13:45:35.000Z"
   },
   {
     "site": "Zenn",
