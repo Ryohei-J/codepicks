@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "Claude Sonnet 4.5超えのフランス製AIモデル「Mistral Medium 3.5」がオープンモデルとして公開される＆Mistral Vibeがクラウド対応",
-    "link": "https://gigazine.net/news/20260430-mistral-medium-3-5/",
-    "pubDate": "2026-04-30T09:16:19.000Z"
+    "title": "以前付き合っていた女性に振られた人、その理由に様々な意見「超少数派という自覚は持った方が良い」「わたしも具だけ食べる派でした...」",
+    "link": "https://togetter.com/li/2691501",
+    "pubDate": "2026-04-30T12:49:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoft、ターミナル用エディター「Edit」バージョン2.0.0をリリース　——構文ハイライトを追加 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/04/edit-2.0",
+    "pubDate": "2026-04-30T10:12:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話",
+    "link": "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
+    "pubDate": "2026-04-30T10:09:49.000Z"
   },
   {
     "site": "Hatena",
     "title": "xAIに入社した - lapla.dev",
     "link": "https://lapla.dev/posts/xai",
     "pubDate": "2026-04-30T08:13:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【朗報】GmailやGoogle Driveのアイコンが全面刷新へ。Google Workspace系アプリがグラデーション調に - すまほん!!",
+    "link": "https://smhn.info/202604-google-workspace-icon",
+    "pubDate": "2026-04-30T07:23:42.000Z"
   },
   {
     "site": "Zenn",
@@ -31,6 +49,12 @@
   },
   {
     "site": "Hatena",
+    "title": "エディター「with」を作り始めました",
+    "link": "https://taiyolab.com/ja/2026/04/30/fiction-editor-with-starting/",
+    "pubDate": "2026-04-30T03:37:41.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Decision Quality と設計判断失敗パターン - kawasima",
     "link": "https://scrapbox.io/kawasima/Decision_Quality_%E3%81%A8%E8%A8%AD%E8%A8%88%E5%88%A4%E6%96%AD%E5%A4%B1%E6%95%97%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3",
     "pubDate": "2026-04-30T03:04:03.000Z"
@@ -48,22 +72,10 @@
     "pubDate": "2026-04-30T02:17:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜ一部のAIモデルは「日本文化」に執着するのか？　「4o-mini」などの出力が日本に偏る実態、欧州チームが研究発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/30/news025.html",
-    "pubDate": "2026-04-30T01:35:40.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Vimの知見共有もできて盛り上がる「Vimペアプロ」を社内勉強会でやってみた",
     "link": "https://zenn.dev/canary_techblog/articles/429cae3aaf06c7",
     "pubDate": "Thu, 30 Apr 2026 01:00:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Apple、｢Vision Pro｣を事実上断念か ｰ 売れ行き低迷で新モデルの開発は停止 | 気になる、記になる…",
-    "link": "https://taisy0.com/2026/04/30/222691.html",
-    "pubDate": "2026-04-29T23:51:32.000Z"
   },
   {
     "site": "Qiita",
@@ -72,22 +84,16 @@
     "pubDate": "2026-04-29T22:10:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2105357.html",
-    "pubDate": "2026-04-29T21:34:16.000Z"
+    "site": "Qiita",
+    "title": "AWS Security Agentで設計レビュー・コードレビュー・ペネトレーションテストを全部やってみた。リリース後の運用に繋げる - Qiita",
+    "link": "https://qiita.com/sh_fukatsu/items/104c8078532c272fb1f5",
+    "pubDate": "2026-04-29T18:05:42.000Z"
   },
   {
     "site": "Zenn",
     "title": "高品質音楽生成AI【ACE-Step-1.5】で「破綻の微修正」に特化した新機能を提案する【Retake】",
     "link": "https://zenn.dev/asap/articles/948526de2faa62",
     "pubDate": "Wed, 29 Apr 2026 17:11:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIの本質は『出力』じゃなくて『構造の仮置き』なのかも、という話 #PR｜けんすう",
-    "link": "https://kensuu.com/n/n75b652e1ce81",
-    "pubDate": "2026-04-29T13:32:03.000Z"
   },
   {
     "site": "Zenn",
@@ -106,12 +112,6 @@
     "title": "UIの面倒、実はDBの問題だった ― Local-First と Instant が示す Web 開発の未来",
     "link": "https://zenn.dev/sc30gsw/articles/a39bd748caa861",
     "pubDate": "Wed, 29 Apr 2026 03:23:16 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【完全版】Claude Code運用40選｜KAWAI",
-    "link": "https://note.com/kawaidesign/n/nce2f82c62f1f",
-    "pubDate": "2026-04-29T02:37:49.000Z"
   },
   {
     "site": "Zenn",
