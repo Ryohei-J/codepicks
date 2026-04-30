@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Sonnet 4.5超えのフランス製AIモデル「Mistral Medium 3.5」がオープンモデルとして公開される＆Mistral Vibeがクラウド対応",
+    "link": "https://gigazine.net/news/20260430-mistral-medium-3-5/",
+    "pubDate": "2026-04-30T09:16:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "xAIに入社した - lapla.dev",
+    "link": "https://lapla.dev/posts/xai",
+    "pubDate": "2026-04-30T08:13:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
+    "link": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
+    "pubDate": "2026-04-30T07:12:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
+    "link": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
+    "pubDate": "Thu, 30 Apr 2026 07:09:09 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "銀行員が支店内部を撮影？　BeReal映像がXで拡散　西日本シティ銀「事実確認中」",
     "link": "https://www.itmedia.co.jp/news/articles/2604/30/news088.html",
     "pubDate": "2026-04-30T03:39:00.000Z"
@@ -30,10 +54,10 @@
     "pubDate": "2026-04-30T01:35:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "データ送受信は「iOS超え」か。スマホ、PC、サーバーまで同一OSで動かすファーウェイの野望｜レバテックLAB - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_854/",
-    "pubDate": "2026-04-30T01:28:11.000Z"
+    "site": "Zenn",
+    "title": "Vimの知見共有もできて盛り上がる「Vimペアプロ」を社内勉強会でやってみた",
+    "link": "https://zenn.dev/canary_techblog/articles/429cae3aaf06c7",
+    "pubDate": "Thu, 30 Apr 2026 01:00:05 GMT"
   },
   {
     "site": "Hatena",
@@ -49,15 +73,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「私がClaudeを解約した理由」をエンジニアが力説、トークン問題・品質低下・サポート不備など",
-    "link": "https://gigazine.net/news/20260430-why-cancelled-claude/",
-    "pubDate": "2026-04-29T22:07:42.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【特集】 古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2105357.html",
     "pubDate": "2026-04-29T21:34:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "高品質音楽生成AI【ACE-Step-1.5】で「破綻の微修正」に特化した新機能を提案する【Retake】",
+    "link": "https://zenn.dev/asap/articles/948526de2faa62",
+    "pubDate": "Wed, 29 Apr 2026 17:11:45 GMT"
   },
   {
     "site": "Hatena",
@@ -79,21 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "シェル起動時と cd のたびにダッシュボードを描く CLI「splashboard」を作りました",
-    "link": "https://zenn.dev/unhappychoice/articles/splashboard-introduction",
-    "pubDate": "Wed, 29 Apr 2026 05:45:05 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "UIの面倒、実はDBの問題だった ― Local-First と Instant が示す Web 開発の未来",
     "link": "https://zenn.dev/sc30gsw/articles/a39bd748caa861",
     "pubDate": "Wed, 29 Apr 2026 03:23:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeにレビューを任せてチームの負担を減らす",
-    "link": "https://zenn.dev/wwwave/articles/4d21d34ad604ba",
-    "pubDate": "2026-04-29T03:16:39.000Z"
   },
   {
     "site": "Hatena",
@@ -120,12 +132,6 @@
     "pubDate": "Tue, 28 Apr 2026 08:45:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "LM Studioで国産OSS大規模言語モデルLLM-jp4を使う",
-    "link": "https://zenn.dev/hi/articles/64f106cd145fa8",
-    "pubDate": "Tue, 28 Apr 2026 07:56:22 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【初学者向け】「どう並べて、どう取り出すか」で変わる - データ構造の基礎",
     "link": "https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,12 +142,6 @@
     "title": "Claude Code に仕事を譲った日——残ったのは「判断」と「責任」だった",
     "link": "https://zenn.dev/tokium_dev/articles/ca6f30192f6379",
     "pubDate": "Tue, 28 Apr 2026 04:37:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Copilot Pro は月300回制限からトークン課金へ—GPT-5.4 × Copilot CLI の実コストを試算した",
-    "link": "https://zenn.dev/toki_mwc/articles/copilot-pro-token-billing-gpt54",
-    "pubDate": "Tue, 28 Apr 2026 04:34:49 GMT"
   },
   {
     "site": "Qiita",
