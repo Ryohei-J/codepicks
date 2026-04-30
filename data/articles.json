@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "銀行員が支店内部を撮影？　BeReal映像がXで拡散　西日本シティ銀「事実確認中」",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/30/news088.html",
+    "pubDate": "2026-04-30T03:39:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Decision Quality と設計判断失敗パターン - kawasima",
+    "link": "https://scrapbox.io/kawasima/Decision_Quality_%E3%81%A8%E8%A8%AD%E8%A8%88%E5%88%A4%E6%96%AD%E5%A4%B1%E6%95%97%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3",
+    "pubDate": "2026-04-30T03:04:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新卒をメンタリングするつもりが、逆にメンタルケアされていた2年目エンジニアの話",
+    "link": "https://qiita.com/Rabbit_booK/items/e3b7ac45d5cc7699940f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-30T03:02:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初学者向け】「なんとなくコード書く」を卒業するためのアルゴリズム入門",
+    "link": "https://qiita.com/masa20057/items/b1a956add6ec342f31b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-30T02:17:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ一部のAIモデルは「日本文化」に執着するのか？　「4o-mini」などの出力が日本に偏る実態、欧州チームが研究発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/30/news025.html",
+    "pubDate": "2026-04-30T01:35:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "データ送受信は「iOS超え」か。スマホ、PC、サーバーまで同一OSで動かすファーウェイの野望｜レバテックLAB - レバテックLAB",
     "link": "https://levtech.jp/media/detail_854/",
     "pubDate": "2026-04-30T01:28:11.000Z"
   },
   {
     "site": "Hatena",
-    "title": "アマゾン 1-3月期決算 最終利益 大幅76.6％増 AI需要高まりで | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015111191000",
-    "pubDate": "2026-04-29T22:17:49.000Z"
+    "title": "Apple、｢Vision Pro｣を事実上断念か ｰ 売れ行き低迷で新モデルの開発は停止 | 気になる、記になる…",
+    "link": "https://taisy0.com/2026/04/30/222691.html",
+    "pubDate": "2026-04-29T23:51:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜ深層学習は表形式データでツリーモデルに勝てないのか",
+    "link": "https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-29T22:10:38.000Z"
   },
   {
     "site": "Hatena",
@@ -19,33 +55,39 @@
   },
   {
     "site": "Hatena",
-    "title": "【やじうまミニレビュー】 3千円台で買えるWi-Fi時計！ノア精密の卓上モデル「T801AWHZ」を試す",
-    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2105094.html",
-    "pubDate": "2026-04-29T21:35:36.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【特集】 古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2105357.html",
     "pubDate": "2026-04-29T21:34:16.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Zed is 1.0 - Zed Blog",
-    "link": "https://zed.dev/blog/zed-1-0",
-    "pubDate": "2026-04-29T18:24:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenCode Go を利用してみた",
-    "link": "https://voluntas.ghost.io/opencode-go/",
-    "pubDate": "2026-04-29T14:16:22.000Z"
+    "title": "AIの本質は『出力』じゃなくて『構造の仮置き』なのかも、という話 #PR｜けんすう",
+    "link": "https://kensuu.com/n/n75b652e1ce81",
+    "pubDate": "2026-04-29T13:32:03.000Z"
   },
   {
     "site": "Zenn",
     "title": "1m精度の標高データを使って、全国の前方後円墳を探してみた",
     "link": "https://zenn.dev/tasuku/articles/73bf8c7274208f",
     "pubDate": "Wed, 29 Apr 2026 10:02:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "\"array[i++] = null; は本当に GC を促進するのか — Node.js で実測して確かめる",
+    "link": "https://zenn.dev/wakame_atsushi/articles/e9b754160d1469",
+    "pubDate": "Wed, 29 Apr 2026 06:30:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "シェル起動時と cd のたびにダッシュボードを描く CLI「splashboard」を作りました",
+    "link": "https://zenn.dev/unhappychoice/articles/splashboard-introduction",
+    "pubDate": "Wed, 29 Apr 2026 05:45:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "UIの面倒、実はDBの問題だった ― Local-First と Instant が示す Web 開発の未来",
+    "link": "https://zenn.dev/sc30gsw/articles/a39bd748caa861",
+    "pubDate": "Wed, 29 Apr 2026 03:23:16 GMT"
   },
   {
     "site": "Zenn",
@@ -58,12 +100,6 @@
     "title": "【完全版】Claude Code運用40選｜KAWAI",
     "link": "https://note.com/kawaidesign/n/nce2f82c62f1f",
     "pubDate": "2026-04-29T02:37:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude、PhotoshopやBlenderなどクリエイティブツールと連携",
-    "link": "https://www.watch.impress.co.jp/docs/news/2105535.html",
-    "pubDate": "2026-04-28T23:11:51.000Z"
   },
   {
     "site": "Zenn",
@@ -114,18 +150,6 @@
     "pubDate": "2026-04-28T04:04:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
-    "link": "https://zenn.dev/nttdata_tech/articles/bf6b694144e55a",
-    "pubDate": "Tue, 28 Apr 2026 03:52:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントを安全に動かすための技術——サンドボックスについて調べてみる",
-    "link": "https://zenn.dev/layerx/articles/a99cd11af487fc",
-    "pubDate": "Tue, 28 Apr 2026 03:51:17 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【Claude Code入門】Skills 徹底解説 - 仕組みの解説からハンズオンまで",
     "link": "https://qiita.com/i-inose/items/14f212258dc350857a94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -138,28 +162,10 @@
     "pubDate": "2026-04-28T02:38:06.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIに会社のGoogleアカウントを渡していませんか",
-    "link": "https://zenn.dev/finatext/articles/mcp-gateway-google-sa",
-    "pubDate": "Tue, 28 Apr 2026 02:30:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【入門〜実務】クオンツトレーダーにとって「自己相関」とは何か — 順張り・逆張り仮説を分ける基本検査",
-    "link": "https://qiita.com/tikeda123/items/3800c4d6542d21508f64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-28T02:13:44.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "API Gateway → Lambda の間で何が行われているかを易しく解説",
     "link": "https://qiita.com/hosomatu/items/afdd509365a770598fc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-27T23:38:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "WAFは安心を買う装置ではない",
-    "link": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-27T22:31:02.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
     "link": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-27T09:00:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "API入門",
-    "link": "https://qiita.com/code_thought/items/f460b08fae3aaa5186d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-27T01:56:47.000Z"
   }
 ]
