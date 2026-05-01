@@ -1,27 +1,45 @@
 [
   {
+    "site": "Zenn",
+    "title": "自作MCPサーバーのトークン消費を9割削減するTips ── MCPの退避パターン",
+    "link": "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
+    "pubDate": "2026-05-01T01:17:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ「BeReal」から漏えいが相次ぐのか　“2分以内”の焦りが生む不用意な投稿",
+    "link": "https://www.itmedia.co.jp/news/articles/2604/30/news112.html",
+    "pubDate": "2026-05-01T01:00:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コーディングをAIに任せても、エンジニアの仕事は減らなかった ― ほぼ一人で1か月、AI機能をリリースしてみて - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2026/05/01/070000",
+    "pubDate": "2026-04-30T22:12:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Mini Shai-Hulud の概要と対応指針（2026年4月末 連続パッケージ侵害） - GMO Flatt Security Blog",
+    "link": "https://blog.flatt.tech/entry/mini_shai_hulud",
+    "pubDate": "2026-04-30T21:17:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アンソロピック、「Claude Security」開始　Opus 4.7が防御対策",
+    "link": "https://www.watch.impress.co.jp/docs/news/2105989.html",
+    "pubDate": "2026-04-30T20:43:23.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "以前付き合っていた女性に振られた人、その理由に様々な意見「超少数派という自覚は持った方が良い」「わたしも具だけ食べる派でした...」",
     "link": "https://togetter.com/li/2691501",
     "pubDate": "2026-04-30T12:49:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoft、ターミナル用エディター「Edit」バージョン2.0.0をリリース　——構文ハイライトを追加 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/04/edit-2.0",
-    "pubDate": "2026-04-30T10:12:40.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話",
     "link": "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
     "pubDate": "2026-04-30T10:09:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "xAIに入社した - lapla.dev",
-    "link": "https://lapla.dev/posts/xai",
-    "pubDate": "2026-04-30T08:13:37.000Z"
   },
   {
     "site": "Hatena",
@@ -33,31 +51,19 @@
     "site": "Zenn",
     "title": "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
     "link": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
-    "pubDate": "2026-04-30T07:12:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
-    "link": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
     "pubDate": "Thu, 30 Apr 2026 07:09:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "銀行員が支店内部を撮影？　BeReal映像がXで拡散　西日本シティ銀「事実確認中」",
-    "link": "https://www.itmedia.co.jp/news/articles/2604/30/news088.html",
-    "pubDate": "2026-04-30T03:39:00.000Z"
+    "site": "Zenn",
+    "title": "全てを可視化する「全部入り走行データビューア」を実現するデータパイプラインとフロントエンド実装スタック",
+    "link": "https://zenn.dev/turing_motors/articles/38d06cc13690bb",
+    "pubDate": "Thu, 30 Apr 2026 06:00:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "エディター「with」を作り始めました",
-    "link": "https://taiyolab.com/ja/2026/04/30/fiction-editor-with-starting/",
-    "pubDate": "2026-04-30T03:37:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Decision Quality と設計判断失敗パターン - kawasima",
-    "link": "https://scrapbox.io/kawasima/Decision_Quality_%E3%81%A8%E8%A8%AD%E8%A8%88%E5%88%A4%E6%96%AD%E5%A4%B1%E6%95%97%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3",
-    "pubDate": "2026-04-30T03:04:03.000Z"
+    "site": "Zenn",
+    "title": "宣言的スキーマ管理ツール pistachio を作成しました",
+    "link": "https://zenn.dev/kanmu_dev/articles/16789ef1f4283a",
+    "pubDate": "Thu, 30 Apr 2026 03:52:05 GMT"
   },
   {
     "site": "Qiita",
@@ -85,15 +91,21 @@
   },
   {
     "site": "Qiita",
-    "title": "AWS Security Agentで設計レビュー・コードレビュー・ペネトレーションテストを全部やってみた。リリース後の運用に繋げる - Qiita",
-    "link": "https://qiita.com/sh_fukatsu/items/104c8078532c272fb1f5",
-    "pubDate": "2026-04-29T18:05:42.000Z"
+    "title": "AWS Security Agentで設計レビュー・コードレビュー・ペネトレーションテストを全部やってみた。リリース後の運用に繋げる",
+    "link": "https://qiita.com/sh_fukatsu/items/104c8078532c272fb1f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-29T17:23:08.000Z"
   },
   {
     "site": "Zenn",
     "title": "高品質音楽生成AI【ACE-Step-1.5】で「破綻の微修正」に特化した新機能を提案する【Retake】",
     "link": "https://zenn.dev/asap/articles/948526de2faa62",
     "pubDate": "Wed, 29 Apr 2026 17:11:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話",
+    "link": "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
+    "pubDate": "Wed, 29 Apr 2026 13:16:33 GMT"
   },
   {
     "site": "Zenn",
@@ -108,40 +120,34 @@
     "pubDate": "Wed, 29 Apr 2026 06:30:14 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "GitHub神話の6日間 — ガバナンス、稼働率、セキュリティ、コストが同時に揺らいだ一週間",
+    "link": "https://qiita.com/crowdy/items/c3e06c47b350ef230352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-29T05:49:57.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "UIの面倒、実はDBの問題だった ― Local-First と Instant が示す Web 開発の未来",
     "link": "https://zenn.dev/sc30gsw/articles/a39bd748caa861",
     "pubDate": "Wed, 29 Apr 2026 03:23:16 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "AI時代のエンジニアに必要なパラダイムシフト － 自己否定の先にあるもの - NRIネットコムBlog",
+    "link": "https://tech.nri-net.com/entry/ai_era_software_engineer_paradigm_shift",
+    "pubDate": "2026-04-29T02:56:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DeNAやGOなど、AI勉強会の資料を無料公開中　累計100件超",
+    "link": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news106.html",
+    "pubDate": "2026-04-28T15:16:20.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Hono公式の Inertia アダプタが来た！Hono × Inertia × React によるSPA新体験",
     "link": "https://zenn.dev/ashunar0/articles/cc351badf8681c",
     "pubDate": "Tue, 28 Apr 2026 10:14:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "97%のPermission確認を自動化するCoding Agent用OSS「ccgate」が誕生した",
-    "link": "https://zenn.dev/layerx/articles/20260428-ccgate",
-    "pubDate": "Tue, 28 Apr 2026 09:23:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エージェントコスト対策としてローカルLLMはアリ？— Ollamaで試してみた",
-    "link": "https://zenn.dev/headwaters/articles/509a1f83c693ce",
-    "pubDate": "Tue, 28 Apr 2026 08:45:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初学者向け】「どう並べて、どう取り出すか」で変わる - データ構造の基礎",
-    "link": "https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-28T04:56:32.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code に仕事を譲った日——残ったのは「判断」と「責任」だった",
-    "link": "https://zenn.dev/tokium_dev/articles/ca6f30192f6379",
-    "pubDate": "Tue, 28 Apr 2026 04:37:45 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【書評】Qiita貢献度1位の『技術記事を書く技術』は、エンジニアの机に置いてほしい",
     "link": "https://qiita.com/ssaita/items/091cb4ef066abfb1e06b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-27T21:39:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
-    "link": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-27T09:00:30.000Z"
   }
 ]
