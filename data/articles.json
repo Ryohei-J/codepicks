@@ -1,39 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "GitHub ActionsとECS Run TaskでDB操作を自動化する - Sweet Escape",
+    "link": "https://www.keisuke69.net/entry/2026/05/02/173529",
+    "pubDate": "2026-05-02T08:55:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「監視しているのになぜ気づかない」を解消した3つの施策",
+    "link": "https://zenn.dev/solwat/articles/f8e2c7a3b9d1f4",
+    "pubDate": "2026-05-02T08:23:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『超かぐや姫！』が「長尺＆冒頭20分間日常シーン」でも大ヒットした秘密は巧みな宣伝手法にあり (1/5)",
+    "link": "https://ascii.jp/elem/000/004/393/4393663/",
+    "pubDate": "2026-05-02T07:33:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeについて思うこと - Qiita",
+    "link": "https://qiita.com/sour23/items/e95f490b6533227fe73c",
+    "pubDate": "2026-05-02T06:26:34.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "けっこう実用的。｢OpenCode｣×ローカルLLMで“無料Claude Code”してみた",
     "link": "https://www.gizmodo.jp/2026/05/opencode_google_gemma_4.html",
     "pubDate": "2026-05-02T04:56:01.000Z"
   },
   {
     "site": "Hatena",
-    "title": "生成AI、利用料はいくらになった？ 2026年5月の主要8サービス料金早見表 | Business Insider Japan",
-    "link": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
-    "pubDate": "2026-05-01T17:40:10.000Z"
+    "title": "サプライチェーン攻撃の対策 - kawasima",
+    "link": "https://scrapbox.io/kawasima/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83%E3%81%AE%E5%AF%BE%E7%AD%96",
+    "pubDate": "2026-05-02T02:56:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeにオレたち流のコードを書かせる（前編）— プロジェクトの流儀を自動抽出する",
+    "link": "https://qiita.com/hiropon122/items/80e76424effeeb5431c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-02T00:48:01.000Z"
   },
   {
     "site": "Hatena",
-    "title": "MySQL Parameters を picoruby.wasm で作り直した - tmtms のメモ",
-    "link": "https://blog.tmtms.net/entry/202605-mysql-params-picoruby",
-    "pubDate": "2026-05-01T17:35:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ミスタードーナツ、内部情報写り込みの画像SNS拡散　運営本部・ダスキン認める「厳格に対処してまいります」",
-    "link": "https://www.j-cast.com/2026/05/01514369.html?p=all",
-    "pubDate": "2026-05-01T17:14:40.000Z"
+    "title": "実践 ハイブリッドクラウド・セキュリティアーキテクチャ",
+    "link": "https://www.oreilly.co.jp//books/9784814401697/",
+    "pubDate": "2026-05-02T00:17:35.000Z"
   },
   {
     "site": "Zenn",
     "title": "マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか",
     "link": "https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak",
     "pubDate": "2026-05-01T15:30:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "スマホの価格破壊が沖縄から始まる？半導体チップ製造の｢一社独占｣を崩せるか",
-    "link": "https://www.gizmodo.jp/2026/05/euv_levolution.html",
-    "pubDate": "2026-05-01T14:45:36.000Z"
   },
   {
     "site": "Zenn",
@@ -60,10 +78,22 @@
     "pubDate": "Fri, 01 May 2026 12:48:15 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "Claude CodeでGit履歴に「OpenClaw」の文字列があるだけで利用制限や追加課金が発生するとの報告",
+    "link": "https://gigazine.net/news/20260501-claude-code-ban-openclaw/",
+    "pubDate": "2026-05-01T12:42:35.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "7年前の Chromebook でローカルLLMは動くのか？ Trillim + Ternary Bonsai を Crostini で試す",
     "link": "https://zenn.dev/dateshim/articles/eb9b7bb8e53cc2",
     "pubDate": "Fri, 01 May 2026 12:30:56 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて",
+    "link": "https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-01T11:02:07.000Z"
   },
   {
     "site": "Zenn",
@@ -72,16 +102,16 @@
     "pubDate": "Fri, 01 May 2026 10:38:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Linuxの脆弱性対策について(CVE-2026-31431、Copy Fail) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
-    "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20260501.html",
-    "pubDate": "2026-05-01T09:45:17.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "DGX Sparkに xrdp + Tailscale でリモートデスクトップ環境を構築する",
     "link": "https://zenn.dev/karaage0703/articles/ad960088e1b94f",
     "pubDate": "Fri, 01 May 2026 09:33:54 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "RubyKaigi 2026 に参加してきました",
+    "link": "https://qiita.com/tomoasleep/items/03f5d7a7b03d3d8a3a78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-01T09:22:53.000Z"
   },
   {
     "site": "Zenn",
@@ -94,18 +124,6 @@
     "title": "「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”",
     "link": "https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-01T03:03:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ",
-    "link": "https://tech.layerx.co.jp/entry/articulatin_quality",
-    "pubDate": "2026-05-01T02:59:49.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【PostgreSQL】複合インデックスを利用したパフォーマンス改善事例",
-    "link": "https://qiita.com/murarihyon-k/items/767f1b114830bedf099a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-01T01:13:02.000Z"
   },
   {
     "site": "Zenn",
@@ -126,12 +144,6 @@
     "pubDate": "Thu, 30 Apr 2026 14:00:05 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "社会人のためのObsidian：実践的なVault構成とワークフロー",
-    "link": "https://qiita.com/harryforge/items/f3a946f5ce8326dca4ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-30T13:58:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "S3 Files 性能評価",
     "link": "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
@@ -139,21 +151,21 @@
   },
   {
     "site": "Qiita",
-    "title": "【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）",
-    "link": "https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-30T09:56:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code の通知設定 + 通知一括削除ショートカット（Mac）",
-    "link": "https://qiita.com/I635230/items/5e17576aa2219d4dbca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-30T09:44:47.000Z"
+    "title": "【AI】MicrosoftCopilotを使って動く自律型コーディングツール「Cell‑Code」を作成！",
+    "link": "https://qiita.com/keikyufun/items/d827383095eef69bb66c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-30T11:17:10.000Z"
   },
   {
     "site": "Qiita",
     "title": "新卒をメンタリングするつもりが、逆にメンタルケアされていた2年目エンジニアの話",
     "link": "https://qiita.com/Rabbit_booK/items/e3b7ac45d5cc7699940f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-30T03:02:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "SKILL.mdを使っている人は全員\"gh skill\"も知っておいてください",
+    "link": "https://qiita.com/TooMe/items/c9e42de497a9eff2b680?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-04-30T02:51:29.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "なぜ深層学習は表形式データでツリーモデルに勝てないのか",
     "link": "https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-29T22:10:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた",
-    "link": "https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-04-29T08:48:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIと資本主義 ー 悪魔の組み合わせが倫理を踏み潰すとき - Nothing ventured, nothing gained.",
-    "link": "https://takoratta.hatenablog.com/entry/2026/04/28/173315",
-    "pubDate": "2026-04-28T10:29:50.000Z"
   }
 ]
