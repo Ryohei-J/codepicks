@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "けっこう実用的。｢OpenCode｣×ローカルLLMで“無料Claude Code”してみた",
+    "link": "https://www.gizmodo.jp/2026/05/opencode_google_gemma_4.html",
+    "pubDate": "2026-05-02T04:56:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AI、利用料はいくらになった？ 2026年5月の主要8サービス料金早見表 | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2605-how-much-did-major-generative-ai-service-fees-become-in-may-2026/",
+    "pubDate": "2026-05-01T17:40:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MySQL Parameters を picoruby.wasm で作り直した - tmtms のメモ",
+    "link": "https://blog.tmtms.net/entry/202605-mysql-params-picoruby",
+    "pubDate": "2026-05-01T17:35:55.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ミスタードーナツ、内部情報写り込みの画像SNS拡散　運営本部・ダスキン認める「厳格に対処してまいります」",
     "link": "https://www.j-cast.com/2026/05/01514369.html?p=all",
     "pubDate": "2026-05-01T17:14:40.000Z"
@@ -12,16 +30,22 @@
     "pubDate": "2026-05-01T15:30:54.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "スマホの価格破壊が沖縄から始まる？半導体チップ製造の｢一社独占｣を崩せるか",
+    "link": "https://www.gizmodo.jp/2026/05/euv_levolution.html",
+    "pubDate": "2026-05-01T14:45:36.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【検出率100%】セキュリティ診断、Claude Codeに全部やらせる時代が来た",
     "link": "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
     "pubDate": "2026-05-01T14:36:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マネーフォワード、GitHubに不正アクセス　銀行口座連携を一時停止",
-    "link": "https://www.watch.impress.co.jp/docs/news/2106374.html",
-    "pubDate": "2026-05-01T14:27:18.000Z"
+    "site": "Zenn",
+    "title": "【検出率100%】セキュリティ診断、Claude Codeに全部やらせる時代が来た",
+    "link": "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
+    "pubDate": "Fri, 01 May 2026 14:15:19 GMT"
   },
   {
     "site": "Zenn",
@@ -30,22 +54,16 @@
     "pubDate": "Fri, 01 May 2026 13:29:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "macOS感染7000％激増、「28億件の認証情報」を盗み出す情報窃取型マルウェアの手口と対策 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/96713",
-    "pubDate": "2026-05-01T12:10:36.000Z"
+    "site": "Zenn",
+    "title": "Neovim 0.11 -> 0.12へアップデートする際の勘所とnvim-treesitterの扱い",
+    "link": "https://zenn.dev/tttol/articles/2881b678ee005b",
+    "pubDate": "Fri, 01 May 2026 12:48:15 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "新型AI「Mythos」電力やガスにサイバーリスク　経産相が対応要請 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUA302PI0Q6A430C2000000/",
-    "pubDate": "2026-05-01T11:35:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "IT関連会社「はてな」11億円流出 警察官かたる詐欺被害か | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015112951000",
-    "pubDate": "2026-05-01T10:41:20.000Z"
+    "site": "Zenn",
+    "title": "7年前の Chromebook でローカルLLMは動くのか？ Trillim + Ternary Bonsai を Crostini で試す",
+    "link": "https://zenn.dev/dateshim/articles/eb9b7bb8e53cc2",
+    "pubDate": "Fri, 01 May 2026 12:30:56 GMT"
   },
   {
     "site": "Zenn",
@@ -55,15 +73,21 @@
   },
   {
     "site": "Hatena",
-    "title": "英語のノベルゲームもこれで遊べる！ テキストを即時翻訳表示する「Hotkey Translator」／オーバーレイ表示で画面上のあらゆるテキストを多言語に翻訳可能【レビュー】",
-    "link": "https://forest.watch.impress.co.jp/docs/review/2105103.html",
-    "pubDate": "2026-05-01T09:52:01.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Linuxの脆弱性対策について(CVE-2026-31431、Copy Fail) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
     "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20260501.html",
     "pubDate": "2026-05-01T09:45:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "DGX Sparkに xrdp + Tailscale でリモートデスクトップ環境を構築する",
+    "link": "https://zenn.dev/karaage0703/articles/ad960088e1b94f",
+    "pubDate": "Fri, 01 May 2026 09:33:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "gh skill と Copilot Coding Agent で Agent Skills を自動推薦する仕組みを作ってみた",
+    "link": "https://zenn.dev/exwzd/articles/20260501_copilot_agent_skill_recommender",
+    "pubDate": "Fri, 01 May 2026 06:26:38 GMT"
   },
   {
     "site": "Qiita",
@@ -76,12 +100,6 @@
     "title": "品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ",
     "link": "https://tech.layerx.co.jp/entry/articulatin_quality",
     "pubDate": "2026-05-01T02:59:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "社内向けAIアシスタントを3か月間試験運用してみた",
-    "link": "https://zenn.dev/mkj/articles/87c3ce556cde90",
-    "pubDate": "Fri, 01 May 2026 02:50:05 GMT"
   },
   {
     "site": "Qiita",
@@ -120,18 +138,6 @@
     "pubDate": "Thu, 30 Apr 2026 12:33:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "terraform applyをGHAで実行してはいけない理由",
-    "link": "https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6",
-    "pubDate": "Thu, 30 Apr 2026 12:02:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "セキュリティ診断、AIに全部やらせたら月$0.5で回せるようになった話💰",
-    "link": "https://zenn.dev/sabakan1/articles/bd286802d6a91d",
-    "pubDate": "Thu, 30 Apr 2026 10:44:41 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）",
     "link": "https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -142,18 +148,6 @@
     "title": "Claude Code の通知設定 + 通知一括削除ショートカット（Mac）",
     "link": "https://qiita.com/I635230/items/5e17576aa2219d4dbca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-30T09:44:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Linuxカーネルの脆弱性「Copy Fail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
-    "link": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
-    "pubDate": "Thu, 30 Apr 2026 07:09:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "全てを可視化する「全部入り走行データビューア」を実現するデータパイプラインとフロントエンド実装スタック",
-    "link": "https://zenn.dev/turing_motors/articles/38d06cc13690bb",
-    "pubDate": "Thu, 30 Apr 2026 06:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた",
     "link": "https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-29T08:48:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIと資本主義 ー 悪魔の組み合わせが倫理を踏み潰すとき - Nothing ventured, nothing gained.",
+    "link": "https://takoratta.hatenablog.com/entry/2026/04/28/173315",
+    "pubDate": "2026-04-28T10:29:50.000Z"
   }
 ]
