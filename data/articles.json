@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "BeRealが問題になったことで、今の平均的な大学生のNS事情がどうなっているのかに注目が集まり、「Discord」を知らない人が多い事実が判明",
+    "link": "https://togetter.com/li/2692323",
+    "pubDate": "2026-05-02T13:00:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIは学習データを使い果たしつつある可能性、スタンフォード大学報告書が警告（Forbes JAPAN） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/6cbf71e48b722ead8fea6badfc92db843c730d33",
+    "pubDate": "2026-05-02T09:27:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GitHub ActionsとECS Run TaskでDB操作を自動化する - Sweet Escape",
     "link": "https://www.keisuke69.net/entry/2026/05/02/173529",
     "pubDate": "2026-05-02T08:55:03.000Z"
@@ -22,6 +34,12 @@
     "title": "Claude Codeについて思うこと - Qiita",
     "link": "https://qiita.com/sour23/items/e95f490b6533227fe73c",
     "pubDate": "2026-05-02T06:26:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、Codexアプリの作業状況を知らせるコンパニオン「Codex pets」をリリース | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/05/codex-pets",
+    "pubDate": "2026-05-02T05:28:04.000Z"
   },
   {
     "site": "Hatena",
@@ -49,21 +67,21 @@
   },
   {
     "site": "Zenn",
-    "title": "マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか",
-    "link": "https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak",
-    "pubDate": "2026-05-01T15:30:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【検出率100%】セキュリティ診断、Claude Codeに全部やらせる時代が来た",
-    "link": "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
-    "pubDate": "2026-05-01T14:36:19.000Z"
+    "title": "AndroidでClaude Code / Codex / Gemini CLIを動かすネイティブAIターミナルIDEを作った",
+    "link": "https://zenn.dev/ryoitabashi/articles/744397718965f6",
+    "pubDate": "Fri, 01 May 2026 14:57:21 GMT"
   },
   {
     "site": "Zenn",
     "title": "【検出率100%】セキュリティ診断、Claude Codeに全部やらせる時代が来た",
     "link": "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
     "pubDate": "Fri, 01 May 2026 14:15:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Stripeが構想するAIエージェント決済インフラ - MPP、Tempo、Link Agent Wallets...etc",
+    "link": "https://zenn.dev/komlock_lab/articles/stripe-sessions-2026",
+    "pubDate": "Fri, 01 May 2026 13:50:29 GMT"
   },
   {
     "site": "Zenn",
@@ -76,12 +94,6 @@
     "title": "Neovim 0.11 -> 0.12へアップデートする際の勘所とnvim-treesitterの扱い",
     "link": "https://zenn.dev/tttol/articles/2881b678ee005b",
     "pubDate": "Fri, 01 May 2026 12:48:15 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude CodeでGit履歴に「OpenClaw」の文字列があるだけで利用制限や追加課金が発生するとの報告",
-    "link": "https://gigazine.net/news/20260501-claude-code-ban-openclaw/",
-    "pubDate": "2026-05-01T12:42:35.000Z"
   },
   {
     "site": "Zenn",
@@ -114,16 +126,16 @@
     "pubDate": "2026-05-01T09:22:53.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "gh skill と Copilot Coding Agent で Agent Skills を自動推薦する仕組みを作ってみた",
-    "link": "https://zenn.dev/exwzd/articles/20260501_copilot_agent_skill_recommender",
-    "pubDate": "Fri, 01 May 2026 06:26:38 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”",
     "link": "https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-01T03:03:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "社内向けAIアシスタントを3か月間試験運用してみた",
+    "link": "https://zenn.dev/mkj/articles/87c3ce556cde90",
+    "pubDate": "Fri, 01 May 2026 02:50:05 GMT"
   },
   {
     "site": "Zenn",
@@ -136,18 +148,6 @@
     "title": "Copy Fail とは？（結構詳しめ）",
     "link": "https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-30T15:59:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScript で実装したワークフローの「正しさ」を Lean とランダムテストで検証する",
-    "link": "https://zenn.dev/aishift/articles/a4bdf225a348e5",
-    "pubDate": "Thu, 30 Apr 2026 14:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "S3 Files 性能評価",
-    "link": "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
-    "pubDate": "Thu, 30 Apr 2026 12:33:05 GMT"
   },
   {
     "site": "Qiita",
