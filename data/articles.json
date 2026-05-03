@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "溝の口、ありえないデカさの生成AIで作った看板あって凄すぎる「なんでこれがAIっぽく見えるのか言葉でちゃんと説明するのちょっとむずい」",
+    "link": "https://togetter.com/li/2692600",
+    "pubDate": "2026-05-03T04:26:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ…　高まる思考力、疲れ知らずの働き者。人間に残された仕事は？ | NEWSjp",
+    "link": "https://news.jp/i/1417683400603631631?c=39546741839462401",
+    "pubDate": "2026-05-03T03:31:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIモデルに「あなたは熟練プログラマーです」と伝えるとかえってプログラマーとしての能力が低下する",
     "link": "https://gigazine.net/news/20260503-ai-expert-personas/",
     "pubDate": "2026-05-03T00:14:17.000Z"
@@ -31,15 +43,21 @@
   },
   {
     "site": "Hatena",
-    "title": "BeRealが問題になったことで、今の平均的な大学生のSNS事情がどうなっているのかに注目が集まり、「Discord」を知らない人が多い事実が判明",
-    "link": "https://togetter.com/li/2692323",
-    "pubDate": "2026-05-02T13:00:30.000Z"
+    "title": "MacBook NeoにCodexを導入したら、キュートなマスコットが常駐した。Codex Petsが楽しい（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/05/02/5040.html",
+    "pubDate": "2026-05-02T14:00:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIは学習データを使い果たしつつある可能性、スタンフォード大学報告書が警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/96415",
-    "pubDate": "2026-05-02T12:37:59.000Z"
+    "site": "Zenn",
+    "title": "Zaim APIで何ができるのか",
+    "link": "https://zenn.dev/todesking/articles/a7a82aa28646e6",
+    "pubDate": "Sat, 02 May 2026 11:16:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて - Qiita",
+    "link": "https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af",
+    "pubDate": "2026-05-02T09:38:19.000Z"
   },
   {
     "site": "Zenn",
@@ -60,16 +78,10 @@
     "pubDate": "2026-05-02T05:07:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "天竺｜shi3z",
-    "link": "https://note.com/shi3zblog/n/ndd469e1c2f6e",
-    "pubDate": "2026-05-02T04:41:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ちゃんとしたUSBケーブルを作るのに4年もかかった理由",
-    "link": "https://gigazine.net/news/20260502-make-usb-cables-4-years/",
-    "pubDate": "2026-05-02T04:14:54.000Z"
+    "site": "Zenn",
+    "title": "Kubernetes、全部さわる (前編) — コンテナの基礎から Pod・Deployment・Service まで",
+    "link": "https://zenn.dev/mrmtsntr/articles/k8s-all-in-one-part1",
+    "pubDate": "Sat, 02 May 2026 04:52:04 GMT"
   },
   {
     "site": "Qiita",
@@ -78,10 +90,22 @@
     "pubDate": "2026-05-02T04:02:14.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "SKILL.md AGENTS.md AgentSkills 完全整理ノート（備忘録）",
+    "link": "https://zenn.dev/kodak_diary/articles/8fb30c071e9752",
+    "pubDate": "2026-05-02T03:03:54.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Codeにオレたち流のコードを書かせる（前編）— プロジェクトの流儀を自動抽出する",
     "link": "https://qiita.com/hiropon122/items/80e76424effeeb5431c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-02T00:48:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeにオレたち流のコードを書かせる（前編）— プロジェクトの流儀を自動抽出する",
+    "link": "https://zenn.dev/sonicgarden/articles/claude-code-custom-rules-part1",
+    "pubDate": "Fri, 01 May 2026 15:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -126,24 +150,6 @@
     "pubDate": "2026-05-01T10:26:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "DGX Sparkに xrdp + Tailscale でリモートデスクトップ環境を構築する",
-    "link": "https://zenn.dev/karaage0703/articles/ad960088e1b94f",
-    "pubDate": "Fri, 01 May 2026 09:33:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go + gRPC サーバーのコンテナ化を行い、イメージ作成は Dockerfile より ko が適していると感じた理由",
-    "link": "https://zenn.dev/baleenstudio/articles/ea23ce22c6b3c3",
-    "pubDate": "Fri, 01 May 2026 07:41:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "gh skill と Copilot Coding Agent で Agent Skills を自動推薦する仕組みを作ってみた",
-    "link": "https://zenn.dev/exwzd/articles/20260501_copilot_agent_skill_recommender",
-    "pubDate": "Fri, 01 May 2026 06:26:38 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”",
     "link": "https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "なぜ深層学習は表形式データでツリーモデルに勝てないのか",
     "link": "https://qiita.com/KanNishida/items/4b3a0c02e58c3caa4e4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-04-29T22:10:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ラズパイでK8s…は重そうなのでK3sしてみた話",
-    "link": "https://zenn.dev/kuma3303/articles/21d5725a94fcc1",
-    "pubDate": "2023-06-30T21:27:54.000Z"
   }
 ]
