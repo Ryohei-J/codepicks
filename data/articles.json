@@ -13,6 +13,18 @@
   },
   {
     "site": "Hatena",
+    "title": "Playwright CLI で AI エージェントに視覚的なフィードバックを与える",
+    "link": "https://azukiazusa.dev/blog/playwright-cli-ai-agent-visual-feedback/",
+    "pubDate": "2026-05-03T09:11:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "VSCode 1.118 のアップデートがアツすぎ",
+    "link": "https://zenn.dev/headwaters/articles/f629e2f92828e7",
+    "pubDate": "2026-05-03T05:44:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIが週報をつまらなくした。週報のフォーマットを大幅改訂しました｜山田裕一朗（CEO at Findy Inc.）",
     "link": "https://note.com/yuichiro826/n/na3673744543d",
     "pubDate": "2026-05-03T05:13:33.000Z"
@@ -22,12 +34,6 @@
     "title": "溝の口、ありえないデカさの生成AIで作った看板あって凄すぎる「なんでこれがAIっぽく見えるのか言葉でちゃんと説明するのちょっとむずい」",
     "link": "https://togetter.com/li/2692600",
     "pubDate": "2026-05-03T04:26:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ…　高まる思考力、疲れ知らずの働き者。人間に残された仕事は？ | NEWSjp",
-    "link": "https://news.jp/i/1417683400603631631?c=39546741839462401",
-    "pubDate": "2026-05-03T03:31:52.000Z"
   },
   {
     "site": "Qiita",
@@ -42,28 +48,34 @@
     "pubDate": "2026-05-03T01:11:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIに渡す指示書の役割分担: AGENTS.md/SKILL.md/DESIGN.mdと仕様駆動開発の現在地",
+    "link": "https://zenn.dev/genda_jp/articles/f71d3ed7d4d7e8",
+    "pubDate": "Sat, 02 May 2026 21:25:13 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AIエージェントを会社で使いたい！→「え、セキュリティどうするの？」　企業導入への技術的アプローチ",
     "link": "https://qiita.com/sharu389no/items/ede7d1c0be4a14024857?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-02T16:20:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "CSSだいたい理解した",
-    "link": "https://unityroom.com/games/css-mostly-understood",
-    "pubDate": "2026-05-02T12:23:56.000Z"
+    "site": "Zenn",
+    "title": "5人の若手エンジニアの育成メモをClaude Codeに集約したら、1on1の下書きまで書けるようになった",
+    "link": "https://zenn.dev/sonicgarden/articles/39b9845d13963c",
+    "pubDate": "Sat, 02 May 2026 15:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS Security AgentでAIによるレビューとペネトレーションテストをやってみた",
+    "link": "https://zenn.dev/kymx1983/articles/20260502-aws-security-agent-pentest",
+    "pubDate": "Sat, 02 May 2026 13:28:46 GMT"
   },
   {
     "site": "Zenn",
     "title": "Zaim APIで何ができるのか",
     "link": "https://zenn.dev/todesking/articles/a7a82aa28646e6",
     "pubDate": "Sat, 02 May 2026 11:16:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて - Qiita",
-    "link": "https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af",
-    "pubDate": "2026-05-02T09:38:19.000Z"
   },
   {
     "site": "Zenn",
@@ -84,12 +96,6 @@
     "pubDate": "2026-05-02T05:07:34.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Kubernetes、全部さわる (前編) — コンテナの基礎から Pod・Deployment・Service まで",
-    "link": "https://zenn.dev/mrmtsntr/articles/k8s-all-in-one-part1",
-    "pubDate": "Sat, 02 May 2026 04:52:04 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "セキュリティを後付けにしないための実践ガイド",
     "link": "https://qiita.com/ryucciarati/items/b61f080466c760e5ecc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -106,6 +112,12 @@
     "title": "SKILL.md AGENTS.md AgentSkills 完全整理ノート（備忘録）",
     "link": "https://zenn.dev/kodak_diary/articles/8fb30c071e9752",
     "pubDate": "2026-05-02T03:03:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "VSCode 1.118 のアップデートがアツすぎ",
+    "link": "https://zenn.dev/headwaters/articles/f629e2f92828e7",
+    "pubDate": "Fri, 01 May 2026 23:40:05 GMT"
   },
   {
     "site": "Qiita",
@@ -126,34 +138,22 @@
     "pubDate": "Fri, 01 May 2026 14:57:21 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "AIは速度を前払いし、失敗を後払いにする｜Kosuke Kuzuoka",
+    "link": "https://note.com/kkosukeee/n/n99258fe1da3c",
+    "pubDate": "2026-05-01T14:48:21.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【検出率100%】セキュリティ診断、Claude Codeに全部やらせる時代が来た",
     "link": "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
     "pubDate": "Fri, 01 May 2026 14:15:19 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか",
-    "link": "https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak",
-    "pubDate": "Fri, 01 May 2026 13:29:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Neovim 0.11 -> 0.12へアップデートする際の勘所とnvim-treesitterの扱い",
-    "link": "https://zenn.dev/tttol/articles/2881b678ee005b",
-    "pubDate": "Fri, 01 May 2026 12:48:15 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて",
     "link": "https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-01T11:02:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "5年間のRails開発者がDDDに出会って考えが変わった話",
-    "link": "https://zenn.dev/neoai/articles/b843fc78203295",
-    "pubDate": "Fri, 01 May 2026 10:38:26 GMT"
   },
   {
     "site": "Qiita",
