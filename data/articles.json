@@ -1,9 +1,27 @@
 [
   {
+    "site": "Qiita",
+    "title": "[Frontend Performance - Part 8] JavaScriptランタイム最適化：メインスレッドをブロックさせない設計とは？",
+    "link": "https://qiita.com/tuanphan/items/d109bfd9a11bfbf2c100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-04T01:49:39.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "女体シャンパンタワー騒動の坂井氏が、今度は「皆で動画はAIで作られた偽物だったと言う事実を作れないですか？」との投稿… 協力の見返りに「認めて謝ってアカウント削除します」発言も",
     "link": "https://togetter.com/li/2692929",
     "pubDate": "2026-05-04T01:12:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "“最強のハッキングAI”は特殊例ではなかった！GPT-5.5が到達したサイバー攻撃能力の現在地 【生成AI事件簿】未知の脆弱性より危ない「既知だが未修正」の穴、常態化するAIの攻撃能力向上 | JBpress (ジェイビープレス)",
+    "link": "https://jbpress.ismedia.jp/articles/-/94685",
+    "pubDate": "2026-05-03T23:59:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTが出た瞬間、日本の、ど田舎で震えた。その後、私はClaude Codeをゼロから一人で作ったボリス・チェルニー/アンソロピック｜MasaT. 武富　正人",
+    "link": "https://note.com/vueloo_blog/n/n5e431ba0a160",
+    "pubDate": "2026-05-03T23:53:40.000Z"
   },
   {
     "site": "Hatena",
@@ -12,22 +30,46 @@
     "pubDate": "2026-05-03T23:35:07.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Temporalのpolyfillをゼロから実装した",
+    "link": "https://zenn.dev/fabon/articles/84f7696cd8a2fb",
+    "pubDate": "Sun, 03 May 2026 19:31:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "データエンジニアがオントロジーを触って、導入可能性に思いを馳せてみた",
+    "link": "https://zenn.dev/bare64/articles/ontology-data-platform-practice",
+    "pubDate": "Sun, 03 May 2026 17:28:07 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "みんなこれでいいAI。Googleの最新ローカルLLM｢Gemma 4｣は日本語うますぎ、でも無料",
     "link": "https://www.gizmodo.jp/2026/05/google_gemma_4_series.html",
     "pubDate": "2026-05-03T15:17:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "人を増やしても減らしてもアウトプットの品質は向上しない",
-    "link": "https://kosui.me/posts/2026/04/29/knowledge-entropy-and-normative-layer",
-    "pubDate": "2026-05-03T12:44:31.000Z"
+    "site": "Zenn",
+    "title": "「管理手順から外れて誤ってGitHubに保管」— マネーフォワード第二報から考える、本番データ混入を仕組みで止める方法",
+    "link": "https://zenn.dev/awesome_kou/articles/moneyforward-2nd-report-operational-mistake",
+    "pubDate": "Sun, 03 May 2026 15:14:06 GMT"
   },
   {
     "site": "Hatena",
-    "title": "「好戦的だ」　陸自部隊のロゴに批判続出　隊員が生成AIで作成（毎日新聞） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/6dfa0a58fae1d60a584bc3be213fffaf722cfa51",
-    "pubDate": "2026-05-03T11:40:50.000Z"
+    "title": "Microsoft本社で見た、AI時代の企業変革｜外山 英幸 | ビズリーチ CTO",
+    "link": "https://note.com/hideyuki_toyama/n/nd3adfe43be75",
+    "pubDate": "2026-05-03T14:40:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "初参加RubyKaigi2026レポート🐮",
+    "link": "https://zenn.dev/mire0726/articles/9d5a2e7755570d",
+    "pubDate": "Sun, 03 May 2026 13:31:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLM-jp-4 32B Thinking を本家学習コーパスでキャリブレーションして量子化したGGUFを公開しました",
+    "link": "https://zenn.dev/suzumura_lab/articles/0a1bdb04ec87ca",
+    "pubDate": "Sun, 03 May 2026 12:22:49 GMT"
   },
   {
     "site": "Hatena",
@@ -54,6 +96,12 @@
     "pubDate": "2026-05-03T08:00:06.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "クリプトカードはなぜ増えているのか。決済型・還元型・AIエージェント向けまで整理する",
+    "link": "https://zenn.dev/komlock_lab/articles/crypto-cards-japan-2026",
+    "pubDate": "Sun, 03 May 2026 07:58:18 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
     "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -66,18 +114,6 @@
     "pubDate": "2026-05-03T05:09:38.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "サイバーセキュリティの資格ロードマップを作成してみた - 日本資格込み版",
-    "link": "https://zenn.dev/hinoshiba/articles/made-cybersecurity-certification-roadmap",
-    "pubDate": "Sun, 03 May 2026 03:11:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Go】mapは取り出す順序を「意図的に」ランダム化していた",
-    "link": "https://zenn.dev/uufu_engineer/articles/e156ddd51f5a80",
-    "pubDate": "Sun, 03 May 2026 02:30:33 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code入りのDockerイメージをDevContainerで動かす",
     "link": "https://qiita.com/sour23/items/a86a42a675e27853299b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -88,12 +124,6 @@
     "title": "市場は本当に予測不能なのか？――ランダムウォーク仮説とクオンツが探す「小さな歪み」",
     "link": "https://qiita.com/tikeda123/items/e777dcadbc850c357419?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-03T01:11:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "漫画のネームを 3 大 AI に競作させたい — コーディング CLI を並列で走らせる nemu-kaigi の実装事例",
-    "link": "https://zenn.dev/yatmita/articles/nemu-kaigi-llm-content-voting",
-    "pubDate": "Sat, 02 May 2026 21:54:53 GMT"
   },
   {
     "site": "Zenn",
@@ -115,12 +145,6 @@
   },
   {
     "site": "Zenn",
-    "title": "5人の若手エンジニアの育成メモをClaude Codeに集約したら、1on1の下書きまで書けるようになった",
-    "link": "https://zenn.dev/sonicgarden/articles/39b9845d13963c",
-    "pubDate": "Sat, 02 May 2026 15:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "デジタル庁の生成AI基盤「源内」のOSSをAWS上で動かしてみた話",
     "link": "https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9",
     "pubDate": "Sat, 02 May 2026 14:25:44 GMT"
@@ -130,18 +154,6 @@
     "title": "AWS Security AgentでAIによるレビューとペネトレーションテストをやってみた",
     "link": "https://zenn.dev/kymx1983/articles/20260502-aws-security-agent-pentest",
     "pubDate": "Sat, 02 May 2026 13:28:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードを書きながら学ぶ プログラミングの原理原則",
-    "link": "https://zenn.dev/ippe/articles/learn-programming-principles-by-coding",
-    "pubDate": "Sat, 02 May 2026 08:50:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Remix v3 beta を触ってみる - React 経験者からみたフルスタックの新しい選択肢",
-    "link": "https://zenn.dev/coji/articles/remix-3-beta-firstlook",
-    "pubDate": "Sat, 02 May 2026 06:59:46 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "Excel業務を壊さずAPI化する設計入門：現場を敵にしないDXの作り方",
     "link": "https://qiita.com/satoru_higuchi/items/a6aa0300c3a97648c65c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-01T10:26:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【ついに我が家も】Cloudflareでゼロトラスト環境構築01【Zero Trust】",
-    "link": "https://qiita.com/hidekko/items/b987f390dd2130bc4bae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-01T01:59:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "決済基盤の整合性設計を仕様から決める。バクラク請求書発行のカード決済における2つの判断 - LayerX エンジニアブログ",
-    "link": "https://tech.layerx.co.jp/entry/payment-consistency-decision",
-    "pubDate": "2026-04-21T08:54:22.000Z"
   }
 ]
