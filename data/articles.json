@@ -1,5 +1,29 @@
 [
   {
+    "site": "Zenn",
+    "title": "例のサイゼイヤをIPAに通報した",
+    "link": "https://zenn.dev/watab2000/articles/ff5e07b13bc93b",
+    "pubDate": "2026-05-05T05:18:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Tailscaleやめたい - まいの雑記帳",
+    "link": "https://mq1.dev/entry/j7zvrsp48lb",
+    "pubDate": "2026-05-05T02:15:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI生成感のあるポスターの内容、全然頭に入ってこない事に気付いた「別に全否定派じゃないけど、AIだなってまず入ってくる感じはする」「AI生成には“意図”を感じない」",
+    "link": "https://togetter.com/li/2693392",
+    "pubDate": "2026-05-05T01:45:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Codex App Server の概要｜npaka",
+    "link": "https://note.com/npaka/n/n075114596672",
+    "pubDate": "2026-05-05T01:01:27.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Microsoftの新CLIテキストエディター「Edit」v2.0.0が公開 ～待望の構文ハイライト追加／ショートカットキーによる行の移動や行全体の選択も可能に",
     "link": "https://forest.watch.impress.co.jp/docs/news/2106292.html",
@@ -30,10 +54,10 @@
     "pubDate": "2026-05-04T12:31:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【論文瞬読】GPT-5.5 は実質 9.7T パラメータ？──知識の「圧縮できなさ」から黒箱 LLM の規模を逆算する｜AI Nest",
-    "link": "https://note.com/ainest/n/n7405de637d0b",
-    "pubDate": "2026-05-04T12:16:09.000Z"
+    "site": "Zenn",
+    "title": "韓非子 主道篇から学ぶClaude Codeの高度な使いこなし",
+    "link": "https://zenn.dev/tomfook/articles/e4613c2f2fbb28",
+    "pubDate": "Mon, 04 May 2026 11:20:00 GMT"
   },
   {
     "site": "Zenn",
@@ -43,9 +67,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Temporalのpolyfillをゼロから実装した",
-    "link": "https://zenn.dev/fabon/articles/84f7696cd8a2fb",
-    "pubDate": "2026-05-04T09:25:59.000Z"
+    "title": "Bedrock AgentCore Optimizationでマルチエージェントのプロンプトを改善・検証してみる",
+    "link": "https://zenn.dev/yokomachi/articles/202605_agentcore-optimization-recommendations",
+    "pubDate": "Mon, 04 May 2026 07:25:54 GMT"
   },
   {
     "site": "Zenn",
@@ -66,12 +90,6 @@
     "pubDate": "Mon, 04 May 2026 06:14:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeを作った男は、日本の農村で味噌を仕込んでいた｜Zun-Beho",
-    "link": "https://note.com/akikito/n/n95aa7df83cbc",
-    "pubDate": "2026-05-04T04:49:08.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "React QueryでフロントエンドのPerformanceを改善する実践ガイド",
     "link": "https://qiita.com/nhatcaofedev/items/55a1a5491eb22f20d77c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -88,12 +106,6 @@
     "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
     "link": "https://qiita.com/NXD139/items/ec04f8d5c110a9927498?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-04T03:08:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "goroutineは「非同期」でもある――仕組み、進化",
-    "link": "https://zenn.dev/torisan7500/articles/27226650fe8aac",
-    "pubDate": "Mon, 04 May 2026 02:13:01 GMT"
   },
   {
     "site": "Zenn",
@@ -124,12 +136,6 @@
     "title": "Temporalのpolyfillをゼロから実装した",
     "link": "https://zenn.dev/fabon/articles/84f7696cd8a2fb",
     "pubDate": "Sun, 03 May 2026 19:31:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHubに機密情報をpushしてしまった日のために — 無効化、履歴除去、多層防御の組み立て方",
-    "link": "https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense",
-    "pubDate": "Sun, 03 May 2026 19:08:44 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "ＡＷＳで整理する、フロントエンドの知識地図",
     "link": "https://qiita.com/fsitlab/items/8116fe5479eae734325f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-02T11:42:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - darrylmorley/whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-    "link": "https://github.com/darrylmorley/whatcable",
-    "pubDate": "2026-05-01T11:02:15.000Z"
   }
 ]
