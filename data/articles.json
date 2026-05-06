@@ -1,9 +1,51 @@
 [
   {
+    "site": "Qiita",
+    "title": "[Frontend Performance - Part 12] React最適化の完成：再レンダリング・メモ化・State設計を完全制覇",
+    "link": "https://qiita.com/tuanphan/items/b05513ade79cef735f90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-06T03:47:34.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "人間を欺いたAI｢Mythos｣、フォルクスワーゲン効果の不気味　記者座談会 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN01BNR0R00C26A5000000/",
-    "pubDate": "2026-05-05T20:23:24.000Z"
+    "title": "ゲーム『NTE』が生成AI使用疑惑で波紋　VTuberアイアンマウスはPR配信を中止",
+    "link": "https://kai-you.net/article/95323",
+    "pubDate": "2026-05-06T03:41:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Next.js App Routerで多言語対応を最短で実装する — next-intl実践ガイド",
+    "link": "https://qiita.com/nhatcaofedev/items/387cda18f797938acb6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-06T03:13:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Zustandを使って気づいた、もっと早く知りたかった7つのこと",
+    "link": "https://qiita.com/nhatcaofedev/items/95b6c49cfdd148898689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-06T02:27:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "そりゃ｢キレる老人｣が大量に生まれるわ…山口周氏｢テクノロジーの進化が中高年から奪った大事なモノ｣",
+    "link": "https://president.jp/articles/-/112517",
+    "pubDate": "2026-05-06T02:12:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Linux」に極めて重大な脆弱性--「Copy Fail」発覚",
+    "link": "https://japan.zdnet.com/article/35247165/",
+    "pubDate": "2026-05-05T23:27:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "夫婦の「心の隙間」埋めるＡＩ、後ろめたくとも「僕もめっちゃ大好き」…新たな愛の分散投資先に",
+    "link": "https://www.yomiuri.co.jp/national/20260505-GYT1T00184/",
+    "pubDate": "2026-05-05T20:58:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントの Skill は書くだけでは足りない ⇒ Waza で評価して APM で配ろう!【ハーネスエンジニアリング】",
+    "link": "https://zenn.dev/chips0711/articles/b081f3ddb93040",
+    "pubDate": "Tue, 05 May 2026 18:41:11 GMT"
   },
   {
     "site": "Hatena",
@@ -31,9 +73,21 @@
   },
   {
     "site": "Zenn",
+    "title": "インフラ知識ゼロの学生が、イベントNOCで監視システム諸々をキメてきた話",
+    "link": "https://zenn.dev/toramutton/articles/uec-enoc2026",
+    "pubDate": "Tue, 05 May 2026 13:20:03 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "iOS26に向けてナビゲーションバーを整理しよう",
     "link": "https://zenn.dev/noppe/articles/925fa230b2a8ca",
     "pubDate": "Tue, 05 May 2026 12:19:55 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
+    "link": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-05T12:08:08.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +102,16 @@
     "pubDate": "Tue, 05 May 2026 10:56:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "おい、要件を動くものにしろ - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2026/05/05/172501",
-    "pubDate": "2026-05-05T09:11:27.000Z"
+    "site": "Zenn",
+    "title": "【DB設計】ユニークと思いがちだけどユニークじゃないかもしれないもの",
+    "link": "https://zenn.dev/ncdc/articles/69900b19b2b63e",
+    "pubDate": "2026-05-05T09:28:36.000Z"
   },
   {
     "site": "Qiita",
     "title": "[Frontend Performance - Part 11] State設計最適化：無駄な再レンダリングを防ぐアーキテクチャ",
     "link": "https://qiita.com/tuanphan/items/5a8343dba7aa604f0a5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-05T09:00:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索",
-    "link": "https://speakerdeck.com/e869120_sub/softmatcha-2-1zhao-yu-gui-mo-kopasunochao-gao-su-katurou-rakaijian-suo",
-    "pubDate": "2026-05-05T08:43:48.000Z"
   },
   {
     "site": "Zenn",
@@ -78,16 +126,16 @@
     "pubDate": "2026-05-05T08:09:46.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
+    "link": "https://qiita.com/tkazuaki0820/items/a0a84c38e2a88ba84a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-05T08:01:48.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Obsidianで読書管理しやすくするプラグインを作った",
     "link": "https://zenn.dev/cocoaworks/articles/ff873931e58d0e",
     "pubDate": "Tue, 05 May 2026 07:33:16 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Docling vs MarkItDown: GenAI向けのドキュメント処理における最適なツールはどっち？",
-    "link": "https://qiita.com/TOMOSIA-LinhND/items/8ff4b27c4d9097380c18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-05T06:06:51.000Z"
   },
   {
     "site": "Zenn",
@@ -102,18 +150,6 @@
     "pubDate": "2026-05-05T03:19:00.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "[Frontend Performance - Part 10] memo / useMemo / useCallback の正しい使い方：React再レンダリング最適化",
-    "link": "https://qiita.com/tuanphan/items/f335d42c78ce7723af11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-05T03:03:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "例のサイゼイヤをIPAに通報した",
-    "link": "https://zenn.dev/watab2000/articles/ff5e07b13bc93b",
-    "pubDate": "Tue, 05 May 2026 03:00:06 GMT"
-  },
-  {
     "site": "Zenn",
     "title": "高校生がサイゼリヤをCLIから注文できるようにした件 ─ 技術・法律・倫理を多角的に考える",
     "link": "https://zenn.dev/yunamun/articles/7c42b5a0a29740",
@@ -121,27 +157,9 @@
   },
   {
     "site": "Zenn",
-    "title": "dbt Fusionの本質・注目ポイント・導入方法を一挙におさらい！",
-    "link": "https://zenn.dev/myshmeh/articles/dbt-fusion-ga-essence",
-    "pubDate": "Tue, 05 May 2026 01:41:20 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "パランティア1〜3月純利益4倍　AI分析、米国がイラン攻撃で利用 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN28CN40Y6A420C2000000/",
-    "pubDate": "2026-05-04T23:05:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[積読] 新卒から5年間で読んだ80冊と未読の幾百冊の特徴を考える",
-    "link": "https://zenn.dev/anri99103/articles/1d41dccdb667b6",
-    "pubDate": "Mon, 04 May 2026 16:09:03 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "最近沢山の技術書を読んだので、読書感想文を書いてみた。",
-    "link": "https://qiita.com/skill_toy/items/7fcf33141ecedf95a37a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-04T14:02:41.000Z"
+    "title": "Next.js(バックエンド)のクリーンアーキテクチャについて",
+    "link": "https://zenn.dev/skyremt/articles/3b075184d9fcc3",
+    "pubDate": "Mon, 04 May 2026 16:53:02 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "Claude Codeを120%使いこなす設定3選【ECC・Memory.md・Obsidian連携】",
     "link": "https://qiita.com/manchan/items/63745b9198f1989c2a15?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-03T16:25:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-    "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-03T07:32:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[学生必見]プログラミングアルバイトの罠",
-    "link": "https://qiita.com/river0525/items/ce29a2be9f293d5ccace?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-03T00:28:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エージェント フレンドリーなウェブサイトを構築する  |  web.dev",
-    "link": "https://web.dev/articles/ai-agent-site-ux?hl=ja",
-    "pubDate": "2026-05-01T21:01:32.000Z"
   }
 ]
