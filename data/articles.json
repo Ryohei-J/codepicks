@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Microsoft Edgeは全パスワードを平文でRAM保持する：同社は「設計通り」と回答するも漏洩リスクが指摘 | XenoSpectrum",
+    "link": "https://xenospectrum.com/edge-plaintext-ram-passwords/",
+    "pubDate": "2026-05-06T11:43:21.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "なぜ Rust なのか",
     "link": "https://voluntas.ghost.io/why-rust/",
     "pubDate": "2026-05-06T07:35:48.000Z"
@@ -25,15 +31,15 @@
   },
   {
     "site": "Hatena",
-    "title": "ゲーム『NTE』が生成AI使用疑惑で波紋　VTuberアイアンマウスはPR配信を中止",
-    "link": "https://kai-you.net/article/95323",
-    "pubDate": "2026-05-06T03:41:33.000Z"
+    "title": "Gen Interface JP",
+    "link": "https://gen.typesetting.jp/",
+    "pubDate": "2026-05-06T03:46:56.000Z"
   },
   {
     "site": "Hatena",
-    "title": "[アップデート] Amazon CloudWatch RUM にセッションリプレイ機能が追加され、ウェブアプリケーションのユーザー操作を動画のように再生できるようになりました | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/amazon-cloudwatch-rum-session/",
-    "pubDate": "2026-05-06T03:22:51.000Z"
+    "title": "ゲーム『NTE』が生成AI使用疑惑で波紋　VTuberアイアンマウスはPR配信を中止",
+    "link": "https://kai-you.net/article/95323",
+    "pubDate": "2026-05-06T03:41:33.000Z"
   },
   {
     "site": "Hatena",
@@ -67,12 +73,6 @@
   },
   {
     "site": "Hatena",
-    "title": "そりゃ｢キレる老人｣が大量に生まれるわ…山口周氏｢テクノロジーの進化が中高年から奪った大事なモノ｣",
-    "link": "https://president.jp/articles/-/112517",
-    "pubDate": "2026-05-06T02:12:39.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Amazon、物流サービスを外部に開放　「物流版AWS」",
     "link": "https://www.watch.impress.co.jp/docs/news/2106557.html",
     "pubDate": "2026-05-05T23:57:35.000Z"
@@ -84,15 +84,9 @@
     "pubDate": "2026-05-05T23:02:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "夫婦の「心の隙間」埋めるＡＩ、後ろめたくとも「僕もめっちゃ大好き」…新たな愛の分散投資先に",
-    "link": "https://www.yomiuri.co.jp/national/20260505-GYT1T00184/",
-    "pubDate": "2026-05-05T20:58:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIエージェントの Skill は書くだけでは足りない ⇒ Waza で評価して APM で配ろう!【ハーネスエンジニアリング】",
-    "link": "https://zenn.dev/chips0711/articles/b081f3ddb93040",
+    "link": "https://zenn.dev/microsoft/articles/b081f3ddb93040",
     "pubDate": "Tue, 05 May 2026 18:41:11 GMT"
   },
   {
@@ -142,6 +136,12 @@
     "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
     "link": "https://qiita.com/tkazuaki0820/items/a0a84c38e2a88ba84a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-05T08:01:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeユーザーのためのCodex入門",
+    "link": "https://zenn.dev/k9i/articles/20260504_cc_to_codex",
+    "pubDate": "2026-05-05T07:36:28.000Z"
   },
   {
     "site": "Zenn",
