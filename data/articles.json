@@ -1,9 +1,69 @@
 [
   {
+    "site": "Qiita",
+    "title": "React Router v7 入門 — 第1回：押さえておくべき基本",
+    "link": "https://qiita.com/nhatcaofedev/items/b7931e4bb7f51e1dccb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-07T07:11:09.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "え！？税込み600円のりんごジュースを3本買ったのになんで会計が1801円なんだ！？「まとめ買いするとたまにある」「システム屋が請求書機能を作る時に苦しむやつ」",
-    "link": "https://togetter.com/li/2694177",
-    "pubDate": "2026-05-06T23:41:49.000Z"
+    "title": "「セーラームーンに似ている」　生成AIを使った化粧品の広告が物議　メーカーは謝罪と広告の撤去を発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/07/news075.html",
+    "pubDate": "2026-05-07T07:05:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Chrome」が勝手に4GBもダウンロード、オンデバイスAI「Gemini Nano」の是非で紛糾／Googleの中の人が釈明【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2106708.html",
+    "pubDate": "2026-05-07T06:58:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS MCP Server が一般提供（GA）を開始、AI コーディングエージェントから AWS への安全なアクセスが可能になりました | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/20260507-aws-mcp-server-ga/",
+    "pubDate": "2026-05-07T05:00:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "認知負債 - kawasima",
+    "link": "https://scrapbox.io/kawasima/%E8%AA%8D%E7%9F%A5%E8%B2%A0%E5%82%B5",
+    "pubDate": "2026-05-07T03:56:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "老舗仮想ドライブソフト「DAEMON Tools」にマルウェア混入、1カ月近く気づかれず公式配布されていたと判明",
+    "link": "https://gigazine.net/news/20260507-daemon-tool-malware-for-a-month/",
+    "pubDate": "2026-05-07T03:28:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Chromeが約4GBのオンデバイスAIモデルを勝手に保存していると指摘される、削除しても再ダウンロードされるケースも",
+    "link": "https://gigazine.net/news/20260507-google-chrome-install-gemini-nano-without-consent/",
+    "pubDate": "2026-05-07T03:21:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "[Frontend Performance - Part 13] 初期ロード最適化：Code SplittingとLazy Loading設計",
+    "link": "https://qiita.com/tuanphan/items/fb0e061b31545cb3c0c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-07T03:07:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "API課金ゼロで米国ニュース要約デスクトップアプリを作った（Tauri × ローカルLLM）",
+    "link": "https://qiita.com/chaochire/items/46df03c9c3bf56670e05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-07T03:01:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【初学者向け】システム全体を理解するための5つの視点",
+    "link": "https://qiita.com/masa20057/items/f25a66f99edd5439f2ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-07T01:14:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "新卒研修の時の講師「プログラミングが一番できるのは哲学系出身」",
+    "link": "https://posfie.com/@Count_Down_000/p/B2db2Cy",
+    "pubDate": "2026-05-07T00:36:12.000Z"
   },
   {
     "site": "Hatena",
@@ -12,28 +72,16 @@
     "pubDate": "2026-05-06T21:00:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-    "link": "https://www.anthropic.com/news/higher-limits-spacex",
-    "pubDate": "2026-05-06T16:44:38.000Z"
+    "site": "Zenn",
+    "title": "ローカルのMarkdownワークスペース全体をブラウザで閲覧・編集できる軽量Webアプリを作った",
+    "link": "https://zenn.dev/karaage0703/articles/78056e4d3e07a2",
+    "pubDate": "Wed, 06 May 2026 14:59:38 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Google Chrome 148」が正式版に ～AI機能「Gemini in Chrome」を展開／プロファイルの作成フローを刷新",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2106561.html",
-    "pubDate": "2026-05-06T15:46:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS、攻撃を受けた中東（UAE）リージョンの復旧には数カ月かかると。状況を約2カ月ぶりに報告",
-    "link": "https://www.publickey1.jp/blog/26/awsuae2.html",
-    "pubDate": "2026-05-06T15:23:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "専門医よりも3年早くガンを見つけるAIが誕生、通常のCT画像の「見えない変化」を検出",
-    "link": "https://gigazine.net/news/20260506-ai-cancer/",
-    "pubDate": "2026-05-06T13:49:35.000Z"
+    "site": "Zenn",
+    "title": "サイゼリヤAPI/CLI 騒動まとめ",
+    "link": "https://zenn.dev/puddle/articles/13471879e86986",
+    "pubDate": "Wed, 06 May 2026 11:01:55 GMT"
   },
   {
     "site": "Qiita",
@@ -60,40 +108,10 @@
     "pubDate": "2026-05-06T07:20:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI生成コードのレビュアー約9割が「負担増」を実感",
-    "link": "https://ai.watch.impress.co.jp/docs/news/2105449.html",
-    "pubDate": "2026-05-06T06:22:01.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "部署マスタの設計について考えた",
     "link": "https://zenn.dev/yuta_enginner/articles/dd6431799cec7f",
     "pubDate": "Wed, 06 May 2026 04:19:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "[Frontend Performance - Part 12] React最適化の完成：再レンダリング・メモ化・State設計を完全制覇",
-    "link": "https://qiita.com/tuanphan/items/b05513ade79cef735f90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-06T03:47:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JavaScriptのEvent Flowを理解する — stopPropagation()・stopImmediatePropagation()・preventDefault()",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/615c58a7c9ca27926dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-06T03:46:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ブラウザイベントのデフォルト動作 完全リスト【preventDefault() 対応表】",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/74037827ba557a602573?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-06T03:34:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Next.js App Routerで多言語対応を最短で実装する — next-intl実践ガイド",
-    "link": "https://qiita.com/nhatcaofedev/items/387cda18f797938acb6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-06T03:13:03.000Z"
   },
   {
     "site": "Zenn",
@@ -126,6 +144,12 @@
     "pubDate": "Tue, 05 May 2026 23:00:06 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "配色に悩む時間をゼロに。自然界モチーフのデザインシステム集「Morphos」を作りました",
+    "link": "https://qiita.com/Ameyanagi/items/fd31a46683bba8bf55b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-05T19:04:51.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AIエージェントの Skill は書くだけでは足りない ⇒ Waza で評価して APM で配ろう!【ハーネスエンジニアリング】",
     "link": "https://zenn.dev/microsoft/articles/b081f3ddb93040",
@@ -138,45 +162,21 @@
     "pubDate": "Tue, 05 May 2026 14:51:53 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "ハードウェアバディでClaudeとおともだち",
+    "link": "https://qiita.com/moritalous/items/cd53aec76db1dec20862?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-05T14:19:24.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "インフラ知識ゼロの学生が、イベントNOCで監視システム諸々をキメてきた話",
     "link": "https://zenn.dev/toramutton/articles/uec-enoc2026",
     "pubDate": "Tue, 05 May 2026 13:20:03 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "iOS26に向けてナビゲーションバーを整理しよう",
-    "link": "https://zenn.dev/noppe/articles/925fa230b2a8ca",
-    "pubDate": "Tue, 05 May 2026 12:19:55 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
     "link": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-05T12:08:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "自分なりのCSSアニメーションとの向き合い方",
-    "link": "https://zenn.dev/yui540/articles/8d19020640582d",
-    "pubDate": "Tue, 05 May 2026 10:56:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeユーザーのためのCodex入門",
-    "link": "https://zenn.dev/k9i/articles/20260504_cc_to_codex",
-    "pubDate": "2026-05-05T07:36:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
-    "link": "https://qiita.com/NXD139/items/ec04f8d5c110a9927498?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-04T03:08:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "先輩のコードが1行も理解できなくて泣きそうだった新人が、「読み方」を教わって世界が変わった話",
-    "link": "https://qiita.com/fe1ix/items/cf13c7c70ae148146fd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-04T02:52:56.000Z"
   }
 ]
