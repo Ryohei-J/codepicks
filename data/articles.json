@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "なぜPCのCPUファンで「黒色」バージョンを作るのに時間がかかるのかをNoctuaが説明",
+    "link": "https://gigazine.net/news/20260508-black-cpu-fan-long-time/",
+    "pubDate": "2026-05-08T13:26:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Rubyを単一バイナリ化し実行速度を最大87倍にする「Spinel」：Matz氏がAIと協働し、わずか数週間で開発 | XenoSpectrum",
+    "link": "https://xenospectrum.com/spinel-ruby-aot-compiler/",
+    "pubDate": "2026-05-08T11:50:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "『システム思考の世界へ』に学ぶ、AI時代にエンジニアが「技術に詳しくあるべき」理由【nwiizo】 - エンジニアtype | 転職type",
     "link": "https://type.jp/et/feature/30921/",
     "pubDate": "2026-05-08T10:51:44.000Z"
@@ -10,12 +22,6 @@
     "title": "なぜ、Claude CodeのせいでIT業界はアニメ業界みたいになったのか？",
     "link": "https://zenn.dev/pdfractal/articles/39f5bf09f4a14a",
     "pubDate": "2026-05-08T08:23:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ダイヤテックが破産。FILCOで知られる老舗キーボードメーカー",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2107209.html",
-    "pubDate": "2026-05-08T08:08:54.000Z"
   },
   {
     "site": "Hatena",
@@ -42,12 +48,6 @@
     "pubDate": "2026-05-08T04:55:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude for Excel/Wordなど正式公開。アプリ間でも会話保持",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2107082.html",
-    "pubDate": "2026-05-08T04:36:29.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "React Router v7 応用編 — 第2回：実践で使う上級テクニック",
     "link": "https://qiita.com/nhatcaofedev/items/d6d57382c86e2a3cb02e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -60,16 +60,10 @@
     "pubDate": "2026-05-08T00:44:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIが今出てきたのは幸運だったのかもな",
-    "link": "https://anond.hatelabo.jp/20260508075849",
-    "pubDate": "2026-05-07T23:03:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "お前のAIスロップなんざ誰も読みたくねえよ（送りつけてくんな） » p2ptk[.]org",
-    "link": "https://p2ptk.org/ai/5481",
-    "pubDate": "2026-05-07T17:24:36.000Z"
+    "site": "Zenn",
+    "title": "VRAM8GBの汎用PCに高性能LLM Qwen3.6-35Bを稼働させる: 人工知能深訪",
+    "link": "https://zenn.dev/dozo/articles/49ff5d14569116",
+    "pubDate": "2026-05-07T23:50:58.000Z"
   },
   {
     "site": "Qiita",
@@ -94,6 +88,12 @@
     "title": "Cortex Codeを組織で活用する際のポイント",
     "link": "https://zenn.dev/intage_tech/articles/art018-intage-tech",
     "pubDate": "Thu, 07 May 2026 10:00:10 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「30分でClaude Codeを極める」（Anthropic公式ワークショップ / Boris Cherny登壇）｜MasaT. 武富　正人",
+    "link": "https://note.com/vueloo_blog/n/n9d3f08d86730",
+    "pubDate": "2026-05-07T07:04:39.000Z"
   },
   {
     "site": "Zenn",
