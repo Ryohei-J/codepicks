@@ -1,33 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "不要なレビューをAIにまかせてAIコーディングの環境改善を加速した - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2026/05/08/100000",
+    "pubDate": "2026-05-08T01:06:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "あの屋敷豪太がヴァイブコーディング？　ミュージシャンがAIで音楽ソフトを自ら作る新時代が到来した（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/05/08/5045.html",
+    "pubDate": "2026-05-08T00:18:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "お前のAIスロップなんざ誰も読みたくねえよ（送りつけてくんな） » p2ptk[.]org",
+    "link": "https://p2ptk.org/ai/5481",
+    "pubDate": "2026-05-07T17:24:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Fitbit Air発表。画面なし/約1.6万円の軽量ヘルストラッカー",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2106943.html",
+    "pubDate": "2026-05-07T14:13:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "昔からファンタジーRPGにおける\"性の排除\"の不自然さが気になって集中できない→\"職場\"の\"仕事仲間\"なのでないのも不思議じゃないのでは「ダンジョン飯だと描かれてる」",
     "link": "https://togetter.com/li/2694371",
     "pubDate": "2026-05-07T13:00:48.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Web 標準動向 2026年4月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604",
+    "pubDate": "2026-05-07T11:28:06.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "VAIO事業が絶好調のノジマ、第4四半期の出荷台数は過去最高に　「AI PC」需要で次期も成長を見込む",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2605/07/news109.html",
-    "pubDate": "2026-05-07T12:43:37.000Z"
+    "title": "WebAssembly を読み込むベストプラクティス 2026年春版 / Best Practices for Loading WebAssembly (Spring 2026)",
+    "link": "https://speakerdeck.com/petamoriken/best-practices-for-loading-webassembly-spring-2026",
+    "pubDate": "2026-05-07T11:13:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeで学ぶ Agent Skills入門 | 技術評論社",
+    "link": "https://gihyo.jp/book/2026/978-4-297-15698-5",
+    "pubDate": "2026-05-07T10:19:03.000Z"
   },
   {
     "site": "Qiita",
-    "title": "AWS MCPサーバー超進化してGAしたらしい - Qiita",
-    "link": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c",
-    "pubDate": "2026-05-07T10:42:11.000Z"
+    "title": "AWS MCPサーバー超進化してGAしたらしい",
+    "link": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-07T10:18:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マネーフォワード、銀行連携の停止続く　不正アクセスから約1週間　再開は「安全性の確認が完了次第」",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/07/news096.html",
-    "pubDate": "2026-05-07T07:52:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "30年以上前から存在する［Windows］＋「R」ダイアログ、大刷新で高速化",
-    "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2106738.html",
-    "pubDate": "2026-05-07T07:38:01.000Z"
+    "site": "Zenn",
+    "title": "「Claude Codeに全部やらせる時代が来た」のか検証してみた",
+    "link": "https://zenn.dev/okazu_dm/articles/83957f1623ec4d",
+    "pubDate": "2026-05-07T08:38:57.000Z"
   },
   {
     "site": "Qiita",
@@ -36,28 +66,10 @@
     "pubDate": "2026-05-07T07:11:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「セーラームーンに似ている」　生成AIを使った化粧品の広告が物議　メーカーは謝罪と広告の撤去を発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/07/news075.html",
-    "pubDate": "2026-05-07T07:05:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Chrome」が勝手に4GBもダウンロード、オンデバイスAI「Gemini Nano」の是非で紛糾／Googleの中の人が釈明【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2106708.html",
-    "pubDate": "2026-05-07T06:58:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS MCP Server が一般提供（GA）を開始、AI コーディングエージェントから AWS への安全なアクセスが可能になりました | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/20260507-aws-mcp-server-ga/",
-    "pubDate": "2026-05-07T05:00:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "認知負債 - kawasima",
-    "link": "https://scrapbox.io/kawasima/%E8%AA%8D%E7%9F%A5%E8%B2%A0%E5%82%B5",
-    "pubDate": "2026-05-07T03:56:02.000Z"
+    "site": "Zenn",
+    "title": "Web 標準動向 2026年4月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604",
+    "pubDate": "Thu, 07 May 2026 03:38:32 GMT"
   },
   {
     "site": "Qiita",
@@ -67,9 +79,9 @@
   },
   {
     "site": "Qiita",
-    "title": "API課金ゼロで米国ニュース要約デスクトップアプリを作った（Tauri × ローカルLLM）",
-    "link": "https://qiita.com/chaochire/items/46df03c9c3bf56670e05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-07T03:01:27.000Z"
+    "title": "Copilot StudioをClaude Code化したら、Copilot Studio自身でPower Platformを構築できた話",
+    "link": "https://qiita.com/katohiro_fi/items/9acccd181ca2f1a75f3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-07T02:36:12.000Z"
   },
   {
     "site": "Qiita",
@@ -78,10 +90,28 @@
     "pubDate": "2026-05-07T01:14:24.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Codex Reviewを自動化する：Claude Code × Codex レビューループ実装ガイド（SKILL.md・Plugin・パイプライン）",
+    "link": "https://smartscope.blog/blog/claude-code-codex-review-loop-automation-2026/",
+    "pubDate": "2026-05-07T01:02:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIのPlan Modeをなんとなく承認しないために",
+    "link": "https://zenn.dev/lv/articles/9438e1678c873a",
+    "pubDate": "Thu, 07 May 2026 00:30:01 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "OpenAPIという間接的な型共有をやめてoRPCを導入した話",
     "link": "https://zenn.dev/dress_code/articles/9040b2e3532693",
     "pubDate": "Thu, 07 May 2026 00:00:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Agentic Graph RAG MCPのススメ — Graph RAGは「単発」ではなく「対話」になった",
+    "link": "https://zenn.dev/aircloset/articles/341dffee42f454",
+    "pubDate": "Wed, 06 May 2026 23:58:38 GMT"
   },
   {
     "site": "Zenn",
@@ -127,39 +157,15 @@
   },
   {
     "site": "Zenn",
-    "title": "OpenCode Go + pi-coding-agent のすゝめ",
-    "link": "https://zenn.dev/kimuson/articles/pi-coding-agent-with-opencode-go",
-    "pubDate": "Wed, 06 May 2026 02:36:28 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Zustandを使って気づいた、もっと早く知りたかった7つのこと",
-    "link": "https://qiita.com/nhatcaofedev/items/95b6c49cfdd148898689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-06T02:27:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI駆動開発時代に、おさえておきたいQA技法",
-    "link": "https://zenn.dev/frontline/articles/3a912df20d9210",
-    "pubDate": "Tue, 05 May 2026 23:44:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「Claude Codeに全部やらせる時代が来た」のか検証してみた",
-    "link": "https://zenn.dev/okazu_dm/articles/83957f1623ec4d",
-    "pubDate": "Tue, 05 May 2026 23:00:06 GMT"
+    "title": "寝てる間に開発を全自動化したい、ってどんな開発の話なんだろう",
+    "link": "https://zenn.dev/jeeee/articles/2026-05-06-auto-dev-doubt",
+    "pubDate": "Wed, 06 May 2026 03:08:52 GMT"
   },
   {
     "site": "Qiita",
     "title": "配色に悩む時間をゼロに。自然界モチーフのデザインシステム集「Morphos」を作りました",
     "link": "https://qiita.com/Ameyanagi/items/fd31a46683bba8bf55b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-05T19:04:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントの Skill は書くだけでは足りない ⇒ Waza で評価して APM で配ろう!【ハーネスエンジニアリング】",
-    "link": "https://zenn.dev/microsoft/articles/b081f3ddb93040",
-    "pubDate": "Tue, 05 May 2026 18:41:11 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
     "link": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-05T12:08:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門 - Qiita",
-    "link": "https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d",
-    "pubDate": "2026-04-29T07:52:34.000Z"
   }
 ]
