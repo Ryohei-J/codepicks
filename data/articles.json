@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "不要なレビューをAIにまかせてAIコーディングの環境改善を加速した - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2026/05/08/100000",
-    "pubDate": "2026-05-08T01:06:51.000Z"
+    "title": "はてな、約11億円の資金流出で特別調査委員会を設置　外部の専門家で構成",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news079.html",
+    "pubDate": "2026-05-08T04:55:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "fsnotify の件、arp242 氏が一方的に悪者にされているのはかなり違和感",
+    "link": "https://anond.hatelabo.jp/20260508093732",
+    "pubDate": "2026-05-08T00:44:34.000Z"
   },
   {
     "site": "Hatena",
     "title": "あの屋敷豪太がヴァイブコーディング？　ミュージシャンがAIで音楽ソフトを自ら作る新時代が到来した（CloseBox） | テクノエッジ TechnoEdge",
     "link": "https://www.techno-edge.net/article/2026/05/08/5045.html",
     "pubDate": "2026-05-08T00:18:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIが今出てきたのは幸運だったのかもな",
+    "link": "https://anond.hatelabo.jp/20260508075849",
+    "pubDate": "2026-05-07T23:03:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "絵文字の「合掌」はハイタッチ？お祈り？　それとも…生みの親による自称“素人回答”がネットで話題に",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2605/08/news048.html",
+    "pubDate": "2026-05-07T21:49:25.000Z"
   },
   {
     "site": "Hatena",
@@ -22,24 +40,6 @@
     "title": "Google Fitbit Air発表。画面なし/約1.6万円の軽量ヘルストラッカー",
     "link": "https://pc.watch.impress.co.jp/docs/news/2106943.html",
     "pubDate": "2026-05-07T14:13:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "昔からファンタジーRPGにおける\"性の排除\"の不自然さが気になって集中できない→\"職場\"の\"仕事仲間\"なのでないのも不思議じゃないのでは「ダンジョン飯だと描かれてる」",
-    "link": "https://togetter.com/li/2694371",
-    "pubDate": "2026-05-07T13:00:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 標準動向 2026年4月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604",
-    "pubDate": "2026-05-07T11:28:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "WebAssembly を読み込むベストプラクティス 2026年春版 / Best Practices for Loading WebAssembly (Spring 2026)",
-    "link": "https://speakerdeck.com/petamoriken/best-practices-for-loading-webassembly-spring-2026",
-    "pubDate": "2026-05-07T11:13:38.000Z"
   },
   {
     "site": "Hatena",
@@ -64,6 +64,12 @@
     "title": "React Router v7 入門 — 第1回：押さえておくべき基本",
     "link": "https://qiita.com/nhatcaofedev/items/b7931e4bb7f51e1dccb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-07T07:11:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自動運転E2Eモデルは何を見ているのか — Integrated Gradientsによる解釈",
+    "link": "https://zenn.dev/turing_motors/articles/5d0e3e86c91c46",
+    "pubDate": "Thu, 07 May 2026 06:08:20 GMT"
   },
   {
     "site": "Zenn",
@@ -97,6 +103,12 @@
   },
   {
     "site": "Zenn",
+    "title": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
+    "link": "https://zenn.dev/pepabo/articles/74653f4d78eb7b",
+    "pubDate": "Thu, 07 May 2026 00:50:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIのPlan Modeをなんとなく承認しないために",
     "link": "https://zenn.dev/lv/articles/9438e1678c873a",
     "pubDate": "Thu, 07 May 2026 00:30:01 GMT"
@@ -127,9 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "サイゼリヤAPI/CLI 騒動まとめ",
-    "link": "https://zenn.dev/puddle/articles/13471879e86986",
-    "pubDate": "Wed, 06 May 2026 11:01:55 GMT"
+    "title": "AI時代だからこそ、バグの少ないコードを書くためにTDDを学んだ話",
+    "link": "https://zenn.dev/tacos/articles/57420c50c2794e",
+    "pubDate": "Wed, 06 May 2026 12:33:03 GMT"
   },
   {
     "site": "Qiita",
@@ -148,18 +160,6 @@
     "title": "【公式】レトロゲームエンジンPyxelが動く仕組み",
     "link": "https://qiita.com/kitao/items/5361d45554872a39da92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-06T07:20:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "部署マスタの設計について考えた",
-    "link": "https://zenn.dev/yuta_enginner/articles/dd6431799cec7f",
-    "pubDate": "Wed, 06 May 2026 04:19:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "寝てる間に開発を全自動化したい、ってどんな開発の話なんだろう",
-    "link": "https://zenn.dev/jeeee/articles/2026-05-06-auto-dev-doubt",
-    "pubDate": "Wed, 06 May 2026 03:08:52 GMT"
   },
   {
     "site": "Qiita",
