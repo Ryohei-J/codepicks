@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "仮説階層モデル - kawasima",
-    "link": "https://scrapbox.io/kawasima/%E4%BB%AE%E8%AA%AC%E9%9A%8E%E5%B1%A4%E3%83%A2%E3%83%87%E3%83%AB",
-    "pubDate": "2026-05-08T15:01:00.000Z"
+    "title": "フロントエンドの相手が変わった - AIが加わったWebの新しいインターフェース設計",
+    "link": "https://speakerdeck.com/azukiazusa1/hurontoendonoxiang-shou-gabian-watuta-aigajia-watutawebnoxin-siiintahuesushe-ji",
+    "pubDate": "2026-05-09T04:54:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Coding Agent比較用の独自のベンチマーク、Harness Benchを作ってみた話",
-    "link": "https://nyosegawa.com/posts/harness-bench/",
-    "pubDate": "2026-05-08T13:54:32.000Z"
+    "title": "2026年のソフトウェア開発を考える（2026/05版） / Software Engineering Scrum Fest Niigata 2026 Edition",
+    "link": "https://speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition",
+    "pubDate": "2026-05-09T04:36:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自動テストだけで リリース判断できるチームへ - 鍵はテストの量ではなくリリース判断基準の再設計にあった / Redesigning Release Criteria for Lightweight Releases",
+    "link": "https://speakerdeck.com/ewa/redesigning-release-criteria-for-lightweight-releases",
+    "pubDate": "2026-05-09T04:17:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料でNotionやMiroのような自分専用知識データベースを構築できる「AFFiNE」、オープンソースでセルフホスト可能",
+    "link": "https://gigazine.net/news/20260509-affine/",
+    "pubDate": "2026-05-09T03:15:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS MCP Server を Claude Code から主要ツールをひと通り叩いてみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/aws-mcp-server-claude-code-20260507/",
+    "pubDate": "2026-05-09T01:01:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "あなたの Claude Code、実は前回のセッションを完全に忘れている (5 分で永続記憶を入れる)",
+    "link": "https://zenn.dev/kanseilink/articles/linksee-memory-claude-code-recall-20260508",
+    "pubDate": "2026-05-09T00:14:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "仮説階層モデル - kawasima",
+    "link": "https://scrapbox.io/kawasima/%E4%BB%AE%E8%AA%AC%E9%9A%8E%E5%B1%A4%E3%83%A2%E3%83%87%E3%83%AB",
+    "pubDate": "2026-05-08T15:01:00.000Z"
   },
   {
     "site": "Hatena",
@@ -24,22 +54,16 @@
     "pubDate": "2026-05-08T12:44:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Rubyを単一バイナリ化し実行速度を最大87倍にする「Spinel」：Matz氏がAIと協働し、わずか数週間で開発 | XenoSpectrum",
-    "link": "https://xenospectrum.com/spinel-ruby-aot-compiler/",
-    "pubDate": "2026-05-08T11:50:39.000Z"
+    "site": "Zenn",
+    "title": "AI時代こそ、エンジニアは「師匠」が要る",
+    "link": "https://zenn.dev/acntechjp/articles/2e8d38ad383dd3",
+    "pubDate": "Fri, 08 May 2026 10:19:21 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "HTTPS公開直後にBotが来る理由 ─ CT Log監視Botの研究を読む - Qiita",
-    "link": "https://qiita.com/___nix___/items/4db6c2515098b3ef06d9",
-    "pubDate": "2026-05-08T10:06:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【研究成果】原始生命を模した分子進化実験で絶滅に向かう進化を観察 ──絶滅から知る生命の起源の条件── - 総合情報ニュース - 総合情報ニュース",
-    "link": "https://www.c.u-tokyo.ac.jp/info/news/topics/20260508130000.html",
-    "pubDate": "2026-05-08T09:50:15.000Z"
+    "site": "Zenn",
+    "title": "Anthropic の 5 パターンで Claude Code エージェント設計を分類する",
+    "link": "https://zenn.dev/motowo/articles/anthropic-multi-agent-coordination-patterns-guide",
+    "pubDate": "Fri, 08 May 2026 09:00:09 GMT"
   },
   {
     "site": "Zenn",
@@ -54,16 +78,16 @@
     "pubDate": "2026-05-08T05:11:50.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "速攻でgpt-realtime-translateを試す方法 - ほんやくコンニャク",
+    "link": "https://zenn.dev/acntechjp/articles/c863907ac0c0ac",
+    "pubDate": "Fri, 08 May 2026 04:20:29 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "React Router v7 応用編 — 第2回：実践で使う上級テクニック",
     "link": "https://qiita.com/nhatcaofedev/items/d6d57382c86e2a3cb02e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-08T03:41:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI に「リポジトリの地図」を渡す — マルチレポを束ねるセントラルリポジトリ設計",
-    "link": "https://zenn.dev/loglass/articles/17e1df6be6aeba",
-    "pubDate": "Fri, 08 May 2026 02:57:05 GMT"
   },
   {
     "site": "Qiita",
@@ -72,22 +96,16 @@
     "pubDate": "2026-05-08T02:25:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Cloudflareが1100人以上を解雇、CEOは「コスト削減ではない」と説明",
-    "link": "https://gigazine.net/news/20260508-cloudflare-lay-off-1100/",
-    "pubDate": "2026-05-08T02:15:03.000Z"
+    "site": "Zenn",
+    "title": "あなたの Claude Code、実は前回のセッションを完全に忘れている (5 分で永続記憶を入れる)",
+    "link": "https://zenn.dev/kanseilink/articles/linksee-memory-claude-code-recall-20260508",
+    "pubDate": "Fri, 08 May 2026 00:38:24 GMT"
   },
   {
     "site": "Qiita",
     "title": "Claude Codeにオレたち流のコードを書かせる（中編）— 組織のルールを共有する",
     "link": "https://qiita.com/hiropon122/items/e6b293961d72bd099ede?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-07T23:38:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「顔に口ひげを描いて認証を突破する」など子どもがオンライン年齢確認を回避している実態が明らかに",
-    "link": "https://gigazine.net/news/20260508-kids-bypass-age-checks-mustache/",
-    "pubDate": "2026-05-07T21:12:17.000Z"
   },
   {
     "site": "Qiita",
@@ -106,6 +124,12 @@
     "title": "AWS MCPサーバー超進化してGAしたらしい",
     "link": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-07T10:18:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cortex Codeを組織で活用する際のポイント",
+    "link": "https://zenn.dev/intage_tech/articles/art018-intage-tech",
+    "pubDate": "Thu, 07 May 2026 10:00:10 GMT"
   },
   {
     "site": "Zenn",
@@ -138,34 +162,10 @@
     "pubDate": "2026-05-07T02:36:12.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ゼロからデータ基盤構築をした時の失敗談：すべては要件定義できまる",
-    "link": "https://zenn.dev/ivry/articles/data-engineer-principles",
-    "pubDate": "Thu, 07 May 2026 01:55:16 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【初学者向け】システム全体を理解するための5つの視点",
     "link": "https://qiita.com/masa20057/items/f25a66f99edd5439f2ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-07T01:14:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
-    "link": "https://zenn.dev/pepabo/articles/74653f4d78eb7b",
-    "pubDate": "Thu, 07 May 2026 00:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIのPlan Modeをなんとなく承認しないために",
-    "link": "https://zenn.dev/lv/articles/9438e1678c873a",
-    "pubDate": "Thu, 07 May 2026 00:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "VRAM8GBの汎用PCに高性能LLM Qwen3.6-35Bを稼働させる: 人工知能深訪",
-    "link": "https://zenn.dev/dozo/articles/49ff5d14569116",
-    "pubDate": "Thu, 07 May 2026 00:22:05 GMT"
   },
   {
     "site": "Qiita",
