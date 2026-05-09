@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "なぜPCのCPUファンで「黒色」バージョンを作るのに時間がかかるのかをNoctuaが説明",
-    "link": "https://gigazine.net/news/20260508-black-cpu-fan-long-time/",
-    "pubDate": "2026-05-08T13:26:40.000Z"
+    "title": "仮説階層モデル - kawasima",
+    "link": "https://scrapbox.io/kawasima/%E4%BB%AE%E8%AA%AC%E9%9A%8E%E5%B1%A4%E3%83%A2%E3%83%87%E3%83%AB",
+    "pubDate": "2026-05-08T15:01:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Coding Agent比較用の独自のベンチマーク、Harness Benchを作ってみた話",
+    "link": "https://nyosegawa.com/posts/harness-bench/",
+    "pubDate": "2026-05-08T13:54:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コイルなしで発振する電子回路を実現",
+    "link": "https://www.riken.jp/press/2026/20260508_2/index.html",
+    "pubDate": "2026-05-08T13:53:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - microsoft/waza: CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness",
+    "link": "https://github.com/microsoft/waza",
+    "pubDate": "2026-05-08T12:44:33.000Z"
   },
   {
     "site": "Hatena",
@@ -12,28 +30,22 @@
     "pubDate": "2026-05-08T11:50:39.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "HTTPS公開直後にBotが来る理由 ─ CT Log監視Botの研究を読む - Qiita",
+    "link": "https://qiita.com/___nix___/items/4db6c2515098b3ef06d9",
+    "pubDate": "2026-05-08T10:06:06.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "『システム思考の世界へ』に学ぶ、AI時代にエンジニアが「技術に詳しくあるべき」理由【nwiizo】 - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/30921/",
-    "pubDate": "2026-05-08T10:51:44.000Z"
+    "title": "【研究成果】原始生命を模した分子進化実験で絶滅に向かう進化を観察 ──絶滅から知る生命の起源の条件── - 総合情報ニュース - 総合情報ニュース",
+    "link": "https://www.c.u-tokyo.ac.jp/info/news/topics/20260508130000.html",
+    "pubDate": "2026-05-08T09:50:15.000Z"
   },
   {
     "site": "Zenn",
-    "title": "なぜ、Claude CodeのせいでIT業界はアニメ業界みたいになったのか？",
-    "link": "https://zenn.dev/pdfractal/articles/39f5bf09f4a14a",
-    "pubDate": "2026-05-08T08:23:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ドコモ前田社長「ahamoだけ遅いということはない」、SNSの噂を否定",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2107176.html",
-    "pubDate": "2026-05-08T06:52:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAIのコーディング支援AI「Codex」でChromeを直接操作可能に",
-    "link": "https://gigazine.net/news/20260508-codex-chrome/",
-    "pubDate": "2026-05-08T06:40:49.000Z"
+    "title": "Expo SDK 56ベータから読み解く、Expo・React Nativeの「ネイティブ志向」な進化",
+    "link": "https://zenn.dev/tellernovel_inc/articles/fe4f4964b4f9e3",
+    "pubDate": "Fri, 08 May 2026 07:03:33 GMT"
   },
   {
     "site": "Qiita",
@@ -42,28 +54,40 @@
     "pubDate": "2026-05-08T05:11:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "はてな、約11億円の資金流出で特別調査委員会を設置　外部の専門家で構成",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/08/news079.html",
-    "pubDate": "2026-05-08T04:55:47.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "React Router v7 応用編 — 第2回：実践で使う上級テクニック",
     "link": "https://qiita.com/nhatcaofedev/items/d6d57382c86e2a3cb02e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-08T03:41:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "fsnotify の件、arp242 氏が一方的に悪者にされているのはかなり違和感",
-    "link": "https://anond.hatelabo.jp/20260508093732",
-    "pubDate": "2026-05-08T00:44:34.000Z"
+    "site": "Zenn",
+    "title": "AI に「リポジトリの地図」を渡す — マルチレポを束ねるセントラルリポジトリ設計",
+    "link": "https://zenn.dev/loglass/articles/17e1df6be6aeba",
+    "pubDate": "Fri, 08 May 2026 02:57:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "VRAM8GBの汎用PCに高性能LLM Qwen3.6-35Bを稼働させる: 人工知能深訪",
-    "link": "https://zenn.dev/dozo/articles/49ff5d14569116",
-    "pubDate": "2026-05-07T23:50:58.000Z"
+    "site": "Qiita",
+    "title": "Java 8 → 25 メジャーアップが 1 日で終わった話 ─ Claude Opus 4.7「engineer to delegate to」の威力",
+    "link": "https://qiita.com/ntaka329/items/b1ab29e91b6099c4f3a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-08T02:25:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cloudflareが1100人以上を解雇、CEOは「コスト削減ではない」と説明",
+    "link": "https://gigazine.net/news/20260508-cloudflare-lay-off-1100/",
+    "pubDate": "2026-05-08T02:15:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeにオレたち流のコードを書かせる（中編）— 組織のルールを共有する",
+    "link": "https://qiita.com/hiropon122/items/e6b293961d72bd099ede?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-07T23:38:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「顔に口ひげを描いて認証を突破する」など子どもがオンライン年齢確認を回避している実態が明らかに",
+    "link": "https://gigazine.net/news/20260508-kids-bypass-age-checks-mustache/",
+    "pubDate": "2026-05-07T21:12:17.000Z"
   },
   {
     "site": "Qiita",
@@ -85,15 +109,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Cortex Codeを組織で活用する際のポイント",
-    "link": "https://zenn.dev/intage_tech/articles/art018-intage-tech",
-    "pubDate": "Thu, 07 May 2026 10:00:10 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「30分でClaude Codeを極める」（Anthropic公式ワークショップ / Boris Cherny登壇）｜MasaT. 武富　正人",
-    "link": "https://note.com/vueloo_blog/n/n9d3f08d86730",
-    "pubDate": "2026-05-07T07:04:39.000Z"
+    "title": "Claude Codeの失敗をチームルールに昇格させる仕組み",
+    "link": "https://zenn.dev/dely_jp/articles/5bc3e9cf62d776",
+    "pubDate": "Thu, 07 May 2026 07:35:04 GMT"
   },
   {
     "site": "Zenn",
@@ -120,6 +138,12 @@
     "pubDate": "2026-05-07T02:36:12.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ゼロからデータ基盤構築をした時の失敗談：すべては要件定義できまる",
+    "link": "https://zenn.dev/ivry/articles/data-engineer-principles",
+    "pubDate": "Thu, 07 May 2026 01:55:16 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【初学者向け】システム全体を理解するための5つの視点",
     "link": "https://qiita.com/masa20057/items/f25a66f99edd5439f2ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -139,27 +163,9 @@
   },
   {
     "site": "Zenn",
-    "title": "OpenAPIという間接的な型共有をやめてoRPCを導入した話",
-    "link": "https://zenn.dev/dress_code/articles/9040b2e3532693",
-    "pubDate": "Thu, 07 May 2026 00:00:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agentic Graph RAG MCPのススメ — Graph RAGは「単発」ではなく「対話」になった",
-    "link": "https://zenn.dev/aircloset/articles/341dffee42f454",
-    "pubDate": "Wed, 06 May 2026 23:58:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルワークスペースのMarkdownファイルをブラウザで閲覧・編集できる軽量Webアプリを作った",
-    "link": "https://zenn.dev/karaage0703/articles/78056e4d3e07a2",
-    "pubDate": "Wed, 06 May 2026 14:59:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "違和感を言語化する技術",
-    "link": "https://zenn.dev/penginpenguin/articles/ce2158edee23ea",
-    "pubDate": "Wed, 06 May 2026 12:46:57 GMT"
+    "title": "VRAM8GBの汎用PCに高性能LLM Qwen3.6-35Bを稼働させる: 人工知能深訪",
+    "link": "https://zenn.dev/dozo/articles/49ff5d14569116",
+    "pubDate": "Thu, 07 May 2026 00:22:05 GMT"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "配色に悩む時間をゼロに。自然界モチーフのデザインシステム集「Morphos」を作りました",
-    "link": "https://qiita.com/Ameyanagi/items/fd31a46683bba8bf55b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-05T19:04:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
-    "link": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-05T12:08:08.000Z"
+    "title": "Claude Codeを120%使いこなす設定3選【ECC・Memory.md・Obsidian連携】 - Qiita",
+    "link": "https://qiita.com/manchan/items/63745b9198f1989c2a15",
+    "pubDate": "2026-05-05T07:32:45.000Z"
   }
 ]
