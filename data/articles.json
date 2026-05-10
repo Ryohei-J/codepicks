@@ -1,15 +1,33 @@
 [
   {
     "site": "Zenn",
-    "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
-    "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
-    "pubDate": "2026-05-10T04:33:14.000Z"
+    "title": "CodexをローカルLLMで駆動する",
+    "link": "https://zenn.dev/robustonian/articles/codex_with_local_llm",
+    "pubDate": "Sun, 10 May 2026 07:47:08 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "｢自作キーボード｣界隈のおとなり｢論理配列｣界隈。日本語の入力効率を爆上げしてくぜ",
+    "link": "https://www.gizmodo.jp/2026/05/naginata-ime.html",
+    "pubDate": "2026-05-10T06:38:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "[アップデート] AWS公式 AIコーディングエージェント向けのSkill集「Agent Toolkit for AWS」の提供を開始！ | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/",
+    "pubDate": "2026-05-10T05:53:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "sqlfu",
+    "link": "https://sqlfu.dev/",
+    "pubDate": "2026-05-10T05:45:49.000Z"
   },
   {
     "site": "Zenn",
-    "title": "ユーザーストレスを低減するローディング体験の4原則",
-    "link": "https://zenn.dev/akfm/articles/better-loading-ux",
-    "pubDate": "2026-05-10T01:59:19.000Z"
+    "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
+    "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
+    "pubDate": "2026-05-10T04:33:14.000Z"
   },
   {
     "site": "Zenn",
@@ -24,6 +42,12 @@
     "pubDate": "2026-05-10T00:10:44.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
+    "link": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-09T23:52:36.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "中国政府、自動運転を「全てストップ」 百度が原因か | 自動運転ラボ",
     "link": "https://jidounten-lab.com/u_62109",
@@ -36,14 +60,20 @@
     "pubDate": "Sat, 09 May 2026 23:35:10 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Pythonプロジェクトを作るたびに同じ設定をコピペするのをやめたい（Copier使ってみた）",
+    "link": "https://zenn.dev/zaspa/articles/adf4230e859665",
+    "pubDate": "Sat, 09 May 2026 16:21:53 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "Gemma 4 MTP を DGX Spark で動かして日本語生成の高速化を実測してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/dgx-spark-gemma4-mtp-multi-token-prediction-bench/",
-    "pubDate": "2026-05-09T15:44:34.000Z"
+    "title": "ヤマハ、DXはなぜ失敗した？「大きなDX」と「小さなDX」で再構築へ",
+    "link": "https://news.mynavi.jp/techplus/article/20260403-4258506/",
+    "pubDate": "2026-05-09T15:28:33.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Ubuntu ServerにOpenZFSを入れてNASとして運用する",
+    "title": "自作NASを構築した（Ubuntu Server+OpenZFS）",
     "link": "https://zenn.dev/neet/articles/903f811223936a",
     "pubDate": "Sat, 09 May 2026 15:24:13 GMT"
   },
@@ -52,6 +82,18 @@
     "title": "AIが書くならMarkdownじゃなくHTMLのほうがいいのでは、という話 - きしだのHatena",
     "link": "https://nowokay.hatenablog.com/entry/2026/05/09/164006",
     "pubDate": "2026-05-09T14:34:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ISUNARABE合同演習2026とかいう最高のイベントに参加してきた",
+    "link": "https://zenn.dev/rail44/articles/932a22e70ef98d",
+    "pubDate": "Sat, 09 May 2026 14:29:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「実装はAIに任せた。でも精度は出なかった」",
+    "link": "https://zenn.dev/beckento/articles/a000216f224e53",
+    "pubDate": "Sat, 09 May 2026 14:26:53 GMT"
   },
   {
     "site": "Zenn",
@@ -72,28 +114,28 @@
     "pubDate": "2026-05-09T11:15:15.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "ChatGPT Pro は高いので Codex + GitHub Copilot でお小遣いを守りたい - Qiita",
-    "link": "https://qiita.com/faunsu/items/f6edd279d32102e6f5a8",
-    "pubDate": "2026-05-09T09:17:16.000Z"
+    "site": "Zenn",
+    "title": "今日からできるAIワークフロー設計シリーズ：LLMアプリを本番業務に入れるための設計パターン集",
+    "link": "https://zenn.dev/kanaria007/articles/c74aae44ba99fb",
+    "pubDate": "Sat, 09 May 2026 10:35:01 GMT"
   },
   {
     "site": "Zenn",
-    "title": "AI時代の「作らない判断」",
-    "link": "https://zenn.dev/mrksye/articles/852ae582426665",
-    "pubDate": "Sat, 09 May 2026 06:39:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code・Codex CLI・Copilot CLI を QCD で比較する（オトナの自由研究 #16）",
-    "link": "https://zenn.dev/nnakapa/articles/lab-16-rpi4-qcd",
-    "pubDate": "Sat, 09 May 2026 06:32:56 GMT"
+    "title": "LLMから呼ばれるアプリをMCPファーストで設計するときの3つの原則",
+    "link": "https://zenn.dev/ykenkou001/articles/mcp-first-regulatory-saas",
+    "pubDate": "Sat, 09 May 2026 10:28:39 GMT"
   },
   {
     "site": "Qiita",
-    "title": "個人の暗黙知を組織知に自動昇格させる OSS マルチエージェント基盤を作った話 (Apache 2.0)",
-    "link": "https://qiita.com/gen99/items/43b3842920d94a6ad1de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-09T04:43:32.000Z"
+    "title": "Pythonの標準出力をもっと美しく。`Rich` で作るモダンなCLIツール入門",
+    "link": "https://qiita.com/nozomi2025/items/313779e2d3feadfefa7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-09T09:24:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ「こどもAI教室」ではなく「AIゲームセンター」であるべきなのか｜shi3z",
+    "link": "https://note.com/shi3zblog/n/nd3c1de46eb7b",
+    "pubDate": "2026-05-09T06:09:39.000Z"
   },
   {
     "site": "Zenn",
@@ -102,40 +144,16 @@
     "pubDate": "2026-05-09T04:15:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "シャドーITのススメ",
-    "link": "https://zenn.dev/yuta_enginner/articles/08b775eb6873df",
-    "pubDate": "Sat, 09 May 2026 04:07:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを\"使いこなす\"ための個人ルール設定 - 実際にやって効果が高かった設定",
-    "link": "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
-    "pubDate": "Fri, 08 May 2026 12:38:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代こそ、エンジニアは「師匠」が要る",
-    "link": "https://zenn.dev/acntechjp/articles/2e8d38ad383dd3",
-    "pubDate": "Fri, 08 May 2026 10:19:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropic の 5 パターンで Claude Code エージェント設計を分類する",
-    "link": "https://zenn.dev/motowo/articles/anthropic-multi-agent-coordination-patterns-guide",
-    "pubDate": "Fri, 08 May 2026 09:00:09 GMT"
+    "site": "Qiita",
+    "title": "クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために",
+    "link": "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-09T01:12:54.000Z"
   },
   {
     "site": "Qiita",
     "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
     "link": "https://qiita.com/Katayama_Studio/items/b46711e39fb8ab50a708?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-08T08:52:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェント時代のDB設計をTursoが書き換えに来ている話",
-    "link": "https://zenn.dev/emuni/articles/6eef9f97f564b4",
-    "pubDate": "2026-05-08T07:01:30.000Z"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "AWS MCPサーバー超進化してGAしたらしい",
     "link": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-07T10:18:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Copilot StudioをClaude Code化したら、Copilot Studio自身でPower Platformを構築できた話",
-    "link": "https://qiita.com/katohiro_fi/items/9acccd181ca2f1a75f3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-07T02:36:12.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初学者向け】システム全体を理解するための5つの視点",
-    "link": "https://qiita.com/masa20057/items/f25a66f99edd5439f2ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-07T01:14:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "スローHTTPがWebサーバーのリソースに与える影響の検証 - Qiita",
-    "link": "https://qiita.com/prograti/items/79584e12b0788ef100f8",
-    "pubDate": "2025-12-27T03:22:37.000Z"
   }
 ]
