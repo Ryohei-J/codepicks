@@ -1,51 +1,69 @@
 [
   {
+    "site": "Hatena",
+    "title": "無料で使えるAI｢ローカルLLM｣の進化がすごいよって話",
+    "link": "https://www.gizmodo.jp/2026/05/2026_local_llm_matome.html",
+    "pubDate": "2026-05-10T00:10:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた - Qiita",
+    "link": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c",
+    "pubDate": "2026-05-09T13:02:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
+    "link": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-09T12:11:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「冷蔵と冷凍と常温を分けて！」：超新人エンジニア向け クラス設計の話",
+    "link": "https://qiita.com/kimagurehero98/items/3242437ac35fb9a7e5b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-09T11:15:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トマト農家をやっていて、ネットに廃棄トマトの画像を載せると「子ども食堂とかに提供したらいいんじゃないですか？」と言われることがあるけど、それってこっちにメリットある？",
+    "link": "https://togetter.com/li/2695060",
+    "pubDate": "2026-05-09T11:04:50.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Git初心者の頃わからなかった「pullするな」の意味 - Qiita",
     "link": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406",
     "pubDate": "2026-05-09T09:49:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "駆け出しエンジニアが「IT技術があれば大手メーカーの社内SEに転職できる」「平でも800万は固い」とウキウキしてるが、実際は平社員でもPMレベルの仕事をやらされている",
-    "link": "https://togetter.com/li/2695041",
-    "pubDate": "2026-05-09T09:08:30.000Z"
+    "site": "Qiita",
+    "title": "ChatGPT Pro は高いので Codex + GitHub Copilot でお小遣いを守りたい - Qiita",
+    "link": "https://qiita.com/faunsu/items/f6edd279d32102e6f5a8",
+    "pubDate": "2026-05-09T09:17:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代のリッチテキスト形式（RTF）",
-    "link": "https://blog.lai.so/ai-rich-text-format/",
-    "pubDate": "2026-05-09T07:56:15.000Z"
+    "site": "Zenn",
+    "title": "Claude Code・Codex CLI・Copilot CLI を QCD で比較する（オトナの自由研究 #16）",
+    "link": "https://zenn.dev/nnakapa/articles/lab-16-rpi4-qcd",
+    "pubDate": "Sat, 09 May 2026 06:32:56 GMT"
   },
   {
     "site": "Qiita",
-    "title": "国民が普通に家庭を持てる経済をどう取り戻すか？ ― 少子化・人手不足・移民政策を構造から考える : Pythonで学ぶ マクロ経済学入門 (79)",
-    "link": "https://qiita.com/maskot1977/items/35ee569ca3c847fecdd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-09T06:57:53.000Z"
+    "title": "個人の暗黙知を組織知に自動昇格させる OSS マルチエージェント基盤を作った話 (Apache 2.0)",
+    "link": "https://qiita.com/gen99/items/43b3842920d94a6ad1de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-09T04:43:32.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために - Qiita",
-    "link": "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4",
-    "pubDate": "2026-05-09T05:16:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "フロントエンドの相手が変わった - AIが加わったWebの新しいインターフェース設計",
-    "link": "https://speakerdeck.com/azukiazusa1/hurontoendonoxiang-shou-gabian-watuta-aigajia-watutawebnoxin-siiintahuesushe-ji",
-    "pubDate": "2026-05-09T04:54:36.000Z"
+    "site": "Zenn",
+    "title": "シャドーITのススメ",
+    "link": "https://zenn.dev/yuta_enginner/articles/08b775eb6873df",
+    "pubDate": "Sat, 09 May 2026 04:07:20 GMT"
   },
   {
     "site": "Hatena",
-    "title": "2026年のソフトウェア開発を考える（2026/05版） / Software Engineering Scrum Fest Niigata 2026 Edition",
-    "link": "https://speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition",
-    "pubDate": "2026-05-09T04:36:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "紙時代の出版社の思い出話　その12『あの時代、LOGINはどうすればよかったんだろう？』｜地雷魚",
-    "link": "https://note.com/jiraygyo/n/n7387843babd9",
-    "pubDate": "2026-05-09T04:13:18.000Z"
+    "title": "バグだらけの「新しいX Android」一度切り替えたが最後、元に戻せなくなりX民に絶望広がる",
+    "link": "https://posfie.com/@nemchan_nel/p/jZRMTq3",
+    "pubDate": "2026-05-09T02:04:37.000Z"
   },
   {
     "site": "Hatena",
@@ -78,22 +96,16 @@
     "pubDate": "2026-05-08T08:52:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「審美眼こそが真実」〜DHHが語るAIエージェント時代の技芸論 | Social Change!",
-    "link": "https://kuranuki.sonicgarden.jp/archives/36034",
-    "pubDate": "2026-05-08T08:06:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "オシャレなtcolorboxを誰でも作る方法（LaTeX確認シリーズ#５）",
-    "link": "https://qiita.com/KKTeX/items/664551e99931d0c4211c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-08T08:01:07.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Expo SDK 56ベータから読み解く、Expo・React Nativeの「ネイティブ志向」な進化",
     "link": "https://zenn.dev/tellernovel_inc/articles/fe4f4964b4f9e3",
     "pubDate": "Fri, 08 May 2026 07:03:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェント時代のDB設計をTursoが書き換えに来ている話",
+    "link": "https://zenn.dev/emuni/articles/6eef9f97f564b4",
+    "pubDate": "2026-05-08T07:01:30.000Z"
   },
   {
     "site": "Qiita",
@@ -103,21 +115,39 @@
   },
   {
     "site": "Zenn",
-    "title": "要求を仕様に落とすテンプレートを作ってみた",
-    "link": "https://zenn.dev/channnnsm/articles/c3a6de22e71f86",
-    "pubDate": "2026-05-08T04:40:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "あなたの Claude Code、実は前回のセッションを完全に忘れている (5 分で永続記憶を入れる)",
-    "link": "https://zenn.dev/kanseilink/articles/linksee-memory-claude-code-recall-20260508",
-    "pubDate": "Fri, 08 May 2026 00:38:24 GMT"
+    "title": "速攻でgpt-realtime-translateを試す方法 - ほんやくコンニャク",
+    "link": "https://zenn.dev/acntechjp/articles/c863907ac0c0ac",
+    "pubDate": "Fri, 08 May 2026 04:20:29 GMT"
   },
   {
     "site": "Qiita",
-    "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【前編】",
-    "link": "https://qiita.com/archeleeds/items/6fbf02174f308e31f284?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-07T23:24:52.000Z"
+    "title": "Git初心者の頃わからなかった「pullするな」の意味",
+    "link": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-08T04:16:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI に「リポジトリの地図」を渡す — マルチレポを束ねるセントラルリポジトリ設計",
+    "link": "https://zenn.dev/loglass/articles/17e1df6be6aeba",
+    "pubDate": "Fri, 08 May 2026 02:57:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェント時代のDB設計をTursoが書き換えに来ている話",
+    "link": "https://zenn.dev/emuni/articles/6eef9f97f564b4",
+    "pubDate": "Fri, 08 May 2026 02:50:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - antirez/ds4: DeepSeek 4 Flash local inference engine for Metal",
+    "link": "https://github.com/antirez/ds4",
+    "pubDate": "2026-05-08T02:42:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code × arduino-cli で爆速電子工作",
+    "link": "https://zenn.dev/optimisuke/articles/b358f464414cf9",
+    "pubDate": "Fri, 08 May 2026 01:26:22 GMT"
   },
   {
     "site": "Qiita",
@@ -127,39 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "現場1、2年目に伝えたい、Viコマンドが自分のエンジニア人生を変えた話",
-    "link": "https://qiita.com/y_arashi/items/f6e22db9ecb9550e37f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-07T16:17:00.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AWS MCPサーバー超進化してGAしたらしい",
     "link": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-07T10:18:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cortex Codeを組織で活用する際のポイント",
-    "link": "https://zenn.dev/intage_tech/articles/art018-intage-tech",
-    "pubDate": "Thu, 07 May 2026 10:00:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの失敗をチームルールに昇格させる仕組み",
-    "link": "https://zenn.dev/dely_jp/articles/5bc3e9cf62d776",
-    "pubDate": "Thu, 07 May 2026 07:35:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った",
-    "link": "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
-    "pubDate": "Thu, 07 May 2026 06:00:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 標準動向 2026年4月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604",
-    "pubDate": "Thu, 07 May 2026 03:38:32 GMT"
   },
   {
     "site": "Qiita",
@@ -174,9 +174,9 @@
     "pubDate": "2026-05-07T01:14:24.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
-    "link": "https://zenn.dev/pepabo/articles/74653f4d78eb7b",
-    "pubDate": "Thu, 07 May 2026 00:50:05 GMT"
+    "site": "Qiita",
+    "title": "スローHTTPがWebサーバーのリソースに与える影響の検証 - Qiita",
+    "link": "https://qiita.com/prograti/items/79584e12b0788ef100f8",
+    "pubDate": "2025-12-27T03:22:37.000Z"
   }
 ]
