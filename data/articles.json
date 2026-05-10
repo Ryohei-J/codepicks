@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "サポート終了の古いKindle、捨てる前に試したい「第2の活用法」 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2605how-to-jailbreak-your-kindle/",
+    "pubDate": "2026-05-10T10:46:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CodexをローカルLLMで駆動する",
+    "link": "https://zenn.dev/robustonian/articles/codex_with_local_llm",
+    "pubDate": "2026-05-10T09:41:52.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "CodexをローカルLLMで駆動する",
     "link": "https://zenn.dev/robustonian/articles/codex_with_local_llm",
@@ -10,6 +22,12 @@
     "title": "｢自作キーボード｣界隈のおとなり｢論理配列｣界隈。日本語の入力効率を爆上げしてくぜ",
     "link": "https://www.gizmodo.jp/2026/05/naginata-ime.html",
     "pubDate": "2026-05-10T06:38:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "128GB超メモリMac専用の巨大LLMエンジン「ds4」はローカル推論の常識をどう書き換えるのか。284BのDeepSeek V4 FlashをM4 Max 128GB MacBook Proの自作AIに組み込んでみた（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/05/10/5049.html",
+    "pubDate": "2026-05-10T05:58:20.000Z"
   },
   {
     "site": "Hatena",
@@ -36,12 +54,6 @@
     "pubDate": "Sun, 10 May 2026 01:07:34 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "無料で使えるAI｢ローカルLLM｣の進化がすごいよって話",
-    "link": "https://www.gizmodo.jp/2026/05/2026_local_llm_matome.html",
-    "pubDate": "2026-05-10T00:10:44.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
     "link": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -61,27 +73,21 @@
   },
   {
     "site": "Zenn",
+    "title": "00年代のIT業界最大のバズワード「XML」は現在どうなったのか？",
+    "link": "https://zenn.dev/pdfractal/articles/89b1943aef64fe",
+    "pubDate": "2026-05-09T20:01:25.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "Pythonプロジェクトを作るたびに同じ設定をコピペするのをやめたい（Copier使ってみた）",
     "link": "https://zenn.dev/zaspa/articles/adf4230e859665",
     "pubDate": "Sat, 09 May 2026 16:21:53 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ヤマハ、DXはなぜ失敗した？「大きなDX」と「小さなDX」で再構築へ",
-    "link": "https://news.mynavi.jp/techplus/article/20260403-4258506/",
-    "pubDate": "2026-05-09T15:28:33.000Z"
   },
   {
     "site": "Zenn",
     "title": "自作NASを構築した（Ubuntu Server+OpenZFS）",
     "link": "https://zenn.dev/neet/articles/903f811223936a",
     "pubDate": "Sat, 09 May 2026 15:24:13 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIが書くならMarkdownじゃなくHTMLのほうがいいのでは、という話 - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/05/09/164006",
-    "pubDate": "2026-05-09T14:34:02.000Z"
   },
   {
     "site": "Zenn",
@@ -132,22 +138,16 @@
     "pubDate": "2026-05-09T09:24:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜ「こどもAI教室」ではなく「AIゲームセンター」であるべきなのか｜shi3z",
-    "link": "https://note.com/shi3zblog/n/nd3c1de46eb7b",
-    "pubDate": "2026-05-09T06:09:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを\"使いこなす\"ための個人ルール設定 - 実際にやって効果が高かった設定",
-    "link": "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
-    "pubDate": "2026-05-09T04:15:58.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "クオンツトレード入門者のための確率過程――価格予測ではなく、分布・リスク・エッジを見るために",
     "link": "https://qiita.com/tikeda123/items/ac378f83a4e7911392d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-09T01:12:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "SSHポートフォワーディングを劇的に快適にする「MolePort」完全ガイド【導入から活用まで】",
+    "link": "https://zenn.dev/nonejp/articles/moleport-introduction",
+    "pubDate": "2026-05-08T09:13:07.000Z"
   },
   {
     "site": "Qiita",
