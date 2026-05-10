@@ -1,15 +1,63 @@
 [
   {
+    "site": "Zenn",
+    "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
+    "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
+    "pubDate": "2026-05-10T04:33:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ユーザーストレスを低減するローディング体験の4原則",
+    "link": "https://zenn.dev/akfm/articles/better-loading-ux",
+    "pubDate": "2026-05-10T01:59:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ユーザーストレスを低減するローディング体験の4原則",
+    "link": "https://zenn.dev/akfm/articles/better-loading-ux",
+    "pubDate": "Sun, 10 May 2026 01:07:34 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "無料で使えるAI｢ローカルLLM｣の進化がすごいよって話",
     "link": "https://www.gizmodo.jp/2026/05/2026_local_llm_matome.html",
     "pubDate": "2026-05-10T00:10:44.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた - Qiita",
-    "link": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c",
-    "pubDate": "2026-05-09T13:02:50.000Z"
+    "site": "Hatena",
+    "title": "中国政府、自動運転を「全てストップ」 百度が原因か | 自動運転ラボ",
+    "link": "https://jidounten-lab.com/u_62109",
+    "pubDate": "2026-05-09T23:49:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
+    "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
+    "pubDate": "Sat, 09 May 2026 23:35:10 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gemma 4 MTP を DGX Spark で動かして日本語生成の高速化を実測してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/dgx-spark-gemma4-mtp-multi-token-prediction-bench/",
+    "pubDate": "2026-05-09T15:44:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Ubuntu ServerにOpenZFSを入れてNASとして運用する",
+    "link": "https://zenn.dev/neet/articles/903f811223936a",
+    "pubDate": "Sat, 09 May 2026 15:24:13 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIが書くならMarkdownじゃなくHTMLのほうがいいのでは、という話 - きしだのHatena",
+    "link": "https://nowokay.hatenablog.com/entry/2026/05/09/164006",
+    "pubDate": "2026-05-09T14:34:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜ Tailwind CSS は line-height を leading と呼ぶのか？ 由来や経緯を調べてみた",
+    "link": "https://zenn.dev/y_ta/articles/why-tailwind-leading-tracking",
+    "pubDate": "Sat, 09 May 2026 12:58:38 GMT"
   },
   {
     "site": "Qiita",
@@ -24,22 +72,16 @@
     "pubDate": "2026-05-09T11:15:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "トマト農家をやっていて、ネットに廃棄トマトの画像を載せると「子ども食堂とかに提供したらいいんじゃないですか？」と言われることがあるけど、それってこっちにメリットある？",
-    "link": "https://togetter.com/li/2695060",
-    "pubDate": "2026-05-09T11:04:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Git初心者の頃わからなかった「pullするな」の意味 - Qiita",
-    "link": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406",
-    "pubDate": "2026-05-09T09:49:19.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "ChatGPT Pro は高いので Codex + GitHub Copilot でお小遣いを守りたい - Qiita",
     "link": "https://qiita.com/faunsu/items/f6edd279d32102e6f5a8",
     "pubDate": "2026-05-09T09:17:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代の「作らない判断」",
+    "link": "https://zenn.dev/mrksye/articles/852ae582426665",
+    "pubDate": "Sat, 09 May 2026 06:39:37 GMT"
   },
   {
     "site": "Zenn",
@@ -55,21 +97,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeを\"使いこなす\"ための個人ルール設定 - 実際にやって効果が高かった設定",
+    "link": "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
+    "pubDate": "2026-05-09T04:15:58.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "シャドーITのススメ",
     "link": "https://zenn.dev/yuta_enginner/articles/08b775eb6873df",
     "pubDate": "Sat, 09 May 2026 04:07:20 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "バグだらけの「新しいX Android」一度切り替えたが最後、元に戻せなくなりX民に絶望広がる",
-    "link": "https://posfie.com/@nemchan_nel/p/jZRMTq3",
-    "pubDate": "2026-05-09T02:04:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "上司になったら｜miyasaka",
-    "link": "https://note.com/mmiya/n/n2eec10d531b2",
-    "pubDate": "2026-05-09T01:54:23.000Z"
   },
   {
     "site": "Zenn",
@@ -97,12 +133,6 @@
   },
   {
     "site": "Zenn",
-    "title": "Expo SDK 56ベータから読み解く、Expo・React Nativeの「ネイティブ志向」な進化",
-    "link": "https://zenn.dev/tellernovel_inc/articles/fe4f4964b4f9e3",
-    "pubDate": "Fri, 08 May 2026 07:03:33 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "AIエージェント時代のDB設計をTursoが書き換えに来ている話",
     "link": "https://zenn.dev/emuni/articles/6eef9f97f564b4",
     "pubDate": "2026-05-08T07:01:30.000Z"
@@ -114,40 +144,10 @@
     "pubDate": "2026-05-08T05:11:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "速攻でgpt-realtime-translateを試す方法 - ほんやくコンニャク",
-    "link": "https://zenn.dev/acntechjp/articles/c863907ac0c0ac",
-    "pubDate": "Fri, 08 May 2026 04:20:29 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Git初心者の頃わからなかった「pullするな」の意味",
     "link": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-08T04:16:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI に「リポジトリの地図」を渡す — マルチレポを束ねるセントラルリポジトリ設計",
-    "link": "https://zenn.dev/loglass/articles/17e1df6be6aeba",
-    "pubDate": "Fri, 08 May 2026 02:57:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェント時代のDB設計をTursoが書き換えに来ている話",
-    "link": "https://zenn.dev/emuni/articles/6eef9f97f564b4",
-    "pubDate": "Fri, 08 May 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - antirez/ds4: DeepSeek 4 Flash local inference engine for Metal",
-    "link": "https://github.com/antirez/ds4",
-    "pubDate": "2026-05-08T02:42:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code × arduino-cli で爆速電子工作",
-    "link": "https://zenn.dev/optimisuke/articles/b358f464414cf9",
-    "pubDate": "Fri, 08 May 2026 01:26:22 GMT"
   },
   {
     "site": "Qiita",
