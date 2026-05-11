@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "「プロすげぇ」デザイナーの母にライブのフライヤーを頼んだら、一日ですさまじいクオリティになった 見やすい上に追加情報やQRコードまでキレイに配置",
+    "link": "https://togetter.com/li/2695750",
+    "pubDate": "2026-05-11T08:35:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "引っ越してネット回線を引こうしたら何ヶ月も進捗がなく、業者の回答も微妙なので自分で他所に問い合わせたら怖いことになった→企業体質や組織の問題？",
+    "link": "https://togetter.com/li/2695696",
+    "pubDate": "2026-05-11T07:01:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『GitHub』への不正アクセスに関する調査進捗および銀行口座連携再開に向けた経過のご報告（第二報）",
+    "link": "https://corp.moneyforward.com/news/info/20260511-mf-press-1/",
+    "pubDate": "2026-05-11T05:41:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「今日何してた？」に詰まる新人エンジニアへ。それ、スキルではなく“進め方”の問題です。",
+    "link": "https://qiita.com/hitomin_poke/items/6dc096a87ac248e93f13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-11T04:29:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "貝印、なでるように剃るカミソリ「なでそり」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107496.html",
+    "pubDate": "2026-05-11T04:03:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Chrome DevTools MCP が凄い。人類が「プログラムにやってほしかったこと」が簡単にできる時代がきた！！ - プログラマでありたい",
+    "link": "https://blog.takuros.net/entry/2026/05/11/080037",
+    "pubDate": "2026-05-11T03:36:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "マネーフォワードの銀行連携、10日経っても再開せず　ユーザーに不満、解約した人も",
     "link": "https://www.itmedia.co.jp/news/articles/2605/11/news056.html",
     "pubDate": "2026-05-11T01:02:50.000Z"
@@ -12,16 +48,16 @@
     "pubDate": "2026-05-11T01:00:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "原稿制作のスケジュール管理アプリ『原稿プランナー』がSNSで話題に。作業量・作業可能時間・締切日を入力すると、工程ごとにスケジュールを自動生成。無理がある場合は「破綻しています」と正直に伝えてくれる",
-    "link": "https://news.denfaminicogamer.jp/news/260511c",
-    "pubDate": "2026-05-11T00:17:04.000Z"
+    "site": "Qiita",
+    "title": "AI時代のMoatとは — 「もし明日、競合が同じプロダクトを出したらどう勝つか？」",
+    "link": "https://qiita.com/mattsershaw/items/e6205673598cdb1ff14d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-11T00:54:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI生成の「ゴミ報告」が殺到、対応追い付かず疲弊……脆弱性発見の懸賞金制度に異変",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/11/news021.html",
-    "pubDate": "2026-05-10T23:47:07.000Z"
+    "site": "Zenn",
+    "title": "コードを書かなくなった我々は何者か —— Product / Platform / Evaluate の3職責でエンジニアの役割を再定義する",
+    "link": "https://zenn.dev/tokium_dev/articles/engineer-role-triangle-map",
+    "pubDate": "Mon, 11 May 2026 00:00:12 GMT"
   },
   {
     "site": "Hatena",
@@ -36,10 +72,34 @@
     "pubDate": "2026-05-10T21:51:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "俺ならノートパソコンよりこっち！７万円台でキーボード付属の12.1型タブレットがあるぞ！ (1/5)",
-    "link": "https://ascii.jp/elem/000/004/399/4399957/",
-    "pubDate": "2026-05-10T11:09:43.000Z"
+    "site": "Zenn",
+    "title": "書籍のOCRにLLMを組み合わせることで精度を上げるだけでなく文書構造や図も表現した記録",
+    "link": "https://zenn.dev/phpmyadmin/articles/0dba6fef411e21",
+    "pubDate": "Sun, 10 May 2026 14:58:21 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Agent Toolkit for AWSが持つ50種類のSkillsをStrands Agentsから実行する",
+    "link": "https://qiita.com/nasuvitz/items/fd1be5f3be4170a11a44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-10T14:00:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.jsからQwikへ丸ごと移行してみた - 個人開発した動的Webアプリのリアーキテクチャ実録",
+    "link": "https://zenn.dev/connect0459/articles/rearchitect-from-next-to-qwik",
+    "pubDate": "Sun, 10 May 2026 12:00:18 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Bedrock AgentCore RuntimeのAG-UIプロトコルについて整理したい",
+    "link": "https://qiita.com/Takenoko4594/items/3217b3c389d5ec858fef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-10T08:57:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Obsidianで日常の記録を取るようになってから変わったこと - 人生をハックする",
+    "link": "https://zenn.dev/dip_techblog/articles/d8d58c0f35708a",
+    "pubDate": "Sun, 10 May 2026 08:33:41 GMT"
   },
   {
     "site": "Zenn",
@@ -54,36 +114,6 @@
     "pubDate": "Sun, 10 May 2026 06:52:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI生成画像の背景を透明化するのに役立つ画像背景削除ツール「Rembg」",
-    "link": "https://gigazine.net/news/20260510-rembg/",
-    "pubDate": "2026-05-10T04:00:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "天体可観測はISUNARABE合同演習2026に参加しました",
-    "link": "https://zenn.dev/celestial_o11y/articles/20260510-isunarabe-joint-training-2026",
-    "pubDate": "Sun, 10 May 2026 03:50:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIを使ったプロダクト開発も結局大量の意思決定だけが残ってしまった話、あるいは「作って学ぶ」話",
-    "link": "https://zenn.dev/kusuke/articles/1c3ffeecbb7761",
-    "pubDate": "Sun, 10 May 2026 03:39:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS】Amazon Nova2 Sonicといい感じに日本語でお話ししたかった...",
-    "link": "https://qiita.com/yakumo_09/items/b3ef71c695080ea8b849?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-10T03:37:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS AppSync】Amplify Gen 2 の裏側で動く「スマートな中継機能」を理解する",
-    "link": "https://qiita.com/jus1730/items/a55d79f16dbfe7a805e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-10T03:32:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Dirty Frag (CVE-2026-43284/43500) — Copy Failの暫定策が効かない理由と未パッチ期の管理者対応",
     "link": "https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500",
@@ -94,12 +124,6 @@
     "title": "Claude Codeでの個人開発とセキュリティ管理",
     "link": "https://zenn.dev/btiw/articles/4420d8b95d3e09",
     "pubDate": "Sun, 10 May 2026 02:53:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "gbrainに学ぶ、Agentの記憶基盤とKnowledge Graphの作り方",
-    "link": "https://zenn.dev/headwaters/articles/8bc4e8c3119fa3",
-    "pubDate": "Sun, 10 May 2026 02:34:06 GMT"
   },
   {
     "site": "Zenn",
@@ -120,16 +144,10 @@
     "pubDate": "2026-05-09T23:52:36.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
-    "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
-    "pubDate": "Sat, 09 May 2026 23:35:10 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI時代に越境し、 組織を変えるQAスキルの正体 / QA Skills for Transforming an Organization",
-    "link": "https://speakerdeck.com/mii3king/qa-skills-for-transforming-an-organization",
-    "pubDate": "2026-05-09T22:52:51.000Z"
+    "site": "Qiita",
+    "title": "fix というコミットメッセージを書くなと先輩に叩き込まれた話 〜未来の自分を助けるコミットの書き方〜",
+    "link": "https://qiita.com/shimitaro/items/d77557170777d79e1fc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-09T15:57:21.000Z"
   },
   {
     "site": "Qiita",
@@ -154,24 +172,6 @@
     "title": " PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜",
     "link": "https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-08T23:39:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
-    "link": "https://qiita.com/Katayama_Studio/items/b46711e39fb8ab50a708?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-08T08:52:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「自分にエンジニアなんて無理かも」と思ってる人へ。最初に知ってほしい“仕事の進め方”",
-    "link": "https://qiita.com/prum_hitomi/items/30ed3d885da5bb605460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-08T05:11:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Git初心者の頃わからなかった「pullするな」の意味",
-    "link": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-08T04:16:30.000Z"
   },
   {
     "site": "Hatena",
