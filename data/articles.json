@@ -7,7 +7,7 @@
   },
   {
     "site": "Hatena",
-    "title": "引っ越してネット回線を引こうしたら何ヶ月も進捗がなく、業者の回答も微妙なので自分で他所に問い合わせたら怖いことになった→企業体質や組織の問題？",
+    "title": "引っ越してネット回線を引こうとしたら何ヶ月も進捗がなく、業者の回答も微妙なので自分で他所に問い合わせたら怖いことになった→企業体質や組織の問題？",
     "link": "https://togetter.com/li/2695696",
     "pubDate": "2026-05-11T07:01:07.000Z"
   },
@@ -24,6 +24,12 @@
     "pubDate": "2026-05-11T04:29:23.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "書籍のOCRにLLMを組み合わせることで精度を上げるだけでなく文書構造や図も表現した記録",
+    "link": "https://zenn.dev/phpmyadmin/articles/0dba6fef411e21",
+    "pubDate": "2026-05-11T04:16:39.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "貝印、なでるように剃るカミソリ「なでそり」",
     "link": "https://www.watch.impress.co.jp/docs/news/2107496.html",
@@ -36,16 +42,16 @@
     "pubDate": "2026-05-11T03:36:54.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Obsidianで日常の記録を取るようになってから変わったこと - 人生をハックする",
+    "link": "https://zenn.dev/dip_techblog/articles/d8d58c0f35708a",
+    "pubDate": "2026-05-11T01:24:39.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "マネーフォワードの銀行連携、10日経っても再開せず　ユーザーに不満、解約した人も",
     "link": "https://www.itmedia.co.jp/news/articles/2605/11/news056.html",
     "pubDate": "2026-05-11T01:02:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "みんなはさ、いつ『コンピューターおばあちゃん』が“機械化された祖母”の事ではなく“何でも知ってる年長者の博識さを暗喩しているもの”だと気付いたんだい？",
-    "link": "https://togetter.com/li/2695620",
-    "pubDate": "2026-05-11T01:00:19.000Z"
   },
   {
     "site": "Qiita",
@@ -66,10 +72,28 @@
     "pubDate": "2026-05-10T23:31:54.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ソフトウェアの「設計原則」を、なぜ一部のエンジニアは生理的に嫌うのか",
+    "link": "https://zenn.dev/torao/articles/20260502-differences-in-engrs-cognitive-strategies",
+    "pubDate": "Sun, 10 May 2026 22:00:06 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【完全版】Claude Coworkが凄い…資料作成もフォルダ整理も全自動化、神スキル活用術",
     "link": "https://www.sbbit.jp/article/cont1/185228",
     "pubDate": "2026-05-10T21:51:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「うちのAIは喋るぞ」音声MCPを作って公開してみた【Codex・Claude Code】",
+    "link": "https://zenn.dev/rimon/articles/38a9a5bf2e114b",
+    "pubDate": "Sun, 10 May 2026 21:06:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "クリーンアーキテクチャは変更コストが高い！ YAGNI原則を適用して軽量化する",
+    "link": "https://zenn.dev/takakiriy/articles/f28aee009d0044",
+    "pubDate": "Sun, 10 May 2026 15:46:21 GMT"
   },
   {
     "site": "Zenn",
@@ -88,6 +112,12 @@
     "title": "Next.jsからQwikへ丸ごと移行してみた - 個人開発した動的Webアプリのリアーキテクチャ実録",
     "link": "https://zenn.dev/connect0459/articles/rearchitect-from-next-to-qwik",
     "pubDate": "Sun, 10 May 2026 12:00:18 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ZedでTypstの執筆・プレビュー環境を整える方法",
+    "link": "https://zenn.dev/itsukikigoshi/articles/typst-in-zed-prevew-setup",
+    "pubDate": "Sun, 10 May 2026 10:09:33 GMT"
   },
   {
     "site": "Qiita",
@@ -109,33 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "ISUNARABE合同演習2026に参加しました(INUCON チーム)",
-    "link": "https://zenn.dev/mazrean/articles/27fc724fde1b88",
-    "pubDate": "Sun, 10 May 2026 06:52:17 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Dirty Frag (CVE-2026-43284/43500) — Copy Failの暫定策が効かない理由と未パッチ期の管理者対応",
     "link": "https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500",
     "pubDate": "Sun, 10 May 2026 03:31:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeでの個人開発とセキュリティ管理",
-    "link": "https://zenn.dev/btiw/articles/4420d8b95d3e09",
-    "pubDate": "Sun, 10 May 2026 02:53:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ユーザーストレスを低減するローディング体験の4原則",
-    "link": "https://zenn.dev/akfm/articles/better-loading-ux",
-    "pubDate": "Sun, 10 May 2026 01:07:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の Agent Teams ぽいものを自分で作ってみたい、ついでに Codex でも使いたい。",
-    "link": "https://zenn.dev/himkt/articles/00c6049542170b",
-    "pubDate": "Sun, 10 May 2026 00:56:00 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": " PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜",
     "link": "https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-08T23:39:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "節約AIコーディング・実践編",
-    "link": "https://portablecode.info/2026/05/08/low-cost-ai-coding/",
-    "pubDate": "2026-05-07T21:20:11.000Z"
   }
 ]
