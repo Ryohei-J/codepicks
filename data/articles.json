@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
-    "link": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
-    "pubDate": "2026-05-11T15:27:44.000Z"
+    "title": "AIの「倫理的に不適切な選択」はSF作品の暴走AIを模倣していた──Anthropicが解決手法を公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/11/news080.html",
+    "pubDate": "2026-05-11T23:46:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Postmortem: TanStack npm supply-chain compromise | TanStack Blog",
+    "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "pubDate": "2026-05-11T23:43:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Netflixが2026年もJavaを選ぶ理由——アーキテクチャ・AI活用・新JDK機能の最前線｜直也テック",
+    "link": "https://note.com/naoya_tech/n/ne6fc8797a6bc",
+    "pubDate": "2026-05-11T22:31:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "チームでの開発はどう取り組むのがいいんだろうな？ - Mitsuyuki.Shiiba",
+    "link": "https://bufferings.hatenablog.com/entry/2026/05/12/015150",
+    "pubDate": "2026-05-11T21:08:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "高校国語、再び小説重視　AI時代に感性を　次期要領で文科省案 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20260511/k00/00m/100/117000c",
+    "pubDate": "2026-05-11T17:20:12.000Z"
   },
   {
     "site": "Hatena",
@@ -13,27 +37,27 @@
   },
   {
     "site": "Hatena",
-    "title": "エージェントを強化する: Google 公式 Skills リポジトリを発表 | Google Cloud 公式ブログ",
-    "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy26q2-googlecloud_jp-blog-next_event-in_feed-no-brand-regional-apac&utm_content=level-up-your-agents-announcing-googles-official-skills-repository&utm_term=-",
-    "pubDate": "2026-05-11T11:53:37.000Z"
+    "title": "ChatGPT 5.5 Proが博士課程レベルの数学研究を1時間で実行、数学者が「人間の研究の最低ラインが変わる」と指摘",
+    "link": "https://gigazine.net/news/20260511-chatgpt-experience-math/",
+    "pubDate": "2026-05-11T10:28:34.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀",
-    "link": "https://ratty-term.org/",
-    "pubDate": "2026-05-11T10:24:47.000Z"
+    "title": "ゴールデンウィーク、みんなどこ行った？ を可視化した「交通量増減率マップ」が興味深い／国土交通省が公開している全国の交通量データをベースに日本地図を色分け【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2107631.html",
+    "pubDate": "2026-05-11T08:37:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ソフトウェアの「設計原則」を、なぜ一部のエンジニアは生理的に嫌うのか",
+    "link": "https://zenn.dev/torao/articles/20260502-differences-in-engrs-cognitive-strategies",
+    "pubDate": "2026-05-11T07:23:56.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「プロすげぇ」デザイナーの母にライブのフライヤーを頼んだら、一日ですさまじいクオリティになった 見やすい上に追加情報やQRコードまでキレイに配置",
-    "link": "https://togetter.com/li/2695750",
-    "pubDate": "2026-05-11T08:35:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "引っ越してネット回線を引こうとしたら何ヶ月も進捗がなく、業者の回答も微妙なので自分で他所に問い合わせたら怖いことになった→企業体質や組織の問題？",
-    "link": "https://togetter.com/li/2695696",
-    "pubDate": "2026-05-11T07:01:07.000Z"
+    "title": "はてなブログでは読まれない。について。 - てのひらを、かえして",
+    "link": "https://anmin7.hatenadiary.jp/entry/2026/05/11/124903",
+    "pubDate": "2026-05-11T06:28:11.000Z"
   },
   {
     "site": "Qiita",
@@ -42,28 +66,34 @@
     "pubDate": "2026-05-11T04:29:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "書籍のOCRにLLMを組み合わせることで精度を上げるだけでなく文書構造や図も表現した記録",
-    "link": "https://zenn.dev/phpmyadmin/articles/0dba6fef411e21",
-    "pubDate": "2026-05-11T04:16:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "貝印、なでるように剃るカミソリ「なでそり」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2107496.html",
-    "pubDate": "2026-05-11T04:03:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Chrome DevTools MCP が凄い。人類が「プログラムにやってほしかったこと」が簡単にできる時代がきた！！ - プログラマでありたい",
-    "link": "https://blog.takuros.net/entry/2026/05/11/080037",
-    "pubDate": "2026-05-11T03:36:54.000Z"
+    "site": "Qiita",
+    "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
+    "link": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-11T03:55:14.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Obsidianで日常の記録を取るようになってから変わったこと - 人生をハックする",
-    "link": "https://zenn.dev/dip_techblog/articles/d8d58c0f35708a",
-    "pubDate": "2026-05-11T01:24:39.000Z"
+    "title": "Claude Code に「前に〇〇って言ってたよね」って言ってほしい",
+    "link": "https://zenn.dev/flinters_blog/articles/d824ce0576dcf2",
+    "pubDate": "Mon, 11 May 2026 03:00:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vercelのコストを抑えるためにBot対策する",
+    "link": "https://zenn.dev/chot/articles/vercel_bot_manager",
+    "pubDate": "Mon, 11 May 2026 02:52:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "拡張性は「誰が何を変えるか」で設計する",
+    "link": "https://zenn.dev/dress_code/articles/design-extensibility-who-what",
+    "pubDate": "Mon, 11 May 2026 02:00:08 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI駆動PMの5原則と12の具体例 — Claude Code × Obsidian",
+    "link": "https://zenn.dev/assign/articles/4ba3d41bf59a61",
+    "pubDate": "Mon, 11 May 2026 01:35:00 GMT"
   },
   {
     "site": "Qiita",
@@ -85,12 +115,6 @@
   },
   {
     "site": "Zenn",
-    "title": "「うちのAIは喋るぞ」音声MCPを作って公開してみた【Codex・Claude Code】",
-    "link": "https://zenn.dev/rimon/articles/38a9a5bf2e114b",
-    "pubDate": "Sun, 10 May 2026 21:06:05 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "クリーンアーキテクチャは変更コストが高い！ YAGNI原則を適用して軽量化する",
     "link": "https://zenn.dev/takakiriy/articles/f28aee009d0044",
     "pubDate": "Sun, 10 May 2026 15:46:21 GMT"
@@ -102,12 +126,6 @@
     "pubDate": "Sun, 10 May 2026 14:58:21 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Agent Toolkit for AWSが持つ50種類のSkillsをStrands Agentsから実行する",
-    "link": "https://qiita.com/nasuvitz/items/fd1be5f3be4170a11a44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-10T14:00:17.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Next.jsからQwikへ丸ごと移行してみた - 個人開発した動的Webアプリのリアーキテクチャ実録",
     "link": "https://zenn.dev/connect0459/articles/rearchitect-from-next-to-qwik",
@@ -115,33 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "ZedでTypstの執筆・プレビュー環境を整える方法",
-    "link": "https://zenn.dev/itsukikigoshi/articles/typst-in-zed-prevew-setup",
-    "pubDate": "Sun, 10 May 2026 10:09:33 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon Bedrock AgentCore RuntimeのAG-UIプロトコルについて整理したい",
-    "link": "https://qiita.com/Takenoko4594/items/3217b3c389d5ec858fef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-10T08:57:56.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "Obsidianで日常の記録を取るようになってから変わったこと - 人生をハックする",
     "link": "https://zenn.dev/dip_techblog/articles/d8d58c0f35708a",
     "pubDate": "Sun, 10 May 2026 08:33:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CodexをローカルLLMで駆動する",
-    "link": "https://zenn.dev/robustonian/articles/codex_with_local_llm",
-    "pubDate": "Sun, 10 May 2026 07:47:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Dirty Frag (CVE-2026-43284/43500) — Copy Failの暫定策が効かない理由と未パッチ期の管理者対応",
-    "link": "https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500",
-    "pubDate": "Sun, 10 May 2026 03:31:29 GMT"
   },
   {
     "site": "Qiita",
@@ -160,6 +154,12 @@
     "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
     "link": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-09T12:11:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "絵が描けない人が気合で３Dモデルを作る方法",
+    "link": "https://qiita.com/Rin5/items/99fbf5587fb9bd2f4a48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-09T11:18:41.000Z"
   },
   {
     "site": "Qiita",
