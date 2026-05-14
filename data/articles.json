@@ -1,5 +1,29 @@
 [
   {
+    "site": "Qiita",
+    "title": "AI時代の新卒エンジニア採用、面接1時間で「書ける人」を見抜けますか？──履歴書と面接の間に「実務90分」を挟むという提案",
+    "link": "https://qiita.com/Ngen/items/9804ff498426ee385967?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-14T05:59:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTの医療アドバイスで薬を過剰摂取、米国で19歳大学生が死亡　遺族がOpenAI提訴",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/14/news054.html",
+    "pubDate": "2026-05-14T03:39:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "BitLockerすり抜ける「YellowKey」脆弱性。発見者曰く「意図的なバックドア」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2108506.html",
+    "pubDate": "2026-05-14T02:26:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "存在感を増すGenspark、日本で2500社以上に導入「誰でもAIを使えるように」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2108355.html",
+    "pubDate": "2026-05-14T01:33:54.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "あなたは人間ですか？と問い続けて25年。「CAPTCHA」がAIに破られても生き残る理由 - レバテックLAB",
     "link": "https://levtech.jp/media/detail_859/",
@@ -12,10 +36,16 @@
     "pubDate": "2026-05-13T23:12:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【西川和久の不定期コラム】 まだ一般向けではありません。でも未来感が凄い2026年春のローカルLLM事情",
-    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2108441.html",
-    "pubDate": "2026-05-13T21:13:24.000Z"
+    "site": "Qiita",
+    "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
+    "link": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-13T23:06:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【TypeScript】条件分岐のベストプラクティス ── ネスト・switch・フラグ引数を卒業しよう",
+    "link": "https://qiita.com/Nao52/items/38757bc86c30f0326519?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-13T22:40:10.000Z"
   },
   {
     "site": "Hatena",
@@ -25,15 +55,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Node.js、Dateに代わる日時処理「Temporal」がデフォルト有効化。TemporalはChrome/Edge/Firefox/Node.jsで利用可能に",
-    "link": "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
-    "pubDate": "2026-05-13T16:34:10.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【チャッピー快挙】GPT5.4が素人のプロンプトで60年来の数学難問エルデシュ問題を証明",
     "link": "https://www.sbbit.jp/article/cont1/185368",
     "pubDate": "2026-05-13T14:03:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Qt 6 を Zephyr で動くようにしました",
+    "link": "https://zenn.dev/tasuku/articles/04f39f7e31c1d0",
+    "pubDate": "Wed, 13 May 2026 11:34:06 GMT"
   },
   {
     "site": "Zenn",
@@ -42,10 +72,28 @@
     "pubDate": "Wed, 13 May 2026 11:32:50 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ログイン済みの Chrome をそのまま Claude Code から操作する — playwright-cli attach",
+    "link": "https://zenn.dev/optimisuke/articles/40529cd970cbf0",
+    "pubDate": "Wed, 13 May 2026 11:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "JavaScriptCore のデフォルト派生コンストラクタ呼び出しに関するバグを修正した",
+    "link": "https://zenn.dev/itsu_dev/articles/311a9a28a41ed3",
+    "pubDate": "Wed, 13 May 2026 08:54:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェント時代にゼロ知識証明が必要な理由",
+    "link": "https://zenn.dev/komlock_lab/articles/zero-knowledge-proof-2026",
+    "pubDate": "Wed, 13 May 2026 08:40:05 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "セキュリティ診断AIツールTakumiを使った、脆弱性診断の現状 — HACK The Nikkei",
-    "link": "https://hack.nikkei.com/blog/vulnerability_assessment_with_takumi/",
-    "pubDate": "2026-05-13T05:18:54.000Z"
+    "title": "Excelで複数行にまたがる文章を楽に入力する方法 - プチメタ3.0",
+    "link": "https://mclover.hateblo.jp/entry/20260513/1778647560",
+    "pubDate": "2026-05-13T05:06:29.000Z"
   },
   {
     "site": "Qiita",
@@ -60,22 +108,16 @@
     "pubDate": "2026-05-13T04:04:22.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "いつも使っている Claude Code の裏側を覗いてみた",
-    "link": "https://qiita.com/sapeet-lin/items/f9143a90094601631b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-13T02:04:16.000Z"
+    "site": "Zenn",
+    "title": "Rust(Yew) vs JavaScript(React) — マンデルブロ集合で実測したWebAssemblyのリアルな速度差",
+    "link": "https://zenn.dev/milabo/articles/rust_yew_vs_react_fractal",
+    "pubDate": "Wed, 13 May 2026 03:59:32 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Whisperベースの無料音声入力ツール「Whispering」のセットアップ方法（Mac）",
-    "link": "https://qiita.com/akasateru/items/0d2577bf1d1d127033d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-13T01:36:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ADHD が AI 開発でむっちゃ困ってたことが解決した話｜牛尾　剛",
-    "link": "https://note.com/simplearchitect/n/nd201f69134aa",
-    "pubDate": "2026-05-13T01:23:14.000Z"
+    "site": "Zenn",
+    "title": "Mini Shai-Hulud 第二波をきっかけに、個人開発向けの npm / OSS サプライチェーン攻撃対策を整理した話",
+    "link": "https://zenn.dev/n_tong/articles/3e1ed84f54c827",
+    "pubDate": "Wed, 13 May 2026 03:50:35 GMT"
   },
   {
     "site": "Zenn",
@@ -91,15 +133,21 @@
   },
   {
     "site": "Qiita",
-    "title": "リサイズをスムーズに行うFigmaデータの作成方法",
-    "link": "https://qiita.com/hamada_yzrh/items/bdc316e82f878815da0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-12T23:42:38.000Z"
+    "title": "要件定義とは何か？開発メンバー初心者向けガイド",
+    "link": "https://qiita.com/Nao52/items/996735e9b8ff4b3b1255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-12T23:58:27.000Z"
   },
   {
     "site": "Zenn",
     "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
     "link": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
     "pubDate": "Tue, 12 May 2026 14:08:30 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "脳科学から見る、AI時代のエンジニアが成長する考え方",
+    "link": "https://qiita.com/Toyo_m/items/4e1dd272f6bd4b78131e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-12T11:10:54.000Z"
   },
   {
     "site": "Hatena",
@@ -109,33 +157,9 @@
   },
   {
     "site": "Zenn",
-    "title": "コードレビューのボトルネックを\"する側\"と\"される側\"の両面から解消する",
-    "link": "https://zenn.dev/atamaplus/articles/resolve-review-bottleneck",
-    "pubDate": "Tue, 12 May 2026 04:30:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【RAG】「キーワード検索1回」だけで、精度を出す。",
-    "link": "https://zenn.dev/knowledgesense/articles/67370650799bc6",
-    "pubDate": "Tue, 12 May 2026 03:46:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code Routines で Issue の自動対応をチームで回している話",
-    "link": "https://zenn.dev/notahotel/articles/claude-routine-auto-fix-issue",
-    "pubDate": "Tue, 12 May 2026 02:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コンパニオンAIの記憶を、普通のRAGじゃない設計にした話",
-    "link": "https://zenn.dev/haru0416/articles/843c6c29c04c7c",
-    "pubDate": "Tue, 12 May 2026 02:05:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "手を動かして学ぶ Claude Code 入門ワークショップを公開しました〜！",
-    "link": "https://zenn.dev/aws_japan/articles/introduction-to-claude-code-workshop",
-    "pubDate": "Tue, 12 May 2026 01:45:14 GMT"
+    "title": "普段Drawioで画面設計を作ってる非デザイナーがPencilを触ってみた",
+    "link": "https://zenn.dev/levtech/articles/e7827feac11a36",
+    "pubDate": "Tue, 12 May 2026 08:56:20 GMT"
   },
   {
     "site": "Qiita",
@@ -144,39 +168,15 @@
     "pubDate": "2026-05-12T00:53:08.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AIのハーネスを徹底的に整えたら、レビューもシステム運用も自動化され、非エンジニアも開発に参加できるようになった話 ── 連載総論",
-    "link": "https://zenn.dev/aircloset/articles/d416342f46f16b",
-    "pubDate": "Tue, 12 May 2026 00:31:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "大学システムのアーキテクチャを見直した話",
-    "link": "https://zenn.dev/xtm_blog/articles/91099d48d8f130",
-    "pubDate": "Tue, 12 May 2026 00:04:43 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
-    "link": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-11T08:45:56.000Z"
+    "title": "「あ、これAIが書いたな」と一瞬でバレる技術記事の6つの特徴",
+    "link": "https://qiita.com/gorie-site/items/4ff2efbaa38575edd6a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-11T14:34:03.000Z"
   },
   {
     "site": "Qiita",
     "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
     "link": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-11T08:19:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「今日何してた？」に詰まる新人エンジニアへ。それ、スキルではなく“進め方”の問題です。",
-    "link": "https://qiita.com/hitomin_poke/items/6dc096a87ac248e93f13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-11T04:29:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-11T03:55:14.000Z"
   }
 ]
