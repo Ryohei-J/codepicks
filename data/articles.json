@@ -1,21 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "【すごい】Claude ミュトス、Appleが5年かけたMacメモリ保護を5日で突破！研究者と共に - すまほん!!",
+    "link": "https://smhn.info/202605-anthropic-ai-breaks-apple-mac-memory-protection-5-days",
+    "pubDate": "2026-05-15T05:41:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI時代に生き残る「最強の武器」",
+    "link": "https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-15T05:23:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アニメ・イラストに強い画像生成AI「Anima」の正式版がついに登場、タグ・自然言語両対応でSDXLやIllustrious系モデルが動作するPCなら余裕でローカル実行可能",
+    "link": "https://gigazine.net/news/20260515-anima-image-generation-ai/",
+    "pubDate": "2026-05-15T04:49:41.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「この部長の子すごいね」 磐越道バス事故で、部長が「大切な人に連絡しとけ」「シートベルトしとけ」と呼びかける「自分を責めないでほしい」",
     "link": "https://togetter.com/li/2697194",
     "pubDate": "2026-05-15T01:34:41.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Metaが高齢者狙いの詐欺広告から20億円以上を稼いでいたことが明らかに",
-    "link": "https://gigazine.net/news/20260515-meta-profited-medicare-scam/",
-    "pubDate": "2026-05-14T23:49:14.000Z"
+    "title": "いまITエンジニアの人たちは今後のキャリアについてどう考えているのだろう？…いろんな人の話を聞いてみたい「まじで何ができるんだろう」「別職種への転職はありかも」",
+    "link": "https://togetter.com/li/2697180",
+    "pubDate": "2026-05-15T01:00:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Agent Registry で動的に Harness (MCP/Skill) や A2A Agent を検索・実行する Agent の実装",
+    "link": "https://zenn.dev/aws_japan/articles/005-bedrock-agent-registry-dynamic-loading",
+    "pubDate": "Thu, 14 May 2026 22:04:24 GMT"
   },
   {
     "site": "Hatena",
-    "title": "米中首脳会談の晩さん会に出席したイーロン・マスク氏、ポツンと座って所在なさげな様子「飲み会の俺たちすぎてダメージがすごい」「すごくツイッタラーらしい…」",
-    "link": "https://togetter.com/li/2697105",
-    "pubDate": "2026-05-14T21:17:14.000Z"
+    "title": "「Gemini」がチャットでファイルを直接作成可能に ～WordやExcel形式などにも対応／「Google Workspace」の文書はもちろん、PDFやLaTeXなど多くのファイル形式に対応",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2108442.html",
+    "pubDate": "2026-05-14T22:00:31.000Z"
   },
   {
     "site": "Hatena",
@@ -36,10 +60,10 @@
     "pubDate": "2026-05-14T18:35:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "鹿野さんに聞く！CSSの最新トレンド Ver.2026",
-    "link": "https://speakerdeck.com/tonkotsuboy_com/lu-ye-sanniwen-ku-cssnozui-xin-torendo-ver-dot-2026",
-    "pubDate": "2026-05-14T12:30:03.000Z"
+    "site": "Qiita",
+    "title": "Better Search Replaceを使ったWordPressのDB置換",
+    "link": "https://qiita.com/matsumura-yzrh/items/16d8576c1536a7f337a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-14T13:01:26.000Z"
   },
   {
     "site": "Zenn",
@@ -54,22 +78,28 @@
     "pubDate": "2026-05-14T11:57:33.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "セキュリティを学ぶ学生、\"孤高の狼\"になってませんか? — 学生コミュニティを作りたい話",
+    "link": "https://qiita.com/Sabakan0123/items/8a937781391763ff1bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-14T11:41:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Amazon S3 Vectors で、ベクトル DB を立てずに画像検索 PoC を作る",
+    "link": "https://zenn.dev/aldagram_tech/articles/3318a924758852",
+    "pubDate": "Thu, 14 May 2026 10:44:51 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ログラスにおけるAI時代の新卒エンジニアの研修設計",
+    "link": "https://zenn.dev/ohnoeight/articles/737f3226df1fb8",
+    "pubDate": "Thu, 14 May 2026 10:17:57 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "指標をめぐる認知バイアス - kawasima",
     "link": "https://scrapbox.io/kawasima/%E6%8C%87%E6%A8%99%E3%82%92%E3%82%81%E3%81%90%E3%82%8B%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9",
     "pubDate": "2026-05-14T08:35:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代の新卒エンジニア採用、面接1時間で「書ける人」を見抜けますか？──履歴書と面接の間に「実務90分」を挟むという提案",
-    "link": "https://qiita.com/Ngen/items/9804ff498426ee385967?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-14T05:59:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "メモリの価格高騰がメモリの購入者であるAppleにとってむしろ有利に働く理由",
-    "link": "https://gigazine.net/news/20260514-apple-memory-panic/",
-    "pubDate": "2026-05-14T05:15:39.000Z"
   },
   {
     "site": "Qiita",
@@ -78,10 +108,28 @@
     "pubDate": "2026-05-14T04:31:50.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Notion Developer Platform発表を読み解く：Workers/Agents/CLIで「誰がどう嬉しいのか」を整理する",
+    "link": "https://zenn.dev/truestar/articles/97be4dca3620d7",
+    "pubDate": "Thu, 14 May 2026 03:25:35 GMT"
+  },
+  {
     "site": "Qiita",
-    "title": "ChromeのOptGuideOnDeviceModelとは？4GB AIモデル自動DL問題を調べてみた",
-    "link": "https://qiita.com/tuanphan/items/f6ab86636a2cef75620f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-14T02:47:01.000Z"
+    "title": "Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル",
+    "link": "https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-14T02:03:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust で型を渡すだけで実装が選ばれる仕組みを理解する",
+    "link": "https://zenn.dev/estie/articles/76bb030f8a9f87",
+    "pubDate": "Thu, 14 May 2026 01:00:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LaravelをHTTPS公開した5分後、世界中のbotが叩いてきた",
+    "link": "https://zenn.dev/catatsumuri/articles/81b852be4c05c9",
+    "pubDate": "Thu, 14 May 2026 00:01:53 GMT"
   },
   {
     "site": "Qiita",
@@ -90,10 +138,10 @@
     "pubDate": "2026-05-13T23:06:19.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【TypeScript】条件分岐のベストプラクティス ── ネスト・switch・フラグ引数を卒業しよう",
-    "link": "https://qiita.com/Nao52/items/38757bc86c30f0326519?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-13T22:40:10.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeにリポジトリを1枚のワークフロー図にしてもらうプロンプト",
+    "link": "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
+    "pubDate": "Wed, 13 May 2026 20:01:31 GMT"
   },
   {
     "site": "Zenn",
@@ -109,57 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Generative UIでSuspenseを使う",
-    "link": "https://qiita.com/uhyo/items/bdbd01449cf019365dca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-13T14:13:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代に生きる若手エンジニアが、AIを使う上で備えておくべき知識",
-    "link": "https://zenn.dev/acntechjp/articles/ed556516a84934",
-    "pubDate": "Wed, 13 May 2026 13:43:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Qt 6 を Zephyr で動くようにしました",
-    "link": "https://zenn.dev/tasuku/articles/04f39f7e31c1d0",
-    "pubDate": "Wed, 13 May 2026 11:34:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeキーボードショートカット17選、Tier別に全部教えたるで",
-    "link": "https://zenn.dev/masayan1126/books/claude-code-keyboard-shortcuts",
-    "pubDate": "Wed, 13 May 2026 11:32:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ログイン済みの Chrome をそのまま Claude Code から操作する — playwright-cli attach",
-    "link": "https://zenn.dev/optimisuke/articles/40529cd970cbf0",
-    "pubDate": "Wed, 13 May 2026 11:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "変動費2.3円/時、固定費22円/月のマイクラサーバーを構築した話",
-    "link": "https://zenn.dev/daikitchen/articles/ac794d03b9baf3",
-    "pubDate": "Wed, 13 May 2026 09:31:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "JavaScriptCore のデフォルト派生コンストラクタ呼び出しに関するバグを修正した",
-    "link": "https://zenn.dev/itsu_dev/articles/311a9a28a41ed3",
-    "pubDate": "Wed, 13 May 2026 08:54:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェント時代にゼロ知識証明が必要な理由",
-    "link": "https://zenn.dev/komlock_lab/articles/zero-knowledge-proof-2026",
-    "pubDate": "Wed, 13 May 2026 08:40:05 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
     "link": "https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-13T04:42:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code はセッションをまたぐと記憶がリセットされる — 5分で永続記憶を仕込む方法",
+    "link": "https://qiita.com/jqit_suwa/items/8607bf9f2683fb8442de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-13T02:14:27.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "脳科学から見る、AI時代のエンジニアが成長する考え方",
     "link": "https://qiita.com/Toyo_m/items/4e1dd272f6bd4b78131e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-12T11:10:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアの成長を加速させる3つの考え方",
-    "link": "https://qiita.com/masa20057/items/92459106b36b33bda66b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-12T00:53:08.000Z"
   }
 ]
