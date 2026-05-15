@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "チャッピーにブコメ欄作ってって言ったら実物ブクマカが出てきてワロタ ..",
+    "link": "https://anond.hatelabo.jp/20260515202511",
+    "pubDate": "2026-05-15T11:34:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ワコム社長が西新宿オフィスの一角を私物化、ダンススペースとして娘に提供か　“物言う株主”が解任提案",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news109.html",
+    "pubDate": "2026-05-15T11:15:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「衛星放送」終焉の序章か――「BS4K」民放5社撤退のインパクト",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news105.html",
+    "pubDate": "2026-05-15T08:30:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "サントリーさん、サプリのDMに「今すぐ中をご確認ください」といった緊急度が高そうな表現はやめて→開封率だけを追って自社イメージを毀損してないかといった声",
+    "link": "https://togetter.com/li/2697298",
+    "pubDate": "2026-05-15T07:57:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【すごい】Claude ミュトス、Appleが5年かけたMacメモリ保護を5日で突破！研究者と共に - すまほん!!",
     "link": "https://smhn.info/202605-anthropic-ai-breaks-apple-mac-memory-protection-5-days",
     "pubDate": "2026-05-15T05:41:46.000Z"
@@ -19,15 +43,27 @@
   },
   {
     "site": "Hatena",
-    "title": "「この部長の子すごいね」 磐越道バス事故で、部長が「大切な人に連絡しとけ」「シートベルトしとけ」と呼びかける「自分を責めないでほしい」",
-    "link": "https://togetter.com/li/2697194",
-    "pubDate": "2026-05-15T01:34:41.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "いまITエンジニアの人たちは今後のキャリアについてどう考えているのだろう？…いろんな人の話を聞いてみたい「まじで何ができるんだろう」「別職種への転職はありかも」",
     "link": "https://togetter.com/li/2697180",
     "pubDate": "2026-05-15T01:00:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
+    "link": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
+    "pubDate": "Fri, 15 May 2026 00:14:18 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「SaaSの死」の次は「SIerの死」か……アンソロピックがSMB向け参入の衝撃",
+    "link": "https://www.sbbit.jp/article/cont1/185375",
+    "pubDate": "2026-05-14T23:52:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "熟達と設計原則 - 圧縮型や展開型をレッテルにしない",
+    "link": "https://zenn.dev/339/articles/e1d536aec1bf33",
+    "pubDate": "Thu, 14 May 2026 23:25:04 GMT"
   },
   {
     "site": "Zenn",
@@ -37,27 +73,21 @@
   },
   {
     "site": "Hatena",
-    "title": "「Gemini」がチャットでファイルを直接作成可能に ～WordやExcel形式などにも対応／「Google Workspace」の文書はもちろん、PDFやLaTeXなど多くのファイル形式に対応",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2108442.html",
-    "pubDate": "2026-05-14T22:00:31.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "コンピューターの処理速度1000倍へ、東大が素子開発　発熱せず稼働 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOSG132XK0T10C26A5000000/",
     "pubDate": "2026-05-14T20:52:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "実践ハーネスエンジニアリング：ステアリングループを実例から読み解く / Practical Harness Engineering: Understanding Steering Loops Through Real-World Examples",
-    "link": "https://speakerdeck.com/nrslib/practical-harness-engineering-understanding-steering-loops-through-real-world-examples",
-    "pubDate": "2026-05-14T20:17:10.000Z"
+    "site": "Zenn",
+    "title": "Claudeに魂を吹き込む人 —Amanda Askellという哲学者の眼差し",
+    "link": "https://zenn.dev/noah33/articles/amanda-askell-claude-soul",
+    "pubDate": "Thu, 14 May 2026 15:15:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "VS Code、複数AIエージェントでの開発を容易にする新機能「Agent window」プレビュー公開",
-    "link": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-    "pubDate": "2026-05-14T18:35:56.000Z"
+    "site": "Zenn",
+    "title": "五反田式: スティグマジーを応用した自律型マルチエージェントシステム【日本語訳】",
+    "link": "https://zenn.dev/iroha1203/articles/93ee3d4c5d5174",
+    "pubDate": "Thu, 14 May 2026 14:10:26 GMT"
   },
   {
     "site": "Qiita",
@@ -78,6 +108,12 @@
     "pubDate": "2026-05-14T11:57:33.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "セキュリティを学ぶ学生、\"孤高の狼\"になってませんか? — 学生コミュニティを作りたい話",
+    "link": "https://zenn.dev/sabakan1/articles/ee464595c9ddc7",
+    "pubDate": "Thu, 14 May 2026 11:55:57 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "セキュリティを学ぶ学生、\"孤高の狼\"になってませんか? — 学生コミュニティを作りたい話",
     "link": "https://qiita.com/Sabakan0123/items/8a937781391763ff1bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,12 +130,6 @@
     "title": "ログラスにおけるAI時代の新卒エンジニアの研修設計",
     "link": "https://zenn.dev/ohnoeight/articles/737f3226df1fb8",
     "pubDate": "Thu, 14 May 2026 10:17:57 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "指標をめぐる認知バイアス - kawasima",
-    "link": "https://scrapbox.io/kawasima/%E6%8C%87%E6%A8%99%E3%82%92%E3%82%81%E3%81%90%E3%82%8B%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9",
-    "pubDate": "2026-05-14T08:35:18.000Z"
   },
   {
     "site": "Qiita",
@@ -120,40 +150,10 @@
     "pubDate": "2026-05-14T02:03:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Rust で型を渡すだけで実装が選ばれる仕組みを理解する",
-    "link": "https://zenn.dev/estie/articles/76bb030f8a9f87",
-    "pubDate": "Thu, 14 May 2026 01:00:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LaravelをHTTPS公開した5分後、世界中のbotが叩いてきた",
-    "link": "https://zenn.dev/catatsumuri/articles/81b852be4c05c9",
-    "pubDate": "Thu, 14 May 2026 00:01:53 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
     "link": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-13T23:06:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeにリポジトリを1枚のワークフロー図にしてもらうプロンプト",
-    "link": "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
-    "pubDate": "Wed, 13 May 2026 20:01:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "たった数行でコード品質がグッと上がる、CLAUDE.md / AGENTS.md にいつも追記してるやつ",
-    "link": "https://zenn.dev/peka2/articles/6dc7d5a87a99dd",
-    "pubDate": "Wed, 13 May 2026 15:55:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "EMからICへ、キャリアは螺旋階段のように上がっていける",
-    "link": "https://zenn.dev/dress_code/articles/a4edb42f26ee2a",
-    "pubDate": "Wed, 13 May 2026 15:00:00 GMT"
   },
   {
     "site": "Qiita",
