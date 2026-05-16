@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "本物のモネの絵の一部を出して「あの睡蓮をAI生成したよ」と言ったら、みんなが「本物とは似ても似つかない」とダメ出ししまくった",
+    "link": "https://togetter.com/li/2697618",
+    "pubDate": "2026-05-16T05:01:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ユーザーの7割が女性、1日250万人・月間1億人が利用する「AIロマンタジー」サイト | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/97250",
+    "pubDate": "2026-05-16T02:43:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「涼宮ハルヒの憂鬱」の視聴順を巡る4chan匿名ユーザーの投稿→うっかり数学の未解決問題で歴史的発見　2021年に論文化",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/16/news003.html",
+    "pubDate": "2026-05-16T02:01:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携",
     "link": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
     "pubDate": "2026-05-15T23:41:12.000Z"
@@ -12,34 +30,40 @@
     "pubDate": "2026-05-15T17:43:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "一人SREが歩んだPlatform Engineeringスモールスタート実践録 ~ クラウドネイティブ会議版 ~",
-    "link": "https://speakerdeck.com/syossan27/ren-sregabu-ndaplatform-engineeringsumorusutatoshi-jian-lu-kuraudoneiteibuhui-yi-ban",
-    "pubDate": "2026-05-15T13:28:05.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeにリポジトリを1枚のワークフロー図にしてもらうプロンプト",
+    "link": "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
+    "pubDate": "2026-05-15T16:17:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "実物大ユニコーンガンダム立像、展示終了へ　17年の公開から9年弱",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news120.html",
-    "pubDate": "2026-05-15T12:42:10.000Z"
+    "site": "Zenn",
+    "title": "Elasticsearchでアイヌ語コーパスを作った",
+    "link": "https://zenn.dev/neet/articles/031d5499e68685",
+    "pubDate": "Fri, 15 May 2026 15:25:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "(リンク有)チャッピーにブコメ欄作ってって言ったら実物ブクマカが出てきて..",
-    "link": "https://anond.hatelabo.jp/20260515202511",
-    "pubDate": "2026-05-15T11:34:37.000Z"
+    "site": "Zenn",
+    "title": "WindowsでもCodexのMobileからCodex Appに接続する方法",
+    "link": "https://zenn.dev/acntechjp/articles/4b2af76beb46b3",
+    "pubDate": "Fri, 15 May 2026 14:36:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ワコム社長が西新宿オフィスの一角を私物化、ダンススペースとして娘に提供か　“物言う株主”が解任提案",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news109.html",
-    "pubDate": "2026-05-15T11:15:24.000Z"
+    "site": "Zenn",
+    "title": "Nix使用時にGitHubのAPI Rate Limitを緩和する方法",
+    "link": "https://zenn.dev/ril/articles/13777ce701882c",
+    "pubDate": "Fri, 15 May 2026 11:17:38 GMT"
   },
   {
     "site": "Zenn",
     "title": "一人暮らしこそOpenWrtをやれ！ (v6プラス理論編)",
     "link": "https://zenn.dev/calloc134/articles/newlife-openwrt-riron",
     "pubDate": "Fri, 15 May 2026 09:27:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenMythosがローカル環境で動くか検証してみた",
+    "link": "https://zenn.dev/aiforall/articles/726668a035a148",
+    "pubDate": "Fri, 15 May 2026 08:50:03 GMT"
   },
   {
     "site": "Qiita",
@@ -54,22 +78,16 @@
     "pubDate": "Fri, 15 May 2026 08:02:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "都心にもデータセンター 建設ラッシュいったいなぜ？ | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015121461000",
-    "pubDate": "2026-05-15T07:44:25.000Z"
+    "site": "Zenn",
+    "title": "Copilot Studio × Work IQでTeamsに眠るナレッジを即活用～「15分で構築可能！問い合わせ対応エージェント」のご紹介",
+    "link": "https://zenn.dev/nttdata_tech/articles/75bebd16367ea4",
+    "pubDate": "Fri, 15 May 2026 07:43:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "How Claude Code works in large codebases: Best practices and where to start | Claude",
-    "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-    "pubDate": "2026-05-15T06:57:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "JCB、「クレカ乗車」でポイント10%還元　5月16日利用分から1年間",
-    "link": "https://japan.cnet.com/article/35247579/",
-    "pubDate": "2026-05-15T06:35:56.000Z"
+    "site": "Zenn",
+    "title": "vimハラに負けないための心得 〜エディタ選択の自由を守る〜",
+    "link": "https://zenn.dev/yamitake/articles/survive-vim-harassment-mindset",
+    "pubDate": "2026-05-15T06:09:59.000Z"
   },
   {
     "site": "Zenn",
@@ -103,45 +121,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Comments on 「ソフトウェアの「設計原則」を、なぜ一部のエンジニアは生理的に嫌うのか」",
-    "link": "https://zenn.dev/ril/articles/8a58ccf870f25e",
-    "pubDate": "Fri, 15 May 2026 00:49:02 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
     "link": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
     "pubDate": "Fri, 15 May 2026 00:14:18 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "熟達と設計原則 - 圧縮型や展開型をレッテルにしない",
-    "link": "https://zenn.dev/339/articles/e1d536aec1bf33",
-    "pubDate": "Thu, 14 May 2026 23:25:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot app を使って感じた、日々の摩擦が減る4つのこと",
-    "link": "https://zenn.dev/tomokusaba/articles/fd382738fee5e3",
-    "pubDate": "Thu, 14 May 2026 22:43:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent Registry で動的に Harness (MCP/Skill) や A2A Agent を検索・実行する Agent の実装",
-    "link": "https://zenn.dev/aws_japan/articles/005-bedrock-agent-registry-dynamic-loading",
-    "pubDate": "Thu, 14 May 2026 22:04:24 GMT"
+    "site": "Qiita",
+    "title": "Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル - Qiita",
+    "link": "https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c",
+    "pubDate": "2026-05-15T00:13:55.000Z"
   },
   {
     "site": "Qiita",
     "title": "Better Search Replaceを使ったWordPressのDB置換",
     "link": "https://qiita.com/matsumura-yzrh/items/16d8576c1536a7f337a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-14T13:01:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI×Unityゲーム開発スターターキット",
-    "link": "https://zenn.dev/ohbashunsuke/books/unity-ai-starter-kit",
-    "pubDate": "Thu, 14 May 2026 12:00:20 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "要件定義とは何か？開発メンバー初心者向けガイド",
     "link": "https://qiita.com/Nao52/items/996735e9b8ff4b3b1255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-12T23:58:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "意味が重複した単語",
+    "link": "https://alpha3166.github.io/blog/20111225.html",
+    "pubDate": "2019-05-21T11:09:40.000Z"
   }
 ]
