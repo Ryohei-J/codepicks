@@ -1,9 +1,27 @@
 [
   {
+    "site": "Qiita",
+    "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編 - Qiita",
+    "link": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
+    "pubDate": "2026-05-16T10:14:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMが｢越えられない壁｣。AIの限界点が数学的に証明された",
+    "link": "https://www.gizmodo.jp/2026/05/limits-of-ai-capabilities-oe8.html",
+    "pubDate": "2026-05-16T10:05:14.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "本物のモネの絵の一部を出して「あの睡蓮をAI生成したよ」と言ったら、みんなが「本物とは似ても似つかない」とダメ出ししまくった",
     "link": "https://togetter.com/li/2697618",
     "pubDate": "2026-05-16T05:01:32.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Zephyr RTOS 〜 debug with VSCode 〜",
+    "link": "https://qiita.com/Corgeek/items/0ac73e5eb7d773193219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-16T03:37:39.000Z"
   },
   {
     "site": "Hatena",
@@ -19,15 +37,21 @@
   },
   {
     "site": "Hatena",
-    "title": "OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
-    "pubDate": "2026-05-15T23:41:12.000Z"
+    "title": "ショッピングAI時代への不安　アマゾンは検索ワードを書き換えないで欲しい",
+    "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2108793.html",
+    "pubDate": "2026-05-16T01:48:46.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Google's Guide to Optimizing for Generative AI Features on Google Search | Google Search Central  |  Documentation  |  Google for Developers",
-    "link": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
-    "pubDate": "2026-05-15T17:43:47.000Z"
+    "title": "ついに水素が0円に　東大先端研の蓄電池連携システム、製造コスト自動最適化 | 環境ビジネスオンライン",
+    "link": "https://www.kankyo-business.jp/news/2c9e5a80-8dc0-445e-ad93-807c78eef890",
+    "pubDate": "2026-05-16T01:29:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
+    "pubDate": "2026-05-15T23:41:12.000Z"
   },
   {
     "site": "Zenn",
@@ -49,9 +73,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
+    "link": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
+    "pubDate": "2026-05-15T13:24:34.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "Nix使用時にGitHubのAPI Rate Limitを緩和する方法",
     "link": "https://zenn.dev/ril/articles/13777ce701882c",
     "pubDate": "Fri, 15 May 2026 11:17:38 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIで開発が速くなったので、受託開発の価値を考え直してみる",
+    "link": "https://qiita.com/yoshi1220/items/0bfb5b4fc062e0290597?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-15T11:04:32.000Z"
   },
   {
     "site": "Zenn",
@@ -64,6 +100,12 @@
     "title": "OpenMythosがローカル環境で動くか検証してみた",
     "link": "https://zenn.dev/aiforall/articles/726668a035a148",
     "pubDate": "Fri, 15 May 2026 08:50:03 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS上にセキュアかつ安価かつ使い捨て可能なリモート開発環境を構築した話 ― SSM × Spot Instance × CDK",
+    "link": "https://qiita.com/kyonosuke/items/eee9eb3840d3f740f325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-15T08:33:17.000Z"
   },
   {
     "site": "Qiita",
@@ -84,10 +126,10 @@
     "pubDate": "Fri, 15 May 2026 07:43:41 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "vimハラに負けないための心得 〜エディタ選択の自由を守る〜",
-    "link": "https://zenn.dev/yamitake/articles/survive-vim-harassment-mindset",
-    "pubDate": "2026-05-15T06:09:59.000Z"
+    "site": "Qiita",
+    "title": "MCP Server — AI が外部ツールと接続する方法を標準化する理由",
+    "link": "https://qiita.com/NXD139/items/e72563a5e4f5830bcb54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-15T07:30:31.000Z"
   },
   {
     "site": "Zenn",
@@ -103,9 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "[Frontend Performance - Part 16] 配信最適化の総仕上げ：Code Splitting・Cache・CDN戦略まとめ",
-    "link": "https://qiita.com/tuanphan/items/e332db235525cfb9d10b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-15T04:39:22.000Z"
+    "title": "単一HTMLで作ったサイトを自己解凍形式にする試み",
+    "link": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-15T03:58:20.000Z"
   },
   {
     "site": "Zenn",
@@ -114,28 +156,10 @@
     "pubDate": "Fri, 15 May 2026 02:54:18 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【最強入門】Claude Codeが強すぎる…非エンジニアこそ業務激変の「神設定」と活用5選",
-    "link": "https://www.sbbit.jp/article/cont1/185291",
-    "pubDate": "2026-05-15T01:15:14.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
     "link": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
     "pubDate": "Fri, 15 May 2026 00:14:18 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル - Qiita",
-    "link": "https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c",
-    "pubDate": "2026-05-15T00:13:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Better Search Replaceを使ったWordPressのDB置換",
-    "link": "https://qiita.com/matsumura-yzrh/items/16d8576c1536a7f337a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-14T13:01:26.000Z"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
     "link": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-13T23:06:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
-    "link": "https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-13T04:42:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code はセッションをまたぐと記憶がリセットされる — 5分で永続記憶を仕込む方法",
-    "link": "https://qiita.com/jqit_suwa/items/8607bf9f2683fb8442de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-13T02:14:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "要件定義とは何か？開発メンバー初心者向けガイド",
-    "link": "https://qiita.com/Nao52/items/996735e9b8ff4b3b1255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-12T23:58:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "意味が重複した単語",
-    "link": "https://alpha3166.github.io/blog/20111225.html",
-    "pubDate": "2019-05-21T11:09:40.000Z"
   }
 ]
