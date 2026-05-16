@@ -1,5 +1,11 @@
 [
   {
+    "site": "Zenn",
+    "title": "Rustで小さなリンカーを実装する",
+    "link": "https://zenn.dev/skanehira/books/writing-a-tiny-linker-in-rust",
+    "pubDate": "Sat, 16 May 2026 12:26:54 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編 - Qiita",
     "link": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
@@ -10,6 +16,12 @@
     "title": "LLMが｢越えられない壁｣。AIの限界点が数学的に証明された",
     "link": "https://www.gizmodo.jp/2026/05/limits-of-ai-capabilities-oe8.html",
     "pubDate": "2026-05-16T10:05:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Linuxカーネルに「ssh-keysign-pwn」の脆弱性発覚--直近4度目",
+    "link": "https://japan.zdnet.com/article/35247599/",
+    "pubDate": "2026-05-16T05:34:04.000Z"
   },
   {
     "site": "Hatena",
@@ -42,18 +54,6 @@
     "pubDate": "2026-05-16T01:48:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ついに水素が0円に　東大先端研の蓄電池連携システム、製造コスト自動最適化 | 環境ビジネスオンライン",
-    "link": "https://www.kankyo-business.jp/news/2c9e5a80-8dc0-445e-ad93-807c78eef890",
-    "pubDate": "2026-05-16T01:29:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
-    "pubDate": "2026-05-15T23:41:12.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeにリポジトリを1枚のワークフロー図にしてもらうプロンプト",
     "link": "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
@@ -73,6 +73,12 @@
   },
   {
     "site": "Zenn",
+    "title": "自前キャッシュをTanStack Queryに移行したらコードが半分になった",
+    "link": "https://zenn.dev/hiroki0304/articles/tanstack-query-migration-custom-cache",
+    "pubDate": "Fri, 15 May 2026 14:14:23 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
     "link": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
     "pubDate": "2026-05-15T13:24:34.000Z"
@@ -88,6 +94,12 @@
     "title": "AIで開発が速くなったので、受託開発の価値を考え直してみる",
     "link": "https://qiita.com/yoshi1220/items/0bfb5b4fc062e0290597?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-15T11:04:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RAGナレッジベース作成を簡単にしたくてツールを作った",
+    "link": "https://zenn.dev/bathtimefish/articles/80a22a045795f0",
+    "pubDate": "Fri, 15 May 2026 09:47:21 GMT"
   },
   {
     "site": "Zenn",
@@ -112,18 +124,6 @@
     "title": "[Frontend Performance - Part 17] 最適化の前に計測せよ：Chrome DevToolsで性能問題を見つける方法",
     "link": "https://qiita.com/tuanphan/items/fa88ac0b9b7eb7fd7b7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-15T08:04:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Terraformの複数人開発でdev環境を安全に回す方法",
-    "link": "https://zenn.dev/pksha/articles/terraform-multi-user-apply-conflict",
-    "pubDate": "Fri, 15 May 2026 08:02:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Copilot Studio × Work IQでTeamsに眠るナレッジを即活用～「15分で構築可能！問い合わせ対応エージェント」のご紹介",
-    "link": "https://zenn.dev/nttdata_tech/articles/75bebd16367ea4",
-    "pubDate": "Fri, 15 May 2026 07:43:41 GMT"
   },
   {
     "site": "Qiita",
@@ -157,9 +157,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
-    "link": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
-    "pubDate": "Fri, 15 May 2026 00:14:18 GMT"
+    "title": "ログイン済みの Chrome をそのまま Claude Code から操作する — playwright-cli attach",
+    "link": "https://zenn.dev/optimisuke/articles/40529cd970cbf0",
+    "pubDate": "2026-05-14T06:56:02.000Z"
   },
   {
     "site": "Qiita",
