@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "インセルとチャットAIが出生数に壊滅的ダメージ与えそう",
+    "link": "https://anond.hatelabo.jp/20260517140622",
+    "pubDate": "2026-05-17T05:10:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
+    "link": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-17T03:40:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS】ロールベースによるレスポンスマスキングでセキュアなRAGを実現する",
+    "link": "https://qiita.com/yakumo_09/items/2c32154c4de07cf94c65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-17T02:07:41.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ChatGPTの画像生成がさらに便利になる魔法のフレーズ｢背景を透明にして｣",
     "link": "https://www.gizmodo.jp/2026/05/chatgpt_image_2_transparent.html",
     "pubDate": "2026-05-16T14:36:45.000Z"
@@ -13,9 +31,9 @@
   },
   {
     "site": "Qiita",
-    "title": "EDINET DB MCPで生成AIと企業分析をする",
-    "link": "https://qiita.com/hokutoh/items/86fd68abd2531f286ef1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-16T13:28:10.000Z"
+    "title": "Windows、LinuxでもCodexリモートアクセスしたいよ！",
+    "link": "https://qiita.com/moritalous/items/89dac554606029812cad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-16T13:53:23.000Z"
   },
   {
     "site": "Zenn",
@@ -25,21 +43,21 @@
   },
   {
     "site": "Hatena",
-    "title": "「背中を見て育て」からの卒業 〜専門技術としてのテスト設計を軸に、品質保証のバトンを繋ぐ〜",
-    "link": "https://speakerdeck.com/nihonbuson/scaling-qa-organization",
-    "pubDate": "2026-05-16T12:25:36.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ソーラー充電PDA「Orion」登場！STM32U575と3.16型Sharp Memory LCD搭載、Zaurus再来の自作端末",
     "link": "https://daily-gadget.net/gadgets/114176/",
     "pubDate": "2026-05-16T12:01:56.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "DDDの理想と決済システムの現実",
+    "link": "https://zenn.dev/kotaroikeda/articles/e2276a1d45a55c",
+    "pubDate": "Sat, 16 May 2026 10:15:33 GMT"
+  },
+  {
     "site": "Qiita",
-    "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編 - Qiita",
-    "link": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56",
-    "pubDate": "2026-05-16T10:14:43.000Z"
+    "title": "果たしてCopilotで営業成績は上がるのか - Qiita",
+    "link": "https://qiita.com/sadabon444/items/026452114ad63efa9aa6",
+    "pubDate": "2026-05-16T10:03:23.000Z"
   },
   {
     "site": "Qiita",
@@ -72,16 +90,22 @@
     "pubDate": "2026-05-16T03:26:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "クラウドネイティブ会議にブース出展しました【Raycast Community Japan】",
-    "link": "https://zenn.dev/raycast_jp/articles/8825a543929300",
-    "pubDate": "Sat, 16 May 2026 02:05:09 GMT"
+    "site": "Hatena",
+    "title": "GitHub - vercel-labs/zero: The programming language for agents",
+    "link": "https://github.com/vercel-labs/zero",
+    "pubDate": "2026-05-16T02:34:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "セキュリティ対策、何からはじめる？ CloudNative環境の脅威モデリングと リスク評価実践入門 #cloudnativekaigi",
-    "link": "https://speakerdeck.com/varu3/cloudnativekaigi2026-threat-modeling-3c0b5cc0-0325-4086-8b67-dffc23cbba07",
-    "pubDate": "2026-05-16T00:29:58.000Z"
+    "site": "Qiita",
+    "title": "パスワードの時代が終わる理由 - パスキーの仕組みを図解でわかりやすく整理する",
+    "link": "https://qiita.com/ktdatascience/items/78212f9f851ffe97f3d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-16T00:20:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Bun が 6 日で Rust に書き換わった件",
+    "link": "https://zenn.dev/ashunar0/articles/55a669c10e6a8d",
+    "pubDate": "2026-05-15T15:45:37.000Z"
   },
   {
     "site": "Zenn",
@@ -94,12 +118,6 @@
     "title": "自前キャッシュをTanStack Queryに移行したらコードが半分になった",
     "link": "https://zenn.dev/hiroki0304/articles/tanstack-query-migration-custom-cache",
     "pubDate": "Fri, 15 May 2026 14:14:23 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "継続的な負荷検証を目指して",
-    "link": "https://speakerdeck.com/pyama86/ji-sok-de-nafu-he-jian-zheng-womu-zhi-site",
-    "pubDate": "2026-05-15T12:24:30.000Z"
   },
   {
     "site": "Zenn",
@@ -126,22 +144,10 @@
     "pubDate": "Fri, 15 May 2026 09:27:31 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "LLMは正しく使えば、より創造的なアイデアを生み出せる（DIAMOND ハーバード・ビジネス・レビュー） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/21d71afbfd8b4d7bdd893db69dea721783a0693e",
-    "pubDate": "2026-05-15T09:00:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "OpenMythosがローカル環境で動くか検証してみた",
     "link": "https://zenn.dev/aiforall/articles/726668a035a148",
     "pubDate": "Fri, 15 May 2026 08:50:03 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS上にセキュアかつ安価かつ使い捨て可能なリモート開発環境を構築した話 ― SSM × Spot Instance × CDK",
-    "link": "https://qiita.com/kyonosuke/items/eee9eb3840d3f740f325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-15T08:33:17.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "単一HTMLで作ったサイトを自己解凍形式にする試み - Qiita",
+    "link": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f",
+    "pubDate": "2026-05-15T04:05:49.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "単一HTMLで作ったサイトを自己解凍形式にする試み",
     "link": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-15T03:58:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Vibe Coding のトークン消費量の40-60%を占めることもある、Markdownファイルの読み込みトークン消費量を最大98%以上圧縮する markdown-query スキル",
-    "link": "https://qiita.com/dahatake/items/ce9917268d8d18aa9b6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-14T02:03:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
-    "link": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-13T23:06:19.000Z"
   }
 ]
