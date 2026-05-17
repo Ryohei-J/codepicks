@@ -1,9 +1,39 @@
 [
   {
+    "site": "Hatena",
+    "title": "ChatGPTの画像生成がさらに便利になる魔法のフレーズ｢背景を透明にして｣",
+    "link": "https://www.gizmodo.jp/2026/05/chatgpt_image_2_transparent.html",
+    "pubDate": "2026-05-16T14:36:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "QiitaのContirbution推移を表示するツール",
+    "link": "https://qiita.com/hokutoh/items/1e13a35b70e1ef16d969?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-16T14:11:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "EDINET DB MCPで生成AIと企業分析をする",
+    "link": "https://qiita.com/hokutoh/items/86fd68abd2531f286ef1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-16T13:28:10.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Rustで小さなリンカーを実装する",
     "link": "https://zenn.dev/skanehira/books/writing-a-tiny-linker-in-rust",
     "pubDate": "Sat, 16 May 2026 12:26:54 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「背中を見て育て」からの卒業 〜専門技術としてのテスト設計を軸に、品質保証のバトンを繋ぐ〜",
+    "link": "https://speakerdeck.com/nihonbuson/scaling-qa-organization",
+    "pubDate": "2026-05-16T12:25:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソーラー充電PDA「Orion」登場！STM32U575と3.16型Sharp Memory LCD搭載、Zaurus再来の自作端末",
+    "link": "https://daily-gadget.net/gadgets/114176/",
+    "pubDate": "2026-05-16T12:01:56.000Z"
   },
   {
     "site": "Qiita",
@@ -12,58 +42,46 @@
     "pubDate": "2026-05-16T10:14:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "LLMが｢越えられない壁｣。AIの限界点が数学的に証明された",
-    "link": "https://www.gizmodo.jp/2026/05/limits-of-ai-capabilities-oe8.html",
-    "pubDate": "2026-05-16T10:05:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Linuxカーネルに「ssh-keysign-pwn」の脆弱性発覚--直近4度目",
-    "link": "https://japan.zdnet.com/article/35247599/",
-    "pubDate": "2026-05-16T05:34:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "本物のモネの絵の一部を出して「あの睡蓮をAI生成したよ」と言ったら、みんなが「本物とは似ても似つかない」とダメ出ししまくった",
-    "link": "https://togetter.com/li/2697618",
-    "pubDate": "2026-05-16T05:01:32.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "Zephyr RTOS 〜 debug with VSCode 〜",
-    "link": "https://qiita.com/Corgeek/items/0ac73e5eb7d773193219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-16T03:37:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ユーザーの7割が女性、1日250万人・月間1億人が利用する「AIロマンタジー」サイト | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/97250",
-    "pubDate": "2026-05-16T02:43:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「涼宮ハルヒの憂鬱」の視聴順を巡る4chan匿名ユーザーの投稿→うっかり数学の未解決問題で歴史的発見　2021年に論文化",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/16/news003.html",
-    "pubDate": "2026-05-16T02:01:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ショッピングAI時代への不安　アマゾンは検索ワードを書き換えないで欲しい",
-    "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2108793.html",
-    "pubDate": "2026-05-16T01:48:46.000Z"
+    "title": "果たしてCopilotで営業成績は上がるのか",
+    "link": "https://qiita.com/sadabon444/items/026452114ad63efa9aa6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-16T07:46:13.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeにリポジトリを1枚のワークフロー図にしてもらうプロンプト",
-    "link": "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
-    "pubDate": "2026-05-15T16:17:44.000Z"
+    "title": "CodexモバイルからUbuntuのCodex Appを操作する",
+    "link": "https://zenn.dev/robustonian/articles/codex_mobile_connect_to_ubuntu",
+    "pubDate": "Sat, 16 May 2026 07:35:06 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "『作って学ぶAIエージェント』を書きました ── TypeScriptでコーディングエージェントを自作する本",
+    "link": "https://blog.lai.so/build-ai-agent-book/",
+    "pubDate": "2026-05-16T07:04:13.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Elasticsearchでアイヌ語コーパスを作った",
-    "link": "https://zenn.dev/neet/articles/031d5499e68685",
-    "pubDate": "Fri, 15 May 2026 15:25:45 GMT"
+    "title": "【Rust】怖くないunsafe入門",
+    "link": "https://zenn.dev/nuskey/articles/rust-introduction-to-unsafe",
+    "pubDate": "Sat, 16 May 2026 05:31:09 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AIにできない仕事は残る」のは本当だけど、それはUber Eatsの配達員みたいな仕事になるかも｜けんすう",
+    "link": "https://kensuu.com/n/n9d1229018d9c",
+    "pubDate": "2026-05-16T03:26:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "クラウドネイティブ会議にブース出展しました【Raycast Community Japan】",
+    "link": "https://zenn.dev/raycast_jp/articles/8825a543929300",
+    "pubDate": "Sat, 16 May 2026 02:05:09 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "セキュリティ対策、何からはじめる？ CloudNative環境の脅威モデリングと リスク評価実践入門 #cloudnativekaigi",
+    "link": "https://speakerdeck.com/varu3/cloudnativekaigi2026-threat-modeling-3c0b5cc0-0325-4086-8b67-dffc23cbba07",
+    "pubDate": "2026-05-16T00:29:58.000Z"
   },
   {
     "site": "Zenn",
@@ -78,22 +96,16 @@
     "pubDate": "Fri, 15 May 2026 14:14:23 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
-    "link": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
-    "pubDate": "2026-05-15T13:24:34.000Z"
+    "site": "Hatena",
+    "title": "継続的な負荷検証を目指して",
+    "link": "https://speakerdeck.com/pyama86/ji-sok-de-nafu-he-jian-zheng-womu-zhi-site",
+    "pubDate": "2026-05-15T12:24:30.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Nix使用時にGitHubのAPI Rate Limitを緩和する方法",
-    "link": "https://zenn.dev/ril/articles/13777ce701882c",
-    "pubDate": "Fri, 15 May 2026 11:17:38 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIで開発が速くなったので、受託開発の価値を考え直してみる",
-    "link": "https://qiita.com/yoshi1220/items/0bfb5b4fc062e0290597?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-15T11:04:32.000Z"
+    "title": "一人暮らしこそOpenWrtをやれ！ (v6プラス理論編)",
+    "link": "https://zenn.dev/calloc134/articles/newlife-openwrt-riron",
+    "pubDate": "2026-05-15T10:18:32.000Z"
   },
   {
     "site": "Zenn",
@@ -103,9 +115,21 @@
   },
   {
     "site": "Zenn",
+    "title": "【TypeScript】値・型・名前空間の「三重定義」でReactコンポーネントをより柔軟に設計する",
+    "link": "https://zenn.dev/bmth/articles/ts-companion-object",
+    "pubDate": "Fri, 15 May 2026 09:39:14 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "一人暮らしこそOpenWrtをやれ！ (v6プラス理論編)",
     "link": "https://zenn.dev/calloc134/articles/newlife-openwrt-riron",
     "pubDate": "Fri, 15 May 2026 09:27:31 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMは正しく使えば、より創造的なアイデアを生み出せる（DIAMOND ハーバード・ビジネス・レビュー） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/21d71afbfd8b4d7bdd893db69dea721783a0693e",
+    "pubDate": "2026-05-15T09:00:13.000Z"
   },
   {
     "site": "Zenn",
@@ -121,51 +145,27 @@
   },
   {
     "site": "Qiita",
-    "title": "[Frontend Performance - Part 17] 最適化の前に計測せよ：Chrome DevToolsで性能問題を見つける方法",
-    "link": "https://qiita.com/tuanphan/items/fa88ac0b9b7eb7fd7b7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-15T08:04:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MCP Server — AI が外部ツールと接続する方法を標準化する理由",
-    "link": "https://qiita.com/NXD139/items/e72563a5e4f5830bcb54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-15T07:30:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code派だった僕がCodexに移る前に知りたかったこと",
-    "link": "https://zenn.dev/gemcook/articles/e56eabc7ba2961",
-    "pubDate": "Fri, 15 May 2026 06:02:59 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "AI時代に生き残る「最強の武器」",
     "link": "https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-15T05:23:36.000Z"
   },
   {
     "site": "Qiita",
-    "title": "単一HTMLで作ったサイトを自己解凍形式にする試み",
-    "link": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-15T03:58:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの1000 セッションを分析して、一週間目でリードタイムを10%縮めた話",
-    "link": "https://zenn.dev/globis/articles/94762dc8ec7914",
-    "pubDate": "Fri, 15 May 2026 02:54:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ログイン済みの Chrome をそのまま Claude Code から操作する — playwright-cli attach",
-    "link": "https://zenn.dev/optimisuke/articles/40529cd970cbf0",
-    "pubDate": "2026-05-14T06:56:02.000Z"
+    "title": "社内カリキュラムが微妙だったので、「その前提知らないんだけど…」を解決する学習サイトを作った",
+    "link": "https://qiita.com/ari_init/items/d7a26696d724f6e83830?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-15T05:19:15.000Z"
   },
   {
     "site": "Qiita",
-    "title": "関数型プログラミングを知らない人向けに、「Haskellって何が面白いの?」と聞かれた時の回答",
-    "link": "https://qiita.com/sigma_devsecops/items/3f2a397e944401fcc6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-14T02:15:29.000Z"
+    "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編",
+    "link": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-15T05:08:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "単一HTMLで作ったサイトを自己解凍形式にする試み",
+    "link": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-15T03:58:20.000Z"
   },
   {
     "site": "Qiita",
