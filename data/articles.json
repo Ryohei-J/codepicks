@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "GitHub - ip-arch/NESLab: Educational materials for Embedded systems with NES",
+    "link": "https://github.com/ip-arch/NESLab",
+    "pubDate": "2026-05-17T09:19:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代のコンピューター技術書 - golden-luckyの日記",
+    "link": "https://golden-lucky.hatenablog.com/entry/2026/05/17/170605",
+    "pubDate": "2026-05-17T08:06:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「GitHubから離れる」—オランダ政府と個人開発者が同時にForgejoを選んだ理由",
+    "link": "https://techfeed.io/entries/6a04e692b77ff536fc1f90d6",
+    "pubDate": "2026-05-17T07:41:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows has a better Notepad hiding on the Microsoft Store — and it's free",
+    "link": "https://www.makeuseof.com/windows-has-better-notepad-hiding-on-microsoft-store-its-free/",
+    "pubDate": "2026-05-17T05:46:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "インセルとチャットAIが出生数に壊滅的ダメージ与えそう",
     "link": "https://anond.hatelabo.jp/20260517140622",
     "pubDate": "2026-05-17T05:10:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "データエンジニア向け Mermaid データモデル図 記法ガイド",
+    "link": "https://zenn.dev/yuichi_dev/articles/217f4d3165d59f",
+    "pubDate": "2026-05-17T03:40:35.000Z"
   },
   {
     "site": "Qiita",
@@ -18,10 +48,16 @@
     "pubDate": "2026-05-17T02:07:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTの画像生成がさらに便利になる魔法のフレーズ｢背景を透明にして｣",
-    "link": "https://www.gizmodo.jp/2026/05/chatgpt_image_2_transparent.html",
-    "pubDate": "2026-05-16T14:36:45.000Z"
+    "site": "Zenn",
+    "title": "Markdownの表をExcelのように編集できるVS Code拡張機能を作りました",
+    "link": "https://zenn.dev/naoyuki1212/articles/20260506-visual-table-canvas-for-markdown",
+    "pubDate": "Sat, 16 May 2026 16:19:56 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Unityにおける最適化、高速化まとめ",
+    "link": "https://zenn.dev/miko_gamedev/articles/30d3794d701c21",
+    "pubDate": "Sat, 16 May 2026 15:40:07 GMT"
   },
   {
     "site": "Qiita",
@@ -42,22 +78,10 @@
     "pubDate": "Sat, 16 May 2026 12:26:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ソーラー充電PDA「Orion」登場！STM32U575と3.16型Sharp Memory LCD搭載、Zaurus再来の自作端末",
-    "link": "https://daily-gadget.net/gadgets/114176/",
-    "pubDate": "2026-05-16T12:01:56.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "DDDの理想と決済システムの現実",
     "link": "https://zenn.dev/kotaroikeda/articles/e2276a1d45a55c",
     "pubDate": "Sat, 16 May 2026 10:15:33 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "果たしてCopilotで営業成績は上がるのか - Qiita",
-    "link": "https://qiita.com/sadabon444/items/026452114ad63efa9aa6",
-    "pubDate": "2026-05-16T10:03:23.000Z"
   },
   {
     "site": "Qiita",
@@ -79,21 +103,27 @@
   },
   {
     "site": "Zenn",
+    "title": "AIに同じ質問を3経路で投げたら、入力トークンが約1,200倍違った — Claudeの「プログラム利用専用クレジット」と構造化APIの関係",
+    "link": "https://zenn.dev/edinetdb/articles/ai-cost-input-tokens-structured-db",
+    "pubDate": "Sat, 16 May 2026 06:54:19 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "【Rust】怖くないunsafe入門",
     "link": "https://zenn.dev/nuskey/articles/rust-introduction-to-unsafe",
     "pubDate": "Sat, 16 May 2026 05:31:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vercelがシステムプログラミング言語「Zero」を公開した！ 悔しい悔しい悔しい！",
+    "link": "https://zenn.dev/tkithrta/articles/74b35b39c2bb5e",
+    "pubDate": "Sat, 16 May 2026 05:07:48 GMT"
   },
   {
     "site": "Hatena",
     "title": "「AIにできない仕事は残る」のは本当だけど、それはUber Eatsの配達員みたいな仕事になるかも｜けんすう",
     "link": "https://kensuu.com/n/n9d1229018d9c",
     "pubDate": "2026-05-16T03:26:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - vercel-labs/zero: The programming language for agents",
-    "link": "https://github.com/vercel-labs/zero",
-    "pubDate": "2026-05-16T02:34:27.000Z"
   },
   {
     "site": "Qiita",
@@ -126,30 +156,6 @@
     "pubDate": "2026-05-15T10:18:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "RAGナレッジベース作成を簡単にしたくてツールを作った",
-    "link": "https://zenn.dev/bathtimefish/articles/80a22a045795f0",
-    "pubDate": "Fri, 15 May 2026 09:47:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【TypeScript】値・型・名前空間の「三重定義」でReactコンポーネントをより柔軟に設計する",
-    "link": "https://zenn.dev/bmth/articles/ts-companion-object",
-    "pubDate": "Fri, 15 May 2026 09:39:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "一人暮らしこそOpenWrtをやれ！ (v6プラス理論編)",
-    "link": "https://zenn.dev/calloc134/articles/newlife-openwrt-riron",
-    "pubDate": "Fri, 15 May 2026 09:27:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenMythosがローカル環境で動くか検証してみた",
-    "link": "https://zenn.dev/aiforall/articles/726668a035a148",
-    "pubDate": "Fri, 15 May 2026 08:50:03 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AI時代に生き残る「最強の武器」",
     "link": "https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,12 +172,6 @@
     "title": "Claude Code を社内で使うための「AIエージェントセキュリティ」実践編",
     "link": "https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-15T05:08:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "単一HTMLで作ったサイトを自己解凍形式にする試み - Qiita",
-    "link": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f",
-    "pubDate": "2026-05-15T04:05:49.000Z"
   },
   {
     "site": "Qiita",
