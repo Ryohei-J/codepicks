@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "「親の名前」を忘れていた高齢者が語り出した――AI内臓「昭和の青春ラジオ」が介護現場を変えている",
+    "link": "https://www.itmedia.co.jp/business/articles/2605/21/news010.html",
+    "pubDate": "2026-05-21T01:43:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "1Password is now a trusted access layer for OpenAI’s Codex | 1Password",
+    "link": "https://1password.com/blog/1password-trusted-access-layer-for-openai-codex",
+    "pubDate": "2026-05-21T01:37:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LLMに“実装されていない人間らしさ”が現れた。3,980円のカメラから始まった「隣人としてのAI」という挑戦【kmizu】 - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_863/",
+    "pubDate": "2026-05-21T01:35:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "フォント好きは要チェック！ 和文フォントと欧文フォントの混植をブラウザ上で簡単に試すことができる便利サイト -MOBULA",
+    "link": "https://coliss.com/articles/build-websites/operation/work/google-fonts-mixed-font-viewer.html",
+    "pubDate": "2026-05-21T00:46:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "複数集約を跨ぐ処理を1つのDBトランザクションで括る前に読む記事",
+    "link": "https://zenn.dev/j5ik2o/articles/59de072b6728ff",
+    "pubDate": "Wed, 20 May 2026 16:20:43 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
     "link": "https://zenn.dev/ubie_dev/articles/modern-web-guidance",
@@ -7,39 +37,33 @@
   },
   {
     "site": "Hatena",
-    "title": "700以上のOSを起動できるエミュレーター「バーチャルOSミュージアム」",
-    "link": "https://gigazine.net/news/20260520-virtual-os-museum/",
-    "pubDate": "2026-05-20T12:03:19.000Z"
+    "title": "コンテナのGoアプリ、過剰並列になっていませんか？──cgroup環境のGOMAXPROCSチューニングをMacで実測 - Timee Product Team Blog",
+    "link": "https://tech.timee.co.jp/entry/2026/05/20/092313",
+    "pubDate": "2026-05-20T13:32:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
+    "link": "https://zenn.dev/ubie_dev/articles/modern-web-guidance",
+    "pubDate": "Wed, 20 May 2026 12:51:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "スタックチャン開発に必要な情報まとめ",
+    "link": "https://zenn.dev/karaage0703/articles/f14b27ccb22737",
+    "pubDate": "Wed, 20 May 2026 12:24:06 GMT"
   },
   {
     "site": "Hatena",
-    "title": "アニメやイラストに特化したローカル画像生成AI「Anima」　生成した画像は商用利用も可能（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/05/20/5080.html",
-    "pubDate": "2026-05-20T11:28:16.000Z"
+    "title": "AI翻訳のDeepLが従業員の20%以上を解雇…CEOのメモにはお決まりの言葉が並んでいた | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2605-ai-pilled-ceo-deepl-layoffs-memo-playbook/",
+    "pubDate": "2026-05-20T11:59:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「生成AIでチラシ作ってる人が、今までデザイナーにぼったくられてたことがよくわかった」という投稿を目にするが、そういう認識の層が業界の単価を下げていくのだろうか",
-    "link": "https://togetter.com/li/2699255",
-    "pubDate": "2026-05-20T09:23:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "数年前に話題になっていた「某巨大遊園地から僕が取得しているドメインが権利侵害にあたるから寄越せという連絡が来た」件で当事者のクリエイターがその後の顛末をnoteで投稿",
-    "link": "https://togetter.com/li/2699238",
-    "pubDate": "2026-05-20T08:19:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "新しい HTML インストール要素でウェブアプリをインストールする  |  Blog  |  Chrome for Developers",
-    "link": "https://developer.chrome.com/blog/install-element-ot?hl=ja",
-    "pubDate": "2026-05-20T06:14:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "モバイルバッテリーの発火で750万円のテスラを廃車にしてしまった人のポストに戦慄走る→「この条件でも発火するの怖い」「これは他人事じゃない」",
-    "link": "https://togetter.com/li/2699175",
-    "pubDate": "2026-05-20T04:59:55.000Z"
+    "site": "Zenn",
+    "title": "tfstateに平文を残さずに秘密情報を管理する",
+    "link": "https://zenn.dev/dely_jp/articles/terraform-ephemeral-write-only-secrets",
+    "pubDate": "Wed, 20 May 2026 09:00:00 GMT"
   },
   {
     "site": "Qiita",
@@ -52,24 +76,6 @@
     "title": "1割の“信頼される”エンジニアが実行している『締め切り感覚論』",
     "link": "https://qiita.com/hitomin_poke/items/1ffbc05f07355231f420?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-20T04:17:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google、「Antigravity 2.0」発表。デモとしてゼロからOSを開発、Doomも実行可能に。効率性と高い開発能力をアピール",
-    "link": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
-    "pubDate": "2026-05-20T03:52:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Obsidian Web Clipper does much more than save web articles",
-    "link": "https://www.makeuseof.com/how-to-use-obsidian-web-clipper/",
-    "pubDate": "2026-05-20T03:31:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAI、最大3年の「計算資源へのアクセス」を保証する新サービスを開始",
-    "link": "https://japan.cnet.com/article/35247716/",
-    "pubDate": "2026-05-20T02:54:58.000Z"
   },
   {
     "site": "Qiita",
@@ -88,6 +94,18 @@
     "title": "Local Coding Agent が身近なタスクをどれくらいこなせるのかを検証した",
     "link": "https://zenn.dev/aishift/articles/5b048ff347fd7b",
     "pubDate": "Wed, 20 May 2026 00:26:49 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマホの「膨張バッテリー」をハサミで取り出そうとして発火--消費者庁が重大製品事故5件を公表",
+    "link": "https://japan.cnet.com/article/35247692/",
+    "pubDate": "2026-05-20T00:00:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "終電が花火のように可視化された「東京終電マップ」など、新しい地図表現を追究する「Map Museum 2026」の受賞作品発表【地図とデザイン】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/chizu2/2109931.html",
+    "pubDate": "2026-05-19T21:48:02.000Z"
   },
   {
     "site": "Zenn",
@@ -121,15 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AWS CDK の単体テストの『使い所』を Coding Agent に判断させる Skill を作った",
-    "link": "https://zenn.dev/go_to_k/articles/aws-cdk-unit-testing",
-    "pubDate": "Tue, 19 May 2026 09:55:25 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "AIでコードが増えていくこの時代に、メンテナンスコスト削減にもAIを",
     "link": "https://zenn.dev/r_kaga/articles/00f4bef5a8ac70",
-    "pubDate": "Tue, 19 May 2026 07:33:00 GMT"
+    "pubDate": "2026-05-19T07:44:47.000Z"
   },
   {
     "site": "Qiita",
@@ -138,22 +150,10 @@
     "pubDate": "2026-05-19T06:42:33.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "回帰分析って知ってる？―完全に理解した人へ贈る絶望の谷",
-    "link": "https://zenn.dev/green_tea/articles/0bce4d47ab0674",
-    "pubDate": "Tue, 19 May 2026 02:50:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【初学者向け】Webサービスを守る多要素認証と暗号化の話",
     "link": "https://qiita.com/masa20057/items/8d0e2eba108351f930d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-19T01:18:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIハーネスの心臓部 ── AIのAIによるAIのためのナレッジグラフ（連載Part 2）",
-    "link": "https://zenn.dev/aircloset/articles/f6c990989e60d4",
-    "pubDate": "Tue, 19 May 2026 00:19:49 GMT"
   },
   {
     "site": "Qiita",
