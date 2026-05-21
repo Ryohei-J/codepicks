@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "「文字の位置を2px移動して！」「指はあと数ミリずらして！」とか言ってた企業が、AIを使い始めると誤字脱字や指6本あっても平気で世に出しちゃう現象、マジで何なんだろう",
+    "link": "https://togetter.com/li/2699765",
+    "pubDate": "2026-05-21T14:39:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIで暗黙知を伝承しユーザー変革賞を受賞した理由とは？",
+    "link": "https://www.nttdata.com/jp/ja/trends/data-insight/2026/0520/",
+    "pubDate": "2026-05-21T09:45:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AlibabaがAIエージェント向け新モデル「Qwen3.7-Max」を発表、35時間の自律作業と1000回超のツール呼び出しに対応",
     "link": "https://gigazine.net/news/20260521-qwen-3-7/",
     "pubDate": "2026-05-21T09:05:03.000Z"
@@ -19,27 +31,21 @@
   },
   {
     "site": "Hatena",
-    "title": "ドコモが「5G SA」の月額料金を無料に",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2110638.html",
-    "pubDate": "2026-05-21T07:17:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「1Password」が「Codex」と連携、ローカルMCPを活用して機密情報を安全に管理／コーディングは「Codex」、機密情報の管理は「1Password」、隔離して役割分担",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2110578.html",
-    "pubDate": "2026-05-21T07:14:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "この前、魔の2歳児の対応についてGe〇niに質問したら、「〇〇くんは～」と固有名詞を出され、「どこからその名前を参照しましたか？」と聞くとハルシネーションだった話",
+    "title": "この前、魔の2歳児の対応についてGeminiに質問したら、「〇〇くんは～」と固有名詞を出され、「どこからその名前を参照しましたか？」と聞くとハルシネーションだった話",
     "link": "https://togetter.com/li/2699548",
     "pubDate": "2026-05-21T04:54:38.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ツイートを「画像」「タイムスタンプ」付きでBlueskyに移行する方法 - Bluesky",
-    "link": "https://scrapbox.io/Bluesky/%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E3%82%92%E3%80%8C%E7%94%BB%E5%83%8F%E3%80%8D%E3%80%8C%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%80%8D%E4%BB%98%E3%81%8D%E3%81%A7Bluesky%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95",
-    "pubDate": "2026-05-21T03:51:42.000Z"
+    "title": "A Markdown-based test suite",
+    "link": "https://blogsystem5.substack.com/p/markdown-based-test-suite",
+    "pubDate": "2026-05-21T04:23:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "近鉄、AIで踏切に取り残された人を検知　京都・奈良線の一部で導入 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUF206HO0Q6A520C2000000/",
+    "pubDate": "2026-05-21T03:32:36.000Z"
   },
   {
     "site": "Qiita",
@@ -49,15 +55,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「親の名前」を忘れていた高齢者が語り出した――AI内臓「昭和の青春ラジオ」が介護現場を変えている",
+    "title": "「親の名前」を忘れていた高齢者が語り出した――AI内蔵「昭和の青春ラジオ」が介護現場を変えている",
     "link": "https://www.itmedia.co.jp/business/articles/2605/21/news010.html",
     "pubDate": "2026-05-21T01:43:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "LLMに“実装されていない人間らしさ”が現れた。3,980円のカメラから始まった「隣人としてのAI」という挑戦【kmizu】 - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_863/",
-    "pubDate": "2026-05-21T01:35:34.000Z"
   },
   {
     "site": "Qiita",
@@ -132,12 +132,6 @@
     "pubDate": "Wed, 20 May 2026 09:00:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Google Antigravity 2.0」が公開 ～“AI統合IDE”から“エージェント管理アプリ”に／アーキテクチャーを一新、コーディング以外の知的作業にも",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2110125.html",
-    "pubDate": "2026-05-20T08:58:54.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "育休中エンジニアがClaude Coworkで「あかちゃんカレンダー🍼」を作った話",
     "link": "https://qiita.com/yuzinet/items/323bc76cf2d31d9f4d42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "ソフトウェアエンジニアリングの70年と、これからの話",
     "link": "https://qiita.com/Kitasan_White/items/5afbc3cb1b21d2c53591?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-19T02:59:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code「使い放題」は終わるのか？6月改定の全容と開発者がやるべきこと",
+    "link": "https://zenn.dev/sanpi34/articles/claude-code-pricing-shift-2026",
+    "pubDate": "2026-05-15T23:48:55.000Z"
   }
 ]
