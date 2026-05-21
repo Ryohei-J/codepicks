@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "この前、魔の2歳児の対応についてGe〇niに質問したら、「〇〇くんは～」と固有名詞を出され、「どこからその名前を参照しましたか？」と聞くとハルシネーションだった話",
+    "link": "https://togetter.com/li/2699548",
+    "pubDate": "2026-05-21T04:54:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ツイートを「画像」「タイムスタンプ」付きでBlueskyに移行する方法 - Bluesky",
+    "link": "https://scrapbox.io/Bluesky/%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E3%82%92%E3%80%8C%E7%94%BB%E5%83%8F%E3%80%8D%E3%80%8C%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%80%8D%E4%BB%98%E3%81%8D%E3%81%A7Bluesky%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95",
+    "pubDate": "2026-05-21T03:51:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Oracleにも対応したNew Relicの新機能「Database 360」で実行計画からボトルネックを特定しよう！",
+    "link": "https://qiita.com/nr_ishibashi/items/6ca02ac46fe274bd853e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-21T02:33:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「親の名前」を忘れていた高齢者が語り出した――AI内臓「昭和の青春ラジオ」が介護現場を変えている",
     "link": "https://www.itmedia.co.jp/business/articles/2605/21/news010.html",
     "pubDate": "2026-05-21T01:43:37.000Z"
@@ -19,9 +37,45 @@
   },
   {
     "site": "Hatena",
-    "title": "フォント好きは要チェック！ 和文フォントと欧文フォントの混植をブラウザ上で簡単に試すことができる便利サイト -MOBULA",
-    "link": "https://coliss.com/articles/build-websites/operation/work/google-fonts-mixed-font-viewer.html",
-    "pubDate": "2026-05-21T00:46:59.000Z"
+    "title": "3850円なのに「神アイテム」「スマホっぽい」――3COINSの「ビデオトランシーバー」がネットで話題",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2605/21/news064.html",
+    "pubDate": "2026-05-21T01:02:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AMDのAI開発用ミニPC「Ryzen AI Halo」、価格は3,999ドルから",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2110365.html",
+    "pubDate": "2026-05-21T00:43:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "勉強苦手なQAエンジニアがJSTQB AL-TAに挑んで爆死した話orz",
+    "link": "https://qiita.com/w_k0_0/items/6d68d128dea56602ab58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-21T00:04:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "小6から作ったアプリすべてを就活のときに提出したら「この人は何でも作れる」と分かってもらえて第一志望受かった⇒プログラマーは学歴よりも実力だからね。",
+    "link": "https://posfie.com/@kalofollow/p/Kfwrqav",
+    "pubDate": "2026-05-20T23:25:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "設計本の学びがコードレビューで活きた話｜フラグ引数・null戻り値・型の網羅性",
+    "link": "https://qiita.com/Nao52/items/7c0a515119c0bcb45d35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-20T22:28:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアが年収600・800・1000万円の壁を突破するための6つの能力とキャリア戦略",
+    "link": "https://qiita.com/Nao52/items/f9523e566a6f82199dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-20T22:04:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【命名規則】名前から「目的」を読み取れるコードを書くために——目的駆動名前設計のすすめ",
+    "link": "https://qiita.com/Nao52/items/c47bc4176cb03e4f0d5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-20T21:48:59.000Z"
   },
   {
     "site": "Zenn",
@@ -30,16 +84,16 @@
     "pubDate": "Wed, 20 May 2026 16:20:43 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
-    "link": "https://zenn.dev/ubie_dev/articles/modern-web-guidance",
-    "pubDate": "2026-05-20T13:36:14.000Z"
+    "site": "Qiita",
+    "title": "S3上の数GBファイルをstreamingでZIP化する【smart-open】",
+    "link": "https://qiita.com/h_ito_yzrh/items/3cb459afc23d225be16a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-20T15:35:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "コンテナのGoアプリ、過剰並列になっていませんか？──cgroup環境のGOMAXPROCSチューニングをMacで実測 - Timee Product Team Blog",
-    "link": "https://tech.timee.co.jp/entry/2026/05/20/092313",
-    "pubDate": "2026-05-20T13:32:37.000Z"
+    "site": "Zenn",
+    "title": "人生で初めて OSS にコントリビュートした話",
+    "link": "https://zenn.dev/ashunar0/articles/e8ac42e4e77eb4",
+    "pubDate": "Wed, 20 May 2026 13:17:14 GMT"
   },
   {
     "site": "Zenn",
@@ -61,9 +115,21 @@
   },
   {
     "site": "Zenn",
+    "title": "toC プラットフォームの  AIチャット を支える技術",
+    "link": "https://zenn.dev/kawason/articles/7118acbf3b07f1",
+    "pubDate": "Wed, 20 May 2026 11:44:26 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "tfstateに平文を残さずに秘密情報を管理する",
     "link": "https://zenn.dev/dely_jp/articles/terraform-ephemeral-write-only-secrets",
     "pubDate": "Wed, 20 May 2026 09:00:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "スカッシュマージをマージコミットに置き換える",
+    "link": "https://zenn.dev/socialdog/articles/inflate-squashed-commit",
+    "pubDate": "Wed, 20 May 2026 07:40:46 GMT"
   },
   {
     "site": "Qiita",
@@ -78,16 +144,10 @@
     "pubDate": "2026-05-20T04:17:46.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Gemeniが提案した脆弱なペッパー実装に対するPoCをClaude Codeで作成・検証した",
-    "link": "https://qiita.com/ockeghem/items/804a69dcd3c6930b7676?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-20T02:27:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「Claude Coworkって使うことなくね？」と思ってたけど地味に便利だった話",
-    "link": "https://qiita.com/nobu34/items/ed289f266f81c5de4061?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-20T00:30:04.000Z"
+    "site": "Zenn",
+    "title": "dialogやPopover APIは「お前ら開発者に任せておけねえ」というWeb標準からのメッセージなのでは？",
+    "link": "https://zenn.dev/estie/articles/79b2db0586a0b9",
+    "pubDate": "Wed, 20 May 2026 02:41:47 GMT"
   },
   {
     "site": "Zenn",
@@ -96,52 +156,16 @@
     "pubDate": "Wed, 20 May 2026 00:26:49 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "スマホの「膨張バッテリー」をハサミで取り出そうとして発火--消費者庁が重大製品事故5件を公表",
-    "link": "https://japan.cnet.com/article/35247692/",
-    "pubDate": "2026-05-20T00:00:55.000Z"
+    "site": "Zenn",
+    "title": "Claude Code の skill-creator で既存 skill を検証してみた",
+    "link": "https://zenn.dev/redamoon/articles/article45-claude-code-skill-creator-benchmark",
+    "pubDate": "Wed, 20 May 2026 00:13:25 GMT"
   },
   {
     "site": "Hatena",
     "title": "終電が花火のように可視化された「東京終電マップ」など、新しい地図表現を追究する「Map Museum 2026」の受賞作品発表【地図とデザイン】",
     "link": "https://internet.watch.impress.co.jp/docs/column/chizu2/2109931.html",
     "pubDate": "2026-05-19T21:48:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Antigravity 2.0、IDEが消えた・サインインできない問題の対処法",
-    "link": "https://zenn.dev/rei2718/articles/01d92f4913277f",
-    "pubDate": "Tue, 19 May 2026 19:52:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemma 4 E4Bをローカルで量子化してみた",
-    "link": "https://zenn.dev/monjofight/articles/4a2b3393581229",
-    "pubDate": "Tue, 19 May 2026 16:37:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "🪽Hermes Agent × LINE で体験する「自律型AI」入門 in 会津若松🪽",
-    "link": "https://zenn.dev/n0bisuke/books/hermes-agent-linebot",
-    "pubDate": "Tue, 19 May 2026 15:11:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CodeRabbit が TAKT のスポンサーになりました：せっかくなので CodeRabbit と TAKT を共存させよう",
-    "link": "https://zenn.dev/nrs/articles/97969a71c1d3b6",
-    "pubDate": "Tue, 19 May 2026 10:54:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "React CompilerをannotationモードとOxlintで漸進的に導入する",
-    "link": "https://zenn.dev/dress_code/articles/92dfb9206f50f3",
-    "pubDate": "Tue, 19 May 2026 10:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIでコードが増えていくこの時代に、メンテナンスコスト削減にもAIを",
-    "link": "https://zenn.dev/r_kaga/articles/00f4bef5a8ac70",
-    "pubDate": "2026-05-19T07:44:47.000Z"
   },
   {
     "site": "Qiita",
@@ -151,32 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "【初学者向け】Webサービスを守る多要素認証と暗号化の話",
-    "link": "https://qiita.com/masa20057/items/8d0e2eba108351f930d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-19T01:18:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Appleのような極上のスクロール体験を！GSAP ScrollSmootherの導入から実践まで",
-    "link": "https://qiita.com/nhatcaofedev/items/c0b02dcff62e795a2b3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-18T08:00:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "大企業が Microsoft 365 Copilot を選ぶ理由を、自分なりに整理してみる",
-    "link": "https://qiita.com/Takashi_Masumori/items/2ace83e1d37c13f01190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-18T07:56:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "1割の“信頼される”エンジニアが実行している『ズレを防ぐ途中共有』",
-    "link": "https://qiita.com/hitomin_poke/items/5d00c7dd1d690ee4f9bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-18T05:05:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ダークモードは本当に読みやすいのか？コントラスト極性の研究から考える表示モードの設計",
-    "link": "https://qiita.com/tanay/items/1609d7989268aa3e35bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-18T01:41:20.000Z"
+    "title": "ソフトウェアエンジニアリングの70年と、これからの話",
+    "link": "https://qiita.com/Kitasan_White/items/5afbc3cb1b21d2c53591?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-19T02:59:54.000Z"
   }
 ]
