@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "AlibabaがAIエージェント向け新モデル「Qwen3.7-Max」を発表、35時間の自律作業と1000回超のツール呼び出しに対応",
+    "link": "https://gigazine.net/news/20260521-qwen-3-7/",
+    "pubDate": "2026-05-21T09:05:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドコモの通信品質はどう変わる？　ネットワーク本部長に聞く改善の現在地と「設備容量」強化のシナリオ",
+    "link": "https://k-tai.watch.impress.co.jp/docs/interview/2110387.html",
+    "pubDate": "2026-05-21T09:03:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "複数集約を跨ぐ処理を1つのDBトランザクションで括る前に読む記事",
+    "link": "https://zenn.dev/j5ik2o/articles/59de072b6728ff",
+    "pubDate": "2026-05-21T08:36:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドコモが「5G SA」の月額料金を無料に",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2110638.html",
+    "pubDate": "2026-05-21T07:17:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「1Password」が「Codex」と連携、ローカルMCPを活用して機密情報を安全に管理／コーディングは「Codex」、機密情報の管理は「1Password」、隔離して役割分担",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2110578.html",
+    "pubDate": "2026-05-21T07:14:23.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "この前、魔の2歳児の対応についてGe〇niに質問したら、「〇〇くんは～」と固有名詞を出され、「どこからその名前を参照しましたか？」と聞くとハルシネーションだった話",
     "link": "https://togetter.com/li/2699548",
     "pubDate": "2026-05-21T04:54:38.000Z"
@@ -25,27 +55,9 @@
   },
   {
     "site": "Hatena",
-    "title": "1Password is now a trusted access layer for OpenAI’s Codex | 1Password",
-    "link": "https://1password.com/blog/1password-trusted-access-layer-for-openai-codex",
-    "pubDate": "2026-05-21T01:37:27.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "LLMに“実装されていない人間らしさ”が現れた。3,980円のカメラから始まった「隣人としてのAI」という挑戦【kmizu】 - レバテックLAB",
     "link": "https://levtech.jp/media/detail_863/",
     "pubDate": "2026-05-21T01:35:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "3850円なのに「神アイテム」「スマホっぽい」――3COINSの「ビデオトランシーバー」がネットで話題",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2605/21/news064.html",
-    "pubDate": "2026-05-21T01:02:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AMDのAI開発用ミニPC「Ryzen AI Halo」、価格は3,999ドルから",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2110365.html",
-    "pubDate": "2026-05-21T00:43:14.000Z"
   },
   {
     "site": "Qiita",
@@ -54,10 +66,10 @@
     "pubDate": "2026-05-21T00:04:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "小6から作ったアプリすべてを就活のときに提出したら「この人は何でも作れる」と分かってもらえて第一志望受かった⇒プログラマーは学歴よりも実力だからね。",
-    "link": "https://posfie.com/@kalofollow/p/Kfwrqav",
-    "pubDate": "2026-05-20T23:25:39.000Z"
+    "site": "Zenn",
+    "title": "SaaS で AI Agent を提供するあなたへ贈る、Bedrock AgentCore マルチテナント実装 - Runtime 編",
+    "link": "https://zenn.dev/aws_japan/articles/6640624910acc3",
+    "pubDate": "Wed, 20 May 2026 23:44:25 GMT"
   },
   {
     "site": "Qiita",
@@ -108,12 +120,6 @@
     "pubDate": "Wed, 20 May 2026 12:24:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI翻訳のDeepLが従業員の20%以上を解雇…CEOのメモにはお決まりの言葉が並んでいた | Business Insider Japan",
-    "link": "https://www.businessinsider.jp/article/2605-ai-pilled-ceo-deepl-layoffs-memo-playbook/",
-    "pubDate": "2026-05-20T11:59:06.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "toC プラットフォームの  AIチャット を支える技術",
     "link": "https://zenn.dev/kawason/articles/7118acbf3b07f1",
@@ -126,10 +132,10 @@
     "pubDate": "Wed, 20 May 2026 09:00:00 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "スカッシュマージをマージコミットに置き換える",
-    "link": "https://zenn.dev/socialdog/articles/inflate-squashed-commit",
-    "pubDate": "Wed, 20 May 2026 07:40:46 GMT"
+    "site": "Hatena",
+    "title": "「Google Antigravity 2.0」が公開 ～“AI統合IDE”から“エージェント管理アプリ”に／アーキテクチャーを一新、コーディング以外の知的作業にも",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2110125.html",
+    "pubDate": "2026-05-20T08:58:54.000Z"
   },
   {
     "site": "Qiita",
@@ -160,12 +166,6 @@
     "title": "Claude Code の skill-creator で既存 skill を検証してみた",
     "link": "https://zenn.dev/redamoon/articles/article45-claude-code-skill-creator-benchmark",
     "pubDate": "Wed, 20 May 2026 00:13:25 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "終電が花火のように可視化された「東京終電マップ」など、新しい地図表現を追究する「Map Museum 2026」の受賞作品発表【地図とデザイン】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/chizu2/2109931.html",
-    "pubDate": "2026-05-19T21:48:02.000Z"
   },
   {
     "site": "Qiita",
