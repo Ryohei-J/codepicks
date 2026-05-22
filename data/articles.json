@@ -1,5 +1,41 @@
 [
   {
+    "site": "Qiita",
+    "title": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",
+    "link": "https://qiita.com/luan_nguyen/items/acaa441d34a20de58f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-22T06:50:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Google AI Pro」ユーザーはYouTube広告ほぼ非表示　「Premium Lite」無料付与",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news107.html",
+    "pubDate": "2026-05-22T05:05:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「会ったことない人と何しゃべる？」フルリモート下で1on1を1年間続けて気づいたこと - ぐるなびをちょっと良くするエンジニアブログ",
+    "link": "https://developers.gnavi.co.jp/entry/remote-1on1-tips/",
+    "pubDate": "2026-05-22T04:04:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "BitLockerすり抜けに緩和策。Microsoftは非難するも発見者は「名誉毀損」訴え",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2110824.html",
+    "pubDate": "2026-05-22T02:32:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エンジニアが年収600・800・1000万円の壁を突破するための6つの能力とキャリア戦略 - Qiita",
+    "link": "https://qiita.com/Nao52/items/f9523e566a6f82199dea",
+    "pubDate": "2026-05-22T00:31:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「OSって、結局なにしてるんですか？」— 新人エンジニア向けに“裏側”を整理してみる—",
+    "link": "https://qiita.com/prum_hitomi/items/09dd4f6328fe3b35aae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-21T23:49:35.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "アイデンティティシフトを生きる — Google I/O 2026 二日目に思ったこと - Nothing ventured, nothing gained.",
     "link": "https://takoratta.hatenablog.com/entry/2026/05/22/083000",
@@ -13,33 +49,21 @@
   },
   {
     "site": "Hatena",
+    "title": "【特集】 iPhoneは本当に遅れているのか？Android勢の「AI機能」とガチ比較して見えた決定的な差",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2110765.html",
+    "pubDate": "2026-05-21T22:19:33.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ローカルLLMは本当に手元で動くのか？　ハードウェアとモデルの現実的な選び方【2026年春】",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/22/news012.html",
     "pubDate": "2026-05-21T21:45:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Google、モダンなWeb開発を支援するエージェントスキル「Modern Web Guidance」を公開 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/05/modern-web-guidance",
-    "pubDate": "2026-05-21T15:50:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "検索窓も25年ぶり刷新　Google検索トップに聞く「AIとエージェントと検索」の現在地",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2110631.html",
-    "pubDate": "2026-05-21T15:50:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Flipper One — we need your help",
-    "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-    "pubDate": "2026-05-21T13:16:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "小さな見づらさを減らすCSS - ::selection、caret-color、::target-text など、テキスト周りの装飾を改善しよう - ICS MEDIA",
-    "link": "https://ics.media/entry/260521/",
-    "pubDate": "2026-05-21T11:09:32.000Z"
+    "site": "Qiita",
+    "title": "Claude Code時代の音声入力アプリ4選｜Mac標準を諦めてAqua Voiceに落ち着くまで",
+    "link": "https://qiita.com/kazuki_ogawa/items/776340b97f0ca63292a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-21T11:17:22.000Z"
   },
   {
     "site": "Zenn",
@@ -48,16 +72,16 @@
     "pubDate": "2026-05-21T11:02:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "New NGINX 0-Day RCE \"nginx-poolslip\" Affects Millions of NGINX Servers",
-    "link": "https://cybersecuritynews.com/nginx-0-day-rce-nginx-poolslip/",
-    "pubDate": "2026-05-21T09:38:32.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "「URLを誰にも教えてない」が通じない理由 — CTログを30分監視してみた",
     "link": "https://zenn.dev/tkydev/articles/2026-05-21_ct_log",
     "pubDate": "2026-05-21T08:49:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Salesforceのセキュリティ強化に備えよう（確認・対応すべき項目ざっくりまとめ）",
+    "link": "https://zenn.dev/cariot_dev/articles/b86f16678bc31a",
+    "pubDate": "Thu, 21 May 2026 08:32:52 GMT"
   },
   {
     "site": "Zenn",
@@ -73,21 +97,15 @@
   },
   {
     "site": "Zenn",
+    "title": "「URLを誰にも教えてない」が通じない理由 — CTログを30分監視してみた",
+    "link": "https://zenn.dev/tkydev/articles/2026-05-21_ct_log",
+    "pubDate": "Thu, 21 May 2026 05:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Clojurianが出会ったsimple志向なJVM関数型言語Flix ——ファーストインプレッション",
     "link": "https://zenn.dev/lagenorhynque/articles/fd102acdedea21",
     "pubDate": "Thu, 21 May 2026 04:21:40 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Oracleにも対応したNew Relicの新機能「Database 360」で実行計画からボトルネックを特定しよう！",
-    "link": "https://qiita.com/nr_ishibashi/items/6ca02ac46fe274bd853e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-21T02:33:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "勉強苦手なQAエンジニアがJSTQB AL-TAに挑んで爆死した話orz",
-    "link": "https://qiita.com/w_k0_0/items/6d68d128dea56602ab58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-21T00:04:05.000Z"
   },
   {
     "site": "Zenn",
@@ -126,10 +144,10 @@
     "pubDate": "Wed, 20 May 2026 16:20:43 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "S3上の数GBファイルをstreamingでZIP化する【smart-open】",
-    "link": "https://qiita.com/h_ito_yzrh/items/3cb459afc23d225be16a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-20T15:35:55.000Z"
+    "site": "Zenn",
+    "title": "1時間で開発を完了する。Claude Code の Skill で社内プロジェクトを仕組み化した話",
+    "link": "https://zenn.dev/sonicgarden/articles/e5fd7f54433d3d",
+    "pubDate": "Wed, 20 May 2026 15:00:08 GMT"
   },
   {
     "site": "Zenn",
@@ -138,22 +156,16 @@
     "pubDate": "Wed, 20 May 2026 13:17:14 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
-    "link": "https://zenn.dev/ubie_dev/articles/modern-web-guidance",
-    "pubDate": "Wed, 20 May 2026 12:51:02 GMT"
+    "site": "Qiita",
+    "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
+    "link": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-20T11:18:57.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "スタックチャン開発に必要な情報まとめ",
-    "link": "https://zenn.dev/karaage0703/articles/f14b27ccb22737",
-    "pubDate": "Wed, 20 May 2026 12:24:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "toC プラットフォームの  AIチャット を支える技術",
-    "link": "https://zenn.dev/kawason/articles/7118acbf3b07f1",
-    "pubDate": "Wed, 20 May 2026 11:44:26 GMT"
+    "site": "Qiita",
+    "title": "【Claude Code】激詰レビュワーSKILL 〜分からないコードをPRに出すな〜",
+    "link": "https://qiita.com/kotobuki5991/items/548e71c8ff17fc543442?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-20T09:57:07.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "1割の“信頼される”エンジニアが実行している『締め切り感覚論』",
     "link": "https://qiita.com/hitomin_poke/items/1ffbc05f07355231f420?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-20T04:17:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Oracle Interconnect for AWS のプレビュー版をためしてみてみた",
-    "link": "https://qiita.com/shirok/items/a9734df1336e46e83315?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-19T06:42:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ソフトウェアエンジニアリングの70年と、これからの話",
-    "link": "https://qiita.com/Kitasan_White/items/5afbc3cb1b21d2c53591?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-19T02:59:54.000Z"
   }
 ]
