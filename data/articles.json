@@ -1,63 +1,87 @@
 [
   {
     "site": "Hatena",
-    "title": "「文字の位置を2px移動して！」「指はあと数ミリずらして！」とか言ってた企業が、AIを使い始めると誤字脱字や指6本あっても平気で世に出しちゃう現象、マジで何なんだろう",
-    "link": "https://togetter.com/li/2699765",
-    "pubDate": "2026-05-21T14:39:00.000Z"
+    "title": "アイデンティティシフトを生きる — Google I/O 2026 二日目に思ったこと - Nothing ventured, nothing gained.",
+    "link": "https://takoratta.hatenablog.com/entry/2026/05/22/083000",
+    "pubDate": "2026-05-21T23:45:39.000Z"
   },
   {
     "site": "Hatena",
-    "title": "生成AIで暗黙知を伝承しユーザー変革賞を受賞した理由とは？",
-    "link": "https://www.nttdata.com/jp/ja/trends/data-insight/2026/0520/",
-    "pubDate": "2026-05-21T09:45:53.000Z"
+    "title": "AIで誰もがツールを作る時代、実は来ないんじゃないか説 - Sweet Escape",
+    "link": "https://www.keisuke69.net/entry/2026/05/22/073948",
+    "pubDate": "2026-05-21T23:01:07.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AlibabaがAIエージェント向け新モデル「Qwen3.7-Max」を発表、35時間の自律作業と1000回超のツール呼び出しに対応",
-    "link": "https://gigazine.net/news/20260521-qwen-3-7/",
-    "pubDate": "2026-05-21T09:05:03.000Z"
+    "title": "ローカルLLMは本当に手元で動くのか？　ハードウェアとモデルの現実的な選び方【2026年春】",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/22/news012.html",
+    "pubDate": "2026-05-21T21:45:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ドコモの通信品質はどう変わる？　ネットワーク本部長に聞く改善の現在地と「設備容量」強化のシナリオ",
-    "link": "https://k-tai.watch.impress.co.jp/docs/interview/2110387.html",
-    "pubDate": "2026-05-21T09:03:25.000Z"
+    "title": "Google、モダンなWeb開発を支援するエージェントスキル「Modern Web Guidance」を公開 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/05/modern-web-guidance",
+    "pubDate": "2026-05-21T15:50:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "検索窓も25年ぶり刷新　Google検索トップに聞く「AIとエージェントと検索」の現在地",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2110631.html",
+    "pubDate": "2026-05-21T15:50:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Flipper One — we need your help",
+    "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+    "pubDate": "2026-05-21T13:16:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "小さな見づらさを減らすCSS - ::selection、caret-color、::target-text など、テキスト周りの装飾を改善しよう - ICS MEDIA",
+    "link": "https://ics.media/entry/260521/",
+    "pubDate": "2026-05-21T11:09:32.000Z"
   },
   {
     "site": "Zenn",
-    "title": "複数集約を跨ぐ処理を1つのDBトランザクションで括る前に読む記事",
-    "link": "https://zenn.dev/j5ik2o/articles/59de072b6728ff",
-    "pubDate": "2026-05-21T08:36:38.000Z"
+    "title": "GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全",
+    "link": "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts",
+    "pubDate": "2026-05-21T11:02:25.000Z"
   },
   {
     "site": "Hatena",
-    "title": "この前、魔の2歳児の対応についてGeminiに質問したら、「〇〇くんは～」と固有名詞を出され、「どこからその名前を参照しましたか？」と聞くとハルシネーションだった話",
-    "link": "https://togetter.com/li/2699548",
-    "pubDate": "2026-05-21T04:54:38.000Z"
+    "title": "New NGINX 0-Day RCE \"nginx-poolslip\" Affects Millions of NGINX Servers",
+    "link": "https://cybersecuritynews.com/nginx-0-day-rce-nginx-poolslip/",
+    "pubDate": "2026-05-21T09:38:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "A Markdown-based test suite",
-    "link": "https://blogsystem5.substack.com/p/markdown-based-test-suite",
-    "pubDate": "2026-05-21T04:23:49.000Z"
+    "site": "Zenn",
+    "title": "「URLを誰にも教えてない」が通じない理由 — CTログを30分監視してみた",
+    "link": "https://zenn.dev/tkydev/articles/2026-05-21_ct_log",
+    "pubDate": "2026-05-21T08:49:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "近鉄、AIで踏切に取り残された人を検知　京都・奈良線の一部で導入 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUF206HO0Q6A520C2000000/",
-    "pubDate": "2026-05-21T03:32:36.000Z"
+    "site": "Zenn",
+    "title": "GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全",
+    "link": "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts",
+    "pubDate": "Thu, 21 May 2026 07:31:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【PDF圧縮】約40年続く業界標準Ghostscriptを、Rust 自前実装で抜いた話",
+    "link": "https://zenn.dev/ikora/articles/b50ca6275eddc9",
+    "pubDate": "Thu, 21 May 2026 05:50:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Clojurianが出会ったsimple志向なJVM関数型言語Flix ——ファーストインプレッション",
+    "link": "https://zenn.dev/lagenorhynque/articles/fd102acdedea21",
+    "pubDate": "Thu, 21 May 2026 04:21:40 GMT"
   },
   {
     "site": "Qiita",
     "title": "Oracleにも対応したNew Relicの新機能「Database 360」で実行計画からボトルネックを特定しよう！",
     "link": "https://qiita.com/nr_ishibashi/items/6ca02ac46fe274bd853e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-21T02:33:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「親の名前」を忘れていた高齢者が語り出した――AI内蔵「昭和の青春ラジオ」が介護現場を変えている",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/21/news010.html",
-    "pubDate": "2026-05-21T01:43:37.000Z"
   },
   {
     "site": "Qiita",
@@ -82,6 +106,12 @@
     "title": "エンジニアが年収600・800・1000万円の壁を突破するための6つの能力とキャリア戦略",
     "link": "https://qiita.com/Nao52/items/f9523e566a6f82199dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-20T22:04:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Googleの新しいTUI Antigravity CLIを試してみた",
+    "link": "https://zenn.dev/hoki621/articles/how-to-agy-cli",
+    "pubDate": "Wed, 20 May 2026 22:00:06 GMT"
   },
   {
     "site": "Qiita",
@@ -126,12 +156,6 @@
     "pubDate": "Wed, 20 May 2026 11:44:26 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "tfstateに平文を残さずに秘密情報を管理する",
-    "link": "https://zenn.dev/dely_jp/articles/terraform-ephemeral-write-only-secrets",
-    "pubDate": "Wed, 20 May 2026 09:00:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "育休中エンジニアがClaude Coworkで「あかちゃんカレンダー🍼」を作った話",
     "link": "https://qiita.com/yuzinet/items/323bc76cf2d31d9f4d42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -144,24 +168,6 @@
     "pubDate": "2026-05-20T04:17:46.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "dialogやPopover APIは「お前ら開発者に任せておけねえ」というWeb標準からのメッセージなのでは？",
-    "link": "https://zenn.dev/estie/articles/79b2db0586a0b9",
-    "pubDate": "Wed, 20 May 2026 02:41:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Local Coding Agent が身近なタスクをどれくらいこなせるのかを検証した",
-    "link": "https://zenn.dev/aishift/articles/5b048ff347fd7b",
-    "pubDate": "Wed, 20 May 2026 00:26:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の skill-creator で既存 skill を検証してみた",
-    "link": "https://zenn.dev/redamoon/articles/article45-claude-code-skill-creator-benchmark",
-    "pubDate": "Wed, 20 May 2026 00:13:25 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Oracle Interconnect for AWS のプレビュー版をためしてみてみた",
     "link": "https://qiita.com/shirok/items/a9734df1336e46e83315?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "ソフトウェアエンジニアリングの70年と、これからの話",
     "link": "https://qiita.com/Kitasan_White/items/5afbc3cb1b21d2c53591?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-19T02:59:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code「使い放題」は終わるのか？6月改定の全容と開発者がやるべきこと",
-    "link": "https://zenn.dev/sanpi34/articles/claude-code-pricing-shift-2026",
-    "pubDate": "2026-05-15T23:48:55.000Z"
   }
 ]
