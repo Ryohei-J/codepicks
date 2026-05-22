@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "フェンタニル密輸「日本が経由地」　米麻薬取締局高官が認める - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOCB227K40S6A520C2000000/",
+    "pubDate": "2026-05-22T09:34:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "わずか16バイト(キロですらない)のデモ「Wake Up!」 - 人生に疲れた男のblog",
+    "link": "https://bcc.hatenablog.com/entry/2026/05/22/153655",
+    "pubDate": "2026-05-22T07:03:44.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",
     "link": "https://qiita.com/luan_nguyen/items/acaa441d34a20de58f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7,9 +19,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「Google AI Pro」ユーザーはYouTube広告ほぼ非表示　「Premium Lite」無料付与",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news107.html",
-    "pubDate": "2026-05-22T05:05:20.000Z"
+    "title": "無料。わずか1.8BでMicrosoft商用APIを凌駕する翻訳用LLM「Hy-MT2」登場",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2110885.html",
+    "pubDate": "2026-05-22T05:37:46.000Z"
   },
   {
     "site": "Hatena",
@@ -19,9 +31,9 @@
   },
   {
     "site": "Hatena",
-    "title": "BitLockerすり抜けに緩和策。Microsoftは非難するも発見者は「名誉毀損」訴え",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2110824.html",
-    "pubDate": "2026-05-22T02:32:10.000Z"
+    "title": "アマゾン創業者ベゾス「所得下位50％は所得税ゼロにすべき」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/97835",
+    "pubDate": "2026-05-22T01:07:55.000Z"
   },
   {
     "site": "Qiita",
@@ -36,10 +48,10 @@
     "pubDate": "2026-05-21T23:49:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アイデンティティシフトを生きる — Google I/O 2026 二日目に思ったこと - Nothing ventured, nothing gained.",
-    "link": "https://takoratta.hatenablog.com/entry/2026/05/22/083000",
-    "pubDate": "2026-05-21T23:45:39.000Z"
+    "site": "Zenn",
+    "title": "コードレビューを6段階にしたら、AIと人間の分業が見えた",
+    "link": "https://zenn.dev/kenimo49/articles/code-review-6-stages-ai-human-boundary",
+    "pubDate": "2026-05-21T23:05:31.000Z"
   },
   {
     "site": "Hatena",
@@ -60,6 +72,12 @@
     "pubDate": "2026-05-21T21:45:08.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Rustで自作可逆画像圧縮フォーマット「IVR」を実装したら、特定のVSCODEスクショでPNGの46%サイズになった!",
+    "link": "https://zenn.dev/mugideru/articles/35b209e934ba3e",
+    "pubDate": "Thu, 21 May 2026 12:50:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code時代の音声入力アプリ4選｜Mac標準を諦めてAqua Voiceに落ち着くまで",
     "link": "https://qiita.com/kazuki_ogawa/items/776340b97f0ca63292a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -69,25 +87,13 @@
     "site": "Zenn",
     "title": "GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全",
     "link": "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts",
-    "pubDate": "2026-05-21T11:02:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「URLを誰にも教えてない」が通じない理由 — CTログを30分監視してみた",
-    "link": "https://zenn.dev/tkydev/articles/2026-05-21_ct_log",
-    "pubDate": "2026-05-21T08:49:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Salesforceのセキュリティ強化に備えよう（確認・対応すべき項目ざっくりまとめ）",
-    "link": "https://zenn.dev/cariot_dev/articles/b86f16678bc31a",
-    "pubDate": "Thu, 21 May 2026 08:32:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全",
-    "link": "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts",
     "pubDate": "Thu, 21 May 2026 07:31:37 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "既存サービスにMCPサーバーを組み込む際の設計ポイント",
+    "link": "https://zenn.dev/finatext/articles/b404032aec58c4",
+    "pubDate": "Thu, 21 May 2026 06:32:42 GMT"
   },
   {
     "site": "Zenn",
@@ -103,9 +109,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Clojurianが出会ったsimple志向なJVM関数型言語Flix ——ファーストインプレッション",
-    "link": "https://zenn.dev/lagenorhynque/articles/fd102acdedea21",
-    "pubDate": "Thu, 21 May 2026 04:21:40 GMT"
+    "title": "電話でメールアドレスを読まされる問題を6桁で解決した話",
+    "link": "https://zenn.dev/shuhei_kanki/articles/8fa8b87924bf50",
+    "pubDate": "Thu, 21 May 2026 03:14:39 GMT"
   },
   {
     "site": "Zenn",
@@ -148,12 +154,6 @@
     "title": "1時間で開発を完了する。Claude Code の Skill で社内プロジェクトを仕組み化した話",
     "link": "https://zenn.dev/sonicgarden/articles/e5fd7f54433d3d",
     "pubDate": "Wed, 20 May 2026 15:00:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "人生で初めて OSS にコントリビュートした話",
-    "link": "https://zenn.dev/ashunar0/articles/e8ac42e4e77eb4",
-    "pubDate": "Wed, 20 May 2026 13:17:14 GMT"
   },
   {
     "site": "Qiita",
