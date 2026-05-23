@@ -1,15 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "不動産系のシステム開発してたとき、外注してたテスト会社が「21.4億平米の物件を作るとバグります」って報告してきて、内心キレた⇒東京都1個分でわろた",
+    "link": "https://posfie.com/@kalofollow/p/YXnT2sq",
+    "pubDate": "2026-05-23T09:35:34.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "サプライチェーン攻撃への備えについて考えている #湘なんか",
     "link": "https://speakerdeck.com/stefafafan/preparation-for-supply-chain-attacks",
     "pubDate": "2026-05-23T09:07:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "裁判所で「ほら彼の声には価値があるんです！私のような普通のおじさんとは違うのです！」と立証させられる恥辱を味わった弁護士さん、実は人気声優の原告側代理人だった件",
-    "link": "https://togetter.com/li/2700535",
-    "pubDate": "2026-05-23T06:24:42.000Z"
+    "site": "Qiita",
+    "title": "あれほど頼れるAIが、しょっぱいテストケースを作ってくる理由を考えた - Qiita",
+    "link": "https://qiita.com/yurizono/items/43a93d8ff3f7046b31e3",
+    "pubDate": "2026-05-23T05:45:34.000Z"
   },
   {
     "site": "Hatena",
@@ -24,12 +30,6 @@
     "pubDate": "2026-05-23T02:03:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "母の日にAmazonでお高めのドライヤーを贈ったらなぜか全然違う安いドライヤーが届く...→返品しようとしたら「商品が異なるため受理できません」と連絡がきた",
-    "link": "https://togetter.com/li/2700225",
-    "pubDate": "2026-05-23T00:37:17.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "日々の開発で使っているClaude Code Skills",
     "link": "https://zenn.dev/remitaid/articles/4f9dc787b6c191",
@@ -42,10 +42,10 @@
     "pubDate": "2026-05-22T17:49:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Why Japanese companies do so many different things",
-    "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-    "pubDate": "2026-05-22T15:50:19.000Z"
+    "site": "Zenn",
+    "title": "電子カルテ開発は個人で行えるのか：OpenDolphinNext",
+    "link": "https://zenn.dev/circlemouth/articles/opendolphinnext-individual-emr",
+    "pubDate": "Fri, 22 May 2026 15:40:11 GMT"
   },
   {
     "site": "Zenn",
@@ -60,18 +60,6 @@
     "pubDate": "Fri, 22 May 2026 11:56:54 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Rust + axum で画像掲示板を作る (1) プロジェクト初期化と Hello, axum!",
-    "link": "https://zenn.dev/purenium/articles/2026_05_22_rust-axum-imgbbs-01-init",
-    "pubDate": "Fri, 22 May 2026 11:43:45 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "OSSサプライチェーン汚染の連鎖：今起きている異変 | LAC WATCH",
-    "link": "https://www.lac.co.jp/lacwatch/alert/20260522_004729.html",
-    "pubDate": "2026-05-22T11:22:07.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "イヤホンジャック復活どころじゃない！　有線オーディオ特化スマホが日本発売",
     "link": "https://ascii.jp/elem/000/004/404/4404367/",
@@ -82,6 +70,12 @@
     "title": "あっという間に5月なので、振り返りとご報告",
     "link": "https://zenn.dev/yuta_k0911/articles/a4bc30fea766f8",
     "pubDate": "Fri, 22 May 2026 09:46:56 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "リリースを増やせば、成果も増えると思ってない？ 『Outcomes Over Output』が教える「作ること」の罠 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/31026/",
+    "pubDate": "2026-05-22T09:41:02.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "【Claude Code】激詰レビュワーSKILL 〜分からないコードをPRに出すな〜",
     "link": "https://qiita.com/kotobuki5991/items/548e71c8ff17fc543442?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-20T09:57:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "4つの主要AIに「ラジオ局の運営」を任せた結果…実験で明らかになった各モデルの挙動",
+    "link": "https://www.sbbit.jp/article/cont1/185420",
+    "pubDate": "2026-05-18T12:04:30.000Z"
   }
 ]
