@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "メタの過激な｢AI全振り｣　8000人解雇、PC操作監視に1500人抗議 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN21DDN0R20C26A5000000/",
-    "pubDate": "2026-05-23T00:16:25.000Z"
+    "title": "裁判所で「ほら彼の声には価値があるんです！私のような普通のおじさんとは違うのです！」と立証させられる恥辱を味わった弁護士さん、実は人気声優の原告側代理人だった件",
+    "link": "https://togetter.com/li/2700535",
+    "pubDate": "2026-05-23T06:24:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "2025 Japan AWS Jr.Champions としての活動を振り返る",
+    "link": "https://qiita.com/yakumo_09/items/76b9695a600a7491800a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-23T02:03:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "日々の開発で使っているClaude Code Skills",
+    "link": "https://zenn.dev/remitaid/articles/4f9dc787b6c191",
+    "pubDate": "2026-05-22T22:28:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "2025 Japan AWS Jr. Champions としての活動が終了しました",
+    "link": "https://qiita.com/har1101/items/ccbdbe70817ece37cfdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-22T17:49:36.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +30,40 @@
     "pubDate": "2026-05-22T15:50:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "電子カルテ開発は個人で行えるのか：OpenDolphinNext",
+    "link": "https://zenn.dev/circlemouth/articles/opendolphinnext-individual-emr",
+    "pubDate": "Fri, 22 May 2026 15:40:11 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "テレ朝、鈴木紗理奈事務所と「誠意をもってやりとり」明かす　あのちゃんが番組で「嫌い」名指し放送、「配慮が足りず」",
     "link": "https://www.j-cast.com/2026/05/22514970.html?p=all",
     "pubDate": "2026-05-22T14:45:18.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "不可視文字による攻撃を防ぐにはパターンマッチだと厳しいという話",
+    "link": "https://zenn.dev/ame_x/articles/16a5ddcef27c44",
+    "pubDate": "Fri, 22 May 2026 11:56:54 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "OSSサプライチェーン汚染の連鎖：今起きている異変 | LAC WATCH",
     "link": "https://www.lac.co.jp/lacwatch/alert/20260522_004729.html",
     "pubDate": "2026-05-22T11:22:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "イヤホンジャック復活どころじゃない！　有線オーディオ特化スマホが日本発売",
+    "link": "https://ascii.jp/elem/000/004/404/4404367/",
+    "pubDate": "2026-05-22T11:05:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TSKaigi 2026 発表資料まとめ",
+    "link": "https://zenn.dev/yasse/articles/a7240304af804c",
+    "pubDate": "Fri, 22 May 2026 10:57:23 GMT"
   },
   {
     "site": "Zenn",
@@ -34,12 +76,6 @@
     "title": "Mac→Ubuntu（UTM）SSH接続で「Connection closed by port 22」が出たときの対処法",
     "link": "https://qiita.com/inorin__62/items/6a15efcf60f954a89373?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-22T08:36:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",
-    "link": "https://qiita.com/luan_nguyen/items/acaa441d34a20de58f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-22T06:50:30.000Z"
   },
   {
     "site": "Hatena",
@@ -61,15 +97,27 @@
   },
   {
     "site": "Zenn",
-    "title": "コードレビューを6段階にしたら、AIと人間の分業が見えた",
-    "link": "https://zenn.dev/kenimo49/articles/code-review-6-stages-ai-human-boundary",
-    "pubDate": "2026-05-21T23:05:31.000Z"
+    "title": "Googleの新しいTUI Antigravity CLIを試してみた",
+    "link": "https://zenn.dev/hoki621/articles/how-to-agy-cli",
+    "pubDate": "2026-05-21T23:31:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "あれほど頼れるAIが、しょっぱいテストケースを作ってくる理由を考えた",
+    "link": "https://qiita.com/yurizono/items/43a93d8ff3f7046b31e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-21T22:03:08.000Z"
   },
   {
     "site": "Zenn",
     "title": "Rustで自作可逆画像圧縮フォーマット「IVR」を実装したら、特定のVSCODEスクショでPNGの46%サイズになった!",
     "link": "https://zenn.dev/mugideru/articles/35b209e934ba3e",
     "pubDate": "Thu, 21 May 2026 12:50:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vector DBを外したら、RAGではなくAgent Runtimeが残った",
+    "link": "https://zenn.dev/mofuteq/articles/8a2193df98ac05",
+    "pubDate": "Thu, 21 May 2026 12:16:43 GMT"
   },
   {
     "site": "Qiita",
@@ -102,30 +150,6 @@
     "pubDate": "Thu, 21 May 2026 06:32:42 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【PDF圧縮】約40年続く業界標準Ghostscriptを、Rust 自前実装で抜いた話",
-    "link": "https://zenn.dev/ikora/articles/b50ca6275eddc9",
-    "pubDate": "Thu, 21 May 2026 05:50:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「URLを誰にも教えてない」が通じない理由 — CTログを30分監視してみた",
-    "link": "https://zenn.dev/tkydev/articles/2026-05-21_ct_log",
-    "pubDate": "Thu, 21 May 2026 05:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Clojurianが出会ったsimple志向なJVM関数型言語Flix ——ファーストインプレッション",
-    "link": "https://zenn.dev/lagenorhynque/articles/fd102acdedea21",
-    "pubDate": "Thu, 21 May 2026 04:21:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "電話でメールアドレスを読まされる問題を6桁で解決した話",
-    "link": "https://zenn.dev/shuhei_kanki/articles/8fa8b87924bf50",
-    "pubDate": "Thu, 21 May 2026 03:14:39 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "設計本の学びがコードレビューで活きた話｜フラグ引数・null戻り値・型の網羅性",
     "link": "https://qiita.com/Nao52/items/7c0a515119c0bcb45d35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -139,12 +163,6 @@
   },
   {
     "site": "Qiita",
-    "title": "【命名規則】名前から「目的」を読み取れるコードを書くために——目的駆動名前設計のすすめ",
-    "link": "https://qiita.com/Nao52/items/c47bc4176cb03e4f0d5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-20T21:48:59.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
     "link": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-20T11:18:57.000Z"
@@ -154,24 +172,6 @@
     "title": "【Claude Code】激詰レビュワーSKILL 〜分からないコードをPRに出すな〜",
     "link": "https://qiita.com/kotobuki5991/items/548e71c8ff17fc543442?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-20T09:57:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "1割の“信頼される”エンジニアが実行している『締め切り感覚論』",
-    "link": "https://qiita.com/hitomin_poke/items/1ffbc05f07355231f420?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-20T04:17:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Googleが処理しているトークン量は月間3200兆、1年間で7倍に増大",
-    "link": "https://gigazine.net/news/20260520-google-monthly-tokens-processed/",
-    "pubDate": "2026-05-20T02:52:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - domcyrus/rustnet: Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.",
-    "link": "https://github.com/domcyrus/rustnet",
-    "pubDate": "2026-05-08T21:53:15.000Z"
   },
   {
     "site": "Hatena",
