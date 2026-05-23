@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "サプライチェーン攻撃への備えについて考えている #湘なんか",
+    "link": "https://speakerdeck.com/stefafafan/preparation-for-supply-chain-attacks",
+    "pubDate": "2026-05-23T09:07:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "裁判所で「ほら彼の声には価値があるんです！私のような普通のおじさんとは違うのです！」と立証させられる恥辱を味わった弁護士さん、実は人気声優の原告側代理人だった件",
     "link": "https://togetter.com/li/2700535",
     "pubDate": "2026-05-23T06:24:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エンジニアの「モヤモヤ」を言語化する倫理的意思決定の「セブン・ステップ・ガイド」 - 勘と経験と読経",
+    "link": "https://agnozingdays.hatenablog.com/entry/2026/05/23/090000",
+    "pubDate": "2026-05-23T05:05:57.000Z"
   },
   {
     "site": "Qiita",
     "title": "2025 Japan AWS Jr.Champions としての活動を振り返る",
     "link": "https://qiita.com/yakumo_09/items/76b9695a600a7491800a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-23T02:03:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "母の日にAmazonでお高めのドライヤーを贈ったらなぜか全然違う安いドライヤーが届く...→返品しようとしたら「商品が異なるため受理できません」と連絡がきた",
+    "link": "https://togetter.com/li/2700225",
+    "pubDate": "2026-05-23T00:37:17.000Z"
   },
   {
     "site": "Zenn",
@@ -31,21 +49,21 @@
   },
   {
     "site": "Zenn",
-    "title": "電子カルテ開発は個人で行えるのか：OpenDolphinNext",
-    "link": "https://zenn.dev/circlemouth/articles/opendolphinnext-individual-emr",
-    "pubDate": "Fri, 22 May 2026 15:40:11 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "テレ朝、鈴木紗理奈事務所と「誠意をもってやりとり」明かす　あのちゃんが番組で「嫌い」名指し放送、「配慮が足りず」",
-    "link": "https://www.j-cast.com/2026/05/22514970.html?p=all",
-    "pubDate": "2026-05-22T14:45:18.000Z"
+    "title": "TSKaigi 2026に行ってきた〜〜〜〜……よ！！！！Day 1",
+    "link": "https://zenn.dev/koyo_k0/articles/3b08a6f60ecb76",
+    "pubDate": "Fri, 22 May 2026 13:05:23 GMT"
   },
   {
     "site": "Zenn",
     "title": "不可視文字による攻撃を防ぐにはパターンマッチだと厳しいという話",
     "link": "https://zenn.dev/ame_x/articles/16a5ddcef27c44",
     "pubDate": "Fri, 22 May 2026 11:56:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust + axum で画像掲示板を作る (1) プロジェクト初期化と Hello, axum!",
+    "link": "https://zenn.dev/purenium/articles/2026_05_22_rust-axum-imgbbs-01-init",
+    "pubDate": "Fri, 22 May 2026 11:43:45 GMT"
   },
   {
     "site": "Hatena",
@@ -61,12 +79,6 @@
   },
   {
     "site": "Zenn",
-    "title": "TSKaigi 2026 発表資料まとめ",
-    "link": "https://zenn.dev/yasse/articles/a7240304af804c",
-    "pubDate": "Fri, 22 May 2026 10:57:23 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "あっという間に5月なので、振り返りとご報告",
     "link": "https://zenn.dev/yuta_k0911/articles/a4bc30fea766f8",
     "pubDate": "Fri, 22 May 2026 09:46:56 GMT"
@@ -78,22 +90,34 @@
     "pubDate": "2026-05-22T08:36:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIエージェントがChromeを操作するデバッグツール「Chrome DevTools for agents」が安定版として提供開始／ユーザー操作の再現、Webサイトの品質評価、拡張機能の開発などに",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2110721.html",
-    "pubDate": "2026-05-22T05:13:44.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "日々の開発で使っているClaude Code Skills",
     "link": "https://zenn.dev/remitaid/articles/4f9dc787b6c191",
     "pubDate": "Fri, 22 May 2026 03:39:24 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "サンワサプライ、貼り付けるだけで既存スイッチをスマート化できるIoT指ロボットを発売　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2110670.html",
+    "pubDate": "2026-05-22T03:06:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "日本語PDFで「Keyword search is all you need」を試す：Agent RAGとVector RAGの精度・コスト",
+    "link": "https://zenn.dev/retrieva_tech/articles/f4386f6b246b34",
+    "pubDate": "Fri, 22 May 2026 01:23:16 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「OSって、結局なにしてるんですか？」— 新人エンジニア向けに“裏側”を整理してみる—",
     "link": "https://qiita.com/prum_hitomi/items/09dd4f6328fe3b35aae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-21T23:49:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoft 公式の WinUI agent plugin で WinUI 3 アプリ開発がぐっと楽になった話",
+    "link": "https://zenn.dev/microsoft/articles/winui-agent-plugin",
+    "pubDate": "Thu, 21 May 2026 23:33:10 GMT"
   },
   {
     "site": "Zenn",
@@ -120,34 +144,16 @@
     "pubDate": "Thu, 21 May 2026 12:16:43 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Code 用のエージェントを Codex にも対応させる",
+    "link": "https://zenn.dev/scalar_sol_blog/articles/74374b5ad77607",
+    "pubDate": "Thu, 21 May 2026 11:45:43 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code時代の音声入力アプリ4選｜Mac標準を諦めてAqua Voiceに落ち着くまで",
     "link": "https://qiita.com/kazuki_ogawa/items/776340b97f0ca63292a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-21T11:17:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "月額780円→0円！グーグル、月額2900円のAIプランで「YouTube Premium Lite」を無料に",
-    "link": "https://ascii.jp/elem/000/004/403/4403860/",
-    "pubDate": "2026-05-21T10:18:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Salesforceのセキュリティ強化に備えよう（確認・対応すべき項目ざっくりまとめ）",
-    "link": "https://zenn.dev/cariot_dev/articles/b86f16678bc31a",
-    "pubDate": "Thu, 21 May 2026 08:32:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全",
-    "link": "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts",
-    "pubDate": "Thu, 21 May 2026 07:31:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "既存サービスにMCPサーバーを組み込む際の設計ポイント",
-    "link": "https://zenn.dev/finatext/articles/b404032aec58c4",
-    "pubDate": "Thu, 21 May 2026 06:32:42 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【Claude Code】激詰レビュワーSKILL 〜分からないコードをPRに出すな〜",
     "link": "https://qiita.com/kotobuki5991/items/548e71c8ff17fc543442?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-20T09:57:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エージェント向けの Chrome DevTools  |  Chrome for Developers",
-    "link": "https://developer.chrome.com/docs/devtools/agents?hl=ja",
-    "pubDate": "2026-05-07T23:20:57.000Z"
   }
 ]
