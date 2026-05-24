@@ -1,9 +1,21 @@
 [
   {
+    "site": "Hatena",
+    "title": "生成AIの安全性入門 | 技術評論社",
+    "link": "https://gihyo.jp/book/2026/978-4-297-15702-9",
+    "pubDate": "2026-05-24T12:06:40.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "DevOps を閉じる ―― オブザーバビリティとは何か",
     "link": "https://zenn.dev/ntk221/articles/ff6f235208cfcd",
     "pubDate": "2026-05-24T09:29:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "パソコン修理屋だが、客が「Excelのデータが壊れました。バックアップが壊れたんです」と言ってきたので説明しようとしたら、「馬鹿にしてます？」と返された話",
+    "link": "https://togetter.com/li/2700884",
+    "pubDate": "2026-05-24T08:49:27.000Z"
   },
   {
     "site": "Hatena",
@@ -25,21 +37,15 @@
   },
   {
     "site": "Hatena",
+    "title": "個人開発でシステムを作る場合の注意点その1（HTTP、クッキー、パスワードの管理、XSS、HttpOnle属性、API権限） -Higtyの開発日記-",
+    "link": "https://www.higlabo.ai/blog/higty-tech/indie-dev-security-mistakes-1",
+    "pubDate": "2026-05-24T04:51:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "カバンに抱きつく“チラ見”ロボットが世界でヒット　「かわいさ」はなぜ売れるのか",
     "link": "https://www.itmedia.co.jp/business/articles/2605/24/news004.html",
     "pubDate": "2026-05-24T03:41:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "予備試験最強戦術　「武蔵理論」｜アカシックレコード",
-    "link": "https://note.com/wakarimasita/n/n6e8387a66172",
-    "pubDate": "2026-05-24T01:13:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "完全ローカルかつCPUで動く日本語対応の軽量TTSモデル「Supertonic 3」、元の写真に忠実な3Dモデルを生成するAIモデル「Pixal3D」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/05/24/5094.html",
-    "pubDate": "2026-05-24T00:00:04.000Z"
   },
   {
     "site": "Zenn",
@@ -90,12 +96,6 @@
     "pubDate": "Sat, 23 May 2026 10:29:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "銀行に存続危機　高性能AI「ミュトス」対応、費用も人手も足りず | 毎日新聞",
-    "link": "https://mainichi.jp/articles/20260522/k00/00m/020/339000c",
-    "pubDate": "2026-05-23T10:22:26.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Qiita記事の毎月投稿を三年間継続できたので振り返ります！",
     "link": "https://qiita.com/ishi720/items/bac7a492b1b7d5ffe510?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,22 +108,10 @@
     "pubDate": "2026-05-23T03:41:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【禁断】Obsidianの第二の脳に「知の巨人」と呼ばれた師匠の脳をロードしてみた｜カドベヤちゃんねる",
-    "link": "https://note.com/kadobeya2002/n/na518f56802b2",
-    "pubDate": "2026-05-23T02:34:42.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "2025 Japan AWS Jr.Champions としての活動を振り返る",
     "link": "https://qiita.com/yakumo_09/items/76b9695a600a7491800a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-23T02:03:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "国勢調査 メッシュ年齢構成クラスターマップ",
-    "link": "https://klareswasser.github.io/map_popbalance/",
-    "pubDate": "2026-05-23T01:17:18.000Z"
   },
   {
     "site": "Qiita",
@@ -168,6 +156,12 @@
     "pubDate": "Fri, 22 May 2026 13:05:23 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "Claude Code で使える DuckDB Skills を試してみた + AWS運用の活用を考えてみた #opsmethod 登壇資料 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/opsmethod-2-duckdb-skills/",
+    "pubDate": "2026-05-22T06:32:57.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "「OSって、結局なにしてるんですか？」— 新人エンジニア向けに“裏側”を整理してみる—",
     "link": "https://qiita.com/prum_hitomi/items/09dd4f6328fe3b35aae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "あれほど頼れるAIが、しょっぱいテストケースを作ってくる理由を考えた",
     "link": "https://qiita.com/yurizono/items/43a93d8ff3f7046b31e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-21T22:03:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "パソコンが「なんか変」と感じたら、Microsoftの無料セキュリティ(msertツール)を使おう",
+    "link": "https://zenn.dev/arumenoy/articles/2e1985c168ed97",
+    "pubDate": "2026-05-18T07:06:27.000Z"
   }
 ]
