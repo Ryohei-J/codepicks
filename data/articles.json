@@ -1,5 +1,35 @@
 [
   {
+    "site": "Zenn",
+    "title": "DevOps を閉じる ―― オブザーバビリティとは何か",
+    "link": "https://zenn.dev/ntk221/articles/ff6f235208cfcd",
+    "pubDate": "2026-05-24T09:29:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI需要で急増するデータセンター、気温を「4度上昇」させる可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/97939",
+    "pubDate": "2026-05-24T07:45:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "DevOps を閉じる ―― オブザーバビリティとは何か",
+    "link": "https://zenn.dev/ntk221/articles/ff6f235208cfcd",
+    "pubDate": "Sun, 24 May 2026 06:55:30 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windowsの標準スクリプト言語であるPowerShellの現状をあらためて紹介する (1/2)",
+    "link": "https://ascii.jp/elem/000/004/404/4404554/",
+    "pubDate": "2026-05-24T06:08:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "カバンに抱きつく“チラ見”ロボットが世界でヒット　「かわいさ」はなぜ売れるのか",
+    "link": "https://www.itmedia.co.jp/business/articles/2605/24/news004.html",
+    "pubDate": "2026-05-24T03:41:34.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "予備試験最強戦術　「武蔵理論」｜アカシックレコード",
     "link": "https://note.com/wakarimasita/n/n6e8387a66172",
@@ -13,9 +43,27 @@
   },
   {
     "site": "Zenn",
+    "title": "【Marp】MarkdownをA4テキストにする方法",
+    "link": "https://zenn.dev/amenaruya/articles/796dded082f0bf",
+    "pubDate": "Sat, 23 May 2026 19:41:22 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "【アーキテクチャ】大量の類似 Feature を持つ Enterprise なフロントエンド設計",
     "link": "https://zenn.dev/yuitonn/articles/f88ddcf21ce172",
     "pubDate": "Sat, 23 May 2026 17:17:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「同じJSONを256件送ると約73%小さくなる」— MessagePackの次を狙う Twilic を公開しました！",
+    "link": "https://zenn.dev/minagishl/articles/941a9f21474ce5",
+    "pubDate": "Sat, 23 May 2026 16:43:32 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI エージェントで意思決定を加速する ─ Power Platform × Copilot Studio × DecisionFlow",
+    "link": "https://zenn.dev/minoru365/articles/decisionflow-hackathon-2026",
+    "pubDate": "Sat, 23 May 2026 16:00:29 GMT"
   },
   {
     "site": "Qiita",
@@ -25,21 +73,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeのスキルが毎日勝手に改善されていく仕組みを作った",
+    "link": "https://zenn.dev/sonicgarden/articles/claude-code-self-improving-loop",
+    "pubDate": "Sat, 23 May 2026 15:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIコーディングエージェントの本当の攻撃面は設定ファイルだった",
     "link": "https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface",
     "pubDate": "Sat, 23 May 2026 11:51:21 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "OpenClawで脆弱性情報収集と自社システムチェック判定を定期自動稼働させた - Qiita",
-    "link": "https://qiita.com/taks/items/5ba334aca2ecb8276e8c",
-    "pubDate": "2026-05-23T11:34:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "no slop grenade",
-    "link": "https://noslopgrenade.com/",
-    "pubDate": "2026-05-23T11:13:23.000Z"
   },
   {
     "site": "Zenn",
@@ -60,18 +102,6 @@
     "pubDate": "2026-05-23T10:13:42.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "トークン84%減 + 長時間連続自走を実現したAIワーカーのCycle運用 (Codex CLI)",
-    "link": "https://zenn.dev/marvelousu/articles/codex-cli-cycle-ops",
-    "pubDate": "Sat, 23 May 2026 09:13:41 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「誰かが決めるだろう」をやめた。仕事を前に進めるための“やらないこと” - Findy Media",
-    "link": "https://findy-code.io/media/articles/list-soudai1025?utm_source=findy-code&utm_medium=email&utm_campaign=mailmagazine20260523",
-    "pubDate": "2026-05-23T04:43:31.000Z"
-  },
-  {
     "site": "Qiita",
     "title": " 日本株は本当に「モメンタムが効かない市場」なのか",
     "link": "https://qiita.com/pyon3/items/cfa64a6da695cbfaecf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,21 +109,9 @@
   },
   {
     "site": "Hatena",
-    "title": "ウクライナの長距離ドローン、ロケット弾を発射し始める　ロシア軍防空チームを圧迫 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/97943",
-    "pubDate": "2026-05-23T02:42:59.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【禁断】Obsidianの第二の脳に「知の巨人」と呼ばれた師匠の脳をロードしてみた｜カドベヤちゃんねる",
     "link": "https://note.com/kadobeya2002/n/na518f56802b2",
     "pubDate": "2026-05-23T02:34:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Project Glasswing: An initial update",
-    "link": "https://www.anthropic.com/research/glasswing-initial-update",
-    "pubDate": "2026-05-23T02:21:44.000Z"
   },
   {
     "site": "Qiita",
@@ -138,34 +156,16 @@
     "pubDate": "2026-05-22T13:13:59.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Claude Code に質の高いPR書かせる Google Engineering Practices 食わせたスキル - izanami",
+    "link": "https://izanami.dev/post/e63c7bfd-cc85-4421-a4e7-776e93fb8720",
+    "pubDate": "2026-05-22T13:06:15.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "TSKaigi 2026に行ってきた〜〜〜〜……よ！！！！Day 1",
     "link": "https://zenn.dev/koyo_k0/articles/3b08a6f60ecb76",
     "pubDate": "Fri, 22 May 2026 13:05:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "不可視文字による攻撃を防ぐにはパターンマッチだと厳しいという話",
-    "link": "https://zenn.dev/ame_x/articles/16a5ddcef27c44",
-    "pubDate": "Fri, 22 May 2026 11:56:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TSKaigi 2026 発表資料まとめ",
-    "link": "https://zenn.dev/yasse/articles/a7240304af804c",
-    "pubDate": "Fri, 22 May 2026 10:57:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "あっという間に5月なので、振り返りとご報告",
-    "link": "https://zenn.dev/yuta_k0911/articles/a4bc30fea766f8",
-    "pubDate": "Fri, 22 May 2026 09:46:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自分専用AIエージェントを作ってわかった、LLMとプログラムの責務分離",
-    "link": "https://zenn.dev/shingoirie/articles/5e063ccee38a5b",
-    "pubDate": "Fri, 22 May 2026 08:33:41 GMT"
   },
   {
     "site": "Qiita",
