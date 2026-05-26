@@ -1,45 +1,81 @@
 [
   {
     "site": "Hatena",
+    "title": "『ソフトウェア設計の結合バランス』を読んだ | lacolaco's marginalia",
+    "link": "https://blog.lacolaco.net/posts/balancing-coupling-in-software-design",
+    "pubDate": "2026-05-26T00:42:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる（連載Part 3）",
+    "link": "https://zenn.dev/aircloset/articles/91824e55b7fc9c",
+    "pubDate": "2026-05-26T00:04:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "考えるだけでPC操作・脳内発話も　中国がAI脳インプラント開発加速、一般販売も間近か　Nature報道",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
+    "pubDate": "2026-05-25T23:28:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Gemini CLI」が早くも終了へ ～後継ツール「Antigravity CLI」への移行を／応答性に優れオーケストレーションにも対応する「Antigravity CLI」に一本化",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2111489.html",
+    "pubDate": "2026-05-25T23:05:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ちょっとすごいRubyの型チェッカーを作ってます｜にゃんだーすわん｜pixivFANBOX",
+    "link": "https://tadsan.fanbox.cc/posts/11959067",
+    "pubDate": "2026-05-25T16:05:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ソフトウェアの見積もり - kawasima",
     "link": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A",
     "pubDate": "2026-05-25T14:46:09.000Z"
   },
   {
     "site": "Zenn",
-    "title": "落穂拾い(DevOps を閉じる)",
-    "link": "https://zenn.dev/ntk221/articles/94b0a4c189236d",
-    "pubDate": "2026-05-25T11:52:57.000Z"
+    "title": "【GitHub Actions】actions/checkout には persist-credentials: false を設定するべき",
+    "link": "https://zenn.dev/kou_pg_0131/articles/gha-checkout-persist-credentials",
+    "pubDate": "2026-05-25T12:04:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "データエージェントのためのナレッジカタログ",
-    "link": "https://speakerdeck.com/na0/detaezientonotamenonaretuzikatarogu",
-    "pubDate": "2026-05-25T11:00:31.000Z"
+    "title": "『できるGoogle NotebookLM　可能性は無限大！自分専用AIノート活用法』（全文） | Impress Viewer",
+    "link": "https://viewer.impress.co.jp/viewer.html?group_name=a4cba557_6a0bcfcd3e1dc&pdf=p502258all",
+    "pubDate": "2026-05-25T11:17:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "人間には普通の契約書に見えるのに「嘘のフォント」でAIだけ別の文章を読まされる「Noroboto」攻撃とは？",
-    "link": "https://gigazine.net/news/20260525-noroboto/",
-    "pubDate": "2026-05-25T10:29:22.000Z"
+    "site": "Zenn",
+    "title": "TypeScriptの裏側を浴びた2日間 ── TSKaigi 2026参加記",
+    "link": "https://zenn.dev/0st_ts/articles/7878ffe89b8c6a",
+    "pubDate": "Mon, 25 May 2026 10:00:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Appleが画像圧縮AIコーデック「PICO」を発表、同じ画質でデータ量を最大3分の1に削減",
-    "link": "https://gigazine.net/news/20260525-ml-pico/",
-    "pubDate": "2026-05-25T07:04:43.000Z"
+    "site": "Zenn",
+    "title": "TanStack Query × Dexie.js で「プロトタイプを全部捨てる」から卒業する境界設計",
+    "link": "https://zenn.dev/dress_code/articles/5d33f06aa14582",
+    "pubDate": "Mon, 25 May 2026 09:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ハンズ渋谷、11月で閉店　48年の歴史に幕",
-    "link": "https://www.watch.impress.co.jp/docs/news/2111367.html",
-    "pubDate": "2026-05-25T06:59:39.000Z"
+    "site": "Zenn",
+    "title": "【GitHub Actions】actions/checkout には persist-credentials: false を設定するべき",
+    "link": "https://zenn.dev/kou_pg_0131/articles/gha-checkout-persist-credentials",
+    "pubDate": "Mon, 25 May 2026 09:00:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "SDXLの次はこれ？　アニメ特化のローカル画像生成AI、驚きの実力 (1/5)",
-    "link": "https://ascii.jp/elem/000/004/404/4404597/",
-    "pubDate": "2026-05-25T05:08:15.000Z"
+    "site": "Qiita",
+    "title": "【お母さんでもわかる】eBPFによるオブザーバビリティ",
+    "link": "https://qiita.com/ashimada83/items/28b7d4cdd46d2717d48f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-25T08:42:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Hono+Inertia+hono/jsx という選択肢",
+    "link": "https://zenn.dev/ashunar0/articles/46183ade4729f1",
+    "pubDate": "Mon, 25 May 2026 07:17:40 GMT"
   },
   {
     "site": "Qiita",
@@ -48,22 +84,34 @@
     "pubDate": "2026-05-25T04:19:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "漢字練習のためのnpm packageを作成しているのですが、みなさんにお願いがあります - Copy/Cut/Paste/Hatena",
-    "link": "https://k1low.hatenablog.com/entry/2026/05/25/083000",
-    "pubDate": "2026-05-25T03:59:41.000Z"
+    "site": "Zenn",
+    "title": "複数の端末でフィッシング耐性のあるMFA（パスキーなど）でログインするには？",
+    "link": "https://zenn.dev/cariot_dev/articles/198eb8215ae5b7",
+    "pubDate": "Mon, 25 May 2026 03:35:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「NotebookLM」活用本が全文無料公開、今日から3日間限定／「Web担当者Forumミーティング 2026 春」開催記念【Book Watch/ニュース】",
-    "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2111225.html",
-    "pubDate": "2026-05-25T03:09:31.000Z"
+    "site": "Zenn",
+    "title": "フロントエンドもアーキテクチャに向き合う！",
+    "link": "https://zenn.dev/luup_developers/articles/server-isamu-20260520",
+    "pubDate": "Mon, 25 May 2026 03:12:41 GMT"
   },
   {
     "site": "Zenn",
     "title": "AI時代の競争優位は「統合」にしかない —— エンジニアと組織が、今投資すべきもの",
     "link": "https://zenn.dev/peoplex_blog/articles/f2cfcd8b625202",
     "pubDate": "Mon, 25 May 2026 02:16:42 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "DeNA1人目のエンジニアが語るMobage1日50億アクセスの死闘と、AI時代に「構造」を握る重要性 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/31037/",
+    "pubDate": "2026-05-25T01:34:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
+    "link": "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
+    "pubDate": "Mon, 25 May 2026 00:44:18 GMT"
   },
   {
     "site": "Qiita",
@@ -103,57 +151,21 @@
   },
   {
     "site": "Hatena",
-    "title": "仕事でモヤモヤした時に自分を落ち着ける「5コラム法」 - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2026/05/24/173000",
-    "pubDate": "2026-05-24T23:35:02.000Z"
+    "title": "IPA、「情報セキュリティ10大脅威 2026」の個人編ハンドブックなど、学習や対策に役立つ資料を公開　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2110982.html",
+    "pubDate": "2026-05-24T23:50:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "WhisperローカルとGemini 2.5 Flashで講義録アプリを作った──構成と技術選定の解説",
-    "link": "https://zenn.dev/haruto_miyakawa/articles/4b7754712b7585",
-    "pubDate": "Sun, 24 May 2026 17:51:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ソフトウェア技術者が身につけておきたい設計と開発の基礎",
-    "link": "https://zenn.dev/momosetkn/articles/790798a6eae61e",
-    "pubDate": "Sun, 24 May 2026 14:29:17 GMT"
+    "site": "Qiita",
+    "title": "【入青】凡人が青コーダーになるために",
+    "link": "https://qiita.com/mkreem/items/f6941f6bbf932871a3f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-24T16:58:37.000Z"
   },
   {
     "site": "Zenn",
     "title": "GitHub サプライチェーン攻撃が怖すぎるので Socket.dev を試してみた",
     "link": "https://zenn.dev/tomodo_ysys/articles/socket-github-supply-chain-attack",
     "pubDate": "Sun, 24 May 2026 12:22:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026年4月のIMEに関するできごと",
-    "link": "https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_04",
-    "pubDate": "Sun, 24 May 2026 11:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "いまさら聞けない CancellationToken",
-    "link": "https://zenn.dev/poipoionigiri/articles/eafa9efa99be11",
-    "pubDate": "Sun, 24 May 2026 11:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS資格の価値は「誰が取ったか」で変わる",
-    "link": "https://zenn.dev/philosophum/articles/6e5bcf90d33aed",
-    "pubDate": "Sun, 24 May 2026 10:58:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントが毎回データを取りに行く設計の限界",
-    "link": "https://zenn.dev/knowledge_graph/articles/kg-agent-memory-first-design",
-    "pubDate": "Sun, 24 May 2026 08:44:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIに投げても解けなかったGPSアート自動生成を、最適化問題として組み立て直した話",
-    "link": "https://zenn.dev/jiro3141/articles/9ad0cd28b076e9",
-    "pubDate": "Sun, 24 May 2026 07:57:08 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "Qiita記事の毎月投稿を三年間継続できたので振り返ります！",
     "link": "https://qiita.com/ishi720/items/bac7a492b1b7d5ffe510?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-23T10:13:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "差分が見えるMarkdownビューアー「Markview Pulse」を作った話",
-    "link": "https://qiita.com/syuji501/items/508f016f15ff8ed3ea3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-22T22:23:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2025 Japan AWS Jr. Champions としての活動が終了しました",
-    "link": "https://qiita.com/har1101/items/ccbdbe70817ece37cfdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-22T17:49:36.000Z"
   }
 ]
