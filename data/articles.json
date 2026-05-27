@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "所有しているのに、手元にないように感じる不思議さ　ミニスパコン「NVIDIA DGX Spark」と過ごした1カ月",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2605/27/news106.html",
+    "pubDate": "2026-05-27T10:11:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、脆弱性を自動修正する「Claude Code」プラグイン",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2112189.html",
+    "pubDate": "2026-05-27T08:11:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "《スクープ証言》高市首相陣営“ネガキャン動画”は「AIとスマホ20台で1日100本」実行部隊が明かした“大量拡散の手法” | 文春オンライン",
+    "link": "https://bunshun.jp/articles/-/88979",
+    "pubDate": "2026-05-27T08:09:24.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "TSKaigi 2026 の発表資料の体感半数以上が AI 生成感あるものだった - mizdra's blog",
     "link": "https://www.mizdra.net/entry/2026/05/27/161559",
     "pubDate": "2026-05-27T07:49:24.000Z"
@@ -18,6 +36,18 @@
     "pubDate": "2026-05-27T05:52:26.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "エンジニアに事業目線は要らない(給与が上がらなくていいなら)｜柳川慶太",
+    "link": "https://note.com/gimupop/n/n058d5d187262",
+    "pubDate": "2026-05-27T05:43:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "x86時代の終焉か。NVIDIAの完全自社設計CPU「Vera」が叩き出したIntel、AMDを凌駕する驚愕のベンチマーク | XenoSpectrum",
+    "link": "https://xenospectrum.com/nvidia-vera-cpu-benchmarks-x86-arm-olympus-architecture/",
+    "pubDate": "2026-05-27T03:54:15.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "好きな文字化け発表ドラゴン - Qiita",
     "link": "https://qiita.com/IkadzuchiPleist/items/5069659ac7e7b2ea79c4",
@@ -28,12 +58,6 @@
     "title": "新聞用DTPを、新聞記者がつくった理由。フリーソフト「朝刊太郎」の数奇な27年【フォーカス】 - レバテックLAB",
     "link": "https://levtech.jp/media/detail_865/",
     "pubDate": "2026-05-27T01:27:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【ソフトウェア開発現代史】継続的デリバリーができない組織でAIは増幅器(amplifier)として空回りを生む 〜Dave Farley氏の来日に寄せて〜 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2026/05/27/070000",
-    "pubDate": "2026-05-27T00:33:53.000Z"
   },
   {
     "site": "Qiita",
@@ -67,33 +91,15 @@
   },
   {
     "site": "Hatena",
-    "title": "“週4日勤務”が想像以上の成功──「給与100％／労働時間80％／生産性100％」を豪州15社が実施　学術誌にも掲載",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news023.html",
-    "pubDate": "2026-05-26T23:55:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ドコモのネットワークはなぜ遅かったのか　体制確立で反転への手応え【石野純也のモバイル通信SE】",
-    "link": "https://www.watch.impress.co.jp/docs/series/ishino/2111397.html",
-    "pubDate": "2026-05-26T23:32:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "SaaSの権限管理設計を完全に理解した",
-    "link": "https://zenn.dev/rsugi/articles/19e0014a7040b3",
-    "pubDate": "2026-05-26T23:24:34.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "【超入門】Claude Codeの使い方〜初心者が1日でCLAUDE.mdとskillsを作る最短手順〜",
     "link": "https://newspicks.com/news/16754918/body/",
     "pubDate": "2026-05-26T22:21:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTに「職場でバカって言う人どう思う？」って聞いたら「許せないね！」→「私が言ったんだよね」って返したら「気持ちわかるよ」って言ってきたから適当",
-    "link": "https://togetter.com/li/2701884",
-    "pubDate": "2026-05-26T20:13:39.000Z"
+    "site": "Zenn",
+    "title": "AI時代の実装力は『コードを書く力』から『解空間を収束させる力』へ移った",
+    "link": "https://zenn.dev/tesla/articles/f67c29415a02fc",
+    "pubDate": "Tue, 26 May 2026 21:59:09 GMT"
   },
   {
     "site": "Zenn",
@@ -133,6 +139,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Code vs Codex：それぞれのツールが開発者に求める、暗黙の条件",
+    "link": "https://zenn.dev/dely_jp/articles/cfac9a04904113",
+    "pubDate": "Tue, 26 May 2026 00:53:31 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude × Obsidian で「感情の跡」を残す仕組みを作る",
     "link": "https://zenn.dev/miyaken0805/articles/ed70d88fa81c34",
     "pubDate": "Tue, 26 May 2026 00:43:00 GMT"
@@ -166,17 +178,5 @@
     "title": "AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる（連載Part 3）",
     "link": "https://zenn.dev/aircloset/articles/91824e55b7fc9c",
     "pubDate": "Mon, 25 May 2026 23:37:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codex が SKILL.md を 220 行で打ち切っていた話",
-    "link": "https://zenn.dev/haru0416/articles/codex-skill-md-220-lines",
-    "pubDate": "Mon, 25 May 2026 22:59:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Rust】2年の沈黙を破ったYewの現在",
-    "link": "https://zenn.dev/amenaruya/articles/d9718f5a25056b",
-    "pubDate": "Mon, 25 May 2026 15:07:15 GMT"
   }
 ]
