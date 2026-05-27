@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "TSKaigi 2026 の発表資料の体感半数以上が AI 生成感あるものだった - mizdra's blog",
+    "link": "https://www.mizdra.net/entry/2026/05/27/161559",
+    "pubDate": "2026-05-27T07:49:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AMD製の広範なプロセッサーに脆弱性 ～Athlon 3000からRyzen 9000/AI 300までに影響／2026年5月のセキュリティ情報を公開、BIOSの更新を",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2112012.html",
+    "pubDate": "2026-05-27T07:09:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」",
+    "link": "https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T05:52:26.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "好きな文字化け発表ドラゴン - Qiita",
     "link": "https://qiita.com/IkadzuchiPleist/items/5069659ac7e7b2ea79c4",
@@ -7,9 +25,45 @@
   },
   {
     "site": "Hatena",
+    "title": "新聞用DTPを、新聞記者がつくった理由。フリーソフト「朝刊太郎」の数奇な27年【フォーカス】 - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_865/",
+    "pubDate": "2026-05-27T01:27:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【ソフトウェア開発現代史】継続的デリバリーができない組織でAIは増幅器(amplifier)として空回りを生む 〜Dave Farley氏の来日に寄せて〜 - Findy Tech Blog",
     "link": "https://tech.findy.co.jp/entry/2026/05/27/070000",
     "pubDate": "2026-05-27T00:33:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Linuxのテキストエディタ　viとnano",
+    "link": "https://qiita.com/steiji/items/0675640c728125a628c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T00:18:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "コミュニケーションは大事",
+    "link": "https://qiita.com/Rikusato/items/d942ba887cf78ae0c937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T00:03:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "PythonとJavaのコードの違い",
+    "link": "https://qiita.com/karusifa2/items/75b8ff55095604bd48b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T00:03:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Pythonの制御構造について【基礎】",
+    "link": "https://qiita.com/sakurada110/items/d39b79afdbfadf5a2267?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T00:01:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【新入社員研修】Linuxの基本操作",
+    "link": "https://qiita.com/cookiepunch/items/f02c34ae6dc994cd3084?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T00:00:22.000Z"
   },
   {
     "site": "Hatena",
@@ -43,9 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Codex が SKILL.md を 220 行で打ち切っていた話",
-    "link": "https://zenn.dev/haru0416/articles/codex-skill-md-220-lines",
-    "pubDate": "2026-05-26T13:14:46.000Z"
+    "title": "TsKaigi 2026の振り返りをします。自分の登壇の反省など。",
+    "link": "https://zenn.dev/melonps/articles/b3b7f6d3014c3d",
+    "pubDate": "Tue, 26 May 2026 10:40:55 GMT"
   },
   {
     "site": "Zenn",
@@ -54,10 +108,16 @@
     "pubDate": "Tue, 26 May 2026 10:31:44 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "LLMのローカル実行ツール「Ollama」が「Codex」アプリに対応／v0.24.0がリリース",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2111597.html",
-    "pubDate": "2026-05-26T08:43:33.000Z"
+    "site": "Qiita",
+    "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+    "link": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-26T09:51:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「話しやすいエンジニア」になる価値。心理的安全性を自ら作る。",
+    "link": "https://zenn.dev/mavericks/articles/c40ef0a0652a64",
+    "pubDate": "Tue, 26 May 2026 09:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -66,22 +126,10 @@
     "pubDate": "Tue, 26 May 2026 06:23:00 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "会社が変わっても消えないスキルとスタートアップという選択肢",
-    "link": "https://qiita.com/masa20057/items/fa1f6b0db92e497796ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-26T02:42:24.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "サプライチェーン攻撃対策の「実効」を継続検証するGitHub監査基盤を内製した話",
     "link": "https://zenn.dev/smartround_dev/articles/478c195bf914b6",
     "pubDate": "Tue, 26 May 2026 01:29:33 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【35歳未経験でも理解できた】Ruby on Rails 前編",
-    "link": "https://qiita.com/wata-sho/items/34010e35cd35c797d258?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-26T01:21:11.000Z"
   },
   {
     "site": "Zenn",
@@ -103,18 +151,6 @@
   },
   {
     "site": "Qiita",
-    "title": "相対パスを使ってcd ..\\..\\〇〇と書けることを知らなかったのでメモ",
-    "link": "https://qiita.com/kbysnbt/items/174792be640713601f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-26T00:03:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Pythonのリストって？",
-    "link": "https://qiita.com/DON-DON-DON/items/29d3b6b82a8bb1f14ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-26T00:03:12.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "文系未経験エンジニアが研修で学んだLinuxコマンド備忘録",
     "link": "https://qiita.com/s-sakaguchis/items/6303ef4ef36779011972?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-25T23:54:45.000Z"
@@ -132,12 +168,6 @@
     "pubDate": "Mon, 25 May 2026 23:37:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "今日は新卒研修で情報系卒の子が「Javaなんてレガシーでやる必要ない」と言ってたのがハイライト⇒これから現実知るんだろうな…",
-    "link": "https://posfie.com/@kalofollow/p/AIxhrl9",
-    "pubDate": "2026-05-25T23:21:22.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Codex が SKILL.md を 220 行で打ち切っていた話",
     "link": "https://zenn.dev/haru0416/articles/codex-skill-md-220-lines",
@@ -148,35 +178,5 @@
     "title": "【Rust】2年の沈黙を破ったYewの現在",
     "link": "https://zenn.dev/amenaruya/articles/d9718f5a25056b",
     "pubDate": "Mon, 25 May 2026 15:07:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "DevContainerより軽量？Devboxで開発環境を瞬時に作る",
-    "link": "https://zenn.dev/arkbig/articles/devbox_0b6b39cd097e3288fe58baa5a49c7d39a28c5b46849",
-    "pubDate": "Mon, 25 May 2026 14:14:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScriptの裏側を浴びた2日間 ── TSKaigi 2026参加記",
-    "link": "https://zenn.dev/0st_ts/articles/7878ffe89b8c6a",
-    "pubDate": "Mon, 25 May 2026 10:00:07 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ITって結局なんのためにあるの？",
-    "link": "https://qiita.com/prum_hitomi/items/9eafa7854f27055a7a07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-25T04:19:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[初心者]Linuxと仲良くなれるコマンド3選",
-    "link": "https://qiita.com/sakui2i/items/e7939e9f2a8b3e8177f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-25T00:38:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件",
-    "link": "https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-24T07:44:12.000Z"
   }
 ]
