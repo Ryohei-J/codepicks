@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "マニアックな古本をオンライン購入するときにワンタイムパスワードを確認したら決済画面にとんでもない金額が表示されていて...→カード会社曰く「そこでパスワードを入れていたらもう補償の対象外だった」",
+    "link": "https://togetter.com/li/2702655",
+    "pubDate": "2026-05-28T18:24:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Codeですべての日常業務を爆速化しよう！",
     "link": "https://speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou",
     "pubDate": "2026-05-28T12:26:24.000Z"
@@ -19,15 +25,21 @@
   },
   {
     "site": "Hatena",
+    "title": "AWS Security Agentにレビューしてもらったら、設計書を書くことが急に楽しくなった話 | iret.media",
+    "link": "https://iret.media/197744",
+    "pubDate": "2026-05-28T09:41:36.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ツイッターで絡んだ覚えの無いユーザーを勝手にブロックしてる状態になっていると思っていたら、いつのまにか「オートブロック機能」が追加されていた",
     "link": "https://togetter.com/li/2702501",
     "pubDate": "2026-05-28T09:25:12.000Z"
   },
   {
     "site": "Hatena",
-    "title": "はてな匿名ダイアリーで記法に関する不具合を修正しました - はてラボ 開発者ブログ",
-    "link": "https://labo.hatenastaff.com/entry/2026/05/28/155652",
-    "pubDate": "2026-05-28T07:01:08.000Z"
+    "title": "SpaceXのIPO、日本からも申し込み可能に　楽天証券・SBI証券が募集へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news115.html",
+    "pubDate": "2026-05-28T08:09:32.000Z"
   },
   {
     "site": "Hatena",
@@ -36,10 +48,22 @@
     "pubDate": "2026-05-28T05:16:35.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【図解】IT初心者でもわかる！クリーンアーキテクチャの基本",
+    "link": "https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-28T04:04:50.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "インフラプログラマが Claude Code をどう使っていくか － AWS マルチアカウント管理",
     "link": "https://zenn.dev/sonicgarden/articles/ef6268318d256f",
     "pubDate": "2026-05-28T03:50:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS CDK入門 - Lambda × S3 署名URLでファイルアップロードAPIを作る",
+    "link": "https://qiita.com/sugumura/items/2b1bc35997d4c5d0d8d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-28T03:27:25.000Z"
   },
   {
     "site": "Zenn",
@@ -48,16 +72,16 @@
     "pubDate": "Thu, 28 May 2026 02:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "毎日500mlの「炭酸水」で間食と飲酒が減る？　アサヒ飲料などが学術誌で研究発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news039.html",
-    "pubDate": "2026-05-28T00:38:06.000Z"
+    "site": "Qiita",
+    "title": "Copilot Studio 自律型エージェントのクレジット消費を改めて整理してみる - 365 Copilot ライセンスだけでは判断できないケース",
+    "link": "https://qiita.com/Takashi_Masumori/items/353fee8310b0cd36c8f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-28T01:50:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "最新のWindowsでアプリのインストール先はどこにすべき？ Windowsのフォルダー構成を正しく理解しよう／「Program Files」や「Users」などにはそれぞれ意味と役割がある【特集・集中企画】",
-    "link": "https://forest.watch.impress.co.jp/docs/special/2104573.html",
-    "pubDate": "2026-05-28T00:11:22.000Z"
+    "site": "Qiita",
+    "title": "AWS AI-DLC Unicorn Gym ワークショップで気づいた「モチベーター」という第三の役割",
+    "link": "https://qiita.com/Tom-Panasonic/items/14509edbf2e5e1d2a0e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-28T01:27:13.000Z"
   },
   {
     "site": "Zenn",
@@ -79,6 +103,12 @@
   },
   {
     "site": "Qiita",
+    "title": "これがいいとは言わないが。私が普段 Vibe Coding で実際に投入しているPromptを晒す",
+    "link": "https://qiita.com/dahatake/items/ef5cb2ad8d0e27dd976a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T06:22:55.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」",
     "link": "https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-27T05:52:26.000Z"
@@ -88,18 +118,6 @@
     "title": "【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選",
     "link": "https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-27T04:39:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "文系東大生が、GPT型モデルをフルスクラッチで開発する話 Part.1 【株式会社ハイレゾ協力】",
-    "link": "https://qiita.com/UT_AI_CLUB/items/fae636ab3a9b75ebf930?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T03:51:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Python】クラスの存在意義から特殊メソッド・デコレータまでを根本から理解する",
-    "link": "https://qiita.com/RAD0N/items/599ce305b195134fe25f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T03:37:39.000Z"
   },
   {
     "site": "Zenn",
@@ -112,18 +130,6 @@
     "title": "オンチップ学習可能なエンドポイントAI IPのPythonシミュレータを公開しました",
     "link": "https://qiita.com/nhnhnh/items/243d9adbd4e79c44ca29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-27T00:36:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PythonとJavaのコードの違い",
-    "link": "https://qiita.com/karusifa2/items/75b8ff55095604bd48b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T00:03:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【新入社員研修】Linuxの基本操作",
-    "link": "https://qiita.com/cookiepunch/items/f02c34ae6dc994cd3084?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T00:00:22.000Z"
   },
   {
     "site": "Zenn",
@@ -154,12 +160,6 @@
     "title": "Laravelというフレームワークの開発、またはTaylor Otwellのビジネスセンスと技術的美学について",
     "link": "https://zenn.dev/shunjuio/articles/laravel-and-taylor",
     "pubDate": "Tue, 26 May 2026 13:34:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理",
-    "link": "https://qiita.com/long-910/items/cea5b0fc39afdeeefb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-26T13:20:07.000Z"
   },
   {
     "site": "Zenn",
