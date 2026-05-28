@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "エヌビディア、日産他登壇「ソフトウェアデザイン for ハードウェアConference」",
-    "link": "https://soft-hard-con.findy-tools.io/2026",
-    "pubDate": "2026-05-28T00:59:19.000Z"
+    "title": "はてな匿名ダイアリーで記法に関する不具合を修正しました - はてラボ 開発者ブログ",
+    "link": "https://labo.hatenastaff.com/entry/2026/05/28/155652",
+    "pubDate": "2026-05-28T07:01:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "[本日の一品]レンズそのまま、普通のメガネをスマートグラス化する「GUIDE01」",
+    "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2109544.html",
+    "pubDate": "2026-05-28T06:04:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "動画生成AI「Runway」がChatGPTやClaudeのチャット内で利用可能に、チャットで参考画像やアイデアを入力して動画化できる",
+    "link": "https://gigazine.net/news/20260528-runway-mcp-chatgpt-claude/",
+    "pubDate": "2026-05-28T05:48:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "毎日500mlの「炭酸水」で間食と飲酒が減る？　アサヒ飲料などが学術誌で研究発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news039.html",
+    "pubDate": "2026-05-28T00:38:06.000Z"
   },
   {
     "site": "Hatena",
@@ -18,28 +36,22 @@
     "pubDate": "2026-05-27T23:52:45.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
+    "link": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+    "pubDate": "2026-05-27T23:08:24.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "Opus 4.7 と GPT-5.5 のレビュー特性を統計的に明らかにした（オトナの自由研究 #19）",
-    "link": "https://zenn.dev/nnakapa/articles/lab-19-opus47-gpt55-code-review",
-    "pubDate": "2026-05-27T23:31:58.000Z"
+    "title": "Claude Code vs Codex：それぞれのツールが開発者に求める、暗黙の条件",
+    "link": "https://zenn.dev/dely_jp/articles/cfac9a04904113",
+    "pubDate": "2026-05-27T16:00:50.000Z"
   },
   {
     "site": "Hatena",
     "title": "Anthropic、「Claude Code」向けにセキュリティ監査プラグインを無償提供／3つのレイヤーでコードベースからリアルタイムで脆弱性を検出・修正",
     "link": "https://forest.watch.impress.co.jp/docs/news/2112164.html",
     "pubDate": "2026-05-27T14:24:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "クオンツトレーダーがLLMをどこに使うべきか — 「アルファの最終層に置かない」設計入門 - Qiita",
-    "link": "https://qiita.com/tikeda123/items/a71261ecc47f609e52fc",
-    "pubDate": "2026-05-27T14:21:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "https://av.watch.impress.co.jp/docs/news/2112218.html",
-    "link": "https://av.watch.impress.co.jp/docs/news/2112218.html",
-    "pubDate": "2026-05-27T09:56:59.000Z"
   },
   {
     "site": "Zenn",
@@ -54,16 +66,22 @@
     "pubDate": "Wed, 27 May 2026 07:58:44 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Opus 4.7 と GPT-5.5 のレビュー特性を統計的に明らかにした（オトナの自由研究 #19）",
+    "link": "https://zenn.dev/nnakapa/articles/lab-19-opus47-gpt55-code-review",
+    "pubDate": "Wed, 27 May 2026 07:31:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "NVIDIA自動運転シミュレーターAlpaSimで自社開発VLAモデル「DriveHeron」を走らせてみた",
+    "link": "https://zenn.dev/turing_motors/articles/bab91a64919c31",
+    "pubDate": "Wed, 27 May 2026 07:21:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」",
     "link": "https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-27T05:52:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "中国SiCの進化「日本は追い付けないレベル」　競わず活用を",
-    "link": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news056.html",
-    "pubDate": "2026-05-27T05:33:31.000Z"
   },
   {
     "site": "Qiita",
@@ -73,27 +91,33 @@
   },
   {
     "site": "Qiita",
-    "title": "Linuxのテキストエディタ　viとnano",
-    "link": "https://qiita.com/steiji/items/0675640c728125a628c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T00:18:48.000Z"
+    "title": "文系東大生が、GPT型モデルをフルスクラッチで開発する話 Part.1 【株式会社ハイレゾ協力】",
+    "link": "https://qiita.com/UT_AI_CLUB/items/fae636ab3a9b75ebf930?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T03:51:14.000Z"
   },
   {
     "site": "Qiita",
-    "title": "コミュニケーションは大事",
-    "link": "https://qiita.com/Rikusato/items/d942ba887cf78ae0c937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T00:03:15.000Z"
+    "title": "【Python】クラスの存在意義から特殊メソッド・デコレータまでを根本から理解する",
+    "link": "https://qiita.com/RAD0N/items/599ce305b195134fe25f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T03:37:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeとCodexを2ヶ月使い比べて分かった選び方 — settings.jsonを育てた側が速い",
+    "link": "https://zenn.dev/playpark/articles/claude-code-vs-codex-comparison",
+    "pubDate": "Wed, 27 May 2026 02:16:51 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "オンチップ学習可能なエンドポイントAI IPのPythonシミュレータを公開しました",
+    "link": "https://qiita.com/nhnhnh/items/243d9adbd4e79c44ca29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T00:36:38.000Z"
   },
   {
     "site": "Qiita",
     "title": "PythonとJavaのコードの違い",
     "link": "https://qiita.com/karusifa2/items/75b8ff55095604bd48b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-27T00:03:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Pythonの制御構造について【基礎】",
-    "link": "https://qiita.com/sakurada110/items/d39b79afdbfadf5a2267?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T00:01:59.000Z"
   },
   {
     "site": "Qiita",
@@ -120,6 +144,30 @@
     "pubDate": "Tue, 26 May 2026 21:59:09 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術",
+    "link": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-26T13:39:19.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理",
+    "link": "https://qiita.com/long-910/items/cea5b0fc39afdeeefb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-26T13:20:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TsKaigi 2026の振り返りをします。自分の登壇の反省など。",
+    "link": "https://zenn.dev/melonps/articles/b3b7f6d3014c3d",
+    "pubDate": "Tue, 26 May 2026 10:40:55 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeに仕事を任せたら確認待ちで止まっていた。しゃべらせたら今度はうるさかったので改善した。",
+    "link": "https://zenn.dev/collabostyle/articles/6423fd88ee0054",
+    "pubDate": "Tue, 26 May 2026 10:37:49 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "なけなしの130万を使って、Cloud Praticaに人生をオールインした話",
     "link": "https://zenn.dev/fuji_1218/articles/67c734d19dd1b8",
@@ -130,53 +178,5 @@
     "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
     "link": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-26T09:51:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「話しやすいエンジニア」になる価値。心理的安全性を自ら作る。",
-    "link": "https://zenn.dev/mavericks/articles/c40ef0a0652a64",
-    "pubDate": "Tue, 26 May 2026 09:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TSKaigi 2026 にチームラボのフロントエンド班として参加しました",
-    "link": "https://zenn.dev/teamlab_fe/articles/aaffd117e03c34",
-    "pubDate": "Tue, 26 May 2026 06:23:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeやCodexに機密情報入れて大丈夫？セキュリティを軽くまとめ",
-    "link": "https://zenn.dev/acntechjp/articles/a1e95959858c1c",
-    "pubDate": "Tue, 26 May 2026 06:18:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "サプライチェーン攻撃対策の「実効」を継続検証するGitHub監査基盤を内製した話",
-    "link": "https://zenn.dev/smartround_dev/articles/478c195bf914b6",
-    "pubDate": "Tue, 26 May 2026 01:29:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code vs Codex：それぞれのツールが開発者に求める、暗黙の条件",
-    "link": "https://zenn.dev/dely_jp/articles/cfac9a04904113",
-    "pubDate": "Tue, 26 May 2026 00:53:31 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "データベース新卒研修まとめ",
-    "link": "https://qiita.com/t-osanai3150/items/80347bcd89a8a51c0298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-26T00:10:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "文系未経験エンジニアが研修で学んだLinuxコマンド備忘録",
-    "link": "https://qiita.com/s-sakaguchis/items/6303ef4ef36779011972?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-25T23:54:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Webエンジニアなら知っておきたいIaCの歴史 - Fenrir Engineers",
-    "link": "https://engineers.fenrir-inc.com/entry/2026/05/25/123000",
-    "pubDate": "2026-05-25T15:23:27.000Z"
   }
 ]
