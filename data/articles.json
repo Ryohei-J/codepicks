@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "エヌビディア、日産他登壇「ソフトウェアデザイン for ハードウェアConference」",
+    "link": "https://soft-hard-con.findy-tools.io/2026",
+    "pubDate": "2026-05-28T00:59:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最新のWindowsでアプリのインストール先はどこにすべき？ Windowsのフォルダー構成を正しく理解しよう／「Program Files」や「Users」などにはそれぞれ意味と役割がある【特集・集中企画】",
+    "link": "https://forest.watch.impress.co.jp/docs/special/2104573.html",
+    "pubDate": "2026-05-28T00:11:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「コーディングを学べ」もう通用せず、AIが若者の雇用を奪い始めた",
+    "link": "https://www.technologyreview.jp/s/383775/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "pubDate": "2026-05-27T23:52:45.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Opus 4.7 と GPT-5.5 のレビュー特性を統計的に明らかにした（オトナの自由研究 #19）",
+    "link": "https://zenn.dev/nnakapa/articles/lab-19-opus47-gpt55-code-review",
+    "pubDate": "2026-05-27T23:31:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、「Claude Code」向けにセキュリティ監査プラグインを無償提供／3つのレイヤーでコードベースからリアルタイムで脆弱性を検出・修正",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2112164.html",
+    "pubDate": "2026-05-27T14:24:52.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "クオンツトレーダーがLLMをどこに使うべきか — 「アルファの最終層に置かない」設計入門 - Qiita",
     "link": "https://qiita.com/tikeda123/items/a71261ecc47f609e52fc",
@@ -7,9 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "株価2倍のゆうちょ銀､海外勢が再発見　地味株から｢AI以外の選択肢｣に - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUB275YX0X20C26A5000000/",
-    "pubDate": "2026-05-27T09:19:28.000Z"
+    "title": "https://av.watch.impress.co.jp/docs/news/2112218.html",
+    "link": "https://av.watch.impress.co.jp/docs/news/2112218.html",
+    "pubDate": "2026-05-27T09:56:59.000Z"
   },
   {
     "site": "Zenn",
@@ -18,28 +48,10 @@
     "pubDate": "2026-05-27T09:14:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Anthropic、脆弱性を自動修正する「Claude Code」プラグイン",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2112189.html",
-    "pubDate": "2026-05-27T08:11:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "《スクープ証言》高市首相陣営“ネガキャン動画”は「AIとスマホ20台で1日100本」実行部隊が明かした“大量拡散の手法” | 文春オンライン",
-    "link": "https://bunshun.jp/articles/-/88979",
-    "pubDate": "2026-05-27T08:09:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "TSKaigi 2026 の発表資料の体感半数以上が AI 生成感あるものだった - mizdra's blog",
-    "link": "https://www.mizdra.net/entry/2026/05/27/161559",
-    "pubDate": "2026-05-27T07:49:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AMD製の広範なプロセッサーに脆弱性 ～Athlon 3000からRyzen 9000/AI 300までに影響／2026年5月のセキュリティ情報を公開、BIOSの更新を",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2112012.html",
-    "pubDate": "2026-05-27T07:09:07.000Z"
+    "site": "Zenn",
+    "title": "「JWT を localStorage に置くな」はなぜ言われるのか、Cookie 回帰までの時系列整理",
+    "link": "https://zenn.dev/khale/articles/web-session-jwt-cookie-history",
+    "pubDate": "Wed, 27 May 2026 07:58:44 GMT"
   },
   {
     "site": "Qiita",
@@ -49,27 +61,15 @@
   },
   {
     "site": "Hatena",
-    "title": "エンジニアに事業目線は要らない(給与が上がらなくていいなら)｜柳川慶太",
-    "link": "https://note.com/gimupop/n/n058d5d187262",
-    "pubDate": "2026-05-27T05:43:55.000Z"
+    "title": "中国SiCの進化「日本は追い付けないレベル」　競わず活用を",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news056.html",
+    "pubDate": "2026-05-27T05:33:31.000Z"
   },
   {
     "site": "Qiita",
     "title": "【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選",
     "link": "https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-27T04:39:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "x86時代の終焉か。NVIDIAの完全自社設計CPU「Vera」が叩き出したIntel、AMDを凌駕する驚愕のベンチマーク | XenoSpectrum",
-    "link": "https://xenospectrum.com/nvidia-vera-cpu-benchmarks-x86-arm-olympus-architecture/",
-    "pubDate": "2026-05-27T03:54:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "好きな文字化け発表ドラゴン - Qiita",
-    "link": "https://qiita.com/IkadzuchiPleist/items/5069659ac7e7b2ea79c4",
-    "pubDate": "2026-05-27T01:56:46.000Z"
   },
   {
     "site": "Qiita",
@@ -103,15 +103,21 @@
   },
   {
     "site": "Zenn",
-    "title": "AI時代の実装力は『コードを書く力』から『解空間を収束させる力』へ移った",
-    "link": "https://zenn.dev/tesla/articles/f67c29415a02fc",
-    "pubDate": "Tue, 26 May 2026 21:59:09 GMT"
+    "title": "GitHub Copilot CLIの/chronicleで課金体系の変更に備えよう",
+    "link": "https://zenn.dev/aeonpeople/articles/morihaya-20260527-copilot-cli-chronicle",
+    "pubDate": "Tue, 26 May 2026 23:00:09 GMT"
   },
   {
     "site": "Zenn",
-    "title": "TsKaigi 2026の振り返りをします。自分の登壇の反省など。",
-    "link": "https://zenn.dev/melonps/articles/b3b7f6d3014c3d",
-    "pubDate": "Tue, 26 May 2026 10:40:55 GMT"
+    "title": "Javaなしで安全に使えるPlantUMLビューア「pumlv」",
+    "link": "https://zenn.dev/rinrin_yuuki/articles/9b69cca81875f6",
+    "pubDate": "Tue, 26 May 2026 23:00:09 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代の実装力は『コードを書く力』から『解空間を収束させる力』へ移った",
+    "link": "https://zenn.dev/tesla/articles/f67c29415a02fc",
+    "pubDate": "Tue, 26 May 2026 21:59:09 GMT"
   },
   {
     "site": "Zenn",
@@ -139,6 +145,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude CodeやCodexに機密情報入れて大丈夫？セキュリティを軽くまとめ",
+    "link": "https://zenn.dev/acntechjp/articles/a1e95959858c1c",
+    "pubDate": "Tue, 26 May 2026 06:18:42 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "サプライチェーン攻撃対策の「実効」を継続検証するGitHub監査基盤を内製した話",
     "link": "https://zenn.dev/smartround_dev/articles/478c195bf914b6",
     "pubDate": "Tue, 26 May 2026 01:29:33 GMT"
@@ -148,12 +160,6 @@
     "title": "Claude Code vs Codex：それぞれのツールが開発者に求める、暗黙の条件",
     "link": "https://zenn.dev/dely_jp/articles/cfac9a04904113",
     "pubDate": "Tue, 26 May 2026 00:53:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude × Obsidian で「感情の跡」を残す仕組みを作る",
-    "link": "https://zenn.dev/miyaken0805/articles/ed70d88fa81c34",
-    "pubDate": "Tue, 26 May 2026 00:43:00 GMT"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "2026-05-25T23:54:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "pinact v4",
-    "link": "https://zenn.dev/shunsuke_suzuki/articles/pinact-v4-guide",
-    "pubDate": "Mon, 25 May 2026 23:47:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる（連載Part 3）",
-    "link": "https://zenn.dev/aircloset/articles/91824e55b7fc9c",
-    "pubDate": "Mon, 25 May 2026 23:37:52 GMT"
+    "site": "Hatena",
+    "title": "Webエンジニアなら知っておきたいIaCの歴史 - Fenrir Engineers",
+    "link": "https://engineers.fenrir-inc.com/entry/2026/05/25/123000",
+    "pubDate": "2026-05-25T15:23:27.000Z"
   }
 ]
