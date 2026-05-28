@@ -1,21 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Codeですべての日常業務を爆速化しよう！",
+    "link": "https://speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou",
+    "pubDate": "2026-05-28T12:26:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "重要だが緊急でない仕事が組織を停滞させる｜MRYY",
+    "link": "https://note.com/mryy/n/n78d9ac66059e",
+    "pubDate": "2026-05-28T10:42:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenClawブームのその後とHermes Agent",
+    "link": "https://blog.lai.so/hermes-agent/",
+    "pubDate": "2026-05-28T10:27:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ツイッターで絡んだ覚えの無いユーザーを勝手にブロックしてる状態になっていると思っていたら、いつのまにか「オートブロック機能」が追加されていた",
+    "link": "https://togetter.com/li/2702501",
+    "pubDate": "2026-05-28T09:25:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "はてな匿名ダイアリーで記法に関する不具合を修正しました - はてラボ 開発者ブログ",
     "link": "https://labo.hatenastaff.com/entry/2026/05/28/155652",
     "pubDate": "2026-05-28T07:01:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "[本日の一品]レンズそのまま、普通のメガネをスマートグラス化する「GUIDE01」",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2109544.html",
-    "pubDate": "2026-05-28T06:04:48.000Z"
+    "title": "「Excel設計書の壁」を越え、生成AIでテスト仕様書の作成工数を4割削減した事例",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news007.html",
+    "pubDate": "2026-05-28T05:16:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "動画生成AI「Runway」がChatGPTやClaudeのチャット内で利用可能に、チャットで参考画像やアイデアを入力して動画化できる",
-    "link": "https://gigazine.net/news/20260528-runway-mcp-chatgpt-claude/",
-    "pubDate": "2026-05-28T05:48:20.000Z"
+    "site": "Zenn",
+    "title": "インフラプログラマが Claude Code をどう使っていくか － AWS マルチアカウント管理",
+    "link": "https://zenn.dev/sonicgarden/articles/ef6268318d256f",
+    "pubDate": "2026-05-28T03:50:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "お前達にも教えよう。SnowflakeのAgent Sharingがすごくすごいことを。",
+    "link": "https://zenn.dev/truestar/articles/72183e3b2e619c",
+    "pubDate": "Thu, 28 May 2026 02:30:05 GMT"
   },
   {
     "site": "Hatena",
@@ -30,34 +60,10 @@
     "pubDate": "2026-05-28T00:11:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「コーディングを学べ」もう通用せず、AIが若者の雇用を奪い始めた",
-    "link": "https://www.technologyreview.jp/s/383775/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-    "pubDate": "2026-05-27T23:52:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
-    "link": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-    "pubDate": "2026-05-27T23:08:24.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Claude Code vs Codex：それぞれのツールが開発者に求める、暗黙の条件",
-    "link": "https://zenn.dev/dely_jp/articles/cfac9a04904113",
-    "pubDate": "2026-05-27T16:00:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Anthropic、「Claude Code」向けにセキュリティ監査プラグインを無償提供／3つのレイヤーでコードベースからリアルタイムで脆弱性を検出・修正",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2112164.html",
-    "pubDate": "2026-05-27T14:24:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「JWT を localStorage に置くな」はなぜ言われるのか、Cookie 回帰までの時系列整理",
-    "link": "https://zenn.dev/khale/articles/web-session-jwt-cookie-history",
-    "pubDate": "2026-05-27T09:14:42.000Z"
+    "title": "Laravel Live Japan 行ってきたぞー！",
+    "link": "https://zenn.dev/yabu_p/articles/03fbebc16fb865",
+    "pubDate": "Wed, 27 May 2026 12:59:52 GMT"
   },
   {
     "site": "Zenn",
@@ -70,12 +76,6 @@
     "title": "Opus 4.7 と GPT-5.5 のレビュー特性を統計的に明らかにした（オトナの自由研究 #19）",
     "link": "https://zenn.dev/nnakapa/articles/lab-19-opus47-gpt55-code-review",
     "pubDate": "Wed, 27 May 2026 07:31:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "NVIDIA自動運転シミュレーターAlpaSimで自社開発VLAモデル「DriveHeron」を走らせてみた",
-    "link": "https://zenn.dev/turing_motors/articles/bab91a64919c31",
-    "pubDate": "Wed, 27 May 2026 07:21:05 GMT"
   },
   {
     "site": "Qiita",
@@ -150,6 +150,12 @@
     "pubDate": "2026-05-26T13:39:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Laravelというフレームワークの開発、またはTaylor Otwellのビジネスセンスと技術的美学について",
+    "link": "https://zenn.dev/shunjuio/articles/laravel-and-taylor",
+    "pubDate": "Tue, 26 May 2026 13:34:02 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "レッドチームセキュリティ学習：ハッキングツールを5フェーズで整理",
     "link": "https://qiita.com/long-910/items/cea5b0fc39afdeeefb3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -162,21 +168,15 @@
     "pubDate": "Tue, 26 May 2026 10:40:55 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeに仕事を任せたら確認待ちで止まっていた。しゃべらせたら今度はうるさかったので改善した。",
-    "link": "https://zenn.dev/collabostyle/articles/6423fd88ee0054",
-    "pubDate": "Tue, 26 May 2026 10:37:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なけなしの130万を使って、Cloud Praticaに人生をオールインした話",
-    "link": "https://zenn.dev/fuji_1218/articles/67c734d19dd1b8",
-    "pubDate": "Tue, 26 May 2026 10:31:44 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
     "link": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-26T09:51:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Skill配布あり】中間記法パターン(MNP)について：どんなツールでも簡単&爆速&安定にAI化する内部実装方法｜なつ (生活者/デザイナー/リサーチャー)",
+    "link": "https://note.com/art_reflection/n/nccfe6cc57073",
+    "pubDate": "2026-05-24T20:45:04.000Z"
   }
 ]
