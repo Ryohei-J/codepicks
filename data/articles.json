@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Code の Dynamic Workflow を試してみた",
+    "link": "https://azukiazusa.dev/blog/claude-code-dynamic-workflow/",
+    "pubDate": "2026-05-29T13:25:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "MIXI創業者の笠原健治が、総額18億円規模の株式を正社員・役員など約1,700名へ無償譲渡 | ニュース| 株式会社MIXI",
     "link": "https://mixi.co.jp/news/2026/0529/52399/",
     "pubDate": "2026-05-29T09:36:16.000Z"
@@ -12,10 +18,22 @@
     "pubDate": "2026-05-29T07:44:23.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "2025 Japan AWS  Jr. Champion としての1年を振り返る",
+    "link": "https://qiita.com/yosuke-suzuki/items/1fa43a4a63be7c684d39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-29T07:25:00.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "テレビを持たない世帯が約1割に増、スマホと保有率が逆転",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2112942.html",
     "pubDate": "2026-05-29T07:06:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド ",
+    "link": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-29T05:50:59.000Z"
   },
   {
     "site": "Qiita",
@@ -30,10 +48,10 @@
     "pubDate": "2026-05-29T04:22:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ディズニーランドなどで外国人に子どもが誘拐されそうになったという都市伝説が復活してるっぽい - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2026/05/29/120000",
-    "pubDate": "2026-05-29T04:10:36.000Z"
+    "site": "Qiita",
+    "title": "2026年にプログラミングを学ぶべきか",
+    "link": "https://qiita.com/TOMOSIA-HieuNT/items/3a4157c1f68ba6d2091d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-29T04:11:12.000Z"
   },
   {
     "site": "Hatena",
@@ -52,12 +70,6 @@
     "title": "AIが変えた\"品質の守り方\"",
     "link": "https://speakerdeck.com/kkakizaki/aigabian-eta-pin-zhi-noshou-rifang",
     "pubDate": "2026-05-29T01:53:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "それで、メモリ不足はいつまで続くの？　なかなか終わらない狂騒のウラ側",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/29/news041.html",
-    "pubDate": "2026-05-29T01:36:29.000Z"
   },
   {
     "site": "Qiita",
@@ -90,12 +102,6 @@
     "pubDate": "Thu, 28 May 2026 13:37:21 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Bedrockのクオーターからrequests-per-minute (RPM)がなくなったらしい",
-    "link": "https://qiita.com/moritalous/items/9c7549920f96980120db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-28T12:26:35.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "MCPでAgentのできることを増やすのをやめたら、Context Boundaryが残った",
     "link": "https://zenn.dev/mofuteq/articles/be562471f96a68",
@@ -118,6 +124,12 @@
     "title": "【図解】IT初心者でもわかる！クリーンアーキテクチャの基本",
     "link": "https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-28T04:04:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コードレビュー文化に、ずっと違和感を感じていた",
+    "link": "https://zenn.dev/yamamoto620/articles/7f022a21906ca8",
+    "pubDate": "2026-05-28T03:54:39.000Z"
   },
   {
     "site": "Zenn",
@@ -145,15 +157,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Copilot Studio 自律型エージェントのクレジット消費を改めて整理してみる - 365 Copilot ライセンスだけでは判断できないケース",
-    "link": "https://qiita.com/Takashi_Masumori/items/353fee8310b0cd36c8f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-28T01:50:08.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術 - Qiita",
     "link": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f",
     "pubDate": "2026-05-28T00:47:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "これがいいとは言わないが。私が普段 Vibe Coding で実際に投入しているPromptを晒す",
+    "link": "https://qiita.com/dahatake/items/ef5cb2ad8d0e27dd976a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-27T06:22:55.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選",
     "link": "https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-27T04:39:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術",
-    "link": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-26T13:39:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
-    "link": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-26T09:51:29.000Z"
   }
 ]
