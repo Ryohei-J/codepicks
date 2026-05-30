@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "Magic: The Gatheringで Linuxを動かす",
+    "link": "https://speakerdeck.com/sbite0138/magic-the-gatheringde-linuxwodong-kasu",
+    "pubDate": "2026-05-30T05:35:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "2025 Japan AWS Jr. Championsとしての活動を振り返る [ポエム]",
+    "link": "https://qiita.com/k_adachi_01/items/138f5b385f6ae1fc2e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-30T02:14:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "映像に「いつ・誰が・どう編集したか」を刻む技術、NHK技研が開発　来歴情報で“AIフェイク”も判別可能",
     "link": "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
     "pubDate": "2026-05-30T01:00:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トルエン出荷7割減、供給網に機能不全",
+    "link": "https://www.logi-today.com/958275",
+    "pubDate": "2026-05-29T23:29:25.000Z"
   },
   {
     "site": "Zenn",
@@ -24,10 +42,34 @@
     "pubDate": "2026-05-29T14:55:13.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "MLエンジニアのための本質から理解するLLM推論 KV cache編",
+    "link": "https://zenn.dev/kaz20/articles/c77f8a41cf2bf5",
+    "pubDate": "Fri, 29 May 2026 13:53:59 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "技術記事、AIに書かせるか、自分で書くか？〜それでも私が自分の手で書く理由〜 #QiitaConference",
+    "link": "https://qiita.com/jnchito/items/e4c2aa255819464fa18d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-29T10:58:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【色変記事】青色コーダーになりました！！！",
+    "link": "https://qiita.com/tau0529/items/69141c0ccae8d9c3737f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-29T10:51:31.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "Claude Code の Dynamic Workflow を試してみた",
-    "link": "https://azukiazusa.dev/blog/claude-code-dynamic-workflow/",
-    "pubDate": "2026-05-29T13:25:54.000Z"
+    "title": "うちわの自然な風を楽しめるUSB接続の「電動うちわ」、サンコーが発売　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2113059.html",
+    "pubDate": "2026-05-29T10:02:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code の Dynamic Workflows を触ってみた: マルチエージェント並列オーケストレーションの概念と体験",
+    "link": "https://zenn.dev/canly/articles/45da96250c7028",
+    "pubDate": "Fri, 29 May 2026 08:19:59 GMT"
   },
   {
     "site": "Qiita",
@@ -64,18 +106,6 @@
     "title": "グーグルはインターネットを破壊しようとしている…新しい検索機能はまるでAIによる「管理組合」に制御された世界のようだ | Business Insider Japan",
     "link": "https://www.businessinsider.jp/article/2605-google-new-ai-search-will-ruin-internet-web/",
     "pubDate": "2026-05-29T03:11:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows PCの『セキュアブート』証明書が2026年6月に期限切れ、更新状況の確認を",
-    "link": "https://news.mynavi.jp/techplus/article/20260529-4510597/",
-    "pubDate": "2026-05-29T03:05:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本メーカー製、でも中身は……カメラなど最新6製品を分解",
-    "link": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news008.html",
-    "pubDate": "2026-05-29T02:48:05.000Z"
   },
   {
     "site": "Zenn",
@@ -126,6 +156,12 @@
     "pubDate": "2026-05-28T12:43:37.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "誰も使わない機能を、誰も消せない理由",
+    "link": "https://zenn.dev/acntechjp/articles/729a0be6c11f58",
+    "pubDate": "Thu, 28 May 2026 09:03:35 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "AI時代の私の技術インプットとアウトプット術",
     "link": "https://speakerdeck.com/tonkotsuboy_com/aishi-dai-nosi-noji-shu-inpututotoautopututoshu",
@@ -138,45 +174,9 @@
     "pubDate": "Thu, 28 May 2026 08:19:28 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【Laravel 13】Laravel AI SDK を試してみた",
-    "link": "https://zenn.dev/sdb_blog/articles/dded156f2106d3",
-    "pubDate": "Thu, 28 May 2026 08:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "この春、Word を開ける OSS を Rust + WebAssembly でフルスクラッチで作り始めた話",
-    "link": "https://zenn.dev/ryujiyasuko/articles/8a464ab4382a66",
-    "pubDate": "Thu, 28 May 2026 05:49:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "スペック文書を「読みたくなるHTML」に変換するClaude Codeスキルを作った話（スキル本文付き）",
-    "link": "https://zenn.dev/spacemarket/articles/6c4992227d0b0d",
-    "pubDate": "Thu, 28 May 2026 05:35:47 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【図解】IT初心者でもわかる！クリーンアーキテクチャの基本",
     "link": "https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-28T04:04:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "これがいいとは言わないが。私が普段 Vibe Coding で実際に投入しているPromptを晒す",
-    "link": "https://qiita.com/dahatake/items/ef5cb2ad8d0e27dd976a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T06:22:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」",
-    "link": "https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T05:52:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選",
-    "link": "https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-27T04:39:16.000Z"
   }
 ]
