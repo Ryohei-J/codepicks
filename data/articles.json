@@ -1,21 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "映像に「いつ・誰が・どう編集したか」を刻む技術、NHK技研が開発　来歴情報で“AIフェイク”も判別可能",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
+    "pubDate": "2026-05-30T01:00:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Ollama(Qwen3-VL)×Playwrightで作る完全無料のWeb調査エージェント",
+    "link": "https://zenn.dev/lluminai_tech/articles/358bee9674ed4e",
+    "pubDate": "2026-05-29T21:03:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自動運転アーキテクチャの一つの提案/Tri-Modal BEV VLA Planner",
+    "link": "https://zenn.dev/tatsuyai713/books/53b0b03395e35f",
+    "pubDate": "Fri, 29 May 2026 16:11:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Dynamic Workflows 入門：公式情報から整理する仕組みと注意点",
+    "link": "https://zenn.dev/arufian/articles/c1389f2941de90",
+    "pubDate": "2026-05-29T14:55:13.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Code の Dynamic Workflow を試してみた",
     "link": "https://azukiazusa.dev/blog/claude-code-dynamic-workflow/",
     "pubDate": "2026-05-29T13:25:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MIXI創業者の笠原健治が、総額18億円規模の株式を正社員・役員など約1,700名へ無償譲渡 | ニュース| 株式会社MIXI",
-    "link": "https://mixi.co.jp/news/2026/0529/52399/",
-    "pubDate": "2026-05-29T09:36:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ローマ字のままAIに投げる」文字入力の仕方が便利で目から鱗…やってみたという人の意見も含めて参考になる 「この発想はなかった」",
-    "link": "https://togetter.com/li/2702866",
-    "pubDate": "2026-05-29T07:44:23.000Z"
   },
   {
     "site": "Qiita",
@@ -24,10 +36,10 @@
     "pubDate": "2026-05-29T07:25:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "テレビを持たない世帯が約1割に増、スマホと保有率が逆転",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2112942.html",
-    "pubDate": "2026-05-29T07:06:41.000Z"
+    "site": "Zenn",
+    "title": "Web 標準動向 2026年5月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202605",
+    "pubDate": "Fri, 29 May 2026 06:54:42 GMT"
   },
   {
     "site": "Qiita",
@@ -42,12 +54,6 @@
     "pubDate": "2026-05-29T05:26:44.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "論理削除をやめて状態をテーブルで分けるDB設計",
-    "link": "https://zenn.dev/mstn_/articles/af99d216639b30",
-    "pubDate": "2026-05-29T04:22:42.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "2026年にプログラミングを学ぶべきか",
     "link": "https://qiita.com/TOMOSIA-HieuNT/items/3a4157c1f68ba6d2091d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -55,9 +61,21 @@
   },
   {
     "site": "Hatena",
-    "title": "電源タップは3～5年で交換を、パナソニック公式アカウントで呼びかけ",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2112794.html",
-    "pubDate": "2026-05-29T03:11:54.000Z"
+    "title": "グーグルはインターネットを破壊しようとしている…新しい検索機能はまるでAIによる「管理組合」に制御された世界のようだ | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2605-google-new-ai-search-will-ruin-internet-web/",
+    "pubDate": "2026-05-29T03:11:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows PCの『セキュアブート』証明書が2026年6月に期限切れ、更新状況の確認を",
+    "link": "https://news.mynavi.jp/techplus/article/20260529-4510597/",
+    "pubDate": "2026-05-29T03:05:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本メーカー製、でも中身は……カメラなど最新6製品を分解",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news008.html",
+    "pubDate": "2026-05-29T02:48:05.000Z"
   },
   {
     "site": "Zenn",
@@ -66,16 +84,22 @@
     "pubDate": "Fri, 29 May 2026 02:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIが変えた\"品質の守り方\"",
-    "link": "https://speakerdeck.com/kkakizaki/aigabian-eta-pin-zhi-noshou-rifang",
-    "pubDate": "2026-05-29T01:53:07.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "“育つ”ナレッジ基盤「LLM Wiki」とは？RAGとの違いをイラスト付きで整理してみた",
     "link": "https://qiita.com/shinnosuke_takami/items/86307593829ac5e70852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-29T01:33:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "身元特定コストの暴落で、AIはデジタル世界の「匿名性」に終止符を打つ | 問題は技術ではなく経済だ",
+    "link": "https://courrier.jp/news/archives/447110/",
+    "pubDate": "2026-05-29T00:41:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LiteLLMをやめて自作Goバイナリに置き換えたら一気に軽くなりました - 「実践 AI エージェント開発」を実装してみた",
+    "link": "https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary",
+    "pubDate": "Thu, 28 May 2026 22:02:24 GMT"
   },
   {
     "site": "Qiita",
@@ -91,27 +115,39 @@
   },
   {
     "site": "Zenn",
-    "title": "htmxがめっちゃいい！JavaScriptを書かずにモダンなWebアプリを作る革命",
-    "link": "https://zenn.dev/yamitake/articles/htmx-is-awesome",
-    "pubDate": "2026-05-28T15:23:38.000Z"
+    "title": "楽しかったコーディングエージェントサブスク時代の終わり",
+    "link": "https://zenn.dev/tkithrta/articles/0378bc53599fb3",
+    "pubDate": "Thu, 28 May 2026 15:05:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Agents！機能が多い！でもここだけ抑えたら便利に使える！",
-    "link": "https://zenn.dev/nana/articles/3fd7e9dffeb831",
-    "pubDate": "Thu, 28 May 2026 13:37:21 GMT"
+    "site": "Hatena",
+    "title": "日立が全グループのパソコン17万台にレノボ採用、運用もアウトソース",
+    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03246/",
+    "pubDate": "2026-05-28T12:43:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "MCPでAgentのできることを増やすのをやめたら、Context Boundaryが残った",
-    "link": "https://zenn.dev/mofuteq/articles/be562471f96a68",
-    "pubDate": "Thu, 28 May 2026 12:05:51 GMT"
+    "site": "Hatena",
+    "title": "AI時代の私の技術インプットとアウトプット術",
+    "link": "https://speakerdeck.com/tonkotsuboy_com/aishi-dai-nosi-noji-shu-inpututotoautopututoshu",
+    "pubDate": "2026-05-28T08:55:17.000Z"
   },
   {
     "site": "Zenn",
     "title": "データ分析基盤はまず動くものを作れ",
     "link": "https://zenn.dev/grahamian/articles/003_data_platform_build_small_first",
     "pubDate": "Thu, 28 May 2026 08:19:28 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Laravel 13】Laravel AI SDK を試してみた",
+    "link": "https://zenn.dev/sdb_blog/articles/dded156f2106d3",
+    "pubDate": "Thu, 28 May 2026 08:00:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "この春、Word を開ける OSS を Rust + WebAssembly でフルスクラッチで作り始めた話",
+    "link": "https://zenn.dev/ryujiyasuko/articles/8a464ab4382a66",
+    "pubDate": "Thu, 28 May 2026 05:49:38 GMT"
   },
   {
     "site": "Zenn",
@@ -124,42 +160,6 @@
     "title": "【図解】IT初心者でもわかる！クリーンアーキテクチャの基本",
     "link": "https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-28T04:04:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードレビュー文化に、ずっと違和感を感じていた",
-    "link": "https://zenn.dev/yamamoto620/articles/7f022a21906ca8",
-    "pubDate": "2026-05-28T03:54:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "論理削除をやめて状態をテーブルで分けるDB設計",
-    "link": "https://zenn.dev/mstn_/articles/af99d216639b30",
-    "pubDate": "Thu, 28 May 2026 03:02:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "思想と仕様を分けて要件定義する",
-    "link": "https://zenn.dev/rehabforjapan/articles/requirements-engineering",
-    "pubDate": "Thu, 28 May 2026 03:00:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codexを使い始めて長時間稼働させるまで",
-    "link": "https://zenn.dev/genda_jp/articles/b7fe56ce2fc60f",
-    "pubDate": "Thu, 28 May 2026 03:00:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "お前達にも教えよう。SnowflakeのAgent Sharingがすごくすごいことを。",
-    "link": "https://zenn.dev/truestar/articles/72183e3b2e619c",
-    "pubDate": "Thu, 28 May 2026 02:30:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術 - Qiita",
-    "link": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f",
-    "pubDate": "2026-05-28T00:47:00.000Z"
   },
   {
     "site": "Qiita",
