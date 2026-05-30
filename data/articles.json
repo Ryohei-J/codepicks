@@ -1,21 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "AI 時代のソフトウェア設計の学び方",
+    "link": "https://speakerdeck.com/masuda220/ai-shi-dai-nosohutoueashe-ji-noxue-bifang",
+    "pubDate": "2026-05-30T10:11:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "仕事以外の鬱の要因について - Blue-Periodさんの日記",
+    "link": "https://blue-period.hatenadiary.org/entry/2026/05/30/180818",
+    "pubDate": "2026-05-30T09:12:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Magic: The Gatheringで Linuxを動かす",
     "link": "https://speakerdeck.com/sbite0138/magic-the-gatheringde-linuxwodong-kasu",
     "pubDate": "2026-05-30T05:35:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIを使った効率的な体験改善のための開発フロー",
+    "link": "https://zenn.dev/noppe/articles/2113952a4bf0cc",
+    "pubDate": "Sat, 30 May 2026 03:54:36 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "NVIDIA製Windows向けCPUついに登場か。関連3社が意味深な投稿",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2113133.html",
+    "pubDate": "2026-05-30T03:42:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Palantir の「オントロジー」を Python で再現してみた",
+    "link": "https://zenn.dev/channnnsm/articles/e0be25fadca0df",
+    "pubDate": "2026-05-30T02:25:06.000Z"
   },
   {
     "site": "Qiita",
     "title": "2025 Japan AWS Jr. Championsとしての活動を振り返る [ポエム]",
     "link": "https://qiita.com/k_adachi_01/items/138f5b385f6ae1fc2e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-30T02:14:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "映像に「いつ・誰が・どう編集したか」を刻む技術、NHK技研が開発　来歴情報で“AIフェイク”も判別可能",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
-    "pubDate": "2026-05-30T01:00:02.000Z"
   },
   {
     "site": "Hatena",
@@ -37,12 +61,6 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code Dynamic Workflows 入門：公式情報から整理する仕組みと注意点",
-    "link": "https://zenn.dev/arufian/articles/c1389f2941de90",
-    "pubDate": "2026-05-29T14:55:13.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "MLエンジニアのための本質から理解するLLM推論 KV cache編",
     "link": "https://zenn.dev/kaz20/articles/c77f8a41cf2bf5",
     "pubDate": "Fri, 29 May 2026 13:53:59 GMT"
@@ -58,6 +76,12 @@
     "title": "【色変記事】青色コーダーになりました！！！",
     "link": "https://qiita.com/tau0529/items/69141c0ccae8d9c3737f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-29T10:51:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【AWS Secrets Manager】末尾が \"ハイフン＋6文字\" のシークレット名には気をつけろ！！",
+    "link": "https://zenn.dev/levtech/articles/946b5154085468",
+    "pubDate": "Fri, 29 May 2026 10:29:58 GMT"
   },
   {
     "site": "Hatena",
@@ -102,10 +126,10 @@
     "pubDate": "2026-05-29T04:11:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グーグルはインターネットを破壊しようとしている…新しい検索機能はまるでAIによる「管理組合」に制御された世界のようだ | Business Insider Japan",
-    "link": "https://www.businessinsider.jp/article/2605-google-new-ai-search-will-ruin-internet-web/",
-    "pubDate": "2026-05-29T03:11:09.000Z"
+    "site": "Zenn",
+    "title": "Claudeと一緒に記事を読むようにしたら日々のインプットがはかどっています",
+    "link": "https://zenn.dev/levtech/articles/claude-read-together",
+    "pubDate": "Fri, 29 May 2026 02:45:05 GMT"
   },
   {
     "site": "Zenn",
@@ -118,12 +142,6 @@
     "title": "“育つ”ナレッジ基盤「LLM Wiki」とは？RAGとの違いをイラスト付きで整理してみた",
     "link": "https://qiita.com/shinnosuke_takami/items/86307593829ac5e70852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-29T01:33:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "身元特定コストの暴落で、AIはデジタル世界の「匿名性」に終止符を打つ | 問題は技術ではなく経済だ",
-    "link": "https://courrier.jp/news/archives/447110/",
-    "pubDate": "2026-05-29T00:41:53.000Z"
   },
   {
     "site": "Zenn",
@@ -144,39 +162,21 @@
     "pubDate": "Thu, 28 May 2026 16:08:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "楽しかったコーディングエージェントサブスク時代の終わり",
-    "link": "https://zenn.dev/tkithrta/articles/0378bc53599fb3",
-    "pubDate": "Thu, 28 May 2026 15:05:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "日立が全グループのパソコン17万台にレノボ採用、運用もアウトソース",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03246/",
-    "pubDate": "2026-05-28T12:43:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "誰も使わない機能を、誰も消せない理由",
-    "link": "https://zenn.dev/acntechjp/articles/729a0be6c11f58",
-    "pubDate": "Thu, 28 May 2026 09:03:35 GMT"
-  },
-  {
     "site": "Hatena",
     "title": "AI時代の私の技術インプットとアウトプット術",
     "link": "https://speakerdeck.com/tonkotsuboy_com/aishi-dai-nosi-noji-shu-inpututotoautopututoshu",
     "pubDate": "2026-05-28T08:55:17.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "データ分析基盤はまず動くものを作れ",
-    "link": "https://zenn.dev/grahamian/articles/003_data_platform_build_small_first",
-    "pubDate": "Thu, 28 May 2026 08:19:28 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【図解】IT初心者でもわかる！クリーンアーキテクチャの基本",
     "link": "https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-28T04:04:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜ今「オントロジー」なのか？PalantirとLLMが変えるデータ活用の常識",
+    "link": "https://zenn.dev/channnnsm/articles/035b612ac973ab",
+    "pubDate": "2025-12-30T04:36:38.000Z"
   }
 ]
