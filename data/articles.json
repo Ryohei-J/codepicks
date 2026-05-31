@@ -1,7 +1,19 @@
 [
   {
+    "site": "Hatena",
+    "title": "無料でAI透かしを除去できる「Remove-AI-Watermarks」、画像から可視（Gemini）および不可視（SynthID、C2PA、EXIF）のいずれも削除可能",
+    "link": "https://gigazine.net/news/20260531-remove-ai-watermarks/",
+    "pubDate": "2026-05-31T03:56:17.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "Snowflake / Databricks / Google が挑む仮想グラフ戦略：AIエージェントを支える次世代データ基盤",
+    "title": "構成図を描くだけでAWSの月額コストが分かるツールを作って公開した",
+    "link": "https://zenn.dev/tyumugiko/articles/83b15adf3370fd",
+    "pubDate": "2026-05-31T00:42:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントを支える次世代データ基盤 - Snowflake / Databricks / Google が挑む仮想グラフ戦略",
     "link": "https://zenn.dev/yohei/articles/2026-05-30-vkg-strategy-what",
     "pubDate": "2026-05-30T21:22:21.000Z"
   },
@@ -10,6 +22,24 @@
     "title": "ソフトバンクG、14兆円投じフランスにAIデータセンター　欧州最大規模 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC300E00Q6A530C2000000/",
     "pubDate": "2026-05-30T20:05:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
+    "link": "https://qiita.com/carol0226/items/a78a888ce0c4d2364232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-30T19:35:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "5億ドル請求されないようにOllamaのCloudを使う。",
+    "link": "https://zenn.dev/yumayx/articles/c69ac22ce07bea",
+    "pubDate": "Sat, 30 May 2026 15:01:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "yadm + mise で dotfiles 環境構築を整理する",
+    "link": "https://zenn.dev/vim_jp/articles/2ee400a66228a7",
+    "pubDate": "Sat, 30 May 2026 15:00:38 GMT"
   },
   {
     "site": "Hatena",
@@ -25,15 +55,21 @@
   },
   {
     "site": "Zenn",
-    "title": "全部Terraformで管理してはいけない？「かつての最適解」が生んだ管理の壁と、私たちが引き直した境界線",
-    "link": "https://zenn.dev/jinjer_techblog/articles/5812546fb399e7",
-    "pubDate": "2026-05-30T10:13:33.000Z"
+    "title": "バックエンドエンジニアが Chrome 拡張を作ってウェブストアに公開してみた",
+    "link": "https://zenn.dev/rea9r/articles/485e429906112b",
+    "pubDate": "Sat, 30 May 2026 09:43:19 GMT"
   },
   {
     "site": "Qiita",
     "title": "これを読めば分かるClaude Code 完全攻略ガイド",
     "link": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-30T06:45:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
+    "link": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-30T06:17:48.000Z"
   },
   {
     "site": "Zenn",
@@ -46,6 +82,12 @@
     "title": "テック業界の次の主役は「プロダクトエンジニア」という新たな職種かもしれない | Business Insider Japan",
     "link": "https://www.businessinsider.jp/article/2605-ai-jobs-product-engineers-managers/",
     "pubDate": "2026-05-30T05:43:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法",
+    "link": "https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-30T04:17:32.000Z"
   },
   {
     "site": "Zenn",
@@ -66,22 +108,28 @@
     "pubDate": "2026-05-30T02:14:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "MCP is dead | Quandri Engineering",
-    "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-    "pubDate": "2026-05-30T00:23:07.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Codeで使うモデルを変更してみた検証メモ",
     "link": "https://qiita.com/KNR109/items/aaa3ce165cb4efdabd18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-29T22:15:03.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Markdownの太字は、なぜ日本語の鉤括弧で壊れるのか",
+    "link": "https://qiita.com/comty/items/02973ecea78afb27e641?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-29T21:01:32.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Cursor: GPT 5.5 が優秀でコスパ最強",
     "link": "https://zenn.dev/hidenori3/articles/cba47a06140440",
     "pubDate": "Fri, 29 May 2026 19:25:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカルLLM（Qwen3.6 / Gemma4 / DeepSeek V4 Flash）+ Claude ベンチマーク比較",
+    "link": "https://zenn.dev/keitayamamoto/articles/4380d3f64c8bf1",
+    "pubDate": "Fri, 29 May 2026 16:43:07 GMT"
   },
   {
     "site": "Zenn",
@@ -96,40 +144,10 @@
     "pubDate": "Fri, 29 May 2026 13:53:59 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【色変記事】青色コーダーになりました！！！",
-    "link": "https://qiita.com/tau0529/items/69141c0ccae8d9c3737f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-29T10:51:31.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "【AWS Secrets Manager】末尾が \"ハイフン＋6文字\" のシークレット名には気をつけろ！！",
-    "link": "https://zenn.dev/levtech/articles/946b5154085468",
-    "pubDate": "Fri, 29 May 2026 10:29:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の Dynamic Workflows を触ってみた: マルチエージェント並列オーケストレーションの概念と体験",
-    "link": "https://zenn.dev/canly/articles/45da96250c7028",
-    "pubDate": "Fri, 29 May 2026 08:19:59 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "2025 Japan AWS  Jr. Champion としての1年を振り返る",
-    "link": "https://qiita.com/yosuke-suzuki/items/1fa43a4a63be7c684d39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-29T07:25:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 標準動向 2026年5月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202605",
-    "pubDate": "Fri, 29 May 2026 06:54:42 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "メモリは16GBで大丈夫？ Copilot+ PCを買う時に注意したいこと",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2112692.html",
-    "pubDate": "2026-05-29T05:56:50.000Z"
+    "title": "Claude Codeに株・仮想通貨botを300個作らせて見えてきたこと",
+    "link": "https://zenn.dev/kobao/articles/64a72dc0167ca3",
+    "pubDate": "Fri, 29 May 2026 12:28:43 GMT"
   },
   {
     "site": "Qiita",
@@ -144,39 +162,21 @@
     "pubDate": "2026-05-29T05:26:44.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claudeと一緒に記事を読むようにしたら日々のインプットがはかどっています",
-    "link": "https://zenn.dev/levtech/articles/claude-read-together",
-    "pubDate": "Fri, 29 May 2026 02:45:05 GMT"
+    "site": "Qiita",
+    "title": "“育つ”ナレッジ基盤「LLM Wiki」とは？RAGとの違いをイラスト付きで整理してみた - Qiita",
+    "link": "https://qiita.com/shinnosuke_takami/items/86307593829ac5e70852",
+    "pubDate": "2026-05-29T03:10:22.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "フロンティアAI による脅威変化を踏まえたFinatextグループとしての対応方針",
-    "link": "https://zenn.dev/finatext/articles/policy-for-frontier-ai",
-    "pubDate": "Fri, 29 May 2026 02:30:05 GMT"
+    "site": "Hatena",
+    "title": "Obsidianで構築したエンジニアの「第二の脳」― 個人ナレッジベース構築のすべて",
+    "link": "https://ascii.jp/elem/000/004/404/4404638/",
+    "pubDate": "2026-05-29T01:44:15.000Z"
   },
   {
     "site": "Qiita",
     "title": "“育つ”ナレッジ基盤「LLM Wiki」とは？RAGとの違いをイラスト付きで整理してみた",
     "link": "https://qiita.com/shinnosuke_takami/items/86307593829ac5e70852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-29T01:33:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
-    "link": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-28T19:38:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【図解】IT初心者でもわかる！クリーンアーキテクチャの基本",
-    "link": "https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-28T04:04:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "draw.ioのMCPサーバーのかっこいいUXを模倣しようとしたらなかなか複雑だった件 - Qiita",
-    "link": "https://qiita.com/moritalous/items/88ed3c88e72eb7b8e870",
-    "pubDate": "2026-04-12T07:52:54.000Z"
   }
 ]
