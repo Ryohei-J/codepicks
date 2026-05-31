@@ -1,39 +1,51 @@
 [
   {
-    "site": "Hatena",
-    "title": "ふつうのFeature Flag実践入門",
-    "link": "https://speakerdeck.com/irof/feature-flags-in-practice",
-    "pubDate": "2026-05-30T14:30:46.000Z"
+    "site": "Zenn",
+    "title": "Snowflake / Databricks / Google が挑む仮想グラフ戦略：AIエージェントを支える次世代データ基盤",
+    "link": "https://zenn.dev/yohei/articles/2026-05-30-vkg-strategy-what",
+    "pubDate": "2026-05-30T21:22:21.000Z"
   },
   {
     "site": "Hatena",
-    "title": "数年前にひたすら鍵を見つけ開けていくタイプの脱出ゲームをしたんだけど、暗証番号に身に覚えがあり、次々と4桁の数字を入力したら、全解除してスタッフを驚かせた話",
-    "link": "https://togetter.com/li/2703353",
-    "pubDate": "2026-05-30T13:07:10.000Z"
+    "title": "ソフトバンクG、14兆円投じフランスにAIデータセンター　欧州最大規模 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC300E00Q6A530C2000000/",
+    "pubDate": "2026-05-30T20:05:39.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AI 時代のソフトウェア設計の学び方",
-    "link": "https://speakerdeck.com/masuda220/ai-shi-dai-nosohutoueashe-ji-noxue-bifang",
-    "pubDate": "2026-05-30T10:11:19.000Z"
+    "title": "自分用の電子書籍管理サーバー「Bookwall (仮)」を作った - joker1007’s diary",
+    "link": "https://joker1007.hatenablog.com/entry/2026/05/30/232155",
+    "pubDate": "2026-05-30T14:39:19.000Z"
   },
   {
     "site": "Hatena",
-    "title": "仕事以外の鬱の要因について - Blue-Periodさんの日記",
-    "link": "https://blue-period.hatenadiary.org/entry/2026/05/30/180818",
-    "pubDate": "2026-05-30T09:12:03.000Z"
+    "title": "この本気なデバイス、超惹かれる！ ロボっぽい見た目で、実戦的。しかもドイツ製 (1/5)",
+    "link": "https://ascii.jp/elem/000/004/404/4404569/",
+    "pubDate": "2026-05-30T14:12:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "全部Terraformで管理してはいけない？「かつての最適解」が生んだ管理の壁と、私たちが引き直した境界線",
+    "link": "https://zenn.dev/jinjer_techblog/articles/5812546fb399e7",
+    "pubDate": "2026-05-30T10:13:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "これを読めば分かるClaude Code 完全攻略ガイド",
+    "link": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-30T06:45:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MLエンジニアのための本質から理解するLLM推論: LLM Inference Benchmarking",
+    "link": "https://zenn.dev/kaz20/articles/8034f0587633f3",
+    "pubDate": "Sat, 30 May 2026 05:57:21 GMT"
   },
   {
     "site": "Hatena",
-    "title": "生成AI時代にこそ効くGo | Why Go Works in the Age of Generative AI",
-    "link": "https://speakerdeck.com/mom0tomo/sheng-cheng-aishi-dai-nikosoxiao-kugo-why-go-works-in-the-age-of-generative-ai",
-    "pubDate": "2026-05-30T08:04:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Magic: The Gatheringで Linuxを動かす",
-    "link": "https://speakerdeck.com/sbite0138/magic-the-gatheringde-linuxwodong-kasu",
-    "pubDate": "2026-05-30T05:35:10.000Z"
+    "title": "テック業界の次の主役は「プロダクトエンジニア」という新たな職種かもしれない | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2605-ai-jobs-product-engineers-managers/",
+    "pubDate": "2026-05-30T05:43:11.000Z"
   },
   {
     "site": "Zenn",
@@ -43,21 +55,33 @@
   },
   {
     "site": "Hatena",
-    "title": "NVIDIA製Windows向けCPUついに登場か。関連3社が意味深な投稿",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2113133.html",
-    "pubDate": "2026-05-30T03:42:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Palantir の「オントロジー」を Python で再現してみた",
-    "link": "https://zenn.dev/channnnsm/articles/e0be25fadca0df",
-    "pubDate": "2026-05-30T02:25:06.000Z"
+    "title": "不変条件と整合性境界—ビジネスが決める設計判断と実現パターン / Invariants and Consistency Boundaries",
+    "link": "https://speakerdeck.com/nrslib/invariants-and-consistency-boundaries",
+    "pubDate": "2026-05-30T02:29:51.000Z"
   },
   {
     "site": "Qiita",
     "title": "2025 Japan AWS Jr. Championsとしての活動を振り返る [ポエム]",
     "link": "https://qiita.com/k_adachi_01/items/138f5b385f6ae1fc2e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-30T02:14:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MCP is dead | Quandri Engineering",
+    "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+    "pubDate": "2026-05-30T00:23:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeで使うモデルを変更してみた検証メモ",
+    "link": "https://qiita.com/KNR109/items/aaa3ce165cb4efdabd18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-29T22:15:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cursor: GPT 5.5 が優秀でコスパ最強",
+    "link": "https://zenn.dev/hidenori3/articles/cba47a06140440",
+    "pubDate": "Fri, 29 May 2026 19:25:40 GMT"
   },
   {
     "site": "Zenn",
@@ -70,18 +94,6 @@
     "title": "MLエンジニアのための本質から理解するLLM推論 KV cache編",
     "link": "https://zenn.dev/kaz20/articles/c77f8a41cf2bf5",
     "pubDate": "Fri, 29 May 2026 13:53:59 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11の残念仕様「タスクバー固定」ついに見直し　“品質回帰”は本当か？",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news021.html",
-    "pubDate": "2026-05-29T13:22:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "技術記事、AIに書かせるか、自分で書くか？〜それでも私が自分の手で書く理由〜 #QiitaConference",
-    "link": "https://qiita.com/jnchito/items/e4c2aa255819464fa18d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-29T10:58:10.000Z"
   },
   {
     "site": "Qiita",
@@ -114,6 +126,12 @@
     "pubDate": "Fri, 29 May 2026 06:54:42 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "メモリは16GBで大丈夫？ Copilot+ PCを買う時に注意したいこと",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2112692.html",
+    "pubDate": "2026-05-29T05:56:50.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド ",
     "link": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -124,12 +142,6 @@
     "title": "1割の“信頼される”エンジニアが実行している『問題の出し方』",
     "link": "https://qiita.com/hitomin_poke/items/48b1eca9c48f05839692?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-29T05:26:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2026年にプログラミングを学ぶべきか",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/3a4157c1f68ba6d2091d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-29T04:11:12.000Z"
   },
   {
     "site": "Zenn",
@@ -150,22 +162,10 @@
     "pubDate": "2026-05-29T01:33:43.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "LiteLLMをやめて自作Goバイナリに置き換えたら一気に軽くなりました - 「実践 AI エージェント開発」を実装してみた",
-    "link": "https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary",
-    "pubDate": "Thu, 28 May 2026 22:02:24 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
     "link": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-28T19:38:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Karpathy氏の200行GPT「microGPT」を1行1行読み解く",
-    "link": "https://zenn.dev/karaage0703/articles/1e7106add712d1",
-    "pubDate": "Thu, 28 May 2026 16:08:17 GMT"
   },
   {
     "site": "Qiita",
@@ -174,9 +174,9 @@
     "pubDate": "2026-05-28T04:04:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "なぜ今「オントロジー」なのか？PalantirとLLMが変えるデータ活用の常識",
-    "link": "https://zenn.dev/channnnsm/articles/035b612ac973ab",
-    "pubDate": "2025-12-30T04:36:38.000Z"
+    "site": "Qiita",
+    "title": "draw.ioのMCPサーバーのかっこいいUXを模倣しようとしたらなかなか複雑だった件 - Qiita",
+    "link": "https://qiita.com/moritalous/items/88ed3c88e72eb7b8e870",
+    "pubDate": "2026-04-12T07:52:54.000Z"
   }
 ]
