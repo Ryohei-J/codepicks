@@ -1,6 +1,54 @@
 [
   {
     "site": "Hatena",
+    "title": "マクドナルドのセルフレジは使いにくい？　じゃあ、最高に使いやすいセルフレジはどれだ",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news062.html",
+    "pubDate": "2026-06-01T08:32:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "牛めしの松屋、百貨店に初の常設店を「松屋銀座」に　2千円の高級牛めし",
+    "link": "https://www.watch.impress.co.jp/docs/news/2113342.html",
+    "pubDate": "2026-06-01T06:23:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「CPU？メモリ？SSD？」PCが重い時、何を疑えばいいのか整理してみる",
+    "link": "https://qiita.com/prum_hitomi/items/8703b051c3b8519996d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-01T03:59:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Office 2019 for Mac」が“詰み”。7月13日から編集不可に",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2113294.html",
+    "pubDate": "2026-06-01T03:18:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code Action と Copilot レビューで GitHub Actions の失敗を自己修復するパイプラインを作った話",
+    "link": "https://qiita.com/jqit-yukiono/items/04b86ec7601e055c6fe8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-01T02:36:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIになりたい・背景をぼかして実在しない漢字のTシャツを着ればAI生成のような写真になるはず",
+    "link": "https://dailyportalz.jp/kiji/i-want-to-be-an-ai",
+    "pubDate": "2026-06-01T02:32:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gemini → ジェミナイはまあいいとして",
+    "link": "https://anond.hatelabo.jp/20260601100218",
+    "pubDate": "2026-06-01T01:44:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "599ドルのMacBook Neoキラー「XPS 13」がDellから登場！1kgで高スペック",
+    "link": "https://pc.watch.impress.co.jp/docs/news/event/2113104.html",
+    "pubDate": "2026-06-01T01:13:55.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIを使える人と使えない人で、とんでもない差が出ると実感した理由 (1/5)",
     "link": "https://ascii.jp/elem/000/004/406/4406627/",
     "pubDate": "2026-06-01T00:50:44.000Z"
@@ -12,34 +60,40 @@
     "pubDate": "2026-06-01T00:25:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part7 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2026/06/01/070000",
-    "pubDate": "2026-06-01T00:06:40.000Z"
+    "site": "Zenn",
+    "title": "[AI] 2026年6月時点でBestな開発環境を本気で考えた",
+    "link": "https://zenn.dev/d0ne1s/articles/9422407b652a48",
+    "pubDate": "Mon, 01 Jun 2026 00:00:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "脱・クラウドAIで情報漏洩を防ぐ。AMD Ryzen/Radeonで構築する「月額0円」のAIサーバー [Sponsored]",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/special/2109524.html",
-    "pubDate": "2026-05-31T23:58:00.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeのために「臭うコード検出器」を開発し、Hooksに設定してみた話",
+    "link": "https://zenn.dev/meijin/articles/coding-agent-with-syntax-tree-analyze",
+    "pubDate": "Sun, 31 May 2026 23:29:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Amazon S3 Tablesでつくるアプリケーションログ分析基盤 - CloudWatch Logsからの移行によるコスト最適化 - - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/01/log-storage-with-iceberg",
-    "pubDate": "2026-05-31T23:29:49.000Z"
+    "site": "Zenn",
+    "title": "Snowflake Adaptive Warehouse を実ワークロードで試した結果をまとめる",
+    "link": "https://zenn.dev/toru_hiyama/articles/7b62df1758da4d",
+    "pubDate": "Sun, 31 May 2026 15:29:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "私はAI動画に逃げたのかもしれない｜ゾナゾー｜AI動画クリエイター",
-    "link": "https://note.com/zonazoo/n/n1bd4a23caadc",
-    "pubDate": "2026-05-31T22:58:56.000Z"
+    "site": "Zenn",
+    "title": "テスト計画・分析・設計・実装・実行・レポートまでを通しで自動実行するAI開発&公開",
+    "link": "https://zenn.dev/jam0824/articles/c84a2ef393ee70",
+    "pubDate": "Sun, 31 May 2026 15:25:22 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "マジで便利な折りたたみキーボード、安い、軽い、なのにタッチパッド搭載？本当に？ (1/5)",
-    "link": "https://ascii.jp/elem/000/004/404/4404595/",
-    "pubDate": "2026-05-31T15:33:34.000Z"
+    "site": "Qiita",
+    "title": "2025 Japan AWS Jr. Championsの活動を振り返って",
+    "link": "https://qiita.com/hoshi7_n/items/abe368a2bfd5183aa15a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-31T14:19:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自作データベース入門の入門：好きなプログラミング言語でSQLiteライクなDBを作ろう！",
+    "link": "https://zenn.dev/kaseken/articles/49c12113238ec4",
+    "pubDate": "Sun, 31 May 2026 07:56:33 GMT"
   },
   {
     "site": "Zenn",
@@ -49,33 +103,21 @@
   },
   {
     "site": "Zenn",
-    "title": "TypeScript を用いた LWC 開発が完全にサポートされるようになったので試してみた",
-    "link": "https://zenn.dev/skussun1/articles/d4998ba152bafc",
-    "pubDate": "Sun, 31 May 2026 03:19:48 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "若い女の子の漫画を全ておじさんに変換するAIがほしい",
-    "link": "https://anond.hatelabo.jp/20260531120158",
-    "pubDate": "2026-05-31T03:04:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "VR上でも“触感”を再現　光で硬さを自在に変えられる新素材、「NHK技研公開」で展示中",
-    "link": "https://www.itmedia.co.jp/news/articles/2605/30/news029.html",
-    "pubDate": "2026-05-31T02:36:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアを目指す学生こそ、テックカンファレンスに行こう！",
-    "link": "https://qiita.com/hayama17/items/8a51a15abec750be6d89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-31T01:53:55.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "IT民俗学：なぜExcel方眼紙は滅びないのか",
     "link": "https://zenn.dev/banboobloom/articles/2026053100001",
     "pubDate": "Sun, 31 May 2026 01:00:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法 - Qiita",
+    "link": "https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782",
+    "pubDate": "2026-05-31T00:49:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Google Apps Scriptを使ってClickUpのタスク情報をGoogle SheetsのWBSに自動反映してみた",
+    "link": "https://qiita.com/karina-yzrh/items/97e86d4910207058c03c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-31T00:41:14.000Z"
   },
   {
     "site": "Zenn",
@@ -91,39 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "AWS WAFのログ分析をAgent Skillにまとめた話",
-    "link": "https://zenn.dev/yamadatt/articles/20260531-aws-waf-log-analysis-claude-skill",
-    "pubDate": "Sat, 30 May 2026 22:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
-    "link": "https://qiita.com/carol0226/items/a78a888ce0c4d2364232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-30T19:35:58.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "会議で「言いにくいこと」を、AI に代わりに言ってもらう AI ファシリテーター \"Helmsman\"",
     "link": "https://zenn.dev/jagaimo_poteto/articles/aa2aca6b25e3d5",
     "pubDate": "Sat, 30 May 2026 15:24:02 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "5億ドル請求されないようにOllamaのCloudを使う。",
-    "link": "https://zenn.dev/yumayx/articles/c69ac22ce07bea",
-    "pubDate": "Sat, 30 May 2026 15:01:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "yadm + mise で dotfiles 環境構築を整理する",
-    "link": "https://zenn.dev/vim_jp/articles/2ee400a66228a7",
-    "pubDate": "Sat, 30 May 2026 15:00:38 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Qiitaを書いてたら、名刺となって可能性が広がり始めた話",
-    "link": "https://qiita.com/kimuchi_a/items/537057575c7e5bcbe7c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-30T14:32:48.000Z"
+    "title": "就活中のジュニアエンジニアが面接で痛感した「力不足」の話",
+    "link": "https://qiita.com/Yamada040/items/a8230f78084612e4e9e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-30T15:01:35.000Z"
   },
   {
     "site": "Zenn",
@@ -144,12 +162,6 @@
     "pubDate": "2026-05-30T06:17:48.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "CDKをやめてTerraformに移行しようか迷っている話 vol.1",
-    "link": "https://zenn.dev/rrrraaaaa6/articles/5a8a540a864d83",
-    "pubDate": "Sat, 30 May 2026 06:01:15 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法",
     "link": "https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -157,26 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "Markdownの太字は、なぜ日本語の鉤括弧で壊れるのか",
+    "link": "https://qiita.com/comty/items/02973ecea78afb27e641?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-29T21:01:32.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "私の最強のMac開発環境 2026: Nixとmiseで育てる🐱",
     "link": "https://qiita.com/tyPhoon/items/f1855ff508f4268df5b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-29T12:11:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド ",
-    "link": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-29T05:50:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "1割の“信頼される”エンジニアが実行している『問題の出し方』",
-    "link": "https://qiita.com/hitomin_poke/items/48b1eca9c48f05839692?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-29T05:26:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "“育つ”ナレッジ基盤「LLM Wiki」とは？RAGとの違いをイラスト付きで整理してみた",
-    "link": "https://qiita.com/shinnosuke_takami/items/86307593829ac5e70852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-29T01:33:43.000Z"
   }
 ]
