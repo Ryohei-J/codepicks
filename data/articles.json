@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "Poisoning Claude Code: One GitHub Issue to Break the Supply Chain",
+    "link": "https://flatt.tech/research/posts/poisoning-claude-code-one-github-issue-to-break-the-supply-chain/",
+    "pubDate": "2026-06-01T14:25:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NVIDIAが新型プロセッサ「RTX Spark」でWindows PCに“再挑戦”　搭載PCは2026年秋に登場",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2606/01/news125.html",
+    "pubDate": "2026-06-01T12:51:41.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Code チャンピオン キット | Anthropicヘルプセンター",
     "link": "https://support.claude.com/ja/articles/14555399-claude-code-%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3-%E3%82%AD%E3%83%83%E3%83%88",
     "pubDate": "2026-06-01T10:52:09.000Z"
@@ -12,10 +24,10 @@
     "pubDate": "2026-06-01T08:32:08.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AI Ready なデータ基盤とは何か - Qiita",
-    "link": "https://qiita.com/ayumito/items/746fc38b5675869b96a0",
-    "pubDate": "2026-06-01T06:25:09.000Z"
+    "site": "Hatena",
+    "title": "AIになりたい・背景をぼかして実在しない漢字のTシャツを着ればAI生成のような写真になるはず",
+    "link": "https://dailyportalz.jp/kiji/i-want-to-be-an-ai/page/2",
+    "pubDate": "2026-06-01T07:52:39.000Z"
   },
   {
     "site": "Hatena",
@@ -30,40 +42,22 @@
     "pubDate": "2026-06-01T06:23:22.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "AIデータセンター投資は既に破綻しているのか",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news014.html",
+    "pubDate": "2026-06-01T04:28:56.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "「CPU？メモリ？SSD？」PCが重い時、何を疑えばいいのか整理してみる",
     "link": "https://qiita.com/prum_hitomi/items/8703b051c3b8519996d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-01T03:59:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アマゾンも直面する「AI使いすぎ」問題　社内で横行した無駄なトークン消費の原因は",
-    "link": "https://japan.cnet.com/article/35248268/",
-    "pubDate": "2026-06-01T03:27:35.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code Action と Copilot レビューで GitHub Actions の失敗を自己修復するパイプラインを作った話",
     "link": "https://qiita.com/jqit-yukiono/items/04b86ec7601e055c6fe8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-01T02:36:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIになりたい・背景をぼかして実在しない漢字のTシャツを着ればAI生成のような写真になるはず",
-    "link": "https://dailyportalz.jp/kiji/i-want-to-be-an-ai",
-    "pubDate": "2026-06-01T02:32:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIを使える人と使えない人で、とんでもない差が出ると実感した理由 (1/5)",
-    "link": "https://ascii.jp/elem/000/004/406/4406627/",
-    "pubDate": "2026-06-01T00:50:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "相互増幅 ― AIに考えを明け渡さないための較正 - Nothing ventured, nothing gained.",
-    "link": "https://takoratta.hatenablog.com/entry/2026/06/01/084614",
-    "pubDate": "2026-06-01T00:25:43.000Z"
   },
   {
     "site": "Zenn",
@@ -94,6 +88,12 @@
     "title": "2025 Japan AWS Jr. Championsの活動を振り返って",
     "link": "https://qiita.com/hoshi7_n/items/abe368a2bfd5183aa15a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-31T14:19:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIエージェントを支える次世代データ基盤 - 物理グラフDBを独自開発するための変更管理と安定運用戦略",
+    "link": "https://qiita.com/yohei1126/items/2359c10d6c37be7f4fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-31T14:08:58.000Z"
   },
   {
     "site": "Zenn",
@@ -168,15 +168,15 @@
     "pubDate": "2026-05-30T04:17:32.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "ベンキュー、集中力を切らさないプログラミング専用27型モニター",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2113051.html",
+    "pubDate": "2026-05-30T00:52:43.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Markdownの太字は、なぜ日本語の鉤括弧で壊れるのか",
     "link": "https://qiita.com/comty/items/02973ecea78afb27e641?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-29T21:01:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "私の最強のMac開発環境 2026: Nixとmiseで育てる🐱",
-    "link": "https://qiita.com/tyPhoon/items/f1855ff508f4268df5b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-29T12:11:50.000Z"
   }
 ]
