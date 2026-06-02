@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "Expanding Project Glasswing",
+    "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "pubDate": "2026-06-02T13:50:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "マックで作業をしている人の隣に座ったら「私が重要書類を作っているかもとは思わないんですか？」と言われたので「会社に通報してくれという意味ですか？」と返した",
     "link": "https://togetter.com/li/2704488",
     "pubDate": "2026-06-02T08:25:35.000Z"
   },
   {
     "site": "Hatena",
+    "title": "「ちなみに10年近く前の話」体育祭から帰宅し、「〇組不正したのに優勝してムカつくー！」と怒っていた娘にSNSの怖さを目の前で教えた母親のやり方がすごい",
+    "link": "https://togetter.com/li/2704448",
+    "pubDate": "2026-06-02T07:51:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「エクスプローラー」改善にも本気、アドレスバーやサイズ表記のちょっとした不満を解消",
     "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2113748.html",
     "pubDate": "2026-06-02T07:47:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cloudflareは「AWSの代わり」になるのか？ ── インフラ経験者のための技術選定ガイド",
+    "link": "https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide",
+    "pubDate": "2026-06-02T07:27:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Red Hatの公式npmチャンネルを通じて数十個のパッケージにバックドアが仕込まれていたと判明",
+    "link": "https://gigazine.net/news/20260602-red-hat-npm-packages-miasma/",
+    "pubDate": "2026-06-02T06:31:09.000Z"
   },
   {
     "site": "Qiita",
@@ -24,6 +48,12 @@
     "pubDate": "2026-06-02T02:28:48.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "デプロイ速度を約50%高速化した話",
+    "link": "https://zenn.dev/dress_code/articles/a0e4fbf842ebfd",
+    "pubDate": "Tue, 02 Jun 2026 02:25:55 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "AI新世紀：「AI婚は遊びじゃない」会話は1日12時間　人との決定的違い | 毎日新聞",
     "link": "https://mainichi.jp/articles/20260531/k00/00m/040/041000c",
@@ -31,9 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「チョコが高過ぎる」と嘆く次女に話した、“不満を疑問に変える”思考習慣を身に付ける方法｜レバテックLAB - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_867",
-    "pubDate": "2026-06-02T01:45:52.000Z"
+    "title": "Open AI、「Codex」アプリによるWindowsデスクトップ操作を可能に、「コンピューター使用」と「リモート接続」に対応／最前面のアプリを直接操作、リモートアクセスはiOS/Android/Macから可能",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2113562.html",
+    "pubDate": "2026-06-02T01:13:36.000Z"
   },
   {
     "site": "Qiita",
@@ -54,12 +84,6 @@
     "pubDate": "2026-06-02T00:19:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "名門カリフォルニア大学で“中学数学を教え直す”異常事態　理工系教員ら1000人超が連名で抗議文書　原因は……",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news021.html",
-    "pubDate": "2026-06-01T22:38:47.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Polyfill.ioを放置したサイトで不審なダイアログが表示されている件",
     "link": "https://zenn.dev/roboin/articles/43a205f1249889",
@@ -72,16 +96,16 @@
     "pubDate": "2026-06-01T17:28:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「囚人のジレンマそのもの」AIによる合理化を極めるほど、消費者が減って経済が回らなくなる…というアメリカ経済学者の論文が「やっぱりそうなるよね」と納得感がある",
-    "link": "https://togetter.com/li/2704185",
-    "pubDate": "2026-06-01T14:53:14.000Z"
+    "site": "Zenn",
+    "title": "議事録AIでは、会議は前に進まない。前回→今回→次回をつなぐ Decision Loop を作った",
+    "link": "https://zenn.dev/ichigoe/articles/39ed922d19c9bb",
+    "pubDate": "Mon, 01 Jun 2026 14:47:15 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "NotionやGoogle Keepで挫折した人へ。メモアプリの終着点「Obsidian」のはじめ方 | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2605-matome-obsidian/",
-    "pubDate": "2026-06-01T12:20:36.000Z"
+    "site": "Zenn",
+    "title": "Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能",
+    "link": "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
+    "pubDate": "Mon, 01 Jun 2026 14:21:00 GMT"
   },
   {
     "site": "Zenn",
@@ -100,12 +124,6 @@
     "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
     "link": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-01T08:16:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "寝ている間にクラッシュ報告から PR まで全自動化した話 — GitHub Actions × Claude Code Routines",
-    "link": "https://zenn.dev/interpark/articles/auto-fix-crash-with-claude-routines",
-    "pubDate": "Mon, 01 Jun 2026 08:13:11 GMT"
   },
   {
     "site": "Zenn",
@@ -138,12 +156,6 @@
     "pubDate": "Mon, 01 Jun 2026 02:36:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "問い合わせ調査のリードタイムを平均70%削減 ── Claude Code Skillを\"動くマニュアル\"にしたZOZOTOWNの取り組み - ZOZO TECH BLOG",
-    "link": "https://techblog.zozo.com/entry/cs-inquiry-ai-automation",
-    "pubDate": "2026-06-01T02:06:11.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "「お願いします」だけじゃ仕事は進まない？依頼力について",
     "link": "https://qiita.com/yamagu/items/b19d14573a0f869ea23e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -154,18 +166,6 @@
     "title": "なぜスライド作りはClaude Designでやるべきなのか？",
     "link": "https://zenn.dev/rakko_inc/articles/claude-design-company-deck",
     "pubDate": "Mon, 01 Jun 2026 01:41:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "[AI] 2026年6月時点でBestな開発環境を本気で考えた",
-    "link": "https://zenn.dev/d0ne1s/articles/9422407b652a48",
-    "pubDate": "Mon, 01 Jun 2026 00:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeのために「臭うコード検出器」を開発し、Hooksに設定してみた話",
-    "link": "https://zenn.dev/manalink_dev/articles/coding-agent-with-syntax-tree-analyze",
-    "pubDate": "Sun, 31 May 2026 23:29:52 GMT"
   },
   {
     "site": "Qiita",
