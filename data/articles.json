@@ -1,21 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "10年前のXeonサーバーで最新AIが快適動作、GPUなしでも実用速度を実現した手法が解説される",
+    "link": "https://gigazine.net/news/20260602-gemma-4-on-2016-xeon/",
+    "pubDate": "2026-06-02T13:51:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Expanding Project Glasswing",
     "link": "https://www.anthropic.com/news/expanding-project-glasswing",
     "pubDate": "2026-06-02T13:50:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS Lambda Web AdaptorがGAしたので触ってみる",
+    "link": "https://zenn.dev/kameoncloud/articles/361bb220f1c7f2",
+    "pubDate": "2026-06-02T13:16:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "レノボ、全機種5G対応の「ThinkPad P」などワークステーション7機種",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2113890.html",
+    "pubDate": "2026-06-02T11:06:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWSでOpenAIモデルを使おう！（Bedrock APIとStrands編）",
+    "link": "https://qiita.com/minorun365/items/f83b3cf2df904ead28dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-02T09:10:36.000Z"
   },
   {
     "site": "Hatena",
     "title": "マックで作業をしている人の隣に座ったら「私が重要書類を作っているかもとは思わないんですか？」と言われたので「会社に通報してくれという意味ですか？」と返した",
     "link": "https://togetter.com/li/2704488",
     "pubDate": "2026-06-02T08:25:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ちなみに10年近く前の話」体育祭から帰宅し、「〇組不正したのに優勝してムカつくー！」と怒っていた娘にSNSの怖さを目の前で教えた母親のやり方がすごい",
-    "link": "https://togetter.com/li/2704448",
-    "pubDate": "2026-06-02T07:51:58.000Z"
   },
   {
     "site": "Hatena",
@@ -30,18 +48,6 @@
     "pubDate": "2026-06-02T07:27:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Red Hatの公式npmチャンネルを通じて数十個のパッケージにバックドアが仕込まれていたと判明",
-    "link": "https://gigazine.net/news/20260602-red-hat-npm-packages-miasma/",
-    "pubDate": "2026-06-02T06:31:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者向け】シナリオテストとは？ユーザー視点でバグを減らす考え方",
-    "link": "https://qiita.com/sewiihidekikudo/items/fbc9d0d8b7d602c7fb20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-02T03:00:10.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "「コードを書く人」から「課題を解決するエンジニア」になるためには",
     "link": "https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -54,10 +60,10 @@
     "pubDate": "Tue, 02 Jun 2026 02:25:55 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI新世紀：「AI婚は遊びじゃない」会話は1日12時間　人との決定的違い | 毎日新聞",
-    "link": "https://mainichi.jp/articles/20260531/k00/00m/040/041000c",
-    "pubDate": "2026-06-02T02:07:38.000Z"
+    "site": "Qiita",
+    "title": "テスト技法を学んだのにテストが書けないのはなぜか",
+    "link": "https://qiita.com/Syahu_Writer/items/d674457f88336b785881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-02T01:30:01.000Z"
   },
   {
     "site": "Hatena",
@@ -76,12 +82,6 @@
     "title": "ブコメをブックマークしたら粘着された",
     "link": "https://anond.hatelabo.jp/20260602094937",
     "pubDate": "2026-06-02T00:57:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIトークンの9割はゴミだった",
-    "link": "https://joho-todai.com/ai-tokens-ninety-percent-garbage/",
-    "pubDate": "2026-06-02T00:19:11.000Z"
   },
   {
     "site": "Zenn",
@@ -121,6 +121,12 @@
   },
   {
     "site": "Qiita",
+    "title": "Linux コマンド中級編 — find / grep・awk・sed / ジョブ管理",
+    "link": "https://qiita.com/K_TAKETO/items/5674ef42d594efa68b34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-01T08:21:24.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
     "link": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-01T08:16:46.000Z"
@@ -156,12 +162,6 @@
     "pubDate": "Mon, 01 Jun 2026 02:36:06 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「お願いします」だけじゃ仕事は進まない？依頼力について",
-    "link": "https://qiita.com/yamagu/items/b19d14573a0f869ea23e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-01T02:03:36.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "なぜスライド作りはClaude Designでやるべきなのか？",
     "link": "https://zenn.dev/rakko_inc/articles/claude-design-company-deck",
@@ -169,14 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "2025 Japan AWS Jr. Championsの活動を振り返って",
-    "link": "https://qiita.com/hoshi7_n/items/abe368a2bfd5183aa15a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-31T14:19:33.000Z"
+    "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する",
+    "link": "https://qiita.com/yushibats/items/d4e3e0186f4d8eb83874?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-05-31T23:31:32.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "就活中のジュニアエンジニアが面接で痛感した「力不足」の話",
-    "link": "https://qiita.com/Yamada040/items/a8230f78084612e4e9e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-30T15:01:35.000Z"
+    "site": "Zenn",
+    "title": "1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った",
+    "link": "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
+    "pubDate": "2026-05-08T07:12:06.000Z"
   }
 ]
