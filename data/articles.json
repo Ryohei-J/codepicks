@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "「使い物にならなくなった」──6月1日からの「GitHub Copilot」新料金、SNSで不満続出　他ツールへの移行表明も",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news124.html",
+    "pubDate": "2026-06-03T08:46:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『IT業界長いけど、募集要項のある部分に気をつけていたら攻撃的な人がいる職場に当たってない』 警戒する理由込みで共感",
+    "link": "https://togetter.com/li/2704904",
+    "pubDate": "2026-06-03T08:17:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "CAMPFIRE「従業員がGitHub認証情報を個人開発サーバに誤アップロード」　不正アクセスの原因公表",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news114.html",
+    "pubDate": "2026-06-03T07:02:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【環境構築不要】誰かのためにアプリを作ってみよう #1",
+    "link": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-03T04:15:28.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "デザイン書の老舗・MdNが消滅へ　インプレスに吸収合併",
     "link": "https://www.itmedia.co.jp/news/articles/2606/03/news081.html",
     "pubDate": "2026-06-03T02:34:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜファミマはセブン銀行ATMに切り替えるのか",
+    "link": "https://www.watch.impress.co.jp/docs/news/2113912.html",
+    "pubDate": "2026-06-03T00:58:44.000Z"
   },
   {
     "site": "Hatena",
@@ -19,21 +49,27 @@
   },
   {
     "site": "Hatena",
-    "title": "海上保安庁、マインクラフト用「海底地形ワールドデータ」無償公開。深海底まで擬似探検できて実に楽しい【地図ウォッチ】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/chizu/2112600.html",
-    "pubDate": "2026-06-02T22:09:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Window」一般公開",
+    "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開",
     "link": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
     "pubDate": "2026-06-02T20:51:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表",
-    "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
-    "pubDate": "2026-06-02T17:54:43.000Z"
+    "site": "Qiita",
+    "title": "Nginxでレートリミットを設定する",
+    "link": "https://qiita.com/okawa-yzrh/items/9fc58bb56967ebb997f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-02T15:08:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Declarative Partial UpdatesをストリーミングSSRに使う",
+    "link": "https://zenn.dev/uhyo/articles/declarative-partial-updates-react",
+    "pubDate": "Tue, 02 Jun 2026 13:58:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "薄明かりの読書のためのshadcn/ui テーマをつくりました",
+    "link": "https://zenn.dev/shoota/articles/e4595637a190f4",
+    "pubDate": "Tue, 02 Jun 2026 13:43:08 GMT"
   },
   {
     "site": "Qiita",
@@ -42,10 +78,22 @@
     "pubDate": "2026-06-02T09:10:36.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Goの型安全性で実現する、複数プロダクトを横断する権限管理",
+    "link": "https://zenn.dev/layerx/articles/18ebc16b172861",
+    "pubDate": "Tue, 02 Jun 2026 08:00:07 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「AIを使え」から「あまり使うな」へ、米企業が半年で生成AIの利用制限に動き始めた理由 【生成AI事件簿】トークン消費の急増でROIを問い直す経営層、日本企業の社員がいま備えるべき3つのこと | JBpress (ジェイビープレス)",
     "link": "https://jbpress.ismedia.jp/articles/-/95142",
     "pubDate": "2026-06-02T06:31:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "クリーンアーキテクチャを3行で説明してみる",
+    "link": "https://zenn.dev/innovation/articles/d3b5c1975e3c02",
+    "pubDate": "Tue, 02 Jun 2026 04:52:35 GMT"
   },
   {
     "site": "Qiita",
@@ -72,10 +120,10 @@
     "pubDate": "2026-06-02T01:30:01.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "チーム開発の認識ズレを入口で潰す。OpenSpec に「AI が先に質問する」工程を足して比べてみた",
-    "link": "https://qiita.com/resound/items/b742f4afe06c2446ad6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-02T01:04:59.000Z"
+    "site": "Zenn",
+    "title": "リファクタリング提案が来るたびに判断できない理由",
+    "link": "https://zenn.dev/shinagawa_web/articles/refactor-judgment-sre-frame",
+    "pubDate": "Mon, 01 Jun 2026 23:08:37 GMT"
   },
   {
     "site": "Zenn",
@@ -97,39 +145,21 @@
   },
   {
     "site": "Zenn",
-    "title": "whoisが無ェ、RDAPは何者だ？",
-    "link": "https://zenn.dev/digeon/articles/fb563703bcfc96",
-    "pubDate": "Mon, 01 Jun 2026 10:54:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "PdMの脳みそをClaude Codeに移植した仕組み",
-    "link": "https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code",
-    "pubDate": "Mon, 01 Jun 2026 09:00:05 GMT"
+    "title": "Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能",
+    "link": "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
+    "pubDate": "Mon, 01 Jun 2026 14:21:00 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Linux コマンド中級編 — find / grep・awk・sed / ジョブ管理",
-    "link": "https://qiita.com/K_TAKETO/items/5674ef42d594efa68b34?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-01T08:21:24.000Z"
+    "title": "【脆弱性】脆弱性が発見されてから攻撃されるまでの平均時間が5年前の1/188になってる",
+    "link": "https://qiita.com/rana_kualu/items/d9254d21aab9bbd25a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-01T11:09:12.000Z"
   },
   {
     "site": "Qiita",
     "title": "ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた",
     "link": "https://qiita.com/miruky/items/b9d9dd83f33b4c837d63?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-01T08:16:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "大規模なデータ基盤にdbtを導入して1から作り直すことでBigQueryのスキャン量を90%以上削減した話",
-    "link": "https://zenn.dev/macbee_planet/articles/85c8ef4aeb063b",
-    "pubDate": "Mon, 01 Jun 2026 07:47:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "負荷試験をやったことがない4年目エンジニアがk6を使って実施するまで",
-    "link": "https://zenn.dev/atamaplus/articles/2026-loadtest",
-    "pubDate": "Mon, 01 Jun 2026 06:24:02 GMT"
   },
   {
     "site": "Qiita",
@@ -145,38 +175,8 @@
   },
   {
     "site": "Zenn",
-    "title": "【入社エントリ】長年勤めたメーカーを辞めて松尾研究所に入社した話",
-    "link": "https://zenn.dev/mkj/articles/46168f1b5f73e2",
-    "pubDate": "Mon, 01 Jun 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Antigravity CLI × Chrome DevTools for AgentsでAIデバッグ開発体験（for LIFF）",
-    "link": "https://zenn.dev/n0bisuke/books/antigravitycli-chrome-dev-line",
-    "pubDate": "Mon, 01 Jun 2026 02:36:06 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する",
-    "link": "https://qiita.com/yushibats/items/d4e3e0186f4d8eb83874?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-05-31T23:31:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "新規プロダクトを高速で生み出すハーネスエンジニアリング",
-    "link": "https://speakerdeck.com/seanchas116/xin-gui-purodakutowo-gao-su-desheng-michu-su-hanesuenziniaringu",
-    "pubDate": "2026-05-22T19:42:40.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った",
     "link": "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
     "pubDate": "2026-05-08T07:12:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Let's EncryptでHTTPSを終端させたいだけならNginxよりCaddyを使うと楽だった件 - Qiita",
-    "link": "https://qiita.com/ssc-ksaitou/items/ee0cda84dcf358a2b5eb",
-    "pubDate": "2022-07-07T07:07:55.000Z"
   }
 ]
