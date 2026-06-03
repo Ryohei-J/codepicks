@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "VimでJavaを実行する方法 2026年最新版 - なるはやで いい感じの 動作確認",
+    "link": "https://kamichidu.hatenablog.com/entry/2026/06/03/001719",
+    "pubDate": "2026-06-03T11:47:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マジックナンバーとデータ抽象 - kawasima",
+    "link": "https://scrapbox.io/kawasima/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%8A%BD%E8%B1%A1",
+    "pubDate": "2026-06-03T10:40:19.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「使い物にならなくなった」──6月1日からの「GitHub Copilot」新料金、SNSで不満続出　他ツールへの移行表明も",
     "link": "https://www.itmedia.co.jp/news/articles/2606/03/news124.html",
     "pubDate": "2026-06-03T08:46:24.000Z"
@@ -10,6 +22,12 @@
     "title": "『IT業界長いけど、募集要項のある部分に気をつけていたら攻撃的な人がいる職場に当たってない』 警戒する理由込みで共感",
     "link": "https://togetter.com/li/2704904",
     "pubDate": "2026-06-03T08:17:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今話題の自律型エージェント「Hermes Agent」のデスクトップアプリが登場／Windows/Mac/Linux対応",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2114149.html",
+    "pubDate": "2026-06-03T07:42:19.000Z"
   },
   {
     "site": "Hatena",
@@ -25,33 +43,27 @@
   },
   {
     "site": "Hatena",
+    "title": "国立美術館5館、パブリックドメイン作品の画像データ1万4063点の無償ダウンロード提供を開始【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2114004.html",
+    "pubDate": "2026-06-03T03:23:49.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "デザイン書の老舗・MdNが消滅へ　インプレスに吸収合併",
     "link": "https://www.itmedia.co.jp/news/articles/2606/03/news081.html",
     "pubDate": "2026-06-03T02:34:43.000Z"
   },
   {
     "site": "Hatena",
-    "title": "なぜファミマはセブン銀行ATMに切り替えるのか",
-    "link": "https://www.watch.impress.co.jp/docs/news/2113912.html",
-    "pubDate": "2026-06-03T00:58:44.000Z"
+    "title": "Microsoft、AIエージェント統合の「Intelligent Terminal 0.1」を試験公開／「Windows Terminal」のフォーク、エラー自動検出やエージェント管理機能を搭載",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2113917.html",
+    "pubDate": "2026-06-03T02:02:04.000Z"
   },
   {
     "site": "Hatena",
-    "title": "もし、今からAWSのエミュレーターを選ぶならどれにする？ - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/03/aws-emulator-selection",
-    "pubDate": "2026-06-02T23:34:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「電源タップは3～5年で交換推奨」は短すぎ？　推奨する日本配線システム工業会に聞いてみた",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news054.html",
-    "pubDate": "2026-06-02T22:53:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開",
-    "link": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
-    "pubDate": "2026-06-02T20:51:31.000Z"
+    "title": "基本からしっかり学ぶフロントエンドテスト入門 | 技術評論社",
+    "link": "https://gihyo.jp/book/2026/978-4-297-15704-3",
+    "pubDate": "2026-06-03T01:12:34.000Z"
   },
   {
     "site": "Qiita",
@@ -72,6 +84,12 @@
     "pubDate": "Tue, 02 Jun 2026 13:43:08 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeのセッション履歴をfzf検索 & previewする技術（ccsession）",
+    "link": "https://zenn.dev/soramarjr/articles/4eb891ab20498e",
+    "pubDate": "Tue, 02 Jun 2026 10:03:27 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AWSでOpenAIモデルを使おう！（Bedrock APIとStrands編）",
     "link": "https://qiita.com/minorun365/items/f83b3cf2df904ead28dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -82,12 +100,6 @@
     "title": "Goの型安全性で実現する、複数プロダクトを横断する権限管理",
     "link": "https://zenn.dev/layerx/articles/18ebc16b172861",
     "pubDate": "Tue, 02 Jun 2026 08:00:07 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIを使え」から「あまり使うな」へ、米企業が半年で生成AIの利用制限に動き始めた理由 【生成AI事件簿】トークン消費の急増でROIを問い直す経営層、日本企業の社員がいま備えるべき3つのこと | JBpress (ジェイビープレス)",
-    "link": "https://jbpress.ismedia.jp/articles/-/95142",
-    "pubDate": "2026-06-02T06:31:28.000Z"
   },
   {
     "site": "Zenn",
@@ -121,6 +133,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Zennの記事一覧からAI関連の記事をAIの力によって滅ぼし、そして私も消えよう",
+    "link": "https://zenn.dev/sora_kumo/articles/zenn-ai-filter",
+    "pubDate": "Tue, 02 Jun 2026 00:04:48 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "リファクタリング提案が来るたびに判断できない理由",
     "link": "https://zenn.dev/shinagawa_web/articles/refactor-judgment-sre-frame",
     "pubDate": "Mon, 01 Jun 2026 23:08:37 GMT"
@@ -136,18 +154,6 @@
     "title": "Polyfill.ioを放置したサイトで不審なダイアログが表示されている件",
     "link": "https://qiita.com/Robot-Inventor/items/2f32a66f087a3bf7eaa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-01T17:28:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflareは「AWSの代わり」になるのか？ ── インフラ経験者のための技術選定ガイド",
-    "link": "https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide",
-    "pubDate": "Mon, 01 Jun 2026 14:33:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能",
-    "link": "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
-    "pubDate": "Mon, 01 Jun 2026 14:21:00 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "「CPU？メモリ？SSD？」PCが重い時、何を疑えばいいのか整理してみる",
     "link": "https://qiita.com/prum_hitomi/items/8703b051c3b8519996d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-01T03:59:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った",
-    "link": "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
-    "pubDate": "2026-05-08T07:12:06.000Z"
   }
 ]
