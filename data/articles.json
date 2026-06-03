@@ -1,27 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "10年前のXeonサーバーで最新AIが快適動作、GPUなしでも実用速度を実現した手法が解説される",
-    "link": "https://gigazine.net/news/20260602-gemma-4-on-2016-xeon/",
-    "pubDate": "2026-06-02T13:51:01.000Z"
+    "title": "デザイン書の老舗・MdNが消滅へ　インプレスに吸収合併",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news081.html",
+    "pubDate": "2026-06-03T02:34:43.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Expanding Project Glasswing",
-    "link": "https://www.anthropic.com/news/expanding-project-glasswing",
-    "pubDate": "2026-06-02T13:50:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS Lambda Web AdaptorがGAしたので触ってみる",
-    "link": "https://zenn.dev/kameoncloud/articles/361bb220f1c7f2",
-    "pubDate": "2026-06-02T13:16:52.000Z"
+    "title": "もし、今からAWSのエミュレーターを選ぶならどれにする？ - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/03/aws-emulator-selection",
+    "pubDate": "2026-06-02T23:34:55.000Z"
   },
   {
     "site": "Hatena",
-    "title": "レノボ、全機種5G対応の「ThinkPad P」などワークステーション7機種",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2113890.html",
-    "pubDate": "2026-06-02T11:06:01.000Z"
+    "title": "「電源タップは3～5年で交換推奨」は短すぎ？　推奨する日本配線システム工業会に聞いてみた",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news054.html",
+    "pubDate": "2026-06-02T22:53:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "海上保安庁、マインクラフト用「海底地形ワールドデータ」無償公開。深海底まで擬似探検できて実に楽しい【地図ウォッチ】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/chizu/2112600.html",
+    "pubDate": "2026-06-02T22:09:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Window」一般公開",
+    "link": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
+    "pubDate": "2026-06-02T20:51:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表",
+    "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
+    "pubDate": "2026-06-02T17:54:43.000Z"
   },
   {
     "site": "Qiita",
@@ -31,21 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "マックで作業をしている人の隣に座ったら「私が重要書類を作っているかもとは思わないんですか？」と言われたので「会社に通報してくれという意味ですか？」と返した",
-    "link": "https://togetter.com/li/2704488",
-    "pubDate": "2026-06-02T08:25:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「エクスプローラー」改善にも本気、アドレスバーやサイズ表記のちょっとした不満を解消",
-    "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2113748.html",
-    "pubDate": "2026-06-02T07:47:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflareは「AWSの代わり」になるのか？ ── インフラ経験者のための技術選定ガイド",
-    "link": "https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide",
-    "pubDate": "2026-06-02T07:27:49.000Z"
+    "title": "「AIを使え」から「あまり使うな」へ、米企業が半年で生成AIの利用制限に動き始めた理由 【生成AI事件簿】トークン消費の急増でROIを問い直す経営層、日本企業の社員がいま備えるべき3つのこと | JBpress (ジェイビープレス)",
+    "link": "https://jbpress.ismedia.jp/articles/-/95142",
+    "pubDate": "2026-06-02T06:31:28.000Z"
   },
   {
     "site": "Qiita",
@@ -60,28 +60,22 @@
     "pubDate": "Tue, 02 Jun 2026 02:25:55 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "AWS Lambda Web AdaptorがGAしたので触ってみる",
+    "link": "https://zenn.dev/kameoncloud/articles/361bb220f1c7f2",
+    "pubDate": "Tue, 02 Jun 2026 01:53:36 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "テスト技法を学んだのにテストが書けないのはなぜか",
     "link": "https://qiita.com/Syahu_Writer/items/d674457f88336b785881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-02T01:30:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Open AI、「Codex」アプリによるWindowsデスクトップ操作を可能に、「コンピューター使用」と「リモート接続」に対応／最前面のアプリを直接操作、リモートアクセスはiOS/Android/Macから可能",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2113562.html",
-    "pubDate": "2026-06-02T01:13:36.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "チーム開発の認識ズレを入口で潰す。OpenSpec に「AI が先に質問する」工程を足して比べてみた",
     "link": "https://qiita.com/resound/items/b742f4afe06c2446ad6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-02T01:04:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ブコメをブックマークしたら粘着された",
-    "link": "https://anond.hatelabo.jp/20260602094937",
-    "pubDate": "2026-06-02T00:57:16.000Z"
   },
   {
     "site": "Zenn",
@@ -97,15 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "議事録AIでは、会議は前に進まない。前回→今回→次回をつなぐ Decision Loop を作った",
-    "link": "https://zenn.dev/ichigoe/articles/39ed922d19c9bb",
-    "pubDate": "Mon, 01 Jun 2026 14:47:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能",
-    "link": "https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval",
-    "pubDate": "Mon, 01 Jun 2026 14:21:00 GMT"
+    "title": "Cloudflareは「AWSの代わり」になるのか？ ── インフラ経験者のための技術選定ガイド",
+    "link": "https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide",
+    "pubDate": "Mon, 01 Jun 2026 14:33:01 GMT"
   },
   {
     "site": "Zenn",
@@ -138,6 +126,12 @@
     "pubDate": "Mon, 01 Jun 2026 07:47:45 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "負荷試験をやったことがない4年目エンジニアがk6を使って実施するまで",
+    "link": "https://zenn.dev/atamaplus/articles/2026-loadtest",
+    "pubDate": "Mon, 01 Jun 2026 06:24:02 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "エンジニアの「コミュ力」って、たぶんそういう意味じゃない",
     "link": "https://qiita.com/ALeX_EXVS/items/f6f07d88478dd571f970?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -162,21 +156,27 @@
     "pubDate": "Mon, 01 Jun 2026 02:36:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "なぜスライド作りはClaude Designでやるべきなのか？",
-    "link": "https://zenn.dev/rakko_inc/articles/claude-design-company-deck",
-    "pubDate": "Mon, 01 Jun 2026 01:41:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する",
     "link": "https://qiita.com/yushibats/items/d4e3e0186f4d8eb83874?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-05-31T23:31:32.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "新規プロダクトを高速で生み出すハーネスエンジニアリング",
+    "link": "https://speakerdeck.com/seanchas116/xin-gui-purodakutowo-gao-su-desheng-michu-su-hanesuenziniaringu",
+    "pubDate": "2026-05-22T19:42:40.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った",
     "link": "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
     "pubDate": "2026-05-08T07:12:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Let's EncryptでHTTPSを終端させたいだけならNginxよりCaddyを使うと楽だった件 - Qiita",
+    "link": "https://qiita.com/ssc-ksaitou/items/ee0cda84dcf358a2b5eb",
+    "pubDate": "2022-07-07T07:07:55.000Z"
   }
 ]
