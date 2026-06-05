@@ -1,21 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "あるプログラマの若かりし頃の奇行集 - 覚書",
+    "link": "https://satoru-takeuchi.hatenablog.com/entry/2026/06/05/221440",
+    "pubDate": "2026-06-05T13:17:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "PayPalマフィアは、実際に何をやったのか - Nothing ventured, nothing gained.",
     "link": "https://takoratta.hatenablog.com/entry/2026/06/05/181559",
     "pubDate": "2026-06-05T10:52:20.000Z"
   },
   {
     "site": "Hatena",
-    "title": "パスワードマネージャーのDashlaneがサイバー攻撃を受け暗号化パスワード保管庫を盗まれた経緯を説明",
-    "link": "https://gigazine.net/news/20260605-dashlane-how-attackers-managed-encrypted-password/",
-    "pubDate": "2026-06-05T07:08:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "カード番号総当たり「クレジットマスター攻撃」に注意、利用履歴の確認を　Kyash",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/05/news106.html",
-    "pubDate": "2026-06-05T06:45:47.000Z"
+    "title": "LM Studioに「外出先からスマホで自宅の高性能PCに接続してローカルAIを実行できる機能」が追加される",
+    "link": "https://gigazine.net/news/20260605-lm-studio-lm-link-locally/",
+    "pubDate": "2026-06-05T07:13:45.000Z"
   },
   {
     "site": "Hatena",
@@ -28,6 +28,12 @@
     "title": "WSL 2、Windows ファイルシステムアクセスが大幅改善へ | ソフトアンテナ",
     "link": "https://softantenna.com/blog/wsl2-virtiofs-speedup/",
     "pubDate": "2026-06-05T06:18:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Mythosでセキュリティの考え方が変わった！今こそコンテナを使おう！ - 赤帽エンジニアブログ",
+    "link": "https://rheb.hatenablog.com/entry/2026/06/05/105749",
+    "pubDate": "2026-06-05T06:13:14.000Z"
   },
   {
     "site": "Zenn",
@@ -48,28 +54,22 @@
     "pubDate": "2026-06-05T04:09:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「もうたくさんだ」ブラウザーベンダー各社、Edgeをゴリ押しするMicrosoftに異例の申し入れ【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2114710.html",
-    "pubDate": "2026-06-05T03:05:22.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "非エンジニアでもAIで小さなシステム修正はできる。Claude Code・Cursor時代の依頼術",
     "link": "https://qiita.com/yamadagenki/items/bc59607d940a9e87c189?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-05T00:50:46.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "【AI待ち、終了】Claude Codeの「AI部下」で勝手に仕事が完了…反則級「神ワザ」10選",
+    "link": "https://www.sbbit.jp/article/cont1/185480",
+    "pubDate": "2026-06-04T23:47:29.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Microsoft 365 Copilot の ROI、どう考える？",
     "link": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-04T23:43:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「紙のマンガ vs. 電子マンガ」、読後の脳活動に差　東大などがfMRIで実証　学術誌に研究発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/05/news035.html",
-    "pubDate": "2026-06-04T23:34:44.000Z"
   },
   {
     "site": "Qiita",
@@ -82,6 +82,12 @@
     "title": "PyTorchで理解する自動運転マルチカメラ統合の全体像",
     "link": "https://zenn.dev/riita10069/articles/auto-e2e-multi-view-fusion-explained",
     "pubDate": "Thu, 04 Jun 2026 18:47:57 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【速報】日本、米AI事業に800億円拠出",
+    "link": "https://www.47news.jp/14416705.html",
+    "pubDate": "2026-06-04T18:46:38.000Z"
   },
   {
     "site": "Qiita",
@@ -130,12 +136,6 @@
     "title": "Amazon S3 Filesがでました！",
     "link": "https://zenn.dev/kameoncloud/articles/784f5d85db531b",
     "pubDate": "Thu, 04 Jun 2026 05:45:17 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "業務のAI化からAI中心の組織設計へ — 2,000年続いた組織図の常識が書き換わる｜Katsuki Noda",
-    "link": "https://note.com/ktknd/n/n362c35f32346",
-    "pubDate": "2026-06-04T05:37:33.000Z"
   },
   {
     "site": "Zenn",
