@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "PayPalマフィアは、実際に何をやったのか - Nothing ventured, nothing gained.",
+    "link": "https://takoratta.hatenablog.com/entry/2026/06/05/181559",
+    "pubDate": "2026-06-05T10:52:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "パスワードマネージャーのDashlaneがサイバー攻撃を受け暗号化パスワード保管庫を盗まれた経緯を説明",
+    "link": "https://gigazine.net/news/20260605-dashlane-how-attackers-managed-encrypted-password/",
+    "pubDate": "2026-06-05T07:08:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "カード番号総当たり「クレジットマスター攻撃」に注意、利用履歴の確認を　Kyash",
     "link": "https://www.itmedia.co.jp/news/articles/2606/05/news106.html",
     "pubDate": "2026-06-05T06:45:47.000Z"
@@ -10,6 +22,18 @@
     "title": "とあるシステム障害が発生した時、チーム全員が会議に招集され「今どうなってて、いつ復旧するんだ！？」と言われたが何も進んでいなかった",
     "link": "https://togetter.com/li/2705710",
     "pubDate": "2026-06-05T06:28:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "WSL 2、Windows ファイルシステムアクセスが大幅改善へ | ソフトアンテナ",
+    "link": "https://softantenna.com/blog/wsl2-virtiofs-speedup/",
+    "pubDate": "2026-06-05T06:18:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "TanStack Query を完全にゼロから実装して理解する",
+    "link": "https://zenn.dev/ficilcom/articles/ff423b306afe18",
+    "pubDate": "Fri, 05 Jun 2026 05:41:21 GMT"
   },
   {
     "site": "Qiita",
@@ -48,22 +72,16 @@
     "pubDate": "2026-06-04T23:34:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「無駄な事務作業」はなぜ増え続けるのか？　“善意”からタスクが生まれるメカニズム、米MITが論文発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/05/news032.html",
-    "pubDate": "2026-06-04T23:03:01.000Z"
+    "site": "Qiita",
+    "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた - Qiita",
+    "link": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e",
+    "pubDate": "2026-06-04T22:14:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【西川和久の不定期コラム】 話題のAIエージェント「OpenClaw」入門。Dockerを使い安全にセットアップ",
-    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2114574.html",
-    "pubDate": "2026-06-04T22:18:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "SF作家のテッド・チャンが「AIは意識を持っていると考えるべきではない」と語る",
-    "link": "https://gigazine.net/news/20260605-ai-conscious/",
-    "pubDate": "2026-06-04T22:17:49.000Z"
+    "site": "Zenn",
+    "title": "PyTorchで理解する自動運転マルチカメラ統合の全体像",
+    "link": "https://zenn.dev/riita10069/articles/auto-e2e-multi-view-fusion-explained",
+    "pubDate": "Thu, 04 Jun 2026 18:47:57 GMT"
   },
   {
     "site": "Qiita",
@@ -72,10 +90,10 @@
     "pubDate": "2026-06-04T15:00:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "名刺サイズに、Raspberry Piの頭脳。「アイツ」も動く手のひらLinuxマシン「M5Stack CardputerZero」を出資募集開始 - すまほん!!",
-    "link": "https://smhn.info/202606-cardputerzero-m5stack-raspberry-pi-cm0-59-dollar",
-    "pubDate": "2026-06-04T12:31:46.000Z"
+    "site": "Zenn",
+    "title": "エージェントに「脆弱性を探して」はなぜ失敗するのか──Cloudflareが50+リポで示したharnessの正体",
+    "link": "https://zenn.dev/aiwatch_jp/articles/agent-vuln-hunting-harness-glasswing",
+    "pubDate": "Thu, 04 Jun 2026 13:29:28 GMT"
   },
   {
     "site": "Zenn",
@@ -142,24 +160,6 @@
     "title": "Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた",
     "link": "https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-03T21:56:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "C++23入門 基本編",
-    "link": "https://zenn.dev/yaito3014/books/introduction-to-cpp23-basic",
-    "pubDate": "Wed, 03 Jun 2026 17:59:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RTX 4080でローカルLLM 7モデルを実測したら「16GB VRAMの壁」が見えた",
-    "link": "https://zenn.dev/seeda_yuto/articles/ollama-vs-vllm-rtx4080-benchmark",
-    "pubDate": "Wed, 03 Jun 2026 10:55:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "何でもスプシで管理してしまう病を、Snowflakeで業務アプリを作って解決したい",
-    "link": "https://zenn.dev/fusic/articles/9708e889197133",
-    "pubDate": "Wed, 03 Jun 2026 09:47:50 GMT"
   },
   {
     "site": "Qiita",
