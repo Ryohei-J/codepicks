@@ -1,5 +1,11 @@
 [
   {
+    "site": "Zenn",
+    "title": "なぜ、AIは頭が良い人が使うとより頭が良くなるのに、頭が悪い人が使うとより頭が悪くなるのか？",
+    "link": "https://zenn.dev/pdfractal/articles/373be6a9de3e8c",
+    "pubDate": "2026-06-06T13:39:59.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "アンソロピック社、開発減速提言　AI自律進化、「制御不能」前に",
     "link": "https://www.47news.jp/14427079.html",
@@ -10,6 +16,12 @@
     "title": "無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」",
     "link": "https://gigazine.net/news/20260606-llm-checker/",
     "pubDate": "2026-06-06T10:53:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "`/goal` コマンドの活用例: Vitest の実行時間を 6 倍高速化した話",
+    "link": "https://azukiazusa.dev/blog/goal-command-use-case-vitest/",
+    "pubDate": "2026-06-06T10:46:56.000Z"
   },
   {
     "site": "Hatena",
@@ -30,12 +42,6 @@
     "pubDate": "2026-06-06T02:04:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIで裸に見える画像製造・提供の罪で30代男性略式命令 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015142621000",
-    "pubDate": "2026-06-06T00:38:27.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性 - Qiita",
     "link": "https://qiita.com/long-910/items/76779fc1d8602dab73b3",
@@ -46,12 +52,6 @@
     "title": "自宅ルーターのポート443を開放したら、ISPによる遮断(推定)でインターネットが死んだ話",
     "link": "https://zenn.dev/c4n4242/articles/5ab1f510d8c946",
     "pubDate": "Fri, 05 Jun 2026 17:41:29 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "アンソロピック、AI開発の「減速」を提言",
-    "link": "https://www.watch.impress.co.jp/docs/news/2115005.html",
-    "pubDate": "2026-06-05T15:35:16.000Z"
   },
   {
     "site": "Qiita",
@@ -72,16 +72,16 @@
     "pubDate": "2026-06-05T08:33:15.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "AIコスト高騰で中国DeepSeekへの“乗り換え”続出か　米国決済サービスの支出調査で明らかに",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/",
+    "pubDate": "2026-06-05T08:10:16.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Kiro に人格を与えて「育てる」仕組みを作った話",
     "link": "https://qiita.com/tKunimu/items/a27127f5368767496404?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-05T08:04:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google、AIエージェント向け「Android CLI」を正式公開　アプリ開発が“3倍高速”に",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news061.html",
-    "pubDate": "2026-06-05T08:03:06.000Z"
   },
   {
     "site": "Zenn",
