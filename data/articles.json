@@ -1,7 +1,31 @@
 [
   {
     "site": "Hatena",
-    "title": "700万円のMacと”信者のこだわり”が生んだ「PPAP」　古坂大魔王さん　「AIにゼロから作らせるな」の理由（私とアップル） | AERA DIGITAL（アエラデジタル）",
+    "title": "アンソロピック社、開発減速提言　AI自律進化、「制御不能」前に",
+    "link": "https://www.47news.jp/14427079.html",
+    "pubDate": "2026-06-06T12:17:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」",
+    "link": "https://gigazine.net/news/20260606-llm-checker/",
+    "pubDate": "2026-06-06T10:53:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代のUIはどこへ行く？その2！",
+    "link": "https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku-sono2",
+    "pubDate": "2026-06-06T08:31:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び - Qiita",
+    "link": "https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b",
+    "pubDate": "2026-06-06T07:35:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "700万円のMacと”信者のこだわり”が生んだ「PPAP」　古坂大魔王さん　「AIにゼロから作らせるな」の理由　アップル信者でいいじゃない？ | AERA DIGITAL（アエラデジタル）",
     "link": "https://dot.asahi.com/articles/-/284064?page=1",
     "pubDate": "2026-06-06T02:04:28.000Z"
   },
@@ -12,34 +36,28 @@
     "pubDate": "2026-06-06T00:38:27.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性 - Qiita",
+    "link": "https://qiita.com/long-910/items/76779fc1d8602dab73b3",
+    "pubDate": "2026-06-05T23:40:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自宅ルーターのポート443を開放したら、ISPによる遮断(推定)でインターネットが死んだ話",
+    "link": "https://zenn.dev/c4n4242/articles/5ab1f510d8c946",
+    "pubDate": "Fri, 05 Jun 2026 17:41:29 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "アンソロピック、AI開発の「減速」を提言",
     "link": "https://www.watch.impress.co.jp/docs/news/2115005.html",
     "pubDate": "2026-06-05T15:35:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "エディタを Zed に乗り換えてみた",
-    "link": "https://azukiazusa.dev/blog/editor-zed/",
-    "pubDate": "2026-06-05T15:11:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AI料金ショック」がアンソロピックの成長を鈍らせる可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/98497",
-    "pubDate": "2026-06-05T10:56:45.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【配送最適化入門】配送最適化とは？⓪",
     "link": "https://qiita.com/doiken_/items/d56af0a2ca0f650b5fd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-05T09:57:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "新たなRPG開発ツール「RPG-Cobo」発表。ベテラン開発者のノウハウ結集、プログラミングの知識不要で3D RPGを制作できる - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20260605-447381/",
-    "pubDate": "2026-06-05T09:37:30.000Z"
   },
   {
     "site": "Zenn",
@@ -67,12 +85,6 @@
   },
   {
     "site": "Zenn",
-    "title": "【Snowflake Summit 2026】AIはデータのある場所で動かす ─ GitLabが示した設計思想と実装アプローチ",
-    "link": "https://zenn.dev/finatext/articles/47595dcc2fc914",
-    "pubDate": "Fri, 05 Jun 2026 06:28:01 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Claude を使って Gemini 議事録から必要な情報を抽出する仕組み",
     "link": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
     "pubDate": "Fri, 05 Jun 2026 05:55:45 GMT"
@@ -90,12 +102,6 @@
     "pubDate": "2026-06-05T04:33:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【AI待ち、終了】Claude Codeの「AI部下」で勝手に仕事が完了…反則級「神ワザ」10選",
-    "link": "https://www.sbbit.jp/article/cont1/185480",
-    "pubDate": "2026-06-04T23:47:29.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Microsoft 365 Copilot の ROI、どう考える？",
     "link": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -106,6 +112,12 @@
     "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
     "link": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-04T22:06:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "元オンプレ屋がAWS運用監視設計で最初に間違えたこと—「正常を定義する」が先だった",
+    "link": "https://zenn.dev/aa_taka/articles/e835abca466897",
+    "pubDate": "Thu, 04 Jun 2026 21:48:46 GMT"
   },
   {
     "site": "Zenn",
@@ -126,12 +138,6 @@
     "pubDate": "Thu, 04 Jun 2026 13:29:28 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "コーディングエージェントの登場後に読む本が変わった - 覚書",
-    "link": "https://satoru-takeuchi.hatenablog.com/entry/2026/06/04/214202",
-    "pubDate": "2026-06-04T13:04:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AWS Innovation Sandbox (ISB) を構築してみた！",
     "link": "https://zenn.dev/kairim/articles/35dd71c526b64f",
@@ -148,12 +154,6 @@
     "title": "【失敗談】大規模開発をして残ったのは技術負債だけだった話 〜作らないことの重要性〜",
     "link": "https://zenn.dev/innovation/articles/3fe337358aa759",
     "pubDate": "Thu, 04 Jun 2026 06:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "せっかく作ったアプリが「AIっぽい」だけで避けられないようにするには？ ── /frontend-designだけじゃ足りなかった話",
-    "link": "https://zenn.dev/tokium_dev/articles/04387b258ba54e",
-    "pubDate": "Thu, 04 Jun 2026 05:48:02 GMT"
   },
   {
     "site": "Qiita",
