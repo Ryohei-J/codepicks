@@ -1,99 +1,147 @@
 [
   {
+    "site": "Hatena",
+    "title": "外部URLを貼るリスクが上がりすぎたX 旧twitter、もう避難所を作った方がいい",
+    "link": "https://anond.hatelabo.jp/20260607065550",
+    "pubDate": "2026-06-06T21:56:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Snowflake Summit 2026】最新BIツールレポート",
+    "link": "https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report",
+    "pubDate": "Sat, 06 Jun 2026 21:33:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude を使って Gemini 議事録から必要な情報を抽出する仕組み",
+    "link": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
+    "pubDate": "2026-06-06T15:47:54.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "なぜ、AIは頭が良い人が使うとより頭が良くなるのに、頭が悪い人が使うとより頭が悪くなるのか？",
     "link": "https://zenn.dev/pdfractal/articles/373be6a9de3e8c",
     "pubDate": "2026-06-06T13:39:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アンソロピック社、開発減速提言　AI自律進化、「制御不能」前に",
-    "link": "https://www.47news.jp/14427079.html",
-    "pubDate": "2026-06-06T12:17:36.000Z"
+    "site": "Zenn",
+    "title": "Rustでエラー原因をsourceとDisplayの両方に書いてはいけない理由",
+    "link": "https://zenn.dev/ultimatile/articles/rust-error-source-display-duplication",
+    "pubDate": "Sat, 06 Jun 2026 13:33:57 GMT"
   },
   {
     "site": "Hatena",
-    "title": "無料で自分のPCで動かせるローカルAIモデルがわかる「LLM Checker」",
-    "link": "https://gigazine.net/news/20260606-llm-checker/",
-    "pubDate": "2026-06-06T10:53:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "`/goal` コマンドの活用例: Vitest の実行時間を 6 倍高速化した話",
-    "link": "https://azukiazusa.dev/blog/goal-command-use-case-vitest/",
-    "pubDate": "2026-06-06T10:46:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI時代のUIはどこへ行く？その2！",
-    "link": "https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku-sono2",
-    "pubDate": "2026-06-06T08:31:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び - Qiita",
-    "link": "https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b",
-    "pubDate": "2026-06-06T07:35:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "700万円のMacと”信者のこだわり”が生んだ「PPAP」　古坂大魔王さん　「AIにゼロから作らせるな」の理由　アップル信者でいいじゃない？ | AERA DIGITAL（アエラデジタル）",
-    "link": "https://dot.asahi.com/articles/-/284064?page=1",
-    "pubDate": "2026-06-06T02:04:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性 - Qiita",
-    "link": "https://qiita.com/long-910/items/76779fc1d8602dab73b3",
-    "pubDate": "2026-06-05T23:40:42.000Z"
+    "title": "代数的データ型って何が嬉しいの？ #frontend_phpcon_do",
+    "link": "https://speakerdeck.com/kajitack/why-algebraic-data-type",
+    "pubDate": "2026-06-06T12:58:01.000Z"
   },
   {
     "site": "Zenn",
-    "title": "自宅ルーターのポート443を開放したら、ISPによる遮断(推定)でインターネットが死んだ話",
-    "link": "https://zenn.dev/c4n4242/articles/5ab1f510d8c946",
-    "pubDate": "Fri, 05 Jun 2026 17:41:29 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【配送最適化入門】配送最適化とは？⓪",
-    "link": "https://qiita.com/doiken_/items/d56af0a2ca0f650b5fd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-05T09:57:50.000Z"
+    "title": "現代の GPU アーキテクチャとシェーダー最適化の考え方",
+    "link": "https://zenn.dev/ruccho/articles/shader-optimization",
+    "pubDate": "Sat, 06 Jun 2026 11:49:09 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Snowflake App Runtime 入門 - プロンプトひとつでデータの隣に本格Webアプリをデプロイする！",
-    "link": "https://zenn.dev/snowflakejp/articles/9e5b8fa393ccd8",
-    "pubDate": "Fri, 05 Jun 2026 09:31:05 GMT"
+    "title": "Claude Code と Codex を使い比べて見えた設計思想の違い",
+    "link": "https://zenn.dev/tark_ann/articles/e8b09c6db73bfb",
+    "pubDate": "Sat, 06 Jun 2026 11:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "素人の「ぜんぜんいない」と専門家の「けっこういる」問題 - シロクマの屑籠",
+    "link": "https://p-shirokuma.hatenadiary.com/entry/20260606/1780740000",
+    "pubDate": "2026-06-06T10:58:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeで仕様書をMarkdown/HTMLで記述を比較",
+    "link": "https://zenn.dev/kawauchi_lab/articles/4b300879a41ab5",
+    "pubDate": "Sat, 06 Jun 2026 10:56:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代のサーバーサイド開発を考えて、Next.jsフルスタックからRustへ移行した話",
+    "link": "https://zenn.dev/shtrchkw/articles/438accc201f16a",
+    "pubDate": "Sat, 06 Jun 2026 09:24:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI駆動開発はここまで来た！Claude×FigmaMCPで1日アプリ制作",
+    "link": "https://zenn.dev/sun_asterisk/articles/claude-figma-mcp-app",
+    "pubDate": "Sat, 06 Jun 2026 09:23:28 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "作って学ぶ、 JSX (TSX) ランタイムの基本",
+    "link": "https://speakerdeck.com/syumai/jsx-runtime-basics",
+    "pubDate": "2026-06-06T08:29:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RAGで詰まったのは、検索結果ではなく検索クエリだった",
+    "link": "https://zenn.dev/mofuteq/articles/2c5ca06a689140",
+    "pubDate": "Sat, 06 Jun 2026 07:31:03 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RDBで木構造の深さを制限したいときの設計パターン",
+    "link": "https://zenn.dev/tonbi_attack/articles/56de5502efb772",
+    "pubDate": "Sat, 06 Jun 2026 07:18:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること",
+    "link": "https://zenn.dev/catatsuy/articles/e2fc71d810613a",
+    "pubDate": "2026-06-06T06:03:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること",
+    "link": "https://zenn.dev/catatsuy/articles/e2fc71d810613a",
+    "pubDate": "Sat, 06 Jun 2026 05:50:59 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIプラットフォームを運用し続けるための可観測性",
+    "link": "https://speakerdeck.com/tanimuyk/aipuratutohuomuwoyun-yong-sisok-kerutamenoke-guan-ce-xing",
+    "pubDate": "2026-06-06T00:15:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【React】フォームにonChangeもvalueも不要！全てuseActionStateで解決する",
+    "link": "https://qiita.com/BRSF/items/206c141f06cd94b724c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-05T14:45:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI時代、「作れる」より「何を作るか」が面白くなってきた",
+    "link": "https://qiita.com/muu3/items/19f39c1f113830e3d902?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-05T14:30:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性",
+    "link": "https://qiita.com/long-910/items/76779fc1d8602dab73b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-05T12:33:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マイクロソフト、Build 2026で方針転換：WinUIを唯一のネイティブフレームワークに格上げ、Windows 11は「開発者ファースト」戦略でWebラッパーに全面反撃 — BigGo ファイナンス",
+    "link": "https://finance.biggo.jp/news/dkJzkZ4BoicNoOgCq3Zj",
+    "pubDate": "2026-06-05T11:44:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び",
+    "link": "https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-05T09:56:29.000Z"
   },
   {
     "site": "Qiita",
     "title": "AIエージェントに絶対に任せてはいけないことと、私がプロジェクトで使っているAGENTS.mdのルール",
     "link": "https://qiita.com/TOMOSIA-HieuNT/items/411d47f0d03b2fc7d20b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-05T08:33:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIコスト高騰で中国DeepSeekへの“乗り換え”続出か　米国決済サービスの支出調査で明らかに",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/",
-    "pubDate": "2026-06-05T08:10:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Kiro に人格を与えて「育てる」仕組みを作った話",
-    "link": "https://qiita.com/tKunimu/items/a27127f5368767496404?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-05T08:04:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude を使って Gemini 議事録から必要な情報を抽出する仕組み",
-    "link": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
-    "pubDate": "Fri, 05 Jun 2026 05:55:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TanStack Query を完全にゼロから実装して理解する",
-    "link": "https://zenn.dev/ficilcom/articles/ff423b306afe18",
-    "pubDate": "Fri, 05 Jun 2026 05:41:21 GMT"
   },
   {
     "site": "Qiita",
@@ -108,75 +156,27 @@
     "pubDate": "2026-06-04T23:43:57.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "【Windows 11ダイエット術】「隠れた不要サービス」を停止して軽量化する",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news010.html",
+    "pubDate": "2026-06-04T22:38:32.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
     "link": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-04T22:06:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "元オンプレ屋がAWS運用監視設計で最初に間違えたこと—「正常を定義する」が先だった",
-    "link": "https://zenn.dev/aa_taka/articles/e835abca466897",
-    "pubDate": "Thu, 04 Jun 2026 21:48:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "PyTorchで理解する自動運転マルチカメラ統合の全体像",
-    "link": "https://zenn.dev/riita10069/articles/auto-e2e-multi-view-fusion-explained",
-    "pubDate": "Thu, 04 Jun 2026 18:47:57 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ZigがAIを禁止する理由。GitHub離脱、確固たる運営方針。｜直也テック",
-    "link": "https://note.com/naoya_tech/n/ne7c83d38fc72",
-    "pubDate": "2026-06-04T15:42:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "エージェントに「脆弱性を探して」はなぜ失敗するのか──Cloudflareが50+リポで示したharnessの正体",
-    "link": "https://zenn.dev/aiwatch_jp/articles/agent-vuln-hunting-harness-glasswing",
-    "pubDate": "Thu, 04 Jun 2026 13:29:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS Innovation Sandbox (ISB) を構築してみた！",
-    "link": "https://zenn.dev/kairim/articles/35dd71c526b64f",
-    "pubDate": "Thu, 04 Jun 2026 11:52:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CUDA Programming Guide Part 1",
-    "link": "https://zenn.dev/kaz20/articles/1e622ef249d133",
-    "pubDate": "Thu, 04 Jun 2026 11:10:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【失敗談】大規模開発をして残ったのは技術負債だけだった話 〜作らないことの重要性〜",
-    "link": "https://zenn.dev/innovation/articles/3fe337358aa759",
-    "pubDate": "Thu, 04 Jun 2026 06:00:07 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Claude Codeから画像をWezTermに表示する方法",
-    "link": "https://qiita.com/degudegu2510/items/254cfc822d86ed070284?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-04T05:12:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "agent-browser 入門 ~ AIエージェントのためのブラウザ自動化CLI ~",
-    "link": "https://qiita.com/t-yonefu/items/c90cee56dfd5f2e06833?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-04T03:47:31.000Z"
+    "title": "問い合わせ業務を生成AIで効率化する：Outlookアドイン活用事例",
+    "link": "https://qiita.com/Yuki_Yamada4/items/13f5e584a34987e59a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-04T04:16:13.000Z"
   },
   {
     "site": "Qiita",
     "title": "Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた",
     "link": "https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-03T21:56:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェント時代に、人月受託会社はどう壊れるのか",
-    "link": "https://qiita.com/MarkInada/items/5d5da328ba7c58cb09ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-03T18:30:56.000Z"
   }
 ]
