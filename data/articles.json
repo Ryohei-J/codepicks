@@ -1,21 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "AI slop コードレビュー - たにしきんぐダム",
-    "link": "https://tanishiking24.hatenablog.com/entry/2026/06/07/134005",
-    "pubDate": "2026-06-07T06:56:30.000Z"
+    "title": "Amazon ElastiCache for Valkeyのdurabilityの効果を実際にフェイルオーバーを起こして検証してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/amazon-elasticache-valkey-durability-failover-test/",
+    "pubDate": "2026-06-07T13:31:13.000Z"
   },
   {
     "site": "Hatena",
-    "title": "立て続けに高額なハイスペックPCを何度も売りに来るお客さん...念のためにPCを解析してみたら不正なツールで巧妙に表示を偽装していた",
-    "link": "https://togetter.com/li/2706463",
-    "pubDate": "2026-06-07T05:54:31.000Z"
+    "title": "声を指定して好きなセリフを喋らせられるローカルAI「Irodori-TTS」のV3が出たので使ってみた、音声の長さを指定可能で絵文字感情制御も簡単に",
+    "link": "https://gigazine.net/news/20260607-irodori-tts-v3/",
+    "pubDate": "2026-06-07T13:06:56.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "RDBで木構造の深さを制限したいときの設計パターン",
-    "link": "https://zenn.dev/tonbi_attack/articles/56de5502efb772",
-    "pubDate": "2026-06-07T04:03:32.000Z"
+    "site": "Hatena",
+    "title": "正規表現ゴリ押し部",
+    "link": "https://wbsb.dev/articles/7f1c80ce-25ce-4dbf-a6aa-202c98bd6882",
+    "pubDate": "2026-06-07T12:58:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIコードレビューツール「Open Code Review」、既存のAIに各種ルールを設定してレビュー能力を底上げ可能＆Alibabaグループで100万件のコード欠陥を検出済み",
+    "link": "https://gigazine.net/news/20260607-open-code-review/",
+    "pubDate": "2026-06-07T11:45:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "WSLgのGUIアプリ（Chrome・Obsidian）で文字をくっきり表示し、ウィンドウの端をドラッグでリサイズする - Qiita",
+    "link": "https://qiita.com/vochicong/items/17a43cc51fcbac282b3c",
+    "pubDate": "2026-06-07T09:01:44.000Z"
   },
   {
     "site": "Hatena",
@@ -31,27 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Windowsのコンソール上でUnix/Linuxの標準的なコマンドを動かす「Windows CoreUtils」",
-    "link": "https://ascii.jp/elem/000/004/408/4408637/",
-    "pubDate": "2026-06-07T02:43:41.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "React、まだ楽しくて草",
     "link": "https://speakerdeck.com/uhyo/react-madale-sikutecao",
     "pubDate": "2026-06-07T02:37:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「就活なんてチョロい」中堅大から大手マスコミ5社内定。AIに自己分析から面接の台本まで丸投げした22歳の告白（SPA!） - Yahoo!ニュース",
-    "link": "https://approach.yahoo.co.jp/r/QUyHCH?src=https://news.yahoo.co.jp/articles/ad77d402a92b258426521267be77618a7fe27a32&preview=auto",
-    "pubDate": "2026-06-07T02:23:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "外部URLを貼るリスクが上がりすぎたX 旧twitter、もう避難所を作った方がいい",
-    "link": "https://anond.hatelabo.jp/20260607065550",
-    "pubDate": "2026-06-06T21:56:57.000Z"
+    "site": "Qiita",
+    "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する - Qiita",
+    "link": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073",
+    "pubDate": "2026-06-07T01:15:54.000Z"
   },
   {
     "site": "Zenn",
@@ -126,12 +126,6 @@
     "pubDate": "Sat, 06 Jun 2026 09:47:41 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること",
-    "link": "https://zenn.dev/catatsuy/articles/e2fc71d810613a",
-    "pubDate": "2026-06-06T06:03:49.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AI時代、「作れる」より「何を作るか」が面白くなってきた",
     "link": "https://qiita.com/muu3/items/19f39c1f113830e3d902?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,6 +160,12 @@
     "title": "AI時代、“ITを知らない”が普通に危険になってきた話",
     "link": "https://qiita.com/prum_hitomi/items/01defe8188de2123b25c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-05T04:33:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - alibaba/open-code-review: Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Ant",
+    "link": "https://github.com/alibaba/open-code-review",
+    "pubDate": "2026-06-05T02:43:00.000Z"
   },
   {
     "site": "Qiita",
