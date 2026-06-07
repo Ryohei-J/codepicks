@@ -1,21 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "「就活なんてチョロい」中堅大から大手マスコミ5社内定。AIに自己分析から面接の台本まで丸投げした22歳の告白 | 日刊SPA!",
-    "link": "https://nikkan-spa.jp/2166052",
-    "pubDate": "2026-06-07T03:38:35.000Z"
+    "title": "AI slop コードレビュー - たにしきんぐダム",
+    "link": "https://tanishiking24.hatenablog.com/entry/2026/06/07/134005",
+    "pubDate": "2026-06-07T06:56:30.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「就活なんてチョロい」中堅大から大手マスコミ5社内定。AIに自己分析から面接の台本まで丸投げした22歳の告白（SPA!） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/ad77d402a92b258426521267be77618a7fe27a32",
-    "pubDate": "2026-06-07T02:56:43.000Z"
+    "title": "立て続けに高額なハイスペックPCを何度も売りに来るお客さん...念のためにPCを解析してみたら不正なツールで巧妙に表示を偽装していた",
+    "link": "https://togetter.com/li/2706463",
+    "pubDate": "2026-06-07T05:54:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RDBで木構造の深さを制限したいときの設計パターン",
+    "link": "https://zenn.dev/tonbi_attack/articles/56de5502efb772",
+    "pubDate": "2026-06-07T04:03:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「就活なんてチョロい」中堅大から大手マスコミ5社内定。AIに自己分析から面接の台本まで丸投げした22歳の告白 | 日刊SPA!",
+    "link": "https://nikkan-spa.jp/2166052",
+    "pubDate": "2026-06-07T03:38:35.000Z"
   },
   {
     "site": "Zenn",
     "title": "E2Eテストを民主化したら、朝には失敗の分析も再実行も修正PRも終わっていた",
     "link": "https://zenn.dev/lincwell_inc/articles/e8e288ee35f5b4",
     "pubDate": "2026-06-07T02:52:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windowsのコンソール上でUnix/Linuxの標準的なコマンドを動かす「Windows CoreUtils」",
+    "link": "https://ascii.jp/elem/000/004/408/4408637/",
+    "pubDate": "2026-06-07T02:43:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "React、まだ楽しくて草",
+    "link": "https://speakerdeck.com/uhyo/react-madale-sikutecao",
+    "pubDate": "2026-06-07T02:37:00.000Z"
   },
   {
     "site": "Hatena",
@@ -43,21 +67,21 @@
   },
   {
     "site": "Zenn",
-    "title": "なぜ、AIは頭が良い人が使うとより頭が良くなるのに、頭が悪い人が使うとより頭が悪くなるのか？",
-    "link": "https://zenn.dev/pdfractal/articles/373be6a9de3e8c",
-    "pubDate": "2026-06-06T13:39:59.000Z"
+    "title": "結局どっち？ E2Eで私が「Chrome DevTools 中心・Playwright 限定」に落ち着いた理由",
+    "link": "https://zenn.dev/minewo/articles/playwright-vs-chrome-devtools-e2e",
+    "pubDate": "Sat, 06 Jun 2026 17:04:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "未経験から脆弱性診断員になるには — 私はネットワークエンジニアから来た",
+    "link": "https://zenn.dev/rudy_candy/articles/how-to-become-vulnerability-assessor",
+    "pubDate": "Sat, 06 Jun 2026 14:31:23 GMT"
   },
   {
     "site": "Zenn",
     "title": "Rustでエラー原因をsourceとDisplayの両方に書いてはいけない理由",
     "link": "https://zenn.dev/ultimatile/articles/rust-error-source-display-duplication",
     "pubDate": "Sat, 06 Jun 2026 13:33:57 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "代数的データ型って何が嬉しいの？ #frontend_phpcon_do",
-    "link": "https://speakerdeck.com/kajitack/why-algebraic-data-type",
-    "pubDate": "2026-06-06T12:58:01.000Z"
   },
   {
     "site": "Zenn",
@@ -67,15 +91,21 @@
   },
   {
     "site": "Zenn",
+    "title": "個人開発の Go × gRPC マイクロサービス群を docker compose 一発でローカル起動する",
+    "link": "https://zenn.dev/qkitzero/articles/go-grpc-multi-service-docker-compose",
+    "pubDate": "Sat, 06 Jun 2026 11:41:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "お前のフィラーを数えろ。AmiVoice APIで日本語フィラーを消さずに数えるCLIを作ってみた",
+    "link": "https://zenn.dev/kimifan/articles/ami-voice-filler-count-tools",
+    "pubDate": "Sat, 06 Jun 2026 11:38:35 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Code と Codex を使い比べて見えた設計思想の違い",
     "link": "https://zenn.dev/tark_ann/articles/e8b09c6db73bfb",
     "pubDate": "Sat, 06 Jun 2026 11:00:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "素人の「ぜんぜんいない」と専門家の「けっこういる」問題 - シロクマの屑籠",
-    "link": "https://p-shirokuma.hatenadiary.com/entry/20260606/1780740000",
-    "pubDate": "2026-06-06T10:58:46.000Z"
   },
   {
     "site": "Zenn",
@@ -91,39 +121,15 @@
   },
   {
     "site": "Zenn",
-    "title": "AI時代のサーバーサイド開発を考えて、Next.jsフルスタックからRustへ移行した話",
-    "link": "https://zenn.dev/shtrchkw/articles/438accc201f16a",
-    "pubDate": "Sat, 06 Jun 2026 09:24:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI駆動開発はここまで来た！Claude×FigmaMCPで1日アプリ制作",
-    "link": "https://zenn.dev/sun_asterisk/articles/claude-figma-mcp-app",
-    "pubDate": "Sat, 06 Jun 2026 09:23:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RAGで詰まったのは、検索結果ではなく検索クエリだった",
-    "link": "https://zenn.dev/mofuteq/articles/2c5ca06a689140",
-    "pubDate": "Sat, 06 Jun 2026 07:31:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RDBで木構造の深さを制限したいときの設計パターン",
-    "link": "https://zenn.dev/tonbi_attack/articles/56de5502efb772",
-    "pubDate": "Sat, 06 Jun 2026 07:18:21 GMT"
+    "title": "ultracode でアイデア出しを安く回す — Claude Code の workflow コストを実測で約7割削る手法",
+    "link": "https://zenn.dev/marvelousu/articles/claude-dynamic-workflows-cost",
+    "pubDate": "Sat, 06 Jun 2026 09:47:41 GMT"
   },
   {
     "site": "Zenn",
     "title": "開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること",
     "link": "https://zenn.dev/catatsuy/articles/e2fc71d810613a",
     "pubDate": "2026-06-06T06:03:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発者が攻撃対象になった時代に、開発環境とCI/CDについて考えていること",
-    "link": "https://zenn.dev/catatsuy/articles/e2fc71d810613a",
-    "pubDate": "Sat, 06 Jun 2026 05:50:59 GMT"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "Microsoft 365 Copilot の ROI、どう考える？",
     "link": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-04T23:43:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【Windows 11ダイエット術】「隠れた不要サービス」を停止して軽量化する",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news010.html",
-    "pubDate": "2026-06-04T22:38:32.000Z"
   },
   {
     "site": "Qiita",
