@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "嵐ラストライブ配信はなぜ落ちなかった？大規模同時配信の仕組みをネットワークエンジニアが解説 | ponflog",
+    "link": "https://ponflog.com/arashi-live-streaming-network/",
+    "pubDate": "2026-06-08T13:59:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ほぼ全九州」電力契約情報、漏洩の恐れ　九電送配、最大1千万件超：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASV6832MLV68ULFA00ZM.html",
+    "pubDate": "2026-06-08T12:22:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GoランタイムにおけるGCのタイミングを知っておこう",
+    "link": "https://zenn.dev/yuta_kakiki/articles/db96a8f79e6c01",
+    "pubDate": "2026-06-08T09:28:04.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIがAIを育てる恐怖のループ。Anthropic自ら「いったんAI開発停止」と業界に提案",
     "link": "https://pc.watch.impress.co.jp/docs/news/2115373.html",
     "pubDate": "2026-06-08T08:48:21.000Z"
   },
   {
     "site": "Hatena",
-    "title": "UQモバイルで娘のスマホを契約したら、電話番号の前の持ち主が相当やばかったらしく、カード会社や金融系の怖い人からめっちゃ電話かかってくる",
-    "link": "https://togetter.com/li/2706938",
-    "pubDate": "2026-06-08T08:14:06.000Z"
+    "title": "アサヒ、植物由来素材のコーラ「green cola」全国発売",
+    "link": "https://www.watch.impress.co.jp/docs/news/2115321.html",
+    "pubDate": "2026-06-08T07:02:01.000Z"
   },
   {
     "site": "Hatena",
@@ -66,22 +84,28 @@
     "pubDate": "2026-06-08T00:46:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "[みんなのケータイ]地味で恐縮ですが、僕はこんなふうにGeminiを使っています",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2114849.html",
-    "pubDate": "2026-06-07T20:36:34.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "バイブコーディングが怖いので、全PJにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ話",
-    "link": "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
-    "pubDate": "2026-06-07T20:31:02.000Z"
+    "title": "GoランタイムにおけるGCのタイミングを知っておこう",
+    "link": "https://zenn.dev/yuta_kakiki/articles/db96a8f79e6c01",
+    "pubDate": "Sun, 07 Jun 2026 16:25:26 GMT"
   },
   {
     "site": "Qiita",
     "title": "ping、tracerouteコマンドを使用した、SSHできない時の切り分け方",
     "link": "https://qiita.com/M_waowaowao/items/803300d3453daaaf48ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-07T16:19:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "トレードオフ過ぎるバージョン管理",
+    "link": "https://zenn.dev/kmryst/articles/github-actions-sha-pin-owner-tier",
+    "pubDate": "Sun, 07 Jun 2026 13:57:12 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "dbt Core v2 の manifest.json の進化版「Parquet アーティファクト」の中身を見てみる",
+    "link": "https://zenn.dev/bare64/articles/f59ad9e4bb92ea",
+    "pubDate": "Sun, 07 Jun 2026 11:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -103,12 +127,6 @@
   },
   {
     "site": "Zenn",
-    "title": "AIがコードを書けても、ソフトウェアエンジニアが不要になるわけではない - 構造で育てるプロダクト組織付録15",
-    "link": "https://zenn.dev/kanaria007/articles/95a3c7eeb1ab95",
-    "pubDate": "Sun, 07 Jun 2026 08:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "バイブコーディングが怖いので、全PJにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ話",
     "link": "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
     "pubDate": "Sun, 07 Jun 2026 07:28:37 GMT"
@@ -121,33 +139,21 @@
   },
   {
     "site": "Zenn",
+    "title": "AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること",
+    "link": "https://zenn.dev/rapls/articles/7456767a19af06",
+    "pubDate": "Sun, 07 Jun 2026 02:45:52 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust を学ぶために、漫画ビューア gashuu(画集)を作った",
+    "link": "https://zenn.dev/yasuflatland/articles/48a08b3eb8cd27",
+    "pubDate": "Sun, 07 Jun 2026 02:39:29 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み",
     "link": "https://zenn.dev/abalol/articles/579296fa31056f",
     "pubDate": "Sun, 07 Jun 2026 00:59:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Snowflake Summit 2026】最新BIツールレポート",
-    "link": "https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report",
-    "pubDate": "Sat, 06 Jun 2026 21:33:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "結局どっち？ E2Eで私が「Chrome DevTools 中心・Playwright 限定」に落ち着いた理由",
-    "link": "https://zenn.dev/minewo/articles/playwright-vs-chrome-devtools-e2e",
-    "pubDate": "Sat, 06 Jun 2026 17:04:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustでエラー原因をsourceとDisplayの両方に書いてはいけない理由",
-    "link": "https://zenn.dev/ultimatile/articles/rust-error-source-display-duplication",
-    "pubDate": "Sat, 06 Jun 2026 13:33:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "現代の GPU アーキテクチャとシェーダー最適化の考え方",
-    "link": "https://zenn.dev/ruccho/articles/shader-optimization",
-    "pubDate": "Sat, 06 Jun 2026 11:49:09 GMT"
   },
   {
     "site": "Qiita",
@@ -157,7 +163,7 @@
   },
   {
     "site": "Qiita",
-    "title": "ClaudeCode の「The model's tool call could not be parsed」エラーを回避する方法",
+    "title": "「The model's tool call could not be parsed」エラーを回避する方法【ClaudeCode】",
     "link": "https://qiita.com/natume_nat/items/76fe608d570caebb4f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-05T15:18:58.000Z"
   },
@@ -172,11 +178,5 @@
     "title": "海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び",
     "link": "https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-05T09:56:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた - Qiita",
-    "link": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7",
-    "pubDate": "2026-06-03T00:21:46.000Z"
   }
 ]
