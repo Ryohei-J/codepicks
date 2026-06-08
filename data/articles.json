@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース",
+    "link": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
+    "pubDate": "2026-06-08T14:18:10.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "嵐ラストライブ配信はなぜ落ちなかった？大規模同時配信の仕組みをネットワークエンジニアが解説 | ponflog",
     "link": "https://ponflog.com/arashi-live-streaming-network/",
     "pubDate": "2026-06-08T13:59:06.000Z"
@@ -10,6 +16,12 @@
     "title": "「ほぼ全九州」電力契約情報、漏洩の恐れ　九電送配、最大1千万件超：朝日新聞",
     "link": "https://www.asahi.com/articles/ASV6832MLV68ULFA00ZM.html",
     "pubDate": "2026-06-08T12:22:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "オードリー・タン × 東浩紀「プルラリティ・AI・民主主義 —喧騒と幻想を巡って— 」【日本財団HUMAIプログラム Spring Camp 2026】",
+    "link": "https://www.youtube.com/watch?v=tSySgu7CFFI",
+    "pubDate": "2026-06-08T10:50:03.000Z"
   },
   {
     "site": "Zenn",
@@ -48,28 +60,22 @@
     "pubDate": "2026-06-08T03:58:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "三菱UFJ銀、“PPAP”原則廃止　メール本文にダウンロードURL記載へ",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/08/news086.html",
-    "pubDate": "2026-06-08T03:04:24.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "「そのpromptちょうだい」と言われるけど、たぶん同じ設計書は出てこない ── engineer to delegate to で本当に効いていたもの",
     "link": "https://qiita.com/ntaka329/items/c153d50810f2945897d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-08T02:36:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Code × Claude Design で趣味のアプリを作った話",
-    "link": "https://blog.asial.co.jp/6808/",
-    "pubDate": "2026-06-08T02:04:57.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AIにも「口コミ」がつく時代。〜信頼の証跡をWeb3に残すインフラを図解で整理する（ERC8004）〜",
     "link": "https://qiita.com/can-can/items/5e13dace1a97cd6bd7a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-08T02:01:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "落語で学ぶ『AI時代のDDD』ドメインプリミティブ編",
+    "link": "https://qiita.com/Yametaro/items/226e7c06bc9d5877e64e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-08T01:43:34.000Z"
   },
   {
     "site": "Qiita",
@@ -82,6 +88,18 @@
     "title": "寝不足になるほど面白い　ローカルAIと音声合成をつないだら、キャラが普通にしゃべり始めた (1/5)",
     "link": "https://ascii.jp/elem/000/004/408/4408692/",
     "pubDate": "2026-06-08T00:46:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "モノレポ時代のディレクトリアーキテクチャ",
+    "link": "https://qiita.com/tacosdb/items/3300abff1e55f404f6c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-07T23:17:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIエージェントのトークン代を節約する CLAUDE.md と copilot-instructions.md 実践ガイド  AIエージェントでは毎ターン何が起きているのか",
+    "link": "https://qiita.com/shinkai_/items/8f88307b7cb13b748e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-07T23:17:13.000Z"
   },
   {
     "site": "Zenn",
@@ -112,12 +130,6 @@
     "title": "推薦システムの新たなパラダイム Generative Recommendation",
     "link": "https://zenn.dev/rintaro121/articles/generative-recommendation",
     "pubDate": "Sun, 07 Jun 2026 10:15:27 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】近所のリチウムイオン電池の回収拠点を探すアプリを自分用に開発した【React/Supabase/PostGIS】",
-    "link": "https://qiita.com/tarpan_75/items/8a068a7fb4d5895b2382?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-07T08:47:07.000Z"
   },
   {
     "site": "Zenn",
@@ -157,26 +169,14 @@
   },
   {
     "site": "Qiita",
+    "title": "新卒2年目・独学のCISSP合格体験記（2026年6月）",
+    "link": "https://qiita.com/Bibirina_hiyoko/items/c45179bcc35feda0041f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-06T13:08:09.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する",
     "link": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-06T10:04:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「The model's tool call could not be parsed」エラーを回避する方法【ClaudeCode】",
-    "link": "https://qiita.com/natume_nat/items/76fe608d570caebb4f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-05T15:18:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代、「作れる」より「何を作るか」が面白くなってきた",
-    "link": "https://qiita.com/muu3/items/19f39c1f113830e3d902?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-05T14:30:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "海外ベンダーが作成したテスト方針やテストケースに対する品質改善業務に従事して得た学び",
-    "link": "https://qiita.com/fj_qaengineer/items/cabe6aea0be459f7d97b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-05T09:56:29.000Z"
   }
 ]
