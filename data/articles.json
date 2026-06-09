@@ -1,5 +1,47 @@
 [
   {
+    "site": "Qiita",
+    "title": "[Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた",
+    "link": "https://qiita.com/mitsu3333/items/0ca5bd39c4dba6a8c6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-09T07:11:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI浪費、社員1人で月1000万円　企業活用「やってる感」の落とし穴 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC0519S0V00C26A6000000/",
+    "pubDate": "2026-06-09T03:46:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Loop Engineering",
+    "link": "https://addyosmani.com/blog/loop-engineering/",
+    "pubDate": "2026-06-09T03:42:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "RTX 5090のはずがRTX 3070？　GPU偽装PCを持ち込まれたショップが語る事件の詳細　「ネット売買もリスク高い」",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/09/news087.html",
+    "pubDate": "2026-06-09T03:40:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google AI Plusが月額725円に値下げ。ストレージは倍増",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2115523.html",
+    "pubDate": "2026-06-09T03:30:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Instagramで不具合、有名人ユーザーのメールアドレスや電話番号が誰でも閲覧可能な状態に【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2115502.html",
+    "pubDate": "2026-06-09T02:44:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "未経験からエンジニアになるために必要な3つの知識",
+    "link": "https://qiita.com/masa20057/items/39ad448983e2ba8406da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-09T01:28:31.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "グーグル、個人向けAIプランを大幅値下げ ～月額1,200円が725円に、ストレージも倍増／「Google AI Plus」ではGeminiの使用上限が2倍に",
     "link": "https://forest.watch.impress.co.jp/docs/news/2115471.html",
@@ -12,40 +54,28 @@
     "pubDate": "2026-06-08T23:30:52.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する",
+    "link": "https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-08T22:11:37.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Apple、「iOS 27」を発表 ～「Gemini」を採用し、AIをOSに深く統合、アプリ操作もAIが可能に、OS性能や子どもの保護も改善／正式リリースは今秋、対応デバイスは「iOS 26」から変更なし",
     "link": "https://forest.watch.impress.co.jp/docs/news/2115447.html",
     "pubDate": "2026-06-08T21:34:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【やじうまミニレビュー】 待ってたよ100W！サンワの4ポートUSB付き充電タップを試した",
-    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2115265.html",
-    "pubDate": "2026-06-08T21:11:59.000Z"
+    "site": "Zenn",
+    "title": "どこからでもAIで仕事をできるようにしたけど、疲れてやめた話",
+    "link": "https://zenn.dev/g2/articles/7aeb22e8ebbf82",
+    "pubDate": "Mon, 08 Jun 2026 12:33:14 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Apple、これまでよりはるかに有能でパーソナルなアシスタントであるSiri AIを発表",
-    "link": "https://www.apple.com/jp/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-    "pubDate": "2026-06-08T18:41:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "キングジムのデジタルメモ『ポメラ』でX68000のエミュレータが動くらしいが夢の頂点に到達したって感じがしてとてもかっこいい",
-    "link": "https://togetter.com/li/2707140",
-    "pubDate": "2026-06-08T17:21:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "嵐ラストライブ配信はなぜ落ちなかった？大規模同時配信の仕組みをネットワークエンジニアが解説 | ponflog",
-    "link": "https://ponflog.com/arashi-live-streaming-network/",
-    "pubDate": "2026-06-08T13:59:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「気づいたら仕事が終わっている」バクラクAIエージェント本番運用の裏側 / layerx-bakuraku-aie2026",
-    "link": "https://speakerdeck.com/yuya4/layerx-bakuraku-aie2026",
-    "pubDate": "2026-06-08T08:26:51.000Z"
+    "site": "Zenn",
+    "title": "Docker Buildを106秒→44秒、32秒→3秒に高速化した3つの改善",
+    "link": "https://zenn.dev/engharu/articles/b3aa073c3694de",
+    "pubDate": "Mon, 08 Jun 2026 10:18:04 GMT"
   },
   {
     "site": "Zenn",
@@ -58,6 +88,24 @@
     "title": "Claude Codeを導入したらやるべき！おすすめ3選（CLAUDE.md / hooks / プラグイン）",
     "link": "https://zenn.dev/secondselection/articles/claude_code_knowledge",
     "pubDate": "2026-06-08T05:04:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot FinOps戦略：Usage-Based Billingへの移行と最適化",
+    "link": "https://zenn.dev/microsoft/articles/ghcp-finops-01",
+    "pubDate": "Mon, 08 Jun 2026 04:37:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GPU プログラミングでも Modern C++ コードを書きたい: gpu-array ライブラリの紹介",
+    "link": "https://zenn.dev/amplify/articles/8cca314f87e8e2",
+    "pubDate": "Mon, 08 Jun 2026 04:06:20 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "プロダクトマネジメント研修を受講して振り返る過去案件の失敗事例",
+    "link": "https://zenn.dev/nttdata_tech/articles/f4a12e031d5d63",
+    "pubDate": "Mon, 08 Jun 2026 04:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -79,12 +127,6 @@
   },
   {
     "site": "Qiita",
-    "title": "「そのpromptちょうだい」と言われるけど、たぶん同じ設計書は出てこない ── engineer to delegate to で本当に効いていたもの",
-    "link": "https://qiita.com/ntaka329/items/c153d50810f2945897d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-08T02:36:29.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AIにも「口コミ」がつく時代。〜信頼の証跡をWeb3に残すインフラを図解で整理する（ERC8004）〜",
     "link": "https://qiita.com/can-can/items/5e13dace1a97cd6bd7a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-08T02:01:29.000Z"
@@ -102,16 +144,10 @@
     "pubDate": "2026-06-08T01:02:05.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Copilot Pro移行後の実測 — 付属は1,500クレジット、でもCLIは2回で16クレジット消えた",
-    "link": "https://zenn.dev/toki_mwc/articles/copilot-credits-actual-vs-forecast",
-    "pubDate": "Mon, 08 Jun 2026 00:05:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンド・PHPカンファレンス北海道2026に登壇・参加しました",
-    "link": "https://zenn.dev/ma_me/articles/76198b6f0a9d26",
-    "pubDate": "Mon, 08 Jun 2026 00:04:28 GMT"
+    "site": "Qiita",
+    "title": "「個人で使うClaude Code」を「チームで育てるClaude Code」にする2つの仕組み",
+    "link": "https://qiita.com/k_yamaki/items/dc10f90a5aad61aad0e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-07T23:56:35.000Z"
   },
   {
     "site": "Zenn",
@@ -120,16 +156,10 @@
     "pubDate": "Sun, 07 Jun 2026 23:49:54 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "モノレポ時代のディレクトリアーキテクチャ",
-    "link": "https://qiita.com/tacosdb/items/3300abff1e55f404f6c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-07T23:17:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェントのトークン代を節約する CLAUDE.md と copilot-instructions.md 実践ガイド  AIエージェントでは毎ターン何が起きているのか",
-    "link": "https://qiita.com/shinkai_/items/8f88307b7cb13b748e57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-07T23:17:13.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeを導入したらやるべき！おすすめ3選（CLAUDE.md / hooks / プラグイン）",
+    "link": "https://zenn.dev/secondselection/articles/claude_code_knowledge",
+    "pubDate": "Sun, 07 Jun 2026 21:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -142,36 +172,6 @@
     "title": "ping、tracerouteコマンドを使用した、SSHできない時の切り分け方",
     "link": "https://qiita.com/M_waowaowao/items/803300d3453daaaf48ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-07T16:19:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "推薦システムの新たなパラダイム Generative Recommendation",
-    "link": "https://zenn.dev/rintaro121/articles/generative-recommendation",
-    "pubDate": "Sun, 07 Jun 2026 10:15:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScript拡張「TSRX」を触ってみて、JSXと比べて考えたこと",
-    "link": "https://zenn.dev/h_yokoyama/articles/tsrx-typescript-extension",
-    "pubDate": "Sun, 07 Jun 2026 08:06:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIがコードを書けても、ソフトウェアエンジニアが不要になるわけではない - 構造で育てるプロダクト組織付録15",
-    "link": "https://zenn.dev/kanaria007/articles/95a3c7eeb1ab95",
-    "pubDate": "Sun, 07 Jun 2026 08:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バイブコーディングが怖いので、全PJにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ話",
-    "link": "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
-    "pubDate": "Sun, 07 Jun 2026 07:28:37 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "新卒2年目・独学のCISSP合格体験記（2026年6月）",
-    "link": "https://qiita.com/Bibirina_hiyoko/items/c45179bcc35feda0041f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-06T13:08:09.000Z"
   },
   {
     "site": "Qiita",
