@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "オープンソースソフトウェアのプロジェクト開発へ積極的に関与していたユーザーが人間の制御下にない AIだった可能性",
+    "link": "https://gigazine.net/news/20260611-fedora-ai-runs/",
+    "pubDate": "2026-06-11T12:10:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "IPAがロゴなどを変更、4800万円超で調達も「効果はある」「重要な取り組み」",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11819/",
     "pubDate": "2026-06-11T11:53:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhoneがもっと便利になる！おすすめショートカット10選 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2606-10-apple-shortcuts-hacks-every-iphone-user-should-know/",
+    "pubDate": "2026-06-11T11:17:24.000Z"
   },
   {
     "site": "Hatena",
@@ -36,16 +48,16 @@
     "pubDate": "2026-06-11T04:33:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIで要件定義の土台を即時生成し、要求変更の手戻りコストをゼロに近づけた話 - Tabelog Tech Blog",
-    "link": "https://tech-blog.tabelog.com/entry/ai-driven-requirements-definition-process_52",
-    "pubDate": "2026-06-11T02:12:13.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【freee MCP】経理にClaudeを雇う時代？請求書下書きワークフローをSkill化してみた",
     "link": "https://qiita.com/TMiyamoto/items/62dd7aabb4e043c61046?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-11T01:49:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "6,500億ドルのAIデータセンター建設ブームに暗雲、米国で計画の半数近くが遅延・中止 — BigGo ファイナンス",
+    "link": "https://finance.biggo.jp/news/f1de4930a3163d2b",
+    "pubDate": "2026-06-11T01:34:24.000Z"
   },
   {
     "site": "Hatena",
@@ -60,10 +72,10 @@
     "pubDate": "Thu, 11 Jun 2026 00:14:40 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "1人暮らしの在宅勤務、「丸1日、人と接触なしの日」が3割……店員とも話さず　58万人を分析、Scienceで論文発表",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news027.html",
-    "pubDate": "2026-06-10T23:56:59.000Z"
+    "site": "Qiita",
+    "title": "【AI駆動開発】OpenSpecを既存プロジェクトに導入したときにやったことまとめ",
+    "link": "https://qiita.com/ko-he-8/items/cf5f75ba755c844211a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-10T23:40:16.000Z"
   },
   {
     "site": "Hatena",
@@ -88,6 +100,12 @@
     "title": "Claude Fable 5を１日使ってみて",
     "link": "https://qiita.com/yo_arai/items/30ae4581b8a9b3206b15?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-10T16:01:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code / GitHub Copilot のトークン消費を手軽に削減する2つのツール",
+    "link": "https://qiita.com/rairaii/items/0ea0ebf709eb00230b93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-10T11:49:28.000Z"
   },
   {
     "site": "Zenn",
@@ -118,12 +136,6 @@
     "title": "Anthropicの新モデル「Claude Fable 5 & Mythos 5」を徹底解説",
     "link": "https://zenn.dev/galirage/articles/claude-fable-5",
     "pubDate": "Wed, 10 Jun 2026 06:35:41 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Fable 5 vs Opus 4.8：コードレビュー性能とコストの比較",
-    "link": "https://qiita.com/goofmint/items/0dbc38ed562a97a0850d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-10T02:26:10.000Z"
   },
   {
     "site": "Zenn",
@@ -157,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "なぜBraveは拡張機能なしで広告を消せるのか？仕組みを5分でゆるく整理する - Qiita",
-    "link": "https://qiita.com/ktdatascience/items/6f7e861f0cc7df3de4c0",
-    "pubDate": "2026-06-09T05:47:38.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "未経験からエンジニアになるために必要な3つの知識",
     "link": "https://qiita.com/masa20057/items/39ad448983e2ba8406da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-09T01:28:31.000Z"
@@ -172,11 +178,5 @@
     "title": "会社で Microsoft 365 Copilot しか使えない人のための「エージェントビルダー」入門 ── 宣言型エージェントを最新版で作る",
     "link": "https://qiita.com/sukimaengineer/items/15ddf5601ff29ef8d376?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-08T23:50:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "[ハンズオン手順書] Claude + Microsoft Foundry で AI エージェントを構築する #CodeWithClaude ",
-    "link": "https://qiita.com/chomado/items/a072528364883ae7bb96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-08T12:29:01.000Z"
   }
 ]
