@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "実装前に設計を徹底的にインタビューし、要件を明確にするためのスキル `/grill-me`",
+    "link": "https://azukiazusa.dev/blog/before-implementation-interview-design-requirements-grill-me/",
+    "pubDate": "2026-06-14T08:31:02.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「とうとうChatGPTがBANされてしまった」3年間の歴史が一通のメールで全て消えたというポスト主…同情の声が集まるが、その理由を知って納得「当たり前すぎる」",
     "link": "https://togetter.com/li/2709159",
     "pubDate": "2026-06-14T07:12:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ループエンジニアリングで再考する仕様書駆動開発 | ドクセル",
+    "link": "https://www.docswell.com/s/laiso/ZY8VG4-sdd-in-loop-engineering",
+    "pubDate": "2026-06-14T04:49:40.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +24,28 @@
     "pubDate": "2026-06-14T02:38:37.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "従量制になったGithub Copilotの代わりにOpenCode GoをCopilot Chatのカスタムプロバイダとして使う",
+    "link": "https://zenn.dev/kusuke/articles/82129236caa5f8",
+    "pubDate": "Sun, 14 Jun 2026 01:07:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "3年間、AI要件定義に取り組んできた全記録",
     "link": "https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-14T00:44:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること",
+    "link": "https://zenn.dev/yun_bow/articles/6e6bcbf127072a",
+    "pubDate": "Sun, 14 Jun 2026 00:14:20 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Fable 5停止をきっかけにUbuntuでGemma 4 E2Bを動かした記録",
+    "link": "https://zenn.dev/yamadatt/articles/20260614-ubuntu-gemma4-ollama",
+    "pubDate": "Sun, 14 Jun 2026 00:00:12 GMT"
   },
   {
     "site": "Qiita",
@@ -24,16 +54,28 @@
     "pubDate": "2026-06-13T23:18:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NVIDIAのCEO、日本を素通り　歴訪の韓国・台湾に劣るパートナーの魅力 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN091C60Z00C26A6000000/",
-    "pubDate": "2026-06-13T22:18:46.000Z"
+    "site": "Zenn",
+    "title": "AIエージェント時代の品質保証 ― 監査駆動フィードバック開発という考え方",
+    "link": "https://zenn.dev/ichikawa_y/articles/audit-driven-feedback-development",
+    "pubDate": "Sat, 13 Jun 2026 17:53:22 GMT"
   },
   {
     "site": "Hatena",
     "title": "田んぼ不要で年6回も収穫。ミニ＆スピーディなお米で稲作の歴史は変わるのか？ | ギズモード・ジャパン",
     "link": "https://www.gizmodo.jp/article/rice-factory-jrt/",
     "pubDate": "2026-06-13T17:19:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "100万トークン対応コーディングLLM「GLM-5.2」公開、来週オープンソース化",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2116962.html",
+    "pubDate": "2026-06-13T17:04:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot 難民 ～ Cluade Code ～ Google AI Studio ～ そして Codex へ",
+    "link": "https://zenn.dev/ssknaoya/articles/d9becba1164230",
+    "pubDate": "Sat, 13 Jun 2026 17:00:18 GMT"
   },
   {
     "site": "Zenn",
@@ -43,13 +85,19 @@
   },
   {
     "site": "Zenn",
+    "title": "勉強した分だけ Mac を使える家庭内ツールを作った",
+    "link": "https://zenn.dev/takao2704/articles/devicelocker-mac-usage-control",
+    "pubDate": "Sat, 13 Jun 2026 15:33:07 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "黄金整数環とゾムツール",
     "link": "https://zenn.dev/tomoq/articles/9b3db390594cc0",
     "pubDate": "Sat, 13 Jun 2026 15:21:47 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Pythonばかり書いてきた私がJavaScriptの世界観を理解するために用語(Node.js等)を整理した",
+    "title": "Pythonばかり書いてきた私の視点で、JavaScriptの世界観を理解するための用語(Node.js等)を整理した",
     "link": "https://zenn.dev/lotation/articles/a1e0a8658d29ba",
     "pubDate": "Sat, 13 Jun 2026 14:35:32 GMT"
   },
@@ -66,28 +114,10 @@
     "pubDate": "2026-06-13T12:37:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Obsidian Web Clipperで保存するときにURLごとにタグを自動で付ける | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/obsidian-web-clipper-url-tags/",
-    "pubDate": "2026-06-13T10:23:08.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "DiffusionGemmaの「生成途中の揺らぎ」で概念の矛盾を測る",
-    "link": "https://zenn.dev/tesla/articles/9e618eb27c01ff",
-    "pubDate": "Sat, 13 Jun 2026 08:59:29 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった - Qiita",
-    "link": "https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024",
-    "pubDate": "2026-06-13T08:41:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "デバッガーがプログラマーにバグ報告をするとき伝え方で反応が全く変わることがあったが何がダメだったんだ？「言っていることは同じ？」「このケースだと明らかに違う」",
-    "link": "https://togetter.com/li/2708806",
-    "pubDate": "2026-06-13T08:24:01.000Z"
+    "title": "Fable 5にローカルLLMで動くコーディングエージェントを作らせてた話",
+    "link": "https://zenn.dev/yy7613/articles/173404d60a6150",
+    "pubDate": "Sat, 13 Jun 2026 12:34:31 GMT"
   },
   {
     "site": "Qiita",
@@ -96,46 +126,22 @@
     "pubDate": "2026-06-13T07:48:04.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "半年でNext.jsアプリを10本作って見えた設計の「判断基準」-- Next.js 15 を作るガイドライン解説 ── 10本の実践アプリ",
-    "link": "https://zenn.dev/yun_bow/articles/87d781437d1ddf",
-    "pubDate": "Sat, 13 Jun 2026 07:22:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Fable 5 はどんなコーディング特性だったのか——Opus 4.8 と統計的に比較した記録（オトナの自由研究 #26）",
-    "link": "https://zenn.dev/nnakapa/articles/lab-26-fable5-opus48-coding-traits",
-    "pubDate": "Sat, 13 Jun 2026 06:07:07 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code × OpenSCAD × 3Dプリンターで、憧れの3Dプリンター住宅を施工してみた",
     "link": "https://qiita.com/issey_dotlog/items/19b84d3a38c1c9aa9567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-13T04:25:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GoのパッケージシステムをJavaと比較しながら理解する",
-    "link": "https://zenn.dev/tonbi_attack/articles/54052885015412",
-    "pubDate": "Sat, 13 Jun 2026 04:22:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Even G2買ったらアプリも作ろう！使用感とアプリ開発のTips",
-    "link": "https://zenn.dev/yokomachi/articles/202606_eveng2_app",
-    "pubDate": "Sat, 13 Jun 2026 04:02:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Fable 5が突然使えなくなった(輸出管理指令によるアクセス停止)",
-    "link": "https://zenn.dev/yamadatt/articles/20260613-fable5-access-suspended",
-    "pubDate": "Sat, 13 Jun 2026 02:00:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【AWS】AI-DLCを実際にチームでやってみてわかったことをまとめてみました",
     "link": "https://qiita.com/yakumo_09/items/76e416a5ae28f18ad976?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-12T23:42:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「SaaSの死」に会計ソフトfreeeが逆張りして見えた、AIエージェント時代の「正解」【Code with Claude 2026】 | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2606-freee-beyond-the-death-of-saas/",
+    "pubDate": "2026-06-12T21:10:11.000Z"
   },
   {
     "site": "Qiita",
@@ -145,15 +151,9 @@
   },
   {
     "site": "Qiita",
-    "title": "「良い命名」できていますか？ ― ITの名前の由来をアルファベット順に集めてみたから、インスピレーションしてください。",
+    "title": "【まとめ】「良い命名」できていますか？ ― ITの名前の由来をAからZまでアルファベット順に集めてみたから、インスピレーションしてください。",
     "link": "https://qiita.com/tomoki-miso/items/a754fff1885f6cf0a146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-12T08:59:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "いかにして既存の自律LLMエージェントを超えるエージェントをつくるか - 試行錯誤の痕跡",
-    "link": "https://zenn.dev/minamorl/articles/ba026ee683bff2",
-    "pubDate": "Fri, 12 Jun 2026 08:28:26 GMT"
   },
   {
     "site": "Qiita",
