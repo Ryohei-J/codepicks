@@ -1,45 +1,75 @@
 [
   {
     "site": "Hatena",
-    "title": "Gemma 4 31B + S3 Vectors + AgentCore で低コストな RAG を構築してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/gemma4-s3vectors-agentcore-rag/",
-    "pubDate": "2026-06-14T14:37:32.000Z"
+    "title": "Claude Code と Codex CLI を “設計者と作業者” として組み合わせる開発フローの話",
+    "link": "https://blog.asial.co.jp/6859/",
+    "pubDate": "2026-06-15T03:02:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「超かぐや姫！」を Claude Mythos (Fable) に見せて感想聞いたら現実がSFになった｜とりしま日記",
-    "link": "https://note.com/sumisutori/n/nd5a035ad9526",
-    "pubDate": "2026-06-14T11:15:51.000Z"
+    "title": "【特集】 “何でもやってくれる”AIエージェント「OpenClaw」を試して知った魔力と怖さ",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2117008.html",
+    "pubDate": "2026-06-15T01:19:33.000Z"
   },
   {
     "site": "Hatena",
-    "title": "自分がやっていることを伝える技術 - Konifar's ZATSU",
-    "link": "https://konifar-zatsu.hatenadiary.jp/entry/2026/06/14/175633",
-    "pubDate": "2026-06-14T09:28:55.000Z"
+    "title": "ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？　8日間の実験で検証した研究",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news028.html",
+    "pubDate": "2026-06-14T23:19:14.000Z"
   },
   {
     "site": "Hatena",
-    "title": "実装前に設計を徹底的にインタビューし、要件を明確にするためのスキル `/grill-me`",
-    "link": "https://azukiazusa.dev/blog/before-implementation-interview-design-requirements-grill-me/",
-    "pubDate": "2026-06-14T08:31:02.000Z"
+    "title": "「Fable 5」停止から2日、MicrosoftのナデラCEOがXに「エコシステムなきフロンティアは不安定」と投稿",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news055.html",
+    "pubDate": "2026-06-14T22:42:11.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「とうとうChatGPTがBANされてしまった」3年間の歴史が一通のメールで全て消えたというポスト主…同情の声が集まるが、その理由を知って納得「当たり前すぎる」",
-    "link": "https://togetter.com/li/2709159",
-    "pubDate": "2026-06-14T07:12:24.000Z"
+    "title": "ブクマカの採用面接で落ちた、日本死ね",
+    "link": "https://anond.hatelabo.jp/20260615064526",
+    "pubDate": "2026-06-14T22:03:25.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ループエンジニアリングで再考する仕様書駆動開発 | ドクセル",
-    "link": "https://www.docswell.com/s/laiso/ZY8VG4-sdd-in-loop-engineering",
-    "pubDate": "2026-06-14T04:49:40.000Z"
+    "title": "DAZNは一体「何」を謝罪したのか？　“月980円”への直接言及なし…が示すこと",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2606/14/news020.html",
+    "pubDate": "2026-06-14T12:49:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "K-Meansのクラスタ数はどう決める？シルエット法で最適なKを見つける方法",
+    "link": "https://qiita.com/KanNishida/items/3779701ad40b74b491c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-14T12:22:44.000Z"
   },
   {
     "site": "Hatena",
-    "title": "はてなブックマークは「Togetterブックマーク」に名前を変えるべき",
-    "link": "https://anond.hatelabo.jp/20260614112126",
-    "pubDate": "2026-06-14T02:38:37.000Z"
+    "title": "昔はPCで描く→愛がないじゃった",
+    "link": "https://posfie.com/@xay6609025327/p/BtRlsbV",
+    "pubDate": "2026-06-14T10:30:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "超精密インデックス「PageIndex」で実現する推論ベースRAG（JTC版）",
+    "link": "https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex",
+    "pubDate": "Sun, 14 Jun 2026 08:08:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "JavaScriptのClass離れの歴史をたどる話",
+    "link": "https://zenn.dev/sjbworks/articles/41a5c76dce4b36",
+    "pubDate": "Sun, 14 Jun 2026 04:05:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「生成AIで属人性を解消」には、違和感を感じる。",
+    "link": "https://zenn.dev/ncdc/articles/8f8f3bf16017f7",
+    "pubDate": "Sun, 14 Jun 2026 04:00:08 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【速報】米、アマゾンの指摘で先端AI停止指示か",
+    "link": "https://www.47news.jp/14466518.html",
+    "pubDate": "2026-06-14T01:53:55.000Z"
   },
   {
     "site": "Zenn",
@@ -73,6 +103,12 @@
   },
   {
     "site": "Zenn",
+    "title": "「原則」を Rules / Skills にして運用してみた",
+    "link": "https://zenn.dev/tingtt/articles/fc05c73f8265e4",
+    "pubDate": "Sat, 13 Jun 2026 21:37:29 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIエージェント時代の品質保証 ― 監査駆動フィードバック開発という考え方",
     "link": "https://zenn.dev/ichikawa_y/articles/audit-driven-feedback-development",
     "pubDate": "Sat, 13 Jun 2026 17:53:22 GMT"
@@ -90,24 +126,6 @@
     "pubDate": "Sat, 13 Jun 2026 16:00:54 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "勉強した分だけ Mac を使える家庭内ツールを作った",
-    "link": "https://zenn.dev/takao2704/articles/devicelocker-mac-usage-control",
-    "pubDate": "Sat, 13 Jun 2026 15:33:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "黄金整数環とゾムツール",
-    "link": "https://zenn.dev/tomoq/articles/9b3db390594cc0",
-    "pubDate": "Sat, 13 Jun 2026 15:21:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Pythonばかり書いてきた私の視点で、JavaScriptの世界観を理解するための用語(Node.js等)を整理した",
-    "link": "https://zenn.dev/lotation/articles/a1e0a8658d29ba",
-    "pubDate": "Sat, 13 Jun 2026 14:35:32 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
     "link": "https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,27 +133,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「幕末」の数学者たち: AIと数学｜R. Shimada",
-    "link": "https://note.com/rshimada/n/n776da2f06fc8",
-    "pubDate": "2026-06-13T12:37:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Fable 5にローカルLLMで動くコーディングエージェントを作らせてた話",
-    "link": "https://zenn.dev/yy7613/articles/173404d60a6150",
-    "pubDate": "Sat, 13 Jun 2026 12:34:31 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "自治体のガバメントクラウド AWS 環境で現在 Bedrock をどこまで使えるのか（2026 年 6 月版）",
-    "link": "https://qiita.com/takeda_h/items/b5ccdb0f2f7c6c09f0b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-13T07:48:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code × OpenSCAD × 3Dプリンターで、憧れの3Dプリンター住宅を施工してみた",
-    "link": "https://qiita.com/issey_dotlog/items/19b84d3a38c1c9aa9567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-13T04:25:07.000Z"
+    "title": "今Fitbitを買ってはいけない。絶対にだ。",
+    "link": "https://anond.hatelabo.jp/20260613114557",
+    "pubDate": "2026-06-13T02:55:36.000Z"
   },
   {
     "site": "Qiita",
@@ -144,16 +144,16 @@
     "pubDate": "2026-06-12T23:42:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「AIを使うほど人はバカになる」は本当か？　研究が示す思考力低下のリスクと3つの対策",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/13/news006.html",
-    "pubDate": "2026-06-12T23:02:59.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
     "link": "https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-12T19:48:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "テストアーキテクチャの全体戦略：品質定義から継続的改善まで",
+    "link": "https://qiita.com/Kudo_panda/items/509bdc7e9ab639abf0b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-12T13:32:30.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +168,15 @@
     "pubDate": "2026-06-12T06:42:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "言語の庭 — ことばを育てて、言語をつくる",
-    "link": "https://kmizu.github.io/cs-edu-site/",
-    "pubDate": "2026-06-11T21:30:28.000Z"
+    "site": "Qiita",
+    "title": "ハンズオン！夢が詰まったサンドボックスシステム、Microsoft Execution Containers（MXC）とは",
+    "link": "https://qiita.com/ymd65536/items/1f8b1ac21186d841cd48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-12T05:13:58.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【保存版】Linux作業を爆速化する便利コマンド5選",
-    "link": "https://qiita.com/K_TAKETO/items/66d70ce4ed54139998a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-11T08:09:12.000Z"
+    "site": "Zenn",
+    "title": "もうプロンプトを書くな──「Loop Engineering」という新しいパラダイムの正体",
+    "link": "https://zenn.dev/acrosstudioblog/articles/38509c0473683a",
+    "pubDate": "2026-06-11T13:15:11.000Z"
   }
 ]
