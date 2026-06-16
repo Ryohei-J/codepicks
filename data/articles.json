@@ -7,6 +7,12 @@
   },
   {
     "site": "Hatena",
+    "title": "PRごとに検証環境が立ち上がる仕組みをTerraform × GitHub Actionsで作った話 - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2026/06/16/153849",
+    "pubDate": "2026-06-16T12:23:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "エンジニアリング戦略の作り方 / Crafting Engineering Strategy",
     "link": "https://speakerdeck.com/iwashi86/crafting-engineering-strategy",
     "pubDate": "2026-06-16T12:09:51.000Z"
@@ -54,6 +60,12 @@
     "pubDate": "2026-06-16T04:24:18.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【まとめ】世は大AIブラウザ時代！12種類全部使って徹底レビュー！【乗るしかねえ、このBIG WAVEに🌊】",
+    "link": "https://qiita.com/issey_dotlog/items/b59c083cf053e605e8e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-16T02:57:20.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい",
     "link": "https://zenn.dev/kaseken/articles/3913ba30af4d46",
@@ -64,12 +76,6 @@
     "title": "未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ",
     "link": "https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-16T01:12:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "食べたらカロリーを自動測定してくれるスマートウォッチが登場、シャープから「からだメイト Watch」",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2117347.html",
-    "pubDate": "2026-06-16T01:05:02.000Z"
   },
   {
     "site": "Zenn",
@@ -109,9 +115,9 @@
   },
   {
     "site": "Qiita",
-    "title": "AIエージェントに組み込んだAgent SkillsをSkillOpsで評価する",
-    "link": "https://qiita.com/licux/items/9c640601a1dde7c18d9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-15T09:06:18.000Z"
+    "title": "【PHP】PHP最大の問題点はこれだ！！",
+    "link": "https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-15T10:31:17.000Z"
   },
   {
     "site": "Zenn",
@@ -139,12 +145,6 @@
   },
   {
     "site": "Qiita",
-    "title": "コーディングエージェント時代に、あえて自分でコードを書く",
-    "link": "https://qiita.com/tomoki-miso/items/81433a4eaae7d2030751?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-15T03:37:25.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし",
     "link": "https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-15T01:56:34.000Z"
@@ -163,6 +163,12 @@
   },
   {
     "site": "Qiita",
+    "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
+    "link": "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-14T08:08:05.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【個人開発】本を読んだままにしない実践支援アプリを作った【React / TypeScript / Firebase / Supabase】",
     "link": "https://qiita.com/o68606007/items/9c7ac3a086ebccc4a32b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-14T08:02:08.000Z"
@@ -172,11 +178,5 @@
     "title": "3年間、AI要件定義に取り組んできた全記録",
     "link": "https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-14T00:44:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
-    "link": "https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-13T14:05:19.000Z"
   }
 ]
