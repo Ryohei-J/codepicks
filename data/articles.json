@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "エンジニアと英語 ― 言語だけではない「ハングリー精神」という生存競争｜てくの",
+    "link": "https://note.com/hktechno/n/n1190b96212f1",
+    "pubDate": "2026-06-16T02:51:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows 11向けの新しい「Kindle」アプリが登場、しかし評価のほとんどが星1つと大炎上【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2117404.html",
+    "pubDate": "2026-06-16T02:26:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "三菱の家電にWi-Fi脆弱性、エアコンや冷蔵庫、炊飯器など広範囲　ユーザーに対応求める",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/16/news066.html",
+    "pubDate": "2026-06-16T01:40:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "食べたらカロリーを自動測定してくれるスマートウォッチが登場、シャープから「からだメイト Watch」",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2117347.html",
+    "pubDate": "2026-06-16T01:05:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "落合陽一、玉城絵美らを世界へ送った「東大・暦本研」にみる“天才”を育てる土壌 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/31183/",
+    "pubDate": "2026-06-15T17:28:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "使わなくなったスマホをサーバーに、Google支援で2000台のPixelを再利用",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2117297.html",
+    "pubDate": "2026-06-15T15:22:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "[みんなのケータイ]アプリもAIも終了した「Honda e」、「スマホのようなクルマ」の切ない現実",
     "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2117253.html",
     "pubDate": "2026-06-15T15:09:18.000Z"
@@ -12,40 +48,22 @@
     "pubDate": "2026-06-15T13:58:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ゲーム開発者間で「ゲームデザインは書類でガチガチに固める必要あるか」巡って議論沸騰。ヒット作の“800ページ超えデザインドキュメント”、真似るべきか否か - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20260615-449795/",
-    "pubDate": "2026-06-15T10:17:26.000Z"
+    "site": "Zenn",
+    "title": "ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？",
+    "link": "https://zenn.dev/aldagram_tech/articles/124d14d59bc595",
+    "pubDate": "2026-06-15T09:25:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "セイコーソリューションズ、SSL証明書の更新を自動化する「Smart Cert Manageサービス」をリニューアル",
-    "link": "https://cloud.watch.impress.co.jp/docs/news/2116870.html",
-    "pubDate": "2026-06-15T09:48:41.000Z"
+    "site": "Zenn",
+    "title": "ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？",
+    "link": "https://zenn.dev/aldagram_tech/articles/124d14d59bc595",
+    "pubDate": "Mon, 15 Jun 2026 07:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「ChatGPT」と「Gemini」で「Canva」のマジックレイヤーが利用可能に／“フラットな”1枚のAI生成画像をパーツごとにレイヤー化された「Canva」デザインに",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2117005.html",
-    "pubDate": "2026-06-15T08:33:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "技術広報チームのマネージャーに贈る、経営層に説明できる評価軸 - 941::blog",
-    "link": "https://blog.kushii.net/archives/2026/06/15/163726",
-    "pubDate": "2026-06-15T08:14:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "あの「カシャッ！」は意味なし？　スマホの「シャッター音」実態に即さず、ネットに見直しを求める声",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2606/15/news096.html",
-    "pubDate": "2026-06-15T08:06:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "機能を作るな。楽して作るな。 （LayerX社内資料） Don’t Build Features. Don’t Take the Easy Way Out.",
-    "link": "https://speakerdeck.com/mosa_siru/don-t-build-features-dot-don-t-take-the-easy-way-out",
-    "pubDate": "2026-06-15T05:27:28.000Z"
+    "site": "Zenn",
+    "title": "戦術AIから戦略AIへ Snowflake SUMMIT 2026に参加して",
+    "link": "https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai",
+    "pubDate": "Mon, 15 Jun 2026 05:40:54 GMT"
   },
   {
     "site": "Qiita",
@@ -79,15 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AIエージェントはCloudflareに賭けろ",
-    "link": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
-    "pubDate": "2026-06-15T03:10:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "グーグル、AIのための知識共有フォーマット「OKF」を公開",
-    "link": "https://www.watch.impress.co.jp/docs/news/2116974.html",
-    "pubDate": "2026-06-15T02:39:11.000Z"
+    "title": "「ストーリー」と「視線誘導」を意識しながら、生成AIとともにイイ感じのスライドを作る",
+    "link": "https://zenn.dev/tokium_dev/articles/slide-deck-craft-with-ai",
+    "pubDate": "Mon, 15 Jun 2026 03:00:11 GMT"
   },
   {
     "site": "Zenn",
@@ -106,6 +118,18 @@
     "title": "CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし",
     "link": "https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-15T01:56:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenTelemetry形式でテレメトリーデータを合成するk6拡張を作った",
+    "link": "https://zenn.dev/ymotongpoo/articles/20260615-xk6-otel-gen-intro",
+    "pubDate": "Mon, 15 Jun 2026 00:00:42 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "情報システムの価値を壊すセキュリティは悪である｜情シスとセキュリティ部門は分けるべきなのか | CloudNative BLOGs",
+    "link": "https://blog.cloudnative.co.jp/articles/security-that-destroys-it-value/",
+    "pubDate": "2026-06-14T22:32:04.000Z"
   },
   {
     "site": "Zenn",
@@ -130,30 +154,6 @@
     "title": "文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話",
     "link": "https://qiita.com/hiyoshiz/items/b63c2e7ff52b5554a8a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-14T13:14:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake Summit26に参加してブースを全部回ってみた話",
-    "link": "https://zenn.dev/truestar/articles/4d026fdd4d39fa",
-    "pubDate": "Sun, 14 Jun 2026 11:56:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Docker/Kubernetesをつなぐコンテナランタイム「Raind」",
-    "link": "https://zenn.dev/shizuku1984/articles/3f546a7ddd780a",
-    "pubDate": "Sun, 14 Jun 2026 11:51:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの「court 無限ループ」から、会話を捨てずに復活する（Opus 4.8）",
-    "link": "https://zenn.dev/shotakada/articles/claude-code-opus48-court-loop",
-    "pubDate": "Sun, 14 Jun 2026 10:42:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "どうすれば月2億円分のトークンを燃やせるのか",
-    "link": "https://zenn.dev/r_kaga/articles/340fba67527789",
-    "pubDate": "Sun, 14 Jun 2026 10:26:09 GMT"
   },
   {
     "site": "Qiita",
