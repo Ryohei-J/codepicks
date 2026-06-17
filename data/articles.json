@@ -1,15 +1,33 @@
 [
   {
-    "site": "Hatena",
-    "title": "mastra ソフトウェアサプライチェーン攻撃の概要と対応指針 - GMO Flatt Security Blog",
-    "link": "https://blog.flatt.tech/entry/mastra_compromise",
-    "pubDate": "2026-06-17T07:54:15.000Z"
+    "site": "Zenn",
+    "title": "会社員のためのCodex資料作成術：Skillで統一感のあるプレゼン資料を作る実践ガイド",
+    "link": "https://zenn.dev/acntechjp/articles/c2bff25e230539",
+    "pubDate": "2026-06-17T10:56:43.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ゆうちょ銀、ATM引き出し上限を引き下げ　200万→50万",
-    "link": "https://www.watch.impress.co.jp/docs/news/2117818.html",
-    "pubDate": "2026-06-17T04:45:12.000Z"
+    "title": "ホンダ・シビックに任意のコードを実行可能な脆弱性「EvilValet」が見つかる",
+    "link": "https://gigazine.net/news/20260617-honda-civic-evil-valet/",
+    "pubDate": "2026-06-17T10:01:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "小さくはじめるSLI/SLO ～育てながら組織に定着させる実践知～ / Starting Small with SLI/SLOs: Building Adoption Through Continuous Growth",
+    "link": "https://speakerdeck.com/nari_ex/slos-building-adoption-through-continuous-growth",
+    "pubDate": "2026-06-17T09:27:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Opus 4.7超えの中華モデル「GLM-5.2」が正式発表される、一部テストではClaude Fable 5を上回りオープンモデルとして誰でもダウンロード可能に",
+    "link": "https://gigazine.net/news/20260617-z-ai-glm-5-2-release/",
+    "pubDate": "2026-06-17T06:24:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "イオンモールおじさんはどうすべきなのか？　買い替えずに「同じ服を活かせる着こなし」をAIに教えてもらった",
+    "link": "https://rocketnews24.com/2026/06/17/2772729/",
+    "pubDate": "2026-06-17T04:47:14.000Z"
   },
   {
     "site": "Qiita",
@@ -18,16 +36,16 @@
     "pubDate": "2026-06-17T04:39:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTの利用者シェアが初めて50％割れ、GeminiやClaudeが追い上げ",
-    "link": "https://gigazine.net/news/20260617-state-of-ai/",
-    "pubDate": "2026-06-17T04:12:10.000Z"
+    "site": "Zenn",
+    "title": "自己改善エージェントはなぜ前提を覆せないのか ― 局所最適とハーネスでの脱出",
+    "link": "https://zenn.dev/layerx/articles/b36ceffe6b5e20",
+    "pubDate": "Wed, 17 Jun 2026 02:00:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "日本における青少年のSNS「一律の年齢規制は望ましくない」、総務省が報告書取りまとめへ　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2117666.html",
-    "pubDate": "2026-06-17T01:53:10.000Z"
+    "site": "Zenn",
+    "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
+    "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+    "pubDate": "Wed, 17 Jun 2026 01:34:53 GMT"
   },
   {
     "site": "Hatena",
@@ -37,21 +55,15 @@
   },
   {
     "site": "Hatena",
-    "title": "誰もが「つくれる」時代、価値はどこに宿るのか── 『INSPIRED』Marty Cagan氏が語る、AI時代のプロダクトづくり - Findy Media",
-    "link": "https://findy-code.io/media/articles/product-management-summit-keynote",
-    "pubDate": "2026-06-16T23:51:24.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "査読は「ほぼ破綻」している――生成AI時代の研究成果公開を、もう一度設計し直す：JSAI2026 企画セッション「生成AI・プレプリント時代における研究成果公開の再設計」開催報告｜一般社団法人 情報科学技術協会（INFOSTA）",
     "link": "https://note.com/infosta/n/nb717c9c3c3d0",
     "pubDate": "2026-06-16T23:51:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ　ただし危うさも",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/17/news020.html",
-    "pubDate": "2026-06-16T23:27:08.000Z"
+    "site": "Zenn",
+    "title": "Data + AI Summit 2026  初日Keynote：Genie Ontology を現地スライドで読み解く",
+    "link": "https://zenn.dev/kazushi6/articles/3d58cfe511bcc3",
+    "pubDate": "Tue, 16 Jun 2026 19:53:36 GMT"
   },
   {
     "site": "Qiita",
@@ -67,21 +79,21 @@
   },
   {
     "site": "Zenn",
+    "title": "「自分の PC では入るのに」── 同僚の pip install が C++ コンパイラで止まって、見えてなかった導入障壁に気づいた話",
+    "link": "https://zenn.dev/satoh_y_0323/articles/5f1a602cf200e1",
+    "pubDate": "Tue, 16 Jun 2026 13:23:10 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ローカルLLMをいつ使うべきか？",
     "link": "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
     "pubDate": "2026-06-16T10:17:25.000Z"
   },
   {
     "site": "Zenn",
-    "title": "GLM-5.2は本当にオープンソースになったのか？月18ドルからClaude Codeに挿して試す",
-    "link": "https://zenn.dev/ino_h/articles/2026-06-16-glm-5-2-opensource-cost",
-    "pubDate": "Tue, 16 Jun 2026 09:31:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "テスト駆動開発（TDD）をやってみた",
-    "link": "https://zenn.dev/wwwave/articles/fba5f88cf5f52b",
-    "pubDate": "Tue, 16 Jun 2026 08:24:03 GMT"
+    "title": "バイブコーディングでできたこと・できなかったこと",
+    "link": "https://zenn.dev/baleenstudio/articles/928435eab25064",
+    "pubDate": "Tue, 16 Jun 2026 10:04:53 GMT"
   },
   {
     "site": "Zenn",
@@ -94,6 +106,12 @@
     "title": "Claude CodeとCodex CLIのテレメトリーをGrafana Cloudで見る",
     "link": "https://zenn.dev/ymotongpoo/articles/20260616-ai-cli-otel-grafana",
     "pubDate": "Tue, 16 Jun 2026 07:45:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleが公開したAIエージェント向け知識共有フォーマット『OKF』を触ってみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/open-knowledge-format-okf-v01-guide/",
+    "pubDate": "2026-06-16T07:34:10.000Z"
   },
   {
     "site": "Zenn",
@@ -109,39 +127,21 @@
   },
   {
     "site": "Zenn",
-    "title": "URLパスと型で\"認可\"を実装パターンにする",
-    "link": "https://zenn.dev/macopy/articles/551dcf5ba8c6ac",
-    "pubDate": "Tue, 16 Jun 2026 05:01:07 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "5万スターのClaude Code Tips集、本質は2つだけ",
     "link": "https://zenn.dev/acntechjp/articles/5409d8e2ad0767",
     "pubDate": "2026-06-16T03:58:29.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Unity 6.6 の Dictionary シリアライズサポートについて調べてみた",
-    "link": "https://zenn.dev/monry/articles/20260616-unity66-serializable-dictionary",
-    "pubDate": "Tue, 16 Jun 2026 03:20:20 GMT"
+    "title": "「とりあえず許可」を卒業する：Claude Codeの実行前に行動説明を表示するHookを作ってみた",
+    "link": "https://zenn.dev/nttdata_tech/articles/d2edb6a9fe5d7f",
+    "pubDate": "Tue, 16 Jun 2026 03:35:55 GMT"
   },
   {
     "site": "Qiita",
     "title": "未経験からエンジニアを目指すなら知っておきたい、職種の広がり方と成長を続けるコツ",
     "link": "https://qiita.com/masa20057/items/78b5387e7dacf4aba403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-16T01:12:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026年6月現在の Claude Code 開発フロー",
-    "link": "https://zenn.dev/arm_techblog/articles/7712cde19988c8",
-    "pubDate": "Tue, 16 Jun 2026 00:59:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI の不時着 ~ コードの国を追われ、要求の国へ ~",
-    "link": "https://zenn.dev/layerx/articles/947ce6d31701cf",
-    "pubDate": "Tue, 16 Jun 2026 00:55:05 GMT"
   },
   {
     "site": "Qiita",
