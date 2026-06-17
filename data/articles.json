@@ -1,39 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "スペースX、プログラミングAI開発の米新興Cursor買収　9.6兆円 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN16BC70W6A610C2000000/",
-    "pubDate": "2026-06-16T13:08:00.000Z"
+    "title": "誰もが「つくれる」時代、価値はどこに宿るのか── 『INSPIRED』Marty Cagan氏が語る、AI時代のプロダクトづくり - Findy Media",
+    "link": "https://findy-code.io/media/articles/product-management-summit-keynote",
+    "pubDate": "2026-06-16T23:51:24.000Z"
   },
   {
     "site": "Hatena",
-    "title": "PRごとに検証環境が立ち上がる仕組みをTerraform × GitHub Actionsで作った話 - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2026/06/16/153849",
-    "pubDate": "2026-06-16T12:23:53.000Z"
+    "title": "査読は「ほぼ破綻」している――生成AI時代の研究成果公開を、もう一度設計し直す：JSAI2026 企画セッション「生成AI・プレプリント時代における研究成果公開の再設計」開催報告｜一般社団法人 情報科学技術協会（INFOSTA）",
+    "link": "https://note.com/infosta/n/nb717c9c3c3d0",
+    "pubDate": "2026-06-16T23:51:02.000Z"
   },
   {
     "site": "Hatena",
-    "title": "エンジニアリング戦略の作り方 / Crafting Engineering Strategy",
-    "link": "https://speakerdeck.com/iwashi86/crafting-engineering-strategy",
-    "pubDate": "2026-06-16T12:09:51.000Z"
+    "title": "月間売上1億円超、“推しAI”アプリ「Zeta」がオタク女子わしづかみ　ただし危うさも",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/17/news020.html",
+    "pubDate": "2026-06-16T23:27:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "C++言語に「ネコミミ」演算子!? かわいい顔して強力なメタプログラミング機能を提供／「C++26」で導入へ【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2117584.html",
-    "pubDate": "2026-06-16T09:32:14.000Z"
+    "title": "テクノロジー業界のリーダーたちが「魅力的なオタク」から「嫌な金持ち」へと変貌を遂げた経緯とは？",
+    "link": "https://gigazine.net/news/20260616-nerds-technology-industry-leader-terrifying-overlord/",
+    "pubDate": "2026-06-16T12:32:26.000Z"
   },
   {
     "site": "Hatena",
-    "title": "japanese-tech-writing/SKILL",
-    "link": "https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d",
-    "pubDate": "2026-06-16T07:40:11.000Z"
+    "title": "AIで女性を裸にしてしまうヌード化ツールがXアカウントで宣伝されている",
+    "link": "https://gigazine.net/news/20260616-ai-nudify-tools/",
+    "pubDate": "2026-06-16T11:24:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜMicrosoftはローカルアカウントを嫌うのか？ Windows 11で議論再燃 | ソフトアンテナ",
-    "link": "https://softantenna.com/blog/windows11-microsoft-account-issue/",
-    "pubDate": "2026-06-16T07:21:54.000Z"
+    "site": "Zenn",
+    "title": "一般社団法人Gophers Japan 共同理事就任のご報告",
+    "link": "https://zenn.dev/gophersjp/articles/gophersjapan-co-director-joined",
+    "pubDate": "Tue, 16 Jun 2026 08:08:47 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude CodeとCodex CLIのテレメトリーをGrafana Cloudで見る",
+    "link": "https://zenn.dev/ymotongpoo/articles/20260616-ai-cli-otel-grafana",
+    "pubDate": "Tue, 16 Jun 2026 07:45:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "`cp`はディスク上ではデータをコピーしないことがある",
+    "link": "https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86",
+    "pubDate": "2026-06-16T07:42:30.000Z"
   },
   {
     "site": "Zenn",
@@ -42,22 +54,28 @@
     "pubDate": "Tue, 16 Jun 2026 06:49:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「ヨドバシカメラ 池袋店」、6月30日オープン",
-    "link": "https://www.watch.impress.co.jp/docs/news/2117529.html",
-    "pubDate": "2026-06-16T06:11:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "文春「高市陣営のAI中傷動画」に決定的な矛盾。小泉氏攻撃に使われた写真は選挙後に撮影されたもの（篠原修司） - エキスパート - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/expert/articles/94b46213381af3fb326314e5682ba534bfe37630",
-    "pubDate": "2026-06-16T04:40:50.000Z"
+    "site": "Zenn",
+    "title": "Hono で API バックエンドを作るときの個人的ベストプラクティス",
+    "link": "https://zenn.dev/ashunar0/articles/1ba94a110d8622",
+    "pubDate": "Tue, 16 Jun 2026 06:05:05 GMT"
   },
   {
     "site": "Zenn",
     "title": "2026年6月現在の Claude Code 開発フロー",
     "link": "https://zenn.dev/arm_techblog/articles/7712cde19988c8",
     "pubDate": "2026-06-16T04:24:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "5万スターのClaude Code Tips集、本質は2つだけ",
+    "link": "https://zenn.dev/acntechjp/articles/5409d8e2ad0767",
+    "pubDate": "2026-06-16T03:58:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI「間違って全データを消してしまいました。申し訳ありません」 | ギズモード・ジャパン",
+    "link": "https://www.gizmodo.jp/article/claude-powered-agent-apparently-deletes-company-database-debases-itself-further-in-confession-gbq/",
+    "pubDate": "2026-06-16T03:47:29.000Z"
   },
   {
     "site": "Qiita",
@@ -91,6 +109,18 @@
   },
   {
     "site": "Zenn",
+    "title": "AmazonのRAGに関する研究",
+    "link": "https://zenn.dev/knowledgesense/articles/1b5c7b70a2837c",
+    "pubDate": "Tue, 16 Jun 2026 00:48:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "テスト観点を軸にした品質サイクルのすすめ",
+    "link": "https://zenn.dev/bitkey_dev/articles/test-viewpoint-cycle",
+    "pubDate": "Tue, 16 Jun 2026 00:45:20 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ローカルLLMをいつ使うべきか？",
     "link": "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
     "pubDate": "Tue, 16 Jun 2026 00:37:59 GMT"
@@ -102,46 +132,16 @@
     "pubDate": "Mon, 15 Jun 2026 16:50:48 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "M365 Copilot で実践するハーネス エンジニアリングのループ",
-    "link": "https://zenn.dev/microsoft/articles/m365-copilot-harness-engineering",
-    "pubDate": "Mon, 15 Jun 2026 13:25:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI が大量にアウトプットしてくるので認知負荷を下げる Skill を作った",
-    "link": "https://zenn.dev/hataluck/articles/0752919b305a9f",
-    "pubDate": "Mon, 15 Jun 2026 12:15:48 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【PHP】PHP最大の問題点はこれだ！！",
     "link": "https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-15T10:31:17.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？",
-    "link": "https://zenn.dev/aldagram_tech/articles/124d14d59bc595",
-    "pubDate": "Mon, 15 Jun 2026 07:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "データ基盤にDagsterを導入した話",
-    "link": "https://zenn.dev/gatechnologies/articles/76b3f400c26d1a",
-    "pubDate": "Mon, 15 Jun 2026 05:42:37 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3",
     "link": "https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-15T04:25:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドエンジニアがFigmaのオートレイアウトを駆使して、実装に直結するUIを設計した話",
-    "link": "https://zenn.dev/gakken_leap/articles/71256fe15dd354",
-    "pubDate": "Mon, 15 Jun 2026 04:00:09 GMT"
   },
   {
     "site": "Qiita",
