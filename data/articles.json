@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "mastra ソフトウェアサプライチェーン攻撃の概要と対応指針 - GMO Flatt Security Blog",
+    "link": "https://blog.flatt.tech/entry/mastra_compromise",
+    "pubDate": "2026-06-17T07:54:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ゆうちょ銀、ATM引き出し上限を引き下げ　200万→50万",
+    "link": "https://www.watch.impress.co.jp/docs/news/2117818.html",
+    "pubDate": "2026-06-17T04:45:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選",
+    "link": "https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-17T04:39:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTの利用者シェアが初めて50％割れ、GeminiやClaudeが追い上げ",
+    "link": "https://gigazine.net/news/20260617-state-of-ai/",
+    "pubDate": "2026-06-17T04:12:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本における青少年のSNS「一律の年齢規制は望ましくない」、総務省が報告書取りまとめへ　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2117666.html",
+    "pubDate": "2026-06-17T01:53:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自分のPCで「とりあえず動く」ではなく「一番賢く使える」ローカルLLMを教えてくれる「whichllm」、実測ベンチでランク付け（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/06/17/5192.html",
+    "pubDate": "2026-06-17T00:17:31.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "誰もが「つくれる」時代、価値はどこに宿るのか── 『INSPIRED』Marty Cagan氏が語る、AI時代のプロダクトづくり - Findy Media",
     "link": "https://findy-code.io/media/articles/product-management-summit-keynote",
     "pubDate": "2026-06-16T23:51:24.000Z"
@@ -18,16 +54,34 @@
     "pubDate": "2026-06-16T23:27:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "テクノロジー業界のリーダーたちが「魅力的なオタク」から「嫌な金持ち」へと変貌を遂げた経緯とは？",
-    "link": "https://gigazine.net/news/20260616-nerds-technology-industry-leader-terrifying-overlord/",
-    "pubDate": "2026-06-16T12:32:26.000Z"
+    "site": "Qiita",
+    "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
+    "link": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-16T14:46:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIで女性を裸にしてしまうヌード化ツールがXアカウントで宣伝されている",
-    "link": "https://gigazine.net/news/20260616-ai-nudify-tools/",
-    "pubDate": "2026-06-16T11:24:43.000Z"
+    "site": "Qiita",
+    "title": "Claude Codeでつくる「並列ループエージェント」実践！ハンズオンガイド",
+    "link": "https://qiita.com/kumai_yu/items/54ded70a5a68a5ca15d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-16T13:45:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカルLLMをいつ使うべきか？",
+    "link": "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
+    "pubDate": "2026-06-16T10:17:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GLM-5.2は本当にオープンソースになったのか？月18ドルからClaude Codeに挿して試す",
+    "link": "https://zenn.dev/ino_h/articles/2026-06-16-glm-5-2-opensource-cost",
+    "pubDate": "Tue, 16 Jun 2026 09:31:22 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "テスト駆動開発（TDD）をやってみた",
+    "link": "https://zenn.dev/wwwave/articles/fba5f88cf5f52b",
+    "pubDate": "Tue, 16 Jun 2026 08:24:03 GMT"
   },
   {
     "site": "Zenn",
@@ -45,25 +99,19 @@
     "site": "Zenn",
     "title": "`cp`はディスク上ではデータをコピーしないことがある",
     "link": "https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86",
-    "pubDate": "2026-06-16T07:42:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "`cp`はディスク上ではデータをコピーしないことがある",
-    "link": "https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86",
     "pubDate": "Tue, 16 Jun 2026 06:49:52 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Hono で API バックエンドを作るときの個人的ベストプラクティス",
+    "title": "Hono でバックエンド API を作るときの個人的ベストプラクティス",
     "link": "https://zenn.dev/ashunar0/articles/1ba94a110d8622",
     "pubDate": "Tue, 16 Jun 2026 06:05:05 GMT"
   },
   {
     "site": "Zenn",
-    "title": "2026年6月現在の Claude Code 開発フロー",
-    "link": "https://zenn.dev/arm_techblog/articles/7712cde19988c8",
-    "pubDate": "2026-06-16T04:24:18.000Z"
+    "title": "URLパスと型で\"認可\"を実装パターンにする",
+    "link": "https://zenn.dev/macopy/articles/551dcf5ba8c6ac",
+    "pubDate": "Tue, 16 Jun 2026 05:01:07 GMT"
   },
   {
     "site": "Zenn",
@@ -72,22 +120,10 @@
     "pubDate": "2026-06-16T03:58:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI「間違って全データを消してしまいました。申し訳ありません」 | ギズモード・ジャパン",
-    "link": "https://www.gizmodo.jp/article/claude-powered-agent-apparently-deletes-company-database-debases-itself-further-in-confession-gbq/",
-    "pubDate": "2026-06-16T03:47:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【まとめ】世は大AIブラウザ時代！12種類全部使って徹底レビュー！【乗るしかねえ、このBIG WAVEに🌊】",
-    "link": "https://qiita.com/issey_dotlog/items/b59c083cf053e605e8e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-16T02:57:20.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい",
-    "link": "https://zenn.dev/kaseken/articles/3913ba30af4d46",
-    "pubDate": "2026-06-16T01:27:38.000Z"
+    "title": "Unity 6.6 の Dictionary シリアライズサポートについて調べてみた",
+    "link": "https://zenn.dev/monry/articles/20260616-unity66-serializable-dictionary",
+    "pubDate": "Tue, 16 Jun 2026 03:20:20 GMT"
   },
   {
     "site": "Qiita",
@@ -108,40 +144,16 @@
     "pubDate": "Tue, 16 Jun 2026 00:55:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AmazonのRAGに関する研究",
-    "link": "https://zenn.dev/knowledgesense/articles/1b5c7b70a2837c",
-    "pubDate": "Tue, 16 Jun 2026 00:48:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "テスト観点を軸にした品質サイクルのすすめ",
-    "link": "https://zenn.dev/bitkey_dev/articles/test-viewpoint-cycle",
-    "pubDate": "Tue, 16 Jun 2026 00:45:20 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルLLMをいつ使うべきか？",
-    "link": "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
-    "pubDate": "Tue, 16 Jun 2026 00:37:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい",
-    "link": "https://zenn.dev/kaseken/articles/3913ba30af4d46",
-    "pubDate": "Mon, 15 Jun 2026 16:50:48 GMT"
+    "site": "Qiita",
+    "title": "AI駆動開発のセキュリティ、結局どこまでやればいい？",
+    "link": "https://qiita.com/udowanllc/items/1713372648eb543e6980?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-15T15:15:15.000Z"
   },
   {
     "site": "Qiita",
     "title": "【PHP】PHP最大の問題点はこれだ！！",
     "link": "https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-15T10:31:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3",
-    "link": "https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-15T04:25:24.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
     "link": "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-14T08:08:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】本を読んだままにしない実践支援アプリを作った【React / TypeScript / Firebase / Supabase】",
-    "link": "https://qiita.com/o68606007/items/9c7ac3a086ebccc4a32b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-14T08:02:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "3年間、AI要件定義に取り組んできた全記録",
-    "link": "https://qiita.com/kumai_yu/items/831717856fd24981799d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-14T00:44:34.000Z"
   }
 ]
