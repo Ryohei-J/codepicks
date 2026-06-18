@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "ChatGPT内に広告表示、日本でOpenAIが展開　電通や博報堂が仲介 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC179OF0X10C26A6000000/",
+    "pubDate": "2026-06-18T10:33:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoft、「Microsoft Scout」を発表 ～「OpenClaw」を基盤にした「Autopilot」の第一弾／常時稼働して、指示なしで先回り。「Work IQ」で業務を理解して、どんどん賢く",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2118074.html",
+    "pubDate": "2026-06-18T08:48:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Rustでクロスプラットフォームアプリ開発 | CHANTO Inc.",
+    "link": "https://chanto.co.jp/blog/2026/06/whisker",
+    "pubDate": "2026-06-18T07:45:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "🌿印刷博物館「システィーナ礼拝堂VR体験」が想像以上のクオリティなので全力ですすめたい｜サクラ｜無理なく楽しむちょっといい日常",
+    "link": "https://note.com/gokigen_40life/n/nfc68bc03dded",
+    "pubDate": "2026-06-18T07:28:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "同じプロンプトを何度も書きたくないので、AIとのやりとりを棚卸しする仕組み作った - LayerX エンジニアブログ",
+    "link": "https://tech.layerx.co.jp/entry/prompt-log-driven-ai-workflow",
+    "pubDate": "2026-06-18T06:48:09.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "メモリ管理の基本と、Railsで省メモリに書くための実装Tips",
     "link": "https://qiita.com/akachiryo/items/30c076850c90e50da118?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -13,9 +43,21 @@
   },
   {
     "site": "Hatena",
+    "title": "Epic GamesがGitの死角を突く。バージョン管理「Lore」公開",
+    "link": "https://joho-todai.com/epic-games-lore-version-control/",
+    "pubDate": "2026-06-18T04:37:57.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「斜めCloseボタン」広告に批判　「閉じ方分からなかった」「悪意を感じる」",
     "link": "https://www.itmedia.co.jp/news/articles/2606/18/news085.html",
     "pubDate": "2026-06-18T03:20:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "けっこう実用的。「OpenCode」×ローカルLLMで“無料Claude Code”してみた | ギズモード・ジャパン",
+    "link": "https://www.gizmodo.jp/article/opencode_google_gemma_4-krq/",
+    "pubDate": "2026-06-18T02:16:16.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +66,10 @@
     "pubDate": "2026-06-18T01:47:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「偏差値40の高校に激ヤバクラス爆誕」英検2級までなら確実に取れる方法思いついたからクラスの子にフル暗記させて受けさせて2級量産してる…との投稿が話題に、テンプレ等を解説",
-    "link": "https://togetter.com/li/2710658",
-    "pubDate": "2026-06-18T01:34:26.000Z"
+    "site": "Zenn",
+    "title": "マークダウンやHTMLをSlackで共有するのが辛すぎて社内ツールを作った話",
+    "link": "https://zenn.dev/tokium_dev/articles/tokium-share-pages",
+    "pubDate": "Thu, 18 Jun 2026 01:43:55 GMT"
   },
   {
     "site": "Qiita",
@@ -48,46 +90,28 @@
     "pubDate": "2026-06-18T00:47:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「猫はなぜキーボードに乗る？」から生まれたデスクサイド用猫ベッド、シービージャパンが発売　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2117989.html",
-    "pubDate": "2026-06-17T23:48:31.000Z"
+    "site": "Zenn",
+    "title": "Agentの改善ループを確立するために2026年度 企業が乗り越えるべき4つのコト",
+    "link": "https://zenn.dev/gleon/articles/312dacc4ba3156",
+    "pubDate": "Wed, 17 Jun 2026 15:03:15 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "グーグル、Gemini搭載の“話せる”新「Google Home スピーカー」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2117902.html",
-    "pubDate": "2026-06-17T22:51:33.000Z"
+    "site": "Zenn",
+    "title": "Node.jsで動くのにDenoで動かないJavaScript",
+    "link": "https://zenn.dev/monicle/articles/74ad93709c2199",
+    "pubDate": "Wed, 17 Jun 2026 14:40:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "最近、マジで『いらすとや』見かけないけどなんで？一時期はなんでもかんでもいらすとやだったのに→皆さんの考察集まる「AIに変わっただけ」「色々制約が面倒」",
-    "link": "https://togetter.com/li/2710597",
-    "pubDate": "2026-06-17T21:17:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【西川和久の不定期コラム】 ごめんLLM、もう君だけじゃ物足りない。気づけばOpenClaw沼にハマった話",
-    "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2117740.html",
-    "pubDate": "2026-06-17T21:08:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "自称AI絵師がイラストレーターとして企業に応募してくるケースが本当に増えているらしい→採用側が頭を抱えるエピソードが次々と寄せられる",
-    "link": "https://togetter.com/li/2710391",
-    "pubDate": "2026-06-17T12:31:52.000Z"
+    "site": "Zenn",
+    "title": "自動システムテストのためのテスト再設計と人材育成 (前編)",
+    "link": "https://zenn.dev/pksha/articles/344e4abcefa2f2",
+    "pubDate": "Wed, 17 Jun 2026 10:07:00 GMT"
   },
   {
     "site": "Zenn",
     "title": "Databricks発OSSのメタハーネス『Omnigent』を触ってみた！🪸⭐",
     "link": "https://zenn.dev/nttdata_tech/articles/2fe14c8819557c",
     "pubDate": "Wed, 17 Jun 2026 08:33:47 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット - Qiita",
-    "link": "https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6",
-    "pubDate": "2026-06-17T08:20:59.000Z"
   },
   {
     "site": "Zenn",
@@ -100,12 +124,6 @@
     "title": "State-Aware RAGをAmazon Bedrock とAmazon S3 Vectorsで再現してみた",
     "link": "https://zenn.dev/fusic/articles/9cedae6d6f8560",
     "pubDate": "Wed, 17 Jun 2026 08:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "リリースして終わりにしない ― アウトカム計測を開発フローに組み込んで、チームの価値探索サイクルを速くした話",
-    "link": "https://zenn.dev/lincwell_inc/articles/7d50ff57ccafb5",
-    "pubDate": "Wed, 17 Jun 2026 06:05:55 GMT"
   },
   {
     "site": "Zenn",
@@ -144,28 +162,10 @@
     "pubDate": "2026-06-16T14:46:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "ポート開放なしで外出先から自宅 Mac に SSH 接続し、Claude Code を動かす",
-    "link": "https://zenn.dev/coa00/articles/tailscale-ssh-home-mac-claude-code",
-    "pubDate": "Tue, 16 Jun 2026 13:53:12 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Codeでつくる「並列ループエージェント」実践！ハンズオンガイド",
     "link": "https://qiita.com/kumai_yu/items/54ded70a5a68a5ca15d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-16T13:45:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「自分の PC では入るのに」── 同僚の pip install が C++ コンパイラで止まって、見えてなかった導入障壁に気づいた話",
-    "link": "https://zenn.dev/satoh_y_0323/articles/5f1a602cf200e1",
-    "pubDate": "Tue, 16 Jun 2026 13:23:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "会社員のためのCodex資料作成術：Skillで統一感のあるプレゼン資料を作る実践ガイド",
-    "link": "https://zenn.dev/acntechjp/articles/c2bff25e230539",
-    "pubDate": "Tue, 16 Jun 2026 10:30:28 GMT"
   },
   {
     "site": "Qiita",
