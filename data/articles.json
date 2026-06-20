@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+    "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
+    "pubDate": "2026-06-19T15:55:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【完全版】AIで誰でもポートフォリオを無料計算できる方法（REITやゴールドもOK!）",
     "link": "https://randomwalker.blog.fc2.com/blog-entry-5716.html",
     "pubDate": "2026-06-19T13:47:12.000Z"
@@ -13,51 +19,69 @@
   },
   {
     "site": "Hatena",
-    "title": "「小さなエラーが違和感に」JAさがみが広告にAIを使用したのをきっかけになぜAI広告が微妙か議論へ、一方「普通に伝わってくる」という人も",
-    "link": "https://togetter.com/li/2711202",
-    "pubDate": "2026-06-19T10:58:06.000Z"
+    "title": "GitHubでトロイの木馬を配布するリポジトリ約1万件が見つかる、正規プロジェクトを複製して検索結果に紛れ込む",
+    "link": "https://gigazine.net/news/20260619-github-malware-distribution/",
+    "pubDate": "2026-06-19T12:33:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Improving token efficiency for GitHub Copilot in VS Code",
+    "link": "https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot",
+    "pubDate": "2026-06-19T08:56:50.000Z"
   },
   {
     "site": "Zenn",
-    "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
-    "link": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro",
-    "pubDate": "2026-06-19T05:56:57.000Z"
+    "title": "Claude Code に、自分が考えていそうなことを言語化してもらった",
+    "link": "https://zenn.dev/estie/articles/f90d498d21a798",
+    "pubDate": "Fri, 19 Jun 2026 05:24:12 GMT"
   },
   {
     "site": "Hatena",
-    "title": "画面操作を“録画”→AIが作業代行　Codexに新機能「Record & Replay」",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
-    "pubDate": "2026-06-19T05:40:38.000Z"
+    "title": "「AppleがIntelとチップを共同製造することで合意した」とトランプ大統領が発言",
+    "link": "https://gigazine.net/news/20260619-apple-intel-chip-build/",
+    "pubDate": "2026-06-19T04:34:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
-    "link": "https://japan.cnet.com/article/35249158/",
-    "pubDate": "2026-06-19T03:59:47.000Z"
+    "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開　性能をどう評価？",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
+    "pubDate": "2026-06-19T04:13:19.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
-    "link": "https://shueisha.online/articles/-/257888",
-    "pubDate": "2026-06-19T01:56:39.000Z"
+    "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+    "link": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+    "pubDate": "2026-06-19T03:30:48.000Z"
   },
   {
     "site": "Hatena",
-    "title": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2118390.html",
-    "pubDate": "2026-06-19T01:36:41.000Z"
+    "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+    "link": "https://toyokeizai.net/articles/-/948348?display=b",
+    "pubDate": "2026-06-19T03:21:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
-    "link": "https://kawarimidoll.com/posts/202606182/",
-    "pubDate": "2026-06-19T00:17:02.000Z"
+    "site": "Qiita",
+    "title": "「なぜ評価されないんだろ…」と悩むそこの君へ。優秀なエンジニアに共通する考え方。",
+    "link": "https://qiita.com/issey_dotlog/items/2f57fda20f559b2e54ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-19T01:54:41.000Z"
   },
   {
     "site": "Zenn",
-    "title": "デザインシステムのskillの精度が上がった8つの方法",
-    "link": "https://zenn.dev/pksha/articles/7a7db5c105f396",
-    "pubDate": "2026-06-18T23:52:33.000Z"
+    "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
+    "link": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
+    "pubDate": "Fri, 19 Jun 2026 01:38:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kiro CLI v3 徹底解説 — 仕様駆動開発・hooks 刷新・capability パーミッション",
+    "link": "https://zenn.dev/aws_japan/articles/36e23635add477",
+    "pubDate": "Thu, 18 Jun 2026 23:56:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Apple container 1.0 を試してみた ― systemd、名前付きホスト、起動速度を Docker と比較",
+    "link": "https://zenn.dev/tokium_dev/articles/202c16adec91d0",
+    "pubDate": "Thu, 18 Jun 2026 22:00:07 GMT"
   },
   {
     "site": "Zenn",
@@ -85,12 +109,6 @@
   },
   {
     "site": "Zenn",
-    "title": "1コマンドでClaude Codeが開発チームになる「ccteams」を作った",
-    "link": "https://zenn.dev/yui/articles/4f54a98ad94fe5",
-    "pubDate": "Thu, 18 Jun 2026 10:01:40 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "ProgateのレッスンにChromeの開発者ツールを丸ごと埋め込んだ話",
     "link": "https://zenn.dev/progate/articles/progate-embed-devtools",
     "pubDate": "Thu, 18 Jun 2026 08:52:44 GMT"
@@ -102,16 +120,22 @@
     "pubDate": "2026-06-18T08:28:41.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説",
+    "link": "https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-18T08:28:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIに任せる設計、人間に残る設計",
+    "link": "https://zenn.dev/dress_code/articles/832cc1733e992c",
+    "pubDate": "Thu, 18 Jun 2026 07:30:05 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "デザインシステムのskillの精度が上がった8つの方法",
     "link": "https://zenn.dev/pksha/articles/7a7db5c105f396",
     "pubDate": "Thu, 18 Jun 2026 07:22:12 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "メモリ管理の基本と、Railsで省メモリに書くための実装Tips",
-    "link": "https://qiita.com/akachiryo/items/30c076850c90e50da118?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-18T06:30:18.000Z"
   },
   {
     "site": "Zenn",
@@ -132,34 +156,16 @@
     "pubDate": "2026-06-18T04:04:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "マークダウンやHTMLをSlackで共有するのが辛すぎて社内ツールを作った話",
-    "link": "https://zenn.dev/tokium_dev/articles/tokium-share-pages",
-    "pubDate": "Thu, 18 Jun 2026 01:43:55 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた",
     "link": "https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-18T01:24:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Platform Engineeringをどう進めてきたか ─ 使われるプラットフォームにするために大事にしたこと",
-    "link": "https://zenn.dev/loglass/articles/75f3435f24595a",
-    "pubDate": "Thu, 18 Jun 2026 01:14:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TOEIC教材や対策を全く活用せずに半年でTOEIC700点を超えた真の英語力を身につけるための勉強法",
-    "link": "https://zenn.dev/yskn_sid25/books/english_score_up",
-    "pubDate": "Wed, 17 Jun 2026 21:37:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agentの改善ループを確立するために2026年度 企業が乗り越えるべき4つのコト",
-    "link": "https://zenn.dev/gleon/articles/312dacc4ba3156",
-    "pubDate": "Wed, 17 Jun 2026 15:03:15 GMT"
+    "site": "Qiita",
+    "title": "AWS Summit New York 2026 での新発表まとめメモ",
+    "link": "https://qiita.com/hayao_k/items/44b25e2a51d12482a308?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-17T18:48:47.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "2026-06-17T04:39:48.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた",
-    "link": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-16T14:46:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【まとめ】名前がカッコいい、アンチパターン6選！どこがアカンの？を爆速解説",
-    "link": "https://qiita.com/tomoki-miso/items/9fc54ce86fe6ac2e453c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-16T10:18:03.000Z"
+    "site": "Hatena",
+    "title": "GitHub - atsushi-green/ds-ai-coding-skills: A collection of AGENTS.md configurations, skills, and prompts tailored for Data Scientists to maximize productivity with AI coding assistants.",
+    "link": "https://github.com/atsushi-green/ds-ai-coding-skills",
+    "pubDate": "2026-06-03T09:02:26.000Z"
   }
 ]
