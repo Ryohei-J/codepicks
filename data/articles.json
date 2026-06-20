@@ -1,21 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "技術記事、 専門家としてのプログラマ、 言語化",
-    "link": "https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua",
-    "pubDate": "2026-06-20T04:52:30.000Z"
+    "title": "Claude Codeをどのように キャッチアップしているか",
+    "link": "https://speakerdeck.com/oikon48/claude-codewodonoyouni-kiyatutiatupusiteiruka",
+    "pubDate": "2026-06-20T08:51:15.000Z"
   },
   {
     "site": "Hatena",
-    "title": "小説の書評を書いたnote記事に、作者自身が「本をまったく読まずに書いた感想だということだけはわかりました」と言及…AI作成の記事ではないかと疑いが強まる",
-    "link": "https://togetter.com/li/2711395",
-    "pubDate": "2026-06-20T02:01:50.000Z"
+    "title": "伝わる発信のつくりかた",
+    "link": "https://yoshiko-pg.github.io/talks/zennfes-2026/",
+    "pubDate": "2026-06-20T07:28:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "技術記事、 専門家としてのプログラマ、 言語化",
+    "link": "https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua",
+    "pubDate": "2026-06-20T04:52:30.000Z"
   },
   {
     "site": "Qiita",
     "title": "Ollamaで月額0円のローカルLLM環境を構築してみた",
     "link": "https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-20T01:21:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法",
+    "link": "https://zenn.dev/sta/articles/2026-06-20-vscode-scb",
+    "pubDate": "Sat, 20 Jun 2026 00:52:22 GMT"
   },
   {
     "site": "Qiita",
@@ -36,6 +48,18 @@
     "pubDate": "2026-06-19T14:51:16.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIエージェントを「指揮」するOSS「TAKT」とは — 仕組と使い方",
+    "link": "https://zenn.dev/alpha_omega/articles/56ca3136bc5cd8",
+    "pubDate": "Fri, 19 Jun 2026 14:34:16 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "leaf : Terminal Markdown previewer — GUI-like experience.",
+    "link": "https://leaf.rivolink.mg/",
+    "pubDate": "2026-06-19T13:54:13.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "“つながらない”声あふれる楽天モバイル、「WiFiスポット」でかつての“ソフトバンク戦法”を踏襲か",
     "link": "https://www.itmedia.co.jp/mobile/articles/2606/19/news139.html",
@@ -54,12 +78,6 @@
     "pubDate": "2026-06-19T09:24:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Unity AddressablesのBundle分割とLZ4/LZMA圧縮を実務目線で考える",
-    "link": "https://zenn.dev/gamedev_toollab/articles/268ef4a46efbb5",
-    "pubDate": "Fri, 19 Jun 2026 09:07:27 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIが先か、人間が先か — AI時代のJr.エンジニアの成長とは",
     "link": "https://qiita.com/Yamada040/items/205358b81979266e83d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,12 +88,6 @@
     "title": "Claude Design がclaudeアプリに対応したので触ってみた",
     "link": "https://zenn.dev/91works/articles/bb03f5adb45dea",
     "pubDate": "Fri, 19 Jun 2026 07:29:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【小ネタ】New Relicである日ユーザー作成に失敗するようになった",
-    "link": "https://zenn.dev/mitene/articles/202606-newrelic-user-name-domain-validation",
-    "pubDate": "Fri, 19 Jun 2026 06:59:27 GMT"
   },
   {
     "site": "Zenn",
@@ -96,18 +108,6 @@
     "pubDate": "Fri, 19 Jun 2026 04:26:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開　性能をどう評価？",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-    "pubDate": "2026-06-19T04:13:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-    "link": "https://toyokeizai.net/articles/-/948348?display=b",
-    "pubDate": "2026-06-19T03:21:29.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "「なぜ評価されないんだろ…」と悩むそこの君へ。優秀なエンジニアに共通する考え方。",
     "link": "https://qiita.com/issey_dotlog/items/2f57fda20f559b2e54ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -121,27 +121,27 @@
   },
   {
     "site": "Zenn",
-    "title": "Kiro CLI v3 徹底解説 — 仕様駆動開発・hooks 刷新・capability パーミッション",
-    "link": "https://zenn.dev/aws_japan/articles/36e23635add477",
-    "pubDate": "Thu, 18 Jun 2026 23:56:42 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "廃棄処理業者に破砕処分を委託したハードディスクが外部に流出 | ScanNetSecurity",
-    "link": "https://scan.netsecurity.ne.jp/article/2026/06/19/55534.html",
-    "pubDate": "2026-06-18T23:48:03.000Z"
+    "title": "AI時代のRust crate選定 (1/4) デファクトスタンダードなcrate群",
+    "link": "https://zenn.dev/estie/articles/4e057582208b0b",
+    "pubDate": "Fri, 19 Jun 2026 00:53:35 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Apple container で docker compose を動かす",
-    "link": "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
-    "pubDate": "Thu, 18 Jun 2026 17:00:10 GMT"
+    "title": "Kiro CLI v3 徹底解説 — 仕様駆動開発・hooks 刷新・capability パーミッション",
+    "link": "https://zenn.dev/aws_japan/articles/36e23635add477",
+    "pubDate": "Thu, 18 Jun 2026 23:56:42 GMT"
   },
   {
     "site": "Qiita",
     "title": "Copilot Coworkが一般公開したと思ったら従量課金でこわーくなっちゃった話",
     "link": "https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-18T16:26:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜｜memuro-DX-oss",
+    "link": "https://note.com/memuro_dx_oss/n/nf982351d30ef",
+    "pubDate": "2026-06-18T16:10:03.000Z"
   },
   {
     "site": "Qiita",
