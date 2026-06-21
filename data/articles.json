@@ -1,15 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "ワークフローを再利用可能なスキルに変換する Record & Replay を試してみた",
+    "link": "https://azukiazusa.dev/blog/workflow-to-reusable-skill/",
+    "pubDate": "2026-06-21T06:21:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "今の時代、AIを使いこなせる事は必須条件、その上で必要なのは人間として判断する能力 | ギズモード・ジャパン",
     "link": "https://www.gizmodo.jp/article/what-the-world-needs-is-not-people-who-know-how-to-use-tools-but-people-who-know-why-those-tools-should-be-used/",
     "pubDate": "2026-06-21T02:37:47.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Googleマップで閉業になった中華店に来たら、看板出てたので店主に声をかけて着席…しかし店主はずっとライターカチカチし続けるだけ→近所の人から告げられた事実がこれ",
-    "link": "https://togetter.com/li/2711775",
-    "pubDate": "2026-06-21T00:57:41.000Z"
+    "title": "GitHub - TypeWhisper/typewhisper-mac: Local speech-to-text for macOS on-device AI, fully private, optional cloud",
+    "link": "https://github.com/TypeWhisper/typewhisper-mac",
+    "pubDate": "2026-06-21T00:05:58.000Z"
   },
   {
     "site": "Zenn",
@@ -18,16 +24,10 @@
     "pubDate": "Sat, 20 Jun 2026 23:32:46 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「山がいらない揚水発電」が実現？カギは水の2.5倍の密度を持つ謎の流体 | ギズモード・ジャパン",
-    "link": "https://www.gizmodo.jp/article/314708-xkc/",
-    "pubDate": "2026-06-20T21:38:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "時雨堂のスキル",
-    "link": "https://voluntas.ghost.io/shiguredo-skill-20206-06/",
-    "pubDate": "2026-06-20T16:08:23.000Z"
+    "site": "Zenn",
+    "title": "Rust | rmcp で Remote MCP Server を実装する",
+    "link": "https://zenn.dev/codemountains/articles/1d2ebe105ef998",
+    "pubDate": "Sat, 20 Jun 2026 15:34:01 GMT"
   },
   {
     "site": "Qiita",
@@ -37,9 +37,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code と Codex を使い比べて見えた設計思想の違い",
-    "link": "https://zenn.dev/tark_ann/articles/e8b09c6db73bfb",
-    "pubDate": "2026-06-20T14:55:45.000Z"
+    "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
+    "link": "https://zenn.dev/catatsuy/articles/566f5e37076e53",
+    "pubDate": "2026-06-20T14:31:55.000Z"
   },
   {
     "site": "Hatena",
@@ -61,6 +61,12 @@
   },
   {
     "site": "Qiita",
+    "title": "入門から実践 -「🔁 ループエンジニアリング」 - Qiita",
+    "link": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8",
+    "pubDate": "2026-06-20T11:25:48.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "米国がオランダの規制当局メールを読んだ日 ―「データ国内保管なら安全」を覆すデータ主権の正体と、日本のクラウド調達への教訓",
     "link": "https://qiita.com/bon_eng/items/e12adb074a9350ecaaf2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-20T10:39:13.000Z"
@@ -73,21 +79,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Windowsのファイル読み書きを高速化するアプリを作ってみた",
+    "link": "https://zenn.dev/maedan/articles/ad15f8c2837753",
+    "pubDate": "Sat, 20 Jun 2026 10:02:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
     "link": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
     "pubDate": "Sat, 20 Jun 2026 08:39:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Desktop の Cowork を Amazon Bedrock 経由で Windows にセットアップ",
-    "link": "https://zenn.dev/aws_japan/articles/claude-cowork-on-bedrock-windows-setup",
-    "pubDate": "Sat, 20 Jun 2026 07:44:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "HTTP 418を本当に返すページをCloudflare Pages (+ functions)で作る",
-    "link": "https://zenn.dev/taka1156/articles/faf79d1b3712bc",
-    "pubDate": "Sat, 20 Jun 2026 07:04:10 GMT"
   },
   {
     "site": "Qiita",
@@ -100,12 +100,6 @@
     "title": "入門から実践 -「🔁 ループエンジニアリング」",
     "link": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-20T06:32:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "技術記事、専門家としてのプログラマ、言語化.md",
-    "link": "https://gist.github.com/mizchi/7042f8ebb6e3d806555222d14d058f8b",
-    "pubDate": "2026-06-20T06:09:06.000Z"
   },
   {
     "site": "Qiita",
@@ -145,15 +139,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code の PreToolUse フックで操作ログを自動保存する — 個人環境のセキュリティ強化",
-    "link": "https://zenn.dev/tottoko_hamu/articles/2026-06-11-164130",
-    "pubDate": "Fri, 19 Jun 2026 15:40:04 GMT"
+    "title": "GitHub Copilotのクレジット消費がユーザー単位でAPI取得可能に：監視を自動化する ai_credits_used の使い方",
+    "link": "https://zenn.dev/headwaters/articles/github-copilot-ai-credits-usage-metrics-2026",
+    "pubDate": "Sat, 20 Jun 2026 00:00:06 GMT"
   },
   {
     "site": "Zenn",
-    "title": "AIエージェントを「指揮」するOSS「TAKT」とは — 仕組と使い方",
-    "link": "https://zenn.dev/alpha_omega/articles/56ca3136bc5cd8",
-    "pubDate": "Fri, 19 Jun 2026 14:34:16 GMT"
+    "title": "AWS Blocksとは何者か。Amplify・App Studioとの違いと、それぞれが目指すもの",
+    "link": "https://zenn.dev/genda_jp/articles/8122f1cd49754c",
+    "pubDate": "Fri, 19 Jun 2026 22:02:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI駆動開発を通して感じた、 AI時代のデザイナーの役割変化",
+    "link": "https://speakerdeck.com/whisaiyo/whidevelopers-linklight20260618",
+    "pubDate": "2026-06-19T12:28:22.000Z"
   },
   {
     "site": "Qiita",
