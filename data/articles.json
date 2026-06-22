@@ -1,9 +1,15 @@
 [
   {
     "site": "Hatena",
-    "title": "NHKのスクランブル化、会長が完全否定　ネット上に「見ないのに払うのは納得いかない」との声",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2606/22/news092.html",
-    "pubDate": "2026-06-22T05:05:30.000Z"
+    "title": "AIのモデル崩壊と多様性 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "link": "https://joisino.hatenablog.com/entry/collapse",
+    "pubDate": "2026-06-22T10:28:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAIも注目、非エンジニア農家がCodexで進める「農業のDX」。ハウス自動化から翻訳LINE Botまで | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2606-openai-codex-farm-automation/",
+    "pubDate": "2026-06-22T08:47:02.000Z"
   },
   {
     "site": "Hatena",
@@ -18,16 +24,28 @@
     "pubDate": "2026-06-22T03:59:31.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Databricksが発表したOLAP×OLTP両刀⚔️の次世代DBアーキテクチャ「LTAP」を深堀る！",
+    "link": "https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20",
+    "pubDate": "Mon, 22 Jun 2026 03:51:56 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Design ↔ Claude Code を行き来して作った資産ポートフォリオダッシュボード",
+    "link": "https://zenn.dev/unsoluble_sugar/articles/fd73c7b67d80ce",
+    "pubDate": "2026-06-22T03:51:16.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "見やすい手順書を書くノウハウ集 - カミナシ エンジニアブログ",
     "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/22/120000",
     "pubDate": "2026-06-22T03:31:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Sakana Fugu — Multi-agent System as A Model",
-    "link": "https://sakana.ai/fugu/",
-    "pubDate": "2026-06-22T02:48:55.000Z"
+    "site": "Zenn",
+    "title": "Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを潰した",
+    "link": "https://zenn.dev/nexta_/articles/be13a2395a5d2a",
+    "pubDate": "Mon, 22 Jun 2026 02:37:09 GMT"
   },
   {
     "site": "Qiita",
@@ -60,10 +78,10 @@
     "pubDate": "2026-06-21T23:04:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIに頼ると技術が落ちる？　医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
-    "pubDate": "2026-06-21T22:45:35.000Z"
+    "site": "Zenn",
+    "title": "2026年5月のIMEに関するできごと",
+    "link": "https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_05",
+    "pubDate": "Sun, 21 Jun 2026 15:30:00 GMT"
   },
   {
     "site": "Qiita",
@@ -114,6 +132,12 @@
     "pubDate": "2026-06-21T11:35:48.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIで自動化できます。で、そのリスクは誰が飲むんですか",
+    "link": "https://zenn.dev/continuitymodel/articles/996fbb4695d2e3",
+    "pubDate": "Sun, 21 Jun 2026 10:50:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】 - Qiita",
     "link": "https://qiita.com/ktdatascience/items/735ebfa8504fc658c812",
@@ -130,30 +154,6 @@
     "title": "自動運転OSSのAutowareの解説サイトを作っている件",
     "link": "https://zenn.dev/coffeecupjp/articles/778aa821a82c0f",
     "pubDate": "Sun, 21 Jun 2026 06:04:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バックエンドエンドエンジニアができるべき 設計",
-    "link": "https://zenn.dev/engineer_reborn/articles/76fe4c4cf5d184",
-    "pubDate": "Sun, 21 Jun 2026 04:49:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LocalStack が有料になったので MiniStack + Terraform でローカル AWS 環境を作り直した",
-    "link": "https://zenn.dev/kamegoro/articles/ef1ab1c9527f9d",
-    "pubDate": "Sun, 21 Jun 2026 03:26:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バグハンター視点で学ぶ Caido 実践入門",
-    "link": "https://zenn.dev/scgajge12/books/119c83fa281d04",
-    "pubDate": "Sun, 21 Jun 2026 03:05:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "メモリダンプの模様とはどのようなものなのか(実践編)",
-    "link": "https://zenn.dev/satoru_takeuchi/articles/8f5782155d0a6a",
-    "pubDate": "Sat, 20 Jun 2026 23:32:46 GMT"
   },
   {
     "site": "Qiita",
