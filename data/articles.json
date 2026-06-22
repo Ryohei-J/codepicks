@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "Cloudflare の一時アカウントを使って即座にデプロイできるようになった",
+    "link": "https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/",
+    "pubDate": "2026-06-22T14:17:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIのモデル崩壊と多様性 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
     "link": "https://joisino.hatenablog.com/entry/collapse",
     "pubDate": "2026-06-22T10:28:44.000Z"
@@ -13,9 +19,15 @@
   },
   {
     "site": "Hatena",
-    "title": "東京メトロを3Dマップ化、「東京断面図」が完成 ～地下を縫う路線をさまざまな視点で／運転士の視点を楽しめる前面展望モード（？）も作成中【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2118830.html",
-    "pubDate": "2026-06-22T04:06:49.000Z"
+    "title": "新試験制度のサンプル問題について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260622.html",
+    "pubDate": "2026-06-22T07:20:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
+    "link": "https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-22T07:07:11.000Z"
   },
   {
     "site": "Hatena",
@@ -67,15 +79,15 @@
   },
   {
     "site": "Qiita",
+    "title": "Copilot Studio の新しい UI で以前作ったエージェントを作り直してみた",
+    "link": "https://qiita.com/Takashi_Masumori/items/9a35fa099a7840a4a394?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-21T23:51:42.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "機械学習モデルのパラメーター・チューニング入門：過学習を防ぎ、予測精度を上げる考え方",
     "link": "https://qiita.com/KanNishida/items/9ae8a5135726d9cb2be7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-21T23:31:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "あなたの字に異変？　200万字を7万字へ、行政の「文字」統一が始まった",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03654/061800001/",
-    "pubDate": "2026-06-21T23:04:24.000Z"
   },
   {
     "site": "Zenn",
@@ -106,12 +118,6 @@
     "title": "Hono の JWT/JWK ミドルウェアの脆弱性を修正したので解説する",
     "link": "https://zenn.dev/calloc134/articles/hono-jwt-jwk-alg-confusion",
     "pubDate": "Sun, 21 Jun 2026 13:34:48 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeに自分でスキルを書かせて育てる ― 自己増殖するエージェント環境",
-    "link": "https://qiita.com/bokuwalily/items/e7b56e2119841636b38e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-21T13:03:53.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
     "link": "https://qiita.com/engchina/items/3060140b10a9a35021f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-20T04:17:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで",
-    "link": "https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-20T01:56:09.000Z"
   }
 ]
