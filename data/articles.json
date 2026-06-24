@@ -1,9 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "TikTok動画の59％、YouTube動画の21％はAIによる低品質動画",
+    "link": "https://gigazine.net/news/20260624-tiktok-ai-slop/",
+    "pubDate": "2026-06-24T05:46:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NVIDIAが「お風呂よりも高温の冷却液」で冷やす完全液冷システムを発表、電力消費量と水使用量を最大100％削減できるとアピール",
+    "link": "https://gigazine.net/news/20260624-nvidia-45-degree-liquid-cooling/",
+    "pubDate": "2026-06-24T04:38:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「言った・言わない」を防ぐ。要件定義で使うべき質問の技術",
+    "link": "https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-24T04:13:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『クローズアップ現代』で、末期がんの86歳の女性が泣きながらAIに相談している様子に衝撃を受ける→AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。",
+    "link": "https://posfie.com/@mumimushunyu/p/fzcQPXY",
+    "pubDate": "2026-06-24T04:12:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "画像生成AI「Krea 2」がオープンモデル化されてローカル生成可能になったのでComfyUIで実写風画像とイラスト風画像を生成してみたよレビュー",
+    "link": "https://gigazine.net/news/20260624-krea-2-raw-turbo/",
+    "pubDate": "2026-06-24T03:42:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「電話鳴り止まない」AI予約サービス「オートリザーブ」に飲食店困惑　“勝手に”公式マーク表示も　専門家「AIうまく機能していない」｜FNNプライムオンライン",
+    "link": "https://www.fnn.jp/articles/-/1064623",
+    "pubDate": "2026-06-24T01:44:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
+    "link": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
+    "pubDate": "2026-06-24T01:00:13.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "部下からヘッドセットの件で「それって私物ですか？」「私物ですよ」の会話を何度も繰り返し、最後に自腹なのかという質問だと判明→本来の意図を隠して質問しない方がいい",
     "link": "https://togetter.com/li/2712884",
     "pubDate": "2026-06-24T00:50:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "バズってる「STORMプロンプト」、実は一番大事な部分が抜けてます【Stanford論文ベース】",
+    "link": "https://qiita.com/jqit_suwa/items/8168cd532e692ebcd4b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-24T00:04:53.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +60,16 @@
     "pubDate": "2026-06-23T22:24:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Introducing Claude Tag",
-    "link": "https://www.anthropic.com/news/introducing-claude-tag",
-    "pubDate": "2026-06-23T18:36:31.000Z"
+    "site": "Qiita",
+    "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
+    "link": "https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-23T22:23:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "使い方次第でAIはもっと賢くなる！「Gemini」のポテンシャルを引き出す必須テクニック | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2606-best-gemini-hacks/",
-    "pubDate": "2026-06-23T14:34:08.000Z"
+    "site": "Qiita",
+    "title": "Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい",
+    "link": "https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-23T13:52:03.000Z"
   },
   {
     "site": "Hatena",
@@ -30,34 +78,40 @@
     "pubDate": "2026-06-23T13:38:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "旧型の「iPhone」や「iPad」に修正不能な脆弱性--対象機種は？",
-    "link": "https://japan.zdnet.com/article/35249250/",
-    "pubDate": "2026-06-23T12:38:01.000Z"
+    "site": "Zenn",
+    "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
+    "link": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
+    "pubDate": "Tue, 23 Jun 2026 12:10:11 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "The Coming Loop",
-    "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "pubDate": "2026-06-23T11:05:01.000Z"
+    "site": "Zenn",
+    "title": "GAしたGitHub Copilot Appを触ってみた　～Issueから実装・PR・マージまでをエージェントに任せる～",
+    "link": "https://zenn.dev/nomhiro/articles/poc-develop-use-github-copilot-app",
+    "pubDate": "Tue, 23 Jun 2026 09:25:03 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【重要・至急】不正アクセス発生に関するお詫びと、パスワード変更のお願い：BIGLOBE会員サポート",
-    "link": "https://support.biglobe.ne.jp/news/news796.html",
-    "pubDate": "2026-06-23T09:45:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト - Qiita",
-    "link": "https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1",
-    "pubDate": "2026-06-23T08:00:45.000Z"
+    "site": "Zenn",
+    "title": "AWS13冠は、何を証明して、何を証明しないのか",
+    "link": "https://zenn.dev/honey_aws/articles/certifications-and-tradeoff-judgment",
+    "pubDate": "Tue, 23 Jun 2026 07:44:36 GMT"
   },
   {
     "site": "Qiita",
     "title": "Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜",
     "link": "https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-23T06:08:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
+    "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+    "pubDate": "Tue, 23 Jun 2026 05:26:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "E2E テストを読めるカタログにする ― AI 時代の振る舞い管理",
+    "link": "https://zenn.dev/loglass/articles/1b8129c8f28b37",
+    "pubDate": "Tue, 23 Jun 2026 05:00:26 GMT"
   },
   {
     "site": "Zenn",
@@ -72,22 +126,10 @@
     "pubDate": "2026-06-23T01:38:33.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
-    "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-23T01:38:25.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "標準CSSは美しくなった、もはやTailwindは不要",
     "link": "https://zenn.dev/higakijin/articles/06276828c81546",
     "pubDate": "Tue, 23 Jun 2026 01:11:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "スクフェス金沢に「初参加でいきなり登壇」という無茶をした結果、想像以上に世界が広がった【スクラムフェス金沢2026】",
-    "link": "https://zenn.dev/sompojapan_dx/articles/bc3931a2e58ab5",
-    "pubDate": "Tue, 23 Jun 2026 01:05:30 GMT"
   },
   {
     "site": "Zenn",
@@ -97,27 +139,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Code の「待ち」がもったいないので、worktree で並列開発してみた",
-    "link": "https://qiita.com/yasuto_88/items/15f57336baed3ef64a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-23T00:35:23.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "新人エンジニアが最初に専門分野を決めた話",
     "link": "https://qiita.com/masa20057/items/0c1da2b7431aa73a798a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-23T00:25:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Rails】給湯器のサンプルアプリで学ぶDelegatedType",
-    "link": "https://qiita.com/jnchito/items/180292de6cbb83a9672b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-23T00:19:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "46リポジトリに跨るコードベースを、静的解析で一つのナレッジグラフにした話（前編）",
-    "link": "https://zenn.dev/aircloset/articles/a7cf65cc035572",
-    "pubDate": "Mon, 22 Jun 2026 23:40:04 GMT"
   },
   {
     "site": "Zenn",
@@ -126,46 +150,22 @@
     "pubDate": "Mon, 22 Jun 2026 15:26:02 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "日本企業はAIを使いこなせるのか",
+    "link": "https://zenn.dev/kanagen/articles/japanese-enterprise-ai-adoption",
+    "pubDate": "Mon, 22 Jun 2026 09:39:21 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "キャッチアップしないと不安。── AI時代のエンジニアが罹る病 「FOMO」 と付き合う。",
     "link": "https://qiita.com/tomoki-miso/items/8290227346c099e84b1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-22T09:36:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "「動くが面白くない」を解決するGame Feelガイド",
-    "link": "https://zenn.dev/kapi0622/books/0d107732880fc8",
-    "pubDate": "Mon, 22 Jun 2026 09:30:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「技術力が高い人」にはなれなかったけれど、技術を翻訳する人になった話",
-    "link": "https://zenn.dev/penginpenguin/articles/e735cf0424a186",
-    "pubDate": "Mon, 22 Jun 2026 09:04:36 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
-    "link": "https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-22T07:07:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる",
-    "link": "https://zenn.dev/xin9le/articles/1340941f739745",
-    "pubDate": "Mon, 22 Jun 2026 06:17:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Databricksが発表したOLAP×OLTP両刀⚔️の次世代DBアーキテクチャ「LTAP」を深堀る！",
-    "link": "https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20",
-    "pubDate": "Mon, 22 Jun 2026 03:51:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI駆動開発のセキュリティツール、結局なにを入れればいい？",
-    "link": "https://qiita.com/udowanllc/items/42635251d8e2641cb50c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-21T15:03:45.000Z"
+    "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
+    "link": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-22T03:12:13.000Z"
   },
   {
     "site": "Qiita",
