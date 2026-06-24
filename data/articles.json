@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "ＡＩへの煽りランキング",
-    "link": "https://anond.hatelabo.jp/20260623230231",
-    "pubDate": "2026-06-23T14:04:12.000Z"
+    "title": "部下からヘッドセットの件で「それって私物ですか？」「私物ですよ」の会話を何度も繰り返し、最後に自腹なのかという質問だと判明→本来の意図を隠して質問しない方がいい",
+    "link": "https://togetter.com/li/2712884",
+    "pubDate": "2026-06-24T00:50:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2118915.html",
+    "pubDate": "2026-06-23T22:24:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Introducing Claude Tag",
+    "link": "https://www.anthropic.com/news/introducing-claude-tag",
+    "pubDate": "2026-06-23T18:36:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "使い方次第でAIはもっと賢くなる！「Gemini」のポテンシャルを引き出す必須テクニック | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2606-best-gemini-hacks/",
+    "pubDate": "2026-06-23T14:34:08.000Z"
   },
   {
     "site": "Hatena",
@@ -13,33 +31,27 @@
   },
   {
     "site": "Hatena",
-    "title": "初代ウォークマンの内部が「どうやって量産化したか謎なくらいに複雑で意味不明」→配線だらけで現代とは考えられない手作り感に、往年のものづくりの凄まじさを思い知る",
-    "link": "https://togetter.com/li/2712751",
-    "pubDate": "2026-06-23T13:23:15.000Z"
+    "title": "旧型の「iPhone」や「iPad」に修正不能な脆弱性--対象機種は？",
+    "link": "https://japan.zdnet.com/article/35249250/",
+    "pubDate": "2026-06-23T12:38:01.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「馬鹿とハサミは使いようだ…」あえて能力の低いAIにマニュアルを実行させ、「賢いAIなら補完してしまう暗黙知をポンコツAIにあぶり出させる」アイデアが目からウロコ",
-    "link": "https://togetter.com/li/2712705",
-    "pubDate": "2026-06-23T11:01:16.000Z"
+    "title": "The Coming Loop",
+    "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "pubDate": "2026-06-23T11:05:01.000Z"
   },
   {
     "site": "Hatena",
-    "title": "“地上のあなた” 余命10か月の女性とAIの最期の対話記録 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015155721000",
-    "pubDate": "2026-06-23T10:41:29.000Z"
+    "title": "【重要・至急】不正アクセス発生に関するお詫びと、パスワード変更のお願い：BIGLOBE会員サポート",
+    "link": "https://support.biglobe.ne.jp/news/news796.html",
+    "pubDate": "2026-06-23T09:45:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015157301000",
-    "pubDate": "2026-06-23T08:19:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "KDDI、メアドなど最大1422万件漏えいか　ISP事業者向けシステムに不正アクセス",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
-    "pubDate": "2026-06-23T07:29:51.000Z"
+    "site": "Qiita",
+    "title": "Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト - Qiita",
+    "link": "https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1",
+    "pubDate": "2026-06-23T08:00:45.000Z"
   },
   {
     "site": "Qiita",
@@ -48,16 +60,16 @@
     "pubDate": "2026-06-23T06:08:19.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "カーネルの深淵を覗いた男、USBハブを抜いて帰る - Qiita",
-    "link": "https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74",
-    "pubDate": "2026-06-23T03:04:23.000Z"
+    "site": "Zenn",
+    "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
+    "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
+    "pubDate": "Tue, 23 Jun 2026 01:45:47 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「当たった、すごい！」質問に答えるだけで出身地当てる「方言チャート EXTRA」が再び話題",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news087.html",
-    "pubDate": "2026-06-23T03:02:58.000Z"
+    "site": "Zenn",
+    "title": "標準CSSは美しくなった、もはやTailwindは不要",
+    "link": "https://zenn.dev/higakijin/articles/06276828c81546",
+    "pubDate": "2026-06-23T01:38:33.000Z"
   },
   {
     "site": "Qiita",
@@ -67,15 +79,45 @@
   },
   {
     "site": "Zenn",
+    "title": "標準CSSは美しくなった、もはやTailwindは不要",
+    "link": "https://zenn.dev/higakijin/articles/06276828c81546",
+    "pubDate": "Tue, 23 Jun 2026 01:11:44 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "スクフェス金沢に「初参加でいきなり登壇」という無茶をした結果、想像以上に世界が広がった【スクラムフェス金沢2026】",
     "link": "https://zenn.dev/sompojapan_dx/articles/bc3931a2e58ab5",
     "pubDate": "Tue, 23 Jun 2026 01:05:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "読みベースの編集距離を測るライブラリ「mòine」をつくりました",
+    "link": "https://zenn.dev/tagucci/articles/fb1ca46cc7cdf3",
+    "pubDate": "Tue, 23 Jun 2026 00:40:45 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code の「待ち」がもったいないので、worktree で並列開発してみた",
+    "link": "https://qiita.com/yasuto_88/items/15f57336baed3ef64a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-23T00:35:23.000Z"
   },
   {
     "site": "Qiita",
     "title": "新人エンジニアが最初に専門分野を決めた話",
     "link": "https://qiita.com/masa20057/items/0c1da2b7431aa73a798a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-23T00:25:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Rails】給湯器のサンプルアプリで学ぶDelegatedType",
+    "link": "https://qiita.com/jnchito/items/180292de6cbb83a9672b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-23T00:19:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "46リポジトリに跨るコードベースを、静的解析で一つのナレッジグラフにした話（前編）",
+    "link": "https://zenn.dev/aircloset/articles/a7cf65cc035572",
+    "pubDate": "Mon, 22 Jun 2026 23:40:04 GMT"
   },
   {
     "site": "Zenn",
@@ -120,42 +162,6 @@
     "pubDate": "Mon, 22 Jun 2026 03:51:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIコーディングではコードではなく検証プロセスをレビューする",
-    "link": "https://zenn.dev/mkj/articles/56245f7a34539c",
-    "pubDate": "Mon, 22 Jun 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを潰した",
-    "link": "https://zenn.dev/nexta_/articles/be13a2395a5d2a",
-    "pubDate": "Mon, 22 Jun 2026 02:37:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSV を顧客に配るのは、想像よりずっと難しい",
-    "link": "https://zenn.dev/dress_code/articles/csv-for-customers",
-    "pubDate": "Mon, 22 Jun 2026 02:30:07 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Railsアプリのメモリが「無駄に」減る話 〜リーク・断片化〜",
-    "link": "https://qiita.com/akachiryo/items/c6f24bc95a3c2a46de4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-22T01:53:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google Workspace Studioで業務改善に挑戦した",
-    "link": "https://zenn.dev/babyjob/articles/try-workspacestudio",
-    "pubDate": "Mon, 22 Jun 2026 01:01:35 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで - Qiita",
-    "link": "https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa",
-    "pubDate": "2026-06-21T22:21:26.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AI駆動開発のセキュリティツール、結局なにを入れればいい？",
     "link": "https://qiita.com/udowanllc/items/42635251d8e2641cb50c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "商業書籍の出版をCodexで爆速化するノウハウ",
     "link": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-21T11:35:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "カーネルの深淵を覗いた男、USBハブを抜いて帰る",
-    "link": "https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-20T08:06:27.000Z"
   }
 ]
