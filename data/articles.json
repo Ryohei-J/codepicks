@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "TikTok動画の59％、YouTube動画の21％はAIによる低品質動画",
-    "link": "https://gigazine.net/news/20260624-tiktok-ai-slop/",
-    "pubDate": "2026-06-24T05:46:17.000Z"
+    "title": "「Transformerの最大475倍」　富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+    "pubDate": "2026-06-24T12:13:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「パスワードが変更できない」の声相次ぐ　BIGLOBE、情報漏えいの可能性で変更呼びかけ　マイページ高負荷が一因",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news123.html",
+    "pubDate": "2026-06-24T08:39:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "INFOBARデザインのスマートリングがauで販売『NISHIKIGOI』『ICHIMATSU』柄　心拍・睡眠やストレスを24時間7日間計測 | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/06/24/5217.html",
+    "pubDate": "2026-06-24T08:11:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マネーフォワード、約6．3万人分の情報流出（時事通信） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/c10f754de8015186eee5b36441b1a9657437fbca",
+    "pubDate": "2026-06-24T07:17:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『めっちゃカメレオン』開発者インタビュー！たった2人・約2か月で生んだ、世界的大ヒットの裏側 - ゲームウィズ",
+    "link": "https://gamewith.jp/gamedb/17059/articles/59486",
+    "pubDate": "2026-06-24T07:15:05.000Z"
   },
   {
     "site": "Hatena",
@@ -24,22 +48,16 @@
     "pubDate": "2026-06-24T04:12:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "画像生成AI「Krea 2」がオープンモデル化されてローカル生成可能になったのでComfyUIで実写風画像とイラスト風画像を生成してみたよレビュー",
-    "link": "https://gigazine.net/news/20260624-krea-2-raw-turbo/",
-    "pubDate": "2026-06-24T03:42:19.000Z"
+    "site": "Zenn",
+    "title": "MulmoClaudeで自分専用の天気アプリをVibe Craftingしてみた",
+    "link": "https://zenn.dev/michiof/articles/mulmoclaude-weather-app",
+    "pubDate": "Wed, 24 Jun 2026 02:01:46 GMT"
   },
   {
     "site": "Hatena",
     "title": "「電話鳴り止まない」AI予約サービス「オートリザーブ」に飲食店困惑　“勝手に”公式マーク表示も　専門家「AIうまく機能していない」｜FNNプライムオンライン",
     "link": "https://www.fnn.jp/articles/-/1064623",
     "pubDate": "2026-06-24T01:44:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "こういうアプリが欲しかった！ OSやアプリ間で重複しているショートカットキーを特定する無料アプリ -HotkeyClash",
-    "link": "https://coliss.com/articles/build-websites/operation/work/hotkeyclash-for-mac-keyboard-shortcuts-clash.html",
-    "pubDate": "2026-06-24T01:00:13.000Z"
   },
   {
     "site": "Hatena",
@@ -54,12 +72,6 @@
     "pubDate": "2026-06-24T00:04:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2118915.html",
-    "pubDate": "2026-06-23T22:24:38.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
     "link": "https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -72,12 +84,6 @@
     "pubDate": "2026-06-23T13:52:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NotebookLMの限界を突破する代替ツール「Open Notebook」が自由すぎた | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/",
-    "pubDate": "2026-06-23T13:38:29.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
     "link": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
@@ -85,9 +91,27 @@
   },
   {
     "site": "Zenn",
+    "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
+    "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+    "pubDate": "2026-06-23T12:01:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "iOSアプリでSwift・Rust・Goの実行速度を比較してみた",
+    "link": "https://zenn.dev/oba_shion/articles/872ce1434f5fc7",
+    "pubDate": "Tue, 23 Jun 2026 10:39:27 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "GAしたGitHub Copilot Appを触ってみた　～Issueから実装・PR・マージまでをエージェントに任せる～",
     "link": "https://zenn.dev/nomhiro/articles/poc-develop-use-github-copilot-app",
     "pubDate": "Tue, 23 Jun 2026 09:25:03 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜ LLM に大喜利が難しいのか",
+    "link": "https://zenn.dev/nttdata_tech/articles/3241a46dca47b2",
+    "pubDate": "Tue, 23 Jun 2026 08:44:57 GMT"
   },
   {
     "site": "Zenn",
@@ -109,21 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "E2E テストを読めるカタログにする ― AI 時代の振る舞い管理",
-    "link": "https://zenn.dev/loglass/articles/1b8129c8f28b37",
-    "pubDate": "Tue, 23 Jun 2026 05:00:26 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
     "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
     "pubDate": "Tue, 23 Jun 2026 01:45:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "標準CSSは美しくなった、もはやTailwindは不要",
-    "link": "https://zenn.dev/higakijin/articles/06276828c81546",
-    "pubDate": "2026-06-23T01:38:33.000Z"
   },
   {
     "site": "Zenn",
@@ -133,27 +145,15 @@
   },
   {
     "site": "Zenn",
-    "title": "読みベースの編集距離を測るライブラリ「mòine」をつくりました",
-    "link": "https://zenn.dev/tagucci/articles/fb1ca46cc7cdf3",
-    "pubDate": "Tue, 23 Jun 2026 00:40:45 GMT"
+    "title": "タスクを割り振る開発は終わった",
+    "link": "https://zenn.dev/awesome_kou/articles/end-of-task-assignment-dev",
+    "pubDate": "Tue, 23 Jun 2026 00:41:40 GMT"
   },
   {
     "site": "Qiita",
     "title": "新人エンジニアが最初に専門分野を決めた話",
     "link": "https://qiita.com/masa20057/items/0c1da2b7431aa73a798a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-23T00:25:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "アプリエンジニアのためのAWS Blocksハンズオン",
-    "link": "https://zenn.dev/ppgm/books/aws-blocks-mini-support-desk",
-    "pubDate": "Mon, 22 Jun 2026 15:26:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "日本企業はAIを使いこなせるのか",
-    "link": "https://zenn.dev/kanagen/articles/japanese-enterprise-ai-adoption",
-    "pubDate": "Mon, 22 Jun 2026 09:39:21 GMT"
   },
   {
     "site": "Qiita",
