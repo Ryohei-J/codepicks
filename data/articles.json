@@ -1,15 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "Codex を使って障害対応の机上演習をやってみよう - Coincheck Tech Blog",
+    "link": "https://tech.coincheck.blog/entry/codex-ttx",
+    "pubDate": "2026-06-25T04:56:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソニー、aiboの国内販売を終了",
+    "link": "https://www.watch.impress.co.jp/docs/news/2119925.html",
+    "pubDate": "2026-06-25T03:14:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第69回：Boogu-Image-0.1とKrea 2が登場。Z-Imageの牙城を崩せるか？（西川和久） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/06/25/5223.html",
+    "pubDate": "2026-06-25T02:43:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "QuuBee — PC-98 フリーソフトプレイヤー",
+    "link": "https://quubee.pages.dev/",
+    "pubDate": "2026-06-25T02:09:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2119856.html",
+    "pubDate": "2026-06-25T02:08:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIの嘘を見抜く？Gemini の検索＆画像グラウンディングを実際に試してわかったこと",
+    "link": "https://qiita.com/ta-ito0611/items/646d3d1efb535737416d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-25T01:08:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "今も「パスワードの定期変更」ルールが生き残っている企業では、何が起きているのか【フォーカス】 - レバテックLAB",
     "link": "https://levtech.jp/media/detail_881/",
     "pubDate": "2026-06-25T00:58:43.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "勉強が続かないのは、あなたの意志が弱いからじゃない。",
+    "link": "https://qiita.com/hitomin_poke/items/7a69883e9e70fc5ad853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-25T00:00:18.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "ChatGPTの心臓部『Transformer』って何がすごいの？　#マンガでわかるAIの仕組み 第1話",
-    "link": "https://codezine.jp/article/detail/24575?p=4",
-    "pubDate": "2026-06-24T22:05:24.000Z"
+    "title": "【役に立つの？】「Google公式」の初心者向けAI講座、受けてみたら想像以上にすごかった",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/25/news034.html",
+    "pubDate": "2026-06-24T23:36:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代のコードレビューは人に向けるな、仕組みに向けろ",
+    "link": "https://zenn.dev/manalink_dev/articles/ai-coding-era-review-to-dev-process-not-human",
+    "pubDate": "Wed, 24 Jun 2026 23:31:43 GMT"
   },
   {
     "site": "Hatena",
@@ -18,28 +66,22 @@
     "pubDate": "2026-06-24T20:14:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OpenAI、LLMのための新チップ「ハラペーニョ」を自社開発　年内にGW級",
-    "link": "https://www.watch.impress.co.jp/docs/news/2119811.html",
-    "pubDate": "2026-06-24T14:45:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Transformerと比較し、GPU当たり最大475倍の出力トークン数を持つ新アーキテクチャを開発",
-    "link": "https://global.fujitsu/ja-jp/technology/research/article/topics/202606-photon-architecture",
-    "pubDate": "2026-06-24T13:16:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「コードレビューは人間がやるべき」 という、最後の幻想",
-    "link": "https://newspicks.com/news/16930133/body/",
-    "pubDate": "2026-06-24T12:25:00.000Z"
+    "site": "Zenn",
+    "title": "Unity 6時代にUniTaskはまだ必要か？Awaitable登場後の使い分けを整理する",
+    "link": "https://zenn.dev/gamedev_toollab/articles/1c793e678197f9",
+    "pubDate": "Wed, 24 Jun 2026 16:48:09 GMT"
   },
   {
     "site": "Zenn",
     "title": "「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方",
     "link": "https://zenn.dev/tribeau/articles/c961141dd4c9c8",
     "pubDate": "2026-06-24T09:38:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方",
+    "link": "https://zenn.dev/tribeau/articles/c961141dd4c9c8",
+    "pubDate": "Wed, 24 Jun 2026 09:20:35 GMT"
   },
   {
     "site": "Zenn",
@@ -52,12 +94,6 @@
     "title": "ChatGPTの心臓部『Transformer』って何がすごいの？　#マンガでわかるAIの仕組み 第1話",
     "link": "https://codezine.jp/article/detail/24575",
     "pubDate": "2026-06-24T07:06:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東宝系に問題が集中、ワーナーはゼロ！映画サイトのドメイン名問題、邦画ヒット作10年間332本の実態を調査 | Web担当者Forum",
-    "link": "https://webtan.impress.co.jp/e/2026/06/24/52777",
-    "pubDate": "2026-06-24T06:19:04.000Z"
   },
   {
     "site": "Zenn",
@@ -85,9 +121,9 @@
   },
   {
     "site": "Qiita",
-    "title": "バズってる「STORMプロンプト」、実は一番大事な部分が抜けてます【Stanford論文ベース】",
-    "link": "https://qiita.com/jqit_suwa/items/8168cd532e692ebcd4b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-24T00:04:53.000Z"
+    "title": "BigQueryでグラフ分析ができる！新しい「Graph」機能をSNSデータの例で試してみた",
+    "link": "https://qiita.com/ta-ito0611/items/432725de703dc4b644aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-24T00:40:43.000Z"
   },
   {
     "site": "Qiita",
@@ -97,15 +133,15 @@
   },
   {
     "site": "Qiita",
+    "title": "Claude Codeが使えないときのためにAntigravity CLIを用意した話",
+    "link": "https://qiita.com/tt2004d/items/31cbacd70540423b1581?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-23T20:14:16.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい",
     "link": "https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-23T13:52:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "E2E テストを読めるカタログにする ― AI 時代の振る舞い管理",
-    "link": "https://zenn.dev/loglass/articles/1b8129c8f28b37",
-    "pubDate": "2026-06-23T13:19:55.000Z"
   },
   {
     "site": "Zenn",
@@ -115,27 +151,15 @@
   },
   {
     "site": "Zenn",
+    "title": "iOSアプリでSwift・Rust・Goの実行速度を比較してみた",
+    "link": "https://zenn.dev/oba_shion/articles/872ce1434f5fc7",
+    "pubDate": "Tue, 23 Jun 2026 10:39:27 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "GAしたGitHub Copilot Appを触ってみた　～Issueから実装・PR・マージまでをエージェントに任せる～",
     "link": "https://zenn.dev/nomhiro/articles/poc-develop-use-github-copilot-app",
     "pubDate": "Tue, 23 Jun 2026 09:25:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜ LLM に大喜利が難しいのか",
-    "link": "https://zenn.dev/nttdata_tech/articles/3241a46dca47b2",
-    "pubDate": "Tue, 23 Jun 2026 08:44:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS13冠は、何を証明して、何を証明しないのか",
-    "link": "https://zenn.dev/honey_aws/articles/certifications-and-tradeoff-judgment",
-    "pubDate": "Tue, 23 Jun 2026 07:44:36 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "工数では見積もれない時代へ—AI時代の受託開発の見積もり・契約・成果物定義",
-    "link": "https://qiita.com/nogataka/items/b76868fbabb1aa2d81e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-23T06:37:17.000Z"
   },
   {
     "site": "Qiita",
@@ -144,39 +168,15 @@
     "pubDate": "2026-06-23T06:08:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
-    "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
-    "pubDate": "Tue, 23 Jun 2026 05:26:57 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト",
-    "link": "https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-23T05:01:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
-    "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
-    "pubDate": "Tue, 23 Jun 2026 01:45:47 GMT"
+    "title": "文章も画像も同じ\"ものさし\"で！Gemini Embedding 2 のマルチモーダル検索を試してみた",
+    "link": "https://qiita.com/ta-ito0611/items/f83e3c204cac800cac9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-23T00:30:29.000Z"
   },
   {
     "site": "Qiita",
     "title": "新人エンジニアが最初に専門分野を決めた話",
     "link": "https://qiita.com/masa20057/items/0c1da2b7431aa73a798a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-23T00:25:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "キャッチアップしないと不安。── AI時代のエンジニアが罹る病 「FOMO」 と付き合う。",
-    "link": "https://qiita.com/tomoki-miso/items/8290227346c099e84b1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-22T09:36:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
-    "link": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-22T03:12:13.000Z"
   }
 ]
