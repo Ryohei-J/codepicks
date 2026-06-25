@@ -1,33 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "今も「パスワードの定期変更」ルールが生き残っている企業では、何が起きているのか【フォーカス】 - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_881/",
+    "pubDate": "2026-06-25T00:58:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTの心臓部『Transformer』って何がすごいの？　#マンガでわかるAIの仕組み 第1話",
+    "link": "https://codezine.jp/article/detail/24575?p=4",
+    "pubDate": "2026-06-24T22:05:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自衛隊、機密システムに感染USB接続　中国系ウイルス1年気づかず - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOCD075JJ0X00C26A5000000/",
+    "pubDate": "2026-06-24T20:14:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、LLMのための新チップ「ハラペーニョ」を自社開発　年内にGW級",
+    "link": "https://www.watch.impress.co.jp/docs/news/2119811.html",
+    "pubDate": "2026-06-24T14:45:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Transformerと比較し、GPU当たり最大475倍の出力トークン数を持つ新アーキテクチャを開発",
+    "link": "https://global.fujitsu/ja-jp/technology/research/article/topics/202606-photon-architecture",
+    "pubDate": "2026-06-24T13:16:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「コードレビューは人間がやるべき」 という、最後の幻想",
     "link": "https://newspicks.com/news/16930133/body/",
     "pubDate": "2026-06-24T12:25:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Transformerの最大475倍」　富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
-    "pubDate": "2026-06-24T12:13:32.000Z"
+    "site": "Zenn",
+    "title": "「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方",
+    "link": "https://zenn.dev/tribeau/articles/c961141dd4c9c8",
+    "pubDate": "2026-06-24T09:38:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "いま一番好きなエディタ、Zed - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2026/06/24/165633",
-    "pubDate": "2026-06-24T08:49:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マネーフォワード、約6．3万人分の情報流出（時事通信） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/c10f754de8015186eee5b36441b1a9657437fbca",
-    "pubDate": "2026-06-24T07:17:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "『めっちゃカメレオン』開発者インタビュー！たった2人・約2か月で生んだ、世界的大ヒットの裏側 - ゲームウィズ",
-    "link": "https://gamewith.jp/gamedb/17059/articles/59486",
-    "pubDate": "2026-06-24T07:15:05.000Z"
+    "site": "Zenn",
+    "title": "学生のためのCodex 〜Codexを学習に使う 入門編〜",
+    "link": "https://zenn.dev/sora_lnv/articles/b67a03b8339278",
+    "pubDate": "Wed, 24 Jun 2026 08:00:09 GMT"
   },
   {
     "site": "Hatena",
@@ -42,16 +60,22 @@
     "pubDate": "2026-06-24T06:19:04.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "小さいローカル LLM をファインチューニングしてタスクに特化させ、Unity で利用する",
+    "link": "https://zenn.dev/meson_tech_blog/articles/fine-tuning-local-llm",
+    "pubDate": "Wed, 24 Jun 2026 04:51:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "イベントストーミングのススメ",
+    "link": "https://zenn.dev/nstock/articles/ac27140d8092ed",
+    "pubDate": "Wed, 24 Jun 2026 04:28:06 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「言った・言わない」を防ぐ。要件定義で使うべき質問の技術",
     "link": "https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-24T04:13:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "『クローズアップ現代』で、末期がんの86歳の女性が泣きながらAIに相談している様子に衝撃を受ける→AIの応答はみごとで、たぶんわたしが病床訪問しても、あんなふうに配慮し尽くした受け答えはできないだろう。",
-    "link": "https://posfie.com/@mumimushunyu/p/fzcQPXY",
-    "pubDate": "2026-06-24T04:12:23.000Z"
   },
   {
     "site": "Zenn",
@@ -79,21 +103,15 @@
   },
   {
     "site": "Zenn",
+    "title": "E2E テストを読めるカタログにする ― AI 時代の振る舞い管理",
+    "link": "https://zenn.dev/loglass/articles/1b8129c8f28b37",
+    "pubDate": "2026-06-23T13:19:55.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
     "link": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
     "pubDate": "Tue, 23 Jun 2026 12:10:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
-    "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
-    "pubDate": "2026-06-23T12:01:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "iOSアプリでSwift・Rust・Goの実行速度を比較してみた",
-    "link": "https://zenn.dev/oba_shion/articles/872ce1434f5fc7",
-    "pubDate": "Tue, 23 Jun 2026 10:39:27 GMT"
   },
   {
     "site": "Zenn",
@@ -115,6 +133,12 @@
   },
   {
     "site": "Qiita",
+    "title": "工数では見積もれない時代へ—AI時代の受託開発の見積もり・契約・成果物定義",
+    "link": "https://qiita.com/nogataka/items/b76868fbabb1aa2d81e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-23T06:37:17.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜",
     "link": "https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-23T06:08:19.000Z"
@@ -126,22 +150,16 @@
     "pubDate": "Tue, 23 Jun 2026 05:26:57 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト",
+    "link": "https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-23T05:01:00.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
     "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
     "pubDate": "Tue, 23 Jun 2026 01:45:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "標準CSSは美しくなった、もはやTailwindは不要",
-    "link": "https://zenn.dev/higakijin/articles/06276828c81546",
-    "pubDate": "Tue, 23 Jun 2026 01:11:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "タスクを割り振る開発は終わった",
-    "link": "https://zenn.dev/awesome_kou/articles/end-of-task-assignment-dev",
-    "pubDate": "Tue, 23 Jun 2026 00:41:40 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
     "link": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-22T03:12:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
-    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-21T14:17:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "商業書籍の出版をCodexで爆速化するノウハウ",
-    "link": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-21T11:35:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "auth.md — Open Protocol for Agent Registration",
-    "link": "https://workos.com/auth-md",
-    "pubDate": "2026-06-05T03:45:22.000Z"
   }
 ]
