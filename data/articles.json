@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2120164.html",
+    "pubDate": "2026-06-25T13:22:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "IBMが「1ナノ未満」半導体技術　ラピダス世代から性能5割向上 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN193WI0Z10C26A6000000/",
+    "pubDate": "2026-06-25T11:39:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ひろゆきが若者へ同情「僕は逃げ切った世代なので大変だなと…」　AIが40〜50代を強化して若手を締め出す現実 | AERA Books",
+    "link": "https://dot.asahi.com/articles/-/285741?page=1",
+    "pubDate": "2026-06-25T11:00:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "災害時に便利？ 手回しチャットボット「CrankGPT」 | ギズモード・ジャパン",
+    "link": "https://www.gizmodo.jp/article/crankgpt-is-a-hand-powered-chatbot-to-guide-you-through-the-post-apocalypse/",
+    "pubDate": "2026-06-25T09:35:07.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Codex を使って障害対応の机上演習をやってみよう - Coincheck Tech Blog",
     "link": "https://tech.coincheck.blog/entry/codex-ttx",
     "pubDate": "2026-06-25T04:56:18.000Z"
@@ -19,15 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "QuuBee — PC-98 フリーソフトプレイヤー",
-    "link": "https://quubee.pages.dev/",
-    "pubDate": "2026-06-25T02:09:02.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ブラウザー上で動作する、国産のPC-98ソフトプレイヤーが無料公開中。著作権もクリーン【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2119856.html",
     "pubDate": "2026-06-25T02:08:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI 時代だからこそコードを読もう",
+    "link": "https://zenn.dev/layerx/articles/6f510abfc3fa72",
+    "pubDate": "Thu, 25 Jun 2026 02:05:18 GMT"
   },
   {
     "site": "Qiita",
@@ -48,6 +72,12 @@
     "pubDate": "2026-06-25T00:00:18.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Chromium(V8)のArray.prototype.flatをバルクコピーでさらに約5倍高速化した",
+    "link": "https://zenn.dev/dinii/articles/e12fbacc8e761c",
+    "pubDate": "Thu, 25 Jun 2026 00:00:16 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【役に立つの？】「Google公式」の初心者向けAI講座、受けてみたら想像以上にすごかった",
     "link": "https://www.itmedia.co.jp/business/articles/2606/25/news034.html",
@@ -60,12 +90,6 @@
     "pubDate": "Wed, 24 Jun 2026 23:31:43 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "自衛隊、機密システムに感染USB接続　中国系ウイルス1年気づかず - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOCD075JJ0X00C26A5000000/",
-    "pubDate": "2026-06-24T20:14:34.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Unity 6時代にUniTaskはまだ必要か？Awaitable登場後の使い分けを整理する",
     "link": "https://zenn.dev/gamedev_toollab/articles/1c793e678197f9",
@@ -73,9 +97,21 @@
   },
   {
     "site": "Zenn",
-    "title": "「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方",
-    "link": "https://zenn.dev/tribeau/articles/c961141dd4c9c8",
-    "pubDate": "2026-06-24T09:38:31.000Z"
+    "title": "類似度1位でも返さないRAG：TiDBで検索結果を認可し、Mem9の記憶操作まで守る",
+    "link": "https://zenn.dev/snow_rabbit/articles/e7c8404575b62b",
+    "pubDate": "Wed, 24 Jun 2026 13:42:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "VSCodeからZedに乗り換えたら、軽いうえに大学鯖にも優しくなれた話",
+    "link": "https://zenn.dev/toramutton/articles/zed-debut-ssh",
+    "pubDate": "Wed, 24 Jun 2026 12:47:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS Blocks を実プロジェクトで試した — Amplify Gen2 にローカル開発を足す",
+    "link": "https://zenn.dev/purpom/articles/aws-blocks-amplify-gen2-local-first",
+    "pubDate": "Wed, 24 Jun 2026 10:13:59 GMT"
   },
   {
     "site": "Zenn",
@@ -90,34 +126,16 @@
     "pubDate": "Wed, 24 Jun 2026 08:00:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTの心臓部『Transformer』って何がすごいの？　#マンガでわかるAIの仕組み 第1話",
-    "link": "https://codezine.jp/article/detail/24575",
-    "pubDate": "2026-06-24T07:06:35.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "小さいローカル LLM をファインチューニングしてタスクに特化させ、Unity で利用する",
     "link": "https://zenn.dev/meson_tech_blog/articles/fine-tuning-local-llm",
     "pubDate": "Wed, 24 Jun 2026 04:51:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "イベントストーミングのススメ",
-    "link": "https://zenn.dev/nstock/articles/ac27140d8092ed",
-    "pubDate": "Wed, 24 Jun 2026 04:28:06 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「言った・言わない」を防ぐ。要件定義で使うべき質問の技術",
     "link": "https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-24T04:13:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "MulmoClaudeで自分専用の天気アプリをVibe Craftingしてみた",
-    "link": "https://zenn.dev/michiof/articles/mulmoclaude-weather-app",
-    "pubDate": "Wed, 24 Jun 2026 02:01:46 GMT"
   },
   {
     "site": "Qiita",
@@ -142,24 +160,6 @@
     "title": "Copilot Coworkでブラウザ操作できるようになったのはもっと話題になっていい",
     "link": "https://qiita.com/Oyu3m/items/b2d530aa21b6c998370b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-23T13:52:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
-    "link": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
-    "pubDate": "Tue, 23 Jun 2026 12:10:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "iOSアプリでSwift・Rust・Goの実行速度を比較してみた",
-    "link": "https://zenn.dev/oba_shion/articles/872ce1434f5fc7",
-    "pubDate": "Tue, 23 Jun 2026 10:39:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GAしたGitHub Copilot Appを触ってみた　～Issueから実装・PR・マージまでをエージェントに任せる～",
-    "link": "https://zenn.dev/nomhiro/articles/poc-develop-use-github-copilot-app",
-    "pubDate": "Tue, 23 Jun 2026 09:25:03 GMT"
   },
   {
     "site": "Qiita",
