@@ -1,9 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "Deno で Desktop アプリを作れるようになっていた",
+    "link": "https://azukiazusa.dev/blog/deno-desktop-app/",
+    "pubDate": "2026-06-27T08:48:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する",
+    "link": "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
+    "pubDate": "Sat, 27 Jun 2026 08:43:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "デュアルブート備忘録",
+    "link": "https://zenn.dev/qnighy/articles/09136afbf27bf3",
+    "pubDate": "Sat, 27 Jun 2026 08:25:23 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Dellでパソコンを注文したが、入金済みなのに遅延の嵐、さらに値上げ告知、3か月後に一方的キャンセル…電話はつながらずAI対応へ誘導され困惑と不満が止まらない",
+    "link": "https://togetter.com/li/2714197",
+    "pubDate": "2026-06-27T08:18:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする",
+    "link": "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
+    "pubDate": "Sat, 27 Jun 2026 06:23:06 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
     "link": "https://blog.lai.so/pi-coding-agent/",
     "pubDate": "2026-06-27T06:04:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "システム開発と「具体と抽象」 | 技術評論社",
+    "link": "https://gihyo.jp/book/2026/978-4-297-15790-6",
+    "pubDate": "2026-06-27T02:15:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Windows EC2のWindows Update失敗から再構築を決めるまで",
+    "link": "https://zenn.dev/yamadatt/articles/20260627-windows-ec2-update-rebuild",
+    "pubDate": "Sat, 27 Jun 2026 01:00:00 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "高騰する「Raspberry Pi」の代替策--安くて小さい「ESP32」を活用する",
+    "link": "https://japan.zdnet.com/article/35249206/",
+    "pubDate": "2026-06-27T00:56:38.000Z"
   },
   {
     "site": "Qiita",
@@ -12,34 +60,16 @@
     "pubDate": "2026-06-27T00:34:36.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita",
-    "link": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3",
-    "pubDate": "2026-06-26T22:59:35.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2120562.html",
-    "pubDate": "2026-06-26T22:50:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「+65」から始まる番号から不審な電話がありAIに「調べて」とお願いしたら急に通話発信をしはじめて焦った話…その後「絶対に折り返さないように」と言い出してコント",
-    "link": "https://togetter.com/li/2713993",
-    "pubDate": "2026-06-26T20:10:13.000Z"
+    "title": "Claude Enterprise全社導入で何を検討し、何をやらなかったか - メドピア開発者ブログ",
+    "link": "https://tech.medpeer.co.jp/entry/2026/06/26/122446",
+    "pubDate": "2026-06-27T00:13:39.000Z"
   },
   {
     "site": "Qiita",
     "title": "正直に言う。お前のClaude Codeの使い方は間違っている - Qiita",
     "link": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
     "pubDate": "2026-06-26T18:18:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ",
-    "link": "https://tech.mti.co.jp/entry/ac2026summer/0626",
-    "pubDate": "2026-06-26T17:51:33.000Z"
   },
   {
     "site": "Zenn",
@@ -49,9 +79,27 @@
   },
   {
     "site": "Zenn",
+    "title": "AWS Summit Japan 2026 6/25 基調講演＋セッションまとめ①",
+    "link": "https://zenn.dev/mortrainer/articles/6d6ad63b8501a7",
+    "pubDate": "Fri, 26 Jun 2026 13:16:09 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "IaC コードを資産へ：AWS CDK 社内ライブラリと横断展開 / aws-summit-japan-2026",
+    "link": "https://speakerdeck.com/gotok365/aws-summit-japan-2026",
+    "pubDate": "2026-06-26T12:14:30.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った",
     "link": "https://zenn.dev/uguisu_blog/articles/d777bd252bab6b",
     "pubDate": "Fri, 26 Jun 2026 11:55:03 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "退職者を在籍者で割るだけ……じゃない。「離職率」の奥深さとチームの意思決定 - SmartHR Tech Blog",
+    "link": "https://tech.smarthr.jp/entry/2026/06/26/142109",
+    "pubDate": "2026-06-26T10:16:33.000Z"
   },
   {
     "site": "Zenn",
@@ -60,16 +108,16 @@
     "pubDate": "Fri, 26 Jun 2026 10:07:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Bluesky、ユーザー数が4500万人を突破",
-    "link": "https://www.watch.impress.co.jp/docs/news/2120504.html",
-    "pubDate": "2026-06-26T09:56:18.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "私がループエンジニアリングにあまり興味がない理由",
     "link": "https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-26T09:50:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "シニアエンジニアがコードをほぼ書かなくなった理由",
+    "link": "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
+    "pubDate": "Fri, 26 Jun 2026 09:45:05 GMT"
   },
   {
     "site": "Zenn",
@@ -84,58 +132,16 @@
     "pubDate": "2026-06-26T08:58:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "約400紙の新聞を発行する新聞社が記事を無断でスクレイピングされたとしてOpenAIとMicrosoftを提訴",
-    "link": "https://gigazine.net/news/20260626-publishers-sue-microsoft-openai/",
-    "pubDate": "2026-06-26T07:02:33.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "ティックデータから推定するOrder Imbalanceの性質",
     "link": "https://qiita.com/newleaf/items/9f0b7adc57b99a998879?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-26T05:54:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AWS資格全冠への道",
-    "link": "https://zenn.dev/nttdata_tech/articles/4b794cab97ed77",
-    "pubDate": "Fri, 26 Jun 2026 05:00:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kaggleコンペ紹介：NVIDIA Nemotron Model Reasoning Challenge",
-    "link": "https://zenn.dev/mkj/articles/3a4d70ac4e8fb4",
-    "pubDate": "Fri, 26 Jun 2026 02:50:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIエージェントを“セキュリティのプロ”に変える817個のスキル集 — Claude Code / Codex / Cursor / Copilot対応OSSを読み解く",
     "link": "https://qiita.com/nogataka/items/8f99cc6fc97541a14b76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-26T01:50:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "レッツノート・タフブック 30年史、そして未来へ(3) パナソニックのパソコン事業の歴史を遡る - レッツノートに流れるThinkPadのフィロソフィー",
-    "link": "https://news.mynavi.jp/article/panasonicnote-3/",
-    "pubDate": "2026-06-26T01:26:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
-    "link": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b",
-    "pubDate": "2026-06-26T00:03:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "マイクラを声で動かそうとしたら令和の「ピカチュウげんきでちゅう」になった話",
-    "link": "https://zenn.dev/m2lab/articles/koe-craft-agent-amivoice",
-    "pubDate": "Thu, 25 Jun 2026 22:11:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Astro 7 移行で main マージしても本番が更新されない。Cloudflare Pages から Workers Builds へ",
-    "link": "https://zenn.dev/redamoon/articles/article47-astro7-cloudflare-workers-migration",
-    "pubDate": "Thu, 25 Jun 2026 20:43:03 GMT"
   },
   {
     "site": "Qiita",
@@ -156,18 +162,6 @@
     "pubDate": "2026-06-25T08:39:18.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "インターンを経て起業した目線から——2026年、インターンに挑む学生へ",
-    "link": "https://zenn.dev/emuni/articles/5edab377da1074",
-    "pubDate": "Thu, 25 Jun 2026 08:00:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Iceberg化できていないデータをどうIceberg化するか",
-    "link": "https://zenn.dev/ruriopcode/articles/289f829fa84f21",
-    "pubDate": "Thu, 25 Jun 2026 07:00:58 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Copilot+ PCを1年使った結果、NPUよりメモリ増やした方が幸せになる",
     "link": "https://qiita.com/miyakiyo/items/34960d2014bb09cf9952?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "勉強が続かないのは、あなたの意志が弱いからじゃない。",
     "link": "https://qiita.com/hitomin_poke/items/7a69883e9e70fc5ad853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-25T00:00:18.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コードから仕様書を逆生成するWebアプリ「cc-rsg-web」を公開しました",
+    "link": "https://zenn.dev/daishiro/articles/cc-rsg-web-release",
+    "pubDate": "2026-06-24T12:13:15.000Z"
   }
 ]
