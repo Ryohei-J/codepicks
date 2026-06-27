@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
+    "link": "https://blog.lai.so/pi-coding-agent/",
+    "pubDate": "2026-06-27T06:04:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS Summit 2026  Builder Community セッション資料まとめ",
+    "link": "https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-27T00:34:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Databricks Genie Ontologyとは何か セマンティックレイヤー・ナレッジストアとの関係を整理する - Qiita",
+    "link": "https://qiita.com/taka_yayoi/items/35e4b28280290c131ee3",
+    "pubDate": "2026-06-26T22:59:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、「GPT‑5.6」を発表 ～米国政府の要請で限定プレビュー、その後一般提供へ／フラグシップの「Sol」、バランスのとれた「Terra」、高速・低コストな「Luna」の3種",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2120562.html",
+    "pubDate": "2026-06-26T22:50:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「+65」から始まる番号から不審な電話がありAIに「調べて」とお願いしたら急に通話発信をしはじめて焦った話…その後「絶対に折り返さないように」と言い出してコント",
     "link": "https://togetter.com/li/2713993",
     "pubDate": "2026-06-26T20:10:13.000Z"
@@ -18,16 +42,34 @@
     "pubDate": "2026-06-26T17:51:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "潰れたネジ山用の特殊ビットも入った特殊精密工具138点セット「TL-027」がアイネックスから",
-    "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2119701.html",
-    "pubDate": "2026-06-26T11:56:29.000Z"
+    "site": "Zenn",
+    "title": "明日から始める、コーディングエージェント時代のフルスタック開発 — AWS Blocks のソースコードを読む",
+    "link": "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading",
+    "pubDate": "Fri, 26 Jun 2026 14:55:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った",
+    "link": "https://zenn.dev/uguisu_blog/articles/d777bd252bab6b",
+    "pubDate": "Fri, 26 Jun 2026 11:55:03 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Generative UIにJSONは最適なのか？ OpenUIという選択肢",
+    "link": "https://zenn.dev/sc30gsw/articles/d7320f1247b785",
+    "pubDate": "Fri, 26 Jun 2026 10:07:27 GMT"
   },
   {
     "site": "Hatena",
     "title": "Bluesky、ユーザー数が4500万人を突破",
     "link": "https://www.watch.impress.co.jp/docs/news/2120504.html",
     "pubDate": "2026-06-26T09:56:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "私がループエンジニアリングにあまり興味がない理由",
+    "link": "https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-26T09:50:07.000Z"
   },
   {
     "site": "Zenn",
@@ -42,40 +84,28 @@
     "pubDate": "2026-06-26T08:58:43.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "約400紙の新聞を発行する新聞社が記事を無断でスクレイピングされたとしてOpenAIとMicrosoftを提訴",
+    "link": "https://gigazine.net/news/20260626-publishers-sue-microsoft-openai/",
+    "pubDate": "2026-06-26T07:02:33.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "ティックデータから推定するOrder Imbalanceの性質",
     "link": "https://qiita.com/newleaf/items/9f0b7adc57b99a998879?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-26T05:54:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "天井からの風が快適! アレクサ対応サーキュライトは扇風機置けない部屋も涼しい【家電レビュー】",
-    "link": "https://kaden.watch.impress.co.jp/docs/column_review/kaden/2119365.html",
-    "pubDate": "2026-06-26T04:23:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "経営者になって廃人となりすべてを失った弟",
-    "link": "https://anond.hatelabo.jp/20260626120948",
-    "pubDate": "2026-06-26T03:21:28.000Z"
+    "site": "Zenn",
+    "title": "AWS資格全冠への道",
+    "link": "https://zenn.dev/nttdata_tech/articles/4b794cab97ed77",
+    "pubDate": "Fri, 26 Jun 2026 05:00:19 GMT"
   },
   {
     "site": "Zenn",
     "title": "Kaggleコンペ紹介：NVIDIA Nemotron Model Reasoning Challenge",
     "link": "https://zenn.dev/mkj/articles/3a4d70ac4e8fb4",
     "pubDate": "Fri, 26 Jun 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/authorization-design-as-a-user-story",
-    "pubDate": "2026-06-26T02:18:55.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "CancellationTokenSource の Cancel と Dispose を安全に扱う専用クラスを作る",
-    "link": "https://zenn.dev/gamedev_toollab/articles/c5b5e685eea8e8",
-    "pubDate": "Fri, 26 Jun 2026 02:12:22 GMT"
   },
   {
     "site": "Qiita",
@@ -90,12 +120,6 @@
     "pubDate": "2026-06-26T01:26:34.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AWS Summit Japan 2026 GameDay参戦レポ：データサイエンティストが当日滑り込みで銅メダルを獲得するまで",
-    "link": "https://zenn.dev/gatechnologies/articles/aws-summit2026-gameday",
-    "pubDate": "Fri, 26 Jun 2026 00:57:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
     "link": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b",
@@ -108,10 +132,10 @@
     "pubDate": "Thu, 25 Jun 2026 22:11:25 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「マネコン開いてどないしたらええんや…？」から半年。2026 Japan AWS Jr.Championに選出されるまで",
-    "link": "https://qiita.com/usanchuu/items/a3d907841022e0555813?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-25T20:13:04.000Z"
+    "site": "Zenn",
+    "title": "Astro 7 移行で main マージしても本番が更新されない。Cloudflare Pages から Workers Builds へ",
+    "link": "https://zenn.dev/redamoon/articles/article47-astro7-cloudflare-workers-migration",
+    "pubDate": "Thu, 25 Jun 2026 20:43:03 GMT"
   },
   {
     "site": "Qiita",
@@ -121,9 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "油絵から学んだ、デザイン・コード・働き方に共通する「余白理論」",
-    "link": "https://qiita.com/Minotaurasu/items/7ac59c9034cac5e9e935?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-25T09:02:28.000Z"
+    "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA",
+    "link": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-25T10:18:54.000Z"
   },
   {
     "site": "Qiita",
@@ -144,39 +168,15 @@
     "pubDate": "Thu, 25 Jun 2026 07:00:58 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "プログラムの純粋性について考える —— Clojure/Haskellとともに",
-    "link": "https://zenn.dev/studist/articles/program-purity-clojure-haskell",
-    "pubDate": "Thu, 25 Jun 2026 06:59:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini を Claude の「サブエージェント」に —— 大規模開発でコストを実測",
-    "link": "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
-    "pubDate": "Thu, 25 Jun 2026 04:03:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMが書いた「正しそうな言葉」に感じる違和感",
-    "link": "https://zenn.dev/mkj/articles/40a6c187d2dbc9",
-    "pubDate": "Thu, 25 Jun 2026 02:50:08 GMT"
+    "site": "Qiita",
+    "title": "Copilot+ PCを1年使った結果、NPUよりメモリ増やした方が幸せになる",
+    "link": "https://qiita.com/miyakiyo/items/34960d2014bb09cf9952?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-25T02:31:08.000Z"
   },
   {
     "site": "Qiita",
     "title": "勉強が続かないのは、あなたの意志が弱いからじゃない。",
     "link": "https://qiita.com/hitomin_poke/items/7a69883e9e70fc5ad853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-25T00:00:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「言った・言わない」を防ぐ。要件定義で使うべき質問の技術",
-    "link": "https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-24T04:13:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWSの\"俯瞰\"構成図を自動生成する ── 見やすさを機械チェックしながら量産した話",
-    "link": "https://qiita.com/ntaka329/items/d457f309e33c4602a693?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-24T03:02:25.000Z"
   }
 ]
