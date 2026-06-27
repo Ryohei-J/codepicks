@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "最近は企業からメールアドレスが漏れることが多いがメールアドレスのドメインに「＋〇〇」のように変えて特定する方法がある「これを拒否するところは…」",
+    "link": "https://togetter.com/li/2714363",
+    "pubDate": "2026-06-27T15:53:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現",
+    "link": "https://gigazine.net/news/20260627-hister/",
+    "pubDate": "2026-06-27T11:14:54.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Deno で Desktop アプリを作れるようになっていた",
     "link": "https://azukiazusa.dev/blog/deno-desktop-app/",
     "pubDate": "2026-06-27T08:48:02.000Z"
@@ -66,12 +78,6 @@
     "pubDate": "2026-06-27T00:13:39.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "正直に言う。お前のClaude Codeの使い方は間違っている - Qiita",
-    "link": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
-    "pubDate": "2026-06-26T18:18:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "明日から始める、コーディングエージェント時代のフルスタック開発 — AWS Blocks のソースコードを読む",
     "link": "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading",
@@ -82,12 +88,6 @@
     "title": "AWS Summit Japan 2026 6/25 基調講演＋セッションまとめ①",
     "link": "https://zenn.dev/mortrainer/articles/6d6ad63b8501a7",
     "pubDate": "Fri, 26 Jun 2026 13:16:09 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "IaC コードを資産へ：AWS CDK 社内ライブラリと横断展開 / aws-summit-japan-2026",
-    "link": "https://speakerdeck.com/gotok365/aws-summit-japan-2026",
-    "pubDate": "2026-06-26T12:14:30.000Z"
   },
   {
     "site": "Zenn",
