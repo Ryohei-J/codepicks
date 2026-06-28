@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "携帯会社のキャッチ→『iPhone最新機種1円です！今使ってるiPhone見せてください』→スマホ出したら『あー！SE！？ダメだ！SEの人は何言ってもSEがいいしか言わない！』",
+    "link": "https://togetter.com/li/2714494",
+    "pubDate": "2026-06-28T04:28:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "仙石浩明の日記: 第8世代PC でセキュアブートの証明書が更新されず Windows が起動しなくなったので、手作業で証明書を更新してみた",
     "link": "https://www.gcd.org/blog/2026/06/1558/",
     "pubDate": "2026-06-28T01:21:11.000Z"
@@ -10,6 +16,12 @@
     "title": "スティーブ・ジョブズが京都の寿司屋で1貫3000円の大トロを食べ、あまりの美味しさに機嫌が良かったのか、普段はほとんどサインをしないジョブズがサインをした話",
     "link": "https://togetter.com/li/2714449",
     "pubDate": "2026-06-28T00:26:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "サーバサイドTypeScriptを選ぶ前に向き合ってほしいこと",
+    "link": "https://kosui.me/posts/2026/06/26/before-choosing-server-side-typescript",
+    "pubDate": "2026-06-28T00:19:18.000Z"
   },
   {
     "site": "Zenn",
@@ -24,16 +36,46 @@
     "pubDate": "2026-06-27T20:20:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "最近は企業からメールアドレスが漏れることが多いがメールアドレスのドメインに「＋〇〇」のように変えて特定する方法がある「これを拒否するところは…」",
-    "link": "https://togetter.com/li/2714363",
-    "pubDate": "2026-06-27T15:53:15.000Z"
+    "site": "Qiita",
+    "title": "AWS DevOps Agentの設計ベストプラクティスから考えるガバメントクラウドでの活用",
+    "link": "https://qiita.com/infra365/items/b0417a9a18c8a0983657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-27T20:17:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIの日本語が「整いすぎて不自然」な正体は『カルク（訳語臭）』だった — 高品質な日本語文章を生成するスキルを作った",
+    "link": "https://zenn.dev/forest_project/articles/a62fc2f6ac85ff",
+    "pubDate": "Sat, 27 Jun 2026 16:30:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "RX 9070 XT 16GBでローカルLLMのAIコーディングエージェント環境を作る",
+    "link": "https://zenn.dev/masahide/articles/0d4016e8ea5a25",
+    "pubDate": "Sat, 27 Jun 2026 15:13:08 GMT"
   },
   {
     "site": "Zenn",
     "title": "hoge+fuga@example.com は「エイリアス」ではない",
     "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
     "pubDate": "Sat, 27 Jun 2026 15:07:10 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Zed 完全ガイド - izanami",
+    "link": "https://izanami.dev/post/903fe0a2-878a-4f4b-a02c-d8784d8ef731",
+    "pubDate": "2026-06-27T12:18:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Copilot Studio基礎編】コスト・ライセンス管理のロードマップ",
+    "link": "https://zenn.dev/upgradetech/articles/515ce8333085ef",
+    "pubDate": "Sat, 27 Jun 2026 10:14:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Copilot Studioエージェントをバイブコーディングで開発",
+    "link": "https://zenn.dev/upgradetech/articles/84fce7d81b9ed3",
+    "pubDate": "Sat, 27 Jun 2026 10:13:05 GMT"
   },
   {
     "site": "Hatena",
@@ -49,45 +91,27 @@
   },
   {
     "site": "Zenn",
-    "title": "Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する",
-    "link": "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
-    "pubDate": "Sat, 27 Jun 2026 08:43:31 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "デュアルブート備忘録",
     "link": "https://zenn.dev/qnighy/articles/09136afbf27bf3",
     "pubDate": "Sat, 27 Jun 2026 08:25:23 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ソニー「aiboはやめません」──“次の開発”も明かす　オーナーに「安心してください」と呼びかけ",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2606/27/news027.html",
-    "pubDate": "2026-06-27T06:54:33.000Z"
+    "site": "Zenn",
+    "title": "コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする",
+    "link": "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
+    "pubDate": "Sat, 27 Jun 2026 06:23:06 GMT"
   },
   {
     "site": "Zenn",
-    "title": "いまさら聞けない FTP / FTPS / SFTP の違いと選び方 ― データ連携プロトコル徹底比較",
-    "link": "https://zenn.dev/shishina/articles/ac63679ab5b1b5",
-    "pubDate": "Sat, 27 Jun 2026 06:44:15 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "[ブックマーカー分析]危険性ランキング",
-    "link": "https://anond.hatelabo.jp/20260623134924",
-    "pubDate": "2026-06-27T05:15:36.000Z"
+    "title": "Kinesis Data Streamsを使う前に知っておきたかったこと",
+    "link": "https://zenn.dev/aminevsky/articles/2f0a7ebcc0359b",
+    "pubDate": "Sat, 27 Jun 2026 05:02:32 GMT"
   },
   {
     "site": "Zenn",
     "title": "【初学者向け】Google AI Studioでwebアプリを作ってみよう",
     "link": "https://zenn.dev/kanaru/articles/a8fc555cdbb6b0",
     "pubDate": "Sat, 27 Jun 2026 04:49:22 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【ミニレビュー】小さくなって“着け続ける”価値が増した　Oura Ring 5の真価",
-    "link": "https://www.watch.impress.co.jp/docs/review/minireview/2119742.html",
-    "pubDate": "2026-06-27T02:23:38.000Z"
   },
   {
     "site": "Qiita",
@@ -97,51 +121,27 @@
   },
   {
     "site": "Qiita",
-    "title": "【AWS】DevOpsAgentでレビューを自動化する【DevOpsAgent】",
-    "link": "https://qiita.com/Nana_777/items/31ef1d637150409a1990?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-27T00:17:30.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "10ヶ月停滞した大学生が、ある日突然黄色perfを出して入水しました",
     "link": "https://qiita.com/TrueRyoB/items/124d3d9d494b17a7c263?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-26T16:43:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "明日から始める、コーディングエージェント時代のフルスタック開発 — AWS Blocks のソースコードを読む",
-    "link": "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading",
-    "pubDate": "Fri, 26 Jun 2026 14:55:19 GMT"
-  },
-  {
     "site": "Hatena",
-    "title": "「モラルが欠如している」──LINE安否確認で“悪ふざけ”、SNSで批判の的に",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2606/26/news142.html",
-    "pubDate": "2026-06-26T14:02:57.000Z"
+    "title": "LLMによる情報抽出入門 | 技術評論社",
+    "link": "https://gihyo.jp/book/2026/978-4-297-15727-2",
+    "pubDate": "2026-06-26T11:16:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った",
-    "link": "https://zenn.dev/uguisu_blog/articles/d777bd252bab6b",
-    "pubDate": "Fri, 26 Jun 2026 11:55:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Generative UIにJSONは最適なのか？ OpenUIという選択肢",
-    "link": "https://zenn.dev/sc30gsw/articles/d7320f1247b785",
-    "pubDate": "Fri, 26 Jun 2026 10:07:27 GMT"
+    "site": "Qiita",
+    "title": "Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選",
+    "link": "https://qiita.com/wataru86/items/b859f1578191a1e15808?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-26T09:57:33.000Z"
   },
   {
     "site": "Qiita",
     "title": "私がループエンジニアリングにあまり興味がない理由",
     "link": "https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-26T09:50:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "シニアエンジニアがコードをほぼ書かなくなった理由",
-    "link": "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
-    "pubDate": "Fri, 26 Jun 2026 09:45:05 GMT"
   },
   {
     "site": "Qiita",
@@ -151,9 +151,9 @@
   },
   {
     "site": "Qiita",
-    "title": "AIエージェントを実装して気づいた「ガードレールを敷ける設計力」の重要性",
-    "link": "https://qiita.com/ryuichi000persol/items/27789cbca88bd4bf11e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-26T01:28:17.000Z"
+    "title": "話題のトークン課金節約ライブラリ Headroom は本当に効果があるのか実測してみる",
+    "link": "https://qiita.com/ksonoda/items/a1a97be8fed52c34ec89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-25T23:02:11.000Z"
   },
   {
     "site": "Qiita",
@@ -174,9 +174,9 @@
     "pubDate": "2026-06-25T08:39:18.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "勉強が続かないのは、あなたの意志が弱いからじゃない。",
-    "link": "https://qiita.com/hitomin_poke/items/7a69883e9e70fc5ad853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-25T00:00:18.000Z"
+    "site": "Hatena",
+    "title": "NotebookLMで要件定義が楽になった話 ― 仕様駆動開発（SDD）の前段を整える - WHITEPLUS TechBlog",
+    "link": "https://blog.wh-plus.co.jp/entry/2026/06/23/113209",
+    "pubDate": "2026-06-25T00:15:19.000Z"
   }
 ]
