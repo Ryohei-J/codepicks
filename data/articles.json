@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "携帯会社のキャッチ→『iPhone最新機種1円です！今使ってるiPhone見せてください』→スマホ出したら『あー！SE！？ダメだ！SEの人は何言ってもSEがいいしか言わない！』",
-    "link": "https://togetter.com/li/2714494",
-    "pubDate": "2026-06-28T04:28:27.000Z"
+    "title": "テスラの納車日だったので札幌から仙台まで14時間かけて行ったら肝心の車がなぜか用意されていなかった「全国的に大混乱しているみたい」",
+    "link": "https://togetter.com/li/2714573",
+    "pubDate": "2026-06-28T08:58:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ループエンジニアリングを takt exec で気軽に始めよう",
+    "link": "https://zenn.dev/nrs/articles/e4a2ae8a9fb785",
+    "pubDate": "Sun, 28 Jun 2026 07:35:50 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhone4s",
+    "link": "https://anond.hatelabo.jp/20260628155109",
+    "pubDate": "2026-06-28T06:52:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "880円でPD・PPS対応、iPhone 17 Proも30W充電。ダイソーのGaN充電器が侮れない - はやぽんログ！",
+    "link": "https://hayaponlog.com/daiso-30w-gan-charger-review/",
+    "pubDate": "2026-06-28T03:36:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "🚀ローカル LLM 選び、もう「VRAM に入る一番デカいやつ」で決めるの卒業しよ？ - whichllm を RTX 4060 Ti 16GB で測ってみた - Qiita",
+    "link": "https://qiita.com/aktsmm/items/6b2ef723c2e660c93731",
+    "pubDate": "2026-06-28T03:25:43.000Z"
   },
   {
     "site": "Hatena",
@@ -12,34 +36,28 @@
     "pubDate": "2026-06-28T01:21:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スティーブ・ジョブズが京都の寿司屋で1貫3000円の大トロを食べ、あまりの美味しさに機嫌が良かったのか、普段はほとんどサインをしないジョブズがサインをした話",
-    "link": "https://togetter.com/li/2714449",
-    "pubDate": "2026-06-28T00:26:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "サーバサイドTypeScriptを選ぶ前に向き合ってほしいこと",
-    "link": "https://kosui.me/posts/2026/06/26/before-choosing-server-side-typescript",
-    "pubDate": "2026-06-28T00:19:18.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "hoge+fuga@example.com は「エイリアス」ではない",
     "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
     "pubDate": "2026-06-27T23:22:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "キオクシア、社員600人が「10億り人」　AIが生む富の新景色 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOCD24BRL0U6A620C2000000/",
-    "pubDate": "2026-06-27T20:20:02.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeのセッションを見下ろし型オフィスとして可視化するツールを作った",
+    "link": "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
+    "pubDate": "Sat, 27 Jun 2026 21:11:42 GMT"
   },
   {
     "site": "Qiita",
     "title": "AWS DevOps Agentの設計ベストプラクティスから考えるガバメントクラウドでの活用",
     "link": "https://qiita.com/infra365/items/b0417a9a18c8a0983657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-27T20:17:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自動運転レベル4の世界共通ルールが日本主導でついに決定 | 自動運転ラボ",
+    "link": "https://jidounten-lab.com/u_64178",
+    "pubDate": "2026-06-27T16:50:05.000Z"
   },
   {
     "site": "Zenn",
@@ -60,10 +78,22 @@
     "pubDate": "Sat, 27 Jun 2026 15:07:10 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "スマホのみでWebアプリ開発。Codexで作って公開した話",
+    "link": "https://zenn.dev/bit_and_coffee/articles/gexam-practice-app",
+    "pubDate": "Sat, 27 Jun 2026 14:08:03 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Zed 完全ガイド - izanami",
     "link": "https://izanami.dev/post/903fe0a2-878a-4f4b-a02c-d8784d8ef731",
     "pubDate": "2026-06-27T12:18:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Docker】- Docker ComposeでImmich導入",
+    "link": "https://zenn.dev/tooldraft/articles/41d7b5cd0defe3",
+    "pubDate": "Sat, 27 Jun 2026 11:32:58 GMT"
   },
   {
     "site": "Zenn",
@@ -78,40 +108,10 @@
     "pubDate": "Sat, 27 Jun 2026 10:13:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "エンジニアとして尊敬してた先輩が変わり果てて哀しい",
-    "link": "https://anond.hatelabo.jp/20260627180014",
-    "pubDate": "2026-06-27T09:09:32.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証",
     "link": "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
     "pubDate": "Sat, 27 Jun 2026 08:55:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "デュアルブート備忘録",
-    "link": "https://zenn.dev/qnighy/articles/09136afbf27bf3",
-    "pubDate": "Sat, 27 Jun 2026 08:25:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする",
-    "link": "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
-    "pubDate": "Sat, 27 Jun 2026 06:23:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kinesis Data Streamsを使う前に知っておきたかったこと",
-    "link": "https://zenn.dev/aminevsky/articles/2f0a7ebcc0359b",
-    "pubDate": "Sat, 27 Jun 2026 05:02:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【初学者向け】Google AI Studioでwebアプリを作ってみよう",
-    "link": "https://zenn.dev/kanaru/articles/a8fc555cdbb6b0",
-    "pubDate": "Sat, 27 Jun 2026 04:49:22 GMT"
   },
   {
     "site": "Qiita",
