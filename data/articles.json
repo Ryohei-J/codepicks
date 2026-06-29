@@ -24,12 +24,6 @@
     "pubDate": "2026-06-29T08:51:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Opus 4.7と同等性能のコーディングAIモデル「Ornith-1.0」が登場、ローカルで動作する小型モデルもラインナップ",
-    "link": "https://gigazine.net/news/20260629-ornith-agentic-coding-ai/",
-    "pubDate": "2026-06-29T04:49:25.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ECS のデプロイを ecspresso へ移行して自動化した話",
     "link": "https://zenn.dev/lincwell_inc/articles/c60c337017aa49",
@@ -55,6 +49,12 @@
   },
   {
     "site": "Zenn",
+    "title": "現代の知識グラフとオントロジー - 「推論」から「契約」へ：データ品質保証と回答検証の全体像",
+    "link": "https://zenn.dev/yohei/articles/2026-06-28-kg-ontology-redefinition",
+    "pubDate": "2026-06-29T01:51:47.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "イベント駆動アーキテクチャ導入の設計判断",
     "link": "https://zenn.dev/wn_engineering/articles/dc809eed504f90",
     "pubDate": "Mon, 29 Jun 2026 01:00:09 GMT"
@@ -75,12 +75,6 @@
     "site": "Qiita",
     "title": "社内でTOTPのハンズオン授業を開いてみた",
     "link": "https://qiita.com/qwertyhoge/items/6ef7a58fe38b1e9e0e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-29T00:40:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "超便利なClaude Designの実践的な活用方法",
-    "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
     "pubDate": "2026-06-29T00:40:22.000Z"
   },
   {
@@ -120,16 +114,16 @@
     "pubDate": "2026-06-28T23:51:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "数十ページのPDFを1回で処理、ローカルOCRモデル「Unlimited OCR」をバイドゥが無料公開。商用利用もできる（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/06/29/5234.html",
-    "pubDate": "2026-06-28T23:36:39.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "パフォーマンス改善は、ユーザーが何を見たいか考えるところから",
     "link": "https://zenn.dev/aun_phonogram/articles/b04c96117956fd",
     "pubDate": "Sun, 28 Jun 2026 22:00:08 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "多くの現場を見て気づいた「有名ではないエンジニア」の生きのこり方",
+    "link": "https://speakerdeck.com/kenususugi/duo-kunoxian-chang-wojian-teqi-duita-you-ming-dehanaienzinia-nosheng-kinokorifang",
+    "pubDate": "2026-06-28T21:26:16.000Z"
   },
   {
     "site": "Qiita",
@@ -166,6 +160,12 @@
     "title": "AWS Summit 2026  「Builder Community」&「AWS HERO」 セッション資料まとめ",
     "link": "https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-27T00:34:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "あなたの.envはDockerイメージに焼き込まれ、誰でも抜き出せる - Qiita",
+    "link": "https://qiita.com/kenimo49/items/fd13ea9436bbb3985dfc",
+    "pubDate": "2026-06-26T20:23:20.000Z"
   },
   {
     "site": "Qiita",
