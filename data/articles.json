@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Claudeモデルの「拡張思考」から「適応的思考」への移行 - Taste of Tech Topics",
+    "link": "https://acro-engineer.hatenablog.com/entry/2026/06/29/120000",
+    "pubDate": "2026-06-29T05:57:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Opus 4.7と同等性能のコーディングAIモデル「Ornith-1.0」が登場、ローカルで動作する小型モデルもラインナップ",
+    "link": "https://gigazine.net/news/20260629-ornith-agentic-coding-ai/",
+    "pubDate": "2026-06-29T04:49:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大人気「めっちゃカメレオン」小学生にはオススメできない理由　ただの“かくれんぼ”と思いきや……",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/29/news070.html",
+    "pubDate": "2026-06-29T03:02:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claudeに「オントロジー」を持たせたら、コスト半分・3倍速になるかも",
+    "link": "https://zenn.dev/takupeso/articles/claude-ontology-knowledge-structuring",
+    "pubDate": "2026-06-29T01:53:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "松屋の券売機が「思いのほか使いやすかった」　それでもネットで不評なのはなぜ？",
     "link": "https://www.itmedia.co.jp/mobile/articles/2606/29/news049.html",
     "pubDate": "2026-06-29T01:17:29.000Z"
@@ -12,16 +36,40 @@
     "pubDate": "2026-06-29T00:58:19.000Z"
   },
   {
+    "site": "Qiita",
+    "title": " 「転職はまだ早い」と思っているあなたへ。私が一歩踏み出して学んだこと",
+    "link": "https://qiita.com/hitomin_poke/items/3f0d61d0ff4f082479c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-29T00:54:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "社内でTOTPのハンズオン授業を開いてみた",
+    "link": "https://qiita.com/qwertyhoge/items/6ef7a58fe38b1e9e0e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-29T00:40:22.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "超便利なClaude Designの実践的な活用方法",
     "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
     "pubDate": "2026-06-29T00:40:22.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "超便利なClaude Designの実践的な活用方法",
+    "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
+    "pubDate": "Mon, 29 Jun 2026 00:30:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "テーブル設計をskillsでレビューしてみませんか",
+    "link": "https://qiita.com/kuma_3838/items/dd2e5075ea0d59ee3a36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-29T00:17:05.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "数を増やしても一貫性を保つ、runn の API テスト構成設計 - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/runn-api-test-architecture",
-    "pubDate": "2026-06-29T00:24:44.000Z"
+    "title": "「スマホカメラ」が「本物のカメラ」に到底かなわない6つの理由",
+    "link": "https://japan.cnet.com/article/35249557/",
+    "pubDate": "2026-06-28T23:51:40.000Z"
   },
   {
     "site": "Hatena",
@@ -42,16 +90,22 @@
     "pubDate": "2026-06-28T18:02:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI エージェントフレームワーク Flue を試してみた",
-    "link": "https://azukiazusa.dev/blog/ai-agent-framework-flue/",
-    "pubDate": "2026-06-28T14:26:18.000Z"
+    "site": "Qiita",
+    "title": "社内でエンジニア成長ワークショップをやってみた【自己チェックリスト＆年収目安付き】",
+    "link": "https://qiita.com/Nao52/items/3dbf4c0206c86bf72e32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-28T15:34:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "資産5000万達成したから自慢したい",
-    "link": "https://anond.hatelabo.jp/20260628170241",
-    "pubDate": "2026-06-28T09:33:31.000Z"
+    "site": "Qiita",
+    "title": "画像一括生成システムの設計進化記録 〜ECS・Lambda・SQS・EventBridgeで100〜300件をさばく〜",
+    "link": "https://qiita.com/Nao52/items/d1601e07ba3a125bc714?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-28T12:06:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ",
+    "link": "https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-28T09:51:39.000Z"
   },
   {
     "site": "Zenn",
@@ -61,9 +115,27 @@
   },
   {
     "site": "Zenn",
+    "title": "RAGを作るのではなく、検索される知識を運用する",
+    "link": "https://zenn.dev/yottayoshida/articles/rag-knowledge-ops-agent-search",
+    "pubDate": "Sun, 28 Jun 2026 08:09:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rust on ESP32ではesp-halとesp-idfのどちらを使うべきなのか",
+    "link": "https://zenn.dev/nazo6/articles/esp-rust-hal-or-idf",
+    "pubDate": "Sun, 28 Jun 2026 08:06:06 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ループエンジニアリングを takt exec で気軽に始めよう",
     "link": "https://zenn.dev/nrs/articles/e4a2ae8a9fb785",
     "pubDate": "Sun, 28 Jun 2026 07:35:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ReactiveProperty.R3 を公開しました",
+    "link": "https://zenn.dev/okazuki/articles/reactiveproperty-r3-overview",
+    "pubDate": "Sun, 28 Jun 2026 05:43:55 GMT"
   },
   {
     "site": "Zenn",
@@ -72,52 +144,16 @@
     "pubDate": "Sun, 28 Jun 2026 05:26:46 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub - hirokawaguchi/open-genai: デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像生成(SD)・チーム単位ナレッジをローカル完結。",
-    "link": "https://github.com/hirokawaguchi/open-genai",
-    "pubDate": "2026-06-28T04:46:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ティム・クックCEOが「もはや限界」と値上げに言及――すでにAndroidでは値上げラッシュが始まる",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2606/28/news021.html",
-    "pubDate": "2026-06-28T04:43:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【フロント基礎】SSR・CSR・SSG・ISR、結局どう使い分ける？ 答えは「データ単位」",
-    "link": "https://qiita.com/tomoki-miso/items/771ebac60ff6fa8594b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-28T04:15:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ハーネスエンジニアリングは、AI時代のチームビルディングだった",
-    "link": "https://zenn.dev/ttaniguchi/articles/hands-on-harness-engineering",
-    "pubDate": "Sun, 28 Jun 2026 03:19:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【めざせカードマスター】Kaggleコンペ紹介 Pokémon Trading Card Game AI Battle Challenge",
-    "link": "https://zenn.dev/kkj/articles/85a3a0a08f193c",
-    "pubDate": "Sat, 27 Jun 2026 23:20:31 GMT"
-  },
-  {
     "site": "Zenn",
     "title": "Claude Codeのセッションを見下ろし型オフィスとして可視化するツールを作った",
     "link": "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
     "pubDate": "Sat, 27 Jun 2026 21:11:42 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AWS DevOps Agentの設計ベストプラクティスから考えるガバメントクラウドでの活用",
-    "link": "https://qiita.com/infra365/items/b0417a9a18c8a0983657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-27T20:17:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Power BI を一番うまく分析できるエージェント構成はどれか。比較してみた",
-    "link": "https://qiita.com/ryoma-nagata/items/3901af1e2d862bcd5ab3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-27T19:47:08.000Z"
+    "site": "Zenn",
+    "title": "Claudeに「オントロジー」を持たせたら、コスト半分・3倍速になるかも",
+    "link": "https://zenn.dev/takupeso/articles/claude-ontology-knowledge-structuring",
+    "pubDate": "Sat, 27 Jun 2026 16:49:46 GMT"
   },
   {
     "site": "Zenn",
@@ -126,40 +162,10 @@
     "pubDate": "Sat, 27 Jun 2026 15:13:08 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "hoge+fuga@example.com は「エイリアス」ではない",
-    "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
-    "pubDate": "Sat, 27 Jun 2026 15:07:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLM 事後学習 (SFT / RLHF / DPO / RLVR / GRPO / 自己蒸留) を教師信号から眺める",
-    "link": "https://zenn.dev/shunk031/articles/llm-post-training-overview",
-    "pubDate": "Sat, 27 Jun 2026 15:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証",
-    "link": "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
-    "pubDate": "Sat, 27 Jun 2026 08:55:23 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeは「コードを書くAI」で終わらせるな：公式 document-skills でPDF・Excel・Word・PowerPointまで自動化する",
-    "link": "https://qiita.com/4q_sano/items/2c9d2686bdbc5e085191?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-27T05:39:13.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWS Summit 2026  「Builder Community」&「AWS HERO」 セッション資料まとめ",
     "link": "https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-27T00:34:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "あなたの.envはDockerイメージに焼き込まれ、誰でも抜き出せる",
-    "link": "https://qiita.com/kenimo49/items/fd13ea9436bbb3985dfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-26T13:30:00.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "私がループエンジニアリングにあまり興味がない理由",
     "link": "https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-26T09:50:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "話題のトークン課金節約ライブラリ Headroom は本当に効果があるのか実測してみる",
-    "link": "https://qiita.com/ksonoda/items/a1a97be8fed52c34ec89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-25T23:02:11.000Z"
   }
 ]
