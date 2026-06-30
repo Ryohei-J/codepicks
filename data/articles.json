@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "アフラック顧客情報438万人分流出　不正アクセス、23万人分は口座も - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUB3046P0Q6A630C2000000/",
-    "pubDate": "2026-06-30T05:16:09.000Z"
+    "title": "国産AIで狙う脱「米国依存」、性能はミュトスに及ばず　第三極を模索 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC2449U0U6A620C2000000/",
+    "pubDate": "2026-06-30T11:29:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "死んだ個体と交尾するイノシシ、東京農工大などが記録　有蹄類で初　白骨化も見届ける",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/30/news148.html",
+    "pubDate": "2026-06-30T08:37:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "メモリ価格は2026年第3四半期に40～50％上昇して2028年まで改善の見込みはないとの予測",
+    "link": "https://gigazine.net/news/20260630-memory-prices-surge-until-2028/",
+    "pubDate": "2026-06-30T07:24:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "サプライチェーン攻撃に怯えたくないので、パッケージを「寝かせる」プロキシを自作した - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2026/06/29/170000",
+    "pubDate": "2026-06-30T04:58:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【永久0円】人間LLMのすすめ - Qiita",
+    "link": "https://qiita.com/Syuparn/items/0001f93221d4d7556271",
+    "pubDate": "2026-06-30T03:56:39.000Z"
   },
   {
     "site": "Qiita",
@@ -18,22 +42,46 @@
     "pubDate": "2026-06-30T03:37:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スマホのダークモード、Androidでは約4分の3が「常時オン」だと判明【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2121033.html",
-    "pubDate": "2026-06-30T03:02:48.000Z"
+    "site": "Zenn",
+    "title": "ようこそ、ドメイン駆動設計へ",
+    "link": "https://zenn.dev/k_ing/books/ddd-first-book",
+    "pubDate": "Tue, 30 Jun 2026 02:34:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "仕様の曖昧さをコードで共有する",
+    "link": "https://zenn.dev/tan_go238/articles/c94a78a2dea391",
+    "pubDate": "Tue, 30 Jun 2026 02:13:51 GMT"
   },
   {
     "site": "Hatena",
-    "title": "GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策 - GMO Flatt Security Blog",
-    "link": "https://blog.flatt.tech/entry/2026-github-actions-security-part2",
-    "pubDate": "2026-06-30T02:23:57.000Z"
+    "title": "生産性が上がらないチームは、この問いを忘れている | サイボウズ式",
+    "link": "https://cybozushiki.cybozu.co.jp/articles/m006335.html",
+    "pubDate": "2026-06-30T02:06:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI避けて「人間にだけ届く」広告配信へ、博報堂DYが新会社設立 　虹彩認証「World ID」活用",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/30/news095.html",
-    "pubDate": "2026-06-30T02:03:59.000Z"
+    "site": "Zenn",
+    "title": "Rust でゲームボーイアドバンス向けの音楽ソフトを開発するには (1) 基礎編",
+    "link": "https://zenn.dev/yutannihilation/articles/e513920c1d7b8e",
+    "pubDate": "Tue, 30 Jun 2026 01:38:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "エージェントOS化するClaude CodeをOS機能との類推などで理解していく",
+    "link": "https://zenn.dev/uehaj/articles/claude-code-fork-branch-rewind-btw",
+    "pubDate": "Tue, 30 Jun 2026 01:33:15 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Clean Architecture】ユースケース層のインターフェイスを導入する理由",
+    "link": "https://zenn.dev/trefac/articles/f7e8e39e73f0a0",
+    "pubDate": "Tue, 30 Jun 2026 01:18:51 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "図で理解する Plan 9 アセンブリと Go の中の Plan 9",
+    "link": "https://zenn.dev/jamesbob/articles/plan9_go_assembly_zenn",
+    "pubDate": "Tue, 30 Jun 2026 00:46:57 GMT"
   },
   {
     "site": "Hatena",
@@ -48,16 +96,16 @@
     "pubDate": "Tue, 30 Jun 2026 00:40:39 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "世界史データベースチームの開発手法",
+    "link": "https://zenn.dev/coten/articles/6e1d0b8e14eaf3",
+    "pubDate": "Tue, 30 Jun 2026 00:05:55 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AI時代に異職種から信頼されるエンジニアの5つの特徴",
     "link": "https://qiita.com/Kensuke_Shibata/items/028269e26b4a0e6c0242?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-29T23:32:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Microsoft、「WSL containers」を公開プレビュー ～2倍速い新ファイルシステム「virtiofs」なども／「Docker」なしでWindows上にLinuxコンテナーを構築・実行",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2120973.html",
-    "pubDate": "2026-06-29T23:28:42.000Z"
   },
   {
     "site": "Zenn",
@@ -67,39 +115,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Code の Agent Teams による、複数課題を同時並行で処理し自己改善を繰り返すAIチーム（PM＋作業者）の構築",
-    "link": "https://zenn.dev/acntechjp/articles/6f74e9a6aef835",
-    "pubDate": "Mon, 29 Jun 2026 23:00:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「エンジニアがこの先生きのこるためのカンファレンス2026」に登壇・参加して",
-    "link": "https://zenn.dev/collabostyle/articles/f5318a4837593e",
-    "pubDate": "Mon, 29 Jun 2026 16:03:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代に、自動化についてもう一度考える",
-    "link": "https://zenn.dev/namoo_san/articles/3cc632399946e5",
-    "pubDate": "Mon, 29 Jun 2026 15:09:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMエージェントを『コスパ良く・高精度に』組む技術：Clearwingのワークフロー設計に学ぶ",
-    "link": "https://zenn.dev/khale/articles/llm-agent-cost-accuracy-clearwing",
-    "pubDate": "Mon, 29 Jun 2026 15:04:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "2026 Japan AWS Top Engineersに選ばれた話",
-    "link": "https://zenn.dev/penginpenguin/articles/560641da466bff",
-    "pubDate": "Mon, 29 Jun 2026 13:33:06 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "日清「謎うなぎ丼」登場　さらに“うなぎ丼”らしい味わい",
-    "link": "https://www.watch.impress.co.jp/docs/news/2120894.html",
-    "pubDate": "2026-06-29T13:16:34.000Z"
+    "title": "【個人開発】WEBサービスの収益を最大化するために試したこと",
+    "link": "https://zenn.dev/sonicmoov/articles/1d42acb18af2f5",
+    "pubDate": "Mon, 29 Jun 2026 23:00:11 GMT"
   },
   {
     "site": "Qiita",
@@ -108,40 +126,22 @@
     "pubDate": "2026-06-29T12:50:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Snowflake、Auto ML始めたってよ。",
-    "link": "https://zenn.dev/takikomi/articles/4333c479cecc0b",
-    "pubDate": "Mon, 29 Jun 2026 11:26:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【CCA-F学習ログ #2】基礎編：Anthropic Academy のレベル100で土台を固める",
-    "link": "https://zenn.dev/yujmatsu/articles/20260629_cca_foundations_02_basics",
-    "pubDate": "Mon, 29 Jun 2026 11:00:08 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【永久0円】人間LLMのすすめ",
     "link": "https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-29T09:53:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "マーケティング担当がAIと一緒に、LINEのアンケート→出し分け配信を無料で作ってみた",
-    "link": "https://zenn.dev/teradox_blog/articles/19228a95b22456",
-    "pubDate": "Mon, 29 Jun 2026 09:49:24 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google、Geminiで学習用「study notebooks」を提供、学習テーマに沿ったレッスンと練習問題で学べる | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/06/gemini-study-notebooks",
-    "pubDate": "2026-06-29T09:33:31.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
     "link": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-29T08:14:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ブラウザで読んだページをObsidianに自動保存できるようにChrome拡張「Yasumaro」をきっちり設定する",
+    "link": "https://zenn.dev/ar1/articles/yasumaro-04-obsidian",
+    "pubDate": "2026-06-29T02:41:51.000Z"
   },
   {
     "site": "Qiita",
