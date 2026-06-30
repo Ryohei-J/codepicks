@@ -1,33 +1,99 @@
 [
   {
     "site": "Hatena",
+    "title": "アフラック顧客情報438万人分流出　不正アクセス、23万人分は口座も - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUB3046P0Q6A630C2000000/",
+    "pubDate": "2026-06-30T05:16:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Railsで学ぶ DFS / BFS 入門 〜「深さ優先」と「幅優先」で木構造をたどる〜",
+    "link": "https://qiita.com/akachiryo/items/025683560974d762fa85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-30T03:48:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "システムリプレイスを始める前に余計な機能を消す - モヒカン技術ブログ",
+    "link": "https://blog.pinkumohikan.com/entry/remove-unnecessaries-first-when-system-replace",
+    "pubDate": "2026-06-30T03:37:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマホのダークモード、Androidでは約4分の3が「常時オン」だと判明【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2121033.html",
+    "pubDate": "2026-06-30T03:02:48.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策 - GMO Flatt Security Blog",
     "link": "https://blog.flatt.tech/entry/2026-github-actions-security-part2",
     "pubDate": "2026-06-30T02:23:57.000Z"
   },
   {
     "site": "Hatena",
-    "title": "フロントエンドのテスト戦略を考える - AIで変わったこと、変わらないこと - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/30/frontend-testing",
-    "pubDate": "2026-06-30T00:55:15.000Z"
+    "title": "AI避けて「人間にだけ届く」広告配信へ、博報堂DYが新会社設立 　虹彩認証「World ID」活用",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/30/news095.html",
+    "pubDate": "2026-06-30T02:03:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "カタログ制作の3社コンペを失注したが、その理由が「社内で総務がAIやツールを使って作ることになったので…」と聞いた時、ある疑念が生まれた「ま、まさかですが…」",
-    "link": "https://togetter.com/li/2715168",
-    "pubDate": "2026-06-30T00:26:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ソニーの「アイボ」、“次の製品”を開発中　「今ここにその子がいるんですけど」",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/30/news076.html",
-    "pubDate": "2026-06-29T23:05:52.000Z"
+    "title": "昔は『マネージャーはちゃんと叱れ』と言われていたが、今はどうなのか",
+    "link": "https://blog.tinect.jp/?p=91268",
+    "pubDate": "2026-06-30T00:44:16.000Z"
   },
   {
     "site": "Zenn",
-    "title": "AIによるユニットテスト実装についての所感",
-    "link": "https://zenn.dev/keitayamamoto/articles/d053a6cc096287",
-    "pubDate": "2026-06-29T16:25:20.000Z"
+    "title": "あなたのパスワードポリシー、まだ8文字＋定期変更ですか？ NIST 800-63-4 の新常識2025",
+    "link": "https://zenn.dev/microsoft/articles/password-new-standard-2025",
+    "pubDate": "Tue, 30 Jun 2026 00:40:39 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI時代に異職種から信頼されるエンジニアの5つの特徴",
+    "link": "https://qiita.com/Kensuke_Shibata/items/028269e26b4a0e6c0242?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-29T23:32:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoft、「WSL containers」を公開プレビュー ～2倍速い新ファイルシステム「virtiofs」なども／「Docker」なしでWindows上にLinuxコンテナーを構築・実行",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2120973.html",
+    "pubDate": "2026-06-29T23:28:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenTelemetry に reasoning.level 属性を追加しました",
+    "link": "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
+    "pubDate": "Mon, 29 Jun 2026 23:00:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code の Agent Teams による、複数課題を同時並行で処理し自己改善を繰り返すAIチーム（PM＋作業者）の構築",
+    "link": "https://zenn.dev/acntechjp/articles/6f74e9a6aef835",
+    "pubDate": "Mon, 29 Jun 2026 23:00:10 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「エンジニアがこの先生きのこるためのカンファレンス2026」に登壇・参加して",
+    "link": "https://zenn.dev/collabostyle/articles/f5318a4837593e",
+    "pubDate": "Mon, 29 Jun 2026 16:03:28 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代に、自動化についてもう一度考える",
+    "link": "https://zenn.dev/namoo_san/articles/3cc632399946e5",
+    "pubDate": "Mon, 29 Jun 2026 15:09:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLMエージェントを『コスパ良く・高精度に』組む技術：Clearwingのワークフロー設計に学ぶ",
+    "link": "https://zenn.dev/khale/articles/llm-agent-cost-accuracy-clearwing",
+    "pubDate": "Mon, 29 Jun 2026 15:04:56 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026 Japan AWS Top Engineersに選ばれた話",
+    "link": "https://zenn.dev/penginpenguin/articles/560641da466bff",
+    "pubDate": "Mon, 29 Jun 2026 13:33:06 GMT"
   },
   {
     "site": "Hatena",
@@ -36,10 +102,34 @@
     "pubDate": "2026-06-29T13:16:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「高市人気」と選挙結果にズレ？　自民推薦候補が杉並区長選で敗北、岸本聡子氏が再選",
-    "link": "https://www.j-cast.com/2026/06/29515961.html?p=all",
-    "pubDate": "2026-06-29T12:50:05.000Z"
+    "site": "Qiita",
+    "title": "今日からAWS Kiro君はRHELの頼もしいアドバイザー",
+    "link": "https://qiita.com/duelist2020jp/items/6f42828bc5a4043309e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-29T12:50:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake、Auto ML始めたってよ。",
+    "link": "https://zenn.dev/takikomi/articles/4333c479cecc0b",
+    "pubDate": "Mon, 29 Jun 2026 11:26:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【CCA-F学習ログ #2】基礎編：Anthropic Academy のレベル100で土台を固める",
+    "link": "https://zenn.dev/yujmatsu/articles/20260629_cca_foundations_02_basics",
+    "pubDate": "Mon, 29 Jun 2026 11:00:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【永久0円】人間LLMのすすめ",
+    "link": "https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-29T09:53:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "マーケティング担当がAIと一緒に、LINEのアンケート→出し分け配信を無料で作ってみた",
+    "link": "https://zenn.dev/teradox_blog/articles/19228a95b22456",
+    "pubDate": "Mon, 29 Jun 2026 09:49:24 GMT"
   },
   {
     "site": "Hatena",
@@ -48,82 +138,16 @@
     "pubDate": "2026-06-29T09:33:31.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI時代の要件定義で、人間に残るのは「アラインメント」という仕事",
-    "link": "https://zenn.dev/tan_go238/articles/783a3fc3f11f8d",
-    "pubDate": "Mon, 29 Jun 2026 06:02:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コードを仕様書にするために関数型プログラミングをする",
-    "link": "https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97",
-    "pubDate": "Mon, 29 Jun 2026 04:21:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ECS のデプロイを ecspresso へ移行して自動化した話",
-    "link": "https://zenn.dev/lincwell_inc/articles/c60c337017aa49",
-    "pubDate": "Mon, 29 Jun 2026 03:43:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた",
-    "link": "https://zenn.dev/thorie/articles/548se-ai-driven-development",
-    "pubDate": "Mon, 29 Jun 2026 03:26:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プロンプト改善が何倍も楽になる、プロンプト改善の自動化も行える評価ツール「Opik」を試す",
-    "link": "https://zenn.dev/explaza/articles/e9c81b31fe00f7",
-    "pubDate": "Mon, 29 Jun 2026 03:17:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "DevOps Agent奮闘記 〜アラートを起点に、運用の一次対応をAIに任せてみた〜",
-    "link": "https://zenn.dev/estie/articles/29a0968c00b8d3",
-    "pubDate": "Mon, 29 Jun 2026 03:04:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "QAチームの作業量を見るためのメトリクス",
-    "link": "https://zenn.dev/edash_tech_blog/articles/aae23ca2c3e11b",
-    "pubDate": "Mon, 29 Jun 2026 03:00:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake CoCo（旧 Cortex Code）で見落とされがちな AI SQL コストと統制",
-    "link": "https://zenn.dev/finatext/articles/snowflake-coco-hidden-ai-cost",
-    "pubDate": "Mon, 29 Jun 2026 02:49:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeに同じバグを3回出すと、自動でルール化される話",
-    "link": "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
-    "pubDate": "Mon, 29 Jun 2026 02:00:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code / Codexを安全に動かすためのmacOSでのローカルVM基盤",
-    "link": "https://zenn.dev/inventit/articles/secure-ai-agent-local-vm",
-    "pubDate": "Mon, 29 Jun 2026 01:02:42 GMT"
+    "site": "Qiita",
+    "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
+    "link": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-29T08:14:41.000Z"
   },
   {
     "site": "Qiita",
     "title": " 「転職はまだ早い」と思っているあなたへ。私が一歩踏み出して学んだこと",
     "link": "https://qiita.com/hitomin_poke/items/3f0d61d0ff4f082479c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-29T00:54:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "社内でTOTPのハンズオン授業を開いてみた",
-    "link": "https://qiita.com/qwertyhoge/items/6ef7a58fe38b1e9e0e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-29T00:40:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "逆にすごい。大手コンサル作「AIのすごさを証明する報告書」がハルシネーションだらけ | ギズモード・ジャパン",
-    "link": "https://www.gizmodo.jp/article/a-report-full-of-hallucinations/",
-    "pubDate": "2026-06-29T00:21:55.000Z"
   },
   {
     "site": "Qiita",
@@ -136,24 +160,6 @@
     "title": "速報！！StreamlitがAWSにサーバーレスでホスティングできるようになった！！ #LambdaMicroVMs",
     "link": "https://qiita.com/moritalous/items/2f9ad10282775dcbd647?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-28T22:08:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "社内でエンジニア成長ワークショップをやってみた【自己チェックリスト＆年収目安付き】",
-    "link": "https://qiita.com/Nao52/items/3dbf4c0206c86bf72e32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-28T15:34:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "まずはここから！〜ゼロから始めるClaude開発〜",
-    "link": "https://qiita.com/Nao52/items/fd18304055a59e149aee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-28T15:12:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "画像一括生成システムの設計進化記録 〜ECS・Lambda・SQS・EventBridgeで100〜300件をさばく〜",
-    "link": "https://qiita.com/Nao52/items/d1601e07ba3a125bc714?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-28T12:06:41.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "おうちKubernetesを約3年運用してみた",
     "link": "https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-28T01:01:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeは「コードを書くAI」で終わらせるな：公式 document-skills でPDF・Excel・Word・PowerPointまで自動化する",
-    "link": "https://qiita.com/4q_sano/items/2c9d2686bdbc5e085191?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-27T05:39:13.000Z"
   }
 ]
