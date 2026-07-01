@@ -1,6 +1,60 @@
 [
   {
     "site": "Hatena",
+    "title": "「不気味の谷を越えた」？　中国の美男美女型ロボット「U1」話題　286万円から",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/01/news115.html",
+    "pubDate": "2026-07-01T07:01:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "FeliCa の脆弱性公表について",
+    "link": "https://blog.nyaa.ws/2026/07/felica-%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E5%85%AC%E8%A1%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pubDate": "2026-07-01T05:55:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "バッファロー、7月終了予定だったBDドライブ販売継続。約33～51%高い新価格に",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2121426.html",
+    "pubDate": "2026-07-01T05:29:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Railsで学ぶ レースコンディション 〜二重登録の罠〜",
+    "link": "https://qiita.com/akachiryo/items/42ff4d8f736f45eb8c59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-01T03:38:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Redeploying Claude Fable 5",
+    "link": "https://www.anthropic.com/news/redeploying-fable-5",
+    "pubDate": "2026-07-01T03:19:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Data + AI Summit 2026 現地参加レポート：データ基盤は「AIがビジネスで意思決定する基盤」へ",
+    "link": "https://zenn.dev/ivry/articles/dais-2026-report",
+    "pubDate": "Wed, 01 Jul 2026 02:37:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "C#のDisposeを深掘りする：GC、finalizer、UnityEngine.Objectの破棄を整理する",
+    "link": "https://zenn.dev/gamedev_toollab/articles/4fceb9127d8085",
+    "pubDate": "Wed, 01 Jul 2026 01:00:10 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "「何の言語を学べばいいかわからない」と迷う方へ — Web開発の主要5言語を整理してみた",
+    "link": "https://qiita.com/masa20057/items/8de518e172395d48a269?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-01T00:24:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "5年9か月ぶりの転職｜EM × DevHR × DevRel を一本でやる理由",
+    "link": "https://zenn.dev/cscloud_blog/articles/929c31dadb2245",
+    "pubDate": "Wed, 01 Jul 2026 00:24:02 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "とほほの「生涯エンジニア」入門 - レバテックLAB",
     "link": "https://levtech.jp/media/detail_884/",
     "pubDate": "2026-07-01T00:17:30.000Z"
@@ -31,9 +85,27 @@
   },
   {
     "site": "Zenn",
-    "title": "週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた",
-    "link": "https://zenn.dev/thorie/articles/548se-ai-driven-development",
-    "pubDate": "2026-06-30T15:35:28.000Z"
+    "title": "SIGNATE: 木材の含水率を予測するだけ、のはずだったのに未知樹種汎化で考えすぎた件",
+    "link": "https://zenn.dev/mantis_ryuji/articles/e17b4d223cd7da",
+    "pubDate": "Tue, 30 Jun 2026 21:47:55 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "claude -p を分類器として使って、ファイルを中身で自動整理するツールを作った話",
+    "link": "https://zenn.dev/xtone/articles/copper-golem-claude-p",
+    "pubDate": "Tue, 30 Jun 2026 17:59:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kiro にセキュリティ運用を任せるために必要なこと〜AWS Summit Japan 2026 セッションレポート〜",
+    "link": "https://zenn.dev/hkdeveloper/articles/kiro-security-ops-aws-summit-2026",
+    "pubDate": "Tue, 30 Jun 2026 14:55:31 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Railsの設計パターンと責務分離18選｜AI時代に見直すFat Controller / Fat Model対策",
+    "link": "https://zenn.dev/wwwave/articles/a9a8b38dc2cdb7",
+    "pubDate": "Tue, 30 Jun 2026 11:56:31 GMT"
   },
   {
     "site": "Hatena",
@@ -48,28 +120,28 @@
     "pubDate": "Tue, 30 Jun 2026 10:25:15 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Windows上でLinuxコンテナが直接動く「WSL container」パブリックプレビューリリース | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/06/wsl-container",
-    "pubDate": "2026-06-30T09:37:57.000Z"
+    "site": "Qiita",
+    "title": "Slackだけでタスク管理を完結！かんばんTODOリスト",
+    "link": "https://qiita.com/zawa-kun/items/0041579ceec156b0cf7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-30T10:16:18.000Z"
   },
   {
     "site": "Zenn",
-    "title": "はじめて AI エージェント向けの CLI ツールを作ってみて気づいたこと",
-    "link": "https://zenn.dev/chot/articles/dca4889fa27d27",
-    "pubDate": "Tue, 30 Jun 2026 06:54:49 GMT"
+    "title": "Claude Code のサブスク使用状況を VSCode で“常時可視化”する拡張機能を作った",
+    "link": "https://zenn.dev/minedia/articles/17a07dc1ce4f12",
+    "pubDate": "Tue, 30 Jun 2026 10:10:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "風の谷のナウシカは、生成AIを30年前に予見？　ぞっとした展開：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASV6V15JYV6VDIFI00TM.html",
-    "pubDate": "2026-06-30T06:52:16.000Z"
+    "site": "Qiita",
+    "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
+    "link": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-06-30T10:01:23.000Z"
   },
   {
     "site": "Zenn",
-    "title": "ローカルLLMでハルシネーションを見抜く",
-    "link": "https://zenn.dev/starai_org/articles/1b09b1971a2a2b",
-    "pubDate": "Tue, 30 Jun 2026 06:26:06 GMT"
+    "title": "Cursor: Cursor Pro プラン - Composer 2.5 だけでどれくらい使えるか確認してみた",
+    "link": "https://zenn.dev/hidenori3/articles/071eb67ed8d06b",
+    "pubDate": "Tue, 30 Jun 2026 09:03:10 GMT"
   },
   {
     "site": "Qiita",
@@ -84,58 +156,10 @@
     "pubDate": "2026-06-30T03:48:38.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Gemini Embedding 2で作るネイティブマルチモーダルRAG",
-    "link": "https://zenn.dev/aishift/articles/83708f752b3c87",
-    "pubDate": "Tue, 30 Jun 2026 03:03:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Qase×AI】テスト資産の管理をAIに任せてみた",
-    "link": "https://zenn.dev/edash_tech_blog/articles/pulasqaaa-003",
-    "pubDate": "Tue, 30 Jun 2026 03:00:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ようこそ、ドメイン駆動設計へ",
-    "link": "https://zenn.dev/k_ing/books/ddd-first-book",
-    "pubDate": "Tue, 30 Jun 2026 02:34:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕様の曖昧さをコードで共有する",
-    "link": "https://zenn.dev/tan_go238/articles/c94a78a2dea391",
-    "pubDate": "Tue, 30 Jun 2026 02:13:51 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "監査可能ババ抜き",
     "link": "https://qiita.com/y-tsukasa/items/162f541ae19535b622da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-30T02:10:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rust でゲームボーイアドバンス向けの音楽ソフトを開発するには (1) 基礎編",
-    "link": "https://zenn.dev/yutannihilation/articles/e513920c1d7b8e",
-    "pubDate": "Tue, 30 Jun 2026 01:38:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "エージェントOS化するClaude CodeをOS機能との類推などで理解していく",
-    "link": "https://zenn.dev/uehaj/articles/claude-code-fork-branch-rewind-btw",
-    "pubDate": "Tue, 30 Jun 2026 01:33:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Clean Architecture】ユースケース層のインターフェイスを導入する理由",
-    "link": "https://zenn.dev/trefac/articles/f7e8e39e73f0a0",
-    "pubDate": "Tue, 30 Jun 2026 01:18:51 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代に異職種から信頼されるエンジニアの5つの特徴",
-    "link": "https://qiita.com/Kensuke_Shibata/items/028269e26b4a0e6c0242?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-29T23:32:05.000Z"
   },
   {
     "site": "Qiita",
@@ -151,32 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": " 「転職はまだ早い」と思っているあなたへ。私が一歩踏み出して学んだこと",
-    "link": "https://qiita.com/hitomin_poke/items/3f0d61d0ff4f082479c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-29T00:54:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "速報！！StreamlitがAWSにサーバーレスでホスティングできるようになった！！ #LambdaMicroVMs",
-    "link": "https://qiita.com/moritalous/items/2f9ad10282775dcbd647?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-28T22:08:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由　2026年に生き残るエンジニア“4つの役割”",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
-    "pubDate": "2026-06-28T11:01:25.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ",
     "link": "https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-28T09:51:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "おうちKubernetesを約3年運用してみた",
-    "link": "https://qiita.com/takumiida1/items/39907f41be86431a58e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-28T01:01:22.000Z"
   }
 ]
