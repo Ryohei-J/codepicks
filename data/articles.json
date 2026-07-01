@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "Amazonで購入したモバイルバッテリーが発火して居宅が火災にあった場合の損害賠償責任｜渡邊博己",
+    "link": "https://note.com/nabe_2023/n/n25209f9e8b0c",
+    "pubDate": "2026-07-01T10:21:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてなブログに Amazon CloudFront SaaS Manager を導入した話 - Hatena Developer Blog",
+    "link": "https://developer.hatenastaff.com/entry/2026/07/01/183904",
+    "pubDate": "2026-07-01T09:56:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NEC、Wi-Fi/5Gルーターを最大65.5%値上げ",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2121580.html",
+    "pubDate": "2026-07-01T07:42:35.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「不気味の谷を越えた」？　中国の美男美女型ロボット「U1」話題　286万円から",
     "link": "https://www.itmedia.co.jp/news/articles/2607/01/news115.html",
     "pubDate": "2026-07-01T07:01:28.000Z"
@@ -12,10 +30,16 @@
     "pubDate": "2026-07-01T05:55:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "バッファロー、7月終了予定だったBDドライブ販売継続。約33～51%高い新価格に",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2121426.html",
-    "pubDate": "2026-07-01T05:29:38.000Z"
+    "site": "Zenn",
+    "title": "10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由",
+    "link": "https://zenn.dev/canly/articles/428767121d7dc2",
+    "pubDate": "Wed, 01 Jul 2026 04:18:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "投機的デコーディングによる推論高速化（Eagle3・DFlash・DSpark）",
+    "link": "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
+    "pubDate": "Wed, 01 Jul 2026 04:09:25 GMT"
   },
   {
     "site": "Qiita",
@@ -24,16 +48,22 @@
     "pubDate": "2026-07-01T03:38:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Redeploying Claude Fable 5",
-    "link": "https://www.anthropic.com/news/redeploying-fable-5",
-    "pubDate": "2026-07-01T03:19:38.000Z"
+    "site": "Zenn",
+    "title": "Preview環境でPRごとに専用DBを使えるようにした話",
+    "link": "https://zenn.dev/estie/articles/59ec0ae59c3199",
+    "pubDate": "Wed, 01 Jul 2026 03:00:19 GMT"
   },
   {
     "site": "Zenn",
     "title": "Data + AI Summit 2026 現地参加レポート：データ基盤は「AIがビジネスで意思決定する基盤」へ",
     "link": "https://zenn.dev/ivry/articles/dais-2026-report",
     "pubDate": "Wed, 01 Jul 2026 02:37:14 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "遅いのは SQL だと思ったら、別のところにあった",
+    "link": "https://zenn.dev/dress_code/articles/postgres-distinct-on-nested-loop",
+    "pubDate": "Wed, 01 Jul 2026 02:00:07 GMT"
   },
   {
     "site": "Zenn",
@@ -61,12 +91,6 @@
   },
   {
     "site": "Hatena",
-    "title": "大学の学科の先生が「Windowsは我々全力でサポートします、Mac買った学生は自業自得です、Linux買った学生は勝手にしろ」と言っていた→大学のサポートでOSの違いが焦点に",
-    "link": "https://togetter.com/li/2715555",
-    "pubDate": "2026-06-30T23:31:53.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態",
     "link": "https://www.itmedia.co.jp/news/articles/2607/01/news027.html",
     "pubDate": "2026-06-30T23:31:41.000Z"
@@ -85,39 +109,21 @@
   },
   {
     "site": "Zenn",
+    "title": "優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話",
+    "link": "https://zenn.dev/canly/articles/0c01a3124b8480",
+    "pubDate": "Tue, 30 Jun 2026 23:00:12 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "SIGNATE: 木材の含水率を予測するだけ、のはずだったのに未知樹種汎化で考えすぎた件",
     "link": "https://zenn.dev/mantis_ryuji/articles/e17b4d223cd7da",
     "pubDate": "Tue, 30 Jun 2026 21:47:55 GMT"
   },
   {
     "site": "Zenn",
-    "title": "claude -p を分類器として使って、ファイルを中身で自動整理するツールを作った話",
-    "link": "https://zenn.dev/xtone/articles/copper-golem-claude-p",
-    "pubDate": "Tue, 30 Jun 2026 17:59:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kiro にセキュリティ運用を任せるために必要なこと〜AWS Summit Japan 2026 セッションレポート〜",
-    "link": "https://zenn.dev/hkdeveloper/articles/kiro-security-ops-aws-summit-2026",
-    "pubDate": "Tue, 30 Jun 2026 14:55:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Railsの設計パターンと責務分離18選｜AI時代に見直すFat Controller / Fat Model対策",
-    "link": "https://zenn.dev/wwwave/articles/a9a8b38dc2cdb7",
-    "pubDate": "Tue, 30 Jun 2026 11:56:31 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI駆動開発を妨げる技術的負債の解消アプローチ / ai-refactoring-approach",
-    "link": "https://speakerdeck.com/minodriven/ai-refactoring-approach",
-    "pubDate": "2026-06-30T10:43:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルLLMで「Pi」エージェントを動かす",
-    "link": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
-    "pubDate": "Tue, 30 Jun 2026 10:25:15 GMT"
+    "title": "Declarative Partial Updates を試してみるで～！(HTML を後から差し替える未来の API)",
+    "link": "https://zenn.dev/nyaomaru/articles/declarative-partial-updates",
+    "pubDate": "Tue, 30 Jun 2026 18:01:14 GMT"
   },
   {
     "site": "Qiita",
@@ -126,22 +132,10 @@
     "pubDate": "2026-06-30T10:16:18.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code のサブスク使用状況を VSCode で“常時可視化”する拡張機能を作った",
-    "link": "https://zenn.dev/minedia/articles/17a07dc1ce4f12",
-    "pubDate": "Tue, 30 Jun 2026 10:10:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
     "link": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-30T10:01:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cursor: Cursor Pro プラン - Composer 2.5 だけでどれくらい使えるか確認してみた",
-    "link": "https://zenn.dev/hidenori3/articles/071eb67ed8d06b",
-    "pubDate": "Tue, 30 Jun 2026 09:03:10 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ",
     "link": "https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-06-28T09:51:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった",
+    "link": "https://zenn.dev/dragon1208/articles/45708cc45a7a7c",
+    "pubDate": "2026-06-09T23:59:27.000Z"
   }
 ]
