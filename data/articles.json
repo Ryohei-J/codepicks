@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "パスワード入力のmaxlengthで長いパスワードで登録できたつもりになってた問題2026",
+    "link": "https://gist.github.com/mala/30c4e87c9ab150054e2f722b8256157e",
+    "pubDate": "2026-07-03T11:09:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "19年以上見過ごされていたLinux kernelのゼロデイ脆弱性を報告した話：CVE-2026-43456 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
+    "link": "https://gmo-cybersecurity.com/blog/19-year-old-linux-kernel-zero-day/",
+    "pubDate": "2026-07-03T10:57:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
     "link": "https://pc.watch.impress.co.jp/docs/news/2122217.html",
     "pubDate": "2026-07-03T07:29:03.000Z"
@@ -24,16 +36,10 @@
     "pubDate": "Fri, 03 Jul 2026 05:22:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "CDを生んだソニーが、ゲームの“円盤”に終わりを告げる事情　プレステとディスクの30年史",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news098.html",
-    "pubDate": "2026-07-03T04:48:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「やばい」いつのまにか撮影　AI搭載スマートグラス、記者が体験：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASV6S7KLDV6SULFA02TM.html",
-    "pubDate": "2026-07-03T04:32:23.000Z"
+    "site": "Zenn",
+    "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
+    "link": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
+    "pubDate": "2026-07-03T04:26:46.000Z"
   },
   {
     "site": "Hatena",
@@ -48,16 +54,16 @@
     "pubDate": "2026-07-03T00:07:55.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "AI時代にテックリードとして重視していること - Money Forward Developers Blog",
+    "link": "https://moneyforward-dev.jp/entry/2026/07/02/171131",
+    "pubDate": "2026-07-02T23:22:26.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "非同期処理のアーキテクチャに想いを馳せた",
     "link": "https://zenn.dev/dress_code/articles/62524f2e5dbd3c",
     "pubDate": "Thu, 02 Jul 2026 22:45:49 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「理解してから働く時代」が、そろそろ終わるのかもしれない、という話｜けんすう",
-    "link": "https://kensuu.com/n/nab3eb1959ef2",
-    "pubDate": "2026-07-02T22:42:06.000Z"
   },
   {
     "site": "Zenn",
@@ -76,12 +82,6 @@
     "title": "AgentCore で Agent をプロダクション利用する際の実装ノウハウ (AWS Summit Japan 2026)",
     "link": "https://zenn.dev/aws_japan/articles/006-aws-specialist-agent",
     "pubDate": "Thu, 02 Jul 2026 22:21:57 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "“開かずの基幹システム”、450人月→実質2カ月で解読　創業100年のカクヤス、生成AIで挑む「転生」",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
-    "pubDate": "2026-07-02T22:02:59.000Z"
   },
   {
     "site": "Qiita",
