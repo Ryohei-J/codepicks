@@ -1,39 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "消費者庁、Anker Japanがリコールを行っているモバイルバッテリー「Anker PowerCore 10000」が原因とみられる火災事故が5月に2件報告されたとして情報を公開。",
+    "link": "https://applech2.com/archives/20260704-anker-powercore-1000-incident.html",
+    "pubDate": "2026-07-04T02:24:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "高市批判の際にAIによる加工画像がちょくちょく紛れてる - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2026/07/04/030000",
+    "pubDate": "2026-07-03T23:22:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」",
     "link": "https://togetter.com/li/2716570",
     "pubDate": "2026-07-03T16:53:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "中国アリババ、米アンソロピックのプログラミングAIを利用禁止に - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/",
-    "pubDate": "2026-07-03T15:52:57.000Z"
+    "site": "Zenn",
+    "title": "とある部長のObsidian",
+    "link": "https://zenn.dev/canly/articles/173479ac3e9824",
+    "pubDate": "2026-07-03T13:44:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "C++の謎めいたHello WorldをPythonで再実装して理解を深めよう",
+    "link": "https://zenn.dev/sirasagi62/articles/59db634940ba80",
+    "pubDate": "Fri, 03 Jul 2026 12:26:37 GMT"
   },
   {
     "site": "Hatena",
-    "title": "プレゼンツールPeithoをつくっている",
-    "link": "https://mizzy.org/blog/2026/07/03/1/",
-    "pubDate": "2026-07-03T14:17:21.000Z"
+    "title": "「iPhone」のバッテリーをApple Storeで初めて交換--得られた重要な教訓とは",
+    "link": "https://japan.zdnet.com/article/35249785/",
+    "pubDate": "2026-07-03T12:00:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる",
+    "link": "https://qiita.com/maaaashi/items/6eefccb7361f64607865?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-03T11:58:39.000Z"
   },
   {
     "site": "Zenn",
     "title": "Generative UIとそれを実現するOpenUIのイメージを掴む！",
     "link": "https://zenn.dev/peishim/articles/37ff4d894f8fbc",
     "pubDate": "Fri, 03 Jul 2026 11:30:29 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "パスワード入力のmaxlengthで長いパスワードで登録できたつもりになってた問題2026",
-    "link": "https://gist.github.com/mala/30c4e87c9ab150054e2f722b8256157e",
-    "pubDate": "2026-07-03T11:09:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー",
-    "link": "https://gigazine.net/news/20260703-steam-machine-appearance/",
-    "pubDate": "2026-07-03T10:43:39.000Z"
   },
   {
     "site": "Qiita",
@@ -48,10 +60,28 @@
     "pubDate": "2026-07-03T09:50:06.000Z"
   },
   {
+    "site": "Zenn",
+    "title": ".env に API キーを書きたくないので 軽いCLI を作った",
+    "link": "https://zenn.dev/trknhr/articles/42c20e11812217",
+    "pubDate": "Fri, 03 Jul 2026 08:25:45 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Google 検索グラウンディングを検証してみた 〜画像検索・Maps 対応と課金の注意点〜",
+    "link": "https://qiita.com/shun-aoki/items/ee2b63d170008464f9ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-03T08:10:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "とある部長のObsidian",
+    "link": "https://zenn.dev/canly/articles/173479ac3e9824",
+    "pubDate": "Fri, 03 Jul 2026 06:28:32 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "とあるはてなーブックマークの解析（Claudeは個人評を避けたので、Geminiに調べてもらいました）",
-    "link": "https://anond.hatelabo.jp/20260703164835",
-    "pubDate": "2026-07-03T07:50:25.000Z"
+    "title": "CVE-2026-48931 Shouldn't Have Been a CVE",
+    "link": "https://adventures.nodeland.dev/archive/cve-2026-48931-shouldnt-have-been-a-cve/",
+    "pubDate": "2026-07-03T06:17:50.000Z"
   },
   {
     "site": "Zenn",
@@ -60,34 +90,22 @@
     "pubDate": "Fri, 03 Jul 2026 05:22:27 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
-    "link": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-    "pubDate": "2026-07-03T04:26:46.000Z"
+    "site": "Qiita",
+    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
+    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-03T03:06:16.000Z"
   },
   {
     "site": "Qiita",
-    "title": "IT界でもbeat itを奏でるマイケルジャクソン🕺",
-    "link": "https://qiita.com/kaichan_dot/items/29d0428e7d49be4d0d24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-03T04:06:24.000Z"
+    "title": "AIと英会話できる学習アプリを個人開発してリリースした話【Agentcore / Strands / Bedrock】",
+    "link": "https://qiita.com/yutaka_kozuka/items/7ccb66fc5c149ac30702?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-03T03:05:27.000Z"
   },
   {
     "site": "Zenn",
     "title": "グラフニューラルネットワーク(GNN)の基礎から多層化を阻む「オーバースムージング」への対策を解説",
     "link": "https://zenn.dev/dalab/articles/80ce9a10d507b8",
     "pubDate": "Fri, 03 Jul 2026 01:45:57 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "最新AIエージェント機能16連発！徹底解説＆コンソール画面で検証してみた",
-    "link": "https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-03T01:41:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ノーコードでスプレッドシートが“操作できるアプリ”に。Gemini の Sheet Canvas が想像以上だった",
-    "link": "https://qiita.com/na-tamura/items/f7b6ea842c2995975a88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-03T01:05:57.000Z"
   },
   {
     "site": "Zenn",
@@ -114,16 +132,10 @@
     "pubDate": "Thu, 02 Jul 2026 22:21:57 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "サバゲー動画をvideo-useで編集したらデスモンタージュができたので、自分でハイライト作成スキルを書いた話",
-    "link": "https://zenn.dev/tokium_dev/articles/airsoft-video-use-highlight",
-    "pubDate": "Thu, 02 Jul 2026 22:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "私が今DGX Sparkを購入した理由",
-    "link": "https://zenn.dev/asap/articles/1a267ec154c14d",
-    "pubDate": "Thu, 02 Jul 2026 14:33:43 GMT"
+    "site": "Qiita",
+    "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説",
+    "link": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-02T12:07:24.000Z"
   },
   {
     "site": "Qiita",
@@ -132,22 +144,10 @@
     "pubDate": "2026-07-02T11:31:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "MoonBit を高速化する",
-    "link": "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
-    "pubDate": "Thu, 02 Jul 2026 11:13:44 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "手順不足と知識不足は分けて考えた方がいいと思う話",
     "link": "https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-02T09:50:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コードを書く前に知っておきたかった、開発現場の5つのステップ",
-    "link": "https://qiita.com/masa20057/items/aa2b8f3e8112228ca46c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-02T00:59:26.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +162,21 @@
     "pubDate": "2026-07-01T16:32:50.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話",
-    "link": "https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-01T03:26:19.000Z"
+    "site": "Zenn",
+    "title": "ローカルLLMで「Pi」エージェントを動かす",
+    "link": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
+    "pubDate": "2026-07-01T04:40:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "深刻ないじめがイーロン・マスクやピーター・ティールに与えた影響",
+    "link": "https://business.nikkei.com/atcl/gen/19/00087/062900510/",
+    "pubDate": "2026-06-30T13:08:38.000Z"
   },
   {
     "site": "Hatena",
     "title": "1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹",
     "link": "https://note.com/hirokimiyano/n/n1b225eeec21d",
     "pubDate": "2026-06-25T07:21:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Prompting Claude Fable 5",
-    "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5",
-    "pubDate": "2026-06-10T03:44:49.000Z"
   }
 ]
