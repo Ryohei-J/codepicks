@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "現在の日本語のIT用語は横文字ばかりだが、初期の頃は日本IBMが超頑張って意訳した用語が雑誌に出てくると奇異とかバカにされていた話…シャットダウンが「遮断」は秀逸",
+    "link": "https://togetter.com/li/2716883",
+    "pubDate": "2026-07-04T11:05:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新しいHTTPメソッド「QUERY」をHono + Bunで実装してみる - Qiita",
+    "link": "https://qiita.com/maaaashi/items/6eefccb7361f64607865",
+    "pubDate": "2026-07-04T05:08:44.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "消費者庁、Anker Japanがリコールを行っているモバイルバッテリー「Anker PowerCore 10000」が原因とみられる火災事故が5月に2件報告されたとして情報を公開。",
     "link": "https://applech2.com/archives/20260704-anker-powercore-1000-incident.html",
     "pubDate": "2026-07-04T02:24:52.000Z"
@@ -13,9 +25,9 @@
   },
   {
     "site": "Hatena",
-    "title": "あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」",
-    "link": "https://togetter.com/li/2716570",
-    "pubDate": "2026-07-03T16:53:13.000Z"
+    "title": "個人用メモアプリをつくっている",
+    "link": "https://mizzy.org/blog/2026/07/03/2/",
+    "pubDate": "2026-07-03T15:32:23.000Z"
   },
   {
     "site": "Zenn",
@@ -25,15 +37,15 @@
   },
   {
     "site": "Zenn",
+    "title": "Next.jsのpreloadが生成するHTTPヘッダーに日本語ファイル名が紛れて本番だけエラーが出た話",
+    "link": "https://zenn.dev/hidechannu/articles/20260703-japanese-filename-bytestring",
+    "pubDate": "Fri, 03 Jul 2026 13:13:37 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "C++の謎めいたHello WorldをPythonで再実装して理解を深めよう",
     "link": "https://zenn.dev/sirasagi62/articles/59db634940ba80",
     "pubDate": "Fri, 03 Jul 2026 12:26:37 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「iPhone」のバッテリーをApple Storeで初めて交換--得られた重要な教訓とは",
-    "link": "https://japan.zdnet.com/article/35249785/",
-    "pubDate": "2026-07-03T12:00:47.000Z"
   },
   {
     "site": "Qiita",
@@ -55,15 +67,15 @@
   },
   {
     "site": "Hatena",
+    "title": "Understanding is the new bottleneck",
+    "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "pubDate": "2026-07-03T10:11:40.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIで実装コストが低くなった今、エンジニアは上流に行くべきか？｜いしい",
     "link": "https://note.com/danimal141/n/neeb219bbc03f",
     "pubDate": "2026-07-03T09:50:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": ".env に API キーを書きたくないので 軽いCLI を作った",
-    "link": "https://zenn.dev/trknhr/articles/42c20e11812217",
-    "pubDate": "Fri, 03 Jul 2026 08:25:45 GMT"
   },
   {
     "site": "Qiita",
@@ -76,18 +88,6 @@
     "title": "とある部長のObsidian",
     "link": "https://zenn.dev/canly/articles/173479ac3e9824",
     "pubDate": "Fri, 03 Jul 2026 06:28:32 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "CVE-2026-48931 Shouldn't Have Been a CVE",
-    "link": "https://adventures.nodeland.dev/archive/cve-2026-48931-shouldnt-have-been-a-cve/",
-    "pubDate": "2026-07-03T06:17:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflakeの開発にCoCo(旧Cortex Code)をおすすめする理由",
-    "link": "https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev",
-    "pubDate": "Fri, 03 Jul 2026 05:22:27 GMT"
   },
   {
     "site": "Qiita",
@@ -132,6 +132,12 @@
     "pubDate": "Thu, 02 Jul 2026 22:21:57 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "私が今DGX Sparkを購入した理由",
+    "link": "https://zenn.dev/asap/articles/1a267ec154c14d",
+    "pubDate": "Thu, 02 Jul 2026 14:33:43 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説",
     "link": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Hatena",
-    "title": "深刻ないじめがイーロン・マスクやピーター・ティールに与えた影響",
-    "link": "https://business.nikkei.com/atcl/gen/19/00087/062900510/",
-    "pubDate": "2026-06-30T13:08:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹",
-    "link": "https://note.com/hirokimiyano/n/n1b225eeec21d",
-    "pubDate": "2026-06-25T07:21:28.000Z"
+    "title": "（自分的に）神な自作ツール配布場所",
+    "link": "https://saisokuya.com/soft/",
+    "pubDate": "2026-06-17T10:20:25.000Z"
   }
 ]
