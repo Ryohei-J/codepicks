@@ -1,33 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "あと30年後にはムーンスティックをモチーフにした高齢者用杖が出ると思います「シルバーミレニアムの仏壇出てくれ」「老人になるのも楽しみになってきた」",
+    "link": "https://togetter.com/li/2716570",
+    "pubDate": "2026-07-03T16:53:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "中国アリババ、米アンソロピックのプログラミングAIを利用禁止に - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGM039GI0T00C26A7000000/",
+    "pubDate": "2026-07-03T15:52:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "プレゼンツールPeithoをつくっている",
+    "link": "https://mizzy.org/blog/2026/07/03/1/",
+    "pubDate": "2026-07-03T14:17:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Generative UIとそれを実現するOpenUIのイメージを掴む！",
+    "link": "https://zenn.dev/peishim/articles/37ff4d894f8fbc",
+    "pubDate": "Fri, 03 Jul 2026 11:30:29 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "パスワード入力のmaxlengthで長いパスワードで登録できたつもりになってた問題2026",
     "link": "https://gist.github.com/mala/30c4e87c9ab150054e2f722b8256157e",
     "pubDate": "2026-07-03T11:09:16.000Z"
   },
   {
     "site": "Hatena",
-    "title": "19年以上見過ごされていたLinux kernelのゼロデイ脆弱性を報告した話：CVE-2026-43456 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
-    "link": "https://gmo-cybersecurity.com/blog/19-year-old-linux-kernel-zero-day/",
-    "pubDate": "2026-07-03T10:57:26.000Z"
+    "title": "Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー",
+    "link": "https://gigazine.net/news/20260703-steam-machine-appearance/",
+    "pubDate": "2026-07-03T10:43:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "このプロンプトをAIエージェントに貼り付けて、Kaggleのベースラインを作ろう！",
+    "link": "https://qiita.com/Isaka-code/items/8fafc5cc522b5eb655da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-03T10:20:29.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Windows 11プレビューパッチ、すぐ適用すべき。SSDが数十GB消費される不具合解消",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2122217.html",
-    "pubDate": "2026-07-03T07:29:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた",
-    "link": "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
-    "pubDate": "2026-07-03T07:12:38.000Z"
+    "title": "AIで実装コストが低くなった今、エンジニアは上流に行くべきか？｜いしい",
+    "link": "https://note.com/danimal141/n/neeb219bbc03f",
+    "pubDate": "2026-07-03T09:50:06.000Z"
   },
   {
     "site": "Hatena",
-    "title": "3万円で「Yahoo!ニュース」にPR掲載　プレスリリースをAIで「ニュース風記事」に",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
-    "pubDate": "2026-07-03T07:03:55.000Z"
+    "title": "とあるはてなーブックマークの解析（Claudeは個人評を避けたので、Geminiに調べてもらいました）",
+    "link": "https://anond.hatelabo.jp/20260703164835",
+    "pubDate": "2026-07-03T07:50:25.000Z"
   },
   {
     "site": "Zenn",
@@ -42,22 +66,28 @@
     "pubDate": "2026-07-03T04:26:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2117321.html",
-    "pubDate": "2026-07-03T03:22:59.000Z"
+    "site": "Qiita",
+    "title": "IT界でもbeat itを奏でるマイケルジャクソン🕺",
+    "link": "https://qiita.com/kaichan_dot/items/29d0428e7d49be4d0d24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-03T04:06:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "LPI-Japan、「Linuxサーバー構築標準教科書」のUbuntu版を公開",
-    "link": "https://cloud.watch.impress.co.jp/docs/news/2121848.html",
-    "pubDate": "2026-07-03T00:07:55.000Z"
+    "site": "Zenn",
+    "title": "グラフニューラルネットワーク(GNN)の基礎から多層化を阻む「オーバースムージング」への対策を解説",
+    "link": "https://zenn.dev/dalab/articles/80ce9a10d507b8",
+    "pubDate": "Fri, 03 Jul 2026 01:45:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代にテックリードとして重視していること - Money Forward Developers Blog",
-    "link": "https://moneyforward-dev.jp/entry/2026/07/02/171131",
-    "pubDate": "2026-07-02T23:22:26.000Z"
+    "site": "Qiita",
+    "title": "最新AIエージェント機能16連発！徹底解説＆コンソール画面で検証してみた",
+    "link": "https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-03T01:41:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ノーコードでスプレッドシートが“操作できるアプリ”に。Gemini の Sheet Canvas が想像以上だった",
+    "link": "https://qiita.com/na-tamura/items/f7b6ea842c2995975a88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-03T01:05:57.000Z"
   },
   {
     "site": "Zenn",
@@ -84,28 +114,16 @@
     "pubDate": "Thu, 02 Jul 2026 22:21:57 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "多文化共生はなぜ難しいのか？ ― 情報・同化・生産性から考える現実解 : Pythonで学ぶ マクロ経済学入門 (95)",
-    "link": "https://qiita.com/maskot1977/items/e3f648e6b65f3eaddec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-02T15:09:04.000Z"
+    "site": "Zenn",
+    "title": "サバゲー動画をvideo-useで編集したらデスモンタージュができたので、自分でハイライト作成スキルを書いた話",
+    "link": "https://zenn.dev/tokium_dev/articles/airsoft-video-use-highlight",
+    "pubDate": "Thu, 02 Jul 2026 22:00:05 GMT"
   },
   {
     "site": "Zenn",
     "title": "私が今DGX Sparkを購入した理由",
     "link": "https://zenn.dev/asap/articles/1a267ec154c14d",
     "pubDate": "Thu, 02 Jul 2026 14:33:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の質問ダイアログが勝手にタイムアウトするのを無効化する",
-    "link": "https://zenn.dev/ytkdm/articles/claude-code-askuserquestion-timeout",
-    "pubDate": "Thu, 02 Jul 2026 13:21:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人的なC言語からC++(Cpp)のすゝめ",
-    "link": "https://zenn.dev/chronoss/articles/f39c749a895e42",
-    "pubDate": "Thu, 02 Jul 2026 13:07:11 GMT"
   },
   {
     "site": "Qiita",
@@ -120,22 +138,10 @@
     "pubDate": "Thu, 02 Jul 2026 11:13:44 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【速報】Claude Sonnet 5のReact習熟度はOpus 4.8に匹敵",
-    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-9",
-    "pubDate": "Thu, 02 Jul 2026 09:55:32 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "手順不足と知識不足は分けて考えた方がいいと思う話",
     "link": "https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-02T09:50:42.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "RailsとDBインデックス 〜なぜ index があると速いのか〜",
-    "link": "https://qiita.com/akachiryo/items/5299101bce85b5970776?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-02T03:22:03.000Z"
   },
   {
     "site": "Qiita",
@@ -162,16 +168,10 @@
     "pubDate": "2026-07-01T03:26:19.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "M365 Copilotを使って、好きなパワーポイントアイコンをつくろう",
-    "link": "https://qiita.com/shyamagu/items/3081df80ec8505b5ac72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-01T00:59:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
-    "link": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-06-30T10:01:23.000Z"
+    "site": "Hatena",
+    "title": "1テラと表示された240ギガの罠 自衛隊の機密システムを1年むしばんだ偽装USBと日本の盲点｜宮野宏樹",
+    "link": "https://note.com/hirokimiyano/n/n1b225eeec21d",
+    "pubDate": "2026-06-25T07:21:28.000Z"
   },
   {
     "site": "Hatena",
