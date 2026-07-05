@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "GitHub - Auto-Explore/GitComet: GitComet is fastest open source user interface for GIT workflows",
+    "link": "https://github.com/Auto-Explore/GitComet",
+    "pubDate": "2026-07-05T10:56:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpectrum",
+    "link": "https://xenospectrum.com/pxpipe-claude-token-image-compression/",
+    "pubDate": "2026-07-05T10:24:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "システム思考の実践例だった「エンジニアリング戦略の作り方」を読んだ - 勘と経験と読経",
+    "link": "https://agnozingdays.hatenablog.com/entry/2026/07/05/170000",
+    "pubDate": "2026-07-05T09:49:47.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI時代に生き残るのは、「賢い人」より「精神のマラソンができる人」 | AIという車があっても、自分の足で走りたい",
     "link": "https://courrier.jp/news/archives/450760/",
     "pubDate": "2026-07-05T00:41:16.000Z"
@@ -13,9 +31,9 @@
   },
   {
     "site": "Zenn",
-    "title": "すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”",
-    "link": "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
-    "pubDate": "2026-07-04T14:15:27.000Z"
+    "title": "AIに外部脳を持たせて1ヶ月運用した全記録",
+    "link": "https://zenn.dev/nobu666/articles/ai-external-brain-digest",
+    "pubDate": "Sat, 04 Jul 2026 14:55:45 GMT"
   },
   {
     "site": "Hatena",
@@ -42,22 +60,10 @@
     "pubDate": "Sat, 04 Jul 2026 09:57:02 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【AIブームの“請求書”】ハイパースケーラー「空前の好業績」の死角…データセンターは高速陳腐化、巨額調達の代償 【小泉秀人の時事ネタ経済学】鉄道も光ファイバー網も投資家は大損、AIブームも二の舞に？ | JBpress (ジェイビープレス)",
-    "link": "https://jbpress.ismedia.jp/articles/-/95730",
-    "pubDate": "2026-07-04T09:12:44.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "制約が多いからこそ設計しがいがある！？公共領域でのAWSと生成AIの活用",
     "link": "https://qiita.com/infra365/items/f12242f65c5f1e20c022?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-04T08:32:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕事の「モチベーション」とは何か。",
-    "link": "https://zenn.dev/dip_techblog/articles/526cc6e6e5d5a5",
-    "pubDate": "Sat, 04 Jul 2026 08:19:56 GMT"
   },
   {
     "site": "Zenn",
@@ -66,34 +72,10 @@
     "pubDate": "Sat, 04 Jul 2026 06:19:32 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "tmux と Neovim のペイン配置を「境界線操作」として扱う",
-    "link": "https://zenn.dev/vim_jp/articles/f10e11ada8f114",
-    "pubDate": "Sat, 04 Jul 2026 04:42:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Codexが年640TBをSSDに書いていた、原因のTRACEログを追う",
-    "link": "https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear",
-    "pubDate": "Sat, 04 Jul 2026 04:35:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "就活用DirectX12アクションゲーム作成　第二十一回",
-    "link": "https://zenn.dev/seisei89628/articles/cfec733913db02",
-    "pubDate": "Sat, 04 Jul 2026 04:21:33 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「日本企業風GitHub」のパロディに学ぶ、なぜJTC業務システムは「警告と文字」で埋め尽くされるのか",
     "link": "https://qiita.com/Shiro_Shihi/items/4928640d01c78480962b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-04T03:45:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": ".env に API キーを書きたくないので 軽いCLI を作った",
-    "link": "https://zenn.dev/trknhr/articles/42c20e11812217",
-    "pubDate": "2026-07-04T02:26:11.000Z"
   },
   {
     "site": "Zenn",
@@ -126,6 +108,12 @@
     "pubDate": "2026-07-03T10:20:29.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "AIがコードを書く時代、人間はAIにできないことをしよう",
+    "link": "https://ho.lc/slides/2026.07.03_kyoto_univ/1/",
+    "pubDate": "2026-07-03T09:58:50.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code で HTML を出力する際に CSS フレームワークを指定すると便利",
     "link": "https://qiita.com/QUANON/items/db3defd280f765c135ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -138,10 +126,10 @@
     "pubDate": "Fri, 03 Jul 2026 08:25:45 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと - Qiita",
-    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-    "pubDate": "2026-07-03T04:06:56.000Z"
+    "site": "Zenn",
+    "title": "とある部長のObsidian",
+    "link": "https://zenn.dev/canly/articles/173479ac3e9824",
+    "pubDate": "Fri, 03 Jul 2026 06:28:32 GMT"
   },
   {
     "site": "Hatena",
@@ -154,6 +142,18 @@
     "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
     "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-03T03:06:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "グラフニューラルネットワーク(GNN)の基礎から多層化を阻む「オーバースムージング」への対策を解説",
+    "link": "https://zenn.dev/dalab/articles/80ce9a10d507b8",
+    "pubDate": "Fri, 03 Jul 2026 01:45:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”",
+    "link": "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
+    "pubDate": "Thu, 02 Jul 2026 23:28:29 GMT"
   },
   {
     "site": "Qiita",
