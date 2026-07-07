@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "陸上自衛隊が使用したマルウェア入りUSBメモリについてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/07/08/002522",
+    "pubDate": "2026-07-07T16:01:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「LTは5分」とわたしが言い続ける理由 - 941::blog",
+    "link": "https://blog.kushii.net/archives/2026/07/07/235638",
+    "pubDate": "2026-07-07T15:25:18.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "コンカフェ勤務だけどおぢアタック凄い多くない？",
     "link": "https://anond.hatelabo.jp/20260707183302",
     "pubDate": "2026-07-07T09:38:18.000Z"
@@ -30,16 +42,16 @@
     "pubDate": "2026-07-07T05:10:52.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+    "link": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+    "pubDate": "2026-07-07T05:01:55.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "PL/SQLのバッチ処理をTemplate Methodパターンで共通化する",
     "link": "https://qiita.com/take-yoda/items/a8e097a488923360b03b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-07T04:07:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2122988.html",
-    "pubDate": "2026-07-07T04:06:03.000Z"
   },
   {
     "site": "Qiita",
@@ -52,18 +64,6 @@
     "title": "【AWS】Bedrock AgentCore Web Search を試してみた！",
     "link": "https://qiita.com/PDC-Kurashinak/items/9bc404e35625ade6e198?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-07T02:17:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2122863.html",
-    "pubDate": "2026-07-07T01:28:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
-    "pubDate": "2026-07-07T01:27:27.000Z"
   },
   {
     "site": "Zenn",
@@ -108,6 +108,12 @@
     "pubDate": "Mon, 06 Jul 2026 21:38:15 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "マッキンゼーが「人間がAIに勝てる」3つのスキルを特定。「若手が磨くべき分野」はこれだった | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2601-mckinsey-boss-shares-human-skills-ai-models-cant-do-a/",
+    "pubDate": "2026-07-06T19:06:37.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
     "link": "https://qiita.com/ryu-ki/items/2cd37256824b54022bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -130,12 +136,6 @@
     "title": "ソフトウェアの見積もり - kawasima",
     "link": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation=",
     "pubDate": "2026-07-06T14:19:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01",
-    "link": "https://note.com/zephel01/n/n0d53c62dca07",
-    "pubDate": "2026-07-06T12:39:21.000Z"
   },
   {
     "site": "Zenn",
