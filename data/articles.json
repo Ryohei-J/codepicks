@@ -1,9 +1,57 @@
 [
   {
+    "site": "Qiita",
+    "title": "PL/SQLのバッチ処理をTemplate Methodパターンで共通化する",
+    "link": "https://qiita.com/take-yoda/items/a8e097a488923360b03b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-07T04:07:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2122988.html",
+    "pubDate": "2026-07-07T04:06:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マネーフォワード、GitHubから6万件超える情報漏洩の恐れ　認証データ流出",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/070200164/",
+    "pubDate": "2026-07-07T03:45:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ChatGPTを活用してWebアプリを効率よく多言語対応する",
+    "link": "https://qiita.com/usui0623/items/e7ca1a6954cd7af6751b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-07T02:56:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS】Bedrock AgentCore Web Search を試してみた！",
+    "link": "https://qiita.com/PDC-Kurashinak/items/9bc404e35625ade6e198?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-07T02:17:07.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「1Password」のサブスクリプションがなんと2倍に値上げ、値上げと円安のダブルパンチ？／代替サービスへの移行か、ソースネクストのライセンスでしのぐか……【やじうまの杜】",
     "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2122863.html",
     "pubDate": "2026-07-07T01:28:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
+    "pubDate": "2026-07-07T01:27:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 \"SubEtha\"を作った",
+    "link": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
+    "pubDate": "Tue, 07 Jul 2026 00:00:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
+    "link": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-06T22:27:21.000Z"
   },
   {
     "site": "Hatena",
@@ -12,28 +60,40 @@
     "pubDate": "2026-07-06T22:07:22.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
+    "link": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
+    "pubDate": "Mon, 06 Jul 2026 21:38:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Git 感覚で AWS / Google Cloud / Azure のシークレットを管理できる CLI/GUI ツール「suve」を作った",
+    "link": "https://zenn.dev/yumemi_inc/articles/suve-git-like-secret-management",
+    "pubDate": "Mon, 06 Jul 2026 21:38:15 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
     "link": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/",
     "pubDate": "2026-07-06T17:15:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIが「安全」判定キノコに猛毒　食べた少年が一時危篤、中国湖北省：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html",
-    "pubDate": "2026-07-06T15:40:18.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "『秩序ある共生』は実現できるのか？ ― 制度設計・財源幻想・社会統合を考える : Pythonで学ぶ マクロ経済学入門 (96)",
-    "link": "https://qiita.com/maskot1977/items/c3fe81175a1206abf1f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T15:07:11.000Z"
+    "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
+    "link": "https://qiita.com/ryu-ki/items/2cd37256824b54022bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-06T16:08:21.000Z"
   },
   {
     "site": "Qiita",
     "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
     "link": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-06T14:42:23.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "New Relic MCPの回答精度を向上させるプロファイルのご紹介",
+    "link": "https://qiita.com/seamoooooo/items/e458d2a7969e8c92d9ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-06T14:37:22.000Z"
   },
   {
     "site": "Hatena",
@@ -60,16 +120,16 @@
     "pubDate": "Mon, 06 Jul 2026 11:12:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "中国、AIとの「感情的交流」を規制　バイトダンスとアリババが「擬人化AI」終了へ",
-    "link": "https://japan.cnet.com/article/35250128/",
-    "pubDate": "2026-07-06T10:19:55.000Z"
+    "site": "Qiita",
+    "title": "AI-BPRで業務そのものを再設計する",
+    "link": "https://qiita.com/licux/items/25e87077b6ef29162a93?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-06T10:01:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "技術を追うのがしんどくなった40代エンジニアは、何を学べばいいのか｜ゆふかげ | 40代フリーランスITエンジニア",
-    "link": "https://note.com/yufukage/n/n652207e2e9f9",
-    "pubDate": "2026-07-06T08:03:18.000Z"
+    "site": "Zenn",
+    "title": "自動テストの肥大化とどう向き合うか",
+    "link": "https://zenn.dev/frontendflat/articles/automated-test-size-tradeoff",
+    "pubDate": "Mon, 06 Jul 2026 08:23:53 GMT"
   },
   {
     "site": "Qiita",
@@ -78,52 +138,10 @@
     "pubDate": "2026-07-06T03:20:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Unity 6時代のR3設計方針：10人規模開発で保守性を落とさない基本ルール",
-    "link": "https://zenn.dev/gamedev_toollab/articles/404e0e499954a9",
-    "pubDate": "Mon, 06 Jul 2026 01:00:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "🤖 【Claude】自作Skillが「Claude Codeでは動くのにCoworkに出てこない」を解決する",
-    "link": "https://qiita.com/imamu123/items/2baf3f2f047e912dab48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T00:21:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "複数リポジトリを単一のdev containerで開発する Claude Code 環境を構築する",
-    "link": "https://zenn.dev/finatext/articles/whole-dev-container",
-    "pubDate": "Mon, 06 Jul 2026 00:00:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【DevOps Agent】VPC 内のセルフホスト GitLab に Private Connections で繋いでみた〜ついでにリリース前コードレビュー機能も試す〜",
-    "link": "https://qiita.com/ryu-ki/items/e2c94f68b4bd17c1514d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-05T23:43:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ClaudeがSlackに書く文字装飾が崩れる問題をSkillで直す",
-    "link": "https://zenn.dev/elements/articles/a86509157c243a",
-    "pubDate": "Sun, 05 Jul 2026 23:39:54 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成 AI 利用率〇パーセント達成した、次は AI エージェント〇個作成が目標？",
-    "link": "https://qiita.com/Takashi_Masumori/items/a1ae3d4cbb03aa5a2387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-05T23:17:17.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita",
     "link": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564",
     "pubDate": "2026-07-05T19:50:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Dockerfileは分けない〜本番用とローカル用を1つに保つ方法🐳",
-    "link": "https://qiita.com/H-Hoshihara/items/82798a46964718f6bdb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-05T17:32:58.000Z"
   },
   {
     "site": "Zenn",
@@ -136,12 +154,6 @@
     "title": "C# で出来ること一覧 2026年版（.NET 10）",
     "link": "https://zenn.dev/microsoft/articles/what-can-you-do-on-dotnet10",
     "pubDate": "Sun, 05 Jul 2026 15:02:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "OCI Speechでリアルタイム英日翻訳アプリを作ってみた：途中で変わる文字起こしを字幕にする工夫",
-    "link": "https://qiita.com/araidon/items/a742200d67e8018cda91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-05T13:21:55.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Zenn",
-    "title": "ELDEN RING NIGHTREIGNのマルチがラグいのは、ハズレのSteam中継サーバーを引いているからだった",
-    "link": "https://zenn.dev/kikurage7/articles/8b4d12fe0b7198",
-    "pubDate": "Sun, 05 Jul 2026 06:18:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "dotfiles のススメ; mise と Renovate で開発環境を安全に最新に保つ編",
-    "link": "https://zenn.dev/himkt/articles/b811e1ea846f99",
-    "pubDate": "Sun, 05 Jul 2026 04:20:39 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「日本企業風GitHub」のパロディに学ぶ、なぜJTC業務システムは「警告と文字」で埋め尽くされるのか",
-    "link": "https://qiita.com/Shiro_Shihi/items/4928640d01c78480962b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-04T03:45:44.000Z"
+    "title": "ECMAScriptにおけるグレゴリオ暦: `iso8601`と`gregory`",
+    "link": "https://zenn.dev/fabon/articles/c4b2efbb0c526b",
+    "pubDate": "Sun, 05 Jul 2026 07:57:21 GMT"
   }
 ]
