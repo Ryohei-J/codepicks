@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "コンカフェ勤務だけどおぢアタック凄い多くない？",
+    "link": "https://anond.hatelabo.jp/20260707183302",
+    "pubDate": "2026-07-07T09:38:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "KDDIのISP事業者向けメールシステムへの不正アクセスについてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112",
+    "pubDate": "2026-07-07T09:26:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows 11で空き容量が0バイトになる恐れ　影響を確認して速やかに対策を",
+    "link": "https://news.mynavi.jp/techplus/article/20260707-4672951/",
+    "pubDate": "2026-07-07T09:24:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
+    "link": "https://ascii.jp/elem/000/004/416/4416397/",
+    "pubDate": "2026-07-07T08:28:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIコーディング時代の生き抜き方",
+    "link": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
+    "pubDate": "2026-07-07T05:10:52.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "PL/SQLのバッチ処理をTemplate Methodパターンで共通化する",
     "link": "https://qiita.com/take-yoda/items/a8e097a488923360b03b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -10,12 +40,6 @@
     "title": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法",
     "link": "https://pc.watch.impress.co.jp/docs/news/2122988.html",
     "pubDate": "2026-07-07T04:06:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マネーフォワード、GitHubから6万件超える情報漏洩の恐れ　認証データ流出",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/070200164/",
-    "pubDate": "2026-07-07T03:45:09.000Z"
   },
   {
     "site": "Qiita",
@@ -43,21 +67,33 @@
   },
   {
     "site": "Zenn",
+    "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+    "link": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+    "pubDate": "Tue, 07 Jul 2026 01:00:08 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Vitestで始めるシンプルなVRT",
+    "link": "https://zenn.dev/cybozu_frontend/articles/vitest-simple-vrt",
+    "pubDate": "Tue, 07 Jul 2026 00:36:25 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 \"SubEtha\"を作った",
     "link": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
     "pubDate": "Tue, 07 Jul 2026 00:00:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI時代のObservability設計 - アプリケーション / インフラ / CI / LLMすべてを監視する（設計編）",
+    "link": "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
+    "pubDate": "Mon, 06 Jul 2026 23:44:32 GMT"
   },
   {
     "site": "Qiita",
     "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
     "link": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-06T22:27:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "不正アクセスによるバンダイチャンネル大量退会についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/07/07/012552",
-    "pubDate": "2026-07-06T22:07:22.000Z"
   },
   {
     "site": "Zenn",
@@ -70,12 +106,6 @@
     "title": "Git 感覚で AWS / Google Cloud / Azure のシークレットを管理できる CLI/GUI ツール「suve」を作った",
     "link": "https://zenn.dev/yumemi_inc/articles/suve-git-like-secret-management",
     "pubDate": "Mon, 06 Jul 2026 21:38:15 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
-    "link": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/",
-    "pubDate": "2026-07-06T17:15:46.000Z"
   },
   {
     "site": "Qiita",
@@ -100,12 +130,6 @@
     "title": "ソフトウェアの見積もり - kawasima",
     "link": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation=",
     "pubDate": "2026-07-06T14:19:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "若者による不正アクセスの事件が起きると必ず「才能があるからホワイトハッカーにすればいい」という意見が出るが、IT業界関係者的には「要りません」という話→「知識と技術は後付けできても倫理観はネ…」",
-    "link": "https://togetter.com/li/2717678",
-    "pubDate": "2026-07-06T14:17:51.000Z"
   },
   {
     "site": "Hatena",
@@ -138,10 +162,10 @@
     "pubDate": "2026-07-06T03:20:19.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita",
-    "link": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564",
-    "pubDate": "2026-07-05T19:50:07.000Z"
+    "site": "Zenn",
+    "title": "複数リポジトリを単一のdev containerで開発する Claude Code 環境を構築する",
+    "link": "https://zenn.dev/finatext/articles/whole-dev-container",
+    "pubDate": "Mon, 06 Jul 2026 00:00:08 GMT"
   },
   {
     "site": "Zenn",
@@ -150,33 +174,9 @@
     "pubDate": "Sun, 05 Jul 2026 15:18:48 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "C# で出来ること一覧 2026年版（.NET 10）",
-    "link": "https://zenn.dev/microsoft/articles/what-can-you-do-on-dotnet10",
-    "pubDate": "Sun, 05 Jul 2026 15:02:46 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません",
     "link": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-05T11:51:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "JavaScriptのメソッドチェインが遅い理由",
-    "link": "https://zenn.dev/dameyodamedame/articles/0bd949354baf6e",
-    "pubDate": "Sun, 05 Jul 2026 10:58:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare Workers + better-auth で全リクエストが無応答になる - hanging promise の罠",
-    "link": "https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise",
-    "pubDate": "Sun, 05 Jul 2026 10:11:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ECMAScriptにおけるグレゴリオ暦: `iso8601`と`gregory`",
-    "link": "https://zenn.dev/fabon/articles/c4b2efbb0c526b",
-    "pubDate": "Sun, 05 Jul 2026 07:57:21 GMT"
   }
 ]
