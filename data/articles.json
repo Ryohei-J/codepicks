@@ -1,21 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
+    "link": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
+    "pubDate": "2026-07-08T07:55:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
+    "link": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
+    "pubDate": "2026-07-08T07:02:34.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "10万するスマートグラスだの、AIがサポートしてくれるリマインダーだの、ITガジェットはあらかた試したが百均のやったよキーホルダーが一番忘れねえ",
-    "link": "https://togetter.com/li/2718182",
-    "pubDate": "2026-07-08T03:24:12.000Z"
+    "title": "AWS Well-Architected Framework 入門：全体像と公式ドキュメントを整理してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/aws-well-architected-framework-guide-01/",
+    "pubDate": "2026-07-08T04:52:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "おれはもうお香の灰を飛び散らかさないことにした - 関内関外日記",
+    "link": "https://goldhead.hatenablog.com/entry/2026/07/08/125954",
+    "pubDate": "2026-07-08T04:30:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude codeと論文書いたら良い論文“は”できた",
+    "link": "https://zenn.dev/mkj/articles/cco-paper_20260531",
+    "pubDate": "Wed, 08 Jul 2026 02:50:05 GMT"
   },
   {
     "site": "Hatena",
     "title": "「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう",
     "link": "https://togetter.com/li/2718162",
     "pubDate": "2026-07-08T01:37:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "良かれと思って始まる「無駄」な施策から撤退する方法｜レバテックLAB - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_888/",
-    "pubDate": "2026-07-08T01:34:14.000Z"
   },
   {
     "site": "Qiita",
@@ -30,10 +48,34 @@
     "pubDate": "2026-07-08T01:16:29.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Unity 6時代のR3運用ルール：SubscribeAwait・EveryUpdate・禁止パターンを整理する",
+    "link": "https://zenn.dev/gamedev_toollab/articles/88cbe9d9110202",
+    "pubDate": "Wed, 08 Jul 2026 01:00:09 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
     "link": "https://blog.asial.co.jp/6980/",
     "pubDate": "2026-07-08T00:59:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "アプリ層から低レイヤーを打ち抜く：WhatsApp GIF脆弱性(CVE-2019-11932)をGemini×Claudeで徹底検証",
+    "link": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
+    "pubDate": "Wed, 08 Jul 2026 00:00:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "複数のサービスを支える集約データベースの設計と未来",
+    "link": "https://zenn.dev/estie/articles/c6ab2270eaab31",
+    "pubDate": "Wed, 08 Jul 2026 00:00:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
+    "link": "https://zenn.dev/kashioka/articles/7e02592d222990",
+    "pubDate": "Tue, 07 Jul 2026 16:51:56 GMT"
   },
   {
     "site": "Zenn",
@@ -48,22 +90,10 @@
     "pubDate": "2026-07-07T12:02:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "いらすとやに新作「ドパ人」　読み方は“どぱんちゅ”？",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/07/news161.html",
-    "pubDate": "2026-07-07T11:15:42.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
     "link": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
     "pubDate": "2026-07-07T08:24:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
-    "link": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
-    "pubDate": "Tue, 07 Jul 2026 08:00:09 GMT"
   },
   {
     "site": "Zenn",
@@ -76,12 +106,6 @@
     "title": "SQL Indexing 用 AI エージェントスキル集",
     "link": "https://qiita.com/TOMOSIA-HieuNT/items/6cf51ac079b9bfad2155?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-07T04:35:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "情報処理技術者試験の大幅刷新--資格からスキル証明へ転換",
-    "link": "https://japan.zdnet.com/article/35250106/",
-    "pubDate": "2026-07-07T02:32:36.000Z"
   },
   {
     "site": "Zenn",
@@ -114,12 +138,6 @@
     "pubDate": "Mon, 06 Jul 2026 21:38:40 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Git 感覚で AWS / Google Cloud / Azure のシークレットを管理できる CLI/GUI ツール「suve」を作った",
-    "link": "https://zenn.dev/yumemi_inc/articles/suve-git-like-secret-management",
-    "pubDate": "Mon, 06 Jul 2026 21:38:15 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
     "link": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -132,12 +150,6 @@
     "pubDate": "2026-07-06T11:27:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI Agentに自由な開発環境を渡す、Proxmox+LXCで。",
-    "link": "https://zenn.dev/uzulla/articles/91272997a7c668",
-    "pubDate": "Mon, 06 Jul 2026 11:12:08 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
     "link": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -148,18 +160,6 @@
     "title": "【Gemini】Gemを活用して、爆速でGoogleスライドと台本を自動生成する方法",
     "link": "https://qiita.com/iwatanabe-7/items/a0fac398e455af0b8191?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-06T10:29:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Excel VBAの開発体験をモダン言語並みにアゲる VSCode拡張機能を作りました",
-    "link": "https://zenn.dev/harumikun/articles/05274480f07d5f",
-    "pubDate": "Mon, 06 Jul 2026 10:00:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自動テストの肥大化とどう向き合うか",
-    "link": "https://zenn.dev/frontendflat/articles/automated-test-size-tradeoff",
-    "pubDate": "Mon, 06 Jul 2026 08:23:53 GMT"
   },
   {
     "site": "Qiita",
