@@ -1,5 +1,23 @@
 [
   {
+    "site": "Hatena",
+    "title": "Announcing TypeScript 7.0 - TypeScript",
+    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+    "pubDate": "2026-07-08T16:28:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
+    "link": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
+    "pubDate": "2026-07-08T13:22:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
+    "link": "https://zenn.dev/layerx/articles/9f25ec86a31730",
+    "pubDate": "2026-07-08T13:10:31.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
     "link": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
@@ -31,6 +49,12 @@
   },
   {
     "site": "Hatena",
+    "title": "AIが破壊するIT業界の“人月商売”　「SIerの死」後に“生き残る者”の正体",
+    "link": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
+    "pubDate": "2026-07-08T01:47:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう",
     "link": "https://togetter.com/li/2718162",
     "pubDate": "2026-07-08T01:37:18.000Z"
@@ -42,22 +66,10 @@
     "pubDate": "2026-07-08T01:26:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ソフトウェア設計における抽象とメタの違い - kawasima",
-    "link": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A8%AD%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%8A%BD%E8%B1%A1%E3%81%A8%E3%83%A1%E3%82%BF%E3%81%AE%E9%81%95%E3%81%84",
-    "pubDate": "2026-07-08T01:16:29.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Unity 6時代のR3運用ルール：SubscribeAwait・EveryUpdate・禁止パターンを整理する",
     "link": "https://zenn.dev/gamedev_toollab/articles/88cbe9d9110202",
     "pubDate": "Wed, 08 Jul 2026 01:00:09 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "最上位 AI モデルが「完全従量課金」になる日 〜 Claude Code で始めるモデルルーティング入門",
-    "link": "https://blog.asial.co.jp/6980/",
-    "pubDate": "2026-07-08T00:59:01.000Z"
   },
   {
     "site": "Zenn",
@@ -78,22 +90,10 @@
     "pubDate": "Tue, 07 Jul 2026 16:51:56 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "APIもDBも東京なのに、全クエリが太平洋横断していた話",
-    "link": "https://zenn.dev/avaintelligence/articles/b7d4743a448485",
-    "pubDate": "2026-07-07T15:02:55.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ",
     "link": "https://blogs.itmedia.co.jp/magic/2026/07/post_154.html",
     "pubDate": "2026-07-07T12:02:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
-    "link": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
-    "pubDate": "2026-07-07T08:24:18.000Z"
   },
   {
     "site": "Zenn",
