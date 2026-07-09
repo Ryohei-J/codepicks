@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "「技術的負債に向き合うConference 2026」公式サイト",
-    "link": "https://technical-debt-con.findy-tools.io/2026",
-    "pubDate": "2026-07-08T22:46:01.000Z"
+    "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html",
+    "pubDate": "2026-07-09T04:20:23.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Rewriting Bun in Rust | Bun Blog",
-    "link": "https://bun.com/blog/bun-in-rust",
-    "pubDate": "2026-07-08T22:42:11.000Z"
+    "title": "Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code",
+    "pubDate": "2026-07-09T03:52:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Copilot Studio の自律型エージェントの作成方法を整理してみた",
+    "link": "https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-09T02:57:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "暑さ対策：トイレの電球を“ファン付きLEDライト”に交換したら想像以上に快適になった",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/09/news077.html",
+    "pubDate": "2026-07-09T02:11:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIP合格記：試験対策がてらBedrockを使って弱点特化した問題を作らせる学習システムを自作した",
+    "link": "https://qiita.com/y_wakai/items/e4ba31be43d518b9fdbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-09T01:04:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.js 16.3でTurbopackのメモリ使用量を劇的に減らした話",
+    "link": "https://zenn.dev/branbran/articles/2f9538ef0301c7",
+    "pubDate": "Thu, 09 Jul 2026 00:30:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Yamanote.fun",
+    "link": "https://www.yamanote.fun/",
+    "pubDate": "2026-07-09T00:16:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "[Godot]2Dゲーム入門：プレイヤー・アイテム・スクリプト共通化",
+    "link": "https://qiita.com/hana_k/items/62e0ffd682d7af33cb8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-09T00:15:43.000Z"
   },
   {
     "site": "Hatena",
@@ -25,15 +61,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Cloudflare Drop",
-    "link": "https://www.cloudflare.com/drop/",
-    "pubDate": "2026-07-08T17:01:22.000Z"
+    "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
+    "link": "https://gigazine.net/news/20260708-cloudflare-tunnel/",
+    "pubDate": "2026-07-08T21:28:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "40歳以上限定のきのこカンファレンスに39歳最後の年に登壇してきました！",
+    "link": "https://qiita.com/yurufuwahealer/items/9355c8e524df37243617?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-08T18:46:15.000Z"
   },
   {
     "site": "Hatena",
-    "title": "アフラック生命保険への不正アクセスについてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/07/08/232742",
-    "pubDate": "2026-07-08T14:45:37.000Z"
+    "title": "Cloudflare Drop",
+    "link": "https://www.cloudflare.com/drop/",
+    "pubDate": "2026-07-08T17:01:22.000Z"
   },
   {
     "site": "Hatena",
@@ -42,10 +84,10 @@
     "pubDate": "2026-07-08T14:11:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Apple、次期macOS 28以降では暗号化されたMac OS拡張(HFS+)フォーマットが非サポートとなるため、ユーザーに対しボリュームをAPFSで再フォーマット＆復号化しバックアップを取るように指示。",
-    "link": "https://applech2.com/archives/20260708-macos-28-encrypted-mac-os-extended-disks.html",
-    "pubDate": "2026-07-08T10:58:17.000Z"
+    "site": "Zenn",
+    "title": "Lambda MicroVMsで研修用の隔離ラボを人数分オンデマンドに払い出す",
+    "link": "https://zenn.dev/yoshit0oo/articles/lambda-microvms-traininglab",
+    "pubDate": "Wed, 08 Jul 2026 12:53:48 GMT"
   },
   {
     "site": "Hatena",
@@ -61,9 +103,27 @@
   },
   {
     "site": "Zenn",
+    "title": "Semantic Viewの新機能3選（2026年6月GA）— Inline View / Variables / SAMPLE_VALUE",
+    "link": "https://zenn.dev/snowflakejp/articles/23c3d350300ed9",
+    "pubDate": "Wed, 08 Jul 2026 08:02:29 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
     "link": "https://zenn.dev/layerx/articles/9f25ec86a31730",
     "pubDate": "Wed, 08 Jul 2026 08:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS Summit Japan 2026現地報告：AIエージェントの成熟とPhysical AIの萌芽",
+    "link": "https://zenn.dev/exwzd/articles/20260701_aws_summit_builders_fair",
+    "pubDate": "Wed, 08 Jul 2026 05:29:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "電話による問い合わせへの対応はAIで自動化できるのか検証してみた",
+    "link": "https://zenn.dev/govtechtokyo/articles/ffe9cc8fcd30a1",
+    "pubDate": "Wed, 08 Jul 2026 05:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -84,34 +144,10 @@
     "pubDate": "2026-07-08T01:26:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Unity 6時代のR3運用ルール：SubscribeAwait・EveryUpdate・禁止パターンを整理する",
-    "link": "https://zenn.dev/gamedev_toollab/articles/88cbe9d9110202",
-    "pubDate": "Wed, 08 Jul 2026 01:00:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "アプリ層から低レイヤーを打ち抜く：WhatsApp GIF脆弱性(CVE-2019-11932)をGemini×Claudeで徹底検証",
-    "link": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
-    "pubDate": "Wed, 08 Jul 2026 00:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "複数のサービスを支える集約データベースの設計と未来",
-    "link": "https://zenn.dev/estie/articles/c6ab2270eaab31",
-    "pubDate": "Wed, 08 Jul 2026 00:00:07 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "LambdaからS3 Filesを使った時の読み書き速度を検証してみた",
-    "link": "https://qiita.com/ry-harada/items/dc52d546c0c52c84b866?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-07T22:47:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
-    "link": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
-    "pubDate": "2026-07-07T21:10:09.000Z"
+    "title": "Vibe Codingで商用品質を目指して失敗してきた記録と、いま試している仮説",
+    "link": "https://qiita.com/autotaker1984/items/7d16cf9bb28c1f5ae088?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-07T12:28:28.000Z"
   },
   {
     "site": "Zenn",
@@ -120,34 +156,10 @@
     "pubDate": "Tue, 07 Jul 2026 08:00:09 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "APIもDBも東京なのに、全クエリが太平洋横断していた話",
-    "link": "https://zenn.dev/avaintelligence/articles/b7d4743a448485",
-    "pubDate": "Tue, 07 Jul 2026 06:06:42 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "SQL Indexing 用 AI エージェントスキル集",
-    "link": "https://qiita.com/TOMOSIA-HieuNT/items/6cf51ac079b9bfad2155?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-07T04:35:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PL/SQLのバッチ処理をTemplate Methodパターンで共通化する",
-    "link": "https://qiita.com/take-yoda/items/a8e097a488923360b03b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-07T04:07:41.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
     "link": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-07T02:28:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Goジェネリクスを支えるGC Shape Stencilingと辞書渡しの仕組み",
-    "link": "https://zenn.dev/kanmu_dev/articles/3c7057cc7ee5c8",
-    "pubDate": "Tue, 07 Jul 2026 01:09:16 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
     "link": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-06T11:00:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「保守業務って地味…」と思っていた新人の自分へ",
-    "link": "https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T03:20:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Windows標準OCR】窓キー + Shift + T キー押してますか？",
-    "link": "https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T01:26:56.000Z"
   }
 ]
