@@ -1,45 +1,69 @@
 [
   {
     "site": "Hatena",
-    "title": "Announcing TypeScript 7.0 - TypeScript",
-    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-    "pubDate": "2026-07-08T16:28:33.000Z"
+    "title": "「技術的負債に向き合うConference 2026」公式サイト",
+    "link": "https://technical-debt-con.findy-tools.io/2026",
+    "pubDate": "2026-07-08T22:46:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Rewriting Bun in Rust | Bun Blog",
+    "link": "https://bun.com/blog/bun-in-rust",
+    "pubDate": "2026-07-08T22:42:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまミニレビュー】 NTP固定のWi-Fi時計？Formia「HWC-030WLAN」を試して分かったこと",
+    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2123622.html",
+    "pubDate": "2026-07-08T22:00:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "廃棄処分されたHDDのネットオークション流出についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/07/09/052821",
+    "pubDate": "2026-07-08T21:46:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cloudflare Drop",
+    "link": "https://www.cloudflare.com/drop/",
+    "pubDate": "2026-07-08T17:01:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アフラック生命保険への不正アクセスについてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/07/08/232742",
+    "pubDate": "2026-07-08T14:45:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "祖先はナチスだったか、AIで検索可能に　1200万枚の党員カード活用 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGR05BWD0V00C26A6000000/",
+    "pubDate": "2026-07-08T14:11:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple、次期macOS 28以降では暗号化されたMac OS拡張(HFS+)フォーマットが非サポートとなるため、ユーザーに対しボリュームをAPFSで再フォーマット＆復号化しバックアップを取るように指示。",
+    "link": "https://applech2.com/archives/20260708-macos-28-encrypted-mac-os-extended-disks.html",
+    "pubDate": "2026-07-08T10:58:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2123524.html",
+    "pubDate": "2026-07-08T09:41:37.000Z"
   },
   {
     "site": "Zenn",
     "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
     "link": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
-    "pubDate": "2026-07-08T13:22:28.000Z"
+    "pubDate": "Wed, 08 Jul 2026 09:30:40 GMT"
   },
   {
     "site": "Zenn",
     "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
     "link": "https://zenn.dev/layerx/articles/9f25ec86a31730",
-    "pubDate": "2026-07-08T13:10:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
-    "link": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
-    "pubDate": "2026-07-08T07:55:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
-    "link": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
-    "pubDate": "2026-07-08T07:02:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS Well-Architected Framework 入門：全体像と公式ドキュメントを整理してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/aws-well-architected-framework-guide-01/",
-    "pubDate": "2026-07-08T04:52:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "おれはもうお香の灰を飛び散らかさないことにした - 関内関外日記",
-    "link": "https://goldhead.hatenablog.com/entry/2026/07/08/125954",
-    "pubDate": "2026-07-08T04:30:39.000Z"
+    "pubDate": "Wed, 08 Jul 2026 08:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -48,16 +72,10 @@
     "pubDate": "Wed, 08 Jul 2026 02:50:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIが破壊するIT業界の“人月商売”　「SIerの死」後に“生き残る者”の正体",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
-    "pubDate": "2026-07-08T01:47:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「日本の会社員は全員これ読むべき」DeNAの南場智子会長が行っているAI活用方法が、経営者限らずどんな社会人でも参考になりそう",
-    "link": "https://togetter.com/li/2718162",
-    "pubDate": "2026-07-08T01:37:18.000Z"
+    "site": "Zenn",
+    "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
+    "link": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
+    "pubDate": "Wed, 08 Jul 2026 02:30:05 GMT"
   },
   {
     "site": "Qiita",
@@ -84,16 +102,22 @@
     "pubDate": "Wed, 08 Jul 2026 00:00:07 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
-    "link": "https://zenn.dev/kashioka/articles/7e02592d222990",
-    "pubDate": "Tue, 07 Jul 2026 16:51:56 GMT"
+    "site": "Qiita",
+    "title": "LambdaからS3 Filesを使った時の読み書き速度を検証してみた",
+    "link": "https://qiita.com/ry-harada/items/dc52d546c0c52c84b866?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-07T22:47:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "下流でのプロジェクト管理を上流でやらないほうがいい理由、あるいは不確実性にまみれた世界：プロジェクトマジック：オルタナティブ・ブログ",
-    "link": "https://blogs.itmedia.co.jp/magic/2026/07/post_154.html",
-    "pubDate": "2026-07-07T12:02:43.000Z"
+    "site": "Zenn",
+    "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
+    "link": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
+    "pubDate": "2026-07-07T21:10:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
+    "link": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
+    "pubDate": "Tue, 07 Jul 2026 08:00:09 GMT"
   },
   {
     "site": "Zenn",
@@ -108,34 +132,28 @@
     "pubDate": "2026-07-07T04:35:16.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
-    "link": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
-    "pubDate": "Tue, 07 Jul 2026 01:00:08 GMT"
+    "site": "Qiita",
+    "title": "PL/SQLのバッチ処理をTemplate Methodパターンで共通化する",
+    "link": "https://qiita.com/take-yoda/items/a8e097a488923360b03b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-07T04:07:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
+    "link": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-07T02:28:41.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Vitestで始めるシンプルなVRT",
-    "link": "https://zenn.dev/cybozu_frontend/articles/vitest-simple-vrt",
-    "pubDate": "Tue, 07 Jul 2026 00:36:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 \"SubEtha\"を作った",
-    "link": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
-    "pubDate": "Tue, 07 Jul 2026 00:00:07 GMT"
+    "title": "Goジェネリクスを支えるGC Shape Stencilingと辞書渡しの仕組み",
+    "link": "https://zenn.dev/kanmu_dev/articles/3c7057cc7ee5c8",
+    "pubDate": "Tue, 07 Jul 2026 01:09:16 GMT"
   },
   {
     "site": "Qiita",
     "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
     "link": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-06T22:27:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
-    "link": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
-    "pubDate": "Mon, 06 Jul 2026 21:38:40 GMT"
   },
   {
     "site": "Qiita",
@@ -145,21 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【Curl】Curlは一か月の夏休みを満喫するよ",
-    "link": "https://qiita.com/rana_kualu/items/6ac5b511b055d34d88fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T11:27:23.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
     "link": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-06T11:00:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Gemini】Gemを活用して、爆速でGoogleスライドと台本を自動生成する方法",
-    "link": "https://qiita.com/iwatanabe-7/items/a0fac398e455af0b8191?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T10:29:08.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【Windows標準OCR】窓キー + Shift + T キー押してますか？",
     "link": "https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-06T01:26:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません",
-    "link": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-05T11:51:26.000Z"
   }
 ]
