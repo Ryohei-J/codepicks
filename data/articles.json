@@ -1,39 +1,63 @@
 [
   {
     "site": "Hatena",
-    "title": "Microsoft Research、AI時代のグラフ作成を支援する中間言語「Flint」を発表 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/07/flint",
-    "pubDate": "2026-07-09T12:28:37.000Z"
+    "title": "文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA",
+    "link": "https://ics.media/entry/260709/",
+    "pubDate": "2026-07-09T23:49:29.000Z"
   },
   {
     "site": "Hatena",
-    "title": "三菱自動車、京都工場でHighlandersのヒューマノイドロボット量産化を検討 2027年の早いタイミングで生産開始へ",
-    "link": "https://car.watch.impress.co.jp/docs/news/2123922.html",
-    "pubDate": "2026-07-09T09:12:59.000Z"
+    "title": "官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2123857.html",
+    "pubDate": "2026-07-09T23:48:40.000Z"
   },
   {
     "site": "Hatena",
-    "title": "三菱自動車、国産ヒューマノイド量産へ　東大発スタートアップと合意　27年後半に月産1000台目指す",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
-    "pubDate": "2026-07-09T09:07:51.000Z"
+    "title": "ax — the AI-era curl",
+    "link": "https://ax.yusuke.run/",
+    "pubDate": "2026-07-09T23:18:58.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ChatGPTの音声対話、“ターン制”は終了。普通の会話のようにテンポ良く話せる「GPT-Live」登場／話を聞きつつ裏で推論、複雑になったらGPT-5.5が高度な推論・処理を実施",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2123665.html",
-    "pubDate": "2026-07-09T08:47:43.000Z"
+    "title": "米企業、コスト安い中国AIに乗り換え　開発者向けでは利用5割に迫る - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/",
+    "pubDate": "2026-07-09T22:46:07.000Z"
   },
   {
     "site": "Hatena",
-    "title": "あえてのカメラ非搭載による安心感、日常に溶け込む超軽量スマートグラス「Even G2」を試す　サードパーティーアプリの環境も魅力",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2607/09/news104.html",
-    "pubDate": "2026-07-09T08:11:31.000Z"
+    "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley",
+    "link": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "pubDate": "2026-07-09T22:45:46.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【つぶやき】人が書いたskillとかcommandに愛着が湧かない - UGA Boxxx",
-    "link": "https://uga-box.hatenablog.com/entry/2026/02/03/000000",
-    "pubDate": "2026-07-09T06:40:03.000Z"
+    "title": "メタ｢インスタ｣画像、他人がAIで合成可能　拒否しないと勝手に素材化 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/",
+    "pubDate": "2026-07-09T22:25:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "HTMLやCSSをドラッグ＆ドロップするだけでウェブサイトとして公開できる「Cloudflare Drop」を使ってみた",
+    "link": "https://gigazine.net/news/20260709-cloudflare-drop/",
+    "pubDate": "2026-07-09T10:42:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
+    "link": "https://qiita.com/Syoitu/items/78d45bee1160d059c972?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-09T07:17:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "🌸 TerraformでAWS Lambda・S3を構築＆構築削除してみた",
+    "link": "https://qiita.com/y-rio_palettelink/items/35a8a7a3605412021fe1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-09T06:57:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ドメイン駆動設計のよくある誤解",
+    "link": "https://zenn.dev/shotaro_tsuji/articles/a8f2c4a846d552",
+    "pubDate": "2026-07-09T05:21:09.000Z"
   },
   {
     "site": "Zenn",
@@ -42,22 +66,10 @@
     "pubDate": "Thu, 09 Jul 2026 05:20:33 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html",
-    "pubDate": "2026-07-09T04:20:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Grokを使って継娘の性的な画像を大量作成した男性が自殺、被害者少女は性的被害と父親を失う二重苦で一夜にして人生が崩壊",
-    "link": "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/",
-    "pubDate": "2026-07-09T03:52:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code",
-    "pubDate": "2026-07-09T03:52:12.000Z"
+    "site": "Zenn",
+    "title": "クラウドから IoT デバイスへ直接メッセージを送れる AWS IoT Core の Direct Messaging を試してみた",
+    "link": "https://zenn.dev/aws_japan/articles/8d7fbd2c819324",
+    "pubDate": "Thu, 09 Jul 2026 04:06:42 GMT"
   },
   {
     "site": "Qiita",
@@ -66,22 +78,28 @@
     "pubDate": "2026-07-09T02:57:04.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AIP合格記：試験対策がてらBedrockを使って弱点特化した問題を作らせる学習システムを自作した",
-    "link": "https://qiita.com/y_wakai/items/e4ba31be43d518b9fdbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-09T01:04:26.000Z"
+    "site": "Zenn",
+    "title": "要件定義を整理する3つの手法（イベントストーミング／RDRA／ICONIX）",
+    "link": "https://zenn.dev/tan_go238/articles/976ea64887569d",
+    "pubDate": "Thu, 09 Jul 2026 02:41:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Apple containerでmacOSにLinuxコンテナ環境を作る（ハンズオン）",
+    "link": "https://zenn.dev/var/articles/apple-container-macos-hands-on",
+    "pubDate": "Thu, 09 Jul 2026 01:50:50 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIがコードを書くほど、レビュー・セキュリティ・理解が追いつかなくなる——次のDevOpsボトルネックは「管理能力」だ",
+    "link": "https://techfeed.io/entries/6a4d8404fb2ec72bcd7fd86a",
+    "pubDate": "2026-07-09T01:13:07.000Z"
   },
   {
     "site": "Zenn",
     "title": "Next.js 16.3でTurbopackのメモリ使用量を劇的に減らした話",
     "link": "https://zenn.dev/branbran/articles/2f9538ef0301c7",
     "pubDate": "Thu, 09 Jul 2026 00:30:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Yamanote.fun",
-    "link": "https://www.yamanote.fun/",
-    "pubDate": "2026-07-09T00:16:17.000Z"
   },
   {
     "site": "Qiita",
@@ -91,15 +109,15 @@
   },
   {
     "site": "Qiita",
+    "title": "Zoom の文字起こし・翻訳 AI を \"Zoom 以外\" で使う — Google Meet / Teams / YouTube、どんなサイトでもリアルタイム字幕＋翻訳",
+    "link": "https://qiita.com/shinonome_taku/items/b73cb8096af35186c2d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-08T22:16:40.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "40歳以上限定のきのこカンファレンスに39歳最後の年に登壇してきました！",
     "link": "https://qiita.com/yurufuwahealer/items/9355c8e524df37243617?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-08T18:46:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "エージェント界のラーメン二郎史  oh-my-系の1年",
-    "link": "https://zenn.dev/sonicmoov/articles/3ee60ce2f5954d",
-    "pubDate": "Wed, 08 Jul 2026 14:49:39 GMT"
   },
   {
     "site": "Zenn",
@@ -115,12 +133,6 @@
   },
   {
     "site": "Zenn",
-    "title": "2026 年 7 月版 Claude Code による AI 駆動開発フロー改善の記録",
-    "link": "https://zenn.dev/taroosg/articles/20260708203628-86db8756331c10",
-    "pubDate": "Wed, 08 Jul 2026 12:11:00 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
     "link": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
     "pubDate": "Wed, 08 Jul 2026 09:30:40 GMT"
@@ -132,16 +144,16 @@
     "pubDate": "Wed, 08 Jul 2026 08:00:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude codeと論文書いたら良い論文“は”できた",
-    "link": "https://zenn.dev/mkj/articles/cco-paper_20260531",
-    "pubDate": "Wed, 08 Jul 2026 02:50:05 GMT"
+    "site": "Qiita",
+    "title": "プロンプトを頑張るな、リポジトリを育てろ：GitHub Copilotが迷わないコードベース設計",
+    "link": "https://qiita.com/ochtum/items/28fc5b3dbf78b7795c80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-08T06:59:45.000Z"
   },
   {
     "site": "Zenn",
-    "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
-    "link": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
-    "pubDate": "Wed, 08 Jul 2026 02:30:05 GMT"
+    "title": "Sonnet・Opus で Fable 5 相当の成果物を再現するハーネスの設計と検証",
+    "link": "https://zenn.dev/eda_sann/articles/343ce0f43b8fa5",
+    "pubDate": "Wed, 08 Jul 2026 02:58:01 GMT"
   },
   {
     "site": "Qiita",
@@ -151,32 +163,20 @@
   },
   {
     "site": "Qiita",
+    "title": "15個の仕込みバグで比較：ClaudeとCodexのコードレビューは、モデルより「レビュー方式」で差が出た",
+    "link": "https://qiita.com/kunitomo926/items/7dfc85770cf5132f3d1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-07T22:49:45.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Vibe Codingで商用品質を目指して失敗してきた記録と、いま試している仮説",
     "link": "https://qiita.com/autotaker1984/items/7d16cf9bb28c1f5ae088?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-07T12:28:28.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
-    "link": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-07T02:28:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
-    "link": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T22:27:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
-    "link": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T14:42:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
-    "link": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-06T11:00:39.000Z"
+    "site": "Hatena",
+    "title": "Orca — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents",
+    "link": "https://www.onorca.dev/",
+    "pubDate": "2026-04-04T12:31:55.000Z"
   }
 ]
