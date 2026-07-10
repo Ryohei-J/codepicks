@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Claude Codeとハーネスについて考えてみる",
+    "link": "https://speakerdeck.com/oikon48/claude-codetohanesunituitekao-etemiru",
+    "pubDate": "2026-07-10T11:58:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "安いエアコンが消える？　「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html",
+    "pubDate": "2026-07-10T09:25:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita",
+    "link": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971",
+    "pubDate": "2026-07-10T08:27:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「まるで人間」　OpenAIの新モデル「GPT-Live」のトーク力が話題　間を空けずに考えながら会話できる",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+    "pubDate": "2026-07-10T07:56:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「メールが届かなくても仕方ない」を普通にしませんか",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/",
     "pubDate": "2026-07-10T07:44:25.000Z"
@@ -24,10 +48,16 @@
     "pubDate": "2026-07-10T04:18:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Windows Defenderにディスクを食い潰す穴が発見される",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2124087.html",
-    "pubDate": "2026-07-10T03:36:56.000Z"
+    "site": "Zenn",
+    "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
+    "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
+    "pubDate": "2026-07-10T03:47:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
+    "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
+    "pubDate": "Fri, 10 Jul 2026 02:33:47 GMT"
   },
   {
     "site": "Hatena",
@@ -48,34 +78,22 @@
     "pubDate": "2026-07-10T00:58:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」、NVIDIAが「Qwen3.6」を軽量化4ビットモデルを商用利用可能で公開など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/07/10/5280.html",
-    "pubDate": "2026-07-10T00:42:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ax — the AI-era curl",
-    "link": "https://ax.yusuke.run/",
-    "pubDate": "2026-07-09T23:18:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "米企業、コスト安い中国AIに乗り換え　開発者向けでは利用5割に迫る - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/",
-    "pubDate": "2026-07-09T22:46:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "メタ｢インスタ｣画像、他人がAIで合成可能　拒否しないと勝手に素材化 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/",
-    "pubDate": "2026-07-09T22:25:27.000Z"
+    "site": "Zenn",
+    "title": "AI が自分の結論を正当化してくるので、デバイアスして自律的にFable 5 にセカンドオピニオンを聞くSkill を作った",
+    "link": "https://zenn.dev/atrae/articles/08f2b2c3f2217d",
+    "pubDate": "Thu, 09 Jul 2026 22:15:05 GMT"
   },
   {
     "site": "Qiita",
     "title": "ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった",
     "link": "https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-09T22:00:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【無料】 ObsidianはAIの記憶保管には向いていない｜松濤Vimmer",
+    "link": "https://note.com/shotovim/n/n40164f5b555c",
+    "pubDate": "2026-07-09T17:34:15.000Z"
   },
   {
     "site": "Zenn",
@@ -91,9 +109,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeと挑む技術的負債の返済 — 止められない本番データ基盤を、一人で載せ替えた話",
-    "link": "https://zenn.dev/rehabforjapan/articles/composer-to-cloud-run-jobs",
-    "pubDate": "Thu, 09 Jul 2026 08:23:46 GMT"
+    "title": "Claude Codeの/checkup(旧/doctor)コマンドで環境を診断・自動修正する",
+    "link": "https://zenn.dev/shirochan/articles/a24092cfebefa0",
+    "pubDate": "Thu, 09 Jul 2026 10:06:44 GMT"
   },
   {
     "site": "Qiita",
@@ -103,21 +121,9 @@
   },
   {
     "site": "Zenn",
-    "title": "ドメイン駆動設計のよくある誤解",
-    "link": "https://zenn.dev/shotaro_tsuji/articles/a8f2c4a846d552",
-    "pubDate": "2026-07-09T05:21:09.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "HTML即公開！Cloudflare Drop が面白そう",
     "link": "https://zenn.dev/trans/articles/cc1c398e1f770c",
     "pubDate": "Thu, 09 Jul 2026 05:20:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "クラウドから IoT デバイスへ直接メッセージを送れる AWS IoT Core の Direct Messaging を試してみた",
-    "link": "https://zenn.dev/aws_japan/articles/8d7fbd2c819324",
-    "pubDate": "Thu, 09 Jul 2026 04:06:42 GMT"
   },
   {
     "site": "Qiita",
@@ -148,12 +154,6 @@
     "title": "ドメイン駆動設計のよくある誤解",
     "link": "https://zenn.dev/shotaro_tsuji/articles/a8f2c4a846d552",
     "pubDate": "Wed, 08 Jul 2026 12:41:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "設計判断を属人化させないために、DDDの判断フローをWebアプリにしてみた",
-    "link": "https://zenn.dev/shimpei_takeda/articles/b63ecf44777fab",
-    "pubDate": "Wed, 08 Jul 2026 09:30:40 GMT"
   },
   {
     "site": "Zenn",
