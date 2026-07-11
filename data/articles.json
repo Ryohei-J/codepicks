@@ -1,9 +1,9 @@
 [
   {
     "site": "Hatena",
-    "title": "AI Agent SaaS を支える自社仮想化基盤への挑戦と実運用 / ai-agent-saas-virtualization",
-    "link": "https://speakerdeck.com/flatt_security/ai-agent-saas-virtualization",
-    "pubDate": "2026-07-11T08:55:57.000Z"
+    "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
+    "link": "https://note.com/art_reflection/n/n7ffd5ce3320c",
+    "pubDate": "2026-07-11T10:37:44.000Z"
   },
   {
     "site": "Zenn",
@@ -16,6 +16,12 @@
     "title": "Metaがユーザーからの反発を受けInstagramのAI機能を削除",
     "link": "https://gigazine.net/news/20260711-meta-removes-controversial-ai-instagram/",
     "pubDate": "2026-07-11T08:20:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/",
+    "pubDate": "2026-07-11T05:42:34.000Z"
   },
   {
     "site": "Hatena",
@@ -36,12 +42,6 @@
     "pubDate": "2026-07-11T02:24:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "夫とSMSでやり取りしていたら突然全く知らない人に繋がり恐怖...→「通信業界にいたのに全然わからん」「混線みたいな現象が起きることってあるの？」",
-    "link": "https://togetter.com/li/2719204",
-    "pubDate": "2026-07-10T23:14:22.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWS MCP Serverが普通に使えるようになったよ！",
     "link": "https://qiita.com/moritalous/items/6102ef63dc60c7e6ee3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -60,6 +60,12 @@
     "pubDate": "Fri, 10 Jul 2026 15:27:38 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "GitHub - yusukebe/ax: The AI-era curl",
+    "link": "https://github.com/yusukebe/ax",
+    "pubDate": "2026-07-10T15:09:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "CodexのdefaultをGPT-5.6 Terraにした理由：GPT-5.5/5.4との比較",
     "link": "https://zenn.dev/hjpotter1/articles/59622ac112d0a7",
@@ -76,12 +82,6 @@
     "title": "DGX Spark (GB10) でローカルLLMを7本ベンチマークした【2026年7月】",
     "link": "https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe",
     "pubDate": "Fri, 10 Jul 2026 11:23:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ISMSの運用を、GitHub×Claudeで“ラクで楽しい”ものにする【前編】",
-    "link": "https://zenn.dev/sonicgarden/articles/682b080ec34a37",
-    "pubDate": "2026-07-10T11:08:57.000Z"
   },
   {
     "site": "Zenn",
@@ -108,12 +108,6 @@
     "pubDate": "2026-07-10T09:00:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NVIDIA倒産危機をセガが救って30年の突発イベント予告　革ジャンが秋葉原GiGO降臨、ファン招待で5090プレゼント　鈴木裕や入交元社長も参加 | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/07/10/5281.html",
-    "pubDate": "2026-07-10T08:21:33.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "5年後、AIに頼りすぎた自分を後悔する？考えてみた",
     "link": "https://qiita.com/prum_sumomo/items/299014d7667aa57fb5d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,12 +130,6 @@
     "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
     "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
     "pubDate": "Fri, 10 Jul 2026 02:33:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI 2040: Plan A",
-    "link": "https://ai-2040.com/",
-    "pubDate": "2026-07-10T01:59:22.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +166,17 @@
     "title": "Copilot Studio の自律型エージェントの作成方法を整理してみた",
     "link": "https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-09T02:57:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Emacs 31 Is Around the Corner: The Changes I'm Already Daily Driving | Rahul's Blog",
+    "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "pubDate": "2026-06-18T23:18:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - kepano/obsidian-skills: Agent skills for Obsidian",
+    "link": "https://github.com/kepano/obsidian-skills",
+    "pubDate": "2026-01-07T00:42:49.000Z"
   }
 ]
