@@ -7,21 +7,39 @@
   },
   {
     "site": "Zenn",
+    "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
+    "link": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
+    "pubDate": "2026-07-10T17:14:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026年7月時点で分かっている DuckDB v2 の新機能",
+    "link": "https://zenn.dev/yutannihilation/articles/779cbe9909a637",
+    "pubDate": "Fri, 10 Jul 2026 15:27:38 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Loop Engineeringで失敗しないためのハーネス設計",
     "link": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
     "pubDate": "2026-07-10T15:09:34.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Email Verification Protocol を理解しよう - r-weblife",
-    "link": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
-    "pubDate": "2026-07-10T12:33:31.000Z"
+    "title": "やさしいループエンジニアリング入門 | ドクセル",
+    "link": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
+    "pubDate": "2026-07-10T12:53:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeとハーネスについて考えてみる",
-    "link": "https://speakerdeck.com/oikon48/claude-codetohanesunituitekao-etemiru",
-    "pubDate": "2026-07-10T11:58:18.000Z"
+    "site": "Zenn",
+    "title": "DGX Spark (GB10) でローカルLLMを7本ベンチマークした【2026年7月】",
+    "link": "https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe",
+    "pubDate": "Fri, 10 Jul 2026 11:23:33 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ISMSの運用を、GitHub×Claudeで“ラクで楽しい”ものにする【前編】",
+    "link": "https://zenn.dev/sonicgarden/articles/682b080ec34a37",
+    "pubDate": "2026-07-10T11:08:57.000Z"
   },
   {
     "site": "Zenn",
@@ -30,22 +48,34 @@
     "pubDate": "Fri, 10 Jul 2026 11:00:14 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeに「昨日の続き」を思い出させるローカル知識ベースCLI「lk」を作った",
+    "link": "https://zenn.dev/syarihu/articles/a811f2d2d9f149",
+    "pubDate": "Fri, 10 Jul 2026 10:47:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Loop Engineeringで失敗しないためのハーネス設計",
+    "link": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+    "pubDate": "Fri, 10 Jul 2026 09:09:43 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "Braveが「クレジットカードの発行」「BravePayの開発」などBATに関するロードマップを発表",
-    "link": "https://gigazine.net/news/20260710-brave-bat-roadmap-4/",
-    "pubDate": "2026-07-10T10:37:49.000Z"
+    "title": "NVIDIA倒産危機をセガが救って30年の突発イベント予告　革ジャンが秋葉原GiGO降臨、ファン招待で5090プレゼント　鈴木裕や入交元社長も参加 | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/07/10/5281.html",
+    "pubDate": "2026-07-10T08:21:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと",
+    "link": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
+    "pubDate": "Fri, 10 Jul 2026 08:15:49 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita",
-    "link": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971",
-    "pubDate": "2026-07-10T08:27:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ミズノ、「ピックルボール」市場に参入　競技人口7倍に拡大",
-    "link": "https://www.watch.impress.co.jp/docs/news/2124158.html",
-    "pubDate": "2026-07-10T06:37:38.000Z"
+    "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった - Qiita",
+    "link": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
+    "pubDate": "2026-07-10T06:15:46.000Z"
   },
   {
     "site": "Qiita",
@@ -54,16 +84,16 @@
     "pubDate": "2026-07-10T05:30:31.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ClickHouse + HyperDX で作るセルフホストなオブザーバビリティ基盤",
+    "link": "https://zenn.dev/genax_corp/articles/a88f9fa2026107",
+    "pubDate": "Fri, 10 Jul 2026 05:19:22 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "PythonにStreamlitを添えて。",
     "link": "https://qiita.com/s_yamauchi_/items/32f915ac6df8fbede824?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-10T04:18:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "DB にある推定4億件のログを消して 9TB のストレージ容量を削減した",
-    "link": "https://zenn.dev/primenumber/articles/65fa80973cb6f2",
-    "pubDate": "Fri, 10 Jul 2026 03:42:08 GMT"
   },
   {
     "site": "Zenn",
@@ -96,24 +126,6 @@
     "pubDate": "2026-07-10T00:58:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Interview With Mitchell Hashimoto",
-    "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "pubDate": "2026-07-10T00:48:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "受身気質な私がEMはじめました",
-    "link": "https://zenn.dev/loglass/articles/842221017ac4f2",
-    "pubDate": "Thu, 09 Jul 2026 23:42:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI が自分の結論を正当化してくるので、デバイアスして自律的にFable 5 にセカンドオピニオンを聞くSkill を作った",
-    "link": "https://zenn.dev/atrae/articles/08f2b2c3f2217d",
-    "pubDate": "Thu, 09 Jul 2026 22:15:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった",
     "link": "https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -144,28 +156,10 @@
     "pubDate": "2026-07-09T07:17:51.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "HTML即公開！Cloudflare Drop が面白そう",
-    "link": "https://zenn.dev/trans/articles/cc1c398e1f770c",
-    "pubDate": "Thu, 09 Jul 2026 05:20:33 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Copilot Studio の自律型エージェントの作成方法を整理してみた",
     "link": "https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-09T02:57:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ドメイン駆動設計のよくある誤解",
-    "link": "https://zenn.dev/shotaro_tsuji/articles/a8f2c4a846d552",
-    "pubDate": "Wed, 08 Jul 2026 12:41:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
-    "link": "https://zenn.dev/layerx/articles/9f25ec86a31730",
-    "pubDate": "Wed, 08 Jul 2026 08:00:06 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "15個の仕込みバグで比較：ClaudeとCodexのコードレビューは、モデルより「レビュー方式」で差が出た",
     "link": "https://qiita.com/kunitomo926/items/7dfc85770cf5132f3d1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-07T22:49:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "総務省｜不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～",
+    "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000604.html",
+    "pubDate": "2025-05-02T04:15:16.000Z"
   }
 ]
