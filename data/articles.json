@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "夫とSMSでやり取りしていたら突然全く知らない人に繋がり恐怖...→「通信業界にいたのに全然わからん」「混線みたいな現象が起きることってあるの？」",
+    "link": "https://togetter.com/li/2719204",
+    "pubDate": "2026-07-10T23:14:22.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Loop Engineeringで失敗しないためのハーネス設計",
+    "link": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+    "pubDate": "2026-07-10T15:09:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Email Verification Protocol を理解しよう - r-weblife",
+    "link": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
+    "pubDate": "2026-07-10T12:33:31.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Codeとハーネスについて考えてみる",
     "link": "https://speakerdeck.com/oikon48/claude-codetohanesunituitekao-etemiru",
     "pubDate": "2026-07-10T11:58:18.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "3Dプリンターを買って4ヶ月、208回印刷して分かった「使いみち」と「続く理由」(実例つき)",
+    "link": "https://zenn.dev/optimisuke/articles/6d5119908cc14a",
+    "pubDate": "Fri, 10 Jul 2026 11:00:14 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "安いエアコンが消える？　「エアコン2027年問題」でメーカーは来年どう動くのか、ダイキンに聞いた",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news130.html",
-    "pubDate": "2026-07-10T09:25:47.000Z"
+    "title": "Braveが「クレジットカードの発行」「BravePayの開発」などBATに関するロードマップを発表",
+    "link": "https://gigazine.net/news/20260710-brave-bat-roadmap-4/",
+    "pubDate": "2026-07-10T10:37:49.000Z"
   },
   {
     "site": "Qiita",
@@ -19,21 +43,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「Windows」PCにサードパーティー製ウイルス対策ソフトはまだ必要か",
-    "link": "https://japan.zdnet.com/article/35250124/",
-    "pubDate": "2026-07-10T07:48:01.000Z"
+    "title": "ミズノ、「ピックルボール」市場に参入　競技人口7倍に拡大",
+    "link": "https://www.watch.impress.co.jp/docs/news/2124158.html",
+    "pubDate": "2026-07-10T06:37:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「メールが届かなくても仕方ない」を普通にしませんか",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/063002060/",
-    "pubDate": "2026-07-10T07:44:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "スマホをタッチせずに改札もレジも通過　日本で広がる「UWBタッチレス決済」最前線",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2607/10/news097.html",
-    "pubDate": "2026-07-10T04:23:29.000Z"
+    "site": "Qiita",
+    "title": "5年後、AIに頼りすぎた自分を後悔する？考えてみた",
+    "link": "https://qiita.com/prum_sumomo/items/299014d7667aa57fb5d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-10T05:30:31.000Z"
   },
   {
     "site": "Qiita",
@@ -43,15 +61,27 @@
   },
   {
     "site": "Zenn",
-    "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
-    "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
-    "pubDate": "2026-07-10T03:47:12.000Z"
+    "title": "DB にある推定4億件のログを消して 9TB のストレージ容量を削減した",
+    "link": "https://zenn.dev/primenumber/articles/65fa80973cb6f2",
+    "pubDate": "Fri, 10 Jul 2026 03:42:08 GMT"
   },
   {
     "site": "Zenn",
     "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
     "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
     "pubDate": "Fri, 10 Jul 2026 02:33:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AIデスキリング」が始まった…生産性向上の影で、AIは人間の思考とスキルを静かにむしばんでいる | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2606-ai-deskilling-impact-on-worker-skills-productivity/",
+    "pubDate": "2026-07-10T02:18:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI 2040: Plan A",
+    "link": "https://ai-2040.com/",
+    "pubDate": "2026-07-10T01:59:22.000Z"
   },
   {
     "site": "Qiita",
@@ -66,6 +96,18 @@
     "pubDate": "2026-07-10T00:58:51.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "Interview With Mitchell Hashimoto",
+    "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "pubDate": "2026-07-10T00:48:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "受身気質な私がEMはじめました",
+    "link": "https://zenn.dev/loglass/articles/842221017ac4f2",
+    "pubDate": "Thu, 09 Jul 2026 23:42:43 GMT"
+  },
+  {
     "site": "Zenn",
     "title": "AI が自分の結論を正当化してくるので、デバイアスして自律的にFable 5 にセカンドオピニオンを聞くSkill を作った",
     "link": "https://zenn.dev/atrae/articles/08f2b2c3f2217d",
@@ -76,12 +118,6 @@
     "title": "ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった",
     "link": "https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-09T22:00:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【無料】 ObsidianはAIの記憶保管には向いていない｜松濤Vimmer",
-    "link": "https://note.com/shotovim/n/n40164f5b555c",
-    "pubDate": "2026-07-09T17:34:15.000Z"
   },
   {
     "site": "Zenn",
@@ -96,10 +132,10 @@
     "pubDate": "Thu, 09 Jul 2026 12:51:51 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeの/checkup(旧/doctor)コマンドで環境を診断・自動修正する",
-    "link": "https://zenn.dev/shirochan/articles/a24092cfebefa0",
-    "pubDate": "Thu, 09 Jul 2026 10:06:44 GMT"
+    "site": "Qiita",
+    "title": "新人エンジニアが進捗報告のたびに思考停止しちゃう話",
+    "link": "https://qiita.com/prumnn/items/08eddaf8e9e7cec2f390?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-09T08:20:12.000Z"
   },
   {
     "site": "Qiita",
@@ -118,36 +154,6 @@
     "title": "Copilot Studio の自律型エージェントの作成方法を整理してみた",
     "link": "https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-09T02:57:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Flint: A Visualization Language for the AI Era",
-    "link": "https://microsoft.github.io/flint-chart/",
-    "pubDate": "2026-07-09T00:46:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "40歳以上限定のきのこカンファレンスに39歳最後の年に登壇してきました！",
-    "link": "https://qiita.com/yurufuwahealer/items/9355c8e524df37243617?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-08T18:46:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS Lambda MicroVMsでサーバレスにMinecraftを遊ぼう！",
-    "link": "https://zenn.dev/tosuri13/articles/78e93272fc2038",
-    "pubDate": "2026-07-08T17:01:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドのコードはどこで動く？",
-    "link": "https://zenn.dev/natsu06/articles/8ed7455b6e148a",
-    "pubDate": "Wed, 08 Jul 2026 14:01:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜUnityのUIは書きづらいのか — Reactに学んで宣言的UIフレームワークを作った話",
-    "link": "https://zenn.dev/s4k1/articles/6c29073680ff21",
-    "pubDate": "Wed, 08 Jul 2026 14:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "15個の仕込みバグで比較：ClaudeとCodexのコードレビューは、モデルより「レビュー方式」で差が出た",
     "link": "https://qiita.com/kunitomo926/items/7dfc85770cf5132f3d1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-07T22:49:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ターミナルで Markdown をプレビューできる leaf が便利",
-    "link": "https://qiita.com/atm-snag/items/50a0331381565da62891?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-07T09:51:27.000Z"
   }
 ]
