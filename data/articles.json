@@ -1,15 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "アルゴリズムは何を圧縮しているのか ─ Haskell から育った「圧縮代数」というメンタルモデル",
+    "link": "https://speakerdeck.com/naoya/compressed-algebra-with-haskell",
+    "pubDate": "2026-07-12T11:34:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoftアカウントをハッキングされ「これまでXBOXで購入したゲームはすべて再購入するように」とサポートから言われたゲーマーが怒りの訴訟＆勝訴",
+    "link": "https://gigazine.net/news/20260712-gamer-wins-legal-battle-hacked-xbox-account/",
+    "pubDate": "2026-07-12T10:41:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も | 日刊SPA!",
     "link": "https://nikkan-spa.jp/2172263",
     "pubDate": "2026-07-12T10:36:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "有名エンジニアの .claude/skills 公開ラッシュから学ぶ、良い Claude Code Skills の書き方｜テック太郎",
+    "link": "https://note.com/ai_eng_tech/n/n1ef4d57df219",
+    "pubDate": "2026-07-12T10:20:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【PowerShell】5.1 でモダンなフォルダ選択ダイアログを実装する - Qiita",
+    "link": "https://qiita.com/8_hisakichi_8/items/059a1ef74c77c5ac1495",
+    "pubDate": "2026-07-12T10:14:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "IT業界入って分かった、そりゃ衰退するわこんなん",
+    "link": "https://anond.hatelabo.jp/20260712172838",
+    "pubDate": "2026-07-12T08:44:38.000Z"
   },
   {
     "site": "Qiita",
     "title": "【実験】AWS 東京と大阪を閉域で繋ぐ3つの方法、実際どれくらい速さが違うのか",
     "link": "https://qiita.com/sh_fukatsu/items/541051be6cbd4a90f2a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-12T03:19:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話",
+    "link": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
+    "pubDate": "2026-07-12T02:19:36.000Z"
   },
   {
     "site": "Zenn",
@@ -24,40 +60,16 @@
     "pubDate": "Sun, 12 Jul 2026 01:36:49 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」",
-    "link": "https://togetter.com/li/2719544",
-    "pubDate": "2026-07-11T23:28:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
-    "link": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
-    "pubDate": "2026-07-11T23:11:58.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Rust + Tauri で古い Mac 風のシステムモニタを作ってみた",
     "link": "https://zenn.dev/m2lab/articles/rust-tauri-sysgauge",
     "pubDate": "Sat, 11 Jul 2026 21:46:59 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
-    "link": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
-    "pubDate": "2026-07-11T21:30:16.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "OpenFugu×ローカルLLM群でマルチAI駆動を検証① Multi-Agent System as a Model の再現",
     "link": "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
     "pubDate": "Sat, 11 Jul 2026 18:34:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "クリーンアーキテクチャを簡単に理解してみよう - NIFTY engineering",
-    "link": "https://engineering.nifty.co.jp/blog/37405",
-    "pubDate": "2026-07-11T15:58:37.000Z"
   },
   {
     "site": "Zenn",
@@ -138,12 +150,6 @@
     "pubDate": "2026-07-10T13:30:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Terraform Actionを使ってみた。 命令的な操作をリソースのライフサイクルイベントに紐づけて実行できます | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/terraform-actions/",
-    "pubDate": "2026-07-10T09:43:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法",
     "link": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,12 +172,6 @@
     "title": "AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜",
     "link": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os",
     "pubDate": "2026-07-07T11:16:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Git 2.55 の git history fixup で「過去のコミットへの入れ忘れ」を一発修正する - Qiita",
-    "link": "https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54",
-    "pubDate": "2026-07-01T07:01:02.000Z"
   },
   {
     "site": "Hatena",
