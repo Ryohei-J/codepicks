@@ -1,9 +1,33 @@
 [
   {
+    "site": "Qiita",
+    "title": "【実験】AWS 東京と大阪を閉域で繋ぐ3つの方法、実際どれくらい速さが違うのか",
+    "link": "https://qiita.com/sh_fukatsu/items/541051be6cbd4a90f2a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-12T03:19:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+    "link": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+    "pubDate": "2026-07-12T02:07:23.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」",
     "link": "https://togetter.com/li/2719544",
     "pubDate": "2026-07-11T23:28:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
+    "link": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
+    "pubDate": "2026-07-11T23:11:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
+    "link": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
+    "pubDate": "2026-07-11T21:30:16.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +36,10 @@
     "pubDate": "2026-07-11T15:58:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Ghost Font: The Anti-AI Font Only Humans Can Read",
-    "link": "https://www.mixfont.com/ghost-font",
-    "pubDate": "2026-07-11T14:07:14.000Z"
+    "site": "Zenn",
+    "title": "Markdownをpushするだけで社内資料PDFを常に最新に — WIF×Google Driveで鍵レス自動配信",
+    "link": "https://zenn.dev/o2wsu9/articles/36dea065f5d73c",
+    "pubDate": "Sat, 11 Jul 2026 12:31:50 GMT"
   },
   {
     "site": "Zenn",
@@ -24,10 +48,10 @@
     "pubDate": "Sat, 11 Jul 2026 11:11:42 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
-    "link": "https://note.com/art_reflection/n/n7ffd5ce3320c",
-    "pubDate": "2026-07-11T10:37:44.000Z"
+    "site": "Qiita",
+    "title": "Azure Durable Functions入門｜非同期処理を「順番・並列・待機」でシンプルに書く方法（Python編）",
+    "link": "https://qiita.com/Hinata-H/items/acdc8ed745e44cf9c90f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-11T10:36:01.000Z"
   },
   {
     "site": "Zenn",
@@ -61,15 +85,15 @@
   },
   {
     "site": "Zenn",
+    "title": "AIと一緒にCAD設計できるソフト「cad-coworker」",
+    "link": "https://zenn.dev/karaage0703/articles/47299d42de9607",
+    "pubDate": "Sat, 11 Jul 2026 05:28:17 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
     "link": "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
     "pubDate": "Sat, 11 Jul 2026 05:08:43 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "LM StudioでローカルLLM環境を構築してみた",
-    "link": "https://qiita.com/Hinata-H/items/00542a07b227f79635f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-11T05:07:28.000Z"
   },
   {
     "site": "Qiita",
@@ -78,22 +102,16 @@
     "pubDate": "2026-07-11T05:04:01.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "組み込みC講座 第11講：*ptr++、*++ptr、(*ptr)++ の違いを理解する",
+    "link": "https://zenn.dev/makoto_a67/articles/3eec05c6c10280",
+    "pubDate": "Sat, 11 Jul 2026 04:17:58 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Unity 6.7 の CoreCLR Player が爆速しすぎて笑ってしまった件",
     "link": "https://qiita.com/hez2010/items/4c608360c73fc6293bf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-11T02:24:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "米「AIがインフレの一因」　FRB金融政策報告書",
-    "link": "https://www.47news.jp/14607274.html",
-    "pubDate": "2026-07-11T00:29:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
-    "link": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel",
-    "pubDate": "Sat, 11 Jul 2026 00:19:29 GMT"
   },
   {
     "site": "Qiita",
@@ -102,40 +120,28 @@
     "pubDate": "2026-07-10T22:19:30.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude CodeでAgentic Engineeringを個人開発での本番運用につなぐ",
-    "link": "https://zenn.dev/okamyuji/articles/agent-driven-workflow-feedflow",
-    "pubDate": "Fri, 10 Jul 2026 22:09:20 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "攻撃者はブラウザを開いて最初の5分で何を見るのか〜バグバウンティで認可不備（P1/P2）を報告してきた視点で書く、フロントエンドの実装防御ガイド〜",
     "link": "https://qiita.com/sei_official/items/3ce11ea5faed795d47fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-10T17:52:27.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと",
-    "link": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
-    "pubDate": "2026-07-10T17:02:08.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "GitHub - yusukebe/ax: The AI-era curl",
-    "link": "https://github.com/yusukebe/ax",
-    "pubDate": "2026-07-10T15:09:13.000Z"
+    "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
+    "link": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men",
+    "pubDate": "2026-07-10T14:55:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI BPRにすべて賭けたい",
+    "link": "https://qiita.com/har1101/items/93759be44b8548fa740b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-10T13:30:47.000Z"
   },
   {
     "site": "Zenn",
-    "title": "3Dプリンターを買って4ヶ月、208回印刷して分かった「使いみち」と「続く理由」(実例つき)",
-    "link": "https://zenn.dev/optimisuke/articles/6d5119908cc14a",
-    "pubDate": "Fri, 10 Jul 2026 11:00:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Loop Engineeringで失敗しないためのハーネス設計",
-    "link": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
-    "pubDate": "Fri, 10 Jul 2026 09:09:43 GMT"
+    "title": "DGX Spark (GB10) でローカルLLMを7本ベンチマークした【2026年7月】",
+    "link": "https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe",
+    "pubDate": "Fri, 10 Jul 2026 11:23:33 GMT"
   },
   {
     "site": "Qiita",
@@ -157,26 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "GPT-5.6 は何が変わった？ Luna / Terra / Sol の違いと実務での選び方",
-    "link": "https://qiita.com/aktsmm/items/7b92f95325893cb4e5a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-09T19:39:22.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "新人エンジニアが進捗報告のたびに思考停止しちゃう話",
     "link": "https://qiita.com/prumnn/items/08eddaf8e9e7cec2f390?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-09T08:20:12.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
-    "link": "https://qiita.com/Syoitu/items/78d45bee1160d059c972?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-09T07:17:51.000Z"
+    "site": "Zenn",
+    "title": "AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜",
+    "link": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os",
+    "pubDate": "2026-07-07T11:16:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Windows 11」には500GBのストレージに関する不具合？　確認方法を紹介",
-    "link": "https://japan.zdnet.com/article/35250320/",
-    "pubDate": "2026-07-08T23:46:18.000Z"
+    "site": "Qiita",
+    "title": "Git 2.55 の git history fixup で「過去のコミットへの入れ忘れ」を一発修正する - Qiita",
+    "link": "https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54",
+    "pubDate": "2026-07-01T07:01:02.000Z"
   }
 ]
