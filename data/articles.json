@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "会計事務所でクライアントの通帳やカード明細をひたすら弥生会計に入力するパートのおばさんが、AIで不要になると思う→「仕訳の精度が低い」「確認する仕事ができる」",
+    "link": "https://togetter.com/li/2719544",
+    "pubDate": "2026-07-11T23:28:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "クリーンアーキテクチャを簡単に理解してみよう - NIFTY engineering",
+    "link": "https://engineering.nifty.co.jp/blog/37405",
+    "pubDate": "2026-07-11T15:58:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Ghost Font: The Anti-AI Font Only Humans Can Read",
+    "link": "https://www.mixfont.com/ghost-font",
+    "pubDate": "2026-07-11T14:07:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
+    "link": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
+    "pubDate": "Sat, 11 Jul 2026 11:11:42 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "「AI臭くない文章」を書かせることができる執筆エディタを作った｜なつ (生活者/デザイナー/リサーチャー)",
     "link": "https://note.com/art_reflection/n/n7ffd5ce3320c",
     "pubDate": "2026-07-11T10:37:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Fable 5 が教えてくれた FastEnum の高速化テクニック (1) - 文字列のハッシュ値生成",
+    "link": "https://zenn.dev/xin9le/articles/6fb2045805996c",
+    "pubDate": "Sat, 11 Jul 2026 09:28:41 GMT"
   },
   {
     "site": "Zenn",
@@ -12,34 +42,58 @@
     "pubDate": "Sat, 11 Jul 2026 08:22:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Metaがユーザーからの反発を受けInstagramのAI機能を削除",
-    "link": "https://gigazine.net/news/20260711-meta-removes-controversial-ai-instagram/",
-    "pubDate": "2026-07-11T08:20:26.000Z"
+    "site": "Zenn",
+    "title": "agent-cost-bench でコーディングエージェントの品質とコストを測ってみる",
+    "link": "https://zenn.dev/aws_japan/articles/agent-cost-bench-model-compare",
+    "pubDate": "Sat, 11 Jul 2026 08:02:21 GMT"
   },
   {
     "site": "Hatena",
-    "title": "[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/",
-    "pubDate": "2026-07-11T05:42:34.000Z"
+    "title": "しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE",
+    "link": "https://speakerdeck.com/kanny/shibui-sre",
+    "pubDate": "2026-07-11T08:00:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
-    "link": "https://gigazine.net/news/20260711-browser4/",
-    "pubDate": "2026-07-11T04:31:28.000Z"
+    "site": "Zenn",
+    "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+    "link": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+    "pubDate": "Sat, 11 Jul 2026 06:32:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "誤爆で「ワインが20本も届いちゃう」　押せば注文できる“Amazon Dash Button ”とは何だったのか",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2607/11/news002.html",
-    "pubDate": "2026-07-11T02:57:35.000Z"
+    "site": "Zenn",
+    "title": "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
+    "link": "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
+    "pubDate": "Sat, 11 Jul 2026 05:08:43 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "LM StudioでローカルLLM環境を構築してみた",
+    "link": "https://qiita.com/Hinata-H/items/00542a07b227f79635f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-11T05:07:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS】DevOpsAgentで変革する自動テスト【DevOpsAgent】",
+    "link": "https://qiita.com/Nana_777/items/8e2bba602339e5fc930a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-11T05:04:01.000Z"
   },
   {
     "site": "Qiita",
     "title": "Unity 6.7 の CoreCLR Player が爆速しすぎて笑ってしまった件",
     "link": "https://qiita.com/hez2010/items/4c608360c73fc6293bf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-11T02:24:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米「AIがインフレの一因」　FRB金融政策報告書",
+    "link": "https://www.47news.jp/14607274.html",
+    "pubDate": "2026-07-11T00:29:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
+    "link": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel",
+    "pubDate": "Sat, 11 Jul 2026 00:19:29 GMT"
   },
   {
     "site": "Qiita",
@@ -49,15 +103,21 @@
   },
   {
     "site": "Zenn",
-    "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
-    "link": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
-    "pubDate": "2026-07-10T17:14:42.000Z"
+    "title": "Claude CodeでAgentic Engineeringを個人開発での本番運用につなぐ",
+    "link": "https://zenn.dev/okamyuji/articles/agent-driven-workflow-feedflow",
+    "pubDate": "Fri, 10 Jul 2026 22:09:20 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "攻撃者はブラウザを開いて最初の5分で何を見るのか〜バグバウンティで認可不備（P1/P2）を報告してきた視点で書く、フロントエンドの実装防御ガイド〜",
+    "link": "https://qiita.com/sei_official/items/3ce11ea5faed795d47fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-10T17:52:27.000Z"
   },
   {
     "site": "Zenn",
-    "title": "2026年7月時点で分かっている DuckDB v2 の新機能",
-    "link": "https://zenn.dev/yutannihilation/articles/779cbe9909a637",
-    "pubDate": "Fri, 10 Jul 2026 15:27:38 GMT"
+    "title": "BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと",
+    "link": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
+    "pubDate": "2026-07-10T17:02:08.000Z"
   },
   {
     "site": "Hatena",
@@ -67,33 +127,9 @@
   },
   {
     "site": "Zenn",
-    "title": "CodexのdefaultをGPT-5.6 Terraにした理由：GPT-5.5/5.4との比較",
-    "link": "https://zenn.dev/hjpotter1/articles/59622ac112d0a7",
-    "pubDate": "Fri, 10 Jul 2026 14:34:57 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "やさしいループエンジニアリング入門 | ドクセル",
-    "link": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
-    "pubDate": "2026-07-10T12:53:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "DGX Spark (GB10) でローカルLLMを7本ベンチマークした【2026年7月】",
-    "link": "https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe",
-    "pubDate": "Fri, 10 Jul 2026 11:23:33 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "3Dプリンターを買って4ヶ月、208回印刷して分かった「使いみち」と「続く理由」(実例つき)",
     "link": "https://zenn.dev/optimisuke/articles/6d5119908cc14a",
     "pubDate": "Fri, 10 Jul 2026 11:00:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeに「昨日の続き」を思い出させるローカル知識ベースCLI「lk」を作った",
-    "link": "https://zenn.dev/syarihu/articles/a811f2d2d9f149",
-    "pubDate": "Fri, 10 Jul 2026 10:47:30 GMT"
   },
   {
     "site": "Zenn",
@@ -103,33 +139,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Miseのdotfiles機能、ご存知でしょうか？",
-    "link": "https://qiita.com/umekikazuya/items/ec67802c538afdf924aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-10T09:00:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "5年後、AIに頼りすぎた自分を後悔する？考えてみた",
-    "link": "https://qiita.com/prum_sumomo/items/299014d7667aa57fb5d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-10T05:30:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "DB にある推定4億件のログを消して 9TB のストレージ容量を削減した",
-    "link": "https://zenn.dev/primenumber/articles/65fa80973cb6f2",
-    "pubDate": "Fri, 10 Jul 2026 03:42:08 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法",
     "link": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-10T03:34:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
-    "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
-    "pubDate": "Fri, 10 Jul 2026 02:33:47 GMT"
+    "site": "Hatena",
+    "title": "LATERALでSQL実行時間を99.75%削減した話 - ANDPAD Tech Blog",
+    "link": "https://tech.andpad.co.jp/entry/2026/07/10/100000",
+    "pubDate": "2026-07-10T01:10:26.000Z"
   },
   {
     "site": "Qiita",
@@ -138,16 +156,10 @@
     "pubDate": "2026-07-10T00:58:51.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "受身気質な私がEMはじめました",
-    "link": "https://zenn.dev/loglass/articles/842221017ac4f2",
-    "pubDate": "Thu, 09 Jul 2026 23:42:43 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "ここ最近、AIに任せてしまっている業務タスク",
-    "link": "https://qiita.com/Tom-Panasonic/items/42a58a7b9deb12066d4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-09T12:01:25.000Z"
+    "title": "GPT-5.6 は何が変わった？ Luna / Terra / Sol の違いと実務での選び方",
+    "link": "https://qiita.com/aktsmm/items/7b92f95325893cb4e5a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-09T19:39:22.000Z"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "2026-07-09T07:17:51.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Copilot Studio の自律型エージェントの作成方法を整理してみた",
-    "link": "https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-09T02:57:04.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "Emacs 31 Is Around the Corner: The Changes I'm Already Daily Driving | Rahul's Blog",
-    "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-    "pubDate": "2026-06-18T23:18:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - kepano/obsidian-skills: Agent skills for Obsidian",
-    "link": "https://github.com/kepano/obsidian-skills",
-    "pubDate": "2026-01-07T00:42:49.000Z"
+    "title": "「Windows 11」には500GBのストレージに関する不具合？　確認方法を紹介",
+    "link": "https://japan.zdnet.com/article/35250320/",
+    "pubDate": "2026-07-08T23:46:18.000Z"
   }
 ]
