@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "アルゴリズムは何を圧縮しているのか ─ Haskell から育った「圧縮代数」というメンタルモデル",
-    "link": "https://speakerdeck.com/naoya/compressed-algebra-with-haskell",
-    "pubDate": "2026-07-12T11:34:51.000Z"
+    "title": "Conwayの法則を\"ちゃんと\"使うために — 原典でConwayは何を言っていたのか",
+    "link": "https://speakerdeck.com/bonotake/scrumsendai2026-conway",
+    "pubDate": "2026-07-12T22:52:22.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Microsoftアカウントをハッキングされ「これまでXBOXで購入したゲームはすべて再購入するように」とサポートから言われたゲーマーが怒りの訴訟＆勝訴",
-    "link": "https://gigazine.net/news/20260712-gamer-wins-legal-battle-hacked-xbox-account/",
-    "pubDate": "2026-07-12T10:41:38.000Z"
+    "title": "はてブのコメントで警告もらった",
+    "link": "https://anond.hatelabo.jp/20260713070220",
+    "pubDate": "2026-07-12T22:13:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "年間3ケタ近く面接するんだが、技術職でも見た目はめちゃくちゃ重要。男性は特に「ふわふわマッシュヘアにダブついたズボン」は本当に面接を通らない",
+    "link": "https://togetter.com/li/2719839",
+    "pubDate": "2026-07-12T17:47:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "[石川温の「スマホ業界 Watch」] ドコモが仕掛ける金融の反転攻勢、脳裏をよぎる“5つの不安”",
+    "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2124380.html",
+    "pubDate": "2026-07-12T15:40:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
+    "link": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it",
+    "pubDate": "2026-07-12T12:13:01.000Z"
   },
   {
     "site": "Hatena",
@@ -25,15 +43,27 @@
   },
   {
     "site": "Qiita",
-    "title": "【PowerShell】5.1 でモダンなフォルダ選択ダイアログを実装する - Qiita",
-    "link": "https://qiita.com/8_hisakichi_8/items/059a1ef74c77c5ac1495",
-    "pubDate": "2026-07-12T10:14:28.000Z"
+    "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
+    "link": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
+    "pubDate": "2026-07-12T08:58:49.000Z"
   },
   {
     "site": "Hatena",
     "title": "IT業界入って分かった、そりゃ衰退するわこんなん",
     "link": "https://anond.hatelabo.jp/20260712172838",
     "pubDate": "2026-07-12T08:44:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
+    "link": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-12T07:15:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ハーネスエンジニアリングとループエンジニアリングの違いとは？ aws aidlc workflow kitから整理する",
+    "link": "https://zenn.dev/tacky_exception/articles/4d77fef5a36e42",
+    "pubDate": "Sun, 12 Jul 2026 05:19:16 GMT"
   },
   {
     "site": "Qiita",
@@ -45,19 +75,19 @@
     "site": "Zenn",
     "title": "情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話",
     "link": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
-    "pubDate": "2026-07-12T02:19:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
-    "link": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel",
-    "pubDate": "2026-07-12T02:12:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話",
-    "link": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
     "pubDate": "Sun, 12 Jul 2026 01:36:49 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "増田に常駐しているレベルの人間の質や集合知よりもAIの方がレベルが高くなってしまっていて増田の存在価値が減っている気がする",
+    "link": "https://anond.hatelabo.jp/20260712100633",
+    "pubDate": "2026-07-12T01:19:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
+    "link": "https://zenn.dev/minipoisson/articles/excel-vba-modern-dev",
+    "pubDate": "Sun, 12 Jul 2026 00:45:44 GMT"
   },
   {
     "site": "Zenn",
@@ -66,10 +96,10 @@
     "pubDate": "Sat, 11 Jul 2026 21:46:59 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "OpenFugu×ローカルLLM群でマルチAI駆動を検証① Multi-Agent System as a Model の再現",
-    "link": "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
-    "pubDate": "Sat, 11 Jul 2026 18:34:18 GMT"
+    "site": "Qiita",
+    "title": "ollama-pythonで文章校正",
+    "link": "https://qiita.com/AzukiImo/items/8aae8d912a016eea7683?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-11T21:33:51.000Z"
   },
   {
     "site": "Zenn",
@@ -91,9 +121,21 @@
   },
   {
     "site": "Qiita",
+    "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
+    "link": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-11T10:39:54.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Azure Durable Functions入門｜非同期処理を「順番・並列・待機」でシンプルに書く方法（Python編）",
     "link": "https://qiita.com/Hinata-H/items/acdc8ed745e44cf9c90f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-11T10:36:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Fable 5 が教えてくれた FastEnum の高速化テクニック (1) - 文字列のハッシュ値生成",
+    "link": "https://zenn.dev/xin9le/articles/6fb2045805996c",
+    "pubDate": "Sat, 11 Jul 2026 09:28:41 GMT"
   },
   {
     "site": "Zenn",
@@ -106,24 +148,6 @@
     "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
     "link": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
     "pubDate": "Sat, 11 Jul 2026 06:32:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIと一緒にCAD設計できるソフト「cad-coworker」",
-    "link": "https://zenn.dev/karaage0703/articles/47299d42de9607",
-    "pubDate": "Sat, 11 Jul 2026 05:28:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
-    "link": "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
-    "pubDate": "Sat, 11 Jul 2026 05:08:43 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS】DevOpsAgentで変革する自動テスト【DevOpsAgent】",
-    "link": "https://qiita.com/Nana_777/items/8e2bba602339e5fc930a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-11T05:04:01.000Z"
   },
   {
     "site": "Qiita",
@@ -145,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "AI BPRにすべて賭けたい",
-    "link": "https://qiita.com/har1101/items/93759be44b8548fa740b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-10T13:30:47.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法",
     "link": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-10T03:34:58.000Z"
@@ -160,23 +178,5 @@
     "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった",
     "link": "https://qiita.com/tatsuya582/items/88508215a8e22b169166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-10T00:58:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人エンジニアが進捗報告のたびに思考停止しちゃう話",
-    "link": "https://qiita.com/prumnn/items/08eddaf8e9e7cec2f390?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-09T08:20:12.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜",
-    "link": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os",
-    "pubDate": "2026-07-07T11:16:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Otty — A fast, modern terminal",
-    "link": "https://otty.sh/",
-    "pubDate": "2026-06-17T05:30:16.000Z"
   }
 ]
