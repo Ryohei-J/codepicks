@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "イスラム過激派組織ボコ・ハラムがAIを使って爆発物の設計や武器の修理を行っていたことが判明",
+    "link": "https://gigazine.net/news/20260713-terrorist-group-use-ai/",
+    "pubDate": "2026-07-13T11:34:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
+    "link": "https://gigazine.net/news/20260713-neo-hands/",
+    "pubDate": "2026-07-13T08:55:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに",
+    "link": "https://gigazine.net/news/20260713-claude-code-consuming-token/",
+    "pubDate": "2026-07-13T08:06:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマホは本当に会話を「盗聴」して広告を出しているのか？　専門調査と最新事例から考える",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2607/13/news073.html",
+    "pubDate": "2026-07-13T08:02:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可　国内AIベンチャーAIdeaLab",
     "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
     "pubDate": "2026-07-13T07:09:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "反AI運動の過激派が行方不明になって大騒動、反AI運動グループで何が起こっているのか？",
+    "link": "https://gigazine.net/news/20260713-war-with-ai/",
+    "pubDate": "2026-07-13T05:12:53.000Z"
   },
   {
     "site": "Qiita",
@@ -24,22 +54,10 @@
     "pubDate": "2026-07-13T00:12:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
-    "link": "https://zenn.dev/minipoisson/articles/excel-vba-modern-dev",
-    "pubDate": "2026-07-12T23:02:39.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "Conwayの法則を\"ちゃんと\"使うために — 原典でConwayは何を言っていたのか",
-    "link": "https://speakerdeck.com/bonotake/scrumsendai2026-conway",
-    "pubDate": "2026-07-12T22:52:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【やじうまミニレビュー】 3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？",
-    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2124461.html",
-    "pubDate": "2026-07-12T22:28:44.000Z"
+    "title": "AI使いすぎるとプロジェクトマネジメント力が低下する｜すぅ | AI駆動PM",
+    "link": "https://note.com/suh_sunaneko/n/n98c16a0479ba",
+    "pubDate": "2026-07-12T23:39:50.000Z"
   },
   {
     "site": "Hatena",
@@ -54,12 +72,6 @@
     "pubDate": "Sun, 12 Jul 2026 18:23:18 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "年間3ケタ近く面接するんだが、技術職でも見た目はめちゃくちゃ重要。男性は特に「ふわふわマッシュヘアにダブついたズボン」は本当に面接を通らない",
-    "link": "https://togetter.com/li/2719839",
-    "pubDate": "2026-07-12T17:47:07.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "開発現場のAIセキュリティを見直す",
     "link": "https://zenn.dev/nenene01/articles/ai-security-2026",
@@ -72,22 +84,28 @@
     "pubDate": "Sun, 12 Jul 2026 13:07:36 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "余ったFire HDでバス到着案内サイネージを自作した",
+    "link": "https://zenn.dev/dehio3/articles/202607_fire-hd-bus-arrival-signage",
+    "pubDate": "2026-07-12T12:57:50.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
     "link": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it",
     "pubDate": "2026-07-12T12:13:01.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） - Qiita",
-    "link": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a",
-    "pubDate": "2026-07-12T08:58:49.000Z"
+    "site": "Zenn",
+    "title": "Goの並列処理を理解する ── Go Memory Modelとsync.Mutex/Onceの内部実装（第4回）",
+    "link": "https://zenn.dev/wakame_atsushi/articles/0c512954a1698b",
+    "pubDate": "Sun, 12 Jul 2026 12:05:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "IT業界入って分かった、そりゃ衰退するわこんなん",
-    "link": "https://anond.hatelabo.jp/20260712172838",
-    "pubDate": "2026-07-12T08:44:38.000Z"
+    "site": "Zenn",
+    "title": "Unityのエディタ拡張から共有メモリに書き込みを行い、ランタイム側で読み込みを行う",
+    "link": "https://zenn.dev/sion_pn/articles/8677bcac5b443e",
+    "pubDate": "Sun, 12 Jul 2026 09:47:48 GMT"
   },
   {
     "site": "Qiita",
@@ -120,10 +138,10 @@
     "pubDate": "Sun, 12 Jul 2026 01:36:49 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "増田に常駐しているレベルの人間の質や集合知よりもAIの方がレベルが高くなってしまっていて増田の存在価値が減っている気がする",
-    "link": "https://anond.hatelabo.jp/20260712100633",
-    "pubDate": "2026-07-12T01:19:44.000Z"
+    "site": "Zenn",
+    "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
+    "link": "https://zenn.dev/minipoisson/articles/excel-vba-modern-dev",
+    "pubDate": "Sun, 12 Jul 2026 00:45:44 GMT"
   },
   {
     "site": "Zenn",
@@ -138,28 +156,10 @@
     "pubDate": "Sat, 11 Jul 2026 13:30:03 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Markdownをpushするだけで社内資料PDFを常に最新に — WIF×Google Driveで鍵レス自動配信",
-    "link": "https://zenn.dev/o2wsu9/articles/36dea065f5d73c",
-    "pubDate": "Sat, 11 Jul 2026 12:31:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
-    "link": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
-    "pubDate": "Sat, 11 Jul 2026 11:11:42 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
     "link": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-11T10:39:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Fable 5 が教えてくれた FastEnum の高速化テクニック (1) - 文字列のハッシュ値生成",
-    "link": "https://zenn.dev/xin9le/articles/6fb2045805996c",
-    "pubDate": "Sat, 11 Jul 2026 09:28:41 GMT"
   },
   {
     "site": "Qiita",
