@@ -1,15 +1,75 @@
 [
   {
     "site": "Hatena",
-    "title": "MySQLのスロークエリを調査して、APIのレスポンスタイムを5分から20秒に改善した話 - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/mysql-order-by-limit-slow-query",
-    "pubDate": "2026-07-14T02:28:05.000Z"
+    "title": "GMO熊谷氏、在宅勤務廃止の理由説明--「タイピング数は確実に減少」「トータルでマイナス」",
+    "link": "https://japan.cnet.com/article/35250558/",
+    "pubDate": "2026-07-14T11:27:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "KFC、全店舗で品切れや臨時休業のおそれ　ネット注文も停止　原因はニチレイへの不正アクセス",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
+    "pubDate": "2026-07-14T10:02:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【続報】音声データ「信ぴょう性乏しい」一転「会話したんでしょう」と認める　記者から「AI生成ではない」と指摘受け　福岡県議会の中尾副議長｜福岡TNCニュース",
+    "link": "https://news.tnc.co.jp/news/articles/NID2026071431230",
+    "pubDate": "2026-07-14T08:23:27.000Z"
   },
   {
     "site": "Zenn",
-    "title": "AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測",
-    "link": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
-    "pubDate": "2026-07-14T01:12:24.000Z"
+    "title": "ローカル LLM を構築した",
+    "link": "https://zenn.dev/neet/articles/11bafab8645995",
+    "pubDate": "Tue, 14 Jul 2026 08:13:16 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "公共のUSBポートに差すのが怖い……そこで充電専用Type-Cケーブル",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2124992.html",
+    "pubDate": "2026-07-14T07:49:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
+    "link": "https://gigazine.net/news/20260714-prepare-for-ai-statement/",
+    "pubDate": "2026-07-14T07:49:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Railsで学ぶ 暗号化とハッシュ 〜master.keyやDeviseは内部で何をしている？〜",
+    "link": "https://qiita.com/akachiryo/items/5a1deaa541d70e11d85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-14T06:07:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ターミナルマルチプレクサを tmux から herdr に移行した | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/herdr-tmux-replacement/",
+    "pubDate": "2026-07-14T05:44:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "孫正義氏「人類が頂点の時代終わる」--AIの自己増殖「止めようと思っても止められない」",
+    "link": "https://japan.cnet.com/article/35250523/",
+    "pubDate": "2026-07-14T03:26:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "バラバラだった staleTime を、データの性質で選ぶ4プリセットに集約した",
+    "link": "https://zenn.dev/dress_code/articles/78ce46997dfe96",
+    "pubDate": "Tue, 14 Jul 2026 03:00:13 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "L.トーバルズ氏、「もはやプログラマーではない」--現在使う2つのツール",
+    "link": "https://japan.zdnet.com/article/35250374/",
+    "pubDate": "2026-07-14T02:40:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeでレガシーシステムの刷新を進めた方法",
+    "link": "https://zenn.dev/knowledgesense/articles/67c61463d9c664",
+    "pubDate": "Tue, 14 Jul 2026 01:04:12 GMT"
   },
   {
     "site": "Hatena",
@@ -18,82 +78,64 @@
     "pubDate": "2026-07-14T01:03:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "空から数千機、24時間365日の攻撃──ウクライナ防空副司令官が語る”安いドローン”の脅威　島国・日本は耐えられるか",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/08/news027.html",
-    "pubDate": "2026-07-14T00:33:48.000Z"
+    "site": "Zenn",
+    "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
+    "link": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
+    "pubDate": "Mon, 13 Jul 2026 23:51:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Blume — fast, AI-ready, markdown-first docs",
-    "link": "https://useblume.dev/",
-    "pubDate": "2026-07-13T22:26:42.000Z"
+    "site": "Zenn",
+    "title": "Agent-as-a-Judgeは本当に必要なのか — 評価にエージェントを使う意味を考える",
+    "link": "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity",
+    "pubDate": "Mon, 13 Jul 2026 22:00:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "数回の練習が数千回分の効果にも──物事の上達スピードを決めるのは練習量より「報酬の大きさ」　マウス実験がScience誌掲載",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/14/news026.html",
-    "pubDate": "2026-07-13T22:13:30.000Z"
+    "site": "Zenn",
+    "title": "OpenClaw で GPT-5.6 Sol/Terra/Luna を使おうとしたらハマったのでまとめておく",
+    "link": "https://zenn.dev/ryu1maniwa25/articles/openclaw-gpt-5-6-sol-terra-luna",
+    "pubDate": "Mon, 13 Jul 2026 17:46:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2124799.html",
-    "pubDate": "2026-07-13T21:16:21.000Z"
+    "site": "Qiita",
+    "title": "OCI の Cohere Embed 4 のミックスモーダル埋め込みの威力を試してみた！",
+    "link": "https://qiita.com/yuji-arakawa/items/a41759c419b51c83c567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-13T16:12:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "[AWS Summit Japan 2026] Amazon ECS 最新デプロイパターン Deep Dive",
-    "link": "https://speakerdeck.com/kenicazu/aws-summit-japan-2026-ecs-deploy-pattern-dive-deep",
-    "pubDate": "2026-07-13T14:30:40.000Z"
+    "site": "Zenn",
+    "title": "SRE NEXT 2026 コアスタッフ体験記(NOCチーム統括)",
+    "link": "https://zenn.dev/shinkolab/articles/3ea04444acd41c",
+    "pubDate": "Mon, 13 Jul 2026 16:05:22 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "densha — study Japanese in a living voxel Tokyo",
-    "link": "https://jivx.com/densha",
-    "pubDate": "2026-07-13T13:08:53.000Z"
+    "site": "Zenn",
+    "title": "ナベアツゼータ関数入門",
+    "link": "https://zenn.dev/akira5kitaoka/articles/nabeatsu_zeta",
+    "pubDate": "Mon, 13 Jul 2026 14:03:31 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "SRE NEXT 2026 発表資料まとめ - SRE NEXT Staff Blog",
-    "link": "https://blog.sre-next.dev/entry/2026/07/13/173953",
-    "pubDate": "2026-07-13T10:19:38.000Z"
+    "site": "Zenn",
+    "title": "ドメイン駆動設計を実装に落とし込むための設計方針",
+    "link": "https://zenn.dev/shotaro_tsuji/articles/09a99625fba620",
+    "pubDate": "Mon, 13 Jul 2026 13:59:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "9 意図に絞ったら 38MB で足りた — 30M のモデルをゼロから学習した実測",
+    "link": "https://zenn.dev/fandhe/articles/2bbd96138b8d3b",
+    "pubDate": "Mon, 13 Jul 2026 11:36:15 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ECS と Kubernetes の違いを多方面から徹底比較",
+    "link": "https://qiita.com/keitah/items/b35fc1c3b0dd8f6d7052?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-13T11:18:04.000Z"
   },
   {
     "site": "Qiita",
     "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
     "link": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-13T09:23:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測",
-    "link": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
-    "pubDate": "Mon, 13 Jul 2026 07:27:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【スクフェス仙台2026】初参加の初登壇でQAが「AIにやらせないこと」を話してきた",
-    "link": "https://zenn.dev/nexta_/articles/4319a84dece1ba",
-    "pubDate": "Mon, 13 Jul 2026 02:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SRE NEXT 2026に登壇・参加してきました",
-    "link": "https://zenn.dev/loglass/articles/2dcd7ad5ef0be7",
-    "pubDate": "Mon, 13 Jul 2026 01:32:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Critを導入したらコーディングAIへのフィードバックがとても楽になった",
-    "link": "https://zenn.dev/tenkei/articles/5ba5c993dfb8d6",
-    "pubDate": "Mon, 13 Jul 2026 01:24:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【今更きけないCodex】2026年7月アップデート版：ChatGPTデスクトップで最初に見るべき機能と使う順番",
-    "link": "https://qiita.com/TMiyamoto/items/6bd89423d5b38916e48d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-13T01:01:17.000Z"
   },
   {
     "site": "Qiita",
@@ -114,34 +156,10 @@
     "pubDate": "2026-07-13T00:12:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Cursorに「不要なブランチを整理して」と頼んだら、Dドライブが消えた話",
-    "link": "https://zenn.dev/iwaken71/articles/cursor-agent-d-drive-deleted",
-    "pubDate": "Sun, 12 Jul 2026 18:23:18 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI時代でもアウトプットが大切な理由",
-    "link": "https://qiita.com/Kensuke_Shibata/items/85e02fdc55e45ae02cc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-12T14:40:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発現場のAIセキュリティを見直す",
-    "link": "https://zenn.dev/nenene01/articles/ai-security-2026",
-    "pubDate": "Sun, 12 Jul 2026 14:13:10 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
     "link": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-12T07:15:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ハーネスエンジニアリングとループエンジニアリングの違いとは？ aws aidlc workflow kitから整理する",
-    "link": "https://zenn.dev/tacky_exception/articles/4d77fef5a36e42",
-    "pubDate": "Sun, 12 Jul 2026 05:19:16 GMT"
   },
   {
     "site": "Qiita",
@@ -150,33 +168,15 @@
     "pubDate": "2026-07-12T03:19:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話",
-    "link": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
-    "pubDate": "Sun, 12 Jul 2026 01:36:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Excel/VBAとモダン開発のあいだ ─ 2026年に相次いだ XLIDE・xlflow・xlsm_devkit",
-    "link": "https://zenn.dev/minipoisson/articles/excel-vba-modern-dev",
-    "pubDate": "Sun, 12 Jul 2026 00:45:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rust + Tauri で古い Mac 風のシステムモニタを作ってみた",
-    "link": "https://zenn.dev/m2lab/articles/rust-tauri-sysgauge",
-    "pubDate": "Sat, 11 Jul 2026 21:46:59 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
     "link": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-11T10:39:54.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AWS MCP Serverが普通に使えるようになったよ！",
-    "link": "https://qiita.com/moritalous/items/6102ef63dc60c7e6ee3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-10T22:19:30.000Z"
+    "site": "Hatena",
+    "title": "「舐められない人」になるための5つの技術｜もとやま",
+    "link": "https://note.com/yusuke_motoyama/n/nb141e431bc2f",
+    "pubDate": "2026-04-26T09:50:28.000Z"
   }
 ]
