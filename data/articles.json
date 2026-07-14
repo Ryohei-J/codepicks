@@ -1,9 +1,15 @@
 [
   {
+    "site": "Zenn",
+    "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
+    "link": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
+    "pubDate": "2026-07-14T00:27:13.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "ニチレイ、不正アクセスでシステム障害　冷凍食品の出荷業務に影響 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC1383Z0T10C26A7000000/",
-    "pubDate": "2026-07-13T15:31:55.000Z"
+    "title": "Blume — fast, AI-ready, markdown-first docs",
+    "link": "https://useblume.dev/",
+    "pubDate": "2026-07-13T22:26:42.000Z"
   },
   {
     "site": "Hatena",
@@ -13,39 +19,69 @@
   },
   {
     "site": "Hatena",
-    "title": "クロスドメイン ログインをデフラグする  |  web.dev",
-    "link": "https://web.dev/articles/cross-domain-logins?hl=ja",
-    "pubDate": "2026-07-13T14:24:15.000Z"
+    "title": "[AWS Summit Japan 2026] Amazon ECS 最新デプロイパターン Deep Dive",
+    "link": "https://speakerdeck.com/kenicazu/aws-summit-japan-2026-ecs-deploy-pattern-dive-deep",
+    "pubDate": "2026-07-13T14:30:40.000Z"
   },
   {
     "site": "Hatena",
-    "title": "DMM.com 購入改善推進チーム におけるCodeRabbitを用いた レビューフロー改善の一例",
-    "link": "https://speakerdeck.com/ysknsid25/dmm-dot-com-gou-ru-gai-shan-tui-jin-timu-niokerucoderabbitwoyong-ita-rebiyuhurogai-shan-no-li",
-    "pubDate": "2026-07-13T11:02:35.000Z"
+    "title": "AI駆動開発_ワークフロー設計",
+    "link": "https://speakerdeck.com/mae616/aiqu-dong-kai-fa-wakuhuroshe-ji",
+    "pubDate": "2026-07-13T13:45:10.000Z"
   },
   {
     "site": "Hatena",
-    "title": "スマホは本当に会話を「盗聴」して広告を出しているのか？　専門調査と最新事例から考える",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2607/13/news073.html",
-    "pubDate": "2026-07-13T08:02:58.000Z"
+    "title": "densha — study Japanese in a living voxel Tokyo",
+    "link": "https://jivx.com/densha",
+    "pubDate": "2026-07-13T13:08:53.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「声の権利」国が指針明記へ　AIで無断生成が横行 | NEWSjp",
-    "link": "https://news.jp/i/1449297478715949466?c=39550187727945729",
-    "pubDate": "2026-07-13T07:23:10.000Z"
+    "title": "QWERTY物理キーボード搭載の電子ペーパーPDA「PocketMage」登場！電池7日持ち3万円から - すまほん!!",
+    "link": "https://smhn.info/202607-pocketmage-epaper-pda-crowdfunding-launch-30000-yen",
+    "pubDate": "2026-07-13T12:45:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "アニメ特化動画生成AI「AnimeGen」無償公開、商用利用も可　国内AIベンチャーAIdeaLab",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2607/13/2000000187/",
-    "pubDate": "2026-07-13T07:09:42.000Z"
+    "title": "ニチレイに不正アクセス、冷凍食品の出荷に支障　システムに障害",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/13/news128.html",
+    "pubDate": "2026-07-13T11:04:17.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ - JX通信社エンジニアブログ",
-    "link": "https://tech.jxpress.net/entry/2026/07/13/113000",
-    "pubDate": "2026-07-13T04:15:10.000Z"
+    "title": "SRE NEXT 2026 発表資料まとめ - SRE NEXT Staff Blog",
+    "link": "https://blog.sre-next.dev/entry/2026/07/13/173953",
+    "pubDate": "2026-07-13T10:19:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
+    "link": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-13T09:23:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測",
+    "link": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
+    "pubDate": "Mon, 13 Jul 2026 07:27:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【スクフェス仙台2026】初参加の初登壇でQAが「AIにやらせないこと」を話してきた",
+    "link": "https://zenn.dev/nexta_/articles/4319a84dece1ba",
+    "pubDate": "Mon, 13 Jul 2026 02:30:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SRE NEXT 2026に登壇・参加してきました",
+    "link": "https://zenn.dev/loglass/articles/2dcd7ad5ef0be7",
+    "pubDate": "Mon, 13 Jul 2026 01:32:56 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Critを導入したらコーディングAIへのフィードバックがとても楽になった",
+    "link": "https://zenn.dev/tenkei/articles/5ba5c993dfb8d6",
+    "pubDate": "Mon, 13 Jul 2026 01:24:05 GMT"
   },
   {
     "site": "Qiita",
@@ -58,6 +94,12 @@
     "title": "あなたの技術ブログの「AI臭さ」を抜くスキル公開します",
     "link": "https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-13T00:56:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "きのこカンファレンス2026に参加したら40歳以上でも学びがあった",
+    "link": "https://qiita.com/yujittttttt/items/8aede7a08d77924c76d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-13T00:52:49.000Z"
   },
   {
     "site": "Qiita",
@@ -78,40 +120,16 @@
     "pubDate": "Sun, 12 Jul 2026 18:23:18 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "AI時代でもアウトプットが大切な理由",
+    "link": "https://qiita.com/Kensuke_Shibata/items/85e02fdc55e45ae02cc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-12T14:40:17.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "開発現場のAIセキュリティを見直す",
     "link": "https://zenn.dev/nenene01/articles/ai-security-2026",
     "pubDate": "Sun, 12 Jul 2026 14:13:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "オンチェーン金融って、結局なんだろう──政府の構想から考える",
-    "link": "https://zenn.dev/komlock_lab/articles/what-is-onchain-finance-2026",
-    "pubDate": "Sun, 12 Jul 2026 13:07:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "余ったFire HDでバス到着案内サイネージを自作した",
-    "link": "https://zenn.dev/dehio3/articles/202607_fire-hd-bus-arrival-signage",
-    "pubDate": "2026-07-12T12:57:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Goの並列処理を理解する ── Go Memory Modelとsync.Mutex/Onceの内部実装（第4回）",
-    "link": "https://zenn.dev/wakame_atsushi/articles/0c512954a1698b",
-    "pubDate": "Sun, 12 Jul 2026 12:05:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Unityのエディタ拡張から共有メモリに書き込みを行い、ランタイム側で読み込みを行う",
-    "link": "https://zenn.dev/sion_pn/articles/8677bcac5b443e",
-    "pubDate": "Sun, 12 Jul 2026 09:47:48 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成AIセキュリティ入門：企業で起きるリスクと重大インシデント",
-    "link": "https://qiita.com/n-okutomi/items/2ee94d9138f7184aa5c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-12T08:30:38.000Z"
   },
   {
     "site": "Qiita",
@@ -150,12 +168,6 @@
     "pubDate": "Sat, 11 Jul 2026 21:46:59 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Cloudflare Registrar + R2 で個人開発アプリの公開基盤を構築した記録",
-    "link": "https://zenn.dev/unsoluble_sugar/articles/a6fb2c3efd5a66",
-    "pubDate": "Sat, 11 Jul 2026 13:30:03 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
     "link": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Unity 6.7 の CoreCLR Player が爆速しすぎて笑ってしまった件",
-    "link": "https://qiita.com/hez2010/items/4c608360c73fc6293bf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-11T02:24:51.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AWS MCP Serverが普通に使えるようになったよ！",
     "link": "https://qiita.com/moritalous/items/6102ef63dc60c7e6ee3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-10T22:19:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "攻撃者はブラウザを開いて最初の5分で何を見るのか〜バグバウンティで認可不備（P1/P2）を報告してきた視点で書く、フロントエンドの実装防御ガイド〜",
-    "link": "https://qiita.com/sei_official/items/3ce11ea5faed795d47fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-10T17:52:27.000Z"
   }
 ]
