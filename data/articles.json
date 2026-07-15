@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "NVIDIAのジェンスン・フアンCEOが東京・秋葉原でセガとの協業を発表　セガのゲームタイトルが「RTX Spark」に順次登場！　",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2607/15/news125.html",
+    "pubDate": "2026-07-15T11:53:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "boketeアプリ サービス終了のお知らせ",
+    "link": "https://bokete-photo.blogspot.com/2026/07/arigato.html",
+    "pubDate": "2026-07-15T10:16:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "冷凍食品大手「ニチレイ」サイバー攻撃を受けたと公表 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015177751000",
+    "pubDate": "2026-07-15T09:34:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "多層防御 vs 最先端のサプライチェーン攻撃 ―― freee の大規模障害訓練の舞台裏 - freee Developers Hub",
+    "link": "https://developers.freee.co.jp/entry/redteam-exercise-2026",
+    "pubDate": "2026-07-15T08:30:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「POPOPO」サービス終了へ　提供開始から半年で",
     "link": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html",
     "pubDate": "2026-07-15T06:27:33.000Z"
@@ -12,16 +36,22 @@
     "pubDate": "2026-07-15T06:24:31.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "# Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜",
+    "link": "https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-15T05:11:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカル LLM を構築した",
+    "link": "https://zenn.dev/neet/articles/11bafab8645995",
+    "pubDate": "2026-07-15T04:15:17.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「くねくね、八尺様」のようなネット怪談が生まれなくなった理由を、民俗学者と振り返る【廣田龍平】 - レバテックLAB",
     "link": "https://levtech.jp/media/detail_892/",
     "pubDate": "2026-07-15T01:58:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「バズるほど赤字だった」──野田クリスタルのAIペットカードゲーム、公開停止からの復活劇を本人に聞いた",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000191/",
-    "pubDate": "2026-07-15T01:41:58.000Z"
   },
   {
     "site": "Hatena",
@@ -31,39 +61,51 @@
   },
   {
     "site": "Hatena",
-    "title": "手離れするインフラ設計を考える - /var/www/yatta47.log",
-    "link": "https://yatta47.hateblo.jp/entry/2026/03/20/221447",
-    "pubDate": "2026-07-15T01:23:31.000Z"
+    "title": "デロイトが国に納品したスライド351枚、全部数えたらパターンは7つだけだった｜うちた",
+    "link": "https://note.com/uchita_success/n/n030ad63765d3",
+    "pubDate": "2026-07-15T01:04:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「査読前論文は信用できない」はどこまで本当か？　査読前後での内容の変化、7万件の分析結果は",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
-    "pubDate": "2026-07-14T22:58:11.000Z"
+    "site": "Qiita",
+    "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
+    "link": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-15T00:07:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「スマホの普及によるAIの進歩の弊害」「描かれた人々はまさにドパガキ」まさに予言書の如きディストピア小説の傑作「華氏451度」は今読むとブラッドベリの凄さを思い知る",
-    "link": "https://togetter.com/li/2720620",
-    "pubDate": "2026-07-14T22:36:38.000Z"
+    "site": "Qiita",
+    "title": "コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト",
+    "link": "https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-14T23:29:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIへの指示力とは「\"未知\"を言語化する力」だった ―― Anthropicのブログを読んで",
+    "link": "https://qiita.com/jinxin4869/items/1ee0282bd44b0376f8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-14T14:58:39.000Z"
   },
   {
     "site": "Zenn",
-    "title": "非エンジニアが自作アプリを社内にデプロイできる基盤を作った話",
-    "link": "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
-    "pubDate": "2026-07-14T11:14:47.000Z"
+    "title": "Claude CodeのstatusLineのすゝめ-コンテキスト残量とレートリミットを1画面で把握する",
+    "link": "https://zenn.dev/zozotech/articles/cb767af383bc78",
+    "pubDate": "Tue, 14 Jul 2026 14:20:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "一人前のエンジニアなら、PRでコメントをもらうな。",
+    "link": "https://zenn.dev/headwaters/articles/72c39ad735038d",
+    "pubDate": "Tue, 14 Jul 2026 13:17:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Desktop に追加されたブラウザ機能は、Playwright の代わりになりえるか",
+    "link": "https://zenn.dev/marvelousu/articles/claude-browser-pane-review",
+    "pubDate": "Tue, 14 Jul 2026 11:11:15 GMT"
   },
   {
     "site": "Zenn",
     "title": "夏休みが始まる前に知っておきたい、Reactエンジニアに優しくなったモバイルアプリ開発の世界",
     "link": "https://zenn.dev/cybozu_frontend/articles/rn-devmap-in-2026",
     "pubDate": "Tue, 14 Jul 2026 10:00:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "herdr を活用した Codex とのオーケストレーション用 Claude Code Plugin を作ってみた",
-    "link": "https://zenn.dev/genda_jp/articles/46745564b7a9dd",
-    "pubDate": "Tue, 14 Jul 2026 09:42:25 GMT"
   },
   {
     "site": "Qiita",
@@ -84,22 +126,10 @@
     "pubDate": "Tue, 14 Jul 2026 08:13:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Markdownからドキュメントサイトを構築、Astro/ViteベースのOSS「Blume」v1が公開 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/07/blume",
-    "pubDate": "2026-07-14T08:09:32.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Railsで学ぶ 暗号化とハッシュ 〜master.keyやDeviseは内部で何をしている？〜",
     "link": "https://qiita.com/akachiryo/items/5a1deaa541d70e11d85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-14T06:07:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "NotebookLMが作成したスライドを編集可能なスライドにする方法の検証",
-    "link": "https://zenn.dev/hirata_infosys/articles/81bc35da78fa1d",
-    "pubDate": "Tue, 14 Jul 2026 05:15:25 GMT"
   },
   {
     "site": "Zenn",
@@ -114,12 +144,6 @@
     "pubDate": "Mon, 13 Jul 2026 23:51:06 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Amazon S3上の大量ログを Autonomous AI Lakehouseで分析する：外部表、Parquet、SQL、Vector Search、RAGの使い分け",
-    "link": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-13T22:59:11.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIにルールファイルを数ヶ月自動更新させ続けたら、ルールは\"良く\"育ったのか",
     "link": "https://zenn.dev/r_kaga/articles/c9fcb75f1ff284",
@@ -127,33 +151,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Agent-as-a-Judgeは本当に必要なのか — 評価にエージェントを使う意味を考える",
-    "link": "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity",
+    "title": "調査用スキルを作ってみた",
+    "link": "https://zenn.dev/tokium_dev/articles/building-a-research-skill",
     "pubDate": "Mon, 13 Jul 2026 22:00:16 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "OCI の Cohere Embed 4 のミックスモーダル埋め込みの威力を試してみた！",
-    "link": "https://qiita.com/yuji-arakawa/items/a41759c419b51c83c567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-13T16:12:38.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "ドメイン駆動設計を実装に落とし込むための設計方針",
-    "link": "https://zenn.dev/shotaro_tsuji/articles/09a99625fba620",
-    "pubDate": "Mon, 13 Jul 2026 13:59:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ECS と Kubernetes の違いを多方面から徹底比較",
-    "link": "https://qiita.com/keitah/items/b35fc1c3b0dd8f6d7052?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-13T11:18:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "コミット履歴は`git log --graph --oneline --decorate --all`で十分 — 読み方のポイントを解説する",
-    "link": "https://zenn.dev/ma_sa_shi/articles/9b140537cadd7e",
-    "pubDate": "Mon, 13 Jul 2026 10:04:55 GMT"
+    "title": "Agent-as-a-Judgeは本当に必要なのか — 評価にエージェントを使う意味を考える",
+    "link": "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity",
+    "pubDate": "Mon, 13 Jul 2026 22:00:16 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい",
     "link": "https://qiita.com/kuma_3838/items/14df505c7023f665c585?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-13T00:12:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
-    "link": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-12T07:15:00.000Z"
   }
 ]
