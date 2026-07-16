@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "CloudFront VPCオリジン障害をInter-Region VPCピアリングで迂回してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/cloudfront-vpc-origin-failure-inter-region-vpc-peering-bypass/",
+    "pubDate": "2026-07-16T12:28:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Ankerの充電器・モバイルバッテリーは信用できるのか？→× Ankerは信頼性がない ○ 信用はしていないが現状Anker以上に信用できるメーカーが存在しない ◎ 市役所の地図記号",
+    "link": "https://togetter.com/li/2721244",
+    "pubDate": "2026-07-16T10:45:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "夏ボーナス初の100万円超え、AI追い風に5年連続最高　日経最終集計 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC102D30Q6A710C2000000/",
+    "pubDate": "2026-07-16T09:38:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AWSで障害　「CloudFront」世界規模で不調　PayPayに影響　noteやニコニコ生放送もつながりにくく",
     "link": "https://www.itmedia.co.jp/news/articles/2607/16/news096.html",
     "pubDate": "2026-07-16T09:10:39.000Z"
@@ -42,18 +60,6 @@
     "pubDate": "Thu, 16 Jul 2026 02:38:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIによる工数削減を計測して見えた結果と考察 - ZOZO TECH BLOG",
-    "link": "https://techblog.zozo.com/entry/rethinking-ai",
-    "pubDate": "2026-07-16T02:08:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "クレカ障害、全国で発生か　「カード払いできない」報告多数【復旧】",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news064.html",
-    "pubDate": "2026-07-16T01:40:40.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【衝撃】GPT-5.6のReact習熟度を測った結果……",
     "link": "https://zenn.dev/uhyo/articles/react-profession-bench-11",
@@ -78,22 +84,10 @@
     "pubDate": "Wed, 15 Jul 2026 22:25:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "最近やたらと「壁打ち」って言葉を使いたがる自信過剰気味の若手がいるけど、「相手に意見を求める場合」に使うのは極めて失礼→「壁打ち」の用法をめぐり意見さまざま",
-    "link": "https://togetter.com/li/2721001",
-    "pubDate": "2026-07-15T21:09:51.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Googleの時系列基盤モデル TimesFMについて理解する",
     "link": "https://zenn.dev/fusic/articles/196bcd22676d97",
     "pubDate": "Wed, 15 Jul 2026 16:52:44 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIで資料作成を終わらす、プロンプト＋パワポ420点｜うちた",
-    "link": "https://note.com/uchita_success/n/n5db702b25061",
-    "pubDate": "2026-07-15T14:15:30.000Z"
   },
   {
     "site": "Zenn",
@@ -118,6 +112,12 @@
     "title": "雑に作る→ラディカルなリファクタリングを行う",
     "link": "https://zenn.dev/acomagu/articles/9744fc2a605528",
     "pubDate": "Wed, 15 Jul 2026 10:00:49 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグルにまた訴訟、「Gemini」の著作権侵害で　大手出版社らが「無断利用」に怒り",
+    "link": "https://japan.cnet.com/article/35250597/",
+    "pubDate": "2026-07-15T09:27:22.000Z"
   },
   {
     "site": "Zenn",
