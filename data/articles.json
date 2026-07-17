@@ -1,39 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "Not Found",
+    "link": "https://anond.hatelabo.jp/20260717130259",
+    "pubDate": "2026-07-17T04:21:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ルーターに挿す約320円の広告ブロッカー、13万ドメインをRAM40KBで判定 - FabScene（ファブシーン）",
+    "link": "https://fabscene.com/new/make/esp32-c3-dns-adblock-hash-in-flash/",
+    "pubDate": "2026-07-17T02:48:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "現代が直面している、AIがめっちゃ物理資源を使う問題、従来のSFにはなかった斬新な設定すぎる→『マトリックス』『順列都市』など、資源の取り合いを描いた作品もある",
+    "link": "https://togetter.com/li/2721471",
+    "pubDate": "2026-07-17T02:34:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
+    "pubDate": "2026-07-17T02:05:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "キオクシア株、一時ストップ安　上場来高値から半値以下に",
     "link": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
     "pubDate": "2026-07-17T01:39:56.000Z"
   },
   {
     "site": "Hatena",
+    "title": "GETでもPOSTでもない　HTTP新メソッド「QUERY」が標準化へ",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news049.html",
+    "pubDate": "2026-07-16T23:48:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GMOの在宅勤務廃止は間違っていない？　ワサビのインシデントから考える企業防衛",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news039.html",
+    "pubDate": "2026-07-16T23:07:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "なぜAI臭さを消したいのか？｜laiso",
     "link": "https://sizu.me/laiso/posts/mcerekex7091",
     "pubDate": "2026-07-16T22:33:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "一部ベンチでFable 5超え、2.8兆パラメータの「Kimi K3」正式発表",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2125917.html",
-    "pubDate": "2026-07-16T17:04:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。",
-    "link": "https://github.com/interfacex-co-jp/genshijin",
-    "pubDate": "2026-07-16T15:34:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任",
-    "link": "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
-    "pubDate": "2026-07-16T12:28:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Appleの製品保証サービス「AppleCare＋」が値上げされるとの報道",
-    "link": "https://gigazine.net/news/20260716-apple-boosts-applecare-plus-prices/",
-    "pubDate": "2026-07-16T11:49:07.000Z"
   },
   {
     "site": "Hatena",
@@ -76,12 +88,6 @@
     "title": "非同期パーソナルエージェントのススメ",
     "link": "https://zenn.dev/mkj/articles/7a8f55591e6baf",
     "pubDate": "Thu, 16 Jul 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法",
-    "link": "https://zenn.dev/sonicmoov/articles/8712598f532b18",
-    "pubDate": "2026-07-16T02:38:31.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "エンジニアが知っておくべきIPアドレスの話",
     "link": "https://qiita.com/AkiraTakasaki/items/cd426dbd97a66dea11cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-14T03:09:03.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Prompting guidance for GPT-5.6 Sol | OpenAI API",
-    "link": "https://developers.openai.com/api/docs/guides/prompt-guidance-gpt-5p6",
-    "pubDate": "2026-07-11T03:01:25.000Z"
   }
 ]
