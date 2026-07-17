@@ -1,27 +1,57 @@
 [
   {
+    "site": "Zenn",
+    "title": "サクッと始めるAIワークフロー構築【Jinba】",
+    "link": "https://zenn.dev/umi_mori/books/ai-workflow-jinba",
+    "pubDate": "Fri, 17 Jul 2026 09:23:55 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "Not Found",
-    "link": "https://anond.hatelabo.jp/20260717130259",
-    "pubDate": "2026-07-17T04:21:23.000Z"
+    "title": "「チョンセとかいう狂った家賃システム」韓国株の急落で、若者が住む家を失う事態にまでなっていた…金融委員会はレバレッジETFの規制を強化する予定",
+    "link": "https://togetter.com/li/2721526",
+    "pubDate": "2026-07-17T08:39:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "戦場投入のロシア兵、生存時間はわずか20～30分か　アメリカCIAが分析　ウクライナAIドローン進化で｜FNNプライムオンライン",
+    "link": "https://www.fnn.jp/articles/-/1076813",
+    "pubDate": "2026-07-17T06:51:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ウクライナの国防相フェドロフが汚職だと！？",
+    "link": "https://anond.hatelabo.jp/20260717154424",
+    "pubDate": "2026-07-17T06:44:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
+    "link": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
+    "pubDate": "2026-07-17T06:06:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Obsidianをよりわかりやすく。視覚化プラグイン活用術 | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2607-obsidian-plugins-visualize-notes/",
+    "pubDate": "2026-07-17T05:57:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
+    "link": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
+    "pubDate": "Fri, 17 Jul 2026 05:56:17 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "かわんご氏「POPOPOに私財30億円突っ込んだ」が、それでも「ケチってしまった」と反省",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/17/news073.html",
+    "pubDate": "2026-07-17T03:02:55.000Z"
   },
   {
     "site": "Hatena",
     "title": "ルーターに挿す約320円の広告ブロッカー、13万ドメインをRAM40KBで判定 - FabScene（ファブシーン）",
     "link": "https://fabscene.com/new/make/esp32-c3-dns-adblock-hash-in-flash/",
     "pubDate": "2026-07-17T02:48:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "現代が直面している、AIがめっちゃ物理資源を使う問題、従来のSFにはなかった斬新な設定すぎる→『マトリックス』『順列都市』など、資源の取り合いを描いた作品もある",
-    "link": "https://togetter.com/li/2721471",
-    "pubDate": "2026-07-17T02:34:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
-    "pubDate": "2026-07-17T02:05:58.000Z"
   },
   {
     "site": "Hatena",
@@ -36,10 +66,10 @@
     "pubDate": "2026-07-16T23:48:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GMOの在宅勤務廃止は間違っていない？　ワサビのインシデントから考える企業防衛",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news039.html",
-    "pubDate": "2026-07-16T23:07:38.000Z"
+    "site": "Zenn",
+    "title": "\"LLMに「読み進められる説明文」を書かせる設計：cognitive-rhythm-writingの構造を読む\"",
+    "link": "https://zenn.dev/nobmake/articles/394d8b42da48a1",
+    "pubDate": "Thu, 16 Jul 2026 22:38:53 GMT"
   },
   {
     "site": "Hatena",
@@ -48,10 +78,28 @@
     "pubDate": "2026-07-16T22:33:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "JavaScriptの日付処理が変わる！ DateからTemporalへ - ICS MEDIA",
-    "link": "https://ics.media/entry/260715/",
-    "pubDate": "2026-07-16T09:45:14.000Z"
+    "site": "Zenn",
+    "title": "CloudFront VPC Originsとは何だったのか？ 障害から学ぶ「便利機能」の裏側",
+    "link": "https://zenn.dev/kamegoro/articles/aws-cloudfront-vpc-origins-outage-20260716",
+    "pubDate": "Thu, 16 Jul 2026 16:37:57 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ログイン成功率を上げるためのパスキー設計・実装",
+    "link": "https://qiita.com/rio-song/items/f60b7045c4cba9cc225b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-16T15:31:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "頂上決戦！　effort=max同士の対決でGPT-5.6はClaudeに勝てるのか（React習熟度ベンチマーク）",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-12",
+    "pubDate": "Thu, 16 Jul 2026 15:02:58 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SwiftだけでWebをつくって、運用する",
+    "link": "https://zenn.dev/1amageek/articles/swift-web-fullstack",
+    "pubDate": "Thu, 16 Jul 2026 12:20:27 GMT"
   },
   {
     "site": "Qiita",
@@ -62,7 +110,7 @@
   {
     "site": "Qiita",
     "title": "面接相手に「未来」を想像させる。未経験でも信用される伝え方",
-    "link": "https://qiita.com/prum_sumomo/items/c1a219a3156a4214828d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "link": "https://qiita.com/sumomoo/items/c1a219a3156a4214828d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-16T08:02:11.000Z"
   },
   {
@@ -70,36 +118,6 @@
     "title": "Claude Code の Plan モードをループエンジニアリングで楽にする",
     "link": "https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop",
     "pubDate": "Thu, 16 Jul 2026 07:40:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SQL MCP Server が GA したらしい",
-    "link": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
-    "pubDate": "Thu, 16 Jul 2026 04:43:35 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "緊急地震速報の音はなぜ「ギュイッ」と3回鳴る？眠っていても脳を覚醒させる1秒未満の音、その知られざる設計原理 環境音楽家・小久保隆氏に聞く | JBpress (ジェイビープレス)",
-    "link": "https://jbpress.ismedia.jp/articles/-/95949",
-    "pubDate": "2026-07-16T03:28:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "非同期パーソナルエージェントのススメ",
-    "link": "https://zenn.dev/mkj/articles/7a8f55591e6baf",
-    "pubDate": "Thu, 16 Jul 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GoMLX による Go 単独での手書き数字分類 ― 学習から推論まで Python を用いない実装",
-    "link": "https://zenn.dev/c6h1ocao6/articles/7e41873f3a9668",
-    "pubDate": "Thu, 16 Jul 2026 02:38:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI もデータ基盤のユーザーになる時代の、BigQuery コストとの向き合い方",
-    "link": "https://zenn.dev/linda/articles/1f48bad4d84747",
-    "pubDate": "Thu, 16 Jul 2026 01:00:09 GMT"
   },
   {
     "site": "Zenn",
@@ -120,34 +138,28 @@
     "pubDate": "2026-07-15T23:39:44.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AIから事実を、本から考えを学ぶ。『本を読む人はうまくいく』を読んだ",
-    "link": "https://qiita.com/kuma_3838/items/7d73ee9456dcec649580?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-15T23:39:33.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "検索の5年前と、今と、これから考えること",
     "link": "https://zenn.dev/rejasupotaro/articles/c55722ca8aa2ca",
     "pubDate": "Wed, 15 Jul 2026 22:25:21 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "RunCat Neo カスタムメトリクス入門",
-    "link": "https://zenn.dev/kyome/articles/eb4a9f664002ad",
-    "pubDate": "Wed, 15 Jul 2026 09:00:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法",
-    "link": "https://zenn.dev/sonicmoov/articles/8712598f532b18",
-    "pubDate": "Wed, 15 Jul 2026 09:00:13 GMT"
+    "site": "Qiita",
+    "title": "コピペ最強｜UiverseのUI素材でプログラミング初心者の悩みが即解決した話",
+    "link": "https://qiita.com/prumnn/items/7bd599311fd75227101f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-15T08:13:40.000Z"
   },
   {
     "site": "Qiita",
     "title": "AI人材は２つに分かれる。あなたが目指すべきはどっち？",
-    "link": "https://qiita.com/prum_sumomo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "link": "https://qiita.com/sumomoo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-15T07:47:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ぷよぷよプログラミング体験談",
+    "link": "https://qiita.com/sakurada110/items/34a4486f6ab1b15211a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-15T03:00:09.000Z"
   },
   {
     "site": "Qiita",
@@ -157,26 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト",
-    "link": "https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-14T23:29:02.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話",
     "link": "https://qiita.com/archeleeds/items/2efad73069b54288deb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-14T14:48:59.000Z"
   },
   {
     "site": "Qiita",
-    "title": "エラー対応理由考えてる？コピペしてAIに聞いてるでしょ",
-    "link": "https://qiita.com/prum_sumomo/items/535a697aeaea41515de9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-14T09:00:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エンジニアが知っておくべきIPアドレスの話",
-    "link": "https://qiita.com/AkiraTakasaki/items/cd426dbd97a66dea11cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-14T03:09:03.000Z"
+    "title": "Amazon S3 Vectors で「月額ほぼゼロの RAG」を作ってみた",
+    "link": "https://qiita.com/musa_rock/items/d90580d5cbcb8215d6f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-14T13:26:36.000Z"
   }
 ]
