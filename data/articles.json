@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "T.M.Revolutionの「THE FIRST TAKE」への口パク疑惑に対してガチ勢がそうではないと解説…技術的な話が集まる",
-    "link": "https://togetter.com/li/2721638",
-    "pubDate": "2026-07-17T12:44:41.000Z"
+    "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
+    "pubDate": "2026-07-17T22:50:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "中国AI・Kimiの衝撃、米専門家「アンソロピック最新型と僅差」 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
+    "pubDate": "2026-07-17T22:45:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アップル、iPhoneを一斉値上げ　Watch・AirPodsも",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
+    "pubDate": "2026-07-17T17:27:34.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIエージェントのためのDocker Sandboxes実践入門 - Qiita",
+    "link": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848",
+    "pubDate": "2026-07-17T12:24:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘",
+    "link": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
+    "pubDate": "2026-07-17T12:21:56.000Z"
   },
   {
     "site": "Hatena",
@@ -19,33 +43,21 @@
   },
   {
     "site": "Hatena",
-    "title": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson - FabScene（ファブシーン）",
-    "link": "https://fabscene.com/new/pr/escalator-lidar-recomputer-jetson/",
-    "pubDate": "2026-07-17T08:05:21.000Z"
+    "title": "アサヒグループHD、新たに取引先の役員や従業員などの個人情報約37.8万件を「漏えいのおそれがある個人情報」として発表　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2126189.html",
+    "pubDate": "2026-07-17T08:41:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Amazon CloudFrontの障害についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/07/17/142812",
-    "pubDate": "2026-07-17T07:47:19.000Z"
+    "site": "Qiita",
+    "title": "新人がすぐにできるセキュリティ対策、損害賠償になったら怖いね",
+    "link": "https://qiita.com/prumnn/items/6d7dc1bed369c567df22?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-17T08:16:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "戦場投入のロシア兵、生存時間はわずか20～30分か　アメリカCIAが分析　ウクライナAIドローン進化で｜FNNプライムオンライン",
-    "link": "https://www.fnn.jp/articles/-/1076813",
-    "pubDate": "2026-07-17T06:51:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
-    "link": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
-    "pubDate": "2026-07-17T06:06:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Obsidianをよりわかりやすく。視覚化プラグイン活用術 | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2607-obsidian-plugins-visualize-notes/",
-    "pubDate": "2026-07-17T05:57:56.000Z"
+    "site": "Qiita",
+    "title": "数学苦手な文系でも大丈夫、ITの論理的思考・条件分岐を克服せよ",
+    "link": "https://qiita.com/sumomoo/items/abf53976ec072511a4ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-17T08:13:50.000Z"
   },
   {
     "site": "Zenn",
@@ -54,28 +66,46 @@
     "pubDate": "Fri, 17 Jul 2026 05:56:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "かわんご氏「POPOPOに私財30億円突っ込んだ」が、それでも「ケチってしまった」と反省",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/17/news073.html",
-    "pubDate": "2026-07-17T03:02:55.000Z"
+    "site": "Zenn",
+    "title": "SQL MCP Server が GA したらしい",
+    "link": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+    "pubDate": "2026-07-17T05:49:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenTelemetryのConsistent Probability Samplingを理解する",
+    "link": "https://zenn.dev/ymotongpoo/articles/20260717-cps",
+    "pubDate": "Fri, 17 Jul 2026 05:20:31 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "レーベンシュタイン距離を動的計画法を使用して実装してみた（Python/JavaScript）",
+    "link": "https://qiita.com/tattttt/items/7221f323920b1bd4d2d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-17T03:57:42.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ルーターに挿す約320円の広告ブロッカー、13万ドメインをRAM40KBで判定 - FabScene（ファブシーン）",
-    "link": "https://fabscene.com/new/make/esp32-c3-dns-adblock-hash-in-flash/",
-    "pubDate": "2026-07-17T02:48:53.000Z"
+    "title": "Claude Artifact",
+    "link": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
+    "pubDate": "2026-07-17T02:49:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "そのSQL、本当に大丈夫？実務で意識したい5つの基本ルール",
+    "link": "https://qiita.com/T-furukubo/items/3ace375e1b8aafd014a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-17T01:25:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Fable 5はeffort=lowでも“使える”のか？　React習熟度ベンチマーク",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-13",
+    "pubDate": "Fri, 17 Jul 2026 00:53:45 GMT"
   },
   {
     "site": "Zenn",
     "title": "\"LLMに「読み進められる説明文」を書かせる設計：cognitive-rhythm-writingの構造を読む\"",
     "link": "https://zenn.dev/nobmake/articles/394d8b42da48a1",
     "pubDate": "Thu, 16 Jul 2026 22:38:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CloudFront VPC Originsとは何だったのか？ 障害から学ぶ「便利機能」の裏側",
-    "link": "https://zenn.dev/kamegoro/articles/aws-cloudfront-vpc-origins-outage-20260716",
-    "pubDate": "Thu, 16 Jul 2026 16:37:57 GMT"
   },
   {
     "site": "Qiita",
@@ -88,12 +118,6 @@
     "title": "頂上決戦！　effort=max同士の対決でGPT-5.6はClaudeに勝てるのか（React習熟度ベンチマーク）",
     "link": "https://zenn.dev/uhyo/articles/react-profession-bench-12",
     "pubDate": "Thu, 16 Jul 2026 15:02:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SwiftだけでWebをつくって、運用する",
-    "link": "https://zenn.dev/1amageek/articles/swift-web-fullstack",
-    "pubDate": "Thu, 16 Jul 2026 12:20:27 GMT"
   },
   {
     "site": "Qiita",
@@ -115,9 +139,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeのskillをskillでレビューする ― 静的チェック×LLMレビュー×git hooksの3層ゲート",
-    "link": "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
-    "pubDate": "Thu, 16 Jul 2026 01:00:09 GMT"
+    "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
+    "link": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
+    "pubDate": "Thu, 16 Jul 2026 05:25:29 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SQL MCP Server が GA したらしい",
+    "link": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+    "pubDate": "Thu, 16 Jul 2026 04:43:35 GMT"
   },
   {
     "site": "Zenn",
@@ -138,18 +168,6 @@
     "pubDate": "Wed, 15 Jul 2026 22:25:21 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "LLM の可観測性ツールを決めきれないので、OpenTelemetry で決めない構成にした",
-    "link": "https://zenn.dev/optimisuke/articles/8f2ce41b9a7d30",
-    "pubDate": "Wed, 15 Jul 2026 11:00:06 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "コピペ最強｜UiverseのUI素材でプログラミング初心者の悩みが即解決した話",
-    "link": "https://qiita.com/prumnn/items/7bd599311fd75227101f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-15T08:13:40.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AI人材は２つに分かれる。あなたが目指すべきはどっち？",
     "link": "https://qiita.com/sumomoo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "ぷよぷよプログラミング体験談",
-    "link": "https://qiita.com/sakurada110/items/34a4486f6ab1b15211a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-15T03:00:09.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
     "link": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-15T00:07:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話",
-    "link": "https://qiita.com/archeleeds/items/2efad73069b54288deb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-14T14:48:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon S3 Vectors で「月額ほぼゼロの RAG」を作ってみた",
-    "link": "https://qiita.com/musa_rock/items/d90580d5cbcb8215d6f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-14T13:26:36.000Z"
   }
 ]
