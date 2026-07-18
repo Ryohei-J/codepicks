@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+    "pubDate": "2026-07-18T04:37:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最近の AI コーディングで実践している、設計を中心とした開発の進め方",
+    "link": "https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/",
+    "pubDate": "2026-07-18T04:23:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も",
+    "link": "https://gazlog.jp/entry/lg-gaming-ads-install/",
+    "pubDate": "2026-07-18T03:26:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最近はAIで参考を作ってデザイナーに渡すが、デザイナーが「ここからどうデザインしろと？」となってしまい、結果的に相当細かく指示してあげないといけなくなる→デザイナー側の引っ掛かりポイントはどこにあるのか",
+    "link": "https://togetter.com/li/2721800",
+    "pubDate": "2026-07-18T02:31:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
     "link": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
     "pubDate": "2026-07-17T22:50:00.000Z"
@@ -12,40 +36,10 @@
     "pubDate": "2026-07-17T22:45:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アップル、iPhoneを一斉値上げ　Watch・AirPodsも",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
-    "pubDate": "2026-07-17T17:27:34.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AIエージェントのためのDocker Sandboxes実践入門 - Qiita",
     "link": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848",
     "pubDate": "2026-07-17T12:24:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘",
-    "link": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
-    "pubDate": "2026-07-17T12:21:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "VS Code拡張機能「Draw.io Integration」、Markdownのプレビュー上で図をインライン編集する機能、プレリリース版で提供 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/07/vscode-drawio-extension-inline-editing",
-    "pubDate": "2026-07-17T11:38:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab",
-    "link": "https://tech-lab.sios.jp/archives/53462",
-    "pubDate": "2026-07-17T11:28:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アサヒグループHD、新たに取引先の役員や従業員などの個人情報約37.8万件を「漏えいのおそれがある個人情報」として発表　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2126189.html",
-    "pubDate": "2026-07-17T08:41:11.000Z"
   },
   {
     "site": "Qiita",
@@ -61,6 +55,18 @@
   },
   {
     "site": "Zenn",
+    "title": "CloudFront VPC Origin障害をどう切り分けて復旧したか",
+    "link": "https://zenn.dev/nextbeat/articles/aws-vpc-origin-outage-troubleshooting",
+    "pubDate": "Fri, 17 Jul 2026 08:02:12 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "トランプ氏、米選挙システムに「衝撃的な脆弱性」あると主張　中間選挙を控え - BBCニュース",
+    "link": "https://www.bbc.com/japanese/articles/c9q9gzr7e4do",
+    "pubDate": "2026-07-17T06:36:27.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
     "link": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
     "pubDate": "Fri, 17 Jul 2026 05:56:17 GMT"
@@ -70,6 +76,12 @@
     "title": "SQL MCP Server が GA したらしい",
     "link": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
     "pubDate": "2026-07-17T05:49:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "メモリリークの正体は glibc malloc だった ── Python 以外でも効く LD_PRELOAD 1 行のアロケータ差し替え",
+    "link": "https://zenn.dev/pksha/articles/python-memory-leak-jemalloc",
+    "pubDate": "Fri, 17 Jul 2026 05:27:27 GMT"
   },
   {
     "site": "Zenn",
@@ -84,28 +96,16 @@
     "pubDate": "2026-07-17T03:57:42.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Artifact",
-    "link": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
-    "pubDate": "2026-07-17T02:49:50.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "そのSQL、本当に大丈夫？実務で意識したい5つの基本ルール",
     "link": "https://qiita.com/T-furukubo/items/3ace375e1b8aafd014a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-17T01:25:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Fable 5はeffort=lowでも“使える”のか？　React習熟度ベンチマーク",
-    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-13",
-    "pubDate": "Fri, 17 Jul 2026 00:53:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "\"LLMに「読み進められる説明文」を書かせる設計：cognitive-rhythm-writingの構造を読む\"",
-    "link": "https://zenn.dev/nobmake/articles/394d8b42da48a1",
-    "pubDate": "Thu, 16 Jul 2026 22:38:53 GMT"
+    "site": "Hatena",
+    "title": "70歳を超えてなお、OSS活動に情熱を注ぐ。「生涯現役」でコードを書き続ける意義とは？ - Findy Media",
+    "link": "https://findy-code.io/media/articles/interview-tatsuo-ishii",
+    "pubDate": "2026-07-17T00:37:42.000Z"
   },
   {
     "site": "Qiita",
@@ -118,6 +118,18 @@
     "title": "頂上決戦！　effort=max同士の対決でGPT-5.6はClaudeに勝てるのか（React習熟度ベンチマーク）",
     "link": "https://zenn.dev/uhyo/articles/react-profession-bench-12",
     "pubDate": "Thu, 16 Jul 2026 15:02:58 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SwiftだけでWebをつくって、運用する",
+    "link": "https://zenn.dev/1amageek/articles/swift-web-fullstack",
+    "pubDate": "Thu, 16 Jul 2026 12:20:27 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "DELETE したはずの行が SELECT で返り続ける ときに何を疑うか",
+    "link": "https://zenn.dev/dress_code/articles/15659114e7f21c",
+    "pubDate": "Thu, 16 Jul 2026 09:00:15 GMT"
   },
   {
     "site": "Qiita",
@@ -150,22 +162,10 @@
     "pubDate": "Thu, 16 Jul 2026 04:43:35 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【衝撃】GPT-5.6のReact習熟度を測った結果……",
-    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-11",
-    "pubDate": "Thu, 16 Jul 2026 00:50:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Codeで技術面接の壁打ち相手を作ってみませんか",
     "link": "https://qiita.com/kuma_3838/items/e07a4d45ca5cf2ff14ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-15T23:39:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "検索の5年前と、今と、これから考えること",
-    "link": "https://zenn.dev/rejasupotaro/articles/c55722ca8aa2ca",
-    "pubDate": "Wed, 15 Jul 2026 22:25:21 GMT"
   },
   {
     "site": "Qiita",
