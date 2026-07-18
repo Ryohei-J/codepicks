@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "キース・エマーソンみたいに弾けないので、無限にシンセソロを弾き続けるアプリをClaude Fable 5に作ってもらった。（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/07/18/5311.html",
+    "pubDate": "2026-07-18T10:13:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料でネット接続なしのオフラインでも使える地図アプリ「CoMaps」、オープンソースで開発され広告なし・個人追跡なし",
+    "link": "https://gigazine.net/news/20260718-comaps/",
+    "pubDate": "2026-07-18T05:48:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象",
     "link": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
     "pubDate": "2026-07-18T04:37:12.000Z"
@@ -25,9 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
-    "pubDate": "2026-07-17T22:50:00.000Z"
+    "title": "Playwright on GitHub Actions: The setup that actually runs fast",
+    "link": "https://endform.dev/blog/playwright-github-actions",
+    "pubDate": "2026-07-17T23:52:15.000Z"
   },
   {
     "site": "Hatena",
@@ -37,9 +49,27 @@
   },
   {
     "site": "Qiita",
+    "title": "国の財布は家計と何が違うのか？ ― 財源・国債・人手不足・移民政策までつながる経済のしくみ : Pythonで学ぶ マクロ経済学入門 (100)",
+    "link": "https://qiita.com/maskot1977/items/6d20de8c7d863ec95460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-17T15:01:16.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "AIエージェントのためのDocker Sandboxes実践入門 - Qiita",
     "link": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848",
     "pubDate": "2026-07-17T12:24:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Codeと取り組んだ大規模レガシー移行の記録",
+    "link": "https://zenn.dev/luup_developers/articles/server-jang-20260716",
+    "pubDate": "Fri, 17 Jul 2026 11:43:49 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIエージェントのためのDocker Sandboxes実践入門",
+    "link": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-17T10:25:00.000Z"
   },
   {
     "site": "Qiita",
@@ -54,10 +84,10 @@
     "pubDate": "2026-07-17T08:13:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "CloudFront VPC Origin障害をどう切り分けて復旧したか",
-    "link": "https://zenn.dev/nextbeat/articles/aws-vpc-origin-outage-troubleshooting",
-    "pubDate": "Fri, 17 Jul 2026 08:02:12 GMT"
+    "site": "Qiita",
+    "title": "【初学者向け】AIの知識ゼロから理解する、LLMの仕組み",
+    "link": "https://qiita.com/shivvvvvv/items/d9f0617a4e46c282d52a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-17T08:00:20.000Z"
   },
   {
     "site": "Hatena",
@@ -73,27 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "SQL MCP Server が GA したらしい",
-    "link": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
-    "pubDate": "2026-07-17T05:49:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "メモリリークの正体は glibc malloc だった ── Python 以外でも効く LD_PRELOAD 1 行のアロケータ差し替え",
-    "link": "https://zenn.dev/pksha/articles/python-memory-leak-jemalloc",
-    "pubDate": "Fri, 17 Jul 2026 05:27:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenTelemetryのConsistent Probability Samplingを理解する",
-    "link": "https://zenn.dev/ymotongpoo/articles/20260717-cps",
-    "pubDate": "Fri, 17 Jul 2026 05:20:31 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "レーベンシュタイン距離を動的計画法を使用して実装してみた（Python/JavaScript）",
-    "link": "https://qiita.com/tattttt/items/7221f323920b1bd4d2d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-17T03:57:42.000Z"
+    "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+    "link": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+    "pubDate": "Fri, 17 Jul 2026 05:22:08 GMT"
   },
   {
     "site": "Qiita",
@@ -102,22 +114,28 @@
     "pubDate": "2026-07-17T01:25:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "70歳を超えてなお、OSS活動に情熱を注ぐ。「生涯現役」でコードを書き続ける意義とは？ - Findy Media",
-    "link": "https://findy-code.io/media/articles/interview-tatsuo-ishii",
-    "pubDate": "2026-07-17T00:37:42.000Z"
+    "site": "Zenn",
+    "title": "Fable 5はeffort=lowでも“使える”のか？　React習熟度ベンチマーク",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-13",
+    "pubDate": "Fri, 17 Jul 2026 00:53:45 GMT"
   },
   {
     "site": "Qiita",
-    "title": "ログイン成功率を上げるためのパスキー設計・実装",
-    "link": "https://qiita.com/rio-song/items/f60b7045c4cba9cc225b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-16T15:31:29.000Z"
+    "title": "マルチエージェントに関する論文を40本再実装してみて分かったこと",
+    "link": "https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-16T22:54:35.000Z"
   },
   {
     "site": "Zenn",
     "title": "頂上決戦！　effort=max同士の対決でGPT-5.6はClaudeに勝てるのか（React習熟度ベンチマーク）",
     "link": "https://zenn.dev/uhyo/articles/react-profession-bench-12",
     "pubDate": "Thu, 16 Jul 2026 15:02:58 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Strategy Pattern を ABC で書くか、Protocol で書くか",
+    "link": "https://zenn.dev/zozotech/articles/6717b887482e4e",
+    "pubDate": "Thu, 16 Jul 2026 12:59:49 GMT"
   },
   {
     "site": "Zenn",
@@ -156,27 +174,9 @@
     "pubDate": "Thu, 16 Jul 2026 05:25:29 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "SQL MCP Server が GA したらしい",
-    "link": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
-    "pubDate": "Thu, 16 Jul 2026 04:43:35 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Codeで技術面接の壁打ち相手を作ってみませんか",
     "link": "https://qiita.com/kuma_3838/items/e07a4d45ca5cf2ff14ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-15T23:39:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI人材は２つに分かれる。あなたが目指すべきはどっち？",
-    "link": "https://qiita.com/sumomoo/items/b7bfe27efae0231a09af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-15T07:47:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
-    "link": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-15T00:07:13.000Z"
   }
 ]
