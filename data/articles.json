@@ -1,5 +1,23 @@
 [
   {
+    "site": "Zenn",
+    "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
+    "link": "https://zenn.dev/uhyo/articles/async-react-action-queue",
+    "pubDate": "2026-07-20T05:52:33.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
+    "link": "https://zenn.dev/uhyo/articles/async-react-action-queue",
+    "pubDate": "Mon, 20 Jul 2026 05:29:51 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Hugging FaceにAI主導のサイバー攻撃　防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
+    "pubDate": "2026-07-20T04:35:44.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "link": "https://forbesjapan.com/articles/detail/101067",
@@ -10,6 +28,12 @@
     "title": "AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった (1/4)",
     "link": "https://ascii.jp/elem/000/004/420/4420739/",
     "pubDate": "2026-07-20T01:21:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
+    "link": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
+    "pubDate": "2026-07-20T00:10:35.000Z"
   },
   {
     "site": "Qiita",
@@ -31,21 +55,27 @@
   },
   {
     "site": "Hatena",
-    "title": "稼げないと言われる農業で｢時給6000円｣を叩き出す…国産キウイで｢キーエンス超え｣を目指す元県庁職員の戦略",
-    "link": "https://president.jp/articles/-/115203",
-    "pubDate": "2026-07-19T21:34:15.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「アルゴリズム」が大っ嫌い？ ならRSSを使いなさいよ » p2ptk[.]org",
     "link": "https://p2ptk.org/digital-rights/5632",
     "pubDate": "2026-07-19T19:43:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google Search Console APIを使ってSEO改善を自動化する",
+    "link": "https://zenn.dev/asoventure/articles/2026-07-19-gsc-api-seo-automation",
+    "pubDate": "2026-07-19T19:43:02.000Z"
   },
   {
     "site": "Hatena",
     "title": "「生成AI禁止です」「誤字チェックとかも」「ダメです」「「「えっ……？」」」第２回ダンガン文庫大賞のルールで大モメ",
     "link": "https://posfie.com/@lenchroot/p/AVSFamQ",
     "pubDate": "2026-07-19T17:31:48.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Web開発を勉強するためにOCRツールを作成する。(7)",
+    "link": "https://zenn.dev/noayasu/articles/4d53b235454358",
+    "pubDate": "Sun, 19 Jul 2026 16:02:31 GMT"
   },
   {
     "site": "Qiita",
@@ -55,15 +85,21 @@
   },
   {
     "site": "Zenn",
-    "title": "ループエンジニアリングの次は本当に「グラフ」なのか考えてみた",
-    "link": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
-    "pubDate": "2026-07-19T11:46:19.000Z"
+    "title": "コーディングエージェントにオーケストレーションを任せる",
+    "link": "https://zenn.dev/himkt/articles/865063822ef701",
+    "pubDate": "Sun, 19 Jul 2026 14:19:34 GMT"
   },
   {
     "site": "Zenn",
     "title": "自宅でサーバーを建てたいエンジニアにおすすめの構成",
     "link": "https://zenn.dev/joeee/articles/048addcc0c2ce6",
     "pubDate": "Sun, 19 Jul 2026 11:27:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+    "link": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
+    "pubDate": "Sun, 19 Jul 2026 09:49:11 GMT"
   },
   {
     "site": "Qiita",
@@ -78,12 +114,6 @@
     "pubDate": "2026-07-19T08:37:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Figmaと実装の乖離は怠慢ではなく、構造の欠陥である｜Matz",
-    "link": "https://note.com/matz_tak/n/ne820719377e3",
-    "pubDate": "2026-07-19T08:18:17.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか",
     "link": "https://zenn.dev/r_kaga/articles/a27a3879dd3ce4",
@@ -94,12 +124,6 @@
     "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
     "link": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
     "pubDate": "Sun, 19 Jul 2026 07:35:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeの日本語入力が荒ぶる問題がWezTerm Nightlyビルドで解決した",
-    "link": "https://zenn.dev/nuresen/articles/claude-code-ime-wezterm",
-    "pubDate": "Sun, 19 Jul 2026 06:35:08 GMT"
   },
   {
     "site": "Zenn",
@@ -126,34 +150,10 @@
     "pubDate": "Sun, 19 Jul 2026 03:46:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築",
-    "link": "https://techfeed.io/entries/6a5be90b3d5307dbb0d5d745",
-    "pubDate": "2026-07-19T02:57:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について",
-    "link": "https://zenn.dev/pkkudo/articles/homelab-overview-hlv5",
-    "pubDate": "Sun, 19 Jul 2026 01:21:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google Search Console APIを使ってSEO改善を自動化する",
-    "link": "https://zenn.dev/asoventure/articles/2026-07-19-gsc-api-seo-automation",
-    "pubDate": "Sun, 19 Jul 2026 01:00:33 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "白って1600色あんねん！",
     "link": "https://qiita.com/ishi720/items/3e4597bc50695fa9bf79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-19T00:02:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "関数型まつり2026参加記",
-    "link": "https://zenn.dev/konn/articles/2026-07-13-fp-matsuri-2026",
-    "pubDate": "Sat, 18 Jul 2026 16:50:00 GMT"
   },
   {
     "site": "Qiita",
