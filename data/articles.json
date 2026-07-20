@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "Maps Grounding Lite MCP を使用して、現実世界の地理空間コンテキストで AI エージェントをグラウンディングする  |  Google Maps Platform  |  Google for Developers",
+    "link": "https://developers.google.com/maps/architecture/grounding-with-maps-mcp?hl=ja",
+    "pubDate": "2026-07-20T07:56:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PHPで作られた大規模ECサイトから学ぶ負荷対策入門 in PHP Conference 2026",
+    "link": "https://speakerdeck.com/ozakikota/phpdezuo-raretada-gui-mo-ecsaitokaraxue-bufu-he-dui-ce-ru-men-in-php-conference-2026",
+    "pubDate": "2026-07-20T06:55:44.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
     "link": "https://zenn.dev/uhyo/articles/async-react-action-queue",
@@ -13,15 +25,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Hugging FaceにAI主導のサイバー攻撃　防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
-    "pubDate": "2026-07-20T04:35:44.000Z"
+    "title": "「ドコモの銀行」で何が変わる？　ポイント最大4.5％還元、金融経済圏のメリットと課題 (1/4)",
+    "link": "https://ascii.jp/elem/000/004/420/4420599/",
+    "pubDate": "2026-07-20T05:00:57.000Z"
   },
   {
     "site": "Hatena",
     "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "link": "https://forbesjapan.com/articles/detail/101067",
     "pubDate": "2026-07-20T04:05:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "バージョン情報の露出を防ぐサーバー設定まとめ ── nginx/Apache/PHP/WordPress対応 - Qiita",
+    "link": "https://qiita.com/jiis-sasaki/items/178a8b20280df919d6a0",
+    "pubDate": "2026-07-20T01:43:48.000Z"
   },
   {
     "site": "Hatena",
@@ -48,28 +66,10 @@
     "pubDate": "2026-07-19T23:56:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「仕事を辞めるとボケる」は本当なのか？　ベトナム高齢者2000人超を早大などが分析",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/17/news082.html",
-    "pubDate": "2026-07-19T23:16:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「アルゴリズム」が大っ嫌い？ ならRSSを使いなさいよ » p2ptk[.]org",
-    "link": "https://p2ptk.org/digital-rights/5632",
-    "pubDate": "2026-07-19T19:43:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Google Search Console APIを使ってSEO改善を自動化する",
     "link": "https://zenn.dev/asoventure/articles/2026-07-19-gsc-api-seo-automation",
     "pubDate": "2026-07-19T19:43:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「生成AI禁止です」「誤字チェックとかも」「ダメです」「「「えっ……？」」」第２回ダンガン文庫大賞のルールで大モメ",
-    "link": "https://posfie.com/@lenchroot/p/AVSFamQ",
-    "pubDate": "2026-07-19T17:31:48.000Z"
   },
   {
     "site": "Zenn",
@@ -94,12 +94,6 @@
     "title": "自宅でサーバーを建てたいエンジニアにおすすめの構成",
     "link": "https://zenn.dev/joeee/articles/048addcc0c2ce6",
     "pubDate": "Sun, 19 Jul 2026 11:27:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
-    "link": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
-    "pubDate": "Sun, 19 Jul 2026 09:49:11 GMT"
   },
   {
     "site": "Qiita",
@@ -150,10 +144,22 @@
     "pubDate": "Sun, 19 Jul 2026 03:46:26 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について",
+    "link": "https://zenn.dev/pkkudo/articles/homelab-overview-hlv5",
+    "pubDate": "Sun, 19 Jul 2026 01:21:57 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "白って1600色あんねん！",
     "link": "https://qiita.com/ishi720/items/3e4597bc50695fa9bf79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-19T00:02:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI時代のドキュメント駆動開発のすすめ - Qiita",
+    "link": "https://qiita.com/Asahi_tech_dev/items/5a3c6420cb0b2fa0e823",
+    "pubDate": "2026-07-18T21:43:11.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "AIエージェントのためのDocker Sandboxes実践入門",
     "link": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-17T10:25:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
-    "link": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
-    "pubDate": "2026-07-16T11:24:15.000Z"
   }
 ]
