@@ -1,21 +1,57 @@
 [
   {
     "site": "Hatena",
-    "title": "Maps Grounding Lite MCP を使用して、現実世界の地理空間コンテキストで AI エージェントをグラウンディングする  |  Google Maps Platform  |  Google for Developers",
-    "link": "https://developers.google.com/maps/architecture/grounding-with-maps-mcp?hl=ja",
-    "pubDate": "2026-07-20T07:56:55.000Z"
+    "title": "部屋を片付けられないやつはプロに頼れ",
+    "link": "https://blog.tinect.jp/?p=91335",
+    "pubDate": "2026-07-20T23:14:28.000Z"
   },
   {
     "site": "Hatena",
-    "title": "PHPで作られた大規模ECサイトから学ぶ負荷対策入門 in PHP Conference 2026",
-    "link": "https://speakerdeck.com/ozakikota/phpdezuo-raretada-gui-mo-ecsaitokaraxue-bufu-he-dui-ce-ru-men-in-php-conference-2026",
-    "pubDate": "2026-07-20T06:55:44.000Z"
+    "title": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html",
+    "pubDate": "2026-07-20T23:13:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Appleはもう「メモリのお得意様」ではない？　NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news092.html",
+    "pubDate": "2026-07-20T22:55:21.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
-    "link": "https://zenn.dev/uhyo/articles/async-react-action-queue",
-    "pubDate": "2026-07-20T05:52:33.000Z"
+    "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+    "link": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
+    "pubDate": "2026-07-20T22:50:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか",
+    "link": "https://ki-to-oku.net/outsourcing-judgment-to-ai-after-memory-goes-external/",
+    "pubDate": "2026-07-20T21:40:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
+    "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
+    "pubDate": "2026-07-20T21:39:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
+    "link": "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
+    "pubDate": "2026-07-20T11:49:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWS初心者がSSL証明書の共通鍵、公開鍵、秘密鍵について深堀った話",
+    "link": "https://qiita.com/tks_1128/items/31897213450d6f273f51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-20T08:22:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIによる生産性向上「10年でわずか0.66％」ノーベル賞学者の驚きの“検算”、巨額投資も株価高騰も正当化されない？ 【小泉秀人の時事ネタ経済学】ゴールドマン予測と桁違いに低い経済効果、資料作成が爆速になっても経済全体にはほぼ影響なし？ | JBpress (ジェイビープレス)",
+    "link": "https://jbpress.ismedia.jp/articles/-/96002",
+    "pubDate": "2026-07-20T06:37:31.000Z"
   },
   {
     "site": "Zenn",
@@ -30,28 +66,10 @@
     "pubDate": "2026-07-20T05:00:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/101067",
-    "pubDate": "2026-07-20T04:05:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "バージョン情報の露出を防ぐサーバー設定まとめ ── nginx/Apache/PHP/WordPress対応 - Qiita",
-    "link": "https://qiita.com/jiis-sasaki/items/178a8b20280df919d6a0",
-    "pubDate": "2026-07-20T01:43:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった (1/4)",
-    "link": "https://ascii.jp/elem/000/004/420/4420739/",
-    "pubDate": "2026-07-20T01:21:48.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
-    "link": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
-    "pubDate": "2026-07-20T00:10:35.000Z"
+    "title": "Linuxのディレクトリ配置ルール（FHS）超入門",
+    "link": "https://zenn.dev/juth/articles/9dc12f2621e2c1",
+    "pubDate": "Mon, 20 Jul 2026 02:18:03 GMT"
   },
   {
     "site": "Qiita",
@@ -67,15 +85,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Google Search Console APIを使ってSEO改善を自動化する",
-    "link": "https://zenn.dev/asoventure/articles/2026-07-19-gsc-api-seo-automation",
-    "pubDate": "2026-07-19T19:43:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web開発を勉強するためにOCRツールを作成する。(7)",
-    "link": "https://zenn.dev/noayasu/articles/4d53b235454358",
-    "pubDate": "Sun, 19 Jul 2026 16:02:31 GMT"
+    "title": "仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
+    "link": "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
+    "pubDate": "Sun, 19 Jul 2026 22:19:55 GMT"
   },
   {
     "site": "Qiita",
@@ -85,27 +97,27 @@
   },
   {
     "site": "Zenn",
-    "title": "コーディングエージェントにオーケストレーションを任せる",
-    "link": "https://zenn.dev/himkt/articles/865063822ef701",
-    "pubDate": "Sun, 19 Jul 2026 14:19:34 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "自宅でサーバーを建てたいエンジニアにおすすめの構成",
     "link": "https://zenn.dev/joeee/articles/048addcc0c2ce6",
     "pubDate": "Sun, 19 Jul 2026 11:27:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
+    "link": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
+    "pubDate": "Sun, 19 Jul 2026 09:49:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "tokioからフルスタックWebフレームワークtopcoatが出た",
+    "link": "https://zenn.dev/hiiraginil/articles/9c62603c4b37ed",
+    "pubDate": "Sun, 19 Jul 2026 09:44:09 GMT"
   },
   {
     "site": "Qiita",
     "title": "WEB開発経験の少ない人が「徳丸本」を情報処理安全確保支援士試験に活用する方法",
     "link": "https://qiita.com/Masaki-M/items/3031762adaa48f33d8ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-19T09:14:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発】マルチレポでnoteクリエイター向け統計ダッシュボードを作ってみた【React / Hono / Chrome拡張】",
-    "link": "https://qiita.com/natsugure/items/e12091867becb931bce0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-19T08:37:56.000Z"
   },
   {
     "site": "Zenn",
@@ -121,6 +133,12 @@
   },
   {
     "site": "Zenn",
+    "title": "Hekireki というツールを作りました",
+    "link": "https://zenn.dev/mini_bg_pro_n/articles/d2c5d965ac068a",
+    "pubDate": "Sun, 19 Jul 2026 07:18:00 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ChatGPTで始める衛星画像処理入門",
     "link": "https://zenn.dev/syu_tan/books/chatgpt-satellite-image-intro",
     "pubDate": "Sun, 19 Jul 2026 05:29:55 GMT"
@@ -130,24 +148,6 @@
     "title": "セキュリティの勉強になるサイト138選(2026年版)",
     "link": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-19T04:36:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "codexの独自用語乱立･曖昧問題への対策",
-    "link": "https://zenn.dev/u1/articles/codex-referent-before-label",
-    "pubDate": "Sun, 19 Jul 2026 04:23:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ImportLintの紹介: import専門の高速なリンター",
-    "link": "https://zenn.dev/uhyo/articles/import-lint-intro",
-    "pubDate": "Sun, 19 Jul 2026 03:46:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "趣味でサーバを触り始めた人のおうちラボ紹介 基本サービスや構築・管理方法について",
-    "link": "https://zenn.dev/pkkudo/articles/homelab-overview-hlv5",
-    "pubDate": "Sun, 19 Jul 2026 01:21:57 GMT"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "AIエージェントのためのDocker Sandboxes実践入門",
-    "link": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-17T10:25:00.000Z"
+    "title": "Raspberry Pi 4 で Home Assistant サーバを構築する",
+    "link": "https://qiita.com/Noritama-Lab/items/2530068f6ab65dce1288?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-17T22:31:26.000Z"
   }
 ]
