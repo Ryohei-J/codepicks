@@ -19,6 +19,12 @@
   },
   {
     "site": "Hatena",
+    "title": "Claude CodeやCodexのサンドボックスを支えるbubblewrapを自作して理解する。その勢いでDockerも理解する - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2026/07/21/100000",
+    "pubDate": "2026-07-21T06:54:22.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "XのAndroidアプリ、1年かけ“過去最大級の刷新”も賛否　「UI変わりすぎ」「スペース使えない」の声も",
     "link": "https://www.itmedia.co.jp/news/articles/2607/21/news081.html",
     "pubDate": "2026-07-21T06:24:03.000Z"
@@ -58,18 +64,6 @@
     "title": "AIとともに、ふりかえりの総合サイト hurikaeri.jp を作りました（手法カタログ144種・全無料）",
     "link": "https://qiita.com/viva_tweet_x/items/ed946cd5d87d2ae0ec03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-20T23:22:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "部屋を片付けられないやつはプロに頼れ",
-    "link": "https://blog.tinect.jp/?p=91335",
-    "pubDate": "2026-07-20T23:14:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIコーディングブーム」が去ったUSで、エンジニアに求められる「本体の強さ」",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news012.html",
-    "pubDate": "2026-07-20T23:13:38.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
     "link": "https://qiita.com/miruky/items/42b892805eb1d754109c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-18T08:14:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "コミット履歴は`git log --graph --oneline --decorate --all`で十分 — 読み方のポイントを解説する",
+    "link": "https://zenn.dev/ma_sa_shi/articles/9b140537cadd7e",
+    "pubDate": "2026-07-15T19:17:50.000Z"
   }
 ]
