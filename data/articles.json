@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "LLM の「脳内」をハッキングする技術 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "link": "https://joisino.hatenablog.com/entry/hack",
+    "pubDate": "2026-07-21T09:10:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "政府、マイナカードをAIエージェントと連携へ　重点計画に明記",
+    "link": "https://japan.cnet.com/article/35250805/",
+    "pubDate": "2026-07-21T08:32:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Web の Routine で日々の開発を自動化する",
+    "link": "https://zenn.dev/mizchi/scraps/4e5d72496e2bfc",
+    "pubDate": "2026-07-21T08:10:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "XのAndroidアプリ、1年かけ“過去最大級の刷新”も賛否　「UI変わりすぎ」「スペース使えない」の声も",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/21/news081.html",
+    "pubDate": "2026-07-21T06:24:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "NY市に「ワンクリック解約」と「隠し手数料禁止」の新ルール。市民は年1.6億ドルの節約に | ギズモード・ジャパン",
     "link": "https://www.gizmodo.jp/article/mamdanis-new-click-to-cancel-rule-makes-it-easier-for-new-yorkers-to-cancel-subscriptions/",
     "pubDate": "2026-07-21T05:32:14.000Z"
@@ -10,6 +34,12 @@
     "title": "「以前のように戻してほしい」生成AIで作られたポップが乱立する売り場が買い物しにくいと話題に→デザインの意義と最新技術の使い方の話へ",
     "link": "https://togetter.com/li/2723031",
     "pubDate": "2026-07-21T04:01:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「リポスト直後のポスト」を一括で表示するサービスを始めました！｜Togetter（トゥギャッター ）",
+    "link": "https://note.com/togetter/n/n1b911f1524e4",
+    "pubDate": "2026-07-21T03:01:07.000Z"
   },
   {
     "site": "Qiita",
@@ -22,12 +52,6 @@
     "title": "AIに会社の地図を持たせたら、3年目社員のように働き始めた 〜精度とトークン効率を上げるオントロジーの実践〜｜kunpe (ymdpharm)",
     "link": "https://note.com/ymdpharm3/n/n8515d151e56d",
     "pubDate": "2026-07-21T00:30:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claudeの「Fable 5」、結局標準搭載へ　ただし1万6000円以上の月額課金が必要",
-    "link": "https://japan.cnet.com/article/35250774/",
-    "pubDate": "2026-07-20T23:36:59.000Z"
   },
   {
     "site": "Qiita",
@@ -48,40 +72,10 @@
     "pubDate": "2026-07-20T23:13:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Appleはもう「メモリのお得意様」ではない？　NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま【前編】",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news092.html",
-    "pubDate": "2026-07-20T22:55:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "検索画面のUI設計で、バックエンドエンジニアが早めに口出しすべき3つのこと",
-    "link": "https://zenn.dev/ncdc/articles/6c8eabde83cf0a",
-    "pubDate": "2026-07-20T22:50:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "外部記憶と化したWebから生成AIを通じて情報を取り出すとき、何が起こっているのか",
-    "link": "https://ki-to-oku.net/outsourcing-judgment-to-ai-after-memory-goes-external/",
-    "pubDate": "2026-07-20T21:40:33.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全100回 総復習",
     "link": "https://qiita.com/maskot1977/items/02357fd5b91be7b806cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-20T17:54:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
-    "link": "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
-    "pubDate": "2026-07-20T11:49:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ソフトウェア開発のAIエージェントを作る(2)",
-    "link": "https://zenn.dev/drbobt1122/articles/blog26072002",
-    "pubDate": "Mon, 20 Jul 2026 09:06:40 GMT"
   },
   {
     "site": "Qiita",
@@ -133,12 +127,6 @@
   },
   {
     "site": "Zenn",
-    "title": "tokioからフルスタックWebフレームワークtopcoatが出た",
-    "link": "https://zenn.dev/hiiraginil/articles/9c62603c4b37ed",
-    "pubDate": "Sun, 19 Jul 2026 09:44:09 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか",
     "link": "https://zenn.dev/r_kaga/articles/a27a3879dd3ce4",
     "pubDate": "Sun, 19 Jul 2026 07:48:51 GMT"
@@ -162,10 +150,22 @@
     "pubDate": "2026-07-19T06:19:46.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "ChatGPTで始める衛星画像処理入門",
+    "link": "https://zenn.dev/syu_tan/books/chatgpt-satellite-image-intro",
+    "pubDate": "Sun, 19 Jul 2026 05:29:55 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "セキュリティの勉強になるサイト138選(2026年版)",
     "link": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-19T04:36:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "codexの独自用語乱立･曖昧問題への対策",
+    "link": "https://zenn.dev/u1/articles/codex-referent-before-label",
+    "pubDate": "Sun, 19 Jul 2026 04:23:22 GMT"
   },
   {
     "site": "Qiita",
