@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "ガーミンが画面なし＆ブランド初のバンド型トラッカー「CIRQA Smart Band」発表、約3.3万円",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2127036.html",
+    "pubDate": "2026-07-22T09:34:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "1年前に騒がれたFeliCaの脆弱性、JVNがようやく公表　深刻度は「高」",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/22/news103.html",
+    "pubDate": "2026-07-22T08:44:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「第二の脳」とやらについて",
+    "link": "https://anond.hatelabo.jp/20260722172402",
+    "pubDate": "2026-07-22T08:27:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米オープンAI 高性能モデルが意図せず他社に攻撃と発表 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015182641000",
+    "pubDate": "2026-07-22T06:23:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "DRAM、NANDの価格が10倍に…世界半導体市場の「異常」な急拡大を引き起こしているメモリ価格高騰の真因 生成AIが引き起こしたスーパーサイクルの構造と限界 | JBpress (ジェイビープレス)",
     "link": "https://jbpress.ismedia.jp/articles/-/96024",
     "pubDate": "2026-07-22T03:25:58.000Z"
@@ -25,39 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "GoogleはAndroidカスタムROM（とオープンウェブ）を殺したい » p2ptk[.]org",
-    "link": "https://p2ptk.org/digital-rights/5634",
-    "pubDate": "2026-07-21T23:56:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ランサムウェア グループ RansomHouse(ランサムハウス)がニチレイへのサイバー攻撃を主張-過去 アスクルにも不正アクセス|セキュリティニュースのセキュリティ対策Lab",
-    "link": "https://rocket-boys.co.jp/security-measures-lab/ransomhouse-nichirei-askul-cyberattack/",
-    "pubDate": "2026-07-21T23:27:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claudeが目で仕事を覚える「スキルを記録」機能　PC作業を録画して分析、Claude Coworkが再現できるスキル化 | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/07/22/5317.html",
-    "pubDate": "2026-07-21T23:10:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
-    "pubDate": "2026-07-21T23:04:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【速報】ニチレイ障害、ハッカー集団が犯行声明",
-    "link": "https://www.47news.jp/14661811.html",
-    "pubDate": "2026-07-21T21:16:23.000Z"
+    "title": "データベースmigration機構が無かったアプリケーションにsqldefを導入しました - タイムリープ テックブログ",
+    "link": "https://techblog.timeleap.co.jp/entry/sqldef_is_coming_to_town",
+    "pubDate": "2026-07-22T00:52:26.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude Code + Notion でターミナルから一歩も出ずにタスク消化・ドキュメント生成を全自動化する",
-    "link": "https://zenn.dev/epicai_techblog/articles/1bc0f3769bfddc",
-    "pubDate": "Tue, 21 Jul 2026 09:00:08 GMT"
+    "title": "成果物よりも「過程」を競う。生成AI Procthon 2026を開催して分かったこと",
+    "link": "https://zenn.dev/serio/articles/c7cbdad5fc1dd1",
+    "pubDate": "Tue, 21 Jul 2026 13:12:29 GMT"
   },
   {
     "site": "Qiita",
@@ -144,6 +144,12 @@
     "pubDate": "2026-07-20T23:22:25.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AWS認定試験を全冠して2026 Japan All AWS Certifications Engineersに選出されて思うこと",
+    "link": "https://zenn.dev/tsukulink/articles/2026-07-all-aws-certifications-engineers",
+    "pubDate": "Mon, 20 Jul 2026 15:00:18 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AIの推進がうまくいかない組織アンチパターン",
     "link": "https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -156,6 +162,12 @@
     "pubDate": "Mon, 20 Jul 2026 05:29:51 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Linuxのディレクトリ配置ルール（FHS）超入門",
+    "link": "https://zenn.dev/juth/articles/9dc12f2621e2c1",
+    "pubDate": "Mon, 20 Jul 2026 02:18:03 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
     "link": "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -166,17 +178,5 @@
     "title": "SSL/TLS証明書って何？なぜ必要で、誰が発行して誰が使うのかを整理する",
     "link": "https://qiita.com/mame_hiro416/items/dc7a18f58eb5a2c8a6e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-20T00:06:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "仕様駆動開発で起こる「仕様とコードのズレ」をハッシュで決定的に検出するツールを作った",
-    "link": "https://zenn.dev/mrmtsntr/articles/artgraph-spec-code-drift",
-    "pubDate": "Sun, 19 Jul 2026 22:19:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自宅でサーバーを建てたいエンジニアにおすすめの構成",
-    "link": "https://zenn.dev/joeee/articles/048addcc0c2ce6",
-    "pubDate": "Sun, 19 Jul 2026 11:27:11 GMT"
   }
 ]
