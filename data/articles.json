@@ -1,21 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "「マジで見づらいだけ」と大不評だったスーパーの生成AIポップ、看板ガチ勢の「きぬた歯科」さんの評価は意外にも…たしかに成功例はあるが、今回は的外れ？",
+    "link": "https://togetter.com/li/2723892",
+    "pubDate": "2026-07-23T12:38:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した",
+    "link": "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o",
+    "pubDate": "2026-07-23T12:27:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」",
     "link": "https://togetter.com/li/2723874",
     "pubDate": "2026-07-23T09:04:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも",
-    "link": "https://togetter.com/li/2723866",
-    "pubDate": "2026-07-23T08:30:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "PayPayとセブン-イレブン、顧客ID統合か　1億超のID基盤誕生へ　複数報道",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/23/news104.html",
-    "pubDate": "2026-07-23T06:18:39.000Z"
   },
   {
     "site": "Zenn",
@@ -36,6 +36,12 @@
     "pubDate": "2026-07-23T04:39:27.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "ビックリマン風キャラを“自分の顔”からAI生成→Tシャツや缶バッジに　ロッテが新サービス公開へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/23/news086.html",
+    "pubDate": "2026-07-23T04:06:48.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Railsで学ぶ Rubyの実行モデル入門 〜「1行ずつ翻訳」は誤解だった！〜",
     "link": "https://qiita.com/akachiryo/items/0dea3706713f90e7ef7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -43,9 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「クレカが使えない！」　16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
-    "pubDate": "2026-07-23T03:59:48.000Z"
+    "title": "ランサムウェアの身代金の支払い、法律で禁止すべき？ 海外メディアによる賛否両論まとめ【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2127168.html",
+    "pubDate": "2026-07-23T03:31:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Go の設計、どこまでやる？〜小さく作って、壊さず育てる〜",
+    "link": "https://zenn.dev/135yshr/books/go-service-design",
+    "pubDate": "Thu, 23 Jul 2026 03:08:48 GMT"
   },
   {
     "site": "Hatena",
@@ -67,21 +79,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「なんかアカウントもしかして乗っ取られてません?」10年以上前に使っていたX(Twitter)アカウントが乗っ取られたので、行政書士を通してX本社に書類を送りアカウントを復旧させた話",
-    "link": "https://togetter.com/li/2723727",
-    "pubDate": "2026-07-23T01:31:23.000Z"
+    "title": "クラウドにOSSを「持っていかれる」問題：Elastic、Redis、HashiCorpから考えるAGPL - Convergence Lab.",
+    "link": "https://www.convergence-lab.com/blog/2026-07-23-open-core-agpl/",
+    "pubDate": "2026-07-23T02:17:28.000Z"
   },
   {
     "site": "Qiita",
     "title": "【数理最適化】1週間映画館生活　コスパよく映画を楽しむには",
     "link": "https://qiita.com/akimasanishida/items/dffe9beac195e23fb589?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-23T01:21:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/101446",
-    "pubDate": "2026-07-23T01:00:37.000Z"
   },
   {
     "site": "Qiita",
@@ -166,12 +172,6 @@
     "title": "エンジニアの成果、結局どう測ればいいのか",
     "link": "https://zenn.dev/awesome_kou/articles/engineer-performance-metrics",
     "pubDate": "Tue, 21 Jul 2026 03:07:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeを2時間おきに回してVS Code拡張mdエディタを育てるLoop Engineering実践",
-    "link": "https://zenn.dev/green_tea/articles/e39e3726a449c9",
-    "pubDate": "Tue, 21 Jul 2026 02:50:05 GMT"
   },
   {
     "site": "Qiita",
