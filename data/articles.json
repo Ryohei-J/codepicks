@@ -1,5 +1,47 @@
 [
   {
+    "site": "Qiita",
+    "title": "Railsで学ぶ Rubyの実行モデル入門 〜「1行ずつ翻訳」は誤解だった！〜",
+    "link": "https://qiita.com/akachiryo/items/0dea3706713f90e7ef7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-23T04:02:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「クレカが使えない！」　16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
+    "pubDate": "2026-07-23T03:59:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
+    "link": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
+    "pubDate": "2026-07-23T03:21:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
+    "link": "https://www.cnn.co.jp/tech/35250893.html",
+    "pubDate": "2026-07-23T03:04:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2127137.html",
+    "pubDate": "2026-07-23T02:34:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "設計を、技術の話から始めない",
+    "link": "https://zenn.dev/team_lab/articles/31ec1e630ab28b",
+    "pubDate": "Thu, 23 Jul 2026 02:30:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【数理最適化】1週間映画館生活　コスパよく映画を楽しむには",
+    "link": "https://qiita.com/akimasanishida/items/dffe9beac195e23fb589?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-23T01:21:51.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化　「最後まで盛り上がっていこう！」",
     "link": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
@@ -7,15 +49,27 @@
   },
   {
     "site": "Hatena",
-    "title": "【Hothotレビュー】 最大-35℃冷却！水冷ウェア「ChillerX Pro」を気温36℃のサバゲーで徹底検証",
-    "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2126997.html",
-    "pubDate": "2026-07-22T23:43:01.000Z"
+    "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/101446",
+    "pubDate": "2026-07-23T01:00:37.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GitHub - cursor/agent-trace: A standard format for tracing AI-generated code.",
-    "link": "https://github.com/cursor/agent-trace",
-    "pubDate": "2026-07-22T15:05:05.000Z"
+    "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
+    "link": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html",
+    "pubDate": "2026-07-23T00:40:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "高2が700万件漏えいに関与も……目立つ若年層のサイバー犯罪に「ホワイトハッカーにすれば」が安直なワケ",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/23/news021.html",
+    "pubDate": "2026-07-22T22:57:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "社会システムはなぜ誘導されるのか？ ― システム設計で読み解く認知バイアスとフレーミング : システム設計視点の行動経済学 (1)",
+    "link": "https://qiita.com/maskot1977/items/d2798a8cf6840e8709ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-22T15:01:32.000Z"
   },
   {
     "site": "Qiita",
@@ -28,18 +82,6 @@
     "title": "Souther - ドメインモデルをスラスラ書けることを追い求めた最果てのJVM言語",
     "link": "https://zenn.dev/kawasima/articles/souther-essentials",
     "pubDate": "Wed, 22 Jul 2026 09:36:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMの評価を性能に変える3つの行き先",
-    "link": "https://zenn.dev/takkuhiro/articles/eval-to-improvement-survey",
-    "pubDate": "2026-07-22T09:22:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAIの開発中モデルが他社システムをハッキング、その理由は社内試験で高得点を取るため…忠実すぎるAIの危険性 【生成AI事件簿】GPT-5.6 SolがHugging Faceを攻撃、試験会場を抜けだして模試解答を盗んだ異例の事件 | JBpress (ジェイビープレス)",
-    "link": "https://jbpress.ismedia.jp/articles/-/96058",
-    "pubDate": "2026-07-22T08:40:52.000Z"
   },
   {
     "site": "Qiita",
@@ -60,12 +102,6 @@
     "pubDate": "2026-07-22T07:21:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "斜に構えることをやめたら、VRChatで友達ができた──3年で学んだ「やさしいインターネット」の話",
-    "link": "https://news.denfaminicogamer.jp/kikakuthetower/260722v",
-    "pubDate": "2026-07-22T04:46:34.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "WebエディタのTab問題について調べてみた",
     "link": "https://zenn.dev/cybozu_frontend/articles/contenteditable-tab",
@@ -84,12 +120,6 @@
     "pubDate": "Wed, 22 Jul 2026 00:54:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
-    "link": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-    "pubDate": "2026-07-21T23:07:51.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "shadcn/ui が Base UI をデフォルトに — 公式発表から読み解く移行の背景と実務対応",
     "link": "https://qiita.com/t-kurasawa/items/df29e251165c3ad91487?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -106,12 +136,6 @@
     "title": "情報過多で結局何も残らない、AI時代に取り残されたくない新人の焦りの末路",
     "link": "https://qiita.com/prumnn/items/f3695454f0de13aa8d7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-21T07:57:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地",
-    "link": "https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend",
-    "pubDate": "2026-07-21T07:08:54.000Z"
   },
   {
     "site": "Zenn",
@@ -138,40 +162,16 @@
     "pubDate": "Tue, 21 Jul 2026 02:47:18 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Backlog × AIエージェント連携で開発業務を回す5つの活用例【bee + Agent Skills】",
-    "link": "https://qiita.com/tie_rrific/items/8df560b1cb27945bd4c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-21T02:07:37.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地",
     "link": "https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend",
     "pubDate": "Tue, 21 Jul 2026 00:56:04 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "自社のレビュー履歴からAIコードレビュアーをつくる方法",
-    "link": "https://zenn.dev/estie/articles/f0f114389662ba",
-    "pubDate": "Tue, 21 Jul 2026 00:45:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIの推進がうまくいかない組織アンチパターン",
     "link": "https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-20T10:21:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
-    "link": "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-20T01:01:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SSL/TLS証明書って何？なぜ必要で、誰が発行して誰が使うのかを整理する",
-    "link": "https://qiita.com/mame_hiro416/items/dc7a18f58eb5a2c8a6e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-20T00:06:34.000Z"
   },
   {
     "site": "Hatena",
