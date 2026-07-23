@@ -1,5 +1,41 @@
 [
   {
+    "site": "Hatena",
+    "title": "サイバー被害のニチレイがバックアップからシステム復旧に成功→セキュリティ業界の人から早期復旧に疑問の声「仮にランサムウェアならバックアップデータから破壊する」",
+    "link": "https://togetter.com/li/2723874",
+    "pubDate": "2026-07-23T09:04:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ディスプレイでVRChatの世界を立体映像で見られる謎技術がヤバい、「VketRealに実物がある」と聞いて思わず行きたくなるユーザーも",
+    "link": "https://togetter.com/li/2723866",
+    "pubDate": "2026-07-23T08:30:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PayPayとセブン-イレブン、顧客ID統合か　1億超のID基盤誕生へ　複数報道",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/23/news104.html",
+    "pubDate": "2026-07-23T06:18:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Go 1.27 から uuid 実装がサポートされる！ので個人的に気になった議論とその着地をまとめてみた",
+    "link": "https://zenn.dev/layerx/articles/f7124d4e761c1f",
+    "pubDate": "Thu, 23 Jul 2026 06:03:17 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "みんながAIを使う時、セキュリティについてどう考えればいいのか。 - VISASQ Dev Blog",
+    "link": "https://tech.visasq.com/claude-safe-adoption",
+    "pubDate": "2026-07-23T04:41:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Markdownファイルが、AI時代の負債に？　Googleが提案する「ナレッジ標準化」の一手",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
+    "pubDate": "2026-07-23T04:39:27.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Railsで学ぶ Rubyの実行モデル入門 〜「1行ずつ翻訳」は誤解だった！〜",
     "link": "https://qiita.com/akachiryo/items/0dea3706713f90e7ef7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -13,27 +49,27 @@
   },
   {
     "site": "Hatena",
-    "title": "中国製高性能AI「Kimi K3」はClaude Fableの蒸留によって作られたとホワイトハウス高官が発言",
-    "link": "https://gigazine.net/news/20260723-kimi-k3-distillation-anthropic/",
-    "pubDate": "2026-07-23T03:21:47.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "テスト中のAIが「脱走」して他社に不正侵入、試験問題の答えがある場所を推論",
     "link": "https://www.cnn.co.jp/tech/35250893.html",
     "pubDate": "2026-07-23T03:04:31.000Z"
   },
   {
     "site": "Hatena",
-    "title": "さよなら「Mate」、「VersaPro」。NEC PC法人向けブランドが「LAVIE」に統合",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2127137.html",
-    "pubDate": "2026-07-23T02:34:13.000Z"
+    "title": "無償でも使えるインストーラー作成ソフト「Inno Setup 7」が公開 ～7年ぶりのメジャーアップデート／64bit版を新たに追加、「MAX_PATH」制限も撤廃",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2126929.html",
+    "pubDate": "2026-07-23T02:46:15.000Z"
   },
   {
     "site": "Zenn",
     "title": "設計を、技術の話から始めない",
     "link": "https://zenn.dev/team_lab/articles/31ec1e630ab28b",
     "pubDate": "Thu, 23 Jul 2026 02:30:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「なんかアカウントもしかして乗っ取られてません?」10年以上前に使っていたX(Twitter)アカウントが乗っ取られたので、行政書士を通してX本社に書類を送りアカウントを復旧させた話",
+    "link": "https://togetter.com/li/2723727",
+    "pubDate": "2026-07-23T01:31:23.000Z"
   },
   {
     "site": "Qiita",
@@ -43,27 +79,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「POPOPO」サ終前にMac対応、未公開のWindows版技術はオープンソース化　「最後まで盛り上がっていこう！」",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/23/news074.html",
-    "pubDate": "2026-07-23T01:03:40.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "中国AI「GLM 5.2」、ChatGPTによる侵入後のHugging Faceを惨事から救う | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
     "link": "https://forbesjapan.com/articles/detail/101446",
     "pubDate": "2026-07-23T01:00:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "これは便利！ Illustratorで列、行、ガター、マージンを設定して、ガイド引きができる無料エクステンション -LiveMargins",
-    "link": "https://coliss.com/articles/build-websites/operation/design/extension-to-generate-guides-for-illustrator.html",
-    "pubDate": "2026-07-23T00:40:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "高2が700万件漏えいに関与も……目立つ若年層のサイバー犯罪に「ホワイトハッカーにすれば」が安直なワケ",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/23/news021.html",
-    "pubDate": "2026-07-22T22:57:09.000Z"
   },
   {
     "site": "Qiita",
@@ -79,9 +97,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Souther - ドメインモデルをスラスラ書けることを追い求めた最果てのJVM言語",
-    "link": "https://zenn.dev/kawasima/articles/souther-essentials",
-    "pubDate": "Wed, 22 Jul 2026 09:36:32 GMT"
+    "title": "個人の無料GmailでSnowflakeにログインできるか試した——OIDCフェデレーテッド認証で検証",
+    "link": "https://zenn.dev/inoway/articles/i184-google-oidc-personal-gmail",
+    "pubDate": "Wed, 22 Jul 2026 10:35:45 GMT"
   },
   {
     "site": "Qiita",
@@ -94,12 +112,6 @@
     "title": "先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった",
     "link": "https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-22T08:01:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "オープンAIの人工知能　テスト中に隔離環境抜け出し、サイバー攻撃「自律的に起こった」",
-    "link": "https://www.sankei.com/article/20260722-2MMNPNOKB5EXJL7M3EUB3LVKGY/",
-    "pubDate": "2026-07-22T07:21:10.000Z"
   },
   {
     "site": "Zenn",
@@ -118,6 +130,12 @@
     "title": "Rust に書き直さなくても C 言語をメモリ安全にできる Fil-C を試した",
     "link": "https://zenn.dev/mattn/articles/cace8c5a00b9cc",
     "pubDate": "Wed, 22 Jul 2026 00:54:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ベクトル検索の「ベクトル」とは何か",
+    "link": "https://zenn.dev/mhackit/articles/vector-search-vector-explained",
+    "pubDate": "Tue, 21 Jul 2026 16:31:52 GMT"
   },
   {
     "site": "Qiita",
@@ -156,27 +174,9 @@
     "pubDate": "Tue, 21 Jul 2026 02:50:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Unity CLI でAIエージェントにゲームを作らせてみた",
-    "link": "https://zenn.dev/tkada/articles/1ba97707dee14a",
-    "pubDate": "Tue, 21 Jul 2026 02:47:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地",
-    "link": "https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend",
-    "pubDate": "Tue, 21 Jul 2026 00:56:04 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIの推進がうまくいかない組織アンチパターン",
     "link": "https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-20T10:21:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "失敗できる意思決定とソフトウェアとの正しい歩き方_-_変化と向き合う選択肢/ Designing for Reversible Decisions",
-    "link": "https://speakerdeck.com/soudai/designing-for-reversible-decisions",
-    "pubDate": "2026-02-24T01:43:24.000Z"
   }
 ]
