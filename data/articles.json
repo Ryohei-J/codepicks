@@ -1,9 +1,39 @@
 [
   {
+    "site": "Qiita",
+    "title": "自宅でローカルなテレビ局を開局してみた 【地上デジタル放送の仕組みに迫る】 - Qiita",
+    "link": "https://qiita.com/Rabbit_Program/items/7c3b004ff56ec4cc6b06",
+    "pubDate": "2026-07-24T09:47:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代におけるテストの基礎の再定義 / Rethinking the Fundamentals of Testing in the AI Era",
+    "link": "https://speakerdeck.com/mineo_matsuya/rethinking-the-fundamentals-of-testing-in-the-ai-era",
+    "pubDate": "2026-07-24T09:38:38.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "LG製モニターをつなぐとMcAfeeの広告が勝手に出る問題。Microsoftが対応開始",
     "link": "https://pc.watch.impress.co.jp/docs/news/2127600.html",
     "pubDate": "2026-07-24T06:00:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本の国富を育てる「遊び部屋」とは？ 登大遊氏基調講演レポート【CEDEC2026】",
+    "link": "https://game.watch.impress.co.jp/docs/news/2127591.html",
+    "pubDate": "2026-07-24T05:57:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "性的表現に誤タップ誘導――ネットの“不快な広告”への苦情が1年で2倍に　件数も過去最多",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/24/news076.html",
+    "pubDate": "2026-07-24T05:04:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話",
+    "link": "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
+    "pubDate": "2026-07-24T04:52:21.000Z"
   },
   {
     "site": "Hatena",
@@ -18,12 +48,6 @@
     "pubDate": "2026-07-24T03:57:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「AIキルスイッチ法案」が米国で提出。AI暴走に政府が介入",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2127555.html",
-    "pubDate": "2026-07-24T03:29:45.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AI時代、デザインはこれからどうなるのだろうか 〜エンジニア視点で考える〜",
     "link": "https://qiita.com/kimuchi_a/items/d0cc21f56660cbad5457?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -31,15 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "第38回：サブスク84社に調査、ユーザー没後の解約対応はなぜ後手に回るのか？【天国へのプロトコル】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/tengoku/2127358.html",
-    "pubDate": "2026-07-23T23:28:13.000Z"
+    "title": "【Claude Code活用特集】あの会社で一番使われてるSkillsは？Claude Codeの利用Skills Top5を大公開！ | Findy AI+",
+    "link": "https://lp.ai-plus.findy.io/articles/claude-code-skills-top5/",
+    "pubDate": "2026-07-24T00:05:45.000Z"
   },
   {
     "site": "Hatena",
     "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
     "link": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
     "pubDate": "2026-07-23T21:38:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話",
+    "link": "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
+    "pubDate": "Thu, 23 Jul 2026 20:55:48 GMT"
   },
   {
     "site": "Qiita",
@@ -54,10 +84,10 @@
     "pubDate": "2026-07-23T14:58:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "『動くだけ』のその先へ — AI駆動開発で品質と速度を両取りする温故知新な新手法 / Beyond Just Vibe Coding - Combining Classic Principles with AI-Driven Development",
-    "link": "https://speakerdeck.com/itohiro73/beyond-just-vibe-coding-combining-classic-principles-with-ai-driven-development",
-    "pubDate": "2026-07-23T14:55:51.000Z"
+    "site": "Zenn",
+    "title": "LiteLLM によるAI gateway を公式実装でデプロイして Claude Code で動かしてみた",
+    "link": "https://zenn.dev/aws_japan/articles/e536274dc77a4f",
+    "pubDate": "Thu, 23 Jul 2026 14:50:55 GMT"
   },
   {
     "site": "Zenn",
@@ -66,10 +96,10 @@
     "pubDate": "Thu, 23 Jul 2026 14:15:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "iPhoneの箱はなぜ無傷で届くのか､アップルが世界中に｢おとりの箱｣を送り続ける驚きの理由",
-    "link": "https://toyokeizai.net/articles/-/952119",
-    "pubDate": "2026-07-23T10:43:10.000Z"
+    "site": "Zenn",
+    "title": "Node.js バージョン管理、Volta から mise へ移行した。Python は uv 管理のままにした。",
+    "link": "https://zenn.dev/takna/articles/volta-to-mise-migration",
+    "pubDate": "Thu, 23 Jul 2026 09:51:16 GMT"
   },
   {
     "site": "Qiita",
@@ -108,12 +138,6 @@
     "pubDate": "Thu, 23 Jul 2026 05:26:28 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "白黒のコマになぜ色が見えるのか 200年の謎をAIが解明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/101363",
-    "pubDate": "2026-07-23T04:09:28.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Railsで学ぶ Rubyの実行モデル入門 〜「1行ずつ翻訳」は誤解だった！〜",
     "link": "https://qiita.com/akachiryo/items/0dea3706713f90e7ef7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -130,30 +154,6 @@
     "title": "設計を、技術の話から始めない",
     "link": "https://zenn.dev/team_lab/articles/31ec1e630ab28b",
     "pubDate": "Thu, 23 Jul 2026 02:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発しているだけで進捗が更新される。Linear × Claude Code × GitHubで作る開発フロー",
-    "link": "https://zenn.dev/explaza/articles/500ded8ea67252",
-    "pubDate": "Thu, 23 Jul 2026 00:54:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "L.トーバルズ氏、AI反対派に強硬姿勢--「フォークしろ」",
-    "link": "https://japan.zdnet.com/article/35250695/",
-    "pubDate": "2026-07-23T00:40:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Palantir Foundryのオントロジーをミニマムに再現したOSSを実測検証した",
-    "link": "https://zenn.dev/mskbhd/articles/lab-198-gura105-operational-ontology-o",
-    "pubDate": "Wed, 22 Jul 2026 11:01:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Souther - ドメインモデルをスラスラ書けることを追い求めた最果てのJVM言語",
-    "link": "https://zenn.dev/kawasima/articles/souther-essentials",
-    "pubDate": "Wed, 22 Jul 2026 09:36:32 GMT"
   },
   {
     "site": "Qiita",
