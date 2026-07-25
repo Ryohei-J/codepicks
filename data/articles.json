@@ -1,15 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "Hermes Agent と Slack で設計し、Linear のチケットから Draft PR まで作成するワークフローの素振りをした",
+    "link": "https://azukiazusa.dev/blog/hermes-agent-slack-workflow/",
+    "pubDate": "2026-07-25T08:52:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeから使えるMCPサーバーをAgentCoreゲートウェイで構築する",
+    "link": "https://qiita.com/moritalous/items/96a0427ee21c89fe1289?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-25T06:58:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "落ちた冷麺を出した店が許せない　AIに訴状書かせ企業を訴えてみた：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASV7J33P2V7JPTIL008M.html",
+    "pubDate": "2026-07-25T05:26:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "クオンツはテクニカル分析を寄与度分解の中で見ている",
+    "link": "https://zenn.dev/gamella/articles/7e1af53f19d94d",
+    "pubDate": "2026-07-25T04:04:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "街のAIっぽい作品鑑賞会",
     "link": "https://dailyportalz.jp/kiji/ai-like-art-gallery",
     "pubDate": "2026-07-25T02:33:25.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "クオンツはテクニカル分析を寄与度分解の中で見ている",
+    "link": "https://zenn.dev/gamella/articles/7e1af53f19d94d",
+    "pubDate": "Sat, 25 Jul 2026 01:46:14 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2127832.html",
-    "pubDate": "2026-07-24T20:18:51.000Z"
+    "title": "AI工学特論: MLOps・継続的評価",
+    "link": "https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37",
+    "pubDate": "2026-07-25T00:03:34.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと",
+    "link": "https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-24T23:20:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JenkinsでGitHub Copilot CLIにPRを自動レビューさせる ― E2BIG・プロンプトインジェクション・トークン地獄との戦い",
+    "link": "https://qiita.com/jqit-yukiono/items/21c54529410ba960c388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-24T22:20:08.000Z"
   },
   {
     "site": "Hatena",
@@ -24,6 +66,12 @@
     "pubDate": "2026-07-24T17:11:06.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "防衛者のジレンマが映し出す国家の弱点 ― 財源ではなく供給能力を守るシステム設計 : システム設計視点の行動経済学 (3)",
+    "link": "https://qiita.com/maskot1977/items/bd993b8b6ce6937c3a76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-24T15:15:50.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
     "link": "https://note.com/chan_san_jp/n/n137415f2ef48",
@@ -31,21 +79,15 @@
   },
   {
     "site": "Hatena",
-    "title": "[PDF]株式会社はてな　特別調査委員会による調査報告書の公表及び役員報酬の一部自主返上に関するお知らせ",
-    "link": "https://ssl4.eir-parts.net/doc/3930/tdnet/2856001/00.pdf",
-    "pubDate": "2026-07-24T11:30:36.000Z"
+    "title": "AIで「日本が追いつくのは無理」　中国を軽く見た製造業のツケ | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20260724/k00/00m/020/214000c",
+    "pubDate": "2026-07-24T10:54:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI時代のエンジニアリングマネージャーのあり方｜外部品質編 〜品質の可視化を、現場と経営をつなぐ形にするまで〜",
-    "link": "https://zenn.dev/loglass/articles/ef099b123153cf",
-    "pubDate": "2026-07-24T11:14:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Building verification loops in Claude Code with skills | Claude by Anthropic",
-    "link": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
-    "pubDate": "2026-07-24T09:44:24.000Z"
+    "site": "Qiita",
+    "title": "AI-DLC V2を導入し、その構成要素を組織に最適化させる",
+    "link": "https://qiita.com/Syoitu/items/a784d74541fac33f6814?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-24T10:14:47.000Z"
   },
   {
     "site": "Qiita",
@@ -66,22 +108,10 @@
     "pubDate": "Fri, 24 Jul 2026 04:40:27 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AI時代、デザインはこれからどうなるのだろうか 〜エンジニア視点で考える〜",
-    "link": "https://qiita.com/kimuchi_a/items/d0cc21f56660cbad5457?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-24T03:27:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "go.sumって何のためにあんの？",
-    "link": "https://qiita.com/kanzawa_kentaro/items/3a2b7cba67f4d8e0a7c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-24T02:08:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成AIを活用した自動化に必要な権限設計の考え方",
-    "link": "https://qiita.com/inamuu/items/8439fcee712184740608?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-24T00:50:58.000Z"
+    "site": "Zenn",
+    "title": "Terraform / Kubernetes の構築で、初心者がよく指摘されるポイントのまとめ",
+    "link": "https://zenn.dev/scalar_sol_blog/articles/6fa517a84cb7ff",
+    "pubDate": "Fri, 24 Jul 2026 01:05:30 GMT"
   },
   {
     "site": "Zenn",
@@ -90,28 +120,16 @@
     "pubDate": "Thu, 23 Jul 2026 20:55:48 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "狩野英孝さんのポストは、なぜ1992年へ飛んだのか？整数オーバーフローが起こす時刻バグ",
-    "link": "https://qiita.com/miruky/items/4be4d7e683632ba8c396?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-23T14:58:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アジャイル開発に関する有識者検討会（第7回）｜デジタル庁",
-    "link": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
-    "pubDate": "2026-07-23T12:51:21.000Z"
+    "site": "Zenn",
+    "title": "Astroで日英ブログを作って分かった5つの実装パターン",
+    "link": "https://zenn.dev/akari1106/articles/ea85f0a245bb8b",
+    "pubDate": "Thu, 23 Jul 2026 14:15:58 GMT"
   },
   {
     "site": "Zenn",
     "title": "2bitに量子化したKimi K2.7 CodeにMac Studio 1台で$69,875を稼いでもらった",
     "link": "https://zenn.dev/hellohazime/articles/kimi_k27_code_swelancer_local",
     "pubDate": "Thu, 23 Jul 2026 12:35:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人エンジニアは\"忘れる前提\"で仕事をするのがベストだと気がついた",
-    "link": "https://qiita.com/prumnn/items/ceb0f115dfe9459315bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-23T09:33:25.000Z"
   },
   {
     "site": "Qiita",
@@ -138,10 +156,10 @@
     "pubDate": "Thu, 23 Jul 2026 06:03:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "MarpのHTMLをコネコネして、biim式RTA画面で登壇した",
-    "link": "https://zenn.dev/imaimai17468/articles/d045e19b191102",
-    "pubDate": "Thu, 23 Jul 2026 05:26:28 GMT"
+    "site": "Qiita",
+    "title": "[rclone] LinuxでOneDriveをファイルシステムに「ちゃんと」マウントする",
+    "link": "https://qiita.com/alpaca-honke/items/745df317fc4778e8a5fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-23T03:52:29.000Z"
   },
   {
     "site": "Zenn",
@@ -150,33 +168,15 @@
     "pubDate": "Thu, 23 Jul 2026 03:08:48 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "設計を、技術の話から始めない",
-    "link": "https://zenn.dev/team_lab/articles/31ec1e630ab28b",
-    "pubDate": "Thu, 23 Jul 2026 02:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI支援旅行アプリ「タベリエ」を、構造化ループエンジニアリングで作り上げた話",
-    "link": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
-    "pubDate": "2026-07-23T01:48:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "開発しているだけで進捗が更新される。Linear × Claude Code × GitHubで作る開発フロー",
-    "link": "https://zenn.dev/explaza/articles/500ded8ea67252",
-    "pubDate": "Thu, 23 Jul 2026 00:54:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想",
     "link": "https://qiita.com/sumomoo/items/700e37b3240717217b37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-22T08:16:40.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった",
-    "link": "https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-22T08:01:40.000Z"
+    "site": "Zenn",
+    "title": "【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った",
+    "link": "https://zenn.dev/peishim/articles/a10faeabae7c09",
+    "pubDate": "2026-07-22T04:25:27.000Z"
   }
 ]
