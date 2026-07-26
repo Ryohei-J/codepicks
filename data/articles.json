@@ -1,9 +1,51 @@
 [
   {
+    "site": "Zenn",
+    "title": "Opus5が思考が浅いように感じる問題への対策",
+    "link": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
+    "pubDate": "2026-07-26T04:18:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "デスクに欲しい情報を集約　SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
+    "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html",
+    "pubDate": "2026-07-26T00:34:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」",
+    "link": "https://togetter.com/li/2724822",
+    "pubDate": "2026-07-26T00:16:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Mathematics in the age of AI - Public lecture, International Congress of Mathematicians 2026",
+    "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+    "pubDate": "2026-07-25T22:22:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+    "pubDate": "2026-07-25T22:02:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "開発効率が上がったCLIツール・コマンド10選",
+    "link": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-25T16:56:11.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "財源幻想を超える国家設計 ― 限界合理性を前提にした適応的対応 : システム設計視点の行動経済学 (4)",
     "link": "https://qiita.com/maskot1977/items/2c9f5e67d5fc3f9476b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-25T15:07:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Unity】VContainerを利用して安定した拡張性のあるゲーム基盤をつくる！",
+    "link": "https://qiita.com/archeleeds/items/042d8a9ffaf888d90752?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-25T14:05:42.000Z"
   },
   {
     "site": "Hatena",
@@ -24,12 +66,6 @@
     "pubDate": "2026-07-25T11:22:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Hermes Agent と Slack で設計し、Linear のチケットから Draft PR まで作成するワークフローの素振りをした",
-    "link": "https://azukiazusa.dev/blog/hermes-agent-slack-workflow/",
-    "pubDate": "2026-07-25T08:52:10.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "放置していた旧環境で見つけたReact2Shell攻撃の実態",
     "link": "https://zenn.dev/munenick/articles/b507a9848b6fdd",
@@ -37,15 +73,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Codeから使えるMCPサーバーをAgentCoreゲートウェイで構築する",
-    "link": "https://qiita.com/moritalous/items/96a0427ee21c89fe1289?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-25T06:58:34.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった",
     "link": "https://qiita.com/watany/items/11358e8e8966d5e48a09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-25T06:46:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "非エンジニアが気楽に始める仕様駆動開発",
+    "link": "https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-25T06:31:37.000Z"
   },
   {
     "site": "Zenn",
@@ -55,45 +91,15 @@
   },
   {
     "site": "Hatena",
-    "title": "AI工学特論: MLOps・継続的評価",
-    "link": "https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37",
-    "pubDate": "2026-07-25T00:03:34.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "dns.gby",
     "link": "https://www.mew.org/~kazu/material/2026-dns.pdf",
     "pubDate": "2026-07-24T23:28:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと",
-    "link": "https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-24T23:20:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "JenkinsでGitHub Copilot CLIにPRを自動レビューさせる ― E2BIG・プロンプトインジェクション・トークン地獄との戦い",
-    "link": "https://qiita.com/jqit-yukiono/items/21c54529410ba960c388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-24T22:20:08.000Z"
   },
   {
     "site": "Hatena",
     "title": "『読者の横顔』　株式会社はてな　コーポレート本部　経理部長　堀内潤一 氏 | ZEIKEN PRESS",
     "link": "https://www.zeiken.co.jp/zeikenpress/press/0001pp20190801/",
     "pubDate": "2026-07-24T17:44:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIで「日本が追いつくのは無理」　中国を軽く見た製造業のツケ | 毎日新聞",
-    "link": "https://mainichi.jp/articles/20260724/k00/00m/020/214000c",
-    "pubDate": "2026-07-24T10:54:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI-DLC V2を導入し、その構成要素を組織に最適化させる",
-    "link": "https://qiita.com/Syoitu/items/a784d74541fac33f6814?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-24T10:14:47.000Z"
   },
   {
     "site": "Zenn",
@@ -106,12 +112,6 @@
     "title": " AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」",
     "link": "https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-24T08:14:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "国内初の「Insta360ブランドストア」が浅草にオープン　実機展示と体験が可能に　オープンイベントも",
-    "link": "https://dc.watch.impress.co.jp/docs/news/2127528.html",
-    "pubDate": "2026-07-24T06:11:00.000Z"
   },
   {
     "site": "Zenn",
@@ -132,22 +132,28 @@
     "pubDate": "Fri, 24 Jul 2026 01:05:30 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "生成AIを活用した自動化に必要な権限設計の考え方",
+    "link": "https://qiita.com/inamuu/items/8439fcee712184740608?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-24T00:50:58.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話",
     "link": "https://zenn.dev/singularity/articles/diy-terminal-500-commits",
     "pubDate": "Thu, 23 Jul 2026 20:55:48 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Spatial languages: writing code in 2D",
-    "link": "https://shukla.io/blog/2026-07/cccx.html",
-    "pubDate": "2026-07-23T14:57:08.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "2bitに量子化したKimi K2.7 CodeにMac Studio 1台で$69,875を稼いでもらった",
     "link": "https://zenn.dev/hellohazime/articles/kimi_k27_code_swelancer_local",
     "pubDate": "Thu, 23 Jul 2026 12:35:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "`&&` は「かつ」ではない",
+    "link": "https://qiita.com/mameshivaa/items/5d2c29a949a82eea6020?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-23T10:41:09.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Go 1.27 から uuid 実装がサポートされる！ので個人的に気になった議論とその着地をまとめてみた",
     "link": "https://zenn.dev/layerx/articles/f7124d4e761c1f",
     "pubDate": "Thu, 23 Jul 2026 06:03:17 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "[rclone] LinuxでOneDriveをファイルシステムに「ちゃんと」マウントする",
-    "link": "https://qiita.com/alpaca-honke/items/745df317fc4778e8a5fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-23T03:52:29.000Z"
   }
 ]
