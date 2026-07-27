@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "周囲から頼られ、「優秀だ」と評されるソフトウェアエンジニアの6つのタイプ - mtx2s’s blog",
+    "link": "https://mtx2s.hatenablog.com/entry/2026/07/27/194549",
+    "pubDate": "2026-07-27T11:09:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起　AI要約も餌食に",
     "link": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
     "pubDate": "2026-07-27T10:22:31.000Z"
@@ -10,12 +16,6 @@
     "title": "MIXI、AIと共創する次世代エンジニア育成に向けた2026年度新卒技術研修資料を公開 | ニュース| 株式会社MIXI",
     "link": "https://mixi.co.jp/news/2026/0727/55293/",
     "pubDate": "2026-07-27T09:38:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東大松尾・岩澤研が講義動画の英語字幕を自動生成するAIアプリを無償公開／日本語音声の書き起こし、文章の整形、英訳、字幕の分割、品質チェックまでを自動実行",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2127822.html",
-    "pubDate": "2026-07-27T07:36:56.000Z"
   },
   {
     "site": "Hatena",
@@ -31,15 +31,27 @@
   },
   {
     "site": "Zenn",
-    "title": "「ソフトウェアアーキテクチャの基礎」を読んで設計判断の引き出しが増えた",
-    "link": "https://zenn.dev/raamenwakamatu/articles/software-architecture-fundamentals-review",
-    "pubDate": "2026-07-27T01:05:18.000Z"
+    "title": "【2026年版】MIXI 新卒向け技術研修を公開しました。",
+    "link": "https://zenn.dev/mixi/articles/fd62f8ddc178f6",
+    "pubDate": "2026-07-27T05:38:56.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "RTX 3090（24GB）で7Bモデル学習を成立― 個人GPUで大規模Transformerを動かすための実践記録 - Qiita",
+    "link": "https://qiita.com/nakatada-lab/items/9f45910262d238964997",
+    "pubDate": "2026-07-27T04:43:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
-    "link": "https://av.watch.impress.co.jp/docs/series/dal/2127950.html",
-    "pubDate": "2026-07-27T00:05:43.000Z"
+    "title": "寄稿：弁護士ドットコムにおける AWS DevOps Agent の活用事例 – インシデント対応の自動化と属人化の解消 | Amazon Web Services",
+    "link": "https://aws.amazon.com/jp/blogs/news/bengo4com-devops-agent-case-study/",
+    "pubDate": "2026-07-27T02:05:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「ソフトウェアアーキテクチャの基礎」を読んで設計判断の引き出しが増えた",
+    "link": "https://zenn.dev/raamenwakamatu/articles/software-architecture-fundamentals-review",
+    "pubDate": "2026-07-27T01:05:18.000Z"
   },
   {
     "site": "Qiita",
@@ -52,12 +64,6 @@
     "title": "出張者が標的に：ホテルWi-Fi経由でMicrosoft 365認証情報を窃取、MFAもすり抜け | 財経新聞",
     "link": "https://www.zaikei.co.jp/article/20260726/862851.html",
     "pubDate": "2026-07-26T22:23:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
-    "link": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
-    "pubDate": "2026-07-26T21:56:15.000Z"
   },
   {
     "site": "Zenn",
@@ -142,12 +148,6 @@
     "title": "非エンジニアが気楽に始める仕様駆動開発",
     "link": "https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-25T06:31:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "人間の目はかわらない、だからJPEGは30年もつ",
-    "link": "https://speakerdeck.com/yuzneri/ren-jian-nomu-hakawaranai-dakarajpegha30nian-motu",
-    "pubDate": "2026-07-25T03:43:46.000Z"
   },
   {
     "site": "Zenn",
