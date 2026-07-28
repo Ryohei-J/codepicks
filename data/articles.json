@@ -1,27 +1,57 @@
 [
   {
+    "site": "Qiita",
+    "title": "やる気を信じず、学習習慣を仕組み化して固定せよ【三日坊主回避】",
+    "link": "https://qiita.com/sumomoo/items/0d6667bbcf46ad59c320?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-28T04:36:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "参考書を読んでも忘れるのは当然。大事なのは\"思い出す\"回数",
+    "link": "https://qiita.com/prumnn/items/405f4a78ec5f0232b234?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-28T04:35:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「最後に検証して」はもう書かなくていい — Claude Opus 5 でプロンプトの常識が逆転した4つのこと",
+    "link": "https://qiita.com/jqit_suwa/items/74a96ce83dde5245407a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-28T04:08:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
+    "link": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
+    "pubDate": "2026-07-28T00:58:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
+    "link": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
+    "pubDate": "Mon, 27 Jul 2026 23:19:53 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "サイバー攻撃グループの名前から国家や動機を分かりやすく。Googleが新命名規則を展開　「APT44」は「SANDWORM RELIC」に",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2128210.html",
+    "pubDate": "2026-07-27T22:14:43.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)",
     "link": "https://jbpress.ismedia.jp/articles/-/96137",
     "pubDate": "2026-07-27T21:58:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Kimi-K3/k3_tech_report.pdf at main · MoonshotAI/Kimi-K3",
-    "link": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-    "pubDate": "2026-07-27T21:12:17.000Z"
+    "site": "Qiita",
+    "title": "oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた",
+    "link": "https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-27T21:55:38.000Z"
   },
   {
     "site": "Hatena",
-    "title": "クライアントに送ったラフを生成AIに使われ、「AI出力したものを使うのでもういいです」と取引中止に…フリーランスも泣き寝入りしないため、途中成果物を契約で守る必要がある",
-    "link": "https://togetter.com/li/2725531",
-    "pubDate": "2026-07-27T20:57:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
-    "link": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
-    "pubDate": "2026-07-27T18:03:40.000Z"
+    "title": "AWSの公式オンラインワークショップ、無料のAWSサンドボックス環境を提供開始。学習用にAWSのサービスやコード実行など利用可能に",
+    "link": "https://www.publickey1.jp/blog/26/awsawsaws.html",
+    "pubDate": "2026-07-27T21:22:01.000Z"
   },
   {
     "site": "Zenn",
@@ -40,12 +70,6 @@
     "title": "セキュリティ研修【MIXI 26新卒技術研修】",
     "link": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_security",
     "pubDate": "2026-07-27T13:31:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「こんなのに追われたら……」急斜面もやすやす爆走、中国製の車輪付き四足ロボのデモ動画が話題　最高時速20km超",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/27/news099.html",
-    "pubDate": "2026-07-27T12:02:58.000Z"
   },
   {
     "site": "Zenn",
@@ -72,6 +96,12 @@
     "pubDate": "Mon, 27 Jul 2026 07:22:43 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "コードレビューでの見落としをきっかけに『ITエンジニア1年目の教科書』を読んだ",
+    "link": "https://zenn.dev/flinters_blog/articles/eeb769c9331de1",
+    "pubDate": "Mon, 27 Jul 2026 06:46:05 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "【Copilot神アプデ】Excelの地味な手間が消える「新機能3選」、自分たち仕様に超進化",
     "link": "https://www.sbbit.jp/article/cont1/186178",
@@ -85,27 +115,33 @@
   },
   {
     "site": "Zenn",
+    "title": "データエンジニアが注力すべきSilver層設計の重要性と難しさ",
+    "link": "https://zenn.dev/gixo/articles/medallion-silver-layer-importance",
+    "pubDate": "Mon, 27 Jul 2026 05:02:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SODA における Devin の活用事例",
+    "link": "https://zenn.dev/team_soda/articles/cc5fead918f71c",
+    "pubDate": "Mon, 27 Jul 2026 04:38:53 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "【2026年版】MIXI 新卒向け技術研修を公開しました。",
     "link": "https://zenn.dev/mixi/articles/fd62f8ddc178f6",
     "pubDate": "Mon, 27 Jul 2026 04:26:35 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "RAGの検索評価について調査してみた ── 評価指標とデータセットの選び方",
-    "link": "https://zenn.dev/data_and_ai/articles/e8a0daa9b9fd4c",
-    "pubDate": "Mon, 27 Jul 2026 03:41:36 GMT"
+    "site": "Qiita",
+    "title": "Mac mini（M4 Pro / 48GB）で「完全ローカル」のLLM + RAG環境を構築してみた",
+    "link": "https://qiita.com/y-okayama-tb/items/0127a7c5203f44507474?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-27T04:22:48.000Z"
   },
   {
     "site": "Zenn",
     "title": "最近の仕事の流れ",
     "link": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
     "pubDate": "Mon, 27 Jul 2026 00:31:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "RTX PRO 6000 BlackwellでAITuberを作りたい",
-    "link": "https://qiita.com/matsudai/items/e94acdcd34f52a1bc5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-26T22:54:24.000Z"
   },
   {
     "site": "Zenn",
@@ -120,40 +156,10 @@
     "pubDate": "Sun, 26 Jul 2026 16:36:23 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」",
-    "link": "https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-26T16:32:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Agent Skillsを備えたAntigravity CLIとアーキテクチャ設計対決した",
-    "link": "https://qiita.com/satoshi-sugiyama/items/467e10f4af6ff5cb84d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-26T15:11:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【速報】Opus 5、React習熟度ベンチマークで余裕のFable 5超え",
-    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-14",
-    "pubDate": "Sun, 26 Jul 2026 09:19:46 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道",
-    "link": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-26T06:11:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「ソフトウェアアーキテクチャの基礎」を読んで設計判断の引き出しが増えた",
-    "link": "https://zenn.dev/raamenwakamatu/articles/software-architecture-fundamentals-review",
-    "pubDate": "Sun, 26 Jul 2026 03:47:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Opus 5では今までのプロンプトが逆効果に。「検証して」を消して「簡潔に」と書くべし。公式プロンプトガイドを読み解く",
-    "link": "https://zenn.dev/little_hand_s/articles/72646a09f49d2a",
-    "pubDate": "Sun, 26 Jul 2026 03:40:03 GMT"
+    "site": "Hatena",
+    "title": "説明可能AI(XAI)の現状と展望",
+    "link": "https://kaityo256.github.io/explainable-ai-review",
+    "pubDate": "2026-07-26T00:54:26.000Z"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった",
-    "link": "https://qiita.com/watany/items/11358e8e8966d5e48a09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-25T06:46:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "非エンジニアが気楽に始める仕様駆動開発",
-    "link": "https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-25T06:31:37.000Z"
+    "title": "事業会社のデータ分析屋として自分が大切にしてること＝正しさとユーザ目線",
+    "link": "https://qiita.com/t2murata/items/4c5fbfb903231b974d5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-25T09:24:50.000Z"
   }
 ]
