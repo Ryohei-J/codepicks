@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "使いながら育てる Claude Code ― 開発フローの1コマンド化 × 繰り返し指摘の自動仕組み化 - Tabelog Tech Blog",
+    "link": "https://tech-blog.tabelog.com/entry/react-pipeline-review-digest-claude-code-quality-automation",
+    "pubDate": "2026-07-29T05:45:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI対策で問い合わせが半年で6倍に。昨年1年分の売上を約2ヶ月で超えた司法書士法人",
+    "link": "https://lucy.ne.jp/bazubu/case/mirasia",
+    "pubDate": "2026-07-29T02:01:08.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた画像だ！」とわかるのか？と投稿→集まった様々な考察が興味深い「光の印象」との声も",
     "link": "https://togetter.com/li/2725950",
     "pubDate": "2026-07-29T01:10:30.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "オンプレミスからプライベートなAPI Gatewayを呼ぶ ― CognitoのTokenエンドポイントをAPI Gatewayでプロキシする構成",
+    "link": "https://qiita.com/ajisawa/items/43dc7431773cab0b76b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-29T00:32:47.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "アップル、iPhoneやMacで「リース」開始　iPhoneは月額17.99ドルから",
+    "title": "アップル、iPhoneやMacで「リース」開始　iPhoneは月額17.99ドルから - Impress Watch",
     "link": "https://www.watch.impress.co.jp/docs/news/2128715.html",
     "pubDate": "2026-07-29T00:24:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "川重の乗れる多脚ロボット「コルレオ」　開発は仮想空間とフィジカルAI活用",
+    "link": "https://www.watch.impress.co.jp/docs/news/2128633.html",
+    "pubDate": "2026-07-28T23:12:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【決着】Claude CodeとCodexの設定ファイルを同期させる (みんな仲良く)",
+    "link": "https://zenn.dev/explaza/articles/20f7f41cff8428",
+    "pubDate": "2026-07-28T22:23:21.000Z"
   },
   {
     "site": "Hatena",
@@ -25,33 +55,33 @@
   },
   {
     "site": "Hatena",
-    "title": "Windows 11 でローカルアカウントを作成する方法【2026年7月時点】",
-    "link": "https://w1.zawa-lab.net/p/20260728_oobe_bypass/",
-    "pubDate": "2026-07-28T13:55:41.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「Xが情報収集に役立たない……」熊本地震で不満の声続出　「Twitterを返して」",
     "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000249/",
     "pubDate": "2026-07-28T13:20:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「作ること」と「価値を生むこと」はなぜズレるのか：アウトプットと価値の断絶を乗り越える / Why \"Building\" and \"Delivering Value\" Diverge",
-    "link": "https://speakerdeck.com/aki_iinuma/why-building-and-delivering-value-diverge",
-    "pubDate": "2026-07-28T11:44:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "データベース「PostgreSQL」がどのように実際には内部で動いているかがシムシティっぽい3Dでわかる「PGSimCity」",
-    "link": "https://gigazine.net/news/20260728-pgsimcity-postgresql/",
-    "pubDate": "2026-07-28T11:29:10.000Z"
+    "site": "Zenn",
+    "title": "TypeScript 7 時代の Vue.js ツールチェーン Vize を実プロダクトで検証した",
+    "link": "https://zenn.dev/uniquevision/articles/4359e64b17b028",
+    "pubDate": "Tue, 28 Jul 2026 10:11:01 GMT"
   },
   {
     "site": "Hatena",
     "title": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装",
     "link": "https://forest.watch.impress.co.jp/docs/news/2128581.html",
     "pubDate": "2026-07-28T09:16:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Routinesにてサブスク内で自動コードレビューする",
+    "link": "https://zenn.dev/rehabforjapan/articles/claude-code-routines-pr-review-202607",
+    "pubDate": "Tue, 28 Jul 2026 08:42:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "生成AIでPIIを消し去る！SnowflakeのAI_REDACTでフリーテキストを守る挑戦",
+    "link": "https://zenn.dev/dely_jp/articles/7a27a44c06b30a",
+    "pubDate": "Tue, 28 Jul 2026 06:18:05 GMT"
   },
   {
     "site": "Zenn",
@@ -90,28 +120,16 @@
     "pubDate": "Mon, 27 Jul 2026 23:19:53 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Agentic RLではtool callを含むtrajectoryをどう学習するのか",
-    "link": "https://zenn.dev/takkuhiro/articles/agentic-rl-trajectory-mechanics",
-    "pubDate": "Mon, 27 Jul 2026 22:00:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた",
     "link": "https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-27T21:55:38.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Excel風に入力できるガントチャートアプリ『Ganttline』を作って公開した",
-    "link": "https://zenn.dev/ricckyyy/articles/ganttline-introduction",
-    "pubDate": "2026-07-27T13:26:51.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "【ProcrastiNation】今日できることは明日でもできる、全力で先延ばしにしよう【Next.js】",
-    "link": "https://qiita.com/rana_kualu/items/7f6bb159f7d65e53620d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-27T10:19:33.000Z"
+    "title": "【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】",
+    "link": "https://qiita.com/Nana_777/items/1766dd6bbd308222f71b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-27T21:07:03.000Z"
   },
   {
     "site": "Zenn",
@@ -124,12 +142,6 @@
     "title": "「経験がないから」を言い訳にしなくていい時代になった",
     "link": "https://qiita.com/sumomoo/items/122f9a34360e256bf042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-27T08:09:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【全6問】ITパスポートと基本情報、実際どのくらい難しいの?比べてみた",
-    "link": "https://qiita.com/prumnn/items/2d7331eac0d4a01ba030?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-27T08:07:02.000Z"
   },
   {
     "site": "Zenn",
@@ -145,9 +157,9 @@
   },
   {
     "site": "Zenn",
-    "title": "【2026年版】MIXI 新卒向け技術研修を公開しました。",
-    "link": "https://zenn.dev/mixi/articles/fd62f8ddc178f6",
-    "pubDate": "Mon, 27 Jul 2026 04:26:35 GMT"
+    "title": "データエンジニアが注力すべきSilver層設計の重要性と難しさ",
+    "link": "https://zenn.dev/gixo/articles/medallion-silver-layer-importance",
+    "pubDate": "Mon, 27 Jul 2026 05:02:57 GMT"
   },
   {
     "site": "Qiita",
@@ -156,22 +168,10 @@
     "pubDate": "2026-07-27T04:22:48.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "非同期処理版mutex",
-    "link": "https://zenn.dev/mutex_inc/articles/async_serialization_20260721",
-    "pubDate": "Mon, 27 Jul 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "最近の開発の流れ",
-    "link": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
-    "pubDate": "Mon, 27 Jul 2026 00:31:05 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "RTX PRO 6000 BlackwellでAITuberを作りたい",
-    "link": "https://qiita.com/matsudai/items/e94acdcd34f52a1bc5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-26T22:54:24.000Z"
+    "title": "1日数人の個人サイトが1か月で33万回攻撃されていた — ログを数えて塞ぐまで",
+    "link": "https://qiita.com/tkurume/items/41402861e5c2924989a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-27T03:43:51.000Z"
   },
   {
     "site": "Qiita",
