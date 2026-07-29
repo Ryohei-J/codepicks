@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた画像だ！」とわかるのか？と投稿→集まった様々な考察が興味深い「光の印象」との声も",
+    "link": "https://togetter.com/li/2725950",
+    "pubDate": "2026-07-29T01:10:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アップル、iPhoneやMacで「リース」開始　iPhoneは月額17.99ドルから",
+    "link": "https://www.watch.impress.co.jp/docs/news/2128715.html",
+    "pubDate": "2026-07-29T00:24:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は　開発者の見解 | 毎日新聞",
+    "link": "https://mainichi.jp/articles/20260728/k00/00m/040/190000c",
+    "pubDate": "2026-07-28T22:19:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claudeで共有した会話、Google検索にインデックスされていたと判明--企業の内部データも",
+    "link": "https://japan.cnet.com/article/35251032/",
+    "pubDate": "2026-07-28T22:13:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Windows 11 でローカルアカウントを作成する方法【2026年7月時点】",
     "link": "https://w1.zawa-lab.net/p/20260728_oobe_bypass/",
     "pubDate": "2026-07-28T13:55:41.000Z"
@@ -10,24 +34,6 @@
     "title": "「Xが情報収集に役立たない……」熊本地震で不満の声続出　「Twitterを返して」",
     "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000249/",
     "pubDate": "2026-07-28T13:20:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIのセキュリティリスクとしてお堅い説明するよりこれ見せた方が理解が早そう」AIずんだもんが視聴者によるプロンプトインジェクションで壊れる動画が怖い",
-    "link": "https://togetter.com/li/2725778",
-    "pubDate": "2026-07-28T12:36:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "矢印キーによるフォーカス移動を宣言的に実装する `focusgroup` 属性",
-    "link": "https://azukiazusa.dev/blog/focusgroup-html-attribute/",
-    "pubDate": "2026-07-28T12:12:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Projektor",
-    "link": "https://tajd.github.io/projektor/",
-    "pubDate": "2026-07-28T11:53:25.000Z"
   },
   {
     "site": "Hatena",
@@ -43,21 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2128607.html",
-    "pubDate": "2026-07-28T10:33:51.000Z"
+    "title": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2128581.html",
+    "pubDate": "2026-07-28T09:16:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ヤモリの足裏を科学した米軍の装備、粘着剤なしで垂直壁を走る驚異の技術* | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/101739",
-    "pubDate": "2026-07-28T09:34:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正　優良中古ドメインは「AIが選定」",
-    "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
-    "pubDate": "2026-07-28T07:15:53.000Z"
+    "site": "Zenn",
+    "title": "【決着】Claude CodeとCodexの設定ファイルを同期させる (みんな仲良く)",
+    "link": "https://zenn.dev/explaza/articles/20f7f41cff8428",
+    "pubDate": "Tue, 28 Jul 2026 04:40:29 GMT"
   },
   {
     "site": "Qiita",
@@ -70,6 +70,12 @@
     "title": "参考書を読んでも忘れるのは当然。大事なのは\"思い出す\"回数",
     "link": "https://qiita.com/prumnn/items/405f4a78ec5f0232b234?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-28T04:35:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoft APM を試してみる　(npmと対比しながら）",
+    "link": "https://zenn.dev/xtm_blog/articles/f016695e2839ee",
+    "pubDate": "Tue, 28 Jul 2026 04:31:05 GMT"
   },
   {
     "site": "Qiita",
@@ -97,9 +103,15 @@
   },
   {
     "site": "Zenn",
-    "title": "KAMEをオープンモデルで動かしてMT-Benchでベンチマーク評価した",
-    "link": "https://zenn.dev/fixstars/articles/kame-benchmark",
-    "pubDate": "Mon, 27 Jul 2026 09:56:48 GMT"
+    "title": "Excel風に入力できるガントチャートアプリ『Ganttline』を作って公開した",
+    "link": "https://zenn.dev/ricckyyy/articles/ganttline-introduction",
+    "pubDate": "2026-07-27T13:26:51.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【ProcrastiNation】今日できることは明日でもできる、全力で先延ばしにしよう【Next.js】",
+    "link": "https://qiita.com/rana_kualu/items/7f6bb159f7d65e53620d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-27T10:19:33.000Z"
   },
   {
     "site": "Zenn",
@@ -145,38 +157,26 @@
   },
   {
     "site": "Zenn",
+    "title": "非同期処理版mutex",
+    "link": "https://zenn.dev/mutex_inc/articles/async_serialization_20260721",
+    "pubDate": "Mon, 27 Jul 2026 02:50:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "最近の開発の流れ",
     "link": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
     "pubDate": "Mon, 27 Jul 2026 00:31:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
-    "link": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
-    "pubDate": "Sun, 26 Jul 2026 20:06:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "スマホでつくるセカンドブレイン（Android・Obsidian・Termux・Claude・ChatGPTによる知識管理）",
-    "link": "https://zenn.dev/szgk/articles/76f54d039d9a30",
-    "pubDate": "Sun, 26 Jul 2026 16:36:23 GMT"
+    "site": "Qiita",
+    "title": "RTX PRO 6000 BlackwellでAITuberを作りたい",
+    "link": "https://qiita.com/matsudai/items/e94acdcd34f52a1bc5f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-26T22:54:24.000Z"
   },
   {
     "site": "Qiita",
-    "title": "ひとことで、言え。～スライドをAIで作り直したらわかりにくくなった話～",
-    "link": "https://qiita.com/WdknWdkn/items/ba228da40b5d2fd1b612?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-25T11:22:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ハードコーディングは本当に悪なのか",
-    "link": "https://qiita.com/musenmai/items/b525b64882548d4aec0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-25T10:28:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "事業会社のデータ分析屋として自分が大切にしてること＝正しさとユーザ目線",
-    "link": "https://qiita.com/t2murata/items/4c5fbfb903231b974d5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-25T09:24:50.000Z"
+    "title": "「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」",
+    "link": "https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-26T16:32:33.000Z"
   }
 ]
