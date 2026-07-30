@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "chat.exe - あの頃のUIで繋がる、超軽量ビデオ＆音声チャット",
+    "link": "https://chatexe.net/",
+    "pubDate": "2026-07-30T09:00:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今のSNSに疲れてしまった人に…… Windows 95/98風チャットアプリ「chat.exe」が登場／配布サイトの雰囲気もいい、外見はレトロなのに中身はモダンなギャップもいい【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2129310.html",
+    "pubDate": "2026-07-30T08:49:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows 11に「OneDrive Photos」が勝手に追加されるように。単体で削除できない仕様",
+    "link": "https://gazlog.jp/entry/windows11-onedrive-photo-installed/",
+    "pubDate": "2026-07-30T07:36:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Go 1.27 リリース連載：ジェネリクスメソッド (generic methods) | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20260730a/",
+    "pubDate": "2026-07-30T07:30:21.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "令和8年熊本地震に乗じたSNS上の偽情報についてまとめてみた - piyolog",
     "link": "https://piyolog.hatenadiary.jp/entry/2026/07/30/143946",
     "pubDate": "2026-07-30T05:53:38.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AI企業に最後まで引き抜かれなかった教授は何を研究していた？",
-    "link": "https://anond.hatelabo.jp/20260730122953",
-    "pubDate": "2026-07-30T03:37:12.000Z"
+    "title": "Claude Mythosが耐量子暗号やAESの欠陥を特定",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2129199.html",
+    "pubDate": "2026-07-30T04:38:46.000Z"
   },
   {
     "site": "Hatena",
@@ -30,10 +54,16 @@
     "pubDate": "2026-07-30T00:47:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "パナソニックのパルックLED照明、本体取付後は自分で交換できる - 家電 Watch",
-    "link": "https://kaden.watch.impress.co.jp/docs/news/2128451.html",
-    "pubDate": "2026-07-30T00:07:42.000Z"
+    "site": "Zenn",
+    "title": "リリース前チェックをAIで行う「プロダクトリリースハーネス」のつくり方",
+    "link": "https://zenn.dev/estie/articles/c5503dfe56f7a1",
+    "pubDate": "Thu, 30 Jul 2026 00:45:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Actionsのコストが増えているなら、Namespaceを使えばいいじゃない",
+    "link": "https://zenn.dev/aircloset/articles/6b47018589df0f",
+    "pubDate": "Wed, 29 Jul 2026 23:52:26 GMT"
   },
   {
     "site": "Hatena",
@@ -42,22 +72,10 @@
     "pubDate": "2026-07-29T23:08:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【特集】 機種変更時の「LINE」移行手順を解説、旧機種のトーク履歴も移すには……",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2128703.html",
-    "pubDate": "2026-07-29T21:35:55.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "MCPの大型アップデート（2026-07-28）で何が変わったか —— TypeScript SDK v2で試す",
     "link": "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
     "pubDate": "Wed, 29 Jul 2026 14:05:30 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "査読に AI を使われた体験談 | Chem-Station (ケムステ)",
-    "link": "https://www.chem-station.com/blog/2026/07/review.html",
-    "pubDate": "2026-07-29T11:37:19.000Z"
   },
   {
     "site": "Zenn",
@@ -70,12 +88,6 @@
     "title": "オーダーメイドで九九の計算プリントを作ろう（ローテクAI）",
     "link": "https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-29T11:27:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "agent-browserはもう古い？ Web調査をコマンドに変えるOpenCLI",
-    "link": "https://zenn.dev/nasubikun/articles/opencli-web-research",
-    "pubDate": "Wed, 29 Jul 2026 09:40:25 GMT"
   },
   {
     "site": "Qiita",
@@ -100,12 +112,6 @@
     "title": "ソフトウェアエンジニアとして視野を広げるためのブックガイド",
     "link": "https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d",
     "pubDate": "2026-07-29T04:45:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "スキルは増やしすぎると使われなくなるのか？実測したら原因はトークンではなかった",
-    "link": "https://zenn.dev/canly/articles/43bef1eacdae44",
-    "pubDate": "Wed, 29 Jul 2026 04:01:49 GMT"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "「経験がないから」を言い訳にしなくていい時代になった",
     "link": "https://qiita.com/sumomoo/items/122f9a34360e256bf042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-27T08:09:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "｢いまの日本は清朝に似ている｣豊かさゆえの\"思考停止\"に危機感を抱く中国人記者が､無償で在日外国人を取材し続ける理由",
-    "link": "https://toyokeizai.net/articles/-/952061?display=b",
-    "pubDate": "2026-07-24T12:54:36.000Z"
   }
 ]
