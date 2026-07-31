@@ -1,15 +1,39 @@
 [
   {
+    "site": "Zenn",
+    "title": "GitHubにスタックプルリクエストが登場。gh stackでPRを分割して積み上げよう",
+    "link": "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
+    "pubDate": "2026-07-31T13:51:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代の強いチームの作り方",
+    "link": "https://speakerdeck.com/yuukiyo/building-strong-teams-in-the-age-of-ai",
+    "pubDate": "2026-07-31T13:23:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学、今度はポスターで注意喚起「良い意味で生成AIでしか作れないクリエイティビティ」",
+    "link": "https://togetter.com/li/2727098",
+    "pubDate": "2026-07-31T13:03:25.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「みいちゃんと山田さん」批判アカウントの差別心と存在否定の残酷さ｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
     "link": "https://note.com/ganot/n/na64785a15085",
     "pubDate": "2026-07-31T08:19:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub、「Stacked pull requests」のパブリックプレビューを開始 ――大規模な変更を小さなプルリクエストの連鎖として管理 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/07/github-stacked-pull-requests-public-preview",
-    "pubDate": "2026-07-31T07:08:40.000Z"
+    "site": "Zenn",
+    "title": "Copilot Chat（Microsoft 365）の会話を Markdown に保存・エクスポートする方法（拡張機能不要）",
+    "link": "https://zenn.dev/dxclab/articles/bdc3935d10706c",
+    "pubDate": "2026-07-31T07:31:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "メテオフォール開発",
+    "link": "https://zenn.dev/hisaju01/books/meteorfall-development",
+    "pubDate": "Fri, 31 Jul 2026 06:16:08 GMT"
   },
   {
     "site": "Qiita",
@@ -49,15 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gained.",
-    "link": "https://takoratta.hatenablog.com/entry/ai-amplifier-radical-candor",
-    "pubDate": "2026-07-31T03:22:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ロシアの「.ru」ドメイン、日本からの利用が9月1日から実質困難に？ ユーザー混乱【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2129451.html",
-    "pubDate": "2026-07-31T02:30:05.000Z"
+    "title": "「避難所」と「豚汁」の発端であろう話であるとか、その話を利用した「怪しいアカウント」であるとか - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2026/07/31/110000",
+    "pubDate": "2026-07-31T02:05:29.000Z"
   },
   {
     "site": "Hatena",
@@ -66,22 +84,10 @@
     "pubDate": "2026-07-31T01:36:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アンソロピックAI「Claude」も暴走　試験中にサイバー攻撃3件 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/",
-    "pubDate": "2026-07-31T01:11:42.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "EKS における EKS アドオンと組み込みアドオンの整理",
     "link": "https://qiita.com/YuNagura/items/07e3a57eb39fe3f4fe3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-31T00:18:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コードベースのナレッジ化なら、LLM Wikiで十分かもしれない - Qiita",
-    "link": "https://qiita.com/Syoitu/items/ff38655fed51a2920910",
-    "pubDate": "2026-07-30T22:17:23.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "NVIDIA DGX Spark でソフトウェア開発に最適な Gemma 4 モデルを検証する (31B vs 26B)",
     "link": "https://zenn.dev/st_little/articles/gemma4-benchmark-dgx-spark",
     "pubDate": "Tue, 28 Jul 2026 13:56:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI時代に感じた危機感と、エンジニアがこれから考えるべきこと",
-    "link": "https://zenn.dev/nabewata/articles/8cef1bd4cbae3f",
-    "pubDate": "Tue, 28 Jul 2026 12:24:59 GMT"
   }
 ]
