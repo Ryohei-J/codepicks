@@ -1,63 +1,75 @@
 [
   {
+    "site": "Qiita",
+    "title": "コードベースのナレッジ化なら、LLM Wikiで十分かもしれない - Qiita",
+    "link": "https://qiita.com/Syoitu/items/ff38655fed51a2920910",
+    "pubDate": "2026-07-30T22:17:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Stacked pull requests are now in public preview - GitHub Changelog",
+    "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "pubDate": "2026-07-30T16:53:18.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』を公開しました",
     "link": "https://virtualtech.jp/2026-07-29/",
     "pubDate": "2026-07-30T15:36:27.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+    "link": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+    "pubDate": "2026-07-30T14:34:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はやぶさ2、トリフネへの最接近距離は400mと判明　フライバイ探査で世界記録",
+    "link": "https://www.watch.impress.co.jp/docs/news/2129332.html",
+    "pubDate": "2026-07-30T14:22:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "カセットテープの音声をPCに保存できる「USB Type-C搭載カセットプレイヤー」、ナカバヤシが発売　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2129357.html",
+    "pubDate": "2026-07-30T13:07:53.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "生成AIにおけるHTML/画像出力の必要性と改善案としてのRHW(reviewable-html-workbench)の紹介",
     "link": "https://zenn.dev/u1/articles/rhw-reviewable-html-workbench",
-    "pubDate": "2026-07-30T12:42:54.000Z"
+    "pubDate": "Thu, 30 Jul 2026 12:16:48 GMT"
   },
   {
     "site": "Hatena",
-    "title": "AIは何を「速く」したのか｜AI DevEx Conference 2026での学び - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2026/07/30/173031",
-    "pubDate": "2026-07-30T09:11:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ホーム",
+    "title": "ホーム — 5GC教科書 - 5GC教科書 — 世界最高品質の無料5G Coreオンライン教材",
     "link": "https://5gctextbook.com/",
     "pubDate": "2026-07-30T09:10:42.000Z"
   },
   {
     "site": "Hatena",
-    "title": "chat.exe - あの頃のUIで繋がる、超軽量ビデオ＆音声チャット",
-    "link": "https://chatexe.net/",
-    "pubDate": "2026-07-30T09:00:39.000Z"
+    "title": "続々とAI企業が電気技師や大工を何千人も採用、OpenAI・Google・Metaなどが業界史上最高水準の給与を提示",
+    "link": "https://gigazine.net/news/20260730-ai-data-center-electricians/",
+    "pubDate": "2026-07-30T06:27:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Windows 11に「OneDrive Photos」が勝手に追加されるように。単体で削除できない仕様",
-    "link": "https://gazlog.jp/entry/windows11-onedrive-photo-installed/",
-    "pubDate": "2026-07-30T07:36:46.000Z"
+    "site": "Zenn",
+    "title": "MCPの大型アップデート（2026-07-28）で何が変わったか —— TypeScript SDK v2で試す",
+    "link": "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
+    "pubDate": "2026-07-30T05:23:06.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Go 1.27 リリース連載：ジェネリクスメソッド (generic methods) | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20260730a/",
-    "pubDate": "2026-07-30T07:30:21.000Z"
+    "site": "Qiita",
+    "title": "Elixir と Livebook で学ぶ LLM / Transformer 入門 〜 トークン化からミニGPTの自作学習まで",
+    "link": "https://qiita.com/RyoWakabayashi/items/ca95db1982c78e40a907?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-30T02:46:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIの嘘を封じ込める最強プロンプト、「わからない」と言えない人工知能の弱点 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/101752",
-    "pubDate": "2026-07-30T07:22:26.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "“ダサい”不評の「ドコモの銀行」、従来のアプリアイコン選択可能に　「ご意見・ご要望も踏まえ」",
-    "link": "https://www.itmedia.co.jp/news/article/2607/30/2000000301/",
-    "pubDate": "2026-07-30T06:56:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "令和8年熊本地震に乗じたSNS上の偽情報についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/07/30/143946",
-    "pubDate": "2026-07-30T05:53:38.000Z"
+    "site": "Qiita",
+    "title": "リプレイ機能付きオセロを作って、AWS（EC2/RDS）にデプロイしてみた",
+    "link": "https://qiita.com/KyosukeTakahagi/items/aae3889fb1dacf6892c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-30T00:47:36.000Z"
   },
   {
     "site": "Qiita",
@@ -84,12 +96,6 @@
     "pubDate": "Wed, 29 Jul 2026 14:05:30 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "[gamification] DIVER OSINT CTF 2026 Writeup",
-    "link": "https://zenn.dev/syurenuko/articles/7c1834466efd8a",
-    "pubDate": "Wed, 29 Jul 2026 11:34:02 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "オーダーメイドで九九の計算プリントを作ろう（ローテクAI）",
     "link": "https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -97,15 +103,21 @@
   },
   {
     "site": "Qiita",
-    "title": " ITの資格勉強で綺麗にノートまとめてるけど、その時間で過去問といた方がマシ",
-    "link": "https://qiita.com/prumnn/items/7d9877f2f7ba3b26b56c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-29T08:32:43.000Z"
+    "title": "「パスキー対応できますか？」と聞かれたら ── 要件を詰めずに実装すると、登録済みのパスキーが全部無効になる",
+    "link": "https://qiita.com/ntaka329/items/bfd8535d8f64a9ecd0fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-29T10:06:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "agent-browserはもう古い？ Web調査をコマンドに変えるOpenCLI",
+    "link": "https://zenn.dev/nasubikun/articles/opencli-web-research",
+    "pubDate": "Wed, 29 Jul 2026 09:40:25 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Google A2AをサポートしたOCI Autonomous Databaseでマルチエージェントを実装してみる",
-    "link": "https://qiita.com/ksonoda/items/d2f2263cf9dc5d2ddd67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-29T07:03:35.000Z"
+    "title": " ITの資格勉強で綺麗にノートまとめてるけど、その時間で過去問といた方がマシ",
+    "link": "https://qiita.com/prumnn/items/7d9877f2f7ba3b26b56c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-29T08:32:43.000Z"
   },
   {
     "site": "Qiita",
@@ -132,10 +144,10 @@
     "pubDate": "Wed, 29 Jul 2026 00:15:14 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "NVIDIA DGX Spark でソフトウェア開発に最適な Gemma 4 モデルを検証する (31B vs 26B)",
-    "link": "https://zenn.dev/st_little/articles/gemma4-benchmark-dgx-spark",
-    "pubDate": "Tue, 28 Jul 2026 13:56:04 GMT"
+    "site": "Hatena",
+    "title": "NotebookLMとは？仕事で即使える活用術8選 | Web担当者Forum",
+    "link": "https://webtan.impress.co.jp/e/2026/07/29/52991",
+    "pubDate": "2026-07-28T23:58:48.000Z"
   },
   {
     "site": "Zenn",
@@ -151,32 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "やる気を信じず、学習習慣を仕組み化して固定せよ【三日坊主回避】",
-    "link": "https://qiita.com/sumomoo/items/0d6667bbcf46ad59c320?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-28T04:36:40.000Z"
+    "title": "モーター制御基板で考える、電流の流れと保護回路の基本",
+    "link": "https://qiita.com/hikarijlcpcb/items/f1d1993b15bf85acf2ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-28T03:15:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた",
+    "link": "https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-27T21:55:38.000Z"
   },
   {
     "site": "Qiita",
     "title": "【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】",
     "link": "https://qiita.com/Nana_777/items/1766dd6bbd308222f71b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-27T21:07:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code「/config」設定の教科書 ― 全42項目を1つずつ解説＋おすすめ設定（v2.1.220対応）",
-    "link": "https://qiita.com/f_uto/items/438336db3684cf662321?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-27T13:21:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " Claude でクレジット100ドルが付与されたので、 Fable を使ってサブエージェントを作って「小規模開発チーム」基盤を作った",
-    "link": "https://qiita.com/su3-hokkaido/items/89fcfd2702ecba65c74d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-27T12:43:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「経験がないから」を言い訳にしなくていい時代になった",
-    "link": "https://qiita.com/sumomoo/items/122f9a34360e256bf042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-27T08:09:33.000Z"
   }
 ]
