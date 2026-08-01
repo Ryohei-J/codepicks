@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "宮本佳林『HANAKIN配信システムの技術構成』",
+    "link": "https://ameblo.jp/miyamotokarin-official/entry-12974440752.html",
+    "pubDate": "2026-08-01T08:05:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "宮本佳林『アイドルがAIと配信のシステムを全部作った話』",
+    "link": "https://ameblo.jp/miyamotokarin-official/entry-12974432505.html",
+    "pubDate": "2026-08-01T08:05:19.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "カンファレンス生態系の変化と CFP の功罪 | blog.jxck.io",
     "link": "https://blog.jxck.io/entries/2026-07-31/cfp-over-conference.html",
     "pubDate": "2026-08-01T05:58:02.000Z"
@@ -18,22 +30,16 @@
     "pubDate": "2026-08-01T03:10:46.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AI フレンドリーな CLI を開発するテクニック",
+    "link": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
+    "pubDate": "Sat, 01 Aug 2026 01:35:46 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "Claude Codeの使い方を分析して最適化するcclensが良さげかも | kawarimidoll.com",
     "link": "https://kawarimidoll.com/posts/202608011/",
     "pubDate": "2026-08-01T00:13:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "DeepSeekショック再来？「DeepSeek V4 Flash」正式版が無償公開。公式版は167GB、Unsloth版は最小82GB台",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2129807.html",
-    "pubDate": "2026-07-31T20:31:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "EU、生成AIコンテンツに識別表示義務　禁止行為なら制裁金63億円 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/",
-    "pubDate": "2026-07-31T20:10:43.000Z"
   },
   {
     "site": "Hatena",
@@ -52,6 +58,12 @@
     "title": "ターミナル内で動くブラウザー「terminal-browser」が登場 ——エージェントからも操作可能、現在Apple Silicon Macのみ対応 | gihyo.jp",
     "link": "https://gihyo.jp/article/2026/07/terminal-browser",
     "pubDate": "2026-07-31T11:03:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Playwrightで業務E2Eテストのアーキテクチャを設計する — Screen Object Model、Fluent Chaining、日本語メソッド名、ロケーター辞書の統合パターン | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/playwright-e2e-test-architecture-patterns/",
+    "pubDate": "2026-07-31T10:22:34.000Z"
   },
   {
     "site": "Qiita",
@@ -97,9 +109,21 @@
   },
   {
     "site": "Zenn",
+    "title": "PR 数が 4 倍に増えても AI レビュー代を爆発させないために、レビューをサブスクに相乗りさせた話",
+    "link": "https://zenn.dev/dinii/articles/4aafd4c4fda4d2",
+    "pubDate": "Fri, 31 Jul 2026 02:42:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Web Streams API 入門 ― 基本概念から実践まで",
     "link": "https://zenn.dev/cybozu_frontend/articles/web-streams-api-guide",
     "pubDate": "Thu, 30 Jul 2026 23:57:26 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "チーム制作にプログラマーとして人生初参加して、思ったことを書いてみる。",
+    "link": "https://zenn.dev/kawtech/articles/bc795ee37febc3",
+    "pubDate": "Thu, 30 Jul 2026 13:50:54 GMT"
   },
   {
     "site": "Zenn",
@@ -150,33 +174,9 @@
     "pubDate": "2026-07-29T22:21:01.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "MCPの大型アップデート（2026-07-28）で何が変わったか —— TypeScript SDK v2で試す",
-    "link": "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
-    "pubDate": "Wed, 29 Jul 2026 14:05:30 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "オーダーメイドで九九の計算プリントを作ろう（ローテクAI）",
     "link": "https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-07-29T11:27:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで",
-    "link": "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
-    "pubDate": "Wed, 29 Jul 2026 00:57:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Claude Code】planモードはもう使っていない",
-    "link": "https://zenn.dev/notahotel/articles/0c28638945aa32",
-    "pubDate": "Wed, 29 Jul 2026 00:37:17 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "開発チームにノウハウが残るSREの関わり方——年末調整のピークに備えた負荷試験 - SmartHR Tech Blog",
-    "link": "https://tech.smarthr.jp/entry/2026/07/24/120000",
-    "pubDate": "2026-07-24T11:29:25.000Z"
   }
 ]
