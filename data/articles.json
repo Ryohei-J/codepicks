@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
-    "title": "動画編集ソフトを使わずにカンファレンスRecap動画を作った話 ~AIと共に~｜Yoshihiro Ibayashi (ちゃん)",
-    "link": "https://note.com/chan_san_jp/n/n3c72de4fedd9",
-    "pubDate": "2026-08-01T00:09:47.000Z"
+    "title": "カンファレンス生態系の変化と CFP の功罪 | blog.jxck.io",
+    "link": "https://blog.jxck.io/entries/2026-07-31/cfp-over-conference.html",
+    "pubDate": "2026-08-01T05:58:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『ステラーブレイド Blood Rain』のミュージックビデオが出るも、「生成AIまる出し」として批判殺到。開発者は弁解するも受け入れられず - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/stellar-blade-blood-rain-20260801-457758/",
+    "pubDate": "2026-08-01T03:18:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI フレンドリーな CLI を開発するテクニック",
+    "link": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
+    "pubDate": "2026-08-01T03:10:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeの使い方を分析して最適化するcclensが良さげかも | kawarimidoll.com",
+    "link": "https://kawarimidoll.com/posts/202608011/",
+    "pubDate": "2026-08-01T00:13:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DeepSeekショック再来？「DeepSeek V4 Flash」正式版が無償公開。公式版は167GB、Unsloth版は最小82GB台",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2129807.html",
+    "pubDate": "2026-07-31T20:31:53.000Z"
   },
   {
     "site": "Hatena",
@@ -12,16 +36,16 @@
     "pubDate": "2026-07-31T20:10:43.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GitHubにスタックプルリクエストが登場。gh stackでPRを分割して積み上げよう",
-    "link": "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
-    "pubDate": "Fri, 31 Jul 2026 13:33:10 GMT"
+    "site": "Hatena",
+    "title": "Elevators",
+    "link": "https://john.fun/elevators",
+    "pubDate": "2026-07-31T16:06:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代の強いチームの作り方",
-    "link": "https://speakerdeck.com/yuukiyo/building-strong-teams-in-the-age-of-ai",
-    "pubDate": "2026-07-31T13:23:13.000Z"
+    "site": "Zenn",
+    "title": "GitHubにスタック型プルリクエストが登場。gh stackでPRを分割して積み上げよう",
+    "link": "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
+    "pubDate": "Fri, 31 Jul 2026 13:33:10 GMT"
   },
   {
     "site": "Hatena",
@@ -30,16 +54,16 @@
     "pubDate": "2026-07-31T11:03:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "『ドンキーコング バナンザ』おもしろいバグは仕様にしちゃう。マイナスを減らしプラスを伸ばすQA（品質保証）とデバッグ環境作り【CEDEC2026】 | ゲーム・エンタメ最新情報のファミ通.com",
-    "link": "https://www.famitsu.com/article/202607/82908",
-    "pubDate": "2026-07-31T09:06:17.000Z"
+    "site": "Qiita",
+    "title": "New Relic Autopilot (旧SRE Agent) によるSlack通知ワークフローをTerraformで構築する",
+    "link": "https://qiita.com/nr-mito/items/96c0ad26943673114161?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-31T09:47:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Copilot Chat（Microsoft 365）の会話を Markdown に保存・エクスポートする方法（拡張機能不要）",
-    "link": "https://zenn.dev/dxclab/articles/bdc3935d10706c",
-    "pubDate": "2026-07-31T07:31:07.000Z"
+    "site": "Qiita",
+    "title": "Elixir 製 LLM 推論エンジン Llamex を Livebook で動かす",
+    "link": "https://qiita.com/RyoWakabayashi/items/4095d86be797008d799e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-31T08:58:38.000Z"
   },
   {
     "site": "Qiita",
@@ -60,12 +84,6 @@
     "pubDate": "Fri, 31 Jul 2026 06:16:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2129514.html",
-    "pubDate": "2026-07-31T06:10:39.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AIの限界は頭脳ではなく、電気と冷却にあった【宇宙のデーターセンターって何？】",
     "link": "https://qiita.com/sumomoo/items/8bbe719ed4de1a36def9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -78,28 +96,22 @@
     "pubDate": "2026-07-31T05:20:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI人員削減の「誤算」、元従業員の再雇用を行う企業が続出する理由　米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/101804",
-    "pubDate": "2026-07-31T03:37:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "EKS における EKS アドオンと組み込みアドオンの整理",
-    "link": "https://qiita.com/YuNagura/items/07e3a57eb39fe3f4fe3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-31T00:18:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "もはや人と話している感覚に。ChatGPTの新しい音声モデル「GPT-Live」でできること | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2607-chatgpt-new-improved-voice-mode/",
-    "pubDate": "2026-07-30T20:51:36.000Z"
+    "site": "Zenn",
+    "title": "Web Streams API 入門 ― 基本概念から実践まで",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web-streams-api-guide",
+    "pubDate": "Thu, 30 Jul 2026 23:57:26 GMT"
   },
   {
     "site": "Zenn",
     "title": "生成AIにおけるHTML/画像出力の必要性と改善案としてのRHW(reviewable-html-workbench)の紹介",
     "link": "https://zenn.dev/u1/articles/rhw-reviewable-html-workbench",
     "pubDate": "Thu, 30 Jul 2026 12:16:48 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Copilot Chat（Microsoft 365）の会話を Markdown に保存・エクスポートする方法（拡張機能不要）",
+    "link": "https://zenn.dev/dxclab/articles/bdc3935d10706c",
+    "pubDate": "Thu, 30 Jul 2026 09:19:02 GMT"
   },
   {
     "site": "Zenn",
@@ -127,15 +139,15 @@
   },
   {
     "site": "Zenn",
-    "title": "リリース前チェックをAIで行う「プロダクトリリースハーネス」のつくり方",
-    "link": "https://zenn.dev/estie/articles/c5503dfe56f7a1",
-    "pubDate": "Thu, 30 Jul 2026 00:45:05 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "GitHub Actionsのコストが増えているなら、Namespaceを使えばいいじゃない",
     "link": "https://zenn.dev/aircloset/articles/6b47018589df0f",
     "pubDate": "Wed, 29 Jul 2026 23:52:26 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "自分のPCだけで動く「自分専用AI」を Ollama × Docker で動かしてみた",
+    "link": "https://qiita.com/y104autumn/items/6132bcc74fb8d43d4cd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-07-29T22:21:01.000Z"
   },
   {
     "site": "Zenn",
@@ -150,12 +162,6 @@
     "pubDate": "2026-07-29T11:27:10.000Z"
   },
   {
-    "site": "Qiita",
-    "title": " ITの資格勉強で綺麗にノートまとめてるけど、その時間で過去問といた方がマシ",
-    "link": "https://qiita.com/prumnn/items/7d9877f2f7ba3b26b56c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-29T08:32:43.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで",
     "link": "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
@@ -168,15 +174,9 @@
     "pubDate": "Wed, 29 Jul 2026 00:37:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "自分で作るクラウド競技",
-    "link": "https://zenn.dev/bull/books/cloud-competition",
-    "pubDate": "Wed, 29 Jul 2026 00:15:14 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "SQLインジェクションを丁寧に解説 — なぜ「文字列を連結してSQLを作る」と危険なのか",
-    "link": "https://qiita.com/gts/items/7718da8016d1ce2ca43f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-28T22:09:14.000Z"
+    "site": "Hatena",
+    "title": "開発チームにノウハウが残るSREの関わり方——年末調整のピークに備えた負荷試験 - SmartHR Tech Blog",
+    "link": "https://tech.smarthr.jp/entry/2026/07/24/120000",
+    "pubDate": "2026-07-24T11:29:25.000Z"
   }
 ]
