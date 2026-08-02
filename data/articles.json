@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Windowsユーザーは「ホテルのWi-Fiは使うな」マイクロソフトが緊急警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/102130",
+    "pubDate": "2026-08-02T10:15:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
+    "pubDate": "2026-08-02T09:00:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『エンジニアのための自己管理入門』で自身の”行動を設計”する - Magnolia Tech",
+    "link": "https://blog.magnolia.tech/entry/2026/08/02/133343",
+    "pubDate": "2026-08-02T04:43:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「この図を作った人は面識のない男に刺されて死んだ」10年以上前に書かれた本、嘘で注目を集めるための題材が今も有効という印象を感じる",
+    "link": "https://togetter.com/li/2727744",
+    "pubDate": "2026-08-02T03:47:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "昔ベンチャーで働いてた頃、役員に〇されて俺は内臓の一部がない",
     "link": "https://anond.hatelabo.jp/20260802123158",
     "pubDate": "2026-08-02T03:43:36.000Z"
@@ -12,10 +36,10 @@
     "pubDate": "2026-08-02T00:10:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "26/8/1 キヴォトスではガチャを期待値で語るのは恥ずかしいことなんだよ - LWのサイゼリヤ",
-    "link": "https://saize-lw.hatenablog.com/entry/2026/08/01/205832",
-    "pubDate": "2026-08-01T23:55:37.000Z"
+    "site": "Zenn",
+    "title": "GDBで始めるアセンブリと解析",
+    "link": "https://zenn.dev/juck28/articles/091c07869aba28",
+    "pubDate": "Sat, 01 Aug 2026 13:34:19 GMT"
   },
   {
     "site": "Hatena",
@@ -48,12 +72,6 @@
     "pubDate": "2026-08-01T06:41:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "セキュリティの仕事は、社内に落ちている──情シス・インフラが最初に拾うべき5つ",
-    "link": "https://zenn.dev/gangy/articles/7ae64ac2a9e435",
-    "pubDate": "2026-08-01T06:32:51.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AIのアウトプットをそのまま出すだけの人にならないために",
     "link": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,18 +88,6 @@
     "title": "AI フレンドリーな CLI を開発するテクニック",
     "link": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
     "pubDate": "Sat, 01 Aug 2026 01:35:46 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "新しい SLO が良い感じにハマっている話",
-    "link": "https://speakerdeck.com/z63d/about-how-the-new-slo-is-fitting-in-nicely",
-    "pubDate": "2026-08-01T01:00:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAIがGPT-5.6 Lunaを80%値下げしたから、今日からCodex派になりました。｜tatsuki",
-    "link": "https://note.com/nobel/n/n92fb2ecf10f4",
-    "pubDate": "2026-08-01T00:41:48.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "MCPの大型アップデート（2026-07-28）で何が変わったか —— TypeScript SDK v2で試す",
     "link": "https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026",
     "pubDate": "Wed, 29 Jul 2026 14:05:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで",
-    "link": "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
-    "pubDate": "Wed, 29 Jul 2026 00:57:38 GMT"
   }
 ]
