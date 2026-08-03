@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "つい見せたくなる延長コード、開発したのは東大阪の電線メーカー　3000万円の機械導入で思いを形に",
+    "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000364/",
+    "pubDate": "2026-08-03T11:42:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「コードは一行も書いていない」　アイドルの宮本佳林さん、AIで配信システムを丸ごと構築　“技術ブログ”が話題",
+    "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000362/",
+    "pubDate": "2026-08-03T10:24:14.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた",
+    "link": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
+    "pubDate": "2026-08-03T09:58:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIで仕事を効率化したら、なぜか僕の仕事だけ増えた話",
     "link": "https://anond.hatelabo.jp/20260803162719",
     "pubDate": "2026-08-03T07:29:48.000Z"
@@ -37,21 +55,15 @@
   },
   {
     "site": "Hatena",
+    "title": "OpenAIの次期主力AIモデル「Astra」が10件の数学・理論計算機科学の課題で新成果、証明をLean 4で形式化し機械検証可能に",
+    "link": "https://gigazine.net/news/20260803-openai-astra-lean/",
+    "pubDate": "2026-08-03T03:43:49.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "herdr を使いこなす: 複数 AI エージェントの連携から自作プラグインまで - TECHSCORE BLOG",
     "link": "https://blog.techscore.com/entry/2026/08/03/080000",
     "pubDate": "2026-08-03T03:30:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」",
-    "link": "https://togetter.com/li/2728344",
-    "pubDate": "2026-08-03T02:27:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11、メモリ8GB環境への最適化を年内実施へ",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2129907.html",
-    "pubDate": "2026-08-03T01:57:47.000Z"
   },
   {
     "site": "Zenn",
@@ -72,12 +84,6 @@
     "pubDate": "2026-08-03T00:32:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「乾太くん」は洗濯後に濡れた衣服を移す「人間の作業」があるから、なぜ絶賛されているかイマイチ分からず。留守中にワンストップで終わらないなら意味なくない？→乾太くんの評価はどこから来るのか",
-    "link": "https://togetter.com/li/2728312",
-    "pubDate": "2026-08-03T00:28:55.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【初学者必見】Python復習記録｜Djangoで入力チェックを実装してみた",
     "link": "https://qiita.com/NT_seki/items/0027e9cd38f5c165c1ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -90,16 +96,10 @@
     "pubDate": "Mon, 03 Aug 2026 00:00:10 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita",
-    "link": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384",
-    "pubDate": "2026-08-02T23:45:48.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査　「ゲームで社会復帰」に落とし穴？",
-    "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000329/",
-    "pubDate": "2026-08-02T21:49:52.000Z"
+    "title": "「思考の連鎖」偽装でLLMを騙す新手法、訓練では防げない構造的欠陥",
+    "link": "https://www.technologyreview.jp/s/386800/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack/",
+    "pubDate": "2026-08-02T23:20:27.000Z"
   },
   {
     "site": "Qiita",
