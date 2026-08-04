@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "つい見せたくなる延長コード、開発したのは東大阪の電線メーカー　3000万円の機械導入で思いを形に",
-    "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000364/",
-    "pubDate": "2026-08-03T11:42:25.000Z"
+    "title": "21年ぶり新作、ドット絵エディタ「EDGE1」「EDGE2」「Edge3」の歴史について作者に聞く【フォーカス】 - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_902/",
+    "pubDate": "2026-08-04T00:36:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック",
+    "link": "https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook",
+    "pubDate": "2026-08-03T23:19:05.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「コードは一行も書いていない」　アイドルの宮本佳林さん、AIで配信システムを丸ごと構築　“技術ブログ”が話題",
-    "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000362/",
-    "pubDate": "2026-08-03T10:24:14.000Z"
+    "title": "えっ、公共Wi-Fiの接続画面が偽物？Microsoftが警告する恐るべき手口",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2130140.html",
+    "pubDate": "2026-08-03T22:18:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど",
+    "link": "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
+    "pubDate": "2026-08-03T22:11:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "オントロジーは「先に決める」か「データから起こす」か",
+    "link": "https://zenn.dev/knowledge_graph/articles/ontology-define-first-vs-induce",
+    "pubDate": "2026-08-03T16:07:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "オリジン・CORS・セッションを基礎から理解する",
+    "link": "https://zenn.dev/owade/articles/cors-session-origin-guide",
+    "pubDate": "2026-08-03T12:31:03.000Z"
   },
   {
     "site": "Zenn",
@@ -18,10 +42,16 @@
     "pubDate": "2026-08-03T09:58:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIで仕事を効率化したら、なぜか僕の仕事だけ増えた話",
-    "link": "https://anond.hatelabo.jp/20260803162719",
-    "pubDate": "2026-08-03T07:29:48.000Z"
+    "site": "Zenn",
+    "title": "Web 標準動向 2026年7月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202607",
+    "pubDate": "Mon, 03 Aug 2026 08:25:48 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "クラウドだけではないAI推論 ～なぜAIのハードウェア実装が求められているのか～",
+    "link": "https://qiita.com/KA026/items/23b0952b181807b5dabd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-03T07:41:18.000Z"
   },
   {
     "site": "Qiita",
@@ -37,15 +67,9 @@
   },
   {
     "site": "Hatena",
-    "title": "宮本佳林『元アイドルがバイブコーディングできるようになるまで。』",
-    "link": "https://ameblo.jp/miyamotokarin-official/entry-12974640519.html",
-    "pubDate": "2026-08-03T06:38:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "BASE子会社、最大885万件漏えいか　カード番号の一部も　ECサイト構築サービスに不正アクセス",
-    "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000355/",
-    "pubDate": "2026-08-03T06:10:48.000Z"
+    "title": "Y Combinator、マルチエージェントハーネス「QM」をオープンソース化 ——組織のクラウド環境で利用者やチャンネルごとの作業環境を管理 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/08/yc-qm",
+    "pubDate": "2026-08-03T06:19:37.000Z"
   },
   {
     "site": "Qiita",
@@ -54,16 +78,16 @@
     "pubDate": "2026-08-03T06:10:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OpenAIの次期主力AIモデル「Astra」が10件の数学・理論計算機科学の課題で新成果、証明をLean 4で形式化し機械検証可能に",
-    "link": "https://gigazine.net/news/20260803-openai-astra-lean/",
-    "pubDate": "2026-08-03T03:43:49.000Z"
+    "site": "Zenn",
+    "title": "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた",
+    "link": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
+    "pubDate": "Mon, 03 Aug 2026 05:26:48 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "herdr を使いこなす: 複数 AI エージェントの連携から自作プラグインまで - TECHSCORE BLOG",
-    "link": "https://blog.techscore.com/entry/2026/08/03/080000",
-    "pubDate": "2026-08-03T03:30:27.000Z"
+    "site": "Zenn",
+    "title": "Herdr で止まらず、精度の高い開発を進める工夫 ─ intent-cli で意図をもとに開発する",
+    "link": "https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration",
+    "pubDate": "Mon, 03 Aug 2026 05:21:53 GMT"
   },
   {
     "site": "Zenn",
@@ -97,27 +121,33 @@
   },
   {
     "site": "Hatena",
-    "title": "「思考の連鎖」偽装でLLMを騙す新手法、訓練では防げない構造的欠陥",
-    "link": "https://www.technologyreview.jp/s/386800/a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack/",
-    "pubDate": "2026-08-02T23:20:27.000Z"
+    "title": "「AI、結局使えないじゃん」問題　セールスフォースが431万件対応で導いた正解",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/03/news030.html",
+    "pubDate": "2026-08-02T23:51:40.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Podcast Client って作れるんですけど知ってました？",
-    "link": "https://qiita.com/i-icc/items/f505055cbc13f03b1fd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-02T09:50:28.000Z"
+    "title": "【Lambda】NFC 名刺のアクセスカウンターを Lambda Function URL + DynamoDB で作る",
+    "link": "https://qiita.com/ryu-ki/items/60cc8e04d60bbfcf7fa7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-02T23:20:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "オリジン・CORS・セッションを基礎から理解する",
+    "link": "https://zenn.dev/owade/articles/cors-session-origin-guide",
+    "pubDate": "Sun, 02 Aug 2026 13:51:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック",
+    "link": "https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook",
+    "pubDate": "Sun, 02 Aug 2026 07:13:50 GMT"
   },
   {
     "site": "Zenn",
     "title": "Claude CodeのSkillsは「手順書」だったので、/article コマンドを作ってみた",
     "link": "https://zenn.dev/osakayakyu/articles/e6aa9835c04d73",
     "pubDate": "Sun, 02 Aug 2026 03:15:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "DeepSeek V4 Flash 0731 のロスレスMXFP4版をSSDストリーミングで動かしてみた",
-    "link": "https://qiita.com/sukimaengineer/items/c97f3e6aafdc63b7ac17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-02T02:15:12.000Z"
   },
   {
     "site": "Zenn",
@@ -139,44 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "AIのアウトプットをそのまま出すだけの人にならないために",
-    "link": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-01T06:25:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI フレンドリーな CLI を開発するテクニック",
-    "link": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
-    "pubDate": "Sat, 01 Aug 2026 01:35:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルタスク管理アプリを設計してみた",
-    "link": "https://zenn.dev/headwaters/articles/76f20490b76952",
-    "pubDate": "Fri, 31 Jul 2026 23:36:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHubにスタック型プルリクエストが登場。gh stackでPRを分割して積み上げよう",
-    "link": "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
-    "pubDate": "Fri, 31 Jul 2026 13:33:10 GMT"
+    "title": "ガバメント AI 源内（genai-web）を Entra ID シングルサインオン + カスタムドメインで運用する",
+    "link": "https://qiita.com/takeda_h/items/74e0d6802dafeda4a7b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-01T13:27:50.000Z"
   },
   {
     "site": "Qiita",
-    "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと",
-    "link": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-07-31T11:28:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "3 行の同期バッチが、壊れるたびに堅牢になっていく話",
-    "link": "https://zenn.dev/neoai/articles/878ed0b400f45d",
-    "pubDate": "Fri, 31 Jul 2026 09:10:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "メテオフォール開発",
-    "link": "https://zenn.dev/hisaju01/books/meteorfall-development",
-    "pubDate": "Fri, 31 Jul 2026 06:16:08 GMT"
+    "title": "AIのアウトプットをそのまま出すだけの人にならないために",
+    "link": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-01T06:25:03.000Z"
   }
 ]
