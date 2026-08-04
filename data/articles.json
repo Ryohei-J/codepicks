@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "40代ITエンジニアだが俺たちの世代がIT業界を衰退させたことに謝罪したい",
+    "link": "https://anond.hatelabo.jp/20260804180722",
+    "pubDate": "2026-08-04T09:09:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "pの中にdivを入れられないのはなぜか - Legalscapeテックブログ",
+    "link": "https://tech.legalscape.co.jp/entry/2026/08/04/111358",
+    "pubDate": "2026-08-04T07:24:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「コードを書くだけ」の仕事は、もう回ってこない。｜すてぃお",
+    "link": "https://note.com/suthio/n/n7eddaacc515d",
+    "pubDate": "2026-08-04T07:10:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "形にならなかった「おい、」を29回書いたら本 - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/08/04/081951",
+    "pubDate": "2026-08-04T04:00:00.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "SF・コンピューター技術ライフライン",
     "link": "https://matsuo-koya.github.io/sf-tech-lifeline/",
     "pubDate": "2026-08-04T02:44:13.000Z"
@@ -12,22 +36,22 @@
     "pubDate": "2026-08-04T02:43:25.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "エンジニアよ、商談に出よう - Repro Tech Blog",
+    "link": "https://tech.repro.io/entry/2026/08/04/100000",
+    "pubDate": "2026-08-04T02:32:35.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "50音を全部作って繋いだのに、（　´∀｀）になった話",
     "link": "https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-04T01:11:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "21年ぶり新作、ドット絵エディタ「EDGE1」「EDGE2」「Edge3」の歴史について作者に聞く【フォーカス】 - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_902/",
-    "pubDate": "2026-08-04T00:36:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "磁気切符の黄昏　QRコード改札はどのように動いているのか【鈴木淳也のPay Attention】",
-    "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2127467.html",
-    "pubDate": "2026-08-03T23:55:11.000Z"
+    "site": "Zenn",
+    "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
+    "link": "https://zenn.dev/knowledgesense/articles/7c1a8f7720b119",
+    "pubDate": "Tue, 04 Aug 2026 00:02:05 GMT"
   },
   {
     "site": "Hatena",
@@ -42,6 +66,12 @@
     "pubDate": "2026-08-03T23:19:05.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIエージェント向けのツールを、MCPではなくCLIとして作った — 設計の3原則",
+    "link": "https://zenn.dev/codatum/articles/80b99faba75704",
+    "pubDate": "Mon, 03 Aug 2026 23:02:09 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "radikoの配信基盤を設計した技術者、香取啓志氏が語る「放送×インターネット」の次　",
     "link": "https://internet.watch.impress.co.jp/docs/special/teigen/2129830.html",
@@ -54,34 +84,16 @@
     "pubDate": "2026-08-03T22:24:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "えっ、公共Wi-Fiの接続画面が偽物？Microsoftが警告する恐るべき手口",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2130140.html",
-    "pubDate": "2026-08-03T22:18:15.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "オントロジーは「先に決める」か「データから起こす」か",
-    "link": "https://zenn.dev/knowledge_graph/articles/ontology-define-first-vs-induce",
-    "pubDate": "2026-08-03T16:07:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "オリジン・CORS・セッションを基礎から理解する",
-    "link": "https://zenn.dev/owade/articles/cors-session-origin-guide",
-    "pubDate": "2026-08-03T12:31:03.000Z"
+    "title": "OpenCode × Amazon Bedrock で好きなモデルを選べる AI コーディング環境を構築する！",
+    "link": "https://zenn.dev/aws_japan/articles/opencode-bedrock-lab",
+    "pubDate": "Mon, 03 Aug 2026 14:04:25 GMT"
   },
   {
     "site": "Qiita",
     "title": "【PHP9】PHP9がリリースされた",
     "link": "https://qiita.com/rana_kualu/items/8b350ada6dc831207d14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-03T10:47:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GH-600: GitHub Agentic AI Developerに合格しました",
-    "link": "https://zenn.dev/microsoft/articles/gh-600-how-to-pass",
-    "pubDate": "Mon, 03 Aug 2026 10:32:42 GMT"
   },
   {
     "site": "Zenn",
@@ -160,18 +172,6 @@
     "title": "ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック",
     "link": "https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook",
     "pubDate": "Sun, 02 Aug 2026 07:13:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeのSkillsは「手順書」だったので、/article コマンドを作ってみた",
-    "link": "https://zenn.dev/osakayakyu/articles/e6aa9835c04d73",
-    "pubDate": "Sun, 02 Aug 2026 03:15:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kimi K3を441GBに枝刈りして、Mac Studio 1台で動かした",
-    "link": "https://zenn.dev/hellohazime/articles/kimi_k3_reap640_512gb_mac",
-    "pubDate": "Sun, 02 Aug 2026 00:43:07 GMT"
   },
   {
     "site": "Qiita",
