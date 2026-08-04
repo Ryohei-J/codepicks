@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "SF・コンピューター技術ライフライン",
+    "link": "https://matsuo-koya.github.io/sf-tech-lifeline/",
+    "pubDate": "2026-08-04T02:44:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "あなたはどんな「インターネット老人」だったのか。生年を入れると詳しくなってウンチクが語れる年表アプリを作った（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/08/04/5360.html",
+    "pubDate": "2026-08-04T02:43:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "50音を全部作って繋いだのに、（　´∀｀）になった話",
+    "link": "https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-04T01:11:44.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "21年ぶり新作、ドット絵エディタ「EDGE1」「EDGE2」「Edge3」の歴史について作者に聞く【フォーカス】 - レバテックLAB",
     "link": "https://levtech.jp/media/detail_902/",
     "pubDate": "2026-08-04T00:36:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "磁気切符の黄昏　QRコード改札はどのように動いているのか【鈴木淳也のPay Attention】",
+    "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2127467.html",
+    "pubDate": "2026-08-03T23:55:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "デスクトップ操作を記録してAIのスキル・自動化を生成。Microsoft、「Skill Recorder」を公開／Windows 11、macOS、Ubuntuに対応するオープンソースアプリ",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2130221.html",
+    "pubDate": "2026-08-03T23:37:53.000Z"
   },
   {
     "site": "Zenn",
@@ -13,15 +43,21 @@
   },
   {
     "site": "Hatena",
-    "title": "えっ、公共Wi-Fiの接続画面が偽物？Microsoftが警告する恐るべき手口",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2130140.html",
-    "pubDate": "2026-08-03T22:18:15.000Z"
+    "title": "radikoの配信基盤を設計した技術者、香取啓志氏が語る「放送×インターネット」の次　",
+    "link": "https://internet.watch.impress.co.jp/docs/special/teigen/2129830.html",
+    "pubDate": "2026-08-03T22:44:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる",
+    "link": "https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-03T22:24:09.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど",
-    "link": "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
-    "pubDate": "2026-08-03T22:11:05.000Z"
+    "title": "えっ、公共Wi-Fiの接続画面が偽物？Microsoftが警告する恐るべき手口",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2130140.html",
+    "pubDate": "2026-08-03T22:18:15.000Z"
   },
   {
     "site": "Zenn",
@@ -36,10 +72,16 @@
     "pubDate": "2026-08-03T12:31:03.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【PHP9】PHP9がリリースされた",
+    "link": "https://qiita.com/rana_kualu/items/8b350ada6dc831207d14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-03T10:47:58.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた",
-    "link": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
-    "pubDate": "2026-08-03T09:58:20.000Z"
+    "title": "GH-600: GitHub Agentic AI Developerに合格しました",
+    "link": "https://zenn.dev/microsoft/articles/gh-600-how-to-pass",
+    "pubDate": "Mon, 03 Aug 2026 10:32:42 GMT"
   },
   {
     "site": "Zenn",
@@ -66,18 +108,6 @@
     "pubDate": "2026-08-03T06:55:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Y Combinator、マルチエージェントハーネス「QM」をオープンソース化 ——組織のクラウド環境で利用者やチャンネルごとの作業環境を管理 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/08/yc-qm",
-    "pubDate": "2026-08-03T06:19:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと - Qiita",
-    "link": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07",
-    "pubDate": "2026-08-03T06:10:24.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた",
     "link": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
@@ -90,6 +120,12 @@
     "pubDate": "Mon, 03 Aug 2026 05:21:53 GMT"
   },
   {
+    "site": "Qiita",
+    "title": " Figma MCP × Claude Codeで、実装はどこまで自動化できるか",
+    "link": "https://qiita.com/shibuya-ys/items/2c9e2cc58c7744c6d7b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-03T02:06:37.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "UnityのDIは本当に必要か：Zenject継続・Reflex新規採用・VContainer比較の判断軸",
     "link": "https://zenn.dev/gamedev_toollab/articles/945a5084be2a38",
@@ -97,9 +133,9 @@
   },
   {
     "site": "Qiita",
-    "title": "「インターネットはありません」と書いたプロンプトの外で、AI が実在企業3社に侵入していた",
-    "link": "https://qiita.com/jqit_suwa/items/2adb0c35fffb41514791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-03T00:59:43.000Z"
+    "title": "AWSで作った洗濯botを2ヶ月使い続けた話",
+    "link": "https://qiita.com/SakiFukutani/items/82209a2a8b9cc603ec57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-03T00:34:28.000Z"
   },
   {
     "site": "Qiita",
@@ -108,28 +144,10 @@
     "pubDate": "2026-08-03T00:32:33.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【初学者必見】Python復習記録｜Djangoで入力チェックを実装してみた",
-    "link": "https://qiita.com/NT_seki/items/0027e9cd38f5c165c1ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-03T00:05:08.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "アーキテクチャに限らず意思決定を全部残す「ADR（Any Decision Record）」という文化",
     "link": "https://zenn.dev/dress_code/articles/c73500ae73361c",
     "pubDate": "Mon, 03 Aug 2026 00:00:10 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AI、結局使えないじゃん」問題　セールスフォースが431万件対応で導いた正解",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/03/news030.html",
-    "pubDate": "2026-08-02T23:51:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Lambda】NFC 名刺のアクセスカウンターを Lambda Function URL + DynamoDB で作る",
-    "link": "https://qiita.com/ryu-ki/items/60cc8e04d60bbfcf7fa7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-02T23:20:04.000Z"
   },
   {
     "site": "Zenn",
@@ -160,23 +178,5 @@
     "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
     "link": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-01T23:38:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GDBで始めるアセンブリと解析",
-    "link": "https://zenn.dev/juck28/articles/091c07869aba28",
-    "pubDate": "Sat, 01 Aug 2026 13:34:19 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ガバメント AI 源内（genai-web）を Entra ID シングルサインオン + カスタムドメインで運用する",
-    "link": "https://qiita.com/takeda_h/items/74e0d6802dafeda4a7b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-01T13:27:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIのアウトプットをそのまま出すだけの人にならないために",
-    "link": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-01T06:25:03.000Z"
   }
 ]
