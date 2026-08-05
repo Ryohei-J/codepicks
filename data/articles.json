@@ -1,5 +1,35 @@
 [
   {
+    "site": "Qiita",
+    "title": " 新人エンジニア、定年まで続く勉強量に震えてやばいと思った話",
+    "link": "https://qiita.com/prumnn/items/942eaafa9b9435fcc896?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-05T07:19:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「試してみよう」が毎回「後回し」になるのは怠惰ではなく、情報渋滞のせい【AI時代の弊害】",
+    "link": "https://qiita.com/sumomoo/items/d5cb8ed4935a8df88811?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-05T06:28:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "東大、60代教授を懲戒処分　サイトのHTMLソースに“不適切な言葉”　「六四天安門」問題が理由と毎日報道",
+    "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000392/",
+    "pubDate": "2026-08-05T04:31:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アフタヌーンティーを検索する時にアフタヌーンティーが厄介すぎる…私はアフタヌーンティーを探したいのであって、アフタヌーンティーは求めていないのです…→共感の声が集まる",
+    "link": "https://togetter.com/li/2729254",
+    "pubDate": "2026-08-05T04:28:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スペースXのロケット、まもなく月に衝突へ",
+    "link": "https://www.cnn.co.jp/fringe/35251309.html",
+    "pubDate": "2026-08-05T03:35:47.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "メモリ不足、って不足＝価格の高騰じゃなくて、不足＝本当に調達できなくなってきている、だからな。それよろしくて？",
     "link": "https://anond.hatelabo.jp/20260805091101",
@@ -7,21 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "映画のストーリーの全容を文字起こしした「文字抜き出しサイト」運営者ら4人と運営法人に有罪判決　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2130461.html",
-    "pubDate": "2026-08-04T23:11:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果",
+    "title": "【特集】メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果 - PC Watch",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2130575.html",
     "pubDate": "2026-08-04T22:57:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "スタックプルリクエスト入門 — gh stackの使い方と、AIエージェントの並列実装での活用 - Findy Tech Blog",
-    "link": "https://tech.findy.co.jp/entry/2026/08/05/070000",
-    "pubDate": "2026-08-04T22:49:33.000Z"
   },
   {
     "site": "Hatena",
@@ -51,7 +69,13 @@
     "site": "Zenn",
     "title": "プロンプトエンジニアリングのすすめかた",
     "link": "https://zenn.dev/nrs/articles/70db94beb7b76d",
-    "pubDate": "2026-08-04T10:52:45.000Z"
+    "pubDate": "Tue, 04 Aug 2026 10:40:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【前編】AI駆動開発、用語で挫折していませんか？ ——歴史をたどれば「Skills」も「Hooks」も一本の線でつながる",
+    "link": "https://qiita.com/shou-dev19/items/e1583af614a573e4b245?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-04T08:50:22.000Z"
   },
   {
     "site": "Qiita",
@@ -64,6 +88,12 @@
     "title": "「デバッグ」、挟まった虫がきっかけだったって知ってました？【ITパスポート】",
     "link": "https://qiita.com/prumnn/items/8e154a792445fa2c063e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-04T08:21:02.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "プロンプトキャッシュを意識して claude code のトークンを節約しよう",
+    "link": "https://zenn.dev/ceres_tech_blog/articles/7163ae482e124e",
+    "pubDate": "Tue, 04 Aug 2026 07:48:52 GMT"
   },
   {
     "site": "Zenn",
@@ -108,18 +138,6 @@
     "pubDate": "Tue, 04 Aug 2026 00:02:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIエージェント向けのツールを、MCPではなくCLIとして作った — 設計の3原則",
-    "link": "https://zenn.dev/codatum/articles/80b99faba75704",
-    "pubDate": "Mon, 03 Aug 2026 23:02:09 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "図解で解説！Anthropic Claude Certified Architect (CCAR-F) 試験ガイド",
-    "link": "https://qiita.com/DeepTama/items/075b66cd7332870a042a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-03T22:51:36.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる",
     "link": "https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -130,6 +148,12 @@
     "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
     "link": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-03T21:59:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI家臣団を解散して、影武者を一人だけ残した　兵法書と訓練記録",
+    "link": "https://zenn.dev/shio_shoppaize/books/kagemusha-book",
+    "pubDate": "Mon, 03 Aug 2026 20:34:35 GMT"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "中国産Kimi3｜Claudeなどの有料プラン級が無料で使える最新AIとは？",
     "link": "https://qiita.com/sumomoo/items/4efb8d1abd340c0bec28?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-03T06:59:29.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた",
-    "link": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
-    "pubDate": "Mon, 03 Aug 2026 05:26:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Herdr で止まらず、精度の高い開発を進める工夫 ─ intent-cli で意図をもとに開発する",
-    "link": "https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration",
-    "pubDate": "Mon, 03 Aug 2026 05:21:53 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWSで作った洗濯botを2ヶ月使い続けた話",
-    "link": "https://qiita.com/SakiFukutani/items/82209a2a8b9cc603ec57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-03T00:34:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理",
-    "link": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-01T23:38:39.000Z"
   }
 ]
