@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "「SNOW」と称するアプリケーションの利用サービスの提供事業者2社に対する景品表示法に基づく措置命令について | 消費者庁",
+    "link": "https://www.caa.go.jp/notice/entry/047140/",
+    "pubDate": "2026-08-06T09:28:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "リクルート、新卒エンジニア向け研修資料を無料公開　“AI時代の生き残り方”など紹介する13本",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000418/",
+    "pubDate": "2026-08-06T08:36:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「.jp」が40周年――1986年8月5日、Jon Postel氏から村井純氏に委任　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2131166.html",
+    "pubDate": "2026-08-06T06:56:14.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",
     "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
     "pubDate": "2026-08-06T05:25:36.000Z"
@@ -16,6 +34,12 @@
     "title": "ユーザー阿鼻叫喚？ Gmail、サードパーティの「送信元アドレス」のサポートを打ち切りへ【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2131033.html",
     "pubDate": "2026-08-06T03:29:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた",
+    "link": "https://zenn.dev/ait/articles/google-design-md-measured",
+    "pubDate": "2026-08-06T03:07:40.000Z"
   },
   {
     "site": "Qiita",
@@ -54,34 +78,16 @@
     "pubDate": "2026-08-06T00:05:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "学生の「生成AIコピペ」レポートで悩む大学教員たち。留年・落単・減点も　",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2126634.html",
-    "pubDate": "2026-08-05T22:28:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/08/anydoc",
-    "pubDate": "2026-08-05T11:57:12.000Z"
+    "site": "Zenn",
+    "title": "DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた",
+    "link": "https://zenn.dev/ait/articles/google-design-md-measured",
+    "pubDate": "Wed, 05 Aug 2026 18:49:06 GMT"
   },
   {
     "site": "Zenn",
     "title": "gpt-5.6-sol の high に「ウルトラ」と入力して「ソウル」と話させる技術",
     "link": "https://zenn.dev/microsoft/articles/agent-framework-ultra-soul",
     "pubDate": "Wed, 05 Aug 2026 11:19:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話",
-    "link": "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
-    "pubDate": "Wed, 05 Aug 2026 09:25:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SkillをGitHub Copilotで\"育てる\" — 実証的プロンプト改善の実践レポート",
-    "link": "https://zenn.dev/aiforall/articles/cb36b724e20a43",
-    "pubDate": "Wed, 05 Aug 2026 08:23:13 GMT"
   },
   {
     "site": "Zenn",
@@ -94,12 +100,6 @@
     "title": " 新人エンジニア、定年まで続く勉強量に震えてやばいと思った話",
     "link": "https://qiita.com/prumnn/items/942eaafa9b9435fcc896?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-05T07:19:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の「無駄」を可視化するツール cclens を作った",
-    "link": "https://zenn.dev/lambdalisue/articles/introduce-cclens",
-    "pubDate": "2026-08-05T06:58:52.000Z"
   },
   {
     "site": "Zenn",
@@ -151,6 +151,12 @@
   },
   {
     "site": "Zenn",
+    "title": "生成AIの品質保証をどう設計する？ ― 「全部QAで見る」をやめて、機械とAIと人に分けた話",
+    "link": "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
+    "pubDate": "Tue, 04 Aug 2026 03:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "バックエンドエンジニアがQAを1年やって思ったこと――役割の前に、人がいる",
     "link": "https://zenn.dev/knowledgework/articles/2f100e296b60d4",
     "pubDate": "Tue, 04 Aug 2026 02:48:55 GMT"
@@ -172,11 +178,5 @@
     "title": "【PHP9】PHP9がリリースされた",
     "link": "https://qiita.com/rana_kualu/items/8b350ada6dc831207d14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-03T10:47:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ループバックIPアドレスって1677万7216個もあんねん」なぜローカルホストはクラスA 127/8 全体なんだろう？ - in between days",
-    "link": "https://mohritaroh.hateblo.jp/entry/2026/08/02/170000",
-    "pubDate": "2026-08-02T11:05:29.000Z"
   }
 ]
