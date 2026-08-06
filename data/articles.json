@@ -1,27 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",
+    "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
+    "pubDate": "2026-08-06T05:25:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「プチプチ」の川上産業、「プチプチ株式会社」に社名変更　創業58年で",
+    "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000419/",
+    "pubDate": "2026-08-06T05:02:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ユーザー阿鼻叫喚？ Gmail、サードパーティの「送信元アドレス」のサポートを打ち切りへ【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2131033.html",
+    "pubDate": "2026-08-06T03:29:23.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Flutter × slangで多言語対応を実装する | build_runnerで詰まった失敗談と回避策",
+    "link": "https://qiita.com/usui0623/items/4e41063519aaca5fe4e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-06T02:56:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "中国製ルーター20機種にバックドア、外部から完全制御のおそれ",
+    "link": "https://japan.cnet.com/article/35251353/",
+    "pubDate": "2026-08-06T02:24:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "秋田に日本最大級AIデータセンター　建設費2兆円、UAEが投資へ - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
+    "pubDate": "2026-08-06T02:06:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "プロンプトの次は何を学べばいい？ AIとの付き合い方を4段階で整理する",
+    "link": "https://qiita.com/jqit_suwa/items/cb785917d2661858f7b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-06T01:10:34.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI が原因を当てても、「思いついた」わけじゃない —— 推論の3分類で見分ける",
+    "link": "https://qiita.com/jqit_suwa/items/aefb1adac27a34646cf3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-06T00:29:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "社内Slackのtimesで「お気持ち」を書くな｜Chujo",
     "link": "https://note.com/chujo/n/n8b7c8aee1619",
     "pubDate": "2026-08-06T00:05:26.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Cloudflare OS",
-    "link": "https://os.cloudflare.app/",
-    "pubDate": "2026-08-05T15:09:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ターミナルで乗換案内を引く CLI「transit」を Go で作った",
-    "link": "https://zenn.dev/atani/articles/transit-japan-route-cli-go",
-    "pubDate": "2026-08-05T14:43:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf",
-    "link": "https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2",
-    "pubDate": "2026-08-05T14:06:42.000Z"
+    "title": "学生の「生成AIコピペ」レポートで悩む大学教員たち。留年・落単・減点も　",
+    "link": "https://internet.watch.impress.co.jp/docs/special/2126634.html",
+    "pubDate": "2026-08-05T22:28:12.000Z"
   },
   {
     "site": "Hatena",
@@ -30,28 +66,28 @@
     "pubDate": "2026-08-05T11:57:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "スペースキーで変換する代わりに、打ち間違いを気にせずに入力したローマ字をAIで自然な日本語に変換してくれるMac用の日本語入力アプリ「Nospace」がリリース。",
-    "link": "https://applech2.com/archives/20260805-nospace-for-mac-ai-japanese-input-app.html",
-    "pubDate": "2026-08-05T11:19:20.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "gpt-5.6-sol の high に「ウルトラ」と入力して「ソウル」と話させる技術",
     "link": "https://zenn.dev/microsoft/articles/agent-framework-ultra-soul",
     "pubDate": "Wed, 05 Aug 2026 11:19:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ふとした出会いで生まれたSkillが、 社内利用1位になるまで",
-    "link": "https://speakerdeck.com/mikimhk/how-a-skill-born-from-a-chance-encounter-became-the-most-used-tool-in-the-company",
-    "pubDate": "2026-08-05T11:10:17.000Z"
+    "site": "Zenn",
+    "title": "脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話",
+    "link": "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
+    "pubDate": "Wed, 05 Aug 2026 09:25:00 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み　英研究機関のテストで判明",
-    "link": "https://www.cnn.co.jp/tech/35251323.html",
-    "pubDate": "2026-08-05T08:17:10.000Z"
+    "site": "Zenn",
+    "title": "SkillをGitHub Copilotで\"育てる\" — 実証的プロンプト改善の実践レポート",
+    "link": "https://zenn.dev/aiforall/articles/cb36b724e20a43",
+    "pubDate": "Wed, 05 Aug 2026 08:23:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "仕様書から保証台帳へ、GDD（保証駆動開発）のすすめ",
+    "link": "https://zenn.dev/yktsnet/articles/202608-guarantee-driven-development",
+    "pubDate": "Wed, 05 Aug 2026 07:42:28 GMT"
   },
   {
     "site": "Qiita",
@@ -73,6 +109,12 @@
   },
   {
     "site": "Qiita",
+    "title": "【新卒エンジニアが考える】「読みやすさ」の正体とは？大学で学んだ認知心理学をUI実装とJavaのコード設計にあてはめてみた",
+    "link": "https://qiita.com/tkmrtkm/items/f6f6c10b802372a53c0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-05T06:31:13.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "「試してみよう」が毎回「後回し」になるのは怠惰ではなく、情報渋滞のせい【AI時代の弊害】",
     "link": "https://qiita.com/sumomoo/items/d5cb8ed4935a8df88811?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-05T06:28:02.000Z"
@@ -82,12 +124,6 @@
     "title": "散らばった議論を LLM-Wiki でフル活用する AI 時代のデザインシステムのカタチ",
     "link": "https://zenn.dev/cybozu_frontend/articles/llm-wiki-for-design-systems",
     "pubDate": "Wed, 05 Aug 2026 03:00:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "タイムボクシングのすすめ",
-    "link": "https://zenn.dev/tokium_dev/articles/timeboxing-design-and-practice",
-    "pubDate": "Wed, 05 Aug 2026 01:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -108,34 +144,10 @@
     "pubDate": "Tue, 04 Aug 2026 10:40:05 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【前編】AI駆動開発、用語で挫折していませんか？ ——歴史をたどれば「Skills」も「Hooks」も一本の線でつながる",
-    "link": "https://qiita.com/shou-dev19/items/e1583af614a573e4b245?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-04T08:50:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "日本産AI「FRONTia」、日本の技術✕エンタメ力に期待したくなるフィジカルロボット",
-    "link": "https://qiita.com/sumomoo/items/255d77e0a1baa74c5f36?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-04T08:23:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「デバッグ」、挟まった虫がきっかけだったって知ってました？【ITパスポート】",
-    "link": "https://qiita.com/prumnn/items/8e154a792445fa2c063e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-04T08:21:02.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Microsoft 謹製 デスクトップアプリ「Skill Recorder」で業務効率化スキル（SKILL.md）の作成が捗る？",
     "link": "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
     "pubDate": "Tue, 04 Aug 2026 04:57:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "生成AIの品質保証をどう設計する？ ― 「全部QAで見る」をやめて、機械とAIと人に分けた話",
-    "link": "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
-    "pubDate": "Tue, 04 Aug 2026 03:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -154,18 +166,6 @@
     "title": "ROS 2 ハンズオン — 環境構築から自作ノード・自律走行まで",
     "link": "https://zenn.dev/kimushun1101/books/ros2-handson",
     "pubDate": "Tue, 04 Aug 2026 01:08:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rust のテストを実行するとき、裏側で何が起きているか",
-    "link": "https://zenn.dev/estie/articles/882e14dcad0d46",
-    "pubDate": "Tue, 04 Aug 2026 01:00:06 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる",
-    "link": "https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-03T22:24:09.000Z"
   },
   {
     "site": "Qiita",
