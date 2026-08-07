@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "Cloudflareが「自社で使っている社内AIワークスペース」をオープンソース公開 — ゼロトラスト・マルチモデル対応、構築コストを省いてそのまま使える",
+    "link": "https://techfeed.io/entries/6a73c39e4ddb25dd629d5070",
+    "pubDate": "2026-08-06T23:03:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude が書く長いコメントは、Claude 自身の役に立っていなかった",
+    "link": "https://zenn.dev/uzu_tech/articles/86a2ef05a7d649",
+    "pubDate": "2026-08-06T22:38:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
+    "link": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
+    "pubDate": "2026-08-06T22:30:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように　ヒトの実証は初　Science系列誌掲載",
+    "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/",
+    "pubDate": "2026-08-06T22:05:53.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI使って自然界にないウイルスを作成　米スタンフォードが成果発表 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/",
     "pubDate": "2026-08-06T21:56:45.000Z"
@@ -13,12 +37,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Give any website a WebMCP interface",
-    "link": "https://blog.cloudflare.com/webmcp/",
-    "pubDate": "2026-08-06T14:38:47.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "メタのAIモデルも他社に侵入　社内システムを変更か",
     "link": "https://www.cnn.co.jp/tech/35251344.html",
     "pubDate": "2026-08-06T13:08:26.000Z"
@@ -28,12 +46,6 @@
     "title": "個人開発「家系ラーメンマニア」で利用者急増　対応追いつかず一部停止　「より信頼していただけるアプリに」",
     "link": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/",
     "pubDate": "2026-08-06T11:03:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東京メトロ、銀座線・丸ノ内線を大増発　計212本",
-    "link": "https://www.watch.impress.co.jp/docs/news/2131246.html",
-    "pubDate": "2026-08-06T08:41:46.000Z"
   },
   {
     "site": "Hatena",
@@ -52,12 +64,6 @@
     "title": "「Cookie」はお店の会員カードみたいなもの【ITパスポート】",
     "link": "https://qiita.com/prumnn/items/7e57897f62b84ee9c662?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-06T07:28:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた",
-    "link": "https://zenn.dev/ait/articles/google-design-md-measured",
-    "pubDate": "2026-08-06T03:07:40.000Z"
   },
   {
     "site": "Qiita",
@@ -84,16 +90,22 @@
     "pubDate": "Wed, 05 Aug 2026 11:19:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "リクルートのエンジニアコース新人研修の内容を公開します！（2026年度版） | リクルート テックブログ",
-    "link": "https://techblog.recruit.co.jp/article-7222/",
-    "pubDate": "2026-08-05T10:12:40.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【初心者向け】「セキュリティを担保できてる？」とは何なのか",
     "link": "https://qiita.com/sai029/items/a837b6706911d1a0b33a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-05T09:57:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "脆弱性を作り込まないために、Claude公式「Security Guidance Plugin」を導入した話",
+    "link": "https://zenn.dev/rakko_inc/articles/claude-code-security-guidance-intro",
+    "pubDate": "Wed, 05 Aug 2026 09:25:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SkillをGitHub Copilotで\"育てる\" — 実証的プロンプト改善の実践レポート",
+    "link": "https://zenn.dev/aiforall/articles/cb36b724e20a43",
+    "pubDate": "Wed, 05 Aug 2026 08:23:13 GMT"
   },
   {
     "site": "Zenn",
@@ -127,9 +139,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude が書く長いコメントは、Claude 自身の役に立っていなかった",
+    "link": "https://zenn.dev/uzu_tech/articles/86a2ef05a7d649",
+    "pubDate": "Wed, 05 Aug 2026 03:00:10 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "散らばった議論を LLM-Wiki でフル活用する AI 時代のデザインシステムのカタチ",
     "link": "https://zenn.dev/cybozu_frontend/articles/llm-wiki-for-design-systems",
     "pubDate": "Wed, 05 Aug 2026 03:00:09 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "仕事で成果を出すには「図々しさ」が必要そう - モヒカン技術ブログ",
+    "link": "https://blog.pinkumohikan.com/entry/gianism-for-working",
+    "pubDate": "2026-08-05T00:42:26.000Z"
   },
   {
     "site": "Qiita",
@@ -150,33 +174,9 @@
     "pubDate": "Tue, 04 Aug 2026 04:57:19 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "生成AIの品質保証をどう設計する？ ― 「全部QAで見る」をやめて、機械とAIと人に分けた話",
-    "link": "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
-    "pubDate": "Tue, 04 Aug 2026 03:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バックエンドエンジニアがQAを1年やって思ったこと――役割の前に、人がいる",
-    "link": "https://zenn.dev/knowledgework/articles/2f100e296b60d4",
-    "pubDate": "Tue, 04 Aug 2026 02:48:55 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "50音を全部作って繋いだのに、（　´∀｀）になった話",
     "link": "https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-04T01:11:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ROS 2 ハンズオン — 環境構築から自作ノード・自律走行まで",
-    "link": "https://zenn.dev/kimushun1101/books/ros2-handson",
-    "pubDate": "Tue, 04 Aug 2026 01:08:42 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Does code quality still matter?",
-    "link": "https://blog.ploeh.dk/2026/07/23/does-code-quality-still-matter/",
-    "pubDate": "2026-07-24T00:11:23.000Z"
   }
 ]
