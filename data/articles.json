@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "AIエージェントの「Skills」などが標準規格化　CodexやVS Codeなど対応、Claudeは未対応",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+    "pubDate": "2026-08-10T07:42:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIインフラの最新技術動向2026 (OCP China)",
+    "link": "https://speakerdeck.com/markunet/aiinhuranozui-xin-ji-shu-dong-xiang-2026-ocp-china",
+    "pubDate": "2026-08-10T06:15:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位",
+    "link": "https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-10T05:47:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安",
+    "link": "https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-10T05:46:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "我が家の横の植え込みに小型カメラが隠してあったので警察を呼ぶも「落とし物ですな」と呑気な対応… 翌日、20歳くらいの男の子が我が家にやってきて「この辺にカメラ落としたんですけど…」",
     "link": "https://togetter.com/li/2731254",
     "pubDate": "2026-08-10T05:35:38.000Z"
@@ -25,9 +49,21 @@
   },
   {
     "site": "Hatena",
+    "title": "「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way",
+    "link": "https://expajp-tech.hatenablog.com/entry/2026/08/09/191222",
+    "pubDate": "2026-08-10T00:07:10.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "とんでもない動画生成AIが出てきた　無料で試し放題の「MiniMax H3」を徹底検証 (1/5)",
     "link": "https://ascii.jp/elem/000/004/426/4426043/",
     "pubDate": "2026-08-10T00:04:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "富士山登頂記念に、AWS Blocks という山も少しずつ登ってみる（第1弾：五合目から八合目の山小屋へ ── 「地名→標高」アプリをローカル完結で）",
+    "link": "https://qiita.com/ShikoMaehara/items/6a8adc79a26b23a128ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-10T00:00:16.000Z"
   },
   {
     "site": "Hatena",
@@ -42,34 +78,22 @@
     "pubDate": "2026-08-09T19:50:18.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表",
+    "link": "https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-09T14:39:40.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Cloudflare OSをVRAM 8GBのゲーミングPCで動かしたら、三目並べ1個に5ラウンドかかった話",
     "link": "https://zenn.dev/akari1106/articles/20109e62a4b8b7",
     "pubDate": "Sun, 09 Aug 2026 13:16:54 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",
-    "link": "https://gigazine.net/news/20260809-phantom-twist-drone/",
-    "pubDate": "2026-08-09T11:16:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ - Qiita",
-    "link": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1",
-    "pubDate": "2026-08-09T09:41:19.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "新人エンジニアにとって大切なことは技術力だけではない話",
     "link": "https://qiita.com/teppei19980914/items/d8c00eff5cbf870c606c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-09T07:43:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIがコードを書く時代に、なぜWebエンジニアは必要なのか",
-    "link": "https://qiita.com/saikoseiko/items/b44110b1bd3e3d687fae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-09T02:06:09.000Z"
   },
   {
     "site": "Zenn",
@@ -82,18 +106,6 @@
     "title": "わかったようでわからないアロー関数の完全理解",
     "link": "https://qiita.com/yuki_crossroad/items/dffb06c5e5cd1ef73463?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-08T23:51:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "税と再分配は何のため？ ― 『正統性』から考える国家OSのリファクタリング : システム設計視点の行動経済学 (11)",
-    "link": "https://qiita.com/maskot1977/items/bece9b1780826fc9f527?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-08T21:54:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS】Bedrock MantleがAPI キーレスで使えるっぽいのでやってみた",
-    "link": "https://qiita.com/yakumo_09/items/210e60518b5bb7dbc4e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-08T20:58:36.000Z"
   },
   {
     "site": "Qiita",
@@ -138,22 +150,10 @@
     "pubDate": "2026-08-07T11:10:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「就活に生成AI利用」ほぼ全員に　面接で内容追及され困惑も",
-    "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000456/",
-    "pubDate": "2026-08-07T11:02:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Cloudflare Walletsは何を提供するのか",
     "link": "https://zenn.dev/komlock_lab/articles/cloudflare-wallets-agent-payments",
     "pubDate": "Fri, 07 Aug 2026 09:26:26 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ",
-    "link": "https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-07T09:20:59.000Z"
   },
   {
     "site": "Zenn",
@@ -163,20 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "Web API設計の現在地2026",
-    "link": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-07T03:06:02.000Z"
+    "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ",
+    "link": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-07T08:14:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "楽観ロックの実装でおさえたいポイントと、よくあるしくじり",
+    "link": "https://zenn.dev/levtech/articles/how-to-concrete-optimistic-lock",
+    "pubDate": "Fri, 07 Aug 2026 03:03:06 GMT"
   },
   {
     "site": "Zenn",
     "title": "58% の Pull Request を AI が承認するようになった",
     "link": "https://zenn.dev/she_techblog/articles/937836550dfdf3",
     "pubDate": "Thu, 06 Aug 2026 21:10:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自宅RTX 5090にvLLM+Open WebUI のローカルLLMサーバーを立てて Tailnet 経由でスマホから使う",
-    "link": "https://zenn.dev/kaerururu/articles/2b2a82ba6f3ba2",
-    "pubDate": "Thu, 06 Aug 2026 11:31:31 GMT"
   }
 ]
