@@ -1,9 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "あの --- は、いつのまにか AI エージェントの入り口になっていた",
+    "link": "https://zenn.dev/awesome_kou/articles/7a5bb472fcdfa8",
+    "pubDate": "2026-08-10T00:50:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「営業職はいずれ消える」予想一転、AIで人気職種へ　富士通は増員 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC2706S0X20C26A7000000/",
+    "pubDate": "2026-08-09T22:27:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PMの定型業務を「Skill」にする - 要件定義とデータ分析、2つの実践 - TalentX Tech Blog",
+    "link": "https://tech.talentx.co.jp/entry/2026/08/07/100027",
+    "pubDate": "2026-08-09T19:50:18.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/beads-agent-state-management-automation-scope/",
     "pubDate": "2026-08-09T15:16:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+    "link": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+    "pubDate": "2026-08-09T13:31:00.000Z"
   },
   {
     "site": "Hatena",
@@ -13,21 +37,27 @@
   },
   {
     "site": "Hatena",
-    "title": "第25回【アメリカ映画】ソーシャル・ネットワーク「つながりを作った男の孤独」｜Facebook誕生の裏側に学ぶ、才能と代償の物語",
-    "link": "https://logilate.com/social-network/4143/",
-    "pubDate": "2026-08-09T08:34:44.000Z"
+    "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",
+    "link": "https://gigazine.net/news/20260809-phantom-twist-drone/",
+    "pubDate": "2026-08-09T11:16:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「CPUをダメにする」研究者が見つけた最も遅い1命令の正体と暴かれたリスク | XenoSpectrum",
-    "link": "https://xenospectrum.com/cpu-deoptimization-hall-of-shame-198-billion-cycles/",
-    "pubDate": "2026-08-09T05:47:42.000Z"
+    "site": "Qiita",
+    "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ - Qiita",
+    "link": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1",
+    "pubDate": "2026-08-09T09:41:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "iPadにMacの画面を映しセカンドモニターとして利用できるようにするアプリ「OpenDisplay」がApple Pencilの筆圧とチルト、ホバーに対応。",
-    "link": "https://applech2.com/archives/20260809-opendisplay-support-apple-pencil-pressure.html",
-    "pubDate": "2026-08-09T02:36:18.000Z"
+    "site": "Qiita",
+    "title": "新人エンジニアにとって大切なことは技術力だけではない話",
+    "link": "https://qiita.com/teppei19980914/items/d8c00eff5cbf870c606c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-09T07:43:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIがコードを書く時代に、なぜWebエンジニアは必要なのか",
+    "link": "https://qiita.com/saikoseiko/items/b44110b1bd3e3d687fae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-09T02:06:09.000Z"
   },
   {
     "site": "Zenn",
@@ -36,16 +66,10 @@
     "pubDate": "Sun, 09 Aug 2026 02:01:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AI絵が嫌なのは、「AIだから」ではない｜k.a.256",
-    "link": "https://note.com/kurage0/n/naea06d39ff7c",
-    "pubDate": "2026-08-09T00:44:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "コンサル大手トップから市場縮小論　AIによる業務代替、4社が危機感 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/",
-    "pubDate": "2026-08-09T00:06:50.000Z"
+    "site": "Qiita",
+    "title": "わかったようでわからないアロー関数の完全理解",
+    "link": "https://qiita.com/yuki_crossroad/items/dffb06c5e5cd1ef73463?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-08T23:51:16.000Z"
   },
   {
     "site": "Qiita",
@@ -58,6 +82,12 @@
     "title": "【AWS】Bedrock MantleがAPI キーレスで使えるっぽいのでやってみた",
     "link": "https://qiita.com/yakumo_09/items/210e60518b5bb7dbc4e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-08T20:58:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ネットワークセキュリティの基礎を学習した話(ファイアウォール・IDS/IPS・プロキシ・VPNまで)",
+    "link": "https://qiita.com/Ikechom/items/58cd28b2a39487865506?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-08T16:38:18.000Z"
   },
   {
     "site": "Zenn",
@@ -73,33 +103,15 @@
   },
   {
     "site": "Qiita",
-    "title": "LTできたらバンジー飛べる",
-    "link": "https://qiita.com/tanahiro2010/items/e536eabc73691f87dc0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-08T12:27:46.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "今更だけど、DynamoDBの設計の勘所をサクッとまとめてみた",
     "link": "https://qiita.com/miruky/items/c7beb2fbed6492d195d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-08T08:58:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon DynamoDBのリアルタイムベクトル検索機能をちょっと整理する",
-    "link": "https://qiita.com/Syoitu/items/068db63a8bf3bb961b2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-08T06:15:11.000Z"
   },
   {
     "site": "Zenn",
     "title": "Claude Code で「ループエンジニアリング」を実践してみた",
     "link": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
     "pubDate": "Sat, 08 Aug 2026 04:39:01 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "国産迎撃ドローン開発へ、プロドローンと東芝が技術連携を始めた ニュースイッチ by 日刊工業新聞社",
-    "link": "https://newswitch.jp/p/49912",
-    "pubDate": "2026-08-08T03:50:11.000Z"
   },
   {
     "site": "Zenn",
@@ -114,12 +126,6 @@
     "pubDate": "2026-08-07T11:10:01.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "kaggle ROGIIコンペ 6位 - 勘違いからソロ金メダルでマスターへ",
-    "link": "https://qiita.com/kosakae256/items/4190925a724b436eb303?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-07T10:52:32.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Cloudflare Walletsは何を提供するのか",
     "link": "https://zenn.dev/komlock_lab/articles/cloudflare-wallets-agent-payments",
@@ -132,10 +138,10 @@
     "pubDate": "2026-08-07T09:20:59.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【超初心者エンジニアのgit失敗談】`git pull` すれば最新になると思ってた",
-    "link": "https://qiita.com/yamasaki_k/items/8bd8dd1c53d1790dfafb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-07T07:36:05.000Z"
+    "site": "Zenn",
+    "title": "[Claude Code] AIの説明が「それっぽいだけ」で終わる問題を、Skill設計で解決した話",
+    "link": "https://zenn.dev/ncdc/articles/56d60cb79319b2",
+    "pubDate": "Fri, 07 Aug 2026 09:18:18 GMT"
   },
   {
     "site": "Qiita",
@@ -160,12 +166,6 @@
     "title": "自宅RTX 5090にvLLM+Open WebUI のローカルLLMサーバーを立てて Tailnet 経由でスマホから使う",
     "link": "https://zenn.dev/kaerururu/articles/2b2a82ba6f3ba2",
     "pubDate": "Thu, 06 Aug 2026 11:31:31 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "面白くない自作パズルをAIに8,000回プレイさせたら原因がわかった！",
-    "link": "https://zenn.dev/xtone/articles/masshiro-ai-playtest",
-    "pubDate": "Thu, 06 Aug 2026 10:27:14 GMT"
   },
   {
     "site": "Hatena",
