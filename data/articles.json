@@ -1,5 +1,23 @@
 [
   {
+    "site": "Qiita",
+    "title": ".NET 11 Runtime Async はなぜ速いのか - Qiita",
+    "link": "https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91",
+    "pubDate": "2026-08-11T22:29:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「一太郎」に圧倒されていた「ワード」、マイクロソフトはエクセル人気を武器に「抱き合わせ」でシェア獲得",
+    "link": "https://www.yomiuri.co.jp/economy/20260812-GYT1T00001/",
+    "pubDate": "2026-08-11T21:45:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog",
+    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "pubDate": "2026-08-11T21:40:08.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "無料で読めるITまんが 2026年版 ～マンガでわかるAIの仕組み／DC業務のリアルを知るヤマダくん、ほか",
     "link": "https://www.publickey1.jp/blog/26/content_4.html",
@@ -7,33 +25,27 @@
   },
   {
     "site": "Hatena",
-    "title": "セキュリティ・キャンプ2026B2 セキュリティ分析LLMエージェントの実装 /seccamp2026-b2",
-    "link": "https://speakerdeck.com/mizutani/seccamp2026-b2",
-    "pubDate": "2026-08-11T11:54:35.000Z"
+    "title": "新幹線「独りぼっち席」が話題――「2000円追加で“隣が空席”」との声、なぜ導入？",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2608/11/news018.html",
+    "pubDate": "2026-08-11T12:46:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "義母がキッチンにあるWi-Fiルーターを見て「この電磁波って健康に問題ないの？」というので「そこの鍋から放出されてる電磁波はWi-Fiよりずっと強い」と教えたらたまげてた",
-    "link": "https://togetter.com/li/2731705",
-    "pubDate": "2026-08-11T11:12:46.000Z"
+    "site": "Qiita",
+    "title": "【全統計学博士号泣】ガウス過程、撃沈。高度で柔軟なモデルがボロ負けする惨劇をどうぞ",
+    "link": "https://qiita.com/Gotoubun_taiwan/items/9a2d123e796f447b882d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-11T11:08:54.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「美空ひばりが2位というのは当時の空気ではわかる」昭和の嫌いなタレントワースト15に様々な反応…当時の背景を知ると納得する部分もありそう",
-    "link": "https://togetter.com/li/2731721",
-    "pubDate": "2026-08-11T10:25:56.000Z"
+    "site": "Zenn",
+    "title": "BM25を使用してCodexのトークンの消費を30%抑える",
+    "link": "https://zenn.dev/knowledgesense/articles/9e55a3bb67729c",
+    "pubDate": "2026-08-11T10:46:19.000Z"
   },
   {
     "site": "Zenn",
     "title": "macOSでメモリを使い続けるCursorUIViewServiceを無効化する",
     "link": "https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos",
     "pubDate": "2026-08-11T10:17:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/08/11/5382.html",
-    "pubDate": "2026-08-11T08:52:44.000Z"
   },
   {
     "site": "Qiita",
@@ -43,27 +55,27 @@
   },
   {
     "site": "Zenn",
-    "title": "1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です",
-    "link": "https://zenn.dev/singularity/articles/ever-better-pm2",
-    "pubDate": "2026-08-11T07:38:41.000Z"
+    "title": "macOSでメモリを使い続けるCursorUIViewServiceを無効化する",
+    "link": "https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos",
+    "pubDate": "Tue, 11 Aug 2026 06:21:45 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
-    "link": "https://36kr.jp/492696/",
-    "pubDate": "2026-08-11T04:58:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している",
-    "link": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
-    "pubDate": "2026-08-11T01:35:52.000Z"
+    "site": "Zenn",
+    "title": "中古サーバ用GPUでローカルLLM環境を作る試算（MI50 / P40 / P100 / V100 / CMP 170HX）",
+    "link": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm",
+    "pubDate": "Tue, 11 Aug 2026 05:19:22 GMT"
   },
   {
     "site": "Zenn",
     "title": "BM25を使用してCodexのトークンの消費を30%抑える",
     "link": "https://zenn.dev/knowledgesense/articles/9e55a3bb67729c",
     "pubDate": "Tue, 11 Aug 2026 01:08:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です",
+    "link": "https://zenn.dev/singularity/articles/ever-better-pm2",
+    "pubDate": "Mon, 10 Aug 2026 23:47:57 GMT"
   },
   {
     "site": "Hatena",
@@ -76,6 +88,12 @@
     "title": "N+1 問題を、発行される SQL を数えて理解する",
     "link": "https://zenn.dev/mtmtdack/articles/2026-08-11-n-plus-one-counting-queries",
     "pubDate": "Mon, 10 Aug 2026 16:17:55 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "レンタルサーバーを作ってみた話と、これから作りたいもの",
+    "link": "https://zenn.dev/techfish4/articles/0c502382253a4e",
+    "pubDate": "Mon, 10 Aug 2026 15:43:49 GMT"
   },
   {
     "site": "Zenn",
@@ -97,6 +115,18 @@
   },
   {
     "site": "Qiita",
+    "title": "DynamoDB のベクトル検索を1万件で試してみた",
+    "link": "https://qiita.com/asahide/items/7828054c74bb187552d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-10T14:35:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": ".NET 11 Runtime Async はなぜ速いのか",
+    "link": "https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-10T13:37:18.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "RAGに古い情報で答えさせないためには？\"コンバージド\"データベースから考えるAI時代のデータ基盤",
     "link": "https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-10T13:24:26.000Z"
@@ -114,52 +144,16 @@
     "pubDate": "Mon, 10 Aug 2026 09:06:44 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Proxmox VEでAMD SEV-SNPを試してみる",
-    "link": "https://zenn.dev/ciffelia/articles/pve-amd-sec-snp",
-    "pubDate": "Mon, 10 Aug 2026 06:44:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位",
-    "link": "https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-10T05:47:47.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安",
     "link": "https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-10T05:46:52.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "CLI 上の Claude Code で Computer Use を再現する（追加課金ゼロ、441 行のエージェント）",
-    "link": "https://zenn.dev/tokium_dev/articles/gui-agent-zero-extra-cost",
-    "pubDate": "Mon, 10 Aug 2026 04:59:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "型の表現力はタダ: Rustのニッチ最適化を追う【第3部: コンパイラ内部を読む】",
-    "link": "https://zenn.dev/fast/articles/44f261437d706c",
-    "pubDate": "Mon, 10 Aug 2026 04:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "BedrockのOpenAIモデルでWeb検索が使えるようになったので、Tavilyと⽐べてみた",
-    "link": "https://qiita.com/manaty/items/dde0f3f0b032ac91d56e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-10T03:44:51.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "OCI Data Catalog 第3回：Object Storage上のOracle DatabaseマニュアルPDFでSelect AI with RAGを構築してみてみた",
-    "link": "https://qiita.com/shirok/items/704f8f380fee205e06d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-10T03:40:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js + Cloudflareで「サボる」ためのWebツール集を個人開発した",
-    "link": "https://zenn.dev/ikuosaito1989/articles/47a9b4d4177d87",
-    "pubDate": "Mon, 10 Aug 2026 01:59:52 GMT"
+    "site": "Hatena",
+    "title": "LINEの「ミュートメッセージ」有料化へ　相手のスマホを鳴らさずに送れる便利機能",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2608/10/news075.html",
+    "pubDate": "2026-08-10T04:04:08.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "AWS認定を1年延長できる維持制度の登録、延長方法について",
     "link": "https://qiita.com/kiwi-dev/items/60dca34eccf785744a1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-09T01:54:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIでPMO業務を再設計してみよう - LayerX エンジニアブログ",
+    "link": "https://tech.layerx.co.jp/entry/ai-pmo-redesign",
+    "pubDate": "2026-07-03T09:57:30.000Z"
   }
 ]
