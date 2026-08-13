@@ -1,27 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2132444.html",
+    "pubDate": "2026-08-13T09:04:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントと進めるソフトウェア開発",
+    "link": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
+    "pubDate": "Thu, 13 Aug 2026 08:10:07 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "LINE、送信後のメッセージを編集可能に　15分以内限定　秋以降は有料化",
+    "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000530/",
+    "pubDate": "2026-08-13T06:57:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、「Gemini」開発遅延で焦りか　共同創業者ブリン氏が“全力投球”促す",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+    "pubDate": "2026-08-13T06:21:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "続・貧者のアークテクチャ：Next.js + Cloudflare Workers + Turso 本番運用で踏んだ罠ぜんぶ",
+    "link": "https://zenn.dev/nabettu/articles/a964f988e7cc75",
+    "pubDate": "Thu, 13 Aug 2026 05:44:16 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
     "link": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
     "pubDate": "2026-08-13T03:16:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "最新鋭のiPhoneを買って喜んでいたが",
-    "link": "https://anond.hatelabo.jp/20260813095445",
-    "pubDate": "2026-08-13T00:55:39.000Z"
+    "site": "Zenn",
+    "title": "同じRust製のBiomeとOxlintで、なぜ速度差が大きいのか",
+    "link": "https://zenn.dev/estie/articles/64b80da2fbf175",
+    "pubDate": "Thu, 13 Aug 2026 03:00:09 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Why Japanese firms are being so slow to use AI",
-    "link": "https://www.bbc.com/news/articles/cwymw4434v7o",
-    "pubDate": "2026-08-12T23:21:03.000Z"
+    "title": "2年かけてたどり着いた1on1の形 —— メンバーと一緒に1on1の最適解を探る - SmartHR Tech Blog",
+    "link": "https://tech.smarthr.jp/entry/2026/08/13/080000",
+    "pubDate": "2026-08-13T02:44:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Google版“AirTag”こと「Pixel Tag」登場　10億台のAndroidネットワークで居場所を探知",
-    "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
-    "pubDate": "2026-08-12T14:56:27.000Z"
+    "title": "Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/",
+    "pubDate": "2026-08-13T01:27:35.000Z"
   },
   {
     "site": "Qiita",
@@ -30,22 +60,22 @@
     "pubDate": "2026-08-12T14:26:01.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた",
-    "link": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
-    "pubDate": "2026-08-12T13:27:16.000Z"
+    "site": "Qiita",
+    "title": "TypeScriptをシングルバイナリ実行ファイルにする。ついでにMCPサーバーもシングルバイナリー化",
+    "link": "https://qiita.com/moritalous/items/8049684e8d746a81af3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-12T14:06:40.000Z"
   },
   {
     "site": "Qiita",
-    "title": "オントロジーと知識グラフ入門：URI から RDF、RDFS、OWL、推論、SPARQL まで整理して学ぶ - Qiita",
-    "link": "https://qiita.com/haystacker/items/376d86bcbeefc3885183",
-    "pubDate": "2026-08-12T13:22:57.000Z"
+    "title": "数狂、入青達成(学んだアルゴリズム、精進方法)",
+    "link": "https://qiita.com/Youteru/items/2c0b15ac43e836739676?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-12T12:22:22.000Z"
   },
   {
     "site": "Hatena",
-    "title": "同僚女性教諭の水着画像をAIで生成　男性教諭を懲戒　神奈川県教委：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASV8D2SY0V8DULOB00HM.html",
-    "pubDate": "2026-08-12T09:34:15.000Z"
+    "title": "豪州にあるグーグル★2.6評価のパン屋が別な意味でやばかった件について",
+    "link": "https://ysd.theletter.jp/posts/9e2baae7-642f-47b4-aca0-c8227f217037",
+    "pubDate": "2026-08-12T09:31:17.000Z"
   },
   {
     "site": "Zenn",
@@ -102,6 +132,18 @@
     "pubDate": "Wed, 12 Aug 2026 00:01:18 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "自宅サーバーではじめる ローカルLLM入門 第1巻 基礎・構築編",
+    "link": "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
+    "pubDate": "Tue, 11 Aug 2026 12:25:59 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
+    "link": "https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-11T10:42:07.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "未経験エンジニア 初めてのDBサーバー構築経験",
     "link": "https://qiita.com/engineer_hiyok/items/8e0d72df9734017f3719?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -112,30 +154,6 @@
     "title": "なぜAIで作業を効率化しても、給料が上がらないのか？",
     "link": "https://zenn.dev/karamage/articles/976a5f8fb0f876",
     "pubDate": "Tue, 11 Aug 2026 09:09:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "macOSでメモリを使い続けるCursorUIViewServiceを無効化する",
-    "link": "https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos",
-    "pubDate": "Tue, 11 Aug 2026 06:21:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "中古サーバ用GPUでローカルLLM環境を作る試算（MI50 / P40 / P100 / V100 / CMP 170HX）",
-    "link": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm",
-    "pubDate": "Tue, 11 Aug 2026 05:19:22 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Webサービスの終わらせ方",
-    "link": "https://zenn.dev/kibe/articles/df74c2e9fe76b6",
-    "pubDate": "Tue, 11 Aug 2026 04:05:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "BM25を使用してCodexのトークンの消費を30%抑える",
-    "link": "https://zenn.dev/knowledgesense/articles/9e55a3bb67729c",
-    "pubDate": "Tue, 11 Aug 2026 01:08:19 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "【PHP8.6】PHP8.6の新機能全部紹介するよ",
     "link": "https://qiita.com/rana_kualu/items/a50907007c868b807750?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-10T11:12:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「後回しにしたら詰んでいた」を防ぐ。待ち時間で決めるタスクの優先順位",
-    "link": "https://qiita.com/sumomoo/items/b4a550002ebf1e5b8af8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-10T05:47:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安",
-    "link": "https://qiita.com/prumnn/items/b3302efec6a8d8b50197?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-10T05:46:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "読書だけでは分からなかった、PMOを経験して腹落ちした3つの学び",
-    "link": "https://qiita.com/hgoto-gxp/items/8479e60c6fad019fdecb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-09T21:27:08.000Z"
   }
 ]
