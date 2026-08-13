@@ -1,27 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
+    "pubDate": "2026-08-13T03:16:58.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "最新鋭のiPhoneを買って喜んでいたが",
     "link": "https://anond.hatelabo.jp/20260813095445",
     "pubDate": "2026-08-13T00:55:39.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「Linux」デスクトップの平日利用率は22％に急増--各種データで鮮明な人気ぶり",
-    "link": "https://japan.zdnet.com/article/35251503/",
-    "pubDate": "2026-08-12T20:53:06.000Z"
+    "title": "Why Japanese firms are being so slow to use AI",
+    "link": "https://www.bbc.com/news/articles/cwymw4434v7o",
+    "pubDate": "2026-08-12T23:21:03.000Z"
   },
   {
     "site": "Hatena",
     "title": "Google版“AirTag”こと「Pixel Tag」登場　10億台のAndroidネットワークで居場所を探知",
     "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
     "pubDate": "2026-08-12T14:56:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "2040年の就業構造推計（改訂版）と 人材需給ミスマッチを踏まえた取組について 2026年６月 経済産業省 産業人材課",
-    "link": "https://www.mhlw.go.jp/content/12602000/001715120.pdf",
-    "pubDate": "2026-08-12T14:54:51.000Z"
   },
   {
     "site": "Qiita",
@@ -48,10 +48,10 @@
     "pubDate": "2026-08-12T09:34:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "楽天モバイル、10月以降もKDDIのローミング一部継続を強調",
-    "link": "https://www.watch.impress.co.jp/docs/news/2132370.html",
-    "pubDate": "2026-08-12T08:41:40.000Z"
+    "site": "Zenn",
+    "title": "Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた",
+    "link": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
+    "pubDate": "Wed, 12 Aug 2026 08:52:20 GMT"
   },
   {
     "site": "Qiita",
@@ -72,16 +72,22 @@
     "pubDate": "Wed, 12 Aug 2026 02:50:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "iOSアプリ審査が遅くなってない？フィードバックを送る方法",
-    "link": "https://zenn.dev/solar/articles/8216ba86515aa5",
-    "pubDate": "Wed, 12 Aug 2026 01:28:30 GMT"
+    "site": "Hatena",
+    "title": "Word・Excel・PDFなどの文書をAIが読みやすいMarkdownに爆速変換する「anydoc」がオープンソース公開（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/08/12/5385.html",
+    "pubDate": "2026-08-12T01:45:08.000Z"
   },
   {
     "site": "Zenn",
     "title": "Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る",
     "link": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
     "pubDate": "2026-08-12T01:20:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Go】Dockerfile に air は不要？ Use Compose Watch を前提にしたコンテナ構築",
+    "link": "https://zenn.dev/otakakot/articles/693a8367fd5f01",
+    "pubDate": "Wed, 12 Aug 2026 01:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -94,18 +100,6 @@
     "title": "Chromium(V8)のArray.prototype.copyWithinを最大約450倍高速化した",
     "link": "https://zenn.dev/dinii/articles/a272b7c3b60ab8",
     "pubDate": "Wed, 12 Aug 2026 00:01:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【WSL2 & GitHub】Windowsで開発用の環境を作る手順書",
-    "link": "https://zenn.dev/teru_gift/articles/61dbef1333c9c9",
-    "pubDate": "Tue, 11 Aug 2026 16:19:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js BFFの認証を考察して、シンプルにする方法を考える",
-    "link": "https://zenn.dev/naofumik/articles/4fdfcbb5cf083e",
-    "pubDate": "Tue, 11 Aug 2026 14:12:33 GMT"
   },
   {
     "site": "Qiita",
@@ -136,6 +130,12 @@
     "title": "Webサービスの終わらせ方",
     "link": "https://zenn.dev/kibe/articles/df74c2e9fe76b6",
     "pubDate": "Tue, 11 Aug 2026 04:05:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "BM25を使用してCodexのトークンの消費を30%抑える",
+    "link": "https://zenn.dev/knowledgesense/articles/9e55a3bb67729c",
+    "pubDate": "Tue, 11 Aug 2026 01:08:19 GMT"
   },
   {
     "site": "Qiita",
