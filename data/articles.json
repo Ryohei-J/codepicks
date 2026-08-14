@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "Google AI Studio、API課金を前払い制に変更",
-    "link": "https://www.watch.impress.co.jp/docs/news/2132505.html",
-    "pubDate": "2026-08-13T10:40:55.000Z"
+    "title": "AI電力網は国民負担？　大手電力が「6000億円分」値上げ申請 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/",
+    "pubDate": "2026-08-13T22:15:45.000Z"
   },
   {
     "site": "Hatena",
-    "title": "品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2132444.html",
-    "pubDate": "2026-08-13T09:04:24.000Z"
+    "title": "Claude文章で｢AI製｣バレる?　コピペでも残る電子透かしにネット反発 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN139SY0T10C26A8000000/",
+    "pubDate": "2026-08-13T21:42:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "国内ITシステム11社、30年にAI主導の開発に転換　生産性は最大1.5倍 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/",
+    "pubDate": "2026-08-13T18:45:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Introducing Gemini 3.7 Flash",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "pubDate": "2026-08-13T17:38:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁",
+    "link": "https://digital-gov.note.jp/n/n56aaf580bfb6",
+    "pubDate": "2026-08-13T15:34:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIに同じ質問をしたら、部署ごとに違う数字が返ってきた　― いま「オントロジー」と呼ばれているもの ― - Qiita",
+    "link": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e",
+    "pubDate": "2026-08-13T10:13:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeに「違反できないコード」を書かせる：ガイドとセンサーの設計 - Qiita",
+    "link": "https://qiita.com/shun123/items/7aa06b6982dfd1730af0",
+    "pubDate": "2026-08-13T09:06:11.000Z"
   },
   {
     "site": "Zenn",
@@ -24,22 +54,22 @@
     "pubDate": "2026-08-13T08:49:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "オールドファン歓喜、ブラウザー上で動作するX68000エミュレーターが登場。ライセンスもクリア【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2132479.html",
-    "pubDate": "2026-08-13T08:18:39.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIエージェントと進めるソフトウェア開発",
     "link": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
     "pubDate": "Thu, 13 Aug 2026 08:10:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Google、「Gemini」開発遅延で焦りか　共同創業者ブリン氏が“全力投球”促す",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
-    "pubDate": "2026-08-13T06:21:46.000Z"
+    "site": "Qiita",
+    "title": "複雑なタスクほど、実は知っている基礎の組み合わせだったりする",
+    "link": "https://qiita.com/sumomoo/items/e77bf4b40b227cb49dec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-13T08:02:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「表で管理するならExcelでいいじゃん」と思ってたら、データーベースの中身は全然違った【ITパスポート】",
+    "link": "https://qiita.com/prumnn/items/b0254194b02c85e17da6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-13T08:00:54.000Z"
   },
   {
     "site": "Zenn",
@@ -48,46 +78,34 @@
     "pubDate": "Thu, 13 Aug 2026 05:44:16 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
-    "pubDate": "2026-08-13T03:16:58.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "同じRust製のBiomeとOxlintで、なぜ速度差が大きいのか",
     "link": "https://zenn.dev/estie/articles/64b80da2fbf175",
     "pubDate": "Thu, 13 Aug 2026 03:00:09 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証",
+    "link": "https://qiita.com/gts/items/8d3c14dabff88d8f1901?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-12T22:10:37.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "2年かけてたどり着いた1on1の形 —— メンバーと一緒に1on1の最適解を探る - SmartHR Tech Blog",
-    "link": "https://tech.smarthr.jp/entry/2026/08/13/080000",
-    "pubDate": "2026-08-13T02:44:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/",
-    "pubDate": "2026-08-13T01:27:35.000Z"
+    "title": "AIコーディングの一番安いプランでスマホアプリを作る！非エンジニアによるケチりAI駆動開発のすべて - nomolkのブログ",
+    "link": "https://nomolk.hatenablog.com/entry/2026/08/12/164154",
+    "pubDate": "2026-08-12T13:43:24.000Z"
   },
   {
     "site": "Qiita",
-    "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証 - Qiita",
-    "link": "https://qiita.com/gts/items/8d3c14dabff88d8f1901",
-    "pubDate": "2026-08-13T00:54:14.000Z"
+    "title": "証明付きバイブコーディングで証明支援系を作った",
+    "link": "https://qiita.com/mrkbc/items/3545af61b8f2e256c750?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-12T13:42:08.000Z"
   },
   {
     "site": "Qiita",
-    "title": "TypeScriptをシングルバイナリ実行ファイルにする。ついでにMCPサーバーもシングルバイナリー化",
-    "link": "https://qiita.com/moritalous/items/8049684e8d746a81af3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-12T14:06:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "数狂、入青達成(学んだアルゴリズム、精進方法)",
-    "link": "https://qiita.com/Youteru/items/2c0b15ac43e836739676?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-12T12:22:22.000Z"
+    "title": "Copilot Studio で非構造化データはどこまでナレッジになるのか【Part 3: Copilot Studio (Standard harness) を極める】",
+    "link": "https://qiita.com/Isato-Hiyama/items/2b49b499dc5294017efd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-12T11:45:49.000Z"
   },
   {
     "site": "Zenn",
@@ -112,6 +130,12 @@
     "title": "ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化",
     "link": "https://zenn.dev/knowledgework/articles/2114d46c201da3",
     "pubDate": "Wed, 12 Aug 2026 02:50:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "私の order: がこんなに効かないわけがない(Mongoidの includes と scope: の話)",
+    "link": "https://qiita.com/Yamamoto1012/items/c03d12ce4325c2ebbc4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-12T01:00:21.000Z"
   },
   {
     "site": "Zenn",
@@ -144,12 +168,6 @@
     "pubDate": "2026-08-11T10:42:07.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "未経験エンジニア 初めてのDBサーバー構築経験",
-    "link": "https://qiita.com/engineer_hiyok/items/8e0d72df9734017f3719?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-11T09:25:19.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "なぜAIで作業を効率化しても、給料が上がらないのか？",
     "link": "https://zenn.dev/karamage/articles/976a5f8fb0f876",
@@ -160,23 +178,5 @@
     "title": "VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話",
     "link": "https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-11T00:24:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": ".NET 11 Runtime Async はなぜ速いのか",
-    "link": "https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-10T13:37:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "RAGに古い情報で答えさせないためには？\"コンバージド\"データベースから考えるAI時代のデータ基盤",
-    "link": "https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-10T13:24:26.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【PHP8.6】PHP8.6の新機能全部紹介するよ",
-    "link": "https://qiita.com/rana_kualu/items/a50907007c868b807750?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-10T11:12:11.000Z"
   }
 ]
