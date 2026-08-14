@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "最強のブクマカを決めるB-1グランプリ（賞金11億円）",
+    "link": "https://anond.hatelabo.jp/20260814102216",
+    "pubDate": "2026-08-14T01:26:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「紙のカレンダーvs.デジタルカレンダー」、書いた予定をよく覚えているのは？　東大などが脳活動を調査",
+    "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000477/",
+    "pubDate": "2026-08-13T23:49:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI電力網は国民負担？　大手電力が「6000億円分」値上げ申請 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/",
     "pubDate": "2026-08-13T22:15:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/",
+    "pubDate": "2026-08-13T22:08:06.000Z"
   },
   {
     "site": "Hatena",
@@ -19,12 +37,6 @@
   },
   {
     "site": "Hatena",
-    "title": "Introducing Gemini 3.7 Flash",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "pubDate": "2026-08-13T17:38:25.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁",
     "link": "https://digital-gov.note.jp/n/n56aaf580bfb6",
     "pubDate": "2026-08-13T15:34:30.000Z"
@@ -36,22 +48,22 @@
     "pubDate": "2026-08-13T10:13:39.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "ライザップ社員、建設職人に転向　「ブルーカラー転職」500人　AI活用で事務省人化 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGKKZO98113760S6A810C2TB3000/",
+    "pubDate": "2026-08-13T09:58:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Oxc Minifierの変数マングル仕組み",
+    "link": "https://zenn.dev/sapphi_red/articles/636d34f84494fb",
+    "pubDate": "Thu, 13 Aug 2026 09:19:11 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Codeに「違反できないコード」を書かせる：ガイドとセンサーの設計 - Qiita",
     "link": "https://qiita.com/shun123/items/7aa06b6982dfd1730af0",
     "pubDate": "2026-08-13T09:06:11.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Webサービスの終わらせ方",
-    "link": "https://zenn.dev/kibe/articles/df74c2e9fe76b6",
-    "pubDate": "2026-08-13T08:51:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "続・貧者のアークテクチャ：Next.js + Cloudflare Workers + Turso 本番運用で踏んだ罠ぜんぶ",
-    "link": "https://zenn.dev/nabettu/articles/a964f988e7cc75",
-    "pubDate": "2026-08-13T08:49:53.000Z"
   },
   {
     "site": "Zenn",
@@ -90,16 +102,16 @@
     "pubDate": "2026-08-12T22:10:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIコーディングの一番安いプランでスマホアプリを作る！非エンジニアによるケチりAI駆動開発のすべて - nomolkのブログ",
-    "link": "https://nomolk.hatenablog.com/entry/2026/08/12/164154",
-    "pubDate": "2026-08-12T13:43:24.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "証明付きバイブコーディングで証明支援系を作った",
     "link": "https://qiita.com/mrkbc/items/3545af61b8f2e256c750?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-12T13:42:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜAI時代にGoが最適な言語なのか",
+    "link": "https://zenn.dev/iwatsukayura/articles/google-go-ai",
+    "pubDate": "Wed, 12 Aug 2026 13:05:44 GMT"
   },
   {
     "site": "Qiita",
@@ -151,12 +163,6 @@
   },
   {
     "site": "Zenn",
-    "title": "Chromium(V8)のArray.prototype.copyWithinを最大約450倍高速化した",
-    "link": "https://zenn.dev/dinii/articles/a272b7c3b60ab8",
-    "pubDate": "Wed, 12 Aug 2026 00:01:18 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "自宅サーバーではじめる ローカルLLM入門 第1巻 基礎・構築編",
     "link": "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
     "pubDate": "Tue, 11 Aug 2026 12:25:59 GMT"
@@ -166,12 +172,6 @@
     "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
     "link": "https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-11T10:42:07.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜAIで作業を効率化しても、給料が上がらないのか？",
-    "link": "https://zenn.dev/karamage/articles/976a5f8fb0f876",
-    "pubDate": "Tue, 11 Aug 2026 09:09:53 GMT"
   },
   {
     "site": "Qiita",
