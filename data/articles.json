@@ -1,9 +1,15 @@
 [
   {
+    "site": "Zenn",
+    "title": "概念設計が、その後のコードの命運を左右する",
+    "link": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
+    "pubDate": "2026-08-14T19:21:13.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "夏祭りのポップやポスターをAIで作るの本当にやめた方がいい、ぱっと見は整ってるけど美味しそうに見えない→最近やたら増えてきて違和感を持っている人が多いらしい",
-    "link": "https://togetter.com/li/2732994",
-    "pubDate": "2026-08-14T13:40:02.000Z"
+    "title": "「Qwen3.8-27B」ついに公開！3.6を大きく上回る性能でローカルAIの定番になるか",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2132909.html",
+    "pubDate": "2026-08-14T16:26:39.000Z"
   },
   {
     "site": "Hatena",
@@ -13,21 +19,33 @@
   },
   {
     "site": "Hatena",
-    "title": "これこそ、まさに『印象操作』｜境野春彦－コネクトエネルギー合同会社CEO、経営コンサルタント",
-    "link": "https://note.com/connect_energy/n/n5a6c8c16bed6",
-    "pubDate": "2026-08-14T12:22:39.000Z"
+    "title": "開発中止の噂まで、「Gemini 3.5 Pro」のリリース遅延は続く | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/102858",
+    "pubDate": "2026-08-14T12:02:10.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【注目記事】着信番号に「＋」が付いていたら要注意！ 身に覚えのない国際電話がかかってきたら詐欺の可能性“大” ほか 連載「読めば身に付くネットリテラシー」の必読回 10本",
-    "link": "https://internet.watch.impress.co.jp/docs/readitnow/2132783.html",
-    "pubDate": "2026-08-14T08:34:38.000Z"
+    "title": "南海電鉄「数カ月かかった乗務員計画」が1週間に　「量子コンピュータを疑似再現」で鉄道現場はどう変わる？",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
+    "pubDate": "2026-08-14T11:25:16.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「Gemini Notebook」（a.k.a. NotebookLM）が情報ソースを自動で追加可能に／「Google Workspace Studio」で「Gemini Notebook」へのソース追加を自動化",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2132782.html",
-    "pubDate": "2026-08-14T08:00:47.000Z"
+    "title": "MicrosoftのAIターミナル「Intelligent Terminal 0.2」が公開 ～ローカルモデルに対応／「OpenCode」対応、スラッシュコマンドの拡充、WSL内エージェントなどの改善も",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2132156.html",
+    "pubDate": "2026-08-14T10:43:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築",
+    "link": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
+    "pubDate": "Fri, 14 Aug 2026 09:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "デジカメ動画Watch：【レビュー】Insta360 X6 イメージセンサー、エンジン共にグレードアップ！ カメラ内での自動編集も",
+    "link": "https://dc.watch.impress.co.jp/docs/review/moviewatch/2132773.html",
+    "pubDate": "2026-08-14T06:34:49.000Z"
   },
   {
     "site": "Hatena",
@@ -43,15 +61,27 @@
   },
   {
     "site": "Qiita",
-    "title": "シャドーAIは「禁止」ではなく運用設計で向き合う - Qiita",
-    "link": "https://qiita.com/mhamadajp/items/7b159e09813f4c99a513",
-    "pubDate": "2026-08-14T04:20:24.000Z"
+    "title": "【コピペOK】CSSで作るモダンなUIアニメーション集",
+    "link": "https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-14T02:29:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ローカル環境でシークレットを管理できる docker pass コマンド - kakakakakku blog",
-    "link": "https://kakakakakku.hatenablog.com/entry/2026/08/13/193046",
-    "pubDate": "2026-08-14T03:40:11.000Z"
+    "site": "Zenn",
+    "title": "Opus 5 よりも Sonnet 5 を選ぶ理由——QCD を 240 試行で比較する（オトナの自由研究 #34）",
+    "link": "https://zenn.dev/nnakapa/articles/lab-34-opus5-sonnet5-qcd",
+    "pubDate": "2026-08-14T00:44:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
+    "link": "https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-14T00:15:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS入門】EC2の購入オプションを実際に試算したら、スポットが最安じゃなかった話",
+    "link": "https://qiita.com/y-kojima-next/items/ce8598e9d94def04d78d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-14T00:09:09.000Z"
   },
   {
     "site": "Qiita",
@@ -60,28 +90,16 @@
     "pubDate": "2026-08-14T00:04:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/",
-    "pubDate": "2026-08-13T22:08:06.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Oxc Minifierの変数マングル仕組み",
-    "link": "https://zenn.dev/sapphi_red/articles/636d34f84494fb",
-    "pubDate": "Thu, 13 Aug 2026 09:19:11 GMT"
+    "title": "なぜAI時代にGoが最適な言語なのか",
+    "link": "https://zenn.dev/iwatsukayura/articles/google-go-ai",
+    "pubDate": "2026-08-13T12:11:19.000Z"
   },
   {
     "site": "Qiita",
     "title": "整えるな。とにかくたくさん吐き出せ。~AIとの「1ターン」を大きく前進させる仮説~",
     "link": "https://qiita.com/sh-fukaya/items/82ebbf176a12965a8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-13T09:07:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【初心者向け】Spring Bootの「DI（依存性の注入）」をゲーム機とコントローラーで完全に理解する",
-    "link": "https://qiita.com/ara_ara09/items/8d507dfb43b8b6d14899?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-13T08:17:34.000Z"
   },
   {
     "site": "Zenn",
@@ -91,15 +109,9 @@
   },
   {
     "site": "Qiita",
-    "title": "複雑なタスクほど、実は知っている基礎の組み合わせだったりする",
-    "link": "https://qiita.com/sumomoo/items/e77bf4b40b227cb49dec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-13T08:02:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「表で管理するならExcelでいいじゃん」と思ってたら、データーベースの中身は全然違った【ITパスポート】",
-    "link": "https://qiita.com/prumnn/items/b0254194b02c85e17da6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-13T08:00:54.000Z"
+    "title": ".NET 11 でジェネリック仮想メソッドを高速化してみた",
+    "link": "https://qiita.com/hez2010/items/85c1fa4100e5898d1a55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-13T06:06:09.000Z"
   },
   {
     "site": "Zenn",
@@ -151,32 +163,20 @@
   },
   {
     "site": "Zenn",
-    "title": "【Go】Dockerfile に air は不要？ Use Compose Watch を前提にしたコンテナ構築",
-    "link": "https://zenn.dev/otakakot/articles/693a8367fd5f01",
-    "pubDate": "Wed, 12 Aug 2026 01:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "共催テックイベント運営入門 as 採用広報",
     "link": "https://zenn.dev/tbpgr/books/d7eb07b518e467",
     "pubDate": "Wed, 12 Aug 2026 00:23:03 GMT"
   },
   {
     "site": "Zenn",
+    "title": "Chromium(V8)のArray.prototype.copyWithinを最大約450倍高速化した",
+    "link": "https://zenn.dev/dinii/articles/a272b7c3b60ab8",
+    "pubDate": "Wed, 12 Aug 2026 00:01:18 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "自宅サーバーではじめる ローカルLLM入門 第1巻 基礎・構築編",
     "link": "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
     "pubDate": "Tue, 11 Aug 2026 12:25:59 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証",
-    "link": "https://qiita.com/y0us91/items/2feffd2cc6c672717973?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-11T10:42:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Mythos級ローカルLLMまとめ - Kimi K3・Qwen3.8-Max・GLM-5.2・DeepSeek-V4 Flash｜npaka",
-    "link": "https://note.com/npaka/n/n1d08ec975c9f",
-    "pubDate": "2026-08-08T12:36:55.000Z"
   }
 ]
