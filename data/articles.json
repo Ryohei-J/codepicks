@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "生成AIポスターを展示する飲食店が増えているが、極力そういう店には行かないようにしている…「これくらい別にいいでしょ？」とバカにされていると感じる→共感の声が続々",
+    "link": "https://togetter.com/li/2733238",
+    "pubDate": "2026-08-15T02:31:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか",
+    "link": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
+    "pubDate": "2026-08-15T01:37:14.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "概念設計が、その後のコードの命運を左右する",
     "link": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
@@ -13,21 +25,21 @@
   },
   {
     "site": "Hatena",
-    "title": "ブラウザでPC-98が起動!! FreeDOS(98)同梱＆AI操作対応の「WebNP2」 - RetroPC NEWS",
-    "link": "https://retropcnews.com/archives/7688",
-    "pubDate": "2026-08-14T12:39:45.000Z"
+    "title": "クラウドベンダーが突然消滅、PBS系列局が70年分・50TBの放送アーカイブにアクセス不能に — バックアップなしで法廷闘争へ",
+    "link": "https://techfeed.io/entries/6a7e3a5aec7a075ad3292ac1",
+    "pubDate": "2026-08-14T15:26:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "開発中止の噂まで、「Gemini 3.5 Pro」のリリース遅延は続く | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/102858",
-    "pubDate": "2026-08-14T12:02:10.000Z"
+    "site": "Zenn",
+    "title": "概念設計が、その後のコードの命運を左右する",
+    "link": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
+    "pubDate": "Fri, 14 Aug 2026 13:00:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "南海電鉄「数カ月かかった乗務員計画」が1週間に　「量子コンピュータを疑似再現」で鉄道現場はどう変わる？",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
-    "pubDate": "2026-08-14T11:25:16.000Z"
+    "site": "Zenn",
+    "title": "メール確認コードを不要にする Email Verification Protocol (EVP)",
+    "link": "https://zenn.dev/tkou15/articles/email-verification-protocol",
+    "pubDate": "2026-08-14T12:43:08.000Z"
   },
   {
     "site": "Hatena",
@@ -42,16 +54,10 @@
     "pubDate": "Fri, 14 Aug 2026 09:00:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "デジカメ動画Watch：【レビュー】Insta360 X6 イメージセンサー、エンジン共にグレードアップ！ カメラ内での自動編集も",
-    "link": "https://dc.watch.impress.co.jp/docs/review/moviewatch/2132773.html",
-    "pubDate": "2026-08-14T06:34:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "The 37signals Manager Playbook",
-    "link": "https://basecamp.com/managers",
-    "pubDate": "2026-08-14T06:04:57.000Z"
+    "site": "Zenn",
+    "title": "なぜTDDでは、わざわざテストを失敗させるのか？",
+    "link": "https://zenn.dev/henyo245/articles/47e0a4d108553f",
+    "pubDate": "2026-08-14T07:46:44.000Z"
   },
   {
     "site": "Qiita",
@@ -108,6 +114,18 @@
     "pubDate": "Thu, 13 Aug 2026 08:10:07 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "なぜTDDでは、わざわざテストを失敗させるのか？",
+    "link": "https://zenn.dev/henyo245/articles/47e0a4d108553f",
+    "pubDate": "Thu, 13 Aug 2026 07:56:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "メール確認コードを不要にする Email Verification Protocol (EVP)",
+    "link": "https://zenn.dev/tkou15/articles/email-verification-protocol",
+    "pubDate": "Thu, 13 Aug 2026 06:27:09 GMT"
+  },
+  {
     "site": "Qiita",
     "title": ".NET 11 でジェネリック仮想メソッドを高速化してみた",
     "link": "https://qiita.com/hez2010/items/85c1fa4100e5898d1a55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Zenn",
-    "title": "ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化",
-    "link": "https://zenn.dev/knowledgework/articles/2114d46c201da3",
-    "pubDate": "Wed, 12 Aug 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "共催テックイベント運営入門 as 採用広報",
     "link": "https://zenn.dev/tbpgr/books/d7eb07b518e467",
     "pubDate": "Wed, 12 Aug 2026 00:23:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Chromium(V8)のArray.prototype.copyWithinを最大約450倍高速化した",
-    "link": "https://zenn.dev/dinii/articles/a272b7c3b60ab8",
-    "pubDate": "Wed, 12 Aug 2026 00:01:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自宅サーバーではじめる ローカルLLM入門 第1巻 基礎・構築編",
-    "link": "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
-    "pubDate": "Tue, 11 Aug 2026 12:25:59 GMT"
   }
 ]
