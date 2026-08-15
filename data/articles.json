@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？",
-    "link": "https://gigazine.net/news/20260815-thermodynamic-computing/",
-    "pubDate": "2026-08-15T11:32:07.000Z"
+    "title": "【集合体注意】AIで作ったのを隠す気ゼロなサービスエリアの激キショみそカツ見て「極めてなにか生命に対する侮辱を感じますね」「気持ち悪すぎる」",
+    "link": "https://togetter.com/li/2733332",
+    "pubDate": "2026-08-15T14:08:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIに投げた。間違いは知らん。 昔はネットコンテンツが今ほど溢れていなか..",
+    "link": "https://anond.hatelabo.jp/20260815210651",
+    "pubDate": "2026-08-15T13:08:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "260815_超かぐや姫おつかれさま本.pdf",
+    "link": "https://www.dropbox.com/scl/fi/2dz2rnch41n0ym6svx2v1/260815_.pdf?rlkey=79hr9bq43shkosbwhe93003lu&st=z03mvt95&e=1&dl=0",
+    "pubDate": "2026-08-15T12:23:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ブックマーカー図鑑 4025 人収録 収録予定 https://bookmarker-encyclopedia.netlify.a..",
+    "link": "https://anond.hatelabo.jp/20260815212139",
+    "pubDate": "2026-08-15T12:22:52.000Z"
   },
   {
     "site": "Hatena",
@@ -13,15 +31,21 @@
   },
   {
     "site": "Hatena",
-    "title": "年収1億円プレイヤーが200ペタフロップスの推論エンジンになった話",
-    "link": "https://anond.hatelabo.jp/20260815173709",
-    "pubDate": "2026-08-15T08:42:45.000Z"
+    "title": "アメリカで裁判所への提出書類に人間の目では空白にしか見えないように隠しプロンプトを仕込んでAIを操作した事例が発覚→アナログの信頼性が見直される？",
+    "link": "https://togetter.com/li/2733405",
+    "pubDate": "2026-08-15T10:53:18.000Z"
   },
   {
     "site": "Hatena",
-    "title": "人混み「コミケ108」に挑む3キャリア　ドコモ、KDDI、ソフトバンクがネットワーク対策公開",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2608/15/news019.html",
-    "pubDate": "2026-08-15T05:09:52.000Z"
+    "title": "【Golang】CSV／JSON／Excel／Parquet に SQL を実行する sqly を約4年かけて v1.0.0 にした",
+    "link": "https://debimate.jp/post/ja/2026-08-09-golangcsvjsonexcelparquet%E3%81%ABsql%E3%82%92%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8Bsqly%E3%82%92v1.0.0%E3%81%AB%E3%81%99%E3%82%8B%E8%A9%B1/",
+    "pubDate": "2026-08-15T09:30:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "年収1億円プレイヤーが200ペタフロップスの推論エンジンになった話",
+    "link": "https://anond.hatelabo.jp/20260815173709",
+    "pubDate": "2026-08-15T08:42:45.000Z"
   },
   {
     "site": "Hatena",
@@ -39,19 +63,7 @@
     "site": "Zenn",
     "title": "我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか",
     "link": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
-    "pubDate": "2026-08-15T01:37:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか",
-    "link": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
     "pubDate": "Fri, 14 Aug 2026 20:40:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "概念設計が、その後のコードの命運を左右する",
-    "link": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
-    "pubDate": "2026-08-14T19:21:13.000Z"
   },
   {
     "site": "Qiita",
@@ -60,22 +72,10 @@
     "pubDate": "2026-08-14T15:44:27.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "クラウドベンダーが突然消滅、PBS系列局が70年分・50TBの放送アーカイブにアクセス不能に — バックアップなしで法廷闘争へ",
-    "link": "https://techfeed.io/entries/6a7e3a5aec7a075ad3292ac1",
-    "pubDate": "2026-08-14T15:26:09.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "概念設計が、その後のコードの命運を左右する",
     "link": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
     "pubDate": "Fri, 14 Aug 2026 13:00:27 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "メール確認コードを不要にする Email Verification Protocol (EVP)",
-    "link": "https://zenn.dev/tkou15/articles/email-verification-protocol",
-    "pubDate": "2026-08-14T12:43:08.000Z"
   },
   {
     "site": "Zenn",
