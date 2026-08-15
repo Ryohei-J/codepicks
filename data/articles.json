@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？",
+    "link": "https://gigazine.net/news/20260815-thermodynamic-computing/",
+    "pubDate": "2026-08-15T11:32:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
+    "link": "https://gigazine.net/news/20260815-dbgate/",
+    "pubDate": "2026-08-15T11:16:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "年収1億円プレイヤーが200ペタフロップスの推論エンジンになった話",
+    "link": "https://anond.hatelabo.jp/20260815173709",
+    "pubDate": "2026-08-15T08:42:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "人混み「コミケ108」に挑む3キャリア　ドコモ、KDDI、ソフトバンクがネットワーク対策公開",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2608/15/news019.html",
+    "pubDate": "2026-08-15T05:09:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】",
+    "link": "https://ai.itokoba.com/archives/861/",
+    "pubDate": "2026-08-15T03:56:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "生成AIポスターを展示する飲食店が増えているが、極力そういう店には行かないようにしている…「これくらい別にいいでしょ？」とバカにされていると感じる→共感の声が続々",
     "link": "https://togetter.com/li/2733238",
     "pubDate": "2026-08-15T02:31:54.000Z"
@@ -13,15 +43,21 @@
   },
   {
     "site": "Zenn",
+    "title": "我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか",
+    "link": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
+    "pubDate": "Fri, 14 Aug 2026 20:40:24 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "概念設計が、その後のコードの命運を左右する",
     "link": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
     "pubDate": "2026-08-14T19:21:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Qwen3.8-27B」ついに公開！3.6を大きく上回る性能でローカルAIの定番になるか",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2132909.html",
-    "pubDate": "2026-08-14T16:26:39.000Z"
+    "site": "Qiita",
+    "title": "消費税を上げるか下げるか、その前に ― 財源幻想から考える国家OSのリファクタリング : システム設計視点の行動経済学 (15)",
+    "link": "https://qiita.com/maskot1977/items/309d01d1e9d6ce527152?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-14T15:44:27.000Z"
   },
   {
     "site": "Hatena",
@@ -42,22 +78,16 @@
     "pubDate": "2026-08-14T12:43:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "MicrosoftのAIターミナル「Intelligent Terminal 0.2」が公開 ～ローカルモデルに対応／「OpenCode」対応、スラッシュコマンドの拡充、WSL内エージェントなどの改善も",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2132156.html",
-    "pubDate": "2026-08-14T10:43:58.000Z"
+    "site": "Zenn",
+    "title": "5ヶ月育てたClaude CodeのCLAUDE.md/skills/rulesをOpus 5向けにClaude自身に棚卸しさせた",
+    "link": "https://zenn.dev/koki_n22/articles/986f61d16989cb",
+    "pubDate": "Fri, 14 Aug 2026 10:51:20 GMT"
   },
   {
     "site": "Zenn",
     "title": "Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築",
     "link": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
     "pubDate": "Fri, 14 Aug 2026 09:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜTDDでは、わざわざテストを失敗させるのか？",
-    "link": "https://zenn.dev/henyo245/articles/47e0a4d108553f",
-    "pubDate": "2026-08-14T07:46:44.000Z"
   },
   {
     "site": "Qiita",
@@ -73,9 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Opus 5 よりも Sonnet 5 を選ぶ理由——QCD を 240 試行で比較する（オトナの自由研究 #34）",
-    "link": "https://zenn.dev/nnakapa/articles/lab-34-opus5-sonnet5-qcd",
-    "pubDate": "2026-08-14T00:44:29.000Z"
+    "title": "同じ Sonnet 5 でも Claude Code と GitHub Copilot では使い方が違った（オトナの自由研究 #35）",
+    "link": "https://zenn.dev/nnakapa/articles/lab-35-claude-copilot-sonnet5-qcd",
+    "pubDate": "Fri, 14 Aug 2026 01:43:21 GMT"
   },
   {
     "site": "Qiita",
@@ -85,39 +115,21 @@
   },
   {
     "site": "Qiita",
-    "title": "【AWS入門】EC2の購入オプションを実際に試算したら、スポットが最安じゃなかった話",
-    "link": "https://qiita.com/y-kojima-next/items/ce8598e9d94def04d78d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-14T00:09:09.000Z"
+    "title": " シャドーAIは「禁止」ではなく運用設計で向き合う",
+    "link": "https://qiita.com/mhamadajp/items/7b159e09813f4c99a513?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-13T20:11:55.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【JavaScript】HTML5 Canvas API入門！基礎から図形・テキスト描画まで徹底解説",
-    "link": "https://qiita.com/kasumi_sato/items/a7135eb6caaf336f4053?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-14T00:04:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜAI時代にGoが最適な言語なのか",
-    "link": "https://zenn.dev/iwatsukayura/articles/google-go-ai",
-    "pubDate": "2026-08-13T12:11:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "整えるな。とにかくたくさん吐き出せ。~AIとの「1ターン」を大きく前進させる仮説~",
-    "link": "https://qiita.com/sh-fukaya/items/82ebbf176a12965a8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-13T09:07:36.000Z"
+    "title": "(ずんだもん通知くん)Claude Codeにずんだもんの声をつけた話",
+    "link": "https://qiita.com/yama3133/items/6459627a4029eb5cbee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-13T08:51:01.000Z"
   },
   {
     "site": "Zenn",
     "title": "AIエージェントと進めるソフトウェア開発",
     "link": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
     "pubDate": "Thu, 13 Aug 2026 08:10:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "なぜTDDでは、わざわざテストを失敗させるのか？",
-    "link": "https://zenn.dev/henyo245/articles/47e0a4d108553f",
-    "pubDate": "Thu, 13 Aug 2026 07:56:17 GMT"
   },
   {
     "site": "Zenn",
@@ -150,6 +162,12 @@
     "pubDate": "2026-08-12T22:10:37.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Markdownのプレビューを見ながら編集できる──VS Code 1.131 新機能を試す",
+    "link": "https://qiita.com/ruumalilja/items/99f4567ee75a43481f00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-12T17:11:56.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "なぜAI時代にGoが最適な言語なのか",
     "link": "https://zenn.dev/iwatsukayura/articles/google-go-ai",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "Copilot Studio で非構造化データはどこまでナレッジになるのか【Part 3: Copilot Studio (Standard harness) を極める】",
-    "link": "https://qiita.com/Isato-Hiyama/items/2b49b499dc5294017efd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-12T11:45:49.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた",
-    "link": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
-    "pubDate": "Wed, 12 Aug 2026 08:52:20 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "技術力より先に、信頼を積む人がやっている地味な行動",
     "link": "https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-12T08:16:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "共催テックイベント運営入門 as 採用広報",
-    "link": "https://zenn.dev/tbpgr/books/d7eb07b518e467",
-    "pubDate": "Wed, 12 Aug 2026 00:23:03 GMT"
   }
 ]
