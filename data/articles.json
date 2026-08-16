@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "小説文体におけるAI臭さ",
+    "link": "https://anond.hatelabo.jp/20260816172202",
+    "pubDate": "2026-08-16T08:28:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIがコードを書くなら、もう勉強しなくていい？AI時代に基礎を学ぶ理由 | ドクセル",
+    "link": "https://www.docswell.com/s/magurotuna/53J4YJ-2026-08-16-aiau-craft-day",
+    "pubDate": "2026-08-16T08:10:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた - Qiita",
+    "link": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe",
+    "pubDate": "2026-08-16T06:36:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "botterのためのKaggle金融予測コンペの設計史",
+    "link": "https://zenn.dev/gamella/articles/f5e6bddab37c8d",
+    "pubDate": "Sun, 16 Aug 2026 04:43:06 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「用水路で洗濯物をする在日ベトナム人」に関するメモ - 電脳塵芥",
+    "link": "https://nou-yunyun.hatenablog.com/entry/2026/08/16/130000",
+    "pubDate": "2026-08-16T04:21:23.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "味の素パークの公式アカウント、AIによる補正でぐちゃぐちゃになった「ほんだし」の画像をポストし、批判相次ぐ流れに「ブランド名すら違う」「AINOMOTO」",
     "link": "https://togetter.com/li/2733655",
     "pubDate": "2026-08-16T03:54:10.000Z"
@@ -19,39 +49,39 @@
   },
   {
     "site": "Hatena",
-    "title": "64p.org/CLAUDE.md at master · tokuhirom/64p.org",
-    "link": "https://github.com/tokuhirom/64p.org/blob/master/CLAUDE.md",
-    "pubDate": "2026-08-16T00:21:50.000Z"
+    "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明　「完全な書き直しなら消える」",
+    "link": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+    "pubDate": "2026-08-16T01:29:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中",
-    "link": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
-    "pubDate": "2026-08-15T23:30:18.000Z"
+    "site": "Qiita",
+    "title": "【ローカルLLM】Qwen3.8-27Bの推論性能をテストする（WSL2 + Ollama + RTX 5070 Ti）",
+    "link": "https://qiita.com/h-nabata/items/390b3558be49c30f85a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-15T17:58:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "開発サーバーにHTTPSドメインでアクセスできるslimが良さげかも | kawarimidoll.com",
-    "link": "https://kawarimidoll.com/posts/202608152/",
-    "pubDate": "2026-08-15T20:36:32.000Z"
+    "site": "Zenn",
+    "title": "RaycastのSlack Extensionでチャンネル移動が快適に。",
+    "link": "https://zenn.dev/seeiji/articles/d9ab5f08b08005",
+    "pubDate": "Sat, 15 Aug 2026 13:18:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい",
-    "link": "https://togetter.com/li/2733352",
-    "pubDate": "2026-08-15T14:31:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "セールス主導開発の滑りやすい坂道 - ともにかける",
-    "link": "https://paper2.hatenablog.com/entry/2026/08/15/170823",
-    "pubDate": "2026-08-15T13:55:39.000Z"
+    "site": "Qiita",
+    "title": "ベトナム語のタイピング入力練習アプリを作ってみた【hocviet.vn】",
+    "link": "https://qiita.com/yangguofu/items/e79250bb24a0335ee935?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-15T11:08:13.000Z"
   },
   {
     "site": "Hatena",
     "title": "なぜ日本企業のAI導入はこんなに遅いのか？｜中島聡",
     "link": "https://note.com/lifeisbeautiful/n/n058e3c105b7e",
     "pubDate": "2026-08-15T03:33:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "デスクトップUIフレームワーク15種のメモリ使用量計測",
+    "link": "https://zenn.dev/mizugeeks/articles/1019cf2353d343",
+    "pubDate": "Sat, 15 Aug 2026 03:10:07 GMT"
   },
   {
     "site": "Qiita",
@@ -85,15 +115,21 @@
   },
   {
     "site": "Qiita",
+    "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
+    "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-14T09:37:58.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "原本は1つ、ビューは毎回作り直す。AIをアシスタントにした軽量タスク運用",
     "link": "https://qiita.com/gmo-co-kitaura/items/acb76b46b710348c60cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-14T09:11:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築",
-    "link": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
-    "pubDate": "Fri, 14 Aug 2026 09:00:05 GMT"
+    "site": "Qiita",
+    "title": "プロゲーマーから未経験エンジニアになって、上達の仕方は同じだと気づいた",
+    "link": "https://qiita.com/blueflame-lab/items/775bba713c91a571e462?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-14T07:36:33.000Z"
   },
   {
     "site": "Qiita",
@@ -102,22 +138,10 @@
     "pubDate": "2026-08-14T04:36:16.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【コピペOK】CSSで作るモダンなUIアニメーション集",
-    "link": "https://qiita.com/nt_y-maeda112/items/48d124a11623b4f9e7c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-14T02:29:07.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "同じ Sonnet 5 でも Claude Code と GitHub Copilot では使い方が違った（オトナの自由研究 #35）",
     "link": "https://zenn.dev/nnakapa/articles/lab-35-claude-copilot-sonnet5-qcd",
     "pubDate": "Fri, 14 Aug 2026 01:43:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "お金がないけどAIコーディングしたい",
-    "link": "https://zenn.dev/dev_jp/articles/da537a095f13da",
-    "pubDate": "Fri, 14 Aug 2026 00:35:05 GMT"
   },
   {
     "site": "Qiita",
@@ -133,15 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "整えるな。とにかくたくさん吐き出せ。~AIとの「1ターン」を大きく前進させる仮説~",
-    "link": "https://qiita.com/sh-fukaya/items/82ebbf176a12965a8e16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-13T09:07:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "(ずんだもん通知くん)Claude Codeにずんだもんの声をつけた話",
-    "link": "https://qiita.com/yama3133/items/6459627a4029eb5cbee7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-13T08:51:01.000Z"
+    "title": "Obsidianを試してみた",
+    "link": "https://qiita.com/zumax/items/7c124acc5b960e1df00e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-13T10:01:45.000Z"
   },
   {
     "site": "Zenn",
@@ -160,23 +178,5 @@
     "title": "続・貧者のアークテクチャ：Next.js + Cloudflare Workers + Turso 本番運用で踏んだ罠ぜんぶ",
     "link": "https://zenn.dev/nabettu/articles/a964f988e7cc75",
     "pubDate": "Thu, 13 Aug 2026 05:44:16 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "同じRust製のBiomeとOxlintで、なぜ速度差が大きいのか",
-    "link": "https://zenn.dev/estie/articles/64b80da2fbf175",
-    "pubDate": "Thu, 13 Aug 2026 03:00:09 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIに同じ質問をしたら、部署ごとに違う数字が返ってきた　― いま「オントロジー」と呼ばれているもの ―",
-    "link": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-13T01:29:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証",
-    "link": "https://qiita.com/gts/items/8d3c14dabff88d8f1901?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-12T22:10:37.000Z"
   }
 ]
