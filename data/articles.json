@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "「ほんだし」のラベルがAIでぐちゃぐちゃに……　味の素、公式Xの投稿画像について謝罪",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000564/",
+    "pubDate": "2026-08-17T08:33:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "うんこミュージアム、個人情報漏れた可能性　不正アクセスで",
+    "link": "https://ascii.jp/elem/000/004/427/4427059/",
+    "pubDate": "2026-08-17T08:24:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "攻撃手法から学ぶ OAuth セキュリティベストプラクティス",
+    "link": "https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp",
+    "pubDate": "2026-08-17T07:38:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "とまり木 — 各地のカメラから、日本のいま。",
+    "link": "https://tomarigi.me/",
+    "pubDate": "2026-08-17T06:22:27.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
     "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
     "pubDate": "2026-08-17T03:11:17.000Z"
@@ -24,22 +48,52 @@
     "pubDate": "2026-08-17T02:15:16.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Claude Codeに動画を見せる /watch-video、実は「渡すだけ」じゃなかった — 3つの深さを使い分ける",
+    "link": "https://qiita.com/jqit_suwa/items/fe5975104ffefa49f632?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-16T23:43:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude、Codex、Qwen……そのAI用語、どう読む？　読み方クイズ30問",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
+    "pubDate": "2026-08-16T23:33:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeの新機能、\"仕事の引き継ぎ\"じゃありません — 公式ドキュメントで確認した3つのズレ",
+    "link": "https://qiita.com/jqit_suwa/items/b919d0b4cdc0a26ec988?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-16T23:25:41.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog",
     "link": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
     "pubDate": "2026-08-16T23:08:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIで作ったモデルの画像と「酷似」で裁判に　著作権は認められる？：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASV7R33SSV7RPTIL009M.html",
-    "pubDate": "2026-08-16T21:36:43.000Z"
+    "site": "Zenn",
+    "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
+    "link": "https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e",
+    "pubDate": "Sun, 16 Aug 2026 22:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "記憶を保つのはシナプスの強さではなく「つながり方」：沖縄科学技術大学院大などが人工冬眠マウスで示す",
-    "link": "https://ki-to-oku.net/oist-artificial-hibernation-memory-retention/",
-    "pubDate": "2026-08-16T21:27:10.000Z"
+    "site": "Zenn",
+    "title": "攻撃手法から学ぶ OAuth セキュリティベストプラクティス",
+    "link": "https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp",
+    "pubDate": "Sun, 16 Aug 2026 18:37:30 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Regional NAT Gatewayを検討して見送った話 — 何と比べて「良い」のかを確認する",
+    "link": "https://qiita.com/Omizu-25/items/555c6319df5a97d3c90f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-16T14:02:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "DGX SparkをSwitchBotで遠隔復旧する構成と電力測定を試した",
+    "link": "https://zenn.dev/karaage0703/articles/dgx-spark-switchbot-power-monitor",
+    "pubDate": "Sun, 16 Aug 2026 13:25:24 GMT"
   },
   {
     "site": "Zenn",
@@ -48,10 +102,10 @@
     "pubDate": "Sun, 16 Aug 2026 13:18:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ローカル LLM 雑感 (2026-08)",
-    "link": "https://voluntas.ghost.io/local-llm-2026-08/",
-    "pubDate": "2026-08-16T12:36:32.000Z"
+    "site": "Qiita",
+    "title": "S3時代のファントムファイル",
+    "link": "https://qiita.com/kuma_3838/items/aae2c66e38bb9498d82d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-16T12:13:48.000Z"
   },
   {
     "site": "Zenn",
@@ -62,7 +116,7 @@
   {
     "site": "Zenn",
     "title": "ぼくのかんがえたさいきょうのCornixせってい ~最小限の運指で全ての操作を完結させ、モニターを1枚減らせた究極のキーマップ~",
-    "link": "https://zenn.dev/gacchi/articles/my-cornix-setting",
+    "link": "https://zenn.dev/ncdc/articles/my-cornix-setting",
     "pubDate": "Sun, 16 Aug 2026 09:30:09 GMT"
   },
   {
@@ -70,6 +124,12 @@
     "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
     "link": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-16T06:57:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "D1に適したORMはPrismaかDrizzleか",
+    "link": "https://qiita.com/kuma_3838/items/21da0b9fad77240eed49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-16T06:36:36.000Z"
   },
   {
     "site": "Zenn",
@@ -82,12 +142,6 @@
     "title": "【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた",
     "link": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-16T02:59:04.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【もぉん流】Godot × AI : 会話だけでゲーム制作！",
-    "link": "https://zenn.dev/matsu_friends/articles/61bed2ae1c6b91",
-    "pubDate": "Sun, 16 Aug 2026 02:56:54 GMT"
   },
   {
     "site": "Qiita",
@@ -103,27 +157,15 @@
   },
   {
     "site": "Zenn",
+    "title": "【.NET 11 Preview 7】浮動小数点数とdecimalの変換処理が変わったことによる影響",
+    "link": "https://zenn.dev/prozolic/articles/2d09743e2f46ab",
+    "pubDate": "Sat, 15 Aug 2026 10:01:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Jujutsu (jj) のつらみ Git前提の世界とAIコーディングエージェント",
     "link": "https://zenn.dev/rozurozu/articles/20260815_jujutsu_tsurami",
     "pubDate": "Sat, 15 Aug 2026 08:41:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "42日でバックエンドエンジニアの基礎を完全に理解する #8 - インデックスと検索高速化",
-    "link": "https://zenn.dev/kipcop/articles/b42-go-08-index",
-    "pubDate": "Sat, 15 Aug 2026 06:01:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "デスクトップUIフレームワーク15種のメモリ使用量計測",
-    "link": "https://zenn.dev/mizugeeks/articles/1019cf2353d343",
-    "pubDate": "Sat, 15 Aug 2026 03:10:07 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした - Qiita",
-    "link": "https://qiita.com/jksoft/items/65f7824679ddf171a93d",
-    "pubDate": "2026-08-15T01:36:21.000Z"
   },
   {
     "site": "Qiita",
@@ -132,51 +174,9 @@
     "pubDate": "2026-08-14T23:00:36.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "概念設計が、その後のコードの命運を左右する",
-    "link": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
-    "pubDate": "Fri, 14 Aug 2026 13:00:27 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
     "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-14T09:37:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "原本は1つ、ビューは毎回作り直す。AIをアシスタントにした軽量タスク運用",
-    "link": "https://qiita.com/gmo-co-kitaura/items/acb76b46b710348c60cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-14T09:11:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "プロゲーマーから未経験エンジニアになって、上達の仕方は同じだと気づいた",
-    "link": "https://qiita.com/blueflame-lab/items/775bba713c91a571e462?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-14T07:36:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エラーレスポンス設計の現在地2026",
-    "link": "https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-14T04:36:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
-    "link": "https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-14T00:15:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【SQL入門①】初めて学ぶSQL！データベースの基礎からわかりやすく解説",
-    "link": "https://qiita.com/nt-izumi/items/c7385d1442ecc15e77ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-14T00:05:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - coji/natural-japanese: 仕事の日本語文書を読みやすくわかりやすく書く・直す Agent Skill。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成に対応し、AI臭さの除去も工程に含む。sudachipy 形態素解析による機械検出付き。",
-    "link": "https://github.com/coji/natural-japanese",
-    "pubDate": "2026-07-14T07:56:39.000Z"
   }
 ]
