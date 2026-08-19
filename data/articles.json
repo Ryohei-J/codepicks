@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "CTO室を解散したい - OPENLOGI TECH BLOG",
+    "link": "https://openlogi.hatenablog.com/entry/cancel-cto-office",
+    "pubDate": "2026-08-19T00:20:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog",
+    "link": "https://creators.bengo4.com/entry/2026/08/19/080000",
+    "pubDate": "2026-08-18T23:25:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コードからDockerfile不要でOCIコンテナをビルド。「Cloud Native Buildpacks」が十分成熟したとしてCNCFの卒業プロジェクトに",
+    "link": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
+    "pubDate": "2026-08-18T22:39:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html",
+    "pubDate": "2026-08-18T22:38:37.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIセキュリティ何から勉強すりゃええの？ - Qiita",
+    "link": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
+    "pubDate": "2026-08-18T20:32:46.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "[本日の一品]評判の良さげなAmazonベーシックのトラックパッド、試してみた",
     "link": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2133121.html",
     "pubDate": "2026-08-18T15:49:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドコモ・バイクシェア障害、返金の詳細発表　原因は「新システムの処理能力不足」とも公表",
+    "link": "https://japan.cnet.com/article/35251660/",
+    "pubDate": "2026-08-18T12:48:59.000Z"
   },
   {
     "site": "Hatena",
@@ -18,52 +54,16 @@
     "pubDate": "2026-08-18T09:53:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Googleドライブを使いこなす10のコツ | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/260810-hacks-every-google-drive-user-should-know/",
-    "pubDate": "2026-08-18T08:25:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "通販生活が楽天市場から撤退　迎撃ドローン関連の報道受け「企業理念に反する」",
-    "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000596/",
-    "pubDate": "2026-08-18T08:05:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Rethinking Database Programming",
-    "link": "https://acadia.engineering/blog/rethinking-database-programming",
-    "pubDate": "2026-08-18T07:37:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MCPの仕組みと役割を理解する - 『MCP Deep Dive』社内講習会を実施 - Taste of Tech Topics",
-    "link": "https://acro-engineer.hatenablog.com/entry/2026/08/18/120000",
-    "pubDate": "2026-08-18T06:03:40.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5",
     "link": "https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-18T05:03:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "若者の【キモい】の使い方がおかしい",
-    "link": "https://anond.hatelabo.jp/20260818123722",
-    "pubDate": "2026-08-18T03:37:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "米Amazon、規約で集団訴訟を禁止--利用で「同意」扱いに",
-    "link": "https://japan.cnet.com/article/35251626/",
-    "pubDate": "2026-08-18T01:19:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡",
-    "link": "https://note.com/lifeisbeautiful/n/n890f00a6136a",
-    "pubDate": "2026-08-18T00:13:59.000Z"
+    "site": "Qiita",
+    "title": "「作って終わり」のAIエージェントは死ぬ",
+    "link": "https://qiita.com/ta-ito0611/items/674a5246577f47b972d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-18T01:36:38.000Z"
   },
   {
     "site": "Zenn",
@@ -91,12 +91,6 @@
   },
   {
     "site": "Qiita",
-    "title": "Bedrockのエンドポイント/APIはどれを選べばいいの？（2026/8）",
-    "link": "https://qiita.com/moritalous/items/b023919af9f9e3e205c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-17T12:45:58.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【雑記】自分のClaude Code運用の全体像",
     "link": "https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-17T11:53:22.000Z"
@@ -109,27 +103,27 @@
   },
   {
     "site": "Qiita",
-    "title": "海外で急速に広がる「FDE」と、AI時代のエンジニアに求められるより高い専門性",
-    "link": "https://qiita.com/sumomoo/items/7a8bf8214f6d4f70de17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-17T07:29:55.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない",
     "link": "https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-17T07:27:57.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Mermaidで書いた過去記事の図を、話題の図解スキルに食わせてみた — 色指定が全部捨てられた",
-    "link": "https://qiita.com/jqit_suwa/items/3906db61d153fe8691aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-17T07:26:51.000Z"
+    "title": "オントロジーについて",
+    "link": "https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-17T07:16:57.000Z"
   },
   {
     "site": "Zenn",
     "title": "セキュリティ・キャンプ 2026 ネクスト 応募課題晒し",
     "link": "https://zenn.dev/n4mlz/articles/fec8711345dd70",
     "pubDate": "Mon, 17 Aug 2026 04:50:21 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "一瞬でいいから世界が変わると思わせてくれ｜情報処理学会・学会誌「情報処理」",
+    "link": "https://note.com/ipsj/n/n6b8ce8659185",
+    "pubDate": "2026-08-17T03:44:07.000Z"
   },
   {
     "site": "Zenn",
@@ -160,6 +154,12 @@
     "title": "攻撃手法から学ぶ OAuth セキュリティベストプラクティス",
     "link": "https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp",
     "pubDate": "Sun, 16 Aug 2026 18:37:30 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "彼女の誕生日に、2人だけのSNS「Sync」を作った話",
+    "link": "https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-16T11:35:44.000Z"
   },
   {
     "site": "Qiita",
