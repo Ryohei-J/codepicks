@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "CRE だけど「SREの知識地図」を読んだ - えいのうにっき",
+    "link": "https://blog.a-know.me/entry/2026/08/19/174450",
+    "pubDate": "2026-08-19T09:22:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
+    "pubDate": "2026-08-19T08:47:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "道徳問う「トロッコ問題」、AIの反論で3割が判断覆す　神戸大が実験 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUF184C90Y6A810C2000000/",
+    "pubDate": "2026-08-19T06:47:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "当社システムへの不正アクセスに関するお知らせ（第二報）（2026年8月19日 18:40更新） | さくらインターネット",
+    "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
+    "pubDate": "2026-08-19T06:43:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "東京・環七地下の巨大河川、ポンプ使わずサイホン方式で東京湾へ放流",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00529/",
+    "pubDate": "2026-08-19T04:27:38.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
     "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
     "pubDate": "2026-08-19T04:08:09.000Z"
@@ -13,21 +43,21 @@
   },
   {
     "site": "Hatena",
-    "title": "KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】",
-    "link": "https://www.watch.impress.co.jp/docs/series/ishino/2133301.html",
-    "pubDate": "2026-08-19T01:12:36.000Z"
+    "title": "ヤマハ、保育園の「お散歩カー」を電動アシスト化",
+    "link": "https://www.watch.impress.co.jp/docs/news/2133795.html",
+    "pubDate": "2026-08-19T03:51:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
-    "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
-    "pubDate": "2026-08-18T23:38:57.000Z"
+    "site": "Qiita",
+    "title": "Claude Code の fork、既定ONのはずが使えなかった — 環境変数1つで決まっていた",
+    "link": "https://qiita.com/jqit_suwa/items/11f46a9fc9cb429ceaf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-18T23:56:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog",
-    "link": "https://creators.bengo4.com/entry/2026/08/19/080000",
-    "pubDate": "2026-08-18T23:25:56.000Z"
+    "site": "Qiita",
+    "title": "Claude Code をやめて Codex で続きから作業できた — ただし引き継がれたのは要約ではなかった",
+    "link": "https://qiita.com/jqit_suwa/items/90f0c5866fb3516c909b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-18T23:33:08.000Z"
   },
   {
     "site": "Hatena",
@@ -37,15 +67,21 @@
   },
   {
     "site": "Qiita",
-    "title": "AIセキュリティ何から勉強すりゃええの？ - Qiita",
-    "link": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
-    "pubDate": "2026-08-18T20:32:46.000Z"
+    "title": "Oracle AI Database Private Agent Factory を構築してみてみた ",
+    "link": "https://qiita.com/shirok/items/283df4e144ad785ad99b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-18T21:14:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "CI 23分 → 11分。8.6万行のテストコードを消すまでにやったこと - 出前館 Tech Blog",
-    "link": "https://techblog.demae-can.co.jp/entry/ci-23-to-11",
-    "pubDate": "2026-08-18T15:46:17.000Z"
+    "site": "Qiita",
+    "title": "Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術",
+    "link": "https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-18T15:25:13.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIセキュリティ何から勉強すりゃええの？",
+    "link": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-18T15:03:47.000Z"
   },
   {
     "site": "Zenn",
@@ -55,21 +91,15 @@
   },
   {
     "site": "Qiita",
-    "title": "14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5",
-    "link": "https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-18T05:03:10.000Z"
+    "title": "TransformerのKVキャッシュを用いたDecode処理を理解する",
+    "link": "https://qiita.com/kenmatsu4/items/3126a7ff8d626f220202?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-18T11:08:45.000Z"
   },
   {
     "site": "Zenn",
     "title": "AWS の新ポリシー言語 Dogwood を試す",
     "link": "https://zenn.dev/exwzd/articles/20260813-dogwood-agent-policy",
     "pubDate": "Tue, 18 Aug 2026 04:07:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "「作って終わり」のAIエージェントは死ぬ",
-    "link": "https://qiita.com/ta-ito0611/items/674a5246577f47b972d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-18T01:36:38.000Z"
   },
   {
     "site": "Zenn",
@@ -121,12 +151,6 @@
   },
   {
     "site": "Qiita",
-    "title": "新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない",
-    "link": "https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-17T07:27:57.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "オントロジーについて",
     "link": "https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-17T07:16:57.000Z"
@@ -136,12 +160,6 @@
     "title": "セキュリティ・キャンプ 2026 ネクスト 応募課題晒し",
     "link": "https://zenn.dev/n4mlz/articles/fec8711345dd70",
     "pubDate": "Mon, 17 Aug 2026 04:50:21 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "一瞬でいいから世界が変わると思わせてくれ｜情報処理学会・学会誌「情報処理」",
-    "link": "https://note.com/ipsj/n/n6b8ce8659185",
-    "pubDate": "2026-08-17T03:44:07.000Z"
   },
   {
     "site": "Zenn",
@@ -160,23 +178,5 @@
     "title": "彼女の誕生日に、2人だけのSNS「Sync」を作った話",
     "link": "https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-16T11:35:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
-    "link": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-16T06:57:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた",
-    "link": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-16T02:59:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "コードレビューで身についた技術と、メンタルを守るための習慣",
-    "link": "https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-16T01:24:36.000Z"
   }
 ]
