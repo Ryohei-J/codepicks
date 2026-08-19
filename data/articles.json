@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "大規模言語モデル（LLM）は「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか…その理由を解説したnoteに様々な反応「現代AIの本質を端的に語っている」",
+    "link": "https://togetter.com/li/2734953",
+    "pubDate": "2026-08-19T12:07:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "架空の女性に成り済まし政治投稿　立憲民主党栃木県連の党員男性、生成AIで画像作成か",
+    "link": "https://www.sankei.com/article/20260819-H5N5Y6FDMVMCXGEIUQL7AZZ2UQ/",
+    "pubDate": "2026-08-19T09:57:48.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "CRE だけど「SREの知識地図」を読んだ - えいのうにっき",
     "link": "https://blog.a-know.me/entry/2026/08/19/174450",
     "pubDate": "2026-08-19T09:22:59.000Z"
@@ -10,6 +22,12 @@
     "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性　",
     "link": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
     "pubDate": "2026-08-19T08:47:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "第923回　DockgeでDocker Composeをブラウザから手軽に管理しよう | gihyo.jp",
+    "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0923",
+    "pubDate": "2026-08-19T08:29:08.000Z"
   },
   {
     "site": "Hatena",
@@ -42,12 +60,6 @@
     "pubDate": "2026-08-19T04:02:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ヤマハ、保育園の「お散歩カー」を電動アシスト化",
-    "link": "https://www.watch.impress.co.jp/docs/news/2133795.html",
-    "pubDate": "2026-08-19T03:51:57.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code の fork、既定ONのはずが使えなかった — 環境変数1つで決まっていた",
     "link": "https://qiita.com/jqit_suwa/items/11f46a9fc9cb429ceaf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -58,12 +70,6 @@
     "title": "Claude Code をやめて Codex で続きから作業できた — ただし引き継がれたのは要約ではなかった",
     "link": "https://qiita.com/jqit_suwa/items/90f0c5866fb3516c909b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-18T23:33:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html",
-    "pubDate": "2026-08-18T22:38:37.000Z"
   },
   {
     "site": "Qiita",
@@ -103,21 +109,33 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Codeに見せない技術: AIに入力できないデータを分析する",
+    "link": "https://zenn.dev/green_tea/articles/a994964786cb4f",
+    "pubDate": "Tue, 18 Aug 2026 02:55:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "コーディングエージェントが実装するUIの品質を上げるためにやったこと",
     "link": "https://zenn.dev/moshjp/articles/39972d023f0440",
     "pubDate": "Tue, 18 Aug 2026 01:00:20 GMT"
   },
   {
     "site": "Zenn",
+    "title": "YAML 1枚で開発エージェントチームを動かす — 開発基盤に Docker Agent を採用した話",
+    "link": "https://zenn.dev/xtm_blog/articles/b9993fe1d72b17",
+    "pubDate": "Tue, 18 Aug 2026 01:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "DMARC 集計レポートを Claude Code で分解して p=reject に到達するまで",
+    "link": "https://zenn.dev/finatext/articles/0d1e6dd99ec34d",
+    "pubDate": "Tue, 18 Aug 2026 00:29:01 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Rust製のマルチプラットフォーム開発フレームワーク「Whisker」を作りました",
     "link": "https://zenn.dev/itome/articles/e087c6d11d0bd2",
     "pubDate": "Tue, 18 Aug 2026 00:00:08 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "深センに行かなくても「ディープなガジェット」を試せる空間、渋谷に誕生--完全予約制",
-    "link": "https://japan.cnet.com/article/35251628/",
-    "pubDate": "2026-08-17T22:50:59.000Z"
   },
   {
     "site": "Zenn",
@@ -138,40 +156,22 @@
     "pubDate": "Mon, 17 Aug 2026 13:31:03 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "AIが吐いたHTMLとMarkdownを「見たまま」直せるエディタを作った話",
+    "link": "https://zenn.dev/genshi_ai/articles/cfa3ab74646b39",
+    "pubDate": "Mon, 17 Aug 2026 13:17:52 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【雑記】自分のClaude Code運用の全体像",
     "link": "https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-17T11:53:22.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Webサービスのスクショ付きガイドブックをPlaywright + LLMで自動生成・更新できるようにした",
-    "link": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
-    "pubDate": "Mon, 17 Aug 2026 09:25:27 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "オントロジーについて",
     "link": "https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-17T07:16:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "セキュリティ・キャンプ 2026 ネクスト 応募課題晒し",
-    "link": "https://zenn.dev/n4mlz/articles/fec8711345dd70",
-    "pubDate": "Mon, 17 Aug 2026 04:50:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RDS Proxyを導入して、数ヶ月で撤去した話",
-    "link": "https://zenn.dev/dress_code/articles/da536c39873876",
-    "pubDate": "Mon, 17 Aug 2026 00:00:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ネットワークエンジニアのためのデータ表現詳解",
-    "link": "https://zenn.dev/moko_nw/books/au_dataex_01",
-    "pubDate": "Sun, 16 Aug 2026 22:37:14 GMT"
   },
   {
     "site": "Qiita",
