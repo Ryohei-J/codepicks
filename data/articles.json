@@ -1,63 +1,81 @@
 [
   {
     "site": "Hatena",
-    "title": "大規模言語モデル（LLM）は「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか…その理由を解説したnoteに様々な反応「現代AIの本質を端的に語っている」",
-    "link": "https://togetter.com/li/2734953",
-    "pubDate": "2026-08-19T12:07:33.000Z"
+    "title": "AIによるディープフェイクがミステリー小説にも影響を与えていると推理小説家が解説",
+    "link": "https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/",
+    "pubDate": "2026-08-19T22:02:13.000Z"
   },
   {
     "site": "Hatena",
-    "title": "架空の女性に成り済まし政治投稿　立憲民主党栃木県連の党員男性、生成AIで画像作成か",
-    "link": "https://www.sankei.com/article/20260819-H5N5Y6FDMVMCXGEIUQL7AZZ2UQ/",
-    "pubDate": "2026-08-19T09:57:48.000Z"
+    "title": "さくらインターネットへの不正アクセスについてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850",
+    "pubDate": "2026-08-19T21:37:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
+    "link": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-19T14:48:07.000Z"
   },
   {
     "site": "Hatena",
-    "title": "CRE だけど「SREの知識地図」を読んだ - えいのうにっき",
-    "link": "https://blog.a-know.me/entry/2026/08/19/174450",
-    "pubDate": "2026-08-19T09:22:59.000Z"
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで",
+    "link": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
+    "pubDate": "2026-08-19T13:53:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
-    "pubDate": "2026-08-19T08:47:25.000Z"
+    "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
+    "link": "https://gigazine.net/news/20260819-cerebras-cs-4/",
+    "pubDate": "2026-08-19T13:47:18.000Z"
   },
   {
     "site": "Hatena",
-    "title": "第923回　DockgeでDocker Composeをブラウザから手軽に管理しよう | gihyo.jp",
-    "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0923",
-    "pubDate": "2026-08-19T08:29:08.000Z"
+    "title": "生成AI画像で“架空の女性”に成り済まして政治投稿か　立憲栃木県連の男性党員　一部報道",
+    "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000632/",
+    "pubDate": "2026-08-19T12:05:46.000Z"
   },
   {
     "site": "Hatena",
-    "title": "道徳問う「トロッコ問題」、AIの反論で3割が判断覆す　神戸大が実験 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUF184C90Y6A810C2000000/",
-    "pubDate": "2026-08-19T06:47:32.000Z"
+    "title": "日本交通、7月に発生した不正アクセスで一部保有ファイルの流出を確認　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2133999.html",
+    "pubDate": "2026-08-19T11:05:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code に spellcheck が付いた — 日本語だと9割に下線が引かれる",
+    "link": "https://qiita.com/jqit_suwa/items/94b96d15c9c031e39b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-19T10:01:37.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code のタスクリストが出ない — 原因は環境変数 ENABLE_TASKS=0 だった",
+    "link": "https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-19T09:37:52.000Z"
   },
   {
     "site": "Hatena",
-    "title": "当社システムへの不正アクセスに関するお知らせ（第二報）（2026年8月19日 18:40更新） | さくらインターネット",
-    "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
-    "pubDate": "2026-08-19T06:43:19.000Z"
+    "title": "いいねもコメントもない文章投稿サービスを作った",
+    "link": "https://anond.hatelabo.jp/20260819180816",
+    "pubDate": "2026-08-19T09:10:28.000Z"
   },
   {
     "site": "Hatena",
-    "title": "東京・環七地下の巨大河川、ポンプ使わずサイホン方式で東京湾へ放流",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00529/",
-    "pubDate": "2026-08-19T04:27:38.000Z"
+    "title": "「Firefox 154」が正式公開 ～Windowsで「GeForce NOW」に対応、アプリアイコンの変更も／ローカルネットワークアクセスなどでセキュリティ強化、58件の脆弱性修正",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2133706.html",
+    "pubDate": "2026-08-19T08:54:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
-    "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
-    "pubDate": "2026-08-19T04:08:09.000Z"
+    "site": "Zenn",
+    "title": "Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた",
+    "link": "https://zenn.dev/pksha/articles/e5c8f9b2a41d73",
+    "pubDate": "Wed, 19 Aug 2026 02:38:42 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeを作る会社に入った男は、筑波大を2留していた｜Zun-Beho",
-    "link": "https://note.com/akikito/n/n11c101e30968",
-    "pubDate": "2026-08-19T04:02:32.000Z"
+    "site": "Zenn",
+    "title": "世界最大？Google Fonts 全部入りフォントを作ってみた",
+    "link": "https://zenn.dev/fjktkm/articles/95ec94e1c2ab38",
+    "pubDate": "Wed, 19 Aug 2026 02:30:05 GMT"
   },
   {
     "site": "Qiita",
@@ -96,10 +114,10 @@
     "pubDate": "Tue, 18 Aug 2026 11:42:49 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "TransformerのKVキャッシュを用いたDecode処理を理解する",
-    "link": "https://qiita.com/kenmatsu4/items/3126a7ff8d626f220202?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-18T11:08:45.000Z"
+    "site": "Zenn",
+    "title": "設定1つでDatabricksの課金を半分にした話",
+    "link": "https://zenn.dev/genda_jp/articles/databricks-autostop-1min-api",
+    "pubDate": "Tue, 18 Aug 2026 05:31:42 GMT"
   },
   {
     "site": "Zenn",
@@ -138,34 +156,10 @@
     "pubDate": "Tue, 18 Aug 2026 00:00:08 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Markdownノートを日本語で全文検索できるCLI「mikke」を作った",
-    "link": "https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli",
-    "pubDate": "Mon, 17 Aug 2026 21:01:59 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Cursor Originを触った。第一印象は「Cursor版GitHub」",
     "link": "https://qiita.com/Kinopee/items/639d401573c09ab24667?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-17T17:44:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントはなぜテストを握り潰すのか ― 報酬エンジニアリングのすすめ",
-    "link": "https://zenn.dev/ito/articles/6b042aa27d65bc",
-    "pubDate": "Mon, 17 Aug 2026 13:31:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIが吐いたHTMLとMarkdownを「見たまま」直せるエディタを作った話",
-    "link": "https://zenn.dev/genshi_ai/articles/cfa3ab74646b39",
-    "pubDate": "Mon, 17 Aug 2026 13:17:52 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【雑記】自分のClaude Code運用の全体像",
-    "link": "https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-17T11:53:22.000Z"
   },
   {
     "site": "Qiita",
@@ -174,9 +168,15 @@
     "pubDate": "2026-08-17T07:16:57.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "彼女の誕生日に、2人だけのSNS「Sync」を作った話",
-    "link": "https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-16T11:35:44.000Z"
+    "site": "Hatena",
+    "title": "30年前に開発された夢のマシン「Javaリング」を復活させて！",
+    "link": "https://www.youtube.com/watch?v=LF5PrzP9YTs",
+    "pubDate": "2026-07-19T00:30:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "muscriptor",
+    "link": "https://muscriptor.kyutai.org/",
+    "pubDate": "2026-07-13T05:33:19.000Z"
   }
 ]
