@@ -1,21 +1,21 @@
 [
   {
+    "site": "Zenn",
+    "title": "或るログ研究者",
+    "link": "https://zenn.dev/dmikurube/articles/a-logresearch-er",
+    "pubDate": "2026-08-21T11:49:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Android 17はメモリを使い過ぎるアプリを強制終了",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2134666.html",
+    "pubDate": "2026-08-21T11:16:24.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？",
     "link": "https://gigazine.net/news/20260821-microsd-card-test-3-years/",
     "pubDate": "2026-08-21T10:19:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "楽天ブックス関係会社のPCに不正アクセス、ユーザー3万3333人分の個人情報などが漏えいの可能性　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2134682.html",
-    "pubDate": "2026-08-21T08:40:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "社内アプリ開発したら『ダークモード実装してくれませんか？』の声がめちゃくちゃ多くてビビった「もうダークモードのないアプリは使いたくない」",
-    "link": "https://togetter.com/li/2735756",
-    "pubDate": "2026-08-21T08:13:23.000Z"
   },
   {
     "site": "Qiita",
@@ -28,6 +28,12 @@
     "title": "「大丈夫です」と言った日に限って、全然大丈夫じゃなかった話",
     "link": "https://qiita.com/prumnn/items/28cca0328bf1cfb4e602?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-21T07:47:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "HTML Can Do That",
+    "link": "https://chrisburnell.com/html-can-do-that/",
+    "pubDate": "2026-08-21T06:13:08.000Z"
   },
   {
     "site": "Hatena",
@@ -46,12 +52,6 @@
     "title": "claude のメモリを棚卸しする",
     "link": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
     "pubDate": "Fri, 21 Aug 2026 04:28:26 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Qwen3.8 27Bが驚異の6.2GBに!? Unslothが新量子化技術で実現",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2134411.html",
-    "pubDate": "2026-08-21T03:22:35.000Z"
   },
   {
     "site": "Hatena",
@@ -120,12 +120,6 @@
     "pubDate": "Thu, 20 Aug 2026 02:50:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ",
-    "link": "https://note.com/fuchagi/n/n42c43cfe0ff0",
-    "pubDate": "2026-08-20T02:28:49.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "encoding/json/v2 に至る14年",
     "link": "https://zenn.dev/ymotongpoo/books/go-json-v2-history",
@@ -178,5 +172,11 @@
     "title": "AIセキュリティ何から勉強すりゃええの？",
     "link": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-18T15:03:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI-Native な開発の実践に向けて | メルカリエンジニアリング",
+    "link": "https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/",
+    "pubDate": "2026-06-30T08:09:53.000Z"
   }
 ]
