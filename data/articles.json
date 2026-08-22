@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "その場限りで気軽に試したいのと Firefox で使いたかったので、ブックマーク..",
+    "link": "https://anond.hatelabo.jp/20260822121613",
+    "pubDate": "2026-08-22T03:16:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代のPR管理画面 gh pr-graph を激推ししている - ともにかける",
+    "link": "https://paper2.hatenablog.com/entry/2026/08/22/103649",
+    "pubDate": "2026-08-22T02:37:55.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita",
+    "link": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?__readwiseLocation=",
+    "pubDate": "2026-08-22T01:46:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてなパークスで、ユーザーアイコンを羊から はてなのアイコンに戻すChrome拡張を作った",
+    "link": "https://anond.hatelabo.jp/20260822070809",
+    "pubDate": "2026-08-21T22:21:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNative BLOGs",
     "link": "https://blog.cloudnative.co.jp/articles/id-security-acronyms-01-auth-basics/",
     "pubDate": "2026-08-21T15:14:05.000Z"
@@ -12,34 +36,22 @@
     "pubDate": "2026-08-21T14:12:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【悪用厳禁】YouTube見れる。ChatGPT使える。伝説の「Android OS搭載電卓」を再検証で「衝撃の真実」が判明…【”GHLBD”検証-Part1】",
-    "link": "https://www.nicovideo.jp/watch/sm46695159",
-    "pubDate": "2026-08-21T14:10:45.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "或るログ研究者",
     "link": "https://zenn.dev/dmikurube/articles/a-logresearch-er",
     "pubDate": "Fri, 21 Aug 2026 10:04:23 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Apple のユニファイドメモリは何を実現したのか ── hUMA との比較による実態整理",
-    "link": "https://resilient-empanada-22de5d.netlify.app/",
-    "pubDate": "2026-08-21T09:35:29.000Z"
+    "site": "Zenn",
+    "title": "Microsoft Entra ID アプリケーション開発入門",
+    "link": "https://zenn.dev/karamem0/books/505df6779ec89a",
+    "pubDate": "Fri, 21 Aug 2026 09:39:00 GMT"
   },
   {
     "site": "Qiita",
     "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
     "link": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-21T09:04:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Wi-Fi・防災・暑さ・クマ出没――10の都民向け情報を1枚のマップに　「Tokyo Map」正式公開",
-    "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000680/",
-    "pubDate": "2026-08-21T08:28:59.000Z"
   },
   {
     "site": "Qiita",
@@ -66,22 +78,10 @@
     "pubDate": "2026-08-21T07:25:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "HTML Can Do That",
-    "link": "https://chrisburnell.com/html-can-do-that/",
-    "pubDate": "2026-08-21T06:13:08.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIで生産性が3倍になった私たちが、チームを置き去りにした話",
     "link": "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide",
     "pubDate": "2026-08-21T04:55:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Code」「Cowork」まで。興味や学習状況に応じてさまざまなコースを提案",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2134400.html",
-    "pubDate": "2026-08-21T04:48:04.000Z"
   },
   {
     "site": "Zenn",
@@ -100,6 +100,12 @@
     "title": "発信力の増幅機としてのLLM",
     "link": "https://zenn.dev/watany/articles/8809b00df25dab",
     "pubDate": "Fri, 21 Aug 2026 03:40:35 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "3命令のCPU処理で済む高速なうるう年判定アルゴリズム - Faith and Brave - C++で遊ぼう",
+    "link": "https://faithandbrave.hateblo.jp/entry/2026/08/21/102716",
+    "pubDate": "2026-08-21T02:41:00.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "時相論理の形式仕様の Quint を使って、denoland/celld の二重 writer バグを見つけた",
     "link": "https://zenn.dev/mizchi/articles/quint-application-modeling",
     "pubDate": "Wed, 19 Aug 2026 07:44:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "NGワードリストに「死ね」が入っていなかったので自分で作った",
-    "link": "https://zenn.dev/zentaroimai/articles/9d6e786a2e6eec",
-    "pubDate": "Wed, 19 Aug 2026 07:38:05 GMT"
   }
 ]
