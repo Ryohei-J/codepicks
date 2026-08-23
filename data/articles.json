@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "Qwen3.8-27B におすすめのハーネス｜npaka",
+    "link": "https://note.com/npaka/n/nf7108e6bd18e",
+    "pubDate": "2026-08-22T16:49:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "『人手不足だから外国人』の前に考えたいこと ― 雇用・失業・言語教育・2世3世の設計 : システム設計視点の行動経済学 (20)",
+    "link": "https://qiita.com/maskot1977/items/33a704b63a84124fec4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-22T15:27:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "オーバーナイトプレミアムに関連した価格ドライバー特徴量の話",
+    "link": "https://zenn.dev/gamella/articles/8e2f9873169db6",
+    "pubDate": "Sat, 22 Aug 2026 11:39:58 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "AI に技術ブログを書かせてみてわかったこと",
     "link": "https://azukiazusa.dev/blog/what-i-learned-writing-technical-blog-posts-with-ai/",
     "pubDate": "2026-08-22T11:17:24.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「レビューが上下両方向で壊れた」「ベテランの暗黙知が消えた」AIで生産性を上げた結果、組織内の分断が起きたことを書いた記事が興味深い",
-    "link": "https://togetter.com/li/2736160",
-    "pubDate": "2026-08-22T09:58:45.000Z"
+    "title": "AIモデルを選ぶ時に「実際に何をしているのか？」という内部構造や処理フローをアニメーションで視覚化して確認できる「modelmap」",
+    "link": "https://gigazine.net/news/20260822-modelmap/",
+    "pubDate": "2026-08-22T09:43:48.000Z"
   },
   {
     "site": "Zenn",
@@ -19,39 +37,21 @@
   },
   {
     "site": "Hatena",
-    "title": "三人寄ればチューリング完全",
-    "link": "https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen",
-    "pubDate": "2026-08-22T07:14:54.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "スマホ依存からの脱却で中国でE Ink端末が一大ブームに　知恵と工夫で生まれつつあるE Ink搭載ガジェットの新文化 (1/2)",
     "link": "https://ascii.jp/elem/000/004/428/4428609/",
     "pubDate": "2026-08-22T06:40:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "古い「Android」端末を「Raspberry Pi」の代わりにする方法",
-    "link": "https://japan.zdnet.com/article/35251631/",
-    "pubDate": "2026-08-22T06:28:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アフリカへの農業支援のために「イモの栽培を教えたら種イモを食べてしまった」というのは、ウルルン滞在記におけるニューギニアの話が変異したのでは - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2026/08/22/140000",
-    "pubDate": "2026-08-22T05:57:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「救急の日」ポスターがAI生成で作られて気持ち悪さを感じたポスト主…背景や配置を考えていてAIには見えないという意見が多数集まり、議論となる→視点次第で感じ方が違う",
-    "link": "https://togetter.com/li/2736062",
-    "pubDate": "2026-08-22T04:02:49.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita",
-    "link": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?__readwiseLocation=",
-    "pubDate": "2026-08-22T01:46:47.000Z"
+    "title": "備忘録：Next.jsのServer ActionsをRSC・React 19から理解する。SSR・Hydration・再描画との関係を1本の流れに整理する",
+    "link": "https://qiita.com/nogataka/items/8e416beb71e43af91bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-22T03:52:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "インフラシェアリングから「周波数シェア」の時代へ　ミリ波を落札したJTOWERの次なる戦略",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2608/22/news020.html",
+    "pubDate": "2026-08-22T02:05:16.000Z"
   },
   {
     "site": "Hatena",
@@ -67,15 +67,21 @@
   },
   {
     "site": "Qiita",
-    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 2",
-    "link": "https://qiita.com/maskot1977/items/3363012f9778952a7240?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T15:02:16.000Z"
+    "title": "AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド",
+    "link": "https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-21T13:56:10.000Z"
   },
   {
     "site": "Zenn",
     "title": "React 19.3 browser() APIの使いみち～FUNSTACK Routerの場合～",
     "link": "https://zenn.dev/uhyo/articles/react-use-browser-usage",
     "pubDate": "Fri, 21 Aug 2026 13:52:58 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "アクセルを踏めるのは、ガードレールがあるから。上場デザイン会社の「守りのAI設計図」を全部見せます｜グッドパッチ　執行役員　坂口友紀",
+    "link": "https://note.com/19831112/n/nacae0120a692",
+    "pubDate": "2026-08-21T12:59:52.000Z"
   },
   {
     "site": "Zenn",
@@ -91,21 +97,9 @@
   },
   {
     "site": "Qiita",
-    "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
-    "link": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T09:04:05.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "SQL初心者向け~参画までに覚えたいSQL構文10選~",
     "link": "https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-21T08:58:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「文系だし、別の仕事してきたから無理…」って思ってない？未経験からITを目指す人に伝えたい本当の話",
-    "link": "https://qiita.com/m__ikeda/items/0fd31bb4dfac9adfba95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T07:53:30.000Z"
   },
   {
     "site": "Qiita",
@@ -115,9 +109,9 @@
   },
   {
     "site": "Qiita",
-    "title": "「大丈夫です」と言った日に限って、全然大丈夫じゃなかった話",
-    "link": "https://qiita.com/prumnn/items/28cca0328bf1cfb4e602?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T07:47:29.000Z"
+    "title": "AIレビューがすり抜ける「なんか妥当じゃない」を、数えられる条件に翻訳した話",
+    "link": "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-21T04:32:10.000Z"
   },
   {
     "site": "Zenn",
@@ -130,6 +124,18 @@
     "title": "発信力の増幅機としてのLLM",
     "link": "https://zenn.dev/watany/articles/8809b00df25dab",
     "pubDate": "Fri, 21 Aug 2026 03:40:35 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "LambdaでAmazon Bedrockに任意のトークン上限を設定してみた【80%で通知・上限到達でリクエスト拒否】",
+    "link": "https://qiita.com/chaochire/items/80000bf7cf8bbe5b36ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-21T03:17:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void",
+    "link": "https://blog.starry.blue/entry/2026/08/21/110000",
+    "pubDate": "2026-08-21T02:47:08.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "Thu, 20 Aug 2026 02:50:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "encoding/json/v2 に至る14年",
-    "link": "https://zenn.dev/ymotongpoo/books/go-json-v2-history",
-    "pubDate": "Thu, 20 Aug 2026 01:42:04 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
-    "link": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-19T14:48:07.000Z"
+    "site": "Hatena",
+    "title": "【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？",
+    "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2133962.html",
+    "pubDate": "2026-08-19T16:06:15.000Z"
   }
 ]
