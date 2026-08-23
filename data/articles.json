@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "AIに書かせたら、前より休めなくなった｜松浦勝人",
+    "link": "https://note.com/maxmatsuura/n/ne59969fd6e71",
+    "pubDate": "2026-08-23T12:43:56.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "7月にオーストラリアで発生した大規模通信障害の仕組みが判明したが、ITエンジニアが怖くて泣いてしまう内容だった「時刻が正確に合わなかったのか…」",
     "link": "https://togetter.com/li/2736568",
     "pubDate": "2026-08-23T11:01:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "テスラ車のナンバープレートが封印ミスされた状態で納車されている？→どんなずさんな管理がされているんだ？という意見が集まる",
+    "link": "https://togetter.com/li/2736543",
+    "pubDate": "2026-08-23T09:57:52.000Z"
   },
   {
     "site": "Zenn",
@@ -25,21 +37,15 @@
   },
   {
     "site": "Hatena",
-    "title": "新卒採用、AI時代こそ体育会系　コンサルも注目する「対人能力」 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC195M10Z10C26A1000000/",
-    "pubDate": "2026-08-23T04:24:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
-    "link": "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
-    "pubDate": "2026-08-23T03:45:56.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Rustを超絶丁寧に教えてくれる君.md",
     "link": "https://gist.github.com/koutyuke/e2a68888bd9db30fa25c05f1bd030112",
     "pubDate": "2026-08-23T01:17:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「寝ホン」はなぜ人気？　Ankerとfinalが睡眠用イヤフォンに注力するワケ",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/23/news003.html",
+    "pubDate": "2026-08-22T23:00:26.000Z"
   },
   {
     "site": "Zenn",
@@ -58,12 +64,6 @@
     "title": "オーバーナイトプレミアムに関連した価格ドライバー特徴量の話",
     "link": "https://zenn.dev/gamella/articles/8e2f9873169db6",
     "pubDate": "Sat, 22 Aug 2026 11:39:58 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "個人的に感動した サクラエディタの機能2026822 ゆるweb",
-    "link": "https://speakerdeck.com/mikikosaka/kojinteki-ni-kandou-shita-sakura-edita-no-kinou-2026822-yuru-web",
-    "pubDate": "2026-08-22T10:50:09.000Z"
   },
   {
     "site": "Qiita",
@@ -90,10 +90,10 @@
     "pubDate": "Sat, 22 Aug 2026 05:43:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
-    "link": "https://finance.biggo.jp/news/a1cc91818da11d06",
-    "pubDate": "2026-08-21T22:01:30.000Z"
+    "site": "Zenn",
+    "title": "人月で稼ぐSIerは、あと数年で詰む",
+    "link": "https://zenn.dev/jnch/articles/18cf3f1893ee5b",
+    "pubDate": "2026-08-22T05:14:09.000Z"
   },
   {
     "site": "Qiita",
@@ -124,6 +124,12 @@
     "title": "「API連携で○百万円」と言われて、まず何を調べるべきだったのか調べてみた",
     "link": "https://qiita.com/songchong/items/b6ced9b1d05c0f797e76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-21T09:36:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "リポジトリにロジックは書くな！",
+    "link": "https://zenn.dev/more_tech_blog/articles/76af481ab3816d",
+    "pubDate": "Fri, 21 Aug 2026 09:30:55 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Claude Code を使いこなすためのコツ 10選",
     "link": "https://qiita.com/NekoByte/items/76ddb2e42beef1b7e49e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-20T12:53:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計",
-    "link": "https://zenn.dev/mkj/articles/aad5698672aef3",
-    "pubDate": "Thu, 20 Aug 2026 02:50:05 GMT"
   }
 ]
