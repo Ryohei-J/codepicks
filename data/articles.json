@@ -1,27 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "7月にオーストラリアで発生した大規模通信障害の仕組みが判明したが、ITエンジニアが怖くて泣いてしまう内容だった「時刻が正確に合わなかったのか…」",
+    "link": "https://togetter.com/li/2736568",
+    "pubDate": "2026-08-23T11:01:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "バックアップが「戻せる」かを 5 段階で測る",
+    "link": "https://zenn.dev/unchox/articles/backup-restorability-levels",
+    "pubDate": "2026-08-23T08:52:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Omarchy Quattro での日本語環境設定",
+    "link": "https://portablecode.info/2026/08/19/omarchy-quattro-jp-environment-setup/",
+    "pubDate": "2026-08-23T07:18:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "FreeToken の概要｜npaka",
+    "link": "https://note.com/npaka/n/n6064bfdb71ed",
+    "pubDate": "2026-08-23T06:39:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "新卒採用、AI時代こそ体育会系　コンサルも注目する「対人能力」 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC195M10Z10C26A1000000/",
+    "pubDate": "2026-08-23T04:24:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
+    "link": "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
+    "pubDate": "2026-08-23T03:45:56.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Rustを超絶丁寧に教えてくれる君.md",
     "link": "https://gist.github.com/koutyuke/e2a68888bd9db30fa25c05f1bd030112",
     "pubDate": "2026-08-23T01:17:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Pythonの実行はどこまで賢くなったのか？ CPythonとPyPyから見る最適化のしくみ",
-    "link": "https://speakerdeck.com/curekoshimizu/python-no-jikkou-ha-doko-made-kashikoku-nata-no-ka-cpython-to-pypy-kara-miru-saitekika-no-shikumi",
-    "pubDate": "2026-08-22T18:53:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Qwen3.8-27B におすすめのハーネス｜npaka",
-    "link": "https://note.com/npaka/n/nf7108e6bd18e",
-    "pubDate": "2026-08-22T16:49:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "8bit CPU 2026",
-    "link": "https://speakerdeck.com/koba789/8bit-cpu-2026",
-    "pubDate": "2026-08-22T16:02:17.000Z"
+    "site": "Zenn",
+    "title": "gRPC / Connect / HTTP/2 を完全に理解したい",
+    "link": "https://zenn.dev/loglass/articles/grpc-connect-http2-for-rest-devs",
+    "pubDate": "2026-08-22T16:41:59.000Z"
   },
   {
     "site": "Qiita",
@@ -42,10 +66,10 @@
     "pubDate": "2026-08-22T10:50:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜",
-    "link": "https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou",
-    "pubDate": "2026-08-22T09:37:03.000Z"
+    "site": "Qiita",
+    "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
+    "link": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-22T08:28:15.000Z"
   },
   {
     "site": "Zenn",
@@ -54,28 +78,16 @@
     "pubDate": "Sat, 22 Aug 2026 07:44:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2134782.html",
-    "pubDate": "2026-08-22T05:20:12.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "備忘録：Next.jsのServer ActionsをRSC・React 19から理解する。SSR・Hydration・再描画との関係を1本の流れに整理する",
-    "link": "https://qiita.com/nogataka/items/8e416beb71e43af91bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-22T03:52:09.000Z"
+    "title": "わかったようでわからない非同期処理の完全理解①",
+    "link": "https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-22T07:08:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【アゴラ】アゴラ編集部：中島聡氏がAIでもふ社長の記事を要約してnote投稿：「情報に著作権はない」と逆ギレ",
-    "link": "https://agora-web.jp/archives/260821194719.html",
-    "pubDate": "2026-08-22T01:42:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIスマートグラス｜目立たないディスプレイ搭載 RayNeo iO",
-    "link": "https://jp.rayneo.com/pages/rayneo-io-ai-glasses",
-    "pubDate": "2026-08-22T00:27:57.000Z"
+    "site": "Zenn",
+    "title": "Go 1.27のhttptest.NewTestServerをAPIクライアントのテストで使ってみて分かったこと",
+    "link": "https://zenn.dev/catatsuy/articles/8e8dbf6afd1196",
+    "pubDate": "Sat, 22 Aug 2026 05:43:56 GMT"
   },
   {
     "site": "Hatena",
@@ -109,6 +121,18 @@
   },
   {
     "site": "Qiita",
+    "title": "「API連携で○百万円」と言われて、まず何を調べるべきだったのか調べてみた",
+    "link": "https://qiita.com/songchong/items/b6ced9b1d05c0f797e76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-21T09:36:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
+    "link": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-21T09:04:05.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "SQL初心者向け~参画までに覚えたいSQL構文10選~",
     "link": "https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-21T08:58:32.000Z"
@@ -120,28 +144,10 @@
     "pubDate": "2026-08-21T07:48:56.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AIレビューがすり抜ける「なんか妥当じゃない」を、数えられる条件に翻訳した話",
-    "link": "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T04:32:10.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "claude のメモリを棚卸しする",
     "link": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
     "pubDate": "Fri, 21 Aug 2026 04:28:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "発信力の増幅機としてのLLM",
-    "link": "https://zenn.dev/watany/articles/8809b00df25dab",
-    "pubDate": "Fri, 21 Aug 2026 03:40:35 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "LambdaでAmazon Bedrockに任意のトークン上限を設定してみた【80%で通知・上限到達でリクエスト拒否】",
-    "link": "https://qiita.com/chaochire/items/80000bf7cf8bbe5b36ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T03:17:47.000Z"
   },
   {
     "site": "Qiita",
@@ -163,15 +169,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Code の出力を35%短くしたら、情報がむしろ増えた",
-    "link": "https://qiita.com/jqit_suwa/items/ccd228bb1c33b2a918f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-20T23:27:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "最近話題の「AI時代の開発者5つのアーキタイプ」について考える",
-    "link": "https://qiita.com/Toyo_m/items/ee1f9493d61f1c8c4743?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-20T09:32:54.000Z"
+    "title": "Claude Code を使いこなすためのコツ 10選",
+    "link": "https://qiita.com/NekoByte/items/76ddb2e42beef1b7e49e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-20T12:53:24.000Z"
   },
   {
     "site": "Zenn",
