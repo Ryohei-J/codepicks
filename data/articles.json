@@ -1,9 +1,45 @@
 [
   {
+    "site": "Qiita",
+    "title": "元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル",
+    "link": "https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T07:31:36.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": " 入社1ヶ月目、「全然役に立てていない」と焦るときに考えてほしいこと",
+    "link": "https://qiita.com/m__ikeda/items/caac6a305b6f190676da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T07:27:04.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新人エンジニア、「言いたいことがある」がいつも遅すぎる",
+    "link": "https://qiita.com/prumnn/items/15c75c024c4b38011afd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T07:25:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る",
+    "link": "https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T07:16:23.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "「AIイラストってすぐわかるよな（ドヤ）」みたいな人が多いが、このイラストはみんなAIだってわかる？→AIはもはや「AI感のないAIイラスト」まで生成できるという話",
-    "link": "https://togetter.com/li/2736830",
-    "pubDate": "2026-08-24T04:29:44.000Z"
+    "title": "「うるう秒」27年に事実上廃止へ　自転とのずれ「1時間」まで容認　10月に国際会議で採決",
+    "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
+    "pubDate": "2026-08-24T06:36:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "8GBのGPUで35Bモデルが高速動作！MoE特化の実行環境「FreeToken」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2134988.html",
+    "pubDate": "2026-08-24T05:21:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【全文無料公開】「できるChatGPT」や動画生成AIの入門書など30冊が全文無料公開、1週間限定／「世界一やさしいCanva」「できる はじめてのマインクラフト建築」なども【Book Watch/ニュース】",
+    "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2134897.html",
+    "pubDate": "2026-08-24T03:21:39.000Z"
   },
   {
     "site": "Hatena",
@@ -18,16 +54,28 @@
     "pubDate": "2026-08-24T03:05:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "AIでイベントカタログを279件自動生成し、成果物の検証を設計した話",
+    "link": "https://zenn.dev/tribeau/articles/d7cd180e53f719",
+    "pubDate": "Mon, 24 Aug 2026 02:50:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "デザイナーが作る仕様駆動型デザインシステム",
+    "link": "https://zenn.dev/katsumata/articles/014affaeb272d00aeae6",
+    "pubDate": "Mon, 24 Aug 2026 01:39:09 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する",
     "link": "https://news.denfaminicogamer.jp/news/260824f",
     "pubDate": "2026-08-24T01:20:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "会社の飲み会で行った店がスマホ注文するタイプだったが、電波がなく誰も注文できないので店員を呼んでドリンクを頼んでいたらキレ気味に「スマホ注文してください」と言われた",
-    "link": "https://togetter.com/li/2736773",
-    "pubDate": "2026-08-23T23:03:13.000Z"
+    "site": "Qiita",
+    "title": "Claude Codeのセッション間通信、Windowsでも動きます（v2.1.234から）",
+    "link": "https://qiita.com/jqit_suwa/items/137a2810fb3fa3f773e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T00:33:19.000Z"
   },
   {
     "site": "Hatena",
@@ -48,12 +96,6 @@
     "pubDate": "2026-08-23T13:52:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIに書かせたら、前より休めなくなった｜松浦勝人",
-    "link": "https://note.com/maxmatsuura/n/ne59969fd6e71",
-    "pubDate": "2026-08-23T12:43:56.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Ctrl+C でプログラムが止まる仕組みを調べた",
     "link": "https://zenn.dev/wakame_atsushi/articles/05a74885eb963d",
@@ -61,27 +103,9 @@
   },
   {
     "site": "Zenn",
-    "title": "NOCCA×NOCCAの完全解析を独立再現してみた",
-    "link": "https://zenn.dev/keison8864/articles/nocca-strongly-solving-reproduction",
-    "pubDate": "Sun, 23 Aug 2026 07:54:16 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Amplify x AgentCore】業務で“本当に”使えるAWS運用アシスタントを作ってみた",
-    "link": "https://qiita.com/jus1730/items/a4dc88817d1e97ac0bf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-23T04:16:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "初めてカンファレンス運営をやってみたぞい！ PyCon JP 2026",
-    "link": "https://zenn.dev/kannna5296/articles/2026-08-22-pyconjp2026-quick-report",
-    "pubDate": "Sun, 23 Aug 2026 04:12:30 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "360° 全天球画像を用いた 3D Gaussian Splatting 入門（360° Gaussian Pro 編）",
-    "link": "https://qiita.com/Tks_Yoshinaga/items/21997eab275b57539173?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-23T02:27:48.000Z"
+    "title": "Goのポインタに抵抗を感じていた理由",
+    "link": "https://zenn.dev/ncdc/articles/661804f1bb2f95",
+    "pubDate": "Sun, 23 Aug 2026 06:51:06 GMT"
   },
   {
     "site": "Zenn",
@@ -90,16 +114,16 @@
     "pubDate": "Sat, 22 Aug 2026 22:28:03 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "APIとは何か調べてみた｜REST・SOAP・JSON・XML・CRUD…用語を業務の言葉に置き換える",
+    "link": "https://qiita.com/songchong/items/4b1502b6bcc69c459baa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-22T13:49:37.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "オーバーナイトプレミアムに関連した価格ドライバー特徴量の話",
     "link": "https://zenn.dev/gamella/articles/8e2f9873169db6",
     "pubDate": "Sat, 22 Aug 2026 11:39:58 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った",
-    "link": "https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-22T09:52:19.000Z"
   },
   {
     "site": "Qiita",
@@ -144,34 +168,10 @@
     "pubDate": "Fri, 21 Aug 2026 13:52:58 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "或るログ研究者",
-    "link": "https://zenn.dev/dmikurube/articles/a-logresearch-er",
-    "pubDate": "Fri, 21 Aug 2026 10:04:23 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
-    "link": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T09:04:05.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "SQL初心者向け~参画までに覚えたいSQL構文10選~",
     "link": "https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-21T08:58:32.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "真似で伸びる人は、コードではなく判断基準を写し取っている",
-    "link": "https://qiita.com/sumomoo/items/eed2707e22d8ba940871?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T07:48:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIレビューがすり抜ける「なんか妥当じゃない」を、数えられる条件に翻訳した話",
-    "link": "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T04:32:10.000Z"
   },
   {
     "site": "Hatena",
