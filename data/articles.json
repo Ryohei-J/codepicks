@@ -1,6 +1,30 @@
 [
   {
     "site": "Hatena",
+    "title": "世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+    "link": "https://36kr.jp/500515/",
+    "pubDate": "2026-08-23T22:09:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260823de45895",
+    "pubDate": "2026-08-23T21:29:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【詳報】中国ロボットスポーツ大会2日目 技術進化アピール",
+    "link": "https://www.youtube.com/watch?v=E2empqOEkwk",
+    "pubDate": "2026-08-23T20:23:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Why TypeScript 7.0 Was Rewritten in Go (and what it means for your dev stack) | spf13",
+    "link": "https://spf13.com/p/go-the-agentic-language/",
+    "pubDate": "2026-08-23T18:14:08.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIに書かせたら、前より休めなくなった｜松浦勝人",
     "link": "https://note.com/maxmatsuura/n/ne59969fd6e71",
     "pubDate": "2026-08-23T12:43:56.000Z"
@@ -12,52 +36,46 @@
     "pubDate": "2026-08-23T11:01:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "テスラ車のナンバープレートが封印ミスされた状態で納車されている？→どんなずさんな管理がされているんだ？という意見が集まる",
-    "link": "https://togetter.com/li/2736543",
-    "pubDate": "2026-08-23T09:57:52.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "バックアップが「戻せる」かを 5 段階で測る",
-    "link": "https://zenn.dev/unchox/articles/backup-restorability-levels",
-    "pubDate": "2026-08-23T08:52:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Omarchy Quattro での日本語環境設定",
-    "link": "https://portablecode.info/2026/08/19/omarchy-quattro-jp-environment-setup/",
-    "pubDate": "2026-08-23T07:18:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "FreeToken の概要｜npaka",
-    "link": "https://note.com/npaka/n/n6064bfdb71ed",
-    "pubDate": "2026-08-23T06:39:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Rustを超絶丁寧に教えてくれる君.md",
-    "link": "https://gist.github.com/koutyuke/e2a68888bd9db30fa25c05f1bd030112",
-    "pubDate": "2026-08-23T01:17:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「寝ホン」はなぜ人気？　Ankerとfinalが睡眠用イヤフォンに注力するワケ",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/23/news003.html",
-    "pubDate": "2026-08-22T23:00:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "gRPC / Connect / HTTP/2 を完全に理解したい",
-    "link": "https://zenn.dev/loglass/articles/grpc-connect-http2-for-rest-devs",
-    "pubDate": "2026-08-22T16:41:59.000Z"
+    "title": "AIエージェントにAPIキーを渡さない — trustlessを作った理由",
+    "link": "https://zenn.dev/neomaru/articles/trustless-why-no-secrets-for-agents",
+    "pubDate": "2026-08-23T08:56:21.000Z"
   },
   {
     "site": "Qiita",
-    "title": "『人手不足だから外国人』の前に考えたいこと ― 雇用・失業・言語教育・2世3世の設計 : システム設計視点の行動経済学 (20)",
-    "link": "https://qiita.com/maskot1977/items/33a704b63a84124fec4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-22T15:27:09.000Z"
+    "title": "【Amplify x AgentCore】業務で“本当に”使えるAWS運用アシスタントを作ってみた",
+    "link": "https://qiita.com/jus1730/items/a4dc88817d1e97ac0bf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-23T04:16:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "初めてカンファレンス運営をやってみたぞい！ PyCon JP 2026",
+    "link": "https://zenn.dev/kannna5296/articles/2026-08-22-pyconjp2026-quick-report",
+    "pubDate": "Sun, 23 Aug 2026 04:12:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "C#において、例外を使うべきか戻り値にすべきか、迷わなくなる基準",
+    "link": "https://zenn.dev/biwacoder/articles/fbbf12f755f5d8",
+    "pubDate": "Sun, 23 Aug 2026 04:02:52 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "360° 全天球画像を用いた 3D Gaussian Splatting 入門（360° Gaussian Pro 編）",
+    "link": "https://qiita.com/Tks_Yoshinaga/items/21997eab275b57539173?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-23T02:27:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Tesla歴5年の筆者がみなさんの疑問に答えます",
+    "link": "https://www.itmedia.co.jp/news/article/2608/22/2000000678/",
+    "pubDate": "2026-08-22T23:01:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "家族で使うAIエージェントのDiscord運用",
+    "link": "https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord",
+    "pubDate": "Sat, 22 Aug 2026 22:28:03 GMT"
   },
   {
     "site": "Zenn",
@@ -67,9 +85,21 @@
   },
   {
     "site": "Qiita",
+    "title": "Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った",
+    "link": "https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-22T09:52:19.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
     "link": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-22T08:28:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code のデスクトップ操作、内蔵の computer-use ではなく Windows-MCP を使っている理由",
+    "link": "https://zenn.dev/marvelousu/articles/windows-mcp-vs-computer-use",
+    "pubDate": "Sat, 22 Aug 2026 08:27:40 GMT"
   },
   {
     "site": "Zenn",
@@ -121,18 +151,6 @@
   },
   {
     "site": "Qiita",
-    "title": "「API連携で○百万円」と言われて、まず何を調べるべきだったのか調べてみた",
-    "link": "https://qiita.com/songchong/items/b6ced9b1d05c0f797e76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T09:36:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "リポジトリにロジックは書くな！",
-    "link": "https://zenn.dev/more_tech_blog/articles/76af481ab3816d",
-    "pubDate": "Fri, 21 Aug 2026 09:30:55 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
     "link": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-21T09:04:05.000Z"
@@ -150,33 +168,15 @@
     "pubDate": "2026-08-21T07:48:56.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "claude のメモリを棚卸しする",
-    "link": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
-    "pubDate": "Fri, 21 Aug 2026 04:28:26 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "１年目に工数見積もりで失敗したときの話",
-    "link": "https://qiita.com/skadowaki-gxp/items/c895155c8f63b3f574ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T02:15:40.000Z"
+    "title": "AIレビューがすり抜ける「なんか妥当じゃない」を、数えられる条件に翻訳した話",
+    "link": "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-21T04:32:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "最近のIntel CPUは複数の連続する即値加減算命令をフュージョンする",
-    "link": "https://zenn.dev/herumi/articles/add-imm-fusion",
-    "pubDate": "Fri, 21 Aug 2026 02:06:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeScript が JavaScript になるまで",
-    "link": "https://zenn.dev/onclimb/articles/ts-to-js-pipeline-onclimb",
-    "pubDate": "Fri, 21 Aug 2026 00:30:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code を使いこなすためのコツ 10選",
-    "link": "https://qiita.com/NekoByte/items/76ddb2e42beef1b7e49e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-20T12:53:24.000Z"
+    "site": "Hatena",
+    "title": "AIが書いたものをコピペしないでください。",
+    "link": "https://dontpastetheai.com/ja.html",
+    "pubDate": "2026-08-19T00:41:08.000Z"
   }
 ]
