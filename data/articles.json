@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "「マイナアプリ」とはなにか　マイナポータル＋デジタル認証の進化とこれから",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2134821.html",
+    "pubDate": "2026-08-25T02:41:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "三重県庁、私物USBメモリ全廃　全体の3割・3789個が私物だった",
+    "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000737/",
+    "pubDate": "2026-08-25T02:22:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/cc-plugin-marketplace",
+    "pubDate": "2026-08-25T02:02:32.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI×開発組織Summit 2026｜2026年10月16日(金) 汐留開催",
     "link": "https://ai-dev-org-summit.findy-tools.io/2026",
     "pubDate": "2026-08-25T01:07:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "最近見てる技術コミュニティについて",
+    "link": "https://comamoca.dev/blog/2026-08-24-tech-communities-im-following-recently/",
+    "pubDate": "2026-08-25T00:54:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "RustでのAI駆動Webアプリケーション開発 - Hello Tech",
+    "link": "https://tech.hello.ai/entry/2026/08/24/230852",
+    "pubDate": "2026-08-25T00:34:19.000Z"
   },
   {
     "site": "Hatena",
@@ -12,28 +42,28 @@
     "pubDate": "2026-08-25T00:12:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ",
-    "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas",
-    "pubDate": "2026-08-24T23:33:51.000Z"
+    "site": "Zenn",
+    "title": "TanStack Start + Hono + oRPC + Cloudflare Workersで社内ERPを作った設計と学び",
+    "link": "https://zenn.dev/yosashusaku/articles/enterprise-erp-tanstack-hono-orpc",
+    "pubDate": "Tue, 25 Aug 2026 00:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Bitgetの異常価格で1800万損したが、fableと共闘して取り戻せた話",
+    "link": "https://zenn.dev/kobao/articles/0638f3976c6ef8",
+    "pubDate": "Mon, 24 Aug 2026 23:42:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "エージェントのためのUIコンポーネントライブラリを作った",
+    "link": "https://zenn.dev/demia/articles/6c1291f0dae964",
+    "pubDate": "Mon, 24 Aug 2026 12:44:40 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Omarchy Linuxを支援する非営利団体Omacom Foundation設立にジャック・ドーシーらIT業界重鎮から10億円超の寄付が集まる",
-    "link": "https://gigazine.net/news/20260825-omacom-foundation/",
-    "pubDate": "2026-08-24T22:09:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "優秀なエンジニアが書くDesign Docは何が違うのか? - pospomeのプログラミング日記",
-    "link": "https://www.pospome.work/entry/2026/08/24/223309",
-    "pubDate": "2026-08-24T14:11:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供",
-    "link": "https://gigazine.net/news/20260824-ox-alpha/",
-    "pubDate": "2026-08-24T13:32:26.000Z"
+    "title": "「まるで奇行種」――とある人型ロボの爆走フォームが話題に　中国のロボット運動会400m走で優勝",
+    "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/",
+    "pubDate": "2026-08-24T12:37:02.000Z"
   },
   {
     "site": "Zenn",
@@ -42,10 +72,10 @@
     "pubDate": "Mon, 24 Aug 2026 12:23:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "The modern Protobuf workflow · Buf",
-    "link": "https://buf.build/blog/the-modern-protobuf-workflow",
-    "pubDate": "2026-08-24T11:02:49.000Z"
+    "site": "Zenn",
+    "title": "AIの「中の人」になってみる",
+    "link": "https://zenn.dev/poipoionigiri/articles/7aba96291e6cf6",
+    "pubDate": "Mon, 24 Aug 2026 11:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -96,10 +126,22 @@
     "pubDate": "Mon, 24 Aug 2026 07:06:24 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "具体と抽象と労働需要変化について",
+    "link": "https://zenn.dev/am_yamauchi/articles/fc68efcca177a1",
+    "pubDate": "Mon, 24 Aug 2026 06:45:38 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応",
     "link": "https://www.watch.impress.co.jp/docs/news/2134964.html",
     "pubDate": "2026-08-24T06:28:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ライブラリーを使わずに Next.js App Router で多言語対応する",
+    "link": "https://zenn.dev/romanark/articles/arkor-nextjs-i18n",
+    "pubDate": "Mon, 24 Aug 2026 04:49:46 GMT"
   },
   {
     "site": "Hatena",
@@ -108,46 +150,10 @@
     "pubDate": "2026-08-24T03:17:16.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "MITRE ATT&CK の7つの戦術からみた AWS のセキュリティに関するイベント",
-    "link": "https://zenn.dev/cscloud_blog/articles/b42eeb86af4d06",
-    "pubDate": "Mon, 24 Aug 2026 02:56:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIでイベントカタログを279件自動生成し、成果物の検証を設計した話",
-    "link": "https://zenn.dev/tribeau/articles/d7cd180e53f719",
-    "pubDate": "Mon, 24 Aug 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "デザイナーが作る仕様駆動型デザインシステム",
-    "link": "https://zenn.dev/katsumata/articles/014affaeb272d00aeae6",
-    "pubDate": "Mon, 24 Aug 2026 01:39:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "お前のループエンジニアリングは間違っている",
-    "link": "https://zenn.dev/t_hayashi/articles/20ec8fbebbeabb",
-    "pubDate": "Mon, 24 Aug 2026 00:53:59 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Codeのセッション間通信、Windowsでも動きます（v2.1.234から）",
     "link": "https://qiita.com/jqit_suwa/items/137a2810fb3fa3f773e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-24T00:33:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Ctrl+C でプログラムが止まる仕組みを調べた",
-    "link": "https://zenn.dev/wakame_atsushi/articles/05a74885eb963d",
-    "pubDate": "Sun, 23 Aug 2026 12:34:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Goのポインタに抵抗を感じていた理由",
-    "link": "https://zenn.dev/ncdc/articles/661804f1bb2f95",
-    "pubDate": "Sun, 23 Aug 2026 06:51:06 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "わかったようでわからない非同期処理の完全理解①",
     "link": "https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-22T07:08:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - asciimoo/hister: Your own search engine",
-    "link": "https://github.com/asciimoo/hister",
-    "pubDate": "2026-06-28T06:17:21.000Z"
   }
 ]
