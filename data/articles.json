@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能",
-    "link": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
-    "pubDate": "2026-08-24T14:16:04.000Z"
+    "title": "AI×開発組織Summit 2026｜2026年10月16日(金) 汐留開催",
+    "link": "https://ai-dev-org-summit.findy-tools.io/2026",
+    "pubDate": "2026-08-25T01:07:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "新「マイナアプリ」きょうスタート　「デジタル認証アプリ」統合、水色→ピンクに",
+    "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000732/",
+    "pubDate": "2026-08-25T00:12:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ",
+    "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas",
+    "pubDate": "2026-08-24T23:33:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Omarchy Linuxを支援する非営利団体Omacom Foundation設立にジャック・ドーシーらIT業界重鎮から10億円超の寄付が集まる",
+    "link": "https://gigazine.net/news/20260825-omacom-foundation/",
+    "pubDate": "2026-08-24T22:09:49.000Z"
   },
   {
     "site": "Hatena",
@@ -13,9 +31,33 @@
   },
   {
     "site": "Hatena",
-    "title": "お前らが毎日必ず見るサイトってなに？",
-    "link": "https://anond.hatelabo.jp/20260824185046",
-    "pubDate": "2026-08-24T09:51:19.000Z"
+    "title": "謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供",
+    "link": "https://gigazine.net/news/20260824-ox-alpha/",
+    "pubDate": "2026-08-24T13:32:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "最近育てているフロントエンド開発用テンプレートの話",
+    "link": "https://zenn.dev/newt_st21/articles/next-template-2026",
+    "pubDate": "Mon, 24 Aug 2026 12:23:26 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "The modern Protobuf workflow · Buf",
+    "link": "https://buf.build/blog/the-modern-protobuf-workflow",
+    "pubDate": "2026-08-24T11:02:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Designを使ったポスター制作について",
+    "link": "https://zenn.dev/kaiyo/articles/65f98a5abadac5",
+    "pubDate": "Mon, 24 Aug 2026 10:25:38 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "anthropic SDK が httpx をやめました。移行しても動くので気づけません",
+    "link": "https://qiita.com/jqit_suwa/items/5edf6037203a15c3fdfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T08:30:42.000Z"
   },
   {
     "site": "Qiita",
@@ -36,16 +78,22 @@
     "pubDate": "2026-08-24T07:25:45.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "動かして理解するOpenTelemetry",
+    "link": "https://zenn.dev/simplex/articles/c24bd2788f5831",
+    "pubDate": "Mon, 24 Aug 2026 07:18:58 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る",
     "link": "https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-24T07:16:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「うるう秒」27年に事実上廃止へ　自転とのずれ「1時間」まで容認　10月に国際会議で採決",
-    "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
-    "pubDate": "2026-08-24T06:36:56.000Z"
+    "site": "Zenn",
+    "title": "あなたのHTML資料には、魂が込められていますか？",
+    "link": "https://zenn.dev/tokium_dev/articles/html-shiryo-ni-tamashii",
+    "pubDate": "Mon, 24 Aug 2026 07:06:24 GMT"
   },
   {
     "site": "Hatena",
@@ -55,15 +103,15 @@
   },
   {
     "site": "Hatena",
-    "title": "【全文無料公開】「できるChatGPT」や動画生成AIの入門書など30冊が全文無料公開、1週間限定／「世界一やさしいCanva」「できる はじめてのマインクラフト建築」なども【Book Watch/ニュース】",
-    "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2134897.html",
-    "pubDate": "2026-08-24T03:21:39.000Z"
+    "title": "「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった (1/5)",
+    "link": "https://ascii.jp/elem/000/004/428/4428658/",
+    "pubDate": "2026-08-24T03:17:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "LinuxのLinus Torvalds、AIが3度「解決不能」と諦めるたびに押し返し1行のバグを修正——24パッチ・18回再起動の全記録",
-    "link": "https://techfeed.io/entries/6a8b65fa877bc8b0b7d64da3",
-    "pubDate": "2026-08-24T03:05:19.000Z"
+    "site": "Zenn",
+    "title": "MITRE ATT&CK の7つの戦術からみた AWS のセキュリティに関するイベント",
+    "link": "https://zenn.dev/cscloud_blog/articles/b42eeb86af4d06",
+    "pubDate": "Mon, 24 Aug 2026 02:56:08 GMT"
   },
   {
     "site": "Zenn",
@@ -78,28 +126,16 @@
     "pubDate": "Mon, 24 Aug 2026 01:39:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する",
-    "link": "https://news.denfaminicogamer.jp/news/260824f",
-    "pubDate": "2026-08-24T01:20:59.000Z"
+    "site": "Zenn",
+    "title": "お前のループエンジニアリングは間違っている",
+    "link": "https://zenn.dev/t_hayashi/articles/20ec8fbebbeabb",
+    "pubDate": "Mon, 24 Aug 2026 00:53:59 GMT"
   },
   {
     "site": "Qiita",
     "title": "Claude Codeのセッション間通信、Windowsでも動きます（v2.1.234から）",
     "link": "https://qiita.com/jqit_suwa/items/137a2810fb3fa3f773e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-24T00:33:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "税理士事務所に1ヶ月住み込んで、会計AIを作ってきた話｜佐次本脩真 | Zeimee",
-    "link": "https://note.com/shuma_sajimoto/n/n3824385dbdf2",
-    "pubDate": "2026-08-23T22:49:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ",
-    "link": "https://note.com/u5u/n/nd24ab042eac8",
-    "pubDate": "2026-08-23T13:52:08.000Z"
   },
   {
     "site": "Zenn",
@@ -114,22 +150,16 @@
     "pubDate": "Sun, 23 Aug 2026 06:51:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "家族で使うAIエージェントのDiscord運用",
-    "link": "https://zenn.dev/kimushun1101/articles/family-ai-agents-on-discord",
-    "pubDate": "Sat, 22 Aug 2026 22:28:03 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "APIとは何か調べてみた｜REST・SOAP・JSON・XML・CRUD…用語を業務の言葉に置き換える",
     "link": "https://qiita.com/songchong/items/4b1502b6bcc69c459baa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-22T13:49:37.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "オーバーナイトプレミアムに関連した価格ドライバー特徴量の話",
-    "link": "https://zenn.dev/gamella/articles/8e2f9873169db6",
-    "pubDate": "Sat, 22 Aug 2026 11:39:58 GMT"
+    "site": "Qiita",
+    "title": "Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った",
+    "link": "https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-22T09:52:19.000Z"
   },
   {
     "site": "Qiita",
@@ -138,45 +168,15 @@
     "pubDate": "2026-08-22T08:28:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Code のデスクトップ操作、内蔵の computer-use ではなく Windows-MCP を使っている理由",
-    "link": "https://zenn.dev/marvelousu/articles/windows-mcp-vs-computer-use",
-    "pubDate": "Sat, 22 Aug 2026 08:27:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RTX 5090でFreeTokenを試してみた。35Bでは不要、120B級MoEでは話が変わる",
-    "link": "https://zenn.dev/holy_fox/articles/53b82eed45f956",
-    "pubDate": "Sat, 22 Aug 2026 07:44:27 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "わかったようでわからない非同期処理の完全理解①",
     "link": "https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-22T07:08:53.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Go 1.27のhttptest.NewTestServerをAPIクライアントのテストで使ってみて分かったこと",
-    "link": "https://zenn.dev/catatsuy/articles/8e8dbf6afd1196",
-    "pubDate": "Sat, 22 Aug 2026 05:43:56 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIコーディングの精度を劇的に向上させる Context7 MCP Server 完全ガイド",
-    "link": "https://qiita.com/tomada/items/42537e0b14b38797d218?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T13:56:10.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "React 19.3 browser() APIの使いみち～FUNSTACK Routerの場合～",
-    "link": "https://zenn.dev/uhyo/articles/react-use-browser-usage",
-    "pubDate": "Fri, 21 Aug 2026 13:52:58 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "SQL初心者向け~参画までに覚えたいSQL構文10選~",
-    "link": "https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-21T08:58:32.000Z"
+    "site": "Hatena",
+    "title": "GitHub - asciimoo/hister: Your own search engine",
+    "link": "https://github.com/asciimoo/hister",
+    "pubDate": "2026-06-28T06:17:21.000Z"
   }
 ]
