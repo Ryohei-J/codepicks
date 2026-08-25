@@ -1,39 +1,69 @@
 [
   {
     "site": "Hatena",
-    "title": "「マイナアプリ」とはなにか　マイナポータル＋デジタル認証の進化とこれから",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2134821.html",
-    "pubDate": "2026-08-25T02:41:05.000Z"
+    "title": "「まるでキャバクラ」――「ライザのアトリエ」主人公と話せるAIアプリに「課金圧強すぎ」の声　「10日に会話15回」で月額980円",
+    "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000774/",
+    "pubDate": "2026-08-25T11:27:47.000Z"
   },
   {
     "site": "Hatena",
-    "title": "三重県庁、私物USBメモリ全廃　全体の3割・3789個が私物だった",
-    "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000737/",
-    "pubDate": "2026-08-25T02:22:07.000Z"
+    "title": "東京23区で「徒歩10分以内」に駅がない地域はどこ？　駅空白地帯マップが話題",
+    "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000759/",
+    "pubDate": "2026-08-25T09:59:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
+    "link": "https://zenn.dev/layerx/articles/e01465a15e79c2",
+    "pubDate": "2026-08-25T09:37:21.000Z"
   },
   {
     "site": "Hatena",
-    "title": "複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG",
-    "link": "https://techblog.zozo.com/entry/cc-plugin-marketplace",
-    "pubDate": "2026-08-25T02:02:32.000Z"
+    "title": "新API「HTML-in-Canvas」を紹介 - CanvasにHTMLを描くAPIは何を解決するのか？ - ICS MEDIA",
+    "link": "https://ics.media/entry/260825/",
+    "pubDate": "2026-08-25T09:34:12.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AI×開発組織Summit 2026｜2026年10月16日(金) 汐留開催",
-    "link": "https://ai-dev-org-summit.findy-tools.io/2026",
-    "pubDate": "2026-08-25T01:07:04.000Z"
+    "title": "povo、「5G SA(スタンドアローン)」サービスを提供開始",
+    "link": "https://povo.jp/news/newsrelease/20260825_01/",
+    "pubDate": "2026-08-25T05:55:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
+    "link": "https://zenn.dev/layerx/articles/e01465a15e79c2",
+    "pubDate": "Tue, 25 Aug 2026 05:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "新「マイナアプリ」登場、旧「マイナポータルアプリ」との違いは　一通り触ってみた",
+    "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000742/",
+    "pubDate": "2026-08-25T04:56:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIにテストを書かせると、決まって同じ場所が抜ける",
+    "link": "https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-25T02:15:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "状態空間モデルにおけるFilteringとSmoothingの違いを理解する",
+    "link": "https://zenn.dev/ca_kagglers/articles/ssm-filtering-smoothing",
+    "pubDate": "Tue, 25 Aug 2026 02:04:16 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "オンコール手当の相場を50社分調べて、1社も見つからなかった話",
+    "link": "https://zenn.dev/cscloud_blog/articles/e0ea529d061906",
+    "pubDate": "Tue, 25 Aug 2026 01:27:28 GMT"
   },
   {
     "site": "Hatena",
     "title": "最近見てる技術コミュニティについて",
     "link": "https://comamoca.dev/blog/2026-08-24-tech-communities-im-following-recently/",
     "pubDate": "2026-08-25T00:54:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "RustでのAI駆動Webアプリケーション開発 - Hello Tech",
-    "link": "https://tech.hello.ai/entry/2026/08/24/230852",
-    "pubDate": "2026-08-25T00:34:19.000Z"
   },
   {
     "site": "Hatena",
@@ -48,10 +78,22 @@
     "pubDate": "Tue, 25 Aug 2026 00:00:05 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "/model を1度でも押すと ANTHROPIC_DEFAULT_MODEL は効きません",
+    "link": "https://qiita.com/jqit_suwa/items/7ecdfc6067e09aed00a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T23:59:39.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Bitgetの異常価格で1800万損したが、fableと共闘して取り戻せた話",
     "link": "https://zenn.dev/kobao/articles/0638f3976c6ef8",
     "pubDate": "Mon, 24 Aug 2026 23:42:53 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ターミナルを閉じてもClaude Codeが動き続ける理由、supervisorデーモンとAgent viewについて",
+    "link": "https://zenn.dev/uehaj/articles/claude-code-supervisor-agent-view",
+    "pubDate": "Mon, 24 Aug 2026 13:09:36 GMT"
   },
   {
     "site": "Zenn",
@@ -73,15 +115,15 @@
   },
   {
     "site": "Zenn",
-    "title": "AIの「中の人」になってみる",
-    "link": "https://zenn.dev/poipoionigiri/articles/7aba96291e6cf6",
-    "pubDate": "Mon, 24 Aug 2026 11:00:05 GMT"
+    "title": "GASからGoogle Cloudへ移行してみよう：Slackデータの定期取得を例に学ぶ",
+    "link": "https://zenn.dev/a03/articles/4714ea330d6791",
+    "pubDate": "Mon, 24 Aug 2026 11:42:12 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Claude Designを使ったポスター制作について",
-    "link": "https://zenn.dev/kaiyo/articles/65f98a5abadac5",
-    "pubDate": "Mon, 24 Aug 2026 10:25:38 GMT"
+    "title": "semantic-routerとQdrantで、LLMを呼ばずに問い合わせを振り分けてみた",
+    "link": "https://zenn.dev/shogo_h/articles/qdrant-semantic-router",
+    "pubDate": "Mon, 24 Aug 2026 11:11:51 GMT"
   },
   {
     "site": "Qiita",
@@ -108,40 +150,10 @@
     "pubDate": "2026-08-24T07:25:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "動かして理解するOpenTelemetry",
-    "link": "https://zenn.dev/simplex/articles/c24bd2788f5831",
-    "pubDate": "Mon, 24 Aug 2026 07:18:58 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る",
     "link": "https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-24T07:16:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "あなたのHTML資料には、魂が込められていますか？",
-    "link": "https://zenn.dev/tokium_dev/articles/html-shiryo-ni-tamashii",
-    "pubDate": "Mon, 24 Aug 2026 07:06:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "具体と抽象と労働需要変化について",
-    "link": "https://zenn.dev/am_yamauchi/articles/fc68efcca177a1",
-    "pubDate": "Mon, 24 Aug 2026 06:45:38 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応",
-    "link": "https://www.watch.impress.co.jp/docs/news/2134964.html",
-    "pubDate": "2026-08-24T06:28:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ライブラリーを使わずに Next.js App Router で多言語対応する",
-    "link": "https://zenn.dev/romanark/articles/arkor-nextjs-i18n",
-    "pubDate": "Mon, 24 Aug 2026 04:49:46 GMT"
   },
   {
     "site": "Hatena",
@@ -151,15 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Codeのセッション間通信、Windowsでも動きます（v2.1.234から）",
-    "link": "https://qiita.com/jqit_suwa/items/137a2810fb3fa3f773e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-24T00:33:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "APIとは何か調べてみた｜REST・SOAP・JSON・XML・CRUD…用語を業務の言葉に置き換える",
-    "link": "https://qiita.com/songchong/items/4b1502b6bcc69c459baa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-22T13:49:37.000Z"
+    "title": "【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）",
+    "link": "https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-23T17:34:14.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
     "link": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-22T08:28:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "わかったようでわからない非同期処理の完全理解①",
-    "link": "https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-22T07:08:53.000Z"
   }
 ]
