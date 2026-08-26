@@ -1,45 +1,39 @@
 [
   {
     "site": "Hatena",
+    "title": "Apple新チップ2種を発表。M6は2nm、M5 Ultraは36コアCPU/80コアGPU",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2135545.html",
+    "pubDate": "2026-08-25T17:11:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アップルが新型Macを発表、M6/M5 Proの「Mac mini」とM5 Max/M5 Ultraの「Mac Studio」",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2135546.html",
+    "pubDate": "2026-08-25T17:07:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "WindowsのペイントやMicrosoftフォトのAI生成画像に電子透かしが埋め込まれていることが判明",
+    "link": "https://gigazine.net/news/20260825-microsoft-embed-invisible-watermarks/",
+    "pubDate": "2026-08-25T15:24:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
+    "link": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "pubDate": "2026-08-25T14:42:35.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Apple、新しいM6とM5 Proを搭載し、さらにパワフルになったMac miniを発表",
     "link": "https://www.apple.com/jp/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
     "pubDate": "2026-08-25T14:42:13.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Anthropicの最上位AIモデル「Claude Fable 5」は企業需要が伸びず苦戦、AI企業のビジネスモデルが覆される可能性も",
-    "link": "https://gigazine.net/news/20260825-anthropic-best-ai-model-struggles/",
-    "pubDate": "2026-08-25T13:07:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「まるでキャバクラ」――「ライザのアトリエ」主人公と話せるAIアプリに「課金圧強すぎ」の声　「10日に会話15回」で月額980円",
-    "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000774/",
-    "pubDate": "2026-08-25T11:27:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "敵対的検証をLLMコードレビューで試すと何が起きるのか",
-    "link": "https://zenn.dev/knowledgesense/articles/0cb441713c9fee",
-    "pubDate": "2026-08-25T11:02:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東京23区で「徒歩10分以内」に駅がない地域はどこ？　駅空白地帯マップが話題",
-    "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000759/",
-    "pubDate": "2026-08-25T09:59:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
-    "link": "https://zenn.dev/layerx/articles/e01465a15e79c2",
-    "pubDate": "2026-08-25T09:37:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "新API「HTML-in-Canvas」を紹介 - CanvasにHTMLを描くAPIは何を解決するのか？ - ICS MEDIA",
-    "link": "https://ics.media/entry/260825/",
-    "pubDate": "2026-08-25T09:34:12.000Z"
+    "title": "モス、冷凍食品新ブランド「MOS Deli」　スーパーで“焼きおにバーガー”",
+    "link": "https://www.watch.impress.co.jp/docs/news/2135447.html",
+    "pubDate": "2026-08-25T09:57:13.000Z"
   },
   {
     "site": "Hatena",
@@ -48,22 +42,58 @@
     "pubDate": "2026-08-25T09:13:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "povo、高速な「5G SA」対応へ SIMは交換",
-    "link": "https://www.watch.impress.co.jp/docs/news/2135339.html",
-    "pubDate": "2026-08-25T08:29:49.000Z"
+    "site": "Qiita",
+    "title": "プロも毎日ググっている。エラーで固まらないための「検索力」の話",
+    "link": "https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-25T08:08:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "povo、「5G SA(スタンドアローン)」サービスを提供開始",
-    "link": "https://povo.jp/news/newsrelease/20260825_01/",
-    "pubDate": "2026-08-25T05:55:57.000Z"
+    "site": "Qiita",
+    "title": "文系上司が知りたいのは「仕組み」ではなく、「どう影響するか」のことが多い",
+    "link": "https://qiita.com/sumomoo/items/4912f4efa2e2a5cd49d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-25T08:06:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "新人エンジニア、先輩ごとに言う内容が違って「何が正解かわからない」",
+    "link": "https://qiita.com/prumnn/items/001b49e080f580aea96b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-25T08:04:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "※この記事は人の手で書かれています - Qiita",
+    "link": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449",
+    "pubDate": "2026-08-25T05:37:16.000Z"
   },
   {
     "site": "Zenn",
     "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
     "link": "https://zenn.dev/layerx/articles/e01465a15e79c2",
     "pubDate": "Tue, 25 Aug 2026 05:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Ansible✕Cisco】ネットワーク自動化に入門してみた",
+    "link": "https://zenn.dev/bababa/articles/60fc1ae03317ac",
+    "pubDate": "Tue, 25 Aug 2026 04:30:15 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "エントロピーの形",
+    "link": "https://zenn.dev/phykm/articles/ef569369159f47",
+    "pubDate": "Tue, 25 Aug 2026 03:50:54 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエージェントが24時間体制で本番障害の一次調査を自動化、人間の役割は「判断」のみに",
+    "link": "https://gigazine.net/news/20260825-trust-agent-triage/",
+    "pubDate": "2026-08-25T03:29:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "BrunoでAPIテストを自動化してみよう― Postmanのコレクションをそのままgit管理し、Cursor(AIエージェント)のターミナルでCIまで回す",
+    "link": "https://qiita.com/sewiihidekikudo/items/1c835d5d1f0a8b3dbf65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-25T02:54:58.000Z"
   },
   {
     "site": "Qiita",
@@ -85,6 +115,12 @@
   },
   {
     "site": "Zenn",
+    "title": "敵対的検証をLLMコードレビューで試すと何が起きるのか",
+    "link": "https://zenn.dev/knowledgesense/articles/0cb441713c9fee",
+    "pubDate": "Tue, 25 Aug 2026 01:13:08 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "TanStack Start + Hono + oRPC + Cloudflare Workersで社内ERPを作った設計と学び",
     "link": "https://zenn.dev/yosashusaku/articles/enterprise-erp-tanstack-hono-orpc",
     "pubDate": "Tue, 25 Aug 2026 00:00:05 GMT"
@@ -103,39 +139,21 @@
   },
   {
     "site": "Zenn",
-    "title": "ターミナルを閉じてもClaude Codeが動き続ける理由、supervisorデーモンとAgent viewについて",
-    "link": "https://zenn.dev/uehaj/articles/claude-code-supervisor-agent-view",
-    "pubDate": "Mon, 24 Aug 2026 13:09:36 GMT"
+    "title": "kqueueを使ったwebサーバーを作ってみる",
+    "link": "https://zenn.dev/chikina/articles/cad667e78ad5d7",
+    "pubDate": "Mon, 24 Aug 2026 22:37:37 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "エージェントのためのUIコンポーネントライブラリを作った",
-    "link": "https://zenn.dev/demia/articles/6c1291f0dae964",
-    "pubDate": "Mon, 24 Aug 2026 12:44:40 GMT"
+    "site": "Qiita",
+    "title": "Oracle AI Database Private Agent Factory 26.4 を 26.7 へ Upgrade してみてみた",
+    "link": "https://qiita.com/shirok/items/de8732a3d1ebc441af10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T21:20:13.000Z"
   },
   {
     "site": "Zenn",
     "title": "最近育てているフロントエンド開発用テンプレートの話",
     "link": "https://zenn.dev/newt_st21/articles/next-template-2026",
     "pubDate": "Mon, 24 Aug 2026 12:23:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GASからGoogle Cloudへ移行してみよう：Slackデータの定期取得を例に学ぶ",
-    "link": "https://zenn.dev/a03/articles/4714ea330d6791",
-    "pubDate": "Mon, 24 Aug 2026 11:42:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "semantic-routerとQdrantで、LLMを呼ばずに問い合わせを振り分けてみた",
-    "link": "https://zenn.dev/shogo_h/articles/qdrant-semantic-router",
-    "pubDate": "Mon, 24 Aug 2026 11:11:51 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "anthropic SDK が httpx をやめました。移行しても動くので気づけません",
-    "link": "https://qiita.com/jqit_suwa/items/5edf6037203a15c3fdfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-24T08:30:42.000Z"
   },
   {
     "site": "Qiita",
@@ -145,21 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": " 入社1ヶ月目、「全然役に立てていない」と焦るときに考えてほしいこと",
-    "link": "https://qiita.com/m__ikeda/items/caac6a305b6f190676da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-24T07:27:04.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人エンジニア、「言いたいことがある」がいつも遅すぎる",
-    "link": "https://qiita.com/prumnn/items/15c75c024c4b38011afd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-24T07:25:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「これで進めますね」と自分から言ってしまうと、後で仕様がひっくり返る",
-    "link": "https://qiita.com/sumomoo/items/e5065bd0e6daaf38ac62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-24T07:16:23.000Z"
+    "title": "※この記事は人の手で書かれています",
+    "link": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-24T03:14:53.000Z"
   },
   {
     "site": "Qiita",
@@ -168,15 +174,9 @@
     "pubDate": "2026-08-23T17:34:14.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った",
-    "link": "https://qiita.com/magicant/items/0f93dd0b38fda076174f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-22T09:52:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発をiOSアプリで半年やって「勝てない」と悟った話",
-    "link": "https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-22T08:28:15.000Z"
+    "site": "Hatena",
+    "title": "テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20260819a/",
+    "pubDate": "2026-08-21T17:16:50.000Z"
   }
 ]
