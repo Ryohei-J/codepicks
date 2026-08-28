@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "OKFやDiátaxisを活用してDevinによるお問い合わせ対応をしている話 - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2026/08/27/100000",
+    "pubDate": "2026-08-28T15:52:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Testcontainersで実DBを使う並列テスト基盤を設計する - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2026/08/28/160000",
+    "pubDate": "2026-08-28T12:53:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "高市総理、AI家庭教師で「物価高対策シミュレーター」を作る 「こういうのが欲しかった」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2136675.html",
+    "pubDate": "2026-08-28T11:08:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "高市首相 みらい 安野党首を「家庭教師」に AIでアプリ作成 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260828de47070",
+    "pubDate": "2026-08-28T10:38:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
+    "link": "https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-28T08:00:01.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント",
     "link": "https://qiita.com/sumomoo/items/5726c8769b487e118571?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -19,21 +49,39 @@
   },
   {
     "site": "Hatena",
-    "title": "ダサいスライド資料を作る大会が開催中　応募フォームもダサい",
-    "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000902/",
-    "pubDate": "2026-08-28T06:36:26.000Z"
+    "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表　将来オープンソース化へ",
+    "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
+    "pubDate": "2026-08-28T06:42:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "並行開発に Orca がめちゃ便利",
+    "link": "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
+    "pubDate": "2026-08-28T06:24:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+    "link": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+    "pubDate": "Fri, 28 Aug 2026 05:55:30 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ICFPC 2026における人間とAIの共闘",
+    "link": "https://zenn.dev/estie/articles/a6d1e78e8e41d5",
+    "pubDate": "Fri, 28 Aug 2026 03:11:50 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "30B級ローカルLLM、現場で使うならどれ？Qwen3.8・Muse Glimmer・Gemma4を比較【要約・解説編】",
+    "link": "https://zenn.dev/highreso/articles/9d74b825b83e8f",
+    "pubDate": "Fri, 28 Aug 2026 03:01:07 GMT"
   },
   {
     "site": "Hatena",
-    "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
-    "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
-    "pubDate": "2026-08-28T05:50:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
-    "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
-    "pubDate": "2026-08-28T04:41:38.000Z"
+    "title": "GoogleがAndroidアプリ開発者にメモリ使用量を削減するよう警告、2027年2月から新しい基準値が設定される",
+    "link": "https://gigazine.net/news/20260828-google-android-app-developers-reducing-memory/",
+    "pubDate": "2026-08-28T02:52:12.000Z"
   },
   {
     "site": "Qiita",
@@ -48,12 +96,6 @@
     "pubDate": "2026-08-28T00:51:31.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました",
-    "link": "https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c",
-    "pubDate": "2026-08-28T00:14:49.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
     "link": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/",
@@ -61,21 +103,9 @@
   },
   {
     "site": "Hatena",
-    "title": "ITエンジニア必読書『徳丸本』が8年ぶりの改訂へ　「第3版」のポイントを筆者が解説",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news018.html",
-    "pubDate": "2026-08-27T22:53:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカル AWS エミュレータで Terraform を検証する",
-    "link": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
-    "pubDate": "2026-08-27T21:57:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAIの暴走AI、1200体が結託　「仲間のため｣とシステムに突撃要求 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/",
-    "pubDate": "2026-08-27T20:58:11.000Z"
+    "title": "【笠原一輝のユビキタス情報局】 性能1.4倍でバッテリも伸びる！Snapdragon X2搭載の新Surfaceが凄い",
+    "link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2136329.html",
+    "pubDate": "2026-08-27T22:11:06.000Z"
   },
   {
     "site": "Zenn",
@@ -84,40 +114,10 @@
     "pubDate": "Thu, 27 Aug 2026 20:06:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に　\"端末非対応”ではなくKDDIの設定ミス",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2136330.html",
-    "pubDate": "2026-08-27T15:55:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI駆動開発を組織で促すために",
-    "link": "https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop",
-    "pubDate": "2026-08-27T13:48:47.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ",
-    "link": "https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-27T09:05:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "マルチタスクをやめたら、完了までの体感時間が変わった",
-    "link": "https://qiita.com/sumomoo/items/95c018954c2b0cc9ebd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-27T09:02:05.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kaggler流のプロダクト開発入門！",
-    "link": "https://zenn.dev/elith/articles/609498a4109ad2",
-    "pubDate": "Thu, 27 Aug 2026 09:00:06 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人エンジニア、作業前に方向性を確認しとかないと後悔する",
-    "link": "https://qiita.com/prumnn/items/a86026cf72f4effc30f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-27T08:57:48.000Z"
+    "title": "10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww",
+    "link": "https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-27T13:01:16.000Z"
   },
   {
     "site": "Zenn",
@@ -162,16 +162,16 @@
     "pubDate": "Wed, 26 Aug 2026 12:38:01 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話",
-    "link": "https://zenn.dev/sc30gsw/articles/953334f11df507",
-    "pubDate": "Wed, 26 Aug 2026 11:58:18 GMT"
+    "site": "Qiita",
+    "title": "アクセスキーこわい やめかたと漏らさない工夫",
+    "link": "https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-26T11:11:57.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Secrets Managerのシークレットはどんな粒度で分けるべき？",
-    "link": "https://zenn.dev/genda_jp/articles/e7e831636a769d",
-    "pubDate": "Wed, 26 Aug 2026 03:34:37 GMT"
+    "site": "Hatena",
+    "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/2026/08/26/110000",
+    "pubDate": "2026-08-26T04:15:24.000Z"
   },
   {
     "site": "Qiita",
