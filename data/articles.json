@@ -1,5 +1,89 @@
 [
   {
+    "site": "Qiita",
+    "title": "「AIに店長を任せてみた実験」からもらった、これからの働き方のヒント",
+    "link": "https://qiita.com/sumomoo/items/5726c8769b487e118571?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-28T07:28:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "面接で「前職への不満」を聞かれたら。無理にきれいな退職理由をつくらなくても大丈夫です",
+    "link": "https://qiita.com/m__ikeda/items/b96813bc8a482b3d0074?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-28T07:25:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた",
+    "link": "https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-28T07:21:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ダサいスライド資料を作る大会が開催中　応募フォームもダサい",
+    "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000902/",
+    "pubDate": "2026-08-28T06:36:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
+    "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
+    "pubDate": "2026-08-28T05:50:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+    "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+    "pubDate": "2026-08-28T04:41:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code の Auto mode を解剖する ― 誰が、どんなルールで許可を出しているのか",
+    "link": "https://qiita.com/tatsuya582/items/cf74c9b6fc9c370e67e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-28T01:49:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "読み取りと書き込みでモデルが別！？ - CQRS という概念",
+    "link": "https://qiita.com/qwertyhoge/items/76c9dc47a8c7993c6a23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-28T00:51:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました",
+    "link": "https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c",
+    "pubDate": "2026-08-28T00:14:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/",
+    "pubDate": "2026-08-27T23:41:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ITエンジニア必読書『徳丸本』が8年ぶりの改訂へ　「第3版」のポイントを筆者が解説",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news018.html",
+    "pubDate": "2026-08-27T22:53:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカル AWS エミュレータで Terraform を検証する",
+    "link": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
+    "pubDate": "2026-08-27T21:57:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAIの暴走AI、1200体が結託　「仲間のため｣とシステムに突撃要求 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/",
+    "pubDate": "2026-08-27T20:58:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測",
+    "link": "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
+    "pubDate": "Thu, 27 Aug 2026 20:06:17 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に　\"端末非対応”ではなくKDDIの設定ミス",
     "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2136330.html",
@@ -7,27 +91,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AIに「昔のDQやFFが1年に1本ペースで新作が出てたのはなぜ？工数が少なかったから？」と聞いたら「労働基準法が守られてなかった」と返ってきた話…ガチ修羅場エピが集まる",
-    "link": "https://togetter.com/li/2738139",
-    "pubDate": "2026-08-27T14:50:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Metaが従業員を大量解雇してAIに置き換えようとした「Project OT」はいかにして頓挫したのか？",
-    "link": "https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded/",
-    "pubDate": "2026-08-27T14:38:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIを使ったナレッジ中心設計を試してみた | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20260827b/",
-    "pubDate": "2026-08-27T10:15:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Opus 4.8級を手元に！320Bのモデル「GLM-5.3-Flash」無償公開",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2136012.html",
-    "pubDate": "2026-08-27T09:11:57.000Z"
+    "title": "AI駆動開発を組織で促すために",
+    "link": "https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop",
+    "pubDate": "2026-08-27T13:48:47.000Z"
   },
   {
     "site": "Qiita",
@@ -42,16 +108,16 @@
     "pubDate": "2026-08-27T09:02:05.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Kaggler流のプロダクト開発入門！",
+    "link": "https://zenn.dev/elith/articles/609498a4109ad2",
+    "pubDate": "Thu, 27 Aug 2026 09:00:06 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "新人エンジニア、作業前に方向性を確認しとかないと後悔する",
     "link": "https://qiita.com/prumnn/items/a86026cf72f4effc30f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-27T08:57:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 | IIJ",
-    "link": "https://www.iij.ad.jp/news/pressrelease/2026/0827.html",
-    "pubDate": "2026-08-27T08:57:11.000Z"
   },
   {
     "site": "Zenn",
@@ -60,52 +126,16 @@
     "pubDate": "Thu, 27 Aug 2026 06:47:03 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "50代で初転職した話",
-    "link": "https://speakerdeck.com/yda/50-dai-de-hatsutenshoku-shita-hanashi",
-    "pubDate": "2026-08-27T04:00:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【図解】AI・ChatGPT・RPA・iPaaS・n8n…業務自動化の言葉が多すぎる！66 製品を 6 役に例えたら、1 枚の工場イラスト図になった",
-    "link": "https://qiita.com/songchong/items/dc75c6f3789348408f9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-27T03:08:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜ、あなたの時系列LightGBMモデルはトレンドに追従しないのか",
-    "link": "https://qiita.com/ALeX_EXVS/items/ef638cf80ba0f6e30a95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-27T01:39:22.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "インフラのモニタリングをAIと伴走する",
-    "link": "https://zenn.dev/genda_jp/articles/f3c141688591a5",
-    "pubDate": "Thu, 27 Aug 2026 01:01:53 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIに作らせたコードを、まっさらな環境で動かしてみた",
-    "link": "https://qiita.com/jqit_suwa/items/e11d49c9bb7eb7aaea37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-27T00:23:28.000Z"
+    "title": "Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた",
+    "link": "https://zenn.dev/lincwell_inc/articles/79092d88245748",
+    "pubDate": "Thu, 27 Aug 2026 01:00:01 GMT"
   },
   {
     "site": "Zenn",
     "title": "ローカル AWS エミュレータで Terraform を検証する",
     "link": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
     "pubDate": "Thu, 27 Aug 2026 00:03:42 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "スキルの採点ツールは、書いてある内容が正しいかを見ていない",
-    "link": "https://qiita.com/jqit_suwa/items/9cf8152a99b1d178a4fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-26T23:15:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
-    "link": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
-    "pubDate": "2026-08-26T19:14:25.000Z"
   },
   {
     "site": "Zenn",
@@ -120,6 +150,12 @@
     "pubDate": "Wed, 26 Aug 2026 14:35:58 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった",
+    "link": "https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-26T13:31:54.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "DMM Sprint Go に参加してきました🌟",
     "link": "https://zenn.dev/s0nmy/articles/85761a4d31c8c2",
@@ -132,18 +168,6 @@
     "pubDate": "Wed, 26 Aug 2026 11:58:18 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "悪質UIを体験できる「ダークパターン博物館」が話題　解約迷路、偽の閉じるボタンなど　全8種",
-    "link": "https://www.itmedia.co.jp/news/article/2608/26/2000000817/",
-    "pubDate": "2026-08-26T08:26:37.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「AIの民主化」を日本で言い出した身として、そろそろ本当に「民主化」をやめたい話",
-    "link": "https://zenn.dev/miogawa/articles/1170543905ebe0",
-    "pubDate": "2026-08-26T05:45:18.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Secrets Managerのシークレットはどんな粒度で分けるべき？",
     "link": "https://zenn.dev/genda_jp/articles/e7e831636a769d",
@@ -154,29 +178,5 @@
     "title": "Vimのコマンドを丸暗記しないために、オペレータとモーションで整理してみた",
     "link": "https://qiita.com/AkiraTakasaki/items/44c6f3b78a6a1dce0d57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-26T03:28:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS】複数人でリアルタイム描画できるお絵描きアプリを作ってみた",
-    "link": "https://qiita.com/KyosukeTakahagi/items/936906d276fbba11ba02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-26T02:24:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Antigravity for VS Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】",
-    "link": "https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-25T19:14:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "メッシュグラデーションをSVGで「真面目に」近似する",
-    "link": "https://zenn.dev/yayo1/articles/ffd14050214f52",
-    "pubDate": "Tue, 25 Aug 2026 09:11:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
-    "link": "https://zenn.dev/layerx/articles/e01465a15e79c2",
-    "pubDate": "Tue, 25 Aug 2026 05:00:05 GMT"
   }
 ]
