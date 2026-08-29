@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "自衛隊情報基盤にIOWN導入　AI活用へ大容量通信、次期計画に明記 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/",
+    "pubDate": "2026-08-29T07:23:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI語に親しむ",
+    "link": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
+    "pubDate": "2026-08-29T04:37:36.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」",
     "link": "https://togetter.com/li/2738669",
     "pubDate": "2026-08-29T03:50:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "私が懇親会でぼっちになったらやること - 腹は減る",
+    "link": "https://blux.hatenablog.com/entry/2026/08/29/094300",
+    "pubDate": "2026-08-29T02:52:35.000Z"
   },
   {
     "site": "Hatena",
@@ -13,33 +31,33 @@
   },
   {
     "site": "Hatena",
-    "title": "まあそりゃあそうなりますよね――中道改革連合の白紙化と、誰も引き取らない責任について｜山本一郎（やまもといちろう）",
-    "link": "https://note.com/kirik/n/n8c26b679bc80",
-    "pubDate": "2026-08-28T13:21:34.000Z"
+    "title": "ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！　画像生成・コード実行・API化を1つのアプリに統合",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
+    "pubDate": "2026-08-28T23:36:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「誰が悪い」から「どう直す」へ ― 政策を改善し続ける政治の仕組み : システム設計視点の行動経済学 (22)",
+    "link": "https://qiita.com/maskot1977/items/f3f9343c64efd53d5023?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-28T15:05:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「もう1年の半分終わった」と思ったら要注意 — ジャネーの法則で知る、時間の残酷な真実",
+    "link": "https://qiita.com/teppei19980914/items/299d0ad74089b713690f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-28T14:00:24.000Z"
   },
   {
     "site": "Hatena",
-    "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
-    "pubDate": "2026-08-28T13:03:58.000Z"
+    "title": "Claude Codeの体系的な理解と知識のフック",
+    "link": "https://speakerdeck.com/oikon48/cc",
+    "pubDate": "2026-08-28T13:30:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeで開発以外の業務も爆速化しよう！",
-    "link": "https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou",
-    "pubDate": "2026-08-28T12:11:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "グーグル、購入した電子書籍を「Gemini Notebook」に追加可能に",
-    "link": "https://www.watch.impress.co.jp/docs/news/2136651.html",
-    "pubDate": "2026-08-28T10:05:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-    "link": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
-    "pubDate": "2026-08-28T08:34:09.000Z"
+    "site": "Zenn",
+    "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+    "link": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+    "pubDate": "2026-08-28T09:59:10.000Z"
   },
   {
     "site": "Qiita",
@@ -73,12 +91,6 @@
   },
   {
     "site": "Zenn",
-    "title": "並行開発に Orca がめちゃ便利",
-    "link": "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
-    "pubDate": "2026-08-28T06:24:49.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
     "link": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
     "pubDate": "Fri, 28 Aug 2026 05:55:30 GMT"
@@ -100,18 +112,6 @@
     "title": "Claude Code の Auto mode を解剖する ― 誰が、どんなルールで許可を出しているのか",
     "link": "https://qiita.com/tatsuya582/items/cf74c9b6fc9c370e67e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-28T01:49:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "読み取りと書き込みでモデルが別！？ - CQRS という概念",
-    "link": "https://qiita.com/qwertyhoge/items/76c9dc47a8c7993c6a23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-28T00:51:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
-    "pubDate": "2026-08-27T23:10:23.000Z"
   },
   {
     "site": "Zenn",
@@ -174,9 +174,9 @@
     "pubDate": "2026-08-26T11:11:57.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Vimのコマンドを丸暗記しないために、オペレータとモーションで整理してみた",
-    "link": "https://qiita.com/AkiraTakasaki/items/44c6f3b78a6a1dce0d57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-26T03:28:10.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
+    "link": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
+    "pubDate": "2026-07-22T03:16:43.000Z"
   }
 ]
