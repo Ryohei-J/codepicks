@@ -1,5 +1,47 @@
 [
   {
+    "site": "Hatena",
+    "title": "AI ポン出しスライド品評会 - Object.create(null)",
+    "link": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
+    "pubDate": "2026-08-30T02:30:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
+    "link": "https://blog.shibayu36.org/entry/2026/08/29/154324",
+    "pubDate": "2026-08-30T01:28:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
+    "link": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
+    "pubDate": "2026-08-29T23:47:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ハーネス設計入門 〜プロンプト、コンテキストの次〜",
+    "link": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi",
+    "pubDate": "2026-08-29T21:30:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+    "link": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
+    "pubDate": "2026-08-29T17:07:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
+    "link": "https://gigazine.net/news/20260829-chatto/",
+    "pubDate": "2026-08-29T14:25:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「頭脳だけで正解を探したら、AIに大敗する」川邊健太郎が旅と“ヒュー！”に見いだすもの - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/31605/",
+    "pubDate": "2026-08-29T10:55:13.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "AIの口癖を日本語記事で測ろうとして、3回とも失敗した",
     "link": "https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -19,15 +61,15 @@
   },
   {
     "site": "Hatena",
-    "title": "The HUGS Stack — Hypermedia, Unix, Go, SQLite - Housecat",
-    "link": "https://housecat.com/blog/the-hugs-stack-hypermedia-unix-go-sqlite",
-    "pubDate": "2026-08-29T07:49:16.000Z"
+    "title": "Chromeで小さなJPEG画像が違うように見える理由",
+    "link": "https://gigazine.net/news/20260829-jpg-scaling-chrome/",
+    "pubDate": "2026-08-29T09:29:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "自衛隊情報基盤にIOWN導入　AI活用へ大容量通信、次期計画に明記 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/",
-    "pubDate": "2026-08-29T07:23:07.000Z"
+    "title": "業務時間外もAIに働いてもらう話",
+    "link": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
+    "pubDate": "2026-08-29T07:15:47.000Z"
   },
   {
     "site": "Qiita",
@@ -36,46 +78,16 @@
     "pubDate": "2026-08-29T05:18:46.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI語に親しむ",
-    "link": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
-    "pubDate": "2026-08-29T04:37:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "私が懇親会でぼっちになったらやること - 腹は減る",
-    "link": "https://blux.hatenablog.com/entry/2026/08/29/094300",
-    "pubDate": "2026-08-29T02:52:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！　画像生成・コード実行・API化を1つのアプリに統合",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
-    "pubDate": "2026-08-28T23:36:09.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "Affinity で `xlink:href` で継承される色属性を含むSVG図形が適切に描画されない",
-    "link": "https://zenn.dev/sasakulari/articles/283c9012d83fbe",
-    "pubDate": "Fri, 28 Aug 2026 14:14:03 GMT"
+    "title": "GPUを燃やさないために - RTX 5090にパワーリミットをかけると、性能はどれだけ落ち、どれだけ冷えるのか -",
+    "link": "https://zenn.dev/holy_fox/articles/572083c130ce46",
+    "pubDate": "Sat, 29 Aug 2026 03:52:52 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeの体系的な理解と知識のフック",
-    "link": "https://speakerdeck.com/oikon48/cc",
-    "pubDate": "2026-08-28T13:30:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Enterprise導入とTeams再設計で最小権限と俊敏性を両立。30人規模スタートアップの実践",
-    "link": "https://zenn.dev/unsoluble_sugar/articles/github-org-least-privilege",
-    "pubDate": "Fri, 28 Aug 2026 12:08:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
-    "link": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
-    "pubDate": "2026-08-28T09:59:10.000Z"
+    "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
+    "link": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
+    "pubDate": "2026-08-28T09:38:40.000Z"
   },
   {
     "site": "Qiita",
@@ -112,18 +124,6 @@
     "title": "「Enterで送信」は滅びよ ~ IME誤爆に疲れたので、チャットの送信に修飾キーを必須にした ~",
     "link": "https://zenn.dev/safie_inc/articles/ee72b837e4a5f1",
     "pubDate": "Fri, 28 Aug 2026 04:23:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ICFPC 2026における人間とAIの共闘",
-    "link": "https://zenn.dev/estie/articles/a6d1e78e8e41d5",
-    "pubDate": "Fri, 28 Aug 2026 03:11:50 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita",
-    "link": "https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146",
-    "pubDate": "2026-08-28T00:13:26.000Z"
   },
   {
     "site": "Qiita",
@@ -169,14 +169,14 @@
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
-    "link": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
-    "pubDate": "2026-07-22T03:16:43.000Z"
+    "title": "ローカル AWS エミュレータで Terraform を検証する",
+    "link": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
+    "pubDate": "Thu, 27 Aug 2026 00:03:42 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub - iKora128/stop-ai-slop-jp: 日本語の文章からAI臭を取り除く Claude Skill",
-    "link": "https://github.com/iKora128/stop-ai-slop-jp",
-    "pubDate": "2026-06-18T01:02:18.000Z"
+    "site": "Zenn",
+    "title": "並行開発に Orca がめちゃ便利",
+    "link": "https://zenn.dev/rhosokawa/articles/d0a958c17c2820",
+    "pubDate": "Wed, 26 Aug 2026 15:39:54 GMT"
   }
 ]
