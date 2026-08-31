@@ -1,45 +1,63 @@
 [
   {
+    "site": "Hatena",
+    "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
+    "link": "https://itrend.kikkakeagent.co.jp/articles/223",
+    "pubDate": "2026-08-31T02:00:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
+    "pubDate": "2026-08-30T23:10:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "LINEヤフー、全社横断でAIエージェント量産体制　カレンダーなど新「Agent i」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+    "pubDate": "2026-08-30T22:48:32.000Z"
+  },
+  {
     "site": "Qiita",
-    "title": "【2026年8月調査】API連携でデータを外部に渡して大丈夫なのか調べてみた｜OAuth・APIキー・保管場所・やめ方を業務システム56件で",
+    "title": "API連携でデータを外部に渡して大丈夫なのか調べてみた｜OAuth・APIキー・保管場所・やめ方を業務システム56件で【2026年8月調査】",
     "link": "https://qiita.com/songchong/items/bed44cf5b639df476952?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-30T15:40:22.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "nginxで502が稀に発生する原因はkeepalive接続",
+    "link": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+    "pubDate": "2026-08-30T14:47:40.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "【独自】Jアラート「偽の警報可能」　専門家、発信元保証なし（共同通信） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/2acf2b5de32927d404e1f15328e5c7bb6775dc5c",
-    "pubDate": "2026-08-30T13:53:37.000Z"
+    "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
+    "link": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+    "pubDate": "2026-08-30T14:40:37.000Z"
   },
   {
     "site": "Zenn",
     "title": "TypeScript ライブラリとして動作する組版エンジン minitype を公開しました",
     "link": "https://zenn.dev/inaniwaudon/articles/62f1def4bad627",
-    "pubDate": "2026-08-30T13:09:39.000Z"
+    "pubDate": "Sun, 30 Aug 2026 12:21:31 GMT"
   },
   {
     "site": "Hatena",
-    "title": "ガチ中華の名店「味坊」が茨城になぜか「町中華」、料理人不足解決へロボットシェフ導入 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
-    "link": "https://36kr.jp/500714/",
-    "pubDate": "2026-08-30T12:11:32.000Z"
+    "title": "【独自】Jアラート「偽の警報可能」　専門家、発信元保証なし",
+    "link": "https://www.47news.jp/14868281.html",
+    "pubDate": "2026-08-30T12:11:27.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
-    "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
-    "pubDate": "2026-08-30T09:58:21.000Z"
+    "title": "「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか",
+    "link": "https://note.com/chizutodesign/n/neee5116b95b4",
+    "pubDate": "2026-08-30T10:59:58.000Z"
   },
   {
     "site": "Hatena",
-    "title": "参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった",
-    "link": "https://togetter.com/li/2739144",
-    "pubDate": "2026-08-30T09:41:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
-    "link": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
-    "pubDate": "2026-08-30T09:19:00.000Z"
+    "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
+    "link": "https://blog.shibayu36.org/entry/2026/08/30/173000",
+    "pubDate": "2026-08-30T10:55:51.000Z"
   },
   {
     "site": "Hatena",
@@ -48,16 +66,10 @@
     "pubDate": "2026-08-30T07:52:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIお姉ちゃんへの道（2026年版） - nomolkのブログ",
-    "link": "https://nomolk.hatenablog.com/entry/2026/08/30/145025",
-    "pubDate": "2026-08-30T07:18:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "WiresharkでHTTPS通信を復号する方法｜TLS1.3対応・パケット解析",
-    "link": "https://eeengineer.com/description-by-wireshark/",
-    "pubDate": "2026-08-29T23:52:57.000Z"
+    "site": "Zenn",
+    "title": "OpenTelemetry Collectorでテレメトリーデータの欠損を防ぐためのいくつかの方法",
+    "link": "https://zenn.dev/taxin/articles/otel-resiliency",
+    "pubDate": "Sun, 30 Aug 2026 05:46:51 GMT"
   },
   {
     "site": "Zenn",
@@ -114,12 +126,6 @@
     "pubDate": "2026-08-28T11:16:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIコードレビューのやり方｜7つの確認点",
-    "link": "https://www.atsumell.com/blog/ai-code-review-seven-checkpoints",
-    "pubDate": "2026-08-28T10:58:40.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "ガバメントクラウドAWS環境における統合監視・AIによる障害時自動調査について検討してみた",
     "link": "https://qiita.com/fj_yoshimura_kosuke/items/1cb40e25071475268431?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -130,6 +136,12 @@
     "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
     "link": "https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-28T08:00:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIプロダクトの新規事業、立ち上げから1年の振り返り",
+    "link": "https://zenn.dev/loglass/articles/3f8a2c91d4e7b5",
+    "pubDate": "Fri, 28 Aug 2026 07:39:23 GMT"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "Fri, 28 Aug 2026 00:00:09 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測",
-    "link": "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
-    "pubDate": "Thu, 27 Aug 2026 20:06:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RTX 5090 + RAM 128GBでQwen3.8-Flash-Nextをllama.cppで動かしてみた",
-    "link": "https://zenn.dev/holy_fox/articles/04887ff8177b87",
-    "pubDate": "Thu, 27 Aug 2026 06:47:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた",
-    "link": "https://zenn.dev/lincwell_inc/articles/79092d88245748",
-    "pubDate": "Thu, 27 Aug 2026 01:00:01 GMT"
+    "site": "Hatena",
+    "title": "ターミナルから Backlog を操作できる CLI「bee」を公開しました | 株式会社ヌーラボ(Nulab inc.)",
+    "link": "https://nulab.com/ja/blog/nulab/released-backlog-cli-bee/",
+    "pubDate": "2026-08-25T12:47:05.000Z"
   }
 ]
