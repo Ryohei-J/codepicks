@@ -1,5 +1,23 @@
 [
   {
+    "site": "Qiita",
+    "title": "API連携、つながればOK？ 回数の壁・仕様変更・障害情報を業務システム56件で調べてみた",
+    "link": "https://qiita.com/songchong/items/1a599320ecb21cc4dd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-01T19:08:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/claude-budget-tags",
+    "pubDate": "2026-09-01T15:18:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行",
+    "link": "https://gigazine.net/news/20260901-hermes-agent-cron-automation/",
+    "pubDate": "2026-09-01T13:42:56.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
     "link": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
@@ -13,9 +31,21 @@
   },
   {
     "site": "Hatena",
+    "title": "何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた｜まざっち",
+    "link": "https://note.com/mazamachi/n/nca12be99a8ac",
+    "pubDate": "2026-09-01T10:55:26.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題",
     "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001040/",
     "pubDate": "2026-09-01T10:01:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ゲーム制作における Herdrとgit worktreeの自立型マルチエージェント環境",
+    "link": "https://qiita.com/yuji_yasuhara/items/99c589264a006658a15a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-01T09:56:25.000Z"
   },
   {
     "site": "Hatena",
@@ -36,16 +66,10 @@
     "pubDate": "2026-09-01T04:11:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "生成AI画像はなぜ“キショい”のか　消費者が抱く違和感の正体　広報のプロが解説",
-    "link": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/",
-    "pubDate": "2026-09-01T03:38:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東大、「価値創造学部」新設へ　27年秋入学、授業はすべて英語",
-    "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
-    "pubDate": "2026-09-01T02:33:33.000Z"
+    "site": "Qiita",
+    "title": "2026年今から WordPress を立ち上げるなら — AWS Lightsail + Cloudflare WAF を使った構築手順",
+    "link": "https://qiita.com/sugumura/items/2f32c69f11bbc97b2fd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-01T03:25:00.000Z"
   },
   {
     "site": "Qiita",
@@ -78,12 +102,6 @@
     "pubDate": "2026-08-31T23:48:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "総務省、「pixiv」「note」など情プラ法の「大規模プラットフォーム事業者」に追加、誹謗中傷への迅速な対応など求める　「ガールズちゃんねる」「好き嫌い.com」含む4者が対象",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2137041.html",
-    "pubDate": "2026-08-31T22:46:32.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "STORES Tech Conf 2026 \"World 2\" 体験記",
     "link": "https://zenn.dev/nemut_ai/articles/stores-tech-conf-2026-world2",
@@ -114,6 +132,12 @@
     "pubDate": "Mon, 31 Aug 2026 14:42:08 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ",
+    "link": "https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-31T11:53:39.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "小学校の夏休みの宿題をプロジェクトマネジメントしてみた",
     "link": "https://zenn.dev/nextbeat/articles/8f5d24529caea6",
@@ -133,27 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "「いつもの一言」を置き換えるだけで、AIへの指示の精度はかなり変わる",
-    "link": "https://qiita.com/sumomoo/items/7bd7345600b1ed09d5a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-31T07:18:00.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと",
     "link": "https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-31T07:16:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です",
-    "link": "https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-31T07:14:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新人エンジニア、「ラズベリーパイ」を美味しいパイだと思ってた話",
-    "link": "https://qiita.com/prumnn/items/357c4c9e239d2b9427d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-31T07:12:20.000Z"
   },
   {
     "site": "Zenn",
@@ -163,20 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "スター6万のAgent Skillを入れたら、呼ぶたびに9万トークン必要だった",
-    "link": "https://qiita.com/jqit_suwa/items/817a26e02cd1f08c7edd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-30T23:35:15.000Z"
+    "title": "GoFデザインパターンを実務で使うものに絞って解説する — Adapter, Facade, Strategy, Observer など",
+    "link": "https://qiita.com/kkkkkou/items/90be6651d4d012c3f107?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-31T02:27:38.000Z"
   },
   {
     "site": "Qiita",
     "title": "【個人開発】MLBの試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作りました【React/TypeScript/iCalendar】",
     "link": "https://qiita.com/takahiro_honda/items/b44d4e2b526aa009f822?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-30T08:00:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Azure無料枠を意識してWindows Server 2022を構築してみた",
-    "link": "https://qiita.com/NoguchiHikaru/items/d55d3b9cfdc38a07034d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-29T14:54:20.000Z"
   }
 ]
