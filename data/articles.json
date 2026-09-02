@@ -1,5 +1,17 @@
 [
   {
+    "site": "Hatena",
+    "title": "なぜ自殺してはいけないのか？　殺してはいけないのか？　おれのラーメン理論",
+    "link": "https://blog.tinect.jp/?p=91463",
+    "pubDate": "2026-09-01T23:32:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例",
+    "link": "https://zenn.dev/atamaplus/articles/6be03483c0110b",
+    "pubDate": "2026-09-01T20:58:44.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "API連携、つながればOK？ 回数の壁・仕様変更・障害情報を業務システム56件で調べてみた",
     "link": "https://qiita.com/songchong/items/1a599320ecb21cc4dd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7,21 +19,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/claude-budget-tags",
-    "pubDate": "2026-09-01T15:18:58.000Z"
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "pubDate": "2026-09-01T18:03:43.000Z"
   },
   {
     "site": "Hatena",
-    "title": "使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行",
-    "link": "https://gigazine.net/news/20260901-hermes-agent-cron-automation/",
-    "pubDate": "2026-09-01T13:42:56.000Z"
+    "title": "読まれる職務経歴書のつくり方｜dora_e_m",
+    "link": "https://note.com/dora_e_m/n/n2888ba7764a2",
+    "pubDate": "2026-09-01T16:36:40.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
-    "link": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
-    "pubDate": "2026-09-01T12:07:05.000Z"
+    "site": "Hatena",
+    "title": "増田が1000万インプレッションを超える時代",
+    "link": "https://anond.hatelabo.jp/20260901224029",
+    "pubDate": "2026-09-01T13:44:33.000Z"
   },
   {
     "site": "Zenn",
@@ -36,10 +48,10 @@
     "pubDate": "2026-09-01T10:55:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題",
-    "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001040/",
-    "pubDate": "2026-09-01T10:01:14.000Z"
+    "site": "Zenn",
+    "title": "社内限定サービスの認証を Google Workspace でサクッと作る",
+    "link": "https://zenn.dev/dress_code/articles/6134e6bd5e46c6",
+    "pubDate": "Tue, 01 Sep 2026 10:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -48,28 +60,58 @@
     "pubDate": "2026-09-01T09:56:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "パソコン工房、ゲーミングPCの支払い方法に「残価据置型クレジット」を追加",
-    "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2137362.html",
-    "pubDate": "2026-09-01T09:41:58.000Z"
+    "site": "Zenn",
+    "title": "OOMKill の犯人は CPU だった：GOGC と GOMEMLIMIT を実測で設計し直す",
+    "link": "https://zenn.dev/reality_tech/articles/f6305331bccee0",
+    "pubDate": "Tue, 01 Sep 2026 09:12:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
+    "link": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
+    "pubDate": "Tue, 01 Sep 2026 08:46:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Web 標準動向 2026年8月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608",
+    "pubDate": "Tue, 01 Sep 2026 08:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例",
+    "link": "https://zenn.dev/atamaplus/articles/6be03483c0110b",
+    "pubDate": "Tue, 01 Sep 2026 07:50:31 GMT"
   },
   {
     "site": "Hatena",
-    "title": "MIDIコントローラー搭載PCキーボード「Keys」。9つのMIDI CC信号操作用ツマミ搭載 | Gadget Gate",
-    "link": "https://gadget.phileweb.com/post-132068/",
-    "pubDate": "2026-09-01T05:03:39.000Z"
+    "title": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由",
+    "link": "https://garumax.com/why-i-use-atok-subscription",
+    "pubDate": "2026-09-01T05:21:22.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2137155.html",
-    "pubDate": "2026-09-01T04:11:40.000Z"
+    "title": "AIショートドラマ『非妖哉』たった2話で1億回再生を記録　中国の映像クリエイターがほぼ1人で制作",
+    "link": "https://kai-you.net/article/96416",
+    "pubDate": "2026-09-01T04:37:50.000Z"
   },
   {
     "site": "Qiita",
     "title": "2026年今から WordPress を立ち上げるなら — AWS Lightsail + Cloudflare WAF を使った構築手順",
     "link": "https://qiita.com/sugumura/items/2f32c69f11bbc97b2fd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-01T03:25:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "KDDIとOsaka Metro、ヒューマノイド駅員の実証実験　アバターではなく“物理ロボット”を選んだ理由とは",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2137103.html",
+    "pubDate": "2026-09-01T02:26:15.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kiro に野良 MCP を繋がせない。AWS Agent Registry × Kiro for Enterprise で配布を統制する",
+    "link": "https://zenn.dev/aws_japan/articles/agent-registry-kiro-governance",
+    "pubDate": "Tue, 01 Sep 2026 02:17:59 GMT"
   },
   {
     "site": "Qiita",
@@ -90,22 +132,16 @@
     "pubDate": "Tue, 01 Sep 2026 01:03:04 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "無音で文字起こしすると「ご視聴ありがとうございました」になる理由を検証",
+    "link": "https://zenn.dev/trtd56/articles/994f43aebd2057",
+    "pubDate": "Tue, 01 Sep 2026 00:39:17 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code でモデルを切り替えると、そのターンだけ書き直しが287倍",
     "link": "https://qiita.com/jqit_suwa/items/5fe930eb46d064b3da06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-01T00:03:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan",
-    "link": "https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/",
-    "pubDate": "2026-08-31T23:48:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "STORES Tech Conf 2026 \"World 2\" 体験記",
-    "link": "https://zenn.dev/nemut_ai/articles/stores-tech-conf-2026-world2",
-    "pubDate": "Mon, 31 Aug 2026 20:55:26 GMT"
   },
   {
     "site": "Qiita",
@@ -120,52 +156,16 @@
     "pubDate": "Mon, 31 Aug 2026 15:16:23 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Google ADK・Microsoft Agent Framework・Amazon Strands の違いを偽のモデルサーバで測ってみた",
-    "link": "https://zenn.dev/acntechjp/articles/930d899e62943e",
-    "pubDate": "Mon, 31 Aug 2026 15:04:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Spannerのback joinを読み解く",
-    "link": "https://zenn.dev/kauche/articles/23c490c3872f77",
-    "pubDate": "Mon, 31 Aug 2026 14:42:08 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ",
     "link": "https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-31T11:53:39.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "小学校の夏休みの宿題をプロジェクトマネジメントしてみた",
-    "link": "https://zenn.dev/nextbeat/articles/8f5d24529caea6",
-    "pubDate": "Mon, 31 Aug 2026 11:01:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Anthropic公式のClaude Code講座で学んだ「4つのD」",
-    "link": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
-    "pubDate": "Mon, 31 Aug 2026 10:49:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "数億の画像を溜めるS3のコストを、ストレージクラス使い分けでコスト削減する",
-    "link": "https://zenn.dev/dely_jp/articles/22a2c10b2e130d",
-    "pubDate": "Mon, 31 Aug 2026 10:45:50 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと",
     "link": "https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-31T07:16:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人向け Coding Agent サブスクリプションのコストパフォーマンス比較",
-    "link": "https://zenn.dev/kimuson/articles/compare-ai-subscription-20260818",
-    "pubDate": "Mon, 31 Aug 2026 04:50:01 GMT"
   },
   {
     "site": "Qiita",
