@@ -1,15 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2137283.html",
-    "pubDate": "2026-09-02T07:03:31.000Z"
+    "title": "ローカルLLMでどこまでコードが書けるか -LLM基礎知識 /　How much code can be written on a local LLM - fundamental knowledge",
+    "link": "https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge",
+    "pubDate": "2026-09-02T12:53:53.000Z"
   },
   {
     "site": "Hatena",
-    "title": "アクションカメラのGoProが約460億円で非公開企業のStarman Opticalに買収される、カメラ事業を継続しながらAIインフラ分野へ進出",
-    "link": "https://gigazine.net/news/20260902-gopro-merge-starman-optical-285-million/",
-    "pubDate": "2026-09-02T05:18:50.000Z"
+    "title": "秘密を守れるAI、新興アカンパニーが整理　28年実現めざす - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC316YS0R30C26A8000000/",
+    "pubDate": "2026-09-02T11:26:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド",
+    "link": "https://free-wi.fi/",
+    "pubDate": "2026-09-02T10:10:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "使っていないiMacやMacBookのディスプレイを他のMacのセカンドディスプレイにできるMacアプリ「OpenDisplay Receiver」がリリース。",
+    "link": "https://applech2.com/archives/20260902-opendisplay-receiver-mac-to-mac.html",
+    "pubDate": "2026-09-02T08:18:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "東大の新「価値創造学部」に批判相次ぐ……「他学部は価値を創造していないのか」「空虚な名前」",
+    "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001084/",
+    "pubDate": "2026-09-02T08:17:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2137283.html",
+    "pubDate": "2026-09-02T07:03:31.000Z"
   },
   {
     "site": "Qiita",
@@ -18,22 +42,22 @@
     "pubDate": "2026-09-02T04:25:48.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "楽天にGMO……防衛産業に近づく民間IT企業　反発の声も",
-    "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001041/",
-    "pubDate": "2026-09-02T03:47:04.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「面白い着眼点」上達したいプレイヤーと、楽しみたいプレイヤーがなぜぶつかってしまうのかを指摘した投稿が注目を集める、「楽しんでいる時間軸が異なる」",
-    "link": "https://togetter.com/li/2740272",
-    "pubDate": "2026-09-02T02:46:49.000Z"
+    "site": "Zenn",
+    "title": "Anthropic公式のClaude Code講座で学んだ「4つのD」",
+    "link": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
+    "pubDate": "2026-09-02T02:47:58.000Z"
   },
   {
     "site": "Qiita",
     "title": "カジュアル面談で「特に質問ないです」が、実は一番もったいない理由",
     "link": "https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-02T01:47:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI前提のプロダクト開発組織を目指して、minneの2026年の現在地",
+    "link": "https://zenn.dev/pepabo/articles/minne-ai-native-org-2026",
+    "pubDate": "Wed, 02 Sep 2026 01:44:05 GMT"
   },
   {
     "site": "Qiita",
@@ -52,12 +76,6 @@
     "title": "Claude Code のサブエージェント、モデルの固定手段が4日で戻ってきた",
     "link": "https://qiita.com/jqit_suwa/items/e0e1ca2287fb4da46852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-02T00:40:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "なぜ自殺してはいけないのか？　殺してはいけないのか？　おれのラーメン理論",
-    "link": "https://blog.tinect.jp/?p=91463",
-    "pubDate": "2026-09-01T23:32:59.000Z"
   },
   {
     "site": "Qiita",
@@ -91,12 +109,6 @@
   },
   {
     "site": "Zenn",
-    "title": "OOMKill の犯人は CPU だった：GOGC と GOMEMLIMIT を実測で設計し直す",
-    "link": "https://zenn.dev/reality_tech/articles/f6305331bccee0",
-    "pubDate": "Tue, 01 Sep 2026 09:12:59 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
     "link": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
     "pubDate": "Tue, 01 Sep 2026 08:46:36 GMT"
@@ -109,12 +121,6 @@
   },
   {
     "site": "Zenn",
-    "title": "EVERRISE テックブログを始めます",
-    "link": "https://zenn.dev/everrise_blog/articles/31c6f84c527663",
-    "pubDate": "Tue, 01 Sep 2026 08:01:08 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Web 標準動向 2026年8月版",
     "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608",
     "pubDate": "Tue, 01 Sep 2026 08:00:05 GMT"
@@ -124,18 +130,6 @@
     "title": "PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例",
     "link": "https://zenn.dev/atamaplus/articles/6be03483c0110b",
     "pubDate": "Tue, 01 Sep 2026 07:50:31 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由",
-    "link": "https://garumax.com/why-i-use-atok-subscription",
-    "pubDate": "2026-09-01T05:21:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIショートドラマ『非妖哉』たった2話で1億回再生を記録　中国の映像クリエイターがほぼ1人で制作",
-    "link": "https://kai-you.net/article/96416",
-    "pubDate": "2026-09-01T04:37:50.000Z"
   },
   {
     "site": "Qiita",
@@ -156,16 +150,22 @@
     "pubDate": "Tue, 01 Sep 2026 01:03:04 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "無音で文字起こしすると「ご視聴ありがとうございました」になる理由を検証",
+    "link": "https://zenn.dev/trtd56/articles/994f43aebd2057",
+    "pubDate": "Tue, 01 Sep 2026 00:39:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す",
+    "link": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
+    "pubDate": "Mon, 31 Aug 2026 22:00:08 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "AIがコードを書く時代に、開発者は何を学ぶべきなのか。AWS認定デベロッパーの対策本を書きました - プログラマでありたい",
     "link": "https://blog.takuros.net/entry/2026/08/31/150628",
     "pubDate": "2026-08-31T16:47:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントの品質、どう測る？ Google ADKの評価機能を使い倒す",
-    "link": "https://zenn.dev/phper8080/articles/91ffb94fe75b45",
-    "pubDate": "Mon, 31 Aug 2026 15:16:23 GMT"
   },
   {
     "site": "Qiita",
