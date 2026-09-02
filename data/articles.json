@@ -1,5 +1,17 @@
 [
   {
+    "site": "Qiita",
+    "title": "MCP vs. API（REST・SOAP・GraphQL・gRPC）どれが使える？ 日本の業務システム 56 件を調べてみた",
+    "link": "https://qiita.com/songchong/items/64a8710cffb39963c2b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-02T19:42:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Aurora DSQL の現状 2026 (Rails の場合)",
+    "link": "https://diary.sorah.jp/2026/09/03/dsql-in-action",
+    "pubDate": "2026-09-02T16:00:07.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ローカルLLMでどこまでコードが書けるか -LLM基礎知識 /　How much code can be written on a local LLM - fundamental knowledge",
     "link": "https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge",
@@ -7,9 +19,15 @@
   },
   {
     "site": "Hatena",
-    "title": "秘密を守れるAI、新興アカンパニーが整理　28年実現めざす - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC316YS0R30C26A8000000/",
-    "pubDate": "2026-09-02T11:26:33.000Z"
+    "title": "米NY市、公立校でのAI利用禁止へ 中学生以下対象",
+    "link": "https://www.afpbb.com/articles/-/3651158",
+    "pubDate": "2026-09-02T12:10:01.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました",
+    "link": "https://zenn.dev/mybest_dev/articles/2cd71bc64ad380",
+    "pubDate": "2026-09-02T11:03:39.000Z"
   },
   {
     "site": "Hatena",
@@ -19,9 +37,9 @@
   },
   {
     "site": "Hatena",
-    "title": "使っていないiMacやMacBookのディスプレイを他のMacのセカンドディスプレイにできるMacアプリ「OpenDisplay Receiver」がリリース。",
-    "link": "https://applech2.com/archives/20260902-opendisplay-receiver-mac-to-mac.html",
-    "pubDate": "2026-09-02T08:18:41.000Z"
+    "title": "委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け　デザインにも影響",
+    "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001082/",
+    "pubDate": "2026-09-02T10:03:49.000Z"
   },
   {
     "site": "Hatena",
@@ -34,6 +52,12 @@
     "title": "無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開",
     "link": "https://forest.watch.impress.co.jp/docs/news/2137283.html",
     "pubDate": "2026-09-02T07:03:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
+    "link": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
+    "pubDate": "Wed, 02 Sep 2026 05:25:32 GMT"
   },
   {
     "site": "Qiita",
@@ -78,22 +102,10 @@
     "pubDate": "2026-09-02T00:40:27.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "API連携、つながればOK？ 回数の壁・仕様変更・障害情報を業務システム56件で調べてみた",
-    "link": "https://qiita.com/songchong/items/1a599320ecb21cc4dd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-01T19:08:55.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Tauriのアプリケーションでダークモードを実装する",
     "link": "https://zenn.dev/ayaextech_fill/articles/tauri-application-dark-mode",
     "pubDate": "Tue, 01 Sep 2026 17:33:07 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "読まれる職務経歴書のつくり方｜dora_e_m",
-    "link": "https://note.com/dora_e_m/n/n2888ba7764a2",
-    "pubDate": "2026-09-01T16:36:40.000Z"
   },
   {
     "site": "Zenn",
@@ -133,15 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "2026年今から WordPress を立ち上げるなら — AWS Lightsail + Cloudflare WAF を使った構築手順",
-    "link": "https://qiita.com/sugumura/items/2f32c69f11bbc97b2fd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-01T03:25:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「いい感じに分けといて」と頼まれたので、「いい感じ」を定義してみた",
-    "link": "https://qiita.com/KYoshiyama/items/50f50f39fd0da34e3dce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-01T02:11:47.000Z"
+    "title": "企業様に呼ばれて、1時間Copilotについて登壇してきました",
+    "link": "https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-01T01:45:24.000Z"
   },
   {
     "site": "Zenn",
@@ -156,16 +162,10 @@
     "pubDate": "Tue, 01 Sep 2026 00:39:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す",
-    "link": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
-    "pubDate": "Mon, 31 Aug 2026 22:00:08 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIがコードを書く時代に、開発者は何を学ぶべきなのか。AWS認定デベロッパーの対策本を書きました - プログラマでありたい",
-    "link": "https://blog.takuros.net/entry/2026/08/31/150628",
-    "pubDate": "2026-08-31T16:47:20.000Z"
+    "site": "Qiita",
+    "title": "AI駆動開発ライフサイクル（AI-DLC）の日本語版Skill Builderが公開されたので体験してみた",
+    "link": "https://qiita.com/news_it_enj/items/af5c80bebd4eb7d2eef9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-31T12:57:20.000Z"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "GoFデザインパターンを実務で使うものに絞って解説する — Adapter, Facade, Strategy, Observer など",
-    "link": "https://qiita.com/kkkkkou/items/90be6651d4d012c3f107?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-08-31T02:27:38.000Z"
+    "title": "LLMが「1+1」を計算するとき、中で何が起きているのか",
+    "link": "https://qiita.com/nolanlover0527/items/7650fe71fa0bca85a727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-08-31T00:18:12.000Z"
   }
 ]
