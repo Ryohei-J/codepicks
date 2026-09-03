@@ -1,21 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "対話型をやめて1度の指示でPRができる。人間の開発フローに沿って5つの役割をリレーするAIエージェントパイプラインの設計 - Tabelog Tech Blog",
-    "link": "https://tech-blog.tabelog.com/entry/autonomous-ai-agent-pipeline-cost-verification_55",
-    "pubDate": "2026-09-03T06:47:23.000Z"
+    "title": "useStateとuseEffectだけじゃもったいない！ ユーザー体験を改善するReactの便利機能 - ICS MEDIA",
+    "link": "https://ics.media/entry/260903/",
+    "pubDate": "2026-09-03T11:29:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Bet AI Day 2026丨LayerXの採用を支える組織AIの現在地と、Agentに任せる未来",
+    "link": "https://speakerdeck.com/layerx/bet-ai-day-2026-session09",
+    "pubDate": "2026-09-03T08:30:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トランプ政権「記事のAI学習は著作権侵害ではない」　OpenAIを支持する意見書、対New York Timesなどとの訴訟で",
+    "link": "https://www.itmedia.co.jp/news/article/2609/03/2000001130/",
+    "pubDate": "2026-09-03T08:23:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Uber Eatsで2,232円の注文、配達員に10,532円を渡したら、「ローソンで両替してくる」と言ったまま戻らず、お釣り8,300円を持ち逃げ←ツッコミ殺到…公式が対応する展開に",
+    "link": "https://togetter.com/li/2740824",
+    "pubDate": "2026-09-03T07:41:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
+    "link": "https://satoweb.net/2026/09/p-18390/",
+    "pubDate": "2026-09-03T06:52:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
+    "link": "https://aiji42.dev/blog/cloudflare-os-agent-workspace/",
+    "pubDate": "2026-09-03T06:13:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIを使いこなす技術チームの育て方、GitLab社内の実践から",
+    "link": "https://about.gitlab.com/ja-jp/blog/how-gitlab-fosters-ai-fluent-teams/",
+    "pubDate": "2026-09-03T03:38:00.000Z"
   },
   {
     "site": "Hatena",
     "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
     "link": "https://togetter.com/li/2740719",
     "pubDate": "2026-09-03T03:27:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "スマートウォッチを調べた研究でどれも消費カロリーを過大評価していたことが判明、最も正確だったのはAppleでGarminとSamsungがオーバー気味",
-    "link": "https://gigazine.net/news/20260903-smartwatch-lying-calories/",
-    "pubDate": "2026-09-03T03:19:54.000Z"
   },
   {
     "site": "Qiita",
@@ -25,21 +55,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「オモロいの見つけた」家の購入or賃貸、どっちが安いかをシミュレーターとする不動産サイトが登場、UIもスッキリしていて使いやすい",
-    "link": "https://togetter.com/li/2740713",
-    "pubDate": "2026-09-03T01:48:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「三層構造はもう古い」は本当か。AI時代におけるバックエンドシステムのアーキテクチャ - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_920/",
-    "pubDate": "2026-09-03T01:37:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
-    "link": "https://architecture-con.findy-tools.io/2026",
-    "pubDate": "2026-09-03T01:01:05.000Z"
+    "title": "壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤 - MonotaRO Tech Blog",
+    "link": "https://tech-blog.monotaro.com/entry/2026/09/03/090000",
+    "pubDate": "2026-09-03T00:16:00.000Z"
   },
   {
     "site": "Qiita",
@@ -48,28 +66,10 @@
     "pubDate": "2026-09-02T23:39:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "技術は「勉強するもの」ではなくなった。居酒屋でPCを広げる大人たちを見て決めた\"やらないこと\" - Findy Media",
-    "link": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
-    "pubDate": "2026-09-02T23:01:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め",
-    "link": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
-    "pubDate": "2026-09-02T21:46:37.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "MCP vs. API（REST・SOAP・GraphQL・gRPC）どれが使える？ 日本の業務システム 56 件を調べてみた",
     "link": "https://qiita.com/songchong/items/64a8710cffb39963c2b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-02T19:42:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIに“まじ”なスライドを作らせる｜【公式】Jinba",
-    "link": "https://note.com/jinbaflow/n/nc8372b84e572",
-    "pubDate": "2026-09-02T16:04:06.000Z"
   },
   {
     "site": "Qiita",
@@ -79,9 +79,9 @@
   },
   {
     "site": "Zenn",
-    "title": "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す",
-    "link": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
-    "pubDate": "2026-09-02T11:53:15.000Z"
+    "title": "Kaggle Pokémon TCG AI Battle Challenge ポケカコンペ振り返りーメダルなし",
+    "link": "https://zenn.dev/fusic/articles/4b6e8eb23c0363",
+    "pubDate": "Wed, 02 Sep 2026 11:59:49 GMT"
   },
   {
     "site": "Qiita",
@@ -106,18 +106,6 @@
     "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
     "link": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
     "pubDate": "Wed, 02 Sep 2026 05:25:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "EAS Observeを触ってみる",
-    "link": "https://zenn.dev/miive/articles/37e2b31905777f",
-    "pubDate": "Wed, 02 Sep 2026 05:11:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code のトークン節約でやっている 9 つのこと — 起動 7 万トークンの内訳と計測つき",
-    "link": "https://zenn.dev/activecore/articles/claude-code-resident-cost",
-    "pubDate": "Wed, 02 Sep 2026 04:54:11 GMT"
   },
   {
     "site": "Qiita",
@@ -168,6 +156,12 @@
     "pubDate": "Tue, 01 Sep 2026 08:00:05 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例",
+    "link": "https://zenn.dev/atamaplus/articles/6be03483c0110b",
+    "pubDate": "Tue, 01 Sep 2026 07:50:31 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "企業様に呼ばれて、1時間Copilotについて登壇してきました",
     "link": "https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ",
     "link": "https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-08-31T11:53:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "CS146S: The Modern Software Developer - Stanford University",
+    "link": "https://themodernsoftware.dev/",
+    "pubDate": "2026-02-26T01:10:08.000Z"
   }
 ]
