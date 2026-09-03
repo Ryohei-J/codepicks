@@ -1,9 +1,51 @@
 [
   {
+    "site": "Hatena",
+    "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
+    "link": "https://architecture-con.findy-tools.io/2026",
+    "pubDate": "2026-09-03T01:01:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "技術は「勉強するもの」ではなくなった。居酒屋でPCを広げる大人たちを見て決めた\"やらないこと\" - Findy Media",
+    "link": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
+    "pubDate": "2026-09-02T23:01:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI編集者は作家の卵を育てるか　KADOKAWA、構想整理し完成まで伴走 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC264TR0W6A820C2000000/",
+    "pubDate": "2026-09-02T22:46:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め",
+    "link": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
+    "pubDate": "2026-09-02T21:46:37.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "MCP vs. API（REST・SOAP・GraphQL・gRPC）どれが使える？ 日本の業務システム 56 件を調べてみた",
     "link": "https://qiita.com/songchong/items/64a8710cffb39963c2b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-02T19:42:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "信頼できるAI基盤の実証 — オフライン閉域環境でAIは組織の右腕になれるか — | デジタル人材の育成 | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/pm_ai.html",
+    "pubDate": "2026-09-02T18:08:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "pubDate": "2026-09-02T16:26:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIにまじなスライド作らせる｜【公式】Jinba",
+    "link": "https://note.com/jinbaflow/n/nc8372b84e572",
+    "pubDate": "2026-09-02T16:04:06.000Z"
   },
   {
     "site": "Hatena",
@@ -18,40 +60,16 @@
     "pubDate": "2026-09-02T12:53:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "米NY市、公立校でのAI利用禁止へ 中学生以下対象",
-    "link": "https://www.afpbb.com/articles/-/3651158",
-    "pubDate": "2026-09-02T12:10:01.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました",
     "link": "https://zenn.dev/mybest_dev/articles/2cd71bc64ad380",
-    "pubDate": "2026-09-02T11:03:39.000Z"
+    "pubDate": "Wed, 02 Sep 2026 09:00:32 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド",
-    "link": "https://free-wi.fi/",
-    "pubDate": "2026-09-02T10:10:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け　デザインにも影響",
-    "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001082/",
-    "pubDate": "2026-09-02T10:03:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東大の新「価値創造学部」に批判相次ぐ……「他学部は価値を創造していないのか」「空虚な名前」",
-    "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001084/",
-    "pubDate": "2026-09-02T08:17:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2137283.html",
-    "pubDate": "2026-09-02T07:03:31.000Z"
+    "site": "Zenn",
+    "title": "AIエージェント時代にデータサイエンティストは生き残れるのか",
+    "link": "https://zenn.dev/miogawa/articles/09bed306fc615a",
+    "pubDate": "Wed, 02 Sep 2026 08:30:05 GMT"
   },
   {
     "site": "Zenn",
@@ -62,7 +80,7 @@
   {
     "site": "Qiita",
     "title": "Claude Fable 5.1、キャッシュ読みは4分の1。ただし tool_choice が400を返す",
-    "link": "https://qiita.com/jqit_suwa/items/c0f5b86dfb8a3106cbaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "link": "https://qiita.com/suwa_nobu/items/c0f5b86dfb8a3106cbaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-02T04:25:48.000Z"
   },
   {
@@ -70,6 +88,12 @@
     "title": "Anthropic公式のClaude Code講座で学んだ「4つのD」",
     "link": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
     "pubDate": "2026-09-02T02:47:58.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "テスト見積もりは掛け算2つで出せる",
+    "link": "https://zenn.dev/bitkey_dev/articles/test-estimation-formula",
+    "pubDate": "Wed, 02 Sep 2026 02:30:05 GMT"
   },
   {
     "site": "Qiita",
@@ -92,13 +116,13 @@
   {
     "site": "Qiita",
     "title": "Claude Fable 5.1、2ターン目のキャッシュに12回中8回乗り損ねた",
-    "link": "https://qiita.com/jqit_suwa/items/8ae6739d0bb525e1b41b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "link": "https://qiita.com/suwa_nobu/items/8ae6739d0bb525e1b41b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-02T00:40:44.000Z"
   },
   {
     "site": "Qiita",
     "title": "Claude Code のサブエージェント、モデルの固定手段が4日で戻ってきた",
-    "link": "https://qiita.com/jqit_suwa/items/e0e1ca2287fb4da46852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "link": "https://qiita.com/suwa_nobu/items/e0e1ca2287fb4da46852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-02T00:40:27.000Z"
   },
   {
@@ -126,40 +150,16 @@
     "pubDate": "Tue, 01 Sep 2026 08:46:36 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【落合陽一】AIを前にロジカルシンキングは無意味。エンジニアなら「仕事で使える“本物”」で勝負してほしい - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/31627/",
-    "pubDate": "2026-09-01T08:20:30.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Web 標準動向 2026年8月版",
     "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608",
     "pubDate": "Tue, 01 Sep 2026 08:00:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例",
-    "link": "https://zenn.dev/atamaplus/articles/6be03483c0110b",
-    "pubDate": "Tue, 01 Sep 2026 07:50:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "企業様に呼ばれて、1時間Copilotについて登壇してきました",
     "link": "https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-01T01:45:24.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "会話セッションを邪魔せずに Claude Code / Codex / Cursor を外部イベントで動かすCLIの作り方まとめ",
-    "link": "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
-    "pubDate": "Tue, 01 Sep 2026 01:03:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "無音で文字起こしすると「ご視聴ありがとうございました」になる理由を検証",
-    "link": "https://zenn.dev/trtd56/articles/994f43aebd2057",
-    "pubDate": "Tue, 01 Sep 2026 00:39:17 GMT"
   },
   {
     "site": "Qiita",
