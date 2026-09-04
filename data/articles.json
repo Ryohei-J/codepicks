@@ -1,15 +1,27 @@
 [
   {
     "site": "Hatena",
-    "title": "複数のAIサービスで障害発生　ChatGPT／Claude／Grok",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
-    "pubDate": "2026-09-03T16:15:44.000Z"
+    "title": "「おっぱい」の話ができるSNSと、できないSNS",
+    "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
+    "pubDate": "2026-09-04T00:38:18.000Z"
   },
   {
     "site": "Hatena",
-    "title": "オラに演算能力を分けてくれ！NVIDIA、家庭内のPCで分散推論する「PAIR」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2138088.html",
-    "pubDate": "2026-09-03T16:07:16.000Z"
+    "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
+    "pubDate": "2026-09-03T21:43:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
+    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
+    "pubDate": "2026-09-03T21:13:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
+    "link": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
+    "pubDate": "2026-09-03T18:13:28.000Z"
   },
   {
     "site": "Qiita",
@@ -19,15 +31,9 @@
   },
   {
     "site": "Hatena",
-    "title": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2138142.html",
-    "pubDate": "2026-09-03T14:39:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "NVIDIA to Acquire Hugging Face",
-    "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-    "pubDate": "2026-09-03T12:56:57.000Z"
+    "title": "レンタカーを借りた数時間後に自分の運転免許証がダークウェブで売りに出される",
+    "link": "https://gigazine.net/news/20260903-rented-car-driver-license-sale/",
+    "pubDate": "2026-09-03T13:17:59.000Z"
   },
   {
     "site": "Hatena",
@@ -36,16 +42,16 @@
     "pubDate": "2026-09-03T11:43:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "無料の動画編集ソフト「OpenShot 4.0」、カラーグレーディングに対応、ローカルAIも導入／10種類の新エフェクト、ネイティブ「Qt」への移行でタイムラインも快適に",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2137683.html",
-    "pubDate": "2026-09-03T10:19:33.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【学習記録ツール作成】振り返り",
     "link": "https://qiita.com/J-T_ky2g/items/6438e0dac642dd3af5a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-03T09:54:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Ubiquiti UniFi の管理者ページを Microsoft Entra ID からシングルサインオンするための設定メモ",
+    "link": "https://zenn.dev/shimosyan/articles/af959e573ffd18",
+    "pubDate": "Thu, 03 Sep 2026 09:17:12 GMT"
   },
   {
     "site": "Qiita",
@@ -58,18 +64,6 @@
     "title": "「在宅勤務って本当にラク？」未経験でIT業界を目指すなら知っておきたいリモートワークのこと",
     "link": "https://qiita.com/m__ikeda/items/1960963c3c59591763ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-03T08:12:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Uber Eatsで2,232円の注文、配達員に10,532円を渡したら、「ローソンで両替してくる」と言ったまま戻らず、お釣り8,300円を持ち逃げ←ツッコミ殺到…公式が対応する展開に",
-    "link": "https://togetter.com/li/2740824",
-    "pubDate": "2026-09-03T07:41:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
-    "link": "https://satoweb.net/2026/09/p-18390/",
-    "pubDate": "2026-09-03T06:52:56.000Z"
   },
   {
     "site": "Hatena",
@@ -90,10 +84,16 @@
     "pubDate": "2026-09-03T00:25:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤 - MonotaRO Tech Blog",
-    "link": "https://tech-blog.monotaro.com/entry/2026/09/03/090000",
-    "pubDate": "2026-09-03T00:16:00.000Z"
+    "site": "Zenn",
+    "title": "Prisma v7 移行のつまづきポイントと、importを安全に置き換えた話",
+    "link": "https://zenn.dev/dress_code/articles/b9a34a1a55fd95",
+    "pubDate": "Thu, 03 Sep 2026 00:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "シャドーAIエージェントはログがないと止められない（TrendAI Spark 2026 仙台 参加レポ）",
+    "link": "https://zenn.dev/nexta_/articles/d0b88ea83ee861",
+    "pubDate": "Wed, 02 Sep 2026 23:55:05 GMT"
   },
   {
     "site": "Qiita",
@@ -132,16 +132,28 @@
     "pubDate": "Wed, 02 Sep 2026 05:25:32 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Code のトークン節約でやっている 9 つのこと — 起動 7 万トークンの内訳と計測つき",
+    "link": "https://zenn.dev/activecore/articles/claude-code-resident-cost",
+    "pubDate": "Wed, 02 Sep 2026 04:54:11 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "テスト見積もりは掛け算2つで出せる",
+    "link": "https://zenn.dev/bitkey_dev/articles/test-estimation-formula",
+    "pubDate": "Wed, 02 Sep 2026 02:30:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "カジュアル面談で「特に質問ないです」が、実は一番もったいない理由",
     "link": "https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-02T01:47:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Tauriのアプリケーションでダークモードを実装する",
-    "link": "https://zenn.dev/ayaextech_fill/articles/tauri-application-dark-mode",
-    "pubDate": "Tue, 01 Sep 2026 17:33:07 GMT"
+    "site": "Hatena",
+    "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
+    "pubDate": "2026-09-01T14:04:25.000Z"
   },
   {
     "site": "Zenn",
@@ -150,33 +162,21 @@
     "pubDate": "Tue, 01 Sep 2026 10:00:05 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Rust の ORM 選定に新しい選択肢は来るか？ Toasty を使ってみる",
-    "link": "https://zenn.dev/uniquevision/articles/345368d3188b98",
-    "pubDate": "Tue, 01 Sep 2026 09:31:23 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
-    "link": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
-    "pubDate": "Tue, 01 Sep 2026 08:46:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 標準動向 2026年8月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608",
-    "pubDate": "Tue, 01 Sep 2026 08:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例",
-    "link": "https://zenn.dev/atamaplus/articles/6be03483c0110b",
-    "pubDate": "Tue, 01 Sep 2026 07:50:31 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "企業様に呼ばれて、1時間Copilotについて登壇してきました",
     "link": "https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-01T01:45:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なのにあなたはKindleで買うの？　Google Play Booksで買った本をGemini Notebookにぶち込めてAI対話できる新機能登場（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/08/31/5446.html",
+    "pubDate": "2026-08-31T04:28:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
+    "link": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
+    "pubDate": "2026-08-14T12:19:54.000Z"
   }
 ]
