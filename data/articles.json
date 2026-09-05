@@ -1,27 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
+    "link": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
+    "pubDate": "2026-09-05T06:08:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
+    "link": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
+    "pubDate": "2026-09-05T06:08:16.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開",
+    "link": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+    "pubDate": "2026-09-05T04:25:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影をAIで消して「この方が主題が引き立つでしょ？」とドヤ顔するやつがいて修羅場",
+    "link": "https://togetter.com/li/2741594",
+    "pubDate": "2026-09-05T03:49:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エンジニアリングは、 どこまで拡大解釈できるか 「一人でもプロダクトが作れるこの時代に、 私は、あなたとプロダクトを作りたいのです」 と言われるために心技体を繋いでいく",
+    "link": "https://speakerdeck.com/gimupop/pdeconfarence",
+    "pubDate": "2026-09-05T03:23:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code の Rules はもう死んでいる - kawasin73のブログ",
+    "link": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
+    "pubDate": "2026-09-05T03:06:41.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "日本のデータセンター4倍へ、8年で10兆円投資　AI向けで米中に次ぐ - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
     "pubDate": "2026-09-04T23:34:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/2026/09/03/200000",
-    "pubDate": "2026-09-04T18:45:45.000Z"
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 9",
+    "link": "https://qiita.com/maskot1977/items/ec2e50adced923fecb94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-04T15:33:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI をつかってみて思うこと (2026年9月4日)",
-    "link": "https://member.ipmu.jp/yuji.tachikawa/misc/ai2026.html",
-    "pubDate": "2026-09-04T13:57:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIに過剰に肯定された人の予後 - orangestar2",
-    "link": "https://orangestar2.hatenadiary.com/entry/2026/09/04/210407",
-    "pubDate": "2026-09-04T12:04:17.000Z"
+    "site": "Qiita",
+    "title": "AgentCore Gatewayで送信元IP制限のある接続先に接続する",
+    "link": "https://qiita.com/takahash_3/items/0396070f5766efe984a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-04T14:18:02.000Z"
   },
   {
     "site": "Hatena",
@@ -31,21 +61,9 @@
   },
   {
     "site": "Zenn",
-    "title": "WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと",
-    "link": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
-    "pubDate": "2026-09-04T09:19:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」",
-    "link": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
-    "pubDate": "2026-09-04T07:07:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Geminiの助言で遭難、食料も水も不足--ずさんな登山が浮き彫りにする「AI依存」の危険性",
-    "link": "https://japan.cnet.com/article/35252306/",
-    "pubDate": "2026-09-04T06:57:17.000Z"
+    "title": "LLMでカタログPDFから構造化データを抽出する：プロンプト設計と後処理の実践",
+    "link": "https://zenn.dev/optimax/articles/0fc6979bd6e0eb",
+    "pubDate": "Fri, 04 Sep 2026 06:55:59 GMT"
   },
   {
     "site": "Zenn",
@@ -67,21 +85,21 @@
   },
   {
     "site": "Qiita",
+    "title": "Power AutomateとPower Appsを活用し、セキュリティ担当者の月次確認業務を50％削減！",
+    "link": "https://qiita.com/AyakoYamada/items/bb7788d1db6df66446b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-04T01:57:27.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "30代薬剤師が2ヶ月でITエンジニアをクビになって求職活動した",
     "link": "https://qiita.com/kentyo0813/items/effb9105cf6267312d9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-04T01:43:28.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Claude Code のキャッシュ、ツールを使ったターンだけ乗るようになった",
-    "link": "https://qiita.com/suwa_nobu/items/3a135f5db9d53257a9e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-04T01:33:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Rust + OpenTelemetryで分散トレーシング入門 ― ECS FargateからAWS X-Rayへ",
-    "link": "https://qiita.com/Ota1022/items/54762eaae03b84252a3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-04T01:15:06.000Z"
+    "title": "AIに設計を任せるときに気をつけたい。「正しく動く」と「増えても耐えられる」は別だった",
+    "link": "https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-04T00:39:25.000Z"
   },
   {
     "site": "Zenn",
@@ -114,28 +132,10 @@
     "pubDate": "2026-09-03T14:36:40.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "トークン課金を気にせず生成AIを使いたい！OpenAI互換APIで“社内生成AI”を構築できるOracle Private AI Services Containerを試してみた",
-    "link": "https://qiita.com/ssfujita/items/1b902f20dfc2c64ad44f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-03T08:14:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「在宅勤務って本当にラク？」未経験でIT業界を目指すなら知っておきたいリモートワークのこと",
-    "link": "https://qiita.com/m__ikeda/items/1960963c3c59591763ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-03T08:12:02.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
     "link": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
     "pubDate": "Thu, 03 Sep 2026 06:02:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プッシュ通知を「無理やり許可させない」ために、表現も実装も選び直した話",
-    "link": "https://zenn.dev/wn_engineering/articles/4f914e97053eac",
-    "pubDate": "Thu, 03 Sep 2026 03:00:07 GMT"
   },
   {
     "site": "Zenn",
