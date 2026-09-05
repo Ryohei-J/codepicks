@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": ".gitignore everything by default",
+    "link": "https://packagemain.tech/p/gitignore-everything-by-default",
+    "pubDate": "2026-09-05T14:58:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "バックエンド開発Handbookを届けるために ― AI時代の知の高速道路を敷く - Timee Product Team Blog",
+    "link": "https://tech.timee.co.jp/entry/2026/02/24/100702",
+    "pubDate": "2026-09-05T08:01:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIで実装は速くなった。なのにプロダクトは速くならない。職能の壁を越えて価値のフローを設計する",
     "link": "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru",
     "pubDate": "2026-09-05T06:29:01.000Z"
@@ -18,6 +30,12 @@
     "pubDate": "2026-09-05T06:08:16.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "「全員が全部やる」体制で スループット3倍　〜1人1案件 × AI開発を支えた「プロセス監督」の2ヶ月〜",
+    "link": "https://speakerdeck.com/non0113/zenin-ga-zenbu-yaru-taisei-de-suruputto-3-bai-1-hito-1-anken-x-ai-kaihatsu-o-sasaeta-purosesu-kantoku-no-2-kagetsu",
+    "pubDate": "2026-09-05T05:41:35.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "[OpenTelemetry] Go のコンパイル時計装において、ctx 伝搬なしで span を紐づける仕組みについて調べた",
     "link": "https://zenn.dev/ntk221/articles/34cbb95272720f",
@@ -31,15 +49,9 @@
   },
   {
     "site": "Hatena",
-    "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影をAIで消して「この方が主題が引き立つでしょ？」とドヤ顔するやつがいて修羅場",
-    "link": "https://togetter.com/li/2741594",
-    "pubDate": "2026-09-05T03:49:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアリングは、 どこまで拡大解釈できるか 「一人でもプロダクトが作れるこの時代に、 私は、あなたとプロダクトを作りたいのです」 と言われるために心技体を繋いでいく",
-    "link": "https://speakerdeck.com/gimupop/pdeconfarence",
-    "pubDate": "2026-09-05T03:23:14.000Z"
+    "title": "Rust製の高速MarkdownリンターMadoが良さげかも | kawarimidoll.com",
+    "link": "https://kawarimidoll.com/posts/202609051/",
+    "pubDate": "2026-09-05T04:05:49.000Z"
   },
   {
     "site": "Hatena",
@@ -58,12 +70,6 @@
     "title": "AgentCore Gatewayで送信元IP制限のある接続先に接続する",
     "link": "https://qiita.com/takahash_3/items/0396070f5766efe984a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-04T14:18:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "あわや大惨事!!　夏になるとなぜか剥がれるSwitchBot ロックUltraの両面テープ問題に終止符を打つ 【テレワークグッズ・ミニレビュー 第166回】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2138319.html",
-    "pubDate": "2026-09-04T08:37:20.000Z"
   },
   {
     "site": "Zenn",
@@ -124,12 +130,6 @@
     "title": "お母さん！僕、日記をドメインに書くことにしたの",
     "link": "https://zenn.dev/pepabo/articles/fd7a61e75f3dcc",
     "pubDate": "Thu, 03 Sep 2026 23:30:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIエージェント時代のコードレビューを設計する",
-    "link": "https://speakerdeck.com/nogu66/ai-ejento-jidai-no-kodo-rebyu-o-sekkei-suru",
-    "pubDate": "2026-09-03T18:29:15.000Z"
   },
   {
     "site": "Qiita",
