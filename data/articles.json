@@ -1,5 +1,11 @@
 [
   {
+    "site": "Qiita",
+    "title": "APIあるのに手入力？ 業務システムから分かるデータ連携の罠｜「項目名1つ1つの突合」から見えてきた現実",
+    "link": "https://qiita.com/songchong/items/d1e1e908a1b76d6995b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-06T07:34:22.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
     "link": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
@@ -7,9 +13,27 @@
   },
   {
     "site": "Hatena",
+    "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
+    "link": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+    "pubDate": "2026-09-05T23:15:01.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
     "link": "https://note.com/npaka/n/n9635d06c377f",
     "pubDate": "2026-09-05T23:12:07.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【React】default exportなら無名関数でコンポーネント定義できる",
+    "link": "https://qiita.com/J-T_ky2g/items/a5b9a6acf097ade52c9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-05T22:40:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "やはりKubernetesからは逃れられない - まいの雑記帳",
+    "link": "https://mq1.dev/entry/U0w-0MgT8IhM",
+    "pubDate": "2026-09-05T18:30:52.000Z"
   },
   {
     "site": "Hatena",
@@ -24,18 +48,6 @@
     "pubDate": "2026-09-05T15:00:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": ".gitignore everything by default",
-    "link": "https://packagemain.tech/p/gitignore-everything-by-default",
-    "pubDate": "2026-09-05T14:58:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ORM が引き受けている責務を分解してみる | ashunar0",
-    "link": "https://ashunar0.dev/posts/orm-responsibilities/",
-    "pubDate": "2026-09-05T14:46:33.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "構造力学パズル「SigmaZero」を AI と作った 196 日・952 コミット—Unity教科書の勉強から Claude Code のエージェント組織運営まで",
     "link": "https://qiita.com/Oborova/items/95b314104ec0538f9b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -48,16 +60,10 @@
     "pubDate": "2026-09-05T13:23:09.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
-    "link": "https://gigazine.net/news/20260905-robot-olympics/",
-    "pubDate": "2026-09-05T12:15:58.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能",
-    "link": "https://gigazine.net/news/20260905-docubrowser/",
-    "pubDate": "2026-09-05T09:41:47.000Z"
+    "site": "Zenn",
+    "title": "単一特徴量でロング・ショートを組むとき、相関の高いペアを選ぶ理由",
+    "link": "https://zenn.dev/gamella/articles/2b0d84fd597da3",
+    "pubDate": "Sat, 05 Sep 2026 10:40:24 GMT"
   },
   {
     "site": "Hatena",
@@ -66,28 +72,16 @@
     "pubDate": "2026-09-05T08:55:42.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "デザインハーネス 〜AIが生成する\"デザイン\"の妥当性を、誰がどう担保するのか〜 / PdEConf2026 Design Harness",
+    "link": "https://speakerdeck.com/kgsi/pdeconf2026-design-harness",
+    "pubDate": "2026-09-05T08:51:46.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "音声を外に出さずに文字起こし。個人開発アプリ「Privoxa」を作りました",
     "link": "https://qiita.com/subculapp/items/e9e5593854909bd4d73f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-05T07:19:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "The asteroid currently hitting frontend web development",
-    "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "pubDate": "2026-09-05T05:28:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[OpenTelemetry] Go のコンパイル時計装において、ctx 伝搬なしで span を紐づける仕組みについて調べた",
-    "link": "https://zenn.dev/ntk221/articles/34cbb95272720f",
-    "pubDate": "Sat, 05 Sep 2026 05:20:31 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
-    "link": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-05T03:19:18.000Z"
   },
   {
     "site": "Zenn",
@@ -96,10 +90,16 @@
     "pubDate": "Sat, 05 Sep 2026 01:33:15 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AgentCore Gatewayで送信元IP制限のある接続先に接続する",
-    "link": "https://qiita.com/takahash_3/items/0396070f5766efe984a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-04T14:18:02.000Z"
+    "site": "Hatena",
+    "title": "軍事技術に反対するならインターネットは使えない、という揶揄はバカバカしいからやめるべき - 法華狼の日記",
+    "link": "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959",
+    "pubDate": "2026-09-04T15:34:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "技術力に優劣はない(「技術力に優劣はある(「技術力に優劣はない」を読んで)」を読んで) - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/04/113629",
+    "pubDate": "2026-09-04T09:39:02.000Z"
   },
   {
     "site": "Zenn",
@@ -139,12 +139,6 @@
   },
   {
     "site": "Zenn",
-    "title": "WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと",
-    "link": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
-    "pubDate": "Thu, 03 Sep 2026 23:33:44 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "お母さん！僕、日記をドメインに書くことにしたの",
     "link": "https://zenn.dev/pepabo/articles/fd7a61e75f3dcc",
     "pubDate": "Thu, 03 Sep 2026 23:30:05 GMT"
@@ -178,5 +172,11 @@
     "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
     "link": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
     "pubDate": "Wed, 02 Sep 2026 05:25:32 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "テスト見積もりは掛け算2つで出せる",
+    "link": "https://zenn.dev/bitkey_dev/articles/test-estimation-formula",
+    "pubDate": "Wed, 02 Sep 2026 02:30:05 GMT"
   }
 ]
