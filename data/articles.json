@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "GitHub - Tencent/teamai-cli: Make Every Team AI Native",
+    "link": "https://github.com/Tencent/teamai-cli",
+    "pubDate": "2026-09-07T16:43:47.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ITエンジニアあるある「フィクションのIT系の演出でリアリティがなくて冷める」→素晴らしいバランスを持つマンガが貼られて胃がキュッとなる",
     "link": "https://togetter.com/li/2742721",
     "pubDate": "2026-09-07T10:29:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "性格悪い離婚増田の記事を読んで、自分の頭で一定程度考えながら生成AIと壁打ちして問題点を深掘りしてみた",
+    "link": "https://anond.hatelabo.jp/20260907191254",
+    "pubDate": "2026-09-07T10:19:34.000Z"
   },
   {
     "site": "Hatena",
@@ -25,27 +37,27 @@
   },
   {
     "site": "Hatena",
-    "title": "【やじうまミニレビュー】 スマホのType-Cが足りない問題、2千円弱で解決。バッファローの分配ハブを試した",
-    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2138619.html",
-    "pubDate": "2026-09-07T07:57:12.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
     "link": "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/",
     "pubDate": "2026-09-07T07:04:19.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GMKtec、192GBメモリで300B級LLMをローカル推論するミニPC「EVO-X5 Pro」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2138676.html",
-    "pubDate": "2026-09-07T05:42:53.000Z"
+    "title": "Microsoft、“世界でもっとも高速・高精度で安価”とうたう音声認識モデルを発表、「MAI-Transcribe-2」／60言語の平均単語誤り率（WER）で比較対象中トップ、処理速度も向上",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2138699.html",
+    "pubDate": "2026-09-07T06:35:00.000Z"
   },
   {
     "site": "Zenn",
     "title": "ドメインモデル貧血症はなぜ生まれるのか — Decision パターンで DDD トリレンマを解く",
     "link": "https://zenn.dev/tellernovel_inc/articles/0193eb68cabb6e",
     "pubDate": "Mon, 07 Sep 2026 03:03:17 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
+    "link": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-07T02:53:07.000Z"
   },
   {
     "site": "Zenn",
@@ -72,12 +84,6 @@
     "pubDate": "Mon, 07 Sep 2026 01:17:48 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ",
-    "link": "https://jidounten-lab.com/u_67445",
-    "pubDate": "2026-09-07T00:31:11.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Astraのリリースに合わせてAGENTS.mdを修正するなら「request_user_input」も使って体験良くチューニングしよう",
     "link": "https://zenn.dev/cureapp/articles/9dd3298ce84b47",
@@ -90,10 +96,22 @@
     "pubDate": "Mon, 07 Sep 2026 00:05:00 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
+    "link": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-06T23:56:41.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "AIがお姉ちゃんになって3年が過ぎました - 本しゃぶり",
     "link": "https://honeshabri.hatenablog.com/entry/AIone-chan2026",
     "pubDate": "2026-09-06T23:43:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【プロンプト公開】他のAIが3日後に知る情報を、Grokは「今」教えてくれる。Grok × Xで技術ニュース収集が完全無料で「週10分」に激変した話",
+    "link": "https://qiita.com/shinkai_/items/710c03dbfc8ecf849496?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-06T22:49:27.000Z"
   },
   {
     "site": "Qiita",
@@ -112,12 +130,6 @@
     "title": "最近取り入れたClaude Codeの個人的tips 4選",
     "link": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-06T21:48:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIエージェント14製品を徹底比較｜暴走せず社内業務を任せられるのは？ Claude・Cursor・Devin・Manus…【中小企業の導入判断ガイド】",
-    "link": "https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-06T16:02:59.000Z"
   },
   {
     "site": "Zenn",
@@ -157,12 +169,6 @@
   },
   {
     "site": "Qiita",
-    "title": "APIあるのに手入力？ 業務システムから分かるデータ連携の罠｜「項目名1つ1つの突合」から見えてきた現実",
-    "link": "https://qiita.com/songchong/items/d1e1e908a1b76d6995b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-06T07:34:22.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "【React】default exportは無名関数でコンポーネントを作っても動いてしまう",
     "link": "https://qiita.com/J-T_ky2g/items/a5b9a6acf097ade52c9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-05T22:40:14.000Z"
@@ -172,11 +178,5 @@
     "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
     "link": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-05T03:19:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "オライリー本の表紙動物を1432匹、全部数えて分類してみた",
-    "link": "https://qiita.com/yama3133/items/5d9dab683e58e5396d47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-04T13:45:51.000Z"
   }
 ]
