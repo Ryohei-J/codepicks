@@ -1,9 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
+    "link": "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/",
+    "pubDate": "2026-09-07T07:04:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグル「Pixel 6a」で発火事故、消費者庁が重大製品事故として公表",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2138795.html",
+    "pubDate": "2026-09-07T06:53:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ケニアの一大ビジネスになっていた「論文のゴーストライター」ビジネスがAIの登場で崩壊",
+    "link": "https://gigazine.net/news/20260907-kenya-ghost-writing-ended/",
+    "pubDate": "2026-09-07T05:20:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2138647.html",
+    "pubDate": "2026-09-07T03:17:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「効率よく成長したい」は悪くない。でも、近道ばかり探してしまうと損をする。",
+    "link": "https://qiita.com/m__ikeda/items/dec5350f38c748cb5b6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-07T02:19:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ADRは経緯より「決まったこと」だけでいい",
+    "link": "https://zenn.dev/yamitake/articles/adr-decision-over-context",
+    "pubDate": "2026-09-07T02:10:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIを「社内一の怠け者だけど優秀なベテランエンジニア」に変えるツール「ポニーテール」が生成コードを最大94%削減する（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/09/07/5471.html",
+    "pubDate": "2026-09-07T01:32:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "WebエンジニアのためのReact Native + NativeWind v5事始め — Webの常識が通用しない18のポイント",
+    "link": "https://zenn.dev/my_vision/articles/2bbf47bb0db842",
+    "pubDate": "Mon, 07 Sep 2026 01:17:48 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
     "link": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
     "pubDate": "2026-09-07T00:36:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ",
+    "link": "https://jidounten-lab.com/u_67445",
+    "pubDate": "2026-09-07T00:31:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録",
+    "link": "https://zenn.dev/coji/articles/solo-software-factory-without-reading-code",
+    "pubDate": "Mon, 07 Sep 2026 00:05:00 GMT"
   },
   {
     "site": "Hatena",
@@ -12,22 +72,22 @@
     "pubDate": "2026-09-06T23:19:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech",
-    "link": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
-    "pubDate": "2026-09-06T22:16:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
-    "link": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
-    "pubDate": "2026-09-06T16:58:41.000Z"
+    "site": "Qiita",
+    "title": "【AWS初心者向け】インフラ構成を図解で理解しよう！ALB・ECS・RDS・Lambda・NAT Gateway・VPCエンドポイントを一気に学ぶ",
+    "link": "https://qiita.com/Nao52/items/35441e4b0009aa128610?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-06T22:40:31.000Z"
   },
   {
     "site": "Qiita",
-    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 10",
-    "link": "https://qiita.com/maskot1977/items/dcc594be88032bd4ea68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-06T16:29:44.000Z"
+    "title": "マジックリンクでログインできない原因はメールのURLスキャンだった",
+    "link": "https://qiita.com/kuma_3838/items/1fc232b42c344260021d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-06T21:48:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "最近取り入れたClaude Codeの個人的tips 4選",
+    "link": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-06T21:48:30.000Z"
   },
   {
     "site": "Qiita",
@@ -40,12 +100,6 @@
     "title": "初学者がRustに触れて感じたこと",
     "link": "https://zenn.dev/darkcat666/articles/c2a19b874900ab",
     "pubDate": "Sun, 06 Sep 2026 12:09:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Datadogのアラート通知設定のベストプラクティス。Monitorに@を直書きする運用から卒業する",
-    "link": "https://zenn.dev/kumasunny/articles/datadog-alert-notification-best-practices",
-    "pubDate": "2026-09-06T11:52:06.000Z"
   },
   {
     "site": "Zenn",
@@ -68,20 +122,14 @@
   {
     "site": "Zenn",
     "title": "ルービックキューブを一撃で解く専用LLMを作った",
-    "link": "https://zenn.dev/issei_y/articles/4178a603322b8e",
+    "link": "https://zenn.dev/turing_motors/articles/4178a603322b8e",
     "pubDate": "Sun, 06 Sep 2026 10:48:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
-    "link": "https://scgajge12.hatenablog.com/entry/closed_network_security",
-    "pubDate": "2026-09-06T09:34:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中",
-    "link": "https://note.com/omohibito_moe/n/n643dc02f8c32",
-    "pubDate": "2026-09-06T08:31:39.000Z"
+    "site": "Zenn",
+    "title": "React Compilerは、純粋じゃないコードをどう扱うのか。3つのルールを破って確かめた",
+    "link": "https://zenn.dev/smartcamp/articles/07b6485eb7bfc8",
+    "pubDate": "Sun, 06 Sep 2026 08:20:25 GMT"
   },
   {
     "site": "Qiita",
@@ -97,15 +145,9 @@
   },
   {
     "site": "Zenn",
-    "title": "GPT-2-likeからQwen2-likeへの実験：第3回 絶対位置EmbeddingをRoPEに変える",
-    "link": "https://zenn.dev/yyamamot/articles/gpt2-to-qwen2-03-rope",
-    "pubDate": "Sun, 06 Sep 2026 06:45:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人PCのClaude Codeの設定ファイルと、設定の動機を一部紹介します",
-    "link": "https://zenn.dev/yuki82511988/articles/45a5a464514ac1",
-    "pubDate": "Sun, 06 Sep 2026 01:32:12 GMT"
+    "title": "フル Google Cloud 環境で PR ごとのプレビュー環境を構築した",
+    "link": "https://zenn.dev/dev_commune/articles/google-cloud-pr-preview-environment",
+    "pubDate": "Sun, 06 Sep 2026 06:46:56 GMT"
   },
   {
     "site": "Qiita",
@@ -121,12 +163,6 @@
   },
   {
     "site": "Zenn",
-    "title": "単一特徴量でロング・ショートを組むとき、相関の高いペアを選ぶ理由",
-    "link": "https://zenn.dev/gamella/articles/2b0d84fd597da3",
-    "pubDate": "Sat, 05 Sep 2026 10:40:24 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "[OpenTelemetry] Go のコンパイル時計装において、ctx 伝搬なしで span を紐づける仕組みについて調べた",
     "link": "https://zenn.dev/ntk221/articles/34cbb95272720f",
     "pubDate": "Sat, 05 Sep 2026 05:20:31 GMT"
@@ -138,45 +174,9 @@
     "pubDate": "2026-09-05T03:19:18.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "CとGoの生成コードを読む ― アセンブリから見る言語設計の違い",
-    "link": "https://zenn.dev/saku0512/books/3735de8d0aa09f",
-    "pubDate": "Sat, 05 Sep 2026 01:33:15 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "AgentCore Gatewayで送信元IP制限のある接続先に接続する",
-    "link": "https://qiita.com/takahash_3/items/0396070f5766efe984a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-04T14:18:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "デジタル庁は、デザインシステムをAIに読ませ始めた。Markdown配布が示すこと｜How many designs",
-    "link": "https://note.com/howmanydesigns/n/na108d69827ce",
-    "pubDate": "2026-09-04T06:34:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "IT面接で職務経歴書で見ているのは「すごい実績」だけではありません",
-    "link": "https://qiita.com/m__ikeda/items/c8705ed320aa15dc9db0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-04T02:56:14.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Power AutomateとPower Appsを活用し、セキュリティ担当者の月次確認業務を50％削減！",
-    "link": "https://qiita.com/AyakoYamada/items/bb7788d1db6df66446b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-04T01:57:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIに設計を任せるときに気をつけたい。「正しく動く」と「増えても耐えられる」は別だった",
-    "link": "https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-04T00:39:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN",
-    "link": "https://github.com/TabularisDB/tabularis",
-    "pubDate": "2026-06-25T08:59:02.000Z"
+    "title": "オライリー本の表紙動物を1432匹、全部数えて分類してみた",
+    "link": "https://qiita.com/yama3133/items/5d9dab683e58e5396d47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-04T13:45:51.000Z"
   }
 ]
