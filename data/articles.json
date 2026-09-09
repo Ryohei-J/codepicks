@@ -1,9 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2139675.html",
+    "pubDate": "2026-09-09T19:12:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIエージェントにファイルを消される・課金が止まらない・秘密鍵が漏れる｜暴走の原理と4層の対策を調べてみた",
+    "link": "https://qiita.com/songchong/items/252947681e7914cd9e2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-09T17:47:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエージェント向けコーディングルールをArchUnitで機械的に検証する運用 - ZOZO TECH BLOG",
+    "link": "https://techblog.zozo.com/entry/verify-ai-agent-coding-rules-with-archunit",
+    "pubDate": "2026-09-09T13:57:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AWS DevOps Agentで インシデント対応をAIに任せたい",
     "link": "https://speakerdeck.com/honmarkhunt/aws-devops-agent-de-inshidento-taiou-o-ai-ni-makasetai",
     "pubDate": "2026-09-09T12:23:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「1週間以内に自殺しようとする人」を75％の精度で予測することに成功",
+    "link": "https://gigazine.net/news/20260909-predicts-next-week-suicide-attempts/",
+    "pubDate": "2026-09-09T11:06:57.000Z"
   },
   {
     "site": "Hatena",
@@ -31,18 +55,6 @@
   },
   {
     "site": "Hatena",
-    "title": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応　JCBとCPS",
-    "link": "https://www.watch.impress.co.jp/docs/news/2139467.html",
-    "pubDate": "2026-09-09T06:35:10.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
-    "link": "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000",
-    "pubDate": "2026-09-09T06:22:15.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ　事務局がAI使用明かす【訂正あり】",
     "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
     "pubDate": "2026-09-09T06:00:35.000Z"
@@ -55,15 +67,15 @@
   },
   {
     "site": "Hatena",
-    "title": "【2026年最新】7年目エンジニアが推薦する、運用保守/DevOpsを学べる名著7選｜leon_devops",
-    "link": "https://note.com/leon_devops/n/n493967c6917c",
-    "pubDate": "2026-09-09T05:15:09.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「AIでなくなる仕事」ビル・ゲイツが明言　いま始まる“人間の仕事”争奪戦",
     "link": "https://news.tv-asahi.co.jp/news_international/articles/900199131.html",
     "pubDate": "2026-09-09T04:59:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【採用担当の本音】入社1ヶ月目で「この人を採用して本当に良かった」と思われる人の特徴",
+    "link": "https://qiita.com/m__ikeda/items/bfd4639b3278a3f1c9ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-09T02:51:18.000Z"
   },
   {
     "site": "Qiita",
@@ -106,12 +118,6 @@
     "title": "Amazon Bedrock 料金が一定額を超えたら使用不可にする仕組みを作ってみた",
     "link": "https://zenn.dev/hatose/articles/ebc0dd996b2cbd",
     "pubDate": "Tue, 08 Sep 2026 15:07:33 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "MCPサーバーを1つ作って分かった、「MCP対応」の前にやること｜業務システム56件・MCP提供は25.0%",
-    "link": "https://qiita.com/songchong/items/8b48962aa6d5408abe86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-08T14:00:53.000Z"
   },
   {
     "site": "Zenn",
@@ -166,12 +172,6 @@
     "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
     "link": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-06T23:56:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS初心者向け】インフラ構成を図解で理解しよう！ALB・ECS・RDS・Lambda・NAT Gateway・VPCエンドポイントを一気に学ぶ",
-    "link": "https://qiita.com/Nao52/items/35441e4b0009aa128610?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-06T22:40:31.000Z"
   },
   {
     "site": "Qiita",
