@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "人生をあきらめたら希死念慮がなくなった",
+    "link": "https://anond.hatelabo.jp/20260910154808",
+    "pubDate": "2026-09-10T06:55:15.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由",
+    "link": "https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-10T03:33:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
+    "link": "https://note.com/suthio/n/n340c131ccd4a",
+    "pubDate": "2026-09-10T03:01:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
+    "link": "https://anond.hatelabo.jp/20260910114530",
+    "pubDate": "2026-09-10T02:46:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報） | さくらインターネット",
+    "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/",
+    "pubDate": "2026-09-10T02:46:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ドメインモデル実装におけるトリレンマに対するSoutherの回答",
+    "link": "https://zenn.dev/kawasima/articles/souther-ddd-trilemma",
+    "pubDate": "Thu, 10 Sep 2026 01:11:08 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "増田はなぜ「はてブ」になったか - Nightflight",
     "link": "https://plurality.leaflet.pub/3mv4tpdgn7s2p",
     "pubDate": "2026-09-10T01:01:41.000Z"
@@ -12,28 +48,16 @@
     "pubDate": "2026-09-10T00:37:29.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "なぜエージェントハーネスで開発パイプラインを作っているのか",
+    "link": "https://zenn.dev/xtm_blog/articles/689d035440c0ae",
+    "pubDate": "Wed, 09 Sep 2026 23:00:05 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "新型iPhone「高すぎ」「買えない」悲鳴……1台約22～57万円　「換算レート円安すぎ」の声も",
     "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001343/",
     "pubDate": "2026-09-09T22:18:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "みんなほしいのはiPhone Duo “mini”だよね",
-    "link": "https://anond.hatelabo.jp/20260910070047",
-    "pubDate": "2026-09-09T22:08:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2139677.html",
-    "pubDate": "2026-09-09T19:48:22.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「iPhone 18」は発表されず。メモリ高騰が影響か",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2139681.html",
-    "pubDate": "2026-09-09T19:20:23.000Z"
   },
   {
     "site": "Hatena",
@@ -55,6 +79,18 @@
   },
   {
     "site": "Zenn",
+    "title": "GPT-6 Astra x Unityでゲームを作る",
+    "link": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
+    "pubDate": "Wed, 09 Sep 2026 14:30:32 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【godot-llm-gamebench】gpt-6-astraはEffortによってどのように性能が変わるのか",
+    "link": "https://zenn.dev/oubakiou/articles/faa33490272980",
+    "pubDate": "Wed, 09 Sep 2026 11:55:35 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Agent Skillは振る舞いとナレッジを分けて設計する",
     "link": "https://zenn.dev/socialplus/articles/f5d9e28470eb99",
     "pubDate": "Wed, 09 Sep 2026 10:00:05 GMT"
@@ -69,13 +105,19 @@
     "site": "Zenn",
     "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
     "link": "https://zenn.dev/tan_go238/books/project-management-textbook",
-    "pubDate": "2026-09-09T09:28:52.000Z"
+    "pubDate": "Wed, 09 Sep 2026 05:24:57 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
-    "link": "https://zenn.dev/tan_go238/books/project-management-textbook",
-    "pubDate": "Wed, 09 Sep 2026 05:24:57 GMT"
+    "site": "Qiita",
+    "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった",
+    "link": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-09T04:38:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "なぜ配列の1番目は「0」なのか？ プログラマーなら一度は疑問に思う話",
+    "link": "https://qiita.com/nolanlover0527/items/62ec43fbe3b4da83795d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-09T04:29:44.000Z"
   },
   {
     "site": "Qiita",
@@ -85,33 +127,15 @@
   },
   {
     "site": "Qiita",
-    "title": "AI時代にコードの理解を「習慣にする」ために1日5問の学習アプリを作った話",
-    "link": "https://qiita.com/kitagawa_sapeet/items/f8f00a1330b249830a3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-09T02:32:50.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由",
     "link": "https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-09T02:31:41.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Cluster Autoscaler から Karpenter へ移行して分かったこと",
-    "link": "https://zenn.dev/socialplus/articles/dc1ceeb1e42edc",
-    "pubDate": "Wed, 09 Sep 2026 01:09:17 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "LLMのトークン効率化で気をつけたいことまとめ",
     "link": "https://zenn.dev/ml_bear/articles/e5cc1047cba176",
     "pubDate": "Wed, 09 Sep 2026 00:31:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "モブプロにAIを加えたら人間には疲れる仕事だけが残ったので、AI前提の役割分担を模索している",
-    "link": "https://zenn.dev/lincwell_inc/articles/fddaae539e6e9c",
-    "pubDate": "Wed, 09 Sep 2026 00:30:05 GMT"
   },
   {
     "site": "Qiita",
@@ -138,40 +162,16 @@
     "pubDate": "2026-09-08T12:12:24.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "今 font-family 設定するなら sans-serif か system-ui だけ設定しておけばよくね説",
-    "link": "https://zenn.dev/chot/articles/6adfacabe8f317",
-    "pubDate": "Tue, 08 Sep 2026 07:21:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Herdr × git worktree × Claude Codeの相性がいい話",
-    "link": "https://zenn.dev/gemcook/articles/herdr-worktree-parallel",
-    "pubDate": "Tue, 08 Sep 2026 06:20:57 GMT"
+    "site": "Qiita",
+    "title": "NL2SQL: Select AIが Metadataから SQLを生成する仕組みと AI Ready Dataを整理してみてみた",
+    "link": "https://qiita.com/shirok/items/3cb311b037a975739948?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-07T21:37:46.000Z"
   },
   {
     "site": "Qiita",
     "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート",
     "link": "https://qiita.com/maeda-niku18/items/b633dda178c505461080?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-07T12:46:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
-    "link": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-07T02:53:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
-    "link": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-06T23:56:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "最近取り入れたClaude Codeの個人的tips 4選",
-    "link": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-06T21:48:30.000Z"
   },
   {
     "site": "Hatena",
