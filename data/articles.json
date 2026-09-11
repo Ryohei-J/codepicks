@@ -1,5 +1,29 @@
 [
   {
+    "site": "Qiita",
+    "title": "うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita",
+    "link": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
+    "pubDate": "2026-09-10T23:12:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Ctrl+cするな！パソコンがバグる！だから右クリックからコピーを選んでコピペしろ！」という完全に狂っている上司の前で、無言でCtrl+cし続けたら退散した",
+    "link": "https://togetter.com/li/2744037",
+    "pubDate": "2026-09-10T17:19:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering",
+    "link": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
+    "pubDate": "2026-09-10T15:22:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)",
+    "link": "https://ascii.jp/elem/000/004/432/4432444/",
+    "pubDate": "2026-09-10T13:26:48.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "「あなたのブックマーカー図鑑」公開",
     "link": "https://anond.hatelabo.jp/20260910215309",
@@ -13,45 +37,21 @@
   },
   {
     "site": "Hatena",
-    "title": "「折り目があります」――Apple初の「iPhone Duo」実機画像がSNSで物議、高価ゆえにガッカリか",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news091.html",
-    "pubDate": "2026-09-10T10:39:49.000Z"
+    "title": "LG、テレビの「会話盗聴」を否定　検証動画に反論",
+    "link": "https://japan.cnet.com/article/35252479/",
+    "pubDate": "2026-09-10T09:00:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "SSL/TLS サーバー証明書の中間 CA 証明書に関するお知らせ ｜お知らせ｜サイバートラスト",
-    "link": "https://www.cybertrust.co.jp/info/2026/0904-tls-announce.html",
-    "pubDate": "2026-09-10T10:23:54.000Z"
+    "title": "さくらインターネット、「さくらのレンタルサーバ」および販売管理システムへの不正アクセスについて調査結果を公開　「さくらのレンタルサーバ」不正アクセス対象は951アカウントに拡大",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2139863.html",
+    "pubDate": "2026-09-10T08:56:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本物の墨消しに対応／「Claude Code」と連携するAI機能も開発中",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2139791.html",
-    "pubDate": "2026-09-10T08:47:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "スーパーでおなじみ「呼び込み君」に新型　26年越しの“新曲”も配信",
-    "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001376/",
-    "pubDate": "2026-09-10T08:40:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone全機種値上げ、Apple強まる「固定客」頼み　AI台頭で供給網支配に陰り - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN04BJT0U6A900C2000000/",
-    "pubDate": "2026-09-10T08:26:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "メモリに載らないGROUP BYをDuckDBはどう処理するのか",
-    "link": "https://zenn.dev/loglass/articles/7c140c6689d8c2",
-    "pubDate": "2026-09-10T07:40:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "人生をあきらめたら希死念慮がなくなった",
-    "link": "https://anond.hatelabo.jp/20260910154808",
-    "pubDate": "2026-09-10T06:55:15.000Z"
+    "title": "まさかの「AIが面接に来た」　話し方に“違和感”　AIベンチャー代表が動画公開し注意喚起",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001378/",
+    "pubDate": "2026-09-10T08:24:22.000Z"
   },
   {
     "site": "Zenn",
@@ -64,12 +64,6 @@
     "title": "【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由",
     "link": "https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-10T03:33:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測",
-    "link": "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
-    "pubDate": "Thu, 10 Sep 2026 03:14:11 GMT"
   },
   {
     "site": "Qiita",
@@ -88,6 +82,12 @@
     "title": "ドメインモデル実装におけるトリレンマに対するSoutherの回答",
     "link": "https://zenn.dev/kawasima/articles/souther-ddd-trilemma",
     "pubDate": "Thu, 10 Sep 2026 01:11:08 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債",
+    "link": "https://zenn.dev/mediba/articles/7d0d7d70678546",
+    "pubDate": "Wed, 09 Sep 2026 23:49:11 GMT"
   },
   {
     "site": "Qiita",
@@ -112,6 +112,12 @@
     "title": "Agent Skillは振る舞いとナレッジを分けて設計する",
     "link": "https://zenn.dev/socialplus/articles/f5d9e28470eb99",
     "pubDate": "Wed, 09 Sep 2026 10:00:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita",
+    "link": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
+    "pubDate": "2026-09-09T08:43:29.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "NL2SQL: Select AIが Metadataから SQLを生成する仕組みと AI Ready Dataを整理してみてみた",
     "link": "https://qiita.com/shirok/items/3cb311b037a975739948?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-07T21:37:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "API・データ - ブックマーカー図鑑",
-    "link": "https://bookmarker-encyclopedia.netlify.app/api-data/",
-    "pubDate": "2026-07-23T03:08:01.000Z"
   }
 ]
