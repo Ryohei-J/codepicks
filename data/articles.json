@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "Games | OpenAI Developers",
+    "link": "https://developers.openai.com/showcase/games",
+    "pubDate": "2026-09-11T15:45:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グラボ高騰止まらず、「NVIDIA GeForce RTX 5090」はついに100万円を超え始める。“さらなるグラボ値上げ”を予告するショップも - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20260911-466913/",
+    "pubDate": "2026-09-11T12:04:56.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "生成AI以前と以後でエンジニアの文章はどう変わったのか: Qiitaの7万記事を数えてみた話",
     "link": "https://nyosegawa.com/posts/qiita-writing-before-after-ai/",
     "pubDate": "2026-09-11T11:32:56.000Z"
@@ -16,12 +28,6 @@
     "title": "メルカリ、URLを知っている人だけ買える「限定公開機能」試験提供開始　悪用懸念も",
     "link": "https://ascii.jp/elem/000/004/434/4434123/",
     "pubDate": "2026-09-11T08:17:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhone Duo、世界最安は米国！日本は何位？トルコでは2TBが100万円超 - iPhone Mania",
-    "link": "https://iphone-mania.jp/iphone18-605682/",
-    "pubDate": "2026-09-11T07:51:48.000Z"
   },
   {
     "site": "Hatena",
@@ -52,12 +58,6 @@
     "title": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
     "link": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
     "pubDate": "2026-09-11T04:25:59.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenTelemetry eBPF Instrumentationの舞台裏",
-    "link": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
-    "pubDate": "2026-09-11T04:04:17.000Z"
   },
   {
     "site": "Hatena",
@@ -163,6 +163,12 @@
   },
   {
     "site": "Qiita",
+    "title": "なぜ配列の1番目は「0」なのか？ プログラマーなら一度は疑問に思う話",
+    "link": "https://qiita.com/nolanlover0527/items/62ec43fbe3b4da83795d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-09T04:29:44.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【採用担当の本音】入社1ヶ月目で「この人を採用して本当に良かった」と思われる人の特徴",
     "link": "https://qiita.com/m__ikeda/items/bfd4639b3278a3f1c9ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-09T02:51:18.000Z"
@@ -172,11 +178,5 @@
     "title": "元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由",
     "link": "https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-09T02:31:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "パスキーでも被害に遭うデバイスコードフロー攻撃とは？ ～ Entra ID での防御と検証方法を解説",
-    "link": "https://qiita.com/carol0226/items/c9cccdd64e71a731a58d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-08T17:38:46.000Z"
   }
 ]
