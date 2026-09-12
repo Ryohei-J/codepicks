@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "Dario Amodei — We Must Pace the Frontier",
+    "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "pubDate": "2026-09-12T14:44:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Qiita】下書き保存をクリックしても反応しない",
+    "link": "https://qiita.com/J-T_ky2g/items/a3eec7c7d3ad9f4426fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-12T12:24:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ジョセフ・ヒース「方法論的個人主義（Stanford Encyclopedia of Philosophy）」",
+    "link": "https://econ101.jp/methodological-individualism/",
+    "pubDate": "2026-09-12T12:15:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Go Conference 2026 参加レポート",
+    "link": "https://qiita.com/Hiruge/items/0672d873ca21a86cdf60?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-12T12:06:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI時代のコードレビューは、「AIから学びを得る貴重な機会」だったという話",
+    "link": "https://qiita.com/nagi-0106/items/14ebb10e7c8dc9bf470b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-12T11:58:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
     "link": "https://note.com/yubais/n/nd4505991a6d6",
     "pubDate": "2026-09-12T10:56:24.000Z"
@@ -13,9 +43,21 @@
   },
   {
     "site": "Hatena",
+    "title": "saypip",
+    "link": "https://saypip.app/",
+    "pubDate": "2026-09-12T08:16:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
     "link": "https://automaton-media.com/articles/newsjp/20260912-467049/",
     "pubDate": "2026-09-12T07:36:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Managed AgentsにIaC的に管理する機能が追加されたゾ!!",
+    "link": "https://qiita.com/moritalous/items/2168025729eb840d5143?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-12T07:16:47.000Z"
   },
   {
     "site": "Hatena",
@@ -31,33 +73,15 @@
   },
   {
     "site": "Hatena",
-    "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
-    "pubDate": "2026-09-12T02:48:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Reactの設計論",
-    "link": "https://speakerdeck.com/uhyo/react-no-sekkeiron",
-    "pubDate": "2026-09-12T01:56:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
-    "link": "https://note.com/shi3zblog/n/nd5fc5341b342",
-    "pubDate": "2026-09-11T23:45:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "外国人労働者をどう受け入れる？ ― 国際仲介インフラを設計する : システム設計視点の行動経済学 (28)",
-    "link": "https://qiita.com/maskot1977/items/d78f862465db444ae47f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-11T16:08:57.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "SQLiteの16年越しのバグに学ぶ、並行処理の難しさとAI時代の形式手法 - Findy Media",
     "link": "https://findy-code.io/media/articles/modoku-yusuktan-202609",
     "pubDate": "2026-09-11T12:25:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "うっかり世界最強のWasmコンパイラに並行処理（マルチスレッド）を載せたら、なぜか1.46KBまで縮んだ件",
+    "link": "https://qiita.com/kanryu/items/a031d4928ddb7caa0784?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-11T11:50:10.000Z"
   },
   {
     "site": "Qiita",
@@ -73,21 +97,9 @@
   },
   {
     "site": "Qiita",
-    "title": "「IT業界ってドライ？」社外でも助け合うエンジニアたちが、実は誰よりも「仲間」を大事にしている理由",
-    "link": "https://qiita.com/m__ikeda/items/134e4f90c60aeeff7194?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-11T06:18:03.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所",
     "link": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-11T05:51:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AtCoderをこれから始める人が知っておくべきこと一覧",
-    "link": "https://qiita.com/Prrapp/items/179ea601e7c6d7c31d4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-11T05:19:30.000Z"
   },
   {
     "site": "Zenn",
@@ -150,12 +162,6 @@
     "pubDate": "Thu, 10 Sep 2026 01:42:07 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "勉強会文化ゼロの支社で、2026 Japan AWS Jr. Championsの私が立ち上げたクラウド勉強会——部署の壁を越えた交流とアウトプットの文化を作る",
-    "link": "https://qiita.com/MikuMatsuo/items/dd8295164f2d84c9bf61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-10T01:37:51.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "ドメインモデル実装におけるトリレンマに対するSoutherの回答",
     "link": "https://zenn.dev/kawasima/articles/souther-ddd-trilemma",
@@ -166,12 +172,6 @@
     "title": "Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債",
     "link": "https://zenn.dev/mediba/articles/7d0d7d70678546",
     "pubDate": "Wed, 09 Sep 2026 23:49:11 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "日本初日本発AWS GameDayで優勝して思ったこと",
-    "link": "https://qiita.com/takano0131/items/86c54a078fefa954ce76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-09T23:05:30.000Z"
   },
   {
     "site": "Zenn",
