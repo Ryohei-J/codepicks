@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
+    "link": "https://note.com/yubais/n/nd4505991a6d6",
+    "pubDate": "2026-09-12T10:56:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
+    "link": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
+    "pubDate": "2026-09-12T10:12:56.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
     "link": "https://automaton-media.com/articles/newsjp/20260912-467049/",
     "pubDate": "2026-09-12T07:36:59.000Z"
@@ -10,6 +22,12 @@
     "title": "AI時代のWebフレームワークはどこへ行く？",
     "link": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
     "pubDate": "2026-09-12T07:11:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI エージェントとアプリを動かす Cloudflare OS を試してみた",
+    "link": "https://azukiazusa.dev/blog/cloudflare-os/",
+    "pubDate": "2026-09-12T04:28:14.000Z"
   },
   {
     "site": "Hatena",
@@ -25,18 +43,6 @@
   },
   {
     "site": "Hatena",
-    "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
-    "link": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
-    "pubDate": "2026-09-12T01:16:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）",
-    "link": "https://note.com/kirik/n/n8e7920167c3f",
-    "pubDate": "2026-09-11T23:51:30.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
     "link": "https://note.com/shi3zblog/n/nd5fc5341b342",
     "pubDate": "2026-09-11T23:45:01.000Z"
@@ -49,27 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/09/11/220855",
-    "pubDate": "2026-09-11T13:54:08.000Z"
+    "title": "SQLiteの16年越しのバグに学ぶ、並行処理の難しさとAI時代の形式手法 - Findy Media",
+    "link": "https://findy-code.io/media/articles/modoku-yusuktan-202609",
+    "pubDate": "2026-09-11T12:25:24.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "WordPressサイトのセキュリティ対策 – 最低限設定しておきたい5つ | corto",
-    "link": "https://corto.jp/note/wordpress-security/",
-    "pubDate": "2026-09-11T12:54:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応",
-    "link": "https://gigazine.net/news/20260911-yue2-music-generation-ai/",
-    "pubDate": "2026-09-11T12:19:19.000Z"
+    "site": "Qiita",
+    "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita",
+    "link": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7",
+    "pubDate": "2026-09-11T11:23:26.000Z"
   },
   {
     "site": "Zenn",
-    "title": "iPhone Duoに備える(SwiftUI/UIKit対応)",
-    "link": "https://zenn.dev/d_date/articles/d874e248ac7851",
-    "pubDate": "Fri, 11 Sep 2026 06:32:53 GMT"
+    "title": "【備忘録】CUDA & NVIDIA Driver インストールチャレンジ 2026",
+    "link": "https://zenn.dev/tawatawara/articles/44929d525eb97d",
+    "pubDate": "Fri, 11 Sep 2026 09:50:22 GMT"
   },
   {
     "site": "Qiita",
@@ -133,12 +133,6 @@
   },
   {
     "site": "Zenn",
-    "title": "良いAIの行動、メモ",
-    "link": "https://zenn.dev/imaimai17468/articles/4fe1531b71929b",
-    "pubDate": "Thu, 10 Sep 2026 04:38:52 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測",
     "link": "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
     "pubDate": "Thu, 10 Sep 2026 03:14:11 GMT"
@@ -178,5 +172,11 @@
     "title": "日本初日本発AWS GameDayで優勝して思ったこと",
     "link": "https://qiita.com/takano0131/items/86c54a078fefa954ce76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-09T23:05:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "なぜエージェントハーネスで開発パイプラインを作っているのか",
+    "link": "https://zenn.dev/xtm_blog/articles/689d035440c0ae",
+    "pubDate": "Wed, 09 Sep 2026 23:00:05 GMT"
   }
 ]
