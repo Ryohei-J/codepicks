@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20260912-467049/",
+    "pubDate": "2026-09-12T07:36:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代のWebフレームワークはどこへ行く？",
+    "link": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
+    "pubDate": "2026-09-12T07:11:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
+    "pubDate": "2026-09-12T02:48:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Reactの設計論",
+    "link": "https://speakerdeck.com/uhyo/react-no-sekkeiron",
+    "pubDate": "2026-09-12T01:56:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+    "link": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+    "pubDate": "2026-09-12T01:16:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）",
     "link": "https://note.com/kirik/n/n8e7920167c3f",
     "pubDate": "2026-09-11T23:51:30.000Z"
@@ -12,16 +42,10 @@
     "pubDate": "2026-09-11T23:45:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers",
-    "link": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
-    "pubDate": "2026-09-11T19:46:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Games | OpenAI Developers",
-    "link": "https://developers.openai.com/showcase/games",
-    "pubDate": "2026-09-11T15:45:07.000Z"
+    "site": "Qiita",
+    "title": "外国人労働者をどう受け入れる？ ― 国際仲介インフラを設計する : システム設計視点の行動経済学 (28)",
+    "link": "https://qiita.com/maskot1977/items/d78f862465db444ae47f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-11T16:08:57.000Z"
   },
   {
     "site": "Hatena",
@@ -37,27 +61,39 @@
   },
   {
     "site": "Hatena",
-    "title": "2026年度末の「Suicaエリア統合」　気になることをJR東日本に聞いてみた",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2609/11/news089.html",
-    "pubDate": "2026-09-11T12:20:54.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応",
     "link": "https://gigazine.net/news/20260911-yue2-music-generation-ai/",
     "pubDate": "2026-09-11T12:19:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "グラボ高騰止まらず、「NVIDIA GeForce RTX 5090」はついに100万円を超え始める。“さらなるグラボ値上げ”を予告するショップも - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20260911-466913/",
-    "pubDate": "2026-09-11T12:04:56.000Z"
+    "site": "Zenn",
+    "title": "iPhone Duoに備える(SwiftUI/UIKit対応)",
+    "link": "https://zenn.dev/d_date/articles/d874e248ac7851",
+    "pubDate": "Fri, 11 Sep 2026 06:32:53 GMT"
   },
   {
     "site": "Qiita",
     "title": "「IT業界ってドライ？」社外でも助け合うエンジニアたちが、実は誰よりも「仲間」を大事にしている理由",
     "link": "https://qiita.com/m__ikeda/items/134e4f90c60aeeff7194?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-11T06:18:03.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所",
+    "link": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-11T05:51:35.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AtCoderをこれから始める人が知っておくべきこと一覧",
+    "link": "https://qiita.com/Prrapp/items/179ea601e7c6d7c31d4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-11T05:19:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "デカルト積問題って知っとるか〜？　気軽にJOINでメモリ爆発するアレのヤバさ実測すぞ！",
+    "link": "https://zenn.dev/levtech/articles/cartesian-product-doctrine-orm",
+    "pubDate": "Fri, 11 Sep 2026 02:45:05 GMT"
   },
   {
     "site": "Zenn",
@@ -78,16 +114,16 @@
     "pubDate": "2026-09-11T01:46:51.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)",
+    "link": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-10T22:30:00.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【VRChat/Udon】世界最速のC#コンパイラを開発した話",
     "link": "https://zenn.dev/bea4dev/articles/b7684e8d4c838e",
     "pubDate": "Thu, 10 Sep 2026 10:19:23 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "NVIDIA、RustによるネイティブGPUプログラミングが可能となる「CUDA Rust」を発表 | gihyo.jp",
-    "link": "https://gihyo.jp/article/2026/09/cuda-rust",
-    "pubDate": "2026-09-10T06:40:42.000Z"
   },
   {
     "site": "Qiita",
@@ -102,16 +138,16 @@
     "pubDate": "Thu, 10 Sep 2026 04:38:52 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由",
-    "link": "https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-10T03:33:53.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測",
     "link": "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
     "pubDate": "Thu, 10 Sep 2026 03:14:11 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2026年版】サクラエディタの最初にやってほしい設定2+1選：Win + Rから起動と自動即時保存",
+    "link": "https://qiita.com/Minotaurasu/items/6d477770254406c25188?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-10T02:56:03.000Z"
   },
   {
     "site": "Zenn",
@@ -138,45 +174,9 @@
     "pubDate": "Wed, 09 Sep 2026 23:49:11 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "なぜエージェントハーネスで開発パイプラインを作っているのか",
-    "link": "https://zenn.dev/xtm_blog/articles/689d035440c0ae",
-    "pubDate": "Wed, 09 Sep 2026 23:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GPT-6 Astra x Unityでゲームを作る",
-    "link": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
-    "pubDate": "Wed, 09 Sep 2026 14:30:32 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "うっかり世界最強のWasmコンパイラを作ってしまった件",
-    "link": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-09T07:52:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった",
-    "link": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-09T04:38:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜ配列の1番目は「0」なのか？ プログラマーなら一度は疑問に思う話",
-    "link": "https://qiita.com/nolanlover0527/items/62ec43fbe3b4da83795d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-09T04:29:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【採用担当の本音】入社1ヶ月目で「この人を採用して本当に良かった」と思われる人の特徴",
-    "link": "https://qiita.com/m__ikeda/items/bfd4639b3278a3f1c9ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-09T02:51:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由",
-    "link": "https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-09T02:31:41.000Z"
+    "title": "日本初日本発AWS GameDayで優勝して思ったこと",
+    "link": "https://qiita.com/takano0131/items/86c54a078fefa954ce76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-09T23:05:30.000Z"
   }
 ]
