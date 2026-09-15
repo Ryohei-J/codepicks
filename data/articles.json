@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
+    "link": "https://gigazine.net/news/20260915-sunk-cost/",
+    "pubDate": "2026-09-15T12:32:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "React 互換の軽量ランタイム TanStack Redact とは",
+    "link": "https://azukiazusa.dev/blog/what-is-tanstack-redact/",
+    "pubDate": "2026-09-15T11:49:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
+    "link": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
+    "pubDate": "2026-09-15T09:49:31.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI sloppingのコツ｜株式会社HERP公式note",
     "link": "https://note.herp.co.jp/n/na751e51ea47f",
     "pubDate": "2026-09-15T08:45:14.000Z"
   },
   {
     "site": "Hatena",
+    "title": "東京で27年無人タクシー運行、既存の運転手はどうなる？--失業懸念に川鍋会長が回答",
+    "link": "https://japan.cnet.com/article/35252621/",
+    "pubDate": "2026-09-15T06:29:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
     "link": "https://kaden.watch.impress.co.jp/docs/news/2140739.html",
     "pubDate": "2026-09-15T04:56:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【DDD】モノリスを分割するサブドメイン特定法",
+    "link": "https://zenn.dev/trefac/articles/97e79f3841bbb3",
+    "pubDate": "Tue, 15 Sep 2026 01:29:55 GMT"
   },
   {
     "site": "Hatena",
@@ -24,22 +54,22 @@
     "pubDate": "2026-09-15T00:44:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "人生を通して「縦書き」を追っているうち、Chromium開発者になっていた【フォーカス】 - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_926/",
-    "pubDate": "2026-09-15T00:42:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい",
-    "link": "https://blog.tinect.jp/?p=91489",
-    "pubDate": "2026-09-15T00:15:10.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code のサブエージェントにも CLAUDE.md は全部渡る。外す設定ができた",
     "link": "https://qiita.com/suwa_nobu/items/b465ef863f8d8608f497?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-15T00:06:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
+    "link": "https://zenn.dev/339/articles/8efd1f1baec355",
+    "pubDate": "Mon, 14 Sep 2026 23:51:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "社内AI ハッカソン、意外と盛り上がりました",
+    "link": "https://zenn.dev/edash_tech_blog/articles/a8b316340d017c",
+    "pubDate": "Mon, 14 Sep 2026 23:50:17 GMT"
   },
   {
     "site": "Hatena",
@@ -48,10 +78,10 @@
     "pubDate": "2026-09-14T23:43:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "トランプ氏、AI懸念を陰謀と一蹴　「高IQの大統領いれば統制は十分」 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
-    "pubDate": "2026-09-14T21:49:16.000Z"
+    "site": "Zenn",
+    "title": "Google Chat × Claude Agent SDK × AWS Lambdaで「事業部向けのAIエージェント」を作った話",
+    "link": "https://zenn.dev/wwwave/articles/50f7450f5d13bf",
+    "pubDate": "Mon, 14 Sep 2026 22:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -78,28 +108,22 @@
     "pubDate": "Mon, 14 Sep 2026 14:13:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【日報】おまえは今すぐIMAXに『オデュッセイア』をみにいけ（逆噴射聡一郎）｜ニンジャスレイヤー公式/ダイハードテイルズ",
-    "link": "https://diehardtales.com/n/nc359b58d9d57",
-    "pubDate": "2026-09-14T12:39:30.000Z"
+    "site": "Qiita",
+    "title": "生成AIが書いたドキュメントを読みたくない - Qiita",
+    "link": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
+    "pubDate": "2026-09-14T11:11:06.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Kubbで理想のfetchクライアントを作りたいっ！！",
-    "link": "https://zenn.dev/chot/articles/kubb-custom-fetch-client",
-    "pubDate": "Mon, 14 Sep 2026 08:53:27 GMT"
+    "title": "犯人はAWS WAF：CognitoのパスワードがSQLiと誤検知された話",
+    "link": "https://zenn.dev/dgtech/articles/aws-waf-blocks-cognito-password",
+    "pubDate": "Mon, 14 Sep 2026 10:18:05 GMT"
   },
   {
     "site": "Qiita",
     "title": "【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる",
     "link": "https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-14T06:27:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち　広がる“AI版静かな退職”　",
-    "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001258/",
-    "pubDate": "2026-09-14T05:54:10.000Z"
   },
   {
     "site": "Zenn",
@@ -120,34 +144,10 @@
     "pubDate": "2026-09-14T04:55:10.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AWS Lambda の90分タイムアウト検証",
-    "link": "https://zenn.dev/aws_japan/articles/lambda-90-minutes-timeout",
-    "pubDate": "Mon, 14 Sep 2026 04:25:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "KubeCon + CloudNativeCon Japan 2026 参加報告",
-    "link": "https://zenn.dev/exwzd/articles/20260728-kubecon-japan-2026",
-    "pubDate": "Mon, 14 Sep 2026 04:20:46 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go Conference 2026 行ってきました",
-    "link": "https://zenn.dev/kyash/articles/gocon-2026-participation-report",
-    "pubDate": "Mon, 14 Sep 2026 04:14:53 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "2026年9月時点 Microsoft の AI 戦略について",
     "link": "https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-14T01:44:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS SSM Agent の脆弱性(CVE-2026-89049) の被害があったかどうかを CloudTrail で確認する方法",
-    "link": "https://zenn.dev/cscloud_blog/articles/4d6e13b853109e",
-    "pubDate": "Mon, 14 Sep 2026 01:30:42 GMT"
   },
   {
     "site": "Qiita",
