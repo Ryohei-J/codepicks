@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "AI sloppingのコツ｜株式会社HERP公式note",
+    "link": "https://note.herp.co.jp/n/na751e51ea47f",
+    "pubDate": "2026-09-15T08:45:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
+    "link": "https://kaden.watch.impress.co.jp/docs/news/2140739.html",
+    "pubDate": "2026-09-15T04:56:57.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "無人タクシー、東京で来年運行へ　GO、Waymo、日本交通が合意",
     "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
     "pubDate": "2026-09-15T01:09:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメント追記してみた｜川邊健太郎",
+    "link": "https://note.com/dennotai/n/n433ee03289a5",
+    "pubDate": "2026-09-15T00:44:15.000Z"
   },
   {
     "site": "Hatena",
@@ -13,15 +31,21 @@
   },
   {
     "site": "Hatena",
-    "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えられないラインで相手のメールに対する超攻撃的な法的根拠のある返信メールを書いて欲しい」と指示した結果",
-    "link": "https://togetter.com/li/2745721",
-    "pubDate": "2026-09-14T23:43:57.000Z"
+    "title": "「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい",
+    "link": "https://blog.tinect.jp/?p=91489",
+    "pubDate": "2026-09-15T00:15:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code のサブエージェントにも CLAUDE.md は全部渡る。外す設定ができた",
+    "link": "https://qiita.com/suwa_nobu/items/b465ef863f8d8608f497?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-15T00:06:10.000Z"
   },
   {
     "site": "Hatena",
-    "title": "溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ　部材作り直し再架設",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
-    "pubDate": "2026-09-14T22:14:04.000Z"
+    "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えられないラインで相手のメールに対する超攻撃的な法的根拠のある返信メールを書いて欲しい」と指示した結果",
+    "link": "https://togetter.com/li/2745721",
+    "pubDate": "2026-09-14T23:43:57.000Z"
   },
   {
     "site": "Hatena",
@@ -30,28 +54,16 @@
     "pubDate": "2026-09-14T21:49:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI脅威論、アンソロピックCEOに賛同広がる　歯止めなき競争に恐怖感 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN14AF80U6A910C2000000/",
-    "pubDate": "2026-09-14T21:27:06.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
-    "pubDate": "2026-09-14T20:43:45.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 14",
     "link": "https://qiita.com/maskot1977/items/1d50c52a754eeb14c934?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-14T16:47:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
-    "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
-    "pubDate": "2026-09-14T14:27:51.000Z"
+    "site": "Zenn",
+    "title": "仕様と実装を同じ言葉で書く ― 責務を機械的に突合し検証し続けるフロントエンド開発（要件定義〜実装・テスト）",
+    "link": "https://zenn.dev/2_daiki_ando/articles/53c34e071b5d69",
+    "pubDate": "Mon, 14 Sep 2026 15:27:39 GMT"
   },
   {
     "site": "Zenn",
@@ -72,6 +84,12 @@
     "pubDate": "2026-09-14T12:39:30.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Kubbで理想のfetchクライアントを作りたいっ！！",
+    "link": "https://zenn.dev/chot/articles/kubb-custom-fetch-client",
+    "pubDate": "Mon, 14 Sep 2026 08:53:27 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる",
     "link": "https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -90,6 +108,12 @@
     "pubDate": "Mon, 14 Sep 2026 05:16:45 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "SendGridからAmazon SESに移行してコストを削減する",
+    "link": "https://zenn.dev/team_zenn/articles/sendgrid-to-ses-cost-reduction",
+    "pubDate": "Mon, 14 Sep 2026 05:15:10 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "生成AIが書いたドキュメントを読みたくない",
     "link": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -103,33 +127,21 @@
   },
   {
     "site": "Zenn",
+    "title": "KubeCon + CloudNativeCon Japan 2026 参加報告",
+    "link": "https://zenn.dev/exwzd/articles/20260728-kubecon-japan-2026",
+    "pubDate": "Mon, 14 Sep 2026 04:20:46 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Go Conference 2026 行ってきました",
     "link": "https://zenn.dev/kyash/articles/gocon-2026-participation-report",
     "pubDate": "Mon, 14 Sep 2026 04:14:53 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "「なんとなくノベルティ」を卒業する、技術カンファレンスブースの企画法",
-    "link": "https://zenn.dev/knowledgework/articles/f9a2aa046d8317",
-    "pubDate": "Mon, 14 Sep 2026 03:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Datadog DBM、動いてはいたが正しく動いてはいなかった 〜サイドカー構成からスタンドアロン Agent へ〜",
-    "link": "https://zenn.dev/lincwell_inc/articles/f6aac70530691d",
-    "pubDate": "Mon, 14 Sep 2026 02:47:10 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "【参加レポート】CrazyなBossと戯れる「深夜のAWS Gameday」に挑んできた【JAWS SONIC】",
-    "link": "https://qiita.com/y_wakai/items/c795939c85cc23c5e74e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-14T01:46:38.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitLabのサーバーをオンプレで立てる方法を考える",
-    "link": "https://qiita.com/h-tanabe/items/d34b088d2ac55e446d56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-14T01:32:43.000Z"
+    "title": "2026年9月時点 Microsoft の AI 戦略について",
+    "link": "https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-14T01:44:21.000Z"
   },
   {
     "site": "Zenn",
@@ -138,28 +150,16 @@
     "pubDate": "Mon, 14 Sep 2026 01:30:42 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "React Compiler を Babel なしで入れて、useMemo を書くか迷うのをやめた",
-    "link": "https://zenn.dev/hacobu/articles/2f58be1f62bcf8",
-    "pubDate": "Mon, 14 Sep 2026 01:10:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドカンファレンス福岡 2026 に学生として参加しました！",
-    "link": "https://zenn.dev/pkmiya/articles/319288dd708107",
-    "pubDate": "Sun, 13 Sep 2026 23:38:36 GMT"
+    "site": "Qiita",
+    "title": "Claude Code のスキルを47本運用して測った、7つのこと",
+    "link": "https://qiita.com/suwa_nobu/items/08e3bd535dbc79e0c738?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-14T00:52:44.000Z"
   },
   {
     "site": "Qiita",
-    "title": "写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた",
-    "link": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-13T19:32:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "👍を押したらバレる？「学習させない」設定をしてもダメ？｜AIツール個人版ユーザーの防衛策🛡5手と、やっても残る3つ",
-    "link": "https://qiita.com/songchong/items/9dc9ee419d2764d2aa06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-13T19:31:57.000Z"
+    "title": "Claude Code で編集を拒否したファイルが、tee なら4回中4回書けた",
+    "link": "https://qiita.com/suwa_nobu/items/6b00e31860d275e7b6b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-14T00:35:18.000Z"
   },
   {
     "site": "Qiita",
