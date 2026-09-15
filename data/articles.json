@@ -1,15 +1,15 @@
 [
   {
+    "site": "Zenn",
+    "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
+    "link": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
+    "pubDate": "2026-09-15T13:00:04.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
     "link": "https://gigazine.net/news/20260915-sunk-cost/",
     "pubDate": "2026-09-15T12:32:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "React 互換の軽量ランタイム TanStack Redact とは",
-    "link": "https://azukiazusa.dev/blog/what-is-tanstack-redact/",
-    "pubDate": "2026-09-15T11:49:11.000Z"
   },
   {
     "site": "Hatena",
@@ -19,9 +19,15 @@
   },
   {
     "site": "Hatena",
-    "title": "AI sloppingのコツ｜株式会社HERP公式note",
-    "link": "https://note.herp.co.jp/n/na751e51ea47f",
-    "pubDate": "2026-09-15T08:45:14.000Z"
+    "title": "NVIDIAが映像フレーム補間や生中継翻訳などの放送業界向けAIコレクション「NVIDIA AI for Media」の大幅拡充を発表",
+    "link": "https://gigazine.net/news/20260915-nvidia-ai-for-media/",
+    "pubDate": "2026-09-15T09:02:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI Agentを利用した開発について雑感 - oranie's blog",
+    "link": "https://oranie.hatenablog.com/entry/2026/09/15/154245",
+    "pubDate": "2026-09-15T07:30:54.000Z"
   },
   {
     "site": "Hatena",
@@ -36,16 +42,16 @@
     "pubDate": "2026-09-15T04:56:57.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "キリン、吐いた息から代謝わかる機器　脂質と糖質どちらの燃焼か可視化 - 家電 Watch",
+    "link": "https://kaden.watch.impress.co.jp/docs/news/2140948.html",
+    "pubDate": "2026-09-15T03:36:02.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【DDD】モノリスを分割するサブドメイン特定法",
     "link": "https://zenn.dev/trefac/articles/97e79f3841bbb3",
     "pubDate": "Tue, 15 Sep 2026 01:29:55 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "無人タクシー、東京で来年運行へ　GO、Waymo、日本交通が合意",
-    "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
-    "pubDate": "2026-09-15T01:09:50.000Z"
   },
   {
     "site": "Hatena",
@@ -60,6 +66,12 @@
     "pubDate": "2026-09-15T00:06:10.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "SQL構文は日本語で例えると理解しやすい",
+    "link": "https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-15T00:05:46.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
     "link": "https://zenn.dev/339/articles/8efd1f1baec355",
@@ -72,22 +84,10 @@
     "pubDate": "Mon, 14 Sep 2026 23:50:17 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えられないラインで相手のメールに対する超攻撃的な法的根拠のある返信メールを書いて欲しい」と指示した結果",
-    "link": "https://togetter.com/li/2745721",
-    "pubDate": "2026-09-14T23:43:57.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Google Chat × Claude Agent SDK × AWS Lambdaで「事業部向けのAIエージェント」を作った話",
     "link": "https://zenn.dev/wwwave/articles/50f7450f5d13bf",
     "pubDate": "Mon, 14 Sep 2026 22:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 14",
-    "link": "https://qiita.com/maskot1977/items/1d50c52a754eeb14c934?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-14T16:47:03.000Z"
   },
   {
     "site": "Zenn",
@@ -118,12 +118,6 @@
     "title": "犯人はAWS WAF：CognitoのパスワードがSQLiと誤検知された話",
     "link": "https://zenn.dev/dgtech/articles/aws-waf-blocks-cognito-password",
     "pubDate": "Mon, 14 Sep 2026 10:18:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる",
-    "link": "https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-14T06:27:42.000Z"
   },
   {
     "site": "Zenn",
@@ -166,6 +160,12 @@
     "title": "『Lean で証明できた』は何を保証するのか？  〜 Lean の無矛盾性と信頼の根拠 〜",
     "link": "https://qiita.com/kyamaz/items/7b38e5977dc97747d2d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-13T13:27:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": ":has()で不要になったJavaScript 10選",
+    "link": "https://qiita.com/tofu_frontend/items/5f594cf3d150f17f8bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-13T11:38:46.000Z"
   },
   {
     "site": "Qiita",
