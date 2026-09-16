@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "画像共有サービス「Gyazo」に不正アクセス、ユーザー情報約2362万件・画像メタデータ約4.9億件が漏えい　",
+    "link": "https://internet.watch.impress.co.jp/docs/news/2141538.html",
+    "pubDate": "2026-09-16T11:28:50.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "20万円台のフルサイズカメラ「EOS R8 Mark II」を見てきた　“直線デザイン”はターゲット層を意識",
+    "link": "https://dc.watch.impress.co.jp/docs/news/2141517.html",
+    "pubDate": "2026-09-16T10:19:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI開発チームの作り方と育て方 — マルチエージェント開発組織の設計と運用",
+    "link": "https://zenn.dev/hampen2929/books/ai-dev-team-guide",
+    "pubDate": "Wed, 16 Sep 2026 09:54:07 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "人間はどの意思決定を手放せるのか",
+    "link": "https://speakerdeck.com/kawasima/ningen-ha-dono-ishi-kettei-o-tebanaseru-no-ka",
+    "pubDate": "2026-09-16T09:53:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Tailscaleやめたい」の7つの技術的指摘を2026年9月時点で再検証 | Velumesh",
+    "link": "https://velumesh.jp/blog/blog-2026-09-16.html",
+    "pubDate": "2026-09-16T09:20:47.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから - エルミタージュ秋葉原",
     "link": "https://www.gdm.or.jp/pressrelease/2026/0916/652592",
     "pubDate": "2026-09-16T08:54:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iOS 27でSafariに追加された「AIに言葉で説明するだけで自分好みの機能拡張を即座に開発する」機能が便利、文字色変更やスクロールボタン追加などをサイトごとに設定可能",
+    "link": "https://gigazine.net/news/20260916-safari-extension-apple-intelligence/",
+    "pubDate": "2026-09-16T08:26:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 - SmartHR Tech Blog",
+    "link": "https://tech.smarthr.jp/entry/2026/09/16/110205",
+    "pubDate": "2026-09-16T06:59:14.000Z"
   },
   {
     "site": "Hatena",
@@ -25,21 +67,15 @@
   },
   {
     "site": "Hatena",
-    "title": "若い研究者のデバッグ中に「この変数の値を確認しよう」と言っても、大丈夫だと断られる…その後、解決しないので確認させるとやはり問題が…→AIは賢くないが素直だと力説",
-    "link": "https://togetter.com/li/2746161",
-    "pubDate": "2026-09-16T03:28:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "11年ぶり5連休の「シルバーウィーク」　普通郵便が5日届かないのでご注意を",
-    "link": "https://www.watch.impress.co.jp/docs/news/2139983.html",
-    "pubDate": "2026-09-16T03:02:17.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
     "link": "https://gigazine.net/news/20260916-system-one-jev/",
     "pubDate": "2026-09-16T02:49:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.js の Proxy(旧 Middleware) で redirect すると relative URL になる",
+    "link": "https://zenn.dev/chot/articles/nextjs-proxy-redirect",
+    "pubDate": "Wed, 16 Sep 2026 02:47:39 GMT"
   },
   {
     "site": "Qiita",
@@ -48,22 +84,10 @@
     "pubDate": "2026-09-16T00:22:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "社長はエンジニア｜平田　はる香",
-    "link": "https://note.com/wazawazapan/n/nd438d0a5bc37",
-    "pubDate": "2026-09-16T00:21:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "誰かの役に立つアウトプットの作り方〜学びの循環に飛び込もう！",
-    "link": "https://speakerdeck.com/ikuodanaka/dareka-no-yakunitatsu-autoputto-no-tsukurikata-manabi-no-junkan-ni-tobikomou",
-    "pubDate": "2026-09-15T15:20:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIレビューは３層でまわす | ドクセル",
-    "link": "https://www.docswell.com/s/3402128/KVJYJ3-2026-09-15-202358",
-    "pubDate": "2026-09-15T15:11:40.000Z"
+    "site": "Zenn",
+    "title": "GitHub Copilot app を使いこなす",
+    "link": "https://zenn.dev/skmkzyk/books/github-copilot-app-guide",
+    "pubDate": "Tue, 15 Sep 2026 14:16:56 GMT"
   },
   {
     "site": "Zenn",
@@ -73,21 +97,21 @@
   },
   {
     "site": "Zenn",
-    "title": "1日の開発の流れをスキル化してみたら、想像以上に快適だった",
-    "link": "https://zenn.dev/tenkei/articles/9f8921926bb003",
-    "pubDate": "Tue, 15 Sep 2026 09:15:12 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ヤバい住所」を集め続けた地図エンジニアが見つけた共通点とは？『ヤバい日本の住所』著者が明かす執筆の裏側 | i4U（アイフォーユー）",
-    "link": "https://i4u.gmo/QQZJU",
-    "pubDate": "2026-09-15T09:07:07.000Z"
+    "title": "Go Conference 2026 海上サーバーとGoをテーマに話した男のスピーカー参加記録",
+    "link": "https://zenn.dev/s_atsuki/articles/5ea248b68e3ac4",
+    "pubDate": "Tue, 15 Sep 2026 12:32:40 GMT"
   },
   {
     "site": "Zenn",
-    "title": "CAN通信で使われるUDSとISO-TPについて",
-    "link": "https://zenn.dev/kg_motors_mibot/articles/unified_diagnostic_services",
-    "pubDate": "Tue, 15 Sep 2026 07:18:50 GMT"
+    "title": "Go Conference 2026 参加レポ",
+    "link": "https://zenn.dev/kaonavi/articles/a8d551f5d715ed",
+    "pubDate": "Tue, 15 Sep 2026 11:10:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "1日の開発の流れをスキル化してみたら、想像以上に快適だった",
+    "link": "https://zenn.dev/tenkei/articles/9f8921926bb003",
+    "pubDate": "Tue, 15 Sep 2026 09:15:12 GMT"
   },
   {
     "site": "Zenn",
@@ -108,24 +132,6 @@
     "pubDate": "Tue, 15 Sep 2026 06:02:40 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Grafana BeylaとOpenTelemetry eBPF Instrumentation（OBI）の差分は何か",
-    "link": "https://zenn.dev/ymotongpoo/articles/20260916-beyla-obi-diff",
-    "pubDate": "Tue, 15 Sep 2026 06:00:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "データマート導入でDBパフォーマンスの手綱を握る",
-    "link": "https://zenn.dev/flinters_blog/articles/abfa4828ee19cd",
-    "pubDate": "Tue, 15 Sep 2026 04:30:51 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【DDD】モノリスを分割するサブドメイン特定法",
-    "link": "https://zenn.dev/trefac/articles/97e79f3841bbb3",
-    "pubDate": "Tue, 15 Sep 2026 01:29:55 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「最近どう？」しか聞けなかった1on1で、メンバーが退職届を出してきた話",
     "link": "https://qiita.com/fe1ix/items/5d733c267370e0e06661?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,12 +142,6 @@
     "title": "SQL構文は日本語で例えると理解しやすい",
     "link": "https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-15T00:05:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
-    "link": "https://zenn.dev/339/articles/8efd1f1baec355",
-    "pubDate": "Mon, 14 Sep 2026 23:51:17 GMT"
   },
   {
     "site": "Qiita",
