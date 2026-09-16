@@ -1,17 +1,5 @@
 [
   {
-    "site": "Hatena",
-    "title": "画像共有サービス「Gyazo」に不正アクセス、ユーザー情報約2362万件・画像メタデータ約4.9億件が漏えい　",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2141538.html",
-    "pubDate": "2026-09-16T11:28:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "20万円台のフルサイズカメラ「EOS R8 Mark II」を見てきた　“直線デザイン”はターゲット層を意識",
-    "link": "https://dc.watch.impress.co.jp/docs/news/2141517.html",
-    "pubDate": "2026-09-16T10:19:42.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AI開発チームの作り方と育て方 — マルチエージェント開発組織の設計と運用",
     "link": "https://zenn.dev/hampen2929/books/ai-dev-team-guide",
@@ -43,6 +31,12 @@
   },
   {
     "site": "Hatena",
+    "title": "「APIキーは.envに」はもはや通用しない　AIエージェントの“内通者化”をどう防ぐ？",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
+    "pubDate": "2026-09-16T07:51:41.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 - SmartHR Tech Blog",
     "link": "https://tech.smarthr.jp/entry/2026/09/16/110205",
     "pubDate": "2026-09-16T06:59:14.000Z"
@@ -66,16 +60,22 @@
     "pubDate": "2026-09-16T03:30:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
-    "link": "https://gigazine.net/news/20260916-system-one-jev/",
-    "pubDate": "2026-09-16T02:49:52.000Z"
+    "site": "Qiita",
+    "title": "UUIDとは？「ただのランダムな文字列」だと思っていたUUIDをまとめてみる",
+    "link": "https://qiita.com/Yuzuki-ki/items/67f3c26a441a35676c0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-16T03:00:05.000Z"
   },
   {
     "site": "Zenn",
     "title": "Next.js の Proxy(旧 Middleware) で redirect すると relative URL になる",
     "link": "https://zenn.dev/chot/articles/nextjs-proxy-redirect",
     "pubDate": "Wed, 16 Sep 2026 02:47:39 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本での自動運転タクシー商用化を2027年中に実現するべくGOとWaymoと日本交通が戦略的パートナーシップを締結",
+    "link": "https://gigazine.net/news/20260916-go-waymo-nihon-kotsu-commercial-launch/",
+    "pubDate": "2026-09-16T02:36:05.000Z"
   },
   {
     "site": "Qiita",
@@ -133,27 +133,27 @@
   },
   {
     "site": "Qiita",
+    "title": "新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話",
+    "link": "https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-15T05:32:59.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "「最近どう？」しか聞けなかった1on1で、メンバーが退職届を出してきた話",
     "link": "https://qiita.com/fe1ix/items/5d733c267370e0e06661?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-15T00:38:28.000Z"
   },
   {
     "site": "Qiita",
-    "title": "SQL構文は日本語で例えると理解しやすい",
-    "link": "https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-15T00:05:46.000Z"
+    "title": "NL2SQL: Oracle AI Database の COMMENT・ANNOTATIONS・Domainの違いを整理して Select AIで動作検証してみてみた",
+    "link": "https://qiita.com/shirok/items/b359aa1a55342c280840?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-15T00:01:26.000Z"
   },
   {
     "site": "Qiita",
     "title": "【Porffor】JavaScriptをCにコンパイルして圧倒的パフォーマンスを見せる",
     "link": "https://qiita.com/rana_kualu/items/f82f870ef8481d9b1f0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-14T12:34:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる",
-    "link": "https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-14T06:27:42.000Z"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "『Lean で証明できた』は何を保証するのか？  〜 Lean の無矛盾性と信頼の根拠 〜",
-    "link": "https://qiita.com/kyamaz/items/7b38e5977dc97747d2d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-13T13:27:30.000Z"
+    "title": "AIを使っても「自分の文章」に仕上げるためにやっていること - Qiita",
+    "link": "https://qiita.com/kskwtnk/items/aa21e7f57feb43e970e0",
+    "pubDate": "2026-06-29T02:54:42.000Z"
   }
 ]
