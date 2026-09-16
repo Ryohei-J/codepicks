@@ -1,63 +1,93 @@
 [
   {
+    "site": "Hatena",
+    "title": "VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
+    "pubDate": "2026-09-16T00:26:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "社長はエンジニア｜平田　はる香",
+    "link": "https://note.com/wazawazapan/n/nd438d0a5bc37",
+    "pubDate": "2026-09-16T00:21:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI脅威論で異例のタッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
+    "pubDate": "2026-09-15T21:35:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
+    "link": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
+    "pubDate": "2026-09-15T21:03:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
+    "link": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
+    "pubDate": "2026-09-15T15:25:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "誰かの役に立つアウトプットの作り方〜学びの循環に飛び込もう！",
+    "link": "https://speakerdeck.com/ikuodanaka/dareka-no-yakunitatsu-autoputto-no-tsukurikata-manabi-no-junkan-ni-tobikomou",
+    "pubDate": "2026-09-15T15:20:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIレビューは３層でまわす | ドクセル",
+    "link": "https://www.docswell.com/s/3402128/KVJYJ3-2026-09-15-202358",
+    "pubDate": "2026-09-15T15:11:40.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
     "link": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
     "pubDate": "2026-09-15T13:00:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
-    "link": "https://gigazine.net/news/20260915-sunk-cost/",
-    "pubDate": "2026-09-15T12:32:12.000Z"
+    "site": "Zenn",
+    "title": "1日の開発の流れをスキル化してみたら、想像以上に快適だった",
+    "link": "https://zenn.dev/tenkei/articles/9f8921926bb003",
+    "pubDate": "Tue, 15 Sep 2026 09:15:12 GMT"
   },
   {
     "site": "Hatena",
-    "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
-    "link": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
-    "pubDate": "2026-09-15T09:49:31.000Z"
+    "title": "「ヤバい住所」を集め続けた地図エンジニアが見つけた共通点とは？『ヤバい日本の住所』著者が明かす執筆の裏側 | i4U（アイフォーユー）",
+    "link": "https://i4u.gmo/QQZJU",
+    "pubDate": "2026-09-15T09:07:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code Meetup Japan #7 参加レポート",
+    "link": "https://zenn.dev/flagxs/articles/7a9178c94cc27b",
+    "pubDate": "Tue, 15 Sep 2026 06:56:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Kaggle】ポケカコンペ振り返り(455th/6807th)🥉",
+    "link": "https://zenn.dev/nwn/articles/a21aba4208e601",
+    "pubDate": "Tue, 15 Sep 2026 06:23:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Grafana BeylaとOpenTelemetry eBPF Instrumentation（OBI）の差分は何か",
+    "link": "https://zenn.dev/ymotongpoo/articles/20260916-beyla-obi-diff",
+    "pubDate": "Tue, 15 Sep 2026 06:00:04 GMT"
   },
   {
     "site": "Hatena",
-    "title": "NVIDIAが映像フレーム補間や生中継翻訳などの放送業界向けAIコレクション「NVIDIA AI for Media」の大幅拡充を発表",
-    "link": "https://gigazine.net/news/20260915-nvidia-ai-for-media/",
-    "pubDate": "2026-09-15T09:02:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI Agentを利用した開発について雑感 - oranie's blog",
-    "link": "https://oranie.hatenablog.com/entry/2026/09/15/154245",
-    "pubDate": "2026-09-15T07:30:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "東京で27年無人タクシー運行、既存の運転手はどうなる？--失業懸念に川鍋会長が回答",
-    "link": "https://japan.cnet.com/article/35252621/",
-    "pubDate": "2026-09-15T06:29:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
-    "link": "https://kaden.watch.impress.co.jp/docs/news/2140739.html",
-    "pubDate": "2026-09-15T04:56:57.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "キリン、吐いた息から代謝わかる機器　脂質と糖質どちらの燃焼か可視化 - 家電 Watch",
-    "link": "https://kaden.watch.impress.co.jp/docs/news/2140948.html",
-    "pubDate": "2026-09-15T03:36:02.000Z"
+    "title": "ネット全体が乗っ取られるまで半年!? AI開発の減速をAnthropic CEOが提言",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2140906.html",
+    "pubDate": "2026-09-15T03:44:56.000Z"
   },
   {
     "site": "Zenn",
     "title": "【DDD】モノリスを分割するサブドメイン特定法",
     "link": "https://zenn.dev/trefac/articles/97e79f3841bbb3",
     "pubDate": "Tue, 15 Sep 2026 01:29:55 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "『日本はライドシェアはもう諦めて自動運転に行くべきだが、なんでこんなに進まないのかめちゃ掘りしてみた』 に規制改革の当事（当時）者としてのコメント追記してみた｜川邊健太郎",
-    "link": "https://note.com/dennotai/n/n433ee03289a5",
-    "pubDate": "2026-09-15T00:44:15.000Z"
   },
   {
     "site": "Qiita",
@@ -91,45 +121,15 @@
   },
   {
     "site": "Zenn",
-    "title": "仕様と実装を同じ言葉で書く ― 責務を機械的に突合し検証し続けるフロントエンド開発（要件定義〜実装・テスト）",
-    "link": "https://zenn.dev/2_daiki_ando/articles/53c34e071b5d69",
-    "pubDate": "Mon, 14 Sep 2026 15:27:39 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Fragment Refsのずるい使い方",
     "link": "https://zenn.dev/uhyo/articles/react-fragment-refs-hack",
     "pubDate": "Mon, 14 Sep 2026 14:26:13 GMT"
   },
   {
     "site": "Zenn",
-    "title": "【ベイズ推定】相手のことを答えると「本当に欲しそうなプレゼント」を当てにいく『欲しいもの.com』を作った",
-    "link": "https://zenn.dev/aucccchi/articles/hoshiimono-bayes-gift-diagnosis",
-    "pubDate": "Mon, 14 Sep 2026 14:13:58 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成AIが書いたドキュメントを読みたくない - Qiita",
-    "link": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
-    "pubDate": "2026-09-14T11:11:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "犯人はAWS WAF：CognitoのパスワードがSQLiと誤検知された話",
-    "link": "https://zenn.dev/dgtech/articles/aws-waf-blocks-cognito-password",
-    "pubDate": "Mon, 14 Sep 2026 10:18:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルLLMにレビューさせていた話の続報（前回の構成、実は動いていませんでした）",
-    "link": "https://zenn.dev/k_motoki/articles/ef60bbbc0ad7ec",
-    "pubDate": "Mon, 14 Sep 2026 05:16:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SendGridからAmazon SESに移行してコストを削減する",
-    "link": "https://zenn.dev/team_zenn/articles/sendgrid-to-ses-cost-reduction",
-    "pubDate": "Mon, 14 Sep 2026 05:15:10 GMT"
+    "title": "Kubbで理想のfetchクライアントを作りたいっ！！",
+    "link": "https://zenn.dev/chot/articles/kubb-custom-fetch-client",
+    "pubDate": "Mon, 14 Sep 2026 08:53:27 GMT"
   },
   {
     "site": "Qiita",
