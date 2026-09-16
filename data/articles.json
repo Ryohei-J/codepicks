@@ -1,33 +1,57 @@
 [
   {
     "site": "Hatena",
-    "title": "VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
-    "pubDate": "2026-09-16T00:26:53.000Z"
+    "title": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから - エルミタージュ秋葉原",
+    "link": "https://www.gdm.or.jp/pressrelease/2026/0916/652592",
+    "pubDate": "2026-09-16T08:54:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び ",
+    "link": "https://corp.helpfeel.com/news/news-20260916-1",
+    "pubDate": "2026-09-16T06:39:20.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "元ヤフーエンジニア社長が考える、AI時代の採用基準",
+    "link": "https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-16T06:20:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マンガ原稿をクラウドに上げただけでGoogleアカウントBAN　Gmailも道連れ……日本では合法なのになぜ？",
+    "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001527/",
+    "pubDate": "2026-09-16T03:30:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "若い研究者のデバッグ中に「この変数の値を確認しよう」と言っても、大丈夫だと断られる…その後、解決しないので確認させるとやはり問題が…→AIは賢くないが素直だと力説",
+    "link": "https://togetter.com/li/2746161",
+    "pubDate": "2026-09-16T03:28:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "11年ぶり5連休の「シルバーウィーク」　普通郵便が5日届かないのでご注意を",
+    "link": "https://www.watch.impress.co.jp/docs/news/2139983.html",
+    "pubDate": "2026-09-16T03:02:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
+    "link": "https://gigazine.net/news/20260916-system-one-jev/",
+    "pubDate": "2026-09-16T02:49:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "拒否ルールを全部消しても、Claude Code は eval を止めた。守っていたのは別の仕組みだった",
+    "link": "https://qiita.com/suwa_nobu/items/5145961004e38e2fe316?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-16T00:22:25.000Z"
   },
   {
     "site": "Hatena",
     "title": "社長はエンジニア｜平田　はる香",
     "link": "https://note.com/wazawazapan/n/nd438d0a5bc37",
     "pubDate": "2026-09-16T00:21:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI脅威論で異例のタッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
-    "pubDate": "2026-09-15T21:35:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
-    "link": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
-    "pubDate": "2026-09-15T21:03:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
-    "link": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-    "pubDate": "2026-09-15T15:25:18.000Z"
   },
   {
     "site": "Hatena",
@@ -45,7 +69,7 @@
     "site": "Zenn",
     "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
     "link": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
-    "pubDate": "2026-09-15T13:00:04.000Z"
+    "pubDate": "Tue, 15 Sep 2026 12:37:56 GMT"
   },
   {
     "site": "Zenn",
@@ -61,6 +85,12 @@
   },
   {
     "site": "Zenn",
+    "title": "CAN通信で使われるUDSとISO-TPについて",
+    "link": "https://zenn.dev/kg_motors_mibot/articles/unified_diagnostic_services",
+    "pubDate": "Tue, 15 Sep 2026 07:18:50 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Code Meetup Japan #7 参加レポート",
     "link": "https://zenn.dev/flagxs/articles/7a9178c94cc27b",
     "pubDate": "Tue, 15 Sep 2026 06:56:34 GMT"
@@ -73,15 +103,21 @@
   },
   {
     "site": "Zenn",
+    "title": "自動テストが0件の現場で、人の確認を減らす側に倒した話",
+    "link": "https://zenn.dev/ceres_tech_blog/articles/09aa8e17762d7e",
+    "pubDate": "Tue, 15 Sep 2026 06:02:40 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Grafana BeylaとOpenTelemetry eBPF Instrumentation（OBI）の差分は何か",
     "link": "https://zenn.dev/ymotongpoo/articles/20260916-beyla-obi-diff",
     "pubDate": "Tue, 15 Sep 2026 06:00:04 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ネット全体が乗っ取られるまで半年!? AI開発の減速をAnthropic CEOが提言",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2140906.html",
-    "pubDate": "2026-09-15T03:44:56.000Z"
+    "site": "Zenn",
+    "title": "データマート導入でDBパフォーマンスの手綱を握る",
+    "link": "https://zenn.dev/flinters_blog/articles/abfa4828ee19cd",
+    "pubDate": "Tue, 15 Sep 2026 04:30:51 GMT"
   },
   {
     "site": "Zenn",
@@ -91,9 +127,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Code のサブエージェントにも CLAUDE.md は全部渡る。外す設定ができた",
-    "link": "https://qiita.com/suwa_nobu/items/b465ef863f8d8608f497?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-15T00:06:10.000Z"
+    "title": "「最近どう？」しか聞けなかった1on1で、メンバーが退職届を出してきた話",
+    "link": "https://qiita.com/fe1ix/items/5d733c267370e0e06661?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-15T00:38:28.000Z"
   },
   {
     "site": "Qiita",
@@ -108,28 +144,16 @@
     "pubDate": "Mon, 14 Sep 2026 23:51:17 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "社内AI ハッカソン、意外と盛り上がりました",
-    "link": "https://zenn.dev/edash_tech_blog/articles/a8b316340d017c",
-    "pubDate": "Mon, 14 Sep 2026 23:50:17 GMT"
+    "site": "Qiita",
+    "title": "【Porffor】JavaScriptをCにコンパイルして圧倒的パフォーマンスを見せる",
+    "link": "https://qiita.com/rana_kualu/items/f82f870ef8481d9b1f0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-14T12:34:39.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Google Chat × Claude Agent SDK × AWS Lambdaで「事業部向けのAIエージェント」を作った話",
-    "link": "https://zenn.dev/wwwave/articles/50f7450f5d13bf",
-    "pubDate": "Mon, 14 Sep 2026 22:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Fragment Refsのずるい使い方",
-    "link": "https://zenn.dev/uhyo/articles/react-fragment-refs-hack",
-    "pubDate": "Mon, 14 Sep 2026 14:26:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kubbで理想のfetchクライアントを作りたいっ！！",
-    "link": "https://zenn.dev/chot/articles/kubb-custom-fetch-client",
-    "pubDate": "Mon, 14 Sep 2026 08:53:27 GMT"
+    "site": "Qiita",
+    "title": "【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる",
+    "link": "https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-14T06:27:42.000Z"
   },
   {
     "site": "Qiita",
@@ -145,38 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Code のスキルを47本運用して測った、7つのこと",
-    "link": "https://qiita.com/suwa_nobu/items/08e3bd535dbc79e0c738?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-14T00:52:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code で編集を拒否したファイルが、tee なら4回中4回書けた",
-    "link": "https://qiita.com/suwa_nobu/items/6b00e31860d275e7b6b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-14T00:35:18.000Z"
+    "title": "コードレビューで「正しいけど刺さる」コメントをして後輩に距離を置かれた話",
+    "link": "https://qiita.com/fe1ix/items/6d78460c9be9cacc1fce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-14T00:54:13.000Z"
   },
   {
     "site": "Qiita",
     "title": "『Lean で証明できた』は何を保証するのか？  〜 Lean の無矛盾性と信頼の根拠 〜",
     "link": "https://qiita.com/kyamaz/items/7b38e5977dc97747d2d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-13T13:27:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": ":has()で不要になったJavaScript 10選",
-    "link": "https://qiita.com/tofu_frontend/items/5f594cf3d150f17f8bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-13T11:38:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "42日でバックエンドエンジニアの基礎を完全に理解する #32 - Webアプリの3層アーキテクチャ",
-    "link": "https://qiita.com/iketani45664566/items/898986475ce74e7b52ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-13T09:55:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "熊本地震をドラレコで撮影してしまったので、ffmpegで音声を消してWikimedia Commonsに公開した話",
-    "link": "https://qiita.com/inakano_ojisan/items/baa529a57648b2a364fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-13T02:41:13.000Z"
   }
 ]
