@@ -1,5 +1,41 @@
 [
   {
+    "site": "Zenn",
+    "title": "jev 同士に五目並べで対戦させた",
+    "link": "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
+    "pubDate": "2026-09-17T12:40:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "WebMCPを試してみた感想。フロントエンドの必須技術になりそうな予感。",
+    "link": "https://zenn.dev/chot/articles/268804cd6694ab",
+    "pubDate": "2026-09-17T10:25:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本標準時の供給サービスにおける異常の発生について｜2026年｜NICT-情報通信研究機構",
+    "link": "https://www.nict.go.jp/publicity/topics/2026/09/11-1.html",
+    "pubDate": "2026-09-17T10:11:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」",
+    "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001590/",
+    "pubDate": "2026-09-17T09:19:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "パスキーは破られていないのに突破される——デバイスコードフロー攻撃とEntra IDでの対策 - APC 技術ブログ",
+    "link": "https://techblog.ap-com.co.jp/entry/2026/09/17/103525",
+    "pubDate": "2026-09-17T08:49:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "気軽にDGX Sparkでapt upgradeしたら壊れた話",
+    "link": "https://zenn.dev/alpha_omega/articles/3f3ea4d14a0234",
+    "pubDate": "Thu, 17 Sep 2026 07:19:25 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "国内スマホ利用率、iPhoneが45.6%に低下。Androidは54.1%に - すまほん!!",
     "link": "https://smhn.info/202609-mmd-japan-smartphone-os-share-survey",
@@ -7,9 +43,9 @@
   },
   {
     "site": "Hatena",
-    "title": "買ったばかりのMacBook Pro M5のキーボードとモニターの間に薄い紙資料を挟んだまま閉じて、短時間持ち運んだらモニターが潰れた→キーボードカバーもダメ、注意して下さい",
-    "link": "https://togetter.com/li/2746655",
-    "pubDate": "2026-09-17T05:58:02.000Z"
+    "title": "Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/17/140349",
+    "pubDate": "2026-09-17T05:46:22.000Z"
   },
   {
     "site": "Hatena",
@@ -19,15 +55,15 @@
   },
   {
     "site": "Zenn",
+    "title": "WebMCPを試してみた感想。フロントエンドの必須技術になりそうな予感。",
+    "link": "https://zenn.dev/chot/articles/268804cd6694ab",
+    "pubDate": "Thu, 17 Sep 2026 04:12:12 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Nullabilityの棚卸しと、NullAwayのプロダクションコード全体適用",
     "link": "https://zenn.dev/nstock/articles/null-away-20260917",
     "pubDate": "Thu, 17 Sep 2026 02:30:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "イランによるAmazonのデータセンターへの攻撃により顧客データが永久に失われる",
-    "link": "https://gigazine.net/news/20260917-aws-middle-east-data-center-unable-to-restore/",
-    "pubDate": "2026-09-17T02:24:08.000Z"
   },
   {
     "site": "Hatena",
@@ -42,22 +78,22 @@
     "pubDate": "2026-09-17T02:06:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
-    "link": "https://note.com/npaka/n/n6f8dd30a5fa4",
-    "pubDate": "2026-09-16T23:12:42.000Z"
+    "site": "Zenn",
+    "title": "作るものが決まらないのは、発想力のせいなのか？：AIハッカソンで優勝したときのアイデアの出し方",
+    "link": "https://zenn.dev/usen_ict/articles/a9051de6bf2b84",
+    "pubDate": "Thu, 17 Sep 2026 00:00:08 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Playwrightの失敗サマリーからDatadogのトレースを探せるようにしてみた",
+    "link": "https://zenn.dev/layerx/articles/c835873212b601",
+    "pubDate": "Thu, 17 Sep 2026 00:00:06 GMT"
   },
   {
     "site": "Hatena",
-    "title": "いい加減「ドパガキ」を卒業したい！　20代ライターがスマホ依存から脱却するために考えたこと（前編）　",
-    "link": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
-    "pubDate": "2026-09-16T22:53:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2141599.html",
-    "pubDate": "2026-09-16T21:37:20.000Z"
+    "title": "AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失",
+    "link": "https://joho-todai.com/aws-middle-east-data-permanently-lost/",
+    "pubDate": "2026-09-16T23:15:24.000Z"
   },
   {
     "site": "Zenn",
@@ -73,27 +109,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Keycloak の resource パラメータで MCP サーバーの aud を変えてみた",
-    "link": "https://zenn.dev/yoshit0oo/articles/mcp-oauth21-keycloak-resource-indicators",
-    "pubDate": "Wed, 16 Sep 2026 10:06:50 GMT"
+    "title": "手書きの運行記録を自動化したら、総務に使うなと言われた話",
+    "link": "https://zenn.dev/naizo01/articles/efb58baf20a951",
+    "pubDate": "Wed, 16 Sep 2026 09:54:32 GMT"
   },
   {
     "site": "Zenn",
     "title": "AI開発チームの作り方と育て方 — マルチエージェント開発組織の設計と運用",
     "link": "https://zenn.dev/hampen2929/books/ai-dev-team-guide",
     "pubDate": "Wed, 16 Sep 2026 09:54:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "会議の録音から議事録を自動生成する仕組みを作って議事録を書く時間をなくした",
-    "link": "https://zenn.dev/assign/articles/7e0d3f65c20da9",
-    "pubDate": "Wed, 16 Sep 2026 08:41:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「APIキーは.envに」はもはや通用しない　AIエージェントの“内通者化”をどう防ぐ？",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
-    "pubDate": "2026-09-16T07:51:41.000Z"
   },
   {
     "site": "Zenn",
@@ -109,33 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "AI-DLCを通じて、チームの開発プロセスが変わり始めた話",
-    "link": "https://zenn.dev/simplex/articles/2dd4c86adaef49",
-    "pubDate": "Wed, 16 Sep 2026 03:51:11 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js の Proxy(旧 Middleware) で redirect すると relative URL になる",
-    "link": "https://zenn.dev/chot/articles/nextjs-proxy-redirect",
-    "pubDate": "Wed, 16 Sep 2026 02:47:39 GMT"
+    "title": "Expo SDK 58 Betaの変更点まとめ",
+    "link": "https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd",
+    "pubDate": "Wed, 16 Sep 2026 03:28:22 GMT"
   },
   {
     "site": "Qiita",
     "title": "カードショップ(flat-工房)の社内DXがすげえ",
     "link": "https://qiita.com/sgrs38/items/35408d94ae1ed6fdde0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-15T23:10:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Copilot app を使いこなす",
-    "link": "https://zenn.dev/skmkzyk/books/github-copilot-app-guide",
-    "pubDate": "Tue, 15 Sep 2026 14:16:56 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
-    "link": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
-    "pubDate": "Tue, 15 Sep 2026 12:37:56 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "【Porffor】JavaScriptをCにコンパイルして圧倒的パフォーマンスを見せる",
     "link": "https://qiita.com/rana_kualu/items/f82f870ef8481d9b1f0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-14T12:34:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIを使っても「自分の文章」に仕上げるためにやっていること - Qiita",
-    "link": "https://qiita.com/kskwtnk/items/aa21e7f57feb43e970e0",
-    "pubDate": "2026-06-29T02:54:42.000Z"
   }
 ]
