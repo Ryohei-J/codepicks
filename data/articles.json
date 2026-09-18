@@ -1,9 +1,81 @@
 [
   {
+    "site": "Zenn",
+    "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
+    "link": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
+    "pubDate": "2026-09-18T07:47:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI同士に共同作業をさせたら人間には読めない「独自言語」を生み出して会話し始める現象が観測される",
+    "link": "https://gigazine.net/news/20260918-ai-agent-evolve-language/",
+    "pubDate": "2026-09-18T07:33:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差",
+    "link": "https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-18T07:02:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Qwen3.8 27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2142052.html",
+    "pubDate": "2026-09-18T05:30:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "負債のメタファと2026年 / Debt Metaphor in Agentic Engineering Age 202609 Edition",
+    "link": "https://speakerdeck.com/twada/debt-metaphor-in-agentic-engineering-age-202609-edition",
+    "pubDate": "2026-09-18T04:52:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会",
+    "link": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai",
+    "pubDate": "2026-09-18T03:54:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Figmaの同時編集、なぜこんなになめらか？CRDTに着想を得た同期設計を公式ブログから読み解く",
+    "link": "https://qiita.com/keishin_nishiura/items/4e65bc9f74966920d625?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-18T03:00:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
+    "link": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html",
+    "pubDate": "2026-09-18T02:50:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「1合」という単位にとらわれないご飯の炊き方｜ツジメシ",
+    "link": "https://note.com/tsujimeshi/n/nf81f3a9daa1f",
+    "pubDate": "2026-09-18T02:47:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Jevでハーネスエンジニアリング",
+    "link": "https://zenn.dev/watany/articles/36e11a20ce3743",
+    "pubDate": "Fri, 18 Sep 2026 02:16:33 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった",
+    "link": "https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-17T23:43:54.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "経営「AIでラクして早く帰って」→社員「帰らない」　工数最大9割減のDeNAも悩むAI効率化の壁",
     "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/",
     "pubDate": "2026-09-17T23:32:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Jev 所感 ダラダラと書く",
+    "link": "https://zenn.dev/meijin/articles/jev-impressions",
+    "pubDate": "Thu, 17 Sep 2026 23:13:45 GMT"
   },
   {
     "site": "Hatena",
@@ -12,28 +84,10 @@
     "pubDate": "2026-09-17T20:24:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "[法林岳之の「週刊モバイルCATCH UP」]ローミング終了の「楽天モバイル」とはどう付き合う？",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html",
-    "pubDate": "2026-09-17T15:28:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Skill suggestion - TypeSafe AI",
-    "link": "https://docs.typesafe.ai/cookbooks/skill_suggestion",
-    "pubDate": "2026-09-17T15:25:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「共生社会」は誰が我慢するのか？ ― 外国人材・企業責任・ルール遵守を考える : システム設計視点の行動経済学 (30)",
-    "link": "https://qiita.com/maskot1977/items/053e3c37272015b4913d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-17T15:03:24.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
-    "link": "https://zenn.dev/nwn/articles/824026c76116e0",
-    "pubDate": "2026-09-17T14:05:53.000Z"
+    "title": "認知負債の未来は？",
+    "link": "https://zenn.dev/kabeya/articles/future-of-cognitive-debt",
+    "pubDate": "Thu, 17 Sep 2026 14:30:02 GMT"
   },
   {
     "site": "Qiita",
@@ -54,22 +108,28 @@
     "pubDate": "2026-09-17T11:02:25.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita",
-    "link": "https://qiita.com/yushibats/items/d4e3e0186f4d8eb83874?utm_source=dlvr.it&utm_medium=twitter",
-    "pubDate": "2026-09-17T11:02:23.000Z"
+    "site": "Zenn",
+    "title": "C# と Luaで何かやってみる (LMStudio&Python)",
+    "link": "https://zenn.dev/baleenstudio/articles/67ddfb62c4e2fb",
+    "pubDate": "Thu, 17 Sep 2026 07:42:49 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "『マネーフォワード ME』、2026年9月17日(木)より「Apps in ChatGPT」で利用できるアプリの提供を開始",
-    "link": "https://prtimes.jp/main/html/rd/p/000001675.000008962.html",
-    "pubDate": "2026-09-17T09:48:12.000Z"
+    "site": "Qiita",
+    "title": "Unityの1万超アセット配信を3時間→13分にした設計",
+    "link": "https://qiita.com/harusann2/items/50d638e7a3c2d76e0531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-17T07:19:57.000Z"
   },
   {
     "site": "Zenn",
     "title": "気軽にDGX Sparkでapt upgradeしたら壊れた話",
     "link": "https://zenn.dev/alpha_omega/articles/3f3ea4d14a0234",
     "pubDate": "Thu, 17 Sep 2026 07:19:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI ネイティブなデータ分析基盤を作った話",
+    "link": "https://zenn.dev/pksha/articles/5a1dc6470019d6",
+    "pubDate": "Thu, 17 Sep 2026 07:11:52 GMT"
   },
   {
     "site": "Zenn",
@@ -84,40 +144,10 @@
     "pubDate": "Thu, 17 Sep 2026 05:25:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeを「使うほど育つ」AI秘書にするノウハウ",
-    "link": "https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau",
-    "pubDate": "2026-09-17T05:02:37.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "WebMCPを試してみた感想。フロントエンドの必須技術になりそうな予感。",
     "link": "https://zenn.dev/chot/articles/268804cd6694ab",
     "pubDate": "Thu, 17 Sep 2026 04:12:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "1年半かけて育ててきたAI開発フロー",
-    "link": "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
-    "pubDate": "Thu, 17 Sep 2026 03:42:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "128GB の Mac で DeepSeek V4.1 Flash は動いたが、開発には Flash Next と oMLX を選んだ",
-    "link": "https://zenn.dev/jtechjapan_pub/articles/deepseek-v41-vs-flash-next-m4max",
-    "pubDate": "Thu, 17 Sep 2026 03:36:16 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "24時間動き続けるAIエージェント：途中で「死なない」ようにする設計",
-    "link": "https://qiita.com/Ikegamik_genee/items/a628f20cd7fe262cbeb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-17T03:06:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Nullabilityの棚卸しと、NullAwayのプロダクションコード全体適用",
-    "link": "https://zenn.dev/nstock/articles/null-away-20260917",
-    "pubDate": "Thu, 17 Sep 2026 02:30:05 GMT"
   },
   {
     "site": "Qiita",
@@ -126,16 +156,10 @@
     "pubDate": "2026-09-17T02:06:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "作るものが決まらないのは、発想力のせいなのか？：AIハッカソンで優勝したときのアイデアの出し方",
-    "link": "https://zenn.dev/usen_ict/articles/a9051de6bf2b84",
-    "pubDate": "Thu, 17 Sep 2026 00:00:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Playwrightの失敗サマリーからDatadogのトレースを探せるようにしてみた",
-    "link": "https://zenn.dev/layerx/articles/c835873212b601",
-    "pubDate": "Thu, 17 Sep 2026 00:00:06 GMT"
+    "site": "Qiita",
+    "title": "macOS 27にはローカルLLMが入っている",
+    "link": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-16T16:42:53.000Z"
   },
   {
     "site": "Qiita",
@@ -154,29 +178,5 @@
     "title": "元ヤフーエンジニア社長が考える、AI時代の採用基準",
     "link": "https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-16T06:20:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "カードショップ(flat-工房)の社内DXがすげえ",
-    "link": "https://qiita.com/sgrs38/items/35408d94ae1ed6fdde0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-15T23:10:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "13年続けた個人プロダクトで、作ること以外で学んだ10のこと - SANOGRAPHIX Blog",
-    "link": "https://text.sanographix.net/entry/2026/09/15/191000",
-    "pubDate": "2026-09-15T10:40:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話",
-    "link": "https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-15T05:32:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「最近どう？」しか聞けなかった1on1で、メンバーが退職届を出してきた話",
-    "link": "https://qiita.com/fe1ix/items/5d733c267370e0e06661?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-15T00:38:28.000Z"
   }
 ]
