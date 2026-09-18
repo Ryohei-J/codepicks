@@ -1,27 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、領収書も送ったのに、Uberから「返金できない」と言われた→トラブル対応の杜撰さを示す報告相次ぐ",
+    "link": "https://togetter.com/li/2747370",
+    "pubDate": "2026-09-18T15:43:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【徹底解説】DeepSeek v4.1 Flashの内部構造【最適化したから解ること】｜shi3z",
+    "link": "https://note.com/shi3zblog/n/n6d4fbe03218e",
+    "pubDate": "2026-09-18T14:45:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "出版取次の日販、米AI企業に書籍を大量販売か　業界団体が説明要求（朝日新聞） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/212f2a1ec5d3862735a3a456429c4d816bf5d178",
+    "pubDate": "2026-09-18T14:14:24.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ",
     "link": "https://tech.layerx.co.jp/entry/2026/09/18/185816",
     "pubDate": "2026-09-18T10:21:35.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2142260.html",
-    "pubDate": "2026-09-18T08:48:52.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ネコの新種、100年以上ぶりに発見",
     "link": "https://japan.cnet.com/article/35252798/",
     "pubDate": "2026-09-18T08:19:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "好き嫌い.comは運営者が利用者のことどうなっても良い感じらしくて開示が爆速らしい「運営者と直接やりとりすれば2000円で投稿者のIPアドレスを爆速で教えてくれます」",
-    "link": "https://togetter.com/li/2747247",
-    "pubDate": "2026-09-18T08:11:19.000Z"
   },
   {
     "site": "Zenn",
@@ -48,10 +54,28 @@
     "pubDate": "2026-09-18T07:02:13.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか",
+    "link": "https://qiita.com/shinkai_/items/61994be44d61c76716d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-18T06:48:33.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "Qwen3.8 27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」",
+    "title": "Qwen3.8-27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」",
     "link": "https://pc.watch.impress.co.jp/docs/news/2142052.html",
     "pubDate": "2026-09-18T05:30:58.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説",
+    "link": "https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-18T05:21:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化",
+    "link": "https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/",
+    "pubDate": "2026-09-18T04:50:48.000Z"
   },
   {
     "site": "Hatena",
@@ -64,12 +88,6 @@
     "title": "Figmaの同時編集、なぜこんなになめらか？CRDTに着想を得た同期設計を公式ブログから読み解く",
     "link": "https://qiita.com/keishin_nishiura/items/4e65bc9f74966920d625?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-18T03:00:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
-    "link": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html",
-    "pubDate": "2026-09-18T02:50:58.000Z"
   },
   {
     "site": "Hatena",
@@ -97,15 +115,15 @@
   },
   {
     "site": "Qiita",
+    "title": "【Jev】文章を返さない判断モデル Jev とは？〜システム運用での活用方法についても想像してみる〜",
+    "link": "https://qiita.com/ryu-ki/items/e3fe99b5f6704d08a19b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-17T23:55:25.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった",
     "link": "https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-17T23:43:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "経営「AIでラクして早く帰って」→社員「帰らない」　工数最大9割減のDeNAも悩むAI効率化の壁",
-    "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/",
-    "pubDate": "2026-09-17T23:32:09.000Z"
   },
   {
     "site": "Zenn",
@@ -148,24 +166,6 @@
     "title": "AI ネイティブなデータ分析基盤を作った話",
     "link": "https://zenn.dev/pksha/articles/5a1dc6470019d6",
     "pubDate": "Thu, 17 Sep 2026 07:11:52 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "常駐コンテキストを削りClaude Codeのコストを抑えてみた",
-    "link": "https://qiita.com/ya-mizobuchi/items/6ae906dd28bf61b32329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-17T02:06:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "macOS 27にはローカルLLMが入っている",
-    "link": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-16T16:42:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Jevってなんだ？ — 文章を書かないAIに、LLMのif文判定を任せられるか",
-    "link": "https://qiita.com/GeneLab_999/items/116aa006fbf93b68d791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-16T15:11:29.000Z"
   },
   {
     "site": "Qiita",
