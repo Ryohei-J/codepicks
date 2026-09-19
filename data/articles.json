@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "米軍、AI誤報で作戦計画　中国船に「核部品」、直前中止 | NEWSjp",
+    "link": "https://news.jp/i/1473810070062515120",
+    "pubDate": "2026-09-18T23:35:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米アンソロピックが生物学の実験施設　AIを創薬に活用 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
+    "pubDate": "2026-09-18T22:51:23.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、領収書も送ったのに、Uberから「返金できない」と言われた→トラブル対応の杜撰さを示す報告相次ぐ",
     "link": "https://togetter.com/li/2747370",
     "pubDate": "2026-09-18T15:43:31.000Z"
@@ -25,15 +37,15 @@
   },
   {
     "site": "Hatena",
-    "title": "ネコの新種、100年以上ぶりに発見",
-    "link": "https://japan.cnet.com/article/35252798/",
-    "pubDate": "2026-09-18T08:19:23.000Z"
+    "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "link": "https://forbesjapan.com/articles/detail/104778",
+    "pubDate": "2026-09-18T09:39:13.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
-    "link": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-    "pubDate": "2026-09-18T07:47:56.000Z"
+    "site": "Hatena",
+    "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
+    "link": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
+    "pubDate": "2026-09-18T07:39:00.000Z"
   },
   {
     "site": "Zenn",
@@ -60,40 +72,16 @@
     "pubDate": "2026-09-18T06:48:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Qwen3.8-27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2142052.html",
-    "pubDate": "2026-09-18T05:30:58.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説",
     "link": "https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-18T05:21:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化",
-    "link": "https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/",
-    "pubDate": "2026-09-18T04:50:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会",
-    "link": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai",
-    "pubDate": "2026-09-18T03:54:06.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Figmaの同時編集、なぜこんなになめらか？CRDTに着想を得た同期設計を公式ブログから読み解く",
     "link": "https://qiita.com/keishin_nishiura/items/4e65bc9f74966920d625?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-18T03:00:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「1合」という単位にとらわれないご飯の炊き方｜ツジメシ",
-    "link": "https://note.com/tsujimeshi/n/nf81f3a9daa1f",
-    "pubDate": "2026-09-18T02:47:56.000Z"
   },
   {
     "site": "Zenn",
@@ -106,12 +94,6 @@
     "title": "全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話",
     "link": "https://zenn.dev/jtcc/articles/7e74fef42580a1",
     "pubDate": "Fri, 18 Sep 2026 00:08:15 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "PRのCI稼働時間を7割削減した話",
-    "link": "https://zenn.dev/innovation/articles/e84f8ccca8e6da",
-    "pubDate": "Fri, 18 Sep 2026 00:00:07 GMT"
   },
   {
     "site": "Qiita",
@@ -144,10 +126,22 @@
     "pubDate": "Thu, 17 Sep 2026 12:28:36 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "SemIf — local decisions in your browser",
+    "link": "https://openjev.com/",
+    "pubDate": "2026-09-17T08:58:15.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Xcodeのプロジェクト設定をJSONにする",
     "link": "https://zenn.dev/d_date/articles/b1a7baa74b77da",
     "pubDate": "Thu, 17 Sep 2026 08:45:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "C# と Luaで何かやってみる (LMStudio&Python)",
+    "link": "https://zenn.dev/baleenstudio/articles/67ddfb62c4e2fb",
+    "pubDate": "Thu, 17 Sep 2026 07:42:49 GMT"
   },
   {
     "site": "Qiita",
@@ -166,6 +160,12 @@
     "title": "AI ネイティブなデータ分析基盤を作った話",
     "link": "https://zenn.dev/pksha/articles/5a1dc6470019d6",
     "pubDate": "Thu, 17 Sep 2026 07:11:52 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
+    "link": "https://github.com/browser-use/jev-ultrafast",
+    "pubDate": "2026-09-17T06:48:22.000Z"
   },
   {
     "site": "Qiita",
