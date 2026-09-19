@@ -1,45 +1,111 @@
 [
   {
     "site": "Hatena",
+    "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+    "link": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+    "pubDate": "2026-09-19T06:37:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "フォルダブル歴5年の筆者も驚いた「iPhone Duo」の完成度　ソフトウェアの力で再定義できるか",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news020.html",
+    "pubDate": "2026-09-19T06:20:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260919de51229",
+    "pubDate": "2026-09-19T04:41:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "TypeSafe AI の Jev を TypeScript で試してみた",
+    "link": "https://azukiazusa.dev/blog/jev-support-routing/",
+    "pubDate": "2026-09-19T04:22:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
+    "link": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+    "pubDate": "2026-09-19T03:46:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場",
+    "link": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
+    "pubDate": "2026-09-19T03:40:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
+    "pubDate": "2026-09-19T02:40:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Intel MacにKali Linuxを入れたらWi-Fiが使えない。Broadcom BCM4360をwlドライバで動かすまで",
+    "link": "https://zenn.dev/dokusy/articles/bc77254466f58d",
+    "pubDate": "Sat, 19 Sep 2026 02:26:22 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない",
+    "link": "https://qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-19T01:51:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Androidでおサイフケータイを使いたくない理由　初期化で消えないデータと売却時の落とし穴",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
+    "pubDate": "2026-09-19T01:13:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "就活用DirectX12アクションゲーム作成　第三十二回",
+    "link": "https://zenn.dev/seisei89628/articles/b505300dc8eaac",
+    "pubDate": "Sat, 19 Sep 2026 00:34:29 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "実はコミュニティ運営をやめようと思っていました",
+    "link": "https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-18T23:51:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "米軍、AI誤報で作戦計画　中国船に「核部品」、直前中止 | NEWSjp",
     "link": "https://news.jp/i/1473810070062515120",
     "pubDate": "2026-09-18T23:35:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "米アンソロピックが生物学の実験施設　AIを創薬に活用 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
-    "pubDate": "2026-09-18T22:51:23.000Z"
+    "site": "Zenn",
+    "title": "ARGのゲームデザイン　～「フィクション表記」は現実と虚構の線引きを解決するのか？～",
+    "link": "https://zenn.dev/ryo_a/articles/bb5d25ef20020c",
+    "pubDate": "Fri, 18 Sep 2026 21:20:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、領収書も送ったのに、Uberから「返金できない」と言われた→トラブル対応の杜撰さを示す報告相次ぐ",
-    "link": "https://togetter.com/li/2747370",
-    "pubDate": "2026-09-18T15:43:31.000Z"
+    "site": "Zenn",
+    "title": "日比谷高校オンライン整理券システム \"QUAINT\" 2025年開発体験記",
+    "link": "https://zenn.dev/mrharu0310/articles/67288588758d64",
+    "pubDate": "Fri, 18 Sep 2026 20:12:24 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【徹底解説】DeepSeek v4.1 Flashの内部構造【最適化したから解ること】｜shi3z",
-    "link": "https://note.com/shi3zblog/n/n6d4fbe03218e",
-    "pubDate": "2026-09-18T14:45:34.000Z"
+    "site": "Zenn",
+    "title": "ローカルJevの可能性検証",
+    "link": "https://zenn.dev/hakotech/articles/5c2fe2eb8a6051",
+    "pubDate": "Fri, 18 Sep 2026 16:51:31 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "出版取次の日販、米AI企業に書籍を大量販売か　業界団体が説明要求（朝日新聞） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/212f2a1ec5d3862735a3a456429c4d816bf5d178",
-    "pubDate": "2026-09-18T14:14:24.000Z"
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 15",
+    "link": "https://qiita.com/maskot1977/items/1f6b4c9ed446b2b282df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-18T15:03:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ",
-    "link": "https://tech.layerx.co.jp/entry/2026/09/18/185816",
-    "pubDate": "2026-09-18T10:21:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/104778",
-    "pubDate": "2026-09-18T09:39:13.000Z"
+    "site": "Zenn",
+    "title": "【2026/9/17最新アプデ】Claude Docs が登場！Slides・Design と合わせて触ってみた",
+    "link": "https://zenn.dev/canly/articles/7ac8cea14c20e8",
+    "pubDate": "Fri, 18 Sep 2026 10:40:41 GMT"
   },
   {
     "site": "Hatena",
@@ -52,12 +118,6 @@
     "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
     "link": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "pubDate": "Fri, 18 Sep 2026 07:27:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare WorkersでJevを使ったら高速か検証してみた",
-    "link": "https://zenn.dev/henteko/articles/1d159d10413312",
-    "pubDate": "Fri, 18 Sep 2026 07:23:34 GMT"
   },
   {
     "site": "Qiita",
@@ -102,12 +162,6 @@
     "pubDate": "2026-09-17T23:55:25.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった",
-    "link": "https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-17T23:43:54.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "認知負債の未来は？",
     "link": "https://zenn.dev/kabeya/articles/future-of-cognitive-debt",
@@ -120,63 +174,9 @@
     "pubDate": "2026-09-17T13:26:18.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "jev 同士に五目並べで対戦させた",
-    "link": "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
-    "pubDate": "Thu, 17 Sep 2026 12:28:36 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "SemIf — local decisions in your browser",
-    "link": "https://openjev.com/",
-    "pubDate": "2026-09-17T08:58:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Xcodeのプロジェクト設定をJSONにする",
-    "link": "https://zenn.dev/d_date/articles/b1a7baa74b77da",
-    "pubDate": "Thu, 17 Sep 2026 08:45:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "C# と Luaで何かやってみる (LMStudio&Python)",
-    "link": "https://zenn.dev/baleenstudio/articles/67ddfb62c4e2fb",
-    "pubDate": "Thu, 17 Sep 2026 07:42:49 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "Unityの1万超アセット配信を3時間→13分にした設計",
-    "link": "https://qiita.com/harusann2/items/50d638e7a3c2d76e0531?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-17T07:19:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "気軽にDGX Sparkでapt upgradeしたら壊れた話",
-    "link": "https://zenn.dev/alpha_omega/articles/3f3ea4d14a0234",
-    "pubDate": "Thu, 17 Sep 2026 07:19:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI ネイティブなデータ分析基盤を作った話",
-    "link": "https://zenn.dev/pksha/articles/5a1dc6470019d6",
-    "pubDate": "Thu, 17 Sep 2026 07:11:52 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
-    "link": "https://github.com/browser-use/jev-ultrafast",
-    "pubDate": "2026-09-17T06:48:22.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「AI があればプログラマーはいらない」という風潮が危険な理由",
-    "link": "https://qiita.com/tomokusaba/items/a63285193c854a3b19da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-16T12:10:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "元ヤフーエンジニア社長が考える、AI時代の採用基準",
-    "link": "https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-16T06:20:43.000Z"
+    "title": "Jevってなんだ？ — 文章を書かないAIに、LLMのif文判定を任せられるか",
+    "link": "https://qiita.com/GeneLab_999/items/116aa006fbf93b68d791?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-16T15:11:29.000Z"
   }
 ]
