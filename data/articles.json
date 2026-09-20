@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール",
+    "link": "https://github.com/minorun365/minorun-marp-skill",
+    "pubDate": "2026-09-20T14:35:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
     "link": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
     "pubDate": "2026-09-20T10:54:06.000Z"
@@ -13,9 +19,9 @@
   },
   {
     "site": "Hatena",
-    "title": "山形県の「日本一の芋煮会フェスティバル」が今年も開催され、バックホーが唸り地獄の釜のような火力で芋煮を作りまくっていた「AI動画じゃないの…？」",
-    "link": "https://togetter.com/li/2748026",
-    "pubDate": "2026-09-20T09:10:54.000Z"
+    "title": "GA になった EC2 T8i インスタンスを東京リージョンで起動して、CPU 情報などを確認してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/ec2-t8i-tokyo-launch/",
+    "pubDate": "2026-09-20T07:41:18.000Z"
   },
   {
     "site": "Hatena",
@@ -54,10 +60,16 @@
     "pubDate": "2026-09-20T03:46:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "昼休みに職場の電話に「010～」で始まる番号から着信があった。無視していたら上司が「なぜすぐに出ない！」と怒って電話に出た。 日本郵便の本社から上司宛の荷物が届かないと言ってるようだ。（いつもハンズフリー機能で受け答えする上司） 俺が「詐欺ですよ」と伝えると電話の向こうで激怒！→「そもそも本社から郵便物の配達についてお客に電話をかけることなどほぼ100%ない」",
-    "link": "https://posfie.com/@mumimushunyu/p/Q9gnECY",
-    "pubDate": "2026-09-20T00:09:41.000Z"
+    "site": "Qiita",
+    "title": "取引先からセキュリティチェックシートを求められたら — 回答の進め方と、委託先・保守業者のアクセス管理でまず見直すこと",
+    "link": "https://qiita.com/btncon/items/a79f056fab859293e0b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-20T01:48:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "システム設計視点の行動経済学 全30回 総復習",
+    "link": "https://qiita.com/maskot1977/items/d57c6c1913cb8e1fd833?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-19T17:07:17.000Z"
   },
   {
     "site": "Zenn",
@@ -82,12 +94,6 @@
     "title": "5分でJev入門（すぐ使う）",
     "link": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-19T14:29:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた",
-    "link": "https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-19T09:01:19.000Z"
   },
   {
     "site": "Qiita",
@@ -139,9 +145,9 @@
   },
   {
     "site": "Qiita",
-    "title": "元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差",
-    "link": "https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-18T07:02:13.000Z"
+    "title": "「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか",
+    "link": "https://qiita.com/shinkai_/items/61994be44d61c76716d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-18T06:48:33.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "認知負債の未来は？",
     "link": "https://zenn.dev/kabeya/articles/future-of-cognitive-debt",
     "pubDate": "Thu, 17 Sep 2026 14:30:02 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する",
-    "link": "https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-17T13:26:18.000Z"
   }
 ]
