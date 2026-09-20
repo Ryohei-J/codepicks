@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+    "pubDate": "2026-09-20T10:54:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大分県の別府温泉では約100℃の源泉を竹で細かく分散して通すことで、自然にお湯を冷ます技術が発展していた「昔の人の知恵だなぁ…」",
+    "link": "https://togetter.com/li/2748029",
+    "pubDate": "2026-09-20T09:31:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "山形県の「日本一の芋煮会フェスティバル」が今年も開催され、バックホーが唸り地獄の釜のような火力で芋煮を作りまくっていた「AI動画じゃないの…？」",
+    "link": "https://togetter.com/li/2748026",
+    "pubDate": "2026-09-20T09:10:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "iPhone Duoは重すぎる？ Pro Maxを1年使った私が気になったのは、重さよりTouch ID – @tarosite",
+    "link": "https://tarosite.net/tech/2026/09/20/iphone-duo-weight-and-touch-id/",
+    "pubDate": "2026-09-20T07:13:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+    "link": "https://github.com/dmtrKovalenko/bashka",
+    "pubDate": "2026-09-20T07:02:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/",
     "pubDate": "2026-09-20T06:15:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Jevには残念なことに技術的な革新は無いが、すでにそこにあることが強いアドバンテージ",
+    "link": "https://anond.hatelabo.jp/20260920135749",
+    "pubDate": "2026-09-20T06:08:25.000Z"
   },
   {
     "site": "Qiita",
@@ -19,27 +55,21 @@
   },
   {
     "site": "Hatena",
-    "title": "16年間放置されていたSQLiteのバグを突き止めた方法",
-    "link": "https://gigazine.net/news/20260920-sqlite-wal-reset-bug/",
-    "pubDate": "2026-09-20T03:04:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "jsonize で JSON を Unix パイプラインの共通言語にする",
-    "link": "https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/",
-    "pubDate": "2026-09-20T02:53:17.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "昼休みに職場の電話に「010～」で始まる番号から着信があった。無視していたら上司が「なぜすぐに出ない！」と怒って電話に出た。 日本郵便の本社から上司宛の荷物が届かないと言ってるようだ。（いつもハンズフリー機能で受け答えする上司） 俺が「詐欺ですよ」と伝えると電話の向こうで激怒！→「そもそも本社から郵便物の配達についてお客に電話をかけることなどほぼ100%ない」",
     "link": "https://posfie.com/@mumimushunyu/p/Q9gnECY",
     "pubDate": "2026-09-20T00:09:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「DMM GAMESさんのブースのキャンギャル、ほぼ全裸でしたよね？？？」このTGSの感想に令和だというのに画像も無しにスレ立てを咎める麻呂が乱立…なお件の美女の画像も",
-    "link": "https://togetter.com/li/2747784",
-    "pubDate": "2026-09-19T18:31:57.000Z"
+    "site": "Zenn",
+    "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
+    "link": "https://zenn.dev/mizchi/articles/jev-lint-intro",
+    "pubDate": "Sat, 19 Sep 2026 15:39:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Ternary Bonsai 2 27BをM1Pro・16GBで動かす",
+    "link": "https://zenn.dev/okame_rara/articles/bonsai_2_27b_m1",
+    "pubDate": "Sat, 19 Sep 2026 15:05:52 GMT"
   },
   {
     "site": "Zenn",
@@ -54,12 +84,6 @@
     "pubDate": "2026-09-19T14:29:27.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
-    "link": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
-    "pubDate": "2026-09-19T13:14:02.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた",
     "link": "https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,12 +94,6 @@
     "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方",
     "link": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-19T07:56:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "C#の現在地 進化の歴史と、AI時代の.NET Everywhere",
-    "link": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere",
-    "pubDate": "2026-09-19T05:47:30.000Z"
   },
   {
     "site": "Zenn",
@@ -102,12 +120,6 @@
     "pubDate": "2026-09-18T23:38:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
-    "link": "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794",
-    "pubDate": "2026-09-18T22:34:05.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築",
     "link": "https://zenn.dev/hirata_infosys/articles/598068e56ae342",
@@ -124,12 +136,6 @@
     "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
     "link": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
     "pubDate": "Fri, 18 Sep 2026 07:27:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare WorkersでJevを使ったら高速か検証してみた",
-    "link": "https://zenn.dev/henteko/articles/1d159d10413312",
-    "pubDate": "Fri, 18 Sep 2026 07:23:34 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する",
     "link": "https://qiita.com/nasuvitz/items/44f20ed515b9734afb26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-17T13:26:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Xcodeのプロジェクト設定をJSONにする",
-    "link": "https://zenn.dev/d_date/articles/b1a7baa74b77da",
-    "pubDate": "Thu, 17 Sep 2026 08:45:24 GMT"
   }
 ]
