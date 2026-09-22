@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー",
+    "link": "https://nazology.kusuguru.co.jp/archives/199973",
+    "pubDate": "2026-09-22T13:17:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "大量注文が来てた古本屋(Amazon)だけど質問ある？",
     "link": "https://anond.hatelabo.jp/20260922210618",
     "pubDate": "2026-09-22T12:14:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう。プロンプト、コンテキスト、ハーネス、ループ、グラフエンジニアリングについて。",
+    "link": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-22T11:42:26.000Z"
   },
   {
     "site": "Hatena",
@@ -18,16 +30,22 @@
     "pubDate": "2026-09-22T10:10:43.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "50代プログラミング未経験者が7年かけてAtCoderで入緑した話",
+    "link": "https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-22T08:18:33.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Claude Codeの Plugins は設定したほうがいい - じゃあ、おうちで学べる",
     "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/22/124945",
     "pubDate": "2026-09-22T06:52:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "あの名コンビの声が“公認AI”で6カ国語に！　麻布台ヒルズ「まんが日本昔ばなし展」で体験するAI音声の最前線",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2609/22/news023.html",
-    "pubDate": "2026-09-22T04:40:56.000Z"
+    "site": "Qiita",
+    "title": "「なぜか読まれない文章」の正体をSudachiPyで解析したら「漢字率」のゴールデンルールが見えてきた話",
+    "link": "https://qiita.com/taihong/items/e8cf442b5ace978e22b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-22T04:23:52.000Z"
   },
   {
     "site": "Hatena",
@@ -48,10 +66,10 @@
     "pubDate": "Tue, 22 Sep 2026 02:23:29 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "JevでAIエージェントのハーネスはどう変わるのか｜npaka",
-    "link": "https://note.com/npaka/n/ne4547ea3c6f5",
-    "pubDate": "2026-09-22T01:51:11.000Z"
+    "site": "Qiita",
+    "title": "日本語プログラミング言語Mind９でAI仕様駆動開発を行ってみた（ステップ１）～環境準備・コード生成ルール.md～",
+    "link": "https://qiita.com/mylifewithviolin/items/5736ac540c052b409e7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-22T01:56:26.000Z"
   },
   {
     "site": "Hatena",
@@ -66,22 +84,10 @@
     "pubDate": "Mon, 21 Sep 2026 20:13:55 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「説得する」のではなく「問いを増やす」 ― 日本を良くする対話のOSを設計する : システム設計視点の行動経済学 (31)",
-    "link": "https://qiita.com/maskot1977/items/2b0c42c05a5cc06dc545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-21T15:03:11.000Z"
-  },
-  {
     "site": "Hatena",
     "title": "「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”",
     "link": "https://que.dailyshincho.jp/node/20880/",
     "pubDate": "2026-09-21T14:16:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "妖精が飛んでいるかのような幾何学模様をJavaScriptで作ってみた",
-    "link": "https://qiita.com/ishi720/items/f104721b47e7e23b5c8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-21T12:11:36.000Z"
   },
   {
     "site": "Zenn",
@@ -94,12 +100,6 @@
     "title": "C# Kaigi 2026 参加レポート!!",
     "link": "https://zenn.dev/prozolic/articles/3bb3f91f7408cc",
     "pubDate": "Mon, 21 Sep 2026 10:24:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "言葉で頼んで AI 0 回・約 1 秒、手順書をマクロに焼いたら日々の業務から AI が消えた話",
-    "link": "https://qiita.com/shu15511551/items/4f037551f841d786c17d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-21T05:44:19.000Z"
   },
   {
     "site": "Zenn",
@@ -130,6 +130,12 @@
     "title": "みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！",
     "link": "https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-21T02:29:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コロンビアで乗ったUberのおっちゃん「日本人は人生を良くしようとしすぎ」.…幸せって問題がない状態じゃなくて、問題があっても機嫌よくいられること",
+    "link": "https://posfie.com/@Count_Down_000/p/GX0uIFx",
+    "pubDate": "2026-09-21T02:22:29.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "新しい Amazon Bedrock AgentCore Runtime が利用可能に!!",
     "link": "https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version",
     "pubDate": "Sat, 19 Sep 2026 14:55:28 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "5分でJev入門（すぐ使う）",
-    "link": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-19T14:29:27.000Z"
   }
 ]
