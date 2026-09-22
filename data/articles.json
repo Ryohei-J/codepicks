@@ -1,21 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "大量注文が来てた古本屋(Amazon)だけど質問ある？",
+    "link": "https://anond.hatelabo.jp/20260922210618",
+    "pubDate": "2026-09-22T12:14:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」",
+    "link": "https://gigazine.net/news/20260922-open-battery-information/",
+    "pubDate": "2026-09-22T11:06:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ホームページに還ろう",
+    "link": "https://kitasenjudesign.com/zine/",
+    "pubDate": "2026-09-22T10:10:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeの Plugins は設定したほうがいい - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/22/124945",
+    "pubDate": "2026-09-22T06:52:39.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "あの名コンビの声が“公認AI”で6カ国語に！　麻布台ヒルズ「まんが日本昔ばなし展」で体験するAI音声の最前線",
     "link": "https://www.itmedia.co.jp/pcuser/articles/2609/22/news023.html",
     "pubDate": "2026-09-22T04:40:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "C言語のコードをRustの中に書けるライブラリを作った",
-    "link": "https://zenn.dev/tanakh/articles/c-code-in-rust",
-    "pubDate": "2026-09-22T03:30:07.000Z"
   },
   {
     "site": "Hatena",
     "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
     "link": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
     "pubDate": "2026-09-22T02:56:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU",
+    "link": "https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134",
+    "pubDate": "2026-09-22T02:43:17.000Z"
   },
   {
     "site": "Zenn",
@@ -36,16 +60,22 @@
     "pubDate": "2026-09-21T23:10:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
-    "link": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
-    "pubDate": "2026-09-21T17:11:26.000Z"
+    "site": "Zenn",
+    "title": "Nextcloudを高速化するためにやったこと",
+    "link": "https://zenn.dev/fa0311/articles/3a56901bc0d1ba",
+    "pubDate": "Mon, 21 Sep 2026 20:13:55 GMT"
   },
   {
     "site": "Qiita",
     "title": "「説得する」のではなく「問いを増やす」 ― 日本を良くする対話のOSを設計する : システム設計視点の行動経済学 (31)",
     "link": "https://qiita.com/maskot1977/items/2b0c42c05a5cc06dc545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-21T15:03:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”",
+    "link": "https://que.dailyshincho.jp/node/20880/",
+    "pubDate": "2026-09-21T14:16:47.000Z"
   },
   {
     "site": "Qiita",
@@ -78,16 +108,16 @@
     "pubDate": "Mon, 21 Sep 2026 04:46:05 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ChatGPTにブラウザを操作させたら、自作のChrome拡張つきWebアプリは動いたか — 試して分かった境界線",
+    "link": "https://zenn.dev/zephris/articles/5c34ece0877187",
+    "pubDate": "Mon, 21 Sep 2026 03:56:51 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "エンジニア不要論の真実！AIの進化と具体抽象から完全解説",
     "link": "https://qiita.com/Sicut_study/items/b2ef2f7a6ee0dbbf0001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-21T03:52:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
-    "link": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
-    "pubDate": "2026-09-21T03:47:18.000Z"
   },
   {
     "site": "Qiita",
@@ -108,22 +138,10 @@
     "pubDate": "2026-09-20T23:45:56.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIでMVを作るのは想像以上に大変だった　制作34時間、繰り返した“ダメ出し”でわかったこと (1/6)",
-    "link": "https://ascii.jp/elem/000/004/436/4436544/",
-    "pubDate": "2026-09-20T22:42:42.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "終わってるエンジニアの転職その後 〜1年経ってどうなったか〜",
     "link": "https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-20T18:47:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "夫がフォルダ名を「2026-09-19」とつけていたので、 「何そのフォルダ名」と（20260919でええやろ、の意味で）言ったら、 「こうすると新しい順に並ぶから便利だよ」と言われた。 そうか……フィンランドでは普通は「19.9.2026」か……。→「yymmddで世界統一すべきシンプルな理由」",
-    "link": "https://posfie.com/@petaritape/p/Es0IJEZ",
-    "pubDate": "2026-09-20T18:31:17.000Z"
   },
   {
     "site": "Zenn",
@@ -160,23 +178,5 @@
     "title": "5分でJev入門（すぐ使う）",
     "link": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-19T14:29:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "macOS 27にはローカルLLMが入っている - Qiita",
-    "link": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21",
-    "pubDate": "2026-09-19T08:41:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築",
-    "link": "https://zenn.dev/hirata_infosys/articles/598068e56ae342",
-    "pubDate": "Fri, 18 Sep 2026 21:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
-    "link": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
-    "pubDate": "Fri, 18 Sep 2026 20:11:48 GMT"
   }
 ]
