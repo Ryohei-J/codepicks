@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "中国AIのKimi、米Claudeに｢代理回答｣させる　アンソロピックが指摘 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN15BV70V10C26A9000000/",
-    "pubDate": "2026-09-21T19:48:44.000Z"
+    "title": "あの名コンビの声が“公認AI”で6カ国語に！　麻布台ヒルズ「まんが日本昔ばなし展」で体験するAI音声の最前線",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2609/22/news023.html",
+    "pubDate": "2026-09-22T04:40:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "C言語のコードをRustの中に書けるライブラリを作った",
+    "link": "https://zenn.dev/tanakh/articles/c-code-in-rust",
+    "pubDate": "2026-09-22T03:30:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
+    "link": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
+    "pubDate": "2026-09-22T02:56:00.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "C言語のコードをRustの中に書けるライブラリを作った",
+    "link": "https://zenn.dev/tanakh/articles/c-code-in-rust",
+    "pubDate": "Tue, 22 Sep 2026 02:23:29 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "JevでAIエージェントのハーネスはどう変わるのか｜npaka",
+    "link": "https://note.com/npaka/n/ne4547ea3c6f5",
+    "pubDate": "2026-09-22T01:51:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "tanteki — 業務のための文書をもっと端的に",
+    "link": "https://iwasa-kosui.github.io/tanteki/",
+    "pubDate": "2026-09-21T23:10:19.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +42,22 @@
     "pubDate": "2026-09-21T17:11:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Google、GeminiとAndroid連携を深めた新PC「Googlebook」正式発表",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2142578.html",
-    "pubDate": "2026-09-21T14:24:09.000Z"
+    "site": "Qiita",
+    "title": "「説得する」のではなく「問いを増やす」 ― 日本を良くする対話のOSを設計する : システム設計視点の行動経済学 (31)",
+    "link": "https://qiita.com/maskot1977/items/2b0c42c05a5cc06dc545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-21T15:03:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "妖精が飛んでいるかのような幾何学模様をJavaScriptで作ってみた",
+    "link": "https://qiita.com/ishi720/items/f104721b47e7e23b5c8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-21T12:11:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ドメインの変換はHandlerとUseCaseのどちらでやるべきか",
+    "link": "https://zenn.dev/jisou/articles/b7e19c4a2d80f6",
+    "pubDate": "Mon, 21 Sep 2026 10:35:13 GMT"
   },
   {
     "site": "Zenn",
@@ -24,22 +66,10 @@
     "pubDate": "Mon, 21 Sep 2026 10:24:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
-    "pubDate": "2026-09-21T08:43:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される",
-    "link": "https://garumax.com/windows-11-home-local-account-new-workaround",
-    "pubDate": "2026-09-21T06:47:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「バグを前工程で検出すると被害が小さくて済む」とはどういうことか - 覚書",
-    "link": "https://satoru-takeuchi.hatenablog.com/entry/2026/09/20/231104",
-    "pubDate": "2026-09-21T06:40:33.000Z"
+    "site": "Qiita",
+    "title": "言葉で頼んで AI 0 回・約 1 秒、手順書をマクロに焼いたら日々の業務から AI が消えた話",
+    "link": "https://qiita.com/shu15511551/items/4f037551f841d786c17d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-21T05:44:19.000Z"
   },
   {
     "site": "Zenn",
@@ -49,21 +79,15 @@
   },
   {
     "site": "Qiita",
-    "title": "ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！ - Qiita",
-    "link": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9",
-    "pubDate": "2026-09-21T03:59:28.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "エンジニア不要論の真実！AIの進化と具体抽象から完全解説",
     "link": "https://qiita.com/Sicut_study/items/b2ef2f7a6ee0dbbf0001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-21T03:52:23.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Ubieに入社していました",
-    "link": "https://zenn.dev/hagino3000/articles/b3278502b1f47b",
-    "pubDate": "Mon, 21 Sep 2026 03:22:01 GMT"
+    "site": "Qiita",
+    "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
+    "link": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
+    "pubDate": "2026-09-21T03:47:18.000Z"
   },
   {
     "site": "Qiita",
@@ -90,16 +114,16 @@
     "pubDate": "2026-09-20T22:42:42.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "終わってるエンジニアの転職その後 〜1年経ってどうなったか〜",
+    "link": "https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-20T18:47:34.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "夫がフォルダ名を「2026-09-19」とつけていたので、 「何そのフォルダ名」と（20260919でええやろ、の意味で）言ったら、 「こうすると新しい順に並ぶから便利だよ」と言われた。 そうか……フィンランドでは普通は「19.9.2026」か……。→「yymmddで世界統一すべきシンプルな理由」",
     "link": "https://posfie.com/@petaritape/p/Es0IJEZ",
     "pubDate": "2026-09-20T18:31:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ServerlessDays Tokyo 2026での登壇と人と熱",
-    "link": "https://qiita.com/har1101/items/180b8743ca5c652648ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-20T18:21:42.000Z"
   },
   {
     "site": "Zenn",
@@ -144,24 +168,6 @@
     "pubDate": "2026-09-19T08:41:31.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方",
-    "link": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-19T07:56:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "なぜSMS認証は弱いと言われるのか",
-    "link": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-19T03:51:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "実はコミュニティ運営をやめようと思っていました",
-    "link": "https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-18T23:51:25.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築",
     "link": "https://zenn.dev/hirata_infosys/articles/598068e56ae342",
@@ -172,11 +178,5 @@
     "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
     "link": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
     "pubDate": "Fri, 18 Sep 2026 20:11:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【2026/9/17最新アプデ】Claude Docs が登場！Slides・Design と合わせて触ってみた",
-    "link": "https://zenn.dev/canly/articles/7ac8cea14c20e8",
-    "pubDate": "Fri, 18 Sep 2026 10:40:41 GMT"
   }
 ]
