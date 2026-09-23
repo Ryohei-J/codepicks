@@ -1,9 +1,39 @@
 [
   {
     "site": "Hatena",
-    "title": "AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー",
-    "link": "https://nazology.kusuguru.co.jp/archives/199973",
-    "pubDate": "2026-09-22T13:17:12.000Z"
+    "title": "AIは「SI」に改称、トランプ大統領が宣言「フェイクに聞こえる」（朝日新聞） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/8512839dfee0dcb9d6ccf1bf2405d15470412d8e",
+    "pubDate": "2026-09-22T23:38:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Kamipo on Rails 2026",
+    "link": "https://speakerdeck.com/kamipo/kamipo-on-rails-2026",
+    "pubDate": "2026-09-22T21:43:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Opus 5.5登場　Fable 5.1並みの性能をOpus 5より40%安価に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2142619.html",
+    "pubDate": "2026-09-22T18:06:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - HarnessRouter/harnessrouter: HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, ca",
+    "link": "https://github.com/HarnessRouter/harnessrouter",
+    "pubDate": "2026-09-22T16:32:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
+    "link": "https://kawarimidoll.com/posts/202609222/",
+    "pubDate": "2026-09-22T13:23:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「50歳超えだけど今からゲーム開発者になれる？」との人生相談に、“経験者”が大集結。年配組の熱い回答、あの人気ゲームのディレクターも名乗り出る - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20260922-469364/",
+    "pubDate": "2026-09-22T13:05:52.000Z"
   },
   {
     "site": "Hatena",
@@ -13,21 +43,21 @@
   },
   {
     "site": "Qiita",
-    "title": "AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう。プロンプト、コンテキスト、ハーネス、ループ、グラフエンジニアリングについて。",
+    "title": "【まとめ】AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう",
     "link": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-22T11:42:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」",
-    "link": "https://gigazine.net/news/20260922-open-battery-information/",
-    "pubDate": "2026-09-22T11:06:19.000Z"
+    "site": "Zenn",
+    "title": "BiomeにnoReactObjectTypeAsDefaultPropルールを実装して学んだこと",
+    "link": "https://zenn.dev/subaru_hello/articles/biome-rust-first-contribution",
+    "pubDate": "Tue, 22 Sep 2026 09:53:21 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ホームページに還ろう",
-    "link": "https://kitasenjudesign.com/zine/",
-    "pubDate": "2026-09-22T10:10:43.000Z"
+    "site": "Zenn",
+    "title": "Pokémon GO Plus + を分解して、ポケモンスリープの睡眠計測を自動化する装置を作った",
+    "link": "https://zenn.dev/koichi73/articles/pokemon-go-plus-teardown-esp32",
+    "pubDate": "Tue, 22 Sep 2026 09:17:48 GMT"
   },
   {
     "site": "Qiita",
@@ -37,27 +67,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeの Plugins は設定したほうがいい - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/22/124945",
-    "pubDate": "2026-09-22T06:52:39.000Z"
+    "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
+    "pubDate": "2026-09-22T05:17:50.000Z"
   },
   {
     "site": "Qiita",
     "title": "「なぜか読まれない文章」の正体をSudachiPyで解析したら「漢字率」のゴールデンルールが見えてきた話",
     "link": "https://qiita.com/taihong/items/e8cf442b5ace978e22b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-22T04:23:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
-    "link": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
-    "pubDate": "2026-09-22T02:56:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU",
-    "link": "https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134",
-    "pubDate": "2026-09-22T02:43:17.000Z"
   },
   {
     "site": "Zenn",
@@ -72,22 +90,16 @@
     "pubDate": "2026-09-22T01:56:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "tanteki — 業務のための文書をもっと端的に",
-    "link": "https://iwasa-kosui.github.io/tanteki/",
-    "pubDate": "2026-09-21T23:10:19.000Z"
+    "site": "Qiita",
+    "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
+    "link": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
+    "pubDate": "2026-09-22T00:46:01.000Z"
   },
   {
     "site": "Zenn",
     "title": "Nextcloudを高速化するためにやったこと",
     "link": "https://zenn.dev/fa0311/articles/3a56901bc0d1ba",
     "pubDate": "Mon, 21 Sep 2026 20:13:55 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”",
-    "link": "https://que.dailyshincho.jp/node/20880/",
-    "pubDate": "2026-09-21T14:16:47.000Z"
   },
   {
     "site": "Zenn",
@@ -166,17 +178,5 @@
     "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
     "link": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
     "pubDate": "Sun, 20 Sep 2026 07:59:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Ternary Bonsai 2 27BをM1Pro・16GBで動かす",
-    "link": "https://zenn.dev/okame_rara/articles/bonsai_2_27b_m1",
-    "pubDate": "Sat, 19 Sep 2026 15:05:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "新しい Amazon Bedrock AgentCore Runtime が利用可能に!!",
-    "link": "https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version",
-    "pubDate": "Sat, 19 Sep 2026 14:55:28 GMT"
   }
 ]
