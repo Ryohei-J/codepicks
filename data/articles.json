@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
+    "link": "https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/",
+    "pubDate": "2026-09-23T10:28:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI従業員を雇って定型作業をお任せできる「Geta.Team」、各AI従業員に個別にメールアドレス・電話番号を割り当てできてセルフホスト可能、機能限定の無料版もあり",
+    "link": "https://gigazine.net/news/20260923-geta-team/",
+    "pubDate": "2026-09-23T09:22:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "衝撃を受けるほどカッコいいロックバンドを見つけた！→演奏やボーカルにどことなく違和感がありAI生成疑惑が浮上、一番の問題は一体どこにある？",
+    "link": "https://togetter.com/li/2749334",
+    "pubDate": "2026-09-23T08:45:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "トランプ大統領の演説や政権の発表を24時間配信する「TRUMP TV」がスタート",
+    "link": "https://gigazine.net/news/20260923-trump-tv/",
+    "pubDate": "2026-09-23T08:29:01.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "生成AI を使ったら著作権侵害になる？ — 4 大リスクと対策を LLM のメカニズム・法務・補償条項から整理してみた",
     "link": "https://qiita.com/songchong/items/7306e0b1a9207e08d86e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -13,27 +37,27 @@
   },
   {
     "site": "Hatena",
-    "title": "JCOMでネット接続サービスに障害 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260923de52004",
-    "pubDate": "2026-09-23T07:20:09.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "ITエンジニアが本気で婚活したら7年かかった｜いぐぞー ✈️ 旅するプログラマー",
     "link": "https://note.com/igz0/n/n758e57fddaa8",
     "pubDate": "2026-09-23T06:07:45.000Z"
   },
   {
     "site": "Hatena",
-    "title": "JCOM障害「インターネットが使えない」　サポート窓口もつながりにくく",
-    "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001678/",
-    "pubDate": "2026-09-23T04:12:36.000Z"
+    "title": "What a task costs on Opus 5.5 | Claude by Anthropic",
+    "link": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+    "pubDate": "2026-09-23T04:27:48.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GitHub - wrr/drop: Linux sandboxing that doesn't get in your way",
-    "link": "https://github.com/wrr/drop",
-    "pubDate": "2026-09-23T01:54:40.000Z"
+    "title": "左手デバイスを買いに行き、店員にオススメを聞いたら「僕が電気屋の店員だということは一旦忘れていただきまして、ひとりの絵描きとしてお話させていただくんですけども」という確定演出に入った",
+    "link": "https://togetter.com/li/2749204",
+    "pubDate": "2026-09-23T02:25:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Linux」向け「Microsoft Office」代替ソフト6選",
+    "link": "https://japan.zdnet.com/article/35252822/",
+    "pubDate": "2026-09-23T01:44:21.000Z"
   },
   {
     "site": "Hatena",
@@ -54,22 +78,16 @@
     "pubDate": "2026-09-22T23:01:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Opus 5.5登場　Fable 5.1並みの性能をOpus 5より40%安価に",
-    "link": "https://www.watch.impress.co.jp/docs/news/2142619.html",
-    "pubDate": "2026-09-22T18:06:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
-    "link": "https://kawarimidoll.com/posts/202609222/",
-    "pubDate": "2026-09-22T13:23:51.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【まとめ】AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう",
     "link": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-22T11:42:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "BiomeにnoReactObjectTypeAsDefaultPropルールを実装して学んだこと",
+    "link": "https://zenn.dev/subaru_hello/articles/biome-rust-first-contribution",
+    "pubDate": "Tue, 22 Sep 2026 09:53:21 GMT"
   },
   {
     "site": "Zenn",
@@ -97,39 +115,21 @@
   },
   {
     "site": "Zenn",
-    "title": "Cloudflare AI Gateway 予算ベースAIモデルルーティング",
-    "link": "https://zenn.dev/takaakisuzuki/articles/e6939a04f9ea9b",
-    "pubDate": "Tue, 22 Sep 2026 08:13:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "プロンプトエンジニアリング、人間がやらなくてよくない？LLMに自分のプロンプトを直させてみた",
-    "link": "https://zenn.dev/scien/articles/llm-auto-prompt-optimization",
-    "pubDate": "Tue, 22 Sep 2026 06:17:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Grok 4.7 500k が追加。料金は通常の2倍、Fast なら3倍",
-    "link": "https://zenn.dev/yukkie1114/articles/41664f5d08819e",
-    "pubDate": "Tue, 22 Sep 2026 04:44:02 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "C言語のコードをRustの中に書けるライブラリを作った",
     "link": "https://zenn.dev/tanakh/articles/c-code-in-rust",
     "pubDate": "Tue, 22 Sep 2026 02:23:29 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
-    "link": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
-    "pubDate": "2026-09-22T00:46:01.000Z"
   },
   {
     "site": "Zenn",
     "title": "React Router の新しい useRouterState で Pending UI を考える",
     "link": "https://zenn.dev/astrologian/articles/562fe3f749d985",
     "pubDate": "Mon, 21 Sep 2026 23:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Nextcloudを高速化するためにやったこと",
+    "link": "https://zenn.dev/fa0311/articles/3a56901bc0d1ba",
+    "pubDate": "Mon, 21 Sep 2026 20:13:55 GMT"
   },
   {
     "site": "Zenn",
@@ -162,12 +162,6 @@
     "pubDate": "2026-09-21T02:29:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "コロンビアで乗ったUberのおっちゃん「日本人は人生を良くしようとしすぎ」.…幸せって問題がない状態じゃなくて、問題があっても機嫌よくいられること",
-    "link": "https://posfie.com/@Count_Down_000/p/GX0uIFx",
-    "pubDate": "2026-09-21T02:22:29.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた",
     "link": "https://qiita.com/kikuziro/items/2be9091b328d8b844640?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "終わってるエンジニアの転職その後 〜1年経ってどうなったか〜",
     "link": "https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-20T18:47:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code の日本語処理を Gemini 3.8 に任せる",
+    "link": "https://zenn.dev/toshipon/articles/claude-code-japanese-gemini-3-8",
+    "pubDate": "Sun, 20 Sep 2026 16:04:00 GMT"
   }
 ]
