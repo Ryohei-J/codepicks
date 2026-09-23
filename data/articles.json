@@ -1,15 +1,57 @@
 [
   {
-    "site": "Hatena",
-    "title": "AIは「SI」に改称、トランプ大統領が宣言「フェイクに聞こえる」（朝日新聞） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/8512839dfee0dcb9d6ccf1bf2405d15470412d8e",
-    "pubDate": "2026-09-22T23:38:09.000Z"
+    "site": "Qiita",
+    "title": "生成AI を使ったら著作権侵害になる？ — 4 大リスクと対策を LLM のメカニズム・法務・補償条項から整理してみた",
+    "link": "https://qiita.com/songchong/items/7306e0b1a9207e08d86e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-23T07:45:44.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Kamipo on Rails 2026",
-    "link": "https://speakerdeck.com/kamipo/kamipo-on-rails-2026",
-    "pubDate": "2026-09-22T21:43:37.000Z"
+    "title": "Mixture of Experts 基礎技術メモ",
+    "link": "https://iwashi.co/2026/09/23/mixture-of-experts-moe-memo",
+    "pubDate": "2026-09-23T07:32:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "JCOMでネット接続サービスに障害 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260923de52004",
+    "pubDate": "2026-09-23T07:20:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ITエンジニアが本気で婚活したら7年かかった｜いぐぞー ✈️ 旅するプログラマー",
+    "link": "https://note.com/igz0/n/n758e57fddaa8",
+    "pubDate": "2026-09-23T06:07:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "JCOM障害「インターネットが使えない」　サポート窓口もつながりにくく",
+    "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001678/",
+    "pubDate": "2026-09-23T04:12:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - wrr/drop: Linux sandboxing that doesn't get in your way",
+    "link": "https://github.com/wrr/drop",
+    "pubDate": "2026-09-23T01:54:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "そのlsは、GNU製ですか。2026年、UbuntuがコマンドをRust製に置き換え終えるまでに起きたこと - インフラ学習サイト「InfraAcademy」",
+    "link": "https://engineer-ninaritai.com/ubuntu-rust-coreutils-2026/",
+    "pubDate": "2026-09-23T00:37:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書",
+    "link": "https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-22T23:56:43.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 17",
+    "link": "https://qiita.com/maskot1977/items/ff5a52c7d477c9046119?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-22T23:01:29.000Z"
   },
   {
     "site": "Hatena",
@@ -19,27 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "GitHub - HarnessRouter/harnessrouter: HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, ca",
-    "link": "https://github.com/HarnessRouter/harnessrouter",
-    "pubDate": "2026-09-22T16:32:10.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
     "link": "https://kawarimidoll.com/posts/202609222/",
     "pubDate": "2026-09-22T13:23:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「50歳超えだけど今からゲーム開発者になれる？」との人生相談に、“経験者”が大集結。年配組の熱い回答、あの人気ゲームのディレクターも名乗り出る - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20260922-469364/",
-    "pubDate": "2026-09-22T13:05:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "大量注文が来てた古本屋(Amazon)だけど質問ある？",
-    "link": "https://anond.hatelabo.jp/20260922210618",
-    "pubDate": "2026-09-22T12:14:40.000Z"
   },
   {
     "site": "Qiita",
@@ -49,9 +73,15 @@
   },
   {
     "site": "Zenn",
-    "title": "BiomeにnoReactObjectTypeAsDefaultPropルールを実装して学んだこと",
-    "link": "https://zenn.dev/subaru_hello/articles/biome-rust-first-contribution",
-    "pubDate": "Tue, 22 Sep 2026 09:53:21 GMT"
+    "title": "Next.js vs TanStack Start の違いを10項目で検証してみた",
+    "link": "https://zenn.dev/643866/articles/48eae6e7b845f8",
+    "pubDate": "Tue, 22 Sep 2026 09:30:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "分離できていない？並列開発で感じた VS Code と Cursor の違い",
+    "link": "https://zenn.dev/imkohenauser/articles/vscode-cursor-parallel-development",
+    "pubDate": "Tue, 22 Sep 2026 09:18:05 GMT"
   },
   {
     "site": "Zenn",
@@ -66,16 +96,22 @@
     "pubDate": "2026-09-22T08:18:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
-    "pubDate": "2026-09-22T05:17:50.000Z"
+    "site": "Zenn",
+    "title": "Cloudflare AI Gateway 予算ベースAIモデルルーティング",
+    "link": "https://zenn.dev/takaakisuzuki/articles/e6939a04f9ea9b",
+    "pubDate": "Tue, 22 Sep 2026 08:13:07 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "「なぜか読まれない文章」の正体をSudachiPyで解析したら「漢字率」のゴールデンルールが見えてきた話",
-    "link": "https://qiita.com/taihong/items/e8cf442b5ace978e22b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-22T04:23:52.000Z"
+    "site": "Zenn",
+    "title": "プロンプトエンジニアリング、人間がやらなくてよくない？LLMに自分のプロンプトを直させてみた",
+    "link": "https://zenn.dev/scien/articles/llm-auto-prompt-optimization",
+    "pubDate": "Tue, 22 Sep 2026 06:17:39 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Grok 4.7 500k が追加。料金は通常の2倍、Fast なら3倍",
+    "link": "https://zenn.dev/yukkie1114/articles/41664f5d08819e",
+    "pubDate": "Tue, 22 Sep 2026 04:44:02 GMT"
   },
   {
     "site": "Zenn",
@@ -85,21 +121,15 @@
   },
   {
     "site": "Qiita",
-    "title": "日本語プログラミング言語Mind９でAI仕様駆動開発を行ってみた（ステップ１）～環境準備・コード生成ルール.md～",
-    "link": "https://qiita.com/mylifewithviolin/items/5736ac540c052b409e7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-22T01:56:26.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
     "link": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
     "pubDate": "2026-09-22T00:46:01.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Nextcloudを高速化するためにやったこと",
-    "link": "https://zenn.dev/fa0311/articles/3a56901bc0d1ba",
-    "pubDate": "Mon, 21 Sep 2026 20:13:55 GMT"
+    "title": "React Router の新しい useRouterState で Pending UI を考える",
+    "link": "https://zenn.dev/astrologian/articles/562fe3f749d985",
+    "pubDate": "Mon, 21 Sep 2026 23:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -109,21 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "C# Kaigi 2026 参加レポート!!",
-    "link": "https://zenn.dev/prozolic/articles/3bb3f91f7408cc",
-    "pubDate": "Mon, 21 Sep 2026 10:24:08 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Re: Vercel に Go サーバーを無料でデプロイできるんです！",
     "link": "https://zenn.dev/otakakot/articles/14d162ea65f67d",
     "pubDate": "Mon, 21 Sep 2026 04:46:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ChatGPTにブラウザを操作させたら、自作のChrome拡張つきWebアプリは動いたか — 試して分かった境界線",
-    "link": "https://zenn.dev/zephris/articles/5c34ece0877187",
-    "pubDate": "Mon, 21 Sep 2026 03:56:51 GMT"
   },
   {
     "site": "Qiita",
@@ -160,23 +178,5 @@
     "title": "終わってるエンジニアの転職その後 〜1年経ってどうなったか〜",
     "link": "https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-20T18:47:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "最近話題のJevはBigQueryのAI関数を安くできるのか？",
-    "link": "https://zenn.dev/jackojacko05/articles/08df79d47f4219",
-    "pubDate": "Sun, 20 Sep 2026 12:52:36 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた",
-    "link": "https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-20T12:47:53.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
-    "link": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
-    "pubDate": "Sun, 20 Sep 2026 07:59:17 GMT"
   }
 ]
