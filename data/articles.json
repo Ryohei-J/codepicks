@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義",
+    "link": "https://fasttube.cc/ja/v/vDjW_dRyKXY",
+    "pubDate": "2026-09-24T13:19:21.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "実装前に AI と合意せよ！Quint で形式仕様読解入門",
+    "link": "https://zenn.dev/nrs/articles/10a331bae98bc4",
+    "pubDate": "2026-09-24T11:28:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本全国でMicrosoft Officeが突然消えたりライセンス認証が外れる不具合が発生→再インストールなどの対応が必要になったがどうしてこうなった？",
+    "link": "https://togetter.com/li/2749851",
+    "pubDate": "2026-09-24T11:22:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "3大、俺の中で天才ゲームプログラマ",
     "link": "https://anond.hatelabo.jp/20260924153226",
     "pubDate": "2026-09-24T09:26:31.000Z"
@@ -10,6 +28,12 @@
     "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
     "link": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/",
     "pubDate": "2026-09-24T08:33:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIの学習と著作権をめぐる米司法省の見解が脅威になる理由",
+    "link": "https://japan.zdnet.com/article/35252683/",
+    "pubDate": "2026-09-24T07:57:12.000Z"
   },
   {
     "site": "Hatena",
@@ -31,27 +55,51 @@
   },
   {
     "site": "Hatena",
-    "title": "「クリスタ」素材、大量非公開でユーザー混乱　人物だけでなくペンや公式素材まで　セルシス「誤判定もあった」が……",
-    "link": "https://www.itmedia.co.jp/news/article/2609/24/2000001689/",
-    "pubDate": "2026-09-24T03:24:14.000Z"
+    "title": "「OSSレジストリのただ乗りは限界」　GoogleやMicrosoftなど12社が企業の費用負担を巡り共同声明",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news032.html",
+    "pubDate": "2026-09-24T04:45:25.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "担当している高校の求職者1名に対する企業数が30社超え…下手に大学に行くより実践的な勉強をして高校から社会に出た方が人生勝ち組になれるのでは？→待遇は？転職後は？",
-    "link": "https://togetter.com/li/2749673",
-    "pubDate": "2026-09-24T02:48:43.000Z"
+    "site": "Qiita",
+    "title": "Laravelのルート一覧からコントローラへ1クリックで飛べるVSCode拡張「Laravel Routes Explorer」を作った",
+    "link": "https://qiita.com/sugumura/items/edaee37822bd0b18d4a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-24T03:04:50.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Rails World 2026 DHHキーノートの日本語要約",
-    "link": "https://komagata.github.io/public-notes/rails-world-2026/",
-    "pubDate": "2026-09-24T01:20:33.000Z"
+    "site": "Zenn",
+    "title": "会議・調査・資料作成をAgentに任せる：Microsoft環境で始めるプロジェクトLLM Wiki",
+    "link": "https://zenn.dev/mkj/articles/agent-native-project-work-with-llm-wiki",
+    "pubDate": "Thu, 24 Sep 2026 02:50:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
-    "pubDate": "2026-09-23T23:14:59.000Z"
+    "site": "Zenn",
+    "title": "自宅サーバーのススメ",
+    "link": "https://zenn.dev/porters_tech/articles/b2282728b35397",
+    "pubDate": "Thu, 24 Sep 2026 01:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS DevOps Agent の堅牢性",
+    "link": "https://zenn.dev/cscloud_blog/articles/9968d12b332c03",
+    "pubDate": "Thu, 24 Sep 2026 00:36:37 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "その仕事、本当に「Skills」で再現できるのか考えてみる",
+    "link": "https://qiita.com/Takashi_Masumori/items/4fbf6144f4cab3f00123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-23T23:24:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "xcshareddata の Package.resolved を破棄しても大丈夫だった",
+    "link": "https://zenn.dev/d_date/articles/3fba56d5468365",
+    "pubDate": "Wed, 23 Sep 2026 23:02:49 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GoでAIエージェントを作るならGenkitかADKか：Genkitから作り直して分かったこと",
+    "link": "https://zenn.dev/gopher/articles/adk-vs-genkit-design-philosophy",
+    "pubDate": "Wed, 23 Sep 2026 22:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -67,9 +115,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【AIツール37製品】社内AI の会話履歴は、上司や提供元が読めるか？いつまで残るか？ —「履歴を消した≠記録も消えた」5通りの残り方",
+    "title": "【AIツール37製品】社内AI の会話とログは、上司や提供元が読めるか？いつまで残るか？ —「履歴を消した≠記録も消えた」5通りの残り方",
     "link": "https://qiita.com/songchong/items/5aa4bc07279ea271909a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-23T19:18:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜",
+    "link": "https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-23T15:11:53.000Z"
   },
   {
     "site": "Qiita",
@@ -85,21 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Parquet の仕様にも入った ALP (Adaptive Lossless floating-Point) とは何なのか",
-    "link": "https://zenn.dev/mierune/articles/21c94dbaefb147",
-    "pubDate": "Wed, 23 Sep 2026 09:06:39 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成AI を使ったら著作権侵害になる？ — 4 大リスクと対策を LLM のメカニズム・法務・補償条項から整理してみた",
-    "link": "https://qiita.com/songchong/items/7306e0b1a9207e08d86e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-23T07:45:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の Remote Control（claude rc）だとアーティファクトが使えない原因と対処",
-    "link": "https://zenn.dev/zozotech/articles/0a7eb12ee4343e",
-    "pubDate": "Wed, 23 Sep 2026 07:21:45 GMT"
+    "title": "Opus 5.5 の並外れた 3D モデリング能力で理想の城を作る",
+    "link": "https://zenn.dev/pnd/articles/claude-castles",
+    "pubDate": "Wed, 23 Sep 2026 11:06:22 GMT"
   },
   {
     "site": "Zenn",
@@ -114,52 +156,10 @@
     "pubDate": "Wed, 23 Sep 2026 06:51:29 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "B+ツリーが速いのはディスクのI/O単位に形を合わせたから",
-    "link": "https://zenn.dev/ippe1/articles/why-db-uses-bplus-tree",
-    "pubDate": "Wed, 23 Sep 2026 06:02:44 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "自宅にISDNを再現する",
-    "link": "https://qiita.com/wakamesoba98/items/19693e80c0551eada894?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-23T06:00:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Go Conference 2026 に参加しました",
-    "link": "https://zenn.dev/r57ty7/articles/go-conference-2026",
-    "pubDate": "Wed, 23 Sep 2026 05:51:03 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "loading.dev",
-    "link": "https://loading.dev/",
-    "pubDate": "2026-09-23T05:39:17.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Opus 5.5とGPT-6 Solの使い分け：「どうしますか」が減った話",
-    "link": "https://zenn.dev/hjpotter1/articles/e1278d79045de9",
-    "pubDate": "Wed, 23 Sep 2026 05:05:21 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書",
     "link": "https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-22T23:56:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TypeSafe AI の jev を Python で一通り試した (使い方と 10 の実験)",
-    "link": "https://zenn.dev/ainellc/articles/9e5f856b2f2de2",
-    "pubDate": "Tue, 22 Sep 2026 13:34:49 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【まとめ】AI駆動系の◯◯エンジニアリングが多いので、ここらで一旦整理しましょう",
-    "link": "https://qiita.com/miruky/items/4a8a7f456e68e9965a12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-22T11:42:26.000Z"
   },
   {
     "site": "Qiita",
