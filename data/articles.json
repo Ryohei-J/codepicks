@@ -1,9 +1,39 @@
 [
   {
+    "site": "Hatena",
+    "title": "Rails World 2026 Opening Keynote - DHH",
+    "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "pubDate": "2026-09-24T01:43:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
+    "link": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
+    "pubDate": "2026-09-24T00:28:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Meta、重さが「Quest 3の5分の1」の超軽量VRグラスを27年春に日本発売　Ray-Ban(Gen 3)は24日発売",
+    "link": "https://japan.cnet.com/article/35252874/",
+    "pubDate": "2026-09-24T00:18:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
+    "pubDate": "2026-09-23T23:14:59.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【AIツール37製品】社内AI の会話履歴は、上司や提供元が読めるか？いつまで残るか？ —「履歴を消した≠記録も消えた」5通りの残り方",
     "link": "https://qiita.com/songchong/items/5aa4bc07279ea271909a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-23T19:18:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など",
+    "link": "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+    "pubDate": "2026-09-23T17:41:37.000Z"
   },
   {
     "site": "Qiita",
@@ -19,33 +49,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Accessible PDF View — PDF を見出しから読める文書に",
-    "link": "https://accessiblepdfview.org/ja/",
-    "pubDate": "2026-09-23T14:10:58.000Z"
+    "title": "SREとは何か、AWSでどう始めるか",
+    "link": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
+    "pubDate": "2026-09-23T13:46:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Herdr Annotate で効率的なAIコーディングレビューサイクルを実現する",
-    "link": "https://portablecode.info/2026/09/23/herdr-annotate-ai-review/",
-    "pubDate": "2026-09-23T13:13:17.000Z"
+    "site": "Zenn",
+    "title": "【.NET】参照代入はただのコピーじゃない？ GC write barrierを調べてみた",
+    "link": "https://zenn.dev/aakei/articles/dotnet-copy-split-write-barrier",
+    "pubDate": "Wed, 23 Sep 2026 12:04:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "まさかの「Appleが神コスパ」になっちゃった：新型M6 Mac miniレビュー | ギズモード・ジャパン",
-    "link": "https://www.gizmodo.jp/article/2609-m6-mac-mini-review/",
-    "pubDate": "2026-09-23T11:35:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
-    "link": "https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/",
-    "pubDate": "2026-09-23T10:28:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "衝撃を受けるほどカッコいいロックバンドを見つけた！→演奏やボーカルにどことなく違和感がありAI生成疑惑が浮上、一番の問題は一体どこにある？",
-    "link": "https://togetter.com/li/2749334",
-    "pubDate": "2026-09-23T08:45:38.000Z"
+    "site": "Zenn",
+    "title": "UniFiの固定IP事情[後編] OCN IPoE固定IP1をcronで自動化して無人で回した記録",
+    "link": "https://zenn.dev/nwsejp/articles/unifi-japan-static-ip-operations",
+    "pubDate": "Wed, 23 Sep 2026 10:32:51 GMT"
   },
   {
     "site": "Qiita",
@@ -54,16 +72,28 @@
     "pubDate": "2026-09-23T07:45:44.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Mixture of Experts 基礎技術メモ",
-    "link": "https://iwashi.co/2026/09/23/mixture-of-experts-moe-memo",
-    "pubDate": "2026-09-23T07:32:13.000Z"
+    "site": "Zenn",
+    "title": "Claude Code の Remote Control（claude rc）だとアーティファクトが使えない原因と対処",
+    "link": "https://zenn.dev/zozotech/articles/0a7eb12ee4343e",
+    "pubDate": "Wed, 23 Sep 2026 07:21:45 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Opus 5.5によるピクセルアニメーション生成の検証",
+    "link": "https://zenn.dev/aki1990/articles/1bc5c181ad19f0",
+    "pubDate": "Wed, 23 Sep 2026 07:20:05 GMT"
   },
   {
     "site": "Hatena",
-    "title": "ITエンジニアが本気で婚活したら7年かかった｜いぐぞー ✈️ 旅するプログラマー",
-    "link": "https://note.com/igz0/n/n758e57fddaa8",
-    "pubDate": "2026-09-23T06:07:45.000Z"
+    "title": "Codexを使うなら、SkillsとPluginsを押さえておきたい - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/23/123604",
+    "pubDate": "2026-09-23T06:52:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "B+ツリーが速いのはディスクのI/O単位に形を合わせたから",
+    "link": "https://zenn.dev/ippe1/articles/why-db-uses-bplus-tree",
+    "pubDate": "Wed, 23 Sep 2026 06:02:44 GMT"
   },
   {
     "site": "Hatena",
@@ -72,10 +102,28 @@
     "pubDate": "2026-09-23T05:39:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "そのlsは、GNU製ですか。2026年、UbuntuがコマンドをRust製に置き換え終えるまでに起きたこと - インフラ学習サイト「InfraAcademy」",
-    "link": "https://engineer-ninaritai.com/ubuntu-rust-coreutils-2026/",
-    "pubDate": "2026-09-23T00:37:09.000Z"
+    "site": "Zenn",
+    "title": "<session>.jsonl を読んでみる",
+    "link": "https://zenn.dev/yando/articles/fdbe38474378d2",
+    "pubDate": "Wed, 23 Sep 2026 05:21:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Opus 5.5とGPT-6 Solの使い分け：「どうしますか」が減った話",
+    "link": "https://zenn.dev/hjpotter1/articles/e1278d79045de9",
+    "pubDate": "Wed, 23 Sep 2026 05:05:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "golang：環境構築のあと、モック・リバプロ・SPAを作って遊ぶ",
+    "link": "https://zenn.dev/wsuzume/articles/e84cb470004292",
+    "pubDate": "Wed, 23 Sep 2026 01:47:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【AWS 障害対応】わざとアラートを出して復旧する自作自演やってみた",
+    "link": "https://zenn.dev/silver252/articles/7ca85e26f9a6e5",
+    "pubDate": "Wed, 23 Sep 2026 01:01:13 GMT"
   },
   {
     "site": "Qiita",
@@ -84,28 +132,16 @@
     "pubDate": "2026-09-22T23:56:43.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "BiomeにnoReactObjectTypeAsDefaultPropルールを実装して学んだこと",
-    "link": "https://zenn.dev/subaru_hello/articles/biome-rust-first-contribution",
-    "pubDate": "Tue, 22 Sep 2026 09:53:21 GMT"
+    "site": "Hatena",
+    "title": "グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記",
+    "link": "https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route",
+    "pubDate": "2026-09-22T14:50:03.000Z"
   },
   {
     "site": "Zenn",
     "title": "Next.js vs TanStack Start の違いを10項目で検証してみた",
     "link": "https://zenn.dev/643866/articles/48eae6e7b845f8",
     "pubDate": "Tue, 22 Sep 2026 09:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "分離できていない？並列開発で感じた VS Code と Cursor の違い",
-    "link": "https://zenn.dev/imkohenauser/articles/vscode-cursor-parallel-development",
-    "pubDate": "Tue, 22 Sep 2026 09:18:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Pokémon GO Plus + を分解して、ポケモンスリープの睡眠計測を自動化する装置を作った",
-    "link": "https://zenn.dev/koichi73/articles/pokemon-go-plus-teardown-esp32",
-    "pubDate": "Tue, 22 Sep 2026 09:17:48 GMT"
   },
   {
     "site": "Qiita",
@@ -118,36 +154,6 @@
     "title": "「なぜか読まれない文章」の正体をSudachiPyで解析したら「漢字率」のゴールデンルールが見えてきた話",
     "link": "https://qiita.com/taihong/items/e8cf442b5ace978e22b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-22T04:23:52.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "C言語のコードをRustの中に書けるライブラリを作った",
-    "link": "https://zenn.dev/tanakh/articles/c-code-in-rust",
-    "pubDate": "Tue, 22 Sep 2026 02:23:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "React Router の新しい useRouterState で Pending UI を考える",
-    "link": "https://zenn.dev/astrologian/articles/562fe3f749d985",
-    "pubDate": "Mon, 21 Sep 2026 23:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Nextcloudを高速化するためにやったこと",
-    "link": "https://zenn.dev/fa0311/articles/3a56901bc0d1ba",
-    "pubDate": "Mon, 21 Sep 2026 20:13:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ドメインの変換はHandlerとUseCaseのどちらでやるべきか",
-    "link": "https://zenn.dev/jisou/articles/b7e19c4a2d80f6",
-    "pubDate": "Mon, 21 Sep 2026 10:35:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Re: Vercel に Go サーバーを無料でデプロイできるんです！",
-    "link": "https://zenn.dev/otakakot/articles/14d162ea65f67d",
-    "pubDate": "Mon, 21 Sep 2026 04:46:05 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた",
     "link": "https://qiita.com/kikuziro/items/2be9091b328d8b844640?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-20T23:45:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code の日本語処理を Gemini 3.8 に任せる",
-    "link": "https://zenn.dev/toshipon/articles/claude-code-japanese-gemini-3-8",
-    "pubDate": "Sun, 20 Sep 2026 16:04:00 GMT"
   }
 ]
