@@ -1,15 +1,93 @@
 [
   {
     "site": "Hatena",
+    "title": "InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる",
+    "link": "https://gigazine.net/news/20260925-meta-fake-ads/",
+    "pubDate": "2026-09-25T09:16:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
+    "link": "https://zenn.dev/nwn/articles/e49154653ecea9",
+    "pubDate": "Fri, 25 Sep 2026 07:27:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "無料の技術イベントは、無料でつくられていない",
+    "link": "https://zenn.dev/sun_asterisk/articles/free-event-not-free",
+    "pubDate": "Fri, 25 Sep 2026 04:47:50 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「LLMの出力コードを理解できない初心者ばかり」　PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html",
+    "pubDate": "2026-09-25T04:44:19.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "POPOPO と AI 開発 - 01. POPOPO の AI 開発概要",
+    "link": "https://zenn.dev/rikachiii/articles/afe30af97cdd9e",
+    "pubDate": "Fri, 25 Sep 2026 04:24:29 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
+    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html",
+    "pubDate": "2026-09-25T03:34:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ",
+    "link": "https://japan.cnet.com/article/35252958/",
+    "pubDate": "2026-09-25T02:26:41.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか",
+    "link": "https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage",
+    "pubDate": "Fri, 25 Sep 2026 02:18:13 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB",
     "link": "https://levtech.jp/media/detail_931/",
     "pubDate": "2026-09-25T01:45:38.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "J:COMネット障害、原因は「外部からの大量アクセス」　DNSサーバに高負荷　最大約408万件に影響",
-    "link": "https://www.itmedia.co.jp/news/article/2609/25/2000001729/",
-    "pubDate": "2026-09-24T23:23:13.000Z"
+    "site": "Qiita",
+    "title": "Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている",
+    "link": "https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-25T01:29:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか",
+    "link": "https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-25T01:29:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Opus 5.5 の「40%安い」は、キャッシュの当たり方で24%にも59%にもなった",
+    "link": "https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-25T01:29:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ステートマシンでフォームの分岐を管理して失敗した (データから導出できる値を状態にすべきでない)",
+    "link": "https://zenn.dev/bita/articles/f1872707871b2c",
+    "pubDate": "Fri, 25 Sep 2026 01:08:15 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "管理業務～私の実践～②",
+    "link": "https://qiita.com/wawasaki2468/items/4591be7133e2f9d1d3cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-25T00:16:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "11年生本番データ飛ばす",
+    "link": "https://zenn.dev/ficilcom/articles/prod_db_reset_incident",
+    "pubDate": "Fri, 25 Sep 2026 00:00:05 GMT"
   },
   {
     "site": "Hatena",
@@ -18,22 +96,28 @@
     "pubDate": "2026-09-24T23:11:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIデータセンター、危うい錬金術　GPU担保や証券化など資金調達複雑に - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC07AL40X00C26A9000000/",
-    "pubDate": "2026-09-24T22:23:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【西川善司のグラフィックスMANIAC】 DLSS 5の正体は1回推論の画像生成AI、NVIDIAが明かした3D誘導型の中身とは",
-    "link": "https://pc.watch.impress.co.jp/docs/column/zenji/2142631.html",
-    "pubDate": "2026-09-24T21:18:01.000Z"
+    "site": "Zenn",
+    "title": "Angular: プライベートフィールドの意味論再考",
+    "link": "https://zenn.dev/lacolaco/articles/angular-private-fields",
+    "pubDate": "Thu, 24 Sep 2026 22:30:00 GMT"
   },
   {
     "site": "Hatena",
     "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
     "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
     "pubDate": "2026-09-24T19:55:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "王の凱旋—Opus 5.5 React習熟度ベンチマーク—",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-17",
+    "pubDate": "Thu, 24 Sep 2026 15:36:51 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！",
+    "link": "https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-24T14:40:45.000Z"
   },
   {
     "site": "Zenn",
@@ -46,12 +130,6 @@
     "title": "ソフトウェアエンジニアとしてのぼくは、もう死んでいた｜choo",
     "link": "https://note.com/choo/n/nf2a81eced17b",
     "pubDate": "2026-09-24T13:20:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義",
-    "link": "https://fasttube.cc/ja/v/vDjW_dRyKXY",
-    "pubDate": "2026-09-24T13:19:21.000Z"
   },
   {
     "site": "Hatena",
@@ -72,76 +150,10 @@
     "pubDate": "2026-09-24T08:41:14.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "age40 - 30代でやってよかったこと",
-    "link": "https://zenn.dev/dress_code/articles/2026-09-24_age-40",
-    "pubDate": "Thu, 24 Sep 2026 07:58:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code クラウドセッション、使ってみて！",
-    "link": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
-    "pubDate": "Thu, 24 Sep 2026 07:27:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "RubyLLM 2.0 の新機能10選",
-    "link": "https://zenn.dev/takeyuwebinc/articles/4fd800c21ce84a",
-    "pubDate": "Thu, 24 Sep 2026 06:56:13 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Laravelのルート一覧からコントローラへ1クリックで飛べるVSCode拡張「Laravel Routes Explorer」を作った",
-    "link": "https://qiita.com/sugumura/items/edaee37822bd0b18d4a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-24T03:04:50.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "会議・調査・資料作成をAgentに任せる：Microsoft環境で始めるプロジェクトLLM Wiki",
-    "link": "https://zenn.dev/mkj/articles/agent-native-project-work-with-llm-wiki",
-    "pubDate": "Thu, 24 Sep 2026 02:50:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自宅サーバーのススメ",
-    "link": "https://zenn.dev/porters_tech/articles/b2282728b35397",
-    "pubDate": "Thu, 24 Sep 2026 01:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS DevOps Agent の堅牢性",
-    "link": "https://zenn.dev/cscloud_blog/articles/9968d12b332c03",
-    "pubDate": "Thu, 24 Sep 2026 00:36:37 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "その仕事、本当に「Skills」で再現できるのか考えてみる",
     "link": "https://qiita.com/Takashi_Masumori/items/4fbf6144f4cab3f00123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-23T23:24:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "xcshareddata の Package.resolved を破棄しても大丈夫だった",
-    "link": "https://zenn.dev/d_date/articles/3fba56d5468365",
-    "pubDate": "Wed, 23 Sep 2026 23:02:49 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Codeで定期的にやっておきたい MEMORY.md の大掃除",
-    "link": "https://zenn.dev/loglass/articles/f69996279763ab",
-    "pubDate": "Wed, 23 Sep 2026 23:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "OpenAI APIキーをOCI VaultとResource PrincipalでセキュアにしてSelect AIしてみてみた",
-    "link": "https://qiita.com/shirok/items/a5f34349c0b6ba8f3f62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-23T21:54:03.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AIツール37製品】社内AI の会話とログは、上司や提供元が読めるか？いつまで残るか？ —「履歴を消した≠記録も消えた」5通りの残り方",
-    "link": "https://qiita.com/songchong/items/5aa4bc07279ea271909a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-23T19:18:39.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "50代プログラミング未経験者が7年かけてAtCoderで入緑した話",
     "link": "https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-22T08:18:33.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "これであなたも雑談マスター",
-    "link": "https://qiita.com/imazatooo/items/599e317de305d18c41a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-22T05:55:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「なぜか読まれない文章」の正体をSudachiPyで解析したら「漢字率」のゴールデンルールが見えてきた話",
-    "link": "https://qiita.com/taihong/items/e8cf442b5ace978e22b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-22T04:23:52.000Z"
   }
 ]
