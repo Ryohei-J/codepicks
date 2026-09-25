@@ -7,9 +7,27 @@
   },
   {
     "site": "Hatena",
+    "title": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2143487.html",
+    "pubDate": "2026-09-25T12:31:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "業務プロセスをいじっても生産性は上がらない。あるいは業務を良くするテコについて：プロジェクトマジック：オルタナティブ・ブログ",
     "link": "https://blogs.itmedia.co.jp/magic/2026/09/post_157.html",
     "pubDate": "2026-09-25T11:57:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI",
+    "link": "https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-25T11:39:46.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故",
+    "link": "https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-25T11:38:43.000Z"
   },
   {
     "site": "Hatena",
@@ -48,12 +66,6 @@
     "pubDate": "Fri, 25 Sep 2026 04:47:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「LLMの出力コードを理解できない初心者ばかり」　PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html",
-    "pubDate": "2026-09-25T04:44:19.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "POPOPO と AI 開発 - 01. POPOPO の AI 開発概要",
     "link": "https://zenn.dev/rikachiii/articles/afe30af97cdd9e",
@@ -64,12 +76,6 @@
     "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
     "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html",
     "pubDate": "2026-09-25T03:34:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ",
-    "link": "https://japan.cnet.com/article/35252958/",
-    "pubDate": "2026-09-25T02:26:41.000Z"
   },
   {
     "site": "Zenn",
@@ -138,6 +144,12 @@
     "pubDate": "2026-09-24T14:40:45.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "【結果報告】初めてのAI同人誌、Fable5は「500部刷れ」と言った　#生成AIなんでも展示会レポ｜賢木イオ",
+    "link": "https://note.com/studiomasakaki/n/n9bd76032db89",
+    "pubDate": "2026-09-24T13:54:21.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "Claude Codeによる依存追加・更新に「調べてからユーザに聞いて」を挟むHookの紹介",
     "link": "https://zenn.dev/sprix_it/articles/f3ef77c1d46554",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた",
-    "link": "https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-23T15:06:57.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書",
     "link": "https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-22T23:56:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "50代プログラミング未経験者が7年かけてAtCoderで入緑した話",
-    "link": "https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-22T08:18:33.000Z"
   }
 ]
