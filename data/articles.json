@@ -1,15 +1,45 @@
 [
   {
     "site": "Hatena",
-    "title": "InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる",
-    "link": "https://gigazine.net/news/20260925-meta-fake-ads/",
-    "pubDate": "2026-09-25T09:16:46.000Z"
+    "title": "OpenAIとClaudeのAgent SDKから学ぶAgentの基本構成 - ぷらすのブログ",
+    "link": "https://blog.p1ass.com/posts/agent-foundations/",
+    "pubDate": "2026-09-25T13:15:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "業務プロセスをいじっても生産性は上がらない。あるいは業務を良くするテコについて：プロジェクトマジック：オルタナティブ・ブログ",
+    "link": "https://blogs.itmedia.co.jp/magic/2026/09/post_157.html",
+    "pubDate": "2026-09-25T11:57:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "議事録をAIに要約させてチームで共有していたが、ある日部長に「先週の会議は結論出たっけ？」と聞かれて要約を見返したら結論が…3か月分の議事録が半分くらい創作だった",
+    "link": "https://togetter.com/li/2750223",
+    "pubDate": "2026-09-25T10:39:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
+    "link": "https://zenn.dev/nwn/articles/e49154653ecea9",
+    "pubDate": "2026-09-25T10:13:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話 - Timee Product Team Blog",
+    "link": "https://tech.timee.co.jp/entry/2026/09/25/162348",
+    "pubDate": "2026-09-25T08:12:19.000Z"
   },
   {
     "site": "Zenn",
     "title": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
     "link": "https://zenn.dev/nwn/articles/e49154653ecea9",
     "pubDate": "Fri, 25 Sep 2026 07:27:13 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI議事録の「誰の発言か分からん」を解決。0.1B「Nemotron 3 Diarization」無償公開",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2143200.html",
+    "pubDate": "2026-09-25T06:25:43.000Z"
   },
   {
     "site": "Zenn",
@@ -46,12 +76,6 @@
     "title": "文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか",
     "link": "https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage",
     "pubDate": "Fri, 25 Sep 2026 02:18:13 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_931/",
-    "pubDate": "2026-09-25T01:45:38.000Z"
   },
   {
     "site": "Qiita",
@@ -91,21 +115,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
-    "pubDate": "2026-09-24T23:11:39.000Z"
+    "title": "Verilogで学ぶCPU自作入門.pdf",
+    "link": "https://speakerdeck.com/uyuki234/verilog-de-manabu-cpu-jisaku-nyuumon",
+    "pubDate": "2026-09-24T23:57:23.000Z"
   },
   {
     "site": "Zenn",
     "title": "Angular: プライベートフィールドの意味論再考",
     "link": "https://zenn.dev/lacolaco/articles/angular-private-fields",
     "pubDate": "Thu, 24 Sep 2026 22:30:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
-    "pubDate": "2026-09-24T19:55:05.000Z"
   },
   {
     "site": "Zenn",
@@ -126,28 +144,10 @@
     "pubDate": "Thu, 24 Sep 2026 13:43:25 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ソフトウェアエンジニアとしてのぼくは、もう死んでいた｜choo",
-    "link": "https://note.com/choo/n/nf2a81eced17b",
-    "pubDate": "2026-09-24T13:20:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2026/09/24/173000",
-    "pubDate": "2026-09-24T13:05:41.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "API ManagementのAIゲートウェイで飲み放題の居酒屋を作ってみた",
     "link": "https://zenn.dev/microsoft/articles/4ab393616e91ec",
     "pubDate": "Thu, 24 Sep 2026 09:49:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "みんなJevの話してる。やってないの俺だけ",
-    "link": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro",
-    "pubDate": "2026-09-24T08:41:14.000Z"
   },
   {
     "site": "Qiita",
