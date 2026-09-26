@@ -24,6 +24,12 @@
     "pubDate": "2026-09-26T07:44:27.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "新しい Copilot（Home・Code・Autopilot）と料金体系を整理し、大企業で広く展開する際の課題を考えてみる",
+    "link": "https://qiita.com/Takashi_Masumori/items/6f65c23e580dd454d4c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-26T07:36:58.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 | gihyo.jp",
     "link": "https://gihyo.jp/article/2026/09/docker-skills",
@@ -36,10 +42,16 @@
     "pubDate": "2026-09-26T06:52:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "DHHはRailsを捨てたのか？｜laiso",
-    "link": "https://sizu.me/laiso/posts/ut6i125ew44m",
-    "pubDate": "2026-09-26T05:33:53.000Z"
+    "site": "Qiita",
+    "title": "生成AI送信前にPythonで個人情報をマスキングする",
+    "link": "https://qiita.com/TechStudioLab/items/83349e8b4cdf07b97cd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-26T05:30:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "FlutterからFoundation Modelsを呼ぶ最小構成",
+    "link": "https://qiita.com/TechStudioLab/items/1d08c21fd53cecaff4c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-26T04:15:52.000Z"
   },
   {
     "site": "Hatena",
@@ -52,6 +64,18 @@
     "title": "インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書 - Qiita",
     "link": "https://qiita.com/yasu1109/items/53b294aa9c288ace8c59",
     "pubDate": "2026-09-26T03:32:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "古いReact NativeアプリをNew Architectureへ上げ直す",
+    "link": "https://qiita.com/TechStudioLab/items/c173c20c9abb1b8cf88b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-26T03:14:21.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "業務DBを読み取り専用MCPにしてClaudeから参照する",
+    "link": "https://qiita.com/TechStudioLab/items/906d86684fbcb92eedbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-26T02:33:48.000Z"
   },
   {
     "site": "Hatena",
@@ -67,9 +91,9 @@
   },
   {
     "site": "Qiita",
-    "title": "大切な問題ほど、なぜ語られなくなるのか？ ― 「沈黙の螺旋」と財源幻想をデバッグし、国家レジリエンスを高める : システム設計視点の行動経済学 (33)",
-    "link": "https://qiita.com/maskot1977/items/9b6f1a03204797cf91d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-25T16:12:11.000Z"
+    "title": "高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜 - Qiita",
+    "link": "https://qiita.com/ast-24/items/454fc975b095230565c7",
+    "pubDate": "2026-09-25T23:27:08.000Z"
   },
   {
     "site": "Zenn",
@@ -88,18 +112,6 @@
     "title": "Vercelの「インポートできます」メールは何を見て送られてくるのか 61リポジトリで確かめた",
     "link": "https://zenn.dev/devuloper/articles/vercel_import_candidates_email",
     "pubDate": "Fri, 25 Sep 2026 12:04:47 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI",
-    "link": "https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-25T11:39:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故",
-    "link": "https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-25T11:38:43.000Z"
   },
   {
     "site": "Qiita",
@@ -124,6 +136,12 @@
     "title": "爆速になった Expo Modules 2.0 を全部試してみた",
     "link": "https://zenn.dev/gemcook/articles/expo-modules-2-swift-macros-sdk57",
     "pubDate": "Fri, 25 Sep 2026 07:05:18 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Lambda 関数 URL で Condition 句による IP アドレス制限が可能になったか検証する",
+    "link": "https://qiita.com/hayao_k/items/e6518a0d494006fac712?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-25T05:14:33.000Z"
   },
   {
     "site": "Zenn",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "AI時代真っ只中に、ほぼ未経験で自社開発エンジニアとして新卒入社した僕が思うこと",
-    "link": "https://qiita.com/1nori_/items/bd8052e938a343c82555?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-24T03:20:05.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "その仕事、本当に「Skills」で再現できるのか考えてみる",
     "link": "https://qiita.com/Takashi_Masumori/items/4fbf6144f4cab3f00123?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-23T23:24:54.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜",
-    "link": "https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-23T15:11:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた",
-    "link": "https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-23T15:06:57.000Z"
   }
 ]
