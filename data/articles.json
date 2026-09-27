@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり",
+    "link": "https://honeshabri.hatenablog.com/entry/hatebu-veil",
+    "pubDate": "2026-09-27T12:26:03.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「LLMへ渡したくない仕事」を考える",
+    "link": "https://zenn.dev/algoartis/articles/73f4da4aa13dcc",
+    "pubDate": "2026-09-27T12:09:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ",
+    "link": "https://www.sunafuki.com/entry/chatgpt_English",
+    "pubDate": "2026-09-27T10:01:52.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「SuicaがJR東海エリアで使えない」問題、ついに解消か　JR東海社長「勉強している」",
     "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
     "pubDate": "2026-09-27T09:10:52.000Z"
@@ -12,10 +30,22 @@
     "pubDate": "2026-09-27T07:54:06.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
+    "link": "https://note.com/npaka/n/n557fb948c3cf",
+    "pubDate": "2026-09-27T07:32:58.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Claudeによる攻撃作戦？Geminiが実在企業に侵入？AIサイバー攻撃 5 種類の事件と 7 種類の対策",
     "link": "https://qiita.com/songchong/items/9122c8a264ff07cc2d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-27T07:06:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "リモートワークを続けるためにやるべきこと - モヒカン技術ブログ",
+    "link": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
+    "pubDate": "2026-09-27T07:03:07.000Z"
   },
   {
     "site": "Hatena",
@@ -37,33 +67,15 @@
   },
   {
     "site": "Zenn",
-    "title": "Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索",
-    "link": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
-    "pubDate": "2026-09-26T17:18:10.000Z"
+    "title": "Platform Engineering Kaigi 2026 登壇資料まとめ",
+    "link": "https://zenn.dev/key60228/articles/d4f2591a42a876",
+    "pubDate": "Sat, 26 Sep 2026 17:01:10 GMT"
   },
   {
     "site": "Qiita",
     "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 19",
     "link": "https://qiita.com/maskot1977/items/fbb0fc27643aee08e97c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-26T16:23:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜く組織の選択",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news010.html",
-    "pubDate": "2026-09-26T15:26:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "成長できない職場にはフィードバックが存在しない｜Saki@AI駆動人生",
-    "link": "https://note.com/saki_reset/n/nd6d383ce0c75",
-    "pubDate": "2026-09-26T14:33:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "2026年9月25日に発表された新しい Microsoft Copilot についての整理 - Qiita",
-    "link": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
-    "pubDate": "2026-09-26T14:30:51.000Z"
   },
   {
     "site": "Zenn",
@@ -133,21 +145,9 @@
   },
   {
     "site": "Zenn",
-    "title": "AIに書かせても速くならないのは、AIを「手足」として使っているから。人が押さえるべき5つの判断ポイントと半自動ループの作り方",
-    "link": "https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9",
-    "pubDate": "Fri, 25 Sep 2026 09:35:29 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
     "link": "https://zenn.dev/nwn/articles/e49154653ecea9",
     "pubDate": "Fri, 25 Sep 2026 07:27:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "爆速になった Expo Modules 2.0 を全部試してみた",
-    "link": "https://zenn.dev/gemcook/articles/expo-modules-2-swift-macros-sdk57",
-    "pubDate": "Fri, 25 Sep 2026 07:05:18 GMT"
   },
   {
     "site": "Zenn",
@@ -168,15 +168,15 @@
     "pubDate": "Fri, 25 Sep 2026 01:59:47 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "ステートマシンでフォームの分岐を管理して失敗した (データから導出できる値を状態にすべきでない)",
+    "link": "https://zenn.dev/bita/articles/f1872707871b2c",
+    "pubDate": "Fri, 25 Sep 2026 01:08:15 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！",
     "link": "https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-24T14:40:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Why MCP Was Always a Bad Idea",
-    "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-    "pubDate": "2026-09-21T02:25:14.000Z"
   }
 ]
