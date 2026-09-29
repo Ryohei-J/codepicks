@@ -1,5 +1,35 @@
 [
   {
+    "site": "Qiita",
+    "title": "BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？） - Qiita",
+    "link": "https://qiita.com/moritalous/items/1b6a05842724fc1fff66",
+    "pubDate": "2026-09-29T14:26:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速",
+    "link": "https://gigazine.net/news/20260929-jeff/",
+    "pubDate": "2026-09-29T13:04:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー",
+    "link": "https://share.timescar.jp/news/2026/0929/1816.html",
+    "pubDate": "2026-09-29T11:48:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超",
+    "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001854/",
+    "pubDate": "2026-09-29T11:47:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ／廃止対象では「GitHub」経由の修正提案ができなくなる",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2143945.html",
+    "pubDate": "2026-09-29T10:57:35.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "ChromeOSの後継Googlebook OSはウンコ💩やで",
     "link": "https://anond.hatelabo.jp/20260925135223",
@@ -12,6 +42,24 @@
     "pubDate": "2026-09-29T07:41:33.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Twitter（現X）に貼ったURLのサムネイル画像、キャッシュクリアできるの知ってた？",
+    "link": "https://qiita.com/minorun365/items/f1f6a45fa9aff8d624af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-29T07:16:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【API設計】「空にしたい」「なにもしない」を区別する方法",
+    "link": "https://qiita.com/umekikazuya/items/1bf8013b3493c4dca8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-29T06:03:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【SELECT AIの精度が出ない時に試したい5つのポイント】①対象表の絞り込み",
+    "link": "https://qiita.com/KantaUeda/items/5a17586db2e06f6ddac3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-29T06:03:23.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "３分で読めるトランザクション設計のコツ",
     "link": "https://zenn.dev/mconfjp/articles/transaction-action-order",
@@ -19,15 +67,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】",
-    "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html",
-    "pubDate": "2026-09-29T03:51:35.000Z"
+    "title": "箱はよくできているのに羊がいないはてなパークスの現状について - 関内関外日記",
+    "link": "https://goldhead.hatenablog.com/entry/2026/09/29/125355",
+    "pubDate": "2026-09-29T04:00:21.000Z"
   },
   {
     "site": "Zenn",
     "title": "Claude Code / Codexで「私のlimit、減りすぎ…？」と思ったときに見る記事",
     "link": "https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions",
     "pubDate": "Tue, 29 Sep 2026 03:00:09 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "バッチ監視で学んだ4つの確認観点 ― 起動/生存/終了/復旧を確認しよう",
+    "link": "https://qiita.com/sewiihidekikudo/items/71d588760efd8224cd1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-29T02:46:30.000Z"
   },
   {
     "site": "Zenn",
@@ -37,9 +91,9 @@
   },
   {
     "site": "Hatena",
-    "title": "AIで地図アプリをたくさん作ったので話を聞いてほしい　地図好きが作る自分が本当に使いたかったアプリの数々",
-    "link": "https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta",
-    "pubDate": "2026-09-29T02:40:12.000Z"
+    "title": "Git 2.56.0の新機能とGit 3.0リリース計画の概要",
+    "link": "https://about.gitlab.com/ja-jp/blog/whats-new-in-git-2-56-0/",
+    "pubDate": "2026-09-29T02:04:47.000Z"
   },
   {
     "site": "Zenn",
@@ -54,12 +108,6 @@
     "pubDate": "Tue, 29 Sep 2026 01:00:44 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog",
-    "link": "https://tech-blog.monotaro.com/entry/2026/09/29/090000",
-    "pubDate": "2026-09-29T00:17:38.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "大きなボトルネックをごろごろ見つける方法 - 優秀なエンジニアになる",
     "link": "https://zenn.dev/339/articles/56ef43afde8bd2",
@@ -69,79 +117,37 @@
     "site": "Zenn",
     "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
     "link": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
-    "pubDate": "2026-09-28T23:36:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-    "link": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
     "pubDate": "Mon, 28 Sep 2026 23:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "タイムズカーWebサイトへの不正アクセスについてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/09/28/214857",
-    "pubDate": "2026-09-28T14:43:54.000Z"
+    "site": "Qiita",
+    "title": "Claude Code で選べる12モデルに同じ仕事をさせた。1年で速度は2.7倍、値段は1%しか変わらなかった",
+    "link": "https://qiita.com/suwa_nobu/items/5749949156f8df6f728b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-28T23:16:45.000Z"
   },
   {
     "site": "Qiita",
-    "title": "同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由",
-    "link": "https://qiita.com/jqit-yukiono/items/0a68cd4ab997e8c8213b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
+    "title": "荒れたテストケースをコード管理で立て直してみた",
+    "link": "https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-28T23:10:50.000Z"
   },
   {
     "site": "Qiita",
-    "title": "Web/admin/iOSにE2Eテストを整備した話 ― 認証を迂回したら、次はテストコード自身の罠が待っていた",
-    "link": "https://qiita.com/jqit-yukiono/items/0f7d52531f4370484101?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
+    "title": "【自社開発1年目】「チーム経験ゼロ」の27歳元営業が、ダイレクト出版でAIを使い倒し本番コードを書くエンジニアになるまで",
+    "link": "https://qiita.com/kanzawa_kentaro/items/f69db1682fdc5ddb3ea8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-28T14:51:38.000Z"
   },
   {
     "site": "Qiita",
-    "title": "個人開発のiOS共通ライブラリをSSHフリー化した話 ― 「publicだから認証不要」の勘違いに、Dockerビルドだけが気づいていた",
-    "link": "https://qiita.com/jqit-yukiono/items/9d8a5b91dbe3b81cb1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
+    "title": "AI時代のエンジニアが鍛えるべき「具体と抽象」という思考力",
+    "link": "https://qiita.com/jota9613/items/b5c5412dcf9c6ff10c54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-28T11:49:56.000Z"
   },
   {
     "site": "Qiita",
-    "title": "個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた",
-    "link": "https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話",
-    "link": "https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub Actionsの自動マージが、次のworkflowを起動しない ― 2ヶ月「直っていない」と思い込んでいたバグの正体",
-    "link": "https://qiita.com/jqit-yukiono/items/efc0e2b10bb1aa0a3792?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「別々のアプリが似た症状で落ちる」を手がかりに、NFS越しのSonarQube・Nexus・Jenkinsが繰り返しクラッシュする原因を追った話",
-    "link": "https://qiita.com/jqit-yukiono/items/050ba069630b6d2b17da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「見るだけ」から「操作できる」へ ― MinecraftサーバーへのRCON実行を、個人開発でどう安全に作ったか",
-    "link": "https://qiita.com/jqit-yukiono/items/1bf18c5f749d05d8c2ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "個人開発アプリ「MineWatch」の記事まとめ（随時更新）",
-    "link": "https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub CodeQLが個人アカウントでは使えなかった話 ― 開発ツールを9本まとめて入れた棚卸しの顛末",
-    "link": "https://qiita.com/jqit-yukiono/items/defe0f80ac4c354aeb7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T11:26:30.000Z"
+    "title": "【JavaScript】Promise.resolveはPromiseでないオブジェクトもresolveするしそのせいで脆弱性がたくさんある",
+    "link": "https://qiita.com/rana_kualu/items/4bf77973ab94453a2699?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-28T10:59:42.000Z"
   },
   {
     "site": "Zenn",
@@ -168,15 +174,9 @@
     "pubDate": "Mon, 28 Sep 2026 07:26:11 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者",
-    "link": "https://note.com/rk611/n/n56e6db823eb1",
-    "pubDate": "2026-09-28T03:45:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIで要件定義を実践して分かった、大量のアウトプットを捌くための\"問い\"の作り方 - Tabelog Tech Blog",
-    "link": "https://tech-blog.tabelog.com/entry/ai-requirements-definition-with-questions",
-    "pubDate": "2026-09-28T02:57:17.000Z"
+    "site": "Qiita",
+    "title": "Honoが良いとされる理由がちょっとわかった気がする、多分。ちょっとだけ",
+    "link": "https://qiita.com/har1101/items/71a1b09a844d6b8c793d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-27T12:09:34.000Z"
   }
 ]
