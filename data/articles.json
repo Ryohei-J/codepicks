@@ -1,15 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2144295.html",
+    "pubDate": "2026-09-30T06:40:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ",
+    "link": "https://labo.hatenastaff.com/entry/2026/09/30/151500",
+    "pubDate": "2026-09-30T06:22:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GitHub Actionsにロックファイルが来るぞ - Qiita",
+    "link": "https://qiita.com/access3151fq/items/70a93f08bffd9c5f09a5",
+    "pubDate": "2026-09-30T05:56:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "タイムズカー、退会者の免許証画像も「7年」保存していた理由　パーク24に聞いた",
+    "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001877/",
+    "pubDate": "2026-09-30T04:55:05.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策",
+    "link": "https://zenn.dev/gzer0/articles/timescar-leak-countermeasures",
+    "pubDate": "2026-09-30T01:43:13.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延　タイムズカー情報流出直後に",
     "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001873/",
     "pubDate": "2026-09-30T01:03:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "0から学ぶセキュリティの基礎　〜CSRF編〜",
+    "link": "https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-30T00:50:37.000Z"
   },
   {
     "site": "Zenn",
     "title": "新規プロダクトのバックエンド自動テスト戦略 ─UT 中心から API テスト中心へ─",
     "link": "https://zenn.dev/canary_techblog/articles/348d976da70857",
     "pubDate": "Wed, 30 Sep 2026 00:45:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ゲーミングPC向けで LLMとデプロイ環境を最適化してみた話",
+    "link": "https://zenn.dev/knowledgework/articles/2691721311c2e4",
+    "pubDate": "Wed, 30 Sep 2026 00:45:00 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "タイムズカー情報漏洩 集団訴訟｜参加希望者受付中",
+    "link": "https://timescar-lawsuit.com/",
+    "pubDate": "2026-09-30T00:05:51.000Z"
   },
   {
     "site": "Hatena",
@@ -33,30 +81,6 @@
     "site": "Zenn",
     "title": "OpenAI DevDay 2026 発表まとめ",
     "link": "https://zenn.dev/schroneko/articles/openai-devday-2026",
-    "pubDate": "2026-09-29T21:28:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【特集】 画面割れMacや余剰PCで動く！Hermes Agentで始める“格安”箱庭AIエージェント",
-    "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html",
-    "pubDate": "2026-09-29T21:15:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - mizchi/explainer",
-    "link": "https://github.com/mizchi/explainer",
-    "pubDate": "2026-09-29T19:12:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
-    "pubDate": "2026-09-29T18:51:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenAI DevDay 2026 発表まとめ",
-    "link": "https://zenn.dev/schroneko/articles/openai-devday-2026",
     "pubDate": "Tue, 29 Sep 2026 17:20:46 GMT"
   },
   {
@@ -66,10 +90,34 @@
     "pubDate": "Tue, 29 Sep 2026 16:50:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超",
-    "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001854/",
-    "pubDate": "2026-09-29T11:47:47.000Z"
+    "site": "Qiita",
+    "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
+    "link": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-29T16:00:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録",
+    "link": "https://zenn.dev/yy7613/articles/c150ef962ccc1f",
+    "pubDate": "Tue, 29 Sep 2026 14:29:19 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "生命科学研究 × AI 活用ハンドブック",
+    "link": "https://zenn.dev/labcode/books/c4f81b6a2d9e37",
+    "pubDate": "Tue, 29 Sep 2026 14:29:01 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "サイボウズのiOS実務型インターンに参加してきた！",
+    "link": "https://zenn.dev/rinngo0302/articles/intern-cybozu",
+    "pubDate": "Tue, 29 Sep 2026 13:29:44 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？）",
+    "link": "https://qiita.com/moritalous/items/1b6a05842724fc1fff66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-29T12:34:51.000Z"
   },
   {
     "site": "Zenn",
@@ -78,10 +126,10 @@
     "pubDate": "Tue, 29 Sep 2026 11:37:24 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "GitHub を使う上で知っておくと嬉しいかも Tips 2026 | ドクセル",
-    "link": "https://www.docswell.com/s/cybozu-tech/K4NM4D-github-tips-2026?utm_source=twitter&utm_medium=social&utm_campaign=singlepage",
-    "pubDate": "2026-09-29T10:53:52.000Z"
+    "site": "Qiita",
+    "title": "【新資格】AWS Certified AI Business Strategist（AIB-C01）ベータ試験を受けてきた(コツコツ勉強できない人の感想)",
+    "link": "https://qiita.com/riz3f7/items/fe5704cc76755bb8700f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-29T11:35:18.000Z"
   },
   {
     "site": "Zenn",
@@ -103,63 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "【API設計】「空にしたい」「なにもしない」を区別する方法",
-    "link": "https://qiita.com/umekikazuya/items/1bf8013b3493c4dca8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-29T06:03:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【SELECT AIの精度が出ない時に試したい5つのポイント】①対象表の絞り込み",
-    "link": "https://qiita.com/KantaUeda/items/5a17586db2e06f6ddac3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-29T06:03:23.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare の CLI を wrangler から cf に移行する",
-    "link": "https://zenn.dev/sora_kumo/articles/cloudflare-to-cf",
-    "pubDate": "Tue, 29 Sep 2026 04:43:50 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code / Codexで「私のlimit、減りすぎ…？」と思ったときに見る記事",
-    "link": "https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions",
-    "pubDate": "Tue, 29 Sep 2026 03:00:09 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "バッチ監視で学んだ4つの確認観点 ― 起動/生存/終了/復旧を確認しよう",
     "link": "https://qiita.com/sewiihidekikudo/items/71d588760efd8224cd1f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-29T02:46:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "３分で読めるトランザクション設計のコツ",
-    "link": "https://zenn.dev/mconfjp/articles/transaction-action-order",
-    "pubDate": "Tue, 29 Sep 2026 02:45:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI開発時代だからこそ、テストの役割を見つめ直す",
-    "link": "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
-    "pubDate": "Tue, 29 Sep 2026 01:00:44 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Code で選べる12モデルに同じ仕事をさせた。1年で速度は2.7倍、値段は1%しか変わらなかった",
-    "link": "https://qiita.com/suwa_nobu/items/5749949156f8df6f728b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T23:16:45.000Z"
   },
   {
     "site": "Qiita",
     "title": "荒れたテストケースをコード管理で立て直してみた",
     "link": "https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-28T23:10:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【自社開発1年目】「チーム経験ゼロ」の27歳元営業が、ダイレクト出版でAIを使い倒し本番コードを書くエンジニアになるまで",
-    "link": "https://qiita.com/kanzawa_kentaro/items/f69db1682fdc5ddb3ea8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T14:51:38.000Z"
   },
   {
     "site": "Qiita",
