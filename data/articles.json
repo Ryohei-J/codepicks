@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+    "link": "https://blog.cloudflare.com/clef-decision-models/",
+    "pubDate": "2026-10-01T15:41:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "dotfiles を AI agent のために作り変えた",
+    "link": "https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/",
+    "pubDate": "2026-10-01T14:35:59.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義 - Qiita",
+    "link": "https://qiita.com/TamakiSeki/items/ac268db56f92b991970b",
+    "pubDate": "2026-10-01T14:10:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "米政府の新AIチャットボット、トランプ氏の主張と矛盾する回答 直後に一部質問を制限",
+    "link": "https://www.afpbb.com/articles/-/3655649",
+    "pubDate": "2026-10-01T12:17:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「この勢いは驚き」タイムズカー情報流出で「集団訴訟」呼びかけ、わずか1日で参加希望2000人超 - 弁護士ドットコムニュース",
+    "link": "https://www.bengo4.com/c_1015/c_1885/c_1888/n_20995/",
+    "pubDate": "2026-10-01T11:45:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "全体像が知りたいんだよォー！そんな時は図解スキルeli5が便利",
+    "link": "https://eiji.page/blog/ai-skill-eli5-is-great",
+    "pubDate": "2026-10-01T10:09:45.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "日本原子力機構に不正アクセス　研究者の個人情報が漏えい | NEWSjp",
     "link": "https://news.jp/i/1478318653420880862",
     "pubDate": "2026-10-01T10:02:04.000Z"
@@ -13,33 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "佐川急便、不正アクセスで個人情報流出か　送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
-    "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
-    "pubDate": "2026-10-01T07:26:23.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "中古アニメグッズ「らしんばん」に不正アクセス　口座情報や本人確認書類の番号など漏えいの恐れ",
-    "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001927/",
-    "pubDate": "2026-10-01T07:08:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？　米MITが人間で実験　Science系列誌で発表",
-    "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/",
-    "pubDate": "2026-10-01T03:02:41.000Z"
+    "title": "怪異をすべて“物理”でぶっ飛ばすホラー映像作品『現地確認記録』が話題に。異常な主人公・佐藤が異変を調査",
+    "link": "https://news.denfaminicogamer.jp/news/261001u",
+    "pubDate": "2026-10-01T06:47:26.000Z"
   },
   {
     "site": "Zenn",
     "title": "Claude Code の使用量はどう数えられているのか ── Max 20x で実測した重みは API 料金表と違った",
     "link": "https://zenn.dev/tksfjt1024/articles/25c0ab111c277c",
     "pubDate": "Thu, 01 Oct 2026 02:34:27 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Gboard チームからの新しいキーボードのご提案 2026",
-    "link": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
-    "pubDate": "2026-10-01T01:25:00.000Z"
   },
   {
     "site": "Qiita",
@@ -52,6 +70,12 @@
     "title": "Odin と SoA + α のベンチマーク",
     "link": "https://qiita.com/y_abe_bc/items/9f139ce8194e49879ce5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-01T00:13:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "スキルの名前を verify にするだけで、Claude Code はコミット前にそれを実行する",
+    "link": "https://qiita.com/suwa_nobu/items/cc0fb4a9e10100991bba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-01T00:02:00.000Z"
   },
   {
     "site": "Zenn",
@@ -72,40 +96,16 @@
     "pubDate": "Wed, 30 Sep 2026 23:45:42 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPT連携初日の増田で何が起きていたか",
-    "link": "https://anond.hatelabo.jp/20261001070030",
-    "pubDate": "2026-09-30T22:05:08.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
-    "link": "https://zenn.dev/algoartis/articles/0b1c731881b25c",
-    "pubDate": "2026-09-30T19:49:24.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
     "link": "https://zenn.dev/algoartis/articles/0b1c731881b25c",
     "pubDate": "Wed, 30 Sep 2026 18:28:20 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
-    "link": "https://zenn.dev/kmizu/articles/2026-09-parser-book",
-    "pubDate": "2026-09-30T17:48:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "[みんなのケータイ]「毎週1500円」のクリーナーアプリが平然と存在するアプリストアの問題点",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2144672.html",
-    "pubDate": "2026-09-30T15:17:23.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "OCI Functions のコードのみ関数(Code-only Functions)を動かしてみる(Oracle Cloud Infrastructure)",
-    "link": "https://qiita.com/ora_gonsuke777/items/698dc98984273ff256fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-30T13:14:15.000Z"
+    "title": "AI生成コードを全部同じ密度で読む必要はある？―レビューを契約とテストで絞る設計",
+    "link": "https://qiita.com/masashige0904/items/43beaaabc2c0ef2dcb1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-30T13:08:39.000Z"
   },
   {
     "site": "Zenn",
@@ -115,9 +115,9 @@
   },
   {
     "site": "Zenn",
-    "title": "HTML-in-Canvas で DOM を画像化し、動画にも書き出す",
-    "link": "https://zenn.dev/chot/articles/html-in-canvas-dom-to-video",
-    "pubDate": "Wed, 30 Sep 2026 11:20:18 GMT"
+    "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
+    "link": "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
+    "pubDate": "2026-09-30T11:30:09.000Z"
   },
   {
     "site": "Zenn",
@@ -126,10 +126,10 @@
     "pubDate": "Wed, 30 Sep 2026 09:00:08 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "Claude Sonnet 5.5 の「最大30%安い」は、手順のある仕事でだけ再現した",
-    "link": "https://qiita.com/suwa_nobu/items/7067a7a0868676d350e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-30T07:54:22.000Z"
+    "site": "Zenn",
+    "title": "ヘキサゴナルアーキテクチャを実装レベルで確かめてみた（その1）ポート・アダプター・アプリケーションはコードではどうなるのか",
+    "link": "https://zenn.dev/aws_japan/articles/hexagonal-architecture-lambda-1",
+    "pubDate": "Wed, 30 Sep 2026 01:04:42 GMT"
   },
   {
     "site": "Qiita",
@@ -145,6 +145,18 @@
   },
   {
     "site": "Zenn",
+    "title": "ゲーミングPC向けで LLMとデプロイ環境を最適化してみた話",
+    "link": "https://zenn.dev/knowledgework/articles/2691721311c2e4",
+    "pubDate": "Wed, 30 Sep 2026 00:45:00 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "oracle-ai-ready-data Skill 第3回：ANNOTATIONSとDomainの意味情報を可視化し、Select AIで確認してみてみた",
+    "link": "https://qiita.com/shirok/items/d794f229ba4e97b541fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-30T00:10:09.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "OpenAI DevDay 2026 発表まとめ",
     "link": "https://zenn.dev/schroneko/articles/openai-devday-2026",
     "pubDate": "Tue, 29 Sep 2026 17:20:46 GMT"
@@ -154,12 +166,6 @@
     "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
     "link": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-29T16:00:06.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "生命科学研究 × AI 活用ハンドブック",
-    "link": "https://zenn.dev/labcode/books/c4f81b6a2d9e37",
-    "pubDate": "Tue, 29 Sep 2026 14:29:01 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "Twitter（現X）に貼ったURLのサムネイル画像、キャッシュクリアできるの知ってた？",
     "link": "https://qiita.com/minorun365/items/f1f6a45fa9aff8d624af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-29T07:16:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "荒れたテストケースをコード管理で立て直してみた",
-    "link": "https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-28T23:10:50.000Z"
   }
 ]
