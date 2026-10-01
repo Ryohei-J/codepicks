@@ -1,45 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "Gboard チームからの新しいキーボードのご提案 2026",
+    "link": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
+    "pubDate": "2026-10-01T01:25:00.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleの「謎キーボード」に今年も新作　“ベルトコンベヤー”でキーが流れてくる「くるくるバージョン」",
+    "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001907/",
+    "pubDate": "2026-10-01T01:18:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "さよならイルカショー",
+    "link": "https://blog.tinect.jp/?p=91526",
+    "pubDate": "2026-09-30T23:23:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPT連携初日の増田で何が起きていたか",
+    "link": "https://anond.hatelabo.jp/20261001070030",
+    "pubDate": "2026-09-30T22:05:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Hothotレビュー】 ルーターが固まっても勝手に復活！神デバイス「ezJack」を試してみた",
+    "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2144666.html",
+    "pubDate": "2026-09-30T21:22:42.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
     "pubDate": "2026-09-30T20:28:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Next.jsアプリをCloudflare WorkersやAWS LambdaなどVercel以外のサーバレス基盤へデプロイできる「Vinext 1.0」リリース",
-    "link": "https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html",
-    "pubDate": "2026-09-30T15:51:50.000Z"
+    "site": "Zenn",
+    "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+    "link": "https://zenn.dev/algoartis/articles/0b1c731881b25c",
+    "pubDate": "2026-09-30T19:49:24.000Z"
   },
   {
     "site": "Hatena",
-    "title": "アンケート結果をダウンロードしたら他社の従業員情報が……　ベネフィット・ワン、1万3460人分漏えい",
-    "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001908/",
-    "pubDate": "2026-09-30T13:38:46.000Z"
+    "title": "GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
+    "link": "https://github.com/nanaism/yomiyasu",
+    "pubDate": "2026-09-30T18:28:31.000Z"
   },
   {
     "site": "Hatena",
-    "title": "芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学",
-    "link": "https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html",
-    "pubDate": "2026-09-30T11:44:54.000Z"
+    "title": "[みんなのケータイ]「毎週1500円」のクリーナーアプリが平然と存在するアプリストアの問題点",
+    "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2144672.html",
+    "pubDate": "2026-09-30T15:17:23.000Z"
   },
   {
     "site": "Hatena",
-    "title": "設計次第でAIコードの読む量は減らせる / designing-for-code-reading",
-    "link": "https://speakerdeck.com/minodriven/designing-for-code-reading",
-    "pubDate": "2026-09-30T10:31:41.000Z"
+    "title": "Codexを使うなら、/recap・/copy・/exportを押さえておきたい - じゃあ、おうちで学べる",
+    "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/29/161928",
+    "pubDate": "2026-09-30T13:28:33.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI時代のコードレビューは人に向けるな、仕組みに向けろ",
-    "link": "https://speakerdeck.com/texmeijin/ai-jidai-no-kodo-rebyu-ha-hito-ni-mukeru-na-shikumi-ni-mukero",
-    "pubDate": "2026-09-30T10:03:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "集英社のブロガー管理システムに不正アクセス　2835人分の個人情報漏えい、結婚状況や子の有無も",
-    "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001898/",
-    "pubDate": "2026-09-30T08:56:26.000Z"
+    "site": "Zenn",
+    "title": "Web 標準動向 2026年9月版",
+    "link": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202609",
+    "pubDate": "Wed, 30 Sep 2026 09:00:08 GMT"
   },
   {
     "site": "Qiita",
@@ -48,16 +72,10 @@
     "pubDate": "2026-09-30T07:54:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ",
-    "link": "https://labo.hatenastaff.com/entry/2026/09/30/151500",
-    "pubDate": "2026-09-30T06:22:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "一休もお漏らしかよ",
-    "link": "https://anond.hatelabo.jp/20260930121339",
-    "pubDate": "2026-09-30T03:14:47.000Z"
+    "site": "Zenn",
+    "title": "ヘキサゴナルアーキテクチャを実装レベルで確かめてみた（その1）ポート・アダプター・アプリケーションはコードではどうなるのか",
+    "link": "https://zenn.dev/aws_japan/articles/hexagonal-architecture-lambda-1",
+    "pubDate": "Wed, 30 Sep 2026 01:04:42 GMT"
   },
   {
     "site": "Qiita",
@@ -82,12 +100,6 @@
     "title": "oracle-ai-ready-data Skill 第3回：ANNOTATIONSとDomainの意味情報を可視化し、Select AIで確認してみてみた",
     "link": "https://qiita.com/shirok/items/d794f229ba4e97b541fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-30T00:10:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "タイムズカー情報漏洩 集団訴訟｜参加希望者受付中",
-    "link": "https://timescar-lawsuit.com/",
-    "pubDate": "2026-09-30T00:05:51.000Z"
   },
   {
     "site": "Qiita",
@@ -115,33 +127,15 @@
   },
   {
     "site": "Zenn",
-    "title": "AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録",
-    "link": "https://zenn.dev/yy7613/articles/c150ef962ccc1f",
-    "pubDate": "Tue, 29 Sep 2026 14:29:19 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "生命科学研究 × AI 活用ハンドブック",
     "link": "https://zenn.dev/labcode/books/c4f81b6a2d9e37",
     "pubDate": "Tue, 29 Sep 2026 14:29:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "サイボウズのiOS実務型インターンに参加してきた！",
-    "link": "https://zenn.dev/rinngo0302/articles/intern-cybozu",
-    "pubDate": "Tue, 29 Sep 2026 13:29:44 GMT"
   },
   {
     "site": "Qiita",
     "title": "BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？）",
     "link": "https://qiita.com/moritalous/items/1b6a05842724fc1fff66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-29T12:34:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "サイバーエージェントのバックエンドインターンUNIVERSEに参加し、優秀賞をいただきました",
-    "link": "https://zenn.dev/hayatosc/articles/ca-intern-universe",
-    "pubDate": "Tue, 29 Sep 2026 11:37:24 GMT"
   },
   {
     "site": "Qiita",
@@ -166,6 +160,12 @@
     "title": "AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる",
     "link": "https://zenn.dev/softbank/articles/6f98cf7c4ebfd3",
     "pubDate": "Tue, 29 Sep 2026 07:02:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Cloudflare の CLI を wrangler から cf に移行する",
+    "link": "https://zenn.dev/sora_kumo/articles/cloudflare-to-cf",
+    "pubDate": "Tue, 29 Sep 2026 04:43:50 GMT"
   },
   {
     "site": "Qiita",
