@@ -1,5 +1,11 @@
 [
   {
+    "site": "Qiita",
+    "title": "アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？",
+    "link": "https://qiita.com/square1001/items/4714dd9e2ddb97c32057?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-02T13:28:45.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？",
     "link": "https://zenn.dev/sc30gsw/books/080faba713547b",
@@ -16,6 +22,18 @@
     "title": "普通のメガネなのに網膜投影　TDKがレンズに埋め込める透明ミラー",
     "link": "https://www.watch.impress.co.jp/docs/news/2145266.html",
     "pubDate": "2026-10-02T12:11:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～",
+    "link": "https://lpi.or.jp/news/press/page/20261001_01/",
+    "pubDate": "2026-10-02T12:06:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code ModsとJevでモデルルーターを構築（サブスクで使えるゾ！！）",
+    "link": "https://qiita.com/moritalous/items/8b663db633dde3c49d62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-02T11:20:01.000Z"
   },
   {
     "site": "Hatena",
@@ -36,6 +54,18 @@
     "pubDate": "2026-10-02T09:50:04.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加",
+    "link": "https://gigazine.net/news/20261002-pi-1-0/",
+    "pubDate": "2026-10-02T08:55:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「完全国産」AI、KDDI傘下のELYZAが無料公開　「LLM-jp-4」ベースに性能強化",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
+    "pubDate": "2026-10-02T08:31:13.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "`use cache: private` のキャッシュはブラウザに残ることもある",
     "link": "https://zenn.dev/chot/articles/362b7a2420ef1a",
@@ -43,21 +73,9 @@
   },
   {
     "site": "Hatena",
-    "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
-    "link": "https://labo.hatenastaff.com/entry/2026/10/02/113000",
-    "pubDate": "2026-10-02T02:39:19.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "OpenPOI API — 日本全国337万件のPOI検索API",
     "link": "https://openpoiapi.com/",
     "pubDate": "2026-10-02T02:14:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ローソンの“ふり”ではなく本物のメールサーバーを悪用 不審メール約70万件を送信 | おたくま経済新聞",
-    "link": "https://otakuma.net/archives/2026100202.html",
-    "pubDate": "2026-10-02T01:51:28.000Z"
   },
   {
     "site": "Qiita",
@@ -72,12 +90,6 @@
     "pubDate": "2026-10-01T23:26:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "文字画像APNGメーカー｜TRPG WEBツール観測所",
-    "link": "https://kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/",
-    "pubDate": "2026-10-01T22:02:21.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "glibc の strlen は文字列範囲外を読むことで高速に計算する",
     "link": "https://zenn.dev/peloeil/articles/glibc-strlen-2023",
@@ -88,6 +100,12 @@
     "title": "GitHub Copilot SDK のランタイムとエージェントループについて",
     "link": "https://qiita.com/chomado/items/8830d0e9f4b75a7ea2a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-01T16:33:37.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "業務知識やデータを AI に対して安全に取り込める Microsoft Work IQ",
+    "link": "https://qiita.com/yoshioterada/items/3ac3c05be12e51ea05b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-01T16:13:02.000Z"
   },
   {
     "site": "Zenn",
@@ -138,12 +156,6 @@
     "pubDate": "Wed, 30 Sep 2026 18:28:20 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "AI生成コードを全部同じ密度で読む必要はある？―レビューを契約とテストで絞る設計",
-    "link": "https://qiita.com/masashige0904/items/43beaaabc2c0ef2dcb1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-30T13:08:39.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
     "link": "https://zenn.dev/kmizu/articles/2026-09-parser-book",
@@ -166,17 +178,5 @@
     "title": "0から学ぶセキュリティの基礎　〜CSRF編〜",
     "link": "https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-30T00:50:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
-    "link": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-29T16:00:06.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【新資格】AWS Certified AI Business Strategist（AIB-C01）ベータ試験を受けてきた(コツコツ勉強できない人の感想)",
-    "link": "https://qiita.com/riz3f7/items/fe5704cc76755bb8700f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-29T11:35:18.000Z"
   }
 ]
