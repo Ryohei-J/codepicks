@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "アマゾン「Kindle」一新　最軽量16GBやアルミデザイン、カラーモデル",
-    "link": "https://www.watch.impress.co.jp/docs/news/2145024.html",
-    "pubDate": "2026-10-01T23:56:12.000Z"
+    "title": "【速報】ヤマト運輸、不正アクセスで顧客情報流出か",
+    "link": "https://www.47news.jp/15026982.html",
+    "pubDate": "2026-10-02T09:50:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "第一生命に不正アクセス　従業員情報12万人分漏えいか　退職者も対象",
+    "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001971/",
+    "pubDate": "2026-10-02T08:01:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Androidのマイナンバーカード」、20日スタート",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2145170.html",
+    "pubDate": "2026-10-02T07:06:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "`use cache: private` のキャッシュはブラウザに残ることもある",
+    "link": "https://zenn.dev/chot/articles/362b7a2420ef1a",
+    "pubDate": "Fri, 02 Oct 2026 04:07:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
+    "link": "https://labo.hatenastaff.com/entry/2026/10/02/113000",
+    "pubDate": "2026-10-02T02:39:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenPOI API — 日本全国337万件のPOI検索API",
+    "link": "https://openpoiapi.com/",
+    "pubDate": "2026-10-02T02:14:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ローソンの“ふり”ではなく本物のメールサーバーを悪用 不審メール約70万件を送信 | おたくま経済新聞",
+    "link": "https://otakuma.net/archives/2026100202.html",
+    "pubDate": "2026-10-02T01:51:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "非エンジニアの私が、社内エンジニアと業務効率化ツールを作ってみた件",
+    "link": "https://qiita.com/ayanonn/items/411fc08854b9fe4c9be7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-02T01:48:01.000Z"
   },
   {
     "site": "Hatena",
@@ -19,27 +61,21 @@
   },
   {
     "site": "Hatena",
-    "title": "新Kindle 計6モデル発売 頁めくりリモコンKindle Click、物理ボタンつきカバーも | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/10/02/5544.html",
-    "pubDate": "2026-10-01T22:41:14.000Z"
+    "title": "文字画像APNGメーカー｜TRPG WEBツール観測所",
+    "link": "https://kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/",
+    "pubDate": "2026-10-01T22:02:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Cloudflare/clef · Hugging Face",
-    "link": "https://huggingface.co/Cloudflare/clef",
-    "pubDate": "2026-10-01T21:28:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "『六韜』「隣国の使者が有能なら何も与えず無能なら大いに歓待せよ」というのはデマだぞ",
-    "link": "https://anond.hatelabo.jp/20260514203244",
-    "pubDate": "2026-10-01T15:45:56.000Z"
+    "site": "Zenn",
+    "title": "glibc の strlen は文字列範囲外を読むことで高速に計算する",
+    "link": "https://zenn.dev/peloeil/articles/glibc-strlen-2023",
+    "pubDate": "Thu, 01 Oct 2026 17:56:12 GMT"
   },
   {
     "site": "Qiita",
-    "title": "AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義 - Qiita",
-    "link": "https://qiita.com/TamakiSeki/items/ac268db56f92b991970b",
-    "pubDate": "2026-10-01T14:10:57.000Z"
+    "title": "GitHub Copilot SDK のランタイムとエージェントループについて",
+    "link": "https://qiita.com/chomado/items/8830d0e9f4b75a7ea2a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-01T16:33:37.000Z"
   },
   {
     "site": "Hatena",
@@ -48,16 +84,16 @@
     "pubDate": "2026-10-01T14:05:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "免許証の悪用防止で申し込み集中　JICCがアプリ受付を一時休止　タイムズカー漏えいの影響か",
-    "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001943/",
-    "pubDate": "2026-10-01T11:38:41.000Z"
+    "site": "Zenn",
+    "title": "microCMS をやめて、Raspberry Pi で Payload CMS を動かす",
+    "link": "https://zenn.dev/85store/articles/574a1a07233283",
+    "pubDate": "Thu, 01 Oct 2026 13:59:52 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Claude Codeは、コードを書かない人こそ使える。散らかったフォルダもWindowsのエラーも「頼むだけ」で片づいた | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2610-use-claude-code-every-day-tasks-nothing-coding/",
-    "pubDate": "2026-10-01T06:11:21.000Z"
+    "site": "Qiita",
+    "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた",
+    "link": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-01T13:03:12.000Z"
   },
   {
     "site": "Zenn",
@@ -70,18 +106,6 @@
     "title": "どこかで聞いた「アウトプットしないことは知的な便秘である」って素晴らしい言葉だよなぁ！",
     "link": "https://qiita.com/PDC-Kurashinak/items/bde0e380eeb04fa28f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-01T01:24:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Odin と SoA + α のベンチマーク",
-    "link": "https://qiita.com/y_abe_bc/items/9f139ce8194e49879ce5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-01T00:13:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "スキルの名前を verify にするだけで、Claude Code はコミット前にそれを実行する",
-    "link": "https://qiita.com/suwa_nobu/items/cc0fb4a9e10100991bba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-01T00:02:00.000Z"
   },
   {
     "site": "Zenn",
@@ -126,10 +150,10 @@
     "pubDate": "Wed, 30 Sep 2026 09:00:08 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ヘキサゴナルアーキテクチャを実装レベルで確かめてみた（その1）ポート・アダプター・アプリケーションはコードではどうなるのか",
-    "link": "https://zenn.dev/aws_japan/articles/hexagonal-architecture-lambda-1",
-    "pubDate": "Wed, 30 Sep 2026 01:04:42 GMT"
+    "site": "Qiita",
+    "title": "AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義",
+    "link": "https://qiita.com/TamakiSeki/items/ac268db56f92b991970b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-09-30T08:34:13.000Z"
   },
   {
     "site": "Qiita",
@@ -144,24 +168,6 @@
     "pubDate": "Wed, 30 Sep 2026 00:45:25 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ゲーミングPC向けで LLMとデプロイ環境を最適化してみた話",
-    "link": "https://zenn.dev/knowledgework/articles/2691721311c2e4",
-    "pubDate": "Wed, 30 Sep 2026 00:45:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "oracle-ai-ready-data Skill 第3回：ANNOTATIONSとDomainの意味情報を可視化し、Select AIで確認してみてみた",
-    "link": "https://qiita.com/shirok/items/d794f229ba4e97b541fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-30T00:10:09.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenAI DevDay 2026 発表まとめ",
-    "link": "https://zenn.dev/schroneko/articles/openai-devday-2026",
-    "pubDate": "Tue, 29 Sep 2026 17:20:46 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察",
     "link": "https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -172,11 +178,5 @@
     "title": "【新資格】AWS Certified AI Business Strategist（AIB-C01）ベータ試験を受けてきた(コツコツ勉強できない人の感想)",
     "link": "https://qiita.com/riz3f7/items/fe5704cc76755bb8700f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-09-29T11:35:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Twitter（現X）に貼ったURLのサムネイル画像、キャッシュクリアできるの知ってた？",
-    "link": "https://qiita.com/minorun365/items/f1f6a45fa9aff8d624af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-09-29T07:16:02.000Z"
   }
 ]
