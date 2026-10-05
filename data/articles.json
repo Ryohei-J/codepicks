@@ -1,15 +1,81 @@
 [
   {
     "site": "Hatena",
+    "title": "ランサム集団キリンの中心メンバー、日本で拘束　アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b",
+    "pubDate": "2026-10-05T23:08:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket",
+    "link": "https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author",
+    "pubDate": "2026-10-05T22:42:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Agent Memory Repo | Cognition",
+    "link": "https://cognition.com/agent-memory-repo",
+    "pubDate": "2026-10-05T21:37:44.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "こんな時代だから Seasar2 を構築してみようか",
+    "link": "https://zenn.dev/tokium_dev/articles/4dbec90075dab0",
+    "pubDate": "Mon, 05 Oct 2026 21:00:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI エージェントに API キーを渡しても大丈夫か？ 対話文・.env・環境変数・MCP・OAuth — 6 つの渡し方を Claude Code・Codex・Gemini CLI・Copilot・Cursor で調べてみた",
+    "link": "https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-05T19:05:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "連日の不正アクセスの件、マジでシャレにならないが、こんなやばいの日本だけ？他の国で問題になってないん？「今世界中で起きてる」",
+    "link": "https://togetter.com/li/2754581",
+    "pubDate": "2026-10-05T18:31:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ユーザー検索した作品名の人気キーワード機能",
+    "link": "https://zenn.dev/npm_tech/articles/c589433eb5ef52",
+    "pubDate": "Mon, 05 Oct 2026 14:12:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ロボットモデルなしでアームを動かす — Claude × MCP で SO-101 を直接操作する",
+    "link": "https://zenn.dev/oggata/articles/0893726c1ebf3d",
+    "pubDate": "Mon, 05 Oct 2026 12:19:36 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ウナギ稚魚の生産コストが4万円→1800円に　約20分の1以下に削減　水産研究・教育機構が大型水槽を開発 | himanews",
+    "link": "https://himanews.jp/2145532462-2/",
+    "pubDate": "2026-10-05T09:34:02.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出　アプリ登録者ほぼ全員が対象",
     "link": "https://ascii.jp/elem/000/004/440/4440100/",
     "pubDate": "2026-10-05T09:05:31.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "JevとClefを画像生成AIのプロダクトに組み込もう!",
+    "link": "https://zenn.dev/radius5/articles/20261004-j3v7cl3f",
+    "pubDate": "Mon, 05 Oct 2026 08:26:58 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "パーク管理におけるガイドライン違反行為 - Hatena Policies",
-    "link": "https://policies.hatena.ne.jp/entry/2026/10/05/151435",
-    "pubDate": "2026-10-05T07:34:26.000Z"
+    "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪　ランサムウェアによるサイバー攻撃か　基盤システム障害で全授業が休講中　対面授業は9日以降再開予定 | TBS NEWS DIG",
+    "link": "https://newsdig.tbs.co.jp/articles/-/2990268",
+    "pubDate": "2026-10-05T08:15:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIでサイバー攻撃のコスト激減　数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー",
+    "link": "https://weekly.ascii.jp/elem/000/004/439/4439882/",
+    "pubDate": "2026-10-05T08:05:24.000Z"
   },
   {
     "site": "Qiita",
@@ -30,10 +96,10 @@
     "pubDate": "2026-10-05T06:52:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ",
-    "link": "https://japan.cnet.com/article/35253230/",
-    "pubDate": "2026-10-05T06:43:08.000Z"
+    "site": "Zenn",
+    "title": "オブジェクト指向UIデザインをAgent Skillにして、Claudeが作るUIはどう変わるかの検証",
+    "link": "https://zenn.dev/emuni/articles/ooui-agent-skill",
+    "pubDate": "Mon, 05 Oct 2026 06:09:20 GMT"
   },
   {
     "site": "Zenn",
@@ -54,64 +120,40 @@
     "pubDate": "Mon, 05 Oct 2026 04:59:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる",
-    "link": "https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102",
-    "pubDate": "2026-10-05T04:55:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windows 11、エクスプローラーで「~」（チルダ）が利用可能に。ユーザーフォルダーへ素早くアクセス",
-    "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2145484.html",
-    "pubDate": "2026-10-05T04:29:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
-    "link": "https://www.47news.jp/15038299.html",
-    "pubDate": "2026-10-05T04:29:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "GraphRAGをゼロから詳しく解説する【ナレッジグラフ・オントロジー】",
-    "link": "https://zenn.dev/tetsuro731/articles/6efe77a20b8c1c",
-    "pubDate": "Mon, 05 Oct 2026 00:19:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "人生オワタ2を600回、Jev互換AIは穴を越えられず",
-    "link": "https://zenn.dev/acntechjp/articles/zenn-system1-owata2-realtime",
-    "pubDate": "Sun, 04 Oct 2026 23:37:39 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料",
-    "link": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html",
-    "pubDate": "2026-10-04T23:05:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "プログラミングの基本原理｜shi3z",
-    "link": "https://note.com/shi3zblog/n/nf59b8740cd24",
-    "pubDate": "2026-10-04T22:18:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "本当に「判断」していますか？",
-    "link": "https://zenn.dev/dyoshikawa/articles/do-you-desicion",
-    "pubDate": "Sun, 04 Oct 2026 22:00:05 GMT"
+    "site": "Qiita",
+    "title": "【SELECT AIの精度が出ない時に試したい5つのポイント】②SELECT AIにDBの意味を教える",
+    "link": "https://qiita.com/KantaUeda/items/beace142afd1d8f427f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-05T04:54:49.000Z"
   },
   {
     "site": "Qiita",
-    "title": "「シークレットスキャン」とは？漏れた API キー、誰が止めてくれるのか？ 業務システム 65 件と GitHub・GitLab を調べてみた",
-    "link": "https://qiita.com/songchong/items/5ee39ef5b71510e36c2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-04T19:05:48.000Z"
+    "title": "「議論できる国民」になるために何を知るべきか ― 育成就労制度から考える政策デバッグと国家レジリエンス : システム設計視点の行動経済学 (36)",
+    "link": "https://qiita.com/maskot1977/items/9fefd19cca44838e999c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-05T03:21:23.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Claude Codeの「Claude Mods」とは？ 入れてみた3つのmodと、安全に入れる手順",
-    "link": "https://zenn.dev/yoshihiko555/articles/ea2db6070058b3",
-    "pubDate": "Sun, 04 Oct 2026 17:22:57 GMT"
+    "title": "Go と Swift のコンストラクタを突き詰めると、言語思想にたどり着いた",
+    "link": "https://zenn.dev/s0nmy/articles/d3a0873deb08ec",
+    "pubDate": "Mon, 05 Oct 2026 01:49:39 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【速報】Gemini 4 Argon 登場！公式データで見る“長時間働くAI”の現在地",
+    "link": "https://qiita.com/tomokoro/items/69f8d2f1a3504927b6c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-05T01:03:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "dbt Chartsで作れるグラフを試してみた【dbt v2】【DuckDB】",
+    "link": "https://zenn.dev/ryatora/articles/dbt-charts-chart-catalog",
+    "pubDate": "Mon, 05 Oct 2026 00:47:36 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "新しく作ったファイルに、そのフォルダの CLAUDE.md は効いていなかった。直った今も指示は書いた後に届く",
+    "link": "https://qiita.com/suwa_nobu/items/5252da854dbebe02cccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-05T00:23:47.000Z"
   },
   {
     "site": "Qiita",
@@ -120,40 +162,10 @@
     "pubDate": "2026-10-04T17:13:59.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Cloudflare の判定モデル Clef を Workers AI で触ってみた",
-    "link": "https://zenn.dev/akari1106/articles/b6d3180cc50dfe",
-    "pubDate": "Sun, 04 Oct 2026 14:36:56 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "結局、Looped Transformerってなんや？",
     "link": "https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-04T12:59:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Remix 3 正式版おめでとう。",
-    "link": "https://zenn.dev/alaxusweb/articles/c2d446f1218635",
-    "pubDate": "Sun, 04 Oct 2026 12:38:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "既存OSSのnginxをOpenRestyへ差し替え、Entra IDとアプリ内ユーザーを追跡できるログを作った話",
-    "link": "https://zenn.dev/gritio28tech/articles/7b48f4db2d2bfa",
-    "pubDate": "Sun, 04 Oct 2026 12:34:49 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI が正しい答えを返せる時代に、人は何を学ぶのか。対話と問題解決の経験から教育を考えてみる",
-    "link": "https://qiita.com/Takashi_Masumori/items/a1bb51f402a5f95c396b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-04T12:09:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "LLMのJSON Schemaを厳しくしても業務検証を消せない理由",
-    "link": "https://qiita.com/TechStudioLab/items/0bbf128791023cc90893?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-04T06:42:38.000Z"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？",
-    "link": "https://qiita.com/square1001/items/4714dd9e2ddb97c32057?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-02T13:28:45.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Jev・Clef・d1・Jeff・Kev…意思決定モデル（System One）を仕組みから比較する【2026年10月版】",
-    "link": "https://qiita.com/nogataka/items/a2f89a94d243b1b715cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-02T12:09:18.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "日本企業「ハッキングされないでくれ」ランキング",
-    "link": "https://qiita.com/konaito/items/16a6d2c5da7d144efe95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-02T10:12:24.000Z"
+    "title": "RAG構築が一気に簡単に？Oracle Private Agent Factory のKnowledge Agent Nodeを試してみた",
+    "link": "https://qiita.com/ssfujita/items/8be112a1d43ab25f0cd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-03T10:17:58.000Z"
   }
 ]
