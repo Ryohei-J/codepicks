@@ -1,21 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab",
+    "link": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
+    "pubDate": "2026-10-06T03:06:03.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google ドライブ、Google ドキュメントでMarkdown（.md）をそのまま扱えるように／フォーマット変換不要、そのままプレビューや編集・共同作業が可能に",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2145843.html",
+    "pubDate": "2026-10-06T02:59:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261006de55007",
+    "pubDate": "2026-10-06T02:45:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Geminiの使いどころ🥹",
+    "link": "https://anond.hatelabo.jp/20261006101040",
+    "pubDate": "2026-10-06T01:10:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "geminiが難しい",
+    "link": "https://anond.hatelabo.jp/20261006091814",
+    "pubDate": "2026-10-06T00:20:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Gemini無料版、10月9日から「Flash-Lite」のみに",
+    "link": "https://japan.cnet.com/article/35253255/",
+    "pubDate": "2026-10-05T23:47:12.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ランサム集団キリンの中心メンバー、日本で拘束　アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
     "link": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b",
     "pubDate": "2026-10-05T23:08:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket",
-    "link": "https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author",
-    "pubDate": "2026-10-05T22:42:54.000Z"
+    "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
+    "link": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
+    "pubDate": "2026-10-05T23:08:07.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Agent Memory Repo | Cognition",
-    "link": "https://cognition.com/agent-memory-repo",
-    "pubDate": "2026-10-05T21:37:44.000Z"
+    "title": "Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket",
+    "link": "https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author",
+    "pubDate": "2026-10-05T22:42:54.000Z"
   },
   {
     "site": "Zenn",
@@ -48,52 +84,16 @@
     "pubDate": "Mon, 05 Oct 2026 12:19:36 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ウナギ稚魚の生産コストが4万円→1800円に　約20分の1以下に削減　水産研究・教育機構が大型水槽を開発 | himanews",
-    "link": "https://himanews.jp/2145532462-2/",
-    "pubDate": "2026-10-05T09:34:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出　アプリ登録者ほぼ全員が対象",
-    "link": "https://ascii.jp/elem/000/004/440/4440100/",
-    "pubDate": "2026-10-05T09:05:31.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "JevとClefを画像生成AIのプロダクトに組み込もう!",
     "link": "https://zenn.dev/radius5/articles/20261004-j3v7cl3f",
     "pubDate": "Mon, 05 Oct 2026 08:26:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪　ランサムウェアによるサイバー攻撃か　基盤システム障害で全授業が休講中　対面授業は9日以降再開予定 | TBS NEWS DIG",
-    "link": "https://newsdig.tbs.co.jp/articles/-/2990268",
-    "pubDate": "2026-10-05T08:15:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIでサイバー攻撃のコスト激減　数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー",
-    "link": "https://weekly.ascii.jp/elem/000/004/439/4439882/",
-    "pubDate": "2026-10-05T08:05:24.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった",
     "link": "https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-05T07:31:16.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/31834/",
-    "pubDate": "2026-10-05T07:03:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "俺のAIプログラミング手法(2026/10/05)",
-    "link": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-    "pubDate": "2026-10-05T06:52:58.000Z"
   },
   {
     "site": "Zenn",
