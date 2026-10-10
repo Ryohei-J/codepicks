@@ -1,9 +1,33 @@
 [
   {
+    "site": "Hatena",
+    "title": "国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/10/11/004353",
+    "pubDate": "2026-10-10T15:48:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「IDCFクラウド」で何が起きたのか　情報漏洩や復旧の可能性について現在分かっていること（山口健太） - エキスパート - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/expert/articles/cce6d03439ffb1d2d6de2500240634b394731753",
+    "pubDate": "2026-10-10T10:29:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "アンソロピックのAI、米警察に虚偽の情報提供　不正にビザ申請も - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN101I30Q6A011C2000000/",
+    "pubDate": "2026-10-10T10:08:49.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "「マニピュレータ動的制御のための新しいフィードバック制御」竹垣，有本",
     "link": "https://zenn.dev/zhidao/articles/e5982e81b6dbbf",
     "pubDate": "Sat, 10 Oct 2026 09:41:00 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対応",
+    "link": "https://readest.com/ja",
+    "pubDate": "2026-10-10T09:04:42.000Z"
   },
   {
     "site": "Hatena",
@@ -30,28 +54,10 @@
     "pubDate": "2026-10-10T01:29:35.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
-    "link": "https://togetter.com/li/2756407",
-    "pubDate": "2026-10-10T00:50:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "分析の民主化を支えるメタデータ整備の実践",
-    "link": "https://speakerdeck.com/kakehashi/democratizing-data-with-metadata",
-    "pubDate": "2026-10-10T00:20:30.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "寄りの巻き戻しと、横に並べている14本の参考記録を図で整理した（振り返り第6回）",
     "link": "https://zenn.dev/denny/articles/open-revert-reference-records",
     "pubDate": "Sat, 10 Oct 2026 00:00:16 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2147318.html",
-    "pubDate": "2026-10-09T23:24:10.000Z"
   },
   {
     "site": "Hatena",
@@ -172,11 +178,5 @@
     "title": "すでにWEBデザイナーの8割は不要である",
     "link": "https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-07T14:19:19.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Domain model purity vs. domain model completeness (DDD Trilemma)",
-    "link": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
-    "pubDate": "2023-01-23T12:21:49.000Z"
   }
 ]
