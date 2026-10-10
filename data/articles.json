@@ -1,9 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "「マニピュレータ動的制御のための新しいフィードバック制御」竹垣，有本",
+    "link": "https://zenn.dev/zhidao/articles/e5982e81b6dbbf",
+    "pubDate": "Sat, 10 Oct 2026 09:41:00 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "フィリピンではコールセンター・英語教師・ソフトウェアエンジニアという外貨獲得の3本立てがAIによって大幅に縮小されると危惧する「若い人口が多いのにどうするの？」",
-    "link": "https://togetter.com/li/2756420",
-    "pubDate": "2026-10-10T00:53:02.000Z"
+    "title": "個人情報漏洩が日常になってしまった世界でどうしていくべきか",
+    "link": "https://nyosegawa.com/posts/data-leak-era/",
+    "pubDate": "2026-10-10T07:36:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析",
+    "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
+    "pubDate": "2026-10-10T05:13:12.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+    "link": "https://future-architect.github.io/articles/20261009a/",
+    "pubDate": "2026-10-10T01:47:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
+    "link": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+    "pubDate": "2026-10-10T01:29:35.000Z"
   },
   {
     "site": "Hatena",
@@ -13,21 +37,27 @@
   },
   {
     "site": "Hatena",
-    "title": "「バイトル」会員メアド最大約389万件漏えい　海外から「仕様不備」突く不正アクセス",
-    "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002186/",
-    "pubDate": "2026-10-09T23:10:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/10/10/5571.html",
-    "pubDate": "2026-10-09T21:44:57.000Z"
+    "title": "分析の民主化を支えるメタデータ整備の実践",
+    "link": "https://speakerdeck.com/kakehashi/democratizing-data-with-metadata",
+    "pubDate": "2026-10-10T00:20:30.000Z"
   },
   {
     "site": "Zenn",
-    "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
-    "link": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3",
-    "pubDate": "2026-10-09T15:12:30.000Z"
+    "title": "寄りの巻き戻しと、横に並べている14本の参考記録を図で整理した（振り返り第6回）",
+    "link": "https://zenn.dev/denny/articles/open-revert-reference-records",
+    "pubDate": "Sat, 10 Oct 2026 00:00:16 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2147318.html",
+    "pubDate": "2026-10-09T23:24:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI駆動開発の時代になったのでトヨタ生産方式から見直す",
+    "link": "https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu",
+    "pubDate": "2026-10-09T15:18:20.000Z"
   },
   {
     "site": "Qiita",
@@ -36,22 +66,64 @@
     "pubDate": "2026-10-09T15:02:21.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は",
-    "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
-    "pubDate": "2026-10-09T13:16:53.000Z"
+    "site": "Qiita",
+    "title": "【Vercel / microCMS】ローカル環境で閲覧できたmicroCMSの記事がVercelでは閲覧できなくなっていた現象",
+    "link": "https://qiita.com/nagi-0106/items/bcd138b49c446f7df037?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-09T14:14:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
-    "link": "https://av.watch.impress.co.jp/docs/news/2147140.html",
-    "pubDate": "2026-10-09T12:18:27.000Z"
+    "site": "Qiita",
+    "title": "【React】zodのbrandで値オブジェクトを実装する（classを使わない方法）",
+    "link": "https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-09T14:12:41.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
-    "link": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
-    "pubDate": "2026-10-09T11:35:53.000Z"
+    "site": "Qiita",
+    "title": "とりあえずTypeScriptのコード書いて挙動を確認したいだけなのに、eslint警告「TS6133: 変数名 is declared but its value is never read.」が出てdisableしても1つ目の変数しか抑制されない",
+    "link": "https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-09T13:33:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "社外の人はPower BIのゲートウェイを立てられなかった話",
+    "link": "https://zenn.dev/tomojoz/articles/dac7b46967c993",
+    "pubDate": "Fri, 09 Oct 2026 13:08:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "昔書いたRSpecのand_invokeの記事を最新のrspec-mocksで検証し直した",
+    "link": "https://zenn.dev/kyto64/articles/rspec-and-invoke-revisited",
+    "pubDate": "Fri, 09 Oct 2026 12:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "若手エンジニアに必要だと感じた「AIを使う力」",
+    "link": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+    "pubDate": "2026-10-09T10:44:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
+    "link": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
+    "pubDate": "Fri, 09 Oct 2026 10:40:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "初AIコーディング記録：Brain第1世代でLinuxを動くようにした話",
+    "link": "https://zenn.dev/tnishinaga/articles/ee0b6cf4f8683d",
+    "pubDate": "Fri, 09 Oct 2026 10:29:52 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS Cost ExplorerのAmazon Bedrock製品属性で、できることとできないことを確認してみた",
+    "link": "https://zenn.dev/fusic/articles/c34f48e0ab811e",
+    "pubDate": "Fri, 09 Oct 2026 10:22:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "dbt Wizard vs Claude Code: 同じdbtタスクを頼んで挙動の違いを見てみた",
+    "link": "https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try",
+    "pubDate": "Fri, 09 Oct 2026 10:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -60,28 +132,10 @@
     "pubDate": "2026-10-09T08:57:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2146950.html",
-    "pubDate": "2026-10-09T05:51:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "約 0.5 GiB のダウンロードで SSD に 6 GiB 書いていた — Steam のゲーム更新 1 件を実測し、減らせる場所を探した",
-    "link": "https://zenn.dev/berobero/articles/steam-update-ssd-writes",
-    "pubDate": "Fri, 09 Oct 2026 03:32:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Notion や Slack から AI に仕事を依頼できる仕組みを Claude Code Routines で作った",
-    "link": "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
-    "pubDate": "Fri, 09 Oct 2026 02:47:29 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントにMicrosoft Fabricを操作させる ― Fabric CLIとSkills for Fabric",
-    "link": "https://zenn.dev/headwaters/articles/12175106cd8c79",
-    "pubDate": "Thu, 08 Oct 2026 23:00:05 GMT"
+    "site": "Qiita",
+    "title": "LINEbotを作る ～今あるものを再現する～",
+    "link": "https://qiita.com/yukina24/items/276f0d959aacb6b73bd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-08T23:03:59.000Z"
   },
   {
     "site": "Qiita",
@@ -102,12 +156,6 @@
     "pubDate": "2026-10-08T17:49:14.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Jevをやってみよう",
-    "link": "https://qiita.com/moritalous/items/11b182fe57a20536a4d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-08T12:29:41.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
     "link": "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
@@ -121,57 +169,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Win32は死なズ #3 高DPIに対応させる",
-    "link": "https://qiita.com/mamPol/items/7abef4a65d0e3d198adf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-08T10:23:55.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "若手エンジニアに必要だと感じた「AIを使う力」",
-    "link": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
-    "pubDate": "Thu, 08 Oct 2026 08:29:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSSの`text-box`で文字を上下中央に揃えたい",
-    "link": "https://zenn.dev/chot/articles/be424332489e7a",
-    "pubDate": "Thu, 08 Oct 2026 06:20:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "🔓2026年9〜10月の情報漏洩19件、公表文を全部読んで考えたこと",
-    "link": "https://zenn.dev/bita/articles/1616afdb93c4a6",
-    "pubDate": "Thu, 08 Oct 2026 00:43:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【三次元再構成入門】多視点の画像から3D空間を復元する仕組み - カメラパラメータとSfM",
-    "link": "https://zenn.dev/dalab/articles/9ba129c4647844",
-    "pubDate": "Thu, 08 Oct 2026 00:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake Agent Identity 徹底解説",
-    "link": "https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction",
-    "pubDate": "Wed, 07 Oct 2026 22:00:05 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "すでにWEBデザイナーの8割は不要である",
     "link": "https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-07T14:19:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Strands Deciderハンズオン！",
-    "link": "https://qiita.com/har1101/items/cf5e734358e09f2410d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-07T05:25:40.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
-    "link": "https://qiita.com/shinkai_/items/4c6c12324e115a125621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-06T23:02:40.000Z"
   },
   {
     "site": "Hatena",
