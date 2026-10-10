@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "フィリピンではコールセンター・英語教師・ソフトウェアエンジニアという外貨獲得の3本立てがAIによって大幅に縮小されると危惧する「若い人口が多いのにどうするの？」",
+    "link": "https://togetter.com/li/2756420",
+    "pubDate": "2026-10-10T00:53:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
+    "link": "https://togetter.com/li/2756407",
+    "pubDate": "2026-10-10T00:50:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「バイトル」会員メアド最大約389万件漏えい　海外から「仕様不備」突く不正アクセス",
+    "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002186/",
+    "pubDate": "2026-10-09T23:10:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/10/10/5571.html",
+    "pubDate": "2026-10-09T21:44:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
+    "link": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3",
+    "pubDate": "2026-10-09T15:12:30.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "「国にお金がない」は本当か？ ― 通貨主権・学校教育・財政言説から考える国家レジリエンス : システム設計視点の行動経済学 (39)",
     "link": "https://qiita.com/maskot1977/items/4ac81e4b11bf162de955?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7,27 +37,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Deno is joining Cloudflare | Deno",
-    "link": "https://deno.com/blog/cloudflare",
-    "pubDate": "2026-10-09T13:21:58.000Z"
+    "title": "「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は",
+    "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
+    "pubDate": "2026-10-09T13:16:53.000Z"
   },
   {
     "site": "Hatena",
-    "title": "相次ぐサイバー攻撃被害。国家サイバー統括室が事業者に対策徹底を要請",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2147200.html",
-    "pubDate": "2026-10-09T12:15:48.000Z"
+    "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
+    "link": "https://av.watch.impress.co.jp/docs/news/2147140.html",
+    "pubDate": "2026-10-09T12:18:27.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【速報】AIで調べた判例実在せず書籍絶版",
-    "link": "https://www.47news.jp/15060645.html",
-    "pubDate": "2026-10-09T11:55:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "An opt-in vulnerability-finding service for open-source software",
-    "link": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
-    "pubDate": "2026-10-09T09:25:04.000Z"
+    "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
+    "link": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
+    "pubDate": "2026-10-09T11:35:53.000Z"
   },
   {
     "site": "Qiita",
@@ -37,39 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Claude、SQL不要でデータ分析可能に - ダッシュボードを自動生成する新機能",
-    "link": "https://news.mynavi.jp/techplus/article/20261009-5099252/",
-    "pubDate": "2026-10-09T08:31:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261009de57294",
-    "pubDate": "2026-10-09T08:13:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社",
-    "link": "https://www.non-standardworld.co.jp/stone-engine-js/",
-    "pubDate": "2026-10-09T08:06:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
-    "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
-    "pubDate": "2026-10-09T06:26:14.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく",
     "link": "https://forest.watch.impress.co.jp/docs/news/2146950.html",
     "pubDate": "2026-10-09T05:51:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料",
-    "link": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html",
-    "pubDate": "2026-10-09T05:32:26.000Z"
   },
   {
     "site": "Zenn",
@@ -106,18 +100,6 @@
     "title": "判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）",
     "link": "https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-08T17:49:14.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "半陽的微分代数方程式の解を微分する：VJP編",
-    "link": "https://zenn.dev/wheatear11/articles/c293bb49ad3ae7",
-    "pubDate": "Thu, 08 Oct 2026 17:45:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "有線が届かないデスクトップPCをWi-Fi化した話",
-    "link": "https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed",
-    "pubDate": "Thu, 08 Oct 2026 13:10:50 GMT"
   },
   {
     "site": "Qiita",
@@ -162,6 +144,18 @@
     "pubDate": "Thu, 08 Oct 2026 00:43:37 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "【三次元再構成入門】多視点の画像から3D空間を復元する仕組み - カメラパラメータとSfM",
+    "link": "https://zenn.dev/dalab/articles/9ba129c4647844",
+    "pubDate": "Thu, 08 Oct 2026 00:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake Agent Identity 徹底解説",
+    "link": "https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction",
+    "pubDate": "Wed, 07 Oct 2026 22:00:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "すでにWEBデザイナーの8割は不要である",
     "link": "https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -178,5 +172,11 @@
     "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
     "link": "https://qiita.com/shinkai_/items/4c6c12324e115a125621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-06T23:02:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Domain model purity vs. domain model completeness (DDD Trilemma)",
+    "link": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
+    "pubDate": "2023-01-23T12:21:49.000Z"
   }
 ]
