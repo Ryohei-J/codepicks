@@ -1,5 +1,11 @@
 [
   {
+    "site": "Zenn",
+    "title": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
+    "link": "https://zenn.dev/mattn/articles/6e9996319ac099",
+    "pubDate": "2026-10-10T17:16:51.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog",
     "link": "https://piyolog.hatenadiary.jp/entry/2026/10/11/004353",
@@ -10,12 +16,6 @@
     "title": "「IDCFクラウド」で何が起きたのか　情報漏洩や復旧の可能性について現在分かっていること（山口健太） - エキスパート - Yahoo!ニュース",
     "link": "https://news.yahoo.co.jp/expert/articles/cce6d03439ffb1d2d6de2500240634b394731753",
     "pubDate": "2026-10-10T10:29:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アンソロピックのAI、米警察に虚偽の情報提供　不正にビザ申請も - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN101I30Q6A011C2000000/",
-    "pubDate": "2026-10-10T10:08:49.000Z"
   },
   {
     "site": "Zenn",
@@ -30,6 +30,12 @@
     "pubDate": "2026-10-10T09:04:42.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス",
+    "link": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-10T07:41:11.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "個人情報漏洩が日常になってしまった世界でどうしていくべきか",
     "link": "https://nyosegawa.com/posts/data-leak-era/",
@@ -40,6 +46,12 @@
     "title": "日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析",
     "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
     "pubDate": "2026-10-10T05:13:12.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Satori GCをMSBuild SDKとして公開しました！",
+    "link": "https://qiita.com/hez2010/items/7334840a4e96851f5a0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-10T04:20:27.000Z"
   },
   {
     "site": "Hatena",
@@ -64,30 +76,6 @@
     "title": "AI駆動開発の時代になったのでトヨタ生産方式から見直す",
     "link": "https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu",
     "pubDate": "2026-10-09T15:18:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「国にお金がない」は本当か？ ― 通貨主権・学校教育・財政言説から考える国家レジリエンス : システム設計視点の行動経済学 (39)",
-    "link": "https://qiita.com/maskot1977/items/4ac81e4b11bf162de955?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-09T15:02:21.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Vercel / microCMS】ローカル環境で閲覧できたmicroCMSの記事がVercelでは閲覧できなくなっていた現象",
-    "link": "https://qiita.com/nagi-0106/items/bcd138b49c446f7df037?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-09T14:14:16.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【React】zodのbrandで値オブジェクトを実装する（classを使わない方法）",
-    "link": "https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-09T14:12:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "とりあえずTypeScriptのコード書いて挙動を確認したいだけなのに、eslint警告「TS6133: 変数名 is declared but its value is never read.」が出てdisableしても1つ目の変数しか抑制されない",
-    "link": "https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-09T13:33:04.000Z"
   },
   {
     "site": "Zenn",
@@ -139,9 +127,21 @@
   },
   {
     "site": "Qiita",
-    "title": "LINEbotを作る ～今あるものを再現する～",
-    "link": "https://qiita.com/yukina24/items/276f0d959aacb6b73bd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-08T23:03:59.000Z"
+    "title": "コメント欄にはなぜチンパンジーしかいないのか",
+    "link": "https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-09T08:28:24.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Vite】Could not resolve entry module “react-router” の解決方法",
+    "link": "https://qiita.com/shun123/items/07f09fd8602cc186d8ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-09T04:15:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「最大30日」と回答する前に、Amazon BedrockでOpenAIのモデルに送った文がどこに何日残るか確かめた話（2026年版）",
+    "link": "https://qiita.com/ntaka329/items/1ad9131353e51c5b99fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-09T01:52:13.000Z"
   },
   {
     "site": "Qiita",
@@ -175,8 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "すでにWEBデザイナーの8割は不要である",
-    "link": "https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-07T14:19:19.000Z"
+    "title": "なぜ最新のIoT家電は2.4GHzが主流なのか？Wi-Fi周波数の選定理由と技術的背景",
+    "link": "https://qiita.com/sc-noguchi/items/b791f8cd3885816e2b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-08T05:04:38.000Z"
   }
 ]
