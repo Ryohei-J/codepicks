@@ -1,9 +1,39 @@
 [
   {
     "site": "Zenn",
+    "title": "オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ",
+    "link": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
+    "pubDate": "2026-10-11T01:59:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
+    "link": "https://togetter.com/li/2756720",
+    "pubDate": "2026-10-10T23:55:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
+    "link": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
+    "pubDate": "2026-10-10T22:12:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Yandexのデータセンター障害についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
+    "pubDate": "2026-10-10T21:06:31.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
     "link": "https://zenn.dev/mattn/articles/6e9996319ac099",
     "pubDate": "2026-10-10T17:16:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
+    "link": "https://zenn.dev/mattn/articles/6e9996319ac099",
+    "pubDate": "Sat, 10 Oct 2026 17:16:42 GMT"
   },
   {
     "site": "Hatena",
@@ -12,40 +42,34 @@
     "pubDate": "2026-10-10T15:48:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「IDCFクラウド」で何が起きたのか　情報漏洩や復旧の可能性について現在分かっていること（山口健太） - エキスパート - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/expert/articles/cce6d03439ffb1d2d6de2500240634b394731753",
-    "pubDate": "2026-10-10T10:29:31.000Z"
+    "site": "Zenn",
+    "title": "2025 年 10 月から 2026 年 10 月までの Mozc に対する主な変更",
+    "link": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2025_10",
+    "pubDate": "Sat, 10 Oct 2026 14:30:00 GMT"
   },
   {
     "site": "Zenn",
-    "title": "「マニピュレータ動的制御のための新しいフィードバック制御」竹垣，有本",
-    "link": "https://zenn.dev/zhidao/articles/e5982e81b6dbbf",
-    "pubDate": "Sat, 10 Oct 2026 09:41:00 GMT"
+    "title": "音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【前編】",
+    "link": "https://zenn.dev/mkj/articles/speech-tts-japanese-2026",
+    "pubDate": "2026-10-10T13:59:47.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対応",
-    "link": "https://readest.com/ja",
-    "pubDate": "2026-10-10T09:04:42.000Z"
+    "title": "子育てエンジニアの可処分時間が減っても成長を諦めない戦い方",
+    "link": "https://speakerdeck.com/sudoakiy/kosodate-enjinia-no-kashobun-jikan-ga-he-temo-seichou-o-akiramenai-tatakaikata",
+    "pubDate": "2026-10-10T10:53:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+    "link": "https://gigazine.net/news/20261010-readest/",
+    "pubDate": "2026-10-10T09:16:40.000Z"
   },
   {
     "site": "Qiita",
     "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス",
     "link": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-10T07:41:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "個人情報漏洩が日常になってしまった世界でどうしていくべきか",
-    "link": "https://nyosegawa.com/posts/data-leak-era/",
-    "pubDate": "2026-10-10T07:36:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析",
-    "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
-    "pubDate": "2026-10-10T05:13:12.000Z"
   },
   {
     "site": "Qiita",
@@ -55,69 +79,9 @@
   },
   {
     "site": "Hatena",
-    "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20261009a/",
-    "pubDate": "2026-10-10T01:47:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
-    "link": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
-    "pubDate": "2026-10-10T01:29:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "寄りの巻き戻しと、横に並べている14本の参考記録を図で整理した（振り返り第6回）",
-    "link": "https://zenn.dev/denny/articles/open-revert-reference-records",
-    "pubDate": "Sat, 10 Oct 2026 00:00:16 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI駆動開発の時代になったのでトヨタ生産方式から見直す",
-    "link": "https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu",
-    "pubDate": "2026-10-09T15:18:20.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "社外の人はPower BIのゲートウェイを立てられなかった話",
-    "link": "https://zenn.dev/tomojoz/articles/dac7b46967c993",
-    "pubDate": "Fri, 09 Oct 2026 13:08:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "昔書いたRSpecのand_invokeの記事を最新のrspec-mocksで検証し直した",
-    "link": "https://zenn.dev/kyto64/articles/rspec-and-invoke-revisited",
-    "pubDate": "Fri, 09 Oct 2026 12:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "若手エンジニアに必要だと感じた「AIを使う力」",
-    "link": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
-    "pubDate": "2026-10-09T10:44:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
-    "link": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
-    "pubDate": "Fri, 09 Oct 2026 10:40:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "初AIコーディング記録：Brain第1世代でLinuxを動くようにした話",
-    "link": "https://zenn.dev/tnishinaga/articles/ee0b6cf4f8683d",
-    "pubDate": "Fri, 09 Oct 2026 10:29:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS Cost ExplorerのAmazon Bedrock製品属性で、できることとできないことを確認してみた",
-    "link": "https://zenn.dev/fusic/articles/c34f48e0ab811e",
-    "pubDate": "Fri, 09 Oct 2026 10:22:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "dbt Wizard vs Claude Code: 同じdbtタスクを頼んで挙動の違いを見てみた",
-    "link": "https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try",
-    "pubDate": "Fri, 09 Oct 2026 10:00:05 GMT"
+    "title": "ゼロトラストを導入していたはずのデジタル庁に不正アクセス……原因は導入後の「見えない借金」にあった",
+    "link": "https://enterprisezine.jp/article/detail/25178",
+    "pubDate": "2026-10-09T23:38:25.000Z"
   },
   {
     "site": "Qiita",
@@ -138,10 +102,22 @@
     "pubDate": "2026-10-09T04:15:14.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Code Routines で Notion や Slack から AI に仕事を依頼できる仕組みを作った",
+    "link": "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
+    "pubDate": "Fri, 09 Oct 2026 02:47:29 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "「最大30日」と回答する前に、Amazon BedrockでOpenAIのモデルに送った文がどこに何日残るか確かめた話（2026年版）",
     "link": "https://qiita.com/ntaka329/items/1ad9131353e51c5b99fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-09T01:52:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントにMicrosoft Fabricを操作させる ― Fabric CLIとSkills for Fabric",
+    "link": "https://zenn.dev/headwaters/articles/12175106cd8c79",
+    "pubDate": "Thu, 08 Oct 2026 23:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -174,9 +150,33 @@
     "pubDate": "2026-10-08T11:23:41.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "若手エンジニアに必要だと感じた「AIを使う力」",
+    "link": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+    "pubDate": "Thu, 08 Oct 2026 08:29:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "CSSの`text-box`で文字を上下中央に揃えたい",
+    "link": "https://zenn.dev/chot/articles/be424332489e7a",
+    "pubDate": "Thu, 08 Oct 2026 06:20:08 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "なぜ最新のIoT家電は2.4GHzが主流なのか？Wi-Fi周波数の選定理由と技術的背景",
     "link": "https://qiita.com/sc-noguchi/items/b791f8cd3885816e2b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-08T05:04:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【三次元再構成入門】多視点の画像から3D空間を復元する仕組み - カメラパラメータとSfM",
+    "link": "https://zenn.dev/dalab/articles/9ba129c4647844",
+    "pubDate": "Thu, 08 Oct 2026 00:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake Agent Identity 徹底解説",
+    "link": "https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction",
+    "pubDate": "Wed, 07 Oct 2026 22:00:05 GMT"
   }
 ]
