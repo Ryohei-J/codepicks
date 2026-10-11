@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる",
+    "link": "https://togetter.com/li/2756939",
+    "pubDate": "2026-10-11T12:39:51.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GitHub Actions上で証明書を付与するサプライチェーン構築 | おそらくはそれさえも平凡な日々",
     "link": "https://songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html",
     "pubDate": "2026-10-11T09:26:40.000Z"
@@ -13,15 +19,33 @@
   },
   {
     "site": "Hatena",
+    "title": "GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ",
+    "link": "https://note.com/humble_bobcat51/n/n64602c64db6c",
+    "pubDate": "2026-10-11T08:37:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
+    "link": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
+    "pubDate": "2026-10-11T08:34:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
+    "link": "https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-11T06:13:37.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
     "link": "https://gigazine.net/news/20261011-hayamimi/",
     "pubDate": "2026-10-11T04:33:54.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ",
-    "link": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
-    "pubDate": "2026-10-11T01:59:35.000Z"
+    "site": "Qiita",
+    "title": "Claude Codeの全セッションを1画面で管理するローカルダッシュボードをNext.jsで実装する",
+    "link": "https://qiita.com/masakazuimai/items/cd80e1e913532864b615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-11T01:43:20.000Z"
   },
   {
     "site": "Zenn",
@@ -30,22 +54,16 @@
     "pubDate": "Sun, 11 Oct 2026 00:56:36 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
-    "link": "https://togetter.com/li/2756720",
-    "pubDate": "2026-10-10T23:55:32.000Z"
+    "site": "Qiita",
+    "title": "Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い分け〜",
+    "link": "https://qiita.com/charge0315/items/fcec85cc5250e39bab97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-10T23:33:23.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「いいね」が正直わからん",
-    "link": "https://anond.hatelabo.jp/20261011075112",
-    "pubDate": "2026-10-10T22:52:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Yandexのデータセンター障害についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
-    "pubDate": "2026-10-10T21:06:31.000Z"
+    "site": "Qiita",
+    "title": "抽象的なことを考える時、無意識に具体化しないためのメモ",
+    "link": "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-10T20:02:27.000Z"
   },
   {
     "site": "Zenn",
@@ -73,9 +91,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Webエンジニアが自作コンテナを作って理解したDockerの正体",
-    "link": "https://qiita.com/CodeTea_Ping999/items/7088e1deb7859e28c8c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-10T10:09:20.000Z"
+    "title": "攻撃者はAndroidマルウェアをどのように遠隔操作しているのか",
+    "link": "https://qiita.com/masaomi346/items/97d4bc0ed248247f05fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-10T09:51:19.000Z"
   },
   {
     "site": "Qiita",
@@ -84,10 +102,10 @@
     "pubDate": "2026-10-10T07:41:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「男は狩り、女は採集」はどこまで本当？　約8割で女性も狩り、乳児連れの例も　過去100年の狩猟採集社会を調査",
-    "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
-    "pubDate": "2026-10-10T05:13:38.000Z"
+    "site": "Qiita",
+    "title": "GitHub Actionsでよくある3つの『見えない』脆弱性を、自前の静的解析で検出してみた",
+    "link": "https://qiita.com/vakoya_village/items/f7a457e6f51ad9c8aa4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-10T04:26:17.000Z"
   },
   {
     "site": "Zenn",
@@ -100,12 +118,6 @@
     "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
     "link": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
     "pubDate": "Fri, 09 Oct 2026 10:40:07 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "コード検索で使える正規表現の基本メタ文字まとめ",
-    "link": "https://qiita.com/Yuzuki-ki/items/31b98cf32c1db2d561d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-09T08:57:28.000Z"
   },
   {
     "site": "Zenn",
@@ -121,39 +133,15 @@
   },
   {
     "site": "Qiita",
-    "title": "AIが攻撃を自動実行する時代、セキュリティ資格は本当に古びたのか",
-    "link": "https://qiita.com/tasklog/items/c6dbb5bbf2c789c290fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-09T08:08:55.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Vite】Could not resolve entry module “react-router” の解決方法",
-    "link": "https://qiita.com/shun123/items/07f09fd8602cc186d8ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-09T04:15:14.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト",
     "link": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-08T22:11:35.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）",
-    "link": "https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-08T17:49:14.000Z"
   },
   {
     "site": "Zenn",
     "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
     "link": "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
     "pubDate": "Thu, 08 Oct 2026 11:42:21 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Win32は死なズ #3 高DPIに対応させる",
-    "link": "https://qiita.com/mamPol/items/7abef4a65d0e3d198adf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-08T10:23:55.000Z"
   },
   {
     "site": "Zenn",
@@ -172,6 +160,18 @@
     "title": "AI×アーキテクト | 技術評論社",
     "link": "https://gihyo.jp/book/2026/978-4-297-16033-3",
     "pubDate": "2026-10-06T04:01:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど5サービス対応の無料アプリ | Odds and Ends",
+    "link": "https://lyttonblog.com/programming/ebook-pdf-ocr/",
+    "pubDate": "2026-09-05T14:57:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ゼロトラストはキツくない｜「完成」を目指す運用がキツい | CloudNative BLOGs",
+    "link": "https://blog.cloudnative.co.jp/articles/answer-ai-era-zero-trust/",
+    "pubDate": "2026-08-10T23:08:46.000Z"
   },
   {
     "site": "Hatena",
