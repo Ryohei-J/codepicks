@@ -1,45 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "ビル・ゲイツ氏、AI悪用のサイバー攻撃増加を警告 「今後1年で顕著に」",
+    "link": "https://www.afpbb.com/articles/-/3657090",
+    "pubDate": "2026-10-12T02:47:23.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本が急にハッキング被害の一斉標的にされたのは日本語がAIで解読されたことが原因のひとつなのか？…技術的にはずっとハッキングされていたが被害になったのはそれかも",
+    "link": "https://togetter.com/li/2757116",
+    "pubDate": "2026-10-12T01:58:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿　統制はモデルの外に置くよう提言",
+    "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+    "pubDate": "2026-10-12T01:35:17.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "個人情報の流出にユーザーはどう備える？　乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
+    "pubDate": "2026-10-12T01:17:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
+    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
+    "pubDate": "2026-10-11T22:07:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run",
+    "link": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
+    "pubDate": "2026-10-11T15:00:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Besu ローカル環境構築ハンズオン",
+    "link": "https://zenn.dev/komlock_lab/articles/besu-local-network-handson",
+    "pubDate": "Sun, 11 Oct 2026 14:28:19 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる",
     "link": "https://togetter.com/li/2756939",
     "pubDate": "2026-10-11T12:39:51.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GitHub Actions上で証明書を付与するサプライチェーン構築 | おそらくはそれさえも平凡な日々",
-    "link": "https://songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html",
-    "pubDate": "2026-10-11T09:26:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Hono in this era",
-    "link": "https://slides.yusu.ke/honoconf-2026",
-    "pubDate": "2026-10-11T09:03:48.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ",
-    "link": "https://note.com/humble_bobcat51/n/n64602c64db6c",
-    "pubDate": "2026-10-11T08:37:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
-    "link": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
-    "pubDate": "2026-10-11T08:34:08.000Z"
+    "title": "証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話",
+    "link": "https://toruoka.xyz/202610_security_key/",
+    "pubDate": "2026-10-11T12:13:54.000Z"
   },
   {
     "site": "Qiita",
     "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
     "link": "https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-11T06:13:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
-    "link": "https://gigazine.net/news/20261011-hayamimi/",
-    "pubDate": "2026-10-11T04:33:54.000Z"
   },
   {
     "site": "Qiita",
@@ -64,6 +82,12 @@
     "title": "抽象的なことを考える時、無意識に具体化しないためのメモ",
     "link": "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-10T20:02:27.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
+    "link": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
+    "pubDate": "2026-10-10T18:04:33.000Z"
   },
   {
     "site": "Zenn",
@@ -133,6 +157,12 @@
   },
   {
     "site": "Qiita",
+    "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト - Qiita",
+    "link": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b",
+    "pubDate": "2026-10-09T00:05:54.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト",
     "link": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-08T22:11:35.000Z"
@@ -148,35 +178,5 @@
     "title": "若手エンジニアに必要だと感じた「AIを使う力」",
     "link": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
     "pubDate": "Thu, 08 Oct 2026 08:29:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "CSSの`text-box`で文字を上下中央に揃えたい",
-    "link": "https://zenn.dev/chot/articles/be424332489e7a",
-    "pubDate": "Thu, 08 Oct 2026 06:20:08 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI×アーキテクト | 技術評論社",
-    "link": "https://gihyo.jp/book/2026/978-4-297-16033-3",
-    "pubDate": "2026-10-06T04:01:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど5サービス対応の無料アプリ | Odds and Ends",
-    "link": "https://lyttonblog.com/programming/ebook-pdf-ocr/",
-    "pubDate": "2026-09-05T14:57:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ゼロトラストはキツくない｜「完成」を目指す運用がキツい | CloudNative BLOGs",
-    "link": "https://blog.cloudnative.co.jp/articles/answer-ai-era-zero-trust/",
-    "pubDate": "2026-08-10T23:08:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【コピペ卒業】Kindle・電子書籍をPDF化＆OCRするアプリを作りました｜リットン｜電子書籍・Python・生成AIで遊ぶ金融マン",
-    "link": "https://note.com/lytton_life/n/n838e58f5aff8",
-    "pubDate": "2026-05-29T04:52:09.000Z"
   }
 ]
