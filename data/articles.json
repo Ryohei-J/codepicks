@@ -1,21 +1,75 @@
 [
   {
     "site": "Hatena",
+    "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2147849.html",
+    "pubDate": "2026-10-14T00:44:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI、家電乗っ取り増殖の恐れ　アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
+    "pubDate": "2026-10-13T23:42:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini",
+    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147381.html",
+    "pubDate": "2026-10-13T23:36:02.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+    "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
+    "pubDate": "2026-10-13T22:35:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "画像は「言葉だけ」でどこまで送れるか――中間特徴とプロンプト再生成を比較した小規模検証",
+    "link": "https://zenn.dev/lube8163/articles/594bea1c0f8397",
+    "pubDate": "Tue, 13 Oct 2026 17:58:32 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "話題の逆解析 MCP「REA」を Claude Code に隔離してつないだ——静的解析の A/B 試験と安全設計",
+    "link": "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
+    "pubDate": "Tue, 13 Oct 2026 17:54:44 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2147842.html",
+    "pubDate": "2026-10-13T17:22:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Redesigning source control at Anthropic",
     "link": "https://www.anthropic.com/engineering/redesigning-source-control",
     "pubDate": "2026-10-13T17:17:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "米Getty Imagesが破産申請へ　AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
-    "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002234/",
-    "pubDate": "2026-10-13T14:03:48.000Z"
+    "site": "Zenn",
+    "title": "【Crackmes.one】x64dbgでパスワード解析",
+    "link": "https://zenn.dev/otinpan/articles/8557e9c3930540",
+    "pubDate": "Tue, 13 Oct 2026 15:58:13 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "EmDash を pnpm の 7 日ルールで入れ直したら、つまずいたところ",
+    "link": "https://zenn.dev/n_tong/articles/5ea0a290d8923d",
+    "pubDate": "Tue, 13 Oct 2026 14:56:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SwiftDataのrollback()、iOS 27で黙って挙動が変わっていた",
+    "link": "https://zenn.dev/kzq/articles/swiftdata-rollback-ios27",
+    "pubDate": "Tue, 13 Oct 2026 14:09:49 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Appleがスマートホーム製品に本格進出　LGらと共同開発したスマートロックや屋内外用カメラなどを含む「Apple Home Collection」を発表",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2610/13/news112.html",
-    "pubDate": "2026-10-13T14:03:40.000Z"
+    "title": "エンターテインメントを楽しみ、家を管理する新しい方法、Apple HomeViewが登場",
+    "link": "https://www.apple.com/jp/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+    "pubDate": "2026-10-13T14:02:42.000Z"
   },
   {
     "site": "Hatena",
@@ -25,27 +79,21 @@
   },
   {
     "site": "Hatena",
-    "title": "ブックオフ、約642万件の会員データ漏洩　退会会員も対象 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC135N90T11C26A0000000/",
-    "pubDate": "2026-10-13T11:49:15.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "あなたの『Amazon Kindle』は最新モデルへ買い替えるべき？ 歴代モデル徹底比較【山口真弘のおすすめ読書タブレット比較】",
     "link": "https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2147295.html",
     "pubDate": "2026-10-13T09:34:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【速報】PayPay証券　障害で日本株の取引停止　14日の予約注文も停止　復旧めど立たず",
-    "link": "https://news.tv-asahi.co.jp/news_economy/articles/000539845.html",
-    "pubDate": "2026-10-13T09:20:42.000Z"
+    "site": "Zenn",
+    "title": "AI-DLC富山合宿に参加してみた",
+    "link": "https://zenn.dev/nuance/articles/ai-dlc-toyama-camp-2026",
+    "pubDate": "Tue, 13 Oct 2026 09:32:44 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起）",
-    "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000680.html",
-    "pubDate": "2026-10-13T07:55:36.000Z"
+    "site": "Zenn",
+    "title": "Azure SRE Agent から Azure SRE Agent を呼ぶときに認証エラーになる件",
+    "link": "https://zenn.dev/maaya8585/articles/b1160260c86805",
+    "pubDate": "Tue, 13 Oct 2026 07:43:12 GMT"
   },
   {
     "site": "Qiita",
@@ -60,10 +108,16 @@
     "pubDate": "2026-10-13T05:20:16.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構",
-    "link": "https://www.nict.go.jp/press/2026/10/13-1.html",
-    "pubDate": "2026-10-13T05:15:17.000Z"
+    "site": "Zenn",
+    "title": "見えない原因に、統計学は何を言えるようになったか：交絡の歴史",
+    "link": "https://zenn.dev/takyas/articles/dd6bef15d2d5f0",
+    "pubDate": "Tue, 13 Oct 2026 04:58:59 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス",
+    "link": "https://zenn.dev/nexta_/articles/unit-testing-principles-essence",
+    "pubDate": "Tue, 13 Oct 2026 02:30:05 GMT"
   },
   {
     "site": "Hatena",
@@ -78,16 +132,16 @@
     "pubDate": "2026-10-13T01:28:41.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Next.js（Pages Router）+ react-i18next で多言語化を実装する",
+    "link": "https://zenn.dev/socialplus/articles/f363cdf24340cf",
+    "pubDate": "Tue, 13 Oct 2026 00:44:01 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Shift-JIS のファイルを Claude Code で1か所直したら、日本語が全部壊れて戻せなくなった",
     "link": "https://qiita.com/suwa_nobu/items/365d2561809fe1da8541?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-12T23:52:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLM-jp-4 の公開CPT・SFTデータを読んでみた",
-    "link": "https://zenn.dev/yukito_lmlab/articles/llmjp4-public-data",
-    "pubDate": "Mon, 12 Oct 2026 23:34:05 GMT"
   },
   {
     "site": "Qiita",
@@ -100,60 +154,6 @@
     "title": "【Oracle × Snowflake】ADB の Iceberg テーブルを AICAT経由で Snowflake から参照する",
     "link": "https://qiita.com/yushibats/items/bab0634ef6e52f1de33f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-12T16:11:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "dbt Docs v2で何ができるか、実際に触ってみた【dbt v2】",
-    "link": "https://zenn.dev/ryatora/articles/dbt-docs-v2-guide",
-    "pubDate": "Mon, 12 Oct 2026 14:45:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "PRコメントからKubernetesに訊く ~GitHub ActionsからA2Aエージェントをシークレットレスで繋ぐ~",
-    "link": "https://zenn.dev/hyeonjae/articles/secretless-a2a-github-actions-ja",
-    "pubDate": "Mon, 12 Oct 2026 14:31:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Canton Network ローカル環境構築ハンズオン",
-    "link": "https://zenn.dev/komlock_lab/articles/canton-localnet-handson",
-    "pubDate": "Mon, 12 Oct 2026 14:29:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GeoServerのCVE-2024-36401を攻略する (FFRI × NFLabs. Cybersecurity Challenge)",
-    "link": "https://zenn.dev/goroshirow/articles/ae8dbe7f62bfd3",
-    "pubDate": "Mon, 12 Oct 2026 14:06:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【2026年版】Fateで理解するローカルLLMの選び方",
-    "link": "https://zenn.dev/akari1106/articles/3a050fde72159d",
-    "pubDate": "Mon, 12 Oct 2026 13:17:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "コンテナとCI/CDの学習記録 part10",
-    "link": "https://zenn.dev/aymaymaym/articles/3d0d49fba7284f",
-    "pubDate": "Mon, 12 Oct 2026 13:05:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Crackmes.one】静的解析と動的解析で迷路型Crackmeを解く",
-    "link": "https://zenn.dev/otinpan/articles/5e7fff41ed645d",
-    "pubDate": "Mon, 12 Oct 2026 12:20:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "whisperの文字起こしにJevで話者ラベルを付けようとしたら、Jevは要らなかった",
-    "link": "https://zenn.dev/ik11235/articles/whisper-jev-speaker-label",
-    "pubDate": "Mon, 12 Oct 2026 10:30:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "GitHub Pages の証明書失効で Error 526 になったので Cloudflare Pages へ移行した",
-    "link": "https://zenn.dev/unsoluble_sugar/articles/6a3fd085a60ec6",
-    "pubDate": "Mon, 12 Oct 2026 09:43:09 GMT"
   },
   {
     "site": "Qiita",
