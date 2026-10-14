@@ -1,9 +1,87 @@
 [
   {
     "site": "Hatena",
+    "title": "【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア",
+    "link": "https://www.idcf.jp/news/topics/20261014001",
+    "pubDate": "2026-10-14T08:41:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z",
+    "link": "https://note.com/shi3zblog/n/ncb38d2978074",
+    "pubDate": "2026-10-14T06:49:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性",
+    "link": "https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/",
+    "pubDate": "2026-10-14T06:06:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発",
+    "link": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
+    "pubDate": "2026-10-14T04:36:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "SBI証券のFXで“誤ロスカット”　再委託先IIJが作業ミス、システムでも検知できず　779口座が対象",
+    "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002249/",
+    "pubDate": "2026-10-14T03:40:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ゲーム開発に生成AIはどこまで許容される？ ドラクエの堀井雄二氏が30分で作った推理ゲームの衝撃 #エキスパートトピ（多根清史） - エキスパート - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/expert/articles/3c9a8fadb0d9dee44199522b188a8f37f9526d19",
+    "pubDate": "2026-10-14T03:08:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon ",
+    "link": "https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-14T02:48:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "mobile_scanner で本の ISBN を読む。裏表紙の2段バーコードは両方 EAN-13 だった",
+    "link": "https://zenn.dev/hk_work/articles/mobile-scanner-isbn-barcode",
+    "pubDate": "Wed, 14 Oct 2026 02:00:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "開発しながら同じPCでローカルLLMを動かしてみた話",
+    "link": "https://zenn.dev/sumasate_tec/articles/test-local-llm",
+    "pubDate": "Wed, 14 Oct 2026 01:31:20 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Unityで立体物の衣装が変わるプロジェクションマッピングを試作した",
+    "link": "https://zenn.dev/m_tk/articles/e39b61a8136a29",
+    "pubDate": "Wed, 14 Oct 2026 01:20:24 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Code の守りのフックは、台本が壊れると黙って通す。2.1.295 の onFailure で止まった",
+    "link": "https://qiita.com/suwa_nobu/items/afde8d73a48eb7badb71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-14T00:48:15.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
     "link": "https://forest.watch.impress.co.jp/docs/news/2147849.html",
     "pubDate": "2026-10-14T00:44:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Amazon BedrockとSageMakerのAIエージェントでOpenTelemetryの自動計装が行われる範囲",
+    "link": "https://zenn.dev/ymotongpoo/articles/20261014-bedrock-sagemaker-otel",
+    "pubDate": "Wed, 14 Oct 2026 00:00:08 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Nimの引数パーサーにconfutilsを採用してみた",
+    "link": "https://zenn.dev/attakei/articles/introduce-nim-confutils",
+    "pubDate": "Wed, 14 Oct 2026 00:00:07 GMT"
   },
   {
     "site": "Hatena",
@@ -18,10 +96,22 @@
     "pubDate": "2026-10-13T23:36:02.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
-    "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
-    "pubDate": "2026-10-13T22:35:12.000Z"
+    "site": "Qiita",
+    "title": "BlogでたどるSelect AI入門：多言語からAI Ready Data、SQL＋RAGまで整理してみてみた",
+    "link": "https://qiita.com/shirok/items/3661216f00cc9f5629cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-13T23:23:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Rustのstrumでenumの管理が簡単になる【備忘】",
+    "link": "https://zenn.dev/echigo/articles/c527aaedfd021b",
+    "pubDate": "Tue, 13 Oct 2026 23:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "『現場で役立つシステム設計の原則』を読んで学んだこと、実践したこと、これからやりたいこと",
+    "link": "https://zenn.dev/wwwave/articles/38b8284f96bd9e",
+    "pubDate": "Tue, 13 Oct 2026 22:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -36,40 +126,22 @@
     "pubDate": "Tue, 13 Oct 2026 17:54:44 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2147842.html",
-    "pubDate": "2026-10-13T17:22:11.000Z"
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 28",
+    "link": "https://qiita.com/maskot1977/items/fa75e8e9cd61a2f2a22f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-13T15:07:13.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Redesigning source control at Anthropic",
-    "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "pubDate": "2026-10-13T17:17:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Crackmes.one】x64dbgでパスワード解析",
-    "link": "https://zenn.dev/otinpan/articles/8557e9c3930540",
-    "pubDate": "Tue, 13 Oct 2026 15:58:13 GMT"
+    "site": "Qiita",
+    "title": "Private Agent Factory 26.7 の Custom Flow を A2A（Agent2Agent） で呼び出してみた",
+    "link": "https://qiita.com/yuji-arakawa/items/ac606c89728cb4dc2454?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-13T14:18:01.000Z"
   },
   {
     "site": "Zenn",
-    "title": "EmDash を pnpm の 7 日ルールで入れ直したら、つまずいたところ",
-    "link": "https://zenn.dev/n_tong/articles/5ea0a290d8923d",
-    "pubDate": "Tue, 13 Oct 2026 14:56:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "SwiftDataのrollback()、iOS 27で黙って挙動が変わっていた",
-    "link": "https://zenn.dev/kzq/articles/swiftdata-rollback-ios27",
-    "pubDate": "Tue, 13 Oct 2026 14:09:49 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンターテインメントを楽しみ、家を管理する新しい方法、Apple HomeViewが登場",
-    "link": "https://www.apple.com/jp/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-    "pubDate": "2026-10-13T14:02:42.000Z"
+    "title": "AWS Lambda Web Functions × Hono - アダプター不要のサーバーレスWeb開発",
+    "link": "https://zenn.dev/the_exile/articles/lambda-web-functions-hono",
+    "pubDate": "Tue, 13 Oct 2026 13:11:58 GMT"
   },
   {
     "site": "Hatena",
@@ -78,64 +150,10 @@
     "pubDate": "2026-10-13T12:43:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "あなたの『Amazon Kindle』は最新モデルへ買い替えるべき？ 歴代モデル徹底比較【山口真弘のおすすめ読書タブレット比較】",
-    "link": "https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2147295.html",
-    "pubDate": "2026-10-13T09:34:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI-DLC富山合宿に参加してみた",
-    "link": "https://zenn.dev/nuance/articles/ai-dlc-toyama-camp-2026",
-    "pubDate": "Tue, 13 Oct 2026 09:32:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Azure SRE Agent から Azure SRE Agent を呼ぶときに認証エラーになる件",
-    "link": "https://zenn.dev/maaya8585/articles/b1160260c86805",
-    "pubDate": "Tue, 13 Oct 2026 07:43:12 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIで作ったらオリジナルじゃないらしい。んなわけあるか。",
     "link": "https://qiita.com/kentawata/items/c78381bfe83e93e75893?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-13T05:25:53.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Jev vs Gemini Flash Lite — DeepEvalでLLM-as-a-Judgeを比較してみた",
-    "link": "https://qiita.com/take-yoda/items/136d1f5a4deea203c718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-13T05:20:16.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "見えない原因に、統計学は何を言えるようになったか：交絡の歴史",
-    "link": "https://zenn.dev/takyas/articles/dd6bef15d2d5f0",
-    "pubDate": "Tue, 13 Oct 2026 04:58:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス",
-    "link": "https://zenn.dev/nexta_/articles/unit-testing-principles-essence",
-    "pubDate": "Tue, 13 Oct 2026 02:30:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "リバースエンジニアリングの産業革命-REA",
-    "link": "https://rea.tools/ja/blog/touhou-reconstruction/",
-    "pubDate": "2026-10-13T01:37:29.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【合格体験記】AWSクラウドプラクティショナー798点、教科書読むだけで10時間浪費",
-    "link": "https://qiita.com/Shinn_Matsumoto/items/4c8b0e2d0482c5aeb002?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-13T01:28:41.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.js（Pages Router）+ react-i18next で多言語化を実装する",
-    "link": "https://zenn.dev/socialplus/articles/f363cdf24340cf",
-    "pubDate": "Tue, 13 Oct 2026 00:44:01 GMT"
   },
   {
     "site": "Qiita",
@@ -151,32 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "【Oracle × Snowflake】ADB の Iceberg テーブルを AICAT経由で Snowflake から参照する",
-    "link": "https://qiita.com/yushibats/items/bab0634ef6e52f1de33f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-12T16:11:56.000Z"
+    "title": "Claude Haiku 5.5 は判断特化モデルの代わりになるのか？",
+    "link": "https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-12T13:07:07.000Z"
   },
   {
     "site": "Qiita",
     "title": "どのようなサイトが狙われているか？Cloudflareセキュリティログから見る攻撃の傾向と対策",
     "link": "https://qiita.com/shioccii/items/cf18356730534053de95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-12T09:15:31.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
-    "link": "https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-11T06:13:37.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "ZDM+リフレッシュ可能クローンを使ってBaseDB OCPU環境からExaDB-XSへ移行してみた。",
-    "link": "https://qiita.com/nyasuhiro/items/8b156ed55873096c1fcf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-11T01:17:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "抽象的なことを考える時、無意識に具体化しないためのメモ",
-    "link": "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-10T20:02:27.000Z"
   }
 ]
