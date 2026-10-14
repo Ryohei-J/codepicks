@@ -1,15 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存　利用停止と乗り換えを案内",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
+    "pubDate": "2026-10-14T11:08:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
+    "link": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
+    "pubDate": "2026-10-14T09:29:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【SWTT 2026】Snowflake Well-Architected Frameworkで実現する実践的なデータマネジメント",
+    "link": "https://zenn.dev/finatext/articles/swtt2026-snow-waf-datamanagement",
+    "pubDate": "Wed, 14 Oct 2026 08:51:39 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Next.jsの公開ページで、1回遊ぶ間に読むchunkを48本から16本にした",
+    "link": "https://zenn.dev/onthebakery/articles/5a27024f61405f",
+    "pubDate": "Wed, 14 Oct 2026 08:48:54 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIエージェントによるウェブサイトへの攻撃の注意喚起",
+    "link": "https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html",
+    "pubDate": "2026-10-14T08:44:43.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア",
     "link": "https://www.idcf.jp/news/topics/20261014001",
     "pubDate": "2026-10-14T08:41:42.000Z"
   },
   {
     "site": "Hatena",
+    "title": "米キャラクターAI、破産法申請　10代の自殺めぐる訴訟相次ぎ",
+    "link": "https://www.cnn.co.jp/tech/35253536.html",
+    "pubDate": "2026-10-14T08:14:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「AIがAIを作れるようになる確率は2027年に50%超」　Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符\"」",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
+    "pubDate": "2026-10-14T08:06:09.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z",
     "link": "https://note.com/shi3zblog/n/ncb38d2978074",
     "pubDate": "2026-10-14T06:49:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "就活用DirectX12アクションゲーム作成 第三十三回",
+    "link": "https://zenn.dev/seisei89628/articles/cd976e4c7d78c7",
+    "pubDate": "Wed, 14 Oct 2026 06:06:40 GMT"
   },
   {
     "site": "Hatena",
@@ -30,16 +78,16 @@
     "pubDate": "2026-10-14T03:40:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ゲーム開発に生成AIはどこまで許容される？ ドラクエの堀井雄二氏が30分で作った推理ゲームの衝撃 #エキスパートトピ（多根清史） - エキスパート - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/expert/articles/3c9a8fadb0d9dee44199522b188a8f37f9526d19",
-    "pubDate": "2026-10-14T03:08:25.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon ",
     "link": "https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-14T02:48:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "新卒エンジニア3人でAWS Summit Japan 2026へ！ 現地で見つけた「気になる技術」を紹介します",
+    "link": "https://zenn.dev/softbank/articles/22c8e3f9ab8945",
+    "pubDate": "Wed, 14 Oct 2026 02:06:16 GMT"
   },
   {
     "site": "Zenn",
@@ -66,12 +114,6 @@
     "pubDate": "2026-10-14T00:48:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2147849.html",
-    "pubDate": "2026-10-14T00:44:08.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Amazon BedrockとSageMakerのAIエージェントでOpenTelemetryの自動計装が行われる範囲",
     "link": "https://zenn.dev/ymotongpoo/articles/20261014-bedrock-sagemaker-otel",
@@ -82,18 +124,6 @@
     "title": "Nimの引数パーサーにconfutilsを採用してみた",
     "link": "https://zenn.dev/attakei/articles/introduce-nim-confutils",
     "pubDate": "Wed, 14 Oct 2026 00:00:07 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI、家電乗っ取り増殖の恐れ　アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
-    "pubDate": "2026-10-13T23:42:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini",
-    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147381.html",
-    "pubDate": "2026-10-13T23:36:02.000Z"
   },
   {
     "site": "Qiita",
@@ -108,24 +138,6 @@
     "pubDate": "Tue, 13 Oct 2026 23:00:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "『現場で役立つシステム設計の原則』を読んで学んだこと、実践したこと、これからやりたいこと",
-    "link": "https://zenn.dev/wwwave/articles/38b8284f96bd9e",
-    "pubDate": "Tue, 13 Oct 2026 22:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "画像は「言葉だけ」でどこまで送れるか――中間特徴とプロンプト再生成を比較した小規模検証",
-    "link": "https://zenn.dev/lube8163/articles/594bea1c0f8397",
-    "pubDate": "Tue, 13 Oct 2026 17:58:32 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "話題の逆解析 MCP「REA」を Claude Code に隔離してつないだ——静的解析の A/B 試験と安全設計",
-    "link": "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
-    "pubDate": "Tue, 13 Oct 2026 17:54:44 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 28",
     "link": "https://qiita.com/maskot1977/items/fa75e8e9cd61a2f2a22f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,18 +148,6 @@
     "title": "Private Agent Factory 26.7 の Custom Flow を A2A（Agent2Agent） で呼び出してみた",
     "link": "https://qiita.com/yuji-arakawa/items/ac606c89728cb4dc2454?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-13T14:18:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS Lambda Web Functions × Hono - アダプター不要のサーバーレスWeb開発",
-    "link": "https://zenn.dev/the_exile/articles/lambda-web-functions-hono",
-    "pubDate": "Tue, 13 Oct 2026 13:11:58 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "私物Macと仕事Macのdotfilesとアプリ管理をmise bootstrapで管理しやすくした - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2026/10/13/173000",
-    "pubDate": "2026-10-13T12:43:28.000Z"
   },
   {
     "site": "Qiita",
