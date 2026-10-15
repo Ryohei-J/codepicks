@@ -1,15 +1,57 @@
 [
   {
     "site": "Hatena",
+    "title": "Amazonはインターネット全体で商品価格をつり上げている",
+    "link": "https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/",
+    "pubDate": "2026-10-15T13:15:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソースネクスト、最大2251万件の情報流出　パスワード再設定を",
+    "link": "https://www.watch.impress.co.jp/docs/news/2148547.html",
+    "pubDate": "2026-10-15T10:52:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ今、“クラウド録画”なのか。パナソニックの新「全自動ディーガ」の詳細",
+    "link": "https://av.watch.impress.co.jp/docs/topic/2148483.html",
+    "pubDate": "2026-10-15T09:06:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【Salesforce】Agent Script入門｜Agentforceの従業員エージェントを作ってみた",
+    "link": "https://zenn.dev/actbe_tech/articles/57561ffebaf9ed",
+    "pubDate": "Thu, 15 Oct 2026 09:00:14 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
     "link": "https://www.sourcenext.com/support/i/2026/1015_info/",
     "pubDate": "2026-10-15T08:49:13.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "国産モデル sarashina3-mini は日本語の推敲で何を変えるのか？",
+    "link": "https://zenn.dev/algoartis/articles/03ca12150ccbee",
+    "pubDate": "Thu, 15 Oct 2026 08:30:03 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "AndroidスマホにログインしたGoogleアカウントすべてに電話番号が自動で紐づけられることが判明",
-    "link": "https://gigazine.net/news/20261015-google-account-link-phone-number/",
-    "pubDate": "2026-10-15T07:15:17.000Z"
+    "title": "やたら荷物が届くので高1の息子のスマホを取り上げたらAmazonで2桁万円の買い物が発覚…Amazon Prime Mastercardを持っているのはなぜ？→その後電話で何とかなったと報告",
+    "link": "https://togetter.com/li/2758486",
+    "pubDate": "2026-10-15T08:05:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes",
+    "link": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
+    "pubDate": "2026-10-15T08:02:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "FFRI × NFLabs. Cybersecurity Challenge 2026 ゆるWriteup",
+    "link": "https://zenn.dev/juck28/articles/74c43f18838188",
+    "pubDate": "Thu, 15 Oct 2026 07:47:43 GMT"
   },
   {
     "site": "Hatena",
@@ -30,6 +72,12 @@
     "pubDate": "2026-10-15T04:01:12.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "OpenTelemetryでStep Functions越しにtraceparentを引き回し、複数Lambdaを一つのトレースにつなぐ",
+    "link": "https://zenn.dev/boy_techblog/articles/connecting-trace-serverless",
+    "pubDate": "Thu, 15 Oct 2026 03:59:10 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性",
     "link": "https://gazlog.jp/entry/ps5-can-run-27b-llm/",
@@ -40,6 +88,24 @@
     "title": "ついに来た！New RelicのAPI Keyに最終利用日時・無効化・チーム所有者が追加されたので棚卸ししてみた",
     "link": "https://qiita.com/seamoooooo/items/431c4a6be67c605c36be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-15T03:46:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "jpstatで始めるe-Stat API入門",
+    "link": "https://zenn.dev/tyasuakwa/articles/3f6a1394323275",
+    "pubDate": "Thu, 15 Oct 2026 03:10:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "日本の農業を公的統計から読む〜第2回 統計表はどこで途切れるかを教えるが、なぜ途切れるのかは教えない",
+    "link": "https://zenn.dev/jdsc_sol_dev/articles/39ed750de601bb",
+    "pubDate": "Thu, 15 Oct 2026 03:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
+    "link": "https://zenn.dev/solvio/articles/6d374a9224327a",
+    "pubDate": "Thu, 15 Oct 2026 02:56:38 GMT"
   },
   {
     "site": "Zenn",
@@ -54,22 +120,10 @@
     "pubDate": "Thu, 15 Oct 2026 02:09:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に",
-    "link": "https://togetter.com/li/2758344",
-    "pubDate": "2026-10-15T00:38:43.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AI時代においてようやくプログラミング言語の格差は無くなった",
     "link": "https://qiita.com/ikuosaito1989/items/63094edc3b4bb423f265?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-14T23:47:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "異例の「iPhone Air」投げ売りはなぜ起きている？　定価29.5万円の1TBモデルが、いま18.4万円で買える3つの理由",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html",
-    "pubDate": "2026-10-14T23:13:47.000Z"
   },
   {
     "site": "Zenn",
@@ -84,70 +138,16 @@
     "pubDate": "2026-10-14T23:08:15.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "みずほが数千人をAI開発者に転換　事務や営業、日本企業の働き方転機 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/",
-    "pubDate": "2026-10-14T19:37:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【2026/10/8 アップデート】GuardDuty RDS Protectionのデータ流出・破壊の検出について調べた",
-    "link": "https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity",
-    "pubDate": "Wed, 14 Oct 2026 15:56:29 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "システム設計視点の行動経済学 全40回 総復習",
     "link": "https://qiita.com/maskot1977/items/302b3769d31507d3a1da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-14T15:00:09.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた",
-    "link": "https://zenn.dev/subara3/articles/b90ff538d87aa6",
-    "pubDate": "Wed, 14 Oct 2026 12:21:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【Node.js性能検証 #2】：Workerは増やすほど速くなるのか？ QPS・P99・キュー待ちから考える",
-    "link": "https://zenn.dev/jsonfoo/articles/aeb53698ef0a1a",
-    "pubDate": "Wed, 14 Oct 2026 11:11:48 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【SWTT 2026】Snowflake Well-Architected Frameworkで実現する実践的なデータマネジメント",
-    "link": "https://zenn.dev/finatext/articles/swtt2026-snow-waf-datamanagement",
-    "pubDate": "Wed, 14 Oct 2026 08:51:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Next.jsの公開ページで、1回遊ぶ間に読むchunkを48本から16本にした",
-    "link": "https://zenn.dev/onthebakery/articles/5a27024f61405f",
-    "pubDate": "Wed, 14 Oct 2026 08:48:54 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "底辺校1年生が2ヶ月(実質)で入茶しました",
     "link": "https://qiita.com/ikneg/items/54abb56d67ffe3c830d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-14T08:44:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Neo4jでLLMベースのナレッジグラフ構築を試してみた",
-    "link": "https://zenn.dev/nttdata_tech/articles/266a6692f85fee",
-    "pubDate": "Wed, 14 Oct 2026 08:24:53 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Gemini 4 Argonの日本語性能を検証してみた",
-    "link": "https://zenn.dev/algoartis/articles/19bb1705ea4b16",
-    "pubDate": "Wed, 14 Oct 2026 08:22:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "WAF でブロックする前に確かめていること",
-    "link": "https://zenn.dev/azunyan/articles/7a105969d7d16c",
-    "pubDate": "2026-10-14T06:30:40.000Z"
   },
   {
     "site": "Qiita",
