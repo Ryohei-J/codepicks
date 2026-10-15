@@ -1,5 +1,35 @@
 [
   {
+    "site": "Hatena",
+    "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に",
+    "link": "https://togetter.com/li/2758344",
+    "pubDate": "2026-10-15T00:38:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
+    "link": "https://internet.watch.impress.co.jp/docs/event/2148145.html",
+    "pubDate": "2026-10-14T22:00:11.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "みずほが数千人をAI開発者に転換　事務や営業、日本企業の働き方転機 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/",
+    "pubDate": "2026-10-14T19:37:56.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+    "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+    "pubDate": "2026-10-14T16:29:36.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【2026/10/8 アップデート】GuardDuty RDS Protectionのデータ流出・破壊の検出について調べた",
+    "link": "https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity",
+    "pubDate": "Wed, 14 Oct 2026 15:56:29 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "システム設計視点の行動経済学 全40回 総復習",
     "link": "https://qiita.com/maskot1977/items/302b3769d31507d3a1da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7,9 +37,15 @@
   },
   {
     "site": "Hatena",
-    "title": "フロントエンドのモデルに境界を引く",
-    "link": "https://speakerdeck.com/babywkb/furonto-endo-no-moderu-ni-kyoukai-o-hiku",
-    "pubDate": "2026-10-14T13:47:11.000Z"
+    "title": "『Slay the Spire』最高難易度を最新AIモデルにプレイさせると“後半でやたら苦戦する”との研究。安全第一すぎて死ぬ - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20261014-473406/",
+    "pubDate": "2026-10-14T12:49:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた",
+    "link": "https://zenn.dev/subara3/articles/b90ff538d87aa6",
+    "pubDate": "Wed, 14 Oct 2026 12:21:10 GMT"
   },
   {
     "site": "Hatena",
@@ -18,16 +54,16 @@
     "pubDate": "2026-10-14T12:02:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存　利用停止と乗り換えを案内",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
-    "pubDate": "2026-10-14T11:08:25.000Z"
+    "site": "Zenn",
+    "title": "【Node.js性能検証 #2】：Workerは増やすほど速くなるのか？ QPS・P99・キュー待ちから考える",
+    "link": "https://zenn.dev/jsonfoo/articles/aeb53698ef0a1a",
+    "pubDate": "Wed, 14 Oct 2026 11:11:48 GMT"
   },
   {
     "site": "Hatena",
-    "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
-    "link": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
-    "pubDate": "2026-10-14T09:29:50.000Z"
+    "title": "八潮の道路陥没事故を国際圧入学会で総括　道路陥没メカニズムと最新技術による復旧の全貌",
+    "link": "https://built.itmedia.co.jp/bt/articles/2610/14/news078.html",
+    "pubDate": "2026-10-14T11:00:30.000Z"
   },
   {
     "site": "Zenn",
@@ -37,33 +73,9 @@
   },
   {
     "site": "Zenn",
-    "title": "Next.jsの公開ページで、1回遊ぶ間に読むchunkを48本から16本にした",
-    "link": "https://zenn.dev/onthebakery/articles/5a27024f61405f",
-    "pubDate": "Wed, 14 Oct 2026 08:48:54 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIエージェントによるウェブサイトへの攻撃の注意喚起",
-    "link": "https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html",
-    "pubDate": "2026-10-14T08:44:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア",
-    "link": "https://www.idcf.jp/news/topics/20261014001",
-    "pubDate": "2026-10-14T08:41:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ポスドクの転職は「敗北」とは限らない―数学博士がアカデミアの外で見つけた新たな生き方｜ポスドクの転職体験記",
-    "link": "https://note.com/postdoc_career/n/nc9dcfe5ea3d3",
-    "pubDate": "2026-10-14T07:59:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z",
-    "link": "https://note.com/shi3zblog/n/ncb38d2978074",
-    "pubDate": "2026-10-14T06:49:13.000Z"
+    "title": "Gemini 4 Argonの日本語性能を検証してみた",
+    "link": "https://zenn.dev/algoartis/articles/19bb1705ea4b16",
+    "pubDate": "Wed, 14 Oct 2026 08:22:28 GMT"
   },
   {
     "site": "Zenn",
@@ -79,27 +91,27 @@
   },
   {
     "site": "Zenn",
-    "title": "'${widget._value}'の{}を忘れたら自分の常識に疑義が生じた",
-    "link": "https://zenn.dev/baleenstudio/articles/b80253e5dde615",
-    "pubDate": "Wed, 14 Oct 2026 05:23:56 GMT"
+    "title": "【備忘録】CSSのstickyで作る、せり上がりながら背景が見える演出",
+    "link": "https://zenn.dev/crayfisher_zari/articles/75619d5860f885",
+    "pubDate": "Wed, 14 Oct 2026 05:59:58 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "決定モデルの分類精度をKaggleの過去NLPコンペで検証する",
+    "link": "https://zenn.dev/trtd56/articles/a3a65631b5e773",
+    "pubDate": "Wed, 14 Oct 2026 04:37:53 GMT"
   },
   {
     "site": "Hatena",
-    "title": "AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発",
-    "link": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
-    "pubDate": "2026-10-14T04:36:13.000Z"
+    "title": "claude-plugins-official/plugins/code-modernization/README.md at main · anthropics/claude-plugins-official",
+    "link": "https://github.com/anthropics/claude-plugins-official/blob/main/plugins/code-modernization/README.md",
+    "pubDate": "2026-10-14T02:55:15.000Z"
   },
   {
     "site": "Qiita",
     "title": "【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon ",
     "link": "https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-14T02:48:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "新卒エンジニア3人でAWS Summit Japan 2026へ！ 現地で見つけた「気になる技術」を紹介します",
-    "link": "https://zenn.dev/softbank/articles/22c8e3f9ab8945",
-    "pubDate": "Wed, 14 Oct 2026 02:06:16 GMT"
   },
   {
     "site": "Zenn",
@@ -114,34 +126,22 @@
     "pubDate": "Wed, 14 Oct 2026 01:31:20 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Unityで立体物の衣装が変わるプロジェクションマッピングを試作した",
-    "link": "https://zenn.dev/m_tk/articles/e39b61a8136a29",
-    "pubDate": "Wed, 14 Oct 2026 01:20:24 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code の守りのフックは、台本が壊れると黙って通す。2.1.295 の onFailure で止まった",
     "link": "https://qiita.com/suwa_nobu/items/afde8d73a48eb7badb71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-14T00:48:15.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Amazon BedrockとSageMakerのAIエージェントでOpenTelemetryの自動計装が行われる範囲",
-    "link": "https://zenn.dev/ymotongpoo/articles/20261014-bedrock-sagemaker-otel",
-    "pubDate": "Wed, 14 Oct 2026 00:00:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Nimの引数パーサーにconfutilsを採用してみた",
-    "link": "https://zenn.dev/attakei/articles/introduce-nim-confutils",
-    "pubDate": "Wed, 14 Oct 2026 00:00:07 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "BlogでたどるSelect AI入門：多言語からAI Ready Data、SQL＋RAGまで整理してみてみた",
+    "title": "Select AI入門：多言語からAI Ready Data、SQL＋RAGまで整理してみてみた",
     "link": "https://qiita.com/shirok/items/3661216f00cc9f5629cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-13T23:23:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「バイブコーディング」の生みの親カルパシー氏、「AIの理解格差は“鋭い漏斗”になった」 | Business Insider Japan",
+    "link": "https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/",
+    "pubDate": "2026-10-13T22:59:48.000Z"
   },
   {
     "site": "Qiita",
