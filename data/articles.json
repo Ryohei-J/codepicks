@@ -1,33 +1,69 @@
 [
   {
     "site": "Hatena",
-    "title": "台湾TSMC過去最高益「需要減速の兆候なし」 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261015de60118",
-    "pubDate": "2026-10-15T16:09:09.000Z"
+    "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
+    "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
+    "pubDate": "2026-10-16T01:57:36.000Z"
   },
   {
     "site": "Hatena",
-    "title": "データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
-    "pubDate": "2026-10-15T13:22:05.000Z"
+    "title": "【重要】不正アクセスによる情報流出に関するお詫びとお願い（第一報） | 最新情報 | Studio",
+    "link": "https://studio.design/ja/whats-new/unauthorized-access-2026-10",
+    "pubDate": "2026-10-16T01:45:58.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Amazonはインターネット全体で商品価格をつり上げている",
-    "link": "https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/",
-    "pubDate": "2026-10-15T13:15:54.000Z"
+    "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
+    "pubDate": "2026-10-15T23:16:45.000Z"
   },
   {
     "site": "Hatena",
-    "title": "国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH",
-    "link": "https://www.lac.co.jp/lacwatch/alert/20261015_004996.html",
-    "pubDate": "2026-10-15T11:26:49.000Z"
+    "title": "「セキュリティソフトも売ってるのに」ソースネクスト会員情報漏えい、パスワード含む最大2252万件　API不正利用される",
+    "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002312/",
+    "pubDate": "2026-10-15T22:45:27.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ソースネクスト、最大2251万件の情報流出　パスワード再設定を",
-    "link": "https://www.watch.impress.co.jp/docs/news/2148547.html",
-    "pubDate": "2026-10-15T10:52:15.000Z"
+    "title": "タイムズカー情報流出、信用機関に悪用防止要請殺到　クレカ発行に手間 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/",
+    "pubDate": "2026-10-15T21:42:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
+    "link": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/",
+    "pubDate": "2026-10-15T21:32:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claude Code 入門",
+    "link": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
+    "pubDate": "2026-10-15T13:28:26.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
+    "link": "https://zenn.dev/solvio/articles/6d374a9224327a",
+    "pubDate": "2026-10-15T12:35:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「UNIXという考え方」再考 | ドクセル",
+    "link": "https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy",
+    "pubDate": "2026-10-15T10:38:08.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ICFPC2026 参加記",
+    "link": "https://zenn.dev/algoartis/articles/b5dd3c401d5dd4",
+    "pubDate": "Thu, 15 Oct 2026 10:04:41 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
+    "link": "https://tech.every.tv/entry/2026/10/15/125805",
+    "pubDate": "2026-10-15T09:51:51.000Z"
   },
   {
     "site": "Qiita",
@@ -36,34 +72,22 @@
     "pubDate": "2026-10-15T09:13:53.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "なぜ今、“クラウド録画”なのか。パナソニックの新「全自動ディーガ」の詳細",
-    "link": "https://av.watch.impress.co.jp/docs/topic/2148483.html",
-    "pubDate": "2026-10-15T09:06:56.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "【Salesforce】Agent Script入門｜Agentforceの従業員エージェントを作ってみた",
     "link": "https://zenn.dev/actbe_tech/articles/57561ffebaf9ed",
     "pubDate": "Thu, 15 Oct 2026 09:00:14 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
-    "link": "https://www.sourcenext.com/support/i/2026/1015_info/",
-    "pubDate": "2026-10-15T08:49:13.000Z"
+    "site": "Zenn",
+    "title": "xcrun xcodeproj で .xcodeproj をコマンドラインから編集する（Xcode 27.2）",
+    "link": "https://zenn.dev/d_date/articles/xcrun-xcodeproj-xcode27-2",
+    "pubDate": "Thu, 15 Oct 2026 08:38:00 GMT"
   },
   {
     "site": "Zenn",
     "title": "国産モデル sarashina3-mini は日本語の推敲で何を変えるのか？",
     "link": "https://zenn.dev/algoartis/articles/03ca12150ccbee",
     "pubDate": "Thu, 15 Oct 2026 08:30:03 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes",
-    "link": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
-    "pubDate": "2026-10-15T08:02:36.000Z"
   },
   {
     "site": "Zenn",
@@ -78,16 +102,10 @@
     "pubDate": "2026-10-15T07:23:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
-    "pubDate": "2026-10-15T07:06:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ワールドガチャ｜架空の町をガチャで作ってマンガの背景に",
-    "link": "https://tools.oyasumi-gamedev.com/worldgacha/",
-    "pubDate": "2026-10-15T04:01:12.000Z"
+    "site": "Zenn",
+    "title": "AIを使えばドキュメント整備はいらない？いやいや、今こそ人間が動くときだ",
+    "link": "https://zenn.dev/atamaplus/articles/2c9538a721c613",
+    "pubDate": "Thu, 15 Oct 2026 06:00:23 GMT"
   },
   {
     "site": "Zenn",
@@ -106,18 +124,6 @@
     "title": "jpstatで始めるe-Stat API入門",
     "link": "https://zenn.dev/tyasuakwa/articles/3f6a1394323275",
     "pubDate": "Thu, 15 Oct 2026 03:10:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "日本の農業を公的統計から読む〜第2回 統計表はどこで途切れるかを教えるが、なぜ途切れるのかは教えない",
-    "link": "https://zenn.dev/jdsc_sol_dev/articles/39ed750de601bb",
-    "pubDate": "Thu, 15 Oct 2026 03:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
-    "link": "https://zenn.dev/solvio/articles/6d374a9224327a",
-    "pubDate": "Thu, 15 Oct 2026 02:56:38 GMT"
   },
   {
     "site": "Zenn",
@@ -142,12 +148,6 @@
     "title": "AI時代においてようやくプログラミング言語の格差は無くなった",
     "link": "https://qiita.com/ikuosaito1989/items/63094edc3b4bb423f265?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-14T23:47:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "改めて考える、AIエンジニアリングの今",
-    "link": "https://zenn.dev/r_kaga/articles/2fd185c50cea7c",
-    "pubDate": "Wed, 14 Oct 2026 23:08:33 GMT"
   },
   {
     "site": "Qiita",
