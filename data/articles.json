@@ -1,21 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け",
+    "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+    "pubDate": "2026-10-16T10:18:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット",
+    "link": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/",
+    "pubDate": "2026-10-16T09:57:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース",
     "link": "https://news.web.nhk/newsweb/na/nd-20261016de60556",
     "pubDate": "2026-10-16T09:05:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "『コミックシーモア』会員情報の流出に関するお詫びとお願い｜ニュースリリース｜NTTソルマーレ株式会社",
+    "link": "https://www.nttsolmare.com/press/2026/1016.html",
+    "pubDate": "2026-10-16T08:24:59.000Z"
   },
   {
     "site": "Zenn",
     "title": "HTTP 402は29年「予約済み」のまま — x402をNext.jsで動かす",
     "link": "https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs",
     "pubDate": "Fri, 16 Oct 2026 07:58:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "人気Web制作ツール「Studio」全ユーザーの情報漏えいか　フォームに送信された内容、外部APIキーなども",
-    "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
-    "pubDate": "2026-10-16T06:12:06.000Z"
   },
   {
     "site": "Hatena",
@@ -48,12 +60,6 @@
     "pubDate": "Fri, 16 Oct 2026 04:43:37 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Tesla、新型「Roadster」発表　SpaceX技術で“飛べる”モデルも　日本でも予約受付中",
-    "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
-    "pubDate": "2026-10-16T02:55:17.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
     "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
@@ -67,9 +73,15 @@
   },
   {
     "site": "Hatena",
-    "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
-    "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
-    "pubDate": "2026-10-16T01:57:36.000Z"
+    "title": "徳丸浩氏に聞く、タイムズカー事案から考えるユーザーデータ管理 保管場所と漏えいリスクの移転・回避、消去の判断体制",
+    "link": "https://unitis.jp/articles/24665/",
+    "pubDate": "2026-10-16T01:31:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜ『作って理解するOS』は1072ページになったのか ――監修者・川合秀実氏が語る、32ビットOSと64ビットOSを「両方作る」意味 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/10/make-x86-os-foreword",
+    "pubDate": "2026-10-16T01:12:19.000Z"
   },
   {
     "site": "Qiita",
@@ -84,12 +96,6 @@
     "pubDate": "Thu, 15 Oct 2026 23:00:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
-    "link": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/",
-    "pubDate": "2026-10-15T21:32:18.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 29",
     "link": "https://qiita.com/maskot1977/items/8da6708ef44b79634c4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,12 +106,6 @@
     "title": "PR内でCIが通過した後に、レビュアーのためのレビュー環境をLambda MicroVMsで構築してみた",
     "link": "https://qiita.com/PDC-Kurashinak/items/80e373c1b3ad1bd66e8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-15T14:59:37.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Code 入門",
-    "link": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
-    "pubDate": "2026-10-15T13:28:26.000Z"
   },
   {
     "site": "Zenn",
