@@ -1,15 +1,33 @@
 [
   {
     "site": "Hatena",
+    "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
+    "link": "https://gigazine.net/news/20261017-agentsview/",
+    "pubDate": "2026-10-17T09:27:07.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Jetson AGX XavierでNemotron 3.5 Lightningを動かしてみる",
+    "link": "https://zenn.dev/nooop/articles/9d5f19aed77e18",
+    "pubDate": "Sat, 17 Oct 2026 09:11:27 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530",
+    "pubDate": "2026-10-17T08:05:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "中国製車両、ノルウェー軍の機密情報を記録 訓練中に発覚",
     "link": "https://www.afpbb.com/articles/-/3658078",
     "pubDate": "2026-10-17T05:51:11.000Z"
   },
   {
     "site": "Hatena",
-    "title": "整骨院で施術室の一番奥のベッドに移動させられ、肩の治療なのに両足に器具をはめられてGoogleレビューを強要、その後#9110に相談→警察署→刑事さんから警告してもらった",
-    "link": "https://togetter.com/li/2759213",
-    "pubDate": "2026-10-17T02:58:45.000Z"
+    "title": "AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM",
+    "link": "https://note.com/suh_sunaneko/n/n23ed6981ff6a",
+    "pubDate": "2026-10-17T04:12:34.000Z"
   },
   {
     "site": "Qiita",
@@ -37,9 +55,15 @@
   },
   {
     "site": "Hatena",
-    "title": "こんにちは，UUID 芸人です - ハーフダチョウ研究会",
-    "link": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
-    "pubDate": "2026-10-17T00:36:24.000Z"
+    "title": "亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針",
+    "link": "https://japan.cnet.com/article/35253656/",
+    "pubDate": "2026-10-17T00:21:27.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "3Dデータの処理基盤をTemporalに全面移行した話",
+    "link": "https://zenn.dev/bestat/articles/7106fdf2f399e1",
+    "pubDate": "Fri, 16 Oct 2026 22:10:51 GMT"
   },
   {
     "site": "Qiita",
@@ -48,22 +72,10 @@
     "pubDate": "2026-10-16T21:51:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AI「ミューズ」が侵食する旅行サイト　ブッキングなど株価軒並み下落 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/",
-    "pubDate": "2026-10-16T21:50:27.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "FreeBSD/Ubuntu サーバのセキュリティ強化",
     "link": "https://zenn.dev/taroh/articles/ea4ce5256d0691",
     "pubDate": "Fri, 16 Oct 2026 20:08:26 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita",
-    "link": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
-    "pubDate": "2026-10-16T17:16:58.000Z"
   },
   {
     "site": "Zenn",
@@ -108,40 +120,22 @@
     "pubDate": "2026-10-16T11:10:40.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "JenkinsからGitHub Actionsに移行して、CI/CDをAIにも人にも触れる形にした",
+    "link": "https://zenn.dev/ceres_tech_blog/articles/7c5d1b9d29e621",
+    "pubDate": "Fri, 16 Oct 2026 10:03:52 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "JR東海、次期新幹線「S0系」29年7月デビュー　自動運転や車内設備強化",
-    "link": "https://www.watch.impress.co.jp/docs/news/2148838.html",
-    "pubDate": "2026-10-16T08:13:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "HTTP 402は29年「予約済み」のまま — x402をNext.jsで動かす",
-    "link": "https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs",
-    "pubDate": "Fri, 16 Oct 2026 07:58:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "社内の Slack と GitHub を LLM に読ませて技術ブログの題材を探す：モデルに任せたこと、任せなかったこと",
-    "link": "https://zenn.dev/salt2/articles/slack-github-llm-bb912760",
-    "pubDate": "Fri, 16 Oct 2026 06:55:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Strata でできること：ローカル LLMの実行とアプリ連携",
-    "link": "https://zenn.dev/jtcc/articles/strata-local-llm-app-integration",
-    "pubDate": "Fri, 16 Oct 2026 05:57:00 GMT"
+    "title": "GitHub - google-research/harness2",
+    "link": "https://github.com/google-research/harness2",
+    "pubDate": "2026-10-16T08:41:45.000Z"
   },
   {
     "site": "Qiita",
     "title": "伸びる動画の特徴をAIに言語化させたら、リール作りが回り始めた話",
     "link": "https://qiita.com/Eitaro_dotlog/items/c1e2f6d696ea88854186?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-16T05:47:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[フィジカルAI]LLM によるテレオペデータで VLA を学習して Strands Robots に組み込んでみた",
-    "link": "https://zenn.dev/aws_japan/articles/strands-robots-llm-teleop",
-    "pubDate": "Fri, 16 Oct 2026 04:43:37 GMT"
   },
   {
     "site": "Qiita",
@@ -157,9 +151,15 @@
   },
   {
     "site": "Zenn",
-    "title": "有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか",
-    "link": "https://zenn.dev/hand_dot/articles/ecb391d4322330",
-    "pubDate": "Thu, 15 Oct 2026 23:00:05 GMT"
+    "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
+    "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
+    "pubDate": "Fri, 16 Oct 2026 02:53:28 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
+    "link": "https://zenn.dev/aiforall/articles/8e1803396534de",
+    "pubDate": "Fri, 16 Oct 2026 02:30:05 GMT"
   },
   {
     "site": "Qiita",
