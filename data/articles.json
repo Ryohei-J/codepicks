@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン",
+    "link": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
+    "pubDate": "2026-10-18T09:18:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Void でフルスタックアプリを構築して Cloudflare にデプロイする",
+    "link": "https://azukiazusa.dev/blog/void-vite-cloudflare-deploy/",
+    "pubDate": "2026-10-18T08:20:03.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？　実験で見えた意外な結果",
     "link": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
     "pubDate": "2026-10-18T04:35:48.000Z"
@@ -25,12 +37,6 @@
   },
   {
     "site": "Zenn",
-    "title": "MPC（モデル予測制御）専用ソルバーの歴史 ― プラントの分単位からマイクロ秒の組込み制御まで",
-    "link": "https://zenn.dev/takuya_fukatsu/articles/d66e570b929d19",
-    "pubDate": "Sun, 18 Oct 2026 01:54:50 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "PyODで時系列データの異常検知を試す",
     "link": "https://zenn.dev/drbobt1122/articles/blog26101701",
     "pubDate": "Sun, 18 Oct 2026 01:36:39 GMT"
@@ -40,12 +46,6 @@
     "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
     "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
     "pubDate": "2026-10-18T01:26:27.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "ナオミ・クラインが暴く「テック億万長者という“中身のない男たち”の正体」 | 彼らの態度が「ころころ変わる」不気味な理由",
-    "link": "https://courrier.jp/news/archives/462520/",
-    "pubDate": "2026-10-17T23:50:03.000Z"
   },
   {
     "site": "Hatena",
@@ -66,12 +66,6 @@
     "pubDate": "2026-10-17T22:09:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
-    "link": "https://ashunar0.dev/posts/try-void/",
-    "pubDate": "2026-10-17T21:28:03.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "生産計画を手を動かして学ぶ ― OSS の frePPLe で MRP・需要予測・CP-SAT まで",
     "link": "https://zenn.dev/rkawajiri/books/frepple-tutorial-ja",
@@ -90,16 +84,16 @@
     "pubDate": "2026-10-17T17:43:11.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Windows11アップデート: 右クリックメニューを高速化する方法 #Windows - いおりのパソコン技術メモ",
-    "link": "https://iori016.hatenablog.com/entry/2025/11/02/110654",
-    "pubDate": "2026-10-17T17:15:04.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "GitHubに競プロライブラリを保管したい！を叶える備忘録",
     "link": "https://qiita.com/Un_titled/items/a8620f54cf953ad67365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-17T14:43:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | BLOG - DeNA Engineering",
+    "link": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/",
+    "pubDate": "2026-10-17T11:42:36.000Z"
   },
   {
     "site": "Zenn",
@@ -132,12 +126,6 @@
     "pubDate": "2026-10-17T03:50:32.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割｜npaka",
-    "link": "https://note.com/npaka/n/ndb4b0f424ced",
-    "pubDate": "2026-10-17T02:09:01.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Code でメモアプリを作って Microsoft Store に公開するまでにやった工夫",
     "link": "https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -162,21 +150,33 @@
     "pubDate": "Fri, 16 Oct 2026 09:19:08 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "本番DBに不要なレコードを数千万件登録してしまった話",
-    "link": "https://zenn.dev/geekplus/articles/a615dfe41557d8",
-    "pubDate": "Fri, 16 Oct 2026 09:00:09 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "伸びる動画の特徴をAIに言語化させたら、リール作りが回り始めた話",
     "link": "https://qiita.com/Eitaro_dotlog/items/c1e2f6d696ea88854186?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-16T05:47:27.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた",
+    "link": "https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm",
+    "pubDate": "Fri, 16 Oct 2026 03:00:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
+    "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
+    "pubDate": "Fri, 16 Oct 2026 02:53:28 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Jevにウォーリーを探させたら0.4秒で見つけやがった!!",
     "link": "https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-15T09:13:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "変体仮名一覧表",
+    "link": "https://cid.ninjal.ac.jp/kana/list/",
+    "pubDate": "2023-09-13T17:11:42.000Z"
   }
 ]
