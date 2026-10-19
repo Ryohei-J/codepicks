@@ -1,9 +1,57 @@
 [
   {
     "site": "Hatena",
-    "title": "『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36",
-    "pubDate": "2026-10-18T14:34:10.000Z"
+    "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
+    "link": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
+    "pubDate": "2026-10-19T02:34:05.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた",
+    "link": "https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-18T18:30:44.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】",
+    "link": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-18T15:40:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "インライン編集UIを拡張性が高い形で実装した",
+    "link": "https://zenn.dev/numa_san/articles/50b847c58f0854",
+    "pubDate": "Sun, 18 Oct 2026 15:13:54 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "アプリケーションの自動テストとデプロイをCircleCIからGitHub Actionsに移行した",
+    "link": "https://zenn.dev/tsukulink/articles/fea41a6e4113cf",
+    "pubDate": "Sun, 18 Oct 2026 15:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "CIで使うLambda MicroVMs 最高なんだよなぁ！",
+    "link": "https://speakerdeck.com/kuracchi_enj1/ci-de-tsukau-lambda-microvms-saikouna-nda-yonaa",
+    "pubDate": "2026-10-18T13:08:54.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeの.envを読ませない設定がどこまで効くのか試してみた",
+    "link": "https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-18T12:49:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
+    "link": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
+    "pubDate": "2026-10-18T12:44:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "リーダーシップなき越境は組織を壊す｜TakayukiSaruta",
+    "link": "https://note.com/srt_taka/n/nff6c2d40c11b",
+    "pubDate": "2026-10-18T12:26:25.000Z"
   },
   {
     "site": "Hatena",
@@ -12,34 +60,46 @@
     "pubDate": "2026-10-18T11:33:45.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン",
-    "link": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
-    "pubDate": "2026-10-18T09:18:39.000Z"
+    "site": "Qiita",
+    "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita",
+    "link": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399",
+    "pubDate": "2026-10-18T10:34:03.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Void でフルスタックアプリを構築して Cloudflare にデプロイする",
-    "link": "https://azukiazusa.dev/blog/void-vite-cloudflare-deploy/",
-    "pubDate": "2026-10-18T08:20:03.000Z"
+    "site": "Zenn",
+    "title": "読書メモ『入門 継続的デリバリー』",
+    "link": "https://zenn.dev/95nm/articles/article_reading_cd",
+    "pubDate": "Sun, 18 Oct 2026 10:16:10 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？　実験で見えた意外な結果",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
-    "pubDate": "2026-10-18T04:35:48.000Z"
+    "site": "Zenn",
+    "title": "リトルの法則で考える障害時のキャパシティプランニング",
+    "link": "https://zenn.dev/rea9r/articles/littles-law-capacity-planning",
+    "pubDate": "Sun, 18 Oct 2026 09:54:19 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "async/await と Promise(then) の違いを、出力順で比べてみた",
+    "link": "https://qiita.com/mmsbox/items/e1a201822b51b753e2ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-18T08:36:06.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Lambdaが3種類になったみたいなので、全部試してみた",
+    "link": "https://qiita.com/maeda-kazutoshi/items/4674e080c2ce3d53c809?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-18T06:31:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI エージェントに個人の記憶を任せるときの、書かせない・漏らさない仕組み",
+    "link": "https://zenn.dev/ketoranger/articles/agent-memory-security",
+    "pubDate": "Sun, 18 Oct 2026 05:06:44 GMT"
   },
   {
     "site": "Zenn",
     "title": "ClaudeにiOSシミュレーターのスクリーンショットを読ませるのをやめて、操作で増えるコンテキストを43%削減した",
     "link": "https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen",
     "pubDate": "Sun, 18 Oct 2026 02:56:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果",
-    "link": "https://fd-x.co.jp/insights/41-what-is-ontology",
-    "pubDate": "2026-10-18T02:55:30.000Z"
   },
   {
     "site": "Zenn",
@@ -49,15 +109,15 @@
   },
   {
     "site": "Zenn",
-    "title": "PyODで時系列データの異常検知を試す",
-    "link": "https://zenn.dev/drbobt1122/articles/blog26101701",
-    "pubDate": "Sun, 18 Oct 2026 01:36:39 GMT"
+    "title": "MPC（モデル予測制御）専用ソルバーの歴史 ― プラントの分単位からマイクロ秒の組込み制御まで",
+    "link": "https://zenn.dev/takuya_fukatsu/articles/d66e570b929d19",
+    "pubDate": "Sun, 18 Oct 2026 01:54:50 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
-    "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
-    "pubDate": "2026-10-18T01:26:27.000Z"
+    "site": "Hatena",
+    "title": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
+    "pubDate": "2026-10-18T00:54:51.000Z"
   },
   {
     "site": "Zenn",
@@ -79,27 +139,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【Node.js × Supabase × Vercel】匿名お悩み共感ボード「Moyan」をClaude Codeとゼロから1時間で作って公開した",
-    "link": "https://qiita.com/mnoguchi/items/8ca703ba0b45078c7472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-17T18:11:43.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "GitHubに競プロライブラリを保管したい！を叶える備忘録",
     "link": "https://qiita.com/Un_titled/items/a8620f54cf953ad67365?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-17T14:43:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | BLOG - DeNA Engineering",
-    "link": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/",
-    "pubDate": "2026-10-17T11:42:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "論文サマリ「随意運動の制御と学習のための階層的ニューラルネットワークモデル」川人ら",
-    "link": "https://zenn.dev/zhidao/articles/63db6db6abe9c4",
-    "pubDate": "Sat, 17 Oct 2026 11:22:21 GMT"
   },
   {
     "site": "Qiita",
@@ -108,10 +150,10 @@
     "pubDate": "2026-10-17T09:15:15.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Entra ID で AI エージェントに ID を持たせよう！ ～ Foundry × Claude で検証（その1）",
-    "link": "https://qiita.com/shou-wordwright555501/items/b4e0ad709b882ed4ad44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-17T09:15:10.000Z"
+    "site": "Hatena",
+    "title": "How employment is changing at Anthropic",
+    "link": "https://www.anthropic.com/research/employment-at-anthropic",
+    "pubDate": "2026-10-17T07:07:57.000Z"
   },
   {
     "site": "Qiita",
@@ -121,57 +163,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Code でメモアプリを作って Microsoft Store に公開するまでにやった工夫",
-    "link": "https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-17T01:53:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
-    "link": "https://zenn.dev/nkzn/articles/my-first-void",
-    "pubDate": "Fri, 16 Oct 2026 14:10:37 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性",
     "link": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-16T12:48:39.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "コネクタも API も無いサービスを、Claude Code に操作させる",
-    "link": "https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009",
-    "pubDate": "Fri, 16 Oct 2026 09:19:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "伸びる動画の特徴をAIに言語化させたら、リール作りが回り始めた話",
-    "link": "https://qiita.com/Eitaro_dotlog/items/c1e2f6d696ea88854186?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-16T05:47:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた",
-    "link": "https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm",
-    "pubDate": "Fri, 16 Oct 2026 03:00:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
-    "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
-    "pubDate": "Fri, 16 Oct 2026 02:53:28 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Jevにウォーリーを探させたら0.4秒で見つけやがった!!",
-    "link": "https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-15T09:13:53.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "Amazon GuardDuty RDS Protection が Aurora と RDS のデータベースにおけるデータの不正流出と破壊の検出に対応 - AWS",
-    "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/",
-    "pubDate": "2026-10-10T03:40:45.000Z"
+    "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+    "pubDate": "2026-10-16T03:30:41.000Z"
   },
   {
     "site": "Hatena",
