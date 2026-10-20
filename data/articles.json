@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）",
+    "link": "https://note.com/uplucid/n/ncb9e3567ce2f",
+    "pubDate": "2026-10-20T15:34:06.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Introducing tsrs: a Port of TypeScript to Rust",
     "link": "https://blog.cloudflare.com/typescript-rust-port/",
     "pubDate": "2026-10-20T13:09:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/10/20/205855",
+    "pubDate": "2026-10-20T12:01:49.000Z"
   },
   {
     "site": "Hatena",
@@ -28,12 +40,6 @@
     "title": "人間のAIに対する判断移譲 - 西尾泰和の外部脳",
     "link": "https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2",
     "pubDate": "2026-10-20T08:21:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "本日開始「Androidのマイナンバーカード」さっそく登録、試してわかったiPhoneとの違いと注意点",
-    "link": "https://k-tai.watch.impress.co.jp/docs/review/2149675.html",
-    "pubDate": "2026-10-20T07:39:04.000Z"
   },
   {
     "site": "Zenn",
@@ -67,12 +73,6 @@
   },
   {
     "site": "Qiita",
-    "title": "SQL初心者の基本のキ",
-    "link": "https://qiita.com/komaba/items/b15321f2efd73ff248df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-20T02:20:46.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "怠惰の化身が資格取得するための勉強の習慣を身につけるまで",
     "link": "https://qiita.com/giganticsaki_A/items/f0ed9ec5cff12106978e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-20T02:12:07.000Z"
@@ -84,10 +84,10 @@
     "pubDate": "Tue, 20 Oct 2026 02:00:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上",
-    "link": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html",
-    "pubDate": "2026-10-20T01:17:25.000Z"
+    "site": "Qiita",
+    "title": "「地方消滅」は財源幻想が招いた人災だ ― 地方財政の制度設計 : システム設計視点の行動経済学 (44)",
+    "link": "https://qiita.com/maskot1977/items/3b0066bf024070e55c0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-20T01:02:01.000Z"
   },
   {
     "site": "Zenn",
@@ -100,6 +100,12 @@
     "title": "生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指し無料版AIの1K画像で感じた限界と、実在感のある写真への挑戦 - Quadro Diary 生成AI 過去日記",
     "link": "https://quadro.hateblo.jp/entry/seiseiai_real",
     "pubDate": "2026-10-19T23:46:02.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 全30回総復習",
+    "link": "https://qiita.com/maskot1977/items/5a7a61346add83106a30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-19T23:32:23.000Z"
   },
   {
     "site": "Zenn",
@@ -139,15 +145,21 @@
   },
   {
     "site": "Qiita",
-    "title": "M5Stamp P4（ESP32-P4）でMMUなしのLinux 7.2を動かし、Wi-FiとSSHまで通した話【AIと250コミット】",
-    "link": "https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-19T11:09:50.000Z"
+    "title": "Private Agent Factoryで作るかんたんな業務エージェント",
+    "link": "https://qiita.com/k_kane/items/a2428f62732632a40b9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-19T14:25:13.000Z"
   },
   {
     "site": "Qiita",
     "title": "AWS初心者がエンジニアを辞めた話",
     "link": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-19T09:42:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "NWの自動化はなぜ進まないのか(1) - 「割に合わない」が積み上がる構造",
+    "link": "https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-19T09:07:36.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】",
     "link": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-18T15:40:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeの.envを読ませない設定がどこまで効くのか試してみた",
-    "link": "https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-18T12:49:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた",
-    "link": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-17T09:15:15.000Z"
   }
 ]
