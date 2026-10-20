@@ -1,9 +1,21 @@
 [
   {
     "site": "Hatena",
+    "title": "Apple、10月28日にイベント開催へ　タッチスクリーン「MacBook Pro」など発表か",
+    "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
+    "pubDate": "2026-10-19T21:43:25.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡",
     "link": "https://www.yomiuri.co.jp/national/20261019-GYT1T00477/",
     "pubDate": "2026-10-19T20:16:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "対象が広い事業・プロダクトが刺さる気がしない",
+    "link": "https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one",
+    "pubDate": "Mon, 19 Oct 2026 17:05:28 GMT"
   },
   {
     "site": "Hatena",
@@ -13,21 +25,33 @@
   },
   {
     "site": "Hatena",
+    "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+    "link": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+    "pubDate": "2026-10-19T15:11:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
     "link": "https://note.com/timtarou/n/n5443f159e7bc",
     "pubDate": "2026-10-19T14:05:36.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "JP Incident Monitor",
-    "link": "https://elkentaro.github.io/jp_incidents/",
-    "pubDate": "2026-10-19T12:32:44.000Z"
+    "site": "Zenn",
+    "title": "AIとコンテストに参加する",
+    "link": "https://zenn.dev/attgm/articles/d28df25b88254a",
+    "pubDate": "Mon, 19 Oct 2026 13:42:44 GMT"
   },
   {
     "site": "Hatena",
-    "title": "お客さま向け会員サイト「My SoftBank」の一時的な停止について | 企業・IR | ソフトバンク",
-    "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261019_01/",
-    "pubDate": "2026-10-19T11:38:08.000Z"
+    "title": "イーロン・マスク氏、米国の子ども全員に「SpaceX株を1株ずつ」配布すると宣言",
+    "link": "https://japan.cnet.com/article/35253730/",
+    "pubDate": "2026-10-19T12:12:31.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "普段使いのWindows PCでNodeのサーバーを常駐させて踏んだ罠",
+    "link": "https://zenn.dev/matasuke_t/articles/bf784b79b29e86",
+    "pubDate": "Mon, 19 Oct 2026 11:13:05 GMT"
   },
   {
     "site": "Qiita",
@@ -36,40 +60,34 @@
     "pubDate": "2026-10-19T11:09:50.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
+    "link": "https://star.hatenastaff.com/entry/2026/10/19/140533",
+    "pubDate": "2026-10-19T10:38:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」",
+    "link": "https://posfie.com/@petaritape/p/aa5HeGM",
+    "pubDate": "2026-10-19T10:37:03.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "AWS初心者がエンジニアを辞めた話",
     "link": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-19T09:42:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "デジタル庁、Androidのマイナカード対応機種を公開",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2149346.html",
-    "pubDate": "2026-10-19T09:08:25.000Z"
+    "site": "Zenn",
+    "title": "Claude Codeの会話を55分放っておいたら、272,422トークンが13,522に圧縮されていました ― アイドル圧縮の観測",
+    "link": "https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019",
+    "pubDate": "Mon, 19 Oct 2026 09:29:39 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "【資料公開】AIで組織を加速させる勘所",
-    "link": "https://www.ryuzee.com/contents/blog/14627",
-    "pubDate": "2026-10-19T08:53:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
-    "link": "https://note.com/yukiedu/n/n4d25f5e1d590",
-    "pubDate": "2026-10-19T08:46:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
-    "link": "https://gmo-cybersecurity.com/blog/20261019/",
-    "pubDate": "2026-10-19T07:45:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録 - RAKUS Developers Blog | ラクス エンジニアブログ",
-    "link": "https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection",
-    "pubDate": "2026-10-19T06:12:20.000Z"
+    "site": "Zenn",
+    "title": "Kaigi on Rails 2026 感想 ＆ OSTで「ファットモデル」の議論をしたよ！",
+    "link": "https://zenn.dev/progate/articles/b49c75fc6ab1ff",
+    "pubDate": "Mon, 19 Oct 2026 05:38:03 GMT"
   },
   {
     "site": "Zenn",
@@ -96,6 +114,12 @@
     "pubDate": "2026-10-19T02:50:44.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Claude Codeでプロンプトインジェクションに備える",
+    "link": "https://zenn.dev/luxiar/articles/a341a2df29dcfe",
+    "pubDate": "Mon, 19 Oct 2026 02:00:05 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング",
     "link": "https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -120,24 +144,6 @@
     "pubDate": "Mon, 19 Oct 2026 00:30:14 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "ドメインの境界を引くだけでは、業務はつながらない",
-    "link": "https://zenn.dev/dress_code/articles/4a76f1b88e360d",
-    "pubDate": "Mon, 19 Oct 2026 00:00:00 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "個人で使うClaude Codeの権限設定についてざっくり見直してみた",
-    "link": "https://zenn.dev/takyshu98/articles/915702cf8c84f3",
-    "pubDate": "Sun, 18 Oct 2026 23:00:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "「止まっている案件はどれ?」にSQLで答える。Snowflake Cortex AIで議事録を自動分類する",
-    "link": "https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes",
-    "pubDate": "Sun, 18 Oct 2026 22:30:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた",
     "link": "https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -150,33 +156,27 @@
     "pubDate": "2026-10-18T15:40:28.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "山岳ステージがしっくりこない。AIとBlenderで森を作り、Unityの性能問題にぶつかった",
-    "link": "https://zenn.dev/project_arca/articles/unity-forest-rendering-diagnosis-001",
-    "pubDate": "Sun, 18 Oct 2026 15:26:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "アプリケーションの自動テストとデプロイをCircleCIからGitHub Actionsに移行した",
-    "link": "https://zenn.dev/tsukulink/articles/fea41a6e4113cf",
-    "pubDate": "Sun, 18 Oct 2026 15:00:05 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Claude Codeの.envを読ませない設定がどこまで効くのか試してみた",
     "link": "https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-18T12:49:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "判断特化モデルの比較: Decisions API・Jev・Clef",
-    "link": "https://zenn.dev/bocek/articles/5e1ba6fae7e7d6",
-    "pubDate": "Sun, 18 Oct 2026 10:21:12 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた",
     "link": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-17T09:15:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - carnot-tech/jinba-consulting-pptx-skill: AIにまじなPPTXを作らせる Claude Code / Codex スキル",
+    "link": "https://github.com/carnot-tech/jinba-consulting-pptx-skill",
+    "pubDate": "2026-10-09T14:16:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OSS Scanner",
+    "link": "https://red.anthropic.com/oss-scanner/",
+    "pubDate": "2026-10-09T09:25:09.000Z"
   }
 ]
