@@ -1,9 +1,27 @@
 [
   {
     "site": "Hatena",
+    "title": "Introducing tsrs: a Port of TypeScript to Rust",
+    "link": "https://blog.cloudflare.com/typescript-rust-port/",
+    "pubDate": "2026-10-20T13:09:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク",
+    "link": "https://www.trustbank.co.jp/newsroom/newsrelease/news261020/",
+    "pubDate": "2026-10-20T10:59:09.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び",
     "link": "https://jpn.nec.com/news/info/20261020.html",
     "pubDate": "2026-10-20T08:54:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ウィンドウズアップデートについて調べたらめちゃめちゃ面白かった",
+    "link": "https://anond.hatelabo.jp/20261020173628",
+    "pubDate": "2026-10-20T08:41:46.000Z"
   },
   {
     "site": "Hatena",
@@ -13,15 +31,21 @@
   },
   {
     "site": "Hatena",
-    "title": "「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア",
-    "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
-    "pubDate": "2026-10-20T06:16:53.000Z"
+    "title": "本日開始「Androidのマイナンバーカード」さっそく登録、試してわかったiPhoneとの違いと注意点",
+    "link": "https://k-tai.watch.impress.co.jp/docs/review/2149675.html",
+    "pubDate": "2026-10-20T07:39:04.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "テストの前提を「実際に遊んで撮ったセーブ」に替えたら、撮影ボットがソフトロックを見つけた",
+    "link": "https://zenn.dev/gzer0/articles/real-play-save-fixtures-for-ai-tests",
+    "pubDate": "Tue, 20 Oct 2026 06:50:12 GMT"
   },
   {
     "site": "Hatena",
-    "title": "AIにゲームをコピーされて本家より先に発売される危険を恐れて無料体験版の公開が中止される",
-    "link": "https://gigazine.net/news/20261020-ai-game-clones/",
-    "pubDate": "2026-10-20T05:50:50.000Z"
+    "title": "「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア",
+    "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
+    "pubDate": "2026-10-20T06:16:53.000Z"
   },
   {
     "site": "Qiita",
@@ -34,6 +58,12 @@
     "title": "ソフトウェアの産業革命 - ちなみに",
     "link": "https://blog.nishimu.land/entry/2026/10/20/123916",
     "pubDate": "2026-10-20T04:10:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI にリバースエンジニアリングさせる REA を触って、持ち帰ったのは「証拠付きで進める」考え方でした",
+    "link": "https://zenn.dev/flinters_blog/articles/3b377ce568d676",
+    "pubDate": "Tue, 20 Oct 2026 03:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -55,12 +85,6 @@
   },
   {
     "site": "Hatena",
-    "title": "情報漏洩や不正アクセスのニュースばかりで訳わかんない！……っていう人に「JP Incident Monitor」／日本のサイバーインシデントを一覧、AIで分析して信頼度付きで掲載【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2149461.html",
-    "pubDate": "2026-10-20T01:28:01.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上",
     "link": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html",
     "pubDate": "2026-10-20T01:17:25.000Z"
@@ -79,15 +103,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Claude Code で CI 待ち時間を 18 分から 4 分台に短縮する【GitHub Actions】",
+    "link": "https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49",
+    "pubDate": "Mon, 19 Oct 2026 23:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う",
     "link": "https://zenn.dev/shiro_kuma_san/articles/8abfbdacfeaa59",
     "pubDate": "Mon, 19 Oct 2026 22:15:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "最近Gemini使い始めたけど、明らかにChatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」",
-    "link": "https://togetter.com/li/2760356",
-    "pubDate": "2026-10-19T15:50:13.000Z"
+    "site": "Zenn",
+    "title": "対象が広い事業・プロダクトが刺さる気がしない",
+    "link": "https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one",
+    "pubDate": "Mon, 19 Oct 2026 17:05:28 GMT"
   },
   {
     "site": "Zenn",
@@ -97,21 +127,15 @@
   },
   {
     "site": "Zenn",
+    "title": "AIを利用したレガシーコード改善",
+    "link": "https://zenn.dev/naoyuki1212/articles/20261019-legacy-code-with-ai",
+    "pubDate": "Mon, 19 Oct 2026 14:53:36 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話",
     "link": "https://zenn.dev/masaru21/articles/2100616bb5110d",
     "pubDate": "Mon, 19 Oct 2026 14:42:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIとコンテストに参加する",
-    "link": "https://zenn.dev/attgm/articles/d28df25b88254a",
-    "pubDate": "Mon, 19 Oct 2026 13:42:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "普段使いのWindows PCでNodeのサーバーを常駐させて踏んだ罠",
-    "link": "https://zenn.dev/matasuke_t/articles/bf784b79b29e86",
-    "pubDate": "Mon, 19 Oct 2026 11:13:05 GMT"
   },
   {
     "site": "Qiita",
@@ -120,40 +144,16 @@
     "pubDate": "2026-10-19T11:09:50.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Progate git自作インターン参加記〜AIとチーム開発との付き合い方〜",
-    "link": "https://zenn.dev/yurapii/articles/2622d98d641acc",
-    "pubDate": "Mon, 19 Oct 2026 10:49:53 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」",
-    "link": "https://posfie.com/@petaritape/p/aa5HeGM",
-    "pubDate": "2026-10-19T10:37:03.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AWS初心者がエンジニアを辞めた話",
     "link": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-19T09:42:28.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeの会話を55分放っておいたら、272,422トークンが13,522に圧縮されていました ― アイドル圧縮の観測",
-    "link": "https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019",
-    "pubDate": "Mon, 19 Oct 2026 09:29:39 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Codexでゲームを作っていたら、小さなAI開発組織を回す実験になった",
     "link": "https://qiita.com/Masato_Iwasaki/items/7e5241176f3eead2a2f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-19T08:33:01.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kaigi on Rails 2026 感想 ＆ OSTで「ファットモデル」の議論をしたよ！",
-    "link": "https://zenn.dev/progate/articles/b49c75fc6ab1ff",
-    "pubDate": "Mon, 19 Oct 2026 05:38:03 GMT"
   },
   {
     "site": "Qiita",
