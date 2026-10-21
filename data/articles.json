@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明",
+    "link": "https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/",
+    "pubDate": "2026-10-21T15:19:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
     "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
     "pubDate": "2026-10-21T14:53:13.000Z"
@@ -36,6 +42,12 @@
     "pubDate": "2026-10-21T09:08:57.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "「ドパ資料」の作り方",
+    "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-21T09:04:32.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog",
     "link": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
@@ -52,6 +64,12 @@
     "title": "個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した",
     "link": "https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement",
     "pubDate": "Wed, 21 Oct 2026 07:43:30 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～",
+    "link": "https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-21T07:34:12.000Z"
   },
   {
     "site": "Zenn",
@@ -96,6 +114,12 @@
     "pubDate": "Wed, 21 Oct 2026 00:52:36 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "AI の「直しました」に証拠を付けさせろ！ pstack を Claude Code に入れてみた",
+    "link": "https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-21T00:45:54.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "安くて速い Jev を6回チューニングしたら、最後に Claude の grep に2倍差で負けた話",
     "link": "https://zenn.dev/koudai0711/articles/f7a5cc10496820",
@@ -114,12 +138,6 @@
     "pubDate": "Tue, 20 Oct 2026 23:00:06 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "2026年10月20日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "link": "https://qiita.com/ennagara128/items/19da01cfd8b63abfd018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-20T15:39:24.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "LINEに送った写真と音声メモを、自宅のPCが文字にしてくれるようにした",
     "link": "https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture",
@@ -130,12 +148,6 @@
     "title": "AI時代の開発プロセスとチームのあり方を考える",
     "link": "https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-20T04:15:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SQL初心者の基本のキ",
-    "link": "https://qiita.com/komaba/items/b15321f2efd73ff248df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-20T02:20:46.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "NWの自動化はなぜ進まないのか(1) - 「割に合わない」が積み上がる構造",
     "link": "https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-19T09:07:36.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】",
-    "link": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-18T15:40:28.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-    "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-    "pubDate": "2026-10-14T23:31:16.000Z"
   }
 ]
