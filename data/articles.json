@@ -1,57 +1,75 @@
 [
   {
     "site": "Hatena",
-    "title": "あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）",
-    "link": "https://note.com/uplucid/n/ncb9e3567ce2f",
-    "pubDate": "2026-10-20T15:34:06.000Z"
+    "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
+    "link": "https://blog.flatt.tech/entry/php2shell",
+    "pubDate": "2026-10-21T02:15:43.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Introducing tsrs: a Port of TypeScript to Rust",
-    "link": "https://blog.cloudflare.com/typescript-rust-port/",
-    "pubDate": "2026-10-20T13:09:28.000Z"
+    "title": "余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_944/",
+    "pubDate": "2026-10-21T02:06:33.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/10/20/205855",
-    "pubDate": "2026-10-20T12:01:49.000Z"
+    "title": "PHPに「緊急」レベルの脆弱性2件　修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
+    "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002446/",
+    "pubDate": "2026-10-21T01:08:01.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク",
-    "link": "https://www.trustbank.co.jp/newsroom/newsrelease/news261020/",
-    "pubDate": "2026-10-20T10:59:09.000Z"
+    "title": "認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性　大手各社が緊急遮断",
+    "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002444/",
+    "pubDate": "2026-10-21T00:41:54.000Z"
   },
   {
     "site": "Hatena",
-    "title": "委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び",
-    "link": "https://jpn.nec.com/news/info/20261020.html",
-    "pubDate": "2026-10-20T08:54:57.000Z"
+    "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止　FX用VPS、2万6739サーバに影響か",
+    "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002442/",
+    "pubDate": "2026-10-20T23:41:28.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ウィンドウズアップデートについて調べたらめちゃめちゃ面白かった",
-    "link": "https://anond.hatelabo.jp/20261020173628",
-    "pubDate": "2026-10-20T08:41:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "人間のAIに対する判断移譲 - 西尾泰和の外部脳",
-    "link": "https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2",
-    "pubDate": "2026-10-20T08:21:44.000Z"
+    "title": "「PC持ってない人達って、まさかPCを毎回シャットダウンしてると思ってんの？」Windowsのシャットダウンとスリープの違いが話題に…スリープ運用の便利さと問題点も",
+    "link": "https://togetter.com/li/2760860",
+    "pubDate": "2026-10-20T23:30:57.000Z"
   },
   {
     "site": "Zenn",
-    "title": "テストの前提を「実際に遊んで撮ったセーブ」に替えたら、撮影ボットがソフトロックを見つけた",
-    "link": "https://zenn.dev/gzer0/articles/real-play-save-fixtures-for-ai-tests",
-    "pubDate": "Tue, 20 Oct 2026 06:50:12 GMT"
+    "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
+    "link": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+    "pubDate": "2026-10-20T23:13:30.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア",
-    "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
-    "pubDate": "2026-10-20T06:16:53.000Z"
+    "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2149792.html",
+    "pubDate": "2026-10-20T22:15:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "PHP: News Archive - 2026",
+    "link": "https://www.php.net/archive/2026.php",
+    "pubDate": "2026-10-20T20:54:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "LINEに送った写真と音声メモを、自宅のPCが文字にしてくれるようにした",
+    "link": "https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture",
+    "pubDate": "Tue, 20 Oct 2026 14:37:43 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【セキュリティ ニュース】ウェブサーバ「nginx」に複数脆弱性 - 3件が「クリティカル」との評価も（1ページ目 / 全3ページ）：Security NEXT",
+    "link": "https://www.security-next.com/191645",
+    "pubDate": "2026-10-20T09:15:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Go の依存管理は、最後は Google を信じるしかないのか？",
+    "link": "https://zenn.dev/shiro_kuma_san/articles/a83ae3d82d26dc",
+    "pubDate": "Tue, 20 Oct 2026 05:30:07 GMT"
   },
   {
     "site": "Qiita",
@@ -60,16 +78,22 @@
     "pubDate": "2026-10-20T04:15:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ソフトウェアの産業革命 - ちなみに",
-    "link": "https://blog.nishimu.land/entry/2026/10/20/123916",
-    "pubDate": "2026-10-20T04:10:49.000Z"
+    "site": "Zenn",
+    "title": "Kaigi on Rails 2026 参加レポート",
+    "link": "https://zenn.dev/xtm_blog/articles/kaigi-on-rails-2026-xtm-report",
+    "pubDate": "Tue, 20 Oct 2026 04:03:03 GMT"
   },
   {
     "site": "Zenn",
     "title": "AI にリバースエンジニアリングさせる REA を触って、持ち帰ったのは「証拠付きで進める」考え方でした",
     "link": "https://zenn.dev/flinters_blog/articles/3b377ce568d676",
     "pubDate": "Tue, 20 Oct 2026 03:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Go 1.27 で追加された strings.CutLast を試す",
+    "link": "https://zenn.dev/gemcook/articles/f408cc6b1f75ec",
+    "pubDate": "Tue, 20 Oct 2026 02:32:23 GMT"
   },
   {
     "site": "Qiita",
@@ -96,16 +120,16 @@
     "pubDate": "Tue, 20 Oct 2026 01:00:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指し無料版AIの1K画像で感じた限界と、実在感のある写真への挑戦 - Quadro Diary 生成AI 過去日記",
-    "link": "https://quadro.hateblo.jp/entry/seiseiai_real",
-    "pubDate": "2026-10-19T23:46:02.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 全30回総復習",
     "link": "https://qiita.com/maskot1977/items/5a7a61346add83106a30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-19T23:32:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIペネトレーションテストツール「Strix」を試してみた",
+    "link": "https://zenn.dev/turquoise123/articles/df481032f6b405",
+    "pubDate": "Mon, 19 Oct 2026 23:08:03 GMT"
   },
   {
     "site": "Zenn",
@@ -115,33 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う",
-    "link": "https://zenn.dev/shiro_kuma_san/articles/8abfbdacfeaa59",
-    "pubDate": "Mon, 19 Oct 2026 22:15:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "対象が広い事業・プロダクトが刺さる気がしない",
-    "link": "https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one",
-    "pubDate": "Mon, 19 Oct 2026 17:05:28 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "macOSで特定のビューをスクリーンキャプチャから隠す",
-    "link": "https://zenn.dev/d_date/articles/macos-capture-protection-preventscapture",
-    "pubDate": "Mon, 19 Oct 2026 15:20:47 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIを利用したレガシーコード改善",
-    "link": "https://zenn.dev/naoyuki1212/articles/20261019-legacy-code-with-ai",
-    "pubDate": "Mon, 19 Oct 2026 14:53:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話",
-    "link": "https://zenn.dev/masaru21/articles/2100616bb5110d",
-    "pubDate": "Mon, 19 Oct 2026 14:42:30 GMT"
+    "title": "MCPサーバーを理解してみる　さらに自作MCPサーバーを作ってみよう",
+    "link": "https://zenn.dev/mosayan/articles/mcp-server-001",
+    "pubDate": "Mon, 19 Oct 2026 22:50:05 GMT"
   },
   {
     "site": "Qiita",
