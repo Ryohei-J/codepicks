@@ -1,5 +1,29 @@
 [
   {
+    "site": "Hatena",
+    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+    "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "pubDate": "2026-10-21T14:53:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+    "link": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+    "pubDate": "2026-10-21T14:07:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？",
+    "link": "https://togetter.com/li/2761175",
+    "pubDate": "2026-10-21T13:05:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "委託事業者における個人情報漏えいについて",
+    "link": "https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004",
+    "pubDate": "2026-10-21T11:16:28.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "cronのclaude -pが\"ok\"だけで4万トークン——--safe-modeと--tools \"\"で98%削減",
     "link": "https://zenn.dev/yosiki/articles/claude-p-cron-token-diet",
@@ -30,16 +54,16 @@
     "pubDate": "Wed, 21 Oct 2026 07:43:30 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "honto - 外部委託先への不正アクセスによるお客様情報漏えいの可能性について - hontoからのお知らせ一覧",
-    "link": "https://honto.jp/info/detail_041000135344.html",
-    "pubDate": "2026-10-21T05:48:13.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Amazon Bedrock Guardrails を AnswerCarefully で試してみた",
     "link": "https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier",
     "pubDate": "Wed, 21 Oct 2026 05:08:24 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "わずか2週間でGitHubスター30万超　AIでリバースエンジニアリングする「REA」が話題",
+    "link": "https://ascii.jp/elem/000/004/444/4444350/",
+    "pubDate": "2026-10-21T04:48:18.000Z"
   },
   {
     "site": "Zenn",
@@ -54,12 +78,6 @@
     "pubDate": "2026-10-21T02:15:43.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB",
-    "link": "https://levtech.jp/media/detail_944/",
-    "pubDate": "2026-10-21T02:06:33.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Package.resolved の originHash は何のためにあるのか",
     "link": "https://zenn.dev/zunda_pixel/articles/ecba94910fa062",
@@ -70,12 +88,6 @@
     "title": "Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた",
     "link": "https://zenn.dev/canly/articles/9c19bb123e208c",
     "pubDate": "Wed, 21 Oct 2026 01:10:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "PHPに「緊急」レベルの脆弱性2件　修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
-    "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002446/",
-    "pubDate": "2026-10-21T01:08:01.000Z"
   },
   {
     "site": "Zenn",
@@ -90,18 +102,6 @@
     "pubDate": "Tue, 20 Oct 2026 23:39:57 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「PC持ってない人達って、まさかPCを毎回シャットダウンしてると思ってんの？」Windowsのシャットダウンとスリープの違いが話題に…スリープ運用の便利さと問題点も",
-    "link": "https://togetter.com/li/2760860",
-    "pubDate": "2026-10-20T23:30:57.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
-    "link": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
-    "pubDate": "2026-10-20T23:13:30.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "パスワード管理ツールについて調べた（1Password・Bitwarden）",
     "link": "https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -112,12 +112,6 @@
     "title": "dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド",
     "link": "https://zenn.dev/zenkigen_tech/articles/1714ede7f27e10",
     "pubDate": "Tue, 20 Oct 2026 23:00:06 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2149792.html",
-    "pubDate": "2026-10-20T22:15:35.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則【2026年版】",
     "link": "https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-18T15:40:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
+    "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+    "pubDate": "2026-10-14T23:31:16.000Z"
   }
 ]
