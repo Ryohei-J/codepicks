@@ -1,6 +1,18 @@
 [
   {
     "site": "Hatena",
+    "title": "デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上",
+    "link": "https://news.tv-asahi.co.jp/news_economy/articles/000542237.html",
+    "pubDate": "2026-10-22T16:19:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【速報】中国政府系がAIで攻撃、MSが発表",
+    "link": "https://www.47news.jp/15123221.html",
+    "pubDate": "2026-10-22T15:13:42.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能／",
     "link": "https://forest.watch.impress.co.jp/docs/news/2150531.html",
     "pubDate": "2026-10-22T12:14:04.000Z"
@@ -36,18 +48,6 @@
     "pubDate": "2026-10-22T08:30:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から",
-    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
-    "pubDate": "2026-10-22T08:18:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）について（CVE-2026-94300） - バージョンアップを強く推奨 -",
-    "link": "https://jprs.jp/tech/security/2026-10-22-bind9-cve-2026-94300.html",
-    "pubDate": "2026-10-22T08:03:31.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Hugo のビルドを just にまとめて、生成物の置き場で事故りました",
     "link": "https://zenn.dev/fumika_676/articles/20220236284e11",
@@ -76,6 +76,18 @@
     "title": "巨大なGitリポジトリと戦う",
     "link": "https://zenn.dev/spookies/articles/82112154145e4c",
     "pubDate": "Thu, 22 Oct 2026 04:30:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う",
+    "link": "https://posfie.com/@golden_haniwa/p/LQ90sis",
+    "pubDate": "2026-10-22T03:54:28.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない",
+    "link": "https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-22T03:50:13.000Z"
   },
   {
     "site": "Qiita",
@@ -109,12 +121,6 @@
   },
   {
     "site": "Zenn",
-    "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
-    "link": "https://zenn.dev/explaza/articles/c749042ecbe232",
-    "pubDate": "2026-10-21T19:34:57.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話",
     "link": "https://zenn.dev/56drich/articles/f52bd4a1dae988",
     "pubDate": "Wed, 21 Oct 2026 18:52:44 GMT"
@@ -130,12 +136,6 @@
     "title": "10月21日、PHP2Shell対応の後片付けが終わらない",
     "link": "https://zenn.dev/subara3/articles/1165119ef70e75",
     "pubDate": "Wed, 21 Oct 2026 16:17:09 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする",
-    "link": "https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-21T15:02:18.000Z"
   },
   {
     "site": "Zenn",
@@ -157,6 +157,12 @@
   },
   {
     "site": "Qiita",
+    "title": "AI Data Platform(AIDP) にオープンデータを取り込んで東京都62市区町村を分析してみてみた",
+    "link": "https://qiita.com/shirok/items/399e0042896dcc4c0b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-21T00:30:11.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【2026年版】AIを駆使した開発手法をざっくりまとめてみた",
     "link": "https://qiita.com/kobori_slj/items/b9683ce90f4c26a6e7ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-20T12:39:49.000Z"
@@ -172,11 +178,5 @@
     "title": "古くさいと思っていた報連相を、PMになってから今一度考えた話",
     "link": "https://qiita.com/fe1ix/items/d78130c065835a6343a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-20T01:03:59.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWS初心者がエンジニアを辞めた話",
-    "link": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-19T09:42:28.000Z"
   }
 ]
