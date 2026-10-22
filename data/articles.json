@@ -1,33 +1,87 @@
 [
   {
     "site": "Hatena",
-    "title": "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明",
-    "link": "https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/",
-    "pubDate": "2026-10-21T15:19:11.000Z"
+    "title": "php2shellに感じたサイバー空間の『ドント・ルック・アップ』からサーバーの戸締りに至る空気の変遷 - 太陽がまぶしかったから",
+    "link": "https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up",
+    "pubDate": "2026-10-22T01:03:19.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-    "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-    "pubDate": "2026-10-21T14:53:13.000Z"
+    "title": "「Node.js」にセキュリティ更新 ～10件の脆弱性を修正、「eMudhra」の侵害にも対応／v22.23.4、v24.22.1、v26.12.1が公開",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2150169.html",
+    "pubDate": "2026-10-22T00:37:42.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
-    "link": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
-    "pubDate": "2026-10-21T14:07:21.000Z"
+    "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2150161.html",
+    "pubDate": "2026-10-21T23:31:06.000Z"
   },
   {
     "site": "Hatena",
-    "title": "これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？",
-    "link": "https://togetter.com/li/2761175",
-    "pubDate": "2026-10-21T13:05:29.000Z"
+    "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
+    "pubDate": "2026-10-21T22:16:49.000Z"
   },
   {
     "site": "Hatena",
-    "title": "委託事業者における個人情報漏えいについて",
-    "link": "https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004",
-    "pubDate": "2026-10-21T11:16:28.000Z"
+    "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
+    "link": "https://togetter.com/li/2761269",
+    "pubDate": "2026-10-21T19:46:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
+    "link": "https://zenn.dev/explaza/articles/c749042ecbe232",
+    "pubDate": "2026-10-21T19:34:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あったけど、どこに相談したらいいの？労基？→あるエンジニアに起きた災難に「笑えない」",
+    "link": "https://togetter.com/li/2761260",
+    "pubDate": "2026-10-21T19:27:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話",
+    "link": "https://zenn.dev/56drich/articles/f52bd4a1dae988",
+    "pubDate": "Wed, 21 Oct 2026 18:52:44 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ",
+    "link": "https://www.sem-r.com/entry/20261022/1792605105",
+    "pubDate": "2026-10-21T18:03:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+    "link": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+    "pubDate": "2026-10-21T14:50:46.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "加点の条件を絞ったら、23日間で一度も加点されなかった — 棄却したはずの案と同じ症状が出た【直前期編】",
+    "link": "https://zenn.dev/rokusoudou_ts/articles/nw-2026-no-credit",
+    "pubDate": "Wed, 21 Oct 2026 13:57:31 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も紹介",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/",
+    "pubDate": "2026-10-21T12:22:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ブラウザ起点の長い処理をサーバー側へ移して、画面を閉じても終わるようにした",
+    "link": "https://zenn.dev/matasuke_t/articles/50bd0bee5b6a3a",
+    "pubDate": "Wed, 21 Oct 2026 11:48:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Pi 3B 2台で家のサーバを回してきた — そろそろ限界、Pi 4/5 を買う前に稼働率を測る",
+    "link": "https://zenn.dev/tinker42/articles/ca22660eedca0a",
+    "pubDate": "Wed, 21 Oct 2026 10:05:42 GMT"
   },
   {
     "site": "Zenn",
@@ -36,28 +90,10 @@
     "pubDate": "Wed, 21 Oct 2026 09:22:14 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261021de62921",
-    "pubDate": "2026-10-21T09:08:57.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "「ドパ資料」の作り方",
     "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-21T09:04:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
-    "pubDate": "2026-10-21T08:57:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か",
-    "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
-    "pubDate": "2026-10-21T08:52:10.000Z"
   },
   {
     "site": "Zenn",
@@ -78,40 +114,16 @@
     "pubDate": "Wed, 21 Oct 2026 05:08:24 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "わずか2週間でGitHubスター30万超　AIでリバースエンジニアリングする「REA」が話題",
-    "link": "https://ascii.jp/elem/000/004/444/4444350/",
-    "pubDate": "2026-10-21T04:48:18.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "EKS に Graviton を導入して、arm64 と amd64 を混ぜて運用を始めました",
     "link": "https://zenn.dev/socialplus/articles/eks-graviton-arm64-migration",
     "pubDate": "Wed, 21 Oct 2026 03:00:07 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
-    "link": "https://blog.flatt.tech/entry/php2shell",
-    "pubDate": "2026-10-21T02:15:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Package.resolved の originHash は何のためにあるのか",
-    "link": "https://zenn.dev/zunda_pixel/articles/ecba94910fa062",
-    "pubDate": "Wed, 21 Oct 2026 01:58:50 GMT"
-  },
-  {
     "site": "Zenn",
     "title": "Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた",
     "link": "https://zenn.dev/canly/articles/9c19bb123e208c",
     "pubDate": "Wed, 21 Oct 2026 01:10:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Laravel の token guard 認証バイパス、表に無い 11 以下はどうなの？全タグのソースを確認してみた",
-    "link": "https://zenn.dev/nix/articles/236ceb8194a9c5",
-    "pubDate": "Wed, 21 Oct 2026 00:52:36 GMT"
   },
   {
     "site": "Qiita",
@@ -121,27 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "安くて速い Jev を6回チューニングしたら、最後に Claude の grep に2倍差で負けた話",
-    "link": "https://zenn.dev/koudai0711/articles/f7a5cc10496820",
-    "pubDate": "Tue, 20 Oct 2026 23:39:57 GMT"
+    "title": "「どう作るか」から「何を作るか」へ。バックエンドを学び始めた、その後の話",
+    "link": "https://zenn.dev/peoplex_blog/articles/0873a7f9cc091b",
+    "pubDate": "Wed, 21 Oct 2026 00:35:06 GMT"
   },
   {
     "site": "Qiita",
     "title": "パスワード管理ツールについて調べた（1Password・Bitwarden）",
     "link": "https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-20T23:08:58.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド",
-    "link": "https://zenn.dev/zenkigen_tech/articles/1714ede7f27e10",
-    "pubDate": "Tue, 20 Oct 2026 23:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LINEに送った写真と音声メモを、自宅のPCが文字にしてくれるようにした",
-    "link": "https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture",
-    "pubDate": "Tue, 20 Oct 2026 14:37:43 GMT"
   },
   {
     "site": "Qiita",
