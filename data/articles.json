@@ -1,15 +1,87 @@
 [
   {
     "site": "Hatena",
-    "title": "php2shellに感じたサイバー空間の『ドント・ルック・アップ』からサーバーの戸締りに至る空気の変遷 - 太陽がまぶしかったから",
-    "link": "https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up",
-    "pubDate": "2026-10-22T01:03:19.000Z"
+    "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside",
+    "link": "https://inside.pixiv.blog/2026/10/22/193321",
+    "pubDate": "2026-10-22T10:38:41.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「Node.js」にセキュリティ更新 ～10件の脆弱性を修正、「eMudhra」の侵害にも対応／v22.23.4、v24.22.1、v26.12.1が公開",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2150169.html",
-    "pubDate": "2026-10-22T00:37:42.000Z"
+    "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
+    "pubDate": "2026-10-22T09:30:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
+    "pubDate": "2026-10-22T08:18:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Hugo のビルドを just にまとめて、生成物の置き場で事故りました",
+    "link": "https://zenn.dev/fumika_676/articles/20220236284e11",
+    "pubDate": "Thu, 22 Oct 2026 07:58:08 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "パスワードを使い回すなとは言うものの、あらゆるサービスに会員登録させられるし普通に手入力が必要な場面も多くてどうしたらいいんだ？",
+    "link": "https://togetter.com/li/2761441",
+    "pubDate": "2026-10-22T07:44:50.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "テニス解析をピックルボールに使ってみた：四隅の指定でコートの俯瞰表示を補う①",
+    "link": "https://zenn.dev/nauh_blog/articles/7f19a2f193d15d",
+    "pubDate": "Thu, 22 Oct 2026 06:31:34 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "KMPデスクトップはAIエージェントに速いのか？検証してみる",
+    "link": "https://zenn.dev/shogo/articles/f847c35ea8dccb",
+    "pubDate": "Thu, 22 Oct 2026 05:46:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "巨大なGitリポジトリと戦う",
+    "link": "https://zenn.dev/spookies/articles/82112154145e4c",
+    "pubDate": "Thu, 22 Oct 2026 04:30:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "MCPサーバーとは？ 仕組みの基本と、Firestore を AIエージェントから調べられるようにした話",
+    "link": "https://qiita.com/sugumura/items/d52a567f7450b5539665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-22T03:19:25.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Opus 級？】Jev でエンジニアとプロジェクトをマッチング ― LLM・埋め込みモデルと比較",
+    "link": "https://qiita.com/akimasanishida/items/8d965a85f2aac8ebcb12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-22T02:34:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "大阪大、学生など7.8万人の情報漏えい　NECが無断で協力会社とデータ共有",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
+    "pubDate": "2026-10-22T01:44:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "脆弱性管理の仕組みを整えた",
+    "link": "https://zenn.dev/dress_code/articles/be5550254695cd",
+    "pubDate": "Thu, 22 Oct 2026 01:30:07 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita",
+    "link": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
+    "pubDate": "2026-10-22T01:12:57.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ghq と fzf でリポジトリ・ワークツリー間の移動を楽にする",
+    "link": "https://zenn.dev/tokium_dev/articles/ghq-fzf-navigation",
+    "pubDate": "Thu, 22 Oct 2026 01:00:00 GMT"
   },
   {
     "site": "Hatena",
@@ -24,10 +96,10 @@
     "pubDate": "2026-10-21T22:16:49.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
-    "link": "https://togetter.com/li/2761269",
-    "pubDate": "2026-10-21T19:46:46.000Z"
+    "site": "Zenn",
+    "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+    "link": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
+    "pubDate": "Wed, 21 Oct 2026 20:00:09 GMT"
   },
   {
     "site": "Zenn",
@@ -36,34 +108,28 @@
     "pubDate": "2026-10-21T19:34:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あったけど、どこに相談したらいいの？労基？→あるエンジニアに起きた災難に「笑えない」",
-    "link": "https://togetter.com/li/2761260",
-    "pubDate": "2026-10-21T19:27:17.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話",
     "link": "https://zenn.dev/56drich/articles/f52bd4a1dae988",
     "pubDate": "Wed, 21 Oct 2026 18:52:44 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ",
-    "link": "https://www.sem-r.com/entry/20261022/1792605105",
-    "pubDate": "2026-10-21T18:03:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
-    "link": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
-    "pubDate": "2026-10-21T14:50:46.000Z"
+    "site": "Qiita",
+    "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃",
+    "link": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-21T17:15:15.000Z"
   },
   {
     "site": "Zenn",
-    "title": "加点の条件を絞ったら、23日間で一度も加点されなかった — 棄却したはずの案と同じ症状が出た【直前期編】",
-    "link": "https://zenn.dev/rokusoudou_ts/articles/nw-2026-no-credit",
-    "pubDate": "Wed, 21 Oct 2026 13:57:31 GMT"
+    "title": "10月21日、PHP2Shell対応の後片付けが終わらない",
+    "link": "https://zenn.dev/subara3/articles/1165119ef70e75",
+    "pubDate": "Wed, 21 Oct 2026 16:17:09 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする",
+    "link": "https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-21T15:02:18.000Z"
   },
   {
     "site": "Hatena",
@@ -73,21 +139,9 @@
   },
   {
     "site": "Zenn",
-    "title": "ブラウザ起点の長い処理をサーバー側へ移して、画面を閉じても終わるようにした",
-    "link": "https://zenn.dev/matasuke_t/articles/50bd0bee5b6a3a",
-    "pubDate": "Wed, 21 Oct 2026 11:48:05 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Pi 3B 2台で家のサーバを回してきた — そろそろ限界、Pi 4/5 を買う前に稼働率を測る",
     "link": "https://zenn.dev/tinker42/articles/ca22660eedca0a",
     "pubDate": "Wed, 21 Oct 2026 10:05:42 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "cronのclaude -pが\"ok\"だけで4万トークン——--safe-modeと--tools \"\"で98%削減",
-    "link": "https://zenn.dev/yosiki/articles/claude-p-cron-token-diet",
-    "pubDate": "Wed, 21 Oct 2026 09:22:14 GMT"
   },
   {
     "site": "Qiita",
@@ -96,70 +150,22 @@
     "pubDate": "2026-10-21T09:04:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した",
-    "link": "https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement",
-    "pubDate": "Wed, 21 Oct 2026 07:43:30 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～",
     "link": "https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-21T07:34:12.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Amazon Bedrock Guardrails を AnswerCarefully で試してみた",
-    "link": "https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier",
-    "pubDate": "Wed, 21 Oct 2026 05:08:24 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "EKS に Graviton を導入して、arm64 と amd64 を混ぜて運用を始めました",
-    "link": "https://zenn.dev/socialplus/articles/eks-graviton-arm64-migration",
-    "pubDate": "Wed, 21 Oct 2026 03:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた",
-    "link": "https://zenn.dev/canly/articles/9c19bb123e208c",
-    "pubDate": "Wed, 21 Oct 2026 01:10:05 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "AI の「直しました」に証拠を付けさせろ！ pstack を Claude Code に入れてみた",
-    "link": "https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-21T00:45:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "「どう作るか」から「何を作るか」へ。バックエンドを学び始めた、その後の話",
-    "link": "https://zenn.dev/peoplex_blog/articles/0873a7f9cc091b",
-    "pubDate": "Wed, 21 Oct 2026 00:35:06 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "パスワード管理ツールについて調べた（1Password・Bitwarden）",
-    "link": "https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-20T23:08:58.000Z"
+    "title": "【2026年版】AIを駆使した開発手法をざっくりまとめてみた",
+    "link": "https://qiita.com/kobori_slj/items/b9683ce90f4c26a6e7ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-20T12:39:49.000Z"
   },
   {
     "site": "Qiita",
     "title": "AI時代の開発プロセスとチームのあり方を考える",
     "link": "https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-20T04:15:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "怠惰の化身が資格取得するための勉強の習慣を身につけるまで",
-    "link": "https://qiita.com/giganticsaki_A/items/f0ed9ec5cff12106978e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-20T02:12:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Oracle AI Data Platform(AIDP)：Private Endpointの AI Lakehouseで Knowledge Base・RAG検索してみてみた",
-    "link": "https://qiita.com/shirok/items/8dd19291f959da310c99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-20T01:21:10.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "AWS初心者がエンジニアを辞めた話",
     "link": "https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-19T09:42:28.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "NWの自動化はなぜ進まないのか(1) - 「割に合わない」が積み上がる構造",
-    "link": "https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-19T09:07:36.000Z"
   }
 ]
