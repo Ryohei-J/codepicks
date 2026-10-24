@@ -1,51 +1,63 @@
 [
   {
     "site": "Hatena",
-    "title": "マイクロソフトによる「シェーダーコンパイル要らず」の新技術、ついにNVIDIAグラボ向けに解禁。ゲーム起動時の“あの待ち時間”とおさらば - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20261023-475245/",
-    "pubDate": "2026-10-23T13:18:50.000Z"
+    "title": "PHP脆弱性への攻撃「1分で100万回」　米クラウドフレアCEO - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/",
+    "pubDate": "2026-10-23T23:21:57.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
-    "link": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
-    "pubDate": "2026-10-23T13:15:06.000Z"
+    "title": "PHP脆弱性、利用サイトの半分が修正困難　バージョン古くサポート終了 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/",
+    "pubDate": "2026-10-23T20:43:19.000Z"
   },
   {
     "site": "Hatena",
-    "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
-    "pubDate": "2026-10-23T11:48:55.000Z"
+    "title": "CVE Tracker — CVEs per month since 1999",
+    "link": "https://cve.0xosprey.com/",
+    "pubDate": "2026-10-23T17:30:30.000Z"
   },
   {
     "site": "Hatena",
-    "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出　33万人分 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/",
-    "pubDate": "2026-10-23T10:56:07.000Z"
+    "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
+    "link": "https://www.gamespark.jp/article/2026/10/23/174015.html",
+    "pubDate": "2026-10-23T15:52:59.000Z"
   },
   {
     "site": "Hatena",
-    "title": "PHP2Shellへの対応を振り返って - コドモン Product Team Blog",
-    "link": "https://tech.codmon.com/entry/2026/10/23/173909",
-    "pubDate": "2026-10-23T09:00:03.000Z"
+    "title": "Using Claude to reduce the attack surface of code",
+    "link": "https://www.anthropic.com/research/attack-surface-reduction",
+    "pubDate": "2026-10-23T15:05:50.000Z"
   },
   {
     "site": "Zenn",
-    "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
-    "link": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
-    "pubDate": "2026-10-23T08:32:23.000Z"
+    "title": "「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図",
+    "link": "https://zenn.dev/shun0530/articles/32946ce85a536d",
+    "pubDate": "Fri, 23 Oct 2026 13:01:10 GMT"
   },
   {
     "site": "Hatena",
-    "title": "「タイムズカーWebシステム」への不正アクセスによる個人情報漏えいに関するご報告と今後の対応について（第5報） | カーシェアリングのタイムズカー",
-    "link": "https://share.timescar.jp/news/2026/1023/1825.html",
-    "pubDate": "2026-10-23T08:21:34.000Z"
+    "title": "PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」",
+    "link": "https://engineer-ninaritai.com/php2shell-attack-detection/",
+    "pubDate": "2026-10-23T12:23:05.000Z"
   },
   {
     "site": "Hatena",
-    "title": "タイムズカー免許証画像流出、「お見舞い」1人3000円　146万人が対象 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/",
-    "pubDate": "2026-10-23T08:20:32.000Z"
+    "title": "外部生成AIサービスへの個人情報アップロードに関するお詫びとお知らせ - パナソニック ホールディングス",
+    "link": "https://holdings.panasonic/jp/information/topics/20261023.html",
+    "pubDate": "2026-10-23T11:20:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
+    "link": "https://japan.zdnet.com/article/35253683/",
+    "pubDate": "2026-10-23T10:30:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
+    "link": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+    "pubDate": "Fri, 23 Oct 2026 09:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -55,9 +67,9 @@
   },
   {
     "site": "Hatena",
-    "title": "佐川急便 流出した個人情報は最大5300万件超の可能性 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261023de64285",
-    "pubDate": "2026-10-23T07:16:43.000Z"
+    "title": "【佐川急便】｜お知らせ",
+    "link": "https://www2.sagawa-exp.co.jp/information/detail/430/",
+    "pubDate": "2026-10-23T07:41:02.000Z"
   },
   {
     "site": "Zenn",
@@ -66,16 +78,16 @@
     "pubDate": "Fri, 23 Oct 2026 06:59:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「Mermaid」図を描けるMarkdownエディター「MerMark Editor」が日本語化／有志の貢献により、v0.8.1から",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2150751.html",
-    "pubDate": "2026-10-23T06:49:37.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AlphaEngine : 最適化編①",
     "link": "https://zenn.dev/reu/articles/f79a89bd44b541",
     "pubDate": "Fri, 23 Oct 2026 06:27:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
+    "link": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
+    "pubDate": "Fri, 23 Oct 2026 05:50:11 GMT"
   },
   {
     "site": "Qiita",
@@ -90,16 +102,16 @@
     "pubDate": "2026-10-23T05:03:31.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
+    "link": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
+    "pubDate": "2026-10-23T04:46:55.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "【Workspace Studio × GAS】AIが生成した複数行データをスプレッドシートへ安全に一括展開＆承認フローを自動化するアーキテクチャ",
     "link": "https://qiita.com/kodai_kitahara/items/4cb3fbc7c7f081f34986?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-23T04:39:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "そのProvider、どこから更新する？ FlutterとRiverpodで考える操作完了通知",
-    "link": "https://zenn.dev/simplex/articles/dc17c45b57af0e",
-    "pubDate": "Fri, 23 Oct 2026 03:26:05 GMT"
   },
   {
     "site": "Zenn",
@@ -133,27 +145,15 @@
   },
   {
     "site": "Zenn",
-    "title": "301 リダイレクトの変更が一部の利用者に反映されない",
-    "link": "https://zenn.dev/shinagawa_web/articles/cached-301-stale-redirect",
-    "pubDate": "Thu, 22 Oct 2026 23:10:47 GMT"
+    "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
+    "link": "https://zenn.dev/yuiseki/articles/54b01670841898",
+    "pubDate": "Thu, 22 Oct 2026 11:28:13 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Node.jsの2026年10月セキュリティリリースでやること（Claude Code用チェックリスト付き）",
-    "link": "https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629",
-    "pubDate": "Thu, 22 Oct 2026 17:52:59 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
-    "link": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
-    "pubDate": "Thu, 22 Oct 2026 17:21:33 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自宅サーバーの定期バックアップの失敗に気付かなかった話",
-    "link": "https://zenn.dev/komorebi_note/articles/d9df64e7e1da82",
-    "pubDate": "Thu, 22 Oct 2026 13:11:28 GMT"
+    "title": "KMPデスクトップはAIエージェントに速いのか？検証してみる",
+    "link": "https://zenn.dev/shogo/articles/f847c35ea8dccb",
+    "pubDate": "Thu, 22 Oct 2026 05:46:57 GMT"
   },
   {
     "site": "Qiita",
