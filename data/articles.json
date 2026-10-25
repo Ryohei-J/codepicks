@@ -1,39 +1,57 @@
 [
   {
-    "site": "Hatena",
-    "title": "ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」",
-    "link": "https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/",
-    "pubDate": "2026-10-24T12:20:15.000Z"
+    "site": "Qiita",
+    "title": "eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita",
+    "link": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
+    "pubDate": "2026-10-24T22:48:23.000Z"
   },
   {
     "site": "Hatena",
-    "title": "人間が時間を使うべきところはどこか",
-    "link": "https://tellme.tokyo/post/2026/10/24/where-humans-spend-time/",
-    "pubDate": "2026-10-24T11:36:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "家族の代理で薬を貰いに行ったら、「ご本人のマイナンバーカードを提出して暗証番号をお願いします」と言われ、本人以外に要求することを疑問視した投稿が波紋を呼ぶ",
-    "link": "https://togetter.com/li/2762295",
-    "pubDate": "2026-10-24T09:57:36.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「お名前.com デスクトップクラウド」ご利用のお客様へ改めてのお願い（第5報） | GMOインターネットグループ株式会社",
-    "link": "https://group.gmo/info/alert/2026102402/",
-    "pubDate": "2026-10-24T09:39:37.000Z"
+    "title": "eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io",
+    "link": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
+    "pubDate": "2026-10-24T20:22:49.000Z"
   },
   {
     "site": "Zenn",
-    "title": "MultiheadAttentionの高速経路がVRAMを18GB食っていた話",
-    "link": "https://zenn.dev/genelab_999/articles/387bf151caf716",
-    "pubDate": "Sat, 24 Oct 2026 09:00:37 GMT"
+    "title": "ros_gzの終了時クラッシュとRange変換の不具合を修正した話",
+    "link": "https://zenn.dev/yuu7/articles/ros2-gazebo-teardown-range-fixes",
+    "pubDate": "Sat, 24 Oct 2026 18:15:57 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "プロの味！簡単にして激ウマな豚汁の秘密 by こじまぽん助【分子調理学研究家】",
+    "link": "https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86",
+    "pubDate": "2026-10-24T18:14:36.000Z"
   },
   {
     "site": "Zenn",
-    "title": "GitHub CLI が短命 token をサポートしても ghtkn が必要な理由",
-    "link": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-advantage-over-gh-cli-expiring-token",
-    "pubDate": "2026-10-24T08:54:34.000Z"
+    "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
+    "link": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
+    "pubDate": "Sat, 24 Oct 2026 16:59:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWSにデプロイせず、FastAPI製Lambdaのarm64実行をCIで検証する",
+    "link": "https://zenn.dev/shingokumon/articles/4da5acb9697d56",
+    "pubDate": "Sat, 24 Oct 2026 16:07:43 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "@napi-rs/canvas v1.0.12 で実質的な破壊的変更が入った話",
+    "link": "https://zenn.dev/devuloper/articles/napi_rs_canvas_1_0_12_font_tofu",
+    "pubDate": "Sat, 24 Oct 2026 15:28:06 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "新人と昔のノートPCの話になって「昔はノートPCも白黒液晶だった」と言ったら「写真見るの困りませんか？」と言われた、当時は画像を出すだけでも一苦労したんだ…",
+    "link": "https://togetter.com/li/2762365",
+    "pubDate": "2026-10-24T13:21:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab",
+    "link": "https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/",
+    "pubDate": "2026-10-24T12:12:42.000Z"
   },
   {
     "site": "Qiita",
@@ -48,12 +66,6 @@
     "pubDate": "Sat, 24 Oct 2026 08:24:15 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Laravel を IdP にして Ory Hydra で SSO を組み、PHP 5.6 のレガシーアプリも認証ブローカーで乗せる",
-    "link": "https://zenn.dev/sprix_it/articles/464d97d1ebdbfd",
-    "pubDate": "Sat, 24 Oct 2026 08:22:24 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【書評】プロフェッショナルAI駆動開発を読んだ",
     "link": "https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -66,10 +78,22 @@
     "pubDate": "2026-10-24T07:22:52.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
+    "link": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
+    "pubDate": "Sat, 24 Oct 2026 06:57:58 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "決定的なフロントエンドアーキテクチャがいい",
-    "link": "https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend",
-    "pubDate": "2026-10-24T06:24:33.000Z"
+    "title": "入社4ヶ月で 2つのプロダクトの撤退判断",
+    "link": "https://speakerdeck.com/tkt42u19421/nyuusha-4-kagetsude-2-tsu-no-purodakuto-no-tettai-handan",
+    "pubDate": "2026-10-24T06:14:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
+    "link": "https://katashin.info/slides/satisfying-ui-animation/",
+    "pubDate": "2026-10-24T05:49:49.000Z"
   },
   {
     "site": "Zenn",
@@ -78,10 +102,10 @@
     "pubDate": "Sat, 24 Oct 2026 04:59:37 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Building agents: When to fold subagents into your main agent loop",
-    "link": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-    "pubDate": "2026-10-24T04:26:57.000Z"
+    "site": "Qiita",
+    "title": "「ドパ資料」の作り方 - Qiita",
+    "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&utm_medium=facebook",
+    "pubDate": "2026-10-24T03:18:03.000Z"
   },
   {
     "site": "Zenn",
@@ -102,40 +126,22 @@
     "pubDate": "Sat, 24 Oct 2026 02:11:58 GMT"
   },
   {
+    "site": "Zenn",
+    "title": "YubiKey買って、OpenAI Daybreak Blueゲットして、vibe脆弱性診断してみた。",
+    "link": "https://zenn.dev/nassy/articles/d143c945bd5ca5",
+    "pubDate": "Sat, 24 Oct 2026 00:52:44 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "AIに美容室の社長を演じてもらい、コアドメインを探すヒアリング練習をしたら「強み」を掴めなかった話",
     "link": "https://qiita.com/ken_risu_dev/items/c2e392bdb0d8ffd50fc6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-23T23:16:55.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図",
-    "link": "https://zenn.dev/shun0530/articles/32946ce85a536d",
-    "pubDate": "Fri, 23 Oct 2026 13:01:10 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIサイバー対策緊急提言 | チームみらい",
-    "link": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
-    "pubDate": "2026-10-23T12:51:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI隆盛期に考える、情シス的セキュリティのあれこれ",
-    "link": "https://zenn.dev/kinasato_mochi/articles/db662a5909ea19",
-    "pubDate": "Fri, 23 Oct 2026 12:41:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介",
     "link": "https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-23T09:11:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "みんなはどのダークパターン広告が好き？ - orangestar2",
-    "link": "https://orangestar2.hatenadiary.com/entry/2026/10/23/163042",
-    "pubDate": "2026-10-23T08:42:25.000Z"
   },
   {
     "site": "Qiita",
@@ -150,22 +156,10 @@
     "pubDate": "2026-10-23T06:50:22.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
-    "link": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
-    "pubDate": "Fri, 23 Oct 2026 05:50:11 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "作って終わりじゃない。PHP騒動から考えるAI時代のモノづくり",
     "link": "https://qiita.com/benjuwan/items/dfdf178488106c6dcb70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-23T05:30:13.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）",
-    "link": "https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0",
-    "pubDate": "Fri, 23 Oct 2026 01:30:05 GMT"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法",
     "link": "https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-22T04:46:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「ドパ資料」の作り方 - Qiita",
+    "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d",
+    "pubDate": "2026-10-21T11:52:45.000Z"
   }
 ]
