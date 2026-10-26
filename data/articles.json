@@ -1,5 +1,59 @@
 [
   {
+    "site": "Zenn",
+    "title": "昨今のセキュリティ情勢を踏まえて、Azure のセキュリティ系新資格 SC-500 を受けてみた【合格体験記】",
+    "link": "https://zenn.dev/microsoft/articles/112ff28ccc30e3",
+    "pubDate": "Mon, 26 Oct 2026 18:01:40 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2151317.html",
+    "pubDate": "2026-10-26T14:14:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "有機ELの新型「iPad mini」発表　A20 Pro、IP67対応、8.5型に大型化して11万9800円から",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news081.html",
+    "pubDate": "2026-10-26T14:10:23.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "学生2人で日本語音声LLMを作り、FT-LLM 2026 自由形タスクで1位を獲得した話",
+    "link": "https://zenn.dev/ayutaso/articles/ftllm2026-ja-speech-llm",
+    "pubDate": "Mon, 26 Oct 2026 13:54:50 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Apple、iPad miniに史上最大のアップデートを導入",
+    "link": "https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "pubDate": "2026-10-26T13:38:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天トラベルに不正アクセス、顧客情報260万件流出か　クレカ3万件も - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/",
+    "pubDate": "2026-10-26T11:57:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20261026-475703/",
+    "pubDate": "2026-10-26T11:57:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "実際に試したClaude便利術20選 まとめ",
+    "link": "https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-26T11:05:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "OpenWrt 25.12のadblock 4.5に豆腐フィルタを適用する（ruleの書式が変わった）",
+    "link": "https://zenn.dev/yotan/articles/openwrt-25-adblock-tofu-filter",
+    "pubDate": "Mon, 26 Oct 2026 10:49:33 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "「年齢は合ってますが、人間ではありません」　6歳の飼い猫に届いた“進研ゼミの案内”　なぜ届いたのかベネッセに聞いた",
     "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002597/",
@@ -13,27 +67,27 @@
   },
   {
     "site": "Hatena",
-    "title": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も | NHKニュース",
+    "title": "「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2151194.html",
+    "pubDate": "2026-10-26T08:48:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も | NHKニュース",
     "link": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
     "pubDate": "2026-10-26T08:44:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ",
-    "link": "https://tech.classi.jp/entry/2026/10/26/163000",
-    "pubDate": "2026-10-26T08:08:37.000Z"
+    "site": "Zenn",
+    "title": "Vue Fes Japan 2026 「 Vite+への貢献と、Team Memberになって見えてきた風景」スピーカーノート",
+    "link": "https://zenn.dev/comm_vue_nuxt/articles/33f8491afbc66d",
+    "pubDate": "Mon, 26 Oct 2026 08:44:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "GMO不正アクセス　「能動的サイバー防御」より先にやるべきことは：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html",
-    "pubDate": "2026-10-26T07:32:00.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "どこから始めるか ― 財源幻想脱却の制度的ロードマップ : システム設計視点の行動経済学 (49)",
-    "link": "https://qiita.com/maskot1977/items/f1b4c5d0be3ad99f74ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-26T06:02:10.000Z"
+    "site": "Zenn",
+    "title": "AI時代のアーキテクチャ：実装を任せるために、詳細設計を自分のものにする",
+    "link": "https://zenn.dev/simplex/articles/f2b41d3367e9c7",
+    "pubDate": "Mon, 26 Oct 2026 07:02:56 GMT"
   },
   {
     "site": "Zenn",
@@ -54,22 +108,16 @@
     "pubDate": "2026-10-26T02:01:28.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。",
-    "link": "https://onaji.me/entry/2026/10/26",
-    "pubDate": "2026-10-26T02:00:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "無料の画像生成AI「Moss-Image」がすごい　日本語も漫画も生成、商用利用OKの実力を試した (1/4)",
-    "link": "https://ascii.jp/elem/000/004/445/4445534/",
-    "pubDate": "2026-10-26T01:54:11.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "エンジニア歴数か月の私「理論上、理解できない物事はない」",
     "link": "https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-26T01:50:31.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "VueFes Japan 2026 参加(出展)記",
+    "link": "https://qiita.com/oyashimi_c/items/2272340c078d9281a922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-26T01:34:38.000Z"
   },
   {
     "site": "Zenn",
@@ -84,34 +132,28 @@
     "pubDate": "Mon, 26 Oct 2026 01:00:06 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文",
-    "link": "https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/",
-    "pubDate": "2026-10-26T00:54:55.000Z"
+    "site": "Qiita",
+    "title": "Kimi Codeは遅い。それでも使い道を感じた理由",
+    "link": "https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-26T00:48:54.000Z"
   },
   {
     "site": "Zenn",
-    "title": "スタックトレースを読むとヒープが約1,470 MB増えていた話",
-    "link": "https://zenn.dev/dress_code/articles/f2a51226c9ec6f",
-    "pubDate": "Mon, 26 Oct 2026 00:00:13 GMT"
+    "title": "S3のParquet、そのままSnowflakeで分析しても遅くない？Parquet Directを検証",
+    "link": "https://zenn.dev/snowflakejp/articles/parquet-direct-pruning-benchmark",
+    "pubDate": "Mon, 26 Oct 2026 00:41:46 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加　回避方法は",
-    "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
-    "pubDate": "2026-10-25T23:31:21.000Z"
+    "title": "AIが答えを出す時代に、ヒトは何を学ぶのか？ この問いに応える3冊",
+    "link": "https://dain.cocolog-nifty.com/myblog/2026/10/post-822dc0.html",
+    "pubDate": "2026-10-26T00:02:04.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GMO不正アクセス犯の犯行声明文ビュアー",
-    "link": "https://satoru.net/hacker/gmo/261025-seimei.html",
-    "pubDate": "2026-10-25T23:12:28.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "私が5種類のコーディングエージェントを使い分ける理由",
-    "link": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
-    "pubDate": "Sun, 25 Oct 2026 22:44:03 GMT"
+    "site": "Qiita",
+    "title": "ランチ明けの「続きやって」が一番高い。Claude Code のキャッシュは 1 時間で切れる",
+    "link": "https://qiita.com/araom/items/3d026f2df58c7328aa74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-25T23:28:41.000Z"
   },
   {
     "site": "Qiita",
@@ -121,45 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた",
-    "link": "https://qiita.com/songchong/items/235bed0f8c72f268477e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-25T19:00:21.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装",
-    "link": "https://zenn.dev/hotaka_noda/articles/74a3b28185af5c",
-    "pubDate": "Sun, 25 Oct 2026 13:58:04 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？",
     "link": "https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-25T13:54:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】",
-    "link": "https://zenn.dev/mana1001/articles/homelab-01-install",
-    "pubDate": "Sun, 25 Oct 2026 09:47:50 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AWS re:Invent準備】女性向け持ち物をまとめてみた",
-    "link": "https://qiita.com/hoshi7_n/items/de663b2bea8e87c2984f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-25T04:25:36.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "600人規模のイベント運営を支えたインカムを、学生1人で作った話",
-    "link": "https://zenn.dev/kodak_20/articles/3b0ba74333b56c",
-    "pubDate": "Sat, 24 Oct 2026 17:23:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Flutter アプリを iPhone Duo の「縦帯」に対応させる",
-    "link": "https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar",
-    "pubDate": "Sat, 24 Oct 2026 16:59:46 GMT"
   },
   {
     "site": "Qiita",
@@ -169,14 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "【書評】プロフェッショナルAI駆動開発を読んだ",
-    "link": "https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-24T07:39:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介",
-    "link": "https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-23T09:11:47.000Z"
+    "title": "「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来",
+    "link": "https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-24T14:42:12.000Z"
   }
 ]
