@@ -1,9 +1,51 @@
 [
   {
+    "site": "Zenn",
+    "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
+    "link": "https://zenn.dev/layerx/articles/a277f83a93d300",
+    "pubDate": "Fri, 30 Oct 2026 02:11:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "2026年自分流AIエージェント環境構築の秋",
+    "link": "https://zenn.dev/rescuenow/articles/49826fc6cc2713",
+    "pubDate": "Fri, 30 Oct 2026 00:55:31 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "歌手・矢野顕子氏「音楽のプロとは思えない質問ですいませんが、CDをiPhoneやPCに取り込む方法を教えてください」→専用レコーダーやiTunesなど様々な方法が集まる",
-    "link": "https://togetter.com/li/2764323",
-    "pubDate": "2026-10-29T13:50:04.000Z"
+    "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
+    "link": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
+    "pubDate": "2026-10-30T00:38:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "メルセンヌ・ツイスタ。PythonやC++でも使われる、世界標準「擬似乱数」の設計思想【松本眞】 - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_959/",
+    "pubDate": "2026-10-30T00:24:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Linuxカーネルに重大な脆弱性「CVE-2026-98432」、CVSS 9.8 Claudeが遠隔root権限実行を実証|セキュリティニュースのセキュリティ対策Lab",
+    "link": "https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/",
+    "pubDate": "2026-10-29T22:47:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GMO犯人捜索マップ",
+    "link": "https://satoru.net/hacker/gmo/261029-map.html",
+    "pubDate": "2026-10-29T22:46:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
+    "link": "https://tech.findy.co.jp/entry/2026/10/30/070000",
+    "pubDate": "2026-10-29T22:25:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰",
+    "link": "https://note.com/hgffdgn654/n/n92467b83a1c1",
+    "pubDate": "2026-10-29T14:57:36.000Z"
   },
   {
     "site": "Hatena",
@@ -18,22 +60,16 @@
     "pubDate": "2026-10-29T11:26:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される",
-    "link": "https://gigazine.net/news/20261029-anti-ai-words-in-script/",
-    "pubDate": "2026-10-29T11:05:08.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
     "link": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
     "pubDate": "Thu, 29 Oct 2026 10:30:05 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践",
-    "link": "https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen",
-    "pubDate": "2026-10-29T10:23:25.000Z"
+    "site": "Zenn",
+    "title": "ローカルLLMは本当に騒がれてるほどか？ Qwen3.8-Flash-Nextの4bit版を家で動かして確かめた",
+    "link": "https://zenn.dev/yumeno/articles/strata-flash-next-iq4xs-80gb",
+    "pubDate": "Thu, 29 Oct 2026 10:12:20 GMT"
   },
   {
     "site": "Hatena",
@@ -42,10 +78,16 @@
     "pubDate": "2026-10-29T09:34:31.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "厳格にルール化すると面倒だからいい感じにして運用してたのに、それを悪用しまくる人が出てくると仕方なく厳しくして全員が苦しむ現象ってあるよね",
-    "link": "https://togetter.com/li/2764263",
-    "pubDate": "2026-10-29T08:52:04.000Z"
+    "site": "Zenn",
+    "title": "GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！",
+    "link": "https://zenn.dev/progate/articles/24b1140180300c",
+    "pubDate": "2026-10-29T09:02:09.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
+    "link": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
+    "pubDate": "Thu, 29 Oct 2026 08:26:16 GMT"
   },
   {
     "site": "Qiita",
@@ -55,15 +97,15 @@
   },
   {
     "site": "Zenn",
+    "title": "ViewModelのありがたみを改めて考えてみる",
+    "link": "https://zenn.dev/schottman13/articles/4471c3657715f2",
+    "pubDate": "Thu, 29 Oct 2026 06:10:15 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？",
     "link": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
     "pubDate": "Thu, 29 Oct 2026 05:00:29 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "CVE-2026-98432 | Ubuntu",
-    "link": "https://ubuntu.com/security/CVE-2026-98432",
-    "pubDate": "2026-10-29T04:39:46.000Z"
   },
   {
     "site": "Hatena",
@@ -90,28 +132,10 @@
     "pubDate": "Thu, 29 Oct 2026 03:17:06 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeを褒めちぎってみた",
-    "link": "https://zenn.dev/devlog/articles/abc194ecf04dfc",
-    "pubDate": "Thu, 29 Oct 2026 03:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenSearchのLLM-as-a-Judgeを日本語の商品検索で動かして、人手ラベルと比べてみた",
-    "link": "https://zenn.dev/nextbeat/articles/c22b45b1d784b0",
-    "pubDate": "Thu, 29 Oct 2026 02:55:28 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "Orchestrator型 vs 自己組織化型 ― Microsoft Research の OSS「Agensh」から考える、Agentic Workflow の行き先",
     "link": "https://qiita.com/shahin0809/items/145266dc899e8b490e59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-29T02:47:47.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "PHP5.4 から PHP8.5へ",
-    "link": "https://zenn.dev/ctrlzr/articles/5a88eb939b3bfd",
-    "pubDate": "Thu, 29 Oct 2026 02:37:00 GMT"
   },
   {
     "site": "Qiita",
@@ -127,21 +151,9 @@
   },
   {
     "site": "Qiita",
-    "title": "「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べた",
+    "title": "「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べてみた",
     "link": "https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-28T14:53:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
-    "link": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
-    "pubDate": "Wed, 28 Oct 2026 10:14:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "人間が見るのは設計書だけ ― PdM不在・バグ修正中心のチームで、AI-DLCを開発フローごと作り直した話",
-    "link": "https://zenn.dev/canly/articles/85dc645c252832",
-    "pubDate": "Wed, 28 Oct 2026 07:55:08 GMT"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
     "link": "https://qiita.com/minorun365/items/59783841e48f5467594f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-27T01:03:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "最近の E2E 戦略（2026 年 10 月現在）",
-    "link": "https://zenn.dev/polyco/articles/26624b38c951b5",
-    "pubDate": "2026-10-26T11:40:05.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - tester-army/e2e: Next generation e2e testing framework for web and mobile apps.",
-    "link": "https://github.com/tester-army/e2e",
-    "pubDate": "2026-10-03T05:21:41.000Z"
   }
 ]
