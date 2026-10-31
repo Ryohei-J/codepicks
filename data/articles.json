@@ -1,15 +1,57 @@
 [
   {
     "site": "Hatena",
-    "title": "「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
-    "pubDate": "2026-10-31T02:15:33.000Z"
+    "title": "GMO不正侵入、システム脆弱性を2年前に把握　子会社指摘も対策後手 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/",
+    "pubDate": "2026-10-31T08:05:25.000Z"
   },
   {
     "site": "Hatena",
-    "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
-    "link": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
-    "pubDate": "2026-10-30T22:33:17.000Z"
+    "title": "OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/10/31/5657.html",
+    "pubDate": "2026-10-31T07:41:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
+    "link": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
+    "pubDate": "Sat, 31 Oct 2026 06:40:40 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "(PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)",
+    "link": "https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf",
+    "pubDate": "2026-10-31T05:03:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張",
+    "link": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
+    "pubDate": "2026-10-31T02:56:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断 - モデルプレス",
+    "link": "https://mdpr.jp/news/detail/4862863",
+    "pubDate": "2026-10-31T02:23:28.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "【最速解説】goda.vimでHello, worldする",
+    "link": "https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim",
+    "pubDate": "Sat, 31 Oct 2026 01:57:43 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "もう無理｜ひでと",
+    "link": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
+    "pubDate": "2026-10-31T01:30:40.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GPUで動いてるLLMの中でCPUが動く?・・・何を言ってるかわからねえと思うが、とにかくQwenputerを追試して分かったこと、分からなかったこと｜shi3z",
+    "link": "https://note.com/shi3zblog/n/nadf4c6873d6d",
+    "pubDate": "2026-10-30T23:43:11.000Z"
   },
   {
     "site": "Hatena",
@@ -18,28 +60,46 @@
     "pubDate": "2026-10-30T22:18:39.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/10/30/230303",
-    "pubDate": "2026-10-30T15:04:52.000Z"
+    "site": "Zenn",
+    "title": "【Apple Vision Pro】Immersive Spaceを閉じた後のonDisappear、シミュレーターと実機で桁違いだった件",
+    "link": "https://zenn.dev/mrs1669/articles/20261031_visionos-dismiss-immersive-space",
+    "pubDate": "Fri, 30 Oct 2026 21:19:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "文章のAIっぽさを抑えるプロンプト",
-    "link": "https://imoz.jp/scraps/202610_humanizer.html",
-    "pubDate": "2026-10-30T14:00:14.000Z"
+    "site": "Qiita",
+    "title": "デフォルト設定としての沈黙 ― 現状バイアスが並行社会を許容する : システム設計視点の行動経済学 (53)",
+    "link": "https://qiita.com/maskot1977/items/fc7cd77557e946cac2ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-30T20:30:48.000Z"
   },
   {
     "site": "Zenn",
-    "title": "今後のセキュリティの考え方",
-    "link": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
-    "pubDate": "2026-10-30T11:11:33.000Z"
+    "title": "Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）",
+    "link": "https://zenn.dev/sonsu/articles/67fbd9a1cf8914",
+    "pubDate": "Fri, 30 Oct 2026 18:30:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "NoSQLのスキーマ変更は読むときに受け止めよう",
+    "link": "https://zenn.dev/michiharu/articles/9562dfd249c8e3",
+    "pubDate": "Fri, 30 Oct 2026 16:53:51 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "マルチタスクが苦手なので、Slack の返信と PR レビューを Claude Code に定時で下ごしらえさせている",
+    "link": "https://qiita.com/generoKoki/items/81ca4042e30c42ffe4a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-30T11:21:08.000Z"
   },
   {
     "site": "Hatena",
-    "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
-    "link": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
-    "pubDate": "2026-10-30T11:01:02.000Z"
+    "title": "ブラック・オクトーバー - Wikipedia",
+    "link": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%82%AF%E3%83%88%E3%83%BC%E3%83%90%E3%83%BC",
+    "pubDate": "2026-10-30T10:53:40.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AgentCore GatewayのターゲットにStep Functionsを指定できるようになりました",
+    "link": "https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-30T10:33:25.000Z"
   },
   {
     "site": "Zenn",
@@ -49,33 +109,15 @@
   },
   {
     "site": "Hatena",
-    "title": "RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.",
-    "link": "https://takoratta.hatenablog.com/entry/rememberrdp",
-    "pubDate": "2026-10-30T10:00:58.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "もう「CVSSで重大→修正急務」は限界　「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準",
     "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
     "pubDate": "2026-10-30T09:16:56.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "TelegrafをARMv6で使う",
-    "link": "https://zenn.dev/nauh_blog/articles/3bf7430510d30a",
-    "pubDate": "Fri, 30 Oct 2026 09:00:05 GMT"
   },
   {
     "site": "Qiita",
     "title": "python3_アクティベートについて【初心者向け】",
     "link": "https://qiita.com/saito_next/items/97acdaf4eaca03436a01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-30T08:30:22.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "フロントエンドカンファレンス関西2026に参加しました！",
-    "link": "https://zenn.dev/flagxs/articles/931d7d45292717",
-    "pubDate": "Fri, 30 Oct 2026 07:50:29 GMT"
   },
   {
     "site": "Zenn",
@@ -91,33 +133,15 @@
   },
   {
     "site": "Zenn",
-    "title": "刑事告訴を予告されたとき、AIに「無実の証明」をさせない設計――GMO事案で考えた証拠と判断の境界",
-    "link": "https://zenn.dev/c_a_p_engineer/articles/gmo-legal-threat-ai-evidence-20261030",
-    "pubDate": "Fri, 30 Oct 2026 04:49:33 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "エンジニアが「勝手に育つ時代」は終わった　～エンジニアを育ててきた装置はAIで壊れた～",
-    "link": "https://codezine.jp/article/detail/30081",
-    "pubDate": "2026-10-30T04:00:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Codex のいいところだけを、Claude Code や Muse から使う",
-    "link": "https://qiita.com/tatsuya582/items/4d79021c9f78f4015992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-30T03:58:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "0から学ぶセキュリティの基礎　~XSS編~",
-    "link": "https://qiita.com/Pigeon_gate/items/3ce4e1c1a39db64c5c32?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-30T02:24:34.000Z"
-  },
-  {
-    "site": "Zenn",
     "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
     "link": "https://zenn.dev/layerx/articles/a277f83a93d300",
     "pubDate": "Fri, 30 Oct 2026 02:11:36 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "PostgreSQLで子テーブルへのINSERT後にFOR UPDATEすると、外部キーのロックでデッドロックする理由",
+    "link": "https://qiita.com/shusaku009/items/eb96123c2a0a9008c431?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-30T01:50:28.000Z"
   },
   {
     "site": "Zenn",
@@ -132,22 +156,16 @@
     "pubDate": "2026-10-29T11:37:23.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "「社内OSS」化に向けて決めた、ブランチ・ラベル・リリースの運用",
+    "link": "https://qiita.com/1998_i-airi/items/bda84b83945265e16b53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-29T10:36:11.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年",
     "link": "https://zenn.dev/dress_code/articles/bbc5159fefbd2c",
     "pubDate": "Thu, 29 Oct 2026 10:30:05 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "GitHub Copilot SDK の追悼式場を Azure で作ってみた（300 人が同時に押しても数が欠けない構成）",
-    "link": "https://qiita.com/shahin0809/items/d337af6f1b64a9c6ae53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-29T10:20:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない",
-    "link": "https://zenn.dev/karamage/articles/ac71f1c89c73ff",
-    "pubDate": "Thu, 29 Oct 2026 08:26:16 GMT"
   },
   {
     "site": "Qiita",
@@ -156,27 +174,9 @@
     "pubDate": "2026-10-29T08:11:44.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？",
-    "link": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
-    "pubDate": "Thu, 29 Oct 2026 05:00:29 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べてみた",
     "link": "https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-28T14:53:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GA4 のイベントが「gtag.js の読み込み前」に静かに消えていた：Next.js の2サイトで見つけた3つの壊れ方と直し方",
-    "link": "https://qiita.com/yamadagenki/items/d35d769e9771997de3be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-28T12:08:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "研修中の僕がSlackに海外のIT情報を運ぶbotを作ったら、だいたい何が起きたか",
-    "link": "https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-28T02:44:24.000Z"
   }
 ]
