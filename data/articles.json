@@ -1,6 +1,36 @@
 [
   {
     "site": "Hatena",
+    "title": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261031de69024",
+    "pubDate": "2026-10-31T12:04:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GeoJSON入門　JSONで地図の点・線・面を表す仕組み - 一色政彦の技術ノート",
+    "link": "https://blog.masahiko.info/entry/2026/10/31/113000",
+    "pubDate": "2026-10-31T10:59:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "メモリ買い占める側が発言。アルトマンCEO「個人PCのメモリは使われてない、ひどい配分なのでクラウドに集約すべき」 - すまほん!!",
+    "link": "https://smhn.info/202610-sam-altman-pc-dram-quite-terrible-cloud",
+    "pubDate": "2026-10-31T09:02:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "偽コンサルの一生 - 孤独な弧度法",
+    "link": "https://2arctan-1.hatenablog.com/entry/2026/10/31/125102",
+    "pubDate": "2026-10-31T08:31:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "タッチに対応した新しいMacBook Proに思うこと - Karagana Park",
+    "link": "https://krgn1002.com/2026/10/thoughts-on-the-new-macbook-pro-with-proled-xdr-display/",
+    "pubDate": "2026-10-31T08:27:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GMO不正侵入、システム脆弱性を2年前に把握　子会社指摘も対策後手 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/",
     "pubDate": "2026-10-31T08:05:25.000Z"
@@ -19,21 +49,15 @@
   },
   {
     "site": "Hatena",
-    "title": "(PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)",
-    "link": "https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf",
-    "pubDate": "2026-10-31T05:03:14.000Z"
+    "title": "1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc",
+    "link": "https://sizu.me/hayatosc/posts/oxi9cff8k2bn",
+    "pubDate": "2026-10-31T03:55:45.000Z"
   },
   {
     "site": "Hatena",
     "title": "OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張",
     "link": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
     "pubDate": "2026-10-31T02:56:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断 - モデルプレス",
-    "link": "https://mdpr.jp/news/detail/4862863",
-    "pubDate": "2026-10-31T02:23:28.000Z"
   },
   {
     "site": "Zenn",
@@ -46,18 +70,6 @@
     "title": "もう無理｜ひでと",
     "link": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
     "pubDate": "2026-10-31T01:30:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GPUで動いてるLLMの中でCPUが動く?・・・何を言ってるかわからねえと思うが、とにかくQwenputerを追試して分かったこと、分からなかったこと｜shi3z",
-    "link": "https://note.com/shi3zblog/n/nadf4c6873d6d",
-    "pubDate": "2026-10-30T23:43:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "小学生の絵に「AIくさい」　中傷相次ぎしょうゆコンクール公開中止：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html",
-    "pubDate": "2026-10-30T22:18:39.000Z"
   },
   {
     "site": "Zenn",
@@ -90,12 +102,6 @@
     "pubDate": "2026-10-30T11:21:08.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ブラック・オクトーバー - Wikipedia",
-    "link": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%82%AF%E3%83%88%E3%83%BC%E3%83%90%E3%83%BC",
-    "pubDate": "2026-10-30T10:53:40.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AgentCore GatewayのターゲットにStep Functionsを指定できるようになりました",
     "link": "https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -106,12 +112,6 @@
     "title": "今後のセキュリティの考え方",
     "link": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
     "pubDate": "Fri, 30 Oct 2026 10:30:27 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "もう「CVSSで重大→修正急務」は限界　「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
-    "pubDate": "2026-10-30T09:16:56.000Z"
   },
   {
     "site": "Qiita",
