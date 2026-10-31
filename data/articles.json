@@ -1,6 +1,12 @@
 [
   {
     "site": "Hatena",
+    "title": "自分の本名を検索したらAIで要約されて表示されるのだが個人情報がダダ漏れしている？「これは本当に怖い」「ネットに上がってる情報をまとめただけだから…」",
+    "link": "https://togetter.com/li/2765128",
+    "pubDate": "2026-10-31T13:01:18.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース",
     "link": "https://news.web.nhk/newsweb/na/nd-20261031de69024",
     "pubDate": "2026-10-31T12:04:26.000Z"
@@ -42,10 +48,22 @@
     "pubDate": "2026-10-31T07:41:11.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AIにありがちな「イマイチなコードコメント」9パターン",
+    "link": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-31T07:17:19.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました",
     "link": "https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae",
     "pubDate": "Sat, 31 Oct 2026 06:40:40 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ADRを書いて、AIに \"Why\" を理解させよう【Architecture Decision Record】",
+    "link": "https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-31T05:31:15.000Z"
   },
   {
     "site": "Hatena",
@@ -66,10 +84,16 @@
     "pubDate": "Sat, 31 Oct 2026 01:57:43 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "もう無理｜ひでと",
-    "link": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
-    "pubDate": "2026-10-31T01:30:40.000Z"
+    "site": "Qiita",
+    "title": "Jetpack AppState TransformとStateStore",
+    "link": "https://qiita.com/Nabe1216/items/cf6dec7247169b4a881b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-31T01:20:38.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Docker入門】Ubuntu 24.04コンテナ環境構築",
+    "link": "https://qiita.com/NoguchiHikaru/items/dccd98d85a31c0cec279?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-31T00:07:52.000Z"
   },
   {
     "site": "Zenn",
@@ -102,12 +126,6 @@
     "pubDate": "2026-10-30T11:21:08.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AgentCore GatewayのターゲットにStep Functionsを指定できるようになりました",
-    "link": "https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-30T10:33:25.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "今後のセキュリティの考え方",
     "link": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
@@ -115,9 +133,9 @@
   },
   {
     "site": "Qiita",
-    "title": "python3_アクティベートについて【初心者向け】",
-    "link": "https://qiita.com/saito_next/items/97acdaf4eaca03436a01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-30T08:30:22.000Z"
+    "title": "誤ってマルウェアを実行してしまった私が、AIとREA（Reverse Engineer Anything）に救われた話",
+    "link": "https://qiita.com/TOMOSIA-LinhND/items/3dec10762fcc224d9133?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-30T09:45:50.000Z"
   },
   {
     "site": "Zenn",
@@ -132,34 +150,22 @@
     "pubDate": "2026-10-30T06:39:46.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "WordPressの脆弱性「wp2shell」を狙った攻撃の観測",
+    "link": "https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-30T05:00:30.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
     "link": "https://zenn.dev/layerx/articles/a277f83a93d300",
     "pubDate": "Fri, 30 Oct 2026 02:11:36 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "PostgreSQLで子テーブルへのINSERT後にFOR UPDATEすると、外部キーのロックでデッドロックする理由",
-    "link": "https://qiita.com/shusaku009/items/eb96123c2a0a9008c431?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-30T01:50:28.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
     "link": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
     "pubDate": "Fri, 30 Oct 2026 00:45:50 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "人生初ライブラリunder-liquid-glassを公開しました！",
-    "link": "https://qiita.com/ocean6954/items/3e826fbb5b26aedbc887?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-29T11:37:23.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「社内OSS」化に向けて決めた、ブランチ・ラベル・リリースの運用",
-    "link": "https://qiita.com/1998_i-airi/items/bda84b83945265e16b53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-29T10:36:11.000Z"
   },
   {
     "site": "Zenn",
@@ -172,11 +178,5 @@
     "title": "AIはどれくらい動画編集ができるのか!? Claude CodeでYouTube動画編集した話",
     "link": "https://qiita.com/tsukasa_japan/items/b8bca096170d087e271d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-29T08:11:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べてみた",
-    "link": "https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-28T14:53:27.000Z"
   }
 ]
