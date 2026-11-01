@@ -1,9 +1,75 @@
 [
   {
+    "site": "Qiita",
+    "title": "compact の使い方、間違えるとトークン代 2.75 倍？ Claude Code で測ってわかった 5 つの結論【2026年版】",
+    "link": "https://qiita.com/songchong/items/ac9779bb8e8838b546b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-01T19:05:20.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能",
-    "link": "https://gigazine.net/news/20261101-voicestudio/",
-    "pubDate": "2026-11-01T09:19:34.000Z"
+    "title": "【独自】GMO攻撃、北朝鮮ハッカーか　複数の痕跡、政府に報告",
+    "link": "https://www.47news.jp/15170379.html",
+    "pubDate": "2026-11-01T14:23:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自作PWAをTailscale Serveで配るのが便利だった話",
+    "link": "https://zenn.dev/6uclz1/articles/43e803ec9d54dd",
+    "pubDate": "2026-11-01T14:17:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買されており、その対策にはブラウザを使い分けることが有効らしい (2ページ目)",
+    "link": "https://togetter.com/li/2765521?page=2",
+    "pubDate": "2026-11-01T13:50:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買されており、その対策にはブラウザを使い分けることが有効らしい",
+    "link": "https://togetter.com/li/2765521",
+    "pubDate": "2026-11-01T12:12:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね？」ということで、音楽理論やコード進行が全くわからなくても音楽が作れる作曲ツールを作った",
+    "link": "https://togetter.com/li/2765526",
+    "pubDate": "2026-11-01T12:12:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【速報】GMO不正アクセス、北朝鮮関与か",
+    "link": "https://www.47news.jp/15170287.html",
+    "pubDate": "2026-11-01T11:43:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "HonoがPRを閉じた理由",
+    "link": "https://slides.yusu.ke/foss4g-2026",
+    "pubDate": "2026-11-01T11:35:27.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - nishikawaakira/waf-dojo: Hands-on AWS WAF training game",
+    "link": "https://github.com/nishikawaakira/waf-dojo",
+    "pubDate": "2026-11-01T09:00:41.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
+    "link": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-01T08:41:55.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIに証明を書かせてセキュアに開発する言語 Tauto をリリースしました！",
+    "link": "https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-01T08:06:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ISUCON 2026 参加記",
+    "link": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
+    "pubDate": "Sun, 01 Nov 2026 03:40:42 GMT"
   },
   {
     "site": "Qiita",
@@ -13,45 +79,27 @@
   },
   {
     "site": "Hatena",
-    "title": "GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,",
-    "link": "https://github.com/vercel-labs/agent-desktop",
-    "pubDate": "2026-11-01T02:51:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-    "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-    "pubDate": "2026-11-01T00:58:30.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "いらすとや、ファンが生息域踏査　AIに押されサイト訪問者は減少 - 日本経済新聞",
     "link": "https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/",
     "pubDate": "2026-11-01T00:48:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "FF14が「毎日ログイン前提」を見直す。吉田直樹が挑む、プレイヤーの時間を奪わないゲーム設計 - エンジニアtype | 転職type",
-    "link": "https://type.jp/et/feature/32071/",
-    "pubDate": "2026-10-31T23:39:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "streamAppendHTML() で AI の回答を HTML のままストリーミング描画する",
-    "link": "https://azukiazusa.dev/blog/stream-append-html/",
-    "pubDate": "2026-10-31T23:34:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "楽天証券、顧客情報流出の可能性　NTTデータ委託先不正アクセスで",
-    "link": "https://japan.cnet.com/article/35254251/",
-    "pubDate": "2026-10-31T23:27:23.000Z"
+    "site": "Qiita",
+    "title": "JavaScriptのdocumentをインスタンス化せずに使える理由とDOMの実体を調べてみた",
+    "link": "https://qiita.com/yukmaru/items/7ef2bebeb3e227baa8d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-10-31T17:41:28.000Z"
   },
   {
     "site": "Qiita",
     "title": "APEXlangでVibe Coding：画面デザイン集",
     "link": "https://qiita.com/araidon/items/d38d616dce3b3e3109c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-10-31T13:58:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ISUCON2026 本番に出た",
+    "link": "https://zenn.dev/ntk221/articles/98b17a773669a1",
+    "pubDate": "Sat, 31 Oct 2026 13:14:45 GMT"
   },
   {
     "site": "Zenn",
@@ -108,28 +156,10 @@
     "pubDate": "Sat, 31 Oct 2026 01:57:43 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "【Docker入門】Ubuntu 24.04コンテナ環境構築",
-    "link": "https://qiita.com/NoguchiHikaru/items/dccd98d85a31c0cec279?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-31T00:07:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab",
-    "link": "https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/",
-    "pubDate": "2026-10-30T22:48:42.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "今後のセキュリティの考え方",
     "link": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
     "pubDate": "Fri, 30 Oct 2026 10:30:27 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
-    "link": "https://techblog.kazaneya.com/20261030-agent-skills/",
-    "pubDate": "2026-10-30T10:18:57.000Z"
   },
   {
     "site": "Qiita",
@@ -139,39 +169,9 @@
   },
   {
     "site": "Zenn",
-    "title": "IVRyのSREの取り組み 2026冬",
-    "link": "https://zenn.dev/ivry/articles/70d4f05ce4ae5c",
-    "pubDate": "Fri, 30 Oct 2026 07:50:00 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "SSM Session Managerを使ってDBに接続する",
-    "link": "https://qiita.com/j-yasukawa/items/701554f14fe8b02ff34e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-30T06:39:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "WordPressの脆弱性「wp2shell」を狙った攻撃の観測",
-    "link": "https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-30T05:00:30.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介",
-    "link": "https://zenn.dev/layerx/articles/a277f83a93d300",
-    "pubDate": "Fri, 30 Oct 2026 02:11:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
-    "link": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
-    "pubDate": "Fri, 30 Oct 2026 00:45:50 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "人生初ライブラリunder-liquid-glassを公開しました！",
-    "link": "https://qiita.com/ocean6954/items/3e826fbb5b26aedbc887?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-29T11:37:23.000Z"
+    "title": "Cloudflare Workers を触ってみた",
+    "link": "https://zenn.dev/atware/articles/ec1dfd799289b7",
+    "pubDate": "Fri, 30 Oct 2026 05:01:51 GMT"
   },
   {
     "site": "Hatena",
