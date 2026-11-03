@@ -1,21 +1,81 @@
 [
   {
     "site": "Hatena",
-    "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e",
-    "pubDate": "2026-11-02T14:12:40.000Z"
+    "title": "皆が突貫で作ったと思ってるGMOの会見で使われたこのスライドは、実は今年2月の決算説明資料の再掲なんだよ→なかなかインパクトのある中身だった",
+    "link": "https://togetter.com/li/2766163",
+    "pubDate": "2026-11-03T09:08:36.000Z"
   },
   {
     "site": "Zenn",
-    "title": "ISUCON2026 で優勝しました（当日編）",
-    "link": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
-    "pubDate": "2026-11-02T13:50:45.000Z"
+    "title": "ADRをregoでlintする",
+    "link": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+    "pubDate": "Tue, 03 Nov 2026 07:59:33 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
+    "link": "https://anond.hatelabo.jp/20261103160506",
+    "pubDate": "2026-11-03T07:06:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI書道コンクール",
+    "link": "https://aishodo.enpitsu.org/",
+    "pubDate": "2026-11-03T04:55:10.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "営業こそコミュニティでは「No sell」でいよう",
+    "link": "https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-03T04:13:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物理キーが注目を集め、売り切れが相次いでいる→導入前に知っておきたい注意点は？",
+    "link": "https://togetter.com/li/2766080",
+    "pubDate": "2026-11-03T03:56:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Protocol Explorer · Learn how the internet works",
+    "link": "https://protocol-explorer-alpha.vercel.app/",
+    "pubDate": "2026-11-03T03:40:37.000Z"
   },
   {
     "site": "Zenn",
-    "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
-    "link": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-    "pubDate": "2026-11-02T13:27:31.000Z"
+    "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+    "link": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+    "pubDate": "Tue, 03 Nov 2026 03:30:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power",
+    "link": "https://zenn.dev/ryuchama/articles/forge-svc-power-account",
+    "pubDate": "Tue, 03 Nov 2026 02:25:50 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
+    "pubDate": "2026-11-02T23:52:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Human-out-of-the-loop(もどき)で戦うISUCON2026 (301,558 点 | 12 位)",
+    "link": "https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b",
+    "pubDate": "Mon, 02 Nov 2026 14:52:35 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
+    "link": "https://fukabori.fm/episode/142",
+    "pubDate": "2026-11-02T14:50:40.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub Copilot App のサンドボックスで .NET アプリを開発するための設定を試してみた",
+    "link": "https://zenn.dev/microsoft/articles/copilot-app-dotnet-windows-sandbox",
+    "pubDate": "Mon, 02 Nov 2026 13:51:52 GMT"
   },
   {
     "site": "Zenn",
@@ -24,40 +84,22 @@
     "pubDate": "Mon, 02 Nov 2026 13:26:09 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ARCHITECTURE.md",
-    "link": "https://architecture.md/",
-    "pubDate": "2026-11-02T12:45:56.000Z"
+    "site": "Zenn",
+    "title": "Tauto で型付き言語を作る: 型付け規則から証明付きの検査器を生成する",
+    "link": "https://zenn.dev/ryo33/articles/tauto-typed-lang-proof",
+    "pubDate": "Mon, 02 Nov 2026 12:06:50 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
-    "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
-    "pubDate": "2026-11-02T12:05:17.000Z"
+    "site": "Zenn",
+    "title": "DeepSeek が描く AI エージェントの未来像",
+    "link": "https://zenn.dev/marvelousu/articles/deepseek-super-agent-design",
+    "pubDate": "Mon, 02 Nov 2026 11:37:23 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2153206.html",
-    "pubDate": "2026-11-02T10:52:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
-    "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/",
-    "pubDate": "2026-11-02T09:54:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本株「ツルハシ神話」に陰り　AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
-    "pubDate": "2026-11-02T09:47:11.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「日本の防衛はAIで優位に」　米パランティアCEOインタビュー - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
-    "pubDate": "2026-11-02T09:06:32.000Z"
+    "site": "Zenn",
+    "title": "【LLMOps】FDEの開発を支えるトレーシング基盤の開発",
+    "link": "https://zenn.dev/aishift/articles/e761cff4f079cd",
+    "pubDate": "Mon, 02 Nov 2026 09:00:08 GMT"
   },
   {
     "site": "Qiita",
@@ -79,45 +121,9 @@
   },
   {
     "site": "Qiita",
-    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 39",
-    "link": "https://qiita.com/maskot1977/items/5184c2ead8309c1095d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-02T06:33:07.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "見える被害と見えない被害 ― 利用可能性ヒューリスティックの逆転 : システム設計視点の行動経済学 (54)",
-    "link": "https://qiita.com/maskot1977/items/124e3010ec939c1d910b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-02T06:10:48.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
-    "link": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
-    "pubDate": "Mon, 02 Nov 2026 06:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "日本の全法令を git の履歴にしてみた",
-    "link": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
-    "pubDate": "2026-11-02T05:17:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake: Optima Clustering による 1KB クラスタリングキーでの日本語フィルタの改善",
-    "link": "https://zenn.dev/snowflakejp/articles/d907c02698d748",
-    "pubDate": "Mon, 02 Nov 2026 04:03:34 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "弊社がAIでPlaywrightテストコードを生成するために調整したこと",
-    "link": "https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude",
-    "pubDate": "Mon, 02 Nov 2026 02:58:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ローカルLLMはどんな業務で使えるのか？ DGX Spark + DeepSeek V4-FlashのSlackチャットボットを評価した",
-    "link": "https://zenn.dev/sompojapan_dx/articles/05f34316118943",
-    "pubDate": "Mon, 02 Nov 2026 00:06:09 GMT"
+    "title": "Qiita Advent Calendar 2026のアップデートの紹介",
+    "link": "https://qiita.com/Qiita/items/64672279a5a83b739f7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-02T06:10:19.000Z"
   },
   {
     "site": "Qiita",
@@ -132,24 +138,6 @@
     "pubDate": "2026-11-01T14:05:25.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
-    "link": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
-    "pubDate": "Sun, 01 Nov 2026 13:58:21 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ISUCON 2026 Writeup / チーム nicklegr",
-    "link": "https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3",
-    "pubDate": "Sun, 01 Nov 2026 12:20:12 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ISUCON2026 にツールを捨てて勝ちたかった",
-    "link": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
-    "pubDate": "Sun, 01 Nov 2026 12:16:33 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
     "link": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -162,10 +150,16 @@
     "pubDate": "2026-11-01T08:06:32.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "パフォーマンスチューニング経験ゼロ、事前準備ゼロでISUCON2026に出て、良い経験になった話",
-    "link": "https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82",
-    "pubDate": "Sun, 01 Nov 2026 04:39:46 GMT"
+    "site": "Hatena",
+    "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
+    "link": "https://ai-data-base.com/archives/139789",
+    "pubDate": "2026-11-01T04:48:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "10か月間レートが停滞した自分が突如黄パフォを出し青コーダーになれた理由",
+    "link": "https://qiita.com/river0525/items/b1a996308f0566a01384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-01T03:30:43.000Z"
   },
   {
     "site": "Qiita",
@@ -174,9 +168,15 @@
     "pubDate": "2026-10-31T13:58:17.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AIにありがちな「イマイチなコードコメント」9パターン",
-    "link": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-10-31T07:17:19.000Z"
+    "site": "Zenn",
+    "title": "コードレビューをなくして見えたもの",
+    "link": "https://zenn.dev/henteko/articles/b76b15922cdf72",
+    "pubDate": "2026-10-21T14:58:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎",
+    "link": "https://note.com/t_yabuhara/n/n7871bfc65d5c",
+    "pubDate": "2025-09-08T08:51:43.000Z"
   }
 ]
