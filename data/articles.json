@@ -1,9 +1,51 @@
 [
   {
     "site": "Hatena",
+    "title": "macOSには単語が冒涜的かどうかを識別する仕組みがある",
+    "link": "https://gigazine.net/news/20261105-macos-vulgar-word-flags/",
+    "pubDate": "2026-11-04T22:24:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "30周年を迎えて | お知らせ | Mac OTAKARA",
+    "link": "https://www.macotakara.jp/etc/category-49/entry-52233.html",
+    "pubDate": "2026-11-04T15:36:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」",
+    "link": "https://gigazine.net/news/20261104-project-nomad/",
+    "pubDate": "2026-11-04T14:13:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "C/Rust/Julia/Go/Java/JS/PyPy/LuaJIT 実行速度ベンチマーク ― 競プロと科学計算のあいだ",
+    "link": "https://zenn.dev/trbx304/articles/34fec79781e39c",
+    "pubDate": "Wed, 04 Nov 2026 13:20:42 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "娘とのクイズ遊びをアプリにしたら、日本語の奥深さを体感した話",
+    "link": "https://zenn.dev/tomipetit/articles/272c4d70a2bf67",
+    "pubDate": "Wed, 04 Nov 2026 12:21:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
+    "link": "https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-04T11:38:50.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止",
     "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
     "pubDate": "2026-11-04T10:13:30.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明",
+    "link": "https://japan.cnet.com/article/35254374/",
+    "pubDate": "2026-11-04T10:06:48.000Z"
   },
   {
     "site": "Hatena",
@@ -24,10 +66,16 @@
     "pubDate": "2026-11-04T09:09:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
-    "link": "https://gigazine.net/news/20261104-ram-altman/",
-    "pubDate": "2026-11-04T07:56:21.000Z"
+    "site": "Zenn",
+    "title": "AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計",
+    "link": "https://zenn.dev/genda_jp/articles/a5cbba3664748b",
+    "pubDate": "Wed, 04 Nov 2026 06:44:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHubのruleset移行時に注意したい、environment secretのブランチ保護仕様",
+    "link": "https://zenn.dev/loglass/articles/a89a8d4ee86559",
+    "pubDate": "Wed, 04 Nov 2026 06:26:41 GMT"
   },
   {
     "site": "Qiita",
@@ -42,22 +90,22 @@
     "pubDate": "Wed, 04 Nov 2026 05:42:59 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-    "link": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
-    "pubDate": "2026-11-04T05:25:42.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "「ヘリの爆音で妻がノイローゼに」　GMO熊谷代表の「迷惑行為」を近隣住民が明かす　モデルを集めて「シャンパンパーティー」に「もう勘弁してほしい」 | デイリー新潮",
-    "link": "https://www.dailyshincho.jp/article/2026/11041149/",
-    "pubDate": "2026-11-04T05:17:34.000Z"
+    "title": "ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo",
+    "link": "https://hashout.jp/ai/13689/",
+    "pubDate": "2026-11-04T04:57:27.000Z"
   },
   {
     "site": "Qiita",
     "title": "AWS IAMポリシーのAllowとDenyの違いを検証してみた",
     "link": "https://qiita.com/AkiraTakasaki/items/e8f4f15d941a213a718f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-04T03:02:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "FlutterKaigi 2026での初登壇を経て、これからも挑戦し続けると決めた話",
+    "link": "https://zenn.dev/assign/articles/2026-10-flutterkaigi-first-talk",
+    "pubDate": "Wed, 04 Nov 2026 03:00:05 GMT"
   },
   {
     "site": "Zenn",
@@ -72,16 +120,16 @@
     "pubDate": "Wed, 04 Nov 2026 01:46:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
-    "link": "https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html",
-    "pubDate": "2026-11-04T01:42:21.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
     "link": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
     "pubDate": "Wed, 04 Nov 2026 01:19:56 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "そろそろ共通鍵暗号・公開鍵暗号についてちゃんと理解する",
+    "link": "https://qiita.com/tomo-ryo/items/7cbf2881a9c8c8cf3656?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-04T00:40:41.000Z"
   },
   {
     "site": "Qiita",
@@ -90,34 +138,16 @@
     "pubDate": "2026-11-04T00:30:10.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media",
+    "link": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+    "pubDate": "2026-11-03T23:35:47.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた",
     "link": "https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-03T22:40:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
-    "link": "https://blog.kuniwak.com/entry/e2ebok",
-    "pubDate": "2026-11-03T21:27:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「⚪︎⚪︎はしないで」は効かない？AI Agent の危険行動を制限する 5 つの方法と守られる強さで比べた",
-    "link": "https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-03T19:35:02.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた",
-    "link": "https://note.com/uchita_success/n/nfc53d1ef5f81",
-    "pubDate": "2026-11-03T15:24:33.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ",
-    "link": "https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode",
-    "pubDate": "Tue, 03 Nov 2026 14:15:49 GMT"
   },
   {
     "site": "Zenn",
@@ -132,51 +162,21 @@
     "pubDate": "2026-11-03T13:54:09.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "高市総理のPHP投稿で何がうれしかったのか？今後の説得に使っていくよ～",
-    "link": "https://zenn.dev/tyamadadd/articles/36f975db1c41d8",
-    "pubDate": "Tue, 03 Nov 2026 10:35:09 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "(備忘録) お名前.comからRoute 53へドメイン移管し、お名前メールをさくらのメールボックスへ移す",
-    "link": "https://zenn.dev/momura/articles/896dbde5e42491",
-    "pubDate": "Tue, 03 Nov 2026 09:56:38 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ADRをregoでlintする",
-    "link": "https://zenn.dev/babarot/articles/regomark-adr-checker",
-    "pubDate": "Tue, 03 Nov 2026 07:59:33 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "営業こそコミュニティでは「No sell」でいよう",
     "link": "https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-03T04:13:45.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
-    "link": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
-    "pubDate": "Tue, 03 Nov 2026 03:30:05 GMT"
+    "site": "Qiita",
+    "title": "Claude Codeを導入して開発速度が5倍になったのに、なぜ私の疲労度は10倍になったのか",
+    "link": "https://qiita.com/xiaoy/items/c4340fda4f660e9c2e4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-02T07:24:46.000Z"
   },
   {
     "site": "Qiita",
     "title": "生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか",
     "link": "https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-01T23:53:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
-    "link": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-01T14:05:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
-    "link": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-01T08:41:55.000Z"
   }
 ]
