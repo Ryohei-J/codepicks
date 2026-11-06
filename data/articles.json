@@ -1,9 +1,33 @@
 [
   {
+    "site": "Zenn",
+    "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+    "link": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+    "pubDate": "2026-11-06T16:49:21.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出　29.5万件",
+    "title": "ドコモ、不正アクセスで最大29.5万件の情報が流出",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2154506.html",
+    "pubDate": "2026-11-06T12:04:58.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "自己回帰生成モデルの熱力学を構築 ―大規模言語モデルに内在する「世界モデル」の定量的理解に向けて―",
+    "link": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-06-001",
+    "pubDate": "2026-11-06T11:53:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 「重く受け止めている」",
     "link": "https://www.watch.impress.co.jp/docs/news/2154508.html",
     "pubDate": "2026-11-06T11:22:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "総務省｜報道資料｜株式会社NTTドコモに対する特定利用者情報の保護に向けた措置（指導）",
+    "link": "https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000300.html",
+    "pubDate": "2026-11-06T10:38:58.000Z"
   },
   {
     "site": "Hatena",
@@ -12,10 +36,22 @@
     "pubDate": "2026-11-06T08:41:42.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "PHPは使っておりません - megamouthの葬列",
+    "link": "https://www.megamouth.info/entry/2026/11/06/165305",
+    "pubDate": "2026-11-06T08:05:48.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "リモートのエージェントが起動した dev server を手元でプレビュー：VS Code 1.145 の Remote browser proxy を試した",
     "link": "https://qiita.com/shahin0809/items/a1bd931855f392806ee6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-06T07:28:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】",
+    "link": "https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-06T07:20:39.000Z"
   },
   {
     "site": "Hatena",
@@ -42,22 +78,16 @@
     "pubDate": "2026-11-06T03:11:21.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話",
+    "link": "https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-06T03:09:39.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【.NET/Unity】C# の型制約とボックス化をハックする — IL と手動スタック配置",
     "link": "https://zenn.dev/aakei/articles/csharp-stack-box",
     "pubDate": "Fri, 06 Nov 2026 03:01:26 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS Security Hub now provides an SBOM inventory for your compute resources - AWS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
-    "pubDate": "2026-11-06T02:59:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」",
-    "link": "https://togetter.com/li/2767231",
-    "pubDate": "2026-11-06T02:34:22.000Z"
   },
   {
     "site": "Zenn",
@@ -70,18 +100,6 @@
     "title": "今更だけど、AIってどう使えばいいの？",
     "link": "https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c",
     "pubDate": "Fri, 06 Nov 2026 01:00:05 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Googleが「SREの教科書」を10年ぶりに全面改訂　“システム運用の常識”はどう変わった？",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news024.html",
-    "pubDate": "2026-11-06T00:57:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "第40回：解約するだけじゃダメ！？　マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/tengoku/2152866.html",
-    "pubDate": "2026-11-05T23:00:29.000Z"
   },
   {
     "site": "Zenn",
@@ -102,10 +120,22 @@
     "pubDate": "Thu, 05 Nov 2026 14:35:31 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "自分は旧時代のエンジニアになってしまったのでは",
+    "link": "https://www.mobtown.jp/article/old-engineer/",
+    "pubDate": "2026-11-05T13:24:35.000Z"
+  },
+  {
     "site": "Zenn",
     "title": ".NET にも build.cs 欲しいんじゃーーー",
     "link": "https://zenn.dev/sator_imaging/articles/c10d8da7685308",
     "pubDate": "Thu, 05 Nov 2026 13:05:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "ubuntu-latest が 26.04 になったら、ECS（arm64）がイメージを pull できなくなった話",
+    "link": "https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-05T12:28:43.000Z"
   },
   {
     "site": "Zenn",
@@ -120,30 +150,6 @@
     "pubDate": "Thu, 05 Nov 2026 11:52:20 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2153924.html",
-    "pubDate": "2026-11-05T07:40:34.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "New Relic Autopilotの応答言語を日本語に設定する方法",
-    "link": "https://qiita.com/nr_ishibashi/items/7aa84d87723196bf37f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-05T07:37:56.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "習慣化するための技術 / Techniques for Habit Formation",
-    "link": "https://speakerdeck.com/3l4l5/techniques-for-habit-formation",
-    "pubDate": "2026-11-05T06:16:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
-    "link": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
-    "pubDate": "2026-11-05T01:53:25.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）",
     "link": "https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -151,21 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Googleが分析した「成果を出すチームの5つの特徴」が納得しかない。AIで個人の生産性が上がる時代だからこそ約10年前の分析を読み直す",
-    "link": "https://qiita.com/shinkai_/items/003029234e387db00e45?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-04T16:03:40.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
     "link": "https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-04T11:38:50.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Git初心者】「やばい、間違えた！」から生還するコマンド備忘録（プッシュ前・プッシュ後）",
-    "link": "https://qiita.com/tomita_e/items/7bce4bda7ecd13446fc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-04T06:14:15.000Z"
   },
   {
     "site": "Qiita",
@@ -178,5 +172,11 @@
     "title": "そろそろ共通鍵暗号・公開鍵暗号についてちゃんと理解する",
     "link": "https://qiita.com/tomo-ryo/items/7cbf2881a9c8c8cf3656?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-04T00:40:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【重要】セキュリティ強化に伴う新規会員登録の仕様変更について - メンテナンス・障害情報 - DMMヘルプセンター",
+    "link": "https://support.dmm.com/announcements/875",
+    "pubDate": "2026-11-02T09:46:09.000Z"
   }
 ]
