@@ -1,6 +1,42 @@
 [
   {
     "site": "Hatena",
+    "title": "メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」",
+    "link": "https://togetter.com/li/2767231",
+    "pubDate": "2026-11-06T02:34:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Googleが「SREの教科書」を10年ぶりに全面改訂　“システム運用の常識”はどう変わった？",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news024.html",
+    "pubDate": "2026-11-06T00:57:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "学祭のシフト作りを自動化した話 実装編：Apps Script で選んだ設計の判断 9 個",
+    "link": "https://zenn.dev/jun_eg/articles/school-festival-shift-apps-script-impl",
+    "pubDate": "Fri, 06 Nov 2026 00:30:49 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソニー、初代ウォークマン付属ヘッドフォンを再現。USB-C化した「MDR-3R」",
+    "link": "https://av.watch.impress.co.jp/docs/news/2153686.html",
+    "pubDate": "2026-11-06T00:14:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+    "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+    "pubDate": "2026-11-05T23:41:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "第40回：解約するだけじゃダメ！？　マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/tengoku/2152866.html",
+    "pubDate": "2026-11-05T23:00:29.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "「Firefox」に新しい「ミニウィンドウ」--マルチタスク派にとって夢のような機能",
     "link": "https://japan.zdnet.com/article/35254318/",
     "pubDate": "2026-11-05T21:38:45.000Z"
@@ -12,10 +48,10 @@
     "pubDate": "2026-11-05T21:20:44.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AWSでデータレイクハウスを構築してApache Icebergの更新・履歴管理を検証した",
-    "link": "https://zenn.dev/kkoch5t2/articles/aws-iceberg-lakehouse-lab",
-    "pubDate": "Thu, 05 Nov 2026 17:56:30 GMT"
+    "site": "Hatena",
+    "title": "浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/",
+    "pubDate": "2026-11-05T20:28:37.000Z"
   },
   {
     "site": "Zenn",
@@ -24,10 +60,10 @@
     "pubDate": "Thu, 05 Nov 2026 14:35:31 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "*sshole · sshhole.com",
-    "link": "https://sshhole.com/",
-    "pubDate": "2026-11-05T12:50:42.000Z"
+    "site": "Zenn",
+    "title": "OpenAPI Hono というライブラリを作りました",
+    "link": "https://zenn.dev/mini_bg_pro_n/articles/cd79010b1d1b9c",
+    "pubDate": "Thu, 05 Nov 2026 12:32:53 GMT"
   },
   {
     "site": "Zenn",
@@ -36,22 +72,10 @@
     "pubDate": "Thu, 05 Nov 2026 11:54:56 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "高市首相のX発信、長文化しているのはなぜ？　カギ括弧で浮かぶ特徴：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASVC52JM0VC5UTFK01RM.html",
-    "pubDate": "2026-11-05T10:32:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持",
-    "link": "https://gigazine.net/news/20261105-us-data-center-vote-reject/",
-    "pubDate": "2026-11-05T10:14:14.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "自作AIエージェントの開発をやめた - 無駄と文化",
-    "link": "https://blog.mudatobunka.org/entry/2026/11/05/100000",
-    "pubDate": "2026-11-05T09:16:13.000Z"
+    "site": "Zenn",
+    "title": "【.NET 11】SafeFileHandleの新規APIでハマった点について",
+    "link": "https://zenn.dev/prozolic/articles/f74a9711a6a22c",
+    "pubDate": "Thu, 05 Nov 2026 11:52:20 GMT"
   },
   {
     "site": "Zenn",
@@ -79,21 +103,27 @@
   },
   {
     "site": "Zenn",
+    "title": "[TypeScript] パスエイリアスには Subpath Imports を使いたい",
+    "link": "https://zenn.dev/mediba/articles/167e2a3f663889",
+    "pubDate": "Thu, 05 Nov 2026 07:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "習慣化するための技術 / Techniques for Habit Formation",
+    "link": "https://speakerdeck.com/3l4l5/techniques-for-habit-formation",
+    "pubDate": "2026-11-05T06:16:47.000Z"
+  },
+  {
+    "site": "Zenn",
     "title": "CS業務カイゼン・ジャーニー",
     "link": "https://zenn.dev/appleworld/articles/8acf5474644f7e",
     "pubDate": "Thu, 05 Nov 2026 05:42:04 GMT"
   },
   {
     "site": "Zenn",
-    "title": "Xで積み重ねた日々をmixi2へ。過去ポストのインポート機能ができるまで",
-    "link": "https://zenn.dev/mixi/articles/bcf2363e83b0a2",
-    "pubDate": "Thu, 05 Nov 2026 04:29:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Siri AIにアプリをつなぎ、振る舞いを評価する",
-    "link": "https://zenn.dev/d_date/articles/e8e2c5d53b424e",
-    "pubDate": "Thu, 05 Nov 2026 03:51:50 GMT"
+    "title": "週刊Cloudflare - 2026/11/01週",
+    "link": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1025-1031",
+    "pubDate": "Thu, 05 Nov 2026 05:00:06 GMT"
   },
   {
     "site": "Qiita",
@@ -102,40 +132,22 @@
     "pubDate": "2026-11-05T02:54:29.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継",
-    "link": "https://av.watch.impress.co.jp/docs/news/2153831.html",
-    "pubDate": "2026-11-05T02:50:52.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "SLMを作ってみる",
     "link": "https://qiita.com/y_abe_bc/items/fced7f7cf2766c56b073?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-05T02:22:49.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る",
-    "link": "https://zenn.dev/airiell/articles/git-archive-manifest-deploy",
-    "pubDate": "Thu, 05 Nov 2026 00:51:35 GMT"
+    "site": "Hatena",
+    "title": "定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
+    "link": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
+    "pubDate": "2026-11-05T01:53:25.000Z"
   },
   {
     "site": "Qiita",
     "title": "【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）",
     "link": "https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-04T23:04:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "PR投げたらClaudeがレビューしてくれる仕組みを作ってみた",
-    "link": "https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18",
-    "pubDate": "2026-11-04T22:42:31.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング",
-    "link": "https://zenn.dev/nrs/articles/33ba79c8b2542e",
-    "pubDate": "Wed, 04 Nov 2026 11:54:39 GMT"
   },
   {
     "site": "Qiita",
@@ -162,21 +174,9 @@
     "pubDate": "2026-11-03T22:40:08.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "最近の HTML の新機能の紹介（2026 年版）",
-    "link": "https://zenn.dev/socialplus/articles/50221eafb8a55a",
-    "pubDate": "2026-11-03T13:16:09.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "営業こそコミュニティでは「No sell」でいよう",
     "link": "https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-03T04:13:45.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Chopin",
-    "link": "https://githubnext.com/projects/chopin/",
-    "pubDate": "2026-09-10T10:10:12.000Z"
   }
 ]
