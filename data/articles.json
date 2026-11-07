@@ -1,6 +1,24 @@
 [
   {
     "site": "Hatena",
+    "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
+    "link": "https://togetter.com/li/2767778",
+    "pubDate": "2026-11-07T12:12:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代に求められる優秀なTechLeadの振る舞い",
+    "link": "https://speakerdeck.com/pospome/ai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2",
+    "pubDate": "2026-11-07T11:25:01.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "React学習過程整理tips(備考)",
+    "link": "https://qiita.com/polymetisoutis/items/9e6a8e16f11e7e8f834c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-07T11:14:30.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記",
     "link": "https://www.pospome.work/entry/2026/11/07/192125",
     "pubDate": "2026-11-07T10:23:56.000Z"
@@ -13,21 +31,45 @@
   },
   {
     "site": "Hatena",
+    "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com",
+    "link": "https://www.famitsu.com/article/202611/93352",
+    "pubDate": "2026-11-07T09:49:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例",
+    "link": "https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy",
+    "pubDate": "2026-11-07T09:20:09.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
+    "link": "https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-07T09:11:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "SSA ベースの .NET IL 最適化コンパイラーを作ってみた",
+    "link": "https://qiita.com/hez2010/items/70fe879c1a37379f020c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-07T07:25:48.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "VoidでWebアプリを作ろう！",
+    "link": "https://void-workshop.yusuke.run/phpmatsuri",
+    "pubDate": "2026-11-07T07:15:20.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "ワイヤレス主流時代になぜ？「有線イヤホン」再流行のワケ【THE TIME,】  | TBS NEWS DIG",
     "link": "https://newsdig.tbs.co.jp/articles/-/3068819",
     "pubDate": "2026-11-07T04:39:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
-    "pubDate": "2026-11-07T03:30:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい",
-    "link": "https://togetter.com/li/2767610",
-    "pubDate": "2026-11-07T02:20:55.000Z"
+    "site": "Zenn",
+    "title": "シン・ウルトラモード",
+    "link": "https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode",
+    "pubDate": "Sat, 07 Nov 2026 01:09:30 GMT"
   },
   {
     "site": "Zenn",
@@ -36,16 +78,16 @@
     "pubDate": "Sat, 07 Nov 2026 00:57:13 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった",
-    "link": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
-    "pubDate": "2026-11-07T00:36:39.000Z"
+    "site": "Qiita",
+    "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
+    "link": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-06T21:05:58.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス",
-    "link": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
-    "pubDate": "2026-11-06T23:36:13.000Z"
+    "site": "Qiita",
+    "title": "【ServiceNow】自動採番の仕組みが変わったらしいので調査したメモ",
+    "link": "https://qiita.com/daifuku085/items/ef891ad3bd037427b2e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-06T20:07:38.000Z"
   },
   {
     "site": "Zenn",
@@ -61,15 +103,9 @@
   },
   {
     "site": "Hatena",
-    "title": "「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。",
-    "link": "https://posfie.com/@Acg3C2/p/NF0FdOe",
-    "pubDate": "2026-11-06T11:09:56.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 全40回総復習",
-    "link": "https://qiita.com/maskot1977/items/1580f010f2a43225c0f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-06T09:46:19.000Z"
+    "title": "運用しながら改善する LLM-as-a-Judge の構築 - Timee Product Team Blog",
+    "link": "https://tech.timee.co.jp/entry/2026/11/05/101407",
+    "pubDate": "2026-11-06T09:41:05.000Z"
   },
   {
     "site": "Zenn",
@@ -85,21 +121,9 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Code は、あなたのメールアドレスを知っている。User-Agent に入れて送るかを Claude Code・Codex・Gemini CLI で試した",
-    "link": "https://qiita.com/suwa_nobu/items/314fb8cf661ef05046d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-06T07:26:15.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】",
     "link": "https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-06T07:20:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ネットワークインフラ系イベント年間カレンダ (その2)",
-    "link": "https://zenn.dev/nanakanok/articles/06a8cf51a8663f",
-    "pubDate": "Fri, 06 Nov 2026 05:39:53 GMT"
   },
   {
     "site": "Zenn",
@@ -127,33 +151,21 @@
   },
   {
     "site": "Zenn",
+    "title": "Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた",
+    "link": "https://zenn.dev/cscloud_blog/articles/securityhub-sbom-inventory",
+    "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "AI駆動文章作成において俺が意識しているテクニック集",
     "link": "https://zenn.dev/ntk221/articles/34ad88a9225364",
     "pubDate": "Thu, 05 Nov 2026 14:35:31 GMT"
   },
   {
     "site": "Hatena",
-    "title": "自分は旧時代のエンジニアになってしまったのでは",
-    "link": "https://www.mobtown.jp/article/old-engineer/",
-    "pubDate": "2026-11-05T13:24:35.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": ".NET にも build.cs 欲しいんじゃーーー",
-    "link": "https://zenn.dev/sator_imaging/articles/c10d8da7685308",
-    "pubDate": "Thu, 05 Nov 2026 13:05:08 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ubuntu-latest が 26.04 になったら、ECS（arm64）がイメージを pull できなくなった話",
-    "link": "https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-05T12:28:43.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "New Relic Autopilotの応答言語を日本語に設定する方法",
-    "link": "https://qiita.com/nr_ishibashi/items/7aa84d87723196bf37f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-05T07:37:56.000Z"
+    "title": "AI時代の要求管理ハンドブック ～経営・現場・開発がともに描く、問いから実現への道筋～ | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
+    "link": "https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html",
+    "pubDate": "2026-11-05T10:17:16.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）",
     "link": "https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-04T23:04:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI駆動開発の次の段階: ソフトウェアファクトリー",
-    "link": "https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-04T11:38:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "もう検索エンジンに戻れない",
-    "link": "https://anond.hatelabo.jp/20260930202455",
-    "pubDate": "2026-09-30T11:35:51.000Z"
   }
 ]
