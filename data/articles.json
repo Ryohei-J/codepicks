@@ -1,5 +1,11 @@
 [
   {
+    "site": "Qiita",
+    "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
+    "link": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-08T19:10:12.000Z"
+  },
+  {
     "site": "Hatena",
     "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
     "link": "https://posfie.com/@su_damari/p/xvcxjNy",
@@ -7,15 +13,33 @@
   },
   {
     "site": "Hatena",
-    "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
-    "link": "https://anond.hatelabo.jp/20261108174809",
-    "pubDate": "2026-11-08T08:51:31.000Z"
+    "title": "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note",
+    "link": "https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets",
+    "pubDate": "2026-11-08T10:31:52.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
+    "link": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-08T09:00:22.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "JAWS FESTA 2026 in AKITA に参加できなかったので、資料だけでも見たい！と思ってまとめました！",
+    "link": "https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-08T07:43:07.000Z"
   },
   {
     "site": "Hatena",
     "title": "個人情報“手放す”企業続々 「持たないことが抜本的な解決に」 漏えいなくても運用変更も【#みんなのギモン】（2026年11月8日掲載）｜日テレNEWS NNN",
     "link": "https://news.ntv.co.jp/category/economy/4524fbcdecaf445bac0d956439508aca",
     "pubDate": "2026-11-08T06:29:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS】結果を返すか、答えを返すか。Web SearchとWeb Answerの使い分け【AgentCore】",
+    "link": "https://qiita.com/Nana_777/items/6e466fb974972a79a323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-08T06:26:43.000Z"
   },
   {
     "site": "Hatena",
@@ -37,9 +61,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
-    "link": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
-    "pubDate": "2026-11-08T04:37:22.000Z"
+    "title": "Macのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka",
+    "link": "https://note.com/npaka/n/nae09bd9ce37d",
+    "pubDate": "2026-11-08T03:30:34.000Z"
   },
   {
     "site": "Hatena",
@@ -60,10 +84,16 @@
     "pubDate": "2026-11-08T01:30:05.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "React学習過程整理tips(備考)",
-    "link": "https://qiita.com/polymetisoutis/items/9e6a8e16f11e7e8f834c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-07T11:14:30.000Z"
+    "site": "Hatena",
+    "title": "日本ネットワークセキュリティ協会に不正アクセス　最大1.5万件の個人情報漏えいの恐れ",
+    "link": "https://japan.cnet.com/article/35254549/",
+    "pubDate": "2026-11-07T23:01:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Meta、「Muse」で自分専用アプリを作れる新機能「スペース」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2154571.html",
+    "pubDate": "2026-11-07T09:39:54.000Z"
   },
   {
     "site": "Qiita",
@@ -90,34 +120,16 @@
     "pubDate": "Sat, 07 Nov 2026 00:57:13 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "数百ページのPDF文書を一括解析できるローカルAI「Unlimited OCR 2」、NVIDIA開発の文字起こし音声AI「Nemotron 3.5 Transcribe」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/11/06/5679.html",
-    "pubDate": "2026-11-07T00:46:51.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
     "link": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-06T21:05:58.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "【ServiceNow】自動採番の仕組みが変わったらしいので調査したメモ",
-    "link": "https://qiita.com/daifuku085/items/ef891ad3bd037427b2e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-06T20:07:38.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "意思決定だけで週100コミット積むAI開発手法",
     "link": "https://zenn.dev/kingyosun/articles/kukuri-ai-dev",
     "pubDate": "Fri, 06 Nov 2026 17:26:04 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "仕事、ドパ越えて利益 - オイオイオイ書くわアイツ",
-    "link": "https://ttmmjm.hatenablog.com/entry/2026/11/06/135935",
-    "pubDate": "2026-11-06T15:36:46.000Z"
   },
   {
     "site": "Zenn",
@@ -144,12 +156,6 @@
     "pubDate": "2026-11-06T07:33:34.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】",
-    "link": "https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-06T07:20:39.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録",
     "link": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
@@ -160,12 +166,6 @@
     "title": "米津玄師に学ぶ：一人で全部作れる時代に、なぜ人と作るのか",
     "link": "https://zenn.dev/tokium_dev/articles/yonezu-kenshi-why-create-with-others",
     "pubDate": "Fri, 06 Nov 2026 04:08:37 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Figmaのリアルタイム同期の仕組みを、Node.js + WebSocketの最小構成で実装してみた",
-    "link": "https://qiita.com/keishin_nishiura/items/b13d72afb085891e4fc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-06T03:11:21.000Z"
   },
   {
     "site": "Qiita",
