@@ -1,21 +1,63 @@
 [
   {
     "site": "Hatena",
-    "title": "NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も",
-    "link": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
-    "pubDate": "2026-11-07T21:13:41.000Z"
+    "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
+    "link": "https://posfie.com/@su_damari/p/xvcxjNy",
+    "pubDate": "2026-11-08T10:45:23.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Sakutto - Local AI translation - Chrome Web Store",
-    "link": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
-    "pubDate": "2026-11-07T15:32:29.000Z"
+    "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
+    "link": "https://anond.hatelabo.jp/20261108174809",
+    "pubDate": "2026-11-08T08:51:31.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
-    "link": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-    "pubDate": "2026-11-07T13:18:14.000Z"
+    "site": "Hatena",
+    "title": "個人情報“手放す”企業続々 「持たないことが抜本的な解決に」 漏えいなくても運用変更も【#みんなのギモン】（2026年11月8日掲載）｜日テレNEWS NNN",
+    "link": "https://news.ntv.co.jp/category/economy/4524fbcdecaf445bac0d956439508aca",
+    "pubDate": "2026-11-08T06:29:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+    "pubDate": "2026-11-08T06:14:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GitHub Copilot app で「自分の文脈」を管理してみる。me.md を作って常に参照させるまで",
+    "link": "https://qiita.com/carol0226/items/3e52fd2570c246b6cf0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-08T05:47:37.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Windowsに市販のセキュリティソフトは必要か｜npaka",
+    "link": "https://note.com/npaka/n/nf119bada91e7",
+    "pubDate": "2026-11-08T05:02:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
+    "link": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
+    "pubDate": "2026-11-08T04:37:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
+    "link": "https://hiraoku.dev/blog/mcp-cli-cloud/",
+    "pubDate": "2026-11-08T02:33:33.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 41",
+    "link": "https://qiita.com/maskot1977/items/5399ad17d61a16f332a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-08T02:11:11.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "機能したシステム再設計 ― フィードバックループの修復事例 : システム設計視点の行動経済学 (58)",
+    "link": "https://qiita.com/maskot1977/items/8873b86cc612cbe35d86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-08T01:30:05.000Z"
   },
   {
     "site": "Qiita",
@@ -24,46 +66,16 @@
     "pubDate": "2026-11-07T11:14:30.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例",
-    "link": "https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy",
-    "pubDate": "2026-11-07T09:20:09.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
     "link": "https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-07T09:11:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
-    "link": "https://gigazine.net/news/20261107-harmony/",
-    "pubDate": "2026-11-07T09:05:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "SSA ベースの .NET IL 最適化コンパイラーを作ってみた",
-    "link": "https://qiita.com/hez2010/items/70fe879c1a37379f020c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-07T07:25:48.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
     "link": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
     "pubDate": "Sat, 07 Nov 2026 06:44:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "WordPress 7.2からランダムなページにリダイレクトする謎機能が実装されることに – Capital P – WordPressメディア",
-    "link": "https://capitalp.jp/2026/11/06/wordpress-7-2-random-redirect/",
-    "pubDate": "2026-11-07T05:03:35.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "生成AI時代のIAMのマニアックな話",
-    "link": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
-    "pubDate": "2026-11-07T02:15:16.000Z"
   },
   {
     "site": "Zenn",
@@ -84,12 +96,6 @@
     "pubDate": "2026-11-07T00:46:51.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "「燃やす」ってなに？",
-    "link": "https://anond.hatelabo.jp/20261107090533",
-    "pubDate": "2026-11-07T00:14:43.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
     "link": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,6 +114,12 @@
     "pubDate": "Fri, 06 Nov 2026 17:26:04 GMT"
   },
   {
+    "site": "Hatena",
+    "title": "仕事、ドパ越えて利益 - オイオイオイ書くわアイツ",
+    "link": "https://ttmmjm.hatenablog.com/entry/2026/11/06/135935",
+    "pubDate": "2026-11-06T15:36:46.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
     "link": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
@@ -124,6 +136,12 @@
     "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
     "link": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
     "pubDate": "Fri, 06 Nov 2026 08:59:24 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ホテル川久に宿泊し、バブルの夢を偲ぶ - 生存記録",
+    "link": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
+    "pubDate": "2026-11-06T07:33:34.000Z"
   },
   {
     "site": "Qiita",
@@ -157,26 +175,8 @@
   },
   {
     "site": "Zenn",
-    "title": "【.NET/Unity】C# の型制約とボックス化をハックする — IL と手動スタック配置",
-    "link": "https://zenn.dev/aakei/articles/csharp-stack-box",
-    "pubDate": "Fri, 06 Nov 2026 03:01:26 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "M365 Copilot Agent BuilderにSKILL.mdを登録してみた",
-    "link": "https://qiita.com/rhaya/items/2ea7620235c7199db852?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-05T06:48:25.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）",
-    "link": "https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-04T23:04:01.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "思想が強いのではない，ただイキっているだけ",
-    "link": "https://wtrclred.io/ja/posts/29",
-    "pubDate": "2026-09-21T06:40:25.000Z"
+    "title": "AI駆動文章作成において俺が意識しているテクニック集",
+    "link": "https://zenn.dev/ntk221/articles/34ad88a9225364",
+    "pubDate": "Thu, 05 Nov 2026 14:35:31 GMT"
   }
 ]
