@@ -1,21 +1,57 @@
 [
   {
+    "site": "Hatena",
+    "title": "「とりあえず責任者を決める」という思考停止から抜け出す方法｜レバテックLAB - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_967/",
+    "pubDate": "2026-11-09T02:12:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドコモオンラインショップとMy docomoへの不正アクセスについてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/09/090504",
+    "pubDate": "2026-11-09T00:46:26.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIが「最安」を選び続ける世界は幸せなのか? Museが買い物を担う未来【西田宗千佳のイマトミライ】",
+    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
+    "pubDate": "2026-11-08T23:24:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+    "pubDate": "2026-11-08T23:17:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査　本人は不倫認め謝罪",
+    "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+    "pubDate": "2026-11-08T23:05:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/11/09/5686.html",
+    "pubDate": "2026-11-08T22:49:48.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
     "link": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-08T19:10:12.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
-    "link": "https://posfie.com/@su_damari/p/xvcxjNy",
-    "pubDate": "2026-11-08T10:45:23.000Z"
+    "site": "Zenn",
+    "title": "古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた",
+    "link": "https://zenn.dev/koheidisney/articles/729394f8be42c5",
+    "pubDate": "Sun, 08 Nov 2026 16:01:13 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note",
-    "link": "https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets",
-    "pubDate": "2026-11-08T10:31:52.000Z"
+    "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
+    "link": "https://shoei05.com/articles/3001/",
+    "pubDate": "2026-11-08T12:05:24.000Z"
   },
   {
     "site": "Qiita",
@@ -24,28 +60,52 @@
     "pubDate": "2026-11-08T09:00:22.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "自宅サーバーにClaude Codeを常駐させ、スマホから24時間指示を出す（Remote Control＋systemd）",
+    "link": "https://zenn.dev/samurai_works/articles/114a5e654ca295",
+    "pubDate": "Sun, 08 Nov 2026 08:59:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
+    "link": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
+    "pubDate": "Sun, 08 Nov 2026 08:56:07 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話",
+    "link": "https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763",
+    "pubDate": "Sun, 08 Nov 2026 08:41:46 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社",
+    "link": "https://note.com/rakbil/n/n16a0b62cd206",
+    "pubDate": "2026-11-08T08:17:47.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "JAWS FESTA 2026 in AKITA に参加できなかったので、資料だけでも見たい！と思ってまとめました！",
     "link": "https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-08T07:43:07.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "正規性検定による正規性チェック後の統計的仮説検定について",
+    "link": "https://zenn.dev/tomoshige_n/articles/22e19d310acf88",
+    "pubDate": "Sun, 08 Nov 2026 07:42:36 GMT"
+  },
+  {
     "site": "Hatena",
-    "title": "個人情報“手放す”企業続々 「持たないことが抜本的な解決に」 漏えいなくても運用変更も【#みんなのギモン】（2026年11月8日掲載）｜日テレNEWS NNN",
-    "link": "https://news.ntv.co.jp/category/economy/4524fbcdecaf445bac0d956439508aca",
-    "pubDate": "2026-11-08T06:29:39.000Z"
+    "title": "超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す｜落合陽一",
+    "link": "https://note.com/ochyai/n/n7a1dbd68c8fa",
+    "pubDate": "2026-11-08T06:33:31.000Z"
   },
   {
     "site": "Qiita",
     "title": "【AWS】結果を返すか、答えを返すか。Web SearchとWeb Answerの使い分け【AgentCore】",
     "link": "https://qiita.com/Nana_777/items/6e466fb974972a79a323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-08T06:26:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
-    "pubDate": "2026-11-08T06:14:17.000Z"
   },
   {
     "site": "Qiita",
@@ -55,21 +115,9 @@
   },
   {
     "site": "Hatena",
-    "title": "Windowsに市販のセキュリティソフトは必要か｜npaka",
-    "link": "https://note.com/npaka/n/nf119bada91e7",
-    "pubDate": "2026-11-08T05:02:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Macのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka",
-    "link": "https://note.com/npaka/n/nae09bd9ce37d",
-    "pubDate": "2026-11-08T03:30:34.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
-    "link": "https://hiraoku.dev/blog/mcp-cli-cloud/",
-    "pubDate": "2026-11-08T02:33:33.000Z"
+    "title": "Shizuku-Duplex：自然な間合いで話す日本語 Full-Duplex モデル",
+    "link": "https://shizuku.ai/blog/1/",
+    "pubDate": "2026-11-08T04:57:27.000Z"
   },
   {
     "site": "Qiita",
@@ -78,22 +126,22 @@
     "pubDate": "2026-11-08T02:11:11.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "Go の defer の動きをちょっと調べてみた",
+    "link": "https://zenn.dev/wakame_atsushi/articles/8c45ac07bac534",
+    "pubDate": "Sun, 08 Nov 2026 02:01:23 GMT"
+  },
+  {
     "site": "Qiita",
     "title": "機能したシステム再設計 ― フィードバックループの修復事例 : システム設計視点の行動経済学 (58)",
     "link": "https://qiita.com/maskot1977/items/8873b86cc612cbe35d86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-08T01:30:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "日本ネットワークセキュリティ協会に不正アクセス　最大1.5万件の個人情報漏えいの恐れ",
-    "link": "https://japan.cnet.com/article/35254549/",
-    "pubDate": "2026-11-07T23:01:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Meta、「Muse」で自分専用アプリを作れる新機能「スペース」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2154571.html",
-    "pubDate": "2026-11-07T09:39:54.000Z"
+    "site": "Zenn",
+    "title": "ISUCON2026 ソロ参加記：自作ハーネスで Claude Code をほぼ無人運転した",
+    "link": "https://zenn.dev/5alt_nacl/articles/isucon2026-solo-ai-agent",
+    "pubDate": "Sat, 07 Nov 2026 23:35:44 GMT"
   },
   {
     "site": "Qiita",
@@ -109,12 +157,6 @@
   },
   {
     "site": "Zenn",
-    "title": "シン・ウルトラモード",
-    "link": "https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode",
-    "pubDate": "Sat, 07 Nov 2026 01:09:30 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "Weight-Space Programming やってみた(やらせてみた)",
     "link": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
     "pubDate": "Sat, 07 Nov 2026 00:57:13 GMT"
@@ -127,56 +169,14 @@
   },
   {
     "site": "Zenn",
-    "title": "意思決定だけで週100コミット積むAI開発手法",
-    "link": "https://zenn.dev/kingyosun/articles/kukuri-ai-dev",
-    "pubDate": "Fri, 06 Nov 2026 17:26:04 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
     "link": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
     "pubDate": "Fri, 06 Nov 2026 14:39:45 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Web 標準動向 2026年10月版",
-    "link": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
-    "pubDate": "Fri, 06 Nov 2026 09:08:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-    "link": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-    "pubDate": "Fri, 06 Nov 2026 08:59:24 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "ホテル川久に宿泊し、バブルの夢を偲ぶ - 生存記録",
-    "link": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
-    "pubDate": "2026-11-06T07:33:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録",
-    "link": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
-    "pubDate": "Fri, 06 Nov 2026 05:13:04 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "米津玄師に学ぶ：一人で全部作れる時代に、なぜ人と作るのか",
-    "link": "https://zenn.dev/tokium_dev/articles/yonezu-kenshi-why-create-with-others",
-    "pubDate": "Fri, 06 Nov 2026 04:08:37 GMT"
   },
   {
     "site": "Qiita",
     "title": "Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話",
     "link": "https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-06T03:09:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI駆動文章作成において俺が意識しているテクニック集",
-    "link": "https://zenn.dev/ntk221/articles/34ad88a9225364",
-    "pubDate": "Thu, 05 Nov 2026 14:35:31 GMT"
   }
 ]
