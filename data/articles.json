@@ -1,33 +1,117 @@
 [
   {
     "site": "Hatena",
-    "title": "テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に",
-    "link": "https://www.publickey1.jp/blog/26/playwrightbun.html",
-    "pubDate": "2026-11-11T22:38:23.000Z"
+    "title": "NVIDIA Announces CEO Transition",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "pubDate": "2026-11-12T14:14:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox",
+    "link": "https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B",
+    "pubDate": "2026-11-12T10:43:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "WebサイトをAgent Readyにしよう",
+    "link": "https://unvalley.me/ja/blog/1793627906",
+    "pubDate": "2026-11-12T09:11:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
+    "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+    "pubDate": "2026-11-12T08:34:31.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "VS Code の Local harness は2027年2月に削除：Copilot harness へ移行する手順とつまずきポイント",
+    "link": "https://qiita.com/shahin0809/items/ccb8a8ddf11d6cb4113d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-12T07:50:38.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "セキュリティ・キャンプ 2026 応募課題晒し",
+    "link": "https://zenn.dev/uvu/articles/758ee227a614ea",
+    "pubDate": "Thu, 12 Nov 2026 06:45:01 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org",
+    "link": "https://www.hageatama.org/20261112/1794464751",
+    "pubDate": "2026-11-12T06:35:10.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり - RAKUS Developers Blog | ラクス エンジニアブログ",
+    "link": "https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review",
+    "pubDate": "2026-11-12T06:01:22.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/aws-emulator-local-try/",
+    "pubDate": "2026-11-12T03:47:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された",
+    "link": "https://togetter.com/li/2769545",
+    "pubDate": "2026-11-12T03:10:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+    "link": "https://zenn.dev/dress_code/articles/568fd547315abe",
+    "pubDate": "Thu, 12 Nov 2026 03:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Node.js 22 / 24 / 26 の脆弱性、自分のアプリが影響を受けるか確認する方法【2026年11月】",
+    "link": "https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy",
+    "pubDate": "Thu, 12 Nov 2026 02:31:30 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Mozkey（もずきー）| 書くことに集中できる、日本語入力。",
+    "link": "https://koyasi777.com/mozkey/",
+    "pubDate": "2026-11-12T02:13:52.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "libsignal のグループ暗号化を追って、署名改ざんのテストを追加した",
+    "link": "https://zenn.dev/under_michi/articles/7791295efdb23e",
+    "pubDate": "Thu, 12 Nov 2026 01:12:25 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+    "link": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
+    "pubDate": "Thu, 12 Nov 2026 00:44:52 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】",
+    "link": "https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-11T23:39:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI ファーストな管理画面を、WebMCP もどきで実現したい",
+    "link": "https://zenn.dev/tokium_dev/articles/llm-admin-interface",
+    "pubDate": "Wed, 11 Nov 2026 23:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code に忘れさせたら、トークン使用量が4割減った",
+    "link": "https://zenn.dev/sae_eng/articles/0e9ed7205ebc41",
+    "pubDate": "Wed, 11 Nov 2026 23:00:06 GMT"
   },
   {
     "site": "Hatena",
     "title": "【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間",
     "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html",
     "pubDate": "2026-11-11T21:15:31.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AWS Emulator and the engineer's job when agents write the code",
-    "link": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-    "pubDate": "2026-11-11T21:01:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "GitHub - aws/aws-emulator: AWS Emulator is a local emulator of the AWS APIs.",
-    "link": "https://github.com/aws/aws-emulator",
-    "pubDate": "2026-11-11T20:28:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "software-factory-mode-2026aki skill - 橋本商会",
-    "link": "https://scrapbox.io/shokai/software-factory-mode-2026aki_skill",
-    "pubDate": "2026-11-11T16:34:33.000Z"
   },
   {
     "site": "Qiita",
@@ -42,112 +126,34 @@
     "pubDate": "2026-11-11T12:55:34.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由　米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-    "link": "https://forbesjapan.com/articles/detail/107841",
-    "pubDate": "2026-11-11T11:13:29.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "インシデント調査報告書チェックリスト公開のお知らせ",
-    "link": "https://www.jpcert.or.jp/ir_report_checklist_20261111.html",
-    "pubDate": "2026-11-11T10:22:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "2026 年、すべての主要ブラウザで使えるようになった CSS 機能",
-    "link": "https://sterfield.co.jp/blog/blog-44/",
-    "pubDate": "2026-11-11T10:02:13.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Modern Web Guidance 1.0: コーディング エージェントに欠けているウェブ プラットフォームの専門知識  |  Blog  |  Chrome for Developers",
-    "link": "https://developer.chrome.com/blog/modern-web-guidance-v1?hl=ja",
-    "pubDate": "2026-11-11T05:51:20.000Z"
+    "site": "Zenn",
+    "title": "OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った",
+    "link": "https://zenn.dev/theoj/articles/opencode-development-log",
+    "pubDate": "Wed, 11 Nov 2026 12:38:35 GMT"
   },
   {
     "site": "Zenn",
-    "title": "ISUCON2026 で優勝しました（準備編）",
-    "link": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
-    "pubDate": "Wed, 11 Nov 2026 05:05:46 GMT"
+    "title": "上書きされたドラレコの映像は、ファイルの“余り”にまだ残っていた",
+    "link": "https://zenn.dev/haruto_miyakawa/articles/dashcam-overwritten-video-in-file-slack",
+    "pubDate": "Wed, 11 Nov 2026 10:00:05 GMT"
   },
   {
     "site": "Zenn",
-    "title": "AIに書かせた、が全然AIが書いてない件",
-    "link": "https://zenn.dev/appleworld/articles/65aed6c725af71",
-    "pubDate": "Wed, 11 Nov 2026 02:11:05 GMT"
+    "title": "【2026/11/11最新】Claude Data・Sheets・Whiteboards・connectors を Team プランで試した",
+    "link": "https://zenn.dev/canly/articles/9943093ef0c25c",
+    "pubDate": "Wed, 11 Nov 2026 09:49:21 GMT"
   },
   {
     "site": "Qiita",
-    "title": "システム設計視点の行動経済学 全60回 総復習",
-    "link": "https://qiita.com/maskot1977/items/d811bfa98fd0ee273bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-11T01:30:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
-    "link": "https://future-architect.github.io/articles/20261111a/",
-    "pubDate": "2026-11-11T01:20:40.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること",
-    "link": "https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi",
-    "pubDate": "Wed, 11 Nov 2026 00:21:10 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LiteLLM Adaptive Routerを検証する（後編）：学習シグナルと運用上の注意",
-    "link": "https://zenn.dev/aws_japan/articles/4399262cf00559",
-    "pubDate": "Tue, 10 Nov 2026 14:30:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "LiteLLM Adaptive Router を検証する（前編）：モデル選択と学習の仕組み",
-    "link": "https://zenn.dev/aws_japan/articles/ac9ae548d57323",
-    "pubDate": "Tue, 10 Nov 2026 14:28:03 GMT"
+    "title": "【改定前受験推奨】Claude Certified Architect – Professional（CCAR-P）本日受験してきました。【合格体験記】",
+    "link": "https://qiita.com/takeshi_Qiita/items/a84c8eab09c878071daa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-11T09:09:14.000Z"
   },
   {
     "site": "Qiita",
     "title": "Fable 5.2でGTA 6 Osaka Cityを作ってみた",
     "link": "https://qiita.com/7mpy/items/5710fef43ba0e59204c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-10T13:38:25.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Clojureのマクロによるメタプログラミングで業務ルールのDSLを作る",
-    "link": "https://zenn.dev/pksha/articles/b7e4c1a9d38f52",
-    "pubDate": "Tue, 10 Nov 2026 12:55:14 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Fable 5.2のプロンプトガイドを読んで正直に思ったことを書く",
-    "link": "https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2",
-    "pubDate": "Tue, 10 Nov 2026 12:44:52 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "職務経歴書の JSON から「技術ごとの経験年数」を出す ― 形を決めつけない集計を TypeScript で",
-    "link": "https://zenn.dev/megrou/articles/e04a9edaaea79d",
-    "pubDate": "Tue, 10 Nov 2026 12:41:25 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "ABC482で入青しました！",
-    "link": "https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-10T10:59:38.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "AI ネイティブなデータ分析基盤を作った話（後編）",
-    "link": "https://zenn.dev/pksha/articles/laplace-build-guide",
-    "pubDate": "Tue, 10 Nov 2026 07:38:37 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた",
-    "link": "https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression",
-    "pubDate": "Tue, 10 Nov 2026 05:06:37 GMT"
   },
   {
     "site": "Qiita",
@@ -157,26 +163,20 @@
   },
   {
     "site": "Qiita",
+    "title": "AIに書かせる時代だからこそ、コード1行を読む",
+    "link": "https://qiita.com/yukegineer/items/e8fa851317846aa24de6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-10T00:38:48.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ログ調査の流れとよく使うLinuxコマンド早見表",
+    "link": "https://qiita.com/y-hys/items/eca888fc9dbaa3e3a8ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-09T16:11:23.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "「良いチームほどミスの報告が多い」— 心理的安全性を論文とGoogle調査から正しく理解する",
     "link": "https://qiita.com/teppei19980914/items/2e0fa85f1cc32a62fb0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-09T11:13:44.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI「テスト通りました」← これ､本当？  Stryker でテストの穴を塞いだ話",
-    "link": "https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-09T07:45:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
-    "link": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-08T23:21:58.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "WEBで画像を破くツールを作った",
-    "link": "https://qiita.com/ishi720/items/6d13fdce2a31fe630840?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-08T21:44:47.000Z"
   }
 ]
