@@ -1,6 +1,48 @@
 [
   {
     "site": "Hatena",
+    "title": "2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/13/114230",
+    "pubDate": "2026-11-13T03:20:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件",
+    "link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html",
+    "pubDate": "2026-11-13T02:15:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "仕組み編：Two-Towerによる検索システム（学習・推論・配信）",
+    "link": "https://zenn.dev/ca_kagglers/articles/two-tower-mechanism",
+    "pubDate": "Fri, 13 Nov 2026 01:55:36 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIが作成?画像は別人?選挙ポスター複数掲示　作成費に公費支出　尼崎市議補選、戸惑う有権者",
+    "link": "https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml",
+    "pubDate": "2026-11-13T01:21:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "フィッシング攻撃を“遮断”　物理パスキー「YubiKey」日本で本格展開",
+    "link": "https://www.watch.impress.co.jp/docs/news/2156008.html",
+    "pubDate": "2026-11-13T00:44:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた",
+    "link": "https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark",
+    "pubDate": "Thu, 12 Nov 2026 23:50:35 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "大容量データのアップロードを止めるな：tusによる再開できるアップロード",
+    "link": "https://zenn.dev/hololab/articles/7c2d34e9711ddf",
+    "pubDate": "Thu, 12 Nov 2026 23:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
     "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
     "pubDate": "2026-11-12T22:12:28.000Z"
@@ -19,33 +61,27 @@
   },
   {
     "site": "Hatena",
-    "title": "Announcing Rust 1.100.0 | Rust Blog",
-    "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-    "pubDate": "2026-11-12T20:05:49.000Z"
+    "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース",
+    "link": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+    "pubDate": "2026-11-12T14:37:20.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "NVIDIA Announces CEO Transition",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "pubDate": "2026-11-12T14:14:39.000Z"
+    "site": "Zenn",
+    "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+    "link": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+    "pubDate": "Thu, 12 Nov 2026 11:41:36 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox",
-    "link": "https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B",
-    "pubDate": "2026-11-12T10:43:51.000Z"
+    "site": "Zenn",
+    "title": "Tauri の MSI インストーラーが更新のたびに削除済みデスクトップショートカットを復活させる問題を直した話",
+    "link": "https://zenn.dev/takahiro_nago/articles/article-tauri-msi-desktop-shortcut",
+    "pubDate": "Thu, 12 Nov 2026 09:34:34 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "WebサイトをAgent Readyにしよう",
-    "link": "https://unvalley.me/ja/blog/1793627906",
-    "pubDate": "2026-11-12T09:11:18.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
-    "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
-    "pubDate": "2026-11-12T08:34:31.000Z"
+    "site": "Zenn",
+    "title": "JAWS FESTA 2026 in AKITA 当日スタッフを振り返ってみる",
+    "link": "https://zenn.dev/atuykunkamuy/articles/e7bf74ff539a98",
+    "pubDate": "Thu, 12 Nov 2026 08:11:52 GMT"
   },
   {
     "site": "Qiita",
@@ -55,15 +91,27 @@
   },
   {
     "site": "Zenn",
+    "title": "非同期処理でもポーリングが必要なのはなぜ？",
+    "link": "https://zenn.dev/yuyak/articles/polling-async-completion",
+    "pubDate": "Thu, 12 Nov 2026 07:27:13 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "セキュリティ・キャンプ 2026 応募課題晒し",
     "link": "https://zenn.dev/uvu/articles/758ee227a614ea",
     "pubDate": "Thu, 12 Nov 2026 06:45:01 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org",
-    "link": "https://www.hageatama.org/20261112/1794464751",
-    "pubDate": "2026-11-12T06:35:10.000Z"
+    "site": "Zenn",
+    "title": "AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」",
+    "link": "https://zenn.dev/genda_jp/articles/18d1f780f6b41f",
+    "pubDate": "Thu, 12 Nov 2026 05:20:41 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "週刊Cloudflare - 2026/11/08週",
+    "link": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1101-1107",
+    "pubDate": "Thu, 12 Nov 2026 04:54:55 GMT"
   },
   {
     "site": "Qiita",
@@ -72,34 +120,10 @@
     "pubDate": "2026-11-12T04:35:55.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
-    "link": "https://dev.classmethod.jp/articles/aws-emulator-local-try/",
-    "pubDate": "2026-11-12T03:47:53.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
     "link": "https://zenn.dev/dress_code/articles/568fd547315abe",
-    "pubDate": "Thu, 12 Nov 2026 03:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Node.js 22 / 24 / 26 の脆弱性、自分のアプリが影響を受けるか確認する方法【2026年11月】",
-    "link": "https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy",
-    "pubDate": "Thu, 12 Nov 2026 02:31:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "libsignal のグループ暗号化を追って、署名改ざんのテストを追加した",
-    "link": "https://zenn.dev/under_michi/articles/7791295efdb23e",
-    "pubDate": "Thu, 12 Nov 2026 01:12:25 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
-    "link": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
-    "pubDate": "Thu, 12 Nov 2026 00:44:52 GMT"
+    "pubDate": "2026-11-12T03:01:52.000Z"
   },
   {
     "site": "Qiita",
@@ -114,34 +138,10 @@
     "pubDate": "2026-11-11T23:39:20.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AI ファーストな管理画面を、WebMCP もどきで実現したい",
-    "link": "https://zenn.dev/tokium_dev/articles/llm-admin-interface",
-    "pubDate": "Wed, 11 Nov 2026 23:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code に忘れさせたら、トークン使用量が4割減った",
-    "link": "https://zenn.dev/sae_eng/articles/0e9ed7205ebc41",
-    "pubDate": "Wed, 11 Nov 2026 23:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った",
-    "link": "https://zenn.dev/theoj/articles/opencode-development-log",
-    "pubDate": "Wed, 11 Nov 2026 12:38:35 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "上書きされたドラレコの映像は、ファイルの“余り”にまだ残っていた",
-    "link": "https://zenn.dev/haruto_miyakawa/articles/dashcam-overwritten-video-in-file-slack",
-    "pubDate": "Wed, 11 Nov 2026 10:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "【2026/11/11最新】Claude Data・Sheets・Whiteboards・connectors を Team プランで試した",
-    "link": "https://zenn.dev/canly/articles/9943093ef0c25c",
-    "pubDate": "Wed, 11 Nov 2026 09:49:21 GMT"
+    "site": "Hatena",
+    "title": "インシデント調査報告書チェックリスト",
+    "link": "https://jpcertcc.github.io/ir_report_checklist/index.html",
+    "pubDate": "2026-11-11T13:20:41.000Z"
   },
   {
     "site": "Qiita",
