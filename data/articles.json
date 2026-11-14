@@ -1,15 +1,81 @@
 [
   {
     "site": "Hatena",
+    "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
+    "link": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
+    "pubDate": "2026-11-14T07:45:30.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "ちょっと見ない間にClaude APIが進化してた！",
+    "link": "https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-14T06:32:07.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている",
+    "link": "https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/",
+    "pubDate": "2026-11-14T04:02:46.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「なんでお前は重要なデータを任されるほど信用されてんの？」と上司に聞かれたセキュリティ担当者の回答、信頼に値する妙な説得力がある「情報って武器だなぁ」",
+    "link": "https://togetter.com/li/2770282",
+    "pubDate": "2026-11-14T03:49:42.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "RHEL9.8から9.9へのリリースアップ作業纏め",
+    "link": "https://qiita.com/duelist2020jp/items/9b1da0b932afce1a888f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-14T03:39:16.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「利上げできない」も「利上げしすぎる」も日本では成立しない——金利チャネル神話とDomar条件 : システム設計視点の行動経済学 (62)",
+    "link": "https://qiita.com/maskot1977/items/dcd3c5a7ed7d0bcc0dc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-14T01:10:55.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "かつて、noteのようなブログもTwitterのような短文投稿もDiscordのようなコミュニティ運営もすべてまとめてできる、夢のようなサービスがあったのじゃ",
     "link": "https://togetter.com/li/2770247",
     "pubDate": "2026-11-14T01:06:19.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【2026/11/13時点】Claude Duet を Team プランで触ってみた（組織で使うときの注意点つき）",
+    "link": "https://zenn.dev/canly/articles/e2bd67c9a4c18b",
+    "pubDate": "Fri, 13 Nov 2026 23:45:16 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeを並列で回すとsettings.jsonが壊れる問題を、mkdirロックとアトミック書き込みで止める",
+    "link": "https://qiita.com/joinclass/items/8c40b05a48487aa588c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-13T23:30:07.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」 | NHKニュース",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
-    "pubDate": "2026-11-13T21:47:23.000Z"
+    "title": "動いた農林中金、AI株を「底値買い」　長期で安定成長を期待 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUB109MD0Q6A111C2000000/",
+    "pubDate": "2026-11-13T23:26:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明",
+    "link": "https://gigazine.net/news/20261114-llm-fluency-credible/",
+    "pubDate": "2026-11-13T23:05:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた - Qiita",
+    "link": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742",
+    "pubDate": "2026-11-13T22:56:39.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた",
+    "link": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-13T16:43:26.000Z"
   },
   {
     "site": "Hatena",
@@ -18,34 +84,16 @@
     "pubDate": "2026-11-13T15:36:10.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "人間＋AIを「チーム」としてプロセスを再設計する",
-    "link": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
-    "pubDate": "2026-11-13T14:24:54.000Z"
+    "site": "Qiita",
+    "title": "【Agent Skills】モデルが賢くなるとスキルはどうなる？",
+    "link": "https://qiita.com/ryu-ki/items/202d150ad48dbccf7981?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-13T15:22:50.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena",
-    "link": "https://nowokay.hatenablog.com/entry/2026/11/13/101644",
-    "pubDate": "2026-11-13T14:22:52.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
-    "link": "https://togetter.com/li/2770106",
-    "pubDate": "2026-11-13T13:27:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた",
-    "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
-    "pubDate": "2026-11-13T11:33:08.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
-    "link": "https://joisino.hatenablog.com/entry/searchrecbook",
-    "pubDate": "2026-11-13T10:50:54.000Z"
+    "title": "マネジメントされる側の仕事は「文句」を言うこと",
+    "link": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
+    "pubDate": "2026-11-13T13:23:56.000Z"
   },
   {
     "site": "Zenn",
@@ -54,22 +102,16 @@
     "pubDate": "Fri, 13 Nov 2026 10:49:55 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで",
-    "link": "https://gigazine.net/news/20261113-firefox-vpn/",
-    "pubDate": "2026-11-13T09:17:59.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "困ったらAIにすぐ聞く3年目エンジニアが社会人になって読んだ技術書 10冊.",
     "link": "https://zenn.dev/atrae/articles/032b9fccca0ff7",
     "pubDate": "Fri, 13 Nov 2026 07:46:50 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 45",
-    "link": "https://qiita.com/maskot1977/items/6d3f5c504360cf7858c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T05:06:38.000Z"
+    "site": "Zenn",
+    "title": "ぎりぎりで受かった AWS AIF の記録",
+    "link": "https://zenn.dev/flagxs/articles/c5d6aac5e432b7",
+    "pubDate": "Fri, 13 Nov 2026 05:28:57 GMT"
   },
   {
     "site": "Zenn",
@@ -79,9 +121,15 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ",
-    "link": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T04:26:32.000Z"
+    "title": "Unityを選ぶ企業は赤字体質である。",
+    "link": "https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-13T03:29:15.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
+    "pubDate": "2026-11-13T02:57:17.000Z"
   },
   {
     "site": "Zenn",
@@ -96,34 +144,16 @@
     "pubDate": "2026-11-13T02:03:33.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "耳で聞く！ システム設計 視点の 行動経済学 5",
-    "link": "https://qiita.com/maskot1977/items/76cb2a92efe0433b1de4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T01:56:06.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "仕組み編：Two-Towerによる検索システム（学習・推論・配信）",
     "link": "https://zenn.dev/ca_kagglers/articles/two-tower-mechanism",
     "pubDate": "Fri, 13 Nov 2026 01:55:36 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "CRA報告対応② Dependency-Trackで脆弱性の検知を自動化する(Pleasanter連携)",
-    "link": "https://qiita.com/yyoshida15/items/4ea6a0752ff2ba942dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T00:22:46.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた",
     "link": "https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark",
     "pubDate": "Thu, 12 Nov 2026 23:50:35 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "The Home Repo Pattern",
-    "link": "https://www.aihero.dev/the-home-repo-pattern",
-    "pubDate": "2026-11-12T12:22:50.000Z"
   },
   {
     "site": "Zenn",
@@ -139,44 +169,14 @@
   },
   {
     "site": "Zenn",
-    "title": "セキュリティ・キャンプ 2026 応募課題晒し",
-    "link": "https://zenn.dev/uvu/articles/758ee227a614ea",
-    "pubDate": "Thu, 12 Nov 2026 06:45:01 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」",
-    "link": "https://zenn.dev/genda_jp/articles/18d1f780f6b41f",
-    "pubDate": "Thu, 12 Nov 2026 05:20:41 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
-    "link": "https://zenn.dev/dress_code/articles/568fd547315abe",
-    "pubDate": "Thu, 12 Nov 2026 03:00:05 GMT"
+    "title": "PM の資質は仕事の「外」で磨ける ー 修羅場に頼らない、これからの時代の PM 成長論",
+    "link": "https://zenn.dev/t_vana4/articles/96279b1619f6ca",
+    "pubDate": "Thu, 12 Nov 2026 09:53:38 GMT"
   },
   {
     "site": "Qiita",
     "title": "【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】",
     "link": "https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-11T23:39:20.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【2026年版】スマホで競プロをやろう！(C++)",
-    "link": "https://qiita.com/deuteridayo/items/38afbfa4be6591b22f14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-11T14:30:15.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "DDD・CQRS・イベント駆動を組み合わせたバックエンドアーキテクチャ設計",
-    "link": "https://qiita.com/ditchcrimson/items/ce71bf981e5cdd0bd8f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-11T04:46:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「画面数×人月」はもう通じない？見積もり単位の変遷と、バイブコーディング時代の見積もり書",
-    "link": "https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-11T02:25:25.000Z"
   }
 ]
