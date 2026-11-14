@@ -1,9 +1,45 @@
 [
   {
     "site": "Hatena",
+    "title": "AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い",
+    "link": "https://www.47news.jp/15231027.html",
+    "pubDate": "2026-11-14T14:55:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「すげぇ！教科書とかで見たフロッピーや！！これで容量どれくらいあるんですか？」若者のほのぼのとした感想がぶっ刺さるネット民",
+    "link": "https://togetter.com/li/2770437",
+    "pubDate": "2026-11-14T12:54:13.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/",
+    "pubDate": "2026-11-14T12:48:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIについての追記",
+    "link": "https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html",
+    "pubDate": "2026-11-14T10:13:39.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
+    "link": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
+    "pubDate": "2026-11-14T10:07:16.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
     "link": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
     "pubDate": "2026-11-14T07:45:30.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "1時間で作るPerlOS: Yet Another Perl Computer",
+    "link": "https://zenn.dev/takesako/articles/e9b10360d889ca",
+    "pubDate": "Sat, 14 Nov 2026 07:09:37 GMT"
   },
   {
     "site": "Qiita",
@@ -12,22 +48,16 @@
     "pubDate": "2026-11-14T06:32:07.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている",
-    "link": "https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/",
-    "pubDate": "2026-11-14T04:02:46.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「なんでお前は重要なデータを任されるほど信用されてんの？」と上司に聞かれたセキュリティ担当者の回答、信頼に値する妙な説得力がある「情報って武器だなぁ」",
-    "link": "https://togetter.com/li/2770282",
-    "pubDate": "2026-11-14T03:49:42.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "RHEL9.8から9.9へのリリースアップ作業纏め",
-    "link": "https://qiita.com/duelist2020jp/items/9b1da0b932afce1a888f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-14T03:39:16.000Z"
+    "title": "Dell Technologies Forum 2026 参加レポート：仮想化の熱量は今も健在だった件",
+    "link": "https://qiita.com/lab8010/items/b23816de04b60ebb9a9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-14T05:51:49.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ハッカソン初心者に伝えたい、失敗から学んだチーム開発前の3つの準備",
+    "link": "https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation",
+    "pubDate": "Sat, 14 Nov 2026 04:01:19 GMT"
   },
   {
     "site": "Qiita",
@@ -37,9 +67,9 @@
   },
   {
     "site": "Hatena",
-    "title": "かつて、noteのようなブログもTwitterのような短文投稿もDiscordのようなコミュニティ運営もすべてまとめてできる、夢のようなサービスがあったのじゃ",
-    "link": "https://togetter.com/li/2770247",
-    "pubDate": "2026-11-14T01:06:19.000Z"
+    "title": "Building always-on agents",
+    "link": "https://claude.com/resources/articles/building-always-on-agents",
+    "pubDate": "2026-11-14T00:52:42.000Z"
   },
   {
     "site": "Zenn",
@@ -55,21 +85,9 @@
   },
   {
     "site": "Hatena",
-    "title": "動いた農林中金、AI株を「底値買い」　長期で安定成長を期待 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUB109MD0Q6A111C2000000/",
-    "pubDate": "2026-11-13T23:26:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明",
-    "link": "https://gigazine.net/news/20261114-llm-fluency-credible/",
-    "pubDate": "2026-11-13T23:05:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた - Qiita",
-    "link": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742",
-    "pubDate": "2026-11-13T22:56:39.000Z"
+    "title": "相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた",
+    "link": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
+    "pubDate": "2026-11-13T23:23:29.000Z"
   },
   {
     "site": "Qiita",
@@ -79,21 +97,15 @@
   },
   {
     "site": "Hatena",
-    "title": "【速報】マネックス証券、マイナカード画像漏えいか",
-    "link": "https://www.47news.jp/15227159.html",
-    "pubDate": "2026-11-13T15:36:10.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【Agent Skills】モデルが賢くなるとスキルはどうなる？",
-    "link": "https://qiita.com/ryu-ki/items/202d150ad48dbccf7981?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T15:22:50.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "マネジメントされる側の仕事は「文句」を言うこと",
     "link": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
     "pubDate": "2026-11-13T13:23:56.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AWS Emulatorで、CloudFront＋API Gateway＋Cognitoの構成をローカルで動かしてみた",
+    "link": "https://zenn.dev/visionarray/articles/2978284b5a9706",
+    "pubDate": "Fri, 13 Nov 2026 11:31:59 GMT"
   },
   {
     "site": "Zenn",
@@ -109,33 +121,21 @@
   },
   {
     "site": "Zenn",
-    "title": "ぎりぎりで受かった AWS AIF の記録",
-    "link": "https://zenn.dev/flagxs/articles/c5d6aac5e432b7",
-    "pubDate": "Fri, 13 Nov 2026 05:28:57 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "5年後のエンジニアは、何に責任を持つのだろうか",
     "link": "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
     "pubDate": "Fri, 13 Nov 2026 05:03:44 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Unityを選ぶ企業は赤字体質である。",
-    "link": "https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T03:29:15.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
-    "pubDate": "2026-11-13T02:57:17.000Z"
   },
   {
     "site": "Zenn",
     "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
     "link": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
     "pubDate": "Fri, 13 Nov 2026 02:48:24 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Claude Codeに同じ調査を繰り返させないためのメモの残し方",
+    "link": "https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-13T02:34:48.000Z"
   },
   {
     "site": "Qiita",
@@ -156,27 +156,27 @@
     "pubDate": "Thu, 12 Nov 2026 23:50:35 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
-    "link": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
-    "pubDate": "Thu, 12 Nov 2026 11:41:36 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "claude codeにMacを1台まるごと渡してチェスをさせてみた【terminal-mac】",
     "link": "https://qiita.com/hiroshi_ito9854/items/a3ea4d3db0d45f12f500?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-12T10:23:02.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "PM の資質は仕事の「外」で磨ける ー 修羅場に頼らない、これからの時代の PM 成長論",
-    "link": "https://zenn.dev/t_vana4/articles/96279b1619f6ca",
-    "pubDate": "Thu, 12 Nov 2026 09:53:38 GMT"
+    "site": "Qiita",
+    "title": "AI 診断で出た緊急・高21件中6件は OWASP ASVS の1項目だった。せめて L1 は要件に入れたい話（2026年版）",
+    "link": "https://qiita.com/ntaka329/items/012ad27328ecaae1c469?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-12T09:34:55.000Z"
   },
   {
     "site": "Qiita",
     "title": "【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】",
     "link": "https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-11T23:39:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
+    "link": "https://github.com/libracoder/kiri",
+    "pubDate": "2026-11-08T13:13:52.000Z"
   }
 ]
