@@ -1,5 +1,47 @@
 [
   {
+    "site": "Hatena",
+    "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性　独大学の調査結果",
+    "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
+    "pubDate": "2026-11-16T03:03:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ドコモでまたも通信障害、11月3度目",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
+    "pubDate": "2026-11-16T02:12:18.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く",
+    "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
+    "pubDate": "2026-11-16T01:43:21.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+    "link": "https://levtech.jp/media/detail_972/",
+    "pubDate": "2026-11-16T01:34:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+    "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+    "pubDate": "2026-11-15T22:34:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Microsoft 365障害はなぜ長引いたのか？　原因・タイムラインと「SLAクレジット」請求方法まとめ",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
+    "pubDate": "2026-11-15T21:12:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
+    "link": "https://p2ptk.org/monopoly/5688",
+    "pubDate": "2026-11-15T21:09:29.000Z"
+  },
+  {
     "site": "Qiita",
     "title": "今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）",
     "link": "https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -18,12 +60,6 @@
     "pubDate": "2026-11-15T14:50:18.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-    "link": "https://togetter.com/li/2770776",
-    "pubDate": "2026-11-15T14:21:22.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "FTDで実装するTLS Decryption",
     "link": "https://zenn.dev/5x4x7/articles/92a962f3cd6cb6",
@@ -37,33 +73,15 @@
   },
   {
     "site": "Hatena",
-    "title": "Museに雑に投げて頭を空けておく - taxin.dev",
-    "link": "https://taxin.dev/articles/2026-11-15",
-    "pubDate": "2026-11-15T12:11:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH",
-    "link": "https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026",
-    "pubDate": "2026-11-15T11:08:12.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
-    "link": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
-    "pubDate": "2026-11-15T09:51:50.000Z"
+    "title": "俺、8210円で買える「透明レトロカメラ」に夢中なんだ。これ面白いんだぜ！ (1/5)",
+    "link": "https://ascii.jp/elem/000/004/451/4451322/",
+    "pubDate": "2026-11-15T12:22:19.000Z"
   },
   {
     "site": "Zenn",
     "title": "Canton Networkとは何か――金融機関が「見せる相手を選べる」ブロックチェーンに集まる理由",
     "link": "https://zenn.dev/komlock_lab/articles/canton-network-evm-comparison-2026",
     "pubDate": "Sun, 15 Nov 2026 09:06:22 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Sprite stacking for fake 3D pixel art cars and props",
-    "link": "https://www.spritecook.ai/blog/sprite-stacking-pixel-art",
-    "pubDate": "2026-11-15T08:22:40.000Z"
   },
   {
     "site": "Qiita",
@@ -90,28 +108,10 @@
     "pubDate": "2026-11-15T03:46:52.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "自作フィードリーダーを作った - A Day in the Life",
-    "link": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
-    "pubDate": "2026-11-14T15:23:09.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "agentgatewayで始めるMCP管理",
     "link": "https://qiita.com/licux/items/cd639f2ae807b35b6697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-14T10:49:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPad mini を「持ち歩ける仕事道具」にしたアクセサリ｜Kyohei - OSS, 外資IT",
-    "link": "https://note.com/kyohei_dev/n/ncd04abe5aebc",
-    "pubDate": "2026-11-14T08:56:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序",
-    "link": "https://clivelab.jp/blogs/news/motherboard-rarely-fails",
-    "pubDate": "2026-11-14T07:57:47.000Z"
   },
   {
     "site": "Zenn",
