@@ -1,5 +1,53 @@
 [
   {
+    "site": "Qiita",
+    "title": "もういい加減\"技術勉強会\"やめませんか？ - Qiita",
+    "link": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e",
+    "pubDate": "2026-11-16T11:51:33.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox",
+    "link": "https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6",
+    "pubDate": "2026-11-16T08:16:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+    "link": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+    "pubDate": "Mon, 16 Nov 2026 08:00:05 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「年齢で断らない」賃貸アパート　全戸に見守りWi-Fi　電波の変化で安否を検知",
+    "link": "https://japan.cnet.com/article/35254951/",
+    "pubDate": "2026-11-16T07:53:04.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "レビューは AI が書いて、人が選ぶ",
+    "link": "https://blog.recruit.co.jp/data/articles/ai-review-skills/",
+    "pubDate": "2026-11-16T05:51:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "グーグルのAI認定講座、1万人に無料提供　「Google AI Pro」3カ月利用権も",
+    "link": "https://www.watch.impress.co.jp/docs/news/2156720.html",
+    "pubDate": "2026-11-16T05:22:52.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "スパコン「富岳」に不正アクセス　理研が明らかに",
+    "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
+    "pubDate": "2026-11-16T04:49:20.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "mizchi/mutator を入れてみた",
+    "link": "https://zenn.dev/polyco/articles/e05cb28c569801",
+    "pubDate": "Mon, 16 Nov 2026 03:49:18 GMT"
+  },
+  {
     "site": "Hatena",
     "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性　独大学の調査結果",
     "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
@@ -13,27 +61,39 @@
   },
   {
     "site": "Hatena",
-    "title": "エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く",
-    "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
-    "pubDate": "2026-11-16T01:43:21.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
     "link": "https://levtech.jp/media/detail_972/",
     "pubDate": "2026-11-16T01:34:47.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-    "link": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-    "pubDate": "2026-11-15T22:34:36.000Z"
+    "site": "Qiita",
+    "title": "はじめてのAPIログ設計 — 「ログはあるのに調べられない」を防ぐには？",
+    "link": "https://qiita.com/masashige0904/items/22f2836485ecc25ee527?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-16T00:37:01.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Microsoft 365障害はなぜ長引いたのか？　原因・タイムラインと「SLAクレジット」請求方法まとめ",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
-    "pubDate": "2026-11-15T21:12:32.000Z"
+    "site": "Qiita",
+    "title": "PostgreSQLとFastAPIで作る、状態遷移を守る更新APIと履歴テーブル",
+    "link": "https://qiita.com/takumi_engineer/items/5a2dffdff4af6e9f45ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-16T00:00:17.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "日報mdをどの画面からもワンボタン表示！ Raycast × Obsidian",
+    "link": "https://qiita.com/kuma_3838/items/e8a11dd95f319a1545d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-15T23:34:57.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "『なぜ、あなたの仕事は終わらないのか』で学んだ目的意識と時間の使い方",
+    "link": "https://qiita.com/kuma_3838/items/a5145ee73f86646c64ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-15T23:34:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
+    "link": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
+    "pubDate": "Sun, 15 Nov 2026 23:00:07 GMT"
   },
   {
     "site": "Hatena",
@@ -49,39 +109,27 @@
   },
   {
     "site": "Zenn",
+    "title": "AIエージェントは悪意ある指示を記憶するのか？— AgentCore MemoryとGuardrailsで検証",
+    "link": "https://zenn.dev/takuyousou/articles/agentcore-memory-poisoning-guardrails",
+    "pubDate": "Sun, 15 Nov 2026 15:40:12 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Lightdashで作れるグラフを試してみた【dbt v2】",
     "link": "https://zenn.dev/ryatora/articles/lightdash-chart-catalog",
     "pubDate": "Sun, 15 Nov 2026 15:07:26 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」",
-    "link": "https://www.yomiuri.co.jp/world/20261115-GYT1T00190/",
-    "pubDate": "2026-11-15T14:50:18.000Z"
+    "site": "Zenn",
+    "title": "サンドボックス内のAIエージェントにHerdrを安全に使わせたい",
+    "link": "https://zenn.dev/naofumimurata/articles/nono-hc-proxy",
+    "pubDate": "Sun, 15 Nov 2026 09:46:35 GMT"
   },
   {
     "site": "Zenn",
-    "title": "FTDで実装するTLS Decryption",
-    "link": "https://zenn.dev/5x4x7/articles/92a962f3cd6cb6",
-    "pubDate": "Sun, 15 Nov 2026 13:49:46 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "こんなに変わった！ AWSネットワークの常識",
-    "link": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
-    "pubDate": "2026-11-15T12:30:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "俺、8210円で買える「透明レトロカメラ」に夢中なんだ。これ面白いんだぜ！ (1/5)",
-    "link": "https://ascii.jp/elem/000/004/451/4451322/",
-    "pubDate": "2026-11-15T12:22:19.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Canton Networkとは何か――金融機関が「見せる相手を選べる」ブロックチェーンに集まる理由",
-    "link": "https://zenn.dev/komlock_lab/articles/canton-network-evm-comparison-2026",
-    "pubDate": "Sun, 15 Nov 2026 09:06:22 GMT"
+    "title": "Apple container で docker compose を動かす（DNS 名と SSH で簡単になった）",
+    "link": "https://zenn.dev/7kaji/articles/a9e056ced5f0c1",
+    "pubDate": "Sun, 15 Nov 2026 09:00:05 GMT"
   },
   {
     "site": "Qiita",
@@ -97,21 +145,21 @@
   },
   {
     "site": "Zenn",
-    "title": ".NET 11 の ASP.NET Core Blazor の新機能のスケールイン対応機能！",
-    "link": "https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale",
-    "pubDate": "Sun, 15 Nov 2026 07:58:03 GMT"
+    "title": "AIの回答が長すぎて、理解しないまま実装している問題（理解負債）",
+    "link": "https://zenn.dev/kent_code/articles/5892898be90cac",
+    "pubDate": "Sun, 15 Nov 2026 00:19:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話",
+    "link": "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
+    "pubDate": "Sat, 14 Nov 2026 20:02:29 GMT"
   },
   {
     "site": "Qiita",
-    "title": "【入緑記事】凡人向け入緑記事（灰色～入緑まで）",
-    "link": "https://qiita.com/akih1r/items/13b55d807e8e085247c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-15T03:46:52.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "agentgatewayで始めるMCP管理",
-    "link": "https://qiita.com/licux/items/cd639f2ae807b35b6697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-14T10:49:51.000Z"
+    "title": "社長の一言は重い。RAGにも忖度させてみた（重み付け検索）",
+    "link": "https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-14T15:30:41.000Z"
   },
   {
     "site": "Zenn",
@@ -126,57 +174,9 @@
     "pubDate": "2026-11-14T06:32:07.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【2026/11/13時点】Claude Duet を Team プランで触ってみた（組織で使うときの注意点つき）",
-    "link": "https://zenn.dev/canly/articles/e2bd67c9a4c18b",
-    "pubDate": "Fri, 13 Nov 2026 23:45:16 GMT"
-  },
-  {
     "site": "Qiita",
-    "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた",
-    "link": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T16:43:26.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
-    "link": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-    "pubDate": "Fri, 13 Nov 2026 13:08:40 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "ng: Neovim のためのシンプルな GUI",
-    "link": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-    "pubDate": "Fri, 13 Nov 2026 10:49:55 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "5年後のエンジニアは、何に責任を持つのだろうか",
-    "link": "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
-    "pubDate": "Fri, 13 Nov 2026 05:03:44 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Unityを選ぶ企業は赤字体質である。",
-    "link": "https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T03:29:15.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
-    "link": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-    "pubDate": "Fri, 13 Nov 2026 02:48:24 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Claude Codeに同じ調査を繰り返させないためのメモの残し方",
-    "link": "https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T02:34:48.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない",
-    "link": "https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-13T02:03:33.000Z"
+    "title": "pgvectorの距離を類似度に直して根拠不足を判定する：RAG検索層とpytest回帰",
+    "link": "https://qiita.com/takumi_engineer/items/93db73ccf114bad454f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-14T00:00:08.000Z"
   }
 ]
