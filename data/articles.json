@@ -1,39 +1,141 @@
 [
   {
     "site": "Hatena",
-    "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及",
-    "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
-    "pubDate": "2026-11-16T22:24:29.000Z"
+    "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
+    "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
+    "pubDate": "2026-11-17T10:58:03.000Z"
   },
   {
     "site": "Hatena",
-    "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254",
-    "pubDate": "2026-11-16T21:42:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
-    "link": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
-    "pubDate": "2026-11-16T19:25:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
-    "link": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
-    "pubDate": "2026-11-16T19:05:37.000Z"
+    "title": "楽天証券が不正アクセスを受け最大約1125万口座分のログインIDなどが漏えい、さらにエンジニア3日の人でもヤバいと分かる行為をやっていたことが判明",
+    "link": "https://togetter.com/li/2771595",
+    "pubDate": "2026-11-17T10:31:40.000Z"
   },
   {
     "site": "Zenn",
-    "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-    "link": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-    "pubDate": "2026-11-16T15:11:21.000Z"
+    "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
+    "link": "https://zenn.dev/mizchi/articles/mutation-test-quality",
+    "pubDate": "2026-11-17T09:59:42.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート",
-    "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
-    "pubDate": "2026-11-16T14:22:24.000Z"
+    "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a",
+    "pubDate": "2026-11-17T09:33:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性",
+    "link": "https://www.watch.impress.co.jp/docs/news/2157207.html",
+    "pubDate": "2026-11-17T09:23:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券",
+    "link": "https://www.rakuten-sec.co.jp/web/info/info20261117-02.html",
+    "pubDate": "2026-11-17T08:41:53.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "ローカルLLM入門",
+    "link": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+    "pubDate": "Tue, 17 Nov 2026 07:17:24 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+    "link": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+    "pubDate": "2026-11-17T06:39:54.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NVIDIA、CEO 交代に関するお知らせ",
+    "link": "https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/",
+    "pubDate": "2026-11-17T06:39:50.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 7",
+    "link": "https://qiita.com/maskot1977/items/6327d215b585169aaa64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-17T06:07:47.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "「子孫へのツケ」は誰が受け取るのか——純債務・危機比較・世代間会計 : システム設計視点の行動経済学 (64)",
+    "link": "https://qiita.com/maskot1977/items/00673a33a7f6f0888ed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-17T03:40:06.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+    "link": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+    "pubDate": "Tue, 17 Nov 2026 03:13:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "mise + gh skill で、dotfiles から Agent Skills を管理する",
+    "link": "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
+    "pubDate": "Tue, 17 Nov 2026 03:00:08 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "New Relicのユニットエコノミクスでビジネスの成長とクラウドコスト最適化を両立しよう！",
+    "link": "https://qiita.com/ashimada83/items/c609ed38e53225c1eba6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-17T01:08:34.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "お問い合わせの8割を、AIボットが解決するようになった話",
+    "link": "https://zenn.dev/rimo/articles/701d18b7764669",
+    "pubDate": "Tue, 17 Nov 2026 01:05:13 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2156904.html",
+    "pubDate": "2026-11-17T01:04:18.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
+    "link": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-17T00:58:19.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Google日本語入力が不満な人へ、Windows/Mac対応国産ソフト「もずきー」登場。遅延付きライブ変換とAI文脈補正を搭載、使うほど学習し自分好みに（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/11/17/5737.html",
+    "pubDate": "2026-11-17T00:51:29.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "スマホ内蔵のセンサーを使って周辺光取得を試す",
+    "link": "https://zenn.dev/aldagram_tech/articles/f7b57935e31070",
+    "pubDate": "Tue, 17 Nov 2026 00:37:04 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "dbt + TerraformでCortex Searchを構築し，最小権限を目指すためにハマったこと",
+    "link": "https://zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform",
+    "pubDate": "Tue, 17 Nov 2026 00:19:31 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "APEXlangでVibe Coding：ADBの機能を組み合わせて、都バスの運行を可視化してみた",
+    "link": "https://qiita.com/araidon/items/a18e9556db3297b7f790?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-16T22:19:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "最近、コードを真面目に読まなくなった",
+    "link": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+    "pubDate": "Mon, 16 Nov 2026 15:24:23 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AI駆動開発で自分用の情報収集Discordサーバーを作る",
+    "link": "https://zenn.dev/tree_and_tree/articles/ai-driven-discord-info-server",
+    "pubDate": "Mon, 16 Nov 2026 15:14:11 GMT"
   },
   {
     "site": "Zenn",
@@ -42,58 +144,10 @@
     "pubDate": "Mon, 16 Nov 2026 12:53:34 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "もういい加減\"技術勉強会\"やめませんか？ - Qiita",
-    "link": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e",
-    "pubDate": "2026-11-16T11:51:33.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用する特許出願―提供した計算量に応じたクレジット付与の例も | Game*Spark - 国内・海外ゲーム情報サイト",
-    "link": "https://www.gamespark.jp/article/2026/11/16/174930.html",
-    "pubDate": "2026-11-16T11:08:50.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "AIが文学界を揺るがしている",
-    "link": "https://gigazine.net/news/20261116-ai-literary-world/",
-    "pubDate": "2026-11-16T10:02:10.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "Kotlin Fest 2026 参加記",
     "link": "https://zenn.dev/0st_ts/articles/d55862e1a134c2",
     "pubDate": "Mon, 16 Nov 2026 10:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-    "link": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-    "pubDate": "Mon, 16 Nov 2026 09:12:44 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
-    "link": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
-    "pubDate": "Mon, 16 Nov 2026 08:00:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "中編　LLM推論エンジンを作る",
-    "link": "https://zenn.dev/shozotanaka/articles/632191056c62f4",
-    "pubDate": "Mon, 16 Nov 2026 07:46:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claudeで試験項目の自動消化を試す",
-    "link": "https://zenn.dev/sre_holdings/articles/29458d1ff4cc39",
-    "pubDate": "Mon, 16 Nov 2026 07:24:54 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "前編　LLM推論エンジンを作る",
-    "link": "https://zenn.dev/shozotanaka/articles/7e86f85974eebb",
-    "pubDate": "Mon, 16 Nov 2026 07:01:05 GMT"
   },
   {
     "site": "Qiita",
@@ -102,64 +156,16 @@
     "pubDate": "2026-11-16T06:26:17.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "Claude Codeが書いたコードを読む代わりにやっていること",
-    "link": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
-    "pubDate": "Mon, 16 Nov 2026 05:04:44 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AI駆動開発を導入するためのツールをAIで作ってみた",
     "link": "https://qiita.com/kizuku_tabata/items/79e3411b93aff5c46177?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-16T04:28:02.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
-    "link": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
-    "pubDate": "2026-11-16T03:56:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "mizchi/mutator を入れてみた",
-    "link": "https://zenn.dev/polyco/articles/e05cb28c569801",
-    "pubDate": "Mon, 16 Nov 2026 03:49:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "StrataとゲーミングPCでローカルLLM生活は始められるのか",
-    "link": "https://zenn.dev/sonicmoov/articles/afbc7281c59cb8",
-    "pubDate": "Mon, 16 Nov 2026 03:33:19 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "AIを介したやり取りは、放っておくとAI Slopを加速させるかも",
     "link": "https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-16T00:52:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "はじめてのAPIログ設計 — 「ログはあるのに調べられない」を防ぐには？",
-    "link": "https://qiita.com/masashige0904/items/22f2836485ecc25ee527?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-16T00:37:01.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "PostgreSQLとFastAPIで作る、状態遷移を守る更新APIと履歴テーブル",
-    "link": "https://qiita.com/takumi_engineer/items/5a2dffdff4af6e9f45ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-16T00:00:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "日報mdをどの画面からもワンボタン表示！ Raycast × Obsidian",
-    "link": "https://qiita.com/kuma_3838/items/e8a11dd95f319a1545d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-15T23:34:57.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "『なぜ、あなたの仕事は終わらないのか』で学んだ目的意識と時間の使い方",
-    "link": "https://qiita.com/kuma_3838/items/a5145ee73f86646c64ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-15T23:34:43.000Z"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "社長の一言は重い。RAGにも忖度させてみた（重み付け検索）",
     "link": "https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-14T15:30:41.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "pgvectorの距離を類似度に直して根拠不足を判定する：RAG検索層とpytest回帰",
-    "link": "https://qiita.com/takumi_engineer/items/93db73ccf114bad454f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-14T00:00:08.000Z"
   }
 ]
