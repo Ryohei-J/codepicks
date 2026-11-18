@@ -1,27 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
+    "pubDate": "2026-11-18T23:15:44.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NGINXの脆弱性 CVE-2026-123633、CVE-2026-123007についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/19/065715",
+    "pubDate": "2026-11-18T22:35:08.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO",
+    "link": "https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/",
+    "pubDate": "2026-11-18T21:41:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
+    "link": "https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/",
+    "pubDate": "2026-11-18T16:38:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」",
+    "link": "https://togetter.com/li/2772114",
+    "pubDate": "2026-11-18T15:01:11.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "MUJI Card発行のクレディセゾン、カード番号削除を2度依頼　無印は実行せず",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/",
     "pubDate": "2026-11-18T14:15:39.000Z"
   },
   {
     "site": "Hatena",
-    "title": "楽天証券の情報漏えい、集団訴訟の動き始まる　「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース",
-    "link": "https://www.bengo4.com/c_18/n_21206/",
-    "pubDate": "2026-11-18T11:57:45.000Z"
+    "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+    "link": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
+    "pubDate": "2026-11-18T14:07:11.000Z"
   },
   {
     "site": "Hatena",
-    "title": "プロトタイプが「YouTube200万再生」でバズったゲーム開発者、初動売上500本弱でちゃんと反省。ホットなうちに“売る準備”すべし - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20261118-479880/",
-    "pubDate": "2026-11-18T11:16:36.000Z"
+    "title": "認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～",
+    "link": "https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen",
+    "pubDate": "2026-11-18T13:07:43.000Z"
   },
   {
     "site": "Hatena",
-    "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
-    "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
-    "pubDate": "2026-11-18T08:46:35.000Z"
+    "title": "アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261117de77369",
+    "pubDate": "2026-11-18T12:57:29.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "GPT-6.2 Astra vs Fable 5.2で3Dモデル生成対決！",
+    "link": "https://qiita.com/7mpy/items/6a9ce87b576063f68d71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-18T12:11:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Terraform 0 to 100：100個以上のリポジトリを常に最新にし続けるための自動化",
+    "link": "https://speakerdeck.com/sue445/terraform-0-to-100",
+    "pubDate": "2026-11-18T08:34:01.000Z"
   },
   {
     "site": "Zenn",
@@ -31,15 +73,15 @@
   },
   {
     "site": "Zenn",
+    "title": "QA効率化におけるAI活用事例",
+    "link": "https://zenn.dev/applibot_tech/articles/6b8ec8d196634b",
+    "pubDate": "Wed, 18 Nov 2026 06:33:59 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
     "link": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
     "pubDate": "Wed, 18 Nov 2026 05:53:00 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "Suicaペンギンの後継キャラはB案「紫のうさぎ」に　愛称募集を開始",
-    "link": "https://www.watch.impress.co.jp/docs/news/2157432.html",
-    "pubDate": "2026-11-18T05:20:59.000Z"
   },
   {
     "site": "Qiita",
@@ -48,10 +90,16 @@
     "pubDate": "2026-11-18T04:12:12.000Z"
   },
   {
+    "site": "Qiita",
+    "title": "AIに役割を持たせたワークフローを、使うたびに直していたら、止まらなくなった話",
+    "link": "https://qiita.com/Masato_Iwasaki/items/db76e7388cece3cff66e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-18T03:05:06.000Z"
+  },
+  {
     "site": "Zenn",
-    "title": "最近、コードを真面目に読まなくなった",
-    "link": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-    "pubDate": "2026-11-18T02:28:53.000Z"
+    "title": "Snowflake の managed access schema で COPY GRANTS 付き CLONE がなぜか初回だけ失敗した話",
+    "link": "https://zenn.dev/finatext/articles/snowflake-managed-access-copy-grants",
+    "pubDate": "Wed, 18 Nov 2026 02:22:05 GMT"
   },
   {
     "site": "Qiita",
@@ -60,34 +108,10 @@
     "pubDate": "2026-11-18T02:13:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
-    "pubDate": "2026-11-18T01:53:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/11/18/5756.html",
-    "pubDate": "2026-11-18T00:39:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "日本郵便が挑む「住所の正規化」――日本国内の住所を7桁の英数字で表す「デジタルアドレス」で、表記揺れや記入の面倒を無くす【地図と位置情報】",
-    "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/2152316.html",
-    "pubDate": "2026-11-17T23:00:37.000Z"
-  },
-  {
     "site": "Zenn",
-    "title": "危険コマンドを止める Claude Code hook を書いたのに、素通ししていた",
-    "link": "https://zenn.dev/minewo/articles/claude-code-hook-fail-open",
-    "pubDate": "Tue, 17 Nov 2026 21:31:02 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Kaggle 膝コンペ振り返り & 上位解法まとめ | RSNA Knee Abnormality Detection",
-    "link": "https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee",
-    "pubDate": "Tue, 17 Nov 2026 14:09:17 GMT"
+    "title": "ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録",
+    "link": "https://zenn.dev/rimo/articles/12d6a7b1c58fcd",
+    "pubDate": "Wed, 18 Nov 2026 00:51:16 GMT"
   },
   {
     "site": "Qiita",
@@ -100,30 +124,6 @@
     "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？",
     "link": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-17T12:55:43.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する",
-    "link": "https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries",
-    "pubDate": "Tue, 17 Nov 2026 11:31:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "決済という機能を実装するのは容易だが、思っていたより考えることが多かった",
-    "link": "https://zenn.dev/chot/articles/1297582ee96341",
-    "pubDate": "Tue, 17 Nov 2026 11:22:51 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【個人開発/未経験】エラーログが風流な短歌になる「絶望えらぁ短歌」開発してみた【Rails 8 + OpenAI API】",
-    "link": "https://qiita.com/mmsbox/items/12e2b7e06468e1c0a98f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-17T10:21:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "L40S 1台で社内RAGは何人まで使えるか",
-    "link": "https://zenn.dev/epicai_techblog/articles/29b509117755af",
-    "pubDate": "Tue, 17 Nov 2026 10:00:06 GMT"
   },
   {
     "site": "Zenn",
@@ -144,10 +144,16 @@
     "pubDate": "Tue, 17 Nov 2026 07:17:24 GMT"
   },
   {
-    "site": "Qiita",
-    "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita",
-    "link": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
-    "pubDate": "2026-11-17T05:33:02.000Z"
+    "site": "Zenn",
+    "title": "Claude Desktop 開発のすゝめ",
+    "link": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+    "pubDate": "Tue, 17 Nov 2026 03:41:36 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+    "link": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+    "pubDate": "Tue, 17 Nov 2026 03:13:36 GMT"
   },
   {
     "site": "Qiita",
@@ -172,11 +178,5 @@
     "title": "AIを介したやり取りは、放っておくとAI Slopを加速させるかも",
     "link": "https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-16T00:52:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説",
-    "link": "https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-15T08:03:34.000Z"
   }
 ]
