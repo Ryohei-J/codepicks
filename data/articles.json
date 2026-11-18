@@ -1,15 +1,93 @@
 [
   {
     "site": "Hatena",
-    "title": "楽天証券から漏洩した情報とは？　テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3",
-    "pubDate": "2026-11-17T15:13:38.000Z"
+    "title": "MUJI Card発行のクレディセゾン、カード番号削除を2度依頼　無印は実行せず",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/",
+    "pubDate": "2026-11-18T14:15:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天証券の情報漏えい、集団訴訟の動き始まる　「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース",
+    "link": "https://www.bengo4.com/c_18/n_21206/",
+    "pubDate": "2026-11-18T11:57:45.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "プロトタイプが「YouTube200万再生」でバズったゲーム開発者、初動売上500本弱でちゃんと反省。ホットなうちに“売る準備”すべし - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20261118-479880/",
+    "pubDate": "2026-11-18T11:16:36.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
+    "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
+    "pubDate": "2026-11-18T08:46:35.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
+    "link": "https://zenn.dev/dress_code/articles/6c179ae5129131",
+    "pubDate": "Wed, 18 Nov 2026 07:00:06 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
+    "link": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
+    "pubDate": "Wed, 18 Nov 2026 05:53:00 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "Suicaペンギンの後継キャラはB案「紫のうさぎ」に　愛称募集を開始",
+    "link": "https://www.watch.impress.co.jp/docs/news/2157432.html",
+    "pubDate": "2026-11-18T05:20:59.000Z"
   },
   {
     "site": "Qiita",
-    "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita",
-    "link": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share",
-    "pubDate": "2026-11-17T14:00:55.000Z"
+    "title": "【AWS Emulator】消し忘れの恐怖から卒業！公式エミュレータでS3とLambdaを動かしてみた",
+    "link": "https://qiita.com/N-Kyo/items/a111d174a751506790e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-18T04:12:12.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "最近、コードを真面目に読まなくなった",
+    "link": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+    "pubDate": "2026-11-18T02:28:53.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": " AI も「一晩寝かせる」と考えがまとまる🥱 寝ている間に記憶を整理する Dreaming の仕組み",
+    "link": "https://qiita.com/KYoshiyama/items/623e13ced9c119b614aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-18T02:13:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
+    "pubDate": "2026-11-18T01:53:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/11/18/5756.html",
+    "pubDate": "2026-11-18T00:39:38.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "日本郵便が挑む「住所の正規化」――日本国内の住所を7桁の英数字で表す「デジタルアドレス」で、表記揺れや記入の面倒を無くす【地図と位置情報】",
+    "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/2152316.html",
+    "pubDate": "2026-11-17T23:00:37.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "危険コマンドを止める Claude Code hook を書いたのに、素通ししていた",
+    "link": "https://zenn.dev/minewo/articles/claude-code-hook-fail-open",
+    "pubDate": "Tue, 17 Nov 2026 21:31:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Kaggle 膝コンペ振り返り & 上位解法まとめ | RSNA Knee Abnormality Detection",
+    "link": "https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee",
+    "pubDate": "Tue, 17 Nov 2026 14:09:17 GMT"
   },
   {
     "site": "Qiita",
@@ -18,10 +96,28 @@
     "pubDate": "2026-11-17T13:52:59.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
-    "link": "https://note.com/wakabame/n/nc76b65a187bb",
-    "pubDate": "2026-11-17T13:10:43.000Z"
+    "site": "Qiita",
+    "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？",
+    "link": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-17T12:55:43.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する",
+    "link": "https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries",
+    "pubDate": "Tue, 17 Nov 2026 11:31:17 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "決済という機能を実装するのは容易だが、思っていたより考えることが多かった",
+    "link": "https://zenn.dev/chot/articles/1297582ee96341",
+    "pubDate": "Tue, 17 Nov 2026 11:22:51 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【個人開発/未経験】エラーログが風流な短歌になる「絶望えらぁ短歌」開発してみた【Rails 8 + OpenAI API】",
+    "link": "https://qiita.com/mmsbox/items/12e2b7e06468e1c0a98f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-17T10:21:18.000Z"
   },
   {
     "site": "Zenn",
@@ -33,31 +129,7 @@
     "site": "Zenn",
     "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
     "link": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-    "pubDate": "2026-11-17T09:59:42.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
-    "link": "https://zenn.dev/mizchi/articles/mutation-test-quality",
     "pubDate": "Tue, 17 Nov 2026 09:53:47 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券",
-    "link": "https://www.rakuten-sec.co.jp/web/info/info20261117-02.html",
-    "pubDate": "2026-11-17T08:41:53.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "蒸気タービンとは？｜ターボ機械協会",
-    "link": "https://www.turbo-so.jp/turbo-kids5.html",
-    "pubDate": "2026-11-17T07:23:00.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
-    "link": "https://japan.cnet.com/article/35254996/",
-    "pubDate": "2026-11-17T07:22:06.000Z"
   },
   {
     "site": "Zenn",
@@ -72,52 +144,10 @@
     "pubDate": "Tue, 17 Nov 2026 07:17:24 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
-    "link": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-    "pubDate": "2026-11-17T06:46:55.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マイクロソフトの幹部、大規模障害を引き起こした3つの原因を公表",
-    "link": "https://japan.zdnet.com/article/35254976/",
-    "pubDate": "2026-11-17T06:00:50.000Z"
-  },
-  {
     "site": "Qiita",
-    "title": "dbt + DuckDBでSQL集計をローカルで動かしてみる",
-    "link": "https://qiita.com/take-yoda/items/e24e62ba5a4ad4d84c0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-17T04:09:18.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "LTを盛り上げよう！AWSサービス応援うちわ制作裏話",
-    "link": "https://zenn.dev/namiki64/articles/7aab23e02d1dc4",
-    "pubDate": "Tue, 17 Nov 2026 03:55:17 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Desktop 開発のすゝめ",
-    "link": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
-    "pubDate": "Tue, 17 Nov 2026 03:41:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
-    "link": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-    "pubDate": "Tue, 17 Nov 2026 03:13:36 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "mise + gh skill で、dotfiles から Agent Skills を管理する",
-    "link": "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
-    "pubDate": "Tue, 17 Nov 2026 03:00:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "OpenTelemetry×Cloudflareで組織のClaude Code利用ログを収集する",
-    "link": "https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare",
-    "pubDate": "Tue, 17 Nov 2026 02:35:22 GMT"
+    "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita",
+    "link": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
+    "pubDate": "2026-11-17T05:33:02.000Z"
   },
   {
     "site": "Qiita",
@@ -127,27 +157,9 @@
   },
   {
     "site": "Qiita",
-    "title": "New Relicのユニットエコノミクスでビジネスの成長とクラウドコスト最適化を両立しよう！",
-    "link": "https://qiita.com/ashimada83/items/c609ed38e53225c1eba6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-17T01:08:34.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "お問い合わせの8割を、AIボットが解決するようになった話",
-    "link": "https://zenn.dev/rimo/articles/701d18b7764669",
-    "pubDate": "Tue, 17 Nov 2026 01:05:13 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
     "link": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-17T00:58:19.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "APEXlangでVibe Coding：ADBの機能を組み合わせて、都バスの運行を可視化してみた",
-    "link": "https://qiita.com/araidon/items/a18e9556db3297b7f790?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-16T22:19:10.000Z"
   },
   {
     "site": "Qiita",
@@ -156,22 +168,10 @@
     "pubDate": "2026-11-16T06:26:17.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
-    "link": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
-    "pubDate": "2026-11-16T01:04:11.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "AIを介したやり取りは、放っておくとAI Slopを加速させるかも",
     "link": "https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-16T00:52:08.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "『なぜ、あなたの仕事は終わらないのか』で学んだ目的意識と時間の使い方",
-    "link": "https://qiita.com/kuma_3838/items/a5145ee73f86646c64ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-15T23:34:43.000Z"
   },
   {
     "site": "Qiita",
