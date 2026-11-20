@@ -1,33 +1,51 @@
 [
   {
     "site": "Hatena",
-    "title": "「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2158039.html",
-    "pubDate": "2026-11-19T15:05:27.000Z"
+    "title": "湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」",
+    "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
+    "pubDate": "2026-11-19T23:45:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
+    "link": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
+    "pubDate": "2026-11-19T23:35:14.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「湘南美容クリニック」などの個人情報流出　氏名など162万人分　不正アクセスで",
-    "link": "https://japan.cnet.com/article/35255171/",
-    "pubDate": "2026-11-19T13:48:03.000Z"
+    "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
+    "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+    "pubDate": "2026-11-19T23:28:20.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Agenship — Software FactoryであなたのチームにAIの開発ラインを",
-    "link": "https://agenship.ai/",
-    "pubDate": "2026-11-19T12:07:58.000Z"
+    "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
+    "link": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
+    "pubDate": "2026-11-19T21:48:20.000Z"
   },
   {
     "site": "Hatena",
-    "title": "ソフトウェアダークファクトリー | 技術評論社",
-    "link": "https://gihyo.jp/book/2026/978-4-297-16073-9",
-    "pubDate": "2026-11-19T11:56:11.000Z"
+    "title": "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
+    "pubDate": "2026-11-19T15:54:08.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita",
+    "link": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44",
+    "pubDate": "2026-11-19T15:25:02.000Z"
   },
   {
     "site": "Hatena",
-    "title": "美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める",
-    "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
-    "pubDate": "2026-11-19T11:25:45.000Z"
+    "title": "AIに悩みを相談する際に気をつけて欲しいこと｜SSC",
+    "link": "https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/",
+    "pubDate": "2026-11-19T13:44:45.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "【Gemini 4 Hydrogen】「とりあえず一番上」から卒業！Agent Studioで試す手順",
+    "link": "https://qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-19T11:09:07.000Z"
   },
   {
     "site": "Hatena",
@@ -36,28 +54,34 @@
     "pubDate": "2026-11-19T09:44:51.000Z"
   },
   {
+    "site": "Hatena",
+    "title": "「オントロジー」とは結局何なのか　Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
+    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
+    "pubDate": "2026-11-19T09:36:30.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
     "link": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
     "pubDate": "Thu, 19 Nov 2026 07:28:27 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "複雑な立体形状や皮膚上に直接形成可能なナノメッシュ皮膚センサの開発に成功 ―次世代ヘルスケアやヒューマン・マシン・インターフェース応用に期待―",
-    "link": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-19-001",
-    "pubDate": "2026-11-19T07:06:05.000Z"
+    "site": "Zenn",
+    "title": "AIが爆速で開発する時代の、自動テストとの向き合い方",
+    "link": "https://zenn.dev/daiaoki/articles/webterm-ai-era-testing",
+    "pubDate": "Thu, 19 Nov 2026 07:11:24 GMT"
   },
   {
     "site": "Zenn",
-    "title": "新機能、ElastiCache の distributed KV caching を GPU 2 台の vLLM で試す",
-    "link": "https://zenn.dev/aws_japan/articles/elasticache-distributed-kv-cache-bench",
-    "pubDate": "Thu, 19 Nov 2026 06:55:05 GMT"
+    "title": "Gemini Decision 1でスパム退治！",
+    "link": "https://zenn.dev/satoshi_yoneda/articles/decision-1-anti-spam",
+    "pubDate": "Thu, 19 Nov 2026 06:20:46 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
-    "link": "https://togetter.com/li/2772319",
-    "pubDate": "2026-11-19T05:30:10.000Z"
+    "site": "Qiita",
+    "title": "【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件",
+    "link": "https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-19T03:56:02.000Z"
   },
   {
     "site": "Zenn",
@@ -67,9 +91,9 @@
   },
   {
     "site": "Zenn",
-    "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
-    "link": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-    "pubDate": "2026-11-19T02:22:17.000Z"
+    "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
+    "link": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
+    "pubDate": "Thu, 19 Nov 2026 02:10:13 GMT"
   },
   {
     "site": "Zenn",
@@ -84,10 +108,10 @@
     "pubDate": "2026-11-19T01:40:19.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "教師のためのAI入門",
-    "link": "https://yamazato.nuee.nagoya-u.ac.jp/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf",
-    "pubDate": "2026-11-19T01:32:33.000Z"
+    "site": "Zenn",
+    "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
+    "link": "https://zenn.dev/kusuke/articles/98e178e6824cac",
+    "pubDate": "Thu, 19 Nov 2026 01:34:24 GMT"
   },
   {
     "site": "Qiita",
@@ -97,45 +121,27 @@
   },
   {
     "site": "Zenn",
-    "title": "vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した",
-    "link": "https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs",
-    "pubDate": "Wed, 18 Nov 2026 14:26:28 GMT"
+    "title": "ログの種別を整理して、何をどこまで残すか決めた話",
+    "link": "https://zenn.dev/dress_code/articles/a3bf34274af03f",
+    "pubDate": "Thu, 19 Nov 2026 00:00:11 GMT"
   },
   {
     "site": "Qiita",
-    "title": "AWS JumpStart2026参加レポート",
-    "link": "https://qiita.com/inorin__62/items/68fcb017ab4b6bfd9c08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-18T14:12:33.000Z"
+    "title": "紫のうさぎ3DモデルとアニメーションPurple Rabbit",
+    "link": "https://qiita.com/yangon/items/82ccc38c04c3ea1e8d3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-18T22:04:51.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになっていた件",
-    "link": "https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
-    "pubDate": "Wed, 18 Nov 2026 14:06:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "KotlinFest 2026のアーカイブ動画即日公開を支えた技術",
-    "link": "https://zenn.dev/hiro_pon/articles/0fc7f0c9ed88a2",
-    "pubDate": "Wed, 18 Nov 2026 13:48:53 GMT"
+    "site": "Qiita",
+    "title": "【実験】Direct Connectの片系を落とすと、実際どれくらいで切り替わり、行きと戻りはどの回線を通るのか",
+    "link": "https://qiita.com/sh_fukatsu/items/5a069f9fce99a86efb05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-18T13:42:33.000Z"
   },
   {
     "site": "Qiita",
     "title": "Lodashへの別れ：標準JavaScriptでここまでできる置き換えチートシート",
     "link": "https://qiita.com/figueiredoluiz/items/c47f5f20a9f4118054f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-18T13:16:39.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "GPT-6.2 Astra vs Fable 5.2で3Dモデル生成対決！",
-    "link": "https://qiita.com/7mpy/items/6a9ce87b576063f68d71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-18T12:11:09.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "今話題のMuseってなに？どんなことができる？※この記事はMuseが書いて自動で投稿しています",
-    "link": "https://qiita.com/inoyu-qiita/items/05f9c10adc1a398d6ff5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-18T08:13:37.000Z"
   },
   {
     "site": "Zenn",
@@ -150,22 +156,16 @@
     "pubDate": "Wed, 18 Nov 2026 05:55:40 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Odin に賭けたい人向けの Odin 言語入門ガイド",
-    "link": "https://zenn.dev/mizchi/articles/odin-introduction-guide",
-    "pubDate": "Wed, 18 Nov 2026 05:53:00 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "人間がボトルネックになった時代のAIエージェント設計",
     "link": "https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-18T05:37:05.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "AIに役割を持たせたワークフローを、使うたびに直していたら、止まらなくなった話",
-    "link": "https://qiita.com/Masato_Iwasaki/items/db76e7388cece3cff66e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-18T03:05:06.000Z"
+    "site": "Hatena",
+    "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
+    "link": "https://blog.shibayu36.org/entry/2026/11/17/120000",
+    "pubDate": "2026-11-18T03:37:49.000Z"
   },
   {
     "site": "Qiita",
