@@ -1,9 +1,69 @@
 [
   {
     "site": "Hatena",
-    "title": "湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」",
-    "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
-    "pubDate": "2026-11-19T23:45:17.000Z"
+    "title": "【速報】三井住友銀で情報漏えい、最大1400万件",
+    "link": "https://www.47news.jp/15262461.html",
+    "pubDate": "2026-11-20T10:10:25.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "POS端末700台超がマルウェア感染、Windowsの脆弱性悪用でカード情報100万件超が流出",
+    "link": "https://news.mynavi.jp/techplus/article/20261120-5367457/",
+    "pubDate": "2026-11-20T09:57:14.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html",
+    "pubDate": "2026-11-20T09:31:39.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html",
+    "pubDate": "2026-11-20T09:26:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RTKの走行データ収集でAndroidの記録アプリを外から監視する",
+    "link": "https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f",
+    "pubDate": "Fri, 20 Nov 2026 09:00:06 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog",
+    "link": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
+    "pubDate": "2026-11-20T08:33:42.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2158040.html",
+    "pubDate": "2026-11-20T06:00:17.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
+    "link": "https://zenn.dev/chaki/articles/4545be3475fdb4",
+    "pubDate": "Fri, 20 Nov 2026 04:33:15 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type",
+    "link": "https://type.jp/et/feature/32219/",
+    "pubDate": "2026-11-20T04:31:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "先頭に貼るだけのキラープロンプト7選、コピペOK。→「所見を頼む前に「中学校の担任として、前向きな言葉で」と1行足すだけで、書き直しが半分に減りました。」",
+    "link": "https://posfie.com/@techjiho/p/3QDGKHH",
+    "pubDate": "2026-11-20T02:23:11.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
+    "link": "https://zenn.dev/levtech/articles/14befd8e727f32",
+    "pubDate": "Fri, 20 Nov 2026 01:26:30 GMT"
   },
   {
     "site": "Zenn",
@@ -12,28 +72,28 @@
     "pubDate": "2026-11-19T23:35:14.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
-    "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
-    "pubDate": "2026-11-19T23:28:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
-    "pubDate": "2026-11-19T21:48:20.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
-    "pubDate": "2026-11-19T15:54:08.000Z"
+    "site": "Zenn",
+    "title": "MetaのMuseを使ってみた: 内部構造とセキュリティの調査",
+    "link": "https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963",
+    "pubDate": "Thu, 19 Nov 2026 15:55:36 GMT"
   },
   {
     "site": "Qiita",
-    "title": "Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita",
-    "link": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44",
-    "pubDate": "2026-11-19T15:25:02.000Z"
+    "title": "[AWS] 徹底比較！ OpenSearch Memory vs AgentCore Memory",
+    "link": "https://qiita.com/kikuziro/items/939887bcd8fbb3a78ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-19T14:14:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
+    "link": "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
+    "pubDate": "Thu, 19 Nov 2026 14:13:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "dbt v1 でメトリクスを一元管理する未来 〜Apache Ossie と Lightdash で試す〜",
+    "link": "https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie",
+    "pubDate": "Thu, 19 Nov 2026 13:48:35 GMT"
   },
   {
     "site": "Hatena",
@@ -43,21 +103,15 @@
   },
   {
     "site": "Qiita",
+    "title": "Muse の VM は約2時間で入れ替わる（実測と対策）",
+    "link": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-19T12:47:20.000Z"
+  },
+  {
+    "site": "Qiita",
     "title": "【Gemini 4 Hydrogen】「とりあえず一番上」から卒業！Agent Studioで試す手順",
     "link": "https://qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-19T11:09:07.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測",
-    "link": "https://ascii.jp/elem/000/004/452/4452982/",
-    "pubDate": "2026-11-19T09:44:51.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「オントロジー」とは結局何なのか　Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
-    "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
-    "pubDate": "2026-11-19T09:36:30.000Z"
   },
   {
     "site": "Zenn",
@@ -72,22 +126,10 @@
     "pubDate": "Thu, 19 Nov 2026 07:11:24 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "Gemini Decision 1でスパム退治！",
-    "link": "https://zenn.dev/satoshi_yoneda/articles/decision-1-anti-spam",
-    "pubDate": "Thu, 19 Nov 2026 06:20:46 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件",
     "link": "https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-19T03:56:02.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Microsoft-Decision-1.1公開！Microsoft-Decision-1との差はどれくらい？",
-    "link": "https://zenn.dev/microsoft/articles/ms-decision-1-1",
-    "pubDate": "Thu, 19 Nov 2026 03:41:58 GMT"
   },
   {
     "site": "Zenn",
@@ -108,24 +150,6 @@
     "pubDate": "2026-11-19T01:40:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
-    "link": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-    "pubDate": "Thu, 19 Nov 2026 01:34:24 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "【AI × PDF】 紙派だった私が、技術書を電子で買うようになった理由",
-    "link": "https://qiita.com/Dingu-suke/items/7d474c38cd597869049e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-19T00:53:00.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "ログの種別を整理して、何をどこまで残すか決めた話",
-    "link": "https://zenn.dev/dress_code/articles/a3bf34274af03f",
-    "pubDate": "Thu, 19 Nov 2026 00:00:11 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "紫のうさぎ3DモデルとアニメーションPurple Rabbit",
     "link": "https://qiita.com/yangon/items/82ccc38c04c3ea1e8d3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -139,44 +163,20 @@
   },
   {
     "site": "Qiita",
-    "title": "Lodashへの別れ：標準JavaScriptでここまでできる置き換えチートシート",
-    "link": "https://qiita.com/figueiredoluiz/items/c47f5f20a9f4118054f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-18T13:16:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話",
-    "link": "https://zenn.dev/dress_code/articles/6c179ae5129131",
-    "pubDate": "Wed, 18 Nov 2026 07:00:06 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "正しいUIデザインと、意図のあるUIデザイン",
-    "link": "https://zenn.dev/praha/articles/08568310684aa3",
-    "pubDate": "Wed, 18 Nov 2026 05:55:40 GMT"
-  },
-  {
-    "site": "Qiita",
     "title": "人間がボトルネックになった時代のAIエージェント設計",
     "link": "https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-18T05:37:05.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
-    "link": "https://blog.shibayu36.org/entry/2026/11/17/120000",
-    "pubDate": "2026-11-18T03:37:49.000Z"
+    "site": "Qiita",
+    "title": " AI も「一晩寝かせる」と考えがまとまる🥱 寝ている間に記憶を整理する Dreaming の仕組み",
+    "link": "https://qiita.com/KYoshiyama/items/623e13ced9c119b614aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-18T02:13:57.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【初投稿】「最近どう？」を卒業しよう！180cm95kg・青髪・ヒゲ面のインフラ中間管理職が1on1で意識している11の工夫",
-    "link": "https://qiita.com/human_hub_T/items/439bda5ea9234b7d9013?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-17T02:34:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
-    "link": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-17T00:58:19.000Z"
+    "title": "【Ignite 2026速報】Azure AI Search が Foundry IQ にリブランドし、2 種類のナレッジグラフ機能を搭載！ほか",
+    "link": "https://qiita.com/nohanaga/items/21f3f3a1d2ecb14262b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-17T23:56:16.000Z"
   }
 ]
