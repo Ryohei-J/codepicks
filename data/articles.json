@@ -1,15 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "新宿駅で財布を忘れて家に帰れない女の子から「PayPay1000円分を現金で交換して貰えませんか？」とお願いされ、「返さなくていいよ」と1000円あげたら喜ばれず戸惑っていた",
+    "link": "https://togetter.com/li/2773268",
+    "pubDate": "2026-11-21T12:31:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.",
+    "link": "https://github.com/mitaku/andon",
+    "pubDate": "2026-11-21T10:52:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIエージェントに堅牢なテストを書かせるには？",
+    "link": "https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7",
+    "pubDate": "Sat, 21 Nov 2026 09:09:12 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "初心者がAIとMAXのAPKを解析してみた【後編】",
+    "link": "https://zenn.dev/aki0804/articles/ac6690df48a1ae",
+    "pubDate": "Sat, 21 Nov 2026 08:44:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "JVM がコードを実行する仕組みを理解したい",
+    "link": "https://zenn.dev/rea9r/articles/jvm-code-execution",
+    "pubDate": "Sat, 21 Nov 2026 08:06:49 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "【pre:Inventまとめ】AWSのAIエージェント認証がいろいろ進化！MCPサーバー構築を例に一挙解説",
+    "link": "https://qiita.com/minorun365/items/bd6091f2599a0f37326b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-21T04:03:14.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな",
     "link": "https://togetter.com/li/2773122",
     "pubDate": "2026-11-21T03:06:24.000Z"
   },
   {
+    "site": "Zenn",
+    "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
+    "link": "https://zenn.dev/karamage/articles/73027ee36796dc",
+    "pubDate": "Sat, 21 Nov 2026 02:12:39 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 10",
+    "link": "https://qiita.com/maskot1977/items/586eaa16cd4247d56f6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-21T01:50:37.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 50",
+    "link": "https://qiita.com/maskot1977/items/64af8cebf2f560f3bd9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-21T01:39:23.000Z"
+  },
+  {
     "site": "Hatena",
-    "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON",
-    "link": "https://automaton-media.com/articles/newsjp/20261121-480255/",
-    "pubDate": "2026-11-21T00:45:41.000Z"
+    "title": "ボールの慣性で素早いカーソル移動！奥深きトラックボールの世界 3つのスタイルに分けて計14モデルをピックアップ text by 石川 ひさよし",
+    "link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2158378.html",
+    "pubDate": "2026-11-21T01:24:02.000Z"
   },
   {
     "site": "Hatena",
@@ -25,15 +79,21 @@
   },
   {
     "site": "Hatena",
-    "title": "Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ",
-    "link": "https://japan.cnet.com/article/35255245/",
-    "pubDate": "2026-11-20T23:02:01.000Z"
+    "title": "「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正　銀行や空港停止 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/",
+    "pubDate": "2026-11-21T00:21:00.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
-    "link": "https://note.com/kajinari/n/n19c73d819b14",
-    "pubDate": "2026-11-20T15:27:05.000Z"
+    "site": "Zenn",
+    "title": "DOTweenを使わずにイージングを自作する！Robert Pennerのイージング関数をC#で実装して検証してみた",
+    "link": "https://zenn.dev/sorane/articles/e1ed930dea9b1d",
+    "pubDate": "Fri, 20 Nov 2026 16:03:46 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "作れるエンジニアから、価値を届けるエンジニアへ",
+    "link": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
+    "pubDate": "Fri, 20 Nov 2026 15:50:41 GMT"
   },
   {
     "site": "Hatena",
@@ -46,24 +106,6 @@
     "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
     "link": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
     "pubDate": "2026-11-20T14:31:09.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "SSDの価格は2027年後半に下落し始める可能性あり",
-    "link": "https://gigazine.net/news/20261120-ssd-prices-outlook/",
-    "pubDate": "2026-11-20T13:06:42.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2158261.html",
-    "pubDate": "2026-11-20T11:11:54.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "RTKの走行データ収集でAndroidの記録アプリを外から監視する",
-    "link": "https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f",
-    "pubDate": "Fri, 20 Nov 2026 09:00:06 GMT"
   },
   {
     "site": "Qiita",
@@ -84,12 +126,6 @@
     "pubDate": "Fri, 20 Nov 2026 04:33:15 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
-    "link": "https://zenn.dev/levtech/articles/14befd8e727f32",
-    "pubDate": "Fri, 20 Nov 2026 01:26:30 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "【随時更新】Microsoft Ignite 2026 現地参加レポート（技術情報少なめ・画像多め）",
     "link": "https://qiita.com/katohiro_fi/items/0f03ceb4cf0aa4ecbc03?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -97,21 +133,9 @@
   },
   {
     "site": "Zenn",
-    "title": "MetaのMuseを使ってみた: 内部構造とセキュリティの調査",
-    "link": "https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963",
-    "pubDate": "Thu, 19 Nov 2026 15:55:36 GMT"
-  },
-  {
-    "site": "Zenn",
     "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
     "link": "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
     "pubDate": "Thu, 19 Nov 2026 14:13:57 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "dbt v1 でメトリクスを一元管理する未来 〜Apache Ossie と Lightdash で試す〜",
-    "link": "https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie",
-    "pubDate": "Thu, 19 Nov 2026 13:48:35 GMT"
   },
   {
     "site": "Qiita",
@@ -138,18 +162,6 @@
     "pubDate": "2026-11-19T03:56:02.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす",
-    "link": "https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen",
-    "pubDate": "Thu, 19 Nov 2026 02:10:13 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "pstack 完全ガイド ─AIエージェントに雑なコード     を書かせない技術─",
-    "link": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-    "pubDate": "Thu, 19 Nov 2026 01:52:32 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "紫のうさぎ3DモデルとアニメーションPurple Rabbit",
     "link": "https://qiita.com/yangon/items/82ccc38c04c3ea1e8d3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -162,21 +174,9 @@
     "pubDate": "2026-11-18T13:42:33.000Z"
   },
   {
-    "site": "Qiita",
-    "title": "pypdfでPDFのプルダウンに値を入れたのにAcrobatだけ空欄になる：原因は/Iだった",
-    "link": "https://qiita.com/sionic_issa/items/adf42ca26f22e238793e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-18T08:23:46.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "人間がボトルネックになった時代のAIエージェント設計",
-    "link": "https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-18T05:37:05.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": " AI も「一晩寝かせる」と考えがまとまる🥱 寝ている間に記憶を整理する Dreaming の仕組み",
-    "link": "https://qiita.com/KYoshiyama/items/623e13ced9c119b614aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-18T02:13:57.000Z"
+    "site": "Hatena",
+    "title": "なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ",
+    "link": "https://dev.henry.jp/entry/e2e-repository",
+    "pubDate": "2026-11-18T03:02:46.000Z"
   }
 ]
