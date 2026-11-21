@@ -1,39 +1,63 @@
 [
   {
     "site": "Hatena",
+    "title": "イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな",
+    "link": "https://togetter.com/li/2773122",
+    "pubDate": "2026-11-21T03:06:24.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON",
+    "link": "https://automaton-media.com/articles/newsjp/20261121-480255/",
+    "pubDate": "2026-11-21T00:45:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "【分析】「私はMAGAではない」　マスク氏の方向転換が発する強烈なサイン",
+    "link": "https://www.cnn.co.jp/usa/35255243.html",
+    "pubDate": "2026-11-21T00:39:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソフトウェアファクトリーとコード設計と顧客価値",
+    "link": "https://kosui.me/posts/2026/11/15/code-design-after-agents",
+    "pubDate": "2026-11-21T00:35:47.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ",
+    "link": "https://japan.cnet.com/article/35255245/",
+    "pubDate": "2026-11-20T23:02:01.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
+    "link": "https://note.com/kajinari/n/n19c73d819b14",
+    "pubDate": "2026-11-20T15:27:05.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
+    "link": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
+    "pubDate": "2026-11-20T14:35:51.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+    "link": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
+    "pubDate": "2026-11-20T14:31:09.000Z"
+  },
+  {
+    "site": "Hatena",
     "title": "SSDの価格は2027年後半に下落し始める可能性あり",
     "link": "https://gigazine.net/news/20261120-ssd-prices-outlook/",
     "pubDate": "2026-11-20T13:06:42.000Z"
   },
   {
     "site": "Hatena",
-    "title": "情報漏洩3億件超の時代、経営者が問われるのは「どう守るか」よりも「何を持たないか」、顧客情報を預かる資格 KARTEへの不正アクセスとソースネクストの大量流出が示した、顧客情報を持ちすぎる経営の死角 | JBpress (ジェイビープレス)",
-    "link": "https://jbpress.ismedia.jp/articles/-/98148",
-    "pubDate": "2026-11-20T11:43:01.000Z"
-  },
-  {
-    "site": "Hatena",
     "title": "「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可",
     "link": "https://forest.watch.impress.co.jp/docs/news/2158261.html",
     "pubDate": "2026-11-20T11:11:54.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "【速報】三井住友銀で情報漏えい、最大1400万件",
-    "link": "https://www.47news.jp/15262461.html",
-    "pubDate": "2026-11-20T10:10:25.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表：朝日新聞",
-    "link": "https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html",
-    "pubDate": "2026-11-20T09:31:39.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】",
-    "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html",
-    "pubDate": "2026-11-20T09:26:32.000Z"
   },
   {
     "site": "Zenn",
@@ -46,30 +70,6 @@
     "title": "緊縮の痛みは成長に変わるか——実証的に棄却された仮説が政策に残り続ける認知設計 : システム設計視点の行動経済学 (66)",
     "link": "https://qiita.com/maskot1977/items/96098e2d0016cf85e7e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-20T08:33:47.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
-    "link": "https://plaid.co.jp/news/20261120/",
-    "pubDate": "2026-11-20T06:33:24.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる",
-    "link": "https://gigazine.net/news/20261120-memory-compress/",
-    "pubDate": "2026-11-20T06:24:44.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2158040.html",
-    "pubDate": "2026-11-20T06:00:17.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
-    "link": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
-    "pubDate": "2026-11-20T04:45:14.000Z"
   },
   {
     "site": "Qiita",
