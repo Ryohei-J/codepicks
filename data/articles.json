@@ -1,21 +1,93 @@
 [
   {
     "site": "Hatena",
-    "title": "月額1000円台のVPSで“自分専用AIテスト環境”を作れる！　さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]",
-    "link": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html",
-    "pubDate": "2026-11-24T00:27:02.000Z"
+    "title": "当社お客様の情報漏えいに関するお詫びとお知らせ（第2報）:楽天証券",
+    "link": "https://www.rakuten-sec.co.jp/web/info/info20261124-04.html",
+    "pubDate": "2026-11-24T13:06:22.000Z"
   },
   {
     "site": "Hatena",
-    "title": "Museに後れを取るアップルとグーグル　AIエージェント戦争のジレンマ【西田宗千佳のイマトミライ】",
-    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2158551.html",
-    "pubDate": "2026-11-24T00:16:14.000Z"
+    "title": "ソフトバンク、アイティメディアの売却検討か　2社「コメント控える」「決定した事実ない」",
+    "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003427/",
+    "pubDate": "2026-11-24T12:28:49.000Z"
   },
   {
     "site": "Hatena",
-    "title": "NECの「バザールでござーる」今日で引退。約35年の歴史に幕",
-    "link": "https://pc.watch.impress.co.jp/docs/news/2158462.html",
-    "pubDate": "2026-11-23T21:20:45.000Z"
+    "title": "パスワード、全く自己管理する気がなくほぼ毎回リセットする運用の人が居てびびった→実はむしろこれが正しい運用であることをまだ人類は知らない",
+    "link": "https://togetter.com/li/2774455",
+    "pubDate": "2026-11-24T09:12:32.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗",
+    "link": "https://zenn.dev/canly/articles/40e773759da8f8",
+    "pubDate": "Tue, 24 Nov 2026 08:51:41 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ソフトバンク、「ITmedia」運営会社の売却検討　AI関連事業に集中 - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUC1688U0W6A111C2000000/",
+    "pubDate": "2026-11-24T08:42:06.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Ruby で学ぶ Windows システムプログラミング",
+    "link": "https://www.hsbt.org/slide/20261121-SendaiRubyKaigi03/",
+    "pubDate": "2026-11-24T07:39:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Lean で始める契約プログラミング - エムスリーテックブログ",
+    "link": "https://www.m3tech.blog/entry/contract-programming-in-lean",
+    "pubDate": "2026-11-24T05:30:32.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "「松屋」の一人負けなのか？「吉野家」「すき家」と明暗を分けた既存店売上、その差はどこにあるのか #エキスパートトピ（三輪大輔） - エキスパート - Yahoo!ニュース",
+    "link": "https://news.yahoo.co.jp/expert/articles/c6b02eabde817393055dacbd810b748a6637ae39",
+    "pubDate": "2026-11-24T03:38:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Microsoft Foundry で AI エージェントを設計するときに決める5つのこと",
+    "link": "https://zenn.dev/microsoft/articles/daedf42c8463b8",
+    "pubDate": "Tue, 24 Nov 2026 02:59:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
+    "link": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
+    "pubDate": "Tue, 24 Nov 2026 02:30:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "Windows アプリにコード署名する：証明書の取得から SSL.com eSigner での署名まで",
+    "link": "https://qiita.com/sugumura/items/5027cc1f6e1fc008607d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-24T02:07:57.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "品質を積み上げられるようにする",
+    "link": "https://speakerdeck.com/goyoki/building-up-of-quality",
+    "pubDate": "2026-11-23T23:53:24.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Alpamayo は Jetson でリアルタイム推論できるか？ R1 から 2 Edge まで、H100 プロファイルからの実行時間推定",
+    "link": "https://zenn.dev/fixstars/articles/alpamayo-h100",
+    "pubDate": "Mon, 23 Nov 2026 23:07:40 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "「コードを書く」から「迷わず判断する」へ——AIエージェント時代の開発ワークフローを自作ツールで再設計した話",
+    "link": "https://zenn.dev/syarihu/articles/ba25f243ca79ed",
+    "pubDate": "Mon, 23 Nov 2026 23:00:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "コードを全部は読まずにClaude Codeで本番リリースするためにしたこと",
+    "link": "https://zenn.dev/teradox_blog/articles/8ec76cc0d9e2bb",
+    "pubDate": "Mon, 23 Nov 2026 21:20:30 GMT"
   },
   {
     "site": "Qiita",
@@ -36,22 +108,10 @@
     "pubDate": "Mon, 23 Nov 2026 15:57:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能",
-    "link": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
-    "pubDate": "2026-11-23T15:39:27.000Z"
-  },
-  {
     "site": "Zenn",
     "title": "JSConf JP 2026に参加記録・初登壇の反省など",
     "link": "https://zenn.dev/igrep/articles/2026-11-jsconfjp",
     "pubDate": "Mon, 23 Nov 2026 15:08:26 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "iPhoneに乗り換えてでも使う価値があるかも!?　新型センサー搭載「Apple Watch Series 12」を使ってみた",
-    "link": "https://k-tai.watch.impress.co.jp/docs/review/2157103.html",
-    "pubDate": "2026-11-23T15:06:21.000Z"
   },
   {
     "site": "Zenn",
@@ -60,58 +120,16 @@
     "pubDate": "Mon, 23 Nov 2026 13:56:35 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "【技術書典21】17人の開発者と作った合同誌『AI キャラクター開発 十人十色』、会場50部が完売しました！！！",
-    "link": "https://zenn.dev/mei999/articles/33f2965b3c021c",
-    "pubDate": "Mon, 23 Nov 2026 12:52:08 GMT"
+    "site": "Hatena",
+    "title": "NTT 研究所の正体 - IOWNとNTTの研究所",
+    "link": "https://endecl.hatenablog.com/entry/2026/05/04/223141",
+    "pubDate": "2026-11-23T13:46:51.000Z"
   },
   {
     "site": "Qiita",
     "title": "【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】",
     "link": "https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-23T08:02:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "Googleが実践するSTAMP/STPAとは何か？ 私たちのSREにも使えるのか",
-    "link": "https://zenn.dev/maruloop/articles/7ff108e29741b5",
-    "pubDate": "Mon, 23 Nov 2026 06:56:43 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "JSConf JP 2026 公開資料・Xアカウントリンクまとめ",
-    "link": "https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
-    "pubDate": "Mon, 23 Nov 2026 05:38:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
-    "link": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
-    "pubDate": "Mon, 23 Nov 2026 05:17:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "WolvCTF2026 - writeup",
-    "link": "https://zenn.dev/gattoartz/articles/3f302189a1741a",
-    "pubDate": "Mon, 23 Nov 2026 02:53:40 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築した - PoCから本番への華麗なる移行のはなし - Lean Baseball",
-    "link": "https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product",
-    "pubDate": "2026-11-23T02:51:44.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "箱入り娘ソルバーを約9,400倍高速化してもらった",
-    "link": "https://zenn.dev/kaorun343/articles/klotski-solver-optimization",
-    "pubDate": "Mon, 23 Nov 2026 02:32:49 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか - Qiita",
-    "link": "https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e",
-    "pubDate": "2026-11-23T01:45:02.000Z"
   },
   {
     "site": "Qiita",
@@ -145,12 +163,6 @@
   },
   {
     "site": "Qiita",
-    "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。",
-    "link": "https://qiita.com/yamac_tech/items/2f1d598288990c381f2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-21T23:38:45.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか",
     "link": "https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-21T20:37:17.000Z"
@@ -162,21 +174,9 @@
     "pubDate": "2026-11-21T11:51:38.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話",
-    "link": "https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763",
-    "pubDate": "2026-11-13T14:28:19.000Z"
-  },
-  {
     "site": "Hatena",
-    "title": "AWS Emulator を使用してローカルで AWS に対してアプリケーションをテストする | Amazon Web Services",
-    "link": "https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/",
-    "pubDate": "2026-11-13T02:20:46.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
-    "link": "https://zenn.dev/339/articles/8efd1f1baec355",
-    "pubDate": "2026-09-16T02:22:40.000Z"
+    "title": "マクドナルド公式アプリのデータベースへの不正アクセスに関するお知らせとお詫び | マクドナルド公式",
+    "link": "https://www.mcdonalds.co.jp/company/info/261120a/",
+    "pubDate": "2026-11-21T09:09:54.000Z"
   }
 ]
