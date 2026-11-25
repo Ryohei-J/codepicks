@@ -1,21 +1,69 @@
 [
   {
     "site": "Hatena",
+    "title": "ずっしり重い新型ウォークマン　歴代最高65万円なぜここまで高級化：朝日新聞",
+    "link": "https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html",
+    "pubDate": "2026-11-24T23:35:54.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "個人開発 with AI",
+    "link": "https://zenn.dev/holygrail/scraps/dec6ae85d06b4f",
+    "pubDate": "2026-11-24T22:02:28.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "楽天証券、顧客からの預かり資産残高168万件漏洩　性別や国籍も - 日本経済新聞",
+    "link": "https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/",
+    "pubDate": "2026-11-24T21:28:35.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AI時代の実践・形式検証入門",
+    "link": "https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1",
+    "pubDate": "2026-11-24T21:16:53.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "AWS、DynamoDB互換データベースをローカルマシンで構築可能にするオープンソース「ExtendDB」がバージョン1.0に到達",
+    "link": "https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html",
+    "pubDate": "2026-11-24T16:30:34.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "jQuery 4.1正式版がリリース、内部実装をquerySelectorAllに統一でより高速に。jQuery 3.x系最後となるjQuery 3.8も同時リリース",
+    "link": "https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html",
+    "pubDate": "2026-11-24T16:30:31.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算",
+    "link": "https://www.yomiuri.co.jp/world/20261124-GYT1T00383/",
+    "pubDate": "2026-11-24T15:56:25.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える",
+    "link": "https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections",
+    "pubDate": "Tue, 24 Nov 2026 14:04:27 GMT"
+  },
+  {
+    "site": "Hatena",
     "title": "当社お客様の情報漏えいに関するお詫びとお知らせ（第2報）:楽天証券",
     "link": "https://www.rakuten-sec.co.jp/web/info/info20261124-04.html",
     "pubDate": "2026-11-24T13:06:22.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ソフトバンク、アイティメディアの売却検討か　2社「コメント控える」「決定した事実ない」",
-    "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003427/",
-    "pubDate": "2026-11-24T12:28:49.000Z"
+    "site": "Zenn",
+    "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
+    "link": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
+    "pubDate": "Tue, 24 Nov 2026 09:24:58 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "パスワード、全く自己管理する気がなくほぼ毎回リセットする運用の人が居てびびった→実はむしろこれが正しい運用であることをまだ人類は知らない",
-    "link": "https://togetter.com/li/2774455",
-    "pubDate": "2026-11-24T09:12:32.000Z"
+    "site": "Zenn",
+    "title": "JSConf JP 2026 参加ログ",
+    "link": "https://zenn.dev/aishift/articles/b6dbe1c0acc505",
+    "pubDate": "Tue, 24 Nov 2026 08:53:31 GMT"
   },
   {
     "site": "Zenn",
@@ -24,34 +72,28 @@
     "pubDate": "Tue, 24 Nov 2026 08:51:41 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "ソフトバンク、「ITmedia」運営会社の売却検討　AI関連事業に集中 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOUC1688U0W6A111C2000000/",
-    "pubDate": "2026-11-24T08:42:06.000Z"
+    "site": "Zenn",
+    "title": "Claude Code の /ship を図解する",
+    "link": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
+    "pubDate": "Tue, 24 Nov 2026 06:30:06 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Ruby で学ぶ Windows システムプログラミング",
-    "link": "https://www.hsbt.org/slide/20261121-SendaiRubyKaigi03/",
-    "pubDate": "2026-11-24T07:39:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Lean で始める契約プログラミング - エムスリーテックブログ",
-    "link": "https://www.m3tech.blog/entry/contract-programming-in-lean",
-    "pubDate": "2026-11-24T05:30:32.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "「松屋」の一人負けなのか？「吉野家」「すき家」と明暗を分けた既存店売上、その差はどこにあるのか #エキスパートトピ（三輪大輔） - エキスパート - Yahoo!ニュース",
-    "link": "https://news.yahoo.co.jp/expert/articles/c6b02eabde817393055dacbd810b748a6637ae39",
-    "pubDate": "2026-11-24T03:38:59.000Z"
+    "title": "GoogleがAIの性能測定ツール「gBench」をオープンソース化",
+    "link": "https://gigazine.net/news/20261124-google-gbench-benchmarking-framework/",
+    "pubDate": "2026-11-24T03:53:34.000Z"
   },
   {
     "site": "Zenn",
     "title": "Microsoft Foundry で AI エージェントを設計するときに決める5つのこと",
     "link": "https://zenn.dev/microsoft/articles/daedf42c8463b8",
     "pubDate": "Tue, 24 Nov 2026 02:59:05 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 51",
+    "link": "https://qiita.com/maskot1977/items/a8fa11767cc4829ed18c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-24T02:49:20.000Z"
   },
   {
     "site": "Zenn",
@@ -66,10 +108,10 @@
     "pubDate": "2026-11-24T02:07:57.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "品質を積み上げられるようにする",
-    "link": "https://speakerdeck.com/goyoki/building-up-of-quality",
-    "pubDate": "2026-11-23T23:53:24.000Z"
+    "site": "Qiita",
+    "title": "情報量が4倍のQRコードを作ろう",
+    "link": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-23T23:48:24.000Z"
   },
   {
     "site": "Zenn",
@@ -96,36 +138,6 @@
     "pubDate": "2026-11-23T19:05:56.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "コーディングエージェントが変えたOSS開発のプロセスと喜び",
-    "link": "https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
-    "pubDate": "Mon, 23 Nov 2026 17:37:18 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "S3 Vectors は RAG のベクトルストアに使えるか（40問で検証＋ハイブリッド検索に関する追記）",
-    "link": "https://zenn.dev/shino_i/articles/faeef70f08124c",
-    "pubDate": "Mon, 23 Nov 2026 15:57:58 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "JSConf JP 2026に参加記録・初登壇の反省など",
-    "link": "https://zenn.dev/igrep/articles/2026-11-jsconfjp",
-    "pubDate": "Mon, 23 Nov 2026 15:08:26 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "iOSエンジニアのための OAuth 2.0 + PKCE 入門 ― 仕組みを理解してから、Swiftで実装する",
-    "link": "https://zenn.dev/mobile_app_tec/articles/ios-oauth2-pkce-native-app",
-    "pubDate": "Mon, 23 Nov 2026 13:56:35 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "NTT 研究所の正体 - IOWNとNTTの研究所",
-    "link": "https://endecl.hatenablog.com/entry/2026/05/04/223141",
-    "pubDate": "2026-11-23T13:46:51.000Z"
-  },
-  {
     "site": "Qiita",
     "title": "【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】",
     "link": "https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -139,15 +151,15 @@
   },
   {
     "site": "Qiita",
-    "title": "[2026版]セキュリティ情報 406 件を「脆弱性-事故-対策」の1枚の分類図にまとめてから読めたこと",
-    "link": "https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-22T22:01:05.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます",
     "link": "https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-22T11:56:55.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "The Cost of the DOM",
+    "link": "https://speakerdeck.com/ypresto/the-cost-of-the-dom",
+    "pubDate": "2026-11-22T07:57:01.000Z"
   },
   {
     "site": "Qiita",
@@ -166,17 +178,5 @@
     "title": "コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか",
     "link": "https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-21T20:37:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "情報漏えいを公表しないリスクの要点整理",
-    "link": "https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-21T11:51:38.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "マクドナルド公式アプリのデータベースへの不正アクセスに関するお知らせとお詫び | マクドナルド公式",
-    "link": "https://www.mcdonalds.co.jp/company/info/261120a/",
-    "pubDate": "2026-11-21T09:09:54.000Z"
   }
 ]
