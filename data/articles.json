@@ -1,33 +1,99 @@
 [
   {
     "site": "Hatena",
-    "title": "パスワード管理「1Password」でセキュリティインシデント、一部顧客のデータが流出／保管庫の中身やそれを守る鍵は無事、招待・復旧メールを装ったフィッシングに注意",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2159320.html",
-    "pubDate": "2026-11-25T23:11:01.000Z"
+    "title": "Jev で実現する Generative UI",
+    "link": "https://speakerdeck.com/azukiazusa1/slide-efc59f7e-336f-4e6c-8919-27211ebc3d07",
+    "pubDate": "2026-11-26T12:42:06.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？",
-    "link": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
-    "pubDate": "2026-11-25T22:50:37.000Z"
+    "title": "【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開 / offers-claude-code-2026-11-26",
+    "link": "https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6",
+    "pubDate": "2026-11-26T12:31:47.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "RTX 5070 と Foundry Local でハイブリッド LLM のローカル側を実測：容量・品質と障害時の切り替え",
+    "link": "https://zenn.dev/hlt/articles/c2e3ed8ff9ddb8",
+    "pubDate": "Thu, 26 Nov 2026 11:10:15 GMT"
   },
   {
     "site": "Hatena",
-    "title": "1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス",
-    "link": "https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46",
-    "pubDate": "2026-11-25T20:50:44.000Z"
+    "title": "「知らない〝私〟が血を流し罵倒」中国AI短編ドラマで「顔盗用」急増　俳優は泣き寝入り",
+    "link": "https://www.sankei.com/article/20261126-SZTQ2RJW5ZKU3GJ4GQKJAORUPE/",
+    "pubDate": "2026-11-26T08:06:59.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "自動運転の予測軌跡の可視化動画を誰でも高速に作れるようにする",
+    "link": "https://zenn.dev/turing_motors/articles/cbf9872ca90166",
+    "pubDate": "Thu, 26 Nov 2026 08:00:08 GMT"
   },
   {
     "site": "Hatena",
-    "title": "Update on a security incident involving 1Password’s backend systems. | 1Password",
-    "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-    "pubDate": "2026-11-25T18:52:09.000Z"
+    "title": "パスワード管理アプリ「Bitwarden」がWindows 11/macOSのパスキー機能と統合／OS標準のセキュリティ画面から保存・利用、拡張機能なしでもWebサイトへサインイン",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2159319.html",
+    "pubDate": "2026-11-26T07:18:21.000Z"
   },
   {
     "site": "Hatena",
-    "title": "組織レベルごとの品質定義（リライト）｜snsk",
-    "link": "https://note.com/_snsk/n/n9473a6e95b1c",
-    "pubDate": "2026-11-25T16:01:22.000Z"
+    "title": "理解をあきらめないAI駆動開発 ——開発の流れに「理解の工程」を織り込む6つの実践｜株式会社アシュアード",
+    "link": "https://note.com/assuredjp/n/n6ec5f6544e0c",
+    "pubDate": "2026-11-26T06:59:49.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "1Passwordへの不正アクセスについてまとめてみた - piyolog",
+    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/26/153937",
+    "pubDate": "2026-11-26T06:51:59.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "24KBの「LLM専用OS」が登場　全てアセンブリでLinuxを排し、llama.cppより最大54%高速 | テクノエッジ TechnoEdge",
+    "link": "https://www.techno-edge.net/article/2026/11/26/5824.html",
+    "pubDate": "2026-11-26T06:02:41.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる",
+    "link": "https://anond.hatelabo.jp/20261126144022",
+    "pubDate": "2026-11-26T05:40:51.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "Snowflake AIMのデスクトップアプリでTeradataからの移行を検証してみた",
+    "link": "https://zenn.dev/snowflakejp/articles/snowflake-aim-app-teradata",
+    "pubDate": "Thu, 26 Nov 2026 04:07:23 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "TenkaCloudSimulator 開発日記：ChatGPTのDotで開発が自律的に続く仕組みをつくる",
+    "link": "https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126",
+    "pubDate": "Thu, 26 Nov 2026 03:59:02 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "型チェックが重かったので、クエリの型推論を手放してみた",
+    "link": "https://zenn.dev/dress_code/articles/88b55221eea4e0",
+    "pubDate": "Thu, 26 Nov 2026 02:15:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "ぼくはnullが嫌いだ",
+    "link": "https://zenn.dev/okaponta/articles/ea88f9ed0c5be5",
+    "pubDate": "Thu, 26 Nov 2026 01:36:47 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生” | 文春オンライン",
+    "link": "https://bunshun.jp/articles/-/93682",
+    "pubDate": "2026-11-26T01:24:43.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
+    "link": "https://dev.sin5d.com/meta-muse-usage",
+    "pubDate": "2026-11-25T22:53:15.000Z"
   },
   {
     "site": "Qiita",
@@ -36,34 +102,16 @@
     "pubDate": "2026-11-25T15:19:26.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
-    "link": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
-    "pubDate": "2026-11-25T15:09:40.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "Button Sounds — tactile SFX for your UI",
-    "link": "https://buttons.joshwcomeau.com/",
-    "pubDate": "2026-11-25T13:57:27.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "specは実装後に8割削除しよう",
-    "link": "https://zenn.dev/ruri/articles/distill-specs-after-implementation",
-    "pubDate": "Wed, 25 Nov 2026 11:33:06 GMT"
+    "site": "Qiita",
+    "title": "【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録",
+    "link": "https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-25T11:57:51.000Z"
   },
   {
     "site": "Zenn",
     "title": "アウトプットの「質」ってじゃあなんなんだよ",
     "link": "https://zenn.dev/watany/articles/1efe3adea67dd5",
     "pubDate": "Wed, 25 Nov 2026 11:31:18 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI",
-    "link": "https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai",
-    "pubDate": "2026-11-25T11:26:01.000Z"
   },
   {
     "site": "Qiita",
@@ -78,10 +126,10 @@
     "pubDate": "2026-11-25T11:13:58.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "AIで学習アプリを作って2週間で宅建に合格した話【テキスト不要】｜Shikimi",
-    "link": "https://note.com/shikimi_crypto/n/n35d0bb54e6fb",
-    "pubDate": "2026-11-25T09:23:07.000Z"
+    "site": "Qiita",
+    "title": "心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話",
+    "link": "https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-25T10:03:41.000Z"
   },
   {
     "site": "Zenn",
@@ -90,16 +138,22 @@
     "pubDate": "Wed, 25 Nov 2026 09:23:05 GMT"
   },
   {
+    "site": "Qiita",
+    "title": "【個人開発】AIでバトルロイヤルゲームを作ってみた",
+    "link": "https://qiita.com/yangon/items/4b0e3752764eb13f15be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-25T08:14:14.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "New Relicで始めるリスクベースの脆弱性管理！Security RX で「本当に対応が必要な脆弱性」を見極める！！",
+    "link": "https://qiita.com/nr_ishibashi/items/9ce88b85ca26b40e9b75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-25T06:13:19.000Z"
+  },
+  {
     "site": "Zenn",
     "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
     "link": "https://zenn.dev/codehex/articles/33bc6ee330b880",
     "pubDate": "Wed, 25 Nov 2026 06:12:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントのMemory設計 ― 会話履歴・業務データ・長期Memoryの使い分け",
-    "link": "https://zenn.dev/taru_neko/articles/ai-agent-memory-architecture-2026",
-    "pubDate": "Wed, 25 Nov 2026 05:23:27 GMT"
   },
   {
     "site": "Zenn",
@@ -115,63 +169,9 @@
   },
   {
     "site": "Qiita",
-    "title": "【EventBridge Webhook】SlackはNG、GitHubはOK？署名の仕様を突き合わせて調べた",
-    "link": "https://qiita.com/N-Kyo/items/3ed8f4a0a17eb4b1409d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-25T01:45:30.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "【OCIベクトルDB】無料枠から始められるRAGを無料で始める前に知っておきたいこと",
-    "link": "https://qiita.com/N-Kyo/items/f976e9467320807b2c3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-25T01:45:17.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "Gemini 4のCarbon・Argon・Neon・Hydrogen、結局どれを使う？使い分けを1枚の表にした",
-    "link": "https://qiita.com/N-Kyo/items/6156bc251e826cdbf92d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-25T01:44:51.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "moejsはSobekの半分以下、正規表現を使う処理ではgo-quickjsが逆転： pure Go製JSエンジン3種を同じプラグインで比較",
-    "link": "https://zenn.dev/nonejp/articles/3bbffb1db9c4ce",
-    "pubDate": "Wed, 25 Nov 2026 01:00:51 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す",
-    "link": "https://zenn.dev/wisevine/articles/97b7ba8db70657",
-    "pubDate": "Wed, 25 Nov 2026 00:00:07 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Personal Agent Protocol (Poppy) が解く問題と仕組み",
-    "link": "https://zenn.dev/sierra_japan/articles/0b9ba590232345",
-    "pubDate": "Tue, 24 Nov 2026 23:30:05 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "モデルの性能が出ないのは AI ゲートウェイのせいかもしれない",
-    "link": "https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
-    "pubDate": "Tue, 24 Nov 2026 22:22:23 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "Rails（Sidekiq＋Selenium）経験者向け：Node.jsのBullMQ＋Playwrightでバッチ処理を組むときのハマりどころ",
-    "link": "https://qiita.com/jinxin4869/items/7771db4dccb7ddf3ac4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-24T15:37:54.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "情報量が4倍のQRコードを作ろう",
     "link": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-23T23:48:24.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "日本語サイトで指定しておきたいCSS 2026年版 - Qiita",
-    "link": "https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e",
-    "pubDate": "2026-11-23T10:33:25.000Z"
   },
   {
     "site": "Qiita",
