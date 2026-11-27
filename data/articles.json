@@ -1,27 +1,57 @@
 [
   {
     "site": "Hatena",
-    "title": "Jev で実現する Generative UI",
-    "link": "https://speakerdeck.com/azukiazusa1/slide-efc59f7e-336f-4e6c-8919-27211ebc3d07",
-    "pubDate": "2026-11-26T12:42:06.000Z"
+    "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
+    "link": "https://www.publickey1.jp/blog/26/aiai_1.html",
+    "pubDate": "2026-11-26T23:09:25.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開 / offers-claude-code-2026-11-26",
+    "title": "【やじうまミニレビュー】 工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた",
+    "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html",
+    "pubDate": "2026-11-26T22:47:09.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX",
+    "link": "https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx",
+    "pubDate": "2026-11-26T19:56:13.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+    "link": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
+    "pubDate": "Thu, 26 Nov 2026 14:08:33 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開",
     "link": "https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6",
     "pubDate": "2026-11-26T12:31:47.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "RTX 5070 と Foundry Local でハイブリッド LLM のローカル側を実測：容量・品質と障害時の切り替え",
-    "link": "https://zenn.dev/hlt/articles/c2e3ed8ff9ddb8",
-    "pubDate": "Thu, 26 Nov 2026 11:10:15 GMT"
+    "site": "Hatena",
+    "title": "Aniwaffle | Expressive, lovable AI voices for your characters",
+    "link": "https://aniwaffle.com/",
+    "pubDate": "2026-11-26T11:26:19.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「知らない〝私〟が血を流し罵倒」中国AI短編ドラマで「顔盗用」急増　俳優は泣き寝入り",
-    "link": "https://www.sankei.com/article/20261126-SZTQ2RJW5ZKU3GJ4GQKJAORUPE/",
-    "pubDate": "2026-11-26T08:06:59.000Z"
+    "title": "デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る｜デジタル庁ニュース",
+    "link": "https://digital-agency-news.digital.go.jp/articles/2026-11-26",
+    "pubDate": "2026-11-26T10:02:29.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp",
+    "link": "https://gihyo.jp/article/2026/11/skills-over-mcp",
+    "pubDate": "2026-11-26T09:44:20.000Z"
+  },
+  {
+    "site": "Hatena",
+    "title": "SSH is a GUI framework | ssh zydra.sh",
+    "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+    "pubDate": "2026-11-26T08:03:47.000Z"
   },
   {
     "site": "Zenn",
@@ -30,46 +60,40 @@
     "pubDate": "Thu, 26 Nov 2026 08:00:08 GMT"
   },
   {
-    "site": "Hatena",
-    "title": "パスワード管理アプリ「Bitwarden」がWindows 11/macOSのパスキー機能と統合／OS標準のセキュリティ画面から保存・利用、拡張機能なしでもWebサイトへサインイン",
-    "link": "https://forest.watch.impress.co.jp/docs/news/2159319.html",
-    "pubDate": "2026-11-26T07:18:21.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "理解をあきらめないAI駆動開発 ——開発の流れに「理解の工程」を織り込む6つの実践｜株式会社アシュアード",
-    "link": "https://note.com/assuredjp/n/n6ec5f6544e0c",
-    "pubDate": "2026-11-26T06:59:49.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "1Passwordへの不正アクセスについてまとめてみた - piyolog",
-    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/26/153937",
-    "pubDate": "2026-11-26T06:51:59.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "24KBの「LLM専用OS」が登場　全てアセンブリでLinuxを排し、llama.cppより最大54%高速 | テクノエッジ TechnoEdge",
-    "link": "https://www.techno-edge.net/article/2026/11/26/5824.html",
-    "pubDate": "2026-11-26T06:02:41.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる",
-    "link": "https://anond.hatelabo.jp/20261126144022",
-    "pubDate": "2026-11-26T05:40:51.000Z"
+    "site": "Qiita",
+    "title": "「そう決まっている」は「そうあるべき」ではない——財源幻想の第三層防衛を解体する : システム設計視点の行動経済学 (68)",
+    "link": "https://qiita.com/maskot1977/items/91a7f2fd11819b352e99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-26T07:42:47.000Z"
   },
   {
     "site": "Zenn",
-    "title": "Snowflake AIMのデスクトップアプリでTeradataからの移行を検証してみた",
-    "link": "https://zenn.dev/snowflakejp/articles/snowflake-aim-app-teradata",
-    "pubDate": "Thu, 26 Nov 2026 04:07:23 GMT"
+    "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
+    "link": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
+    "pubDate": "Thu, 26 Nov 2026 07:01:54 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "AIコーディングで再び出会うTDD・BDD・仕様駆動開発",
+    "link": "https://qiita.com/figueiredoluiz/items/be77af87766215ef1055?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-26T06:47:52.000Z"
   },
   {
     "site": "Zenn",
-    "title": "TenkaCloudSimulator 開発日記：ChatGPTのDotで開発が自律的に続く仕組みをつくる",
-    "link": "https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126",
-    "pubDate": "Thu, 26 Nov 2026 03:59:02 GMT"
+    "title": "個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話",
+    "link": "https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d",
+    "pubDate": "Thu, 26 Nov 2026 05:35:21 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "既存のExcelを自動で編集したい──AIに書かせたOffice ScriptsとCopilot Studioで試してみた",
+    "link": "https://zenn.dev/upgradetech/articles/1bed37bcbf0732",
+    "pubDate": "Thu, 26 Nov 2026 03:37:56 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "HTTPはステートレスなのに、なぜログイン状態を維持できる？ Node.jsとPostmanで検証してみた",
+    "link": "https://qiita.com/sewiihidekikudo/items/7e557d4ccc45aa08a233?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-26T02:33:28.000Z"
   },
   {
     "site": "Zenn",
@@ -79,27 +103,27 @@
   },
   {
     "site": "Zenn",
+    "title": "人の判断を切り出すAgent Skillsの設計（v7.0.2）",
+    "link": "https://zenn.dev/jayt/articles/agent-skills-judgment-extraction",
+    "pubDate": "Thu, 26 Nov 2026 02:05:57 GMT"
+  },
+  {
+    "site": "Zenn",
     "title": "ぼくはnullが嫌いだ",
     "link": "https://zenn.dev/okaponta/articles/ea88f9ed0c5be5",
     "pubDate": "Thu, 26 Nov 2026 01:36:47 GMT"
   },
   {
     "site": "Hatena",
-    "title": "ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生” | 文春オンライン",
-    "link": "https://bunshun.jp/articles/-/93682",
-    "pubDate": "2026-11-26T01:24:43.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
-    "link": "https://dev.sin5d.com/meta-muse-usage",
-    "pubDate": "2026-11-25T22:53:15.000Z"
+    "title": "エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり - コネヒト開発者ブログ",
+    "link": "https://tech.connehito.com/entry/2026/11/26/100507",
+    "pubDate": "2026-11-26T01:15:13.000Z"
   },
   {
     "site": "Qiita",
-    "title": "VS Code 1.148：エージェント専用の Dev Container と Sandbox profiles。「隔離」の3種類を使い分ける",
-    "link": "https://qiita.com/shahin0809/items/05a6c7431ee7e5b6e520?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-25T15:19:26.000Z"
+    "title": "情報量が4倍のQRコードを作ろう - Qiita",
+    "link": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a",
+    "pubDate": "2026-11-25T20:01:53.000Z"
   },
   {
     "site": "Qiita",
@@ -112,18 +136,6 @@
     "title": "アウトプットの「質」ってじゃあなんなんだよ",
     "link": "https://zenn.dev/watany/articles/1efe3adea67dd5",
     "pubDate": "Wed, 25 Nov 2026 11:31:18 GMT"
-  },
-  {
-    "site": "Qiita",
-    "title": "海外で話題！「VS Codeが重い」を軽くする方法。まず測って、効く順に削る（2026年11月版）",
-    "link": "https://qiita.com/shahin0809/items/46b64d3f76c9a4440298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-25T11:24:47.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "VS Code 1.147：エージェントへの依頼を予約できる！？Send Later と Drafts を整理した",
-    "link": "https://qiita.com/shahin0809/items/e6cbd71914171b8b6b49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-25T11:13:58.000Z"
   },
   {
     "site": "Qiita",
@@ -150,18 +162,6 @@
     "pubDate": "2026-11-25T06:13:19.000Z"
   },
   {
-    "site": "Zenn",
-    "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
-    "link": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-    "pubDate": "Wed, 25 Nov 2026 06:12:03 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）",
-    "link": "https://zenn.dev/happy_elements/articles/27e14ff6754044",
-    "pubDate": "Wed, 25 Nov 2026 03:53:12 GMT"
-  },
-  {
     "site": "Qiita",
     "title": "コピペでSSHしていた初心者が、仕組みから学び直してみる",
     "link": "https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -169,14 +169,14 @@
   },
   {
     "site": "Qiita",
-    "title": "情報量が4倍のQRコードを作ろう",
-    "link": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-23T23:48:24.000Z"
+    "title": "生成 AI で時間は本当に減ったのか 減った時間で何を生んだのか",
+    "link": "https://qiita.com/Takashi_Masumori/items/78a8d6589e7429d029d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-25T00:31:30.000Z"
   },
   {
     "site": "Qiita",
-    "title": "【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】",
-    "link": "https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-23T08:02:03.000Z"
+    "title": "情報量が4倍のQRコードを作ろう",
+    "link": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-23T23:48:24.000Z"
   }
 ]
