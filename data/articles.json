@@ -1,33 +1,111 @@
 [
   {
     "site": "Hatena",
-    "title": "｢もう管理職はいらない｣　震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
-    "link": "https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
-    "pubDate": "2026-11-27T21:48:54.000Z"
+    "title": "人類はまだWin+Shift+Tで画像に表示された文字をOCRでコピー出来ることを知らない…ただしMicrosoft PowerToysを入れる必要がある",
+    "link": "https://togetter.com/li/2776106",
+    "pubDate": "2026-11-28T12:07:43.000Z"
   },
   {
     "site": "Hatena",
-    "title": "シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化",
-    "link": "https://gigazine.net/news/20261127-d2/",
-    "pubDate": "2026-11-27T14:05:38.000Z"
+    "title": "生成AIは知的労働能力を「ドーピング」することはできるが、「定着」させることはできない - 渋谷駅前で働くデータサイエンティストのブログ",
+    "link": "https://tjo.hatenablog.com/entry/2026/11/28/185602",
+    "pubDate": "2026-11-28T10:03:10.000Z"
   },
   {
     "site": "Hatena",
-    "title": "「ロリポップ！レンタルサーバー」の平文パスワード情報などが漏えい。GMOペパボの内部システムに不正アクセス　顧客情報51万6564件が漏えいの可能性、対象者に個別メール連絡",
-    "link": "https://internet.watch.impress.co.jp/docs/news/2160136.html",
-    "pubDate": "2026-11-27T12:29:54.000Z"
+    "title": "CTOからエンジニアへ",
+    "link": "https://speakerdeck.com/mirakui/20261127-yapc-lt",
+    "pubDate": "2026-11-28T08:36:55.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "パスキーは最強で美しいよ、正しく実装すればね",
+    "link": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
+    "pubDate": "2026-11-28T08:31:00.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "初心者がダイエットアプリ作ってみた【個人開発】",
+    "link": "https://qiita.com/admin2026/items/88d7bf6922da95f2d1c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-28T05:31:28.000Z"
   },
   {
     "site": "Hatena",
-    "title": "【資料公開】コードを書くAI、アーキテクチャーを決める組織",
-    "link": "https://www.ryuzee.com/contents/blog/14629",
-    "pubDate": "2026-11-27T11:42:28.000Z"
+    "title": "データサイエンティストの Claude Code 活用術-Claude Code にデータ分析をさせる方法論",
+    "link": "https://speakerdeck.com/yossyds/deta-saientisuto-no-claude-code-katsuyoujutsu",
+    "pubDate": "2026-11-28T03:03:30.000Z"
   },
   {
     "site": "Hatena",
-    "title": "はじめての Lean",
-    "link": "https://unaoya.github.io/lean-intro/",
-    "pubDate": "2026-11-27T11:19:18.000Z"
+    "title": "腰を守ろう。座り仕事にエルゴノミクスチェアが最適解なわけ【小寺信良のくらしDX】",
+    "link": "https://www.watch.impress.co.jp/docs/series/kodera/2159299.html",
+    "pubDate": "2026-11-28T01:36:42.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "1時間で作るPerlOS: Yet Another Perl Computer",
+    "link": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
+    "pubDate": "Fri, 27 Nov 2026 23:32:57 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
+    "link": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
+    "pubDate": "2026-11-27T23:24:49.000Z"
+  },
+  {
+    "site": "Qiita",
+    "title": "Microsoft Copilot Chat の「フェアユース」 公正使用の制限について",
+    "link": "https://qiita.com/makinono/items/2a224ce24f6674bc27f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-27T23:06:16.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "パスキーは最強で美しいよ、正しく実装すればね",
+    "link": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
+    "pubDate": "Fri, 27 Nov 2026 23:00:52 GMT"
+  },
+  {
+    "site": "Hatena",
+    "title": "通勤流出入マップ",
+    "link": "https://commuter-inflow-map.idoajob.chatgpt.site/?city=none",
+    "pubDate": "2026-11-27T17:41:10.000Z"
+  },
+  {
+    "site": "Zenn",
+    "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
+    "link": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
+    "pubDate": "Fri, 27 Nov 2026 16:15:44 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "[JSC] 数値で構成される配列に対して Array.prototype.flat を高速にした",
+    "link": "https://zenn.dev/itsu_dev/articles/1942c82c2f2e27",
+    "pubDate": "Fri, 27 Nov 2026 11:52:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "思いのままに変換したい〜日本語入力のためのVimプラグインCaskkを作った",
+    "link": "https://zenn.dev/ni57721/articles/vim-caskk-ime",
+    "pubDate": "Fri, 27 Nov 2026 11:00:00 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "Claude Code で KiCad 基板を設計して JLCPCB に発注し、Codex とも同じ条件で比べた",
+    "link": "https://zenn.dev/kzchd/articles/ai-kicad-pihat-claude-codex",
+    "pubDate": "Fri, 27 Nov 2026 10:30:05 GMT"
+  },
+  {
+    "site": "Zenn",
+    "title": "AIのレバレッジはカスタマーフロントから設計する",
+    "link": "https://zenn.dev/knowledge_graph/articles/ai-leverage-customer-front",
+    "pubDate": "Fri, 27 Nov 2026 09:48:29 GMT"
+  },
+  {
+    "site": "Qiita",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 13",
+    "link": "https://qiita.com/maskot1977/items/8f087ebd5eb037db60ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-27T09:01:05.000Z"
   },
   {
     "site": "Qiita",
@@ -36,16 +114,16 @@
     "pubDate": "2026-11-27T08:50:37.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "後回しできる設計、 前倒しすべき設計。",
-    "link": "https://speakerdeck.com/anizozina/akitekucha-kanfarensu-2026-atomawashi-dekiru-sekkei-maedaoshi-subeki-sekkei",
-    "pubDate": "2026-11-27T07:20:50.000Z"
+    "site": "Qiita",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 53",
+    "link": "https://qiita.com/maskot1977/items/ef84cb30925440ea8f3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-27T08:48:40.000Z"
   },
   {
-    "site": "Hatena",
-    "title": "ノンフライヤーはからあげだけじゃない　夕飯作りラクにしてくれるかも",
-    "link": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html",
-    "pubDate": "2026-11-27T07:00:16.000Z"
+    "site": "Zenn",
+    "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
+    "link": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
+    "pubDate": "2026-11-27T08:17:50.000Z"
   },
   {
     "site": "Hatena",
@@ -72,40 +150,10 @@
     "pubDate": "Fri, 27 Nov 2026 02:47:09 GMT"
   },
   {
-    "site": "Zenn",
-    "title": "止められないDBをAWS DMSで移行してハマったこと（RDS for Oracle）",
-    "link": "https://zenn.dev/kiri0728/articles/c8d5f349b047dd",
-    "pubDate": "Fri, 27 Nov 2026 02:37:34 GMT"
-  },
-  {
-    "site": "Hatena",
-    "title": "NumPyroで混合正規分布モデリング - ドワンゴ教育サービス開発者ブログ",
-    "link": "https://blog.nnn.dev/entry/2026/11/27/110000",
-    "pubDate": "2026-11-27T02:33:03.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "日本語のFull-duplex音声対話モデルを実際に動かしてみた話",
-    "link": "https://zenn.dev/knowledgework/articles/12a80d8cd4b21f",
-    "pubDate": "Fri, 27 Nov 2026 02:27:39 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "自宅PCを格安ファイルサーバーとして構築してみた",
-    "link": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-    "pubDate": "Fri, 27 Nov 2026 02:09:30 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "AIエージェントにWebのファイルを取得させるリスクについて考える",
-    "link": "https://zenn.dev/layerx/articles/65b4828efcaee2",
-    "pubDate": "Fri, 27 Nov 2026 01:48:19 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
-    "link": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-    "pubDate": "Thu, 26 Nov 2026 14:08:33 GMT"
+    "site": "Qiita",
+    "title": "エンジニアが見落としがちな5つのアウトプット ～ Qiita・生成AIを活用した実践方法 ～",
+    "link": "https://qiita.com/ayatokura/items/bb2c22e6254cd702ab2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-27T00:22:09.000Z"
   },
   {
     "site": "Qiita",
@@ -115,45 +163,9 @@
   },
   {
     "site": "Qiita",
-    "title": "プレイングマネージャーから抜け出せない人が見落としている3つの視点 ― 権力を「大きく」し、腐らせないために【権力シリーズC】",
-    "link": "https://qiita.com/Nao52/items/d058c43b52d3a115a240?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-26T11:00:02.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "「自分でやった方が早い」が部下を育てない ― 新人リーダーの壁と「自分を超える部下」のつくりかた【権力シリーズB】",
-    "link": "https://qiita.com/Nao52/items/44e3911cb090e90768d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-26T10:57:35.000Z"
-  },
-  {
-    "site": "Qiita",
     "title": "勉強しているのに成長しない？20代エンジニアが「経験」と「体験」を混同してはいけない理由【権力シリーズA】",
     "link": "https://qiita.com/Nao52/items/3151b515e4bf81e97349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "pubDate": "2026-11-26T10:56:27.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "AIに奪われない「たった1つの力」は権力だった ― 静かな退職を選ぶ前に知っておきたいこと【シリーズ総論】",
-    "link": "https://qiita.com/Nao52/items/743523a57a4d67cf34fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-26T10:55:13.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "悪気なくメンバーの思考を奪っていないか？現場で見た「デミニッシャー」と「マルチプライヤー」の決定的な違い",
-    "link": "https://qiita.com/human_hub_T/items/b7254cda7d0ce81dac85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-26T09:54:39.000Z"
-  },
-  {
-    "site": "Zenn",
-    "title": "自動運転の予測軌跡の可視化動画を誰でも高速に作れるようにする",
-    "link": "https://zenn.dev/turing_motors/articles/cbf9872ca90166",
-    "pubDate": "Thu, 26 Nov 2026 08:00:08 GMT"
-  },
-  {
-    "site": "Zenn",
-    "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
-    "link": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-    "pubDate": "Thu, 26 Nov 2026 07:01:54 GMT"
   },
   {
     "site": "Qiita",
@@ -163,20 +175,8 @@
   },
   {
     "site": "Qiita",
-    "title": "コピペでSSHしていた初心者が、仕組みから学び直してみる",
-    "link": "https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-25T03:08:11.000Z"
-  },
-  {
-    "site": "Qiita",
-    "title": "生成 AI で時間は本当に減ったのか 減った時間で何を生んだのか",
-    "link": "https://qiita.com/Takashi_Masumori/items/78a8d6589e7429d029d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "pubDate": "2026-11-25T00:31:30.000Z"
-  },
-  {
-    "site": "Hatena",
-    "title": "YAPC::Asia Tokyo 2010 Keynoteを観た - 生涯未熟",
-    "link": "https://syossan.hateblo.jp/entry/2026/09/08/093000",
-    "pubDate": "2026-09-08T00:57:41.000Z"
+    "title": "【合格体験記】G検定、勉強40時間。本番145問100分はエグい！",
+    "link": "https://qiita.com/Shinn_Matsumoto/items/310d5eff7fcbcbd044f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "pubDate": "2026-11-25T09:40:00.000Z"
   }
 ]
